@@ -1,0 +1,1 @@
+{"tmdb_id": 234735, "title": "From Dime to Dime", "original_title": "From Dime to Dime", "slug_title": "from-dime-to-dime", "date": "1960-03-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 195852, "title": "The Last Clean Shirt", "original_title": "The Last Clean Shirt", "slug_title": "the-last-clean-shirt", "date": "1964-03-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j20jei0fMrazmgNRtYsUo2X6cSp.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 450814, "title": "ONE Championship 30: Dynasty of Champions", "original_title": "ONE Championship 30: Dynasty of Champions", "slug_title": "one-championship-30-dynasty-of-champions", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

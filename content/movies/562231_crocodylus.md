@@ -1,0 +1,1 @@
+{"tmdb_id": 562231, "title": "Crocodylus", "original_title": "Crocodylus", "slug_title": "crocodylus", "date": "2019-01-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/djiN5MptjXTHY2o3jm5sy1hggCF.jpg", "actors": [], "comments": [], "recommandations_id": []}

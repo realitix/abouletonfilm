@@ -1,0 +1,1 @@
+{"tmdb_id": 573317, "title": "Kulturmagazin Prisma Inter Nationes", "original_title": "Kulturmagazin Prisma Inter Nationes", "slug_title": "kulturmagazin-prisma-inter-nationes", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

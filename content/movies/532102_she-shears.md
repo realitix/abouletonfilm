@@ -1,0 +1,1 @@
+{"tmdb_id": 532102, "title": "She Shears", "original_title": "She Shears", "slug_title": "she-shears", "date": "2018-08-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6Pos1U4Cnn9K226zjyRcHNTYHPh.jpg", "actors": [], "comments": [], "recommandations_id": []}

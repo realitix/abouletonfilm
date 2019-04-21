@@ -1,0 +1,1 @@
+{"tmdb_id": 588979, "title": "L'affaire Val\u00e9rie", "original_title": "L'affaire Val\u00e9rie", "slug_title": "l-affaire-valerie", "date": "2004-07-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/86uIm96FLjCeCTGY2WHIjv9lKwy.jpg", "actors": [], "comments": [], "recommandations_id": []}

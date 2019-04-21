@@ -1,0 +1,1 @@
+{"tmdb_id": 504665, "title": "Classic Horror Trailers", "original_title": "Classic Horror Trailers", "slug_title": "classic-horror-trailers", "date": "2012-02-18", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

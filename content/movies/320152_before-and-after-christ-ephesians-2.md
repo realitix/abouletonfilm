@@ -1,0 +1,1 @@
+{"tmdb_id": 320152, "title": "Before and After Christ (Ephesians #2)", "original_title": "Before and After Christ (Ephesians #2)", "slug_title": "before-and-after-christ-ephesians-2", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

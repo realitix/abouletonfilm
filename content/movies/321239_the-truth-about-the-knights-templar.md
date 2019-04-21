@@ -1,0 +1,1 @@
+{"tmdb_id": 321239, "title": "The Truth about the Knights Templar", "original_title": "The Truth about the Knights Templar", "slug_title": "the-truth-about-the-knights-templar", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

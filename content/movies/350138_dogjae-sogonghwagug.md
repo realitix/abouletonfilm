@@ -1,0 +1,1 @@
+{"tmdb_id": 350138, "title": "\ub3c5\uc7ac \uc18c\uacf5\ud654\uad6d", "original_title": "\ub3c5\uc7ac \uc18c\uacf5\ud654\uad6d", "slug_title": "dogjae-sogonghwagug", "date": "1991-04-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

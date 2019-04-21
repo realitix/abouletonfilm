@@ -1,0 +1,1 @@
+{"tmdb_id": 588833, "title": "Arth\u00e8me sorcier", "original_title": "Arth\u00e8me sorcier", "slug_title": "artheme-sorcier", "date": "1913-03-17", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ernest Serva\u00e8s (Arth\u00e8me)"], "comments": [], "recommandations_id": []}

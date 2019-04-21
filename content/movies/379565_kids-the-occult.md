@@ -1,0 +1,1 @@
+{"tmdb_id": 379565, "title": "Kids & The Occult", "original_title": "Kids & The Occult", "slug_title": "kids-the-occult", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9XyXzRA07pKpxkdwPfq4FaQw2bW.jpg", "actors": ["Paul Carlin ()", "John Hagee (Presenter)"], "comments": [], "recommandations_id": []}

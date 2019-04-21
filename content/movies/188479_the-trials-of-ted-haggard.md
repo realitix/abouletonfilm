@@ -1,0 +1,1 @@
+{"tmdb_id": 188479, "title": "The Trials of Ted Haggard", "original_title": "The Trials of Ted Haggard", "slug_title": "the-trials-of-ted-haggard", "date": "2009-01-29", "genre": "Documentaire", "score": "5.9/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/62161i8crzxj1Yrh2w8GUF34tJM.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 381786, "title": "Anna's Life", "original_title": "Anas Ckhovreba", "slug_title": "anna-s-life", "date": "2017-06-16", "genre": "Drame", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1X8kMacHuZqp8lMnSsqa22e4Lwx.jpg", "actors": ["Ekaterine Demetradze (Anna)"], "comments": [], "recommandations_id": []}

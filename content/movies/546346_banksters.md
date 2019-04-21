@@ -1,0 +1,1 @@
+{"tmdb_id": 546346, "title": "Banksters", "original_title": "Banksters", "slug_title": "banksters", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ciKciPO7JMlgWv2FcWuivvbybdD.jpg", "actors": [], "comments": [], "recommandations_id": []}

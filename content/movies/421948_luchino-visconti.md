@@ -1,0 +1,1 @@
+{"tmdb_id": 421948, "title": "Luchino Visconti", "original_title": "Luchino Visconti", "slug_title": "luchino-visconti", "date": "1999-09-06", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hLOC97jZZs9yXrjaiXPxNhBniIk.jpg", "actors": [], "comments": [], "recommandations_id": []}

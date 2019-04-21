@@ -1,0 +1,1 @@
+{"tmdb_id": 421015, "title": "The Wireless Generation", "original_title": "The Wireless Generation", "slug_title": "the-wireless-generation", "date": "2015-02-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Awjf00ehcEtrG5faQ0SRxSJMclS.jpg", "actors": [], "comments": [], "recommandations_id": []}

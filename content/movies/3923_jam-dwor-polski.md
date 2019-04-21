@@ -1,0 +1,1 @@
+{"tmdb_id": 3923, "title": "Jam Dw\u00f3r Polski", "original_title": "Jam Dw\u00f3r Polski", "slug_title": "jam-dwor-polski", "date": "1990-11-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

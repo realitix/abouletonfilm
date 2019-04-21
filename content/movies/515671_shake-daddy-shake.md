@@ -1,0 +1,1 @@
+{"tmdb_id": 515671, "title": "Shake Daddy Shake", "original_title": "Shake Daddy Shake", "slug_title": "shake-daddy-shake", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

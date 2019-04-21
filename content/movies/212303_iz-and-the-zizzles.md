@@ -1,0 +1,1 @@
+{"tmdb_id": 212303, "title": "iZ and the Zizzles", "original_title": "iZ and the Zizzles", "slug_title": "iz-and-the-zizzles", "date": "2007-03-13", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xfIqQy3pylO4PsYMxahngreAiFn.jpg", "actors": ["D. Kevin Williams ()"], "comments": [], "recommandations_id": []}

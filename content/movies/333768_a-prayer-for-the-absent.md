@@ -1,0 +1,1 @@
+{"tmdb_id": 333768, "title": "A Prayer for the Absent", "original_title": "La pri\u00e8re de l'absent", "slug_title": "a-prayer-for-the-absent", "date": "1995-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sa\u00e2dia Azgoune ()", "Hamid Basket ()", "Ahmed Tayeb Laalej ()"], "comments": [], "recommandations_id": []}

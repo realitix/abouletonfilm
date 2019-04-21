@@ -1,0 +1,1 @@
+{"tmdb_id": 519250, "title": "The Ghosts of Dunwich", "original_title": "The Ghosts of Dunwich", "slug_title": "the-ghosts-of-dunwich", "date": "2011-05-10", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Chris Halton (Himself)"], "comments": [], "recommandations_id": []}

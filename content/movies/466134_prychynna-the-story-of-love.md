@@ -1,0 +1,1 @@
+{"tmdb_id": 466134, "title": "Prychynna. The Story of Love", "original_title": "\u041f\u0440\u0438\u0447\u0438\u043d\u043d\u0430", "slug_title": "prychynna-the-story-of-love", "date": "2017-07-20", "genre": "Romance / Animation / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

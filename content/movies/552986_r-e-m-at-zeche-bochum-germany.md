@@ -1,0 +1,1 @@
+{"tmdb_id": 552986, "title": "R.E.M. at Zeche, Bochum, Germany", "original_title": "R.E.M. at Zeche, Bochum, Germany", "slug_title": "r-e-m-at-zeche-bochum-germany", "date": "1985-10-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

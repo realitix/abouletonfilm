@@ -1,0 +1,1 @@
+{"tmdb_id": 30420, "title": "Animas", "original_title": "Animas", "slug_title": "animas", "date": "1998-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9mfniKmnkuh9ZG6hV8nudunY4Fu.jpg", "actors": ["Tony Zenet (Fredo / Abel)", "Paul Naschy (Fernando Luciano)"], "comments": [], "recommandations_id": []}

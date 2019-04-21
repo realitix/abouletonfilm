@@ -1,0 +1,1 @@
+{"tmdb_id": 526273, "title": "Kirkastettu syd\u00e4n", "original_title": "Kirkastettu syd\u00e4n", "slug_title": "kirkastettu-sydan", "date": "1943-12-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

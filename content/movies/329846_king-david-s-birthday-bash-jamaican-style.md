@@ -1,0 +1,1 @@
+{"tmdb_id": 329846, "title": "King David's Birthday Bash - Jamaican Style", "original_title": "King David's Birthday Bash - Jamaican Style", "slug_title": "king-david-s-birthday-bash-jamaican-style", "date": "2014-10-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 375850, "title": "Hats of Jerusalem", "original_title": "Hats of Jerusalem", "slug_title": "hats-of-jerusalem", "date": "2006-10-06", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Irmi Kaplan (Narrator (voice))"], "comments": [], "recommandations_id": []}

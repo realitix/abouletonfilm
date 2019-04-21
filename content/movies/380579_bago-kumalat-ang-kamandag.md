@@ -1,0 +1,1 @@
+{"tmdb_id": 380579, "title": "Bago Kumalat ang Kamandag", "original_title": "Bago Kumalat ang Kamandag", "slug_title": "bago-kumalat-ang-kamandag", "date": "1983-12-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Amik3T1Pc4LMOCr3PdxXe0OGYms.jpg", "actors": [], "comments": [], "recommandations_id": []}

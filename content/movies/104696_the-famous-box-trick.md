@@ -1,0 +1,1 @@
+{"tmdb_id": 104696, "title": "The Famous Box Trick", "original_title": "Illusions fantasmagoriques", "slug_title": "the-famous-box-trick", "date": "1898-01-01", "genre": "Fantastique", "score": "6.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w5WIR2APRciT26H8d5LuqjZuUUS.jpg", "actors": [], "comments": [], "recommandations_id": []}

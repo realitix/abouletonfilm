@@ -1,0 +1,1 @@
+{"tmdb_id": 357698, "title": "41/82 Getting Warm", "original_title": "41/82 Getting Warm", "slug_title": "41-82-getting-warm", "date": "1982-09-03", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uCxun8NhZiwciVLnmxPKkMjp08k.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 367220, "title": "The Blob", "original_title": "The Blob", "slug_title": "the-blob", "date": "", "genre": "Science-Fiction / Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5xOqbSEswdHLAuXDzpahTMnTHA2.jpg", "actors": ["Samuel L. Jackson ()", "Halle Berry ()"], "comments": [], "recommandations_id": []}

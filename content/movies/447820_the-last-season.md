@@ -1,0 +1,1 @@
+{"tmdb_id": 447820, "title": "The Last Season", "original_title": "The Last Season", "slug_title": "the-last-season", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

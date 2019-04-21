@@ -1,0 +1,1 @@
+{"tmdb_id": 275982, "title": "Olrick Johnson Jr.: Bless My Soul", "original_title": "Olrick Johnson Jr.: Bless My Soul", "slug_title": "olrick-johnson-jr-bless-my-soul", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

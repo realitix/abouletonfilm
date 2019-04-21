@@ -1,0 +1,1 @@
+{"tmdb_id": 373980, "title": "The Real Bronson", "original_title": "The Real Bronson", "slug_title": "the-real-bronson", "date": "2010-12-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7VeigaCnl8qTC3v8onLORFFLnh4.jpg", "actors": [], "comments": [], "recommandations_id": []}

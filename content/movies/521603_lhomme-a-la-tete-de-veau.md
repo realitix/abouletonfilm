@@ -1,0 +1,1 @@
+{"tmdb_id": 521603, "title": "L\u2019Homme \u00e0 la t\u00eate de veau", "original_title": "L\u2019Homme \u00e0 la t\u00eate de veau", "slug_title": "lhomme-a-la-tete-de-veau", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

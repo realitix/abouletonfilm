@@ -1,0 +1,1 @@
+{"tmdb_id": 583787, "title": "Yi chu hao xi", "original_title": "Yi chu hao xi", "slug_title": "yi-chu-hao-xi", "date": "2018-08-09", "genre": "Com\u00e9die / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

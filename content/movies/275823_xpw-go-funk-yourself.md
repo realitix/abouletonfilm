@@ -1,0 +1,1 @@
+{"tmdb_id": 275823, "title": "XPW: Go Funk Yourself", "original_title": "XPW: Go Funk Yourself", "slug_title": "xpw-go-funk-yourself", "date": "2000-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

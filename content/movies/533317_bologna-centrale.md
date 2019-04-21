@@ -1,0 +1,1 @@
+{"tmdb_id": 533317, "title": "Bologna centrale", "original_title": "Bologna centrale", "slug_title": "bologna-centrale", "date": "2004-05-26", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wfu18DDhXCzurePALMLLHVlI7hj.jpg", "actors": [], "comments": [], "recommandations_id": []}

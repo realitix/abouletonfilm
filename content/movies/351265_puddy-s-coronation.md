@@ -1,0 +1,1 @@
+{"tmdb_id": 351265, "title": "Puddy's Coronation", "original_title": "Puddy's Coronation", "slug_title": "puddy-s-coronation", "date": "1937-05-13", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

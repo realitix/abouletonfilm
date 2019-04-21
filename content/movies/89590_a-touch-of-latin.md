@@ -1,0 +1,1 @@
+{"tmdb_id": 89590, "title": "a touch of latin", "original_title": "a touch of latin", "slug_title": "a-touch-of-latin", "date": "", "genre": "Drame / Thriller / Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kDkZ8vADjiGGCGPUW8qhy0bTBYq.jpg", "actors": ["Ruth Jacott (Herself)"], "comments": [], "recommandations_id": []}

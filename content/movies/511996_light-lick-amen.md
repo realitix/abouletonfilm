@@ -1,0 +1,1 @@
+{"tmdb_id": 511996, "title": "Light Lick: Amen", "original_title": "Light Lick: Amen", "slug_title": "light-lick-amen", "date": "2017-08-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

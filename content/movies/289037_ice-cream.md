@@ -1,0 +1,1 @@
+{"tmdb_id": 289037, "title": "Ice Cream", "original_title": "Dondurma", "slug_title": "ice-cream", "date": "2014-09-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ebru Ojen \u015eahin (Mother)", "Rojhat Deli (Rojhat)", "Ubeydullah Hakan (Ice Cream Seller)"], "comments": [], "recommandations_id": []}

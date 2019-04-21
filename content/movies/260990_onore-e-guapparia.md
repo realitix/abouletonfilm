@@ -1,0 +1,1 @@
+{"tmdb_id": 260990, "title": "Onore e guapparia", "original_title": "Onore e guapparia", "slug_title": "onore-e-guapparia", "date": "1977-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9ESilBfzSVZICnrNAFdyYpgZYK0.jpg", "actors": ["Pino Mauro ()"], "comments": [], "recommandations_id": []}

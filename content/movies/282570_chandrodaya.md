@@ -1,0 +1,1 @@
+{"tmdb_id": 282570, "title": "Chandrodaya", "original_title": "Chandrodaya", "slug_title": "chandrodaya", "date": "2014-07-18", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Shivaraj Kumar ()", "Ramesh Aravind ()", "Prema ()"], "comments": [], "recommandations_id": []}

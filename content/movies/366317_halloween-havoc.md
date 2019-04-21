@@ -1,0 +1,1 @@
+{"tmdb_id": 366317, "title": "Halloween Havoc!", "original_title": "Halloween Havoc!", "slug_title": "halloween-havoc", "date": "2014-09-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u03twCdBFNGpFEoDpCWMbDrfKzx.jpg", "actors": [], "comments": [], "recommandations_id": []}

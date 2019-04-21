@@ -1,0 +1,1 @@
+{"tmdb_id": 419209, "title": "One Minute in China", "original_title": "\u4e00\u5206\u9418\u5728\u4e2d\u570b", "slug_title": "one-minute-in-china", "date": "2017-06-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sJyjUD4GAIHHF1eTQYIZR1ab121.jpg", "actors": [], "comments": [], "recommandations_id": []}

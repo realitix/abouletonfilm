@@ -1,0 +1,1 @@
+{"tmdb_id": 459824, "title": "Sunday's Best", "original_title": "Sunday's Best", "slug_title": "sunday-s-best", "date": "2016-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

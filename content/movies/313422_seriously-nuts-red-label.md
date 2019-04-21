@@ -1,0 +1,1 @@
+{"tmdb_id": 313422, "title": "Seriously Nuts: Red Label", "original_title": "Seriously Nuts: Red Label", "slug_title": "seriously-nuts-red-label", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 277526, "title": "La c\u00e1scara", "original_title": "La c\u00e1scara", "slug_title": "la-cascara", "date": "2007-09-20", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Adt2kdOmtq7OSaSHvazRVuD4hvP.jpg", "actors": [], "comments": [], "recommandations_id": []}

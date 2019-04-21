@@ -1,0 +1,1 @@
+{"tmdb_id": 560097, "title": "Arroyo de la luz", "original_title": "Arroyo de la luz", "slug_title": "arroyo-de-la-luz", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

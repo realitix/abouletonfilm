@@ -1,0 +1,1 @@
+{"tmdb_id": 315229, "title": "Dire Staits - Solid Rock", "original_title": "Dire Staits - Solid Rock", "slug_title": "dire-staits-solid-rock", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

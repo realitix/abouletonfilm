@@ -1,0 +1,1 @@
+{"tmdb_id": 443866, "title": "Yoshichiro Salutes", "original_title": "Yoshichiro no keirei", "slug_title": "yoshichiro-salutes", "date": "1933-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

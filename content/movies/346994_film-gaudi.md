@@ -1,0 +1,1 @@
+{"tmdb_id": 346994, "title": "Film-Gaudi", "original_title": "Film-Gaudi", "slug_title": "film-gaudi", "date": "1975-06-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9DO5X1kXqyFgMuyAKWyLEOTpDLw.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 113342, "title": "Squatterpunk", "original_title": "Iskwaterpangk", "slug_title": "squatterpunk", "date": "2007-01-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eQBHyJMpqOufD1UT5vZ9gnfBPAG.jpg", "actors": ["Hapon (Himself)"], "comments": [], "recommandations_id": []}

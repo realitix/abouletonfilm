@@ -1,0 +1,1 @@
+{"tmdb_id": 511050, "title": "Private Nightmare", "original_title": "Alomfejto", "slug_title": "private-nightmare", "date": "1980-03-10", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aJGYNrH79Li2oID6AVCNQpYZl2.jpg", "actors": [], "comments": [], "recommandations_id": []}

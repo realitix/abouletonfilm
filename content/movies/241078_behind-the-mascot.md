@@ -1,0 +1,1 @@
+{"tmdb_id": 241078, "title": "Behind the Mascot", "original_title": "Behind the Mascot", "slug_title": "behind-the-mascot", "date": "2004-09-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4SyA6fycZfSSLJ1qrKK8qOnRFen.jpg", "actors": [], "comments": [], "recommandations_id": []}

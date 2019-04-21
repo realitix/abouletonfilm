@@ -1,0 +1,1 @@
+{"tmdb_id": 581794, "title": "The Creed of Violence", "original_title": "The Creed of Violence", "slug_title": "the-creed-of-violence", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Daniel Craig (Rawbone)"], "comments": [], "recommandations_id": []}

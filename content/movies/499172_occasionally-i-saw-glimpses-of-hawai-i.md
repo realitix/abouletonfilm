@@ -1,0 +1,1 @@
+{"tmdb_id": 499172, "title": "Occasionally, I Saw Glimpses of Hawai'i", "original_title": "Occasionally, I Saw Glimpses of Hawai'i", "slug_title": "occasionally-i-saw-glimpses-of-hawai-i", "date": "2016-11-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

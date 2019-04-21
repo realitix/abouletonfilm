@@ -1,0 +1,1 @@
+{"tmdb_id": 582105, "title": "D.C. I&II P.S.P. Re-Animated", "original_title": "D.C. I&II P.S.P. Re-Animated", "slug_title": "d-c-i-ii-p-s-p-re-animated", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lCnfsu7qbkGvuv7MUhkzwXGsfLh.jpg", "actors": [], "comments": [], "recommandations_id": []}

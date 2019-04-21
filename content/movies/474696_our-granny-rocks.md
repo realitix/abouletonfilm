@@ -1,0 +1,1 @@
+{"tmdb_id": 474696, "title": "Our Granny Rocks!", "original_title": "M\u016bsu Ome Rull\u0113!", "slug_title": "our-granny-rocks", "date": "2017-04-05", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oyTOcabwvl6dbEDyHvtPGXmzcgm.jpg", "actors": [], "comments": [], "recommandations_id": []}

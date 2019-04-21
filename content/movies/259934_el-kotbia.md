@@ -1,0 +1,1 @@
+{"tmdb_id": 259934, "title": "El kotbia", "original_title": "El kotbia", "slug_title": "el-kotbia", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

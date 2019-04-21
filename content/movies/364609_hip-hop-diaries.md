@@ -1,0 +1,1 @@
+{"tmdb_id": 364609, "title": "Hip Hop Diaries", "original_title": "Hip Hop Diaries", "slug_title": "hip-hop-diaries", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

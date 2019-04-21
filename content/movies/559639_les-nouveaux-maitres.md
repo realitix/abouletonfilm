@@ -1,0 +1,1 @@
+{"tmdb_id": 559639, "title": "Les nouveaux ma\u00eetres", "original_title": "Les nouveaux ma\u00eetres", "slug_title": "les-nouveaux-maitres", "date": "1950-05-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/59q6jge7XmMqady1DPOs4Uqw1nR.jpg", "actors": [], "comments": [], "recommandations_id": []}

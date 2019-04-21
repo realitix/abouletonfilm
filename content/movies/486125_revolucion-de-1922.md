@@ -1,0 +1,1 @@
+{"tmdb_id": 486125, "title": "Revoluci\u00f3n de 1922", "original_title": "Revoluci\u00f3n de 1922", "slug_title": "revolucion-de-1922", "date": "1922-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 541357, "title": "Sunspots and Solar Flares", "original_title": "Sunspots and Solar Flares", "slug_title": "sunspots-and-solar-flares", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

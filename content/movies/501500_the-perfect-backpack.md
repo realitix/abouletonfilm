@@ -1,0 +1,1 @@
+{"tmdb_id": 501500, "title": "The Perfect Backpack", "original_title": "La mochila perfecta", "slug_title": "the-perfect-backpack", "date": "2014-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 315208, "title": "Mar brava", "original_title": "Mar brava", "slug_title": "mar-brava", "date": "1983-08-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Alma Muriel (Paula)", "Alfredo Mayo (Anchoa)", "Jorge Sanz (Mingo)"], "comments": [], "recommandations_id": []}

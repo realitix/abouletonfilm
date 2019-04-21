@@ -1,0 +1,1 @@
+{"tmdb_id": 536152, "title": "Radio Moscow - Crossroads Festival", "original_title": "Radio Moscow - Crossroads Festival", "slug_title": "radio-moscow-crossroads-festival", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/euvNMvkhfiCUh2gq3nV61YW51LX.jpg", "actors": [], "comments": [], "recommandations_id": []}

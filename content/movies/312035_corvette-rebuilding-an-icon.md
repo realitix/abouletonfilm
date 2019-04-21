@@ -1,0 +1,1 @@
+{"tmdb_id": 312035, "title": "Corvette: Rebuilding an Icon", "original_title": "Corvette: Rebuilding an Icon", "slug_title": "corvette-rebuilding-an-icon", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

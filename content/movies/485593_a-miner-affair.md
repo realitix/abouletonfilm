@@ -1,0 +1,1 @@
+{"tmdb_id": 485593, "title": "A Miner Affair", "original_title": "A Miner Affair", "slug_title": "a-miner-affair", "date": "1945-10-31", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Andy Clyde (Andy Clyde)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 317784, "title": "Red River Rivalry: Texas vs. Oklahoma", "original_title": "Red River Rivalry: Texas vs. Oklahoma", "slug_title": "red-river-rivalry-texas-vs-oklahoma", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

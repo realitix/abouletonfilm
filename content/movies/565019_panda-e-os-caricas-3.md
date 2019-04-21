@@ -1,0 +1,1 @@
+{"tmdb_id": 565019, "title": "Panda e os Caricas 3", "original_title": "Panda e os Caricas 3", "slug_title": "panda-e-os-caricas-3", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xpsHBrjcPWLp466uDRfPCflx6f8.jpg", "actors": [], "comments": [], "recommandations_id": []}

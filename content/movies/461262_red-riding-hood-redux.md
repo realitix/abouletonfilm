@@ -1,0 +1,1 @@
+{"tmdb_id": 461262, "title": "Red Riding Hood Redux", "original_title": "Crvenkapica redux", "slug_title": "red-riding-hood-redux", "date": "2017-06-09", "genre": "Animation / Fantastique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/esjsbrfRU4LEEBzThd5MoI04hw3.jpg", "actors": [], "comments": [], "recommandations_id": []}

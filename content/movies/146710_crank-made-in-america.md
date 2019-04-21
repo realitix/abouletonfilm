@@ -1,0 +1,1 @@
+{"tmdb_id": 146710, "title": "Crank Made In America", "original_title": "Crank Made In America", "slug_title": "crank-made-in-america", "date": "2003-11-29", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aGqHOt1vtXDN4fNDEdJJYb4kHze.jpg", "actors": [], "comments": [], "recommandations_id": []}

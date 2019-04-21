@@ -1,0 +1,1 @@
+{"tmdb_id": 511675, "title": "Jackal Stories", "original_title": "Cuentos de chacales", "slug_title": "jackal-stories", "date": "2017-09-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hgGjgdLD4O3lLcNrLBIFOeWKgH7.jpg", "actors": [], "comments": [], "recommandations_id": []}

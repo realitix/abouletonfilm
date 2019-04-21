@@ -1,0 +1,1 @@
+{"tmdb_id": 469569, "title": "Far Away in Asia", "original_title": "\u0414\u0430\u043b\u0435\u043a\u043e \u0432 \u0410\u0437\u0438\u0438", "slug_title": "far-away-in-asia", "date": "1931-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

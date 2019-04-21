@@ -1,0 +1,1 @@
+{"tmdb_id": 483753, "title": "Humanity Hyuck Hyuck!!!", "original_title": "Humanity Hyuck Hyuck!!!", "slug_title": "humanity-hyuck-hyuck", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Josh Owen (voice)", "Alex Chisholm (human)"], "comments": [], "recommandations_id": []}

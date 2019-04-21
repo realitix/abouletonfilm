@@ -1,0 +1,1 @@
+{"tmdb_id": 423250, "title": "Kagaar: Life on the Edge", "original_title": "Kagaar: Life on the Edge", "slug_title": "kagaar-life-on-the-edge", "date": "2003-10-03", "genre": "Drame / Crime", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/605l71uGJv4NA073uooCPQwyzci.jpg", "actors": [], "comments": [], "recommandations_id": []}

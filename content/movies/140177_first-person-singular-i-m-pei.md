@@ -1,0 +1,1 @@
+{"tmdb_id": 140177, "title": "First Person Singular: I.M. Pei", "original_title": "First Person Singular: I.M. Pei", "slug_title": "first-person-singular-i-m-pei", "date": "1997-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9KqgOAEBlUVZ3UNjkwupLRTMvcS.jpg", "actors": [], "comments": [], "recommandations_id": []}

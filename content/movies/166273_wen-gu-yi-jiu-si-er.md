@@ -1,0 +1,1 @@
+{"tmdb_id": 166273, "title": "\u6e29\u6545\u4e00\u4e5d\u56db\u4e8c", "original_title": "\u6e29\u6545\u4e00\u4e5d\u56db\u4e8c", "slug_title": "wen-gu-yi-jiu-si-er", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lMvNJ5qEwwm7BxDChCqHOkP4lkF.jpg", "actors": [], "comments": [], "recommandations_id": []}

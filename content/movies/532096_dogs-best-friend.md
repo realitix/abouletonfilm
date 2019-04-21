@@ -1,0 +1,1 @@
+{"tmdb_id": 532096, "title": "Dog\u2019s Best Friend", "original_title": "Dog\u2019s Best Friend", "slug_title": "dogs-best-friend", "date": "2017-10-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

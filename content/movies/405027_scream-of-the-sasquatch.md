@@ -1,0 +1,1 @@
+{"tmdb_id": 405027, "title": "Scream of the Sasquatch", "original_title": "Scream of the Sasquatch", "slug_title": "scream-of-the-sasquatch", "date": "2006-06-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

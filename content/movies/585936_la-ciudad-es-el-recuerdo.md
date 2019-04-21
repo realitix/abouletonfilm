@@ -1,0 +1,1 @@
+{"tmdb_id": 585936, "title": "La ciudad es el recuerdo", "original_title": "La ciudad es el recuerdo", "slug_title": "la-ciudad-es-el-recuerdo", "date": "1978-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cKHWA5HJyMcu2zstQ6kwQEieyR9.jpg", "actors": [], "comments": [], "recommandations_id": []}

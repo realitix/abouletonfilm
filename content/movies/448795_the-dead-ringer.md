@@ -1,0 +1,1 @@
+{"tmdb_id": 448795, "title": "The Dead Ringer", "original_title": "The Dead Ringer", "slug_title": "the-dead-ringer", "date": "2016-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

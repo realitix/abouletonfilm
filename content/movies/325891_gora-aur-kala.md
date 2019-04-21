@@ -1,0 +1,1 @@
+{"tmdb_id": 325891, "title": "Gora Aur Kala", "original_title": "Gora Aur Kala", "slug_title": "gora-aur-kala", "date": "1972-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wClzh8p7nDF1sWxAvfubiKE9eRI.jpg", "actors": [], "comments": [], "recommandations_id": []}

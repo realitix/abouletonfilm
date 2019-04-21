@@ -1,0 +1,1 @@
+{"tmdb_id": 435731, "title": "Das Hemd", "original_title": "Das Hemd", "slug_title": "das-hemd", "date": "2010-01-18", "genre": "", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eBik2dF6ymV8kWgK0L6tquYkCHx.jpg", "actors": ["Johannes Allmayer (Markus)", "Michael Schweigh\u00f6fer (Walter)"], "comments": [], "recommandations_id": []}

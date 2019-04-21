@@ -1,0 +1,1 @@
+{"tmdb_id": 307865, "title": "Buddimantudu", "original_title": "Buddimantudu", "slug_title": "buddimantudu", "date": "1969-09-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

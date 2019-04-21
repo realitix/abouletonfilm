@@ -1,0 +1,1 @@
+{"tmdb_id": 271728, "title": "The Last of the Babingas", "original_title": "Le dernier des Babingas", "slug_title": "the-last-of-the-babingas", "date": "1990-01-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 67902, "title": "Aha Naa Pellanta", "original_title": "Aha Naa Pellanta", "slug_title": "aha-naa-pellanta", "date": "2011-03-02", "genre": "", "score": "5.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mmM37vfuVwlyjnv6Bb4df8tXs1i.jpg", "actors": ["Allari Naresh ()"], "comments": [], "recommandations_id": []}

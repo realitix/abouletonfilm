@@ -1,0 +1,1 @@
+{"tmdb_id": 417822, "title": "Brutal Colors", "original_title": "Brutal Colors", "slug_title": "brutal-colors", "date": "", "genre": "", "score": "2.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qMuz8j2cY1Sw0woGVOaXf3p3B1V.jpg", "actors": [], "comments": [], "recommandations_id": []}

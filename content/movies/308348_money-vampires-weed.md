@@ -1,0 +1,1 @@
+{"tmdb_id": 308348, "title": "Money, Vampires & Weed", "original_title": "Money, Vampires & Weed", "slug_title": "money-vampires-weed", "date": "", "genre": "", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

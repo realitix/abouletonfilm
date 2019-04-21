@@ -1,0 +1,1 @@
+{"tmdb_id": 93147, "title": "Harano Din", "original_title": "Harano Din", "slug_title": "harano-din", "date": "1961-01-01", "genre": "Romance / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Azim ()", "Subhash Dutta ()", "\tMisbah ()", "Mustafa ()", "Rahman ()", "Shabnam ()"], "comments": [], "recommandations_id": []}

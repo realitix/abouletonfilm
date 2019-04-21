@@ -1,0 +1,1 @@
+{"tmdb_id": 498997, "title": "On Construction of Griffith' Films", "original_title": "Zur Bauweise des Films bei Griffith", "slug_title": "on-construction-of-griffith-films", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

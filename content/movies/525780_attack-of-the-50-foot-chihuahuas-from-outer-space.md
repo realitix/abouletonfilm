@@ -1,0 +1,1 @@
+{"tmdb_id": 525780, "title": "Attack of the 50 Foot Chihuahuas from Outer Space", "original_title": "Attack of the 50 Foot Chihuahuas from Outer Space", "slug_title": "attack-of-the-50-foot-chihuahuas-from-outer-space", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

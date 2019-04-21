@@ -1,0 +1,1 @@
+{"tmdb_id": 341047, "title": "Chainsaw Found Jesus", "original_title": "Chainsaw Found Jesus", "slug_title": "chainsaw-found-jesus", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sonny Carl Davis (Mr Giles)"], "comments": [], "recommandations_id": []}

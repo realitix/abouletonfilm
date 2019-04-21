@@ -1,0 +1,1 @@
+{"tmdb_id": 587540, "title": "Through Babette's Eyes", "original_title": "Le Regard de Babette", "slug_title": "through-babette-s-eyes", "date": "2012-11-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["St\u00e9phane Audran (Interviewee)", "Ga\u00ebl Golhen (Interviewer)"], "comments": [], "recommandations_id": []}

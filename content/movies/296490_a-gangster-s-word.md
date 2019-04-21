@@ -1,0 +1,1 @@
+{"tmdb_id": 296490, "title": "A Gangster's Word", "original_title": "A Gangster's Word", "slug_title": "a-gangster-s-word", "date": "2013-11-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

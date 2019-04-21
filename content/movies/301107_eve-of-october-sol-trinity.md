@@ -1,0 +1,1 @@
+{"tmdb_id": 301107, "title": "Eve of October: Sol Trinity", "original_title": "Eve of October: Sol Trinity", "slug_title": "eve-of-october-sol-trinity", "date": "2014-04-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

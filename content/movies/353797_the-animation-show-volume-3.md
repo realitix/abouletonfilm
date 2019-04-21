@@ -1,0 +1,1 @@
+{"tmdb_id": 353797, "title": "The Animation Show, Volume 3", "original_title": "The Animation Show, Volume 3", "slug_title": "the-animation-show-volume-3", "date": "2007-01-17", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j6orYmR7OIDDCC2FqaDA4H1QkOV.jpg", "actors": [], "comments": [], "recommandations_id": []}

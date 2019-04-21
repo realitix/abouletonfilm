@@ -1,0 +1,1 @@
+{"tmdb_id": 539979, "title": "Reader Rabbit - Wordville Soup", "original_title": "Reader Rabbit - Wordville Soup", "slug_title": "reader-rabbit-wordville-soup", "date": "2005-01-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fNCRxLVl7aT4jGFuPlB6mreKhi8.jpg", "actors": [], "comments": [], "recommandations_id": []}

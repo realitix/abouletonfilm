@@ -1,0 +1,1 @@
+{"tmdb_id": 371076, "title": "DELKA: STAND-UP TALL OR FALL", "original_title": "DELKA: STAND-UP TALL OR FALL", "slug_title": "delka-stand-up-tall-or-fall", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mcT1F4wOWKg1CBF7iWS2xVxuFBq.jpg", "actors": [], "comments": [], "recommandations_id": []}

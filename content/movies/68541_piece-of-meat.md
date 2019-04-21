@@ -1,0 +1,1 @@
+{"tmdb_id": 68541, "title": "Piece of Meat", "original_title": "Piece of Meat", "slug_title": "piece-of-meat", "date": "2008-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

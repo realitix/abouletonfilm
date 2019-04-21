@@ -1,0 +1,1 @@
+{"tmdb_id": 568311, "title": "WELCOME TO HELL", "original_title": "WELCOME TO HELL", "slug_title": "welcome-to-hell", "date": "2018-11-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3Q2jND9anGA23RxRU4eAVbTJASI.jpg", "actors": [], "comments": [], "recommandations_id": []}

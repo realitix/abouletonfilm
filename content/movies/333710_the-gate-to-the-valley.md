@@ -1,0 +1,1 @@
+{"tmdb_id": 333710, "title": "The Gate to the Valley", "original_title": "Shaar Hagai", "slug_title": "the-gate-to-the-valley", "date": "1965-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

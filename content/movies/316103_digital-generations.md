@@ -1,0 +1,1 @@
+{"tmdb_id": 316103, "title": "Digital Generations", "original_title": "G\u00e9n\u00e9rations Digitales", "slug_title": "digital-generations", "date": "2010-02-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

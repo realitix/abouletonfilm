@@ -1,0 +1,1 @@
+{"tmdb_id": 300905, "title": "Who Shot My Father?", "original_title": "Who Shot My Father?", "slug_title": "who-shot-my-father", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

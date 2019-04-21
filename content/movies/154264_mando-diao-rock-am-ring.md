@@ -1,0 +1,1 @@
+{"tmdb_id": 154264, "title": "Mando Diao: Rock Am Ring", "original_title": "Mando Diao: Rock Am Ring", "slug_title": "mando-diao-rock-am-ring", "date": "2011-06-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q1uOHvNDqvHtJJm4Fcc4iHA8gVn.jpg", "actors": [], "comments": [], "recommandations_id": []}

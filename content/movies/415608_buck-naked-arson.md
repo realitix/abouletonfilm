@@ -1,0 +1,1 @@
+{"tmdb_id": 415608, "title": "Buck Naked Arson", "original_title": "Buck Naked Arson", "slug_title": "buck-naked-arson", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

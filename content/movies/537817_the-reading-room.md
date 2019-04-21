@@ -1,0 +1,1 @@
+{"tmdb_id": 537817, "title": "The Reading Room", "original_title": "The Reading Room", "slug_title": "the-reading-room", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jDIRYjZtbO2BjW8hdDzVknrBc49.jpg", "actors": [], "comments": [], "recommandations_id": []}

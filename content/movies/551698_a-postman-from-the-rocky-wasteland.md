@@ -1,0 +1,1 @@
+{"tmdb_id": 551698, "title": "A Postman from the Rocky Wasteland", "original_title": "Po\u0161tar s kamenjara", "slug_title": "a-postman-from-the-rocky-wasteland", "date": "1971-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mate Bo\u017eanovi\u0107 (Po\u0161tar)"], "comments": [], "recommandations_id": []}

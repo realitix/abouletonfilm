@@ -1,0 +1,1 @@
+{"tmdb_id": 104270, "title": "A Ballad About Green Wood", "original_title": "Balada o zelen\u00e9m d\u0159evu", "slug_title": "a-ballad-about-green-wood", "date": "1983-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/79htL5VmamIR4xI5umOS7zUqiaD.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 111897, "title": "Sex In Philippine Cinema 1", "original_title": "Sex In Philippine Cinema 1", "slug_title": "sex-in-philippine-cinema-1", "date": "2004-01-01", "genre": "Documentaire", "score": "8.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hVh2JUya0T5b6yg85AyPbSbPHx8.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 593963, "title": "El diablo blanco", "original_title": "El diablo blanco", "slug_title": "el-diablo-blanco", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ezequiel D\u00edaz ()", "Violeta Urtizberea ()", "Juli\u00e1n Tello ()", "Martina Juncadella ()"], "comments": [], "recommandations_id": []}

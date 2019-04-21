@@ -1,0 +1,1 @@
+{"tmdb_id": 485738, "title": "Calling All Curtains", "original_title": "Calling All Curtains", "slug_title": "calling-all-curtains", "date": "1937-09-30", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Monte Collins ()", "Tom Kennedy ()"], "comments": [], "recommandations_id": []}

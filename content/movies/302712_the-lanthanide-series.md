@@ -1,0 +1,1 @@
+{"tmdb_id": 302712, "title": "The Lanthanide Series", "original_title": "The Lanthanide Series", "slug_title": "the-lanthanide-series", "date": "2014-11-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1pSigvIhjEBYAqtDDafT0Vx93O2.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 79225, "title": "I Am Bish", "original_title": "I Am Bish", "slug_title": "i-am-bish", "date": "", "genre": "Action / Horreur / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q2V66fVuWRDMx3mjsdCG9yEVRok.jpg", "actors": [], "comments": [], "recommandations_id": []}

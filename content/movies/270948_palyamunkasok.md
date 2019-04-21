@@ -1,0 +1,1 @@
+{"tmdb_id": 270948, "title": "P\u00e1lyamunk\u00e1sok", "original_title": "P\u00e1lyamunk\u00e1sok", "slug_title": "palyamunkasok", "date": "1957-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4amn7DdFP2QD21BOelYonQFG3uQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

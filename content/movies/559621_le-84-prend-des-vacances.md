@@ -1,0 +1,1 @@
+{"tmdb_id": 559621, "title": "Le 84 prend des vacances", "original_title": "Le 84 prend des vacances", "slug_title": "le-84-prend-des-vacances", "date": "1950-02-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9ywTj8g4kc0oyv7SZUCpok49E8j.jpg", "actors": [], "comments": [], "recommandations_id": []}

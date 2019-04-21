@@ -1,0 +1,1 @@
+{"tmdb_id": 418264, "title": "Kkangchi", "original_title": "\uae61\uce58", "slug_title": "kkangchi", "date": "2016-09-08", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sRynm849qonyez72ODTrffF19KE.jpg", "actors": [], "comments": [], "recommandations_id": []}

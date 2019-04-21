@@ -1,0 +1,1 @@
+{"tmdb_id": 245707, "title": "Otherworld", "original_title": "Y Mabinogi", "slug_title": "otherworld", "date": "2003-06-26", "genre": "Animation / Fantastique", "score": "4.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n8QDG1DicwZ5gs37wUBAMCHMZd7.jpg", "actors": [], "comments": [], "recommandations_id": []}

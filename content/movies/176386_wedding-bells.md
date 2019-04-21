@@ -1,0 +1,1 @@
+{"tmdb_id": 176386, "title": "Wedding Bells", "original_title": "Wedding Bells", "slug_title": "wedding-bells", "date": "1924-03-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Monty Banks (The Groom)", "Ena Gregory ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 313924, "title": "Seventh Submarine", "original_title": "Seventh Submarine", "slug_title": "seventh-submarine", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

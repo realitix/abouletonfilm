@@ -1,0 +1,1 @@
+{"tmdb_id": 392861, "title": "The Plena", "original_title": "La plena", "slug_title": "the-plena", "date": "1957-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ydXum1iIfLvGejvfm3qYlrJ4BqC.jpg", "actors": ["Antonio Torres Martin\u00f3 (Narrator)"], "comments": [], "recommandations_id": []}

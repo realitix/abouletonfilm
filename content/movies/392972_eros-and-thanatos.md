@@ -1,0 +1,1 @@
+{"tmdb_id": 392972, "title": "Eros and Thanatos", "original_title": "Eros and Thanatos", "slug_title": "eros-and-thanatos", "date": "2005-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p40WitTnjNkEQfSNGCjYyxEu5yT.jpg", "actors": [], "comments": [], "recommandations_id": []}

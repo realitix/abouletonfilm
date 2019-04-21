@@ -1,0 +1,1 @@
+{"tmdb_id": 82490, "title": "Discovering Ardi", "original_title": "Discovering Ardi", "slug_title": "discovering-ardi", "date": "2009-10-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qmJB9P2yEBBPdGqx6QyHpCVYS50.jpg", "actors": [], "comments": [], "recommandations_id": []}

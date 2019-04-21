@@ -1,0 +1,1 @@
+{"tmdb_id": 358740, "title": "Automatic Fare Collection and You", "original_title": "Automatic Fare Collection and You", "slug_title": "automatic-fare-collection-and-you", "date": "1969-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

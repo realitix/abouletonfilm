@@ -1,0 +1,1 @@
+{"tmdb_id": 271506, "title": "6 Comics from Miami", "original_title": "6 Comics from Miami", "slug_title": "6-comics-from-miami", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

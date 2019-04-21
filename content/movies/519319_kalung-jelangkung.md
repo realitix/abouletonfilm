@@ -1,0 +1,1 @@
+{"tmdb_id": 519319, "title": "Kalung Jelangkung", "original_title": "Kalung Jelangkung", "slug_title": "kalung-jelangkung", "date": "2011-04-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/czH1lQXWzGw8wpsLrYiIMyQWElZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

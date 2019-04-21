@@ -1,0 +1,1 @@
+{"tmdb_id": 311568, "title": "Hoagy Carmichael: His Life and Music", "original_title": "Hoagy Carmichael: His Life and Music", "slug_title": "hoagy-carmichael-his-life-and-music", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 557897, "title": "Shoktir Lorai", "original_title": "Shoktir Lorai", "slug_title": "shoktir-lorai", "date": "", "genre": "Science-Fiction / Action / Crime", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Danny Sidak ()"], "comments": [], "recommandations_id": []}

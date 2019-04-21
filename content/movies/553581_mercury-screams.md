@@ -1,0 +1,1 @@
+{"tmdb_id": 553581, "title": "Mercury Screams", "original_title": "Mercury Screams", "slug_title": "mercury-screams", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 543243, "title": "A Hot Tuesday", "original_title": "A Hot Tuesday", "slug_title": "a-hot-tuesday", "date": "1985-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zAuaw8QUkHiv8dWw6Pat05jvVW7.jpg", "actors": ["David ()", "Tom ()", "Ryan ()"], "comments": [], "recommandations_id": []}

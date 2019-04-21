@@ -1,0 +1,1 @@
+{"tmdb_id": 582530, "title": "Agvarim Shel Ella", "original_title": "Agvarim Shel Ella", "slug_title": "agvarim-shel-ella", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

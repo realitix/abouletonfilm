@@ -1,0 +1,1 @@
+{"tmdb_id": 280644, "title": "Pingus F\u00f6delsedag", "original_title": "Pingus F\u00f6delsedag", "slug_title": "pingus-fodelsedag", "date": "1993-07-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sULmhcajZksmecfgcUt8axUxwI8.jpg", "actors": [], "comments": [], "recommandations_id": []}

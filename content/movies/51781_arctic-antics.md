@@ -1,0 +1,1 @@
+{"tmdb_id": 51781, "title": "Arctic Antics", "original_title": "Arctic Antics", "slug_title": "arctic-antics", "date": "1930-06-05", "genre": "Animation", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ggluAZUI7n9kxL1yx9jhGwcnRY8.jpg", "actors": [], "comments": [], "recommandations_id": [57639, 51825, 56009, 202008]}

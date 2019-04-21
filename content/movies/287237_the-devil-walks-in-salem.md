@@ -1,0 +1,1 @@
+{"tmdb_id": 287237, "title": "The Devil Walks in Salem", "original_title": "The Devil Walks in Salem", "slug_title": "the-devil-walks-in-salem", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 301557, "title": "Monsters of Metal Vol. 3", "original_title": "Monsters of Metal Vol. 3", "slug_title": "monsters-of-metal-vol-3", "date": "2006-01-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nF4WCfz2zszmilDlpAUyHWc48l0.jpg", "actors": [], "comments": [], "recommandations_id": []}

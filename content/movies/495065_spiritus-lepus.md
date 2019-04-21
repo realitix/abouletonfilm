@@ -1,0 +1,1 @@
+{"tmdb_id": 495065, "title": "Spiritus Lepus", "original_title": "Spiritus Lepus", "slug_title": "spiritus-lepus", "date": "", "genre": "", "score": "1.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

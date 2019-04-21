@@ -1,0 +1,1 @@
+{"tmdb_id": 516088, "title": "I Am MLK Jr.", "original_title": "I Am MLK Jr.", "slug_title": "i-am-mlk-jr", "date": "2018-04-04", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lwnYCQpYT51S5L1VpxtvgvL1wXa.jpg", "actors": ["Martin Luther King (Himself)"], "comments": [], "recommandations_id": []}

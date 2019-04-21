@@ -1,0 +1,1 @@
+{"tmdb_id": 408581, "title": "The Best Nightmare on Earth", "original_title": "The Best Nightmare on Earth", "slug_title": "the-best-nightmare-on-earth", "date": "2012-05-02", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vt2ymHaThYSY1fCecVuMU7IwiAy.jpg", "actors": [], "comments": [], "recommandations_id": []}

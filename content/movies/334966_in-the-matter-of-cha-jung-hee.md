@@ -1,0 +1,1 @@
+{"tmdb_id": 334966, "title": "In the Matter of Cha Jung Hee", "original_title": "In the Matter of Cha Jung Hee", "slug_title": "in-the-matter-of-cha-jung-hee", "date": "2010-03-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jnbUYZ0E9whUBrVX0xbmAGnPGfM.jpg", "actors": [], "comments": [], "recommandations_id": []}

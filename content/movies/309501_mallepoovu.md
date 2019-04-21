@@ -1,0 +1,1 @@
+{"tmdb_id": 309501, "title": "Mallepoovu", "original_title": "Mallepoovu", "slug_title": "mallepoovu", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

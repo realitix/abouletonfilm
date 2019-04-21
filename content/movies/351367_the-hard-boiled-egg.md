@@ -1,0 +1,1 @@
+{"tmdb_id": 351367, "title": "The Hard Boiled Egg", "original_title": "The Hard Boiled Egg", "slug_title": "the-hard-boiled-egg", "date": "1948-09-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

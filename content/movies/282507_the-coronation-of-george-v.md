@@ -1,0 +1,1 @@
+{"tmdb_id": 282507, "title": "The Coronation of George V", "original_title": "The Coronation of George V", "slug_title": "the-coronation-of-george-v", "date": "1911-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

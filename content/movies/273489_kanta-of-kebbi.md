@@ -1,0 +1,1 @@
+{"tmdb_id": 273489, "title": "Kanta of Kebbi", "original_title": "Kanta of Kebbi", "slug_title": "kanta-of-kebbi", "date": "1978-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

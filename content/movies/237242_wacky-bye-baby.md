@@ -1,0 +1,1 @@
+{"tmdb_id": 237242, "title": "Wacky-Bye Baby", "original_title": "Wacky-Bye Baby", "slug_title": "wacky-bye-baby", "date": "1948-07-15", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/FK0eYJVi0HEQeTQzL6YwgfYZSF.jpg", "actors": [], "comments": [], "recommandations_id": []}

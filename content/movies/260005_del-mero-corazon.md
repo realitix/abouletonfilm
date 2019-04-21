@@ -1,0 +1,1 @@
+{"tmdb_id": 260005, "title": "Del mero coraz\u00f3n", "original_title": "Del mero coraz\u00f3n", "slug_title": "del-mero-corazon", "date": "1979-01-01", "genre": "Documentaire / Musique", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mpJUqYyDnLccoW4MVHkWbiGixgB.jpg", "actors": [], "comments": [], "recommandations_id": []}

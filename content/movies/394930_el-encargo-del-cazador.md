@@ -1,0 +1,1 @@
+{"tmdb_id": 394930, "title": "El encargo del cazador", "original_title": "El encargo del cazador", "slug_title": "el-encargo-del-cazador", "date": "1990-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fF3NOcsO11MjKQPT4BSVu9exvdF.jpg", "actors": [], "comments": [], "recommandations_id": []}

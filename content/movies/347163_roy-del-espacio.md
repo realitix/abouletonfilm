@@ -1,0 +1,1 @@
+{"tmdb_id": 347163, "title": "Roy del espacio", "original_title": "Roy del espacio", "slug_title": "roy-del-espacio", "date": "1983-03-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

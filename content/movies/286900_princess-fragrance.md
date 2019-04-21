@@ -1,0 +1,1 @@
+{"tmdb_id": 286900, "title": "Princess Fragrance", "original_title": "\u9999\u9999\u516c\u4e3b", "slug_title": "princess-fragrance", "date": "1987-08-28", "genre": "Drame / Histoire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9Pxd7cTefii9y8LghmN5mWo0XMG.jpg", "actors": [], "comments": [], "recommandations_id": []}

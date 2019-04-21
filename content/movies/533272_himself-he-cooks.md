@@ -1,0 +1,1 @@
+{"tmdb_id": 533272, "title": "Himself He Cooks", "original_title": "Himself He Cooks", "slug_title": "himself-he-cooks", "date": "2012-09-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kF92do01q89fKBX1RfioFOi5AAr.jpg", "actors": [], "comments": [], "recommandations_id": []}

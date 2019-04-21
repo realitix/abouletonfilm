@@ -1,0 +1,1 @@
+{"tmdb_id": 260246, "title": "The Vampire Returns", "original_title": "El regreso del vampiro", "slug_title": "the-vampire-returns", "date": "2013-09-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pbl0oqbuKvqEo6V8ZhdUHAq10nZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

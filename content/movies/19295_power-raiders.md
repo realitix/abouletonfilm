@@ -1,0 +1,1 @@
+{"tmdb_id": 19295, "title": "Power Raiders", "original_title": "Power Raiders", "slug_title": "power-raiders", "date": "2016-10-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 166432, "title": "Wenn \u00c4rzte t\u00f6ten", "original_title": "Wenn \u00c4rzte t\u00f6ten", "slug_title": "wenn-arzte-toten", "date": "2009-12-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/UsTF9gwMDcRefYbvBaEQDkSAHr.jpg", "actors": [], "comments": [], "recommandations_id": []}

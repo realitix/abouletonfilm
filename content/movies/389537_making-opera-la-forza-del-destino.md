@@ -1,0 +1,1 @@
+{"tmdb_id": 389537, "title": "Making Opera: La Forza del Destino", "original_title": "Making Opera: La Forza del Destino", "slug_title": "making-opera-la-forza-del-destino", "date": "2005-11-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

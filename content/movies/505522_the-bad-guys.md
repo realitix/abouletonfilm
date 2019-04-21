@@ -1,0 +1,1 @@
+{"tmdb_id": 505522, "title": "The Bad Guys", "original_title": "The Bad Guys", "slug_title": "the-bad-guys", "date": "2018-02-16", "genre": "Drame / Com\u00e9die", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3StbgtyaNrok7euoAjithyXUGYw.jpg", "actors": ["Glen Powell ()", "Glenn Powell ()"], "comments": [], "recommandations_id": []}

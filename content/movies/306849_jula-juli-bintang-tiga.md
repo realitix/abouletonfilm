@@ -1,0 +1,1 @@
+{"tmdb_id": 306849, "title": "Jula Juli Bintang Tiga", "original_title": "Jula Juli Bintang Tiga", "slug_title": "jula-juli-bintang-tiga", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2htrUmLKrit5yuubU7Jj5QBIBlf.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 591244, "title": "Guddiyan Patole", "original_title": "Guddiyan Patole", "slug_title": "guddiyan-patole", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 470285, "title": "Los Feliz", "original_title": "Los Feliz", "slug_title": "los-feliz", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

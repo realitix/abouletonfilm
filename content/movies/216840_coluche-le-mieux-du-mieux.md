@@ -1,0 +1,1 @@
+{"tmdb_id": 216840, "title": "Coluche - Le Mieux Du Mieux", "original_title": "Le mieux du mieux de Coluche", "slug_title": "coluche-le-mieux-du-mieux", "date": "2007-05-16", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p8B6esvOswiEfanM1nMQktYmmO7.jpg", "actors": [], "comments": [], "recommandations_id": []}

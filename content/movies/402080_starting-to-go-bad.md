@@ -1,0 +1,1 @@
+{"tmdb_id": 402080, "title": "Starting to Go Bad", "original_title": "Starting to Go Bad", "slug_title": "starting-to-go-bad", "date": "2009-06-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

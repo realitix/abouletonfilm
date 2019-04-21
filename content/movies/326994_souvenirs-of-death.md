@@ -1,0 +1,1 @@
+{"tmdb_id": 326994, "title": "Souvenirs of Death", "original_title": "Souvenirs of Death", "slug_title": "souvenirs-of-death", "date": "1948-06-19", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

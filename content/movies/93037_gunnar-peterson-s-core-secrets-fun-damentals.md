@@ -1,0 +1,1 @@
+{"tmdb_id": 93037, "title": "Gunnar Peterson's Core Secrets Fun-Damentals", "original_title": "Gunnar Peterson's Core Secrets Fun-Damentals", "slug_title": "gunnar-peterson-s-core-secrets-fun-damentals", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

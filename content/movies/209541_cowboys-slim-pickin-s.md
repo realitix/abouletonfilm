@@ -1,0 +1,1 @@
+{"tmdb_id": 209541, "title": "Cowboys: Slim Pickin's", "original_title": "Cowboys: Slim Pickin's", "slug_title": "cowboys-slim-pickin-s", "date": "1991-01-01", "genre": "Animation", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vwLLzDIKMfdxIyAFYD7fdgTBJXa.jpg", "actors": [], "comments": [], "recommandations_id": []}

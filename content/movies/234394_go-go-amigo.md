@@ -1,0 +1,1 @@
+{"tmdb_id": 234394, "title": "Go Go Amigo", "original_title": "Go Go Amigo", "slug_title": "go-go-amigo", "date": "1965-11-20", "genre": "", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uptnZX1CAzpOvzBlypxj3PSXlh7.jpg", "actors": [], "comments": [], "recommandations_id": []}

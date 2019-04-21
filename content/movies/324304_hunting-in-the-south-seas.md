@@ -1,0 +1,1 @@
+{"tmdb_id": 324304, "title": "Hunting in the South Seas", "original_title": "Treibjagd in der S\u00fcdsee", "slug_title": "hunting-in-the-south-seas", "date": "1940-08-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/TzKkUjesi8I35e68J0iPvNhQS1.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 479915, "title": "Ship in a Room", "original_title": "Korab v Staya", "slug_title": "ship-in-a-room", "date": "2017-10-27", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fxKNRlRoQXaPINf0klmItYpwj28.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 45957, "title": "Tre g\u00e5nger Benny", "original_title": "Tre g\u00e5nger Benny", "slug_title": "tre-ganger-benny", "date": "2008-10-01", "genre": "Familial / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8NcFDj1TmYhpmM4s0gc33SbmzRB.jpg", "actors": [], "comments": [], "recommandations_id": []}

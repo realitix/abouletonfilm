@@ -1,0 +1,1 @@
+{"tmdb_id": 488898, "title": "A Little Bit Like Murder", "original_title": "A Little Bit Like Murder", "slug_title": "a-little-bit-like-murder", "date": "1973-03-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

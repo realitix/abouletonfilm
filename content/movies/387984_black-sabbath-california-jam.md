@@ -1,0 +1,1 @@
+{"tmdb_id": 387984, "title": "Black Sabbath: California Jam", "original_title": "Black Sabbath: California Jam", "slug_title": "black-sabbath-california-jam", "date": "1974-04-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kBqwfofi1x1913JlvSjgZJuQ82p.jpg", "actors": [], "comments": [], "recommandations_id": []}

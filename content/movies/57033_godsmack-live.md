@@ -1,0 +1,1 @@
+{"tmdb_id": 57033, "title": "Godsmack - Live", "original_title": "Godsmack - Live", "slug_title": "godsmack-live", "date": "2002-01-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4FcPzWrMzHDbAgHwJ2Hhagy5bSF.jpg", "actors": [], "comments": [], "recommandations_id": []}

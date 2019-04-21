@@ -1,0 +1,1 @@
+{"tmdb_id": 199476, "title": "Magie verte", "original_title": "Magia verde", "slug_title": "magie-verte", "date": "1953-06-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aD8vLmeegcIhHUtxkr323dYOK6t.jpg", "actors": ["Solano Trindade ()"], "comments": [], "recommandations_id": []}

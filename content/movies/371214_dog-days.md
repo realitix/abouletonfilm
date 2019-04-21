@@ -1,0 +1,1 @@
+{"tmdb_id": 371214, "title": "Dog Days", "original_title": "Dog Days", "slug_title": "dog-days", "date": "2015-04-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kb8TcQpq6zhMBeQO4fUbyoG4WL8.jpg", "actors": [], "comments": [], "recommandations_id": []}

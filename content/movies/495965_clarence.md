@@ -1,0 +1,1 @@
+{"tmdb_id": 495965, "title": "Clarence", "original_title": "Clarence", "slug_title": "clarence", "date": "2015-04-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nEfEkBCkSjBIKk4RjElo9fPArfj.jpg", "actors": ["Clarence Garrett (Himself)"], "comments": [], "recommandations_id": []}

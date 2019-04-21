@@ -1,0 +1,1 @@
+{"tmdb_id": 116512, "title": "The Cat Way", "original_title": "La voie du chat", "slug_title": "the-cat-way", "date": "2009-04-12", "genre": "Animation / Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gNdwSAuwIQcEqEqlUH6WpzyKhZv.jpg", "actors": ["Tama (Herself)"], "comments": [], "recommandations_id": []}

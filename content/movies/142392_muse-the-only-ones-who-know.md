@@ -1,0 +1,1 @@
+{"tmdb_id": 142392, "title": "Muse: The Only Ones Who Know", "original_title": "Muse: The Only Ones Who Know", "slug_title": "muse-the-only-ones-who-know", "date": "2012-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f8UrPJFvLxIDsJY3rKKYvfqaMxM.jpg", "actors": ["Muse ()"], "comments": [], "recommandations_id": []}

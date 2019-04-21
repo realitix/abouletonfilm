@@ -1,0 +1,1 @@
+{"tmdb_id": 338920, "title": "Whitesnake: Here I Go Again", "original_title": "Whitesnake: Here I Go Again", "slug_title": "whitesnake-here-i-go-again", "date": "1987-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 363965, "title": "Yangon Calling", "original_title": "Yangon Calling", "slug_title": "yangon-calling", "date": "2013-10-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wq5Tlw1L5DuvVcwm6ZofoEB7D9i.jpg", "actors": [], "comments": [], "recommandations_id": []}

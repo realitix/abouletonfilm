@@ -1,0 +1,1 @@
+{"tmdb_id": 236271, "title": "Kristopher Kolumbus Jr.", "original_title": "Kristopher Kolumbus Jr.", "slug_title": "kristopher-kolumbus-jr", "date": "1939-05-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1lGcsyZytCvB1zfZTjYPLn9jjOL.jpg", "actors": [], "comments": [], "recommandations_id": []}

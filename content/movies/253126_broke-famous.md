@@ -1,0 +1,1 @@
+{"tmdb_id": 253126, "title": "Broke & Famous", "original_title": "Broke & Famous", "slug_title": "broke-famous", "date": "2009-11-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

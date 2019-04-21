@@ -1,0 +1,1 @@
+{"tmdb_id": 223578, "title": "Local Legends", "original_title": "Local Legends", "slug_title": "local-legends", "date": "2013-07-30", "genre": "Com\u00e9die", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w35lqgUFlz0RkZBQwU6tAksL8kg.jpg", "actors": ["Matt Farley (Matt Farley)"], "comments": [], "recommandations_id": []}

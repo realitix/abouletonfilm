@@ -1,0 +1,1 @@
+{"tmdb_id": 262962, "title": "Amudhey", "original_title": "Amudhey", "slug_title": "amudhey", "date": "2005-03-15", "genre": "Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jai Akash ()", "Pranathi ()", "Madhumitha ()"], "comments": [], "recommandations_id": []}

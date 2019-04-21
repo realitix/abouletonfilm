@@ -1,0 +1,1 @@
+{"tmdb_id": 557009, "title": "The Levy Department Stores", "original_title": "Les galeries L\u00e9vy et Cie", "slug_title": "the-levy-department-stores", "date": "1932-01-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

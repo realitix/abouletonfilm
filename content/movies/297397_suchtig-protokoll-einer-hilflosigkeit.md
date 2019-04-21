@@ -1,0 +1,1 @@
+{"tmdb_id": 297397, "title": "S\u00fcchtig - Protokoll einer Hilflosigkeit", "original_title": "S\u00fcchtig - Protokoll einer Hilflosigkeit", "slug_title": "suchtig-protokoll-einer-hilflosigkeit", "date": "2004-01-07", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 579709, "title": "Der D\u00e4mon in Berlin", "original_title": "Der D\u00e4mon in Berlin", "slug_title": "der-damon-in-berlin", "date": "1982-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mZsTOlxuBd03Cu7wC2YkesP9eDZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 575560, "title": "Jodi Ekdin", "original_title": "Jodi Ekdin", "slug_title": "jodi-ekdin", "date": "2010-04-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

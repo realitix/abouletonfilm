@@ -1,0 +1,1 @@
+{"tmdb_id": 78934, "title": "Auto Raja", "original_title": "Auto Raja", "slug_title": "auto-raja", "date": "1982-03-27", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Vijayakanth ()", "Gayathri ()", "Jaishankar ()", "Sangili Murugan ()", "V. K. Ramasamy ()", "Thengai Srinivasan ()"], "comments": [], "recommandations_id": []}

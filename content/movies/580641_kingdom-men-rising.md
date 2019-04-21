@@ -1,0 +1,1 @@
+{"tmdb_id": 580641, "title": "Kingdom Men Rising", "original_title": "Kingdom Men Rising", "slug_title": "kingdom-men-rising", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9aZV3TuWBFil2ZC3SvLTITqBrvg.jpg", "actors": [], "comments": [], "recommandations_id": []}

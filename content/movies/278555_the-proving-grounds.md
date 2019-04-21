@@ -1,0 +1,1 @@
+{"tmdb_id": 278555, "title": "The Proving Grounds", "original_title": "The Proving Grounds", "slug_title": "the-proving-grounds", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tLQSYe6PZ7NgsfzMjcUlxQ3lhW3.jpg", "actors": [], "comments": [], "recommandations_id": []}

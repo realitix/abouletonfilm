@@ -1,0 +1,1 @@
+{"tmdb_id": 312657, "title": "All Dogs Go to Heaven: Friends to the Rescue", "original_title": "All Dogs Go to Heaven: Friends to the Rescue", "slug_title": "all-dogs-go-to-heaven-friends-to-the-rescue", "date": "1996-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

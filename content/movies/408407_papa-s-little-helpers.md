@@ -1,0 +1,1 @@
+{"tmdb_id": 408407, "title": "Papa's Little Helpers", "original_title": "Papa's Little Helpers", "slug_title": "papa-s-little-helpers", "date": "1951-10-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

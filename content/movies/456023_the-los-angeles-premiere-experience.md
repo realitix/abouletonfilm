@@ -1,0 +1,1 @@
+{"tmdb_id": 456023, "title": "The Los Angeles Premiere Experience", "original_title": "The Los Angeles Premiere Experience", "slug_title": "the-los-angeles-premiere-experience", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

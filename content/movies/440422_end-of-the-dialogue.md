@@ -1,0 +1,1 @@
+{"tmdb_id": 440422, "title": "End of the Dialogue", "original_title": "Phela-ndaba", "slug_title": "end-of-the-dialogue", "date": "1970-02-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y7sXkGeIulxx5qGWd5DfeowZxn5.jpg", "actors": [], "comments": [], "recommandations_id": []}

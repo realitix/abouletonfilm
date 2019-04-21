@@ -1,0 +1,1 @@
+{"tmdb_id": 424875, "title": "Parole Povere", "original_title": "Parole Povere", "slug_title": "parole-povere", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lKKPELgssSIpKbqh1kZwVUtPaXV.jpg", "actors": ["Pierluigi Cappello ()"], "comments": [], "recommandations_id": []}

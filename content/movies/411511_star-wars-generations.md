@@ -1,0 +1,1 @@
+{"tmdb_id": 411511, "title": "Star Wars: Generations", "original_title": "Star Wars: Generations", "slug_title": "star-wars-generations", "date": "2016-07-08", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uIqOMze5C6VAMougq0zXuHuFJmh.jpg", "actors": [], "comments": [], "recommandations_id": []}

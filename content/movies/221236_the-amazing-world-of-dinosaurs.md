@@ -1,0 +1,1 @@
+{"tmdb_id": 221236, "title": "The Amazing World of Dinosaurs", "original_title": "The Amazing World of Dinosaurs", "slug_title": "the-amazing-world-of-dinosaurs", "date": "2012-04-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lXiQ12xjLENwbx4YuilT6OOAbMP.jpg", "actors": [], "comments": [], "recommandations_id": []}

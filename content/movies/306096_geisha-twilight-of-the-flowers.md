@@ -1,0 +1,1 @@
+{"tmdb_id": 306096, "title": "Geisha: Twilight of the flowers", "original_title": "Geisha: Twilight of the flowers", "slug_title": "geisha-twilight-of-the-flowers", "date": "2005-12-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

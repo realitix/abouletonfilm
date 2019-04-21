@@ -1,0 +1,1 @@
+{"tmdb_id": 79002, "title": "Andrea Bocelli - Tuscan Skies", "original_title": "Andrea Bocelli - Tuscan Skies", "slug_title": "andrea-bocelli-tuscan-skies", "date": "2002-01-15", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gdeifblqaNWSeILv4NSLMY4iBCa.jpg", "actors": [], "comments": [], "recommandations_id": []}

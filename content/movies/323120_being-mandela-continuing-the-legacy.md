@@ -1,0 +1,1 @@
+{"tmdb_id": 323120, "title": "Being Mandela: Continuing the Legacy", "original_title": "Being Mandela: Continuing the Legacy", "slug_title": "being-mandela-continuing-the-legacy", "date": "2015-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

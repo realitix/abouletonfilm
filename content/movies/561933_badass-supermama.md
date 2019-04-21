@@ -1,0 +1,1 @@
+{"tmdb_id": 561933, "title": "Badass Supermama", "original_title": "Badass Supermama", "slug_title": "badass-supermama", "date": "1996-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pam Grier ()", "Etang Inyang (herself)"], "comments": [], "recommandations_id": []}

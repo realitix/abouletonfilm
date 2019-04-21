@@ -1,0 +1,1 @@
+{"tmdb_id": 155241, "title": "Chaplin", "original_title": "Chaplin", "slug_title": "chaplin", "date": "2011-08-26", "genre": "", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/skpPtgWtHapBLVoPImZIjEIqu9N.jpg", "actors": ["Rudranil Ghosh (Bangshi Das)"], "comments": [], "recommandations_id": []}

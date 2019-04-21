@@ -1,0 +1,1 @@
+{"tmdb_id": 486752, "title": "Takilleitor", "original_title": "Takilleitor", "slug_title": "takilleitor", "date": "1998-02-21", "genre": "", "score": "2.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Luis Dimas (Luis Dimas)", "Rodrigo Vidal (Takilleitor)", "Shlomit Baytelman (Slomy)"], "comments": [], "recommandations_id": []}

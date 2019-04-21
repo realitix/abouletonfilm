@@ -1,0 +1,1 @@
+{"tmdb_id": 443503, "title": "Caught in a ripoff", "original_title": "Caught in a ripoff", "slug_title": "caught-in-a-ripoff", "date": "1974-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

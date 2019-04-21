@@ -1,0 +1,1 @@
+{"tmdb_id": 402938, "title": "Fr\u00e4ulein Else", "original_title": "Fr\u00e4ulein Else", "slug_title": "fraulein-else", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rL7DXhaWFhdZv6LcCAkVnAtuBhH.jpg", "actors": [], "comments": [], "recommandations_id": []}

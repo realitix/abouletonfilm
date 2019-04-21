@@ -1,0 +1,1 @@
+{"tmdb_id": 399219, "title": "Happy End", "original_title": "Happy End", "slug_title": "happy-end", "date": "2016-05-19", "genre": "Com\u00e9die / Animation", "score": "8.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wnUYhZEACW3KHkJFZmgX76RYmQE.jpg", "actors": [], "comments": [], "recommandations_id": []}

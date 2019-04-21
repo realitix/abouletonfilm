@@ -1,0 +1,1 @@
+{"tmdb_id": 456895, "title": "Careful Nursing", "original_title": "Careful Nursing", "slug_title": "careful-nursing", "date": "1912-10-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

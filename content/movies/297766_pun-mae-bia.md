@@ -1,0 +1,1 @@
+{"tmdb_id": 297766, "title": "Pun Mae Bia", "original_title": "Pun Mae Bia", "slug_title": "pun-mae-bia", "date": "1993-03-04", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kJ6KgS0Crxor5AzdrWlKvE1fvdu.jpg", "actors": ["Petchtai Wongkamlao ()", "Papasara Chutanupong ()"], "comments": [], "recommandations_id": []}

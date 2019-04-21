@@ -1,0 +1,1 @@
+{"tmdb_id": 323301, "title": "D\u00eener japonais", "original_title": "D\u00eener japonais", "slug_title": "diner-japonais", "date": "1897-12-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

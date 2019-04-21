@@ -1,0 +1,1 @@
+{"tmdb_id": 566220, "title": "Shooting the Mafia", "original_title": "Shooting the Mafia", "slug_title": "shooting-the-mafia", "date": "2019-01-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n70VIHbF70Cn3DrBcHUDyN6FEGP.jpg", "actors": [], "comments": [], "recommandations_id": []}

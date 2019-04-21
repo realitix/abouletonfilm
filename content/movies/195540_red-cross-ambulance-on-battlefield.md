@@ -1,0 +1,1 @@
+{"tmdb_id": 195540, "title": "Red Cross Ambulance on Battlefield", "original_title": "Red Cross Ambulance on Battlefield", "slug_title": "red-cross-ambulance-on-battlefield", "date": "1900-04-21", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 276285, "title": "Miss B's Hair Salon", "original_title": "Miss B's Hair Salon", "slug_title": "miss-b-s-hair-salon", "date": "2007-01-01", "genre": "", "score": "2.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

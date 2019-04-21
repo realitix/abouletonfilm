@@ -1,0 +1,1 @@
+{"tmdb_id": 3518, "title": "Pfui, Rosa!", "original_title": "Pfui, Rosa!", "slug_title": "pfui-rosa", "date": "2002-10-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

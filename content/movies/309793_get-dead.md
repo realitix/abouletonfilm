@@ -1,0 +1,1 @@
+{"tmdb_id": 309793, "title": "Get Dead", "original_title": "Get Dead", "slug_title": "get-dead", "date": "2014-12-05", "genre": "Com\u00e9die / Horreur", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3iSyMXEN1w3KEyrXoWtiV9sIB86.jpg", "actors": ["Mark Harrison (Bob the Salesman)"], "comments": [], "recommandations_id": []}

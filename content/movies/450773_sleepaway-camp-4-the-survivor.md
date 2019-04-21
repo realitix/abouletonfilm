@@ -1,0 +1,1 @@
+{"tmdb_id": 450773, "title": "Sleepaway Camp 4: The Survivor", "original_title": "Sleepaway Camp 4: The Survivor", "slug_title": "sleepaway-camp-4-the-survivor", "date": "", "genre": "Horreur", "score": "2.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

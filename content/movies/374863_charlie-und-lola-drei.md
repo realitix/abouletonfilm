@@ -1,0 +1,1 @@
+{"tmdb_id": 374863, "title": "Charlie und Lola - Drei", "original_title": "Charlie und Lola - Drei", "slug_title": "charlie-und-lola-drei", "date": "2005-01-01", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n3hc4xB72pcHn6YitZ9xWHqSX1j.jpg", "actors": [], "comments": [], "recommandations_id": []}

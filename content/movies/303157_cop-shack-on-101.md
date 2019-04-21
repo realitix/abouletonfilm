@@ -1,0 +1,1 @@
+{"tmdb_id": 303157, "title": "Cop Shack on 101", "original_title": "Cop Shack on 101", "slug_title": "cop-shack-on-101", "date": "2006-05-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oiMPh2xHAsxzNXxbtbpIVHNA84e.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 584491, "title": "\u5c41\u773c\uff0e\u6deb\u66f8\uff0e\u901f\u514b\u9054", "original_title": "\u5c41\u773c\uff0e\u6deb\u66f8\uff0e\u901f\u514b\u9054", "slug_title": "pi-yan-yin-shu-su-ke-da", "date": "2017-01-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

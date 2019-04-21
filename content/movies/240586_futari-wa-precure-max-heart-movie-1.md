@@ -1,0 +1,1 @@
+{"tmdb_id": 240586, "title": "Futari wa Precure: Max Heart Movie 1", "original_title": "Futari wa Precure: Max Heart Movie 1", "slug_title": "futari-wa-precure-max-heart-movie-1", "date": "2005-04-15", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

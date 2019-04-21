@@ -1,0 +1,1 @@
+{"tmdb_id": 584037, "title": "Voodoo Secrets", "original_title": "Voodoo Secrets", "slug_title": "voodoo-secrets", "date": "2006-03-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Michael Dorn (Narrator)"], "comments": [], "recommandations_id": []}

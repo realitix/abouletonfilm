@@ -1,0 +1,1 @@
+{"tmdb_id": 573060, "title": "V\u012brietis un d\u0101lijas", "original_title": "V\u012brietis un d\u0101lijas", "slug_title": "virietis-un-dalijas", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qoVScL7sOKrmFWDG9jDkgJ6jDGs.jpg", "actors": [], "comments": [], "recommandations_id": []}

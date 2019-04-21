@@ -1,0 +1,1 @@
+{"tmdb_id": 416319, "title": "\ubb34\ub4f1\uc0b0 \ud0c0\uc794, \ubc15\ud765\uc219", "original_title": "\ubb34\ub4f1\uc0b0 \ud0c0\uc794, \ubc15\ud765\uc219", "slug_title": "mudeungsan-tajan-bagheungsug", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

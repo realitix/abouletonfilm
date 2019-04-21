@@ -1,0 +1,1 @@
+{"tmdb_id": 517127, "title": "The Accidental Missionary", "original_title": "The Accidental Missionary", "slug_title": "the-accidental-missionary", "date": "2015-11-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y3Ny019BoREdCESbJBxVugEaBQY.jpg", "actors": [], "comments": [], "recommandations_id": []}

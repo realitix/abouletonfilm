@@ -1,0 +1,1 @@
+{"tmdb_id": 390080, "title": "Watakushiritori", "original_title": "\u308f\u305f\u304f\u3057\u308a\u3068\u308a", "slug_title": "watakushiritori", "date": "2013-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pY10Yk39u5QWIXjdvknyZb5Jhz9.jpg", "actors": [], "comments": [], "recommandations_id": []}

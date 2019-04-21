@@ -1,0 +1,1 @@
+{"tmdb_id": 374501, "title": "Beatbox Colombia", "original_title": "Beatbox Colombia", "slug_title": "beatbox-colombia", "date": "2006-07-15", "genre": "Musique / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

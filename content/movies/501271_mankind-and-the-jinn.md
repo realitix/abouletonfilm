@@ -1,0 +1,1 @@
+{"tmdb_id": 501271, "title": "Mankind and the jinn", "original_title": "Mankind and the jinn", "slug_title": "mankind-and-the-jinn", "date": "1985-07-24", "genre": "Aventure / Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Adel Imam (Galal)", "Yousra (Fatma)"], "comments": [], "recommandations_id": []}

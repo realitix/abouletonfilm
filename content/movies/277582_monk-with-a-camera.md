@@ -1,0 +1,1 @@
+{"tmdb_id": 277582, "title": "Monk With a Camera", "original_title": "Monk With a Camera", "slug_title": "monk-with-a-camera", "date": "2014-03-24", "genre": "Documentaire", "score": "7.9/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2fU0ZE9IUPzP1autDA85E0Quz0T.jpg", "actors": [], "comments": [], "recommandations_id": [501154, 294543]}

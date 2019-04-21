@@ -1,0 +1,1 @@
+{"tmdb_id": 137381, "title": "People of a Feather", "original_title": "People of a Feather", "slug_title": "people-of-a-feather", "date": "2012-04-20", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vX5njs5FJQGI4mLadRI4NfGUmcZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

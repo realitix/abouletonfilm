@@ -1,0 +1,1 @@
+{"tmdb_id": 577848, "title": "Sucker Bait", "original_title": "Sucker Bait", "slug_title": "sucker-bait", "date": "1943-01-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Richard Carlson (Bill - Soldier)", "Stephen McNally (Nazi Spy Posing as Captain)"], "comments": [], "recommandations_id": []}

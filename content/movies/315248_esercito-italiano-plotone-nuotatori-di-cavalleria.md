@@ -1,0 +1,1 @@
+{"tmdb_id": 315248, "title": "Esercito italiano: Plotone nuotatori di cavalleria", "original_title": "Esercito italiano: Plotone nuotatori di cavalleria", "slug_title": "esercito-italiano-plotone-nuotatori-di-cavalleria", "date": "1912-09-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

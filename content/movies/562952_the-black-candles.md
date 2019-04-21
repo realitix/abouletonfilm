@@ -1,0 +1,1 @@
+{"tmdb_id": 562952, "title": "The Black Candles", "original_title": "The Black Candles", "slug_title": "the-black-candles", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

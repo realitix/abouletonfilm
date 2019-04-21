@@ -1,0 +1,1 @@
+{"tmdb_id": 505492, "title": "\"TEMPERATURE\"", "original_title": "\"TEMPERATURE\"", "slug_title": "temperature", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1vM4aIitfcSh1ctyBCqYiWNhvxr.jpg", "actors": ["Virgil Abloh ()"], "comments": [], "recommandations_id": []}

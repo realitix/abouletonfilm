@@ -1,0 +1,1 @@
+{"tmdb_id": 541295, "title": "Jill Drew and D.A. Pennebaker", "original_title": "Jill Drew and D.A. Pennebaker", "slug_title": "jill-drew-and-d-a-pennebaker", "date": "2016-04-20", "genre": "Documentaire", "score": "9.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jill Drew (Herself)", "D.A. Pennebaker (Himself)"], "comments": [], "recommandations_id": []}

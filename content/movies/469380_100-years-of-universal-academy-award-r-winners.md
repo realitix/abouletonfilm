@@ -1,0 +1,1 @@
+{"tmdb_id": 469380, "title": "100 Years of Universal: Academy Award\u00ae Winners", "original_title": "100 Years of Universal: Academy Award\u00ae Winners", "slug_title": "100-years-of-universal-academy-award-r-winners", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

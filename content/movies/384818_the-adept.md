@@ -1,0 +1,1 @@
+{"tmdb_id": 384818, "title": "The Adept", "original_title": "The Adept", "slug_title": "the-adept", "date": "2015-06-21", "genre": "Science-Fiction", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jQfvTIhOoqDagCnCI7Dh5TmlYyV.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 560660, "title": "World War Virtual", "original_title": "World War Virtual", "slug_title": "world-war-virtual", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

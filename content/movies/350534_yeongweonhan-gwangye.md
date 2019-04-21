@@ -1,0 +1,1 @@
+{"tmdb_id": 350534, "title": "\uc601\uc6d0\ud55c \uad00\uacc4", "original_title": "\uc601\uc6d0\ud55c \uad00\uacc4", "slug_title": "yeongweonhan-gwangye", "date": "1979-09-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

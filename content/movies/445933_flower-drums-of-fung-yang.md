@@ -1,0 +1,1 @@
+{"tmdb_id": 445933, "title": "Flower Drums of Fung Yang", "original_title": "\u9cf3\u967d\u82b1\u9f13", "slug_title": "flower-drums-of-fung-yang", "date": "1967-03-21", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Chen Chen ()", "Niu Fang-yu ()", "Chung Wang ()"], "comments": [], "recommandations_id": []}

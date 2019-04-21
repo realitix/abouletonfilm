@@ -1,0 +1,1 @@
+{"tmdb_id": 585848, "title": "The Education Of Erica", "original_title": "The Education Of Erica", "slug_title": "the-education-of-erica", "date": "2017-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

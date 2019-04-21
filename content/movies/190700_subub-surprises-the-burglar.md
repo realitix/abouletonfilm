@@ -1,0 +1,1 @@
+{"tmdb_id": 190700, "title": "Subub Surprises the Burglar", "original_title": "Subub Surprises the Burglar", "slug_title": "subub-surprises-the-burglar", "date": "1903-08-14", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

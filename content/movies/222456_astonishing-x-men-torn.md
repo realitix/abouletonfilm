@@ -1,0 +1,1 @@
+{"tmdb_id": 222456, "title": "Astonishing X-Men: Torn", "original_title": "Astonishing X-Men: Torn", "slug_title": "astonishing-x-men-torn", "date": "2012-08-14", "genre": "Animation", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8zMXDIqWkBehtwQ362pf8jde2LH.jpg", "actors": [], "comments": [], "recommandations_id": []}

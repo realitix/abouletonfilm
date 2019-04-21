@@ -1,0 +1,1 @@
+{"tmdb_id": 478234, "title": "And Backs Turned", "original_title": "De espaldas", "slug_title": "and-backs-turned", "date": "1956-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Emilio G. Navarro ()", "Maria Brenes ()", "Jos\u00e9 de San Ant\u00f3n ()", "Manuel Estanillo ()"], "comments": [], "recommandations_id": []}

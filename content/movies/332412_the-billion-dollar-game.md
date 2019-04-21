@@ -1,0 +1,1 @@
+{"tmdb_id": 332412, "title": "The Billion Dollar Game", "original_title": "The Billion Dollar Game", "slug_title": "the-billion-dollar-game", "date": "2015-03-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dyJtweSjo5uxUmKWUbojFYem7vQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

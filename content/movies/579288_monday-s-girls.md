@@ -1,0 +1,1 @@
+{"tmdb_id": 579288, "title": "Monday's Girls", "original_title": "Monday's Girls", "slug_title": "monday-s-girls", "date": "1993-09-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

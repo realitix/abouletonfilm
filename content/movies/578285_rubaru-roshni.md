@@ -1,0 +1,1 @@
+{"tmdb_id": 578285, "title": "Rubaru Roshni", "original_title": "Rubaru Roshni", "slug_title": "rubaru-roshni", "date": "2019-01-26", "genre": "Documentaire", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9skq1v5Uj1fQKCqyrADG55MEuQP.jpg", "actors": [], "comments": [], "recommandations_id": []}

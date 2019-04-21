@@ -1,0 +1,1 @@
+{"tmdb_id": 406277, "title": "Patas en la cabeza", "original_title": "Patas en la cabeza", "slug_title": "patas-en-la-cabeza", "date": "1985-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AaVK2h23kwta7CT7uGLgopOr6u8.jpg", "actors": [], "comments": [], "recommandations_id": []}

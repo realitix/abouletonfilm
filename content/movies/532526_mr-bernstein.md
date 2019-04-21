@@ -1,0 +1,1 @@
+{"tmdb_id": 532526, "title": "Mr Bernstein", "original_title": "Mr Bernstein", "slug_title": "mr-bernstein", "date": "2017-06-23", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

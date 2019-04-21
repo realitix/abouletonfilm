@@ -1,0 +1,1 @@
+{"tmdb_id": 301448, "title": "Stem Cell Revolutions", "original_title": "Stem Cell Revolutions", "slug_title": "stem-cell-revolutions", "date": "2011-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

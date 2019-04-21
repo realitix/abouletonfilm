@@ -1,0 +1,1 @@
+{"tmdb_id": 583865, "title": "Margaret Atwood: Live in Cinemas", "original_title": "Margaret Atwood: Live in Cinemas", "slug_title": "margaret-atwood-live-in-cinemas", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4a2jwfYXSZRhmJifpaS0ZmSAj16.jpg", "actors": [], "comments": [], "recommandations_id": []}

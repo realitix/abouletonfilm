@@ -1,0 +1,1 @@
+{"tmdb_id": 452451, "title": "The Decade You Were Born: The 80s", "original_title": "The Decade You Were Born: The 80s", "slug_title": "the-decade-you-were-born-the-80s", "date": "2011-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

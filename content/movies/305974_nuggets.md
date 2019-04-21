@@ -1,0 +1,1 @@
+{"tmdb_id": 305974, "title": "Nuggets", "original_title": "Nuggets", "slug_title": "nuggets", "date": "2014-10-13", "genre": "Animation", "score": "6.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lu4ESz5MdIMMRkVOi455ggYdKu7.jpg", "actors": [], "comments": [], "recommandations_id": [267705]}

@@ -1,0 +1,1 @@
+{"tmdb_id": 531524, "title": "A Journey with Invisible Friends", "original_title": "A Journey with Invisible Friends", "slug_title": "a-journey-with-invisible-friends", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

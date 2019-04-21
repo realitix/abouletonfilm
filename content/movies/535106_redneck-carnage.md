@@ -1,0 +1,1 @@
+{"tmdb_id": 535106, "title": "Redneck Carnage", "original_title": "Redneck Carnage", "slug_title": "redneck-carnage", "date": "2009-05-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

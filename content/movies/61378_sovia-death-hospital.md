@@ -1,0 +1,1 @@
+{"tmdb_id": 61378, "title": "Sovia: Death Hospital", "original_title": "Sovia: Death Hospital", "slug_title": "sovia-death-hospital", "date": "2008-11-13", "genre": "Horreur / Thriller", "score": "5.9/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3cYGayhC5c1b6fxtLEMvrnzmBce.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 549823, "title": "King of Darts", "original_title": "\u9556\u738b", "slug_title": "king-of-darts", "date": "1986-01-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oNJbfbRdu0nkEDaSCyQlJB4vLao.jpg", "actors": ["An Yaping ()", "Tingyao Liu ()", "Wei long ()"], "comments": [], "recommandations_id": []}

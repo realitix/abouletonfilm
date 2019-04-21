@@ -1,0 +1,1 @@
+{"tmdb_id": 274209, "title": "Charge of the Model T's", "original_title": "Charge of the Model T's", "slug_title": "charge-of-the-model-t-s", "date": "1977-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/21dUevH85s7PxObLMBmPWf2TAw5.jpg", "actors": [], "comments": [], "recommandations_id": []}

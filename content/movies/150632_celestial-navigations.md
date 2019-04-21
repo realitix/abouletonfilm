@@ -1,0 +1,1 @@
+{"tmdb_id": 150632, "title": "Celestial Navigations", "original_title": "Celestial Navigations", "slug_title": "celestial-navigations", "date": "1984-04-28", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/etxzVBUNPQspP3dY55XAt7fHlCv.jpg", "actors": [], "comments": [], "recommandations_id": []}

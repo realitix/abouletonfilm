@@ -1,0 +1,1 @@
+{"tmdb_id": 535213, "title": "Ema Nudar Umanu", "original_title": "Ema Nudar Umanu", "slug_title": "ema-nudar-umanu", "date": "2018-08-16", "genre": "Fantastique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

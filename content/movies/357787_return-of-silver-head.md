@@ -1,0 +1,1 @@
+{"tmdb_id": 357787, "title": "Return of Silver Head", "original_title": "Return of Silver Head", "slug_title": "return-of-silver-head", "date": "1980-01-02", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rX1rSkVSUwWlqfODjr1ocom3rTU.jpg", "actors": ["Jeff Keen (Silver Head)"], "comments": [], "recommandations_id": []}

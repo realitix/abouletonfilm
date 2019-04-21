@@ -1,0 +1,1 @@
+{"tmdb_id": 488295, "title": "Dailey & Vincent Alive!", "original_title": "Dailey & Vincent Alive!", "slug_title": "dailey-vincent-alive", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 193583, "title": "Stab 4: Fresh Blood", "original_title": "Stab 4: Fresh Blood", "slug_title": "stab-4-fresh-blood", "date": "2010-05-14", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

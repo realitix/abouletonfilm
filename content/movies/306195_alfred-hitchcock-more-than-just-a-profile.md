@@ -1,0 +1,1 @@
+{"tmdb_id": 306195, "title": "Alfred Hitchcock: More Than Just a Profile", "original_title": "Alfred Hitchcock: More Than Just a Profile", "slug_title": "alfred-hitchcock-more-than-just-a-profile", "date": "2005-06-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

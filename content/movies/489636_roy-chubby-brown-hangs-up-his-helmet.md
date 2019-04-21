@@ -1,0 +1,1 @@
+{"tmdb_id": 489636, "title": "Roy Chubby Brown Hangs Up his Helmet", "original_title": "Roy Chubby Brown Hangs Up his Helmet", "slug_title": "roy-chubby-brown-hangs-up-his-helmet", "date": "", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

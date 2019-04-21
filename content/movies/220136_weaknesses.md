@@ -1,0 +1,1 @@
+{"tmdb_id": 220136, "title": "Weaknesses", "original_title": "Faiblesses", "slug_title": "weaknesses", "date": "2009-05-20", "genre": "Drame / Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Nicolas Giraud (Lui)", "Faustine Tournan (Elle)"], "comments": [], "recommandations_id": []}

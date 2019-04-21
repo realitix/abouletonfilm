@@ -1,0 +1,1 @@
+{"tmdb_id": 130919, "title": "Do You Keep a Lion at Home?", "original_title": "M\u00e1te doma lva?", "slug_title": "do-you-keep-a-lion-at-home", "date": "1964-05-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uLpuZcQBxlqq4xbNaJkFycMeH5W.jpg", "actors": [], "comments": [], "recommandations_id": []}

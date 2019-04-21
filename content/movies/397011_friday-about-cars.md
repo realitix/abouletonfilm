@@ -1,0 +1,1 @@
+{"tmdb_id": 397011, "title": "Friday: About Cars", "original_title": "Vendredi: Les chars", "slug_title": "friday-about-cars", "date": "1978-01-01", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 278538, "title": "Metal Shop: Adrenaline Edition", "original_title": "Metal Shop: Adrenaline Edition", "slug_title": "metal-shop-adrenaline-edition", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

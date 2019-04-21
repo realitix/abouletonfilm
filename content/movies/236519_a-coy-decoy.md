@@ -1,0 +1,1 @@
+{"tmdb_id": 236519, "title": "A Coy Decoy", "original_title": "A Coy Decoy", "slug_title": "a-coy-decoy", "date": "1941-06-06", "genre": "Animation / Com\u00e9die", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/DyxvOEU9kWlSImhoYgrS1gMUkZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

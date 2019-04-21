@@ -1,0 +1,1 @@
+{"tmdb_id": 551950, "title": "The Secret Life of Landfill: A Rubbish History", "original_title": "The Secret Life of Landfill: A Rubbish History", "slug_title": "the-secret-life-of-landfill-a-rubbish-history", "date": "2018-08-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

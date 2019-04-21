@@ -1,0 +1,1 @@
+{"tmdb_id": 408308, "title": "Des terroristes \u00e0 la retraite", "original_title": "Des terroristes \u00e0 la retraite", "slug_title": "des-terroristes-a-la-retraite", "date": "1985-07-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Simone Signoret ()"], "comments": [], "recommandations_id": []}

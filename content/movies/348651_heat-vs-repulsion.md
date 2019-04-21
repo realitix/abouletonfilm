@@ -1,0 +1,1 @@
+{"tmdb_id": 348651, "title": "Heat vs. Repulsion", "original_title": "Heat vs. Repulsion", "slug_title": "heat-vs-repulsion", "date": "2015-01-04", "genre": "Action / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zy6qJaRvZDMBdiUV0hzGWwcSkhc.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 327732, "title": "The Muck", "original_title": "The Muck", "slug_title": "the-muck", "date": "2014-03-08", "genre": "Horreur", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zvLLgYSIMeRKjdMySMxOy3tPpno.jpg", "actors": ["Callie Stephens (Laverne)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 505617, "title": "Libertad negra", "original_title": "Libertad negra", "slug_title": "libertad-negra", "date": "2016-04-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7l2aBO60zyn2m65jtdVeiEVSaar.jpg", "actors": [], "comments": [], "recommandations_id": []}

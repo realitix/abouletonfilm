@@ -1,0 +1,1 @@
+{"tmdb_id": 408621, "title": "Frr Waddo Volume 1", "original_title": "Frr Waddo Volume 1", "slug_title": "frr-waddo-volume-1", "date": "", "genre": "", "score": "10.0/10", "synopsis": "Azaghar Vision", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xOZd3F8pj7XX3sjPCSaxhje1r1N.jpg", "actors": [], "comments": [], "recommandations_id": []}

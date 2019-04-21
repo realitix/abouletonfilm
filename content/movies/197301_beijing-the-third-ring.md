@@ -1,0 +1,1 @@
+{"tmdb_id": 197301, "title": "Beijing: The Third Ring", "original_title": "Beijing: San huan li jiao qiao", "slug_title": "beijing-the-third-ring", "date": "2012-01-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 272934, "title": "Dark Awakening", "original_title": "Dark Awakening", "slug_title": "dark-awakening", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

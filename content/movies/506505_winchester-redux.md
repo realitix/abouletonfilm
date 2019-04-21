@@ -1,0 +1,1 @@
+{"tmdb_id": 506505, "title": "Winchester Redux", "original_title": "Winchester Redux", "slug_title": "winchester-redux", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4P3VFIawimsEssLKblXt2u0v4sb.jpg", "actors": [], "comments": [], "recommandations_id": []}

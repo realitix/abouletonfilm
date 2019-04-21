@@ -1,0 +1,1 @@
+{"tmdb_id": 400571, "title": "Artful Kate", "original_title": "Artful Kate", "slug_title": "artful-kate", "date": "1911-02-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mary Pickford (Artful Kate Stanley)", "Owen Moore (Lt. Hamilton)", "Charles Arling ()"], "comments": [], "recommandations_id": []}

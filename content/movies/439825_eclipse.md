@@ -1,0 +1,1 @@
+{"tmdb_id": 439825, "title": "Eclipse", "original_title": "Eclipse", "slug_title": "eclipse", "date": "2017-02-05", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Chico Pel\u00facio ()", "In\u00eas Peixoto ()", "Julio Maciel ()", "Lydia Del Picchia ()", "Simone Ordones ()"], "comments": [], "recommandations_id": []}

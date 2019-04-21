@@ -1,0 +1,1 @@
+{"tmdb_id": 195492, "title": "Thanatopsis", "original_title": "Thanatopsis", "slug_title": "thanatopsis", "date": "1991-05-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fn0YsLUhcdRV8mWoNl6yopmmjkZ.jpg", "actors": ["Lydia Lunch (Herself)"], "comments": [], "recommandations_id": []}

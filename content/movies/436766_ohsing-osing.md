@@ -1,0 +1,1 @@
+{"tmdb_id": 436766, "title": "Ohsing (Osing)", "original_title": "Ohsing (Osing)", "slug_title": "ohsing-osing", "date": "1985-04-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kim Min-hee (Oh-sing)"], "comments": [], "recommandations_id": []}

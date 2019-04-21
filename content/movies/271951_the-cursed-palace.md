@@ -1,0 +1,1 @@
+{"tmdb_id": 271951, "title": "The Cursed Palace", "original_title": "Al-qasr al-mal'oun", "slug_title": "the-cursed-palace", "date": "1962-06-05", "genre": "Myst\u00e8re / Horreur", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/79J4oK5Dww0E12UI01mX5TjmYX.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 275925, "title": "IVC: Vol. 2: Birth of an Axe Murderer", "original_title": "IVC: Vol. 2: Birth of an Axe Murderer", "slug_title": "ivc-vol-2-birth-of-an-axe-murderer", "date": "1997-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

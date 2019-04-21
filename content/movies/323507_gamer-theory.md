@@ -1,0 +1,1 @@
+{"tmdb_id": 323507, "title": "Gamer Theory", "original_title": "Gamer Theory", "slug_title": "gamer-theory", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

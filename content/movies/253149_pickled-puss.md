@@ -1,0 +1,1 @@
+{"tmdb_id": 253149, "title": "Pickled Puss", "original_title": "Pickled Puss", "slug_title": "pickled-puss", "date": "1948-09-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

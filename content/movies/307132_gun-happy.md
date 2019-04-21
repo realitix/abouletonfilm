@@ -1,0 +1,1 @@
+{"tmdb_id": 307132, "title": "Gun Happy", "original_title": "Gun Happy", "slug_title": "gun-happy", "date": "", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

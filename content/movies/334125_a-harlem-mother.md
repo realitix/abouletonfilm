@@ -1,0 +1,1 @@
+{"tmdb_id": 334125, "title": "A Harlem Mother", "original_title": "A Harlem Mother", "slug_title": "a-harlem-mother", "date": "2009-01-01", "genre": "Documentaire / Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e28KnSeKmObDHTcKTAot98Ny1Cy.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 509105, "title": "Mama Mama, Papa Papa", "original_title": "Mama Mama, Papa Papa", "slug_title": "mama-mama-papa-papa", "date": "2011-05-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/70jRMvoh0P9z623Mx4YGpg2yh3t.jpg", "actors": [], "comments": [], "recommandations_id": []}

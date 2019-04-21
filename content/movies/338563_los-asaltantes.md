@@ -1,0 +1,1 @@
+{"tmdb_id": 338563, "title": "Los Asaltantes", "original_title": "Los Asaltantes", "slug_title": "los-asaltantes", "date": "2013-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1jRSilidKmUyTy6loG5SfZZXXSq.jpg", "actors": [], "comments": [], "recommandations_id": []}

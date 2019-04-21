@@ -1,0 +1,1 @@
+{"tmdb_id": 282227, "title": "Man without Pigs", "original_title": "Man without Pigs", "slug_title": "man-without-pigs", "date": "1990-01-01", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ii3K2uViIgVKlD4lPErDfR7V7hO.jpg", "actors": ["John Waiko (Himself)"], "comments": [], "recommandations_id": []}

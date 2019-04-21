@@ -1,0 +1,1 @@
+{"tmdb_id": 449685, "title": "Kuschelrock DVD Vol. 3", "original_title": "Kuschelrock DVD Vol. 3", "slug_title": "kuschelrock-dvd-vol-3", "date": "2005-09-23", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ivGIsC9xTzTmIUD65Tvw6AxP1IV.jpg", "actors": [], "comments": [], "recommandations_id": []}

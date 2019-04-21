@@ -1,0 +1,1 @@
+{"tmdb_id": 195206, "title": "Native Daughters", "original_title": "Native Daughters", "slug_title": "native-daughters", "date": "1898-03-20", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

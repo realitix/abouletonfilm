@@ -1,0 +1,1 @@
+{"tmdb_id": 492575, "title": "Ott in Space", "original_title": "Ott kosmoses", "slug_title": "ott-in-space", "date": "1962-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

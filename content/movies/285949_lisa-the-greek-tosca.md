@@ -1,0 +1,1 @@
+{"tmdb_id": 285949, "title": "Lisa, The Greek Tosca", "original_title": "Lisa, The Greek Tosca", "slug_title": "lisa-the-greek-tosca", "date": "1961-08-08", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eqOc7R9pim7AuB92G8P9mbS1VLh.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 264311, "title": "Duke Ernest", "original_title": "Herzog Ernst", "slug_title": "duke-ernest", "date": "", "genre": "Animation / Fantastique", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8WWLjk7zAqoIIOYPu1ZMNiA2LNf.jpg", "actors": ["Wolf-Dietrich Sprenger (Sprecher)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 446876, "title": "DKA Exposed Part 2!!!", "original_title": "DKA Exposed Part 2!!!", "slug_title": "dka-exposed-part-2", "date": "2017-03-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ds3Fs5OzKK75ie7fUrF9jwA4jPU.jpg", "actors": ["Nicole Corona (Nicole Corona)"], "comments": [], "recommandations_id": []}

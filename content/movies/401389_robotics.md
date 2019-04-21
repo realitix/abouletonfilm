@@ -1,0 +1,1 @@
+{"tmdb_id": 401389, "title": "Robotics", "original_title": "Robotics", "slug_title": "robotics", "date": "2013-09-27", "genre": "Drame / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Horace Cohen (John)", "Janna Fassaert (Arina)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 381780, "title": "Fant\u00f4me Afrique", "original_title": "Fant\u00f4me Afrique", "slug_title": "fantome-afrique", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Vanessa Myrie ()"], "comments": [], "recommandations_id": []}

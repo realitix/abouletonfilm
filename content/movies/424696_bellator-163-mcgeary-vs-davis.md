@@ -1,0 +1,1 @@
+{"tmdb_id": 424696, "title": "Bellator 163: McGeary vs. Davis", "original_title": "Bellator 163: McGeary vs. Davis", "slug_title": "bellator-163-mcgeary-vs-davis", "date": "2016-11-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6cgzKleSegwcWJIUxPusS9czDPo.jpg", "actors": [], "comments": [], "recommandations_id": []}

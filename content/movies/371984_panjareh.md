@@ -1,0 +1,1 @@
+{"tmdb_id": 371984, "title": "Panjareh", "original_title": "Panjareh", "slug_title": "panjareh", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Behrouz Vossoughi ()", "Googoosh ()", "Farrokh Sajedi ()", "Nuri Kasrai ()"], "comments": [], "recommandations_id": []}

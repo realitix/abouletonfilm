@@ -1,0 +1,1 @@
+{"tmdb_id": 65514, "title": "Zombie Hunter", "original_title": "Zombie Hunter", "slug_title": "zombie-hunter", "date": "2005-09-12", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/chct6bOf4Cd0iLllT5h7k9bs5DE.jpg", "actors": [], "comments": [], "recommandations_id": []}

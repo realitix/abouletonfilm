@@ -1,0 +1,1 @@
+{"tmdb_id": 427685, "title": "Irrawaddy mon amour", "original_title": "Irrawaddy mon amour", "slug_title": "irrawaddy-mon-amour", "date": "2015-02-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lrvGQmuufWj3uqCZbiuqCNR9tU8.jpg", "actors": [], "comments": [], "recommandations_id": []}

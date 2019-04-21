@@ -1,0 +1,1 @@
+{"tmdb_id": 469269, "title": "Jungle Patrol", "original_title": "Jungle Patrol", "slug_title": "jungle-patrol", "date": "1944-12-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9HQbUTu8N6YMEDMLOOvSu8mize8.jpg", "actors": ["Peter Finch (Narrator)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 575244, "title": "Brain Damage", "original_title": "Brain Damage", "slug_title": "brain-damage", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 103831, "title": "Legend of a Warrior", "original_title": "Legend of a Warrior", "slug_title": "legend-of-a-warrior", "date": "2012-09-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ykRix4LqLn5srJndWfF6m3HYOVd.jpg", "actors": [], "comments": [], "recommandations_id": []}

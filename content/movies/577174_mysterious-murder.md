@@ -1,0 +1,1 @@
+{"tmdb_id": 577174, "title": "Mysterious Murder", "original_title": "Hong ling xue", "slug_title": "mysterious-murder", "date": "1964-06-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["An Banri ()", "Kwanlai Ng ()", "Wong Chin-Sui ()", "Yam Kim-Fai ()"], "comments": [], "recommandations_id": []}

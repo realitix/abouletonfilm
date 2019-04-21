@@ -1,0 +1,1 @@
+{"tmdb_id": 384595, "title": "The History of SNK Neo Geo", "original_title": "The History of SNK Neo Geo", "slug_title": "the-history-of-snk-neo-geo", "date": "1992-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fNDlYsnoP22TqxUqbnyFzKJ5SpL.jpg", "actors": [], "comments": [], "recommandations_id": []}

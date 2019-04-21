@@ -1,0 +1,1 @@
+{"tmdb_id": 283962, "title": "The 'Gator and the Pickaninny", "original_title": "The 'Gator and the Pickaninny", "slug_title": "the-gator-and-the-pickaninny", "date": "1900-08-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

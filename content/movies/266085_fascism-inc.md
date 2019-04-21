@@ -1,0 +1,1 @@
+{"tmdb_id": 266085, "title": "Fascism Inc.", "original_title": "Fasismos A.E.", "slug_title": "fascism-inc", "date": "2014-04-15", "genre": "Documentaire", "score": "5.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bNN3DAjNiIUEOyWsHVKitGJhtWS.jpg", "actors": [], "comments": [], "recommandations_id": []}

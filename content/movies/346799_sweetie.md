@@ -1,0 +1,1 @@
+{"tmdb_id": 346799, "title": "Sweetie", "original_title": "Sweetie", "slug_title": "sweetie", "date": "1923-04-04", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Baby Peggy ()", "Jerry Mandy ()", "Louise Lorraine ()", "Max Asher ()", "Jennie the Monkey ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 591422, "title": "The Dude Wrangler", "original_title": "The Dude Wrangler", "slug_title": "the-dude-wrangler", "date": "1930-07-01", "genre": "Western", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lpIDwqh8syJO4gBtVGYDjtQe61C.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 349340, "title": "Days of Roses", "original_title": "\uc7a5\ubbf8\uc758 \ub098\ub0a0", "slug_title": "days-of-roses", "date": "1994-04-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g8UNxpA64VHlGdgqqgx49ICABZE.jpg", "actors": [], "comments": [], "recommandations_id": []}

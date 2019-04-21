@@ -1,0 +1,1 @@
+{"tmdb_id": 428315, "title": "Fuck Hamlet", "original_title": "Fuck Hamlet", "slug_title": "fuck-hamlet", "date": "1996-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

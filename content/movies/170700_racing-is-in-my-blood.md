@@ -1,0 +1,1 @@
+{"tmdb_id": 170700, "title": "Racing Is In My Blood", "original_title": "Racing Is In My Blood", "slug_title": "racing-is-in-my-blood", "date": "1993-05-23", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bvo2LL8C28k7XyXeDHIxOUkcX2X.jpg", "actors": ["Ayrton Senna ()"], "comments": [], "recommandations_id": []}

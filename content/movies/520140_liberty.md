@@ -1,0 +1,1 @@
+{"tmdb_id": 520140, "title": "Liberty", "original_title": "Liberty", "slug_title": "liberty", "date": "1966-04-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

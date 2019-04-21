@@ -1,0 +1,1 @@
+{"tmdb_id": 274770, "title": "Clash: Punk Icons", "original_title": "Clash: Punk Icons", "slug_title": "clash-punk-icons", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

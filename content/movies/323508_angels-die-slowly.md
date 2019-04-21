@@ -1,0 +1,1 @@
+{"tmdb_id": 323508, "title": "Angels Die Slowly", "original_title": "Angels Die Slowly", "slug_title": "angels-die-slowly", "date": "2010-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

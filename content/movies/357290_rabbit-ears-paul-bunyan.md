@@ -1,0 +1,1 @@
+{"tmdb_id": 357290, "title": "Rabbit Ears - Paul Bunyan", "original_title": "Rabbit Ears - Paul Bunyan", "slug_title": "rabbit-ears-paul-bunyan", "date": "1990-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bIN3Sg0zaNYHPwtv6sm0C4qLEEa.jpg", "actors": [], "comments": [], "recommandations_id": []}

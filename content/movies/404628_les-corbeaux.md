@@ -1,0 +1,1 @@
+{"tmdb_id": 404628, "title": "Les corbeaux", "original_title": "Les corbeaux", "slug_title": "les-corbeaux", "date": "1967-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/LWQKdTFrxoVM6tldv1GwfK7uec.jpg", "actors": [], "comments": [], "recommandations_id": []}

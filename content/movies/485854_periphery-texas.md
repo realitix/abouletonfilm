@@ -1,0 +1,1 @@
+{"tmdb_id": 485854, "title": "Periphery, Texas", "original_title": "Periphery, Texas", "slug_title": "periphery-texas", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/55UYg8nMrD5tBKMsHOyz8x5ywnB.jpg", "actors": ["Stanley B. Herman (Highwayman)"], "comments": [], "recommandations_id": []}

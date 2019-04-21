@@ -1,0 +1,1 @@
+{"tmdb_id": 482287, "title": "The Stars of Star Wars", "original_title": "The Stars of Star Wars", "slug_title": "the-stars-of-star-wars", "date": "1999-10-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pOIccovMDv11T7GAVR0C0d3vi7G.jpg", "actors": [], "comments": [], "recommandations_id": []}

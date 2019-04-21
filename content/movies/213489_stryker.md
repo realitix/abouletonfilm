@@ -1,0 +1,1 @@
+{"tmdb_id": 213489, "title": "Stryker", "original_title": "Stryker", "slug_title": "stryker", "date": "2004-09-11", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rZIbuG9O8pSR664a9cdYbrySR6M.jpg", "actors": ["Kyle Henry (Stryker)", "Ryan Rajendra Black (Omar)"], "comments": [], "recommandations_id": []}

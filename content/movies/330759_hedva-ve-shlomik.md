@@ -1,0 +1,1 @@
+{"tmdb_id": 330759, "title": "Hedva Ve'Shlomik", "original_title": "Hedva Ve'Shlomik", "slug_title": "hedva-ve-shlomik", "date": "1971-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Yael Aviv ()", "Menahem Zilberman ()", "Leah Koenig ()"], "comments": [], "recommandations_id": []}

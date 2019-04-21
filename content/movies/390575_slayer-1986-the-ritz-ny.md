@@ -1,0 +1,1 @@
+{"tmdb_id": 390575, "title": "Slayer: [1986] The Ritz, NY", "original_title": "Slayer: [1986] The Ritz, NY", "slug_title": "slayer-1986-the-ritz-ny", "date": "1986-12-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zswZuX9PaNddchKbDuaUSx3Xmh7.jpg", "actors": [], "comments": [], "recommandations_id": []}

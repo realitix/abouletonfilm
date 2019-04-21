@@ -1,0 +1,1 @@
+{"tmdb_id": 524215, "title": "Kandinsky", "original_title": "Kandinsky", "slug_title": "kandinsky", "date": "1961-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f46nz1kWiVBrGh35BzkG07vmGo1.jpg", "actors": ["Susanne Carwin (Narrator)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 275173, "title": "2SCS: 14 Life's Short Go Big", "original_title": "2SCS: 14 Life's Short Go Big", "slug_title": "2scs-14-life-s-short-go-big", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

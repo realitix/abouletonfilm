@@ -1,0 +1,1 @@
+{"tmdb_id": 561774, "title": "Magifique", "original_title": "Magifique", "slug_title": "magifique", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zRI3HV1SiXRMBJHjFUgTZ6qy4h9.jpg", "actors": [], "comments": [], "recommandations_id": []}

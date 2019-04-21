@@ -1,0 +1,1 @@
+{"tmdb_id": 311343, "title": "Shtickmen", "original_title": "Shtickmen", "slug_title": "shtickmen", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

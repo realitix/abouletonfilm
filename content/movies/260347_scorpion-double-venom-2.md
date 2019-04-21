@@ -1,0 +1,1 @@
+{"tmdb_id": 260347, "title": "Scorpion: Double Venom 2", "original_title": "Sasori: Korosu tenshi 2", "slug_title": "scorpion-double-venom-2", "date": "1998-10-31", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2fMPMoQVNke7KJJZwhjtCLBtHif.jpg", "actors": [], "comments": [], "recommandations_id": []}

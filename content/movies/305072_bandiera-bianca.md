@@ -1,0 +1,1 @@
+{"tmdb_id": 305072, "title": "Bandiera bianca", "original_title": "Bandiera bianca", "slug_title": "bandiera-bianca", "date": "1915-12-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Maria Gandini ()", "Emilia Vidali ()", "Giovanni Enrico Vidali ()"], "comments": [], "recommandations_id": []}

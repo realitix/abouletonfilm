@@ -1,0 +1,1 @@
+{"tmdb_id": 442248, "title": "Beginning of Fashion", "original_title": "\u30d5\u30a1\u30c3\u30b7\u30e7\u30f3\u306e\u306f\u3058\u307e\u308a", "slug_title": "beginning-of-fashion", "date": "2005-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

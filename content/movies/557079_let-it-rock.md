@@ -1,0 +1,1 @@
+{"tmdb_id": 557079, "title": "Let It Rock!", "original_title": "Let It Rock!", "slug_title": "let-it-rock", "date": "2003-02-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

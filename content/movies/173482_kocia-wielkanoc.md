@@ -1,0 +1,1 @@
+{"tmdb_id": 173482, "title": "Kocia Wielkanoc", "original_title": "Kocia Wielkanoc", "slug_title": "kocia-wielkanoc", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

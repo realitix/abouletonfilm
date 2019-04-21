@@ -1,0 +1,1 @@
+{"tmdb_id": 539752, "title": "L'affaire Coquelet", "original_title": "L'affaire Coquelet", "slug_title": "l-affaire-coquelet", "date": "1935-03-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 579364, "title": "Max amoureux de la teinturi\u00e8re", "original_title": "Max amoureux de la teinturi\u00e8re", "slug_title": "max-amoureux-de-la-teinturiere", "date": "1912-02-23", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Max Linder (Max)"], "comments": [], "recommandations_id": []}

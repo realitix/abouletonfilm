@@ -1,0 +1,1 @@
+{"tmdb_id": 453288, "title": "The Lost Way of the Zombies", "original_title": "The Lost Way of the Zombies", "slug_title": "the-lost-way-of-the-zombies", "date": "2005-01-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jA2ICihFFUKN4P438OSP2hgT0xX.jpg", "actors": [], "comments": [], "recommandations_id": []}

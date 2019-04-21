@@ -1,0 +1,1 @@
+{"tmdb_id": 313002, "title": "Punk Jews", "original_title": "Punk Jews", "slug_title": "punk-jews", "date": "", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

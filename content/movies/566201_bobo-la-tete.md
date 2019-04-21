@@ -1,0 +1,1 @@
+{"tmdb_id": 566201, "title": "Bobo la t\u00eate", "original_title": "Bobo la t\u00eate", "slug_title": "bobo-la-tete", "date": "1980-12-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

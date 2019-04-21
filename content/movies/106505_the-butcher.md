@@ -1,0 +1,1 @@
+{"tmdb_id": 106505, "title": "The Butcher", "original_title": "The Butcher", "slug_title": "the-butcher", "date": "2007-01-01", "genre": "Horreur / Action", "score": "5.9/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t2gGChzv6OyELPLdjKdur7tDdrg.jpg", "actors": [], "comments": [], "recommandations_id": []}

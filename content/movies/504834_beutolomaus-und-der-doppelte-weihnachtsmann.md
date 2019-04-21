@@ -1,0 +1,1 @@
+{"tmdb_id": 504834, "title": "Beutolom\u00e4us und der doppelte Weihnachtsmann", "original_title": "Beutolom\u00e4us und der doppelte Weihnachtsmann", "slug_title": "beutolomaus-und-der-doppelte-weihnachtsmann", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

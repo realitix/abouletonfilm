@@ -1,0 +1,1 @@
+{"tmdb_id": 481487, "title": "Birayen Bedengiye", "original_title": "Birayen Bedengiye", "slug_title": "birayen-bedengiye", "date": "2017-04-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7ZVe2QivGV3baLhLjgsdRJcVGg7.jpg", "actors": [], "comments": [], "recommandations_id": []}

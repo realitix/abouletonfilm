@@ -1,0 +1,1 @@
+{"tmdb_id": 314286, "title": "The Off-Season", "original_title": "The Off-Season", "slug_title": "the-off-season", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kahlil Bell (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 564320, "title": "Pyasi Apsara", "original_title": "Pyasi Apsara", "slug_title": "pyasi-apsara", "date": "1991-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fNfx1YPUrU0WCZ6ioGiA3oqGutS.jpg", "actors": ["Ramu ()", "Ravi Menon ()", "Kapil Dev ()"], "comments": [], "recommandations_id": []}

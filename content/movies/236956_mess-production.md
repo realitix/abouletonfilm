@@ -1,0 +1,1 @@
+{"tmdb_id": 236956, "title": "Mess Production", "original_title": "Mess Production", "slug_title": "mess-production", "date": "1945-08-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

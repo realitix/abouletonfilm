@@ -1,0 +1,1 @@
+{"tmdb_id": 487661, "title": "Muggsy's First Sweetheart", "original_title": "Muggsy's First Sweetheart", "slug_title": "muggsy-s-first-sweetheart", "date": "1910-06-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Billy Quirk (Muggsy)", "Mary Pickford (Mabel Brown)"], "comments": [], "recommandations_id": []}

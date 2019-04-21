@@ -1,0 +1,1 @@
+{"tmdb_id": 423316, "title": "East-West Passage", "original_title": "Kelet-nyugati \u00e1tj\u00e1r\u00f3", "slug_title": "east-west-passage", "date": "2010-02-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Aur\u00e9l Hajt\u00f3 (Narrator (voice))"], "comments": [], "recommandations_id": []}

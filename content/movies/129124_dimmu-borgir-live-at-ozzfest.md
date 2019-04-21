@@ -1,0 +1,1 @@
+{"tmdb_id": 129124, "title": "Dimmu Borgir: Live at Ozzfest", "original_title": "Dimmu Borgir: Live at Ozzfest", "slug_title": "dimmu-borgir-live-at-ozzfest", "date": "2004-08-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8jK1h8NqliTfQQZAgWEFSZjkRGj.jpg", "actors": [], "comments": [], "recommandations_id": []}

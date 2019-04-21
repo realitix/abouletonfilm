@@ -1,0 +1,1 @@
+{"tmdb_id": 222402, "title": "The Cross and the Star", "original_title": "The Cross and the Star", "slug_title": "the-cross-and-the-star", "date": "1997-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

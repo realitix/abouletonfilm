@@ -1,0 +1,1 @@
+{"tmdb_id": 113286, "title": "Dancemaker", "original_title": "Dancemaker", "slug_title": "dancemaker", "date": "1998-12-01", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8umbAqOMHZJrXwEwwnLVa2ya2Is.jpg", "actors": [], "comments": [], "recommandations_id": []}

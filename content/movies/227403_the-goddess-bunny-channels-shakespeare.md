@@ -1,0 +1,1 @@
+{"tmdb_id": 227403, "title": "The Goddess Bunny Channels Shakespeare", "original_title": "The Goddess Bunny Channels Shakespeare", "slug_title": "the-goddess-bunny-channels-shakespeare", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

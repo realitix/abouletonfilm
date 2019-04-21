@@ -1,0 +1,1 @@
+{"tmdb_id": 533782, "title": "Ta\u00ed \u00f3, uma aventura na Lagoa", "original_title": "Ta\u00ed \u00f3, uma aventura na Lagoa", "slug_title": "tai-o-uma-aventura-na-lagoa", "date": "2014-07-10", "genre": "Aventure", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 522776, "title": "Auf der Skitour", "original_title": "Auf der Skitour", "slug_title": "auf-der-skitour", "date": "1926-05-09", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 234994, "title": "The Crystal Brawl", "original_title": "The Crystal Brawl", "slug_title": "the-crystal-brawl", "date": "1957-04-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ropeXphDu1X7YaJNqZa6rUGf0sK.jpg", "actors": [], "comments": [], "recommandations_id": []}

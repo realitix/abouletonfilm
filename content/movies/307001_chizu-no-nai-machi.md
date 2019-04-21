@@ -1,0 +1,1 @@
+{"tmdb_id": 307001, "title": "Chizu no nai machi", "original_title": "Chizu no nai machi", "slug_title": "chizu-no-nai-machi", "date": "1960-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 273048, "title": "Wild African Cats", "original_title": "Wild African Cats", "slug_title": "wild-african-cats", "date": "1993-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

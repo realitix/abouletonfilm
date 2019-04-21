@@ -1,0 +1,1 @@
+{"tmdb_id": 191987, "title": "A Strong Revenge", "original_title": "A Strong Revenge", "slug_title": "a-strong-revenge", "date": "1913-03-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mack Sennett (Schnitz)", "Mabel Normand (Mabel)", "Ford Sterling (Meyer)"], "comments": [], "recommandations_id": []}

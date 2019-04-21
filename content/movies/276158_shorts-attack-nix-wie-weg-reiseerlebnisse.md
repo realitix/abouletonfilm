@@ -1,0 +1,1 @@
+{"tmdb_id": 276158, "title": "Shorts Attack! Nix wie weg! Reiseerlebnisse", "original_title": "Shorts Attack! Nix wie weg! Reiseerlebnisse", "slug_title": "shorts-attack-nix-wie-weg-reiseerlebnisse", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

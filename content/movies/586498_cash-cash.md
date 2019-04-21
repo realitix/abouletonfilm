@@ -1,0 +1,1 @@
+{"tmdb_id": 586498, "title": "Cash? Cash!", "original_title": "Cash? Cash!", "slug_title": "cash-cash", "date": "1968-04-04", "genre": "Action / Crime / Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/TOG5mGaZaaLZrOcJvHhFgI3FLk.jpg", "actors": [], "comments": [], "recommandations_id": []}

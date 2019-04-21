@@ -1,0 +1,1 @@
+{"tmdb_id": 414809, "title": "Bitzbutz", "original_title": "Bitzbutz", "slug_title": "bitzbutz", "date": "1984-01-01", "genre": "Animation", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sNdMS7xC8uPwwrMSuO5UtM7Ud8k.jpg", "actors": [], "comments": [], "recommandations_id": []}

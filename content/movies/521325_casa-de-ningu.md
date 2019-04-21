@@ -1,0 +1,1 @@
+{"tmdb_id": 521325, "title": "Casa de ning\u00fa", "original_title": "Casa de ning\u00fa", "slug_title": "casa-de-ningu", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rHAlTVek38xIfmN0cJsTzz8YOUh.jpg", "actors": [], "comments": [], "recommandations_id": []}

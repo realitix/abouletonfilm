@@ -1,0 +1,1 @@
+{"tmdb_id": 124154, "title": "D4 The Trojan Dog", "original_title": "D4 The Trojan Dog", "slug_title": "d4-the-trojan-dog", "date": "1999-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nxYoeF0m9zrWKBytXvohmzdBJg3.jpg", "actors": [], "comments": [], "recommandations_id": []}

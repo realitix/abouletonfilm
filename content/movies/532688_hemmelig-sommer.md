@@ -1,0 +1,1 @@
+{"tmdb_id": 532688, "title": "Hemmelig sommer", "original_title": "Hemmelig sommer", "slug_title": "hemmelig-sommer", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tuDGMJhfpI77YmVNEE02VJoB4Ut.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 275881, "title": "Edith Piaf: A Passionate Life", "original_title": "Edith Piaf: A Passionate Life", "slug_title": "edith-piaf-a-passionate-life", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 179569, "title": "Terrier-Stricken", "original_title": "Terrier-Stricken", "slug_title": "terrier-stricken", "date": "1952-11-29", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5LUXTCHxFSB5v4xqL963KGU3LRt.jpg", "actors": ["Bea Benaderet (Frisky's Mistress (voice))"], "comments": [], "recommandations_id": []}

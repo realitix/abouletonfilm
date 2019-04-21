@@ -1,0 +1,1 @@
+{"tmdb_id": 532972, "title": "A Crutch For All Seasons", "original_title": "A Crutch For All Seasons", "slug_title": "a-crutch-for-all-seasons", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mI5Al7mucvRpIAEggIm8BYoBNy1.jpg", "actors": [], "comments": [], "recommandations_id": []}

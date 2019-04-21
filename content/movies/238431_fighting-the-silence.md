@@ -1,0 +1,1 @@
+{"tmdb_id": 238431, "title": "Fighting the Silence", "original_title": "Fighting the Silence", "slug_title": "fighting-the-silence", "date": "2007-11-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rFvM8OyklFDR9x2u6IBO6X6cTjx.jpg", "actors": [], "comments": [], "recommandations_id": []}

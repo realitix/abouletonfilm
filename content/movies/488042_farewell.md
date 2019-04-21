@@ -1,0 +1,1 @@
+{"tmdb_id": 488042, "title": "Farewell", "original_title": "Farewell", "slug_title": "farewell", "date": "2017-04-25", "genre": "", "score": "8.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wx5u3TON0qXGnd3y3gNBs1x9nnt.jpg", "actors": [], "comments": [], "recommandations_id": []}

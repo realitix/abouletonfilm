@@ -1,0 +1,1 @@
+{"tmdb_id": 410174, "title": "Lara Fabian: Best of Kiev", "original_title": "Lara Fabian: Best of Kiev", "slug_title": "lara-fabian-best-of-kiev", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

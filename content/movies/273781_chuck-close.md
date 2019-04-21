@@ -1,0 +1,1 @@
+{"tmdb_id": 273781, "title": "Chuck Close", "original_title": "Chuck Close", "slug_title": "chuck-close", "date": "2007-01-01", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kvQHU0L8zDXLRGbGA6u14rcpQ8O.jpg", "actors": [], "comments": [], "recommandations_id": []}

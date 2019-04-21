@@ -1,0 +1,1 @@
+{"tmdb_id": 580880, "title": "Captain Hagen's Bed & Breakfast", "original_title": "Captain Hagen's Bed & Breakfast", "slug_title": "captain-hagen-s-bed-breakfast", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

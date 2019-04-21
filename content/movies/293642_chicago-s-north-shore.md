@@ -1,0 +1,1 @@
+{"tmdb_id": 293642, "title": "Chicago's North Shore", "original_title": "Chicago's North Shore", "slug_title": "chicago-s-north-shore", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7jnKe5sefeC9Y5qrj2eGaL3k227.jpg", "actors": [], "comments": [], "recommandations_id": []}

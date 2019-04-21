@@ -1,0 +1,1 @@
+{"tmdb_id": 543015, "title": "Frequency Resonance", "original_title": "\uc774\ube68, \ub2e4\ub9ac, \uae43\ubc1c, \ud3ed\ud0c4", "slug_title": "frequency-resonance", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1yLqZIHtyMtZ4R3t1qCkP27zer6.jpg", "actors": [], "comments": [], "recommandations_id": []}

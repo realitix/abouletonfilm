@@ -1,0 +1,1 @@
+{"tmdb_id": 358225, "title": "Diamond Sutra", "original_title": "\u91d1\u525b\u7d93", "slug_title": "diamond-sutra", "date": "2012-09-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t1t7nlnbdE0UuaV3O4cs2JVBOTF.jpg", "actors": ["Lee Kang-Sheng ()"], "comments": [], "recommandations_id": []}

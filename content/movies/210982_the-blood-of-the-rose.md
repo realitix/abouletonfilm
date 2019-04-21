@@ -1,0 +1,1 @@
+{"tmdb_id": 210982, "title": "The Blood of the Rose", "original_title": "The Blood of the Rose", "slug_title": "the-blood-of-the-rose", "date": "2009-11-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

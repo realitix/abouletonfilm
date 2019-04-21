@@ -1,0 +1,1 @@
+{"tmdb_id": 565687, "title": "Downpour", "original_title": "\u10d3\u10d4\u10da\u10d2\u10db\u10d0", "slug_title": "downpour", "date": "2017-12-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Nini Tskitishvili ()", "Irakli Kiknadze ()", "Keti Dugadze ()"], "comments": [], "recommandations_id": []}

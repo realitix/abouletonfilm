@@ -1,0 +1,1 @@
+{"tmdb_id": 345483, "title": "Reik: Sesion Metropolitana", "original_title": "Reik: Sesion Metropolitana", "slug_title": "reik-sesion-metropolitana", "date": "2006-07-11", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6klowgGBM2BXnjj3KRaKD3n3mVg.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 269960, "title": "Upstate", "original_title": "Upstate", "slug_title": "upstate", "date": "2010-06-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/msDLLvrMBLts2PyB0VlgaFyYn2Y.jpg", "actors": ["Iracel Rivero (Liz)", "Max Arnaud (Steve)", "Suzan Mikiel (Sylvia)"], "comments": [], "recommandations_id": []}

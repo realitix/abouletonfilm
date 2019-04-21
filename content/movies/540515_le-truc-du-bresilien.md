@@ -1,0 +1,1 @@
+{"tmdb_id": 540515, "title": "Le truc du Br\u00e9silien", "original_title": "Le truc du Br\u00e9silien", "slug_title": "le-truc-du-bresilien", "date": "1932-12-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qHGWiI4dpQDof9dpiK0bzxDwPve.jpg", "actors": [], "comments": [], "recommandations_id": []}

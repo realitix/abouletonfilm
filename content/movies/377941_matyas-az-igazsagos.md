@@ -1,0 +1,1 @@
+{"tmdb_id": 377941, "title": "M\u00e1ty\u00e1s az igazs\u00e1gos", "original_title": "M\u00e1ty\u00e1s az igazs\u00e1gos", "slug_title": "matyas-az-igazsagos", "date": "1985-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ofKoxfJFnS6e1im6a21FcgdmFDp.jpg", "actors": [], "comments": [], "recommandations_id": []}

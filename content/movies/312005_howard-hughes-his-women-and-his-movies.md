@@ -1,0 +1,1 @@
+{"tmdb_id": 312005, "title": "Howard Hughes: His Women and His Movies", "original_title": "Howard Hughes: His Women and His Movies", "slug_title": "howard-hughes-his-women-and-his-movies", "date": "2000-06-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

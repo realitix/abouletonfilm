@@ -1,0 +1,1 @@
+{"tmdb_id": 199245, "title": "Point premier de l'ordre du jour", "original_title": "Tochka parva", "slug_title": "point-premier-de-l-ordre-du-jour", "date": "1956-11-26", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jTw1oO9qYYJfvsMMlwObgx1ryoG.jpg", "actors": [], "comments": [], "recommandations_id": []}

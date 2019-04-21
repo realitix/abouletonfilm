@@ -1,0 +1,1 @@
+{"tmdb_id": 213577, "title": "Neutral Ground", "original_title": "Neutral Ground", "slug_title": "neutral-ground", "date": "1968-12-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

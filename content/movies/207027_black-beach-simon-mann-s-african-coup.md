@@ -1,0 +1,1 @@
+{"tmdb_id": 207027, "title": "Black Beach: Simon Mann's African Coup", "original_title": "Black Beach: Simon Mann's African Coup", "slug_title": "black-beach-simon-mann-s-african-coup", "date": "2009-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

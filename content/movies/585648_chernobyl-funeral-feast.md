@@ -1,0 +1,1 @@
+{"tmdb_id": 585648, "title": "Chernobyl: Funeral Feast", "original_title": "Chornobyl. Tryzna", "slug_title": "chernobyl-funeral-feast", "date": "1993-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a85E2HtMO9Nfw6xlItPm8B0JRRm.jpg", "actors": [], "comments": [], "recommandations_id": []}

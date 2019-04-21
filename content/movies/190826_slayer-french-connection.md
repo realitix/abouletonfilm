@@ -1,0 +1,1 @@
+{"tmdb_id": 190826, "title": "Slayer: French Connection", "original_title": "Slayer: French Connection", "slug_title": "slayer-french-connection", "date": "2003-07-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xqtMfOVXKkLTDFvOvdXVKcjZzW5.jpg", "actors": [], "comments": [], "recommandations_id": []}

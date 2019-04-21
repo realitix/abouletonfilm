@@ -1,0 +1,1 @@
+{"tmdb_id": 448108, "title": "J\u00fcri Rumm", "original_title": "J\u00fcri Rumm", "slug_title": "juri-rumm", "date": "1994-05-26", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

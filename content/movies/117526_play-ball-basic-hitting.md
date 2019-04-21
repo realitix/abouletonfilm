@@ -1,0 +1,1 @@
+{"tmdb_id": 117526, "title": "Play Ball! Basic Hitting", "original_title": "Play Ball! Basic Hitting", "slug_title": "play-ball-basic-hitting", "date": "2003-10-21", "genre": "", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ttalbPdGkw64RV4oSn3dhmpIaPb.jpg", "actors": [], "comments": [], "recommandations_id": []}

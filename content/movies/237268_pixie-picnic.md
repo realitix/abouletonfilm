@@ -1,0 +1,1 @@
+{"tmdb_id": 237268, "title": "Pixie Picnic", "original_title": "Pixie Picnic", "slug_title": "pixie-picnic", "date": "1948-09-22", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2mJZaVFuxZgD75xqTicosrnJhQH.jpg", "actors": [], "comments": [], "recommandations_id": []}

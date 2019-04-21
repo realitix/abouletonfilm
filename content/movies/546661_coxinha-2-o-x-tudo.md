@@ -1,0 +1,1 @@
+{"tmdb_id": 546661, "title": "Coxinha 2 \u2013 O X Tudo", "original_title": "Coxinha 2 \u2013 O X Tudo", "slug_title": "coxinha-2-o-x-tudo", "date": "2018-09-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mD3CiA753ZcIeWGVN8z98vn9k3x.jpg", "actors": [], "comments": [], "recommandations_id": []}

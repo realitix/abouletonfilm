@@ -1,0 +1,1 @@
+{"tmdb_id": 349548, "title": "\uc544\ube60\ub294 \ubcf4\ub514\uac00\ub4dc", "original_title": "\uc544\ube60\ub294 \ubcf4\ub514\uac00\ub4dc", "slug_title": "abbaneun-bodigadeu", "date": "1995-05-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

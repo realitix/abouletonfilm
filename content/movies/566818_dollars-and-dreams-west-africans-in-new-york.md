@@ -1,0 +1,1 @@
+{"tmdb_id": 566818, "title": "Dollars and Dreams: West Africans in New York", "original_title": "Dollars and Dreams: West Africans in New York", "slug_title": "dollars-and-dreams-west-africans-in-new-york", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

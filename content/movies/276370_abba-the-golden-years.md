@@ -1,0 +1,1 @@
+{"tmdb_id": 276370, "title": "ABBA: The Golden Years", "original_title": "ABBA: The Golden Years", "slug_title": "abba-the-golden-years", "date": "2007-01-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

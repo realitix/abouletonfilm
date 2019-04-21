@@ -1,0 +1,1 @@
+{"tmdb_id": 535180, "title": "Walking Meat", "original_title": "Walking Meat", "slug_title": "walking-meat", "date": "", "genre": "Animation / Action", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

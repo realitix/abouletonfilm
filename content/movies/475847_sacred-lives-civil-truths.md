@@ -1,0 +1,1 @@
+{"tmdb_id": 475847, "title": "Sacred Lives, Civil Truths", "original_title": "Sacred Lives, Civil Truths", "slug_title": "sacred-lives-civil-truths", "date": "1993-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 242532, "title": "Rockabilly 514", "original_title": "Rockabilly 514", "slug_title": "rockabilly-514", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

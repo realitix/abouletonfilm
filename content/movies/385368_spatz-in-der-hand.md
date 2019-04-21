@@ -1,0 +1,1 @@
+{"tmdb_id": 385368, "title": "Spatz in der Hand", "original_title": "Spatz in der Hand", "slug_title": "spatz-in-der-hand", "date": "1996-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Stefan Hunstein (Carl)", "Walter Sittler (Bodo)", "Marion Mitterhammer (Simone)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 481758, "title": "Tyler Perry's Boo 2", "original_title": "Tyler Perry's Boo 2", "slug_title": "tyler-perry-s-boo-2", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b83TsZcDl6jtbcUXuS71PARqz1D.jpg", "actors": [], "comments": [], "recommandations_id": []}

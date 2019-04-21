@@ -1,0 +1,1 @@
+{"tmdb_id": 142227, "title": "The Election", "original_title": "The Election", "slug_title": "the-election", "date": "2007-07-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jdFsqo2lC0WTrq6E9ulKJEPwWVm.jpg", "actors": ["Ray Wise (John)", "Lin Shaye (The Wife)"], "comments": [], "recommandations_id": []}

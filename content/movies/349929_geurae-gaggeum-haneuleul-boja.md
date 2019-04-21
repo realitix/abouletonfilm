@@ -1,0 +1,1 @@
+{"tmdb_id": 349929, "title": "\uadf8\ub798 \uac00\ub054 \ud558\ub298\uc744 \ubcf4\uc790", "original_title": "\uadf8\ub798 \uac00\ub054 \ud558\ub298\uc744 \ubcf4\uc790", "slug_title": "geurae-gaggeum-haneuleul-boja", "date": "1990-09-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

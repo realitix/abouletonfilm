@@ -1,0 +1,1 @@
+{"tmdb_id": 511495, "title": "My Child, My Land", "original_title": "My Child, My Land", "slug_title": "my-child-my-land", "date": "1998-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

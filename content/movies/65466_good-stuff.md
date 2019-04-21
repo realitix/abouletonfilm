@@ -1,0 +1,1 @@
+{"tmdb_id": 65466, "title": "Good Stuff", "original_title": "Good Stuff", "slug_title": "good-stuff", "date": "2001-01-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rGcY51IMApG7vjhjfu3mX0oTGuX.jpg", "actors": [], "comments": [], "recommandations_id": []}

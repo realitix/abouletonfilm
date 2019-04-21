@@ -1,0 +1,1 @@
+{"tmdb_id": 78884, "title": "Neethiyin Marupakkam", "original_title": "Neethiyin Marupakkam", "slug_title": "neethiyin-marupakkam", "date": "1985-09-27", "genre": "Action / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Vijayakanth ()", "Radhika Sarathkumar ()"], "comments": [], "recommandations_id": []}

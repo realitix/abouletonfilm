@@ -1,0 +1,1 @@
+{"tmdb_id": 475988, "title": "Cinematic Jazz of Julie Dash", "original_title": "Cinematic Jazz of Julie Dash", "slug_title": "cinematic-jazz-of-julie-dash", "date": "1993-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

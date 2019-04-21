@@ -1,0 +1,1 @@
+{"tmdb_id": 584572, "title": "Good Girl", "original_title": "Good Girl", "slug_title": "good-girl", "date": "", "genre": "Drame / Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

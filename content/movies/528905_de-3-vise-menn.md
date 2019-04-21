@@ -1,0 +1,1 @@
+{"tmdb_id": 528905, "title": "De 3 vise menn", "original_title": "De 3 vise menn", "slug_title": "de-3-vise-menn", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xaEoSR9hrIIaFMgBcwwWG2154Y0.jpg", "actors": [], "comments": [], "recommandations_id": []}

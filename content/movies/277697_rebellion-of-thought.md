@@ -1,0 +1,1 @@
+{"tmdb_id": 277697, "title": "Rebellion of Thought", "original_title": "Rebellion of Thought", "slug_title": "rebellion-of-thought", "date": "2006-10-28", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

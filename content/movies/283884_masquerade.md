@@ -1,0 +1,1 @@
+{"tmdb_id": 283884, "title": "Masquerade", "original_title": "Masquerade", "slug_title": "masquerade", "date": "1981-01-01", "genre": "Animation", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k4oOdA17vMgbWbhwRgm7Dzq1SFH.jpg", "actors": [], "comments": [], "recommandations_id": []}

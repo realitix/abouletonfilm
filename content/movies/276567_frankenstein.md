@@ -1,0 +1,1 @@
+{"tmdb_id": 276567, "title": "Frankenstein", "original_title": "Frankenstein", "slug_title": "frankenstein", "date": "1995-06-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

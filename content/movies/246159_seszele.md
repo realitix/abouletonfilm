@@ -1,0 +1,1 @@
+{"tmdb_id": 246159, "title": "Seszele", "original_title": "Seszele", "slug_title": "seszele", "date": "1991-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gra\u017cyna Barszczewska ()", "Cezary Harasimowicz ()", "Marek Koterski ()"], "comments": [], "recommandations_id": []}

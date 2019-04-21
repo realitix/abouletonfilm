@@ -1,0 +1,1 @@
+{"tmdb_id": 144748, "title": "James Brown Live All The Way From Atlanta", "original_title": "James Brown Live All The Way From Atlanta", "slug_title": "james-brown-live-all-the-way-from-atlanta", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

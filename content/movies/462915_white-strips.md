@@ -1,0 +1,1 @@
+{"tmdb_id": 462915, "title": "White Strips", "original_title": "White Strips", "slug_title": "white-strips", "date": "2012-07-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tallie Medel ()", "Eleanore Pienta ()", "Sunita Mani ()"], "comments": [], "recommandations_id": []}

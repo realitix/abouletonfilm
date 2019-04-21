@@ -1,0 +1,1 @@
+{"tmdb_id": 398734, "title": "Double Negative", "original_title": "Double Negative", "slug_title": "double-negative", "date": "2016-03-12", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wiiPPoTsp45qoeAVrkxFNh8jeP.jpg", "actors": [], "comments": [], "recommandations_id": []}

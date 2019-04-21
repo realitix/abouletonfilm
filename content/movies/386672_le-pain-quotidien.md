@@ -1,0 +1,1 @@
+{"tmdb_id": 386672, "title": "Le pain quotidien", "original_title": "Le pain quotidien", "slug_title": "le-pain-quotidien", "date": "1970-03-10", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jean Callas ()", "Philipe Bordier ((voice))", "Martine Broustra ()", "Mora Laurent ()"], "comments": [], "recommandations_id": []}

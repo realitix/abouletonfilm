@@ -1,0 +1,1 @@
+{"tmdb_id": 378946, "title": "No Rastro do Eldorado", "original_title": "No Rastro do Eldorado", "slug_title": "no-rastro-do-eldorado", "date": "1925-10-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/c6vdx1GRB8To7JuFhWsdnQoFdkw.jpg", "actors": [], "comments": [], "recommandations_id": []}

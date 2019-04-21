@@ -1,0 +1,1 @@
+{"tmdb_id": 155111, "title": "Metallica: Fan Can 4", "original_title": "Metallica: Fan Can 4", "slug_title": "metallica-fan-can-4", "date": "2001-08-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dnIFsFjTY3VDpD4vMBYVWPhk5Jp.jpg", "actors": [], "comments": [], "recommandations_id": []}

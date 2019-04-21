@@ -1,0 +1,1 @@
+{"tmdb_id": 301141, "title": "Inspector Kranthikumar", "original_title": "Inspector Kranthikumar", "slug_title": "inspector-kranthikumar", "date": "1987-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

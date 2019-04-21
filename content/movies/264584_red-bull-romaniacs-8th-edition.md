@@ -1,0 +1,1 @@
+{"tmdb_id": 264584, "title": "Red Bull Romaniacs 8th Edition", "original_title": "Red Bull Romaniacs 8th Edition", "slug_title": "red-bull-romaniacs-8th-edition", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

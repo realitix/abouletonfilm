@@ -1,0 +1,1 @@
+{"tmdb_id": 141686, "title": "Guns of Victory", "original_title": "Guns of Victory", "slug_title": "guns-of-victory", "date": "1973-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6KPkBLeV3SmpGejangtQXARXWQ9.jpg", "actors": [], "comments": [], "recommandations_id": []}

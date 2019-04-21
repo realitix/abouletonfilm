@@ -1,0 +1,1 @@
+{"tmdb_id": 459298, "title": "The Animator's Survival Kit Animated", "original_title": "The Animator's Survival Kit Animated", "slug_title": "the-animator-s-survival-kit-animated", "date": "", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Richard Williams ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 367444, "title": "The bird of time", "original_title": "The bird of time", "slug_title": "the-bird-of-time", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 574965, "title": "A Pitiful Mind", "original_title": "A Pitiful Mind", "slug_title": "a-pitiful-mind", "date": "2017-09-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vnrJpGc5ZPrdqt7FA9c4j5SsWhG.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 406275, "title": "The Last Fly", "original_title": "La derni\u00e8re mouche", "slug_title": "the-last-fly", "date": "1989-01-01", "genre": "Thriller / Horreur / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

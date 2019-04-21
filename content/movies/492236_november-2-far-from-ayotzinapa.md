@@ -1,0 +1,1 @@
+{"tmdb_id": 492236, "title": "November 2/Far from Ayotzinapa", "original_title": "2 de Noviembre/ Lejos de Ayotzinapa", "slug_title": "november-2-far-from-ayotzinapa", "date": "2017-12-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 276258, "title": "Beyond Zero Point: The Journey to Compassion", "original_title": "Beyond Zero Point: The Journey to Compassion", "slug_title": "beyond-zero-point-the-journey-to-compassion", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

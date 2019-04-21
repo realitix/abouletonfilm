@@ -1,0 +1,1 @@
+{"tmdb_id": 307859, "title": "Kabirdas", "original_title": "Kabirdas", "slug_title": "kabirdas", "date": "2003-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

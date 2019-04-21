@@ -1,0 +1,1 @@
+{"tmdb_id": 486345, "title": "Mutiny on the Body", "original_title": "Mutiny on the Body", "slug_title": "mutiny-on-the-body", "date": "1939-02-10", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Joe Smith (Smith (as Smith & Dale))", "Charles Dale (Charley (as Smith & Dale))"], "comments": [], "recommandations_id": []}

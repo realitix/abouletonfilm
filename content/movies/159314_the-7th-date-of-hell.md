@@ -1,0 +1,1 @@
+{"tmdb_id": 159314, "title": "The 7th Date of Hell", "original_title": "The 7th Date of Hell", "slug_title": "the-7th-date-of-hell", "date": "1984-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kMMTQnbO4FCHtNzNEDornfWE2Ls.jpg", "actors": [], "comments": [], "recommandations_id": []}

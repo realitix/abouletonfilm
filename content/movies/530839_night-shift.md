@@ -1,0 +1,1 @@
+{"tmdb_id": 530839, "title": "Night Shift", "original_title": "Night Shift", "slug_title": "night-shift", "date": "2018-06-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fL6VYpgfsnTyrXAASgxPrK4kBHy.jpg", "actors": ["Destin Bass (Luke)", "Billy Walker (Max)"], "comments": [], "recommandations_id": []}

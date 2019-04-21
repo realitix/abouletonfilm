@@ -1,0 +1,1 @@
+{"tmdb_id": 337411, "title": "Peppa Pig: Bubbles", "original_title": "Peppa Pig: Bubbles", "slug_title": "peppa-pig-bubbles", "date": "2014-12-02", "genre": "Familial / Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qYcQkZqGA7nSQf3RXqFq3Qv9O6T.jpg", "actors": ["John Sparkes ()"], "comments": [], "recommandations_id": []}

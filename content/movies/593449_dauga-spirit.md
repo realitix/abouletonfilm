@@ -1,0 +1,1 @@
+{"tmdb_id": 593449, "title": "Dauga Spirit", "original_title": "Dauga Spirit", "slug_title": "dauga-spirit", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hmoNYhboUSUlpKtFPCriEoDaWj4.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 384566, "title": "Parvanegi", "original_title": "\u067e\u0631\u0648\u0627\u0646\u06af\u06cc", "slug_title": "parvanegi", "date": "2011-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

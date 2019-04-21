@@ -1,0 +1,1 @@
+{"tmdb_id": 92733, "title": "Parapl\u00ed\u010dko", "original_title": "Parapl\u00ed\u010dko", "slug_title": "paraplicko", "date": "1957-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dG5KvbnLmBOMUbF85IC56VIXGK3.jpg", "actors": [], "comments": [], "recommandations_id": []}

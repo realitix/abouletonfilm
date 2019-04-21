@@ -1,0 +1,1 @@
+{"tmdb_id": 212912, "title": "Lovable", "original_title": "Lovable", "slug_title": "lovable", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2UxeKUTHLJALCW5CIyuDgTlNBls.jpg", "actors": [], "comments": [], "recommandations_id": []}

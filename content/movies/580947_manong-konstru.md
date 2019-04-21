@@ -1,0 +1,1 @@
+{"tmdb_id": 580947, "title": "Manong konstru", "original_title": "Manong konstru", "slug_title": "manong-konstru", "date": "2011-06-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6RfsgSXaSnaUglxUlaeI5ymFlYm.jpg", "actors": [], "comments": [], "recommandations_id": []}

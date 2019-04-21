@@ -1,0 +1,1 @@
+{"tmdb_id": 442652, "title": "Julie Ruin - Aerobicide", "original_title": "Julie Ruin - Aerobicide", "slug_title": "julie-ruin-aerobicide", "date": "1998-02-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fQVrsAFBL4S5cjRa0k2I7lD0QKw.jpg", "actors": [], "comments": [], "recommandations_id": []}

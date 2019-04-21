@@ -1,0 +1,1 @@
+{"tmdb_id": 33033, "title": "Ally & Britt Ninja Turtles", "original_title": "Ally & Britt Ninja Turtles", "slug_title": "ally-britt-ninja-turtles", "date": "1900-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

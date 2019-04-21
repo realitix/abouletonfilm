@@ -1,0 +1,1 @@
+{"tmdb_id": 425441, "title": "Trepanations", "original_title": "Trepanations", "slug_title": "trepanations", "date": "1983-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AoQoPCzY1r8qUt3xoEpbQvxUH2m.jpg", "actors": [], "comments": [], "recommandations_id": []}

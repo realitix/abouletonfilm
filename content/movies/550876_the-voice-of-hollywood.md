@@ -1,0 +1,1 @@
+{"tmdb_id": 550876, "title": "The Voice of Hollywood", "original_title": "The Voice of Hollywood", "slug_title": "the-voice-of-hollywood", "date": "1930-04-28", "genre": "Com\u00e9die / Musique", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Robert Woolsey (Himself / host)"], "comments": [], "recommandations_id": []}

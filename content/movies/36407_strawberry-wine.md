@@ -1,0 +1,1 @@
+{"tmdb_id": 36407, "title": "Strawberry Wine", "original_title": "Wino truskawkowe", "slug_title": "strawberry-wine", "date": "2009-05-08", "genre": "", "score": "6.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bY2xyQphXTVUiAy8uyZbzFQmnrJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

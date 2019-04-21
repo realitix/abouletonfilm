@@ -1,0 +1,1 @@
+{"tmdb_id": 299224, "title": "Education for Leisure", "original_title": "Education for Leisure", "slug_title": "education-for-leisure", "date": "2010-11-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

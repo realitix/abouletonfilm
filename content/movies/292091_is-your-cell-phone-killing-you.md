@@ -1,0 +1,1 @@
+{"tmdb_id": 292091, "title": "Is Your Cell Phone Killing You?", "original_title": "Is Your Cell Phone Killing You?", "slug_title": "is-your-cell-phone-killing-you", "date": "2014-08-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

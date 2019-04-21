@@ -1,0 +1,1 @@
+{"tmdb_id": 534184, "title": "Camilo Castelo Branco", "original_title": "Camilo Castelo Branco", "slug_title": "camilo-castelo-branco", "date": "1979-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cvH0Xn1upRV21D3D1E2f9Z6JkAg.jpg", "actors": [], "comments": [], "recommandations_id": []}

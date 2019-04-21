@@ -1,0 +1,1 @@
+{"tmdb_id": 522204, "title": "Banco Brecht", "original_title": "Banco Brecht", "slug_title": "banco-brecht", "date": "2018-05-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1ObUzBHNQwSS3J3mQW0VysIQqXR.jpg", "actors": [], "comments": [], "recommandations_id": []}

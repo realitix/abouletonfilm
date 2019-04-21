@@ -1,0 +1,1 @@
+{"tmdb_id": 424958, "title": "The Death (and Life) of Carl Naardlinger", "original_title": "The Death (and Life) of Carl Naardlinger", "slug_title": "the-death-and-life-of-carl-naardlinger", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

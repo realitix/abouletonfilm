@@ -1,0 +1,1 @@
+{"tmdb_id": 394136, "title": "A Kink in the Picasso", "original_title": "A Kink in the Picasso", "slug_title": "a-kink-in-the-picasso", "date": "1990-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iyP8dRZIAh7sS0WnqAWhQfQLc9n.jpg", "actors": [], "comments": [], "recommandations_id": []}

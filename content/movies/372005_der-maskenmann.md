@@ -1,0 +1,1 @@
+{"tmdb_id": 372005, "title": "Der Maskenmann", "original_title": "Der Maskenmann", "slug_title": "der-maskenmann", "date": "2015-09-30", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Inka Friedrich ()", "Tobias Moretti ()", "Maxim Mehmet ()", "Eugen Knecht ()"], "comments": [], "recommandations_id": []}

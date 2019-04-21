@@ -1,0 +1,1 @@
+{"tmdb_id": 471916, "title": "Jaws of the Shark", "original_title": "Jaws of the Shark", "slug_title": "jaws-of-the-shark", "date": "2012-01-01", "genre": "Horreur / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hSaLE6oNkAsTfOn3qnEiWHHA09v.jpg", "actors": [], "comments": [], "recommandations_id": []}

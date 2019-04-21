@@ -1,0 +1,1 @@
+{"tmdb_id": 577288, "title": "Health of a Nation", "original_title": "Health of a Nation", "slug_title": "health-of-a-nation", "date": "1943-01-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Frank Phillips (Narration (voice))"], "comments": [], "recommandations_id": []}

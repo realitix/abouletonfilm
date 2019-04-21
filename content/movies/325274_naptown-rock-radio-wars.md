@@ -1,0 +1,1 @@
+{"tmdb_id": 325274, "title": "Naptown Rock Radio Wars", "original_title": "Naptown Rock Radio Wars", "slug_title": "naptown-rock-radio-wars", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 349403, "title": "The Sniffing Bear", "original_title": "L'ours renifleur", "slug_title": "the-sniffing-bear", "date": "1992-07-17", "genre": "Animation", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wfhY3Ev9c1fH4E3GqGz29tkQRJ4.jpg", "actors": [], "comments": [], "recommandations_id": []}

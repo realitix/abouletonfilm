@@ -1,0 +1,1 @@
+{"tmdb_id": 206367, "title": "Osito, la pel\u00edcula", "original_title": "Osito, la pel\u00edcula", "slug_title": "osito-la-pelicula", "date": "", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

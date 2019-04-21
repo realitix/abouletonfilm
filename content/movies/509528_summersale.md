@@ -1,0 +1,1 @@
+{"tmdb_id": 509528, "title": "Summersale", "original_title": "Summersale", "slug_title": "summersale", "date": "", "genre": "Horreur", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

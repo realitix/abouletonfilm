@@ -1,0 +1,1 @@
+{"tmdb_id": 373615, "title": "Continuum", "original_title": "Continuum", "slug_title": "continuum", "date": "1977-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

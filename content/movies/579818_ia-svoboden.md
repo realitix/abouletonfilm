@@ -1,0 +1,1 @@
+{"tmdb_id": 579818, "title": "\u042f \u0441\u0432\u043e\u0431\u043e\u0434\u0435\u043d", "original_title": "\u042f \u0441\u0432\u043e\u0431\u043e\u0434\u0435\u043d", "slug_title": "ia-svoboden", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

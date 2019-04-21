@@ -1,0 +1,1 @@
+{"tmdb_id": 149245, "title": "Design for Death", "original_title": "Design for Death", "slug_title": "design-for-death", "date": "1947-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jebaPEhErQ2qXBHITsoPiQDjCkQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

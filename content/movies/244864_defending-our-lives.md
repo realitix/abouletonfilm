@@ -1,0 +1,1 @@
+{"tmdb_id": 244864, "title": "Defending Our Lives", "original_title": "Defending Our Lives", "slug_title": "defending-our-lives", "date": "1994-03-04", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cCqvGsgN9ujAlzeY0Msgq8UVFtt.jpg", "actors": [], "comments": [], "recommandations_id": []}

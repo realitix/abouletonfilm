@@ -1,0 +1,1 @@
+{"tmdb_id": 73192, "title": "Scarred", "original_title": "Scarred", "slug_title": "scarred", "date": "2004-08-21", "genre": "Drame / Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/njoiE4Tph5Svl7hUYOehzdPHlL7.jpg", "actors": ["Neville Millar (Andy)", "Steve Looker (Director)"], "comments": [], "recommandations_id": []}

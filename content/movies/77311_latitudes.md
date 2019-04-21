@@ -1,0 +1,1 @@
+{"tmdb_id": 77311, "title": "Latitudes", "original_title": "Latitudes", "slug_title": "latitudes", "date": "2012-08-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3u1YS7Jy5EjCkg56ULRWw0Xzwbg.jpg", "actors": [], "comments": [], "recommandations_id": []}

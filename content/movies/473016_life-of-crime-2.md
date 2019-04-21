@@ -1,0 +1,1 @@
+{"tmdb_id": 473016, "title": "Life of Crime 2", "original_title": "Life of Crime 2", "slug_title": "life-of-crime-2", "date": "1998-12-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

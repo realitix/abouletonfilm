@@ -1,0 +1,1 @@
+{"tmdb_id": 235024, "title": "Mission cavali\u00e8re", "original_title": "Boston Quackie", "slug_title": "mission-cavaliere", "date": "1957-06-21", "genre": "", "score": "6.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nCz8Mr8cht75xnf8ZtX1hTVMCwF.jpg", "actors": [], "comments": [], "recommandations_id": [118318, 165853, 118316, 163036]}

@@ -1,0 +1,1 @@
+{"tmdb_id": 193491, "title": "The Printing", "original_title": "The Printing", "slug_title": "the-printing", "date": "", "genre": "Familial / Drame / Histoire", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lkc0QwHuCITeUZjy9SNqfkf0Y84.jpg", "actors": [], "comments": [], "recommandations_id": []}

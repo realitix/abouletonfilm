@@ -1,0 +1,1 @@
+{"tmdb_id": 134787, "title": "M\u00f3nica del Raval", "original_title": "M\u00f3nica del Raval", "slug_title": "monica-del-raval", "date": "2009-10-02", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3mzbTLLTprBGNISG1CTdTyUj1j9.jpg", "actors": ["M\u00f3nica Coronado (Herself)"], "comments": [], "recommandations_id": []}

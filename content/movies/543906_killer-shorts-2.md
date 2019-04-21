@@ -1,0 +1,1 @@
+{"tmdb_id": 543906, "title": "Killer Shorts 2", "original_title": "Killer Shorts 2", "slug_title": "killer-shorts-2", "date": "2010-01-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iBBsC8VJ6FehFDBKsmTEN83Gdca.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 480441, "title": "DUCKMEN of Middle Earth", "original_title": "DUCKMEN of Middle Earth", "slug_title": "duckmen-of-middle-earth", "date": "2004-10-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wwsouSZIhgEsPSaZH1S3W257RkI.jpg", "actors": [], "comments": [], "recommandations_id": []}

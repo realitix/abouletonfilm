@@ -1,0 +1,1 @@
+{"tmdb_id": 307896, "title": "Eradu Nakshatragalu", "original_title": "Eradu Nakshatragalu", "slug_title": "eradu-nakshatragalu", "date": "1983-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

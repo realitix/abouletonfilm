@@ -1,0 +1,1 @@
+{"tmdb_id": 350477, "title": "\ubb34\ub9bc 18\uc5ec\uac78", "original_title": "\ubb34\ub9bc 18\uc5ec\uac78", "slug_title": "murim-18yeogeol", "date": "1979-11-04", "genre": "", "score": "1.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

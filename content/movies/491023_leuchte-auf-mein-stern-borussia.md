@@ -1,0 +1,1 @@
+{"tmdb_id": 491023, "title": "Leuchte auf, mein Stern Borussia!", "original_title": "Leuchte auf, mein Stern Borussia!", "slug_title": "leuchte-auf-mein-stern-borussia", "date": "1997-06-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

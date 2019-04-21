@@ -1,0 +1,1 @@
+{"tmdb_id": 302659, "title": "Rick Najera: Diary of a Dadman", "original_title": "Rick Najera: Diary of a Dadman", "slug_title": "rick-najera-diary-of-a-dadman", "date": "2011-02-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bMkGEKCf4X4pZDQGIZvEcgFukvC.jpg", "actors": [], "comments": [], "recommandations_id": []}

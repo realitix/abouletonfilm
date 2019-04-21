@@ -1,0 +1,1 @@
+{"tmdb_id": 584665, "title": "Rosa Fuerte", "original_title": "Rosa Fuerte", "slug_title": "rosa-fuerte", "date": "2014-10-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lRfpJjEFYnjysoSdwtRGHJBzv8L.jpg", "actors": [], "comments": [], "recommandations_id": []}

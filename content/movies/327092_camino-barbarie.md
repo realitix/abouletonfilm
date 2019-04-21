@@ -1,0 +1,1 @@
+{"tmdb_id": 327092, "title": "Camino, barbarie", "original_title": "Camino, barbarie", "slug_title": "camino-barbarie", "date": "2005-12-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vsVC1mp8A0cEV1dfw5lJDdnce7h.jpg", "actors": [], "comments": [], "recommandations_id": []}

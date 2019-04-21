@@ -1,0 +1,1 @@
+{"tmdb_id": 535565, "title": "Motel 6 (Not a Thriller)", "original_title": "Motel 6 (Not a Thriller)", "slug_title": "motel-6-not-a-thriller", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

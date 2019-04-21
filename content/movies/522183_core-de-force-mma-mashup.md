@@ -1,0 +1,1 @@
+{"tmdb_id": 522183, "title": "Core De Force - MMA Mashup", "original_title": "Core De Force - MMA Mashup", "slug_title": "core-de-force-mma-mashup", "date": "2016-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4eeFzlmTpp27vfmBekvuJ8DAIRC.jpg", "actors": [], "comments": [], "recommandations_id": []}

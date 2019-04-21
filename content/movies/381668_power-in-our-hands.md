@@ -1,0 +1,1 @@
+{"tmdb_id": 381668, "title": "Power In Our Hands", "original_title": "Power In Our Hands", "slug_title": "power-in-our-hands", "date": "2016-02-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/luRh4rcm4aCpv1RmDmDDscfQR0W.jpg", "actors": [], "comments": [], "recommandations_id": []}

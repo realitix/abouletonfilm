@@ -1,0 +1,1 @@
+{"tmdb_id": 477370, "title": "Dark Mixer", "original_title": "Dark Mixer", "slug_title": "dark-mixer", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ez3TDQRO5s0F2FikDNElqtvSPA4.jpg", "actors": [], "comments": [], "recommandations_id": []}

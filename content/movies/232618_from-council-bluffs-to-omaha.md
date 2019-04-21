@@ -1,0 +1,1 @@
+{"tmdb_id": 232618, "title": "From Council Bluffs to Omaha", "original_title": "From Council Bluffs to Omaha", "slug_title": "from-council-bluffs-to-omaha", "date": "1900-12-03", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

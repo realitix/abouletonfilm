@@ -1,0 +1,1 @@
+{"tmdb_id": 361637, "title": "Angels of War", "original_title": "Angels of War", "slug_title": "angels-of-war", "date": "1983-02-27", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s2Nv5QvY1I1W3QjRHbqs9I7np7N.jpg", "actors": [], "comments": [], "recommandations_id": []}

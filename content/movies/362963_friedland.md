@@ -1,0 +1,1 @@
+{"tmdb_id": 362963, "title": "Friedland", "original_title": "Friedland", "slug_title": "friedland", "date": "2015-09-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

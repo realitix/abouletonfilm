@@ -1,0 +1,1 @@
+{"tmdb_id": 500796, "title": "The Wages of Sin", "original_title": "The Wages of Sin", "slug_title": "the-wages-of-sin", "date": "1938-07-14", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bUJfl664hcGud6sYCbbyppd5yde.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 252364, "title": "Homenaje a las Brigadas de Navarra", "original_title": "Homenaje a las Brigadas de Navarra", "slug_title": "homenaje-a-las-brigadas-de-navarra", "date": "1937-01-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

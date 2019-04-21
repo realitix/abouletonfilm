@@ -1,0 +1,1 @@
+{"tmdb_id": 270130, "title": "Murugan Kattiya Vazhi", "original_title": "Murugan Kattiya Vazhi", "slug_title": "murugan-kattiya-vazhi", "date": "1974-01-01", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["A. V. M. Rajan ()", "Vijayakumar ()", "Sripriya ()"], "comments": [], "recommandations_id": []}

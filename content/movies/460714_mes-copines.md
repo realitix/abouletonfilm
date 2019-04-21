@@ -1,0 +1,1 @@
+{"tmdb_id": 460714, "title": "Mes copines", "original_title": "Mes copines", "slug_title": "mes-copines", "date": "2002-06-06", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Karin Viard (Karin)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 266283, "title": "Teritorija. Vija Celmi\u0146\u0161", "original_title": "Teritorija. Vija Celmi\u0146\u0161", "slug_title": "teritorija-vija-celmins", "date": "2014-04-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kzknaZFjydYlODKyXt1Yg2hlzqo.jpg", "actors": [], "comments": [], "recommandations_id": []}

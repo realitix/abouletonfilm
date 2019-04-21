@@ -1,0 +1,1 @@
+{"tmdb_id": 302833, "title": "History of Nothing", "original_title": "History of Nothing", "slug_title": "history-of-nothing", "date": "1963-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

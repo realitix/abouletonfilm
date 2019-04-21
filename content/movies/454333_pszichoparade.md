@@ -1,0 +1,1 @@
+{"tmdb_id": 454333, "title": "Pszichopar\u00e1d\u00e9", "original_title": "Pszichopar\u00e1d\u00e9", "slug_title": "pszichoparade", "date": "2002-04-25", "genre": "Animation", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

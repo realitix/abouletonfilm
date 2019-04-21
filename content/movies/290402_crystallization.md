@@ -1,0 +1,1 @@
+{"tmdb_id": 290402, "title": "Crystallization", "original_title": "Crystallization", "slug_title": "crystallization", "date": "1974-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eNYYV5FJit33UXgvFfwbzg1L6yw.jpg", "actors": ["Marguerite Ray (Narrator)"], "comments": [], "recommandations_id": []}

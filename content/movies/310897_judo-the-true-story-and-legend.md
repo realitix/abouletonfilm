@@ -1,0 +1,1 @@
+{"tmdb_id": 310897, "title": "Judo: The True Story and Legend", "original_title": "Judo: The True Story and Legend", "slug_title": "judo-the-true-story-and-legend", "date": "1997-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

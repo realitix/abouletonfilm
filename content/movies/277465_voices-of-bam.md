@@ -1,0 +1,1 @@
+{"tmdb_id": 277465, "title": "Voices of Bam", "original_title": "Voices of Bam", "slug_title": "voices-of-bam", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

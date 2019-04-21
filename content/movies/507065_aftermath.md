@@ -1,0 +1,1 @@
+{"tmdb_id": 507065, "title": "Aftermath", "original_title": "Aftermath", "slug_title": "aftermath", "date": "2005-08-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1CyT0MBtfrDnvmMO1WYLvfazKzW.jpg", "actors": [], "comments": [], "recommandations_id": []}

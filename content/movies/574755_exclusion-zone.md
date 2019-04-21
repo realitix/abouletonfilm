@@ -1,0 +1,1 @@
+{"tmdb_id": 574755, "title": "Exclusion Zone", "original_title": "Exclusion Zone", "slug_title": "exclusion-zone", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h7KGaljyfKid7bzCgYj1JI7aONV.jpg", "actors": [], "comments": [], "recommandations_id": []}

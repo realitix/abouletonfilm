@@ -1,0 +1,1 @@
+{"tmdb_id": 368663, "title": "Krackoon", "original_title": "Krackoon", "slug_title": "krackoon", "date": "2010-11-14", "genre": "Com\u00e9die / Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sal Amore (Peter Rabbit)"], "comments": [], "recommandations_id": []}

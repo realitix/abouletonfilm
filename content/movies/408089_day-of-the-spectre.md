@@ -1,0 +1,1 @@
+{"tmdb_id": 408089, "title": "Day of the Spectre", "original_title": "Day of the Spectre", "slug_title": "day-of-the-spectre", "date": "2013-07-23", "genre": "", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ftvB35ADPjpnPqPG9UC4Wof7ISN.jpg", "actors": [], "comments": [], "recommandations_id": []}

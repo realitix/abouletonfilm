@@ -1,0 +1,1 @@
+{"tmdb_id": 145513, "title": "Fat Pat: Ghetto Dreams", "original_title": "Fat Pat: Ghetto Dreams", "slug_title": "fat-pat-ghetto-dreams", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yyVqP5tGi9gK0qLjOJHIeKoRaQK.jpg", "actors": [], "comments": [], "recommandations_id": []}

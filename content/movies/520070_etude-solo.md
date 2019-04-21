@@ -1,0 +1,1 @@
+{"tmdb_id": 520070, "title": "Etude, Solo", "original_title": "Etude, Solo", "slug_title": "etude-solo", "date": "2011-08-09", "genre": "Drame / Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Choi Woo-shik (Kyung Min)", "Seo Ji-Seung ()", "Hwang Kyung-Min ()"], "comments": [], "recommandations_id": []}

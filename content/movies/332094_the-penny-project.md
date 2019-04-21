@@ -1,0 +1,1 @@
+{"tmdb_id": 332094, "title": "The Penny Project", "original_title": "Mashru al-Qirsh", "slug_title": "the-penny-project", "date": "1932-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 184525, "title": "The Quail Hunt", "original_title": "The Quail Hunt", "slug_title": "the-quail-hunt", "date": "1935-09-22", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

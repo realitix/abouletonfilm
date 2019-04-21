@@ -1,0 +1,1 @@
+{"tmdb_id": 350495, "title": "\uad6c\ub8e1\ub300\ubd80", "original_title": "\uad6c\ub8e1\ub300\ubd80", "slug_title": "guryongdaebu", "date": "1990-09-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

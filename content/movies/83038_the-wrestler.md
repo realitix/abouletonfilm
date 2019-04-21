@@ -1,0 +1,1 @@
+{"tmdb_id": 83038, "title": "The Wrestler", "original_title": "The Wrestler", "slug_title": "the-wrestler", "date": "1974-04-28", "genre": "", "score": "3.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5GqQJqDFH8MdYwwvNTuCBSN0tux.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 540089, "title": "As Aventuras de Dom Quixota e Sam Chup\u00e3o", "original_title": "As Aventuras de Dom Quixota e Sam Chup\u00e3o", "slug_title": "as-aventuras-de-dom-quixota-e-sam-chupao", "date": "2015-03-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 468093, "title": "Glucose", "original_title": "Glucose", "slug_title": "glucose", "date": "2017-03-12", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zqXJuUHfBpdtuqRhRflaYXwzA4j.jpg", "actors": [], "comments": [], "recommandations_id": []}

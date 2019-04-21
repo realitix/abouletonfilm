@@ -1,0 +1,1 @@
+{"tmdb_id": 365391, "title": "Mid-July Days", "original_title": "Mid-July Days", "slug_title": "mid-july-days", "date": "2015-08-14", "genre": "Horreur / Thriller", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oyYfc0FTG21uNrEdZVs83U8WAXP.jpg", "actors": [], "comments": [], "recommandations_id": []}

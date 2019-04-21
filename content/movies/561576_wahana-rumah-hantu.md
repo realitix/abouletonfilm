@@ -1,0 +1,1 @@
+{"tmdb_id": 561576, "title": "Wahana Rumah Hantu", "original_title": "Wahana Rumah Hantu", "slug_title": "wahana-rumah-hantu", "date": "2018-11-08", "genre": "Horreur / Com\u00e9die / Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lB7jqkPUForZ1Fru2dEn5MY576O.jpg", "actors": [], "comments": [], "recommandations_id": []}

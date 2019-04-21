@@ -1,0 +1,1 @@
+{"tmdb_id": 344287, "title": "An Eye for Figures", "original_title": "An Eye for Figures", "slug_title": "an-eye-for-figures", "date": "1920-06-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hank Mann ()"], "comments": [], "recommandations_id": []}

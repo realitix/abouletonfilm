@@ -1,0 +1,1 @@
+{"tmdb_id": 572072, "title": "Company", "original_title": "Company", "slug_title": "company", "date": "2018-10-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9Xi60OApGIYmgTXHU52z4hVoJyE.jpg", "actors": [], "comments": [], "recommandations_id": []}

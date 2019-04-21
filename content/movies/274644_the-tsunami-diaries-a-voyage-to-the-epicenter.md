@@ -1,0 +1,1 @@
+{"tmdb_id": 274644, "title": "The Tsunami Diaries: A Voyage to the Epicenter", "original_title": "The Tsunami Diaries: A Voyage to the Epicenter", "slug_title": "the-tsunami-diaries-a-voyage-to-the-epicenter", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

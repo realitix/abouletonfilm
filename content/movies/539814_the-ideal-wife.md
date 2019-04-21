@@ -1,0 +1,1 @@
+{"tmdb_id": 539814, "title": "The Ideal Wife", "original_title": "Die ideale Gattin", "slug_title": "the-ideal-wife", "date": "1913-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ernst Lubitsch ()", "Lyda Salmonova ()", "Paul Biensfeldt ()", "Grete Berger ()"], "comments": [], "recommandations_id": []}

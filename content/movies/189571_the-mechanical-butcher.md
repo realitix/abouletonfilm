@@ -1,0 +1,1 @@
+{"tmdb_id": 189571, "title": "The Mechanical Butcher", "original_title": "Charcuterie m\u00e9canique", "slug_title": "the-mechanical-butcher", "date": "1895-02-01", "genre": "Com\u00e9die / Science-Fiction", "score": "5.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [189582, 190572, 127391, 190584]}

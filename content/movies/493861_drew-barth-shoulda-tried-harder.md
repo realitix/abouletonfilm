@@ -1,0 +1,1 @@
+{"tmdb_id": 493861, "title": "Drew Barth: Shoulda Tried Harder", "original_title": "Drew Barth: Shoulda Tried Harder", "slug_title": "drew-barth-shoulda-tried-harder", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

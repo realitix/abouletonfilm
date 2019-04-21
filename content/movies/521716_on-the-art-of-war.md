@@ -1,0 +1,1 @@
+{"tmdb_id": 521716, "title": "On the Art of War", "original_title": "Dell'arte della guerra", "slug_title": "on-the-art-of-war", "date": "2012-05-01", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j1T5NOXHwOQaqHdVIadn8ZNOqJP.jpg", "actors": [], "comments": [], "recommandations_id": []}

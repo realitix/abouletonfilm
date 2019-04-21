@@ -1,0 +1,1 @@
+{"tmdb_id": 468674, "title": "Cursed Be Your Name, Liberty", "original_title": "Maldito sea tu nombre, libertad", "slug_title": "cursed-be-your-name-liberty", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

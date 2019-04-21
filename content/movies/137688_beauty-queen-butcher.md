@@ -1,0 +1,1 @@
+{"tmdb_id": 137688, "title": "Beauty Queen Butcher", "original_title": "Beauty Queen Butcher", "slug_title": "beauty-queen-butcher", "date": "1991-01-01", "genre": "Horreur", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ir3wxWcKaERfxFVHmNpXLDMGUjA.jpg", "actors": [], "comments": [], "recommandations_id": []}

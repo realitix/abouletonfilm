@@ -1,0 +1,1 @@
+{"tmdb_id": 214287, "title": "Mongolia", "original_title": "Mongolia", "slug_title": "mongolia", "date": "1913-08-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

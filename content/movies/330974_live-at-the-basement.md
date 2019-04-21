@@ -1,0 +1,1 @@
+{"tmdb_id": 330974, "title": "Live at the basement", "original_title": "Live at the basement", "slug_title": "live-at-the-basement", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6zmLGM0GsxGImKPcEXl2deFsVA2.jpg", "actors": ["Eric Bibb (Musician)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 358626, "title": "Il mio eroe Paperino", "original_title": "Il mio eroe Paperino", "slug_title": "il-mio-eroe-paperino", "date": "2004-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2ceP71sWnm0ErBShOKVZMem422j.jpg", "actors": [], "comments": [], "recommandations_id": [36218, 34065, 34067, 33875]}

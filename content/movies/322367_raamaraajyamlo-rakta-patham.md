@@ -1,0 +1,1 @@
+{"tmdb_id": 322367, "title": "Raamaraajyamlo Rakta Patham", "original_title": "Raamaraajyamlo Rakta Patham", "slug_title": "raamaraajyamlo-rakta-patham", "date": "1976-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

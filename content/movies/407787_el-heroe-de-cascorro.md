@@ -1,0 +1,1 @@
+{"tmdb_id": 407787, "title": "El h\u00e9roe de Cascorro", "original_title": "El h\u00e9roe de Cascorro", "slug_title": "el-heroe-de-cascorro", "date": "1929-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4p81wfG03bEA4By6Xeede4WbwUm.jpg", "actors": [], "comments": [], "recommandations_id": []}

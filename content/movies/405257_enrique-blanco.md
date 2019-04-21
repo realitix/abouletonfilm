@@ -1,0 +1,1 @@
+{"tmdb_id": 405257, "title": "Enrique Blanco", "original_title": "Enrique Blanco", "slug_title": "enrique-blanco", "date": "1971-05-04", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z5sIwKvxWicKw9hgPArlKv7sW86.jpg", "actors": ["Luis Arroyo ()", "Jos\u00e9 Yedra ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 542873, "title": "Negative Space", "original_title": "Negative Space", "slug_title": "negative-space", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b91OpBel4TlxdfMGTZDPoGTuR2v.jpg", "actors": ["Manny Farber ()", "Dave Hickey ()"], "comments": [], "recommandations_id": []}

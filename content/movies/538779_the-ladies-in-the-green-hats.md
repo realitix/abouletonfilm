@@ -1,0 +1,1 @@
+{"tmdb_id": 538779, "title": "The Ladies in the Green Hats", "original_title": "Ces dames aux chapeaux verts", "slug_title": "the-ladies-in-the-green-hats", "date": "1937-12-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xqF2oJAqPXIo9ALCfeHfKAfH9Ra.jpg", "actors": [], "comments": [], "recommandations_id": []}

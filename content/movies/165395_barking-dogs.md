@@ -1,0 +1,1 @@
+{"tmdb_id": 165395, "title": "Barking Dogs", "original_title": "Barking Dogs", "slug_title": "barking-dogs", "date": "1933-05-17", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

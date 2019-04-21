@@ -1,0 +1,1 @@
+{"tmdb_id": 476642, "title": "Day of a Thousand Screams", "original_title": "Day of a Thousand Screams", "slug_title": "day-of-a-thousand-screams", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

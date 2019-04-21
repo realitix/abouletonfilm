@@ -1,0 +1,1 @@
+{"tmdb_id": 470697, "title": "A Day with the Gipsies", "original_title": "A Day with the Gipsies", "slug_title": "a-day-with-the-gipsies", "date": "1906-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

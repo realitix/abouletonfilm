@@ -1,0 +1,1 @@
+{"tmdb_id": 309633, "title": "Yung Joc: The Jocumentary", "original_title": "Yung Joc: The Jocumentary", "slug_title": "yung-joc-the-jocumentary", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

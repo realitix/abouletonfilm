@@ -1,0 +1,1 @@
+{"tmdb_id": 559458, "title": "Phoolan Devi - Rebellion einer Banditin", "original_title": "Phoolan Devi - Rebellion einer Banditin", "slug_title": "phoolan-devi-rebellion-einer-banditin", "date": "1994-02-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

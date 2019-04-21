@@ -1,0 +1,1 @@
+{"tmdb_id": 439472, "title": "Hello Kitty - Plays Pretend", "original_title": "Hello Kitty - Plays Pretend", "slug_title": "hello-kitty-plays-pretend", "date": "1987-12-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m23ci3SRmdQOCbnq7qVttC3JGcc.jpg", "actors": [], "comments": [], "recommandations_id": []}

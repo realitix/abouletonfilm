@@ -1,0 +1,1 @@
+{"tmdb_id": 322491, "title": "Being: the Finest", "original_title": "Being: the Finest", "slug_title": "being-the-finest", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

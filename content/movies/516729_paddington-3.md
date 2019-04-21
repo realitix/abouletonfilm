@@ -1,0 +1,1 @@
+{"tmdb_id": 516729, "title": "Paddington 3", "original_title": "Paddington 3", "slug_title": "paddington-3", "date": "", "genre": "Animation / Com\u00e9die / Familial", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

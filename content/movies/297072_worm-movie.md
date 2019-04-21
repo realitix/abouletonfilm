@@ -1,0 +1,1 @@
+{"tmdb_id": 297072, "title": "Worm Movie", "original_title": "Worm Movie", "slug_title": "worm-movie", "date": "1985-01-01", "genre": "Musique", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vp9xNSai7O5fErWoPThjX3P3TsW.jpg", "actors": ["Lung Leg ()"], "comments": [], "recommandations_id": []}

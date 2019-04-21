@@ -1,0 +1,1 @@
+{"tmdb_id": 349623, "title": "\uc0b0\ub3d9 \uc5ec\uc790\ubb3c\uc7a5\uc218", "original_title": "\uc0b0\ub3d9 \uc5ec\uc790\ubb3c\uc7a5\uc218", "slug_title": "sandong-yeojamuljangsu", "date": "1983-02-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

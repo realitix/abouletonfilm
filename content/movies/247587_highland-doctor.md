@@ -1,0 +1,1 @@
+{"tmdb_id": 247587, "title": "Highland Doctor", "original_title": "Highland Doctor", "slug_title": "highland-doctor", "date": "1943-07-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

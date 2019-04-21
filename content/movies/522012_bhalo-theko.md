@@ -1,0 +1,1 @@
+{"tmdb_id": 522012, "title": "Bhalo Theko", "original_title": "Bhalo Theko", "slug_title": "bhalo-theko", "date": "2018-02-02", "genre": "Drame / Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1ZgVguLqrVMoigmYVsYbqN4nXJi.jpg", "actors": ["Arifin Shuvo ()", "Tanha Tasnia (Nila)"], "comments": [], "recommandations_id": []}

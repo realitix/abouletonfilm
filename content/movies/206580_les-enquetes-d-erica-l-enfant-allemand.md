@@ -1,0 +1,1 @@
+{"tmdb_id": 206580, "title": "Les enqu\u00eates d'Erica : L'enfant allemand", "original_title": "The Hidden Child", "slug_title": "les-enquetes-d-erica-l-enfant-allemand", "date": "2007-04-16", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Maud Dahme ()"], "comments": [], "recommandations_id": []}

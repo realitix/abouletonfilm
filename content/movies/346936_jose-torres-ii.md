@@ -1,0 +1,1 @@
+{"tmdb_id": 346936, "title": "Jose Torres II", "original_title": "Jose Torres II", "slug_title": "jose-torres-ii", "date": "1965-03-04", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yTWJ6NHSSMWKTqDQYg1rjd5Gvg9.jpg", "actors": ["Hiroshi Akutagawa (Narrator (voice))"], "comments": [], "recommandations_id": []}

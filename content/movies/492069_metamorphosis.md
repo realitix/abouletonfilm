@@ -1,0 +1,1 @@
+{"tmdb_id": 492069, "title": "Metamorphosis", "original_title": "Metamorfozy", "slug_title": "metamorphosis", "date": "1987-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sEfoqyvoUZLImnrqaHklcZdmyaS.jpg", "actors": [], "comments": [], "recommandations_id": []}

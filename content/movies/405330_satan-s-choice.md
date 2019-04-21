@@ -1,0 +1,1 @@
+{"tmdb_id": 405330, "title": "Satan's Choice", "original_title": "Satan's Choice", "slug_title": "satan-s-choice", "date": "1965-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nhftX1JRXMgYe5ymjroQAd406WQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

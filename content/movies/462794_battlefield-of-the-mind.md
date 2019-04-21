@@ -1,0 +1,1 @@
+{"tmdb_id": 462794, "title": "Battlefield of the Mind", "original_title": "Battlefield of the Mind", "slug_title": "battlefield-of-the-mind", "date": "2009-04-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yYOqVAtkATyoAGvQ5Cjcr5K7Naj.jpg", "actors": ["Joyce Meyer ()"], "comments": [], "recommandations_id": []}

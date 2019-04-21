@@ -1,0 +1,1 @@
+{"tmdb_id": 282571, "title": "Sambrama", "original_title": "Sambrama", "slug_title": "sambrama", "date": "1999-07-18", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ramesh Aravind ()", "Hema Panchamukhi ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 315990, "title": "Vietnam Nurses", "original_title": "Vietnam Nurses", "slug_title": "vietnam-nurses", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9X9lIvOiYeVwtfeM6GUuOv0sKuB.jpg", "actors": [], "comments": [], "recommandations_id": []}

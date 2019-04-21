@@ -1,0 +1,1 @@
+{"tmdb_id": 228831, "title": "African Safari Adventure", "original_title": "African Safari Adventure", "slug_title": "african-safari-adventure", "date": "2013-09-05", "genre": "Documentaire", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dHJ5ej8ki2k46m7DsFpQwpYhDmr.jpg", "actors": [], "comments": [], "recommandations_id": []}

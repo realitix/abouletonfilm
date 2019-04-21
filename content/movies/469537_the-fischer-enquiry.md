@@ -1,0 +1,1 @@
+{"tmdb_id": 469537, "title": "The Fischer Enquiry", "original_title": "The Fischer Enquiry", "slug_title": "the-fischer-enquiry", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wmoRPaM0zw3CSSGdBK1QEMhirYr.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 242984, "title": "Bridge of Time", "original_title": "Bridge of Time", "slug_title": "bridge-of-time", "date": "1950-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

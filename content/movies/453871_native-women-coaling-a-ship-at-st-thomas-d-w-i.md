@@ -1,0 +1,1 @@
+{"tmdb_id": 453871, "title": "Native Women Coaling a Ship at St. Thomas, D.W.I.", "original_title": "Native Women Coaling a Ship at St. Thomas, D.W.I.", "slug_title": "native-women-coaling-a-ship-at-st-thomas-d-w-i", "date": "1903-04-22", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

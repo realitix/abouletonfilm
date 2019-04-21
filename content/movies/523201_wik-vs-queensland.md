@@ -1,0 +1,1 @@
+{"tmdb_id": 523201, "title": "Wik vs Queensland", "original_title": "Wik vs Queensland", "slug_title": "wik-vs-queensland", "date": "2018-06-08", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qnlknvgrvdeZVHaS2muFPC2clYV.jpg", "actors": [], "comments": [], "recommandations_id": []}

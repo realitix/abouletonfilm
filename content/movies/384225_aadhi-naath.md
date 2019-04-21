@@ -1,0 +1,1 @@
+{"tmdb_id": 384225, "title": "Aadhi Naath", "original_title": "Aadhi Naath", "slug_title": "aadhi-naath", "date": "", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

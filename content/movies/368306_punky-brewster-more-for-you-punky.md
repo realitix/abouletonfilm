@@ -1,0 +1,1 @@
+{"tmdb_id": 368306, "title": "Punky Brewster: More for you, Punky", "original_title": "Punky Brewster: More for you, Punky", "slug_title": "punky-brewster-more-for-you-punky", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

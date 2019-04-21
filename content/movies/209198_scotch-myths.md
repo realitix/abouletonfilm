@@ -1,0 +1,1 @@
+{"tmdb_id": 209198, "title": "Scotch Myths", "original_title": "Scotch Myths", "slug_title": "scotch-myths", "date": "1983-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/punOhojpsR6ImWUlPOeku3lv6iN.jpg", "actors": [], "comments": [], "recommandations_id": []}

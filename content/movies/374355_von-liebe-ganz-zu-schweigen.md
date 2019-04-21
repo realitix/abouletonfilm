@@ -1,0 +1,1 @@
+{"tmdb_id": 374355, "title": "Von Liebe ganz zu schweigen", "original_title": "Von Liebe ganz zu schweigen", "slug_title": "von-liebe-ganz-zu-schweigen", "date": "1978-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Marion Kracht ()"], "comments": [], "recommandations_id": []}

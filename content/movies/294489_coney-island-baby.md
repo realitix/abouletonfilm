@@ -1,0 +1,1 @@
+{"tmdb_id": 294489, "title": "Coney Island Baby", "original_title": "Coney Island Baby", "slug_title": "coney-island-baby", "date": "2003-04-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 309517, "title": "The Killers: Leaving Las Vegas", "original_title": "The Killers: Leaving Las Vegas", "slug_title": "the-killers-leaving-las-vegas", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zmFXMeHenaEbuWmNjiVwAWDJtOP.jpg", "actors": [], "comments": [], "recommandations_id": []}

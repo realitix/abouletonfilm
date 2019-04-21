@@ -1,0 +1,1 @@
+{"tmdb_id": 408120, "title": "La fiesta del cine", "original_title": "La fiesta del cine", "slug_title": "la-fiesta-del-cine", "date": "2015-02-25", "genre": "Com\u00e9die", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/seDgx4nZkYazNmPgA2W8zIEO93w.jpg", "actors": [], "comments": [], "recommandations_id": []}

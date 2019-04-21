@@ -1,0 +1,1 @@
+{"tmdb_id": 316670, "title": "The Eighth Color of the Rainbow", "original_title": "The Eighth Color of the Rainbow", "slug_title": "the-eighth-color-of-the-rainbow", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

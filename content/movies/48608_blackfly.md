@@ -1,0 +1,1 @@
+{"tmdb_id": 48608, "title": "Blackfly", "original_title": "Blackfly", "slug_title": "blackfly", "date": "1991-12-28", "genre": "Animation / Familial / Com\u00e9die", "score": "6.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/33GaybLqZdNJRJ9TwgNGbgsdiln.jpg", "actors": ["Wade Hemsworth (Singer (voice))"], "comments": [], "recommandations_id": []}

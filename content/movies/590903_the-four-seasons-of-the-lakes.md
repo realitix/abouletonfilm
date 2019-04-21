@@ -1,0 +1,1 @@
+{"tmdb_id": 590903, "title": "The Four Seasons of the Lakes", "original_title": "The Four Seasons of the Lakes", "slug_title": "the-four-seasons-of-the-lakes", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

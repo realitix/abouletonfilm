@@ -1,0 +1,1 @@
+{"tmdb_id": 533409, "title": "Th\u00e9r\u00e8se \u00c9tienne", "original_title": "Th\u00e9r\u00e8se \u00c9tienne", "slug_title": "therese-etienne", "date": "1958-02-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q5OKVXHzrx3KchMo0jLygGKNMcD.jpg", "actors": [], "comments": [], "recommandations_id": []}

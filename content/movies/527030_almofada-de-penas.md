@@ -1,0 +1,1 @@
+{"tmdb_id": 527030, "title": "Almofada de Penas", "original_title": "Almofada de Penas", "slug_title": "almofada-de-penas", "date": "2018-06-20", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AegfyCWpxpsWKrRCiTMpwrbJMRC.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 274692, "title": "Path of Most Resistance", "original_title": "Path of Most Resistance", "slug_title": "path-of-most-resistance", "date": "2006-11-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Orny Adams (Himself)"], "comments": [], "recommandations_id": []}

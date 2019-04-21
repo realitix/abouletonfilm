@@ -1,0 +1,1 @@
+{"tmdb_id": 432921, "title": "Ski The Outer Limits", "original_title": "Ski The Outer Limits", "slug_title": "ski-the-outer-limits", "date": "1969-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/70Q8GONPXlHsHIEiRbK6KzhpmTX.jpg", "actors": [], "comments": [], "recommandations_id": []}

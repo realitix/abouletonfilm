@@ -1,0 +1,1 @@
+{"tmdb_id": 594063, "title": "Wild in the City", "original_title": "Wild in the City", "slug_title": "wild-in-the-city", "date": "1985-12-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

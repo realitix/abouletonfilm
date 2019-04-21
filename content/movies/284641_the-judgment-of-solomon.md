@@ -1,0 +1,1 @@
+{"tmdb_id": 284641, "title": "The Judgment of Solomon", "original_title": "The Judgment of Solomon", "slug_title": "the-judgment-of-solomon", "date": "1909-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["William Humphrey ()", "Florence Lawrence ()"], "comments": [], "recommandations_id": []}

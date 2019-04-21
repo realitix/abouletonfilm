@@ -1,0 +1,1 @@
+{"tmdb_id": 271735, "title": "Daddy I Do", "original_title": "Daddy I Do", "slug_title": "daddy-i-do", "date": "2010-01-14", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zvNhq1TZ2iSDhNHxu0YtM091QRH.jpg", "actors": [], "comments": [], "recommandations_id": []}

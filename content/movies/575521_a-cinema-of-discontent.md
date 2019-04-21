@@ -1,0 +1,1 @@
+{"tmdb_id": 575521, "title": "A Cinema of Discontent", "original_title": "A Cinema of Discontent", "slug_title": "a-cinema-of-discontent", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

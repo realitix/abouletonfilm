@@ -1,0 +1,1 @@
+{"tmdb_id": 485395, "title": "Andy Clyde Gets Spring Chicken", "original_title": "Andy Clyde Gets Spring Chicken", "slug_title": "andy-clyde-gets-spring-chicken", "date": "1939-12-15", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Andy Clyde (Andy Clyde)"], "comments": [], "recommandations_id": []}

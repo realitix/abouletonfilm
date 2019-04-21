@@ -1,0 +1,1 @@
+{"tmdb_id": 441826, "title": "Shivering Trunks", "original_title": "Drzace traby", "slug_title": "shivering-trunks", "date": "", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

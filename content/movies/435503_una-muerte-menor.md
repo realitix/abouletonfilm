@@ -1,0 +1,1 @@
+{"tmdb_id": 435503, "title": "Una muerte menor", "original_title": "Una muerte menor", "slug_title": "una-muerte-menor", "date": "2007-02-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/saYgo7iRbfufOXRuKgwq99KSUat.jpg", "actors": ["Gerardo Gallardo Talavera ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 540443, "title": "Secretos de nuestra era nuclear", "original_title": "Secretos de nuestra era nuclear", "slug_title": "secretos-de-nuestra-era-nuclear", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 317586, "title": "Mysteries of Devil's Triangles", "original_title": "Mysteries of Devil's Triangles", "slug_title": "mysteries-of-devil-s-triangles", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

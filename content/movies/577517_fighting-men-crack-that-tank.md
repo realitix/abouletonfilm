@@ -1,0 +1,1 @@
+{"tmdb_id": 577517, "title": "Fighting Men: Crack That Tank", "original_title": "Fighting Men: Crack That Tank", "slug_title": "fighting-men-crack-that-tank", "date": "1943-01-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dick Purcell (Tank Instructor)"], "comments": [], "recommandations_id": []}

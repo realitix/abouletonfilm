@@ -1,0 +1,1 @@
+{"tmdb_id": 425982, "title": "Glasgow Belongs to Me", "original_title": "Glasgow Belongs to Me", "slug_title": "glasgow-belongs-to-me", "date": "1966-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

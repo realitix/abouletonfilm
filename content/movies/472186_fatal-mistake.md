@@ -1,0 +1,1 @@
+{"tmdb_id": 472186, "title": "Fatal Mistake", "original_title": "Rokovaya oshibka", "slug_title": "fatal-mistake", "date": "1988-08-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/og9RrE10ETBXdLIpVK0b2Xm0NSY.jpg", "actors": [], "comments": [], "recommandations_id": []}

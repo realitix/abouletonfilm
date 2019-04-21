@@ -1,0 +1,1 @@
+{"tmdb_id": 588281, "title": "Every Day of the Week", "original_title": "Every Day of the Week", "slug_title": "every-day-of-the-week", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 398164, "title": "ECW CyberSlam 1998", "original_title": "ECW CyberSlam 1998", "slug_title": "ecw-cyberslam-1998", "date": "1998-02-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uGX3cSRDHN4guech6Qnvs2XKjgz.jpg", "actors": [], "comments": [], "recommandations_id": []}

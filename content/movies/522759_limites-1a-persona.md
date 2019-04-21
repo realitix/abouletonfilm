@@ -1,0 +1,1 @@
+{"tmdb_id": 522759, "title": "L\u00edmites: 1\u00aa persona", "original_title": "L\u00edmites: 1\u00aa persona", "slug_title": "limites-1a-persona", "date": "2009-05-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

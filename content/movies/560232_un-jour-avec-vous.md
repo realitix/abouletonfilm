@@ -1,0 +1,1 @@
+{"tmdb_id": 560232, "title": "Un jour avec vous", "original_title": "Un jour avec vous", "slug_title": "un-jour-avec-vous", "date": "1952-03-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

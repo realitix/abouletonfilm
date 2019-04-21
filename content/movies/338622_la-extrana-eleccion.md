@@ -1,0 +1,1 @@
+{"tmdb_id": 338622, "title": "La Extra\u00f1a Elecci\u00f3n", "original_title": "La Extra\u00f1a Elecci\u00f3n", "slug_title": "la-extrana-eleccion", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lUo3M5Nnj0jq3LiPUTNaTg5eJdv.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 182809, "title": "LF Light Up My Live Concert 2011", "original_title": "LF Light Up My Live Concert 2011", "slug_title": "lf-light-up-my-live-concert-2011", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

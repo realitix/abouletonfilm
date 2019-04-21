@@ -1,0 +1,1 @@
+{"tmdb_id": 576408, "title": "Kabul, City in the Wind", "original_title": "Kabul, City in the Wind", "slug_title": "kabul-city-in-the-wind", "date": "2018-11-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k2DbObjThheXRsejRefp2uxhfWq.jpg", "actors": [], "comments": [], "recommandations_id": []}

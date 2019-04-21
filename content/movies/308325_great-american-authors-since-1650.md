@@ -1,0 +1,1 @@
+{"tmdb_id": 308325, "title": "Great American Authors: Since 1650", "original_title": "Great American Authors: Since 1650", "slug_title": "great-american-authors-since-1650", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

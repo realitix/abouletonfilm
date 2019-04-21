@@ -1,0 +1,1 @@
+{"tmdb_id": 476793, "title": "To Wendy Who Kicked Me When I Said I Love You", "original_title": "To Wendy Who Kicked Me When I Said I Love You", "slug_title": "to-wendy-who-kicked-me-when-i-said-i-love-you", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

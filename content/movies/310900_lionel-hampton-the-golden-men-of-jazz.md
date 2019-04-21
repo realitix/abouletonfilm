@@ -1,0 +1,1 @@
+{"tmdb_id": 310900, "title": "Lionel Hampton & the Golden Men of Jazz", "original_title": "Lionel Hampton & the Golden Men of Jazz", "slug_title": "lionel-hampton-the-golden-men-of-jazz", "date": "1993-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

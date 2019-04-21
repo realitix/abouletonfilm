@@ -1,0 +1,1 @@
+{"tmdb_id": 86288, "title": "Miss Nelson Has a Field Day", "original_title": "Miss Nelson Has a Field Day", "slug_title": "miss-nelson-has-a-field-day", "date": "1999-10-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yVY8jL96RXWUnhP4I88aW7ecdmD.jpg", "actors": [], "comments": [], "recommandations_id": []}

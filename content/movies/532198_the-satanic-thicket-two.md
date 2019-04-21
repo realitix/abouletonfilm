@@ -1,0 +1,1 @@
+{"tmdb_id": 532198, "title": "The Satanic Thicket - Two", "original_title": "Das satanische Dickicht - ZWEI", "slug_title": "the-satanic-thicket-two", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 421526, "title": "Amerykanizacja stolicy", "original_title": "Amerykanizacja stolicy", "slug_title": "amerykanizacja-stolicy", "date": "1932-10-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 103700, "title": "Marvin Gaye: What's Going On", "original_title": "Marvin Gaye: What's Going On", "slug_title": "marvin-gaye-what-s-going-on", "date": "2006-01-01", "genre": "Musique / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Marvin Gaye (Himself (archive footage))"], "comments": [], "recommandations_id": []}

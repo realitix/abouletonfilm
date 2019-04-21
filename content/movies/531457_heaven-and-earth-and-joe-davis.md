@@ -1,0 +1,1 @@
+{"tmdb_id": 531457, "title": "Heaven and Earth and Joe Davis", "original_title": "Heaven and Earth and Joe Davis", "slug_title": "heaven-and-earth-and-joe-davis", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

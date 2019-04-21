@@ -1,0 +1,1 @@
+{"tmdb_id": 235914, "title": "Clown on the Farm", "original_title": "Clown on the Farm", "slug_title": "clown-on-the-farm", "date": "1952-08-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sLZY16A1Zq8avYnBN9rP7cL57si.jpg", "actors": [], "comments": [], "recommandations_id": []}

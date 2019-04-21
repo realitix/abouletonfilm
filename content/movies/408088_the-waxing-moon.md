@@ -1,0 +1,1 @@
+{"tmdb_id": 408088, "title": "The Waxing Moon", "original_title": "The Waxing Moon", "slug_title": "the-waxing-moon", "date": "1976-01-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Maria DeFalco ()", "Freda Kane ()", "Ben Kaufman ()", "Grant Reed ()"], "comments": [], "recommandations_id": []}

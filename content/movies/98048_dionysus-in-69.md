@@ -1,0 +1,1 @@
+{"tmdb_id": 98048, "title": "Dionysus in '69", "original_title": "Dionysus in '69", "slug_title": "dionysus-in-69", "date": "1970-03-22", "genre": "Drame", "score": "5.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aXQgt4yTQHn4E6qib17uqmFtsvk.jpg", "actors": ["William Finley (Self/Dionysus)"], "comments": [], "recommandations_id": []}

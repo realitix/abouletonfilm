@@ -1,0 +1,1 @@
+{"tmdb_id": 184359, "title": "Bimblebox", "original_title": "Bimblebox", "slug_title": "bimblebox", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

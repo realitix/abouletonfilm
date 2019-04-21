@@ -1,0 +1,1 @@
+{"tmdb_id": 469398, "title": "Mom Died", "original_title": "Mom Died", "slug_title": "mom-died", "date": "2015-01-01", "genre": "Drame / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9wuCjTmDvE2mxMRbTkWOMqDz7Ba.jpg", "actors": ["Randall McNeal (Dad)"], "comments": [], "recommandations_id": []}

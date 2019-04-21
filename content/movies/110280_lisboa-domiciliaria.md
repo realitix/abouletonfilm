@@ -1,0 +1,1 @@
+{"tmdb_id": 110280, "title": "Lisboa Domicili\u00e1ria", "original_title": "Lisboa Domicili\u00e1ria", "slug_title": "lisboa-domiciliaria", "date": "2010-09-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9EAAqxWhxd1W1x4dxL4ZxMNWs0m.jpg", "actors": [], "comments": [], "recommandations_id": []}

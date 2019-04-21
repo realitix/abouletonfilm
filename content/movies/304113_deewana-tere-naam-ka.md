@@ -1,0 +1,1 @@
+{"tmdb_id": 304113, "title": "Deewana Tere Naam Ka", "original_title": "Deewana Tere Naam Ka", "slug_title": "deewana-tere-naam-ka", "date": "1987-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

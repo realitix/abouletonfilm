@@ -1,0 +1,1 @@
+{"tmdb_id": 278616, "title": "The General Retires", "original_title": "T\u01b0\u1edbng V\u1ec1 H\u01b0u", "slug_title": "the-general-retires", "date": "1988-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nMjLWlAPACH82XS7huEDyVBNFni.jpg", "actors": [], "comments": [], "recommandations_id": []}

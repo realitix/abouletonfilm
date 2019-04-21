@@ -1,0 +1,1 @@
+{"tmdb_id": 556069, "title": "Playa prohibida", "original_title": "Playa prohibida", "slug_title": "playa-prohibida", "date": "1956-04-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6IjrmkyMETbnxmYfu26O9A8M2Kg.jpg", "actors": [], "comments": [], "recommandations_id": []}

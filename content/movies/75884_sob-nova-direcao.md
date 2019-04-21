@@ -1,0 +1,1 @@
+{"tmdb_id": 75884, "title": "Sob nova dire\u00e7\u00e3o", "original_title": "Sob nova dire\u00e7\u00e3o", "slug_title": "sob-nova-direcao", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

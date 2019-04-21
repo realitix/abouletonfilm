@@ -1,0 +1,1 @@
+{"tmdb_id": 191747, "title": "Hamburger America", "original_title": "Hamburger America", "slug_title": "hamburger-america", "date": "2004-09-21", "genre": "Documentaire", "score": "6.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5gffQM677Sfoc5pY9dgInjN8Ln0.jpg", "actors": [], "comments": [], "recommandations_id": []}

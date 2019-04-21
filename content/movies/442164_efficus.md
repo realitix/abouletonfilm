@@ -1,0 +1,1 @@
+{"tmdb_id": 442164, "title": "Efficus", "original_title": "Efficus: Kono Omoi o Kimi", "slug_title": "efficus", "date": "1998-09-23", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4a4K1SLpZ87RSVK4kQIemUMjuty.jpg", "actors": [], "comments": [], "recommandations_id": []}

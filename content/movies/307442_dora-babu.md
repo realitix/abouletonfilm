@@ -1,0 +1,1 @@
+{"tmdb_id": 307442, "title": "Dora babu", "original_title": "Dora babu", "slug_title": "dora-babu", "date": "1974-01-01", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

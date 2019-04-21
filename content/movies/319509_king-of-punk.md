@@ -1,0 +1,1 @@
+{"tmdb_id": 319509, "title": "King of Punk", "original_title": "King of Punk", "slug_title": "king-of-punk", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

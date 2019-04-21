@@ -1,0 +1,1 @@
+{"tmdb_id": 593532, "title": "Schooldays", "original_title": "Le temps des \u00e9coliers", "slug_title": "schooldays", "date": "1962-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Philippe Geluck ()"], "comments": [], "recommandations_id": []}

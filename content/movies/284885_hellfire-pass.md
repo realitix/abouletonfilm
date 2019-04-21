@@ -1,0 +1,1 @@
+{"tmdb_id": 284885, "title": "Hellfire Pass", "original_title": "Hellfire Pass", "slug_title": "hellfire-pass", "date": "1987-04-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l4dgsgCN0vxlvIK5u47Zz34w6WD.jpg", "actors": [], "comments": [], "recommandations_id": []}

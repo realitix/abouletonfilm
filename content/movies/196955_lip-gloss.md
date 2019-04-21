@@ -1,0 +1,1 @@
+{"tmdb_id": 196955, "title": "Lip Gloss", "original_title": "Lip Gloss", "slug_title": "lip-gloss", "date": "1993-05-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tJDqYdDl45EqHeFqT55e63jT71f.jpg", "actors": [], "comments": [], "recommandations_id": []}

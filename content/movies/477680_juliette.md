@@ -1,0 +1,1 @@
+{"tmdb_id": 477680, "title": "Juliette", "original_title": "Juliette", "slug_title": "juliette", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

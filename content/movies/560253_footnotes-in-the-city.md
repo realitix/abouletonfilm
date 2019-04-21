@@ -1,0 +1,1 @@
+{"tmdb_id": 560253, "title": "Footnotes In The City", "original_title": "Footnotes In The City", "slug_title": "footnotes-in-the-city", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

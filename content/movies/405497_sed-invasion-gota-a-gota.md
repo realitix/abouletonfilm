@@ -1,0 +1,1 @@
+{"tmdb_id": 405497, "title": "Sed, invasi\u00f3n gota a gota", "original_title": "Sed, invasi\u00f3n gota a gota", "slug_title": "sed-invasion-gota-a-gota", "date": "2005-08-25", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2ggpd83yOGOe1dFn9GRE9CAbMsY.jpg", "actors": [], "comments": [], "recommandations_id": []}

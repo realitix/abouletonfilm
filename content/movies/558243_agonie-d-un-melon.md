@@ -1,0 +1,1 @@
+{"tmdb_id": 558243, "title": "Agonie d'un melon", "original_title": "Agonie d'un melon", "slug_title": "agonie-d-un-melon", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "Br\u00e8ve le\u00e7on d\u2019histoire et d\u2019ironie o\u00f9 un melon est aussi un cerveau.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

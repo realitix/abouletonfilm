@@ -1,0 +1,1 @@
+{"tmdb_id": 392607, "title": "How Long Does a Man Live?", "original_title": "Meddig \u00e9l az ember?", "slug_title": "how-long-does-a-man-live", "date": "1967-04-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

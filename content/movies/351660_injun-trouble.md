@@ -1,0 +1,1 @@
+{"tmdb_id": 351660, "title": "Injun Trouble", "original_title": "Injun Trouble", "slug_title": "injun-trouble", "date": "1951-05-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iUJpEeEoZHxapOn1yNUqxXC0oQe.jpg", "actors": [], "comments": [], "recommandations_id": []}

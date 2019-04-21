@@ -1,0 +1,1 @@
+{"tmdb_id": 566889, "title": "Sports Slants #1", "original_title": "Sports Slants #1", "slug_title": "sports-slants-1", "date": "1931-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

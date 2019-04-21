@@ -1,0 +1,1 @@
+{"tmdb_id": 420887, "title": "Giants in Milan Vol. II", "original_title": "Giants in Milan Vol. II", "slug_title": "giants-in-milan-vol-ii", "date": "2015-01-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5AFrsTFd6eWRUl4jbS31XNcFh1B.jpg", "actors": ["Pino Farinotti ()"], "comments": [], "recommandations_id": []}

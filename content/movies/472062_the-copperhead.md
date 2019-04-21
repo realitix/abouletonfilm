@@ -1,0 +1,1 @@
+{"tmdb_id": 472062, "title": "The Copperhead", "original_title": "The Copperhead", "slug_title": "the-copperhead", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

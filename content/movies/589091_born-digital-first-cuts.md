@@ -1,0 +1,1 @@
+{"tmdb_id": 589091, "title": "Born Digital: First Cuts", "original_title": "Born Digital: First Cuts", "slug_title": "born-digital-first-cuts", "date": "2019-03-16", "genre": "Science-Fiction / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

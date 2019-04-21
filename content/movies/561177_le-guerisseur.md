@@ -1,0 +1,1 @@
+{"tmdb_id": 561177, "title": "Le gu\u00e9risseur", "original_title": "Le gu\u00e9risseur", "slug_title": "le-guerisseur", "date": "1953-12-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

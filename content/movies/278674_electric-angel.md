@@ -1,0 +1,1 @@
+{"tmdb_id": 278674, "title": "Electric Angel", "original_title": "Electric Angel", "slug_title": "electric-angel", "date": "1981-06-25", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mmLqwraf4uERjqRZyX3jl36epr6.jpg", "actors": [], "comments": [], "recommandations_id": []}

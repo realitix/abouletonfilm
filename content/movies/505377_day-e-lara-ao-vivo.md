@@ -1,0 +1,1 @@
+{"tmdb_id": 505377, "title": "Day e Lara - Ao Vivo", "original_title": "Day e Lara - Ao Vivo", "slug_title": "day-e-lara-ao-vivo", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

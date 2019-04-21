@@ -1,0 +1,1 @@
+{"tmdb_id": 157852, "title": "Hollywood on Parade No. A-12", "original_title": "Hollywood on Parade No. A-12", "slug_title": "hollywood-on-parade-no-a-12", "date": "1933-06-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 387115, "title": "L'enfance de l'art", "original_title": "L'enfance de l'art", "slug_title": "l-enfance-de-l-art", "date": "1910-03-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yqYe4SqmEZvOr920AdkzxppOIqP.jpg", "actors": [], "comments": [], "recommandations_id": []}

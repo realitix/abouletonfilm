@@ -1,0 +1,1 @@
+{"tmdb_id": 367657, "title": "Samuel Beckett is Coming Soon", "original_title": "Samuel Beckett is Coming Soon", "slug_title": "samuel-beckett-is-coming-soon", "date": "1993-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

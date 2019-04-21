@@ -1,0 +1,1 @@
+{"tmdb_id": 372771, "title": "Guerrilla News Network: Crack the CIA", "original_title": "Guerrilla News Network: Crack the CIA", "slug_title": "guerrilla-news-network-crack-the-cia", "date": "2001-12-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

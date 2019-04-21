@@ -1,0 +1,1 @@
+{"tmdb_id": 575320, "title": "\ucc29\ud55c\uc5ec\uc790\uce5c\uad6c", "original_title": "\ucc29\ud55c\uc5ec\uc790\uce5c\uad6c", "slug_title": "caghanyeojacingu", "date": "2018-07-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4kmCSyNwTiVek8Vr3EM6UKXFVlL.jpg", "actors": [], "comments": [], "recommandations_id": []}

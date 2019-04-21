@@ -1,0 +1,1 @@
+{"tmdb_id": 225402, "title": "First Prize Irene", "original_title": "Il primo premio si chiama Irene", "slug_title": "first-prize-irene", "date": "1969-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

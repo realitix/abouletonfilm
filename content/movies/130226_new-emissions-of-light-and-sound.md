@@ -1,0 +1,1 @@
+{"tmdb_id": 130226, "title": "New Emissions of Light and Sound", "original_title": "New Emissions of Light and Sound", "slug_title": "new-emissions-of-light-and-sound", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

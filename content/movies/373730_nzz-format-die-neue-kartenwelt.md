@@ -1,0 +1,1 @@
+{"tmdb_id": 373730, "title": "NZZ Format - Die neue Kartenwelt", "original_title": "NZZ Format - Die neue Kartenwelt", "slug_title": "nzz-format-die-neue-kartenwelt", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 553406, "title": "Bound by Beauty", "original_title": "Bound by Beauty", "slug_title": "bound-by-beauty", "date": "2018-10-13", "genre": "Fantastique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Fani Solomun ()", "Erna Rudni\u010dki ()", "Iskra Jir\u0161ak ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 476346, "title": "The Wild West Fan Co.", "original_title": "The Wild West Fan Co.", "slug_title": "the-wild-west-fan-co", "date": "2015-10-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4fHUgiwyhC3NnTsfUNPU6Of1xO0.jpg", "actors": ["Davis Choh (Ying Yang Yen)"], "comments": [], "recommandations_id": []}

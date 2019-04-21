@@ -1,0 +1,1 @@
+{"tmdb_id": 227704, "title": "Pattaya: City of Smiles", "original_title": "Pattaya: City of Smiles", "slug_title": "pattaya-city-of-smiles", "date": "2007-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n4EVocznW0Uv7C2RjA7ZJM5lD0x.jpg", "actors": [], "comments": [], "recommandations_id": []}

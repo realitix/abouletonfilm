@@ -1,0 +1,1 @@
+{"tmdb_id": 336293, "title": "Three Ways to Make an Ape Man", "original_title": "Three Ways to Make an Ape Man", "slug_title": "three-ways-to-make-an-ape-man", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nLPKZYoNAvphtBZ6wA89STDObMK.jpg", "actors": [], "comments": [], "recommandations_id": []}

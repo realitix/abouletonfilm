@@ -1,0 +1,1 @@
+{"tmdb_id": 122872, "title": "Lucy Tsak Tsak", "original_title": "Lucy Tsak Tsak", "slug_title": "lucy-tsak-tsak", "date": "2001-10-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

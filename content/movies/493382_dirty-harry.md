@@ -1,0 +1,1 @@
+{"tmdb_id": 493382, "title": "Dirty Harry", "original_title": "\ub354\ud2f0\ud61c\ub9ac", "slug_title": "dirty-harry", "date": "2013-06-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8fSEEfOhsShBNSklNoRf9rtrJzA.jpg", "actors": [], "comments": [], "recommandations_id": []}

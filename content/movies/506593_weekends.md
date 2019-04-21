@@ -1,0 +1,1 @@
+{"tmdb_id": 506593, "title": "Weekends", "original_title": "Weekends", "slug_title": "weekends", "date": "2017-10-18", "genre": "Animation / Drame", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i5c2QrMnyhIJjnXTNp7UZSia2TJ.jpg", "actors": [], "comments": [], "recommandations_id": [500688, 511138, 549484, 487625]}

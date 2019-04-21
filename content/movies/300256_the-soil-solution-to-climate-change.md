@@ -1,0 +1,1 @@
+{"tmdb_id": 300256, "title": "The Soil Solution To Climate Change", "original_title": "The Soil Solution To Climate Change", "slug_title": "the-soil-solution-to-climate-change", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

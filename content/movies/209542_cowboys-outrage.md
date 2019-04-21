@@ -1,0 +1,1 @@
+{"tmdb_id": 209542, "title": "Cowboys: Outrage!", "original_title": "Cowboys: Outrage!", "slug_title": "cowboys-outrage", "date": "1991-01-01", "genre": "Com\u00e9die / Animation / Western", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vB7Iu6nd1T21bD7lbwzko1DdcE4.jpg", "actors": [], "comments": [], "recommandations_id": []}

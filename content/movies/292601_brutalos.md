@@ -1,0 +1,1 @@
+{"tmdb_id": 292601, "title": "Brutalos", "original_title": "Brutalos", "slug_title": "brutalos", "date": "1998-05-14", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Florence Bochud (Woman)", "Jean-Luc Farquet (Man)", "Benjamin Pellegrin (Child)"], "comments": [], "recommandations_id": []}

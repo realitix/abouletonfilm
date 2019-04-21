@@ -1,0 +1,1 @@
+{"tmdb_id": 321658, "title": "The Kibbles and Bits of Hellorama", "original_title": "The Kibbles and Bits of Hellorama", "slug_title": "the-kibbles-and-bits-of-hellorama", "date": "2005-05-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

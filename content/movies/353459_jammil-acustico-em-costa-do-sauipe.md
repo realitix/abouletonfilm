@@ -1,0 +1,1 @@
+{"tmdb_id": 353459, "title": "Jammil - Ac\u00fastico em Costa do Sau\u00edpe", "original_title": "Jammil - Ac\u00fastico em Costa do Sau\u00edpe", "slug_title": "jammil-acustico-em-costa-do-sauipe", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

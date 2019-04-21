@@ -1,0 +1,1 @@
+{"tmdb_id": 283786, "title": "Svenska Ord i bild och tal", "original_title": "Svenska Ord i bild och tal", "slug_title": "svenska-ord-i-bild-och-tal", "date": "2006-11-26", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e4dNZmneNkFBhUyI78mWvWNTaUH.jpg", "actors": [], "comments": [], "recommandations_id": []}

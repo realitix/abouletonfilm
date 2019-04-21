@@ -1,0 +1,1 @@
+{"tmdb_id": 321591, "title": "We're Havin' Church: Mike Speck and Friends", "original_title": "We're Havin' Church: Mike Speck and Friends", "slug_title": "we-re-havin-church-mike-speck-and-friends", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

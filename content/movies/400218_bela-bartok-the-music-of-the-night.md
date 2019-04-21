@@ -1,0 +1,1 @@
+{"tmdb_id": 400218, "title": "B\u00e9la Bart\u00f3k: The Music of the Night", "original_title": "B\u00e9la Bart\u00f3k: The Music of the Night", "slug_title": "bela-bartok-the-music-of-the-night", "date": "1970-05-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

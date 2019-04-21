@@ -1,0 +1,1 @@
+{"tmdb_id": 315262, "title": "Omaggio alle truppe italiane reduci dalla Francia", "original_title": "Omaggio alle truppe italiane reduci dalla Francia", "slug_title": "omaggio-alle-truppe-italiane-reduci-dalla-francia", "date": "1919-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

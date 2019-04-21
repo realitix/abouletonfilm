@@ -1,0 +1,1 @@
+{"tmdb_id": 327218, "title": "Interview mit Berlin", "original_title": "Interview mit Berlin", "slug_title": "interview-mit-berlin", "date": "1959-12-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

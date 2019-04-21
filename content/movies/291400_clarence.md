@@ -1,0 +1,1 @@
+{"tmdb_id": 291400, "title": "Clarence", "original_title": "Clarence", "slug_title": "clarence", "date": "1990-11-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uDDbcc99ljWRLJK26SNl1j0T41j.jpg", "actors": ["Robert Carradine ()", "Kate Trotter ()", "Nicolas Van Burek ()"], "comments": [], "recommandations_id": []}

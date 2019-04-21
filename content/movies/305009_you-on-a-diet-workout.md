@@ -1,0 +1,1 @@
+{"tmdb_id": 305009, "title": "YOU: ON A DIET WORKOUT", "original_title": "YOU: ON A DIET WORKOUT", "slug_title": "you-on-a-diet-workout", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

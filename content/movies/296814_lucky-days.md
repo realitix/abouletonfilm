@@ -1,0 +1,1 @@
+{"tmdb_id": 296814, "title": "Lucky Days", "original_title": "Lucky Days", "slug_title": "lucky-days", "date": "2008-04-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

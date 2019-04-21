@@ -1,0 +1,1 @@
+{"tmdb_id": 182212, "title": "Ya La Hicimos", "original_title": "Ya La Hicimos", "slug_title": "ya-la-hicimos", "date": "1994-03-04", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pR16jnxr5TTj2w76lZZPrBKC3rI.jpg", "actors": [], "comments": [], "recommandations_id": []}

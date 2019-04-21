@@ -1,0 +1,1 @@
+{"tmdb_id": 216826, "title": "A Thousand Suns", "original_title": "Mille soleils", "slug_title": "a-thousand-suns", "date": "2013-07-06", "genre": "Drame / Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6xbzwzceGfjk8jQhOG0a4eNG9uS.jpg", "actors": ["Magaye Niang (Himself)"], "comments": [], "recommandations_id": []}

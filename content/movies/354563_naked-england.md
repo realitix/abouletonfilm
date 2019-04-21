@@ -1,0 +1,1 @@
+{"tmdb_id": 354563, "title": "Naked England", "original_title": "Inghilterra nuda", "slug_title": "naked-england", "date": "1969-04-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z0ZnKY8ymyX9P7YEFYA8rPncMYi.jpg", "actors": ["Edmund Purdom (Narrator)"], "comments": [], "recommandations_id": []}

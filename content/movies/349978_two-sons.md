@@ -1,0 +1,1 @@
+{"tmdb_id": 349978, "title": "Two Sons", "original_title": "\ub450 \uc544\ub4e4", "slug_title": "two-sons", "date": "1971-07-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hwang Jung-seun ()", "Shin Seong-il ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 404545, "title": "Apocalisse Morbida", "original_title": "Apocalisse Morbida", "slug_title": "apocalisse-morbida", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6S8O40S7mLjIGzLprZGq9eOaLAq.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 404942, "title": "Das ABC der Serengeti", "original_title": "Das ABC der Serengeti", "slug_title": "das-abc-der-serengeti", "date": "2006-01-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/593CJEpneKUI9nF3Rilb4fgkkSj.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 529319, "title": "Chinhoyi 7", "original_title": "Chinhoyi 7", "slug_title": "chinhoyi-7", "date": "2018-06-01", "genre": "Histoire / Guerre", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

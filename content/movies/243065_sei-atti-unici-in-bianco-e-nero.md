@@ -1,0 +1,1 @@
+{"tmdb_id": 243065, "title": "Sei atti unici in bianco e nero", "original_title": "Sei atti unici in bianco e nero", "slug_title": "sei-atti-unici-in-bianco-e-nero", "date": "", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Eduardo De Filippo (Personaggio principale)"], "comments": [], "recommandations_id": []}

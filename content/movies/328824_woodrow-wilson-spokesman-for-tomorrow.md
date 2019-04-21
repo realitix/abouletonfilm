@@ -1,0 +1,1 @@
+{"tmdb_id": 328824, "title": "Woodrow Wilson: Spokesman For Tomorrow", "original_title": "Woodrow Wilson: Spokesman For Tomorrow", "slug_title": "woodrow-wilson-spokesman-for-tomorrow", "date": "1956-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

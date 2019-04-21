@@ -1,0 +1,1 @@
+{"tmdb_id": 535290, "title": "The Birth Story of Studio Ghibli", "original_title": "The Birth Story of Studio Ghibli", "slug_title": "the-birth-story-of-studio-ghibli", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

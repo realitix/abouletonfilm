@@ -1,0 +1,1 @@
+{"tmdb_id": 565859, "title": "Un professeur d\u2019am\u00e9ricain", "original_title": "Un professeur d\u2019am\u00e9ricain", "slug_title": "un-professeur-damericain", "date": "1978-07-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

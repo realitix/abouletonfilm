@@ -1,0 +1,1 @@
+{"tmdb_id": 437989, "title": "The Twelve Parsec Stare", "original_title": "The Twelve Parsec Stare", "slug_title": "the-twelve-parsec-stare", "date": "2015-06-12", "genre": "Science-Fiction", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aHReulSLWSOlIwxMVRu6ZNJt2OA.jpg", "actors": [], "comments": [], "recommandations_id": []}

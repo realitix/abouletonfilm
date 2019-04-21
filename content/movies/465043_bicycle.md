@@ -1,0 +1,1 @@
+{"tmdb_id": 465043, "title": "Bicycle", "original_title": "Rower", "slug_title": "bicycle", "date": "2008-11-22", "genre": "", "score": "1.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Adam Fiut (Man who wants to sell a bicycle)", "Roman Polanski (Boy who wants to buy a bicycle)"], "comments": [], "recommandations_id": []}

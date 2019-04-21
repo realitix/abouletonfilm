@@ -1,0 +1,1 @@
+{"tmdb_id": 513897, "title": "Opening Buds in Spring", "original_title": "Opening Buds in Spring", "slug_title": "opening-buds-in-spring", "date": "1931-03-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

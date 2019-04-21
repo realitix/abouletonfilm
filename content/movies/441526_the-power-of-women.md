@@ -1,0 +1,1 @@
+{"tmdb_id": 441526, "title": "The Power of Women", "original_title": "The Power of Women", "slug_title": "the-power-of-women", "date": "2016-03-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

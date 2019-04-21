@@ -1,0 +1,1 @@
+{"tmdb_id": 287829, "title": "A Serial Killer's Revenge", "original_title": "A Serial Killer's Revenge", "slug_title": "a-serial-killer-s-revenge", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

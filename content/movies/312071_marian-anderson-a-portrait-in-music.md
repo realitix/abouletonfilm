@@ -1,0 +1,1 @@
+{"tmdb_id": 312071, "title": "Marian Anderson: A Portrait in Music", "original_title": "Marian Anderson: A Portrait in Music", "slug_title": "marian-anderson-a-portrait-in-music", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

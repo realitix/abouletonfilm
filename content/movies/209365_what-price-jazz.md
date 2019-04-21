@@ -1,0 +1,1 @@
+{"tmdb_id": 209365, "title": "What Price Jazz", "original_title": "What Price Jazz", "slug_title": "what-price-jazz", "date": "1934-05-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ted Fio Rito ()"], "comments": [], "recommandations_id": []}

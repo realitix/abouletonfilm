@@ -1,0 +1,1 @@
+{"tmdb_id": 422265, "title": "Suplicio", "original_title": "Suplicio", "slug_title": "suplicio", "date": "2016-04-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Manolo Ozuna ()", "Oscar Carrasquillo ()", "Eva Arias ()", "Jacqueline Estrella ()"], "comments": [], "recommandations_id": []}

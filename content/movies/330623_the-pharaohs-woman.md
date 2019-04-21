@@ -1,0 +1,1 @@
+{"tmdb_id": 330623, "title": "The Pharaohs' Woman", "original_title": "La donna dei faraoni", "slug_title": "the-pharaohs-woman", "date": "1960-12-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5XlCULWM6bJ63wOoZK9227fiiw1.jpg", "actors": [], "comments": [], "recommandations_id": []}

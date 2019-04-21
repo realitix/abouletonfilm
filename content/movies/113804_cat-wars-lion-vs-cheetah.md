@@ -1,0 +1,1 @@
+{"tmdb_id": 113804, "title": "Cat Wars: Lion vs. Cheetah", "original_title": "Cat Wars: Lion vs. Cheetah", "slug_title": "cat-wars-lion-vs-cheetah", "date": "2011-12-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uB44MOhXWBLbcTEIPQ7nO9N9N4Y.jpg", "actors": [], "comments": [], "recommandations_id": []}

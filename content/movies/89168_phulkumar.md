@@ -1,0 +1,1 @@
+{"tmdb_id": 89168, "title": "Phulkumar", "original_title": "Phulkumar", "slug_title": "phulkumar", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

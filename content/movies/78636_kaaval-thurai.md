@@ -1,0 +1,1 @@
+{"tmdb_id": 78636, "title": "Kaaval Thurai", "original_title": "Kaaval Thurai", "slug_title": "kaaval-thurai", "date": "2011-09-01", "genre": "Action / Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["R. Sarathkumar ()", "Bhavana ()", "Suraj Venjaramoodu ()"], "comments": [], "recommandations_id": []}

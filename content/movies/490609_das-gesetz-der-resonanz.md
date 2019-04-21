@@ -1,0 +1,1 @@
+{"tmdb_id": 490609, "title": "Das Gesetz der Resonanz", "original_title": "Das Gesetz der Resonanz", "slug_title": "das-gesetz-der-resonanz", "date": "", "genre": "Documentaire", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pierre Franckh (Narrator)"], "comments": [], "recommandations_id": []}

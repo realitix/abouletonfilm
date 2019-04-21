@@ -1,0 +1,1 @@
+{"tmdb_id": 514675, "title": "The Fisherman and His Soul", "original_title": "The Fisherman and His Soul", "slug_title": "the-fisherman-and-his-soul", "date": "1961-11-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dion\u00edsio Azevedo ()", "Cary Karmel ()", "Anthony Pompeii ()"], "comments": [], "recommandations_id": []}

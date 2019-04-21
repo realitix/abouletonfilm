@@ -1,0 +1,1 @@
+{"tmdb_id": 581849, "title": "Prescription for Disaster", "original_title": "Prescription for Disaster", "slug_title": "prescription-for-disaster", "date": "2006-04-21", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["David Graham ()", "Michael Moore ()", "Gary Null ()"], "comments": [], "recommandations_id": []}

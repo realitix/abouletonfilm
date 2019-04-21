@@ -1,0 +1,1 @@
+{"tmdb_id": 447809, "title": "Let's Face It", "original_title": "Let's Face It", "slug_title": "let-s-face-it", "date": "1954-03-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

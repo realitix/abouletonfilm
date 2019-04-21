@@ -1,0 +1,1 @@
+{"tmdb_id": 518582, "title": "Solo Waltz", "original_title": "Solo Waltz", "slug_title": "solo-waltz", "date": "2017-11-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6ss1YW7R5rBJqZqFI1swjhP59ZD.jpg", "actors": ["Terence W. Yang (???????)"], "comments": [], "recommandations_id": []}

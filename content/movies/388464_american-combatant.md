@@ -1,0 +1,1 @@
+{"tmdb_id": 388464, "title": "American Combatant", "original_title": "American Combatant", "slug_title": "american-combatant", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

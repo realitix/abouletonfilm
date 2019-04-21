@@ -1,0 +1,1 @@
+{"tmdb_id": 531684, "title": "Blacks Britannica", "original_title": "Blacks Britannica", "slug_title": "blacks-britannica", "date": "1978-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

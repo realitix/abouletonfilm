@@ -1,0 +1,1 @@
+{"tmdb_id": 188385, "title": "Ants in the Plants", "original_title": "Ants in the Plants", "slug_title": "ants-in-the-plants", "date": "1940-03-14", "genre": "Animation / Com\u00e9die", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dB5dLxFKroaSm2sShj3F5ivUtIN.jpg", "actors": [], "comments": [], "recommandations_id": []}

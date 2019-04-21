@@ -1,0 +1,1 @@
+{"tmdb_id": 439216, "title": "Strange Times", "original_title": "Strange Times", "slug_title": "strange-times", "date": "", "genre": "Com\u00e9die / Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jack Samson (Charlie Wilkens)", "Lizze Broadway (Alli)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 275139, "title": "Our Summer", "original_title": "M\u016bs\u0173 vasara", "slug_title": "our-summer", "date": "1963-06-06", "genre": "Documentaire / Familial / Aventure", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2xFj4DyCFopur0HFmM9quS7rXHK.jpg", "actors": [], "comments": [], "recommandations_id": []}

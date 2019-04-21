@@ -1,0 +1,1 @@
+{"tmdb_id": 418265, "title": "\ubb34\ub9bc\uc2dc\ub300: 4\ub300 \uace0\uc218\uc804", "original_title": "\ubb34\ub9bc\uc2dc\ub300: 4\ub300 \uace0\uc218\uc804", "slug_title": "murimsidae-4dae-gosujeon", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

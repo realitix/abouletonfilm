@@ -1,0 +1,1 @@
+{"tmdb_id": 379627, "title": "The Arthur Legend", "original_title": "The Arthur Legend", "slug_title": "the-arthur-legend", "date": "1991-05-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nuXv0d3K2x40t76x5WGDWi1p9Tz.jpg", "actors": [], "comments": [], "recommandations_id": []}

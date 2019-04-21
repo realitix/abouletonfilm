@@ -1,0 +1,1 @@
+{"tmdb_id": 288372, "title": "Sei no kagayaki", "original_title": "Sei no kagayaki", "slug_title": "sei-no-kagayaki", "date": "1919-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Harumi Hanayagi ()", "Minoru Murata ()"], "comments": [], "recommandations_id": []}

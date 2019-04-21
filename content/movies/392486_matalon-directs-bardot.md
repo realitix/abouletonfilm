@@ -1,0 +1,1 @@
+{"tmdb_id": 392486, "title": "Matalon Directs Bardot", "original_title": "Matalon Directs Bardot", "slug_title": "matalon-directs-bardot", "date": "1968-04-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

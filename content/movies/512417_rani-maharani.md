@@ -1,0 +1,1 @@
+{"tmdb_id": 512417, "title": "Rani Maharani", "original_title": "Rani Maharani", "slug_title": "rani-maharani", "date": "1990-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Malashri ()", "Ambareesh ()", "Shashikumar ()"], "comments": [], "recommandations_id": []}

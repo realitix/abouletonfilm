@@ -1,0 +1,1 @@
+{"tmdb_id": 493256, "title": "How Did You Know I Was in Trouble", "original_title": "How Did You Know I Was in Trouble", "slug_title": "how-did-you-know-i-was-in-trouble", "date": "1970-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Marylou Oschi ()"], "comments": [], "recommandations_id": []}

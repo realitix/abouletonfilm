@@ -1,0 +1,1 @@
+{"tmdb_id": 144811, "title": "A Bronx Morning", "original_title": "A Bronx Morning", "slug_title": "a-bronx-morning", "date": "1931-11-21", "genre": "Documentaire", "score": "6.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/67Xlwm5nfxVQjY1FdOJ9J470N35.jpg", "actors": [], "comments": [], "recommandations_id": [163102, 129532, 132159, 144615]}

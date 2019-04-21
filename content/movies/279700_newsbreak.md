@@ -1,0 +1,1 @@
+{"tmdb_id": 279700, "title": "Newsbreak", "original_title": "Newsbreak", "slug_title": "newsbreak", "date": "2000-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oJkBbmkjzO9dfItnPoSvi5h7N3M.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 484306, "title": "The Return of Agnieszka H.", "original_title": "Powr\u00f3t Agnieszki H.", "slug_title": "the-return-of-agnieszka-h", "date": "2013-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

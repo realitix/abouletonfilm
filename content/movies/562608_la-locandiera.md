@@ -1,0 +1,1 @@
+{"tmdb_id": 562608, "title": "La Locandiera", "original_title": "La Locandiera", "slug_title": "la-locandiera", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Luisa Ferida (Mirandolina)"], "comments": [], "recommandations_id": []}

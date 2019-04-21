@@ -1,0 +1,1 @@
+{"tmdb_id": 99532, "title": "OTHERWORLDS #1 - ITD", "original_title": "OTHERWORLDS #1 - ITD", "slug_title": "otherworlds-1-itd", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

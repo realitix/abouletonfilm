@@ -1,0 +1,1 @@
+{"tmdb_id": 308914, "title": "Dog's Way", "original_title": "\u30a4\u30cc\u30df\u30c1", "slug_title": "dog-s-way", "date": "2014-03-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t0n1QFp3HfARdk8SsRB9e9cVapv.jpg", "actors": ["Masayuki Yano ()", "Nagayama Yurie ()"], "comments": [], "recommandations_id": []}

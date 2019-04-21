@@ -1,0 +1,1 @@
+{"tmdb_id": 514873, "title": "Dream Of A Green Panther", "original_title": "Dream Of A Green Panther", "slug_title": "dream-of-a-green-panther", "date": "2018-04-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Savi Sharma ()", "Sahil Sharma ()"], "comments": [], "recommandations_id": []}

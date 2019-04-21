@@ -1,0 +1,1 @@
+{"tmdb_id": 502852, "title": "Roberto Rossellini: appunti biografici", "original_title": "Roberto Rossellini: appunti biografici", "slug_title": "roberto-rossellini-appunti-biografici", "date": "1964-10-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

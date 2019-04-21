@@ -1,0 +1,1 @@
+{"tmdb_id": 499504, "title": "O mist\u00e9rio do Domin\u00f3 Preto", "original_title": "O mist\u00e9rio do Domin\u00f3 Preto", "slug_title": "o-misterio-do-domino-preto", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

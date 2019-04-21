@@ -1,0 +1,1 @@
+{"tmdb_id": 386571, "title": "Channeler", "original_title": "Channeler", "slug_title": "channeler", "date": "2012-02-14", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lgJv04agZLf5d8NbEm4RXgwQxcK.jpg", "actors": [], "comments": [], "recommandations_id": []}

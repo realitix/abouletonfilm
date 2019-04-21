@@ -1,0 +1,1 @@
+{"tmdb_id": 186538, "title": "Virgin Steele: Beacon Theate", "original_title": "Virgin Steele: Beacon Theate", "slug_title": "virgin-steele-beacon-theate", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 375365, "title": "Copper Creek Genesis", "original_title": "Copper Creek Genesis", "slug_title": "copper-creek-genesis", "date": "2015-02-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yZSFhO3BfV6vgoXmosDTGmVgHO2.jpg", "actors": [], "comments": [], "recommandations_id": []}

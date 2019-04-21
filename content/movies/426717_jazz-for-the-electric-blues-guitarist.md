@@ -1,0 +1,1 @@
+{"tmdb_id": 426717, "title": "Jazz for the Electric Blues Guitarist", "original_title": "Jazz for the Electric Blues Guitarist", "slug_title": "jazz-for-the-electric-blues-guitarist", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

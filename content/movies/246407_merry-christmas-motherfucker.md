@@ -1,0 +1,1 @@
+{"tmdb_id": 246407, "title": "Merry Christmas, Motherfucker!", "original_title": "Merry Christmas, Motherfucker!", "slug_title": "merry-christmas-motherfucker", "date": "2005-12-05", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

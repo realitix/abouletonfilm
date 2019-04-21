@@ -1,0 +1,1 @@
+{"tmdb_id": 576232, "title": "Monopoly", "original_title": "Monopoly", "slug_title": "monopoly", "date": "", "genre": "Com\u00e9die / Aventure", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kevin Hart ()"], "comments": [], "recommandations_id": []}

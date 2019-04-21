@@ -1,0 +1,1 @@
+{"tmdb_id": 154182, "title": "Professor Pepper's School of Good Stuff", "original_title": "Professor Pepper's School of Good Stuff", "slug_title": "professor-pepper-s-school-of-good-stuff", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

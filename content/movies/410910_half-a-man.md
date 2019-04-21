@@ -1,0 +1,1 @@
+{"tmdb_id": 410910, "title": "Half a Man", "original_title": "Po \u010dovika", "slug_title": "half-a-man", "date": "2016-09-10", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5ERjjw6avLwGzfTnH7ioXCfzxuW.jpg", "actors": [], "comments": [], "recommandations_id": []}

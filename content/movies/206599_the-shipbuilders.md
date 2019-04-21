@@ -1,0 +1,1 @@
+{"tmdb_id": 206599, "title": "The Shipbuilders", "original_title": "The Shipbuilders", "slug_title": "the-shipbuilders", "date": "1944-05-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

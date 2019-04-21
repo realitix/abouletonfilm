@@ -1,0 +1,1 @@
+{"tmdb_id": 318352, "title": "Operation Counterspy", "original_title": "Asso di picche operazione controspionaggio", "slug_title": "operation-counterspy", "date": "1965-12-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xIEbXPgZgRnSRvbc3WVfohSwEmG.jpg", "actors": [], "comments": [], "recommandations_id": []}

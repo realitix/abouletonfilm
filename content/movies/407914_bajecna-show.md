@@ -1,0 +1,1 @@
+{"tmdb_id": 407914, "title": "B\u00e1je\u010dn\u00e1 show", "original_title": "B\u00e1je\u010dn\u00e1 show", "slug_title": "bajecna-show", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

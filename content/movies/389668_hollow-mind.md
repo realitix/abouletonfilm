@@ -1,0 +1,1 @@
+{"tmdb_id": 389668, "title": "Hollow Mind", "original_title": "\u7c83", "slug_title": "hollow-mind", "date": "2015-03-07", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lQrkx6Imn1KM7qDea9BiDglMeON.jpg", "actors": [], "comments": [], "recommandations_id": []}

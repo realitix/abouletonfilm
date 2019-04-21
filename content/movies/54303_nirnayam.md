@@ -1,0 +1,1 @@
+{"tmdb_id": 54303, "title": "Nirnayam", "original_title": "Nirnayam", "slug_title": "nirnayam", "date": "1991-02-21", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1NUJy2Q0TmKkEQsxYhVMYQy7jim.jpg", "actors": ["Nagarjuna Akkineni ()", "Amala Akkineni ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 480954, "title": "Farewell to Tarwathie", "original_title": "Farewell to Tarwathie", "slug_title": "farewell-to-tarwathie", "date": "2007-10-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

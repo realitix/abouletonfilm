@@ -1,0 +1,1 @@
+{"tmdb_id": 363803, "title": "The Beat From Within: Reflections of a Beatnik", "original_title": "The Beat From Within: Reflections of a Beatnik", "slug_title": "the-beat-from-within-reflections-of-a-beatnik", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 317699, "title": "Magoo Goes Skiing", "original_title": "Magoo Goes Skiing", "slug_title": "magoo-goes-skiing", "date": "1954-03-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

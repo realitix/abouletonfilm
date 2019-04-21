@@ -1,0 +1,1 @@
+{"tmdb_id": 572961, "title": "Mama und Papa - Afrikaner als Untermieter", "original_title": "Mama und Papa - Afrikaner als Untermieter", "slug_title": "mama-und-papa-afrikaner-als-untermieter", "date": "1973-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

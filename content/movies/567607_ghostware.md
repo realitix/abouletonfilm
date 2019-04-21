@@ -1,0 +1,1 @@
+{"tmdb_id": 567607, "title": "Ghostware", "original_title": "Ghostware", "slug_title": "ghostware", "date": "", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ofllWohoIDFCKvgT6sqP7R2QrjT.jpg", "actors": ["Andrew Shire (Dr. Hansen)", "Elena Harding (Charlotte)"], "comments": [], "recommandations_id": []}

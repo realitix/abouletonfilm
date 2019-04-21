@@ -1,0 +1,1 @@
+{"tmdb_id": 210968, "title": "Jimmy the C", "original_title": "Jimmy the C", "slug_title": "jimmy-the-c", "date": "1977-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kq6YduT8jGuV6JJ6ZurJsKLk1ld.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 460178, "title": "Play Ball on the Beach", "original_title": "Play Ball on the Beach", "slug_title": "play-ball-on-the-beach", "date": "1906-06-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

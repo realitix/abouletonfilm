@@ -1,0 +1,1 @@
+{"tmdb_id": 126744, "title": "Stepping Razor: Red X", "original_title": "Stepping Razor: Red X", "slug_title": "stepping-razor-red-x", "date": "1993-06-04", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tTc1ONjWsEQuIN9LBXboIVhqWae.jpg", "actors": [], "comments": [], "recommandations_id": []}

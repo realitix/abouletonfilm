@@ -1,0 +1,1 @@
+{"tmdb_id": 343216, "title": "Der Aufstieg", "original_title": "Der Aufstieg", "slug_title": "der-aufstieg", "date": "1926-06-03", "genre": "Animation", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2HtzPXQHG9PJsByKXZ9cOn7QC1R.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 559678, "title": "Bouquet de joie", "original_title": "Bouquet de joie", "slug_title": "bouquet-de-joie", "date": "1951-10-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lZRKQlJr5lWVlaBImkhis8LYyy4.jpg", "actors": [], "comments": [], "recommandations_id": []}

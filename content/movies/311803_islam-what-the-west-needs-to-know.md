@@ -1,0 +1,1 @@
+{"tmdb_id": 311803, "title": "Islam: What the West Needs to Know", "original_title": "Islam: What the West Needs to Know", "slug_title": "islam-what-the-west-needs-to-know", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

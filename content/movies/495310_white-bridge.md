@@ -1,0 +1,1 @@
+{"tmdb_id": 495310, "title": "White Bridge", "original_title": "Pol-e-Sefid", "slug_title": "white-bridge", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zyLjBTzacUmbLWHY9NQddON9XCe.jpg", "actors": [], "comments": [], "recommandations_id": []}

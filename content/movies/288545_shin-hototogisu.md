@@ -1,0 +1,1 @@
+{"tmdb_id": 288545, "title": "Shin hototogisu", "original_title": "Shin hototogisu", "slug_title": "shin-hototogisu", "date": "1909-06-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 422554, "title": "Jeff Garcia: The Ten Dollar Ticket", "original_title": "Jeff Garcia: The Ten Dollar Ticket", "slug_title": "jeff-garcia-the-ten-dollar-ticket", "date": "2009-09-02", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jeffrey Garcia (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 309237, "title": "Cruise Western Europe", "original_title": "Cruise Western Europe", "slug_title": "cruise-western-europe", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

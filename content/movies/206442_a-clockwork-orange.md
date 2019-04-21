@@ -1,0 +1,1 @@
+{"tmdb_id": 206442, "title": "A Clockwork Orange", "original_title": "A Clockwork Orange", "slug_title": "a-clockwork-orange", "date": "2013-07-09", "genre": "", "score": "8.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5Ky6KZVgUqIF54njr2DJJMVPH8.jpg", "actors": [], "comments": [], "recommandations_id": [185, 640, 38, 1271]}

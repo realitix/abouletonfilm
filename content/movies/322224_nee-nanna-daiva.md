@@ -1,0 +1,1 @@
+{"tmdb_id": 322224, "title": "Nee Nanna Daiva", "original_title": "Nee Nanna Daiva", "slug_title": "nee-nanna-daiva", "date": "1988-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

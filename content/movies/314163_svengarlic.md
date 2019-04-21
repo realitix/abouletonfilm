@@ -1,0 +1,1 @@
+{"tmdb_id": 314163, "title": "Svengarlic", "original_title": "Svengarlic", "slug_title": "svengarlic", "date": "1931-08-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

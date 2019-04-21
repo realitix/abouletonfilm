@@ -1,0 +1,1 @@
+{"tmdb_id": 273383, "title": "Art City 2 Simplicty", "original_title": "Art City 2 Simplicty", "slug_title": "art-city-2-simplicty", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iml4jJPWjRNP4H6RGVYvIBlGzbH.jpg", "actors": [], "comments": [], "recommandations_id": []}

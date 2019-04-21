@@ -1,0 +1,1 @@
+{"tmdb_id": 410068, "title": "Metamorfosis", "original_title": "Metamorfosis", "slug_title": "metamorfosis", "date": "2004-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qFlpmhzU3tSUasbCs8cx7TKqTNC.jpg", "actors": [], "comments": [], "recommandations_id": []}

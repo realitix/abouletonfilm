@@ -1,0 +1,1 @@
+{"tmdb_id": 312175, "title": "Kyle Jason: Revolution of the Cool", "original_title": "Kyle Jason: Revolution of the Cool", "slug_title": "kyle-jason-revolution-of-the-cool", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

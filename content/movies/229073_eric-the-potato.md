@@ -1,0 +1,1 @@
+{"tmdb_id": 229073, "title": "Eric The Potato", "original_title": "Eric The Potato", "slug_title": "eric-the-potato", "date": "2005-11-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

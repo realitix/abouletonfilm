@@ -1,0 +1,1 @@
+{"tmdb_id": 254842, "title": "Sausage", "original_title": "Sausage", "slug_title": "sausage", "date": "2013-11-14", "genre": "Animation", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yX8Ocet8FI8DaPb3whnqt4pKpCS.jpg", "actors": [], "comments": [], "recommandations_id": []}

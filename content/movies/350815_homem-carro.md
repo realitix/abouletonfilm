@@ -1,0 +1,1 @@
+{"tmdb_id": 350815, "title": "Homem-Carro", "original_title": "Homem-Carro", "slug_title": "homem-carro", "date": "2014-07-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Alessandro Beech ()", "Toni Bianco ()", "Anisio Campos ()"], "comments": [], "recommandations_id": []}

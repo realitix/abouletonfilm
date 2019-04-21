@@ -1,0 +1,1 @@
+{"tmdb_id": 437656, "title": "The Warrior Maiden", "original_title": "La doncella guerrera", "slug_title": "the-warrior-maiden", "date": "1974-01-27", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

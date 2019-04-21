@@ -1,0 +1,1 @@
+{"tmdb_id": 402862, "title": "Amores Passageiros", "original_title": "Amores Passageiros", "slug_title": "amores-passageiros", "date": "2012-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5Ddm6OgB8XUhzFkzlluu2CYUsRa.jpg", "actors": ["Osmar Prado ()", "Pilly Calvin ()"], "comments": [], "recommandations_id": []}

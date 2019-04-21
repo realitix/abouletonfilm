@@ -1,0 +1,1 @@
+{"tmdb_id": 173016, "title": "Mi\u015b Uszatek", "original_title": "Mi\u015b Uszatek", "slug_title": "mis-uszatek", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sO7cQsAk1478iKB6a9T4sA8LZWu.jpg", "actors": ["Mieczys\u0142aw Czechowicz (Mi\u015b Uszatek (g\u0142os))"], "comments": [], "recommandations_id": []}

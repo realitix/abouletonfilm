@@ -1,0 +1,1 @@
+{"tmdb_id": 568872, "title": "A Few Good Men", "original_title": "A Few Good Men", "slug_title": "a-few-good-men", "date": "1983-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AhY9CiZwxuaJhhmaD6fXkXp1Rm1.jpg", "actors": ["Brian Thompson ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 547602, "title": "BattleScar", "original_title": "BattleScar", "slug_title": "battlescar", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rosario Dawson (Lupe)"], "comments": [], "recommandations_id": []}

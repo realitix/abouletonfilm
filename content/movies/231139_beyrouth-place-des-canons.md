@@ -1,0 +1,1 @@
+{"tmdb_id": 231139, "title": "Beyrouth, place des canons", "original_title": "Beyrouth, place des canons", "slug_title": "beyrouth-place-des-canons", "date": "1897-10-29", "genre": "", "score": "6.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

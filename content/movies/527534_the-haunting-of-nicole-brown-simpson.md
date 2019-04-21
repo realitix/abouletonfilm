@@ -1,0 +1,1 @@
+{"tmdb_id": 527534, "title": "The Haunting of Nicole Brown Simpson", "original_title": "The Haunting of Nicole Brown Simpson", "slug_title": "the-haunting-of-nicole-brown-simpson", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mena Suvari (Nicole Brown Simpson)"], "comments": [], "recommandations_id": []}

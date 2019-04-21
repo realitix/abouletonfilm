@@ -1,0 +1,1 @@
+{"tmdb_id": 534548, "title": "Caf\u00e9 de Chinitas", "original_title": "Caf\u00e9 de Chinitas", "slug_title": "cafe-de-chinitas", "date": "1960-05-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hUoUA18uhU9VgrhNImt90awxzjf.jpg", "actors": [], "comments": [], "recommandations_id": []}

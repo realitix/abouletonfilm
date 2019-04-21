@@ -1,0 +1,1 @@
+{"tmdb_id": 362781, "title": "The Song of the Shirt", "original_title": "The Song of the Shirt", "slug_title": "the-song-of-the-shirt", "date": "1979-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

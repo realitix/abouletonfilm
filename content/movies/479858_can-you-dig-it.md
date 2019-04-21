@@ -1,0 +1,1 @@
+{"tmdb_id": 479858, "title": "Can You Dig It?", "original_title": "Can You Dig It?", "slug_title": "can-you-dig-it", "date": "1950-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6j2EMuf5k1WEUjfJCne3fJpbEQO.jpg", "actors": ["Charmaine Bingwa (Andrea)"], "comments": [], "recommandations_id": []}

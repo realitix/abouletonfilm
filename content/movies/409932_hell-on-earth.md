@@ -1,0 +1,1 @@
+{"tmdb_id": 409932, "title": "Hell on Earth", "original_title": "Peklo na zemi", "slug_title": "hell-on-earth", "date": "2001-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sy15BcPws7jSxVGM5kClYYsVtkC.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 420238, "title": "Picture of Hell", "original_title": "\uc9c0\uc625\ub3c4", "slug_title": "picture-of-hell", "date": "2016-10-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iybS3aRwgrX35opolsFC7I6o6Oz.jpg", "actors": ["Jung Jae-yoon ()"], "comments": [], "recommandations_id": []}

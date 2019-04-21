@@ -1,0 +1,1 @@
+{"tmdb_id": 274776, "title": "Dancing in Amdo", "original_title": "Dancing in Amdo", "slug_title": "dancing-in-amdo", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

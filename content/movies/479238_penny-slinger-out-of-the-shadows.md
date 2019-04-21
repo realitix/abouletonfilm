@@ -1,0 +1,1 @@
+{"tmdb_id": 479238, "title": "Penny Slinger: Out of the Shadows", "original_title": "Penny Slinger: Out of the Shadows", "slug_title": "penny-slinger-out-of-the-shadows", "date": "2017-03-04", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

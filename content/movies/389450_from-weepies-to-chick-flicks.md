@@ -1,0 +1,1 @@
+{"tmdb_id": 389450, "title": "From Weepies to Chick Flicks", "original_title": "Et Hollywood cr\u00e9a la femme", "slug_title": "from-weepies-to-chick-flicks", "date": "2010-09-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

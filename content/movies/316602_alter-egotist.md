@@ -1,0 +1,1 @@
+{"tmdb_id": 316602, "title": "Alter Egotist", "original_title": "Alter Egotist", "slug_title": "alter-egotist", "date": "1967-04-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

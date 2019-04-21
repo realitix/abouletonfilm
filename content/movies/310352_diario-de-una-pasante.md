@@ -1,0 +1,1 @@
+{"tmdb_id": 310352, "title": "Diario De Una Pasante", "original_title": "Diario De Una Pasante", "slug_title": "diario-de-una-pasante", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

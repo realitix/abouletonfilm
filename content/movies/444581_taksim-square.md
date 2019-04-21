@@ -1,0 +1,1 @@
+{"tmdb_id": 444581, "title": "Taksim Square", "original_title": "Taksim Square", "slug_title": "taksim-square", "date": "2016-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u2Xu9R4GGr2T8hRcdrNDQ89IYda.jpg", "actors": [], "comments": [], "recommandations_id": []}

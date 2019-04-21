@@ -1,0 +1,1 @@
+{"tmdb_id": 585885, "title": "Citizens", "original_title": "Kaupunkilaisia", "slug_title": "citizens", "date": "2008-08-06", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Omar Abdi (Yasin)", "Jarkko Lahti (Marko)"], "comments": [], "recommandations_id": []}

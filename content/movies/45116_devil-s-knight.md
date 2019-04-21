@@ -1,0 +1,1 @@
+{"tmdb_id": 45116, "title": "Devil's Knight", "original_title": "Devil's Knight", "slug_title": "devil-s-knight", "date": "2003-09-13", "genre": "Action / Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ia2rZmZT5xH5DroQXX5FammXvGu.jpg", "actors": [], "comments": [], "recommandations_id": []}

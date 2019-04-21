@@ -1,0 +1,1 @@
+{"tmdb_id": 336109, "title": "LoveStories - Chapter One, Bo", "original_title": "LoveStories - Chapter One, Bo", "slug_title": "lovestories-chapter-one-bo", "date": "2014-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

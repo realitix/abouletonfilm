@@ -1,0 +1,1 @@
+{"tmdb_id": 38409, "title": "Erasing David", "original_title": "Erasing David", "slug_title": "erasing-david", "date": "2009-01-01", "genre": "Documentaire", "score": "5.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ohRcmMUfv2usUYShh8dRcLXnIWH.jpg", "actors": [], "comments": [], "recommandations_id": [53344]}

@@ -1,0 +1,1 @@
+{"tmdb_id": 391568, "title": "Detroit Metal City", "original_title": "Detroit Metal City", "slug_title": "detroit-metal-city", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

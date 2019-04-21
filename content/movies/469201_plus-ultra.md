@@ -1,0 +1,1 @@
+{"tmdb_id": 469201, "title": "Plus Ultra", "original_title": "Plus Ultra", "slug_title": "plus-ultra", "date": "2017-08-03", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4yJlsaxtAAFdXr2CGQ2dLJbEqRy.jpg", "actors": ["David Pantale\u00f3n ()", "Mar\u00eda Isabel D\u00edaz ()"], "comments": [], "recommandations_id": []}

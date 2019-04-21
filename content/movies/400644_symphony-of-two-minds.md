@@ -1,0 +1,1 @@
+{"tmdb_id": 400644, "title": "Symphony of Two Minds", "original_title": "Symphony of Two Minds", "slug_title": "symphony-of-two-minds", "date": "2015-08-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ziUqMFlTN9dGi2fKbuckYoVtsQR.jpg", "actors": [], "comments": [], "recommandations_id": []}

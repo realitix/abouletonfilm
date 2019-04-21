@@ -1,0 +1,1 @@
+{"tmdb_id": 570012, "title": "Der Antennendraht", "original_title": "Der Antennendraht", "slug_title": "der-antennendraht", "date": "1937-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Karl Valentin (Intruder)", "Liesl Karlstadt (Announcer)"], "comments": [], "recommandations_id": []}

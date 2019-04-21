@@ -1,0 +1,1 @@
+{"tmdb_id": 476543, "title": "Fated Vocation", "original_title": "Duyen nghiep", "slug_title": "fated-vocation", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Trung Nguyen ()", "Hoa Minh ()", "Thuy Tung ()"], "comments": [], "recommandations_id": []}

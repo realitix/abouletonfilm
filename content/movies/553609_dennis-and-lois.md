@@ -1,0 +1,1 @@
+{"tmdb_id": 553609, "title": "Dennis and Lois", "original_title": "Dennis and Lois", "slug_title": "dennis-and-lois", "date": "2018-11-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iWHHwTWS54yeJI8ugndV0qzgsCq.jpg", "actors": [], "comments": [], "recommandations_id": []}

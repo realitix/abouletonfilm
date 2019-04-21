@@ -1,0 +1,1 @@
+{"tmdb_id": 487640, "title": "Stripped", "original_title": "Stripped", "slug_title": "stripped", "date": "2009-05-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

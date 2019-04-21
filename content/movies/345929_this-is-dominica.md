@@ -1,0 +1,1 @@
+{"tmdb_id": 345929, "title": "This Is Dominica", "original_title": "This Is Dominica", "slug_title": "this-is-dominica", "date": "2011-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

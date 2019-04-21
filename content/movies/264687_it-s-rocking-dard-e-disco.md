@@ -1,0 +1,1 @@
+{"tmdb_id": 264687, "title": "It's Rocking: Dard-E-Disco", "original_title": "It's Rocking: Dard-E-Disco", "slug_title": "it-s-rocking-dard-e-disco", "date": "2012-11-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nwSYC79v0PQZV99jJNeYVZd1G6h.jpg", "actors": [], "comments": [], "recommandations_id": []}

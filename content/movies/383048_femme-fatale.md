@@ -1,0 +1,1 @@
+{"tmdb_id": 383048, "title": "Femme Fatale", "original_title": "\u6700\u6bd2\u5a66\u4eba\u5fc3", "slug_title": "femme-fatale", "date": "1986-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lin Yu-jie ()", "Hsiang Yun-Peng ()", "Wa Lun ()", "Jieh-Wen King ()", "Yuan Chia-pei ()"], "comments": [], "recommandations_id": []}

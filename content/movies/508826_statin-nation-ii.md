@@ -1,0 +1,1 @@
+{"tmdb_id": 508826, "title": "Statin Nation II", "original_title": "Statin Nation II", "slug_title": "statin-nation-ii", "date": "2015-03-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dD0y6xlyaoY3BLDR1yMSWp4fkl2.jpg", "actors": [], "comments": [], "recommandations_id": []}

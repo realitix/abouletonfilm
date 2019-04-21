@@ -1,0 +1,1 @@
+{"tmdb_id": 537822, "title": "Caustiques", "original_title": "Caustiques", "slug_title": "caustiques", "date": "1960-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e4mUSZDW0tv8XF4THf9arnMf9vi.jpg", "actors": [], "comments": [], "recommandations_id": []}

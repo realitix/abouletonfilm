@@ -1,0 +1,1 @@
+{"tmdb_id": 351022, "title": "Spring Is Here", "original_title": "Spring Is Here", "slug_title": "spring-is-here", "date": "1932-07-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

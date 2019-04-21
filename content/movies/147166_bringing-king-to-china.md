@@ -1,0 +1,1 @@
+{"tmdb_id": 147166, "title": "Bringing King to China", "original_title": "Bringing King to China", "slug_title": "bringing-king-to-china", "date": "2011-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uhBVG1xj2yfgv8WY4UbnIqhm939.jpg", "actors": [], "comments": [], "recommandations_id": []}

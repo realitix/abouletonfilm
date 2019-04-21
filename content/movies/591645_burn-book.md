@@ -1,0 +1,1 @@
+{"tmdb_id": 591645, "title": "Burn Book", "original_title": "Burn Book", "slug_title": "burn-book", "date": "2014-11-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vJpriaK40KRtlTNqolVTRXUBcVd.jpg", "actors": ["Kendall Jenner ()"], "comments": [], "recommandations_id": []}

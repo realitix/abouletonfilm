@@ -1,0 +1,1 @@
+{"tmdb_id": 392445, "title": "The Assistant", "original_title": "Der Geh\u00fclfe", "slug_title": "the-assistant", "date": "1976-04-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uXT8fA5xDIVDR4X2luG9cl5Exrc.jpg", "actors": [], "comments": [], "recommandations_id": []}

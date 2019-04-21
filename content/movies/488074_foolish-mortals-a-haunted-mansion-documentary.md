@@ -1,0 +1,1 @@
+{"tmdb_id": 488074, "title": "Foolish Mortals: A Haunted Mansion Documentary", "original_title": "Foolish Mortals: A Haunted Mansion Documentary", "slug_title": "foolish-mortals-a-haunted-mansion-documentary", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

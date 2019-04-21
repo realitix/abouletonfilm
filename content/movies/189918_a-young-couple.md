@@ -1,0 +1,1 @@
+{"tmdb_id": 189918, "title": "A Young Couple", "original_title": "A Young Couple", "slug_title": "a-young-couple", "date": "2009-04-02", "genre": "Drame / Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n2szK4nfdXvQeXpLg5uaMCU294g.jpg", "actors": [], "comments": [], "recommandations_id": []}

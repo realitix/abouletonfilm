@@ -1,0 +1,1 @@
+{"tmdb_id": 489808, "title": "Maverick", "original_title": "Maverick", "slug_title": "maverick", "date": "2018-10-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Abbey Lee (Maverick)", "Rhys Coiro (Richard)"], "comments": [], "recommandations_id": []}

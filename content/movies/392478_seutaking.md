@@ -1,0 +1,1 @@
+{"tmdb_id": 392478, "title": "\uc2a4\ud0c0\ud0b9", "original_title": "\uc2a4\ud0c0\ud0b9", "slug_title": "seutaking", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

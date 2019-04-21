@@ -1,0 +1,1 @@
+{"tmdb_id": 300853, "title": "Undead Boyfriend", "original_title": "Undead Boyfriend", "slug_title": "undead-boyfriend", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

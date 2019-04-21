@@ -1,0 +1,1 @@
+{"tmdb_id": 556772, "title": "Half A Chicken", "original_title": "Half A Chicken", "slug_title": "half-a-chicken", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

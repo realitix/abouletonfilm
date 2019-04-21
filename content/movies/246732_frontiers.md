@@ -1,0 +1,1 @@
+{"tmdb_id": 246732, "title": "Frontiers", "original_title": "Frontiers", "slug_title": "frontiers", "date": "1936-02-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Martha Graham ()"], "comments": [], "recommandations_id": []}

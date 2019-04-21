@@ -1,0 +1,1 @@
+{"tmdb_id": 488584, "title": "Dancing with trees", "original_title": "Taniec z drzewami", "slug_title": "dancing-with-trees", "date": "1985-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a1xaOFIRdcK9dNcmguG99sMwy4b.jpg", "actors": [], "comments": [], "recommandations_id": []}

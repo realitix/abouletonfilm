@@ -1,0 +1,1 @@
+{"tmdb_id": 134819, "title": "El Show de Pocoy\u00f3... y sus amigos", "original_title": "El Show de Pocoy\u00f3... y sus amigos", "slug_title": "el-show-de-pocoyo-y-sus-amigos", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

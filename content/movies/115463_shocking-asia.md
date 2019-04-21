@@ -1,0 +1,1 @@
+{"tmdb_id": 115463, "title": "Shocking Asia", "original_title": "Shocking Asia", "slug_title": "shocking-asia", "date": "1976-11-11", "genre": "Documentaire", "score": "6.1/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w0vzXxW3vXeRYuBky7wABqpe7m5.jpg", "actors": [], "comments": [], "recommandations_id": [144855, 104973, 27736, 104240]}

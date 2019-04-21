@@ -1,0 +1,1 @@
+{"tmdb_id": 399200, "title": "Mark of the Gun", "original_title": "Mark of the Gun", "slug_title": "mark-of-the-gun", "date": "1969-02-01", "genre": "Western", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nlDjad5qGdUS2t1EcefW0OMKm7F.jpg", "actors": ["Ross Hagen (Justin Kane)"], "comments": [], "recommandations_id": []}

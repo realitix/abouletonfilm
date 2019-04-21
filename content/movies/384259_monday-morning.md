@@ -1,0 +1,1 @@
+{"tmdb_id": 384259, "title": "Monday Morning", "original_title": "Monday Morning", "slug_title": "monday-morning", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

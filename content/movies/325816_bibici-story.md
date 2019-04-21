@@ -1,0 +1,1 @@
+{"tmdb_id": 325816, "title": "Bibici Story", "original_title": "Bibici Story", "slug_title": "bibici-story", "date": "1969-01-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5AGNX7BHLzIyFGwEY4NW1xk8qiE.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 458511, "title": "\u00a1Diles que no me maten!", "original_title": "\u00a1Diles que no me maten!", "slug_title": "diles-que-no-me-maten", "date": "1985-12-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Flor N\u00fa\u00f1ez ()"], "comments": [], "recommandations_id": []}

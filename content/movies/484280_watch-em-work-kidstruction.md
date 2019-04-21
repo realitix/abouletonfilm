@@ -1,0 +1,1 @@
+{"tmdb_id": 484280, "title": "Watch 'em Work- Kidstruction", "original_title": "Watch 'em Work- Kidstruction", "slug_title": "watch-em-work-kidstruction", "date": "1994-10-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dVFI0MOLiqkSUXDvPROzs4V5wno.jpg", "actors": [], "comments": [], "recommandations_id": []}

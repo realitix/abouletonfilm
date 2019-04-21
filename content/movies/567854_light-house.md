@@ -1,0 +1,1 @@
+{"tmdb_id": 567854, "title": "Light House", "original_title": "Light House", "slug_title": "light-house", "date": "2008-12-06", "genre": "Drame / Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qR23wgGXE3XwRrhFrnhgMM9s4I5.jpg", "actors": [], "comments": [], "recommandations_id": []}

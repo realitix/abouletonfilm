@@ -1,0 +1,1 @@
+{"tmdb_id": 128132, "title": "Mumbai's King", "original_title": "Mumbai Cha Raja", "slug_title": "mumbai-s-king", "date": "2012-10-31", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jZ4NutRwyakWfBkG5Pws06erBNY.jpg", "actors": [], "comments": [], "recommandations_id": [168771, 417257, 364306, 426224]}

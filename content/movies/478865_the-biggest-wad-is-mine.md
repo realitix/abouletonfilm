@@ -1,0 +1,1 @@
+{"tmdb_id": 478865, "title": "The Biggest Wad Is Mine", "original_title": "The Biggest Wad Is Mine", "slug_title": "the-biggest-wad-is-mine", "date": "2016-09-18", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rKQoQRLvR2teimhzermv4Mryijt.jpg", "actors": [], "comments": [], "recommandations_id": []}

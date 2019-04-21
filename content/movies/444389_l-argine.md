@@ -1,0 +1,1 @@
+{"tmdb_id": 444389, "title": "L'argine", "original_title": "L'argine", "slug_title": "l-argine", "date": "1938-08-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wLC6SaWKphiVqErmBL6rInh0iD5.jpg", "actors": ["Gino Cervi (Zvan\u00ec)", "Luisa Ferida (Sina)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 166946, "title": "Yami Douga", "original_title": "Yami Douga", "slug_title": "yami-douga", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gxV3366XsDOl2P60ZAerED080vp.jpg", "actors": [], "comments": [], "recommandations_id": []}

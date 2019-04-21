@@ -1,0 +1,1 @@
+{"tmdb_id": 558677, "title": "Bombshell", "original_title": "Bombshell", "slug_title": "bombshell", "date": "2012-07-02", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d3J0EQqJYCwWmiWZ9sAvPo8llM7.jpg", "actors": ["Mackenzie Criswell (Rouge Agent)"], "comments": [], "recommandations_id": []}

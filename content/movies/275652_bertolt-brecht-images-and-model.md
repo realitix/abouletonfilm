@@ -1,0 +1,1 @@
+{"tmdb_id": 275652, "title": "Bertolt Brecht - Images and Model", "original_title": "Bertolt Brecht - Bild und Modell", "slug_title": "bertolt-brecht-images-and-model", "date": "2007-05-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bertolt Brecht ()"], "comments": [], "recommandations_id": []}

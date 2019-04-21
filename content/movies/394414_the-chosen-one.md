@@ -1,0 +1,1 @@
+{"tmdb_id": 394414, "title": "The Chosen One", "original_title": "Cel ales", "slug_title": "the-chosen-one", "date": "2015-04-24", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1iOV7MESyeyzhr7J6pnobsFkMmd.jpg", "actors": ["Laura Cosoi (Nora)", "Carmen Fulger (Functionara)"], "comments": [], "recommandations_id": []}

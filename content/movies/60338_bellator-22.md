@@ -1,0 +1,1 @@
+{"tmdb_id": 60338, "title": "Bellator 22", "original_title": "Bellator 22", "slug_title": "bellator-22", "date": "2010-06-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3EhELYGEVrJ9Z8Xwe0xnzu7vL3b.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 441165, "title": "Me gan\u00f3 la risa", "original_title": "Me gan\u00f3 la risa", "slug_title": "me-gano-la-risa", "date": "1997-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pedro Romo ()", "Paco Ib\u00e1\u00f1ez ()", "Pablo Ferrel ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 232586, "title": "Christian IXS bis\u00e6ttelse", "original_title": "Christian IXS bis\u00e6ttelse", "slug_title": "christian-ixs-bisaettelse", "date": "1906-02-18", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

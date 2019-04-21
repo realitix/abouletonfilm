@@ -1,0 +1,1 @@
+{"tmdb_id": 217512, "title": "Something to Write Home About", "original_title": "Something to Write Home About", "slug_title": "something-to-write-home-about", "date": "1998-03-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Seamus Heaney ()"], "comments": [], "recommandations_id": []}

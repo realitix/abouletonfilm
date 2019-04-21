@@ -1,0 +1,1 @@
+{"tmdb_id": 310112, "title": "Ipinanganak Na Nakayapak", "original_title": "Ipinanganak Na Nakayapak", "slug_title": "ipinanganak-na-nakayapak", "date": "2014-12-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iUxqHhHLwXlFoNG5MskCbFdPMUa.jpg", "actors": ["Neil Carandang ()"], "comments": [], "recommandations_id": []}

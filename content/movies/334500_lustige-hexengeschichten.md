@@ -1,0 +1,1 @@
+{"tmdb_id": 334500, "title": "Lustige Hexengeschichten", "original_title": "Lustige Hexengeschichten", "slug_title": "lustige-hexengeschichten", "date": "2009-01-10", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aXSkTyUEivTcWMIbepflb8SJhLs.jpg", "actors": [], "comments": [], "recommandations_id": []}

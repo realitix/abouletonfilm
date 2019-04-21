@@ -1,0 +1,1 @@
+{"tmdb_id": 221069, "title": "Blood Treasury Fight", "original_title": "Xue rou mo fang", "slug_title": "blood-treasury-fight", "date": "1979-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j6VUO6tQHT8Tx3GmdKP50k9V2la.jpg", "actors": [], "comments": [], "recommandations_id": []}

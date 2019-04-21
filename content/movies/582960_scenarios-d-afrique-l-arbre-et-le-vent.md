@@ -1,0 +1,1 @@
+{"tmdb_id": 582960, "title": "Sc\u00e9narios d'Afrique: L'arbre et le vent", "original_title": "Sc\u00e9narios d'Afrique: L'arbre et le vent", "slug_title": "scenarios-d-afrique-l-arbre-et-le-vent", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

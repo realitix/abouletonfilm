@@ -1,0 +1,1 @@
+{"tmdb_id": 218777, "title": "Oh My Darling", "original_title": "Oh My Darling", "slug_title": "oh-my-darling", "date": "1978-01-01", "genre": "Animation", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qK2mo3p4s99Z8gRljq6GrZY9lAu.jpg", "actors": [], "comments": [], "recommandations_id": []}

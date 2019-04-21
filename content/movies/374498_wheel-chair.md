@@ -1,0 +1,1 @@
+{"tmdb_id": 374498, "title": "Wheel Chair", "original_title": "Wheel Chair", "slug_title": "wheel-chair", "date": "1994-07-14", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ufHf3a7WrnjMv7Gs0seydjAfCkW.jpg", "actors": [], "comments": [], "recommandations_id": []}

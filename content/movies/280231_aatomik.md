@@ -1,0 +1,1 @@
+{"tmdb_id": 280231, "title": "Aatomik", "original_title": "Aatomik", "slug_title": "aatomik", "date": "1970-01-01", "genre": "Animation / Science-Fiction", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gDw8ObwJ17wUwdGwnZsKRnzq3Cf.jpg", "actors": [], "comments": [], "recommandations_id": []}

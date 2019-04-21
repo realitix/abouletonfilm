@@ -1,0 +1,1 @@
+{"tmdb_id": 178646, "title": "The Wall", "original_title": "Le Mur", "slug_title": "the-wall", "date": "1998-05-25", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zP7fMIbRE5lLXWyyKB1ZuGg2hmg.jpg", "actors": [], "comments": [], "recommandations_id": []}

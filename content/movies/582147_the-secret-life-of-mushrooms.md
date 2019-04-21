@@ -1,0 +1,1 @@
+{"tmdb_id": 582147, "title": "The Secret Life of Mushrooms", "original_title": "The Secret Life of Mushrooms", "slug_title": "the-secret-life-of-mushrooms", "date": "2010-02-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

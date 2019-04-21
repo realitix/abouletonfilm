@@ -1,0 +1,1 @@
+{"tmdb_id": 167246, "title": "Songs from the Nickel", "original_title": "Songs from the Nickel", "slug_title": "songs-from-the-nickel", "date": "2010-04-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

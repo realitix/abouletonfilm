@@ -1,0 +1,1 @@
+{"tmdb_id": 273384, "title": "Father, Son and Holy War", "original_title": "Pitra, Putra Aur Dharamyuddha", "slug_title": "father-son-and-holy-war", "date": "1994-01-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7L2thblxc4SNsHVuzcC8kpF3ItK.jpg", "actors": [], "comments": [], "recommandations_id": []}

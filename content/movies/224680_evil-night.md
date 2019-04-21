@@ -1,0 +1,1 @@
+{"tmdb_id": 224680, "title": "Evil Night", "original_title": "Evil Night", "slug_title": "evil-night", "date": "1992-06-18", "genre": "", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2uejJjaPasORbPW2RxjUAS1kJdp.jpg", "actors": [], "comments": [], "recommandations_id": []}

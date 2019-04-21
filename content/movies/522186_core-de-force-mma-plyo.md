@@ -1,0 +1,1 @@
+{"tmdb_id": 522186, "title": "Core De Force - MMA Plyo", "original_title": "Core De Force - MMA Plyo", "slug_title": "core-de-force-mma-plyo", "date": "2016-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4eeFzlmTpp27vfmBekvuJ8DAIRC.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 311841, "title": "David Zinman: Eine Alpensinfonie", "original_title": "David Zinman: Eine Alpensinfonie", "slug_title": "david-zinman-eine-alpensinfonie", "date": "", "genre": "", "score": "1.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

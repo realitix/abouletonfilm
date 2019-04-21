@@ -1,0 +1,1 @@
+{"tmdb_id": 322654, "title": "Candelabra", "original_title": "Candelabra", "slug_title": "candelabra", "date": "2014-05-31", "genre": "Myst\u00e8re", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dara Ly (Helene)", "Groovin . (Detective Dick Sims)"], "comments": [], "recommandations_id": []}

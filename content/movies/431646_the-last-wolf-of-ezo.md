@@ -1,0 +1,1 @@
+{"tmdb_id": 431646, "title": "The Last Wolf of Ezo", "original_title": "The Last Wolf of Ezo", "slug_title": "the-last-wolf-of-ezo", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

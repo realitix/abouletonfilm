@@ -1,0 +1,1 @@
+{"tmdb_id": 301354, "title": "The Trap", "original_title": "The Trap", "slug_title": "the-trap", "date": "", "genre": "Crime / Horreur / Thriller", "score": "5.4/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Benicio del Toro (Slim)", "Al Pacino ()", "Robert Pattinson (Max)", "Gucci Mane ()"], "comments": [], "recommandations_id": []}

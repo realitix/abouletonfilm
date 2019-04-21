@@ -1,0 +1,1 @@
+{"tmdb_id": 591766, "title": "Pravda o zk\u00e1ze Titaniku", "original_title": "Pravda o zk\u00e1ze Titaniku", "slug_title": "pravda-o-zkaze-titaniku", "date": "1992-01-01", "genre": "Com\u00e9die", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aUFCZuYB4RJGZEN2ypu5vZgtGUl.jpg", "actors": [], "comments": [], "recommandations_id": []}

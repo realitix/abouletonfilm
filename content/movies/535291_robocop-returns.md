@@ -1,0 +1,1 @@
+{"tmdb_id": 535291, "title": "RoboCop Returns", "original_title": "RoboCop Returns", "slug_title": "robocop-returns", "date": "", "genre": "Science-Fiction / Action", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

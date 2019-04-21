@@ -1,0 +1,1 @@
+{"tmdb_id": 458460, "title": "Doctor Mabuse 3", "original_title": "Doctor Mabuse 3", "slug_title": "doctor-mabuse-3", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

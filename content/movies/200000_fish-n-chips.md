@@ -1,0 +1,1 @@
+{"tmdb_id": 200000, "title": "Fish n' Chips", "original_title": "Fish n' Chips", "slug_title": "fish-n-chips", "date": "2012-05-10", "genre": "Drame", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/79uf790v3NkSpXQfQQrCrKR11LU.jpg", "actors": [], "comments": [], "recommandations_id": []}

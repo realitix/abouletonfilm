@@ -1,0 +1,1 @@
+{"tmdb_id": 405154, "title": "U-TILE IT YOURSELF", "original_title": "U-TILE IT YOURSELF", "slug_title": "u-tile-it-yourself", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7VmeuvWx9Ro4HGYbPYvKHN4NFo8.jpg", "actors": [], "comments": [], "recommandations_id": []}

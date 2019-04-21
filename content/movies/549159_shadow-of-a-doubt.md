@@ -1,0 +1,1 @@
+{"tmdb_id": 549159, "title": "Shadow of a Doubt", "original_title": "Shadow of a Doubt", "slug_title": "shadow-of-a-doubt", "date": "1996-12-03", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Brian Dennehy (Charley Sloan)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 307213, "title": "Charan Kavi Mukundadas", "original_title": "Charan Kavi Mukundadas", "slug_title": "charan-kavi-mukundadas", "date": "1968-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

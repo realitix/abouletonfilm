@@ -1,0 +1,1 @@
+{"tmdb_id": 572996, "title": "Kimi no Matsu Mirai (Basho) e", "original_title": "\u304d\u307f\u306e\u5f85\u3064\u672a\u6765\uff08\u3070\u3057\u3087\uff09\u3078", "slug_title": "kimi-no-matsu-mirai-basho-e", "date": "2018-11-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

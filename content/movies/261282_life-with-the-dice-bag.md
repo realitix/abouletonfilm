@@ -1,0 +1,1 @@
+{"tmdb_id": 261282, "title": "Life with the Dice Bag", "original_title": "Life with the Dice Bag", "slug_title": "life-with-the-dice-bag", "date": "2004-08-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 231156, "title": "My Afghanistan: Life in the Forbidden Zone", "original_title": "Mit Afghanistan: Livet i den forbudte zone", "slug_title": "my-afghanistan-life-in-the-forbidden-zone", "date": "2013-11-09", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

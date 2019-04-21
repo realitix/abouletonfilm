@@ -1,0 +1,1 @@
+{"tmdb_id": 243218, "title": "A Force in Readiness", "original_title": "A Force in Readiness", "slug_title": "a-force-in-readiness", "date": "1961-05-25", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jack Webb ()"], "comments": [], "recommandations_id": []}

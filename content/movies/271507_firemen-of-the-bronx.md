@@ -1,0 +1,1 @@
+{"tmdb_id": 271507, "title": "Firemen of the Bronx", "original_title": "Firemen of the Bronx", "slug_title": "firemen-of-the-bronx", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

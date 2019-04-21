@@ -1,0 +1,1 @@
+{"tmdb_id": 565450, "title": "I Was a Teenage Apeman", "original_title": "I Was a Teenage Apeman", "slug_title": "i-was-a-teenage-apeman", "date": "1959-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qHt8DThReCdITrzLlAw5MR73fUH.jpg", "actors": [], "comments": [], "recommandations_id": []}

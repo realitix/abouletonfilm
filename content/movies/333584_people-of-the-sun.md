@@ -1,0 +1,1 @@
+{"tmdb_id": 333584, "title": "People of the Sun", "original_title": "El pueblo del Sol", "slug_title": "people-of-the-sun", "date": "1983-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

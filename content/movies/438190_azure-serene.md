@@ -1,0 +1,1 @@
+{"tmdb_id": 438190, "title": "Azure Serene", "original_title": "Azure Serene", "slug_title": "azure-serene", "date": "1992-01-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hAR3IA1kmq9WjUWo2ehlUXDWLxx.jpg", "actors": [], "comments": [], "recommandations_id": []}

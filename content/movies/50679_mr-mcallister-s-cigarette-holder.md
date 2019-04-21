@@ -1,0 +1,1 @@
+{"tmdb_id": 50679, "title": "Mr. McAllister's Cigarette Holder", "original_title": "Mr. McAllister's Cigarette Holder", "slug_title": "mr-mcallister-s-cigarette-holder", "date": "1994-01-01", "genre": "Drame", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tim Ware (Richwine)"], "comments": [], "recommandations_id": []}

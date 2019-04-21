@@ -1,0 +1,1 @@
+{"tmdb_id": 450357, "title": "Badfinger - Jukebox Heroes (2002)", "original_title": "Badfinger - Jukebox Heroes (2002)", "slug_title": "badfinger-jukebox-heroes-2002", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8QKXamFI0h7o2quCuQhhW9f1v5e.jpg", "actors": [], "comments": [], "recommandations_id": []}

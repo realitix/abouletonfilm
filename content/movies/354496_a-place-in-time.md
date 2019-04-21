@@ -1,0 +1,1 @@
+{"tmdb_id": 354496, "title": "A Place in Time", "original_title": "A Place in Time", "slug_title": "a-place-in-time", "date": "1977-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

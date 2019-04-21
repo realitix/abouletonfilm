@@ -1,0 +1,1 @@
+{"tmdb_id": 39520, "title": "Varo della corazzata Roma", "original_title": "Varo della corazzata Roma", "slug_title": "varo-della-corazzata-roma", "date": "", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

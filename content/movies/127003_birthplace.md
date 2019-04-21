@@ -1,0 +1,1 @@
+{"tmdb_id": 127003, "title": "Birthplace", "original_title": "Miejsce urodzenia", "slug_title": "birthplace", "date": "1992-05-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9SBoHc7O5kxgGeCJDKZ4madaXrI.jpg", "actors": ["Henryk Grynberg (Himself)"], "comments": [], "recommandations_id": []}

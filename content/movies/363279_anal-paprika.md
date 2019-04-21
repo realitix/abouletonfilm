@@ -1,0 +1,1 @@
+{"tmdb_id": 363279, "title": "Anal Paprika", "original_title": "Anal Paprika", "slug_title": "anal-paprika", "date": "1999-10-01", "genre": "", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cMUzxM5Aw0xuMbfXCMzqwGOQ6Zw.jpg", "actors": [], "comments": [], "recommandations_id": []}

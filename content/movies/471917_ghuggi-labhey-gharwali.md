@@ -1,0 +1,1 @@
+{"tmdb_id": 471917, "title": "Ghuggi Labhey Gharwali", "original_title": "Ghuggi Labhey Gharwali", "slug_title": "ghuggi-labhey-gharwali", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bUSzhXjUPDOlplgRtXrK9YivRsO.jpg", "actors": [], "comments": [], "recommandations_id": []}

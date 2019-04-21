@@ -1,0 +1,1 @@
+{"tmdb_id": 360694, "title": "Battu's Bioscope", "original_title": "Kiniarze z Kalkuty", "slug_title": "battu-s-bioscope", "date": "1998-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

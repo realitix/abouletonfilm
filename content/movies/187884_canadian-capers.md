@@ -1,0 +1,1 @@
+{"tmdb_id": 187884, "title": "Canadian Capers", "original_title": "Canadian Capers", "slug_title": "canadian-capers", "date": "1931-08-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

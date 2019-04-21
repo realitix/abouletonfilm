@@ -1,0 +1,1 @@
+{"tmdb_id": 157367, "title": "Zorgon: The H-Bomb Beast From Hell", "original_title": "Zorgon: The H-Bomb Beast From Hell", "slug_title": "zorgon-the-h-bomb-beast-from-hell", "date": "1972-04-03", "genre": "Science-Fiction / Myst\u00e8re / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

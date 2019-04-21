@@ -1,0 +1,1 @@
+{"tmdb_id": 541477, "title": "The Waiting Room", "original_title": "The Waiting Room", "slug_title": "the-waiting-room", "date": "2018-09-14", "genre": "Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bDQyvcT5W1AmzX69AAYdPoyFrmA.jpg", "actors": [], "comments": [], "recommandations_id": []}

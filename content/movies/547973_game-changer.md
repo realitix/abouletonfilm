@@ -1,0 +1,1 @@
+{"tmdb_id": 547973, "title": "Game Changer", "original_title": "Game Changer", "slug_title": "game-changer", "date": "2018-06-23", "genre": "Animation", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ak2j9C6Ow5GTso70qVY8k3C0Ca0.jpg", "actors": [], "comments": [], "recommandations_id": []}

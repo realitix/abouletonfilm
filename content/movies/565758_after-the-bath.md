@@ -1,0 +1,1 @@
+{"tmdb_id": 565758, "title": "After the Bath", "original_title": "After the Bath", "slug_title": "after-the-bath", "date": "1996-06-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

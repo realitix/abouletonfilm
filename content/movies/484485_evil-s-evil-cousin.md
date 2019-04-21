@@ -1,0 +1,1 @@
+{"tmdb_id": 484485, "title": "Evil's Evil Cousin", "original_title": "Evil's Evil Cousin", "slug_title": "evil-s-evil-cousin", "date": "2016-10-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vucHNPtJ6cKVJ6eUvvRXjDMVGBh.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 116910, "title": "El flautista de Hamel\u00edn", "original_title": "El flautista de Hamel\u00edn", "slug_title": "el-flautista-de-hamelin", "date": "1992-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7Uc9g8qWAiSOgn4fLsYjvgiTot7.jpg", "actors": [], "comments": [], "recommandations_id": []}

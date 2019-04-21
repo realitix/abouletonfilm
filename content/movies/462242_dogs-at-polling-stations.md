@@ -1,0 +1,1 @@
+{"tmdb_id": 462242, "title": "Dogs at Polling Stations", "original_title": "Dogs at Polling Stations", "slug_title": "dogs-at-polling-stations", "date": "2017-06-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

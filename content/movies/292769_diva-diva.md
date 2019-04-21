@@ -1,0 +1,1 @@
+{"tmdb_id": 292769, "title": "Diva-Diva", "original_title": "Diva-Diva", "slug_title": "diva-diva", "date": "2004-08-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/finN4dxScyAW1R3SDbyCBxATrVj.jpg", "actors": ["Vivian Schmitt ()", "Sibel Kekilli ()"], "comments": [], "recommandations_id": []}

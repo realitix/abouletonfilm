@@ -1,0 +1,1 @@
+{"tmdb_id": 467130, "title": "A Kind Affair", "original_title": "A Kind Affair", "slug_title": "a-kind-affair", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/17eZghiWyCrUEq3Gev3VsPsJT4Q.jpg", "actors": [], "comments": [], "recommandations_id": []}

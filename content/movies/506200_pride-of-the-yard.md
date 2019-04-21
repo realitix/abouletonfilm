@@ -1,0 +1,1 @@
+{"tmdb_id": 506200, "title": "Pride of the Yard", "original_title": "Pride of the Yard", "slug_title": "pride-of-the-yard", "date": "1954-07-25", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 310692, "title": "UFC: The Ultimate 100 Greatest Fights: Vol. 8", "original_title": "UFC: The Ultimate 100 Greatest Fights: Vol. 8", "slug_title": "ufc-the-ultimate-100-greatest-fights-vol-8", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

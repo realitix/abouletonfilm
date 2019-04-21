@@ -1,0 +1,1 @@
+{"tmdb_id": 415615, "title": "The Waste Land", "original_title": "The Waste Land", "slug_title": "the-waste-land", "date": "1999-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v4ifIQ87RDEatJ6ABH8xhA4iJy0.jpg", "actors": [], "comments": [], "recommandations_id": []}

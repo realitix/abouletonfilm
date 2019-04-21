@@ -1,0 +1,1 @@
+{"tmdb_id": 470837, "title": "Our People Will Be Healed", "original_title": "Our People Will Be Healed", "slug_title": "our-people-will-be-healed", "date": "2017-09-07", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1G3kAXAlOyPfgSzDwK0PI1SGFyS.jpg", "actors": [], "comments": [], "recommandations_id": []}

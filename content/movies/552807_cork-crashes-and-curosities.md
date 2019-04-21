@@ -1,0 +1,1 @@
+{"tmdb_id": 552807, "title": "Cork: Crashes And Curosities", "original_title": "Cork: Crashes And Curosities", "slug_title": "cork-crashes-and-curosities", "date": "1945-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

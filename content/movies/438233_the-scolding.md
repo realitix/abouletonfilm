@@ -1,0 +1,1 @@
+{"tmdb_id": 438233, "title": "The Scolding", "original_title": "La bronca", "slug_title": "the-scolding", "date": "1971-01-30", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

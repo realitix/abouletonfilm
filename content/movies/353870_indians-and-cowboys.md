@@ -1,0 +1,1 @@
+{"tmdb_id": 353870, "title": "Indians and Cowboys", "original_title": "Indiens et cow-boys", "slug_title": "indians-and-cowboys", "date": "1904-01-01", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

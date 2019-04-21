@@ -1,0 +1,1 @@
+{"tmdb_id": 424742, "title": "The Heart of Loisaida", "original_title": "El coraz\u00f3n de Loisaida", "slug_title": "the-heart-of-loisaida", "date": "1979-01-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sandy Esteves (Narrator)"], "comments": [], "recommandations_id": []}

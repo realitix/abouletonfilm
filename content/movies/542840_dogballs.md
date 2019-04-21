@@ -1,0 +1,1 @@
+{"tmdb_id": 542840, "title": "Dogballs", "original_title": "Dogballs", "slug_title": "dogballs", "date": "2011-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

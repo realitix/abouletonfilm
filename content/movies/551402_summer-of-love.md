@@ -1,0 +1,1 @@
+{"tmdb_id": 551402, "title": "Summer of Love", "original_title": "Summer of Love", "slug_title": "summer-of-love", "date": "", "genre": "Com\u00e9die / Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

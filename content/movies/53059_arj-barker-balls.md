@@ -1,0 +1,1 @@
+{"tmdb_id": 53059, "title": "Arj Barker: Balls", "original_title": "Arj Barker: Balls", "slug_title": "arj-barker-balls", "date": "2008-08-01", "genre": "Com\u00e9die", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5AMjuY6wwk7Ey7l3ENkwjgltxgD.jpg", "actors": ["Arj Barker (Himself)"], "comments": [], "recommandations_id": []}

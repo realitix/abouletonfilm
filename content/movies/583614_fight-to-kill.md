@@ -1,0 +1,1 @@
+{"tmdb_id": 583614, "title": "Fight To Kill", "original_title": "Fight To Kill", "slug_title": "fight-to-kill", "date": "2019-02-18", "genre": "Action / Crime / Thriller", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["A. Cash Davenport (Plaid)", "Ethan Cash (Black Tie)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 195520, "title": "Messrs Lumb and Co Leaving the Works, Huddersfield", "original_title": "Messrs Lumb and Co Leaving the Works, Huddersfield", "slug_title": "messrs-lumb-and-co-leaving-the-works-huddersfield", "date": "1900-05-21", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

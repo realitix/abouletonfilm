@@ -1,0 +1,1 @@
+{"tmdb_id": 440133, "title": "My Legacy", "original_title": "My Legacy", "slug_title": "my-legacy", "date": "2014-02-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

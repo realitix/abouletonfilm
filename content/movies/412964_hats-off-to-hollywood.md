@@ -1,0 +1,1 @@
+{"tmdb_id": 412964, "title": "Hats Off to Hollywood", "original_title": "Hats Off to Hollywood", "slug_title": "hats-off-to-hollywood", "date": "1972-08-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

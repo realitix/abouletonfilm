@@ -1,0 +1,1 @@
+{"tmdb_id": 389034, "title": "A Hole in the Ground", "original_title": "Dziura w ziemi", "slug_title": "a-hole-in-the-ground", "date": "1970-03-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

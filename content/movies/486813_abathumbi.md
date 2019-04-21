@@ -1,0 +1,1 @@
+{"tmdb_id": 486813, "title": "Abathumbi", "original_title": "Abathumbi", "slug_title": "abathumbi", "date": "1985-07-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Innocent Gumede ()", "Jabulani Luthuli ()", "Victor Nhleko ()"], "comments": [], "recommandations_id": []}

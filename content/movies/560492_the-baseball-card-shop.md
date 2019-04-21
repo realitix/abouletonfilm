@@ -1,0 +1,1 @@
+{"tmdb_id": 560492, "title": "The Baseball Card Shop", "original_title": "The Baseball Card Shop", "slug_title": "the-baseball-card-shop", "date": "2005-10-04", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4iQp6nLVey2CJx4xDdmBL3lmtYX.jpg", "actors": [], "comments": [], "recommandations_id": []}

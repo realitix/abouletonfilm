@@ -1,0 +1,1 @@
+{"tmdb_id": 291282, "title": "Jesus Fish", "original_title": "Jesus Fish", "slug_title": "jesus-fish", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

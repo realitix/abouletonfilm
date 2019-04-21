@@ -1,0 +1,1 @@
+{"tmdb_id": 526792, "title": "Who Is Elmore Dean?", "original_title": "Who Is Elmore Dean?", "slug_title": "who-is-elmore-dean", "date": "2017-01-01", "genre": "Drame / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Timothy J. Cox (Elmore Dean)"], "comments": [], "recommandations_id": []}

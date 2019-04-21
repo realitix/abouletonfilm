@@ -1,0 +1,1 @@
+{"tmdb_id": 267126, "title": "Tzedek: The Righteous", "original_title": "Tzedek", "slug_title": "tzedek-the-righteous", "date": "1994-11-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

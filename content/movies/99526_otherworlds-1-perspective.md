@@ -1,0 +1,1 @@
+{"tmdb_id": 99526, "title": "OTHERWORLDS #1 - Perspective", "original_title": "OTHERWORLDS #1 - Perspective", "slug_title": "otherworlds-1-perspective", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

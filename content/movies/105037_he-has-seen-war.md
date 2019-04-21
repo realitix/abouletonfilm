@@ -1,0 +1,1 @@
+{"tmdb_id": 105037, "title": "He Has Seen War", "original_title": "He Has Seen War", "slug_title": "he-has-seen-war", "date": "2011-11-11", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wvPT0W2LXKhUb08UzItKuhRdCRL.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 546496, "title": "Mr. Moto Takes A Walk", "original_title": "Mr. Moto Takes A Walk", "slug_title": "mr-moto-takes-a-walk", "date": "1965-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

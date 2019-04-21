@@ -1,0 +1,1 @@
+{"tmdb_id": 352606, "title": "Tehetetlen\u00fcl", "original_title": "Tehetetlen\u00fcl", "slug_title": "tehetetlenul", "date": "1997-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

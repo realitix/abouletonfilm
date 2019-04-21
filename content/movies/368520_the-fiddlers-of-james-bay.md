@@ -1,0 +1,1 @@
+{"tmdb_id": 368520, "title": "The fiddlers of James Bay", "original_title": "The fiddlers of James Bay", "slug_title": "the-fiddlers-of-james-bay", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

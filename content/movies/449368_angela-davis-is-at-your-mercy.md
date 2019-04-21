@@ -1,0 +1,1 @@
+{"tmdb_id": 449368, "title": "Angela Davis Is at Your Mercy", "original_title": "Genet parle d'Angela Davis", "slug_title": "angela-davis-is-at-your-mercy", "date": "1970-03-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Angela Davis (Herself)", "Jean Genet (Himself)"], "comments": [], "recommandations_id": []}

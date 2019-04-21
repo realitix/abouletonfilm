@@ -1,0 +1,1 @@
+{"tmdb_id": 546758, "title": "Parade Of Aquatic Champions", "original_title": "Parade Of Aquatic Champions", "slug_title": "parade-of-aquatic-champions", "date": "1945-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

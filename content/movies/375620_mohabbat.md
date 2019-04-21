@@ -1,0 +1,1 @@
+{"tmdb_id": 375620, "title": "Mohabbat", "original_title": "Mohabbat", "slug_title": "mohabbat", "date": "1997-09-19", "genre": "Romance", "score": "4.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Madhuri Dixit (Shweta Sharma)", "Akshaye Khanna (Rohit Malhotra/Tony Braganza)", "Sanjay Kapoor (Gaurav M. Kapoor)"], "comments": [], "recommandations_id": []}

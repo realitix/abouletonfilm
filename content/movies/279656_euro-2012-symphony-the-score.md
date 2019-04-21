@@ -1,0 +1,1 @@
+{"tmdb_id": 279656, "title": "Euro 2012: Symphony (The Score)", "original_title": "Euro 2012: Symphony (The Score)", "slug_title": "euro-2012-symphony-the-score", "date": "2012-12-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

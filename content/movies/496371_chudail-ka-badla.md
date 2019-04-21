@@ -1,0 +1,1 @@
+{"tmdb_id": 496371, "title": "Chudail Ka Badla", "original_title": "Chudail Ka Badla", "slug_title": "chudail-ka-badla", "date": "2005-01-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5GVCvvdlUpZprHmSKSwyvYlKJVe.jpg", "actors": ["Ponnambalam ()", "Raj Mohan ()"], "comments": [], "recommandations_id": []}

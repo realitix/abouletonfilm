@@ -1,0 +1,1 @@
+{"tmdb_id": 492617, "title": "What Showers Bring", "original_title": "What Showers Bring", "slug_title": "what-showers-bring", "date": "2014-09-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Paige Spara (Leah)", "Anahi Bustillos (Madison)", "Kelli Goss (Rachel)", "Greta Jung (Billie)"], "comments": [], "recommandations_id": []}

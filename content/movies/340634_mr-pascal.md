@@ -1,0 +1,1 @@
+{"tmdb_id": 340634, "title": "Mr. Pascal", "original_title": "Mr. Pascal", "slug_title": "mr-pascal", "date": "1979-07-12", "genre": "", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k6ROfsk5GOxRZyNeEHzfpNkpBxg.jpg", "actors": [], "comments": [], "recommandations_id": []}

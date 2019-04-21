@@ -1,0 +1,1 @@
+{"tmdb_id": 460660, "title": "The Man Who Killed Our Friend", "original_title": "The Man Who Killed Our Friend", "slug_title": "the-man-who-killed-our-friend", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

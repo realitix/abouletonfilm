@@ -1,0 +1,1 @@
+{"tmdb_id": 370448, "title": "Mosaici a Ravenna, I", "original_title": "Mosaici a Ravenna, I", "slug_title": "mosaici-a-ravenna-i", "date": "1954-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

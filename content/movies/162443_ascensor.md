@@ -1,0 +1,1 @@
+{"tmdb_id": 162443, "title": "Ascensor", "original_title": "Ascensor", "slug_title": "ascensor", "date": "1978-05-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h6LuSvjDcN2wHyCOCaFQQAdpGO8.jpg", "actors": [], "comments": [], "recommandations_id": []}

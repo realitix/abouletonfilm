@@ -1,0 +1,1 @@
+{"tmdb_id": 420810, "title": "The Jungle Book 2", "original_title": "The Jungle Book 2", "slug_title": "the-jungle-book-2", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [457232, 424853, 76545]}

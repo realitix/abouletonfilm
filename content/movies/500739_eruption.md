@@ -1,0 +1,1 @@
+{"tmdb_id": 500739, "title": "Eruption", "original_title": "Eruptia", "slug_title": "eruption", "date": "1957-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6RivDr3ESg4bcCKN3RBP0fnC53R.jpg", "actors": ["Eva Christian ()", "Lucia Mara Dabija ()", "Lica Gheorghiu ()"], "comments": [], "recommandations_id": []}

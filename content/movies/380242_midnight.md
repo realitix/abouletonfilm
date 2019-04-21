@@ -1,0 +1,1 @@
+{"tmdb_id": 380242, "title": "Midnight", "original_title": "Ziye", "slug_title": "midnight", "date": "1981-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4xR85YnzF11MjA8GSb79aBZJkos.jpg", "actors": ["Rentang Li ()", "Qi Qiao ()", "Han Fei ()", "Yelu Gu ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 588193, "title": "Chonda Pierce: Unashamed", "original_title": "Chonda Pierce: Unashamed", "slug_title": "chonda-pierce-unashamed", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

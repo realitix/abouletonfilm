@@ -1,0 +1,1 @@
+{"tmdb_id": 237324, "title": "The Ski's the Limit", "original_title": "The Ski's the Limit", "slug_title": "the-ski-s-the-limit", "date": "1949-06-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

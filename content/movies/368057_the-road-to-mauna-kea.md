@@ -1,0 +1,1 @@
+{"tmdb_id": 368057, "title": "The Road to Mauna Kea", "original_title": "The Road to Mauna Kea", "slug_title": "the-road-to-mauna-kea", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

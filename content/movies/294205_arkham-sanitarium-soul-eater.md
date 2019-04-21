@@ -1,0 +1,1 @@
+{"tmdb_id": 294205, "title": "Arkham Sanitarium: Soul Eater", "original_title": "Arkham Sanitarium: Soul Eater", "slug_title": "arkham-sanitarium-soul-eater", "date": "2014-02-07", "genre": "", "score": "2.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ab9BEvgXilWRULgaaynmxEDUEUX.jpg", "actors": [], "comments": [], "recommandations_id": []}

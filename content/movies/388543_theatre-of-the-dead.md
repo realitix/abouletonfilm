@@ -1,0 +1,1 @@
+{"tmdb_id": 388543, "title": "Theatre of the Dead", "original_title": "Theatre of the Dead", "slug_title": "theatre-of-the-dead", "date": "2013-11-28", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3yx3LcuPLHpm9R1kOqGEKb18PBu.jpg", "actors": [], "comments": [], "recommandations_id": []}

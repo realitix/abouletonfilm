@@ -1,0 +1,1 @@
+{"tmdb_id": 437934, "title": "Liebes Ich", "original_title": "Liebes Ich", "slug_title": "liebes-ich", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

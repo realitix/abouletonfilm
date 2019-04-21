@@ -1,0 +1,1 @@
+{"tmdb_id": 561539, "title": "Die Kaminski", "original_title": "Die Kaminski", "slug_title": "die-kaminski", "date": "1980-12-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qHkOS7AZGMIrNSIhu4Asi7vMFmW.jpg", "actors": [], "comments": [], "recommandations_id": []}

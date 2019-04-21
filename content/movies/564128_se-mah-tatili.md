@@ -1,0 +1,1 @@
+{"tmdb_id": 564128, "title": "Se mah tatili", "original_title": "Se mah tatili", "slug_title": "se-mah-tatili", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x0NXtSBDiyWX12GCzUnKcFdN3zR.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 340979, "title": "Bob Dylan: Modern Times", "original_title": "Bob Dylan: Modern Times", "slug_title": "bob-dylan-modern-times", "date": "2006-08-29", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qa30J8EpMylMANDAfj0KTkjWH5p.jpg", "actors": [], "comments": [], "recommandations_id": []}

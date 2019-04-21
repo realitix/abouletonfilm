@@ -1,0 +1,1 @@
+{"tmdb_id": 226015, "title": "Ditching", "original_title": "Ditching", "slug_title": "ditching", "date": "2009-03-27", "genre": "Fantastique / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 195962, "title": "Le faux cul-de-jatte", "original_title": "Le faux cul-de-jatte", "slug_title": "le-faux-cul-de-jatte", "date": "1903-05-22", "genre": "", "score": "5.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 335528, "title": "Billy Joe Shaver: Live at Billy Bob's Texas", "original_title": "Billy Joe Shaver: Live at Billy Bob's Texas", "slug_title": "billy-joe-shaver-live-at-billy-bob-s-texas", "date": "2012-07-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 330352, "title": "The Man Monkey", "original_title": "L'homme-singe", "slug_title": "the-man-monkey", "date": "1909-03-03", "genre": "Com\u00e9die / Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Andr\u00e9 Deed ()"], "comments": [], "recommandations_id": []}

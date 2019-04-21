@@ -1,0 +1,1 @@
+{"tmdb_id": 543251, "title": "A Boy Needs a Friend", "original_title": "A Boy Needs a Friend", "slug_title": "a-boy-needs-a-friend", "date": "2015-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

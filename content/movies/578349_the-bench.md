@@ -1,0 +1,1 @@
+{"tmdb_id": 578349, "title": "The Bench", "original_title": "\u0421\u043a\u0430\u043c\u0435\u0439\u043a\u0430", "slug_title": "the-bench", "date": "1968-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

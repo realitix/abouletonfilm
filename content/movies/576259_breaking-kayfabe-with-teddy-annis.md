@@ -1,0 +1,1 @@
+{"tmdb_id": 576259, "title": "Breaking Kayfabe with Teddy Annis", "original_title": "Breaking Kayfabe with Teddy Annis", "slug_title": "breaking-kayfabe-with-teddy-annis", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Teddy Hart (Himself)", "Sean Oliver (Himself)"], "comments": [], "recommandations_id": []}

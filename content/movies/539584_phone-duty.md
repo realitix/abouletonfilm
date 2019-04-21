@@ -1,0 +1,1 @@
+{"tmdb_id": 539584, "title": "Phone Duty", "original_title": "\u0414\u0435\u0436\u0443\u0440\u0441\u0442\u0432\u043e", "slug_title": "phone-duty", "date": "2018-04-19", "genre": "Drame / Guerre", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kEdOnmLpjhl4e2uD9zrgb1FVKky.jpg", "actors": [], "comments": [], "recommandations_id": []}

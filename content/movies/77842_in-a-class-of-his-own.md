@@ -1,0 +1,1 @@
+{"tmdb_id": 77842, "title": "In a Class of His Own", "original_title": "In a Class of His Own", "slug_title": "in-a-class-of-his-own", "date": "1999-10-17", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nzaaisoq1P108L6plxnhC6cKCUM.jpg", "actors": ["Lou Diamond Phillips ()"], "comments": [], "recommandations_id": []}

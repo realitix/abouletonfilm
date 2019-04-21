@@ -1,0 +1,1 @@
+{"tmdb_id": 62657, "title": "Magnus Betn\u00e9r - Word of Life", "original_title": "Magnus Betn\u00e9r - Livets ord", "slug_title": "magnus-betner-word-of-life", "date": "2011-03-30", "genre": "Com\u00e9die", "score": "6.2/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Magnus Betn\u00e9r (Himself)"], "comments": [], "recommandations_id": [103191]}

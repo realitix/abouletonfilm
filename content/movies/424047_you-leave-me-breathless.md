@@ -1,0 +1,1 @@
+{"tmdb_id": 424047, "title": "You Leave Me Breathless", "original_title": "You Leave Me Breathless", "slug_title": "you-leave-me-breathless", "date": "1938-05-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jimmy Dorsey ()", "Bob Eberly ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 189751, "title": "Campus Romeos", "original_title": "Campus Romeos", "slug_title": "campus-romeos", "date": "1927-07-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

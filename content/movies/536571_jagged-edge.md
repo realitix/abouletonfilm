@@ -1,0 +1,1 @@
+{"tmdb_id": 536571, "title": "Jagged Edge", "original_title": "Jagged Edge", "slug_title": "jagged-edge", "date": "", "genre": "Crime / Drame / Myst\u00e8re", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Halle Berry ()"], "comments": [], "recommandations_id": []}

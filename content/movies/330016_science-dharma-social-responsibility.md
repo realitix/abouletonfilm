@@ -1,0 +1,1 @@
+{"tmdb_id": 330016, "title": "Science + Dharma = Social Responsibility", "original_title": "Science + Dharma = Social Responsibility", "slug_title": "science-dharma-social-responsibility", "date": "2009-11-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

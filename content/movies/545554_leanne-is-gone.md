@@ -1,0 +1,1 @@
+{"tmdb_id": 545554, "title": "Leanne is Gone", "original_title": "Leanne is Gone", "slug_title": "leanne-is-gone", "date": "2013-02-21", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["David Hemphill (Sean)", "Jesse James Rice (Dylan)", "Caity Ware (Leanne)"], "comments": [], "recommandations_id": []}

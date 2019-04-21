@@ -1,0 +1,1 @@
+{"tmdb_id": 319810, "title": "Shakatak: In Concert: Ohne Filter", "original_title": "Shakatak: In Concert: Ohne Filter", "slug_title": "shakatak-in-concert-ohne-filter", "date": "2004-10-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

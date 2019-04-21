@@ -1,0 +1,1 @@
+{"tmdb_id": 448576, "title": "\u0421\u0430\u0440\u043c\u0438\u043a\u043e", "original_title": "\u0421\u0430\u0440\u043c\u0438\u043a\u043e", "slug_title": "sarmiko", "date": "1952-03-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o8JiULtUlYwr5yck96WADScx24Z.jpg", "actors": [], "comments": [], "recommandations_id": []}

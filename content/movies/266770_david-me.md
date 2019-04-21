@@ -1,0 +1,1 @@
+{"tmdb_id": 266770, "title": "David & Me", "original_title": "David & Me", "slug_title": "david-me", "date": "2014-04-27", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hixDRZwvUYJVouIf1A7bmxoQs5o.jpg", "actors": [], "comments": [], "recommandations_id": []}

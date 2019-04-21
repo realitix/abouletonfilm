@@ -1,0 +1,1 @@
+{"tmdb_id": 504529, "title": "The Picnic", "original_title": "Pikniku", "slug_title": "the-picnic", "date": "1986-01-01", "genre": "Com\u00e9die / Familial", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Suzana Man\u010di\u0107 ()", "Bislim Mu\u00e7aj ()"], "comments": [], "recommandations_id": []}

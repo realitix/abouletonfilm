@@ -1,0 +1,1 @@
+{"tmdb_id": 372190, "title": "R\u00fcbezahl und das Hochzeitsgeschenk", "original_title": "R\u00fcbezahl und das Hochzeitsgeschenk", "slug_title": "rubezahl-und-das-hochzeitsgeschenk", "date": "1980-05-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

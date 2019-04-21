@@ -1,0 +1,1 @@
+{"tmdb_id": 384614, "title": "Shooting", "original_title": "Streljanje", "slug_title": "shooting", "date": "2012-03-12", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8cHkDNPBFYqhPlafXRMce9yn2g2.jpg", "actors": ["Semir Lokmi\u0107 ((voice))"], "comments": [], "recommandations_id": []}

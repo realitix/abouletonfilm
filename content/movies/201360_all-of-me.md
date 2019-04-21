@@ -1,0 +1,1 @@
+{"tmdb_id": 201360, "title": "All of Me", "original_title": "All of Me", "slug_title": "all-of-me", "date": "2013-06-15", "genre": "Documentaire", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dY0Kwdimc5g7ufmg7NNZZSONupR.jpg", "actors": [], "comments": [], "recommandations_id": []}

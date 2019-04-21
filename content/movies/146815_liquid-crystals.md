@@ -1,0 +1,1 @@
+{"tmdb_id": 146815, "title": "Liquid Crystals", "original_title": "Cristaux liquides", "slug_title": "liquid-crystals", "date": "1978-12-31", "genre": "Documentaire", "score": "7.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kaMVoAIz7L0scyD4OpDC1rVAXvt.jpg", "actors": [], "comments": [], "recommandations_id": [117592, 117594, 162451, 183728]}

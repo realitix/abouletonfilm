@@ -1,0 +1,1 @@
+{"tmdb_id": 237044, "title": "Throwing the Bull", "original_title": "Throwing the Bull", "slug_title": "throwing-the-bull", "date": "1946-05-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Af5Yi9MbumaqfuVL3II38KmqIK3.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 384705, "title": "Fade to Black", "original_title": "Fade to Black", "slug_title": "fade-to-black", "date": "1990-02-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

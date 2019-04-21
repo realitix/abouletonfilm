@@ -1,0 +1,1 @@
+{"tmdb_id": 254811, "title": "From Cotton Fields to Movie Premieres", "original_title": "From Cotton Fields to Movie Premieres", "slug_title": "from-cotton-fields-to-movie-premieres", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

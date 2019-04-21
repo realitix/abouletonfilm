@@ -1,0 +1,1 @@
+{"tmdb_id": 274279, "title": "On the Streets of L.A.", "original_title": "On the Streets of L.A.", "slug_title": "on-the-streets-of-l-a", "date": "1993-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

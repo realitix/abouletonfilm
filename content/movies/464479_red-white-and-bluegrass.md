@@ -1,0 +1,1 @@
+{"tmdb_id": 464479, "title": "Red, White and Bluegrass", "original_title": "Red, White and Bluegrass", "slug_title": "red-white-and-bluegrass", "date": "1963-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

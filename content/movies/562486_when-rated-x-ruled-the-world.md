@@ -1,0 +1,1 @@
+{"tmdb_id": 562486, "title": "When Rated X Ruled the World", "original_title": "When Rated X Ruled the World", "slug_title": "when-rated-x-ruled-the-world", "date": "2004-08-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6UTj1GZRGqz0wLDxA5IaFKo1kgZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

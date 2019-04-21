@@ -1,0 +1,1 @@
+{"tmdb_id": 155525, "title": "Guns, Hookers & a Pound of Coke", "original_title": "Guns, Hookers & a Pound of Coke", "slug_title": "guns-hookers-a-pound-of-coke", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

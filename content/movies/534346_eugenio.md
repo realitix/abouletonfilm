@@ -1,0 +1,1 @@
+{"tmdb_id": 534346, "title": "Eugenio", "original_title": "Eugenio", "slug_title": "eugenio", "date": "1999-10-13", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3nQ9NJToyeCZ4btwr0Jh3wn4qga.jpg", "actors": [], "comments": [], "recommandations_id": []}

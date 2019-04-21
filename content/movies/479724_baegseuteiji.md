@@ -1,0 +1,1 @@
+{"tmdb_id": 479724, "title": "\ubc31\uc2a4\ud14c\uc774\uc9c0", "original_title": "\ubc31\uc2a4\ud14c\uc774\uc9c0", "slug_title": "baegseuteiji", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

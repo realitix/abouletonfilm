@@ -1,0 +1,1 @@
+{"tmdb_id": 443761, "title": "Yoga for Stress Relief", "original_title": "Yoga for Stress Relief", "slug_title": "yoga-for-stress-relief", "date": "2006-12-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9OzEv6R3wTGlZh5lnRp3I44KwDI.jpg", "actors": ["Barbara Benagh (Actor)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 350552, "title": "Medardo", "original_title": "Medardo", "slug_title": "medardo", "date": "2015-06-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

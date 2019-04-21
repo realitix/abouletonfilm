@@ -1,0 +1,1 @@
+{"tmdb_id": 234434, "title": "Hobo's Holiday", "original_title": "Hobo's Holiday", "slug_title": "hobo-s-holiday", "date": "1963-10-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

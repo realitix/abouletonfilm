@@ -1,0 +1,1 @@
+{"tmdb_id": 590024, "title": "The Music Scene", "original_title": "The Music Scene", "slug_title": "the-music-scene", "date": "2010-06-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bH7fSgx4YvFO5lsN2WPc0useHiF.jpg", "actors": [], "comments": [], "recommandations_id": []}

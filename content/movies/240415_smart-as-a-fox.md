@@ -1,0 +1,1 @@
+{"tmdb_id": 240415, "title": "Smart as a Fox", "original_title": "Smart as a Fox", "slug_title": "smart-as-a-fox", "date": "1946-04-27", "genre": "Documentaire / Aventure", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Knox Manning (Narrator (voice))"], "comments": [], "recommandations_id": []}

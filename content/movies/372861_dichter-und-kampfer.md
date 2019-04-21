@@ -1,0 +1,1 @@
+{"tmdb_id": 372861, "title": "Dichter und K\u00e4mpfer", "original_title": "Dichter und K\u00e4mpfer", "slug_title": "dichter-und-kampfer", "date": "2012-02-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m1GPkDUj9AwtHlfsCO7MRgxyGpI.jpg", "actors": [], "comments": [], "recommandations_id": []}

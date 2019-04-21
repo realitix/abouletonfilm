@@ -1,0 +1,1 @@
+{"tmdb_id": 502563, "title": "Women on a Bergman Screen", "original_title": "Women on a Bergman Screen", "slug_title": "women-on-a-bergman-screen", "date": "2018-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2KE2GN8KmgvmMWebF6XGzX6utmt.jpg", "actors": [], "comments": [], "recommandations_id": []}

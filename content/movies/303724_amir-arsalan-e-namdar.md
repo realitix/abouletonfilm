@@ -1,0 +1,1 @@
+{"tmdb_id": 303724, "title": "Amir Arsalan-e Namdar", "original_title": "Amir Arsalan-e Namdar", "slug_title": "amir-arsalan-e-namdar", "date": "1966-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mohamad Ali Fardin ()"], "comments": [], "recommandations_id": []}

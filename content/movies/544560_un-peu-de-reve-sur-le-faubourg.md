@@ -1,0 +1,1 @@
+{"tmdb_id": 544560, "title": "Un peu de r\u00eave sur le faubourg", "original_title": "Un peu de r\u00eave sur le faubourg", "slug_title": "un-peu-de-reve-sur-le-faubourg", "date": "1930-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

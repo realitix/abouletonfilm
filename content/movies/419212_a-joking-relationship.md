@@ -1,0 +1,1 @@
+{"tmdb_id": 419212, "title": "A Joking Relationship", "original_title": "A Joking Relationship", "slug_title": "a-joking-relationship", "date": "1962-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kHNPmTHnBFsxoRB4t1wDgIIBwhY.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 482837, "title": "Chambel\u00e1n", "original_title": "Chambel\u00e1n", "slug_title": "chambelan", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uxUbY0UZ7ZAkpzLckHuScHfbwdb.jpg", "actors": [], "comments": [], "recommandations_id": []}

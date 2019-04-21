@@ -1,0 +1,1 @@
+{"tmdb_id": 397378, "title": "Douglas Mawson: The Survivor", "original_title": "Douglas Mawson: The Survivor", "slug_title": "douglas-mawson-the-survivor", "date": "1983-05-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9JdUfCk6vO44PHdxtCkTKa1H7Ek.jpg", "actors": [], "comments": [], "recommandations_id": []}

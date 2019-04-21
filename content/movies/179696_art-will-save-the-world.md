@@ -1,0 +1,1 @@
+{"tmdb_id": 179696, "title": "Art Will Save the World", "original_title": "Art Will Save the World", "slug_title": "art-will-save-the-world", "date": "2012-07-06", "genre": "Musique / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Luke Haines (Himself)"], "comments": [], "recommandations_id": []}

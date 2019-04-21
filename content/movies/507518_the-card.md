@@ -1,0 +1,1 @@
+{"tmdb_id": 507518, "title": "The Card", "original_title": "The Card", "slug_title": "the-card", "date": "2016-11-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9jaXfaww4hcUTPkr51Z8qk5toSj.jpg", "actors": ["Bridget Opfer (Karen)", "Asil Moussa ()", "Kathy Roberts ()"], "comments": [], "recommandations_id": []}

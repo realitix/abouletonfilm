@@ -1,0 +1,1 @@
+{"tmdb_id": 491012, "title": "Preventing Tuberculosis", "original_title": "Kekkakuyobo", "slug_title": "preventing-tuberculosis", "date": "1933-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

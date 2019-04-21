@@ -1,0 +1,1 @@
+{"tmdb_id": 488175, "title": "Nueva Vida", "original_title": "Nueva Vida", "slug_title": "nueva-vida", "date": "2017-10-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 534519, "title": "Peter Kubelka und Jonas Mekas", "original_title": "Peter Kubelka und Jonas Mekas", "slug_title": "peter-kubelka-und-jonas-mekas", "date": "1994-07-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

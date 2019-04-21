@@ -1,0 +1,1 @@
+{"tmdb_id": 382176, "title": "Yunus Emre: A\u015fk\u0131n Sesi", "original_title": "Yunus Emre: A\u015fk\u0131n Sesi", "slug_title": "yunus-emre-askin-sesi", "date": "", "genre": "Histoire / Drame", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/X03VuARBYCjmvKbzhNRFpCL4LA.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 585476, "title": "Footballization", "original_title": "Footballization", "slug_title": "footballization", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Stefano Fogliata (Writer)", "Francesco Furiassi (Executive producer)", "Collettivo Agosf (Director)"], "comments": [], "recommandations_id": []}

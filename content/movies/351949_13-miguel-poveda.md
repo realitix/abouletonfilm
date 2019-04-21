@@ -1,0 +1,1 @@
+{"tmdb_id": 351949, "title": "13. Miguel Poveda", "original_title": "13. Miguel Poveda", "slug_title": "13-miguel-poveda", "date": "", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a2YRxQMVfQpSq6MNlAQwQXMBbBN.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 511683, "title": "A Water War", "original_title": "A Guerra da \u00c1gua", "slug_title": "a-water-war", "date": "1996-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gGI55kxaixoiuo6ol1fwkSrFXpj.jpg", "actors": ["Jos\u00e9 Tembe (Narrator)"], "comments": [], "recommandations_id": []}

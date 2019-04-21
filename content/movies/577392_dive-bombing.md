@@ -1,0 +1,1 @@
+{"tmdb_id": 577392, "title": "Dive Bombing", "original_title": "Dive Bombing", "slug_title": "dive-bombing", "date": "1943-01-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

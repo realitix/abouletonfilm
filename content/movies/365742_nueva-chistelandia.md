@@ -1,0 +1,1 @@
+{"tmdb_id": 365742, "title": "Nueva Chistelandia", "original_title": "Nueva Chistelandia", "slug_title": "nueva-chistelandia", "date": "1958-10-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Humberto Cahuich ()", "Eulalio Gonz\u00e1lez ()", "Pancho C\u00f3rdova ()"], "comments": [], "recommandations_id": []}

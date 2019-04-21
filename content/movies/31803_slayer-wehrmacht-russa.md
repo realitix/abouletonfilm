@@ -1,0 +1,1 @@
+{"tmdb_id": 31803, "title": "Slayer: Wehrmacht Russa", "original_title": "Slayer: Wehrmacht Russa", "slug_title": "slayer-wehrmacht-russa", "date": "2009-01-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

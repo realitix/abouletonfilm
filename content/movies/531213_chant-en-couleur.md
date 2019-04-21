@@ -1,0 +1,1 @@
+{"tmdb_id": 531213, "title": "Chant En Couleur", "original_title": "Chant En Couleur", "slug_title": "chant-en-couleur", "date": "2018-06-20", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1jnfBVJH4EM4g86EkgoEWEKC5WB.jpg", "actors": [], "comments": [], "recommandations_id": []}

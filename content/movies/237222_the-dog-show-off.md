@@ -1,0 +1,1 @@
+{"tmdb_id": 237222, "title": "The Dog Show-Off", "original_title": "The Dog Show-Off", "slug_title": "the-dog-show-off", "date": "1948-01-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pkgGiCJ8uqS7Ifuk0efx5ty0Tvf.jpg", "actors": [], "comments": [], "recommandations_id": []}

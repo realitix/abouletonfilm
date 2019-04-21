@@ -1,0 +1,1 @@
+{"tmdb_id": 309123, "title": "Geronimo and the Apache Resistance", "original_title": "Geronimo and the Apache Resistance", "slug_title": "geronimo-and-the-apache-resistance", "date": "1988-12-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

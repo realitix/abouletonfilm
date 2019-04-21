@@ -1,0 +1,1 @@
+{"tmdb_id": 399769, "title": "Idiotocratia", "original_title": "Idiotocratia", "slug_title": "idiotocratia", "date": "2008-03-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

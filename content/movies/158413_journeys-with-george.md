@@ -1,0 +1,1 @@
+{"tmdb_id": 158413, "title": "Journeys with George", "original_title": "Journeys with George", "slug_title": "journeys-with-george", "date": "2002-03-08", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5PwUeC84t8KJTimflZQZPjHN0sk.jpg", "actors": ["George W. Bush (Himself)"], "comments": [], "recommandations_id": []}

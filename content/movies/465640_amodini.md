@@ -1,0 +1,1 @@
+{"tmdb_id": 465640, "title": "Amodini", "original_title": "Amodini", "slug_title": "amodini", "date": "1994-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vPCGHZOAjQpGEIAakfdl3ZCy7qx.jpg", "actors": ["Aparna Sen ()", "Konkona Sen Sharma ()", "Pijush Ganguly ()"], "comments": [], "recommandations_id": []}

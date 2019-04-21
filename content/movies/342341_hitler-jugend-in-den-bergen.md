@@ -1,0 +1,1 @@
+{"tmdb_id": 342341, "title": "Hitler-Jugend in den Bergen", "original_title": "Hitler-Jugend in den Bergen", "slug_title": "hitler-jugend-in-den-bergen", "date": "1932-05-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

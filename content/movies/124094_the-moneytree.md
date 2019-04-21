@@ -1,0 +1,1 @@
+{"tmdb_id": 124094, "title": "The Moneytree", "original_title": "The Moneytree", "slug_title": "the-moneytree", "date": "1992-04-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

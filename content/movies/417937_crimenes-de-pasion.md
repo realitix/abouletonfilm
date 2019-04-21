@@ -1,0 +1,1 @@
+{"tmdb_id": 417937, "title": "Cr\u00edmenes de Pasi\u00f3n", "original_title": "Cr\u00edmenes de Pasi\u00f3n", "slug_title": "crimenes-de-pasion", "date": "1995-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7G7QiSiCW6pVhCguwGZtx94UhIh.jpg", "actors": [], "comments": [], "recommandations_id": []}

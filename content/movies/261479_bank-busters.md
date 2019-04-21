@@ -1,0 +1,1 @@
+{"tmdb_id": 261479, "title": "Bank Busters", "original_title": "Lao guo jie", "slug_title": "bank-busters", "date": "1978-12-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v4BOYEvKiuV2FVfCfTAbIt5F19R.jpg", "actors": [], "comments": [], "recommandations_id": []}

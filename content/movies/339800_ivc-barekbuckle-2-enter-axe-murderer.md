@@ -1,0 +1,1 @@
+{"tmdb_id": 339800, "title": "IVC Barekbuckle 2: Enter Axe Murderer", "original_title": "IVC Barekbuckle 2: Enter Axe Murderer", "slug_title": "ivc-barekbuckle-2-enter-axe-murderer", "date": "2015-02-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

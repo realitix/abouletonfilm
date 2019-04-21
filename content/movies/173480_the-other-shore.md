@@ -1,0 +1,1 @@
+{"tmdb_id": 173480, "title": "The Other Shore", "original_title": "The Other Shore", "slug_title": "the-other-shore", "date": "2013-07-23", "genre": "", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nchq2fvFiCynERHEZdIaYrivZBe.jpg", "actors": ["Diana Nyad (Herself)"], "comments": [], "recommandations_id": []}

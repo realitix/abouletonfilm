@@ -1,0 +1,1 @@
+{"tmdb_id": 268764, "title": "Quick Brown Fox: An Alzheimers Story", "original_title": "Quick Brown Fox: An Alzheimers Story", "slug_title": "quick-brown-fox-an-alzheimers-story", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

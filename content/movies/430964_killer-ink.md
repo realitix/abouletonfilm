@@ -1,0 +1,1 @@
+{"tmdb_id": 430964, "title": "Killer Ink", "original_title": "Killer Ink", "slug_title": "killer-ink", "date": "2016-10-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eM3u7JvU2HdH9XbbrtoBfGV0ZQu.jpg", "actors": [], "comments": [], "recommandations_id": []}

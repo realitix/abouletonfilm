@@ -1,0 +1,1 @@
+{"tmdb_id": 426092, "title": "Camag\u00fcey panor\u00e1mico", "original_title": "Camag\u00fcey panor\u00e1mico", "slug_title": "camaguey-panoramico", "date": "1908-01-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

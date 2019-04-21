@@ -1,0 +1,1 @@
+{"tmdb_id": 488094, "title": "Chant of Silence", "original_title": "Chant of Silence", "slug_title": "chant-of-silence", "date": "1973-05-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

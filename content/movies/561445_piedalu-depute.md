@@ -1,0 +1,1 @@
+{"tmdb_id": 561445, "title": "Pi\u00e9dalu d\u00e9put\u00e9", "original_title": "Pi\u00e9dalu d\u00e9put\u00e9", "slug_title": "piedalu-depute", "date": "1954-01-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iQaSmPUIRPVZ815sSCQcu39M6x5.jpg", "actors": [], "comments": [], "recommandations_id": []}

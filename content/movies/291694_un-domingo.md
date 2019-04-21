@@ -1,0 +1,1 @@
+{"tmdb_id": 291694, "title": "Un domingo", "original_title": "Un domingo", "slug_title": "un-domingo", "date": "1960-09-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7LjpwgeswUIoBi35tSwNDW8blPk.jpg", "actors": [], "comments": [], "recommandations_id": []}

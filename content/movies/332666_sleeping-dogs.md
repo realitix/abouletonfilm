@@ -1,0 +1,1 @@
+{"tmdb_id": 332666, "title": "Sleeping Dogs", "original_title": "Sleeping Dogs", "slug_title": "sleeping-dogs", "date": "2013-10-05", "genre": "Thriller", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ccs7bP4fktRdBSGh6wcSaomzjh9.jpg", "actors": [], "comments": [], "recommandations_id": []}

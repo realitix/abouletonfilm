@@ -1,0 +1,1 @@
+{"tmdb_id": 264686, "title": "Przyjaciel", "original_title": "Przyjaciel", "slug_title": "przyjaciel", "date": "1965-08-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kI6SFY7PgOfARsrwwcykP6ajzFA.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 46794, "title": "The House of Cain", "original_title": "To spiti tou Kain", "slug_title": "the-house-of-cain", "date": "2000-11-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vFxJzSIMsoqJnQOBOxTp3tMOhAJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

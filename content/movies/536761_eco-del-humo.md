@@ -1,0 +1,1 @@
+{"tmdb_id": 536761, "title": "Eco del Humo", "original_title": "Eco del Humo", "slug_title": "eco-del-humo", "date": "2015-03-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z92ewWuxoOUQRb1DBpDCHF4cIRz.jpg", "actors": ["Luis Montoya (Santiago)", "Patricia Prada (Geraldine)"], "comments": [], "recommandations_id": []}

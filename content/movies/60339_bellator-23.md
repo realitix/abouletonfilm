@@ -1,0 +1,1 @@
+{"tmdb_id": 60339, "title": "Bellator 23", "original_title": "Bellator 23", "slug_title": "bellator-23", "date": "2010-06-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gsk76Z1vc5ZQ97MDszAWd95P4CU.jpg", "actors": [], "comments": [], "recommandations_id": []}

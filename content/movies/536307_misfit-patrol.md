@@ -1,0 +1,1 @@
+{"tmdb_id": 536307, "title": "Misfit Patrol", "original_title": "Misfit Patrol", "slug_title": "misfit-patrol", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Conrad Brooks (Officer Buford Murphy)"], "comments": [], "recommandations_id": []}

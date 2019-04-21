@@ -1,0 +1,1 @@
+{"tmdb_id": 159007, "title": "A Regular Trouper", "original_title": "A Regular Trouper", "slug_title": "a-regular-trouper", "date": "1932-04-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

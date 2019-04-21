@@ -1,0 +1,1 @@
+{"tmdb_id": 488541, "title": "The Grabowski Shuffle", "original_title": "The Grabowski Shuffle", "slug_title": "the-grabowski-shuffle", "date": "1987-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uuGWAj1uWCR0WAxHaI1HoHG4nUU.jpg", "actors": ["Mike Ditka (Himself)"], "comments": [], "recommandations_id": []}

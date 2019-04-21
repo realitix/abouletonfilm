@@ -1,0 +1,1 @@
+{"tmdb_id": 340162, "title": "The Lost Girls", "original_title": "The Lost Girls", "slug_title": "the-lost-girls", "date": "", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

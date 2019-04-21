@@ -1,0 +1,1 @@
+{"tmdb_id": 344450, "title": "Fiinbeck er r\u00f8mt", "original_title": "Fiinbeck er r\u00f8mt", "slug_title": "fiinbeck-er-romt", "date": "1927-06-12", "genre": "", "score": "4.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

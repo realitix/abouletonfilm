@@ -1,0 +1,1 @@
+{"tmdb_id": 206638, "title": "La sposa del Nilo", "original_title": "La sposa del Nilo", "slug_title": "la-sposa-del-nilo", "date": "1911-06-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

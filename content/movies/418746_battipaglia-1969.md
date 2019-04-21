@@ -1,0 +1,1 @@
+{"tmdb_id": 418746, "title": "Battipaglia 1969", "original_title": "Battipaglia 1969", "slug_title": "battipaglia-1969", "date": "2016-09-30", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Stefano Simondo ()"], "comments": [], "recommandations_id": []}

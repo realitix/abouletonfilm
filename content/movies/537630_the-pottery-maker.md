@@ -1,0 +1,1 @@
+{"tmdb_id": 537630, "title": "The Pottery Maker", "original_title": "The Pottery Maker", "slug_title": "the-pottery-maker", "date": "1925-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/51IqQ7AmpotWyNUtlqyW1zTqPRC.jpg", "actors": [], "comments": [], "recommandations_id": []}

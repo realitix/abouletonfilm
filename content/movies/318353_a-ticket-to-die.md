@@ -1,0 +1,1 @@
+{"tmdb_id": 318353, "title": "A Ticket to Die", "original_title": "Agente segreto 777 - Invito ad uccidere", "slug_title": "a-ticket-to-die", "date": "1966-07-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ovMpAhBZeQUkKPiTF3uz64npVMb.jpg", "actors": [], "comments": [], "recommandations_id": []}

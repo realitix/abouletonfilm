@@ -1,0 +1,1 @@
+{"tmdb_id": 84795, "title": "Papa, I Love U", "original_title": "Papa, I Love U", "slug_title": "papa-i-love-u", "date": "2011-12-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aKGgRIqXC0RwINNupOAn8C8vGC0.jpg", "actors": [], "comments": [], "recommandations_id": []}

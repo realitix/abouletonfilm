@@ -1,0 +1,1 @@
+{"tmdb_id": 395351, "title": "El letrero", "original_title": "El letrero", "slug_title": "el-letrero", "date": "2013-04-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bBuM5rSz9vo9ImgzToFJNHxS3Bs.jpg", "actors": ["Miguel Olivo (Himself)"], "comments": [], "recommandations_id": []}

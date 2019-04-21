@@ -1,0 +1,1 @@
+{"tmdb_id": 292895, "title": "Presumed Guilty: Tales of the Public Defenders", "original_title": "Presumed Guilty: Tales of the Public Defenders", "slug_title": "presumed-guilty-tales-of-the-public-defenders", "date": "2002-03-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

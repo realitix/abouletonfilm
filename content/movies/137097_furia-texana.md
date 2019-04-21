@@ -1,0 +1,1 @@
+{"tmdb_id": 137097, "title": "Furia Texana", "original_title": "Furia Texana", "slug_title": "furia-texana", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Eleazar Garc\u00eda Jr. ()", "Roberto 'El Flaco' Guzm\u00e1n  ()", "Milagros Rueda ()", "Fernando S\u00e1enz ()"], "comments": [], "recommandations_id": []}

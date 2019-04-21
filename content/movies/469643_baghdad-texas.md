@@ -1,0 +1,1 @@
+{"tmdb_id": 469643, "title": "Baghdad Texas", "original_title": "Baghdad Texas", "slug_title": "baghdad-texas", "date": "2009-01-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3TJPgPvhwjHQwTRMIqSM0qW04g8.jpg", "actors": [], "comments": [], "recommandations_id": []}

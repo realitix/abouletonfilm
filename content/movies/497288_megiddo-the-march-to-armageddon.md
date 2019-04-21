@@ -1,0 +1,1 @@
+{"tmdb_id": 497288, "title": "Megiddo: The March to Armageddon", "original_title": "Megiddo: The March to Armageddon", "slug_title": "megiddo-the-march-to-armageddon", "date": "2004-01-09", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["L.A. Marzulli (Himself)"], "comments": [], "recommandations_id": []}

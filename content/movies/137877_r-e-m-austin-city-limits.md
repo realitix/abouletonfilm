@@ -1,0 +1,1 @@
+{"tmdb_id": 137877, "title": "R.E.M. - Austin City Limits", "original_title": "R.E.M. - Austin City Limits", "slug_title": "r-e-m-austin-city-limits", "date": "2016-02-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d5X4af8FNYkYogBzbJ5meFSHdj1.jpg", "actors": [], "comments": [], "recommandations_id": []}

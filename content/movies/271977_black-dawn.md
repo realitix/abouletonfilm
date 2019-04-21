@@ -1,0 +1,1 @@
+{"tmdb_id": 271977, "title": "Black Dawn", "original_title": "Aube noire", "slug_title": "black-dawn", "date": "1983-01-02", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Salah Sannousi ()", "Amina Sidib\u00e9 ()", "Zalika Souley ()"], "comments": [], "recommandations_id": []}

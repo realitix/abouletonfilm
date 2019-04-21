@@ -1,0 +1,1 @@
+{"tmdb_id": 349673, "title": "\ubb34\uc815\uc758 \uc81c3 \ubd80\ub450", "original_title": "\ubb34\uc815\uc758 \uc81c3 \ubd80\ub450", "slug_title": "mujeongyi-je3-budu", "date": "1993-09-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

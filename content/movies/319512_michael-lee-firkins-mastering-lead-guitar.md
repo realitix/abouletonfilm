@@ -1,0 +1,1 @@
+{"tmdb_id": 319512, "title": "Michael Lee Firkins: Mastering Lead Guitar", "original_title": "Michael Lee Firkins: Mastering Lead Guitar", "slug_title": "michael-lee-firkins-mastering-lead-guitar", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

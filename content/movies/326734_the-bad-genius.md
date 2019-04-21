@@ -1,0 +1,1 @@
+{"tmdb_id": 326734, "title": "The Bad Genius", "original_title": "The Bad Genius", "slug_title": "the-bad-genius", "date": "1932-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 317867, "title": "Movement '04: Detroit's Electronic Music Festival", "original_title": "Movement '04: Detroit's Electronic Music Festival", "slug_title": "movement-04-detroit-s-electronic-music-festival", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

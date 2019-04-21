@@ -1,0 +1,1 @@
+{"tmdb_id": 171883, "title": "Verdict on Auschwitz", "original_title": "Verdict on Auschwitz", "slug_title": "verdict-on-auschwitz", "date": "1993-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s3jJdVT92zac2Rjfw0yU0QsGbq9.jpg", "actors": [], "comments": [], "recommandations_id": []}

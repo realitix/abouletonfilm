@@ -1,0 +1,1 @@
+{"tmdb_id": 152906, "title": "A Fool's World", "original_title": "Mondo Balordo", "slug_title": "a-fool-s-world", "date": "1964-01-01", "genre": "Documentaire", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sqtr7SD4NKDGgBB9dviBNktzNPn.jpg", "actors": ["Boris Karloff (Himself - Narrator)"], "comments": [], "recommandations_id": []}

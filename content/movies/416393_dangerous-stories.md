@@ -1,0 +1,1 @@
+{"tmdb_id": 416393, "title": "Dangerous Stories", "original_title": "Dangerous Stories", "slug_title": "dangerous-stories", "date": "1988-10-09", "genre": "Crime / Science-Fiction / Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a73ZhU1ipIlYmYOYYd38V4ToD20.jpg", "actors": [], "comments": [], "recommandations_id": []}

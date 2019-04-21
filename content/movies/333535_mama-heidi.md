@@ -1,0 +1,1 @@
+{"tmdb_id": 333535, "title": "Mama Heidi", "original_title": "Mama Heidi", "slug_title": "mama-heidi", "date": "2004-06-21", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7fwKjtM26w1kz7SoS46ikxWlfqC.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 416415, "title": "Slaughterhouse-Five", "original_title": "Slaughterhouse-Five", "slug_title": "slaughterhouse-five", "date": "", "genre": "Com\u00e9die / Drame / Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

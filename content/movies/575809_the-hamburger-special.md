@@ -1,0 +1,1 @@
+{"tmdb_id": 575809, "title": "The Hamburger Special", "original_title": "The Hamburger Special", "slug_title": "the-hamburger-special", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Alex Schloemer (Nicholas)", "Omar El Gamal (Crawford)"], "comments": [], "recommandations_id": []}

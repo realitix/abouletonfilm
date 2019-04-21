@@ -1,0 +1,1 @@
+{"tmdb_id": 521060, "title": "Gothic King Cobra", "original_title": "Gothic King Cobra", "slug_title": "gothic-king-cobra", "date": "2014-02-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dtypa6CXZRgMXl16xLH1ZJhYYv1.jpg", "actors": ["Josh Saunders (himself)"], "comments": [], "recommandations_id": []}

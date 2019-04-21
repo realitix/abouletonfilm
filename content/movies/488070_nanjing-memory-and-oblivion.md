@@ -1,0 +1,1 @@
+{"tmdb_id": 488070, "title": "Nanjing: Memory and Oblivion", "original_title": "Nankin la memoire et l'oubli", "slug_title": "nanjing-memory-and-oblivion", "date": "2006-07-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 457032, "title": "The Chinese Violin", "original_title": "The Chinese Violin", "slug_title": "the-chinese-violin", "date": "2002-01-15", "genre": "Animation", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tcx7Z45TNo8ENFmguLzsNwdOjaJ.jpg", "actors": ["Lulu Li (Narrator)"], "comments": [], "recommandations_id": []}

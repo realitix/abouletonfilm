@@ -1,0 +1,1 @@
+{"tmdb_id": 477354, "title": "Speaking Freely Volume 5: Hugo Chavez", "original_title": "Speaking Freely Volume 5: Hugo Chavez", "slug_title": "speaking-freely-volume-5-hugo-chavez", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

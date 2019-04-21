@@ -1,0 +1,1 @@
+{"tmdb_id": 488301, "title": "Dschungel Berlin 1986", "original_title": "Dschungel Berlin 1986", "slug_title": "dschungel-berlin-1986", "date": "1986-08-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

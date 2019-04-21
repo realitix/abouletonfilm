@@ -1,0 +1,1 @@
+{"tmdb_id": 586307, "title": "Sick to the Vitals", "original_title": "Sick to the Vitals", "slug_title": "sick-to-the-vitals", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e2d8yX3APlhHoHKtnoH5j3ZRj1K.jpg", "actors": [], "comments": [], "recommandations_id": []}

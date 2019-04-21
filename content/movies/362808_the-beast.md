@@ -1,0 +1,1 @@
+{"tmdb_id": 362808, "title": "The Beast", "original_title": "The Beast", "slug_title": "the-beast", "date": "2013-06-01", "genre": "Drame", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Raffey Cassidy (Mia)", "Kate Dickie (Mum)", "Lloyd Howells (Marcus)", "Joseph Mawle (Dad)", "Emma True (Heorica)"], "comments": [], "recommandations_id": []}

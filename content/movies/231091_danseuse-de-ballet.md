@@ -1,0 +1,1 @@
+{"tmdb_id": 231091, "title": "Danseuse de ballet", "original_title": "Danseuse de ballet", "slug_title": "danseuse-de-ballet", "date": "1897-10-29", "genre": "", "score": "5.3/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

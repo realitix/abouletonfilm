@@ -1,0 +1,1 @@
+{"tmdb_id": 366892, "title": "Champion", "original_title": "Champion", "slug_title": "champion", "date": "2015-11-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1f6AZKsT8ROiDJF0UuPkWTvOPpJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

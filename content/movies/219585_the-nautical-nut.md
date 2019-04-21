@@ -1,0 +1,1 @@
+{"tmdb_id": 219585, "title": "The Nautical Nut", "original_title": "The Nautical Nut", "slug_title": "the-nautical-nut", "date": "1967-03-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3PKG63D2FOV1XdRoPhZppnCjC9f.jpg", "actors": [], "comments": [], "recommandations_id": []}

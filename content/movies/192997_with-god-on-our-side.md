@@ -1,0 +1,1 @@
+{"tmdb_id": 192997, "title": "With God On Our Side", "original_title": "With God On Our Side", "slug_title": "with-god-on-our-side", "date": "2010-04-07", "genre": "Documentaire", "score": "7.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/leXsrxVfulg7LSE7MlyTmoNStpD.jpg", "actors": [], "comments": [], "recommandations_id": []}

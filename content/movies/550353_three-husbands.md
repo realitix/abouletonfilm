@@ -1,0 +1,1 @@
+{"tmdb_id": 550353, "title": "Three Husbands", "original_title": "\u4e09\u592b", "slug_title": "three-husbands", "date": "2018-11-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mQbpAHUL0kJCqlC4QDczZVeH2TT.jpg", "actors": ["Zeng Meihuizi ()", "Larine Tang ()"], "comments": [], "recommandations_id": []}

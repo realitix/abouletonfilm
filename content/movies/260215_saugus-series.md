@@ -1,0 +1,1 @@
+{"tmdb_id": 260215, "title": "Saugus Series", "original_title": "Saugus Series", "slug_title": "saugus-series", "date": "1974-03-20", "genre": "", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ypI9OiUzuGNZuERKOKJBnJ8V9gq.jpg", "actors": [], "comments": [], "recommandations_id": [203090, 151312, 260213, 98498]}

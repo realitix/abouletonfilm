@@ -1,0 +1,1 @@
+{"tmdb_id": 558467, "title": "S\u00fcper Adam \u0130stanbul'da", "original_title": "S\u00fcper Adam \u0130stanbul'da", "slug_title": "super-adam-istanbul-da", "date": "1972-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Erdo Vatan ()", "Safiye Yanki ()"], "comments": [], "recommandations_id": []}

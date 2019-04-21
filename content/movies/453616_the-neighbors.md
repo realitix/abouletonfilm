@@ -1,0 +1,1 @@
+{"tmdb_id": 453616, "title": "The Neighbors", "original_title": "The Neighbors", "slug_title": "the-neighbors", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

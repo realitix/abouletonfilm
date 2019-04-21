@@ -1,0 +1,1 @@
+{"tmdb_id": 177459, "title": "Bach's Fight for Freedom", "original_title": "Bach's Fight for Freedom", "slug_title": "bach-s-fight-for-freedom", "date": "1995-01-01", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/OGKYcyMvYq54La3sWMaQ76IGb9.jpg", "actors": [], "comments": [], "recommandations_id": []}

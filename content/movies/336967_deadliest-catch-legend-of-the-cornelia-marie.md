@@ -1,0 +1,1 @@
+{"tmdb_id": 336967, "title": "Deadliest Catch: Legend of the Cornelia Marie", "original_title": "Deadliest Catch: Legend of the Cornelia Marie", "slug_title": "deadliest-catch-legend-of-the-cornelia-marie", "date": "", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

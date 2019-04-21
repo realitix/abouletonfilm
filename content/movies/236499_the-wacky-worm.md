@@ -1,0 +1,1 @@
+{"tmdb_id": 236499, "title": "The Wacky Worm", "original_title": "The Wacky Worm", "slug_title": "the-wacky-worm", "date": "1941-06-20", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xzvwUN6TbuEIA2klqfbaFjCGTeE.jpg", "actors": [], "comments": [], "recommandations_id": []}

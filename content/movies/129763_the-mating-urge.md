@@ -1,0 +1,1 @@
+{"tmdb_id": 129763, "title": "The Mating Urge", "original_title": "The Mating Urge", "slug_title": "the-mating-urge", "date": "1958-08-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5kVv9tXkAyA1gRcpHR0sKOmvmSs.jpg", "actors": ["Art Gilmore (Narrator)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 456651, "title": "Snuff Road", "original_title": "Snuff Road", "slug_title": "snuff-road", "date": "2004-07-26", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Henning Fischer (Markus)", "Karin Schilling (Laura)", "Nicolai Tegeler (Tim)"], "comments": [], "recommandations_id": []}

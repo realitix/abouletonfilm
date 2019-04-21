@@ -1,0 +1,1 @@
+{"tmdb_id": 555597, "title": "Sheyal Debota Rahasya", "original_title": "Sheyal Debota Rahasya", "slug_title": "sheyal-debota-rahasya", "date": "1996-10-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sabyasachi Chakraborty (Feluda)"], "comments": [], "recommandations_id": []}

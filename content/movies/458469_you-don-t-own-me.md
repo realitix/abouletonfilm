@@ -1,0 +1,1 @@
+{"tmdb_id": 458469, "title": "You Don't Own Me", "original_title": "You Don't Own Me", "slug_title": "you-don-t-own-me", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lesley Gore ()"], "comments": [], "recommandations_id": []}

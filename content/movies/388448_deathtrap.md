@@ -1,0 +1,1 @@
+{"tmdb_id": 388448, "title": "Deathtrap", "original_title": "Pi\u00e9g\u00e9s", "slug_title": "deathtrap", "date": "1998-03-19", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

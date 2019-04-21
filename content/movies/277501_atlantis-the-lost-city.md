@@ -1,0 +1,1 @@
+{"tmdb_id": 277501, "title": "Atlantis: The Lost City", "original_title": "Atlantis: The Lost City", "slug_title": "atlantis-the-lost-city", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

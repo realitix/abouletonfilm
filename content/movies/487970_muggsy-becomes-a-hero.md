@@ -1,0 +1,1 @@
+{"tmdb_id": 487970, "title": "Muggsy Becomes a Hero", "original_title": "Muggsy Becomes a Hero", "slug_title": "muggsy-becomes-a-hero", "date": "1910-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Billy Quirk (Muggsy)", "Mary Pickford (Mabel)", "Grace Henderson  (Mabel's Mother)"], "comments": [], "recommandations_id": []}

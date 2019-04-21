@@ -1,0 +1,1 @@
+{"tmdb_id": 391844, "title": "God Rocks! Bibletoons: Obey God's Word!", "original_title": "God Rocks! Bibletoons: Obey God's Word!", "slug_title": "god-rocks-bibletoons-obey-god-s-word", "date": "2006-04-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

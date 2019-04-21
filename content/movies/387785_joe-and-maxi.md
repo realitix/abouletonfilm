@@ -1,0 +1,1 @@
+{"tmdb_id": 387785, "title": "Joe and Maxi", "original_title": "Joe and Maxi", "slug_title": "joe-and-maxi", "date": "1978-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fj3JGJ4W6bcLZXb2hI7eoIByZPH.jpg", "actors": [], "comments": [], "recommandations_id": []}

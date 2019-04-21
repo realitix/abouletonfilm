@@ -1,0 +1,1 @@
+{"tmdb_id": 372590, "title": "Hei\u00dfe Spuren", "original_title": "Hei\u00dfe Spuren", "slug_title": "heisse-spuren", "date": "1974-12-14", "genre": "Crime", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Agnes Kraus (Luise Weberlein)", "Winfried Glatzeder (Lehrer Dornbusch)"], "comments": [], "recommandations_id": []}

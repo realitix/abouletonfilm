@@ -1,0 +1,1 @@
+{"tmdb_id": 213541, "title": "The Double Kill", "original_title": "The Double Kill", "slug_title": "the-double-kill", "date": "1975-02-18", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

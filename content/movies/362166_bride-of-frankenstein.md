@@ -1,0 +1,1 @@
+{"tmdb_id": 362166, "title": "Bride of Frankenstein", "original_title": "Bride of Frankenstein", "slug_title": "bride-of-frankenstein", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kXyr8IBB3UeauUTQHNvEMWlc44r.jpg", "actors": [], "comments": [], "recommandations_id": []}

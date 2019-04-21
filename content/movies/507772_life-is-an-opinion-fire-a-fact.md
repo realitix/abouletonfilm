@@ -1,0 +1,1 @@
+{"tmdb_id": 507772, "title": "Life Is an Opinion, Fire a Fact", "original_title": "Life Is an Opinion, Fire a Fact", "slug_title": "life-is-an-opinion-fire-a-fact", "date": "2013-01-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2jsE0TMYCl0vhV5mZvhABuA95VJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

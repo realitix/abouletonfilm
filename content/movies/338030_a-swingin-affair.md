@@ -1,0 +1,1 @@
+{"tmdb_id": 338030, "title": "A Swingin' Affair", "original_title": "A Swingin' Affair", "slug_title": "a-swingin-affair", "date": "1963-05-23", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 500213, "title": "Taking Stock", "original_title": "Taking Stock", "slug_title": "taking-stock", "date": "2017-09-09", "genre": "Com\u00e9die / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rpqaTSz0w84VRe0M0qyPHCGWr1S.jpg", "actors": ["Duncan Cowles (Voice)"], "comments": [], "recommandations_id": []}

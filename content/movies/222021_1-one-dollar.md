@@ -1,0 +1,1 @@
+{"tmdb_id": 222021, "title": "$1 (One Dollar)", "original_title": "$1 (One Dollar)", "slug_title": "1-one-dollar", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Victor Osuagwu ()", "Patience Ozokwor ()", "Chiege Alisigwe ()", "Jim Iyke ()", "Bob-Manuel Udokwu ()"], "comments": [], "recommandations_id": []}

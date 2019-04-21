@@ -1,0 +1,1 @@
+{"tmdb_id": 256975, "title": "Krieg in der Arktis: Verbrannte Erde", "original_title": "Krieg in der Arktis: Verbrannte Erde", "slug_title": "krieg-in-der-arktis-verbrannte-erde", "date": "2007-08-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

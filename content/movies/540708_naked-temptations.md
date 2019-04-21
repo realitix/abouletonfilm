@@ -1,0 +1,1 @@
+{"tmdb_id": 540708, "title": "Naked Temptations", "original_title": "Naked Temptations", "slug_title": "naked-temptations", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gina Ryder ()", "Dru Berrymore ()"], "comments": [], "recommandations_id": []}

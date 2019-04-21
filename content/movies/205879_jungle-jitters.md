@@ -1,0 +1,1 @@
+{"tmdb_id": 205879, "title": "Jungle Jitters", "original_title": "Jungle Jitters", "slug_title": "jungle-jitters", "date": "1938-02-19", "genre": "Animation", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4PhykdAkpu56sVBaxlAu62LW7Ht.jpg", "actors": [], "comments": [], "recommandations_id": [162708, 205883, 205878, 205882]}

@@ -1,0 +1,1 @@
+{"tmdb_id": 575184, "title": "Watchman", "original_title": "\u0421\u0442\u043e\u0440\u043e\u0436", "slug_title": "watchman", "date": "", "genre": "Drame / Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Yury Bykov ()", "Vladislav Abashin ()", "Alla Yuganova ()"], "comments": [], "recommandations_id": []}

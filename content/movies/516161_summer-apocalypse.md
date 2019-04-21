@@ -1,0 +1,1 @@
+{"tmdb_id": 516161, "title": "Summer Apocalypse", "original_title": "Apocalipse de Ver\u00e3o", "slug_title": "summer-apocalypse", "date": "2013-05-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zN7wZjeOkmN9cSnIf2bM9jiZV1C.jpg", "actors": [], "comments": [], "recommandations_id": []}

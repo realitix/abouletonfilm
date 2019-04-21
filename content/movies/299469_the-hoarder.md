@@ -1,0 +1,1 @@
+{"tmdb_id": 299469, "title": "The Hoarder", "original_title": "The Hoarder", "slug_title": "the-hoarder", "date": "1969-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yL3OpZQRztwD8FgmrEUwphVxwJM.jpg", "actors": [], "comments": [], "recommandations_id": []}

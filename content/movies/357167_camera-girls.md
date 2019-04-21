@@ -1,0 +1,1 @@
+{"tmdb_id": 357167, "title": "Camera Girls", "original_title": "Camera Girls", "slug_title": "camera-girls", "date": "2001-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gjzPaMyng9v2eAjgtvKu5yYSYcl.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 547255, "title": "Shelter: Human Stories from Central America", "original_title": "Shelter: Human Stories from Central America", "slug_title": "shelter-human-stories-from-central-america", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 413566, "title": "Max Adventures: Atlantos", "original_title": "Max Adventures: Atlantos", "slug_title": "max-adventures-atlantos", "date": "", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

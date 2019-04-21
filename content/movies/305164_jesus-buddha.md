@@ -1,0 +1,1 @@
+{"tmdb_id": 305164, "title": "Jesus & Buddha", "original_title": "Jesus & Buddha", "slug_title": "jesus-buddha", "date": "2014-08-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

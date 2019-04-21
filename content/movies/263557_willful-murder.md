@@ -1,0 +1,1 @@
+{"tmdb_id": 263557, "title": "Willful Murder", "original_title": "Nihon no atsui hibi b\u00f4satsu: Shimoyama jiken", "slug_title": "willful-murder", "date": "1981-11-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qqCdqENWZ4xKWeYHKd7BcdFsZHF.jpg", "actors": [], "comments": [], "recommandations_id": []}

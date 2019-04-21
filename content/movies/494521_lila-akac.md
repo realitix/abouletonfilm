@@ -1,0 +1,1 @@
+{"tmdb_id": 494521, "title": "Lila \u00e1k\u00e1c", "original_title": "Lila \u00e1k\u00e1c", "slug_title": "lila-akac", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

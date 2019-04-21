@@ -1,0 +1,1 @@
+{"tmdb_id": 387180, "title": "Tr\u00e4um weiter, Julia!", "original_title": "Tr\u00e4um weiter, Julia!", "slug_title": "traum-weiter-julia", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

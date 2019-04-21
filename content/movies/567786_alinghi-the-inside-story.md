@@ -1,0 +1,1 @@
+{"tmdb_id": 567786, "title": "Alinghi: The Inside Story", "original_title": "Alinghi: The Inside Story", "slug_title": "alinghi-the-inside-story", "date": "2003-04-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8679LtRnNIsd6XRS9brY09HVVKi.jpg", "actors": [], "comments": [], "recommandations_id": []}

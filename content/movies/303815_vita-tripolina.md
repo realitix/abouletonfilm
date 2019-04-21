@@ -1,0 +1,1 @@
+{"tmdb_id": 303815, "title": "Vita tripolina", "original_title": "Vita tripolina", "slug_title": "vita-tripolina", "date": "1912-01-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

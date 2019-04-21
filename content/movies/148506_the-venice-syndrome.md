@@ -1,0 +1,1 @@
+{"tmdb_id": 148506, "title": "The Venice Syndrome", "original_title": "Das Venedig Prinzip", "slug_title": "the-venice-syndrome", "date": "2012-12-06", "genre": "", "score": "5.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vJBnDnRDvKMdLEYLb8cwgcH1SqZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

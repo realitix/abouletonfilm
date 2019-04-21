@@ -1,0 +1,1 @@
+{"tmdb_id": 580563, "title": "The Hottest August", "original_title": "The Hottest August", "slug_title": "the-hottest-august", "date": "2019-02-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

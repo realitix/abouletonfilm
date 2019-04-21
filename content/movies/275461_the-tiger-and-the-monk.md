@@ -1,0 +1,1 @@
+{"tmdb_id": 275461, "title": "The Tiger and the Monk", "original_title": "The Tiger and the Monk", "slug_title": "the-tiger-and-the-monk", "date": "2007-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/26MPZyflzX33P2HcDLN1nDVhErr.jpg", "actors": [], "comments": [], "recommandations_id": []}

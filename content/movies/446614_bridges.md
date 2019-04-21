@@ -1,0 +1,1 @@
+{"tmdb_id": 446614, "title": "Bridges", "original_title": "Bridges", "slug_title": "bridges", "date": "2011-09-18", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bela B. ()", "Gedeon Burkhard (Saul Bridges)", "Gilbert von Sohlern (Dr.Seyers)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 211726, "title": "Standard Operating Procedure", "original_title": "Standard Operating Procedure", "slug_title": "standard-operating-procedure", "date": "2013-07-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Yasiin Bey ()"], "comments": [], "recommandations_id": []}

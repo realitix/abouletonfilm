@@ -1,0 +1,1 @@
+{"tmdb_id": 443619, "title": "A Twisted Fate", "original_title": "A Twisted Fate", "slug_title": "a-twisted-fate", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

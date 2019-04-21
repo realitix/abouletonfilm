@@ -1,0 +1,1 @@
+{"tmdb_id": 452246, "title": "Max Hoelz", "original_title": "Max Hoelz", "slug_title": "max-hoelz", "date": "1989-10-19", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

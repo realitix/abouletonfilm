@@ -1,0 +1,1 @@
+{"tmdb_id": 305028, "title": "Bad Kitties", "original_title": "Bad Kitties", "slug_title": "bad-kitties", "date": "2013-09-14", "genre": "", "score": "2.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 470024, "title": "Systemshock", "original_title": "Systemshock", "slug_title": "systemshock", "date": "2016-10-16", "genre": "Science-Fiction / Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uwIoym7i6g6ASYRMOa4YThbZZPA.jpg", "actors": [], "comments": [], "recommandations_id": []}

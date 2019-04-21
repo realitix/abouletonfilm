@@ -1,0 +1,1 @@
+{"tmdb_id": 323977, "title": "Bono - God's Favorite Son Unauthorized", "original_title": "Bono - God's Favorite Son Unauthorized", "slug_title": "bono-god-s-favorite-son-unauthorized", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

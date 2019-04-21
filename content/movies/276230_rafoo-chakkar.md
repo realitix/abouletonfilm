@@ -1,0 +1,1 @@
+{"tmdb_id": 276230, "title": "Rafoo Chakkar", "original_title": "Rafoo Chakkar", "slug_title": "rafoo-chakkar", "date": "1975-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1fZyJBoOghxEQ4dfeaNRxwlXLwY.jpg", "actors": [], "comments": [], "recommandations_id": []}

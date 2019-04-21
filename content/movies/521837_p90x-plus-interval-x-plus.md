@@ -1,0 +1,1 @@
+{"tmdb_id": 521837, "title": "P90X Plus - Interval X Plus", "original_title": "P90X Plus - Interval X Plus", "slug_title": "p90x-plus-interval-x-plus", "date": "2007-04-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3m6vhwaZ0hBaCNTaQwbUFDxB2mg.jpg", "actors": [], "comments": [], "recommandations_id": []}

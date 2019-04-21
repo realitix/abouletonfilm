@@ -1,0 +1,1 @@
+{"tmdb_id": 554893, "title": "Operacion marihuana", "original_title": "Operacion marihuana", "slug_title": "operacion-marihuana", "date": "1985-01-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eZ2Ojo9lQJQviO7RkI29nwW4R2I.jpg", "actors": [], "comments": [], "recommandations_id": []}

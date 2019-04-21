@@ -1,0 +1,1 @@
+{"tmdb_id": 345548, "title": "Halloween October 31st: Rare Halloween Fan Film", "original_title": "Halloween October 31st: Rare Halloween Fan Film", "slug_title": "halloween-october-31st-rare-halloween-fan-film", "date": "1996-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

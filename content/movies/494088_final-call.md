@@ -1,0 +1,1 @@
+{"tmdb_id": 494088, "title": "Final Call", "original_title": "\u00daltima Chamada", "slug_title": "final-call", "date": "2017-08-11", "genre": "Animation / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

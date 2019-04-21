@@ -1,0 +1,1 @@
+{"tmdb_id": 169862, "title": "Los Wild Ones", "original_title": "Los Wild Ones", "slug_title": "los-wild-ones", "date": "2013-02-08", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8nuxGxVwjF9W7JcUp9rs8k9BO2n.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 561138, "title": "La famille Cucuroux", "original_title": "La famille Cucuroux", "slug_title": "la-famille-cucuroux", "date": "1953-12-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8zGavWlora2fpeHKd5Xbji6ONZ3.jpg", "actors": [], "comments": [], "recommandations_id": []}

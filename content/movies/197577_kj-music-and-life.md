@@ -1,0 +1,1 @@
+{"tmdb_id": 197577, "title": "KJ: Music and Life", "original_title": "\u97f3\u6a02\u4eba\u751f", "slug_title": "kj-music-and-life", "date": "2009-11-24", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aCazMtxSR7DatAKYEexoNVbTpzk.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 543368, "title": "Black Happy: Settin Dogs on Fire", "original_title": "Black Happy: Settin Dogs on Fire", "slug_title": "black-happy-settin-dogs-on-fire", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

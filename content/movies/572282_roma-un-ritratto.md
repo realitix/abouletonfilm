@@ -1,0 +1,1 @@
+{"tmdb_id": 572282, "title": "ROMA - UN RITRATTO", "original_title": "ROMA - UN RITRATTO", "slug_title": "roma-un-ritratto", "date": "2000-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

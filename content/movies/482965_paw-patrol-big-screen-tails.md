@@ -1,0 +1,1 @@
+{"tmdb_id": 482965, "title": "Paw Patrol: Big Screen Tails", "original_title": "Paw Patrol: Big Screen Tails", "slug_title": "paw-patrol-big-screen-tails", "date": "2017-11-20", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vregSu1E66hh3gmSSabT5Jylgd2.jpg", "actors": [], "comments": [], "recommandations_id": []}

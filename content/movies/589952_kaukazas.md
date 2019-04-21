@@ -1,0 +1,1 @@
+{"tmdb_id": 589952, "title": "Kaukazas", "original_title": "Kaukazas", "slug_title": "kaukazas", "date": "2019-03-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

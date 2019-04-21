@@ -1,0 +1,1 @@
+{"tmdb_id": 235973, "title": "Double-Cross-Country Race", "original_title": "Double-Cross-Country Race", "slug_title": "double-cross-country-race", "date": "1951-06-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

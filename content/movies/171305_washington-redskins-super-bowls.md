@@ -1,0 +1,1 @@
+{"tmdb_id": 171305, "title": "Washington Redskins Super bowls", "original_title": "Washington Redskins Super bowls", "slug_title": "washington-redskins-super-bowls", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ylJ2a0XemCNaKNjYKg1mxahR9o3.jpg", "actors": [], "comments": [], "recommandations_id": []}

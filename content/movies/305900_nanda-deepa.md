@@ -1,0 +1,1 @@
+{"tmdb_id": 305900, "title": "Nanda-Deepa", "original_title": "Nanda-Deepa", "slug_title": "nanda-deepa", "date": "1959-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mzBpNZIzxT6I7x5jOrp62aPMP10.jpg", "actors": ["Rajkumar ()", "Harini ()", "Leelavathi ()", "Udaykumar ()"], "comments": [], "recommandations_id": []}

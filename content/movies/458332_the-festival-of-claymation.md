@@ -1,0 +1,1 @@
+{"tmdb_id": 458332, "title": "The Festival of Claymation", "original_title": "The Festival of Claymation", "slug_title": "the-festival-of-claymation", "date": "1987-04-17", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/btAgwSuFWuffywI0Q4Sd3P8tkuV.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 318125, "title": "Jazz June: The Scars to Prove It", "original_title": "Jazz June: The Scars to Prove It", "slug_title": "jazz-june-the-scars-to-prove-it", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

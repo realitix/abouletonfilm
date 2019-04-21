@@ -1,0 +1,1 @@
+{"tmdb_id": 501776, "title": "Confusion Is Next", "original_title": "Confusion Is Next", "slug_title": "confusion-is-next", "date": "2018-01-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

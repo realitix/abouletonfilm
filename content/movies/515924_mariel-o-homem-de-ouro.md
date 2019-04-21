@@ -1,0 +1,1 @@
+{"tmdb_id": 515924, "title": "Mariel, O Homem de Ouro", "original_title": "Mariel, O Homem de Ouro", "slug_title": "mariel-o-homem-de-ouro", "date": "2018-08-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

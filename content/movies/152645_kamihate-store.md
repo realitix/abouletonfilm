@@ -1,0 +1,1 @@
+{"tmdb_id": 152645, "title": "Kamihate Store", "original_title": "\u30ab\u30df\u30cf\u30c6\u5546\u5e97", "slug_title": "kamihate-store", "date": "2012-11-10", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A55SoMUJsSDq87D4qdYfOaLlSCw.jpg", "actors": [], "comments": [], "recommandations_id": []}

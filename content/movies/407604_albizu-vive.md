@@ -1,0 +1,1 @@
+{"tmdb_id": 407604, "title": "Albizu Vive", "original_title": "Albizu Vive", "slug_title": "albizu-vive", "date": "1991-01-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/89DuaHS8sjeA0n8fr1xvCrpjWPX.jpg", "actors": ["David Ortiz Angler\u00f3 (Narrator)"], "comments": [], "recommandations_id": []}

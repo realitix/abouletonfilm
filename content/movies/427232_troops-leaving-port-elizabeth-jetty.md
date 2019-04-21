@@ -1,0 +1,1 @@
+{"tmdb_id": 427232, "title": "Troops Leaving Port Elizabeth Jetty", "original_title": "Troops Leaving Port Elizabeth Jetty", "slug_title": "troops-leaving-port-elizabeth-jetty", "date": "1900-11-22", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

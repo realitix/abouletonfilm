@@ -1,0 +1,1 @@
+{"tmdb_id": 339005, "title": "Art Hodes: Jazz Alley - Volume 2", "original_title": "Art Hodes: Jazz Alley - Volume 2", "slug_title": "art-hodes-jazz-alley-volume-2", "date": "1969-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

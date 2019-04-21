@@ -1,0 +1,1 @@
+{"tmdb_id": 590321, "title": "Myna se va", "original_title": "Myna se va", "slug_title": "myna-se-va", "date": "2009-03-08", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mar\u00eda del Barrio (Myna)"], "comments": [], "recommandations_id": []}

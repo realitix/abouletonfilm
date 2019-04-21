@@ -1,0 +1,1 @@
+{"tmdb_id": 279696, "title": "Necropolis Awakened", "original_title": "Necropolis Awakened", "slug_title": "necropolis-awakened", "date": "2002-11-22", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 274349, "title": "Verdi: Otello", "original_title": "Verdi: Otello", "slug_title": "verdi-otello", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

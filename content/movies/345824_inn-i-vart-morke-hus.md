@@ -1,0 +1,1 @@
+{"tmdb_id": 345824, "title": "Inn i v\u00e5rt m\u00f8rke hus", "original_title": "Inn i v\u00e5rt m\u00f8rke hus", "slug_title": "inn-i-vart-morke-hus", "date": "2013-06-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Irasj Asanti (Father)", "Sonja Azami (Sara)", "Rebaz Rashid (Amir)"], "comments": [], "recommandations_id": []}

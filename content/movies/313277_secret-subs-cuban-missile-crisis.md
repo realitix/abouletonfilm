@@ -1,0 +1,1 @@
+{"tmdb_id": 313277, "title": "Secret Subs: Cuban Missile Crisis", "original_title": "Secret Subs: Cuban Missile Crisis", "slug_title": "secret-subs-cuban-missile-crisis", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 105802, "title": "Fisherman's Luck", "original_title": "Fisherman's Luck", "slug_title": "fisherman-s-luck", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

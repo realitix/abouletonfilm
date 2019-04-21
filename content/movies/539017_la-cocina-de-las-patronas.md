@@ -1,0 +1,1 @@
+{"tmdb_id": 539017, "title": "La cocina de Las Patronas", "original_title": "La cocina de Las Patronas", "slug_title": "la-cocina-de-las-patronas", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mipGIdSuKtRf8EputStWQbBPn58.jpg", "actors": [], "comments": [], "recommandations_id": []}

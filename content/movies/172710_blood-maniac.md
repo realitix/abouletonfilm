@@ -1,0 +1,1 @@
+{"tmdb_id": 172710, "title": "Blood Maniac", "original_title": "Blood Maniac", "slug_title": "blood-maniac", "date": "1986-01-01", "genre": "", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9qf04bocUgh4rJFpN7KOJxnbRF7.jpg", "actors": [], "comments": [], "recommandations_id": []}

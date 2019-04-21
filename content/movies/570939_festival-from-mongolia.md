@@ -1,0 +1,1 @@
+{"tmdb_id": 570939, "title": "Festival from Mongolia", "original_title": "\u5c4b\u9876\u4e0a\u7684\u9a6c\u5976\u8282", "slug_title": "festival-from-mongolia", "date": "2016-12-27", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1CpiNBFH3YyGjCfuAUXxLqNV5xx.jpg", "actors": [], "comments": [], "recommandations_id": []}

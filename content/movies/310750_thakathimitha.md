@@ -1,0 +1,1 @@
+{"tmdb_id": 310750, "title": "Thakathimitha", "original_title": "Thakathimitha", "slug_title": "thakathimitha", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

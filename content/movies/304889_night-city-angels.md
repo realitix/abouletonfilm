@@ -1,0 +1,1 @@
+{"tmdb_id": 304889, "title": "Night City Angels", "original_title": "Night City Angels", "slug_title": "night-city-angels", "date": "2014-06-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 294628, "title": "Hairdo U", "original_title": "Hairdo U", "slug_title": "hairdo-u", "date": "2001-09-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

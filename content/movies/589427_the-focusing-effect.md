@@ -1,0 +1,1 @@
+{"tmdb_id": 589427, "title": "The Focusing Effect", "original_title": "The Focusing Effect", "slug_title": "the-focusing-effect", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

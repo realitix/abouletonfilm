@@ -1,0 +1,1 @@
+{"tmdb_id": 477136, "title": "The Flame of the Yukon", "original_title": "The Flame of the Yukon", "slug_title": "the-flame-of-the-yukon", "date": "1926-08-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

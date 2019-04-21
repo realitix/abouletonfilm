@@ -1,0 +1,1 @@
+{"tmdb_id": 558883, "title": "Mademoiselle Swing", "original_title": "Mademoiselle Swing", "slug_title": "mademoiselle-swing", "date": "1942-06-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fNNUU99xyuclx7fRuTL3wSi17NM.jpg", "actors": [], "comments": [], "recommandations_id": []}

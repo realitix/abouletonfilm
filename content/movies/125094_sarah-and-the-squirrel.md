@@ -1,0 +1,1 @@
+{"tmdb_id": 125094, "title": "Sarah and the Squirrel", "original_title": "Sarah and the Squirrel", "slug_title": "sarah-and-the-squirrel", "date": "1992-08-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gycIFzVCX3LvA5V0nJeqLT3o36b.jpg", "actors": ["Mia Farrow ()"], "comments": [], "recommandations_id": []}

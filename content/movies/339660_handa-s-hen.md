@@ -1,0 +1,1 @@
+{"tmdb_id": 339660, "title": "Handa's Hen", "original_title": "Handa's Hen", "slug_title": "handa-s-hen", "date": "2006-10-18", "genre": "Familial / Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Adjoa Andoh (Narrator)"], "comments": [], "recommandations_id": []}

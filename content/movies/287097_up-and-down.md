@@ -1,0 +1,1 @@
+{"tmdb_id": 287097, "title": "Up and Down", "original_title": "Up and Down", "slug_title": "up-and-down", "date": "1991-01-01", "genre": "Animation / Familial", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gsyV7cEZpMBOHBKLJubXiHFtJlp.jpg", "actors": ["Craig Good (Luxo, Jr. (voice))"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 236957, "title": "A Lamb in a Jam", "original_title": "A Lamb in a Jam", "slug_title": "a-lamb-in-a-jam", "date": "1945-05-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

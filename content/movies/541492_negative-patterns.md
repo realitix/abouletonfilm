@@ -1,0 +1,1 @@
+{"tmdb_id": 541492, "title": "Negative Patterns", "original_title": "Negative Patterns", "slug_title": "negative-patterns", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

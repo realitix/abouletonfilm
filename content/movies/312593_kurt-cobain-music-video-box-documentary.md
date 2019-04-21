@@ -1,0 +1,1 @@
+{"tmdb_id": 312593, "title": "Kurt Cobain: Music Video Box Documentary", "original_title": "Kurt Cobain: Music Video Box Documentary", "slug_title": "kurt-cobain-music-video-box-documentary", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

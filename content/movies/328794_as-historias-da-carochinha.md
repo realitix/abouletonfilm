@@ -1,0 +1,1 @@
+{"tmdb_id": 328794, "title": "As Hist\u00f3rias da Carochinha", "original_title": "As Hist\u00f3rias da Carochinha", "slug_title": "as-historias-da-carochinha", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

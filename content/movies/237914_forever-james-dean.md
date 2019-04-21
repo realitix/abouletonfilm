@@ -1,0 +1,1 @@
+{"tmdb_id": 237914, "title": "Forever James Dean", "original_title": "Forever James Dean", "slug_title": "forever-james-dean", "date": "1988-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bSCZUWNmFJIWvc4tiVwHjOGcuBE.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 461246, "title": "Mantrap", "original_title": "Mantrap", "slug_title": "mantrap", "date": "1983-01-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oNGGQHISBilxfPd2HnnoZVApIYR.jpg", "actors": ["Martin Fry ()", "Lisa Vanderpump ()", "Vincent Flood ()"], "comments": [], "recommandations_id": []}

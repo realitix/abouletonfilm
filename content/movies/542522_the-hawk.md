@@ -1,0 +1,1 @@
+{"tmdb_id": 542522, "title": "The Hawk", "original_title": "The Hawk", "slug_title": "the-hawk", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

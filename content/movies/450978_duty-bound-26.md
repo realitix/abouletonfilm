@@ -1,0 +1,1 @@
+{"tmdb_id": 450978, "title": "Duty Bound 26", "original_title": "Duty Bound 26", "slug_title": "duty-bound-26", "date": "2014-03-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Zdenek Bolek ()", "Zac Powers ()", "David Road ()", "Martin Love ()", "Marek Vysocina ()", "Adam Borek ()"], "comments": [], "recommandations_id": []}

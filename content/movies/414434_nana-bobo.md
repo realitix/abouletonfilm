@@ -1,0 +1,1 @@
+{"tmdb_id": 414434, "title": "Nana Bob\u00f2", "original_title": "Nana Bob\u00f2", "slug_title": "nana-bobo", "date": "2012-02-17", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/si3vG19A9dsuBHWL2GNuZ0C9isN.jpg", "actors": [], "comments": [], "recommandations_id": []}

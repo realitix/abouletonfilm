@@ -1,0 +1,1 @@
+{"tmdb_id": 120078, "title": "Gumbasia", "original_title": "Gumbasia", "slug_title": "gumbasia", "date": "1955-02-05", "genre": "Musique / Animation", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9FdLNpzhvJYlXjdvcytlPFGX9Ja.jpg", "actors": [], "comments": [], "recommandations_id": []}

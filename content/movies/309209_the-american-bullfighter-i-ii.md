@@ -1,0 +1,1 @@
+{"tmdb_id": 309209, "title": "The American Bullfighter I & II", "original_title": "The American Bullfighter I & II", "slug_title": "the-american-bullfighter-i-ii", "date": "1994-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

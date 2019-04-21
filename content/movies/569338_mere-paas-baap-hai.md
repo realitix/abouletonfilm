@@ -1,0 +1,1 @@
+{"tmdb_id": 569338, "title": "Mere Paas Baap Hai", "original_title": "Mere Paas Baap Hai", "slug_title": "mere-paas-baap-hai", "date": "", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/umQy3FF2NN6UFv7G7xa6pGNKSha.jpg", "actors": [], "comments": [], "recommandations_id": []}

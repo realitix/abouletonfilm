@@ -1,0 +1,1 @@
+{"tmdb_id": 474360, "title": "D\u00e5rlig Feminist", "original_title": "D\u00e5rlig Feminist", "slug_title": "darlig-feminist", "date": "2017-09-10", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yc3p5XyThBHy96i53m3VrssoBRQ.jpg", "actors": ["Ane H\u00f8gsberg (Herself)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 531408, "title": "A Hole in the Head", "original_title": "Dziura w glowie", "slug_title": "a-hole-in-the-head", "date": "2018-06-20", "genre": "Drame", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bart\u0142omiej Topa (Chudy)", "Sandra Korzeniak ()", "Andrzej Szeremeta (Andrzejek)"], "comments": [], "recommandations_id": []}

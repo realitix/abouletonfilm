@@ -1,0 +1,1 @@
+{"tmdb_id": 234886, "title": "Good Scream Fun", "original_title": "Good Scream Fun", "slug_title": "good-scream-fun", "date": "1958-09-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 442743, "title": "Jitterbug Senorita", "original_title": "Jitterbug Senorita", "slug_title": "jitterbug-senorita", "date": "1941-01-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Anne Barrett ()", "Vincent Lopez ()"], "comments": [], "recommandations_id": []}

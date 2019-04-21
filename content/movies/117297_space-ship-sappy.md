@@ -1,0 +1,1 @@
+{"tmdb_id": 117297, "title": "Space Ship Sappy", "original_title": "Space Ship Sappy", "slug_title": "space-ship-sappy", "date": "1957-04-18", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Larry Fine (Larry)", "Moe Howard (Moe)", "Joe Besser (Joe)"], "comments": [], "recommandations_id": []}

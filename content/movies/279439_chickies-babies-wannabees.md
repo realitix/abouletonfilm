@@ -1,0 +1,1 @@
+{"tmdb_id": 279439, "title": "Chickies, Babies & Wannabees", "original_title": "Chickies, Babies & Wannabees", "slug_title": "chickies-babies-wannabees", "date": "2000-01-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

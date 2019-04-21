@@ -1,0 +1,1 @@
+{"tmdb_id": 187209, "title": "Gorillaz - Live at Paris La Cigale", "original_title": "Gorillaz - Live at Paris La Cigale", "slug_title": "gorillaz-live-at-paris-la-cigale", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fQ2MNP1HlHlmfMfTE3kV65U5CpH.jpg", "actors": [], "comments": [], "recommandations_id": []}

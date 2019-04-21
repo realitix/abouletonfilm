@@ -1,0 +1,1 @@
+{"tmdb_id": 374494, "title": "Second Wind", "original_title": "Second Wind", "slug_title": "second-wind", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

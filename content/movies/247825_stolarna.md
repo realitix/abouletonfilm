@@ -1,0 +1,1 @@
+{"tmdb_id": 247825, "title": "Stolarna", "original_title": "Stolarna", "slug_title": "stolarna", "date": "1962-01-12", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Halvar Bj\u00f6rk (Orator)", "Allan Edwall (Old man)", "Ulla Sj\u00f6blom (Old woman)"], "comments": [], "recommandations_id": []}

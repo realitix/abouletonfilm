@@ -1,0 +1,1 @@
+{"tmdb_id": 468768, "title": "Playing with Fire", "original_title": "Playing with Fire", "slug_title": "playing-with-fire", "date": "2013-04-11", "genre": "Animation / Myst\u00e8re", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mcjCyxzPAJlQZa4JNVDiwUba6gA.jpg", "actors": [], "comments": [], "recommandations_id": []}

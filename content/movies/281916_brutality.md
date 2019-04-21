@@ -1,0 +1,1 @@
+{"tmdb_id": 281916, "title": "Brutality", "original_title": "Brutality", "slug_title": "brutality", "date": "1912-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Walter Miller ()", "Mae Marsh ()", "Joseph Graybill ()"], "comments": [], "recommandations_id": []}

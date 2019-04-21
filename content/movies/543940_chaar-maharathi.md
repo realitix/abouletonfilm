@@ -1,0 +1,1 @@
+{"tmdb_id": 543940, "title": "Chaar Maharathi", "original_title": "Chaar Maharathi", "slug_title": "chaar-maharathi", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

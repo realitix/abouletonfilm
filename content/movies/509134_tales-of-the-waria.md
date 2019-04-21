@@ -1,0 +1,1 @@
+{"tmdb_id": 509134, "title": "Tales of the Waria", "original_title": "Tales of the Waria", "slug_title": "tales-of-the-waria", "date": "2011-03-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5XMw5lukI4eoTY5N6qqOPgEE87p.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 423391, "title": "Wrath of the Sun Demon", "original_title": "Wrath of the Sun Demon", "slug_title": "wrath-of-the-sun-demon", "date": "1965-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xxugUZI2HRootaw7e281fSDXa5i.jpg", "actors": [], "comments": [], "recommandations_id": []}

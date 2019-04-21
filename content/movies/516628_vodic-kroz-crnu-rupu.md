@@ -1,0 +1,1 @@
+{"tmdb_id": 516628, "title": "Vodi\u010d kroz crnu rupu", "original_title": "Vodi\u010d kroz crnu rupu", "slug_title": "vodic-kroz-crnu-rupu", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fgdzHoD9mTrWV5uA04JIaRJ8TqB.jpg", "actors": [], "comments": [], "recommandations_id": []}

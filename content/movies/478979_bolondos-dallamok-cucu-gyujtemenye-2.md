@@ -1,0 +1,1 @@
+{"tmdb_id": 478979, "title": "Bolondos dallamok - Cucu gy\u0171jtem\u00e9nye 2.", "original_title": "Bolondos dallamok - Cucu gy\u0171jtem\u00e9nye 2.", "slug_title": "bolondos-dallamok-cucu-gyujtemenye-2", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

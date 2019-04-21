@@ -1,0 +1,1 @@
+{"tmdb_id": 152218, "title": "The Barbershop", "original_title": "The Barbershop", "slug_title": "the-barbershop", "date": "1894-01-01", "genre": "Documentaire", "score": "5.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7cjSHv04pKv6t3e1DZl0aVzbm68.jpg", "actors": [], "comments": [], "recommandations_id": [159905, 159904, 194091, 189054]}

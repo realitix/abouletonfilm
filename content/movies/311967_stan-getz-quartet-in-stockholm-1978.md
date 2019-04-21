@@ -1,0 +1,1 @@
+{"tmdb_id": 311967, "title": "Stan Getz Quartet: In Stockholm 1978", "original_title": "Stan Getz Quartet: In Stockholm 1978", "slug_title": "stan-getz-quartet-in-stockholm-1978", "date": "1978-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

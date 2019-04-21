@@ -1,0 +1,1 @@
+{"tmdb_id": 540000, "title": "The Ghost of Peter Sellers", "original_title": "The Ghost of Peter Sellers", "slug_title": "the-ghost-of-peter-sellers", "date": "2018-09-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mCtZQWanQcybvj7vrrVCo8sPUNI.jpg", "actors": [], "comments": [], "recommandations_id": []}

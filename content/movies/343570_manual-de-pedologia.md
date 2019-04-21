@@ -1,0 +1,1 @@
+{"tmdb_id": 343570, "title": "Manual de pedolog\u00eda", "original_title": "Manual de pedolog\u00eda", "slug_title": "manual-de-pedologia", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

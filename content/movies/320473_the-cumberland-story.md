@@ -1,0 +1,1 @@
+{"tmdb_id": 320473, "title": "The Cumberland Story", "original_title": "The Cumberland Story", "slug_title": "the-cumberland-story", "date": "1948-02-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

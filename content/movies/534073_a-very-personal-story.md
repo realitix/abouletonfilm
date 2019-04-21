@@ -1,0 +1,1 @@
+{"tmdb_id": 534073, "title": "A Very Personal Story", "original_title": "A Very Personal Story", "slug_title": "a-very-personal-story", "date": "1974-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

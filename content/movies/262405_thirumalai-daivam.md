@@ -1,0 +1,1 @@
+{"tmdb_id": 262405, "title": "Thirumalai Daivam", "original_title": "Thirumalai Daivam", "slug_title": "thirumalai-daivam", "date": "1972-12-31", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gemini Ganesan ()", "Sivakumar ()", "Seergazhi Govindarajan ()", "Manorama ()"], "comments": [], "recommandations_id": []}

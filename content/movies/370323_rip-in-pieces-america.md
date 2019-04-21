@@ -1,0 +1,1 @@
+{"tmdb_id": 370323, "title": "RIP in Pieces America", "original_title": "RIP in Pieces America", "slug_title": "rip-in-pieces-america", "date": "2009-11-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

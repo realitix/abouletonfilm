@@ -1,0 +1,1 @@
+{"tmdb_id": 421572, "title": "What Did You Think of the Movie?", "original_title": "What Did You Think of the Movie?", "slug_title": "what-did-you-think-of-the-movie", "date": "1970-09-10", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

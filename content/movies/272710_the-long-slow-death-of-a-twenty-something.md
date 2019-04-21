@@ -1,0 +1,1 @@
+{"tmdb_id": 272710, "title": "The Long, Slow Death of a Twenty-Something", "original_title": "The Long, Slow Death of a Twenty-Something", "slug_title": "the-long-slow-death-of-a-twenty-something", "date": "2011-01-01", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

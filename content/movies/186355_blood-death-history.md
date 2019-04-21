@@ -1,0 +1,1 @@
+{"tmdb_id": 186355, "title": "Blood & Death History", "original_title": "Blood & Death History", "slug_title": "blood-death-history", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

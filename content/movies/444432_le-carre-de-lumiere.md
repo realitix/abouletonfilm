@@ -1,0 +1,1 @@
+{"tmdb_id": 444432, "title": "Le carr\u00e9 de lumi\u00e8re", "original_title": "Le carr\u00e9 de lumi\u00e8re", "slug_title": "le-carre-de-lumiere", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

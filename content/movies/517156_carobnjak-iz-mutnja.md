@@ -1,0 +1,1 @@
+{"tmdb_id": 517156, "title": "\u010carobnjak iz Mutnja", "original_title": "\u010carobnjak iz Mutnja", "slug_title": "carobnjak-iz-mutnja", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2QPhu4aOEiBXdE2mSi67YJHeCbK.jpg", "actors": [], "comments": [], "recommandations_id": []}

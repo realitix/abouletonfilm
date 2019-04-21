@@ -1,0 +1,1 @@
+{"tmdb_id": 324213, "title": "Love Sick", "original_title": "Love Sick", "slug_title": "love-sick", "date": "2011-06-03", "genre": "", "score": "5.8/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [207941, 84314, 70264, 91122]}

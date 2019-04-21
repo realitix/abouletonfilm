@@ -1,0 +1,1 @@
+{"tmdb_id": 24437, "title": "Looker 2: Femme Fatale", "original_title": "Looker 2: Femme Fatale", "slug_title": "looker-2-femme-fatale", "date": "1900-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

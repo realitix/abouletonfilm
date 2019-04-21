@@ -1,0 +1,1 @@
+{"tmdb_id": 554494, "title": "The Journey of Rain Man", "original_title": "The Journey of Rain Man", "slug_title": "the-journey-of-rain-man", "date": "2004-08-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

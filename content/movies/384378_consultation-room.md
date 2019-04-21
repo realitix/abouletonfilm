@@ -1,0 +1,1 @@
+{"tmdb_id": 384378, "title": "Consultation Room", "original_title": "Shinsatsushitsu", "slug_title": "consultation-room", "date": "2005-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5Jw17Ke1VJilixlH1e3w2apb4z5.jpg", "actors": [], "comments": [], "recommandations_id": []}

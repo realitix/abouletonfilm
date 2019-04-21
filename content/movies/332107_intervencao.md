@@ -1,0 +1,1 @@
+{"tmdb_id": 332107, "title": "Interven\u00e7\u00e3o", "original_title": "Interven\u00e7\u00e3o", "slug_title": "intervencao", "date": "2015-03-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gabriela Luque ()", "Bernardo Valen\u00e7a ()"], "comments": [], "recommandations_id": []}

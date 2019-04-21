@@ -1,0 +1,1 @@
+{"tmdb_id": 284030, "title": "The Lonely Chicken Dream", "original_title": "The Lonely Chicken Dream", "slug_title": "the-lonely-chicken-dream", "date": "2009-10-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

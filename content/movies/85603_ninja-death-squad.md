@@ -1,0 +1,1 @@
+{"tmdb_id": 85603, "title": "Ninja Death Squad", "original_title": "Ninja Death Squad", "slug_title": "ninja-death-squad", "date": "1987-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8cdO1FGZ8WkgAd00bZVCNMHd3uC.jpg", "actors": [], "comments": [], "recommandations_id": []}

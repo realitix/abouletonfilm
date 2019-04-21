@@ -1,0 +1,1 @@
+{"tmdb_id": 236943, "title": "Suddenly It's Spring", "original_title": "Suddenly It's Spring", "slug_title": "suddenly-it-s-spring", "date": "1944-04-27", "genre": "Familial / Animation", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2PT3T9nMUQGMP7bqn1xLpwqBZoj.jpg", "actors": [], "comments": [], "recommandations_id": []}

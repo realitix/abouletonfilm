@@ -1,0 +1,1 @@
+{"tmdb_id": 257324, "title": "Demons of Ghana", "original_title": "Demons of Ghana", "slug_title": "demons-of-ghana", "date": "2005-02-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

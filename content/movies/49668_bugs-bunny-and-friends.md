@@ -1,0 +1,1 @@
+{"tmdb_id": 49668, "title": "Bugs Bunny and Friends", "original_title": "Bugs Bunny and Friends", "slug_title": "bugs-bunny-and-friends", "date": "2000-01-01", "genre": "Animation", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3ltCLoP8qmycT6GEdjqP5cEkgfa.jpg", "actors": [], "comments": [], "recommandations_id": []}

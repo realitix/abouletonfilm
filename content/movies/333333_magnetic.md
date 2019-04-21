@@ -1,0 +1,1 @@
+{"tmdb_id": 333333, "title": "Magnetic", "original_title": "Magnetic", "slug_title": "magnetic", "date": "2015-03-29", "genre": "Aventure / Fantastique / Science-Fiction", "score": "8.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t4OjPBcOdsefS5xshSkwIp6Fe1e.jpg", "actors": ["Allix Mortis (Alice)"], "comments": [], "recommandations_id": []}

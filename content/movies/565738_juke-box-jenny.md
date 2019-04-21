@@ -1,0 +1,1 @@
+{"tmdb_id": 565738, "title": "Juke Box Jenny", "original_title": "Juke Box Jenny", "slug_title": "juke-box-jenny", "date": "1942-03-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Harriet Hilliard (Genevieve Horton)", "Ken Murray (Malcolm Hammond)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 522281, "title": "Holy Days", "original_title": "Holy Days", "slug_title": "holy-days", "date": "2016-01-26", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3S5l5ZxV4sUeWlobZ6Dct3ssxC6.jpg", "actors": ["Vlad Bykov ()", "Anna Damer ()", "Maxim Khromin ()"], "comments": [], "recommandations_id": []}

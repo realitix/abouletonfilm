@@ -1,0 +1,1 @@
+{"tmdb_id": 74744, "title": "Geniet och pojkarna", "original_title": "Geniet och pojkarna", "slug_title": "geniet-och-pojkarna", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

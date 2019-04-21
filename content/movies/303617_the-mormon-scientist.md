@@ -1,0 +1,1 @@
+{"tmdb_id": 303617, "title": "The Mormon Scientist", "original_title": "The Mormon Scientist", "slug_title": "the-mormon-scientist", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

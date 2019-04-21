@@ -1,0 +1,1 @@
+{"tmdb_id": 382168, "title": "The Haploid Affair", "original_title": "The Haploid Affair", "slug_title": "the-haploid-affair", "date": "", "genre": "Animation", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lisa Kofod ()", "Sue Parker ()"], "comments": [], "recommandations_id": []}

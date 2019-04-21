@@ -1,0 +1,1 @@
+{"tmdb_id": 311908, "title": "Edgar Broughton Band: At Rockpalast", "original_title": "Edgar Broughton Band: At Rockpalast", "slug_title": "edgar-broughton-band-at-rockpalast", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

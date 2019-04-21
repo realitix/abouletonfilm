@@ -1,0 +1,1 @@
+{"tmdb_id": 239468, "title": "You can drive the big rigs", "original_title": "You can drive the big rigs", "slug_title": "you-can-drive-the-big-rigs", "date": "1989-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AeAKxpcfaZmfKqoyaKAvJFVWSl.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 528089, "title": "Buoyancy", "original_title": "Buoyancy", "slug_title": "buoyancy", "date": "2019-02-10", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/muNs9rq9nfMPf7MCCyc1XNoaU1Y.jpg", "actors": ["Sarm Heng (Chakra)"], "comments": [], "recommandations_id": []}

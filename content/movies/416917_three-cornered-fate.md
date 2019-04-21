@@ -1,0 +1,1 @@
+{"tmdb_id": 416917, "title": "Three Cornered Fate", "original_title": "Three Cornered Fate", "slug_title": "three-cornered-fate", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

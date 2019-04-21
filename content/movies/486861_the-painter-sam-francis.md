@@ -1,0 +1,1 @@
+{"tmdb_id": 486861, "title": "The Painter Sam Francis", "original_title": "The Painter Sam Francis", "slug_title": "the-painter-sam-francis", "date": "2008-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sam Francis (Self)"], "comments": [], "recommandations_id": []}

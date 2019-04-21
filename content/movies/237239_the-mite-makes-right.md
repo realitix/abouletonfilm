@@ -1,0 +1,1 @@
+{"tmdb_id": 237239, "title": "The Mite Makes Right", "original_title": "The Mite Makes Right", "slug_title": "the-mite-makes-right", "date": "1948-10-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4Lk2QAjioHJvILY3NshAdZpbNBV.jpg", "actors": [], "comments": [], "recommandations_id": []}

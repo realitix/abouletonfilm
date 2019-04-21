@@ -1,0 +1,1 @@
+{"tmdb_id": 93656, "title": "A Conversation About Race", "original_title": "A Conversation About Race", "slug_title": "a-conversation-about-race", "date": "2009-02-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oe0VzGFGRUWzF3J0Wt2vlWm5Gm0.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 486850, "title": "Bona manzi", "original_title": "Bona manzi", "slug_title": "bona-manzi", "date": "1984-06-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sipho Menyeni ()", "Martin Potgieter ()", "John Mtsali ()"], "comments": [], "recommandations_id": []}

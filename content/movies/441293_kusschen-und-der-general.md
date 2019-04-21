@@ -1,0 +1,1 @@
+{"tmdb_id": 441293, "title": "K\u00fc\u00dfchen und der General", "original_title": "K\u00fc\u00dfchen und der General", "slug_title": "kusschen-und-der-general", "date": "1961-11-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wj0lbMMjbQqWdburP2Gfn87XxvW.jpg", "actors": [], "comments": [], "recommandations_id": []}

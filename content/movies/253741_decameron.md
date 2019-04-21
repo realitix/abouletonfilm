@@ -1,0 +1,1 @@
+{"tmdb_id": 253741, "title": "Decameron", "original_title": "Decameron", "slug_title": "decameron", "date": "2009-12-31", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o8j7IuuGd83NfCykmXEj05NRJ4l.jpg", "actors": ["Daniele Luttazzi (himself)"], "comments": [], "recommandations_id": []}

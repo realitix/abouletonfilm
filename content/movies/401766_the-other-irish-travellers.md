@@ -1,0 +1,1 @@
+{"tmdb_id": 401766, "title": "The Other Irish Travellers", "original_title": "The Other Irish Travellers", "slug_title": "the-other-irish-travellers", "date": "2012-07-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zoiyHF39XsNzbC5pLgznpLkrDGN.jpg", "actors": [], "comments": [], "recommandations_id": []}

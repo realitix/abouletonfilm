@@ -1,0 +1,1 @@
+{"tmdb_id": 412253, "title": "Judith Trachtenberg", "original_title": "Judith Trachtenberg", "slug_title": "judith-trachtenberg", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

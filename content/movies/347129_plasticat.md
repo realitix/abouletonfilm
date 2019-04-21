@@ -1,0 +1,1 @@
+{"tmdb_id": 347129, "title": "Plasticat", "original_title": "Plasticat", "slug_title": "plasticat", "date": "2002-12-11", "genre": "Com\u00e9die / Animation", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bB0wO5PjdsaPT8WLKio6F0JZp9a.jpg", "actors": [], "comments": [], "recommandations_id": []}

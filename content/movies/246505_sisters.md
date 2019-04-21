@@ -1,0 +1,1 @@
+{"tmdb_id": 246505, "title": "Sisters", "original_title": "Sorelle", "slug_title": "sisters", "date": "2013-07-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Chiara Paoli ()", "Miriam Dalmazio ()", "Maximilian Dirr ()", "Elisabetta Tucci ()", "Stefano Ambrogi ()", "Anna Soruccia ()"], "comments": [], "recommandations_id": []}

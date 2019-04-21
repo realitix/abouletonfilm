@@ -1,0 +1,1 @@
+{"tmdb_id": 536824, "title": "Caminhos do Sul", "original_title": "Caminhos do Sul", "slug_title": "caminhos-do-sul", "date": "1949-01-01", "genre": "Aventure", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gtlSSmNOYiBX4KHzQQVaqyjGsgq.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 417912, "title": "Manda huevos", "original_title": "Manda huevos", "slug_title": "manda-huevos", "date": "2016-09-30", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nKVQxl64cGqNTZtuu0ldD7I4LIV.jpg", "actors": ["Carmen Machi (Herself - Narrator (voice))"], "comments": [], "recommandations_id": []}

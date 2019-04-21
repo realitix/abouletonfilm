@@ -1,0 +1,1 @@
+{"tmdb_id": 140534, "title": "Skoppa og skr\u00edtla 6-10", "original_title": "Skoppa og skr\u00edtla 6-10", "slug_title": "skoppa-og-skritla-6-10", "date": "2012-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hQa3So9BfuHiAoxEewfAzycCcTf.jpg", "actors": [], "comments": [], "recommandations_id": []}

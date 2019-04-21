@@ -1,0 +1,1 @@
+{"tmdb_id": 228893, "title": "Bad Assassin", "original_title": "Bad Assassin", "slug_title": "bad-assassin", "date": "2000-07-22", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Albert Fry Jr. ()", "Greg Pruss ()", "Clark Sanchez ()"], "comments": [], "recommandations_id": []}

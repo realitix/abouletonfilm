@@ -1,0 +1,1 @@
+{"tmdb_id": 169542, "title": "Shadow of Afghanistan", "original_title": "Shadow of Afghanistan", "slug_title": "shadow-of-afghanistan", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

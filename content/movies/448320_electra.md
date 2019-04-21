@@ -1,0 +1,1 @@
+{"tmdb_id": 448320, "title": "Electra", "original_title": "Electra", "slug_title": "electra", "date": "2014-12-01", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vni1BHgESTEEZCjTbfnUsIUcMEq.jpg", "actors": ["Karyofyllia Karabeti ()", "Sofia Kokkali ()"], "comments": [], "recommandations_id": []}

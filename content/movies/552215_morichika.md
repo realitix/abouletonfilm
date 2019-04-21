@@ -1,0 +1,1 @@
+{"tmdb_id": 552215, "title": "Morichika", "original_title": "Morichika", "slug_title": "morichika", "date": "2016-08-05", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Nipon Goswami ()", "Indra Bania ()"], "comments": [], "recommandations_id": []}

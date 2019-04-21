@@ -1,0 +1,1 @@
+{"tmdb_id": 588679, "title": "Citizens of the Cosmos", "original_title": "Citizens of the Cosmos", "slug_title": "citizens-of-the-cosmos", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

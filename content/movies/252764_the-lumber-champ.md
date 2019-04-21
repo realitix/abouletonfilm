@@ -1,0 +1,1 @@
+{"tmdb_id": 252764, "title": "The Lumber Champ", "original_title": "The Lumber Champ", "slug_title": "the-lumber-champ", "date": "1933-03-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 337652, "title": "13 Nights of Elvira: Seed People", "original_title": "13 Nights of Elvira: Seed People", "slug_title": "13-nights-of-elvira-seed-people", "date": "2014-10-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 289319, "title": "Sitting in Limbo", "original_title": "Sitting in Limbo", "slug_title": "sitting-in-limbo", "date": "1986-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/enrpWFB69MHyuJjjwOp0Z357VSi.jpg", "actors": [], "comments": [], "recommandations_id": []}

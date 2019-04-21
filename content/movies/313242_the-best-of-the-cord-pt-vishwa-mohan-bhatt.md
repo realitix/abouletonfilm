@@ -1,0 +1,1 @@
+{"tmdb_id": 313242, "title": "The Best of the Cord: Pt. Vishwa Mohan Bhatt", "original_title": "The Best of the Cord: Pt. Vishwa Mohan Bhatt", "slug_title": "the-best-of-the-cord-pt-vishwa-mohan-bhatt", "date": "1996-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

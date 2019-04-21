@@ -1,0 +1,1 @@
+{"tmdb_id": 442396, "title": "The Smog of the Sea", "original_title": "The Smog of the Sea", "slug_title": "the-smog-of-the-sea", "date": "2017-02-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ssQuWdVGpDAlRklfdLGOl6ChMPj.jpg", "actors": [], "comments": [], "recommandations_id": []}

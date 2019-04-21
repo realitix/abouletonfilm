@@ -1,0 +1,1 @@
+{"tmdb_id": 555439, "title": "Capital Visit", "original_title": "Capital Visit", "slug_title": "capital-visit", "date": "1955-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Frank Duncan (Narrator)", "William Simons (Narrator)", "Christine Edmonds (Narrator)"], "comments": [], "recommandations_id": []}

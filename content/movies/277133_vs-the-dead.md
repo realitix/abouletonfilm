@@ -1,0 +1,1 @@
+{"tmdb_id": 277133, "title": "Vs. the Dead", "original_title": "Vs. the Dead", "slug_title": "vs-the-dead", "date": "2009-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A0sTqtZv6xfxy7ir0krxdqOpFlC.jpg", "actors": [], "comments": [], "recommandations_id": []}

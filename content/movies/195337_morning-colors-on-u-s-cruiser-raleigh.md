@@ -1,0 +1,1 @@
+{"tmdb_id": 195337, "title": "Morning Colors on U.S. Cruiser 'Raleigh'", "original_title": "Morning Colors on U.S. Cruiser 'Raleigh'", "slug_title": "morning-colors-on-u-s-cruiser-raleigh", "date": "1899-04-20", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

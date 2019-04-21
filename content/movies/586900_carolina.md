@@ -1,0 +1,1 @@
+{"tmdb_id": 586900, "title": "Carolina", "original_title": "Carolina", "slug_title": "carolina", "date": "2003-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A1othmK57798XVEYJcGrEBaBTiG.jpg", "actors": ["Zez\u00e9 Motta (Carolina Maria de Jesus)"], "comments": [], "recommandations_id": []}

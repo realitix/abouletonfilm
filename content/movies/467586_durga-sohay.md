@@ -1,0 +1,1 @@
+{"tmdb_id": 467586, "title": "Durga Sohay", "original_title": "Durga Sohay", "slug_title": "durga-sohay", "date": "2017-04-28", "genre": "Familial / Drame", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uUupm7rWEcAbbosHwtOKFUWa4hY.jpg", "actors": [], "comments": [], "recommandations_id": []}

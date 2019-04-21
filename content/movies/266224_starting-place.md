@@ -1,0 +1,1 @@
+{"tmdb_id": 266224, "title": "Starting Place", "original_title": "Starting Place", "slug_title": "starting-place", "date": "1994-03-09", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6xrMNW2h8ybxGhU0LF9zsQYuH85.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 420459, "title": "I'm in Pittsburgh and it's Raining", "original_title": "I'm in Pittsburgh and it's Raining", "slug_title": "i-m-in-pittsburgh-and-it-s-raining", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

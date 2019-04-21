@@ -1,0 +1,1 @@
+{"tmdb_id": 293780, "title": "Battle of the Strands Live", "original_title": "Battle of the Strands Live", "slug_title": "battle-of-the-strands-live", "date": "2014-10-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

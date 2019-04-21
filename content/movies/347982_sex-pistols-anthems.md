@@ -1,0 +1,1 @@
+{"tmdb_id": 347982, "title": "Sex Pistols - Anthems", "original_title": "Sex Pistols - Anthems", "slug_title": "sex-pistols-anthems", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

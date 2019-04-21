@@ -1,0 +1,1 @@
+{"tmdb_id": 547429, "title": "Shaolin Monkey Fist", "original_title": "Shaolin Monkey Fist", "slug_title": "shaolin-monkey-fist", "date": "1974-09-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

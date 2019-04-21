@@ -1,0 +1,1 @@
+{"tmdb_id": 278233, "title": "ON STAGE - Serdar Somuncu", "original_title": "ON STAGE - Serdar Somuncu", "slug_title": "on-stage-serdar-somuncu", "date": "2014-05-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

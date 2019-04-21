@@ -1,0 +1,1 @@
+{"tmdb_id": 271578, "title": "Mr. Smith Goes to Tokyo", "original_title": "Mr. Smith Goes to Tokyo", "slug_title": "mr-smith-goes-to-tokyo", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zt3oaukw0Pk0gnUQyEkOVqkcSGX.jpg", "actors": [], "comments": [], "recommandations_id": []}

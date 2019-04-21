@@ -1,0 +1,1 @@
+{"tmdb_id": 493280, "title": "Company of Mushrooms", "original_title": "\u8611\u83c7\u5144\u5f1f\u4eec", "slug_title": "company-of-mushrooms", "date": "2006-01-26", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

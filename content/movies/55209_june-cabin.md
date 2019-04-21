@@ -1,0 +1,1 @@
+{"tmdb_id": 55209, "title": "June Cabin", "original_title": "June Cabin", "slug_title": "june-cabin", "date": "2007-06-26", "genre": "Horreur / Myst\u00e8re / Thriller", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u7bBHYfRoZ3Dln6jQZHRDXJfBMR.jpg", "actors": [], "comments": [], "recommandations_id": []}

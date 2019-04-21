@@ -1,0 +1,1 @@
+{"tmdb_id": 473862, "title": "Minerva Monster", "original_title": "Minerva Monster", "slug_title": "minerva-monster", "date": "2015-05-16", "genre": "Documentaire", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5qT40wAF6GzIaJinxihgcmX7SMA.jpg", "actors": [], "comments": [], "recommandations_id": []}

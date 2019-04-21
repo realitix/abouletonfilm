@@ -1,0 +1,1 @@
+{"tmdb_id": 504362, "title": "La pieza de Franz", "original_title": "La pieza de Franz", "slug_title": "la-pieza-de-franz", "date": "1973-05-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1tDICusiEhIKt5SxtS5UDhm4bDH.jpg", "actors": [], "comments": [], "recommandations_id": []}

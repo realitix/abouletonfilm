@@ -1,0 +1,1 @@
+{"tmdb_id": 574263, "title": "YouShoot: Tommy Rich", "original_title": "YouShoot: Tommy Rich", "slug_title": "youshoot-tommy-rich", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sean Oliver (Himself)", "Tommy Rich (Himself)"], "comments": [], "recommandations_id": []}

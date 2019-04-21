@@ -1,0 +1,1 @@
+{"tmdb_id": 444367, "title": "The Detroit Films (Reel #3)", "original_title": "The Detroit Films (Reel #3)", "slug_title": "the-detroit-films-reel-3", "date": "1985-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eTMFi0p7bJYeiyC34Ivxg5Thfh5.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 578516, "title": "Black Bus Stop", "original_title": "Black Bus Stop", "slug_title": "black-bus-stop", "date": "2019-01-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wWAKhQCZGdWa6DLSFO6TiF7MCzB.jpg", "actors": ["Jordan Maia ()", "Tiara Sparrow ()"], "comments": [], "recommandations_id": []}

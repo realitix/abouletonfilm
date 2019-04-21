@@ -1,0 +1,1 @@
+{"tmdb_id": 123490, "title": "KMFDM: 20th Anniversary World Tour 2004", "original_title": "KMFDM: 20th Anniversary World Tour 2004", "slug_title": "kmfdm-20th-anniversary-world-tour-2004", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

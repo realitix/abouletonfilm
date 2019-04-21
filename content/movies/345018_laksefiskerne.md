@@ -1,0 +1,1 @@
+{"tmdb_id": 345018, "title": "Laksefiskerne", "original_title": "Laksefiskerne", "slug_title": "laksefiskerne", "date": "1994-06-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

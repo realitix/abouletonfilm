@@ -1,0 +1,1 @@
+{"tmdb_id": 486652, "title": "Abba die Poplegende", "original_title": "Abba die Poplegende", "slug_title": "abba-die-poplegende", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qEZtRLVTOqEHhexXnRo0Mf2REx0.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 337530, "title": "Make Them Die Sleazy!", "original_title": "Make Them Die Sleazy!", "slug_title": "make-them-die-sleazy", "date": "2014-02-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

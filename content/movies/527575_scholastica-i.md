@@ -1,0 +1,1 @@
+{"tmdb_id": 527575, "title": "Scholastica I", "original_title": "Scholastica I", "slug_title": "scholastica-i", "date": "2016-03-13", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Chinwe Owoh ()", "Cha Cha Eke Faani ()", "Rahim Caz Chidiebere ()", "Spider Osuji ()", "Sapphire Obi ()"], "comments": [], "recommandations_id": []}

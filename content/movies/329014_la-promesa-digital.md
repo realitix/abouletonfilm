@@ -1,0 +1,1 @@
+{"tmdb_id": 329014, "title": "La promesa digital", "original_title": "La promesa digital", "slug_title": "la-promesa-digital", "date": "2014-11-06", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

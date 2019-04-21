@@ -1,0 +1,1 @@
+{"tmdb_id": 338750, "title": "Os Pequerruchos: Dia de Festa", "original_title": "Os Pequerruchos: Dia de Festa", "slug_title": "os-pequerruchos-dia-de-festa", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yHWXyP4pjmhPJcHguPkjMv5rz9I.jpg", "actors": [], "comments": [], "recommandations_id": []}

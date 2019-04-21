@@ -1,0 +1,1 @@
+{"tmdb_id": 377819, "title": "When Coal Was King", "original_title": "When Coal Was King", "slug_title": "when-coal-was-king", "date": "2013-11-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ttn2dSvwSr1GMZyRpn1sAnaKhhC.jpg", "actors": ["Christopher Eccleston ()"], "comments": [], "recommandations_id": []}

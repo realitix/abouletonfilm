@@ -1,0 +1,1 @@
+{"tmdb_id": 587214, "title": "A Hard Day in the Empire", "original_title": "A Hard Day in the Empire", "slug_title": "a-hard-day-in-the-empire", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 75056, "title": "Hard Hat Harry Trains Helicopters", "original_title": "Hard Hat Harry Trains Helicopters", "slug_title": "hard-hat-harry-trains-helicopters", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6XNsMpG2s0jV40TkqwNYt0ZxBpW.jpg", "actors": [], "comments": [], "recommandations_id": []}

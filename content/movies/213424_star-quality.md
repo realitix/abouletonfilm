@@ -1,0 +1,1 @@
+{"tmdb_id": 213424, "title": "Star Quality", "original_title": "Star Quality", "slug_title": "star-quality", "date": "2002-06-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 291527, "title": "Shooter", "original_title": "Shooter", "slug_title": "shooter", "date": "1988-09-11", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3nZhlrIVays2KNRoq1YFQPQDUup.jpg", "actors": [], "comments": [], "recommandations_id": []}

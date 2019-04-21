@@ -1,0 +1,1 @@
+{"tmdb_id": 519992, "title": "L'affresco", "original_title": "L'affresco", "slug_title": "l-affresco", "date": "2000-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Alessandro Bettero ()", "Paolo Briguglia ()", "Jacqueline Lustig ()", "Sergio Ruffino ()"], "comments": [], "recommandations_id": []}

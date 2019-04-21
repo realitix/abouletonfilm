@@ -1,0 +1,1 @@
+{"tmdb_id": 327550, "title": "Father of Rabi", "original_title": "Abu Rabi", "slug_title": "father-of-rabi", "date": "1972-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Farid Shauqi ()", "Nagla' Fathi ()", "Mukhtar Aswad ()"], "comments": [], "recommandations_id": []}

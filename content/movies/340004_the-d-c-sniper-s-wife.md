@@ -1,0 +1,1 @@
+{"tmdb_id": 340004, "title": "The D.C. Sniper's Wife", "original_title": "The D.C. Sniper's Wife", "slug_title": "the-d-c-sniper-s-wife", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

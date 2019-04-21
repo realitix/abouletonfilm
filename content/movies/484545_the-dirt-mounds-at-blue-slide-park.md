@@ -1,0 +1,1 @@
+{"tmdb_id": 484545, "title": "The Dirt Mounds at Blue Slide Park", "original_title": "The Dirt Mounds at Blue Slide Park", "slug_title": "the-dirt-mounds-at-blue-slide-park", "date": "2018-04-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

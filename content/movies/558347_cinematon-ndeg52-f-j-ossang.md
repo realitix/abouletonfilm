@@ -1,0 +1,1 @@
+{"tmdb_id": 558347, "title": "Cin\u00e9maton n\u00b052: F.J. Ossang", "original_title": "Cin\u00e9maton n\u00b052: F.J. Ossang", "slug_title": "cinematon-ndeg52-f-j-ossang", "date": "1979-04-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["F.J. Ossang ()"], "comments": [], "recommandations_id": []}

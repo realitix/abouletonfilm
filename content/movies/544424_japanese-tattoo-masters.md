@@ -1,0 +1,1 @@
+{"tmdb_id": 544424, "title": "Japanese Tattoo Masters", "original_title": "Hori-Shi", "slug_title": "japanese-tattoo-masters", "date": "2008-12-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oXOX1tApho9Hq89MjA7K8NTYxr4.jpg", "actors": [], "comments": [], "recommandations_id": []}

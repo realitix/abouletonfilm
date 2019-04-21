@@ -1,0 +1,1 @@
+{"tmdb_id": 41918, "title": "The M.O. of M.I.", "original_title": "The M.O. of M.I.", "slug_title": "the-m-o-of-m-i", "date": "2002-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t878ueVTAzJdmh5oLlqMu8AAbfo.jpg", "actors": [], "comments": [], "recommandations_id": []}

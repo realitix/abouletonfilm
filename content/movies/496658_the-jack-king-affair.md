@@ -1,0 +1,1 @@
+{"tmdb_id": 496658, "title": "The Jack King Affair", "original_title": "L'affaire Jack King", "slug_title": "the-jack-king-affair", "date": "2015-01-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mvjkz2usZ1G3abagXiH7SzHyFfk.jpg", "actors": [], "comments": [], "recommandations_id": []}

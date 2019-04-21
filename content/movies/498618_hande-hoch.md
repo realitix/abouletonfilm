@@ -1,0 +1,1 @@
+{"tmdb_id": 498618, "title": "H\u00e4nde hoch", "original_title": "H\u00e4nde hoch", "slug_title": "hande-hoch", "date": "1942-10-22", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f9QwK8S2UYRuFfTiI6FOAuW0hWg.jpg", "actors": ["Erich Dunskus ()"], "comments": [], "recommandations_id": []}

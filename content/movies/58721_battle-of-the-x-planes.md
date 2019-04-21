@@ -1,0 +1,1 @@
+{"tmdb_id": 58721, "title": "Battle of the X-Planes", "original_title": "Battle of the X-Planes", "slug_title": "battle-of-the-x-planes", "date": "2003-02-04", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wWGuNDzy7nOezWnHZjM9VPRI9fe.jpg", "actors": [], "comments": [], "recommandations_id": []}

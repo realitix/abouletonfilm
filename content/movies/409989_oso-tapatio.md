@@ -1,0 +1,1 @@
+{"tmdb_id": 409989, "title": "Oso_tapat\u00edo", "original_title": "Oso_tapat\u00edo", "slug_title": "oso-tapatio", "date": "2014-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sKHFZ4j42PvgwLOl2a5KRQoSXRr.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 585652, "title": "Last One Screaming", "original_title": "Last One Screaming", "slug_title": "last-one-screaming", "date": "2018-05-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/19mClhDrUiKvcePknYJrEKQZ358.jpg", "actors": [], "comments": [], "recommandations_id": []}

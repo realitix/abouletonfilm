@@ -1,0 +1,1 @@
+{"tmdb_id": 421668, "title": "Lindo The Ultimate Rock Guitarist", "original_title": "Lindo The Ultimate Rock Guitarist", "slug_title": "lindo-the-ultimate-rock-guitarist", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sS3zecn829BdeuuOI2HQ2WD2HgD.jpg", "actors": [], "comments": [], "recommandations_id": []}

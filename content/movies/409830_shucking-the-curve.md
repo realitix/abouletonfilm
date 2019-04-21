@@ -1,0 +1,1 @@
+{"tmdb_id": 409830, "title": "Shucking the Curve", "original_title": "Shucking the Curve", "slug_title": "shucking-the-curve", "date": "1998-01-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/efsNryfZt8JMZNp4en5p6ROFX6K.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 407989, "title": "Farewell to Star Trek: The Experience", "original_title": "Farewell to Star Trek: The Experience", "slug_title": "farewell-to-star-trek-the-experience", "date": "2009-09-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

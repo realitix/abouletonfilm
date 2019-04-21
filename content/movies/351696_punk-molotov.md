@@ -1,0 +1,1 @@
+{"tmdb_id": 351696, "title": "Punk Molotov", "original_title": "Punk Molotov", "slug_title": "punk-molotov", "date": "1983-12-30", "genre": "Musique / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/be7JVE1uyVPbxztpQ9WN77sX35c.jpg", "actors": [], "comments": [], "recommandations_id": []}

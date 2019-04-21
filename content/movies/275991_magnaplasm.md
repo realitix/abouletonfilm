@@ -1,0 +1,1 @@
+{"tmdb_id": 275991, "title": "Magnaplasm", "original_title": "Magnaplasm", "slug_title": "magnaplasm", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 576800, "title": "The Italian Switzerland", "original_title": "Nella Svizzera italiana", "slug_title": "the-italian-switzerland", "date": "1910-06-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

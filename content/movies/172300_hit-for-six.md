@@ -1,0 +1,1 @@
+{"tmdb_id": 172300, "title": "Hit For Six", "original_title": "Hit For Six", "slug_title": "hit-for-six", "date": "", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/19UCd1L4AprhCgGC3djjzsM2TEF.jpg", "actors": [], "comments": [], "recommandations_id": []}

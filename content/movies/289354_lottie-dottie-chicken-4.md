@@ -1,0 +1,1 @@
+{"tmdb_id": 289354, "title": "Lottie Dottie Chicken 4", "original_title": "Galinha Pintadinha 4", "slug_title": "lottie-dottie-chicken-4", "date": "2014-08-29", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u9RYnZ6FKXZG0l8vONXWmBMXIyc.jpg", "actors": [], "comments": [], "recommandations_id": []}

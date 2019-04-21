@@ -1,0 +1,1 @@
+{"tmdb_id": 379056, "title": "Pink Aye", "original_title": "Pink Aye", "slug_title": "pink-aye", "date": "1974-05-16", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tsLQfRzUthjohknQkS8ENQcCY7C.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 400896, "title": "TENSAI BANPAKU", "original_title": "TENSAI BANPAKU", "slug_title": "tensai-banpaku", "date": "2014-12-29", "genre": "Animation", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qYYPap49xioy4r3XbGgKgJBmikf.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 395860, "title": "Cosmic Clock", "original_title": "Cosmic Clock", "slug_title": "cosmic-clock", "date": "1979-05-03", "genre": "Animation", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m3MoSQjic0qBTwYu2PnbKGoY4JZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

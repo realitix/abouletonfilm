@@ -1,0 +1,1 @@
+{"tmdb_id": 523745, "title": "Lonely Is An Eyesore", "original_title": "Lonely Is An Eyesore", "slug_title": "lonely-is-an-eyesore", "date": "1987-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

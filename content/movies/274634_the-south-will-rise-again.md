@@ -1,0 +1,1 @@
+{"tmdb_id": 274634, "title": "The South Will Rise Again", "original_title": "The South Will Rise Again", "slug_title": "the-south-will-rise-again", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qo8wipK1M8oBW1oFhihU144yiz1.jpg", "actors": [], "comments": [], "recommandations_id": []}

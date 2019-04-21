@@ -1,0 +1,1 @@
+{"tmdb_id": 328533, "title": "Mediterranean Seafood", "original_title": "Mediterranean Seafood", "slug_title": "mediterranean-seafood", "date": "2013-09-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 504038, "title": "Laruang buhay", "original_title": "Laruang buhay", "slug_title": "laruang-buhay", "date": "1998-07-29", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Aya Medel ()", "Sabrina M. ()", "Sheila Ysrael ()", "Raul Zaragosa ()"], "comments": [], "recommandations_id": []}

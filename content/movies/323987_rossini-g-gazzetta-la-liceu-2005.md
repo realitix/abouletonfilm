@@ -1,0 +1,1 @@
+{"tmdb_id": 323987, "title": "ROSSINI, G.: Gazzetta (La) (Liceu, 2005)", "original_title": "ROSSINI, G.: Gazzetta (La) (Liceu, 2005)", "slug_title": "rossini-g-gazzetta-la-liceu-2005", "date": "2013-06-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

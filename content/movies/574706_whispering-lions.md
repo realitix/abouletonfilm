@@ -1,0 +1,1 @@
+{"tmdb_id": 574706, "title": "Whispering Lions", "original_title": "Whispering Lions", "slug_title": "whispering-lions", "date": "1925-11-22", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

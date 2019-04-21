@@ -1,0 +1,1 @@
+{"tmdb_id": 425411, "title": "The Task of the Translator", "original_title": "The Task of the Translator", "slug_title": "the-task-of-the-translator", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tZRcyU7CYdo0HWj7FFLB8R0AHzA.jpg", "actors": [], "comments": [], "recommandations_id": []}

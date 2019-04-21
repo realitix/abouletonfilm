@@ -1,0 +1,1 @@
+{"tmdb_id": 291291, "title": "Kalinovski Square", "original_title": "Kalinovski Square", "slug_title": "kalinovski-square", "date": "2008-06-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vmd95HlD7PuO0JSefpidtBVgNeL.jpg", "actors": [], "comments": [], "recommandations_id": []}

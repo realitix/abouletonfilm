@@ -1,0 +1,1 @@
+{"tmdb_id": 314734, "title": "Aliens: The Complete Truth: We Are Not Alone", "original_title": "Aliens: The Complete Truth: We Are Not Alone", "slug_title": "aliens-the-complete-truth-we-are-not-alone", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

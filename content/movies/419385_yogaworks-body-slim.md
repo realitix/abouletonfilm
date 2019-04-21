@@ -1,0 +1,1 @@
+{"tmdb_id": 419385, "title": "Yogaworks - Body Slim", "original_title": "Yogaworks - Body Slim", "slug_title": "yogaworks-body-slim", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5VCMvxfLiCdo8lxAADTdhKoUM24.jpg", "actors": [], "comments": [], "recommandations_id": []}

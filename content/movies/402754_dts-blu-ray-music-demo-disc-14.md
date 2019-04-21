@@ -1,0 +1,1 @@
+{"tmdb_id": 402754, "title": "DTS Blu-Ray Music Demo Disc 14", "original_title": "DTS Blu-Ray Music Demo Disc 14", "slug_title": "dts-blu-ray-music-demo-disc-14", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

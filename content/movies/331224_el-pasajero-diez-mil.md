@@ -1,0 +1,1 @@
+{"tmdb_id": 331224, "title": "El pasajero diez mil", "original_title": "El pasajero diez mil", "slug_title": "el-pasajero-diez-mil", "date": "1946-08-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lilia Michel ()", "Jos\u00e9 El\u00edas Moreno ()", "Rafael Baled\u00f3n ()"], "comments": [], "recommandations_id": []}

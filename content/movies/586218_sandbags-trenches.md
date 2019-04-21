@@ -1,0 +1,1 @@
+{"tmdb_id": 586218, "title": "Sandbags & Trenches", "original_title": "Sandbags & Trenches", "slug_title": "sandbags-trenches", "date": "1979-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oTygm656mWp07MOUR3HUalXA4M5.jpg", "actors": [], "comments": [], "recommandations_id": []}

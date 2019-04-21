@@ -1,0 +1,1 @@
+{"tmdb_id": 577041, "title": "S\u0142o\u0144ce, to s\u0142o\u0144ce mnie o\u015blepi\u0142o", "original_title": "S\u0142o\u0144ce, to s\u0142o\u0144ce mnie o\u015blepi\u0142o", "slug_title": "slonce-to-slonce-mnie-oslepilo", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

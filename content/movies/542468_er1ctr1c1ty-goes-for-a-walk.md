@@ -1,0 +1,1 @@
+{"tmdb_id": 542468, "title": "Er1cTr1c1tY Goes for a Walk", "original_title": "Er1cTr1c1tY Goes for a Walk", "slug_title": "er1ctr1c1ty-goes-for-a-walk", "date": "2013-09-14", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6VRud2sYn2qgh3cr6ou7JImcpQg.jpg", "actors": [], "comments": [], "recommandations_id": []}

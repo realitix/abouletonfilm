@@ -1,0 +1,1 @@
+{"tmdb_id": 298526, "title": "St Mark's Gospel", "original_title": "St Mark's Gospel", "slug_title": "st-mark-s-gospel", "date": "1990-05-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sgJUcankux80DBA2boZiSbUgoJv.jpg", "actors": ["Alec McCowen ()"], "comments": [], "recommandations_id": []}

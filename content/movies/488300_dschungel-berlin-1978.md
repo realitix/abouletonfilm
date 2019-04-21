@@ -1,0 +1,1 @@
+{"tmdb_id": 488300, "title": "Dschungel Berlin 1978", "original_title": "Dschungel Berlin 1978", "slug_title": "dschungel-berlin-1978", "date": "1978-11-21", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i1BoSGQjqhmYp0llqHtMmebSnIR.jpg", "actors": [], "comments": [], "recommandations_id": []}

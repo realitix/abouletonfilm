@@ -1,0 +1,1 @@
+{"tmdb_id": 518050, "title": "Wallace & Gromit: The Aardman Collection 2", "original_title": "Wallace & Gromit: The Aardman Collection 2", "slug_title": "wallace-gromit-the-aardman-collection-2", "date": "", "genre": "Animation / Familial / Com\u00e9die", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

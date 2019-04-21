@@ -1,0 +1,1 @@
+{"tmdb_id": 508972, "title": "Jitterman", "original_title": "Jitterman", "slug_title": "jitterman", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jwB7owJ1v0AQ0c6O3RicPziOzfC.jpg", "actors": ["Naomi Petersen ()", "Tom Gordon ()"], "comments": [], "recommandations_id": []}

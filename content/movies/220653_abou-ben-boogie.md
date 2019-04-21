@@ -1,0 +1,1 @@
+{"tmdb_id": 220653, "title": "Abou Ben Boogie", "original_title": "Abou Ben Boogie", "slug_title": "abou-ben-boogie", "date": "1944-09-18", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9vJqfsXt6MP6Lr6v0Ey0K4lbT1L.jpg", "actors": [], "comments": [], "recommandations_id": []}

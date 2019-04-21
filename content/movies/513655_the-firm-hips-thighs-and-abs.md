@@ -1,0 +1,1 @@
+{"tmdb_id": 513655, "title": "The Firm: Hips, Thighs and Abs", "original_title": "The Firm: Hips, Thighs and Abs", "slug_title": "the-firm-hips-thighs-and-abs", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qU82EWX7nIF6WqCbr1YPSybehEt.jpg", "actors": [], "comments": [], "recommandations_id": []}

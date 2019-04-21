@@ -1,0 +1,1 @@
+{"tmdb_id": 321448, "title": "Old Rococo: The Life of Gioacchino Rossini", "original_title": "Old Rococo: The Life of Gioacchino Rossini", "slug_title": "old-rococo-the-life-of-gioacchino-rossini", "date": "1992-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

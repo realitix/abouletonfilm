@@ -1,0 +1,1 @@
+{"tmdb_id": 305349, "title": "Paathshala", "original_title": "Paathshala", "slug_title": "paathshala", "date": "2014-10-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qQi7umZSS8GI7l0ZkEpqPBr66oj.jpg", "actors": ["Shashank ()"], "comments": [], "recommandations_id": []}

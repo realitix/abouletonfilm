@@ -1,0 +1,1 @@
+{"tmdb_id": 574248, "title": "YouShoot: Lanny Poffo", "original_title": "YouShoot: Lanny Poffo", "slug_title": "youshoot-lanny-poffo", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sean Oliver (Himself)", "Lanny Mark Poffo (Himself)"], "comments": [], "recommandations_id": []}

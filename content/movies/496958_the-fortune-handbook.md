@@ -1,0 +1,1 @@
+{"tmdb_id": 496958, "title": "The Fortune Handbook", "original_title": "The Fortune Handbook", "slug_title": "the-fortune-handbook", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

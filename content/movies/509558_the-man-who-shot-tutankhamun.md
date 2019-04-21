@@ -1,0 +1,1 @@
+{"tmdb_id": 509558, "title": "The Man Who Shot Tutankhamun", "original_title": "The Man Who Shot Tutankhamun", "slug_title": "the-man-who-shot-tutankhamun", "date": "2017-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ohHwwahhaZiNynwpxw2kzFAFm4h.jpg", "actors": [], "comments": [], "recommandations_id": []}

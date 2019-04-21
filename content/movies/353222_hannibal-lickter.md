@@ -1,0 +1,1 @@
+{"tmdb_id": 353222, "title": "Hannibal Lickter", "original_title": "Hannibal Lickter", "slug_title": "hannibal-lickter", "date": "1992-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

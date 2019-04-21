@@ -1,0 +1,1 @@
+{"tmdb_id": 424308, "title": "Una donna spezzata", "original_title": "Una donna spezzata", "slug_title": "una-donna-spezzata", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ynl4vUOJCQtuYlqEsaT3fXX9RjW.jpg", "actors": ["Isabel Russinova ()"], "comments": [], "recommandations_id": []}

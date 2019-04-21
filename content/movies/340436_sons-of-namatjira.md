@@ -1,0 +1,1 @@
+{"tmdb_id": 340436, "title": "Sons of Namatjira", "original_title": "Sons of Namatjira", "slug_title": "sons-of-namatjira", "date": "1975-01-01", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/edooz0xGnepkGVrhASbqouvRSCe.jpg", "actors": [], "comments": [], "recommandations_id": []}

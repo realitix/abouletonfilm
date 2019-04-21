@@ -1,0 +1,1 @@
+{"tmdb_id": 420462, "title": "Quarta-Feira da Cinzas", "original_title": "Quarta-Feira da Cinzas", "slug_title": "quarta-feira-da-cinzas", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

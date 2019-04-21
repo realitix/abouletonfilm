@@ -1,0 +1,1 @@
+{"tmdb_id": 476377, "title": "Armed with Faith", "original_title": "Armed with Faith", "slug_title": "armed-with-faith", "date": "2017-09-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

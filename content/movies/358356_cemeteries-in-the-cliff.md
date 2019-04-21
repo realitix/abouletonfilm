@@ -1,0 +1,1 @@
+{"tmdb_id": 358356, "title": "Cemeteries in the Cliff", "original_title": "Cimeti\u00e8res dans la falaise", "slug_title": "cemeteries-in-the-cliff", "date": "1951-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tYfNTStJlPyYXKsAnTSXVupNMsb.jpg", "actors": [], "comments": [], "recommandations_id": []}

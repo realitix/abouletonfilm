@@ -1,0 +1,1 @@
+{"tmdb_id": 500299, "title": "Rehtori", "original_title": "Rehtori", "slug_title": "rehtori", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 374255, "title": "Translating Edwin Honig: A Poet's Alzheimer", "original_title": "Translating Edwin Honig: A Poet's Alzheimer", "slug_title": "translating-edwin-honig-a-poet-s-alzheimer", "date": "2010-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

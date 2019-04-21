@@ -1,0 +1,1 @@
+{"tmdb_id": 572073, "title": "Les jeunes Qu\u00e9b\u00e9coises", "original_title": "Les jeunes Qu\u00e9b\u00e9coises", "slug_title": "les-jeunes-quebecoises", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qv9pVoEqQC916WTIi4TB9kL6VT7.jpg", "actors": [], "comments": [], "recommandations_id": []}

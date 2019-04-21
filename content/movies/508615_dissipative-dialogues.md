@@ -1,0 +1,1 @@
+{"tmdb_id": 508615, "title": "Dissipative Dialogues", "original_title": "Dissipative Dialogues", "slug_title": "dissipative-dialogues", "date": "1982-03-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/arvrIvg8Lfsi7Z90icu2yGF1n0d.jpg", "actors": [], "comments": [], "recommandations_id": []}

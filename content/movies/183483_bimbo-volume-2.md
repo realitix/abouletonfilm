@@ -1,0 +1,1 @@
+{"tmdb_id": 183483, "title": "Bimbo Volume 2", "original_title": "Bimbo Volume 2", "slug_title": "bimbo-volume-2", "date": "2008-05-28", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bR8HHDegmMmjihPmbJttqkYNLKS.jpg", "actors": ["Yuka Ota (Herself)", "Myuu Natsume (Herself)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 443268, "title": "Rebel Rossa", "original_title": "Rebel Rossa", "slug_title": "rebel-rossa", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

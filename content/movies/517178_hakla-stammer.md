@@ -1,0 +1,1 @@
+{"tmdb_id": 517178, "title": "Hakla: Stammer", "original_title": "Hakla: Stammer", "slug_title": "hakla-stammer", "date": "2017-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a42wvdGZlCvG3ddSwIlhqAsqDSU.jpg", "actors": ["Andrea De Santiago ()", "Travis Herman ()"], "comments": [], "recommandations_id": []}

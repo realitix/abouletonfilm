@@ -1,0 +1,1 @@
+{"tmdb_id": 349812, "title": "\uafc8\uafb8\ub294 \uc2dd\ubb3c", "original_title": "\uafc8\uafb8\ub294 \uc2dd\ubb3c", "slug_title": "ggumgguneun-sigmul", "date": "1990-06-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

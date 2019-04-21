@@ -1,0 +1,1 @@
+{"tmdb_id": 560472, "title": "The Cost of Living", "original_title": "The Cost of Living", "slug_title": "the-cost-of-living", "date": "2018-08-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lorna Nickson Brown ()", "Jonathan Coote ()", "Liam Harkins ()"], "comments": [], "recommandations_id": []}

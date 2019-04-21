@@ -1,0 +1,1 @@
+{"tmdb_id": 525943, "title": "Strange Companions", "original_title": "Strange Companions", "slug_title": "strange-companions", "date": "1987-02-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

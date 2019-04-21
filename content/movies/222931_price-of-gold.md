@@ -1,0 +1,1 @@
+{"tmdb_id": 222931, "title": "Price Of Gold", "original_title": "Price Of Gold", "slug_title": "price-of-gold", "date": "2012-06-01", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yDZ4CMFqk32i6zoFwmbb7Ls3B17.jpg", "actors": [], "comments": [], "recommandations_id": []}

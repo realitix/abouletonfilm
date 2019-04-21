@@ -1,0 +1,1 @@
+{"tmdb_id": 477026, "title": "Life! Camera Action...", "original_title": "Life! Camera Action...", "slug_title": "life-camera-action", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

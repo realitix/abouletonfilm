@@ -1,0 +1,1 @@
+{"tmdb_id": 236275, "title": "Screwball Football", "original_title": "Screwball Football", "slug_title": "screwball-football", "date": "1939-12-15", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wTTS2mBlMZUnINGYEcLeKwyXCxg.jpg", "actors": [], "comments": [], "recommandations_id": []}

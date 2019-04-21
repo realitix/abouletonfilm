@@ -1,0 +1,1 @@
+{"tmdb_id": 503478, "title": "Wangdrak's Rain Boots", "original_title": "\u65fa\u624e\u7684\u96e8\u9774", "slug_title": "wangdrak-s-rain-boots", "date": "2018-02-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hLbhdHGM1XF5GJCmGTVDYYw8qbu.jpg", "actors": [], "comments": [], "recommandations_id": []}

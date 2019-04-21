@@ -1,0 +1,1 @@
+{"tmdb_id": 52133, "title": "\u0130nat Hikayeleri", "original_title": "\u0130nat Hikayeleri", "slug_title": "inat-hikayeleri", "date": "2004-03-05", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pAjstlVOotho95eI2vNYPJqkOLo.jpg", "actors": ["Tuncel Kurtiz ()"], "comments": [], "recommandations_id": []}

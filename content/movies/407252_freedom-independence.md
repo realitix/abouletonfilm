@@ -1,0 +1,1 @@
+{"tmdb_id": 407252, "title": "Freedom & Independence", "original_title": "Freedom & Independence", "slug_title": "freedom-independence", "date": "2015-04-23", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lG8gvM7v21iQmqe4r50GBAh08EA.jpg", "actors": ["Bj\u00f8rn Melhus ()"], "comments": [], "recommandations_id": []}

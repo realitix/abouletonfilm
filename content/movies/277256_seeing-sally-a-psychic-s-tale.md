@@ -1,0 +1,1 @@
+{"tmdb_id": 277256, "title": "Seeing Sally: A Psychic's Tale", "original_title": "Seeing Sally: A Psychic's Tale", "slug_title": "seeing-sally-a-psychic-s-tale", "date": "2007-04-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

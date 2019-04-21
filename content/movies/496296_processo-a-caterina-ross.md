@@ -1,0 +1,1 @@
+{"tmdb_id": 496296, "title": "Processo a Caterina Ross", "original_title": "Processo a Caterina Ross", "slug_title": "processo-a-caterina-ross", "date": "1982-01-01", "genre": "Drame / Histoire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Daniela Morelli (Caterina Ross)", "Massimo Sacilotto ()"], "comments": [], "recommandations_id": []}

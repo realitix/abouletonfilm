@@ -1,0 +1,1 @@
+{"tmdb_id": 279237, "title": "Jizo the Spook", "original_title": "Bake Jizo", "slug_title": "jizo-the-spook", "date": "1898-01-02", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

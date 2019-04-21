@@ -1,0 +1,1 @@
+{"tmdb_id": 349563, "title": "\ud0dc\uad8c \ud30c\uc774\ud130", "original_title": "\ud0dc\uad8c \ud30c\uc774\ud130", "slug_title": "taegweon-paiteo", "date": "1995-04-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

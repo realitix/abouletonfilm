@@ -1,0 +1,1 @@
+{"tmdb_id": 270611, "title": "Breaking: Los Angeles", "original_title": "Breaking: Los Angeles", "slug_title": "breaking-los-angeles", "date": "2013-10-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hOHLtqAh3alEwwqKndGmbkgs07J.jpg", "actors": [], "comments": [], "recommandations_id": []}

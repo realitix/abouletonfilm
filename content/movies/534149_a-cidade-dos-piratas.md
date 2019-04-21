@@ -1,0 +1,1 @@
+{"tmdb_id": 534149, "title": "A Cidade dos Piratas", "original_title": "A Cidade dos Piratas", "slug_title": "a-cidade-dos-piratas", "date": "2018-08-17", "genre": "Animation", "score": "7.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/epUD0SQ4ntQesPOQzfQCbl4Yj8S.jpg", "actors": [], "comments": [], "recommandations_id": [490039]}

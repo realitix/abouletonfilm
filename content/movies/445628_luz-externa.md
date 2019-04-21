@@ -1,0 +1,1 @@
+{"tmdb_id": 445628, "title": "Luz Externa", "original_title": "Luz Externa", "slug_title": "luz-externa", "date": "1974-03-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

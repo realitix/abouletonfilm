@@ -1,0 +1,1 @@
+{"tmdb_id": 443958, "title": "Ethics in the Computer Age", "original_title": "Ethics in the Computer Age", "slug_title": "ethics-in-the-computer-age", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 57896, "title": "Winx Club 23", "original_title": "Winx Club 23", "slug_title": "winx-club-23", "date": "2010-03-07", "genre": "Animation", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mzgHfXw8qw1mduwnxwgMn2i6y1D.jpg", "actors": [], "comments": [], "recommandations_id": []}

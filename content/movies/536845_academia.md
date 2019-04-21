@@ -1,0 +1,1 @@
+{"tmdb_id": 536845, "title": "Academia", "original_title": "Academia", "slug_title": "academia", "date": "", "genre": "Horreur / Drame / Thriller", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n8Cv4Nvla0UMF4TRMDh0wskQm7a.jpg", "actors": [], "comments": [], "recommandations_id": []}

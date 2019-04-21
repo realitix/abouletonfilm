@@ -1,0 +1,1 @@
+{"tmdb_id": 332909, "title": "Stray Bullet", "original_title": "Stray Bullet", "slug_title": "stray-bullet", "date": "2010-08-03", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ipO6EvnHHL7VNu08knD4qaTOowI.jpg", "actors": [], "comments": [], "recommandations_id": []}

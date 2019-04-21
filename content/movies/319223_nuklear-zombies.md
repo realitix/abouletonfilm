@@ -1,0 +1,1 @@
+{"tmdb_id": 319223, "title": "Nuklear Zombies", "original_title": "Nuklear Zombies", "slug_title": "nuklear-zombies", "date": "1989-06-05", "genre": "Animation / Horreur / Science-Fiction", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xltJ91fQqvCJrsGjRGKS17RmnDr.jpg", "actors": [], "comments": [], "recommandations_id": []}

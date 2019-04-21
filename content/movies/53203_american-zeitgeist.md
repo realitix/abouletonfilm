@@ -1,0 +1,1 @@
+{"tmdb_id": 53203, "title": "American Zeitgeist", "original_title": "American Zeitgeist", "slug_title": "american-zeitgeist", "date": "2006-01-01", "genre": "", "score": "6.3/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

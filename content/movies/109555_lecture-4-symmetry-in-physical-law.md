@@ -1,0 +1,1 @@
+{"tmdb_id": 109555, "title": "Lecture 4: Symmetry in Physical Law", "original_title": "Lecture 4: Symmetry in Physical Law", "slug_title": "lecture-4-symmetry-in-physical-law", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Richard Feynman (Himself)"], "comments": [], "recommandations_id": []}

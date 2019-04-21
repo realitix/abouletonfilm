@@ -1,0 +1,1 @@
+{"tmdb_id": 304137, "title": "Pratibandh", "original_title": "Pratibandh", "slug_title": "pratibandh", "date": "1990-09-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ra9Gk5yVIvXnJBkUdH5NKnaJ7sM.jpg", "actors": ["Chiranjeevi ()", "Juhi Chawla ()", "Allu Sirish ()"], "comments": [], "recommandations_id": []}

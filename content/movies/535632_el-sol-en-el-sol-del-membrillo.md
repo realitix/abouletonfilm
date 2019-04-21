@@ -1,0 +1,1 @@
+{"tmdb_id": 535632, "title": "El sol en El sol del membrillo", "original_title": "El sol en El sol del membrillo", "slug_title": "el-sol-en-el-sol-del-membrillo", "date": "2008-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/maCAOeU2CuFcWoz0MmQBnBWGSvf.jpg", "actors": [], "comments": [], "recommandations_id": []}

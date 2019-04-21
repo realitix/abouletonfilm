@@ -1,0 +1,1 @@
+{"tmdb_id": 483304, "title": "Araku Road Lo \u2013 Bumpy Ride", "original_title": "Araku Road Lo \u2013 Bumpy Ride", "slug_title": "araku-road-lo-bumpy-ride", "date": "", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sai Ram Shankar (Poturaju)"], "comments": [], "recommandations_id": []}

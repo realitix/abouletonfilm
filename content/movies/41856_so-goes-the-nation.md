@@ -1,0 +1,1 @@
+{"tmdb_id": 41856, "title": "...So Goes the Nation", "original_title": "...So Goes the Nation", "slug_title": "so-goes-the-nation", "date": "2006-01-01", "genre": "Documentaire", "score": "6.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fSqbNXTKUGxDkCKGFqyqU8innQ0.jpg", "actors": [], "comments": [], "recommandations_id": []}

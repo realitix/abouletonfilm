@@ -1,0 +1,1 @@
+{"tmdb_id": 252658, "title": "Cut'n It Up: Chicago", "original_title": "Cut'n It Up: Chicago", "slug_title": "cut-n-it-up-chicago", "date": "2008-01-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

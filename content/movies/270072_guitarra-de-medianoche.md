@@ -1,0 +1,1 @@
+{"tmdb_id": 270072, "title": "Guitarra de medianoche", "original_title": "Guitarra de medianoche", "slug_title": "guitarra-de-medianoche", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

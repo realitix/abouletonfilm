@@ -1,0 +1,1 @@
+{"tmdb_id": 355741, "title": "Ibitipoca, Droba pra L\u00e1", "original_title": "Ibitipoca, Droba pra L\u00e1", "slug_title": "ibitipoca-droba-pra-la", "date": "2012-08-17", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wmprTzmJu7SD8e1CrWzSrPF9w4L.jpg", "actors": [], "comments": [], "recommandations_id": []}

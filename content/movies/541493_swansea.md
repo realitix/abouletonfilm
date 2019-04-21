@@ -1,0 +1,1 @@
+{"tmdb_id": 541493, "title": "Swansea", "original_title": "Swansea", "slug_title": "swansea", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

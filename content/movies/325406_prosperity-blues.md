@@ -1,0 +1,1 @@
+{"tmdb_id": 325406, "title": "Prosperity Blues", "original_title": "Prosperity Blues", "slug_title": "prosperity-blues", "date": "1932-10-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

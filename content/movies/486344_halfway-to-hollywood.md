@@ -1,0 +1,1 @@
+{"tmdb_id": 486344, "title": "Halfway to Hollywood", "original_title": "Halfway to Hollywood", "slug_title": "halfway-to-hollywood", "date": "1938-07-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tom Kennedy (Tom)", "Johnny Arthur (Johnny)"], "comments": [], "recommandations_id": []}

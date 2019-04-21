@@ -1,0 +1,1 @@
+{"tmdb_id": 347498, "title": "Drug Addiction", "original_title": "Drug Addiction", "slug_title": "drug-addiction", "date": "1951-01-01", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["John Galvarro (Marty Malone)", "James Brill (Narrator)"], "comments": [], "recommandations_id": []}

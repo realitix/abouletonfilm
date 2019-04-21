@@ -1,0 +1,1 @@
+{"tmdb_id": 428126, "title": "Pasmaidi, Draugs!", "original_title": "Pasmaidi, Draugs!", "slug_title": "pasmaidi-draugs", "date": "2007-10-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5jqwoTq3GPJnLRI9ejjSzJA1ErU.jpg", "actors": [], "comments": [], "recommandations_id": []}

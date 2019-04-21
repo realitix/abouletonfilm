@@ -1,0 +1,1 @@
+{"tmdb_id": 286160, "title": "The Retaliation", "original_title": "The Retaliation", "slug_title": "the-retaliation", "date": "1975-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

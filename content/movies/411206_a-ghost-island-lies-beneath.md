@@ -1,0 +1,1 @@
+{"tmdb_id": 411206, "title": "A Ghost Island Lies Beneath", "original_title": "A Ghost Island Lies Beneath", "slug_title": "a-ghost-island-lies-beneath", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

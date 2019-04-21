@@ -1,0 +1,1 @@
+{"tmdb_id": 416833, "title": "Un haz de luz en el tejado", "original_title": "Un haz de luz en el tejado", "slug_title": "un-haz-de-luz-en-el-tejado", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pCEwcx2wiFn3PlxoOcGuUeqeswG.jpg", "actors": [], "comments": [], "recommandations_id": []}

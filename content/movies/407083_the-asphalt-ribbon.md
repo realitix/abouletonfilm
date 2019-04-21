@@ -1,0 +1,1 @@
+{"tmdb_id": 407083, "title": "The Asphalt Ribbon", "original_title": "The Asphalt Ribbon", "slug_title": "the-asphalt-ribbon", "date": "1977-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tHJPque5zjqUCfyMGFWqx5QedU9.jpg", "actors": [], "comments": [], "recommandations_id": []}

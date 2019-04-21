@@ -1,0 +1,1 @@
+{"tmdb_id": 477586, "title": "Good Kids", "original_title": "Good Kids", "slug_title": "good-kids", "date": "2016-03-01", "genre": "Drame", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k2VSrYwNKqXzsjIy7fWsrhVJlE7.jpg", "actors": ["Kari White (Mrs. Mathis)"], "comments": [], "recommandations_id": []}

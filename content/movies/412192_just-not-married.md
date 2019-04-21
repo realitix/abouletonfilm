@@ -1,0 +1,1 @@
+{"tmdb_id": 412192, "title": "Just Not Married", "original_title": "Just Not Married", "slug_title": "just-not-married", "date": "2016-05-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

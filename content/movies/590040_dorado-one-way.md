@@ -1,0 +1,1 @@
+{"tmdb_id": 590040, "title": "Dorado - One Way", "original_title": "Dorado - One Way", "slug_title": "dorado-one-way", "date": "1984-06-08", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Adriana Altaras (Rita)", "Uwe B\u00fcschken (Frank)", "Peter Schlesinger (Bredow)"], "comments": [], "recommandations_id": []}

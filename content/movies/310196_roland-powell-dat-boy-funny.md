@@ -1,0 +1,1 @@
+{"tmdb_id": 310196, "title": "Roland Powell: Dat Boy Funny", "original_title": "Roland Powell: Dat Boy Funny", "slug_title": "roland-powell-dat-boy-funny", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

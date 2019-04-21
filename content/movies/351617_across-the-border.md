@@ -1,0 +1,1 @@
+{"tmdb_id": 351617, "title": "Across the Border", "original_title": "Across the Border", "slug_title": "across-the-border", "date": "1982-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/reTo2oSzt8citgVrwBfyY1N67c9.jpg", "actors": ["Philippe Bourgois (Himself)"], "comments": [], "recommandations_id": []}

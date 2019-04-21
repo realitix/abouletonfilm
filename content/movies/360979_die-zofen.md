@@ -1,0 +1,1 @@
+{"tmdb_id": 360979, "title": "Die Zofen", "original_title": "Die Zofen", "slug_title": "die-zofen", "date": "2008-12-02", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Caroline Peters (Claire)", "Sophie Rois (Solange)", "Edith Clever (Gn\u00e4dige Frau)"], "comments": [], "recommandations_id": []}

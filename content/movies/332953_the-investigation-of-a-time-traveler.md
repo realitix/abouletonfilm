@@ -1,0 +1,1 @@
+{"tmdb_id": 332953, "title": "The Investigation of a Time Traveler", "original_title": "The Investigation of a Time Traveler", "slug_title": "the-investigation-of-a-time-traveler", "date": "2014-03-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

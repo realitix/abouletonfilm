@@ -1,0 +1,1 @@
+{"tmdb_id": 277293, "title": "A Cantor's Tale", "original_title": "A Cantor's Tale", "slug_title": "a-cantor-s-tale", "date": "2005-07-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

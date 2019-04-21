@@ -1,0 +1,1 @@
+{"tmdb_id": 540774, "title": "Plano Controle", "original_title": "Plano Controle", "slug_title": "plano-controle", "date": "2018-09-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4Nq0y6fGmPY0VIMEyAsxnvqDMGW.jpg", "actors": [], "comments": [], "recommandations_id": []}

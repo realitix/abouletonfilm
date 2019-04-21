@@ -1,0 +1,1 @@
+{"tmdb_id": 307075, "title": "News Item", "original_title": "Fait-Divers", "slug_title": "news-item", "date": "1923-12-01", "genre": "Drame", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u2XLaEJFN9bpIWYhurzmudBo1EW.jpg", "actors": ["Madame Lara (wife)", "Antonin Artaud (husband)"], "comments": [], "recommandations_id": []}

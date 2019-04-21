@@ -1,0 +1,1 @@
+{"tmdb_id": 33857, "title": "Bye-Bye Bin Laden", "original_title": "Bye-Bye Bin Laden", "slug_title": "bye-bye-bin-laden", "date": "2009-01-01", "genre": "Animation / Com\u00e9die / Musique", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fp3IK2R1zww31UoBoKwZ1f1OcRl.jpg", "actors": [], "comments": [], "recommandations_id": []}

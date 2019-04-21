@@ -1,0 +1,1 @@
+{"tmdb_id": 346131, "title": "El don de los espejos", "original_title": "El don de los espejos", "slug_title": "el-don-de-los-espejos", "date": "2014-10-20", "genre": "Aventure / Animation", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e5isCiwMdktKAd3hLn3AtDd1RqD.jpg", "actors": [], "comments": [], "recommandations_id": []}

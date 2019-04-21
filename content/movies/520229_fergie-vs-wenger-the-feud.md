@@ -1,0 +1,1 @@
+{"tmdb_id": 520229, "title": "Fergie Vs Wenger: The Feud", "original_title": "Fergie Vs Wenger: The Feud", "slug_title": "fergie-vs-wenger-the-feud", "date": "2018-04-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lAWYl6DF0H2x6SkjFsYOdkvXWlB.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 236434, "title": "Good Night Elmer", "original_title": "Good Night Elmer", "slug_title": "good-night-elmer", "date": "1940-10-25", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aaLZfKRE7ABMG8x5MDAtqw9wOBT.jpg", "actors": ["Mel Blanc (Elmer Fudd (voice))"], "comments": [], "recommandations_id": []}

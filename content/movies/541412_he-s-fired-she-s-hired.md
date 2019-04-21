@@ -1,0 +1,1 @@
+{"tmdb_id": 541412, "title": "He's Fired, She's Hired", "original_title": "He's Fired, She's Hired", "slug_title": "he-s-fired-she-s-hired", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 278952, "title": "Double Edge", "original_title": "Double Edge", "slug_title": "double-edge", "date": "1992-03-22", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cN4vrmNSXba3NQPjGvi2HuWVfbE.jpg", "actors": [], "comments": [], "recommandations_id": []}

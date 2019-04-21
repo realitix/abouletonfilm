@@ -1,0 +1,1 @@
+{"tmdb_id": 508756, "title": "Hospital de Pobres", "original_title": "Hospital de Pobres", "slug_title": "hospital-de-pobres", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/618jytVb7oPbSomLHi8t7IPM82B.jpg", "actors": [], "comments": [], "recommandations_id": []}

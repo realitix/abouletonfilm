@@ -1,0 +1,1 @@
+{"tmdb_id": 488979, "title": "Absence", "original_title": "Ausencia", "slug_title": "absence", "date": "2013-01-01", "genre": "Familial / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mFIpp8gbS4crBnL3lHOhbMQfCGF.jpg", "actors": ["Daniela Mas\u00eds ()", "Adri\u00e1n V\u00edquez ()"], "comments": [], "recommandations_id": []}

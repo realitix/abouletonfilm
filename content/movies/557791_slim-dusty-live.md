@@ -1,0 +1,1 @@
+{"tmdb_id": 557791, "title": "Slim Dusty Live", "original_title": "Slim Dusty Live", "slug_title": "slim-dusty-live", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2o4PGThoaF2xOXvNqOjHZNlMNfb.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 217605, "title": "The Grave Digger", "original_title": "A s\u00edr\u00e1s\u00f3", "slug_title": "the-grave-digger", "date": "2010-01-01", "genre": "", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mkKPOkcUVgCrGgjxsfTsspmiVgr.jpg", "actors": ["Zolt\u00e1n Mucsi ()"], "comments": [], "recommandations_id": []}

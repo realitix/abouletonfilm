@@ -1,0 +1,1 @@
+{"tmdb_id": 361178, "title": "Catharsis", "original_title": "Catharsis", "slug_title": "catharsis", "date": "1967-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

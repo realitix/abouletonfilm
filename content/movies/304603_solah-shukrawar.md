@@ -1,0 +1,1 @@
+{"tmdb_id": 304603, "title": "Solah Shukrawar", "original_title": "Solah Shukrawar", "slug_title": "solah-shukrawar", "date": "1977-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

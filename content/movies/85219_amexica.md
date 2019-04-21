@@ -1,0 +1,1 @@
+{"tmdb_id": 85219, "title": "Amexica", "original_title": "Amexica", "slug_title": "amexica", "date": "2010-04-25", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5cP5iKA6QWZDkaZnx99v4WbRRhd.jpg", "actors": ["Joseph Ferrante (Man)", "AnnaLynne McCord (Woman)"], "comments": [], "recommandations_id": []}

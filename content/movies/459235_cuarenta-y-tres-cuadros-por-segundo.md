@@ -1,0 +1,1 @@
+{"tmdb_id": 459235, "title": "Cuarenta y tres cuadros por segundo", "original_title": "Cuarenta y tres cuadros por segundo", "slug_title": "cuarenta-y-tres-cuadros-por-segundo", "date": "2016-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

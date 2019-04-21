@@ -1,0 +1,1 @@
+{"tmdb_id": 514985, "title": "JUST A CHILD", "original_title": "JUST A CHILD", "slug_title": "just-a-child", "date": "", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pE1fZCAA3AQ8II64uVK7jtiWjlm.jpg", "actors": ["Chiara Pavoni (Barbara)", "Edo Tagliavini (Anthony)"], "comments": [], "recommandations_id": []}

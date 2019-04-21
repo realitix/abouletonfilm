@@ -1,0 +1,1 @@
+{"tmdb_id": 114631, "title": "Wishbone Ash at Rockpalast", "original_title": "Wishbone Ash at Rockpalast", "slug_title": "wishbone-ash-at-rockpalast", "date": "", "genre": "", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g9rIIDAlwwDPZShulvDnX3FvxrJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

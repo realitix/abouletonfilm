@@ -1,0 +1,1 @@
+{"tmdb_id": 311894, "title": "Bobby Short at the Cafe Carlyle", "original_title": "Bobby Short at the Cafe Carlyle", "slug_title": "bobby-short-at-the-cafe-carlyle", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

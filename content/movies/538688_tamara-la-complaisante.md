@@ -1,0 +1,1 @@
+{"tmdb_id": 538688, "title": "Tamara la complaisante", "original_title": "Tamara la complaisante", "slug_title": "tamara-la-complaisante", "date": "1938-02-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8FYXazJMSd6fUQONxPQuszWAeJj.jpg", "actors": [], "comments": [], "recommandations_id": []}

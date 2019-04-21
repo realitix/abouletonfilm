@@ -1,0 +1,1 @@
+{"tmdb_id": 416705, "title": "A Country Affair", "original_title": "\ubd88\ud0c0\ub294 \uc2e0\ub85d", "slug_title": "a-country-affair", "date": "1984-05-26", "genre": "Familial / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l3BC7uLsATOBHmUlBetkC6ZbWgm.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 346277, "title": "Berg's fatalism", "original_title": "Berg's fatalism", "slug_title": "berg-s-fatalism", "date": "2015-01-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5GdwIBPadYq4He4OpO0TNMiIkmh.jpg", "actors": [], "comments": [], "recommandations_id": []}

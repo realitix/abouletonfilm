@@ -1,0 +1,1 @@
+{"tmdb_id": 539170, "title": "Our Husband", "original_title": "Chunlei", "slug_title": "our-husband", "date": "1949-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Li Li-Hua ()", "Jinglu Sun ()", "Yan Hua ()", "Wei Wang ()", "Jiang Ming ()"], "comments": [], "recommandations_id": []}

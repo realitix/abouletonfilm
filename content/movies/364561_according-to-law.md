@@ -1,0 +1,1 @@
+{"tmdb_id": 364561, "title": "According to Law", "original_title": "Enligt lag", "slug_title": "according-to-law", "date": "1957-01-01", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rgdzVjtLIxpJuwYAcRnp4BAl3bL.jpg", "actors": [], "comments": [], "recommandations_id": []}

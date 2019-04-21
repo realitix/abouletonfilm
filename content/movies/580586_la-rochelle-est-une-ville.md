@@ -1,0 +1,1 @@
+{"tmdb_id": 580586, "title": "La Rochelle est une ville", "original_title": "La Rochelle est une ville", "slug_title": "la-rochelle-est-une-ville", "date": "2011-07-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

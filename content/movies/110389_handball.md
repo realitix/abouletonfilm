@@ -1,0 +1,1 @@
+{"tmdb_id": 110389, "title": "Handball", "original_title": "Handball", "slug_title": "handball", "date": "2012-05-18", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Walter Koenig (Captain)", "Herbert Jefferson Jr. ()"], "comments": [], "recommandations_id": []}

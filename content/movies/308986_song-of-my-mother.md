@@ -1,0 +1,1 @@
+{"tmdb_id": 308986, "title": "Song of my mother", "original_title": "Annemin sarkisi", "slug_title": "song-of-my-mother", "date": "2014-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5A3kyfFWecTJbA2cnjyJXGPEJcg.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 594221, "title": "Quicksilver Chronicles", "original_title": "Quicksilver Chronicles", "slug_title": "quicksilver-chronicles", "date": "2019-04-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kate Woods (herself)", "Kemp Woods (himself)", "Tom Chargin (himself)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 80953, "title": "Kurzschlu\u00df", "original_title": "Kurzschlu\u00df", "slug_title": "kurzschluss", "date": "1933-12-07", "genre": "Com\u00e9die", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hans Moser (Seicherl, Elektriker)", "Annie Rosar (Wohnungsinhaberin)", "Ren\u00e9e Rosar ()"], "comments": [], "recommandations_id": []}

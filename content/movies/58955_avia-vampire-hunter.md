@@ -1,0 +1,1 @@
+{"tmdb_id": 58955, "title": "Avia: Vampire Hunter", "original_title": "Avia: Vampire Hunter", "slug_title": "avia-vampire-hunter", "date": "2005-06-21", "genre": "Horreur", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1Td62faCfw1sl8aFdC9d5Fm9be1.jpg", "actors": [], "comments": [], "recommandations_id": []}

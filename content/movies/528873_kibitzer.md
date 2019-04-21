@@ -1,0 +1,1 @@
+{"tmdb_id": 528873, "title": "Kibitzer", "original_title": "Kibitzer", "slug_title": "kibitzer", "date": "2000-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

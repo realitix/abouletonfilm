@@ -1,0 +1,1 @@
+{"tmdb_id": 574186, "title": "Stramilano", "original_title": "Stramilano", "slug_title": "stramilano", "date": "1929-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

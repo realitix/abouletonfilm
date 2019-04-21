@@ -1,0 +1,1 @@
+{"tmdb_id": 242190, "title": "P\u00e9ricles - Nos Arcos da Lapa", "original_title": "P\u00e9ricles - Nos Arcos da Lapa", "slug_title": "pericles-nos-arcos-da-lapa", "date": "2013-12-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rCe3rfyFLvhDhhs4vWwdGaYouF5.jpg", "actors": [], "comments": [], "recommandations_id": []}

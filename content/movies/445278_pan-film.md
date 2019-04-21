@@ -1,0 +1,1 @@
+{"tmdb_id": 445278, "title": "Pan Film", "original_title": "Pan Film", "slug_title": "pan-film", "date": "1972-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

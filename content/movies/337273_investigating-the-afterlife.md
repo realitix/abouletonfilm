@@ -1,0 +1,1 @@
+{"tmdb_id": 337273, "title": "Investigating the Afterlife", "original_title": "Investigating the Afterlife", "slug_title": "investigating-the-afterlife", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iN0GyiJn7E9RPhe2jJE0lDXeOXg.jpg", "actors": [], "comments": [], "recommandations_id": []}

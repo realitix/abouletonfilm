@@ -1,0 +1,1 @@
+{"tmdb_id": 366522, "title": "Sofies Verden", "original_title": "Sofies Verden", "slug_title": "sofies-verden", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 529472, "title": "Fight the Kickboxer", "original_title": "Fight the Kickboxer", "slug_title": "fight-the-kickboxer", "date": "1990-04-22", "genre": "Action", "score": "1.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Eddie Andre (Terry)", "Nick Brandon (Rough Tati)"], "comments": [], "recommandations_id": []}

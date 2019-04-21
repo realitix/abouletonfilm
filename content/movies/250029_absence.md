@@ -1,0 +1,1 @@
+{"tmdb_id": 250029, "title": "Absence", "original_title": "L'Absence", "slug_title": "absence", "date": "1992-04-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gRYyW0dVMKW2v1yS6Rznvxg0UIf.jpg", "actors": ["Jenny Alpha ()", "Eustaquio Barjau ()", "Evgen Bavcar ()"], "comments": [], "recommandations_id": []}

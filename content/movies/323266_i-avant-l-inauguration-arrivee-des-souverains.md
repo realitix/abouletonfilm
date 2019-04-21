@@ -1,0 +1,1 @@
+{"tmdb_id": 323266, "title": "I. Avant l'inauguration. Arriv\u00e9e des souverains", "original_title": "I. Avant l'inauguration. Arriv\u00e9e des souverains", "slug_title": "i-avant-l-inauguration-arrivee-des-souverains", "date": "1896-10-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

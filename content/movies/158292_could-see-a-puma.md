@@ -1,0 +1,1 @@
+{"tmdb_id": 158292, "title": "Could See a Puma", "original_title": "Pude ver un puma", "slug_title": "could-see-a-puma", "date": "2011-10-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hJIEne3KneyOWopOxYI8FR4oXB2.jpg", "actors": [], "comments": [], "recommandations_id": [128941, 145013, 125713, 47448]}

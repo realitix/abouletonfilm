@@ -1,0 +1,1 @@
+{"tmdb_id": 433412, "title": "Live from Dhaka", "original_title": "Live from Dhaka", "slug_title": "live-from-dhaka", "date": "2016-12-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4ITWZdWD0jsK1FcTUurRcCmYsoT.jpg", "actors": [], "comments": [], "recommandations_id": []}

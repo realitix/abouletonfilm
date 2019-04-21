@@ -1,0 +1,1 @@
+{"tmdb_id": 184541, "title": "Swat the Fly", "original_title": "Swat the Fly", "slug_title": "swat-the-fly", "date": "1935-04-18", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

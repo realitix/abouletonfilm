@@ -1,0 +1,1 @@
+{"tmdb_id": 583591, "title": "Daughters", "original_title": "Nu er", "slug_title": "daughters", "date": "2010-04-02", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lAxqid1j1t13ZACg4ow6KU05IIA.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 571445, "title": "Bon Jovi In Rio De Janeiro", "original_title": "Bon Jovi In Rio De Janeiro", "slug_title": "bon-jovi-in-rio-de-janeiro", "date": "", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2xm0MmTd144FqOarmMH4f66be0E.jpg", "actors": [], "comments": [], "recommandations_id": []}

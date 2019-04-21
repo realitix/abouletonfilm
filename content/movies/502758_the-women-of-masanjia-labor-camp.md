@@ -1,0 +1,1 @@
+{"tmdb_id": 502758, "title": "The Women of Masanjia Labor Camp", "original_title": "The Women of Masanjia Labor Camp", "slug_title": "the-women-of-masanjia-labor-camp", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bin Du (Director)"], "comments": [], "recommandations_id": []}

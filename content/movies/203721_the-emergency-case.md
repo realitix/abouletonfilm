@@ -1,0 +1,1 @@
+{"tmdb_id": 203721, "title": "The Emergency Case", "original_title": "The Emergency Case", "slug_title": "the-emergency-case", "date": "1930-09-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hugh Cameron (Ned Brown)", "Loretta Shea (Sick Wife)", "Al Ochs (Policeman)"], "comments": [], "recommandations_id": []}

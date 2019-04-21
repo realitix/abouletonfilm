@@ -1,0 +1,1 @@
+{"tmdb_id": 165318, "title": "Magnum: Live Legends", "original_title": "Magnum: Live Legends", "slug_title": "magnum-live-legends", "date": "2004-06-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mVuDj0UYM7PzRKJyUAercPZuov2.jpg", "actors": [], "comments": [], "recommandations_id": []}

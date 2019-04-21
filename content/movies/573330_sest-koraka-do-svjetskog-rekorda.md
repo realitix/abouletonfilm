@@ -1,0 +1,1 @@
+{"tmdb_id": 573330, "title": "Sest koraka... do svjetskog rekorda", "original_title": "Sest koraka... do svjetskog rekorda", "slug_title": "sest-koraka-do-svjetskog-rekorda", "date": "1967-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Vera Nikoli\u0107 (Himself)"], "comments": [], "recommandations_id": []}

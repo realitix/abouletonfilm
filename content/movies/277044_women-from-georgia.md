@@ -1,0 +1,1 @@
+{"tmdb_id": 277044, "title": "Women from Georgia", "original_title": "Women from Georgia", "slug_title": "women-from-georgia", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 36023, "title": "Police State 2000", "original_title": "Police State", "slug_title": "police-state-2000", "date": "1999-01-04", "genre": "Documentaire", "score": "4.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bBTmlSOpqRnKACVf0sZkjsNGQjU.jpg", "actors": ["Alex Jones (Host)"], "comments": [], "recommandations_id": []}

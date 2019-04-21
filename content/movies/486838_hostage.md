@@ -1,0 +1,1 @@
+{"tmdb_id": 486838, "title": "Hostage", "original_title": "Hostage", "slug_title": "hostage", "date": "1986-05-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Innocent Gumede ()", "Pepsi Mabizela ()", "Zanele Nyidi ()"], "comments": [], "recommandations_id": []}

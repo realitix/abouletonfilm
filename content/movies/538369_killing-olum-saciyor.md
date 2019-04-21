@@ -1,0 +1,1 @@
+{"tmdb_id": 538369, "title": "Killing \u00f6l\u00fcm sa\u00e7iyor", "original_title": "Killing \u00f6l\u00fcm sa\u00e7iyor", "slug_title": "killing-olum-saciyor", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mIDnm3ORsvVWdiWNg3OJxU2pcsk.jpg", "actors": [], "comments": [], "recommandations_id": []}

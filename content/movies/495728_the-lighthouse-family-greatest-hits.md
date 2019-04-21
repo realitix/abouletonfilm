@@ -1,0 +1,1 @@
+{"tmdb_id": 495728, "title": "The Lighthouse Family: Greatest Hits", "original_title": "The Lighthouse Family: Greatest Hits", "slug_title": "the-lighthouse-family-greatest-hits", "date": "2002-01-02", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

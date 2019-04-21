@@ -1,0 +1,1 @@
+{"tmdb_id": 567436, "title": "Chuck's Will's Widow", "original_title": "Chuck's Will's Widow", "slug_title": "chuck-s-will-s-widow", "date": "1982-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

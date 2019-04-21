@@ -1,0 +1,1 @@
+{"tmdb_id": 525958, "title": "Public Enemy", "original_title": "Public Enemy", "slug_title": "public-enemy", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Channing Tatum ()", "LeBron James ()"], "comments": [], "recommandations_id": []}

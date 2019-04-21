@@ -1,0 +1,1 @@
+{"tmdb_id": 566524, "title": "Stray Bullets", "original_title": "Balles perdues", "slug_title": "stray-bullets", "date": "1983-04-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AhaFmyCP0PaTIrQzsLvPxMiNy4B.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 559865, "title": "Girl from Maxim's", "original_title": "La dame de chez Maxim", "slug_title": "girl-from-maxim-s", "date": "1950-09-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r3QRQcrkwnzIUnoJuuOk8wC2kgS.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 549981, "title": "Bathing", "original_title": "Bathing", "slug_title": "bathing", "date": "2018-09-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

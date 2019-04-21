@@ -1,0 +1,1 @@
+{"tmdb_id": 362282, "title": "Drama Station", "original_title": "Drama Station", "slug_title": "drama-station", "date": "2015-02-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lv2KVc7x0v2j35TRaVdaMSrU614.jpg", "actors": ["Reji Hidalgo ()", "Burn De Guzman ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 583485, "title": "Newsprint", "original_title": "Newsprint", "slug_title": "newsprint", "date": "1972-09-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o759rJ3BY5NLQesAqN7hePDFys8.jpg", "actors": [], "comments": [], "recommandations_id": []}

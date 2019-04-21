@@ -1,0 +1,1 @@
+{"tmdb_id": 127255, "title": "The Moon and the Sledgehammer", "original_title": "The Moon and the Sledgehammer", "slug_title": "the-moon-and-the-sledgehammer", "date": "1971-08-22", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xnrnCW2f2I2gYIhbuh7IoAAlBwB.jpg", "actors": [], "comments": [], "recommandations_id": []}

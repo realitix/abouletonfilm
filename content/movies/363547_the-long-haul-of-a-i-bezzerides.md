@@ -1,0 +1,1 @@
+{"tmdb_id": 363547, "title": "The Long Haul of A.I. Bezzerides", "original_title": "The Long Haul of A.I. Bezzerides", "slug_title": "the-long-haul-of-a-i-bezzerides", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

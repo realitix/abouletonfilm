@@ -1,0 +1,1 @@
+{"tmdb_id": 207856, "title": "Hazel Green & Company", "original_title": "Hazel Green & Company", "slug_title": "hazel-green-company", "date": "1927-09-15", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

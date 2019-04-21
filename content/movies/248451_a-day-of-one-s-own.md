@@ -1,0 +1,1 @@
+{"tmdb_id": 248451, "title": "A Day Of One's Own", "original_title": "A Day Of One's Own", "slug_title": "a-day-of-one-s-own", "date": "1956-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1DM1LhgLh2OMRuEDnKdyKWlgQrZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

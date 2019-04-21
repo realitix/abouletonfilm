@@ -1,0 +1,1 @@
+{"tmdb_id": 574223, "title": "YouShoot: Jim Cornette", "original_title": "YouShoot: Jim Cornette", "slug_title": "youshoot-jim-cornette", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sean Oliver (Himself)", "Jim Cornette (Himself)"], "comments": [], "recommandations_id": []}

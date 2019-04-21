@@ -1,0 +1,1 @@
+{"tmdb_id": 255721, "title": "Piece Mandala/End War", "original_title": "Piece Mandala/End War", "slug_title": "piece-mandala-end-war", "date": "1966-01-01", "genre": "", "score": "4.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hqgwF2mzbKd2L3Z3ePbav8F0jRW.jpg", "actors": [], "comments": [], "recommandations_id": []}

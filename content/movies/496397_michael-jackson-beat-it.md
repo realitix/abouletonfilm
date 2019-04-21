@@ -1,0 +1,1 @@
+{"tmdb_id": 496397, "title": "Michael Jackson - Beat It", "original_title": "Michael Jackson - Beat It", "slug_title": "michael-jackson-beat-it", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

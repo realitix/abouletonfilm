@@ -1,0 +1,1 @@
+{"tmdb_id": 346484, "title": "Betty I Am", "original_title": "Betty I Am", "slug_title": "betty-i-am", "date": "2012-07-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Najarra Townsend (Betty)", "Sebastian Kadlecik (Paul)"], "comments": [], "recommandations_id": []}

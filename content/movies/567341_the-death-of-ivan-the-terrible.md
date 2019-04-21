@@ -1,0 +1,1 @@
+{"tmdb_id": 567341, "title": "The Death of Ivan the Terrible", "original_title": "Smert Ioanna Groznogo", "slug_title": "the-death-of-ivan-the-terrible", "date": "1909-10-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

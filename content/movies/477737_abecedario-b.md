@@ -1,0 +1,1 @@
+{"tmdb_id": 477737, "title": "Abecedario / B", "original_title": "Abecedario / B", "slug_title": "abecedario-b", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3m85eN1meIhWIbi0Wf1RYmMAeYa.jpg", "actors": [], "comments": [], "recommandations_id": []}

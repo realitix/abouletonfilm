@@ -1,0 +1,1 @@
+{"tmdb_id": 372545, "title": "The news", "original_title": "The news", "slug_title": "the-news", "date": "2009-02-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

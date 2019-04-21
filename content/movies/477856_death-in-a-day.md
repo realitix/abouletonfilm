@@ -1,0 +1,1 @@
+{"tmdb_id": 477856, "title": "Death in a Day", "original_title": "Death in a Day", "slug_title": "death-in-a-day", "date": "2016-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w5RD3F8Q5ADNsirimQRAWM1VDMj.jpg", "actors": ["Evan Liu (Evan)", "Wei Ren (Mom)"], "comments": [], "recommandations_id": []}

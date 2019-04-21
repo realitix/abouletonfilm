@@ -1,0 +1,1 @@
+{"tmdb_id": 347832, "title": "The Virgin Sacrifice", "original_title": "The Virgin Sacrifice", "slug_title": "the-virgin-sacrifice", "date": "1974-01-01", "genre": "Horreur", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/NauuyUisH4ngGzPxq19FWQ687k.jpg", "actors": [], "comments": [], "recommandations_id": []}

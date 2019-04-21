@@ -1,0 +1,1 @@
+{"tmdb_id": 487818, "title": "J. Roy: New and Used Furniture", "original_title": "J. Roy: New and Used Furniture", "slug_title": "j-roy-new-and-used-furniture", "date": "1974-11-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jimmy Roy (Himself)", "Tony Buba (Himself)"], "comments": [], "recommandations_id": []}

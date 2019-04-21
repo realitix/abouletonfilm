@@ -1,0 +1,1 @@
+{"tmdb_id": 322921, "title": "\u9547\u6d77\u4fdd\u536b\u6218", "original_title": "\u9547\u6d77\u4fdd\u536b\u6218", "slug_title": "zhen-hai-bao-wei-zhan", "date": "2013-01-01", "genre": "Guerre", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uI3leim7Cqt2kc6A2vxrUfGbTTP.jpg", "actors": [], "comments": [], "recommandations_id": []}

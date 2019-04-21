@@ -1,0 +1,1 @@
+{"tmdb_id": 345818, "title": "Dette er verden", "original_title": "Dette er verden", "slug_title": "dette-er-verden", "date": "2013-04-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Baar Metcalfe Lindgren (Gutten)"], "comments": [], "recommandations_id": []}

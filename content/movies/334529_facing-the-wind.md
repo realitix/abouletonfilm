@@ -1,0 +1,1 @@
+{"tmdb_id": 334529, "title": "Facing the Wind", "original_title": "Facing the Wind", "slug_title": "facing-the-wind", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 218775, "title": "La Salla", "original_title": "La Salla", "slug_title": "la-salla", "date": "1996-09-07", "genre": "Animation", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yaVquU1JoqR7EWdpTVZjYkxoSzd.jpg", "actors": ["Jay Brazeau (Baritone (voice))"], "comments": [], "recommandations_id": []}

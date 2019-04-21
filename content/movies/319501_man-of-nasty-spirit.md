@@ -1,0 +1,1 @@
+{"tmdb_id": 319501, "title": "Man of Nasty Spirit", "original_title": "\u9b54\u57df\u6b61\u559c\u6559", "slug_title": "man-of-nasty-spirit", "date": "1993-04-08", "genre": "Fantastique / Action", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pauline Chan Bo-Lin ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 506954, "title": "Nick Name & The Normals", "original_title": "Nick Name & The Normals", "slug_title": "nick-name-the-normals", "date": "2004-04-01", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y84w0FTvtqQFwtMG0MzA6tdwUqd.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 257939, "title": "Az igazi Mao", "original_title": "Az igazi Mao", "slug_title": "az-igazi-mao", "date": "1995-02-16", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

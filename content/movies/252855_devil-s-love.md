@@ -1,0 +1,1 @@
+{"tmdb_id": 252855, "title": "Devil's Love", "original_title": "Sing nou", "slug_title": "devil-s-love", "date": "1992-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a3pGIUeH8pfadPqOZfZxwAQFhXp.jpg", "actors": ["Yukari \u00d4shima ()", "Waise Lee ()", "Wu Ma ()"], "comments": [], "recommandations_id": []}

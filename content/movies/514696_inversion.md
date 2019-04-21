@@ -1,0 +1,1 @@
+{"tmdb_id": 514696, "title": "Inversion", "original_title": "Inversion", "slug_title": "inversion", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Samuel L. Jackson ()", "Liu Yifei ()"], "comments": [], "recommandations_id": []}

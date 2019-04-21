@@ -1,0 +1,1 @@
+{"tmdb_id": 347086, "title": "Quay Brothers: The Short Films 1979-2003", "original_title": "Quay Brothers: The Short Films 1979-2003", "slug_title": "quay-brothers-the-short-films-1979-2003", "date": "2004-11-20", "genre": "Animation / Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

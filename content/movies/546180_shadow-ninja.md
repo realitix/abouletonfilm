@@ -1,0 +1,1 @@
+{"tmdb_id": 546180, "title": "Shadow Ninja", "original_title": "Shadow Ninja", "slug_title": "shadow-ninja", "date": "1983-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y0tXlv7LoMRJIRVneEAuCuVuwwl.jpg", "actors": ["Steve Tung Wai ()", "Roy Chiao ()", "Yen Shi-Kwan ()"], "comments": [], "recommandations_id": []}

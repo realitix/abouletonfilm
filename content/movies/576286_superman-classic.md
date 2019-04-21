@@ -1,0 +1,1 @@
+{"tmdb_id": 576286, "title": "Superman Classic", "original_title": "Superman Classic", "slug_title": "superman-classic", "date": "2011-02-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ratCEaseGADhALKIWDp484zy0ui.jpg", "actors": [], "comments": [], "recommandations_id": []}

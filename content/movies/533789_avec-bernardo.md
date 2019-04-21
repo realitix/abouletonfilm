@@ -1,0 +1,1 @@
+{"tmdb_id": 533789, "title": "Avec Bernardo", "original_title": "Avec Bernardo", "slug_title": "avec-bernardo", "date": "1991-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8oYU01olPjyegcC5jRVwFL5a5EA.jpg", "actors": ["Bernardo Montet ()"], "comments": [], "recommandations_id": []}

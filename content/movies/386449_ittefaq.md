@@ -1,0 +1,1 @@
+{"tmdb_id": 386449, "title": "Ittefaq", "original_title": "Ittefaq", "slug_title": "ittefaq", "date": "2001-06-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nePPzisOT2mM0TRmLoiOC2vG8Jl.jpg", "actors": [], "comments": [], "recommandations_id": []}

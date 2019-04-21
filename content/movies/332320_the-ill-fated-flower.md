@@ -1,0 +1,1 @@
+{"tmdb_id": 332320, "title": "The Ill-fated flower", "original_title": "Bo Ming Hua", "slug_title": "the-ill-fated-flower", "date": "1958-09-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

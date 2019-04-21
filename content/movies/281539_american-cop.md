@@ -1,0 +1,1 @@
+{"tmdb_id": 281539, "title": "American Cop", "original_title": "American Cop", "slug_title": "american-cop", "date": "1995-08-22", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eN84DkNsqcYb4QhWeeMUvOobLWC.jpg", "actors": [], "comments": [], "recommandations_id": []}

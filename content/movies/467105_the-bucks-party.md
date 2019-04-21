@@ -1,0 +1,1 @@
+{"tmdb_id": 467105, "title": "The Bucks Party", "original_title": "The Bucks Party", "slug_title": "the-bucks-party", "date": "1978-06-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8NI5ysqyG03eAVtdpc6iyZOnvv1.jpg", "actors": [], "comments": [], "recommandations_id": []}

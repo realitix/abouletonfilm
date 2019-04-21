@@ -1,0 +1,1 @@
+{"tmdb_id": 195986, "title": "New York City Dumping Wharf", "original_title": "New York City Dumping Wharf", "slug_title": "new-york-city-dumping-wharf", "date": "1903-05-22", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

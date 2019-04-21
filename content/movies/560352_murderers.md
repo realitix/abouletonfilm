@@ -1,0 +1,1 @@
+{"tmdb_id": 560352, "title": "Murderers", "original_title": "Murderers", "slug_title": "murderers", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

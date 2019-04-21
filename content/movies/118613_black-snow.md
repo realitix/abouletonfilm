@@ -1,0 +1,1 @@
+{"tmdb_id": 118613, "title": "Black Snow", "original_title": "\u672c\u547d\u5e74", "slug_title": "black-snow", "date": "1990-04-13", "genre": "Drame", "score": "6.6/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dDg1qMHoBCV2wLyUOfaQqFVZGmj.jpg", "actors": ["Jiang Wen ()"], "comments": [], "recommandations_id": [197998, 56234, 264393, 33329]}

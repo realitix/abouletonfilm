@@ -1,0 +1,1 @@
+{"tmdb_id": 414011, "title": "Errante \u2013 Um Filme de Encontros", "original_title": "Errante \u2013 Um Filme de Encontros", "slug_title": "errante-um-filme-de-encontros", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ffJfmcHCA7oLGMuOMbmlRnis2nX.jpg", "actors": [], "comments": [], "recommandations_id": []}

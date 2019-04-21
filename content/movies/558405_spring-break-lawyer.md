@@ -1,0 +1,1 @@
+{"tmdb_id": 558405, "title": "Spring Break Lawyer", "original_title": "Spring Break Lawyer", "slug_title": "spring-break-lawyer", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

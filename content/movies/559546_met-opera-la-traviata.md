@@ -1,0 +1,1 @@
+{"tmdb_id": 559546, "title": "Met Opera: La Traviata", "original_title": "Met Opera: La Traviata", "slug_title": "met-opera-la-traviata", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4U2h4BuKFJNmlCuC6ezeEklLTYy.jpg", "actors": [], "comments": [], "recommandations_id": []}

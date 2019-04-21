@@ -1,0 +1,1 @@
+{"tmdb_id": 494067, "title": "City of Honey Masters", "original_title": "Meemeistrite linn", "slug_title": "city-of-honey-masters", "date": "1983-09-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nvXMkOTenhBFRsvQO8j2EaDBlaO.jpg", "actors": [], "comments": [], "recommandations_id": []}

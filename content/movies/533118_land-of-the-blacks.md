@@ -1,0 +1,1 @@
+{"tmdb_id": 533118, "title": "Land of the Blacks", "original_title": "Land of the Blacks", "slug_title": "land-of-the-blacks", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

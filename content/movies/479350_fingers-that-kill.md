@@ -1,0 +1,1 @@
+{"tmdb_id": 479350, "title": "Fingers That Kill", "original_title": "Tie Zhi Tang Shou", "slug_title": "fingers-that-kill", "date": "1974-01-01", "genre": "Action / Aventure", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

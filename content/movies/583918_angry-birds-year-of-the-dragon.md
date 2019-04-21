@@ -1,0 +1,1 @@
+{"tmdb_id": 583918, "title": "Angry Birds: Year of the Dragon", "original_title": "Angry Birds: Year of the Dragon", "slug_title": "angry-birds-year-of-the-dragon", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wuEdQq4vmnyxldnISPEIviKKRyY.jpg", "actors": [], "comments": [], "recommandations_id": []}

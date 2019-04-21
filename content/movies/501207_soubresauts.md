@@ -1,0 +1,1 @@
+{"tmdb_id": 501207, "title": "Soubresauts", "original_title": "Mkhobbi fi Kobba", "slug_title": "soubresauts", "date": "2012-01-22", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hamza Ben Youssef ()", "Amira Chebli ()", "Mariem Ferjani ()", "Bouraou\u00efa Marzouk ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 381739, "title": "Oxed-man", "original_title": "\u725b\u982d", "slug_title": "oxed-man", "date": "1968-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dHHDEFyZ7wnZycgypnnh02xkCQs.jpg", "actors": [], "comments": [], "recommandations_id": []}

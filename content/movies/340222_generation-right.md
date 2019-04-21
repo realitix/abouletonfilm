@@ -1,0 +1,1 @@
+{"tmdb_id": 340222, "title": "Generation Right", "original_title": "Generation Right", "slug_title": "generation-right", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

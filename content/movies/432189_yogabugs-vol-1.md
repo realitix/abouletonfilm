@@ -1,0 +1,1 @@
+{"tmdb_id": 432189, "title": "YogaBugs Vol. 1", "original_title": "YogaBugs Vol. 1", "slug_title": "yogabugs-vol-1", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z0oPgiUL8fqB1ARHSWmpgUeoZVQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

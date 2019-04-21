@@ -1,0 +1,1 @@
+{"tmdb_id": 589883, "title": "Els dies que vindran", "original_title": "Els dies que vindran", "slug_title": "els-dies-que-vindran", "date": "2019-06-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["David Verdaguer (Llu\u00eds)"], "comments": [], "recommandations_id": []}

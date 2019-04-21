@@ -1,0 +1,1 @@
+{"tmdb_id": 484971, "title": "The Old Raid Mule", "original_title": "The Old Raid Mule", "slug_title": "the-old-raid-mule", "date": "1938-03-04", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Andy Clyde (Old Man Clyde)"], "comments": [], "recommandations_id": []}

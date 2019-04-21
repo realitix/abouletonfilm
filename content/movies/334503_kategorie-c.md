@@ -1,0 +1,1 @@
+{"tmdb_id": 334503, "title": "Kategorie C", "original_title": "Kategorie C", "slug_title": "kategorie-c", "date": "2008-10-30", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/esnbMIxEbhuKTPSrius32l1pTJX.jpg", "actors": [], "comments": [], "recommandations_id": []}

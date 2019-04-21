@@ -1,0 +1,1 @@
+{"tmdb_id": 485210, "title": "Oreos with Attitude", "original_title": "Oreos with Attitude", "slug_title": "oreos-with-attitude", "date": "1991-03-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Richarda Abrams (Ms. Dorothy Lavish)"], "comments": [], "recommandations_id": []}

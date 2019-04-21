@@ -1,0 +1,1 @@
+{"tmdb_id": 230882, "title": "Cotto vs. Rodriguez", "original_title": "Cotto vs. Rodriguez", "slug_title": "cotto-vs-rodriguez", "date": "2013-10-05", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Askw2G0jvDJK6gm6BsUxh1775ph.jpg", "actors": [], "comments": [], "recommandations_id": []}

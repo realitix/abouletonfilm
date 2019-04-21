@@ -1,0 +1,1 @@
+{"tmdb_id": 354425, "title": "Copacabana", "original_title": "Copacabana", "slug_title": "copacabana", "date": "2006-11-15", "genre": "", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zHp2D2CaBn3a7oCpyXlCBXNeW0j.jpg", "actors": [], "comments": [], "recommandations_id": []}

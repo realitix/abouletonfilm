@@ -1,0 +1,1 @@
+{"tmdb_id": 237139, "title": "McDougal's Rest Farm", "original_title": "McDougal's Rest Farm", "slug_title": "mcdougal-s-rest-farm", "date": "1947-01-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

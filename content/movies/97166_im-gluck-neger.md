@@ -1,0 +1,1 @@
+{"tmdb_id": 97166, "title": "Im Gl\u00fcck (Neger)", "original_title": "Im Gl\u00fcck (Neger)", "slug_title": "im-gluck-neger", "date": "2006-03-06", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1rAebslZziIeoJ57pf5Yxz2XMcu.jpg", "actors": [], "comments": [], "recommandations_id": []}

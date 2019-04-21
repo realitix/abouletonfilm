@@ -1,0 +1,1 @@
+{"tmdb_id": 409661, "title": "Von Faltbooten und Heringen", "original_title": "Von Faltbooten und Heringen", "slug_title": "von-faltbooten-und-heringen", "date": "2014-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9jYE6YDgdS1XXvY2cwsFUswtbiY.jpg", "actors": [], "comments": [], "recommandations_id": []}

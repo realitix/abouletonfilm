@@ -1,0 +1,1 @@
+{"tmdb_id": 459878, "title": "Tough Guys", "original_title": "Tough Guys", "slug_title": "tough-guys", "date": "2017-06-15", "genre": "Documentaire", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pWZPraBH9uU2XVMUdmg21bDcaNM.jpg", "actors": [], "comments": [], "recommandations_id": []}

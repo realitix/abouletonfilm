@@ -1,0 +1,1 @@
+{"tmdb_id": 240394, "title": "Story of a Dog", "original_title": "Story of a Dog", "slug_title": "story-of-a-dog", "date": "1945-10-27", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Knox Manning (Narrator (voice))"], "comments": [], "recommandations_id": []}

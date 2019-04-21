@@ -1,0 +1,1 @@
+{"tmdb_id": 456107, "title": "Summer\u00b4s Choice", "original_title": "Summer\u00b4s Choice", "slug_title": "summers-choice", "date": "2016-01-21", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 371839, "title": "Father Balweg, Rebel Priest", "original_title": "Father Balweg, Rebel Priest", "slug_title": "father-balweg-rebel-priest", "date": "1986-12-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dJN9HWPzLMVKDE3Ne0hx605osBy.jpg", "actors": [], "comments": [], "recommandations_id": []}

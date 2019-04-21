@@ -1,0 +1,1 @@
+{"tmdb_id": 553680, "title": "Blue: A Tlingit Odyssey", "original_title": "Blue: A Tlingit Odyssey", "slug_title": "blue-a-tlingit-odyssey", "date": "1991-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zftaTdlS3hcSs7BIzqlj4zXce4D.jpg", "actors": [], "comments": [], "recommandations_id": []}

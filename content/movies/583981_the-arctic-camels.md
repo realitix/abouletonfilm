@@ -1,0 +1,1 @@
+{"tmdb_id": 583981, "title": "The Arctic Camels", "original_title": "Kamel", "slug_title": "the-arctic-camels", "date": "2019-02-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pXn6W7YBZRE5sWxuGrxMTXnHX6k.jpg", "actors": [], "comments": [], "recommandations_id": []}

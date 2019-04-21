@@ -1,0 +1,1 @@
+{"tmdb_id": 546700, "title": "Tech N9ne: The Making of Special Effects", "original_title": "Tech N9ne: The Making of Special Effects", "slug_title": "tech-n9ne-the-making-of-special-effects", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

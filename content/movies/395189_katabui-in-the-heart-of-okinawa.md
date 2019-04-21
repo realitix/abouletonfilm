@@ -1,0 +1,1 @@
+{"tmdb_id": 395189, "title": "Katabui, In The Heart Of Okinawa", "original_title": "Katabui, au c\u0153ur d'Okinawa", "slug_title": "katabui-in-the-heart-of-okinawa", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 309352, "title": "Ferm\u00edn glorias del tango", "original_title": "Ferm\u00edn glorias del tango", "slug_title": "fermin-glorias-del-tango", "date": "2014-04-24", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fqGF5FBhSTC22ABYgoLpPVZARhs.jpg", "actors": [], "comments": [], "recommandations_id": []}

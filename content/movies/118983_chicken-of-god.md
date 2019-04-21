@@ -1,0 +1,1 @@
+{"tmdb_id": 118983, "title": "Chicken of God", "original_title": "Chicken of God", "slug_title": "chicken-of-god", "date": "2008-11-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vDdhzUes24zuq2q98dKloFxwvgd.jpg", "actors": ["Frank Woodley (Yirri)", "Irene Guzowski (Teresa)"], "comments": [], "recommandations_id": []}

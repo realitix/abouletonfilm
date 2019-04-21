@@ -1,0 +1,1 @@
+{"tmdb_id": 277119, "title": "Diana's Rock: The Paul Burrell Story", "original_title": "Diana's Rock: The Paul Burrell Story", "slug_title": "diana-s-rock-the-paul-burrell-story", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 461033, "title": "A Week With Kiarostami", "original_title": "A Week With Kiarostami", "slug_title": "a-week-with-kiarostami", "date": "1999-11-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hXg020iJO5GAR3KbC6w6EEAiOmi.jpg", "actors": [], "comments": [], "recommandations_id": []}

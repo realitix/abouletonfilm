@@ -1,0 +1,1 @@
+{"tmdb_id": 274537, "title": "Bunkers: An American Music Story", "original_title": "Bunkers: An American Music Story", "slug_title": "bunkers-an-american-music-story", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

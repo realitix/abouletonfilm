@@ -1,0 +1,1 @@
+{"tmdb_id": 328912, "title": "Arthur & Johnnie", "original_title": "Arthur & Johnnie", "slug_title": "arthur-johnnie", "date": "2013-08-28", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lZdzey4YpYTsLAlvT0G0n1oJC73.jpg", "actors": [], "comments": [], "recommandations_id": []}

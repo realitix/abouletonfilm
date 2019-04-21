@@ -1,0 +1,1 @@
+{"tmdb_id": 312485, "title": "Et skud fra hjertet", "original_title": "Et skud fra hjertet", "slug_title": "et-skud-fra-hjertet", "date": "1986-09-12", "genre": "Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nabHZWk6hKV1xduFLzb8mICvQLj.jpg", "actors": [], "comments": [], "recommandations_id": []}

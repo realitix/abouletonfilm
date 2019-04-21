@@ -1,0 +1,1 @@
+{"tmdb_id": 342825, "title": "A Canine Sherlock Holmes", "original_title": "A Canine Sherlock Holmes", "slug_title": "a-canine-sherlock-holmes", "date": "1912-12-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/udSS0PjDOaASZmA0cOVXEYPTKw5.jpg", "actors": [], "comments": [], "recommandations_id": []}

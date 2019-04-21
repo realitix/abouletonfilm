@@ -1,0 +1,1 @@
+{"tmdb_id": 7178, "title": "Deadly Obsession", "original_title": "Deadly Obsession", "slug_title": "deadly-obsession", "date": "2012-10-25", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["GiGi Erneta (Danielle)", "Zoe Simpson (Lila)", "Heath Allyn (Robert)", "Maurice Ripke (Manny)"], "comments": [], "recommandations_id": []}

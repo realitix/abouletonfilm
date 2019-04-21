@@ -1,0 +1,1 @@
+{"tmdb_id": 111343, "title": "ayngaran digital musical bluray 1", "original_title": "ayngaran digital musical bluray 1", "slug_title": "ayngaran-digital-musical-bluray-1", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

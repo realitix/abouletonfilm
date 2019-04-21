@@ -1,0 +1,1 @@
+{"tmdb_id": 312530, "title": "Decameron '69", "original_title": "Decameron '69", "slug_title": "decameron-69", "date": "1969-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

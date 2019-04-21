@@ -1,0 +1,1 @@
+{"tmdb_id": 303803, "title": "Le medaglie di Bidoni", "original_title": "Le medaglie di Bidoni", "slug_title": "le-medaglie-di-bidoni", "date": "1912-09-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

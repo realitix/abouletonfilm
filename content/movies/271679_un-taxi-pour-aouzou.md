@@ -1,0 +1,1 @@
+{"tmdb_id": 271679, "title": "Un taxi pour Aouzou", "original_title": "Un taxi pour Aouzou", "slug_title": "un-taxi-pour-aouzou", "date": "1994-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 261133, "title": "Bloody Brotherhood", "original_title": "\u540c\u6839\u751f", "slug_title": "bloody-brotherhood", "date": "1989-01-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1KnZOxB5xznD3lONI9AJNbRi15o.jpg", "actors": ["Andy Lau (Cheung Ka-Wah)"], "comments": [], "recommandations_id": []}

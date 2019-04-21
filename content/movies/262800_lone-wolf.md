@@ -1,0 +1,1 @@
+{"tmdb_id": 262800, "title": "Lone Wolf", "original_title": "Biryuk", "slug_title": "lone-wolf", "date": "1978-04-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/faqmfl5FxK7Pjz9b08767eECleG.jpg", "actors": ["Mikhail Golubovich ()"], "comments": [], "recommandations_id": []}

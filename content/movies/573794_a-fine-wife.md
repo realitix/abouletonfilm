@@ -1,0 +1,1 @@
+{"tmdb_id": 573794, "title": "A Fine Wife", "original_title": "A Fine Wife", "slug_title": "a-fine-wife", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

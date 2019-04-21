@@ -1,0 +1,1 @@
+{"tmdb_id": 581305, "title": "Carl Laemmle", "original_title": "Carl Laemmle", "slug_title": "carl-laemmle", "date": "2018-12-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Willie Garson (Carl Laemmle (voice))"], "comments": [], "recommandations_id": []}

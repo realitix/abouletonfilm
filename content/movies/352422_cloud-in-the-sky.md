@@ -1,0 +1,1 @@
+{"tmdb_id": 352422, "title": "Cloud in the Sky", "original_title": "Cloud in the Sky", "slug_title": "cloud-in-the-sky", "date": "1940-07-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 343008, "title": "Offering", "original_title": "Ofrenda", "slug_title": "offering", "date": "1978-06-02", "genre": "Documentaire", "score": "6.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ckEMdCKXdfG9j4KB4jabraOqgmh.jpg", "actors": [], "comments": [], "recommandations_id": []}

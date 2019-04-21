@@ -1,0 +1,1 @@
+{"tmdb_id": 364027, "title": "My Father the Banker", "original_title": "Mans t\u0113vs ba\u0146\u0137ieris", "slug_title": "my-father-the-banker", "date": "2015-04-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ojeS5dzpVd3a3g72lS9qm11Sj0W.jpg", "actors": [], "comments": [], "recommandations_id": []}

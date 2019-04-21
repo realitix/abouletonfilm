@@ -1,0 +1,1 @@
+{"tmdb_id": 394043, "title": "Adventures of Chico", "original_title": "Aventuras de chico", "slug_title": "adventures-of-chico", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l5wJ6fLp3zsxR94pfoYuJTgmWt7.jpg", "actors": [], "comments": [], "recommandations_id": []}

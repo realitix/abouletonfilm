@@ -1,0 +1,1 @@
+{"tmdb_id": 554402, "title": "Cellular Immune Response", "original_title": "Cellular Immune Response", "slug_title": "cellular-immune-response", "date": "2018-10-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ljSb8GcYflJU9dDc2JbzewcmDqK.jpg", "actors": [], "comments": [], "recommandations_id": []}

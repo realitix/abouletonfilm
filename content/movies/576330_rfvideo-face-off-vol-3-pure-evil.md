@@ -1,0 +1,1 @@
+{"tmdb_id": 576330, "title": "RFVideo Face Off Vol. 3: Pure Evil", "original_title": "RFVideo Face Off Vol. 3: Pure Evil", "slug_title": "rfvideo-face-off-vol-3-pure-evil", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Scott Anthony Levy (Himself)", "Kevin Sullivan (Himself)"], "comments": [], "recommandations_id": []}

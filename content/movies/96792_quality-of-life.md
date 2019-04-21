@@ -1,0 +1,1 @@
+{"tmdb_id": 96792, "title": "Quality of Life", "original_title": "Quality of Life", "slug_title": "quality-of-life", "date": "2004-06-11", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ylwwJk3cjzeB75qrtjtSld3LnIB.jpg", "actors": [], "comments": [], "recommandations_id": []}

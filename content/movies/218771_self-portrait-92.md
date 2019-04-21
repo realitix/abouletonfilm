@@ -1,0 +1,1 @@
+{"tmdb_id": 218771, "title": "Self Portrait '92", "original_title": "Self Portrait '92", "slug_title": "self-portrait-92", "date": "1992-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Vilgot Sj\u00f6man (Himself)"], "comments": [], "recommandations_id": []}

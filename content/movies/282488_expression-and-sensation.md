@@ -1,0 +1,1 @@
+{"tmdb_id": 282488, "title": "Expression and Sensation", "original_title": "Olhar e Sensa\u00e7\u00e3o", "slug_title": "expression-and-sensation", "date": "1994-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qSfYSOf0v3FOMWWBl4jvwYSbihf.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 173535, "title": "The Silver Surfer", "original_title": "The Silver Surfer", "slug_title": "the-silver-surfer", "date": "1992-12-31", "genre": "Science-Fiction", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n8gFRmY7lHZ8jjnKUgWzhM9P0iz.jpg", "actors": [], "comments": [], "recommandations_id": []}

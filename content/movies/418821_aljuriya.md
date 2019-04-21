@@ -1,0 +1,1 @@
+{"tmdb_id": 418821, "title": "Aljuriya", "original_title": "Aljuriya", "slug_title": "aljuriya", "date": "2004-12-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xyjVXbo5oxE0LzieatwT9AACRaJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

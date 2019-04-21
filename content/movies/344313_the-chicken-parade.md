@@ -1,0 +1,1 @@
+{"tmdb_id": 344313, "title": "The Chicken Parade", "original_title": "The Chicken Parade", "slug_title": "the-chicken-parade", "date": "1922-07-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jimmy Aubrey ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 219209, "title": "The Two Faces of War", "original_title": "As Duas Faces da Guerra", "slug_title": "the-two-faces-of-war", "date": "2007-10-19", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/GskNxH39OgQf7L8aIADY1RCA7J.jpg", "actors": [], "comments": [], "recommandations_id": []}

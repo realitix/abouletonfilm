@@ -1,0 +1,1 @@
+{"tmdb_id": 409812, "title": "The Golden Age of Television", "original_title": "The Golden Age of Television", "slug_title": "the-golden-age-of-television", "date": "2009-11-24", "genre": "Drame", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cXoJDQifJUdAryIOg7VkefBTVJN.jpg", "actors": [], "comments": [], "recommandations_id": []}

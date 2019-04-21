@@ -1,0 +1,1 @@
+{"tmdb_id": 548332, "title": "Walter the Sleuth", "original_title": "Walter the Sleuth", "slug_title": "walter-the-sleuth", "date": "1926-07-13", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Walter Forde (Walter)", "Pauline Peters (Pauline)", "George Foley (George)"], "comments": [], "recommandations_id": []}

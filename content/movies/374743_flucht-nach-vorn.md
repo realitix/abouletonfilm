@@ -1,0 +1,1 @@
+{"tmdb_id": 374743, "title": "Flucht nach vorn", "original_title": "Flucht nach vorn", "slug_title": "flucht-nach-vorn", "date": "1983-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Nina Hoger (Nina)", "Ilse Neubauer (Buchhalterin)", "Michael Gempart (Schweizer)"], "comments": [], "recommandations_id": []}

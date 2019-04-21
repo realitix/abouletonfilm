@@ -1,0 +1,1 @@
+{"tmdb_id": 500515, "title": "\uc544\ub0b4\ub97c \ubc14\uafb8\ub2e4", "original_title": "\uc544\ub0b4\ub97c \ubc14\uafb8\ub2e4", "slug_title": "anaereul-bagguda", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

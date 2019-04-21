@@ -1,0 +1,1 @@
+{"tmdb_id": 317787, "title": "Roy Rogers with Dale Evans: Vol. 13", "original_title": "Roy Rogers with Dale Evans: Vol. 13", "slug_title": "roy-rogers-with-dale-evans-vol-13", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

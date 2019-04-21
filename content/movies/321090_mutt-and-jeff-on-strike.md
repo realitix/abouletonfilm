@@ -1,0 +1,1 @@
+{"tmdb_id": 321090, "title": "Mutt and Jeff: On Strike", "original_title": "Mutt and Jeff: On Strike", "slug_title": "mutt-and-jeff-on-strike", "date": "1920-01-16", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 408163, "title": "Investigating My Father", "original_title": "\u8abf\u67e5\u7236\u89aa", "slug_title": "investigating-my-father", "date": "2016-05-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9SAs4pccY6cN4G3JACnyTLYhdrg.jpg", "actors": [], "comments": [], "recommandations_id": []}

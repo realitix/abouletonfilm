@@ -1,0 +1,1 @@
+{"tmdb_id": 228955, "title": "The Man with Half a Body", "original_title": "The Man with Half a Body", "slug_title": "the-man-with-half-a-body", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

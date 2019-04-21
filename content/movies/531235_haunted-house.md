@@ -1,0 +1,1 @@
+{"tmdb_id": 531235, "title": "Haunted House", "original_title": "Haunted House", "slug_title": "haunted-house", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/evN7BBD5wlWXtbBYIIjlNZqdMYW.jpg", "actors": [], "comments": [], "recommandations_id": []}

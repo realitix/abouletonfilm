@@ -1,0 +1,1 @@
+{"tmdb_id": 437059, "title": "Birth of the Seanema", "original_title": "Birth of the Seanema", "slug_title": "birth-of-the-seanema", "date": "2004-01-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

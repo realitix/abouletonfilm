@@ -1,0 +1,1 @@
+{"tmdb_id": 386313, "title": "What She Wants", "original_title": "What She Wants", "slug_title": "what-she-wants", "date": "1994-01-01", "genre": "Animation", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uKiXDi50RwZmJrxdp7pBJOhH7Ay.jpg", "actors": [], "comments": [], "recommandations_id": []}

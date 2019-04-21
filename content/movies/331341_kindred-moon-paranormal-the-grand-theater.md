@@ -1,0 +1,1 @@
+{"tmdb_id": 331341, "title": "Kindred Moon Paranormal The Grand Theater", "original_title": "Kindred Moon Paranormal The Grand Theater", "slug_title": "kindred-moon-paranormal-the-grand-theater", "date": "2014-11-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

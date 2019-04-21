@@ -1,0 +1,1 @@
+{"tmdb_id": 362041, "title": "The Goddess of Art: Marina Abramovi\u0107", "original_title": "The Goddess of Art: Marina Abramovi\u0107", "slug_title": "the-goddess-of-art-marina-abramovic", "date": "2012-10-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 462647, "title": "Peace in the Absence of War", "original_title": "Peace in the Absence of War", "slug_title": "peace-in-the-absence-of-war", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

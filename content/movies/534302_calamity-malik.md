@@ -1,0 +1,1 @@
+{"tmdb_id": 534302, "title": "Calamity Malik", "original_title": "Malik le maudit", "slug_title": "calamity-malik", "date": "1997-09-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cVsgSM8imWzyRggSywYhRZM4uYb.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 443955, "title": "Jean Rouch: First Film 1947-1991", "original_title": "Jean Rouch, Primera Pel\u00edcula: 1947-1991", "slug_title": "jean-rouch-first-film-1947-1991", "date": "1991-02-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jean Rouch (Himself)"], "comments": [], "recommandations_id": []}

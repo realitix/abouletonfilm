@@ -1,0 +1,1 @@
+{"tmdb_id": 495330, "title": "Bring Back The A-Team", "original_title": "Bring Back The A-Team", "slug_title": "bring-back-the-a-team", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

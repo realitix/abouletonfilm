@@ -1,0 +1,1 @@
+{"tmdb_id": 300233, "title": "Jamie Cullum Meo Sudoeste", "original_title": "Jamie Cullum Meo Sudoeste", "slug_title": "jamie-cullum-meo-sudoeste", "date": "2012-10-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dOy7IMAPOtgLxy23LtbZF3XzlJ0.jpg", "actors": [], "comments": [], "recommandations_id": []}

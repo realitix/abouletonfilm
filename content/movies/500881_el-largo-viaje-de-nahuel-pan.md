@@ -1,0 +1,1 @@
+{"tmdb_id": 500881, "title": "El largo viaje de Nahuel Pan", "original_title": "El largo viaje de Nahuel Pan", "slug_title": "el-largo-viaje-de-nahuel-pan", "date": "1995-06-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ibJU3KkTVC2Rk3WdA1MeitGckIB.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 387286, "title": "Beautiful Bavaria", "original_title": "Beautiful Bavaria", "slug_title": "beautiful-bavaria", "date": "1953-04-04", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bxpMGe6jVrjlftBA2PXwYsHm9mi.jpg", "actors": ["James A. FitzPatrick ()"], "comments": [], "recommandations_id": []}

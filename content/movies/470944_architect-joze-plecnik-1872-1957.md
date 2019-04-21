@@ -1,0 +1,1 @@
+{"tmdb_id": 470944, "title": "Architect Joze Plecnik: 1872-1957", "original_title": "Arhitekt Jo\u017ee Ple\u010dnik: 1872-1957", "slug_title": "architect-joze-plecnik-1872-1957", "date": "2008-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

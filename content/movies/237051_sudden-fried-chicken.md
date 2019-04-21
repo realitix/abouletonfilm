@@ -1,0 +1,1 @@
+{"tmdb_id": 237051, "title": "Sudden Fried Chicken", "original_title": "Sudden Fried Chicken", "slug_title": "sudden-fried-chicken", "date": "1946-10-17", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7F1pBKxlSUYUNYsFvUPGGXcDIHS.jpg", "actors": [], "comments": [], "recommandations_id": []}

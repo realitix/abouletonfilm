@@ -1,0 +1,1 @@
+{"tmdb_id": 315675, "title": "Tredici uomini e un cannone", "original_title": "Tredici uomini e un cannone", "slug_title": "tredici-uomini-e-un-cannone", "date": "1936-01-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/90ls7XqtCr5FAWA8FP2c0aAmbwS.jpg", "actors": [], "comments": [], "recommandations_id": []}

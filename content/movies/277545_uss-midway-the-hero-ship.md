@@ -1,0 +1,1 @@
+{"tmdb_id": 277545, "title": "USS Midway - The Hero Ship", "original_title": "USS Midway - The Hero Ship", "slug_title": "uss-midway-the-hero-ship", "date": "2006-06-27", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5ts3uVklu8AwdNrR8BNCmhuvB1D.jpg", "actors": [], "comments": [], "recommandations_id": []}

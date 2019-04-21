@@ -1,0 +1,1 @@
+{"tmdb_id": 512986, "title": "Fotografia de Rua", "original_title": "Fotografia de Rua", "slug_title": "fotografia-de-rua", "date": "2014-09-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/41kCcZebvS5wnSx4qqvzykMY47M.jpg", "actors": [], "comments": [], "recommandations_id": []}

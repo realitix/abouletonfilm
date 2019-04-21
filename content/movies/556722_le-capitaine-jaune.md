@@ -1,0 +1,1 @@
+{"tmdb_id": 556722, "title": "Le capitaine jaune", "original_title": "Le capitaine jaune", "slug_title": "le-capitaine-jaune", "date": "1930-12-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

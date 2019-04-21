@@ -1,0 +1,1 @@
+{"tmdb_id": 347628, "title": "El show de Polo Polo Recargado", "original_title": "El show de Polo Polo Recargado", "slug_title": "el-show-de-polo-polo-recargado", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Polo Polo ()"], "comments": [], "recommandations_id": []}

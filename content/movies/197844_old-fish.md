@@ -1,0 +1,1 @@
+{"tmdb_id": 197844, "title": "Old Fish", "original_title": "Qian jun yi fa", "slug_title": "old-fish", "date": "2008-06-12", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aZSKMtT3GQKfcRA3WqRQgydhCDp.jpg", "actors": ["Ma Guowei ()", "Pan Xingyi ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 237141, "title": "The Coo Coo Bird", "original_title": "The Coo Coo Bird", "slug_title": "the-coo-coo-bird", "date": "1947-06-08", "genre": "Animation", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/efKSct3FHa3G4cCy051rAUTgxuB.jpg", "actors": [], "comments": [], "recommandations_id": []}

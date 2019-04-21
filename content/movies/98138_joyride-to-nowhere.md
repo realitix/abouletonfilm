@@ -1,0 +1,1 @@
+{"tmdb_id": 98138, "title": "Joyride to Nowhere", "original_title": "Joyride to Nowhere", "slug_title": "joyride-to-nowhere", "date": "1977-06-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/acYbAeYKKIakok2BrdHVsyKNEPi.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 70361, "title": "White Dwarf", "original_title": "White Dwarf", "slug_title": "white-dwarf", "date": "1995-05-23", "genre": "", "score": "7.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9URQmLP8n8XnkqPCZfpt608MxQ0.jpg", "actors": [], "comments": [], "recommandations_id": []}

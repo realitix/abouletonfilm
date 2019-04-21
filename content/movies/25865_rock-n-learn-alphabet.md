@@ -1,0 +1,1 @@
+{"tmdb_id": 25865, "title": "Rock 'N Learn: Alphabet", "original_title": "Rock 'N Learn: Alphabet", "slug_title": "rock-n-learn-alphabet", "date": "1998-01-01", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7beZhbKBZD2uLXNdorugLLizTpC.jpg", "actors": [], "comments": [], "recommandations_id": []}

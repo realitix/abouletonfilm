@@ -1,0 +1,1 @@
+{"tmdb_id": 483094, "title": "Resistance Is Life", "original_title": "Resistance Is Life", "slug_title": "resistance-is-life", "date": "2017-04-03", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4341Djx0LNHOuRdSDIMjOmeOiDH.jpg", "actors": [], "comments": [], "recommandations_id": []}

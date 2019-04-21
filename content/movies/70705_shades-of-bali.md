@@ -1,0 +1,1 @@
+{"tmdb_id": 70705, "title": "Shades of Bali", "original_title": "Shades of Bali", "slug_title": "shades-of-bali", "date": "", "genre": "", "score": "4.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

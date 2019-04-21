@@ -1,0 +1,1 @@
+{"tmdb_id": 335755, "title": "Bikini Lighters", "original_title": "Bikini Lighters", "slug_title": "bikini-lighters", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

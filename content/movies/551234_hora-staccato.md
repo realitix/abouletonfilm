@@ -1,0 +1,1 @@
+{"tmdb_id": 551234, "title": "Hora staccato", "original_title": "Hora staccato", "slug_title": "hora-staccato", "date": "2020-01-01", "genre": "Drame / Histoire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

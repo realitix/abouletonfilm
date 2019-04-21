@@ -1,0 +1,1 @@
+{"tmdb_id": 222261, "title": "Gumby Dharma", "original_title": "Gumby Dharma", "slug_title": "gumby-dharma", "date": "2006-10-20", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h0WqHxtIrdojDKFY4so6imr4OfI.jpg", "actors": ["Art Clokey (Himself)"], "comments": [], "recommandations_id": []}

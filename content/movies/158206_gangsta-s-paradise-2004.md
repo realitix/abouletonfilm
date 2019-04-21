@@ -1,0 +1,1 @@
+{"tmdb_id": 158206, "title": "Gangsta's Paradise [2004]", "original_title": "Gangsta's Paradise [2004]", "slug_title": "gangsta-s-paradise-2004", "date": "", "genre": "", "score": "2.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

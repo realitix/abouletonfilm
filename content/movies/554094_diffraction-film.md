@@ -1,0 +1,1 @@
+{"tmdb_id": 554094, "title": "Diffraction Film", "original_title": "Diffraction Film", "slug_title": "diffraction-film", "date": "1965-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

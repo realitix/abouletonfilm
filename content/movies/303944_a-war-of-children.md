@@ -1,0 +1,1 @@
+{"tmdb_id": 303944, "title": "A War of Children", "original_title": "A War of Children", "slug_title": "a-war-of-children", "date": "1972-11-18", "genre": "", "score": "7.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3j1nAXrgbZlNKT9mLx8onCEStJF.jpg", "actors": ["Jenny Agutter (Maureen Tomelty)"], "comments": [], "recommandations_id": []}

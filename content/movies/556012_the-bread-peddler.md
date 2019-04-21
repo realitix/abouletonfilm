@@ -1,0 +1,1 @@
+{"tmdb_id": 556012, "title": "The Bread Peddler", "original_title": "La porteuse de pain", "slug_title": "the-bread-peddler", "date": "1923-09-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

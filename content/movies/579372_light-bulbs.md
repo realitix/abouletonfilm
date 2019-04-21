@@ -1,0 +1,1 @@
+{"tmdb_id": 579372, "title": "Light Bulbs", "original_title": "Light Bulbs", "slug_title": "light-bulbs", "date": "2016-08-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lRu6rzxq3WDjRCMyDz1T4S3AaKj.jpg", "actors": [], "comments": [], "recommandations_id": []}

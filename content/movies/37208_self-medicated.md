@@ -1,0 +1,1 @@
+{"tmdb_id": 37208, "title": "Self Medicated", "original_title": "Self Medicated", "slug_title": "self-medicated", "date": "2005-06-01", "genre": "Drame", "score": "5.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f6LHx15WXzPuD7YaFTMKBqV1ofw.jpg", "actors": [], "comments": [], "recommandations_id": [45204, 15203, 30966, 12314]}

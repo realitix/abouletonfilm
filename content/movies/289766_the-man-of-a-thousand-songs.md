@@ -1,0 +1,1 @@
+{"tmdb_id": 289766, "title": "The Man of a Thousand Songs", "original_title": "The Man of a Thousand Songs", "slug_title": "the-man-of-a-thousand-songs", "date": "2010-12-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

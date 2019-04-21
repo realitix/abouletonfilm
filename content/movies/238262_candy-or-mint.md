@@ -1,0 +1,1 @@
+{"tmdb_id": 238262, "title": "Candy or Mint", "original_title": "Caluga o Menta", "slug_title": "candy-or-mint", "date": "1990-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ehHRK3cCTDBB8TEU23O97cJWQkn.jpg", "actors": [], "comments": [], "recommandations_id": []}

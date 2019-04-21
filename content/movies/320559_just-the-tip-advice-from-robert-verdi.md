@@ -1,0 +1,1 @@
+{"tmdb_id": 320559, "title": "Just the Tip: Advice from Robert Verdi", "original_title": "Just the Tip: Advice from Robert Verdi", "slug_title": "just-the-tip-advice-from-robert-verdi", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

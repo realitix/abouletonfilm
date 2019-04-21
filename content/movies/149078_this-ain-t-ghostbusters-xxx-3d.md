@@ -1,0 +1,1 @@
+{"tmdb_id": 149078, "title": "This Ain't Ghostbusters XXX 3D", "original_title": "This Ain't Ghostbusters XXX 3D", "slug_title": "this-ain-t-ghostbusters-xxx-3d", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sWTRIld9jUyHtKNm50IJol0ofRr.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 587739, "title": "Haitian Jack Speaks", "original_title": "Haitian Jack Speaks", "slug_title": "haitian-jack-speaks", "date": "2018-08-23", "genre": "Musique / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jamil Lindsay ()", "Haitian Jack ()"], "comments": [], "recommandations_id": []}

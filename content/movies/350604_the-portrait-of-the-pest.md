@@ -1,0 +1,1 @@
+{"tmdb_id": 350604, "title": "The Portrait of the Pest", "original_title": "El retrato de la peste", "slug_title": "the-portrait-of-the-pest", "date": "2009-05-20", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

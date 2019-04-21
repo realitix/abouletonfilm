@@ -1,0 +1,1 @@
+{"tmdb_id": 370347, "title": "The Amateurs", "original_title": "The Amateurs", "slug_title": "the-amateurs", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

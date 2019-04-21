@@ -1,0 +1,1 @@
+{"tmdb_id": 404045, "title": "Representations of Mathematics in Cinema", "original_title": "Representations of Mathematics in Cinema", "slug_title": "representations-of-mathematics-in-cinema", "date": "2008-06-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

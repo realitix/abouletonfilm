@@ -1,0 +1,1 @@
+{"tmdb_id": 431106, "title": "The Teacher's Pet 4", "original_title": "The Teacher's Pet 4", "slug_title": "the-teacher-s-pet-4", "date": "2016-11-21", "genre": "Fantastique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gFACJtcBokGyyLUZOEKV6FeLZzN.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 532686, "title": "I stykker", "original_title": "I stykker", "slug_title": "i-stykker", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

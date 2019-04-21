@@ -1,0 +1,1 @@
+{"tmdb_id": 353916, "title": "Argentin\u00edsima", "original_title": "Argentin\u00edsima", "slug_title": "argentinisima", "date": "1972-06-07", "genre": "Documentaire / Musique", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lqil6eTtE7aY0VmOL1Oe4477BCi.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 394389, "title": "The Dropout", "original_title": "The Dropout", "slug_title": "the-dropout", "date": "1962-12-31", "genre": "", "score": "1.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

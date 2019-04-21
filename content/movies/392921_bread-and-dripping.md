@@ -1,0 +1,1 @@
+{"tmdb_id": 392921, "title": "Bread and Dripping", "original_title": "Bread and Dripping", "slug_title": "bread-and-dripping", "date": "1982-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6ZXsXSVjGa8TEOmygcgUIDdESHT.jpg", "actors": [], "comments": [], "recommandations_id": []}

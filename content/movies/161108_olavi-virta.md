@@ -1,0 +1,1 @@
+{"tmdb_id": 161108, "title": "Olavi Virta", "original_title": "Olavi Virta", "slug_title": "olavi-virta", "date": "1972-01-21", "genre": "Documentaire / T\u00e9l\u00e9film", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Olavi Virta (Himself)", "Peter von Bagh (Himself / Interviewer (voice))"], "comments": [], "recommandations_id": []}

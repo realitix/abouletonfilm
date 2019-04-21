@@ -1,0 +1,1 @@
+{"tmdb_id": 393141, "title": "Libert\u00e9", "original_title": "Libert\u00e9", "slug_title": "liberte", "date": "1989-04-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

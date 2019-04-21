@@ -1,0 +1,1 @@
+{"tmdb_id": 148028, "title": "Black Dicks in White Chicks 2", "original_title": "Black Dicks in White Chicks 2", "slug_title": "black-dicks-in-white-chicks-2", "date": "2002-02-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1OzUU2i3WcpjDCeguoiXYYgE83v.jpg", "actors": [], "comments": [], "recommandations_id": []}

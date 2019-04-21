@@ -1,0 +1,1 @@
+{"tmdb_id": 346533, "title": "Roxanne", "original_title": "Roxanne", "slug_title": "roxanne", "date": "2014-01-01", "genre": "Drame", "score": "2.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Miss Cairo (Roxanne)", "Stanley J. Browne (Client C)", "Dave MacRae (Main Client)"], "comments": [], "recommandations_id": []}

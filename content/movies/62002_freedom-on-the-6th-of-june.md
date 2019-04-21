@@ -1,0 +1,1 @@
+{"tmdb_id": 62002, "title": "Freedom on the 6th of June", "original_title": "Freedom on the 6th of June", "slug_title": "freedom-on-the-6th-of-june", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

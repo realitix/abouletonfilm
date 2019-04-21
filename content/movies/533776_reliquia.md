@@ -1,0 +1,1 @@
+{"tmdb_id": 533776, "title": "Rel\u00edquia", "original_title": "Rel\u00edquia", "slug_title": "reliquia", "date": "2013-08-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5gKvCCskbuOf1K14RaesNFXF3t8.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 488540, "title": "Arcade Fire- MTV World Stage 2010", "original_title": "Arcade Fire- MTV World Stage 2010", "slug_title": "arcade-fire-mtv-world-stage-2010", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fIGwzQ1qwq7HWfm1e9sjcamlzZe.jpg", "actors": [], "comments": [], "recommandations_id": []}

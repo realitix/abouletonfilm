@@ -1,0 +1,1 @@
+{"tmdb_id": 75809, "title": "Crazy Wisdom Saves the World Again", "original_title": "Crazy Wisdom Saves the World Again", "slug_title": "crazy-wisdom-saves-the-world-again", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bxWConXz6YlU7i4sW5HiwJvMPlj.jpg", "actors": [], "comments": [], "recommandations_id": []}

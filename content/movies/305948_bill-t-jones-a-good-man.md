@@ -1,0 +1,1 @@
+{"tmdb_id": 305948, "title": "Bill T. Jones: A Good Man", "original_title": "Bill T. Jones: A Good Man", "slug_title": "bill-t-jones-a-good-man", "date": "2014-08-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

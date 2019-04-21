@@ -1,0 +1,1 @@
+{"tmdb_id": 573809, "title": "The Battle of Ays\u00e9n", "original_title": "La batalla de Ays\u00e9n", "slug_title": "the-battle-of-aysen", "date": "2017-12-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/woaTzZlgSC3BnXG9c8mmo5PPdm2.jpg", "actors": [], "comments": [], "recommandations_id": []}

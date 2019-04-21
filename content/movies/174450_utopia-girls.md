@@ -1,0 +1,1 @@
+{"tmdb_id": 174450, "title": "Utopia Girls", "original_title": "Utopia Girls", "slug_title": "utopia-girls", "date": "2012-06-14", "genre": "", "score": "9.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

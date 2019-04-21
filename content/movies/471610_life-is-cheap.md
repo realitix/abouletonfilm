@@ -1,0 +1,1 @@
+{"tmdb_id": 471610, "title": "Life is Cheap", "original_title": "Life is Cheap", "slug_title": "life-is-cheap", "date": "2016-04-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pegmD2f2e8zDf5Psdd71HDM0yJj.jpg", "actors": [], "comments": [], "recommandations_id": []}

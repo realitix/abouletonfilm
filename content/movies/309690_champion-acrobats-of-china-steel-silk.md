@@ -1,0 +1,1 @@
+{"tmdb_id": 309690, "title": "Champion Acrobats of China: Steel Silk", "original_title": "Champion Acrobats of China: Steel Silk", "slug_title": "champion-acrobats-of-china-steel-silk", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

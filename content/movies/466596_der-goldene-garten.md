@@ -1,0 +1,1 @@
+{"tmdb_id": 466596, "title": "Der goldene Garten", "original_title": "Der goldene Garten", "slug_title": "der-goldene-garten", "date": "1954-02-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

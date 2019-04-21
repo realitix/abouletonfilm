@@ -1,0 +1,1 @@
+{"tmdb_id": 423081, "title": "Freud a fumetti", "original_title": "Freud a fumetti", "slug_title": "freud-a-fumetti", "date": "1970-06-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rmY71d5Jv0Z66ILaGwLubUd17X5.jpg", "actors": [], "comments": [], "recommandations_id": []}

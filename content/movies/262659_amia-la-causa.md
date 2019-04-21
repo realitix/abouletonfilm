@@ -1,0 +1,1 @@
+{"tmdb_id": 262659, "title": "AMIA: la causa", "original_title": "AMIA: la causa", "slug_title": "amia-la-causa", "date": "2009-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

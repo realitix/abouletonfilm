@@ -1,0 +1,1 @@
+{"tmdb_id": 431633, "title": "La Muerte del Toro", "original_title": "La Muerte del Toro", "slug_title": "la-muerte-del-toro", "date": "1961-01-01", "genre": "Documentaire", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nRrUAaIQIcufUT5hHTqRChKemXP.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 275944, "title": "Jazz Icons: Lionel Hampton: Live in '58", "original_title": "Jazz Icons: Lionel Hampton: Live in '58", "slug_title": "jazz-icons-lionel-hampton-live-in-58", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lionel Hampton ()"], "comments": [], "recommandations_id": []}

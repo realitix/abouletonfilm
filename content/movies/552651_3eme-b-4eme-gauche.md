@@ -1,0 +1,1 @@
+{"tmdb_id": 552651, "title": "3eme B, 4eme gauche", "original_title": "3eme B, 4eme gauche", "slug_title": "3eme-b-4eme-gauche", "date": "2011-06-16", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Salom\u00e9 Godin (Salom\u00e9)"], "comments": [], "recommandations_id": []}

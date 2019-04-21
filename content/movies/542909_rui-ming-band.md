@@ -1,0 +1,1 @@
+{"tmdb_id": 542909, "title": "Rui-Ming Band", "original_title": "\u745e\u660e\u6a02\u968a", "slug_title": "rui-ming-band", "date": "1997-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

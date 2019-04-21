@@ -1,0 +1,1 @@
+{"tmdb_id": 532850, "title": "Naissance d'un h\u00f4pital", "original_title": "Naissance d'un h\u00f4pital", "slug_title": "naissance-d-un-hopital", "date": "1991-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pierre Riboulet (Himself)"], "comments": [], "recommandations_id": []}

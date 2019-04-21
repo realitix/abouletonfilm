@@ -1,0 +1,1 @@
+{"tmdb_id": 340588, "title": "La buena vida", "original_title": "La buena vida", "slug_title": "la-buena-vida", "date": "2015-05-14", "genre": "Drame / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l9GbjsrCgUuYYlbekFI1q6Grgya.jpg", "actors": [], "comments": [], "recommandations_id": []}

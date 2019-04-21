@@ -1,0 +1,1 @@
+{"tmdb_id": 566789, "title": "Sisters", "original_title": "\u0421\u0451\u0441\u0442\u0440\u044b", "slug_title": "sisters", "date": "2016-06-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Viktoriya Tolstoganova ()", "Viktoriya Isakova ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 305420, "title": "Charlie in Turkey", "original_title": "Charlie in Turkey", "slug_title": "charlie-in-turkey", "date": "1919-01-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

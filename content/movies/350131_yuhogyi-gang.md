@@ -1,0 +1,1 @@
+{"tmdb_id": 350131, "title": "\uc720\ud639\uc758 \uac15", "original_title": "\uc720\ud639\uc758 \uac15", "slug_title": "yuhogyi-gang", "date": "1991-08-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

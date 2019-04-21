@@ -1,0 +1,1 @@
+{"tmdb_id": 170646, "title": "Duo Concertantes", "original_title": "Duo Concertantes", "slug_title": "duo-concertantes", "date": "1964-03-02", "genre": "Animation", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w8YTHzMEIll88YziokjfXwE1V5A.jpg", "actors": [], "comments": [], "recommandations_id": [383841, 285768, 262854, 152973]}

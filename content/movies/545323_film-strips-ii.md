@@ -1,0 +1,1 @@
+{"tmdb_id": 545323, "title": "Film Strips II", "original_title": "Film Strips II", "slug_title": "film-strips-ii", "date": "1970-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lvC13VxFlWdk2tk4fVo92547eXE.jpg", "actors": [], "comments": [], "recommandations_id": []}

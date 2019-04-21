@@ -1,0 +1,1 @@
+{"tmdb_id": 590875, "title": "Hotel Bardo: Dreamachine", "original_title": "Hotel Bardo: Dreamachine", "slug_title": "hotel-bardo-dreamachine", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

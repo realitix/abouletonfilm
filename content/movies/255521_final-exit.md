@@ -1,0 +1,1 @@
+{"tmdb_id": 255521, "title": "Final Exit", "original_title": "Final Exit", "slug_title": "final-exit", "date": "1995-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1sXKCEDJmVDlnr5eex1phlj3pI3.jpg", "actors": [], "comments": [], "recommandations_id": []}

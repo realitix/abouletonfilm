@@ -1,0 +1,1 @@
+{"tmdb_id": 399138, "title": "La boda del acordeonista", "original_title": "La boda del acordeonista", "slug_title": "la-boda-del-acordeonista", "date": "1985-01-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Luis Fernando Bottia (Director)"], "comments": [], "recommandations_id": []}

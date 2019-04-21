@@ -1,0 +1,1 @@
+{"tmdb_id": 385623, "title": "Persian Series #1", "original_title": "Persian Series #1", "slug_title": "persian-series-1", "date": "1999-12-31", "genre": "", "score": "4.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pflHS8B70RJJqblV9o5A5cv8E5c.jpg", "actors": [], "comments": [], "recommandations_id": [385625, 385624, 94513, 146693]}

@@ -1,0 +1,1 @@
+{"tmdb_id": 332078, "title": "Mar Mani", "original_title": "\u05de\u05e8 \u05de\u05d0\u05e0\u05d9", "slug_title": "mar-mani", "date": "1996-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Yarden Bar-Kochba ()", "Max Digby ()", "Jonathan Gadol ()"], "comments": [], "recommandations_id": []}

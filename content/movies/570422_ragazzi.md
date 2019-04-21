@@ -1,0 +1,1 @@
+{"tmdb_id": 570422, "title": "Ragazzi", "original_title": "Ragazzi", "slug_title": "ragazzi", "date": "1991-03-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m5qBIzaLfcGRG45ZRJs0PY83XO2.jpg", "actors": [], "comments": [], "recommandations_id": []}

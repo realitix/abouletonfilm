@@ -1,0 +1,1 @@
+{"tmdb_id": 555158, "title": "\u0397 \u03a0\u03bf\u03bb\u03b9\u03c4\u03c3\u03bc\u03ac\u03bd\u03b1", "original_title": "\u0397 \u03a0\u03bf\u03bb\u03b9\u03c4\u03c3\u03bc\u03ac\u03bd\u03b1", "slug_title": "e-politsmana", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

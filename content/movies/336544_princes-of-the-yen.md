@@ -1,0 +1,1 @@
+{"tmdb_id": 336544, "title": "Princes of the Yen", "original_title": "Princes of the Yen", "slug_title": "princes-of-the-yen", "date": "2014-11-05", "genre": "Documentaire", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mdkOQV7M0L8NaoBSh7mfWI84UTe.jpg", "actors": [], "comments": [], "recommandations_id": []}

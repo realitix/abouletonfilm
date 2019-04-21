@@ -1,0 +1,1 @@
+{"tmdb_id": 467492, "title": "Aborigines of the Sea Coast", "original_title": "Aborigines of the Sea Coast", "slug_title": "aborigines-of-the-sea-coast", "date": "1949-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s1c2lijMoYNafSKfNHL837MsyZy.jpg", "actors": [], "comments": [], "recommandations_id": []}

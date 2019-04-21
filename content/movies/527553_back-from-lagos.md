@@ -1,0 +1,1 @@
+{"tmdb_id": 527553, "title": "Back From Lagos", "original_title": "Back From Lagos", "slug_title": "back-from-lagos", "date": "2017-05-31", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mama G. (Patience Ozokwor) ()", "Chizzy Alichi ()", "Njideka Okeke ()", "Chigozie Nwoye ()"], "comments": [], "recommandations_id": []}

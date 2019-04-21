@@ -1,0 +1,1 @@
+{"tmdb_id": 252632, "title": "Kumpania", "original_title": "Kumpania", "slug_title": "kumpania", "date": "2011-10-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fl9osoyGoW7QDdy5Nzz9VAs6JrK.jpg", "actors": [], "comments": [], "recommandations_id": []}

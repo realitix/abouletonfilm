@@ -1,0 +1,1 @@
+{"tmdb_id": 318212, "title": "Bumba - Deel 1", "original_title": "Bumba - Deel 1", "slug_title": "bumba-deel-1", "date": "2005-01-05", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7iaEWp6g6Lj75GdmRUEkQEr00q1.jpg", "actors": [], "comments": [], "recommandations_id": []}

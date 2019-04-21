@@ -1,0 +1,1 @@
+{"tmdb_id": 513739, "title": "Farzandan (The Descendants)", "original_title": "Farzandan (The Descendants)", "slug_title": "farzandan-the-descendants", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 473582, "title": "My Dog Zero", "original_title": "My Dog Zero", "slug_title": "my-dog-zero", "date": "1992-09-29", "genre": "Animation / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Joe Murray (Various (voice))"], "comments": [], "recommandations_id": []}

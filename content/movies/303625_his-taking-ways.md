@@ -1,0 +1,1 @@
+{"tmdb_id": 303625, "title": "His Taking Ways", "original_title": "His Taking Ways", "slug_title": "his-taking-ways", "date": "1926-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Al St. John ()", "Lucille Hutton ()", "Charles King ()", "John Rand ()", "John Sinclair ()"], "comments": [], "recommandations_id": []}

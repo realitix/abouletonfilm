@@ -1,0 +1,1 @@
+{"tmdb_id": 173517, "title": "The Ultimate Fighter 3 Finale", "original_title": "The Ultimate Fighter 3 Finale", "slug_title": "the-ultimate-fighter-3-finale", "date": "2006-06-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cFagaukxTJYPnyMVHbxB1amdyAj.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 257389, "title": "Bolshe vita", "original_title": "Bolse vita", "slug_title": "bolshe-vita", "date": "1996-10-24", "genre": "", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ayOq5DoMlYp9Obe4WVJyOcCbHBl.jpg", "actors": [], "comments": [], "recommandations_id": []}

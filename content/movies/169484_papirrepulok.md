@@ -1,0 +1,1 @@
+{"tmdb_id": 169484, "title": "Pap\u00edrrep\u00fcl\u0151k", "original_title": "Pap\u00edrrep\u00fcl\u0151k", "slug_title": "papirrepulok", "date": "2009-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/63JcMqmD0SYdQa8ey6I3AaiWdet.jpg", "actors": [], "comments": [], "recommandations_id": []}

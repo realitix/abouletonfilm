@@ -1,0 +1,1 @@
+{"tmdb_id": 590142, "title": "journey to self", "original_title": "journey to self", "slug_title": "journey-to-self", "date": "2013-05-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Nse Ikpe-Etim (Nse)", "Tosin Sido (Uche)", "Dakore Egbuson-Akande (Alex)", "Ashionye Michelle (Ragina)"], "comments": [], "recommandations_id": []}

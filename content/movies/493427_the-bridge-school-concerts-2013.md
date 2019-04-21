@@ -1,0 +1,1 @@
+{"tmdb_id": 493427, "title": "The Bridge School Concerts - 2013", "original_title": "The Bridge School Concerts - 2013", "slug_title": "the-bridge-school-concerts-2013", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

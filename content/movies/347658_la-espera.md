@@ -1,0 +1,1 @@
+{"tmdb_id": 347658, "title": "La espera", "original_title": "La espera", "slug_title": "la-espera", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Nora Navas ()", "Francesc Garrido ()"], "comments": [], "recommandations_id": []}

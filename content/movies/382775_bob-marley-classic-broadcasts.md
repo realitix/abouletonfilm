@@ -1,0 +1,1 @@
+{"tmdb_id": 382775, "title": "Bob Marley: Classic Broadcasts", "original_title": "Bob Marley: Classic Broadcasts", "slug_title": "bob-marley-classic-broadcasts", "date": "2010-02-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/QRMYp98PmD0of995SLXEKOWoJH.jpg", "actors": [], "comments": [], "recommandations_id": []}

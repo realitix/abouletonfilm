@@ -1,0 +1,1 @@
+{"tmdb_id": 493361, "title": "City Horror: The Evil Spirit", "original_title": "City Horror: The Evil Spirit", "slug_title": "city-horror-the-evil-spirit", "date": "", "genre": "Horreur", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uPekNoQKY9N5jNpLaWnK4neQDgN.jpg", "actors": [], "comments": [], "recommandations_id": []}

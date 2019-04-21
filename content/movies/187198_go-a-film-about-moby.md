@@ -1,0 +1,1 @@
+{"tmdb_id": 187198, "title": "Go: A film About Moby", "original_title": "Go: A film About Moby", "slug_title": "go-a-film-about-moby", "date": "", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8LRw48sCQLZ0ic3Tz9DbbBHqH0J.jpg", "actors": [], "comments": [], "recommandations_id": []}

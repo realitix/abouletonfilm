@@ -1,0 +1,1 @@
+{"tmdb_id": 145087, "title": "The Saharan teacher", "original_title": "El maestro Saharaui", "slug_title": "the-saharan-teacher", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lrOQrJZU4yN8AgSx5il8d0Hg1Cg.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 477154, "title": "Lena Rivers", "original_title": "Lena Rivers", "slug_title": "lena-rivers", "date": "1914-09-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

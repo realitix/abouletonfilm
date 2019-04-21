@@ -1,0 +1,1 @@
+{"tmdb_id": 292705, "title": "Brutal gekn\u00fcppelt", "original_title": "Brutal gekn\u00fcppelt", "slug_title": "brutal-geknuppelt", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lbADo6ZMyI9HtiVRoGZ9d6yRZxC.jpg", "actors": ["Vivian Schmitt ()"], "comments": [], "recommandations_id": []}

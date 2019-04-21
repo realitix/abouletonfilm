@@ -1,0 +1,1 @@
+{"tmdb_id": 240547, "title": "One Got Fat", "original_title": "One Got Fat", "slug_title": "one-got-fat", "date": "1963-12-01", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fjNdwHwLpoM4ovyktAanO6HJ290.jpg", "actors": ["Edward Everett Horton (Narrator)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 485049, "title": "Apoohcalypse Now", "original_title": "Apoohcalypse Now", "slug_title": "apoohcalypse-now", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l2lQIKuaWdYRYpprRn7Fv0pKSu1.jpg", "actors": [], "comments": [], "recommandations_id": []}

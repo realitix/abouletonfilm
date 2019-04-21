@@ -1,0 +1,1 @@
+{"tmdb_id": 124297, "title": "Breakable", "original_title": "Koi No Tasogare", "slug_title": "breakable", "date": "1993-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 527631, "title": "A\u015fkopat", "original_title": "A\u015fkopat", "slug_title": "askopat", "date": "2015-04-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iT00qKlIe15IN0g16AAkf0scSiQ.jpg", "actors": ["Y\u0131ld\u0131z Asyal\u0131 ()"], "comments": [], "recommandations_id": []}

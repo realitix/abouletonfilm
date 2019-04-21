@@ -1,0 +1,1 @@
+{"tmdb_id": 237344, "title": "Drooler's Delight", "original_title": "Drooler's Delight", "slug_title": "drooler-s-delight", "date": "1949-03-25", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y63GW5WFWgYJoJYskO7fsewJKNR.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 139608, "title": "Black and Blue", "original_title": "Black and Blue", "slug_title": "black-and-blue", "date": "2011-11-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 216056, "title": "Bandera rota", "original_title": "Bandera rota", "slug_title": "bandera-rota", "date": "1979-06-21", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pl1SRB8qXM4d6PiVvac8IuikvQu.jpg", "actors": [], "comments": [], "recommandations_id": []}

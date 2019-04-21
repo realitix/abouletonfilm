@@ -1,0 +1,1 @@
+{"tmdb_id": 269983, "title": "I Am Curious Gay", "original_title": "I Am Curious Gay", "slug_title": "i-am-curious-gay", "date": "1970-03-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Larry Neilsen (Davy)", "Chuck Roy (Bob Cassidy)"], "comments": [], "recommandations_id": []}

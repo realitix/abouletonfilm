@@ -1,0 +1,1 @@
+{"tmdb_id": 168457, "title": "Mike Portnoy - Drumerta", "original_title": "Mike Portnoy - Drumerta", "slug_title": "mike-portnoy-drumerta", "date": "2012-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wlPuGD7nhktGGa1Y2UFCp8Ucdzm.jpg", "actors": ["Mike Portnoy (Himself)"], "comments": [], "recommandations_id": []}

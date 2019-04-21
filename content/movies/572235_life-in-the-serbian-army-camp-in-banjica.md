@@ -1,0 +1,1 @@
+{"tmdb_id": 572235, "title": "Life in the Serbian Army Camp in Banjica", "original_title": "\u017divot srpske vojske u logoru na Banjici", "slug_title": "life-in-the-serbian-army-camp-in-banjica", "date": "1914-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

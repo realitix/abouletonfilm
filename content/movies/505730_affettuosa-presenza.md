@@ -1,0 +1,1 @@
+{"tmdb_id": 505730, "title": "Affettuosa presenza", "original_title": "Affettuosa presenza", "slug_title": "affettuosa-presenza", "date": "2004-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/niFb1kBiGOieMyJs1PU2BeX52LJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

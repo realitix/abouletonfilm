@@ -1,0 +1,1 @@
+{"tmdb_id": 441586, "title": "Martha Rosler Reads \"Vogue\"", "original_title": "Martha Rosler Reads \"Vogue\"", "slug_title": "martha-rosler-reads-vogue", "date": "1982-02-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n1PMIOmHYp7DQyHxYwvk2QGwzo6.jpg", "actors": [], "comments": [], "recommandations_id": []}

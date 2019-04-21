@@ -1,0 +1,1 @@
+{"tmdb_id": 542743, "title": "Three Tales Dark And Dangerous", "original_title": "Three Tales Dark And Dangerous", "slug_title": "three-tales-dark-and-dangerous", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bBHLrBkmVxfUL4ibx9ouOISgXAX.jpg", "actors": [], "comments": [], "recommandations_id": []}

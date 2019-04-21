@@ -1,0 +1,1 @@
+{"tmdb_id": 269994, "title": "In Camera", "original_title": "In Camera", "slug_title": "in-camera", "date": "1964-11-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5amOJrQsJWzzHnPxtkhmeILkQsR.jpg", "actors": ["Harold Pinter (Garcin)", "Jane Arden (Inez)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 47081, "title": "The  Ultimate Underdog Collection", "original_title": "The  Ultimate Underdog Collection", "slug_title": "the-ultimate-underdog-collection", "date": "2007-08-29", "genre": "Action / Familial", "score": "5.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

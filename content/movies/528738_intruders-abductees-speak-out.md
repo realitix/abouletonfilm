@@ -1,0 +1,1 @@
+{"tmdb_id": 528738, "title": "Intruders: Abductees Speak Out!", "original_title": "Intruders: Abductees Speak Out!", "slug_title": "intruders-abductees-speak-out", "date": "2008-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

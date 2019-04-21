@@ -1,0 +1,1 @@
+{"tmdb_id": 366530, "title": "Farlig yrke", "original_title": "Farlig yrke", "slug_title": "farlig-yrke", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

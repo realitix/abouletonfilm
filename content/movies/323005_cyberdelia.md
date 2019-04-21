@@ -1,0 +1,1 @@
+{"tmdb_id": 323005, "title": "Cyberdelia", "original_title": "Cyberdelia", "slug_title": "cyberdelia", "date": "1992-11-24", "genre": "Animation / Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gBUwGyxIh1eEaelgU4xnK9ckGCF.jpg", "actors": [], "comments": [], "recommandations_id": []}

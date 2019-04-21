@@ -1,0 +1,1 @@
+{"tmdb_id": 321879, "title": "War File: Tigers in the Desert", "original_title": "War File: Tigers in the Desert", "slug_title": "war-file-tigers-in-the-desert", "date": "2008-08-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

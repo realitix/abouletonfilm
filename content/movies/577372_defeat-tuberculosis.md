@@ -1,0 +1,1 @@
+{"tmdb_id": 577372, "title": "Defeat Tuberculosis", "original_title": "Defeat Tuberculosis", "slug_title": "defeat-tuberculosis", "date": "1943-01-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

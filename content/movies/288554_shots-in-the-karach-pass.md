@@ -1,0 +1,1 @@
+{"tmdb_id": 288554, "title": "Shots in the Karach Pass", "original_title": "Shots in the Karach Pass", "slug_title": "shots-in-the-karach-pass", "date": "1968-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

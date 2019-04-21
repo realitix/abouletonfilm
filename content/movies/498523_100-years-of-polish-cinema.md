@@ -1,0 +1,1 @@
+{"tmdb_id": 498523, "title": "100 Years of Polish Cinema", "original_title": "100 Years of Polish Cinema", "slug_title": "100-years-of-polish-cinema", "date": "1999-07-28", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2G3goX9kcTgzr81HfwE4p3m7jXW.jpg", "actors": [], "comments": [], "recommandations_id": []}

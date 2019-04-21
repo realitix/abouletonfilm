@@ -1,0 +1,1 @@
+{"tmdb_id": 182048, "title": "The Miami Model", "original_title": "The Miami Model", "slug_title": "the-miami-model", "date": "2003-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8YnwBRsnegbVM6yayUISRPGGohG.jpg", "actors": [], "comments": [], "recommandations_id": []}

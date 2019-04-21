@@ -1,0 +1,1 @@
+{"tmdb_id": 449830, "title": "U R a Dial Tone", "original_title": "U R a Dial Tone", "slug_title": "u-r-a-dial-tone", "date": "2016-01-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

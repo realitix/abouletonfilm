@@ -1,0 +1,1 @@
+{"tmdb_id": 162314, "title": "Me and Rubyfruit", "original_title": "Me and Rubyfruit", "slug_title": "me-and-rubyfruit", "date": "1989-01-04", "genre": "", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mbuaTedHX0H8OlSgBej3DHZcMpf.jpg", "actors": [], "comments": [], "recommandations_id": []}

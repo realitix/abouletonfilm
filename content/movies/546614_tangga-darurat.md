@@ -1,0 +1,1 @@
+{"tmdb_id": 546614, "title": "Tangga Darurat", "original_title": "Tangga Darurat", "slug_title": "tangga-darurat", "date": "2018-08-25", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3xZ4pUChZba9Pv513EjExfIdcFY.jpg", "actors": [], "comments": [], "recommandations_id": []}

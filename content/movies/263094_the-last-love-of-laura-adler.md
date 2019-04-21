@@ -1,0 +1,1 @@
+{"tmdb_id": 263094, "title": "The Last Love of Laura Adler", "original_title": "Ahavata Ha'ahronah Shel Laura Adler", "slug_title": "the-last-love-of-laura-adler", "date": "1990-01-02", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rJnq6ZJxlPdnyZV0SpJ8TN1VlWP.jpg", "actors": [], "comments": [], "recommandations_id": []}

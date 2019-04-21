@@ -1,0 +1,1 @@
+{"tmdb_id": 434488, "title": "The Territories", "original_title": "Los territorios", "slug_title": "the-territories", "date": "2017-01-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wgIEQDxyjpTolY3LWTBA126KQWQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

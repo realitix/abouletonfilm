@@ -1,0 +1,1 @@
+{"tmdb_id": 210196, "title": "Internal Turmoil of the Plastic Kind", "original_title": "Internal Turmoil of the Plastic Kind", "slug_title": "internal-turmoil-of-the-plastic-kind", "date": "2005-08-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

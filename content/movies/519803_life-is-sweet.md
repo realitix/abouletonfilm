@@ -1,0 +1,1 @@
+{"tmdb_id": 519803, "title": "Life is Sweet", "original_title": "Life is Sweet", "slug_title": "life-is-sweet", "date": "2017-04-22", "genre": "Musique / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

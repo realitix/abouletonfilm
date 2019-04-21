@@ -1,0 +1,1 @@
+{"tmdb_id": 551539, "title": "\u00d4saraba denji", "original_title": "\u00d4saraba denji", "slug_title": "osaraba-denji", "date": "1930-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Eizabur\u00f4 Matsumoto ()", "Kikuko Tachibana ()", "Reiko Harumi ()", "Ryunosuke Toyama ()"], "comments": [], "recommandations_id": []}

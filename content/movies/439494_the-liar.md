@@ -1,0 +1,1 @@
+{"tmdb_id": 439494, "title": "The Liar", "original_title": "Il bugiardo", "slug_title": "the-liar", "date": "2016-03-09", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xOF1UcQoO3HnrgMParisSJTlhsF.jpg", "actors": ["Maurizio Lastric ()", "Michele di Mauro ()"], "comments": [], "recommandations_id": []}

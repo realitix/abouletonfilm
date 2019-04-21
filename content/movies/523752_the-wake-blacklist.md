@@ -1,0 +1,1 @@
+{"tmdb_id": 523752, "title": "The Wake: Blacklist", "original_title": "The Wake: Blacklist", "slug_title": "the-wake-blacklist", "date": "2008-02-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7aM0qLhwEvTER79oBHBeW5OzrHD.jpg", "actors": [], "comments": [], "recommandations_id": []}

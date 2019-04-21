@@ -1,0 +1,1 @@
+{"tmdb_id": 398705, "title": "The District Nurse", "original_title": "The District Nurse", "slug_title": "the-district-nurse", "date": "1942-12-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

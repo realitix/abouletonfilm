@@ -1,0 +1,1 @@
+{"tmdb_id": 319621, "title": "American Wasteland", "original_title": "American Wasteland", "slug_title": "american-wasteland", "date": "2013-07-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rVzhWFtzDWckQqj3bX7xSUnsVp5.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 187008, "title": "Hollywood on Parade No. A-4", "original_title": "Hollywood on Parade No. A-4", "slug_title": "hollywood-on-parade-no-a-4", "date": "1932-04-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

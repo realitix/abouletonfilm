@@ -1,0 +1,1 @@
+{"tmdb_id": 312808, "title": "Stranger: Bernie Worrell on Earth", "original_title": "Stranger: Bernie Worrell on Earth", "slug_title": "stranger-bernie-worrell-on-earth", "date": "2005-01-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

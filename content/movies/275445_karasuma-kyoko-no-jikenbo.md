@@ -1,0 +1,1 @@
+{"tmdb_id": 275445, "title": "Karasuma Kyoko No Jikenbo", "original_title": "Karasuma Kyoko No Jikenbo", "slug_title": "karasuma-kyoko-no-jikenbo", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

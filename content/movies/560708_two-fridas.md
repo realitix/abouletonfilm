@@ -1,0 +1,1 @@
+{"tmdb_id": 560708, "title": "Two Fridas", "original_title": "Dos Fridas", "slug_title": "two-fridas", "date": "2018-11-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pEfTbpU4W1mJYXl4WYqgWDD5Ebt.jpg", "actors": [], "comments": [], "recommandations_id": []}

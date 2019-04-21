@@ -1,0 +1,1 @@
+{"tmdb_id": 589258, "title": "The Happy Hunting Ground", "original_title": "The Happy Hunting Ground", "slug_title": "the-happy-hunting-ground", "date": "1976-02-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Neil Phillips ()", "Valerie Georgeson ()", "Ronald Herdman ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 508521, "title": "Shadow Boxer", "original_title": "Skyggebokser", "slug_title": "shadow-boxer", "date": "2017-08-28", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dltNJFUveCvmM1ulxscnYGJH6R3.jpg", "actors": [], "comments": [], "recommandations_id": []}

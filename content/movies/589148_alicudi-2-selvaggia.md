@@ -1,0 +1,1 @@
+{"tmdb_id": 589148, "title": "Alicudi 2 Selvaggia", "original_title": "Alicudi 2 Selvaggia", "slug_title": "alicudi-2-selvaggia", "date": "2011-04-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Vincent Arnaud ()"], "comments": [], "recommandations_id": []}

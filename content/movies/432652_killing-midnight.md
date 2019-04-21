@@ -1,0 +1,1 @@
+{"tmdb_id": 432652, "title": "Killing Midnight", "original_title": "Killing Midnight", "slug_title": "killing-midnight", "date": "1997-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

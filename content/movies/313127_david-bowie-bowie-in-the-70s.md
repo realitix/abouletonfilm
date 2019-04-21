@@ -1,0 +1,1 @@
+{"tmdb_id": 313127, "title": "David Bowie: Bowie in the '70s", "original_title": "David Bowie: Bowie in the '70s", "slug_title": "david-bowie-bowie-in-the-70s", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

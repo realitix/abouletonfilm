@@ -1,0 +1,1 @@
+{"tmdb_id": 294357, "title": "The Seekers", "original_title": "The Seekers", "slug_title": "the-seekers", "date": "1979-07-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

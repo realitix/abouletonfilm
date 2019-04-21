@@ -1,0 +1,1 @@
+{"tmdb_id": 374262, "title": "Finnish Midsummer 2169", "original_title": "Finnish Midsummer 2169", "slug_title": "finnish-midsummer-2169", "date": "2015-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 544782, "title": "Duffy: SWR3 New Pop Festival 2008", "original_title": "Duffy: SWR3 New Pop Festival 2008", "slug_title": "duffy-swr3-new-pop-festival-2008", "date": "2009-01-10", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Duffy ()"], "comments": [], "recommandations_id": []}

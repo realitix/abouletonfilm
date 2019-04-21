@@ -1,0 +1,1 @@
+{"tmdb_id": 283872, "title": "Devil's Circuit", "original_title": "\u60aa\u9b54\u306e\u56de\u8def\u56f3", "slug_title": "devil-s-circuit", "date": "1988-07-26", "genre": "Documentaire", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k5WFnc5eeQ4v3acCrg109Xuuhec.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 468543, "title": "Hiring Husbano", "original_title": "\u96c7\u4f63\u8001\u516c", "slug_title": "hiring-husbano", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9B1AemPcIMRQsnr8mUKKIBuiDi7.jpg", "actors": [], "comments": [], "recommandations_id": []}

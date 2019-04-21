@@ -1,0 +1,1 @@
+{"tmdb_id": 562384, "title": "So You're Taking in a Roomer", "original_title": "So You're Taking in a Roomer", "slug_title": "so-you-re-taking-in-a-roomer", "date": "1954-10-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["George O'Hanlon ()"], "comments": [], "recommandations_id": []}

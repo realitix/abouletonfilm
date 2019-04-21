@@ -1,0 +1,1 @@
+{"tmdb_id": 410035, "title": "Arguments", "original_title": "Argumenty", "slug_title": "arguments", "date": "2014-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bMalNUH41lSDTyJKZvlD0BCq3ut.jpg", "actors": [], "comments": [], "recommandations_id": []}

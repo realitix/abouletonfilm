@@ -1,0 +1,1 @@
+{"tmdb_id": 473098, "title": "Lost and Found", "original_title": "Lost and Found", "slug_title": "lost-and-found", "date": "2016-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

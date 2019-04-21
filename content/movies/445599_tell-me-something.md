@@ -1,0 +1,1 @@
+{"tmdb_id": 445599, "title": "Tell Me Something", "original_title": "Dites-moi quelque chose", "slug_title": "tell-me-something", "date": "2010-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jean-Marie Straub ()"], "comments": [], "recommandations_id": []}

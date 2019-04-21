@@ -1,0 +1,1 @@
+{"tmdb_id": 222154, "title": "Don Friesen: Ask Your Mom", "original_title": "Don Friesen: Ask Your Mom", "slug_title": "don-friesen-ask-your-mom", "date": "2012-06-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jfJPq3TpYuIfsRhQedhNh5KxpGN.jpg", "actors": ["Don Friesen ()"], "comments": [], "recommandations_id": []}

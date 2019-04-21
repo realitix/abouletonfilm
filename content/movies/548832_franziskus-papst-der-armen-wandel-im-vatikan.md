@@ -1,0 +1,1 @@
+{"tmdb_id": 548832, "title": "Franziskus - Papst der Armen: Wandel im Vatikan", "original_title": "Franziskus - Papst der Armen: Wandel im Vatikan", "slug_title": "franziskus-papst-der-armen-wandel-im-vatikan", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

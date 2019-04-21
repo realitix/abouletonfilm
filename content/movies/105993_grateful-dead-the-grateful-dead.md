@@ -1,0 +1,1 @@
+{"tmdb_id": 105993, "title": "Grateful Dead: The Grateful Dead", "original_title": "Grateful Dead: The Grateful Dead", "slug_title": "grateful-dead-the-grateful-dead", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7TU3MOTWbf2RAcRuBv1XiZRMVsN.jpg", "actors": [], "comments": [], "recommandations_id": []}

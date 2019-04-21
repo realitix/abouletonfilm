@@ -1,0 +1,1 @@
+{"tmdb_id": 543958, "title": "Zameen Ke Tare", "original_title": "Zameen Ke Tare", "slug_title": "zameen-ke-tare", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

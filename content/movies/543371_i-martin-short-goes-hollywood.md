@@ -1,0 +1,1 @@
+{"tmdb_id": 543371, "title": "I, Martin Short, Goes Hollywood", "original_title": "I, Martin Short, Goes Hollywood", "slug_title": "i-martin-short-goes-hollywood", "date": "1989-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

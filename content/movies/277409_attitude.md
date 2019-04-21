@@ -1,0 +1,1 @@
+{"tmdb_id": 277409, "title": "Attitude", "original_title": "Attitude", "slug_title": "attitude", "date": "2008-08-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

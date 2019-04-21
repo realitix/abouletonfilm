@@ -1,0 +1,1 @@
+{"tmdb_id": 517073, "title": "Waiting for David", "original_title": "Waiting for David", "slug_title": "waiting-for-david", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

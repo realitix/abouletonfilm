@@ -1,0 +1,1 @@
+{"tmdb_id": 273055, "title": "World Music Portrait: Jimmy Cliff", "original_title": "World Music Portrait: Jimmy Cliff", "slug_title": "world-music-portrait-jimmy-cliff", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

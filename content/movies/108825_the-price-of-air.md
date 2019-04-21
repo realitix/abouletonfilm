@@ -1,0 +1,1 @@
+{"tmdb_id": 108825, "title": "The Price of Air", "original_title": "The Price of Air", "slug_title": "the-price-of-air", "date": "2000-09-29", "genre": "Action / Crime / Drame", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4IJ4IccvYX01PwvoivEpxjTz8c9.jpg", "actors": [], "comments": [], "recommandations_id": []}

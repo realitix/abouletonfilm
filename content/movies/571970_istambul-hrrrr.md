@@ -1,0 +1,1 @@
+{"tmdb_id": 571970, "title": "Istambul HRRRR", "original_title": "Istambul HRRRR", "slug_title": "istambul-hrrrr", "date": "1974-01-01", "genre": "", "score": "0.0/10", "synopsis": "Un court film de J.C. Pigozzi", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

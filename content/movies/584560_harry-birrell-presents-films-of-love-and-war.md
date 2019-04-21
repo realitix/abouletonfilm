@@ -1,0 +1,1 @@
+{"tmdb_id": 584560, "title": "Harry Birrell Presents Films of Love and War", "original_title": "Harry Birrell Presents Films of Love and War", "slug_title": "harry-birrell-presents-films-of-love-and-war", "date": "2019-02-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

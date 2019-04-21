@@ -1,0 +1,1 @@
+{"tmdb_id": 340675, "title": "Vlast (Power)", "original_title": "Vlast (Power)", "slug_title": "vlast-power", "date": "2010-06-01", "genre": "", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fBS8IoFBG28L9dVnfoJvgSRZq63.jpg", "actors": [], "comments": [], "recommandations_id": [105379, 284550, 429047]}

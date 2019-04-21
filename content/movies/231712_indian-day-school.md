@@ -1,0 +1,1 @@
+{"tmdb_id": 231712, "title": "Indian Day School", "original_title": "Indian Day School", "slug_title": "indian-day-school", "date": "1898-02-20", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

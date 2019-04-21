@@ -1,0 +1,1 @@
+{"tmdb_id": 329598, "title": "Shock Asylum", "original_title": "Shock Asylum", "slug_title": "shock-asylum", "date": "1997-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Paul Dinello ()", "Stephen Colbert ()"], "comments": [], "recommandations_id": []}

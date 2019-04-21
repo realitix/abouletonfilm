@@ -1,0 +1,1 @@
+{"tmdb_id": 366843, "title": "The Revenge of the Ghost Tree", "original_title": "The Revenge of the Ghost Tree", "slug_title": "the-revenge-of-the-ghost-tree", "date": "1988-11-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

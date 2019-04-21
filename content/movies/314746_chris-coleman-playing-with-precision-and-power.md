@@ -1,0 +1,1 @@
+{"tmdb_id": 314746, "title": "Chris Coleman: Playing with Precision and Power", "original_title": "Chris Coleman: Playing with Precision and Power", "slug_title": "chris-coleman-playing-with-precision-and-power", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

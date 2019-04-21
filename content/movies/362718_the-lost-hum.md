@@ -1,0 +1,1 @@
+{"tmdb_id": 362718, "title": "The Lost Hum", "original_title": "Hanauta dorobo", "slug_title": "the-lost-hum", "date": "2006-01-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6l9oJxRgbVlFJQyYUL3j69zWHiO.jpg", "actors": ["Hiromasa Hirosue ()", "Izumi Takahashi ()"], "comments": [], "recommandations_id": []}

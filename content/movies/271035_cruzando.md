@@ -1,0 +1,1 @@
+{"tmdb_id": 271035, "title": "Cruzando", "original_title": "Cruzando", "slug_title": "cruzando", "date": "2009-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/twO4gDOLTsghbeppZbA76BybFr0.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 27518, "title": "Wahnsinn", "original_title": "Wahnsinn", "slug_title": "wahnsinn", "date": "1919-10-14", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eLeGE47kRcQr7PaWDwlcUqC9fQ.jpg", "actors": ["Conrad Veidt (Bankier Lorenzen)"], "comments": [], "recommandations_id": []}

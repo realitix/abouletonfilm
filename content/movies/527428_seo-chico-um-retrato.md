@@ -1,0 +1,1 @@
+{"tmdb_id": 527428, "title": "Seo Chico - Um Retrato", "original_title": "Seo Chico - Um Retrato", "slug_title": "seo-chico-um-retrato", "date": "2004-07-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y6xY5WcGq3Y40R5Jh6dSEV1Rjd3.jpg", "actors": [], "comments": [], "recommandations_id": []}

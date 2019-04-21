@@ -1,0 +1,1 @@
+{"tmdb_id": 258421, "title": "Hubert Bals Handshake", "original_title": "Hubert Bals Handshake", "slug_title": "hubert-bals-handshake", "date": "1989-01-01", "genre": "", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sbA5CtQuKBIk2c12WjocYrGvA89.jpg", "actors": ["Peter Greenaway (Narrator)"], "comments": [], "recommandations_id": []}

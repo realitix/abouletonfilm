@@ -1,0 +1,1 @@
+{"tmdb_id": 486631, "title": "Bajo la mirada de Dios", "original_title": "Bajo la mirada de Dios", "slug_title": "bajo-la-mirada-de-dios", "date": "1926-09-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

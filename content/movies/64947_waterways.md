@@ -1,0 +1,1 @@
+{"tmdb_id": 64947, "title": "Waterways", "original_title": "Wasserwege", "slug_title": "waterways", "date": "1994-03-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2zZJrzrMv4GKdWQkFkkVZvUsvZq.jpg", "actors": ["Franz Robert Wagner (Narrator)"], "comments": [], "recommandations_id": []}

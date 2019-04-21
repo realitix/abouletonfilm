@@ -1,0 +1,1 @@
+{"tmdb_id": 308887, "title": "Black Supaman", "original_title": "Black Supaman", "slug_title": "black-supaman", "date": "2007-08-07", "genre": "", "score": "1.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

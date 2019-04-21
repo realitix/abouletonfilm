@@ -1,0 +1,1 @@
+{"tmdb_id": 552812, "title": "Drawing For Beginners: The Rectangle", "original_title": "Drawing For Beginners: The Rectangle", "slug_title": "drawing-for-beginners-the-rectangle", "date": "1949-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

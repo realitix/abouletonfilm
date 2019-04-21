@@ -1,0 +1,1 @@
+{"tmdb_id": 459931, "title": "Bad Chemistry", "original_title": "Bad Chemistry", "slug_title": "bad-chemistry", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Megan Upton (Amy Mason)", "Monte Wheeler (Mike Martin)", "Chala Savino (Desiree)", "Jason Bailey (Bartender)"], "comments": [], "recommandations_id": []}

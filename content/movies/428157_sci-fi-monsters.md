@@ -1,0 +1,1 @@
+{"tmdb_id": 428157, "title": "Sci-Fi Monsters", "original_title": "Sci-Fi Monsters", "slug_title": "sci-fi-monsters", "date": "1998-04-08", "genre": "Horreur / Documentaire / Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

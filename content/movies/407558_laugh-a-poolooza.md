@@ -1,0 +1,1 @@
+{"tmdb_id": 407558, "title": "Laugh-a-poolooza", "original_title": "Laugh-a-poolooza", "slug_title": "laugh-a-poolooza", "date": "2006-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

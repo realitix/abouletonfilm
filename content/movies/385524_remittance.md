@@ -1,0 +1,1 @@
+{"tmdb_id": 385524, "title": "Remittance", "original_title": "Remittance", "slug_title": "remittance", "date": "2016-03-02", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3UnzP9xCFJY1sW00FJShCL1fipN.jpg", "actors": [], "comments": [], "recommandations_id": []}

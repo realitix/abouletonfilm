@@ -1,0 +1,1 @@
+{"tmdb_id": 170256, "title": "Yoga and the Kung Fu Girl", "original_title": "Ruan gu zhen nai", "slug_title": "yoga-and-the-kung-fu-girl", "date": "1979-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fVaq2T2Hq2rqFw8T3w9qXVhibQs.jpg", "actors": [], "comments": [], "recommandations_id": []}

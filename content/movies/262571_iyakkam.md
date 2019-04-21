@@ -1,0 +1,1 @@
+{"tmdb_id": 262571, "title": "Iyakkam", "original_title": "Iyakkam", "slug_title": "iyakkam", "date": "2008-04-25", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rishi Kumar ()", "Shruthiraj ()", "Sujibala ()"], "comments": [], "recommandations_id": []}

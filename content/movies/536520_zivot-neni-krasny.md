@@ -1,0 +1,1 @@
+{"tmdb_id": 536520, "title": "\u017divot Nen\u00ed Kr\u00e1sn\u00fd", "original_title": "\u017divot Nen\u00ed Kr\u00e1sn\u00fd", "slug_title": "zivot-neni-krasny", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

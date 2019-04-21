@@ -1,0 +1,1 @@
+{"tmdb_id": 285954, "title": "Primitive Movers", "original_title": "Primitive Movers", "slug_title": "primitive-movers", "date": "1983-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

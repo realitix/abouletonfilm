@@ -1,0 +1,1 @@
+{"tmdb_id": 262473, "title": "Ghost Stories", "original_title": "Ghost Stories", "slug_title": "ghost-stories", "date": "2013-11-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/99FkZCl2qpCLtxMoUKvVlktORkh.jpg", "actors": [], "comments": [], "recommandations_id": []}

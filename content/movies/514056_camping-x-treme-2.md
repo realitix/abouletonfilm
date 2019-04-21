@@ -1,0 +1,1 @@
+{"tmdb_id": 514056, "title": "Camping x-treme #2", "original_title": "Camping x-treme #2", "slug_title": "camping-x-treme-2", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jessie Storm ()", "Lily Fatale ()", "Sasha Dyxen ()", "Vyxen Steel ()"], "comments": [], "recommandations_id": []}

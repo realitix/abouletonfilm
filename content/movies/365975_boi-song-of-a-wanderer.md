@@ -1,0 +1,1 @@
+{"tmdb_id": 365975, "title": "BOI, Song of a Wanderer", "original_title": "BOI, Song of a Wanderer", "slug_title": "boi-song-of-a-wanderer", "date": "2014-07-27", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dtfgAgzFBiGPc1SAO4ln7Ya6Qav.jpg", "actors": [], "comments": [], "recommandations_id": []}

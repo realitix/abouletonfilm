@@ -1,0 +1,1 @@
+{"tmdb_id": 252357, "title": "En la brecha", "original_title": "En la brecha", "slug_title": "en-la-brecha", "date": "1937-01-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mar\u00eda Alcaide ()", "Joaqu\u00edn Pujol ()"], "comments": [], "recommandations_id": []}

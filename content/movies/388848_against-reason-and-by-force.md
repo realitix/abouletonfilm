@@ -1,0 +1,1 @@
+{"tmdb_id": 388848, "title": "Against Reason and by Force", "original_title": "Contra la razon y por la fuerza", "slug_title": "against-reason-and-by-force", "date": "1974-03-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

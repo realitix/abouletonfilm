@@ -1,0 +1,1 @@
+{"tmdb_id": 551111, "title": "Der schwarze Kasten", "original_title": "Der schwarze Kasten", "slug_title": "der-schwarze-kasten", "date": "1992-02-19", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

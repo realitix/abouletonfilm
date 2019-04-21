@@ -1,0 +1,1 @@
+{"tmdb_id": 232148, "title": "Barnum's Trunk", "original_title": "La valise de Barnum", "slug_title": "barnum-s-trunk", "date": "1904-03-24", "genre": "Com\u00e9die / Fantastique", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jaA7p4Y35tOeLSwtsI7fOxoz3pK.jpg", "actors": ["Gaston Velle ()"], "comments": [], "recommandations_id": []}

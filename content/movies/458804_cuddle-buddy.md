@@ -1,0 +1,1 @@
+{"tmdb_id": 458804, "title": "Cuddle Buddy", "original_title": "Cuddle Buddy", "slug_title": "cuddle-buddy", "date": "2017-05-23", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t3DJMFUvZsvR3XA0Xl3YWr7gqF7.jpg", "actors": ["Diana Irvine (Regina)", "Isabel Shill (Clara)"], "comments": [], "recommandations_id": []}

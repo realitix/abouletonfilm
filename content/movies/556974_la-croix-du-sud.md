@@ -1,0 +1,1 @@
+{"tmdb_id": 556974, "title": "La croix du sud", "original_title": "La croix du sud", "slug_title": "la-croix-du-sud", "date": "1932-05-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

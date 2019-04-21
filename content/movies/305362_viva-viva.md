@@ -1,0 +1,1 @@
+{"tmdb_id": 305362, "title": "Viva Viva", "original_title": "Viva Viva", "slug_title": "viva-viva", "date": "2012-01-01", "genre": "Musique / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wY9MLglg8LkJZOfEoxV6ZD2uRBp.jpg", "actors": [], "comments": [], "recommandations_id": []}

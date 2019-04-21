@@ -1,0 +1,1 @@
+{"tmdb_id": 383970, "title": "Lille Ho och loppan Fli - Stora Snatterstr\u00e4sk", "original_title": "Lille Ho och loppan Fli - Stora Snatterstr\u00e4sk", "slug_title": "lille-ho-och-loppan-fli-stora-snatterstrask", "date": "2006-01-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

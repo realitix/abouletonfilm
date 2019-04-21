@@ -1,0 +1,1 @@
+{"tmdb_id": 401889, "title": "Blister", "original_title": "Blister", "slug_title": "blister", "date": "", "genre": "Action", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Iko Uwais ()"], "comments": [], "recommandations_id": []}

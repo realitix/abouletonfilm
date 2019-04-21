@@ -1,0 +1,1 @@
+{"tmdb_id": 523480, "title": "De korzelige klant", "original_title": "De korzelige klant", "slug_title": "de-korzelige-klant", "date": "1977-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 73750, "title": "I Pappagalli", "original_title": "I Pappagalli", "slug_title": "i-pappagalli", "date": "1955-12-28", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2bwSv8tz0KaBmutpVJaCwKgqOku.jpg", "actors": ["Alberto Sordi (Dr. Alberto Tanzi)"], "comments": [], "recommandations_id": []}

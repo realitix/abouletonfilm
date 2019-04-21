@@ -1,0 +1,1 @@
+{"tmdb_id": 293841, "title": "Chronicles/Morocco", "original_title": "Chronicles/Morocco", "slug_title": "chronicles-morocco", "date": "1972-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Michel Auder ()", "Viva ()"], "comments": [], "recommandations_id": []}

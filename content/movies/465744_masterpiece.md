@@ -1,0 +1,1 @@
+{"tmdb_id": 465744, "title": "Masterpiece", "original_title": "\u0428\u0435\u0434\u0435\u0432\u0440", "slug_title": "masterpiece", "date": "2017-06-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 309319, "title": "Fios de Ovos", "original_title": "Fios de Ovos", "slug_title": "fios-de-ovos", "date": "2012-05-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oCm0IqrXkQWiCT34lhpIcKFd9HP.jpg", "actors": ["Gabriela Rabello ()", "Eg\u00eddio Spaziani ()"], "comments": [], "recommandations_id": []}

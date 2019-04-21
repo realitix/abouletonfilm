@@ -1,0 +1,1 @@
+{"tmdb_id": 494404, "title": "Aucassin and Nicolette", "original_title": "Aucassin and Nicolette", "slug_title": "aucassin-and-nicolette", "date": "1975-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yVmc1R2PYfyrvctYeJDfuYgSqjH.jpg", "actors": [], "comments": [], "recommandations_id": []}

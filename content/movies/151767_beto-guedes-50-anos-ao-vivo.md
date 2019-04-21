@@ -1,0 +1,1 @@
+{"tmdb_id": 151767, "title": "Beto Guedes - 50 Anos ao Vivo", "original_title": "Beto Guedes - 50 Anos ao Vivo", "slug_title": "beto-guedes-50-anos-ao-vivo", "date": "2016-02-13", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kSBdPLXjRs6VIYvFwhYlLkncvxz.jpg", "actors": [], "comments": [], "recommandations_id": []}

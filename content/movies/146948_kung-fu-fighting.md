@@ -1,0 +1,1 @@
+{"tmdb_id": 146948, "title": "Kung Fu Fighting", "original_title": "Kung Fu Fighting", "slug_title": "kung-fu-fighting", "date": "1997-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ggdohmMdjGcQqDcFm3IoBt5Vgg5.jpg", "actors": [], "comments": [], "recommandations_id": []}

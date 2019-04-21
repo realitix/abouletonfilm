@@ -1,0 +1,1 @@
+{"tmdb_id": 329186, "title": "Because of that War", "original_title": "B'Glal Hamilhamah Hahi", "slug_title": "because-of-that-war", "date": "1989-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Halina Birnbaum ()", "Ya'ackov Gilad ()", "Jacko Poliker ()", "Yehuda Poliker ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 24127, "title": "The Island of Terror", "original_title": "L'\u00eele d'\u00e9pouvante", "slug_title": "the-island-of-terror", "date": "1911-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

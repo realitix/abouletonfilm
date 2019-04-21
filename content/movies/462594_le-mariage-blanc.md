@@ -1,0 +1,1 @@
+{"tmdb_id": 462594, "title": "Le Mariage Blanc", "original_title": "Le Mariage Blanc", "slug_title": "le-mariage-blanc", "date": "1990-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Cl\u00e9mence Sevin ()", "Fran\u00e7oise Bette ()", "Christiane Rorato ()", "Bernard Waver ()"], "comments": [], "recommandations_id": []}

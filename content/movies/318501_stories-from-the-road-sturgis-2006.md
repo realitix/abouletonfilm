@@ -1,0 +1,1 @@
+{"tmdb_id": 318501, "title": "Stories from the Road: Sturgis 2006", "original_title": "Stories from the Road: Sturgis 2006", "slug_title": "stories-from-the-road-sturgis-2006", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

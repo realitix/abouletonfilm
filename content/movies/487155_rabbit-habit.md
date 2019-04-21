@@ -1,0 +1,1 @@
+{"tmdb_id": 487155, "title": "Rabbit Habit", "original_title": "Rabbit Habit", "slug_title": "rabbit-habit", "date": "1975-07-16", "genre": "Animation / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9m9leKaWfiqsNybQ32zCdvrhpGz.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 248715, "title": "Experimental Animation", "original_title": "Experimental Animation", "slug_title": "experimental-animation", "date": "1933-01-01", "genre": "Musique / Animation", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/HjajfFZxI46OAeVKuXmFQsJln9.jpg", "actors": [], "comments": [], "recommandations_id": []}

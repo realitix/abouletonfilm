@@ -1,0 +1,1 @@
+{"tmdb_id": 512420, "title": "Pier Groups", "original_title": "Pier Groups", "slug_title": "pier-groups", "date": "1982-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/522rDofqUQBxnDiYgkYJlZTbxrm.jpg", "actors": ["Keith Anthoni (Rik)", "Johnny Kovacs (Joe)"], "comments": [], "recommandations_id": []}

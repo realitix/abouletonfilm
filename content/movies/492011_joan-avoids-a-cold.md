@@ -1,0 +1,1 @@
+{"tmdb_id": 492011, "title": "Joan Avoids a Cold", "original_title": "Joan Avoids a Cold", "slug_title": "joan-avoids-a-cold", "date": "1947-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7SFl0yuByvZjq28pBLHqu8C0gv2.jpg", "actors": [], "comments": [], "recommandations_id": []}

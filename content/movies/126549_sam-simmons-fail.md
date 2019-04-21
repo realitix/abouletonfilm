@@ -1,0 +1,1 @@
+{"tmdb_id": 126549, "title": "Sam Simmons: Fail", "original_title": "Sam Simmons: Fail", "slug_title": "sam-simmons-fail", "date": "2011-03-02", "genre": "Com\u00e9die", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gEQtN9SvuZLL65TAbE8NpFvHfLy.jpg", "actors": ["Sam Simmons (Himself)"], "comments": [], "recommandations_id": []}

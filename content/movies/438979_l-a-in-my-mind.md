@@ -1,0 +1,1 @@
+{"tmdb_id": 438979, "title": "L.A. in My Mind", "original_title": "L.A. in My Mind", "slug_title": "l-a-in-my-mind", "date": "2006-06-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eAZcVKqP6EBk4HousEtUIX6CEn3.jpg", "actors": [], "comments": [], "recommandations_id": []}

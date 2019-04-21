@@ -1,0 +1,1 @@
+{"tmdb_id": 361233, "title": "Die, hemda, die", "original_title": "Die, hemda, die", "slug_title": "die-hemda-die", "date": "2010-09-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

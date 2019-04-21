@@ -1,0 +1,1 @@
+{"tmdb_id": 446985, "title": "Piece of Paper", "original_title": "Peda\u00e7o de Papel", "slug_title": "piece-of-paper", "date": "2010-08-01", "genre": "Action / Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Cesar Raphael (Filho / Son)"], "comments": [], "recommandations_id": []}

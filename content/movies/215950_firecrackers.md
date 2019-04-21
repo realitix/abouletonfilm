@@ -1,0 +1,1 @@
+{"tmdb_id": 215950, "title": "Firecrackers", "original_title": "Firecrackers", "slug_title": "firecrackers", "date": "2013-05-08", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Vanessa Orford (Lou)", "Lindsay Smith (Chantal)"], "comments": [], "recommandations_id": []}

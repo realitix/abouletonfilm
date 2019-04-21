@@ -1,0 +1,1 @@
+{"tmdb_id": 344838, "title": "Konrad! Sprach die Frau Mama...", "original_title": "Konrad! Sprach die Frau Mama...", "slug_title": "konrad-sprach-die-frau-mama", "date": "1989-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/c4h6yf4XgLLxmd89iTJ5arUwI9y.jpg", "actors": [], "comments": [], "recommandations_id": []}

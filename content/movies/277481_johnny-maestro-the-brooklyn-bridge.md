@@ -1,0 +1,1 @@
+{"tmdb_id": 277481, "title": "Johnny Maestro & the Brooklyn Bridge", "original_title": "Johnny Maestro & the Brooklyn Bridge", "slug_title": "johnny-maestro-the-brooklyn-bridge", "date": "2014-06-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

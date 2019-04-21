@@ -1,0 +1,1 @@
+{"tmdb_id": 457524, "title": "Treasure Attic - Forever Friend", "original_title": "Treasure Attic - Forever Friend", "slug_title": "treasure-attic-forever-friend", "date": "1996-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qk2x5JcLDLbdAydOm3bi212TZE4.jpg", "actors": [], "comments": [], "recommandations_id": []}

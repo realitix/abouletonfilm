@@ -1,0 +1,1 @@
+{"tmdb_id": 276072, "title": "Barbie Rocks the Big Dome Live", "original_title": "Barbie Rocks the Big Dome Live", "slug_title": "barbie-rocks-the-big-dome-live", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 341889, "title": "Ball of Yarn", "original_title": "Klubok", "slug_title": "ball-of-yarn", "date": "1968-01-01", "genre": "Animation / Fantastique", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1sLvxKmAhqyCkEOjY0wh1YLuS6S.jpg", "actors": [], "comments": [], "recommandations_id": []}

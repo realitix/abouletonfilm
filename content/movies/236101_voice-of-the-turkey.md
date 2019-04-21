@@ -1,0 +1,1 @@
+{"tmdb_id": 236101, "title": "Voice of the Turkey", "original_title": "Voice of the Turkey", "slug_title": "voice-of-the-turkey", "date": "1950-10-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 178049, "title": "La poss\u00e9d\u00e9e", "original_title": "La poss\u00e9d\u00e9e", "slug_title": "la-possedee", "date": "1971-03-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

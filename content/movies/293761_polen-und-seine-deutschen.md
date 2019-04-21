@@ -1,0 +1,1 @@
+{"tmdb_id": 293761, "title": "Polen und seine Deutschen", "original_title": "Polen und seine Deutschen", "slug_title": "polen-und-seine-deutschen", "date": "2014-08-19", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

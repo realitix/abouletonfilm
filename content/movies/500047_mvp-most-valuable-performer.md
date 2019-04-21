@@ -1,0 +1,1 @@
+{"tmdb_id": 500047, "title": "MVP: Most Valuable Performer", "original_title": "MVP: Most Valuable Performer", "slug_title": "mvp-most-valuable-performer", "date": "2018-01-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["LL Cool J ()"], "comments": [], "recommandations_id": []}

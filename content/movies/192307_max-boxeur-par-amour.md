@@ -1,0 +1,1 @@
+{"tmdb_id": 192307, "title": "Max boxeur par amour", "original_title": "Max boxeur par amour", "slug_title": "max-boxeur-par-amour", "date": "1912-10-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Max Linder ()"], "comments": [], "recommandations_id": []}

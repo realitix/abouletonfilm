@@ -1,0 +1,1 @@
+{"tmdb_id": 487778, "title": "Suicide", "original_title": "Suicide", "slug_title": "suicide", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

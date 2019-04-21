@@ -1,0 +1,1 @@
+{"tmdb_id": 312504, "title": "We Were There: Latino Remembrances of World War II", "original_title": "We Were There: Latino Remembrances of World War II", "slug_title": "we-were-there-latino-remembrances-of-world-war-ii", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

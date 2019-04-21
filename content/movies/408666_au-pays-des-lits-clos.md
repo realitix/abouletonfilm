@@ -1,0 +1,1 @@
+{"tmdb_id": 408666, "title": "Au pays des lits clos", "original_title": "Au pays des lits clos", "slug_title": "au-pays-des-lits-clos", "date": "1913-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

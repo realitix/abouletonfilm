@@ -1,0 +1,1 @@
+{"tmdb_id": 417885, "title": "Departure", "original_title": "\ucd9c\ubc1c", "slug_title": "departure", "date": "1973-12-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

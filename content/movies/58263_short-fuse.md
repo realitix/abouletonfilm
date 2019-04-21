@@ -1,0 +1,1 @@
+{"tmdb_id": 58263, "title": "Short Fuse", "original_title": "Short Fuse", "slug_title": "short-fuse", "date": "2002-01-01", "genre": "Action / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mary-Louise Parker (Sarah Richardson)", "Frances McDormand (Anne)"], "comments": [], "recommandations_id": []}

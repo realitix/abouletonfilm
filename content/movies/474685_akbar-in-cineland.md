@@ -1,0 +1,1 @@
+{"tmdb_id": 474685, "title": "Akbar in Cineland", "original_title": "Akbar in Cineland", "slug_title": "akbar-in-cineland", "date": "1969-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fLK4kzv8yqFuJ85GzxOL0KwShoP.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 272965, "title": "Cult of the Suicide Bomber 2", "original_title": "Cult of the Suicide Bomber 2", "slug_title": "cult-of-the-suicide-bomber-2", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

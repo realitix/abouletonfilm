@@ -1,0 +1,1 @@
+{"tmdb_id": 536068, "title": "My Lenin", "original_title": "Amar Lenin", "slug_title": "my-lenin", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

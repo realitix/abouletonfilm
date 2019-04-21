@@ -1,0 +1,1 @@
+{"tmdb_id": 308694, "title": "Sleeping Soldiers", "original_title": "Sleeping Soldiers", "slug_title": "sleeping-soldiers", "date": "2011-05-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qKBAq7IAryXAny0hfyEfzEA9IFG.jpg", "actors": [], "comments": [], "recommandations_id": []}

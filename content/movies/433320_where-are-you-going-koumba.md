@@ -1,0 +1,1 @@
+{"tmdb_id": 433320, "title": "Where Are You Going Koumba?", "original_title": "O\u00f9 vas-tu, Koumba?", "slug_title": "where-are-you-going-koumba", "date": "1971-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zVN530UudDDbfJq2g72pWwq0IV3.jpg", "actors": [], "comments": [], "recommandations_id": []}

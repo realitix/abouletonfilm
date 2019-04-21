@@ -1,0 +1,1 @@
+{"tmdb_id": 338285, "title": "Brasili\u00e1rios", "original_title": "Brasili\u00e1rios", "slug_title": "brasiliarios", "date": "1986-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1vQKQ7d2aUL3Jur8n9QpcuflDua.jpg", "actors": ["Cl\u00e1udia Pereira (Clarice)"], "comments": [], "recommandations_id": []}

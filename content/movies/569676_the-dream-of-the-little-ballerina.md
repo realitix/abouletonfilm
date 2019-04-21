@@ -1,0 +1,1 @@
+{"tmdb_id": 569676, "title": "The Dream of the Little Ballerina", "original_title": "San male balerine", "slug_title": "the-dream-of-the-little-ballerina", "date": "1954-01-01", "genre": "Fantastique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

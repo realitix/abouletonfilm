@@ -1,0 +1,1 @@
+{"tmdb_id": 497839, "title": "The 23rd Annual Critics' Choice Awards", "original_title": "The 23rd Annual Critics' Choice Awards", "slug_title": "the-23rd-annual-critics-choice-awards", "date": "2018-01-11", "genre": "", "score": "2.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Olivia Munn ()"], "comments": [], "recommandations_id": []}

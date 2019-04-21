@@ -1,0 +1,1 @@
+{"tmdb_id": 418794, "title": "The Fog of Srebrenica", "original_title": "The Fog of Srebrenica", "slug_title": "the-fog-of-srebrenica", "date": "2016-09-30", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vrS1IQ8He0STKMVmnr1esFwnruV.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 271002, "title": "Tisza: Autumn Sketches", "original_title": "Tisza-\u0151szi v\u00e1zlatok", "slug_title": "tisza-autumn-sketches", "date": "1963-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w26f9t5Y9sevYIXYOQWbZqE21sa.jpg", "actors": [], "comments": [], "recommandations_id": []}

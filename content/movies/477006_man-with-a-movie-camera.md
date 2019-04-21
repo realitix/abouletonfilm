@@ -1,0 +1,1 @@
+{"tmdb_id": 477006, "title": "Man With A Movie Camera", "original_title": "Man With A Movie Camera", "slug_title": "man-with-a-movie-camera", "date": "1973-01-01", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/alle5SSes0nSxze22Y05EfcFWkv.jpg", "actors": [], "comments": [], "recommandations_id": []}

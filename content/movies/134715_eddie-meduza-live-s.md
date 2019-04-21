@@ -1,0 +1,1 @@
+{"tmdb_id": 134715, "title": "Eddie Meduza - Live(s)", "original_title": "Eddie Meduza - Live(s)", "slug_title": "eddie-meduza-live-s", "date": "2003-07-03", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vVJ7Hwy3mR6fBQIN7uE75G1V9L8.jpg", "actors": ["Eddie Meduza ()"], "comments": [], "recommandations_id": []}

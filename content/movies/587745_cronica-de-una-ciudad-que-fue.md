@@ -1,0 +1,1 @@
+{"tmdb_id": 587745, "title": "Cr\u00f3nica de una ciudad que fue", "original_title": "Cr\u00f3nica de una ciudad que fue", "slug_title": "cronica-de-una-ciudad-que-fue", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

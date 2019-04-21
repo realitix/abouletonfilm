@@ -1,0 +1,1 @@
+{"tmdb_id": 550437, "title": "Killing Elanor", "original_title": "Killing Elanor", "slug_title": "killing-elanor", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Betsy Brandt (Anya)", "Annika Marks (Natalie)", "Jane Kaczmarek (Martina)", "Jenny O'Hara (Elanor)"], "comments": [], "recommandations_id": []}

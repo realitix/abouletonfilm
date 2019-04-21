@@ -1,0 +1,1 @@
+{"tmdb_id": 544658, "title": "O caos, as trevas e a mulher", "original_title": "O caos, as trevas e a mulher", "slug_title": "o-caos-as-trevas-e-a-mulher", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

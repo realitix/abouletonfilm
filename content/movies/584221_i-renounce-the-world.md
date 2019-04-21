@@ -1,0 +1,1 @@
+{"tmdb_id": 584221, "title": "I Renounce the World", "original_title": "Odri\u010dem se sveta", "slug_title": "i-renounce-the-world", "date": "1965-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

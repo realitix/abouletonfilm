@@ -1,0 +1,1 @@
+{"tmdb_id": 570392, "title": "La casa \u00e8 un diritto non un privilegio", "original_title": "La casa \u00e8 un diritto non un privilegio", "slug_title": "la-casa-e-un-diritto-non-un-privilegio", "date": "1970-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

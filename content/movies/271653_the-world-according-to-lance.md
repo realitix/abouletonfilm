@@ -1,0 +1,1 @@
+{"tmdb_id": 271653, "title": "The World According to Lance", "original_title": "The World According to Lance", "slug_title": "the-world-according-to-lance", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

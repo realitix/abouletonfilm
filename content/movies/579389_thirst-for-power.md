@@ -1,0 +1,1 @@
+{"tmdb_id": 579389, "title": "Thirst for Power", "original_title": "Thirst for Power", "slug_title": "thirst-for-power", "date": "2019-03-21", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x5KNK567PMjas3OGT4BoZTYPYgB.jpg", "actors": ["Michael E. Webber (Himself)"], "comments": [], "recommandations_id": []}

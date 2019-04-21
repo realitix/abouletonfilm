@@ -1,0 +1,1 @@
+{"tmdb_id": 224897, "title": "Daheim sterben die Leut'", "original_title": "Daheim sterben die Leut'", "slug_title": "daheim-sterben-die-leut", "date": "1985-10-10", "genre": "Drame", "score": "6.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6bNYX3iMt7azLZtSuvzrPUAYXLx.jpg", "actors": [], "comments": [], "recommandations_id": []}

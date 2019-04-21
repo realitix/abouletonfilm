@@ -1,0 +1,1 @@
+{"tmdb_id": 448264, "title": "Etudes on Vrubel", "original_title": "Etyudy o Vrubele", "slug_title": "etudes-on-vrubel", "date": "1989-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xCtpyePeA9gX5phHh1xgALne3S4.jpg", "actors": [], "comments": [], "recommandations_id": []}

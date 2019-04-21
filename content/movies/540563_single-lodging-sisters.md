@@ -1,0 +1,1 @@
+{"tmdb_id": 540563, "title": "Single Lodging Sisters", "original_title": "Geshuku shimai: dokushin", "slug_title": "single-lodging-sisters", "date": "2010-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sakura Michiru ()", "Y\u016bki Garasu ()"], "comments": [], "recommandations_id": []}

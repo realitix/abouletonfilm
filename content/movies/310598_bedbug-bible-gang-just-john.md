@@ -1,0 +1,1 @@
+{"tmdb_id": 310598, "title": "Bedbug Bible Gang: Just John", "original_title": "Bedbug Bible Gang: Just John", "slug_title": "bedbug-bible-gang-just-john", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

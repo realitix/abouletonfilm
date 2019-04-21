@@ -1,0 +1,1 @@
+{"tmdb_id": 232707, "title": "Den hvide slavinde", "original_title": "Den hvide slavinde", "slug_title": "den-hvide-slavinde", "date": "1907-01-11", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gerda Jensen (Pigen)", "Viggo Larsen (Den unge mand)", "Gustav Lund (Pigens far)"], "comments": [], "recommandations_id": []}

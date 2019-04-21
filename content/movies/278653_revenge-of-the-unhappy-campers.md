@@ -1,0 +1,1 @@
+{"tmdb_id": 278653, "title": "Revenge of the Unhappy Campers", "original_title": "Revenge of the Unhappy Campers", "slug_title": "revenge-of-the-unhappy-campers", "date": "2002-10-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

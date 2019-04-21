@@ -1,0 +1,1 @@
+{"tmdb_id": 505725, "title": "Burnt in Memories", "original_title": "V\u017egano v spominih", "slug_title": "burnt-in-memories", "date": "2017-02-18", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/c18YsJuQrjODPqMkBwSdHT2Vl5C.jpg", "actors": [], "comments": [], "recommandations_id": []}

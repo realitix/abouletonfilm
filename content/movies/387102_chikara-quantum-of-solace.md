@@ -1,0 +1,1 @@
+{"tmdb_id": 387102, "title": "CHIKARA Quantum Of Solace", "original_title": "CHIKARA Quantum Of Solace", "slug_title": "chikara-quantum-of-solace", "date": "2014-06-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yeW9awGfEIrQCUVn2R1VelRAK5G.jpg", "actors": [], "comments": [], "recommandations_id": []}

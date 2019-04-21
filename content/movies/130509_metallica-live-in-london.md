@@ -1,0 +1,1 @@
+{"tmdb_id": 130509, "title": "Metallica: Live in London", "original_title": "Metallica: Live in London", "slug_title": "metallica-live-in-london", "date": "1988-10-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zwi300P8N5DvSvAjzoGqhIe21WP.jpg", "actors": [], "comments": [], "recommandations_id": []}

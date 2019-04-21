@@ -1,0 +1,1 @@
+{"tmdb_id": 222821, "title": "Boo Ribbon Winner", "original_title": "Boo Ribbon Winner", "slug_title": "boo-ribbon-winner", "date": "1954-12-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

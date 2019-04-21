@@ -1,0 +1,1 @@
+{"tmdb_id": 225751, "title": "La malle au mariage", "original_title": "La malle au mariage", "slug_title": "la-malle-au-mariage", "date": "1912-07-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Max Linder (Max)", "Charles Mosnier (Guardian)", "Suzy Depsy (Miquette)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 397941, "title": "The Lost James Brown Tapes", "original_title": "The Lost James Brown Tapes", "slug_title": "the-lost-james-brown-tapes", "date": "1991-01-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1MpulOJeyJNP35FMiNQJJtnDTXT.jpg", "actors": [], "comments": [], "recommandations_id": []}

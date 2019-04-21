@@ -1,0 +1,1 @@
+{"tmdb_id": 341116, "title": "Aqueles Dois", "original_title": "Aqueles Dois", "slug_title": "aqueles-dois", "date": "1985-05-21", "genre": "Drame", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vUSQfci8QOC1CQR9EcD54ycSVYS.jpg", "actors": [], "comments": [], "recommandations_id": []}

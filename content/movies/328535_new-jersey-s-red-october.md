@@ -1,0 +1,1 @@
+{"tmdb_id": 328535, "title": "New Jersey's Red October", "original_title": "New Jersey's Red October", "slug_title": "new-jersey-s-red-october", "date": "2014-09-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

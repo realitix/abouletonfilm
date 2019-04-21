@@ -1,0 +1,1 @@
+{"tmdb_id": 334370, "title": "Visiting Italy", "original_title": "Visiting Italy", "slug_title": "visiting-italy", "date": "1951-08-25", "genre": "Documentaire", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bxpMGe6jVrjlftBA2PXwYsHm9mi.jpg", "actors": ["James A. FitzPatrick ()"], "comments": [], "recommandations_id": []}

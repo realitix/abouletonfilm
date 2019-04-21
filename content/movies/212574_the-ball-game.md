@@ -1,0 +1,1 @@
+{"tmdb_id": 212574, "title": "The Ball Game", "original_title": "The Ball Game", "slug_title": "the-ball-game", "date": "1898-05-19", "genre": "", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zw2eDmGjLF7ELrZ5axK8eX3QqTs.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 508992, "title": "Lauras Stern 3", "original_title": "Lauras Stern 3", "slug_title": "lauras-stern-3", "date": "2008-07-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fyKacIy12fy9fpWbMvuxW1KRyUB.jpg", "actors": [], "comments": [], "recommandations_id": []}

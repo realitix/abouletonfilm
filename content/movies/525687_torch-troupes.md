@@ -1,0 +1,1 @@
+{"tmdb_id": 525687, "title": "Torch Troupes", "original_title": "Huo Ba Ju Tuan", "slug_title": "torch-troupes", "date": "2006-05-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/L5OJMw8dw5BZensmy5awryWqpm.jpg", "actors": [], "comments": [], "recommandations_id": []}

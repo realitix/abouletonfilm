@@ -1,0 +1,1 @@
+{"tmdb_id": 312008, "title": "All Access: DVD Magazine: Vol. 13", "original_title": "All Access: DVD Magazine: Vol. 13", "slug_title": "all-access-dvd-magazine-vol-13", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

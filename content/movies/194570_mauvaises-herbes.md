@@ -1,0 +1,1 @@
+{"tmdb_id": 194570, "title": "Mauvaises herbes", "original_title": "Mauvaises herbes", "slug_title": "mauvaises-herbes", "date": "1897-01-04", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xmNElE7tlFB2I8Ely7iQjPg3SOX.jpg", "actors": [], "comments": [], "recommandations_id": []}

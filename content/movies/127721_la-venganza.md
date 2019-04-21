@@ -1,0 +1,1 @@
+{"tmdb_id": 127721, "title": "La venganza", "original_title": "La venganza", "slug_title": "la-venganza", "date": "2007-11-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ivan Encinas ()", "Juan Heinrich (Carlos)", "Kim Hesser ()", "Rick L. Lobato (El Gringo)"], "comments": [], "recommandations_id": []}

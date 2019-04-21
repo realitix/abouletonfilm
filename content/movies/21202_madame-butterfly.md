@@ -1,0 +1,1 @@
+{"tmdb_id": 21202, "title": "Madame Butterfly", "original_title": "Madame Butterfly", "slug_title": "madame-butterfly", "date": "1995-11-22", "genre": "", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uHKRkE0jOVQ6lnANqp1mWEDsro4.jpg", "actors": ["Ying Huang (Cio-Cio-San)"], "comments": [], "recommandations_id": []}

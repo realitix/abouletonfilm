@@ -1,0 +1,1 @@
+{"tmdb_id": 440564, "title": "Beijing Being", "original_title": "Beijing Being", "slug_title": "beijing-being", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hfb5J2HMD4ymnl0PyHJCwfhuVSE.jpg", "actors": ["Emma Jaay (Sophie)"], "comments": [], "recommandations_id": []}

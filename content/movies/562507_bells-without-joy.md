@@ -1,0 +1,1 @@
+{"tmdb_id": 562507, "title": "Bells Without Joy", "original_title": "Carillons sans joie", "slug_title": "bells-without-joy", "date": "1962-04-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xtPGvncpwyigMwln1VTO6iyddp3.jpg", "actors": [], "comments": [], "recommandations_id": []}

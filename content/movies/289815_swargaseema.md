@@ -1,0 +1,1 @@
+{"tmdb_id": 289815, "title": "Swargaseema", "original_title": "Swargaseema", "slug_title": "swargaseema", "date": "1945-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Chittor V. Nagaiah ()", "Bhanumathi Ramakrishna ()", "B. Jayamma ()"], "comments": [], "recommandations_id": []}

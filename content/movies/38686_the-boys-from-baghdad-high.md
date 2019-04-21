@@ -1,0 +1,1 @@
+{"tmdb_id": 38686, "title": "The Boys from Baghdad High", "original_title": "The Boys from Baghdad High", "slug_title": "the-boys-from-baghdad-high", "date": "2008-01-07", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rqmu6ph96UpLXcxeOpuuzYe8iCS.jpg", "actors": [], "comments": [], "recommandations_id": []}

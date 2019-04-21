@@ -1,0 +1,1 @@
+{"tmdb_id": 89630, "title": "Bored Of The Rings", "original_title": "Bored Of The Rings", "slug_title": "bored-of-the-rings", "date": "2005-02-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oIMAn1At05Sw9HonNhfawNPO5Gc.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 282705, "title": "Benjamin Rabier's Animals", "original_title": "Les Animaux de Benjamin Rabier", "slug_title": "benjamin-rabier-s-animals", "date": "1920-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8yXMLQdL3sk2tRuDfeQAPHZawNp.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 527250, "title": "La Terre", "original_title": "La Terre", "slug_title": "la-terre", "date": "2012-12-06", "genre": "", "score": "0.0/10", "synopsis": "Tous les fleuves vont \u00e0 la mer - et la mer ne se remplit.", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yhqrLpjTHdrR4IgMOPGp4eeHlFB.jpg", "actors": [], "comments": [], "recommandations_id": []}

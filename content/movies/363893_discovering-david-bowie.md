@@ -1,0 +1,1 @@
+{"tmdb_id": 363893, "title": "Discovering David Bowie", "original_title": "Discovering David Bowie", "slug_title": "discovering-david-bowie", "date": "2013-10-14", "genre": "Documentaire", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1xNmxRf2789HOoOKuEvdE726bBi.jpg", "actors": [], "comments": [], "recommandations_id": []}

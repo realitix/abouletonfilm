@@ -1,0 +1,1 @@
+{"tmdb_id": 468178, "title": "Monster X", "original_title": "Monster X", "slug_title": "monster-x", "date": "2017-03-01", "genre": "Horreur", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4OYeP4mlCLiHU9osQnQsh1CuSgL.jpg", "actors": ["Matt Tatroe ()", "Stephanie June ()"], "comments": [], "recommandations_id": []}

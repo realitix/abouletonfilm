@@ -1,0 +1,1 @@
+{"tmdb_id": 478944, "title": "Kidsongs: A Day of Fun", "original_title": "Kidsongs: A Day of Fun", "slug_title": "kidsongs-a-day-of-fun", "date": "", "genre": "Musique / Familial", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

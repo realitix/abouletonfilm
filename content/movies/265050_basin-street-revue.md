@@ -1,0 +1,1 @@
+{"tmdb_id": 265050, "title": "Basin Street Revue", "original_title": "Basin Street Revue", "slug_title": "basin-street-revue", "date": "1956-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6kBkpbznK8Plxub8NK36xR5K7oc.jpg", "actors": ["Sarah Vaughan ()"], "comments": [], "recommandations_id": []}

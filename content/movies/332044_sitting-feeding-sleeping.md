@@ -1,0 +1,1 @@
+{"tmdb_id": 332044, "title": "Sitting Feeding Sleeping", "original_title": "Sitting Feeding Sleeping", "slug_title": "sitting-feeding-sleeping", "date": "2013-02-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kjsSvEW8gbmWW9fF59q7wXcNANG.jpg", "actors": [], "comments": [], "recommandations_id": []}

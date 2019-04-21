@@ -1,0 +1,1 @@
+{"tmdb_id": 487273, "title": "Kamen Couple", "original_title": "Futatsu no kappuru no jo\u0304ji", "slug_title": "kamen-couple", "date": "2017-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 571279, "title": "Scooby-Doo's Original Mysteries: Hassle in the Castle", "original_title": "Scooby-Doo's Original Mysteries: Hassle in the Castle", "slug_title": "scooby-doo-s-original-mysteries-hassle-in-the-castle", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

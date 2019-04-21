@@ -1,0 +1,1 @@
+{"tmdb_id": 340900, "title": "El de los lentes carrera", "original_title": "El de los lentes carrera", "slug_title": "el-de-los-lentes-carrera", "date": "2014-11-20", "genre": "Action", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9jOVLw10Njl4WkVZLKbNyHiZusN.jpg", "actors": [], "comments": [], "recommandations_id": []}

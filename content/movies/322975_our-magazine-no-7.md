@@ -1,0 +1,1 @@
+{"tmdb_id": 322975, "title": "Our Magazine No. 7", "original_title": "Our Magazine No. 7", "slug_title": "our-magazine-no-7", "date": "1954-01-01", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

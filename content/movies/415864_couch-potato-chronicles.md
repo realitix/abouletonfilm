@@ -1,0 +1,1 @@
+{"tmdb_id": 415864, "title": "Couch Potato Chronicles", "original_title": "Couch Potato Chronicles", "slug_title": "couch-potato-chronicles", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1ccwCtaFHKsgwO13Bl3NuL708Zh.jpg", "actors": [], "comments": [], "recommandations_id": []}

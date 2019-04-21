@@ -1,0 +1,1 @@
+{"tmdb_id": 107885, "title": "Bulb Fiction", "original_title": "Bulb Fiction", "slug_title": "bulb-fiction", "date": "2012-05-15", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8lTK58nWC2GVK8iBzHcGNEnj72C.jpg", "actors": [], "comments": [], "recommandations_id": []}

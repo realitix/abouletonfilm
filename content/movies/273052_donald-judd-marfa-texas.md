@@ -1,0 +1,1 @@
+{"tmdb_id": 273052, "title": "Donald Judd: Marfa Texas", "original_title": "Donald Judd: Marfa Texas", "slug_title": "donald-judd-marfa-texas", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 574283, "title": "Close Calls", "original_title": "Close Calls", "slug_title": "close-calls", "date": "2017-08-21", "genre": "Horreur / Thriller", "score": "3.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5bpuoqu1wvX0T0T30gZpMmsheVx.jpg", "actors": ["Jordan Phipps (Morgan MacKenzie)"], "comments": [], "recommandations_id": []}

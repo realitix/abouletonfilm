@@ -1,0 +1,1 @@
+{"tmdb_id": 508616, "title": "Radiant Flux", "original_title": "Radiant Flux", "slug_title": "radiant-flux", "date": "1999-03-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nZ1wqcYIcuFudVjnXmdTjDFY4Kn.jpg", "actors": [], "comments": [], "recommandations_id": []}

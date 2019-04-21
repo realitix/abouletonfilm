@@ -1,0 +1,1 @@
+{"tmdb_id": 159333, "title": "City of Bees", "original_title": "City of Bees", "slug_title": "city-of-bees", "date": "2007-08-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xUYgpkvWVlQrOnRH0QokRrCTiDP.jpg", "actors": ["Laila Hodell (Director)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 299248, "title": "X Japan - Best", "original_title": "X Japan - Best", "slug_title": "x-japan-best", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dPR5bAYcNBO3AMSZ5YOvLaOpTlr.jpg", "actors": [], "comments": [], "recommandations_id": []}

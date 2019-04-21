@@ -1,0 +1,1 @@
+{"tmdb_id": 537605, "title": "Primavera di Granito", "original_title": "Primavera di Granito", "slug_title": "primavera-di-granito", "date": "2000-01-01", "genre": "", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a2pSQM9GMJxPDvmRpcCnTi9nuzV.jpg", "actors": [], "comments": [], "recommandations_id": []}

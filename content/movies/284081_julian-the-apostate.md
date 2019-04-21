@@ -1,0 +1,1 @@
+{"tmdb_id": 284081, "title": "Julian the Apostate", "original_title": "Giuliano l'apostata", "slug_title": "julian-the-apostate", "date": "1919-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mila Bernard ()", "Rina Calabria ()", "Claudio Caparelli ()"], "comments": [], "recommandations_id": []}

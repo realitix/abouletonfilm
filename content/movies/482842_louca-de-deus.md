@@ -1,0 +1,1 @@
+{"tmdb_id": 482842, "title": "Lou\u00e7a de Deus", "original_title": "Lou\u00e7a de Deus", "slug_title": "louca-de-deus", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

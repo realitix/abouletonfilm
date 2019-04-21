@@ -1,0 +1,1 @@
+{"tmdb_id": 434798, "title": "Good Planets Are Hard to Find", "original_title": "Good Planets Are Hard to Find", "slug_title": "good-planets-are-hard-to-find", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

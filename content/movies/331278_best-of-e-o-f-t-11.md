@@ -1,0 +1,1 @@
+{"tmdb_id": 331278, "title": "Best of E.O.F.T. 11", "original_title": "Best of E.O.F.T. 11", "slug_title": "best-of-e-o-f-t-11", "date": "2015-10-09", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cczhOQiB2JuqqdXMcbCbuPdMt1i.jpg", "actors": [], "comments": [], "recommandations_id": []}

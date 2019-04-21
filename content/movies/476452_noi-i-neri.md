@@ -1,0 +1,1 @@
+{"tmdb_id": 476452, "title": "Noi, i neri", "original_title": "Noi, i neri", "slug_title": "noi-i-neri", "date": "2017-06-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l1LRtGti7psDmztqfCKXvawBigS.jpg", "actors": [], "comments": [], "recommandations_id": []}

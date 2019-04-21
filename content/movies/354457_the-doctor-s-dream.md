@@ -1,0 +1,1 @@
+{"tmdb_id": 354457, "title": "The Doctor's Dream", "original_title": "The Doctor's Dream", "slug_title": "the-doctor-s-dream", "date": "1977-08-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k2QsPeQ6oKtjgDh0aXmIjQEuImS.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 461718, "title": "Patriot Games: Up Close", "original_title": "Patriot Games: Up Close", "slug_title": "patriot-games-up-close", "date": "2003-05-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Harrison Ford (Himself (archive footage))"], "comments": [], "recommandations_id": []}

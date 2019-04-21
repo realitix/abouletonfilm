@@ -1,0 +1,1 @@
+{"tmdb_id": 319564, "title": "Rin Tin Tin: The Adventures of Rex & Rinty", "original_title": "Rin Tin Tin: The Adventures of Rex & Rinty", "slug_title": "rin-tin-tin-the-adventures-of-rex-rinty", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

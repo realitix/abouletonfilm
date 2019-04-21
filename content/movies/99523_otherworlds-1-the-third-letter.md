@@ -1,0 +1,1 @@
+{"tmdb_id": 99523, "title": "OTHERWORLDS #1 - The Third Letter", "original_title": "OTHERWORLDS #1 - The Third Letter", "slug_title": "otherworlds-1-the-third-letter", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

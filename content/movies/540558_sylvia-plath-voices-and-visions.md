@@ -1,0 +1,1 @@
+{"tmdb_id": 540558, "title": "Sylvia Plath: Voices and Visions", "original_title": "Sylvia Plath: Voices and Visions", "slug_title": "sylvia-plath-voices-and-visions", "date": "1988-04-21", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 270924, "title": "Rio 50 Degrees: Carry on CaRIOca", "original_title": "Rio 50 Degrees: Carry on CaRIOca", "slug_title": "rio-50-degrees-carry-on-carioca", "date": "2014-06-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

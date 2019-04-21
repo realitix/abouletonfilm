@@ -1,0 +1,1 @@
+{"tmdb_id": 472948, "title": "It's a Monkey Life: Jim's Dream", "original_title": "It's a Monkey Life: Jim's Dream", "slug_title": "it-s-a-monkey-life-jim-s-dream", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

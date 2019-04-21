@@ -1,0 +1,1 @@
+{"tmdb_id": 302152, "title": "Barton & Charlie & Checco & Bill", "original_title": "Barton & Charlie & Checco & Bill", "slug_title": "barton-charlie-checco-bill", "date": "2016-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

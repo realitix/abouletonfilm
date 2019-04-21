@@ -1,0 +1,1 @@
+{"tmdb_id": 542165, "title": "Shopping with Susan", "original_title": "Shopping with Susan", "slug_title": "shopping-with-susan", "date": "1993-08-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qDnyJpVylOZveqOgelVgyfUefk6.jpg", "actors": ["Susan Powter ()"], "comments": [], "recommandations_id": []}

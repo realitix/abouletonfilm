@@ -1,0 +1,1 @@
+{"tmdb_id": 208375, "title": "The Power of Forgiveness", "original_title": "The Power of Forgiveness", "slug_title": "the-power-of-forgiveness", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

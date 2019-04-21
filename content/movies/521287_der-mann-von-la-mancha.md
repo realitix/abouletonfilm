@@ -1,0 +1,1 @@
+{"tmdb_id": 521287, "title": "Der Mann von La Mancha", "original_title": "Der Mann von La Mancha", "slug_title": "der-mann-von-la-mancha", "date": "1994-01-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Karl Merkatz (Don Quixote / Cervantes)", "Werner Prinz (Dr. Carrasco)"], "comments": [], "recommandations_id": []}

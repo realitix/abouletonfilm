@@ -1,0 +1,1 @@
+{"tmdb_id": 533563, "title": "S\u00f3 por hoje", "original_title": "S\u00f3 por hoje", "slug_title": "so-por-hoje", "date": "2017-10-12", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4iAOBxNtKDfLZG94h7bYXxfKt8V.jpg", "actors": [], "comments": [], "recommandations_id": []}

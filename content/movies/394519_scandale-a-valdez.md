@@ -1,0 +1,1 @@
+{"tmdb_id": 394519, "title": "Scandale \u00e0 Valdez", "original_title": "Outrage at Valdez", "slug_title": "scandale-a-valdez", "date": "1990-03-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jean-Michel Cousteau (Himself)"], "comments": [], "recommandations_id": []}

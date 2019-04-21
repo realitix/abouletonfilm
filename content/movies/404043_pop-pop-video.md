@@ -1,0 +1,1 @@
+{"tmdb_id": 404043, "title": "Pop Pop Video", "original_title": "Pop Pop Video", "slug_title": "pop-pop-video", "date": "1980-06-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hNYMpZUySHVtkpJ46Z1JYx2UcbM.jpg", "actors": [], "comments": [], "recommandations_id": []}

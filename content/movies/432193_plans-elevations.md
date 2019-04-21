@@ -1,0 +1,1 @@
+{"tmdb_id": 432193, "title": "Plans & Elevations", "original_title": "Plans & Elevations", "slug_title": "plans-elevations", "date": "1980-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h2ctaqW4g87adAUy34UGJTyhyCn.jpg", "actors": [], "comments": [], "recommandations_id": []}

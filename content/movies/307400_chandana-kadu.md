@@ -1,0 +1,1 @@
+{"tmdb_id": 307400, "title": "Chandana Kadu", "original_title": "Chandana Kadu", "slug_title": "chandana-kadu", "date": "1974-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 324244, "title": "Hard Justice", "original_title": "Hard Justice", "slug_title": "hard-justice", "date": "1988-01-01", "genre": "", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pVc1ioQ6PaWjNvV3hCncx3e7sje.jpg", "actors": [], "comments": [], "recommandations_id": []}

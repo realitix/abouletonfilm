@@ -1,0 +1,1 @@
+{"tmdb_id": 538076, "title": "A Room with a Coconut View", "original_title": "A Room with a Coconut View", "slug_title": "a-room-with-a-coconut-view", "date": "2018-08-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zQ2ctbo69djx2g9XdgbSw8mSpX7.jpg", "actors": [], "comments": [], "recommandations_id": []}

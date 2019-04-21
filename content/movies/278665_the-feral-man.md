@@ -1,0 +1,1 @@
+{"tmdb_id": 278665, "title": "The Feral Man", "original_title": "The Feral Man", "slug_title": "the-feral-man", "date": "2002-08-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

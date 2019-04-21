@@ -1,0 +1,1 @@
+{"tmdb_id": 131397, "title": "Jakers! Fernie is a beetle", "original_title": "Jakers! Fernie is a beetle", "slug_title": "jakers-fernie-is-a-beetle", "date": "2007-10-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lReZDBAvJ0XanaB8iZHTsc7A7vG.jpg", "actors": [], "comments": [], "recommandations_id": []}

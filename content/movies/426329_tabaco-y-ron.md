@@ -1,0 +1,1 @@
+{"tmdb_id": 426329, "title": "Tabaco y Ron", "original_title": "Tabaco y Ron", "slug_title": "tabaco-y-ron", "date": "2016-11-15", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 326398, "title": "Goin' with the Flo", "original_title": "Goin' with the Flo", "slug_title": "goin-with-the-flo", "date": "2010-04-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 276215, "title": "The Beatles: Videobiography", "original_title": "The Beatles: Videobiography", "slug_title": "the-beatles-videobiography", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

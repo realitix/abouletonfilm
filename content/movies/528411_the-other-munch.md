@@ -1,0 +1,1 @@
+{"tmdb_id": 528411, "title": "The Other Munch", "original_title": "The Other Munch", "slug_title": "the-other-munch", "date": "2018-06-06", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Karl Ove Knausg\u00e5rd (Himself)", "Joachim Trier (Himself)"], "comments": [], "recommandations_id": []}

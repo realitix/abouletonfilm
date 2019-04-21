@@ -1,0 +1,1 @@
+{"tmdb_id": 318267, "title": "Iron Maiden: The Legacy of the Beast", "original_title": "Iron Maiden: The Legacy of the Beast", "slug_title": "iron-maiden-the-legacy-of-the-beast", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 480889, "title": "Bruce segun Africa", "original_title": "Bruce segun Africa", "slug_title": "bruce-segun-africa", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ys4SnwALPOU2sSt1oYGFxOwyILS.jpg", "actors": ["Bruce Springsteen ()"], "comments": [], "recommandations_id": []}

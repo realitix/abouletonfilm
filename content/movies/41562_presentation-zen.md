@@ -1,0 +1,1 @@
+{"tmdb_id": 41562, "title": "Presentation Zen", "original_title": "Presentation Zen", "slug_title": "presentation-zen", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hJsMkX28X9QVEx8fe9PwHYkH3kX.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 397501, "title": "Paloma Faith - Barbican Live", "original_title": "Paloma Faith - Barbican Live", "slug_title": "paloma-faith-barbican-live", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 48850, "title": "The Third Reich In Color", "original_title": "Das Dritte Reich - In Farbe", "slug_title": "the-third-reich-in-color", "date": "1998-01-01", "genre": "Documentaire", "score": "4.6/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bhfixgnFWuBWkbXEVWqZ0sntjpZ.jpg", "actors": [], "comments": [], "recommandations_id": [48894]}

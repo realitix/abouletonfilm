@@ -1,0 +1,1 @@
+{"tmdb_id": 78923, "title": "Alai Osai", "original_title": "Alai Osai", "slug_title": "alai-osai", "date": "1985-01-14", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Vijayakanth ()", "Nalini ()", "Goundamani ()", "Senthil ()"], "comments": [], "recommandations_id": []}

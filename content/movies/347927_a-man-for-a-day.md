@@ -1,0 +1,1 @@
+{"tmdb_id": 347927, "title": "A Man for a Day", "original_title": "A Man for a Day", "slug_title": "a-man-for-a-day", "date": "1912-11-27", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

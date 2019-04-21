@@ -1,0 +1,1 @@
+{"tmdb_id": 586489, "title": "Waiting Room", "original_title": "Waiting Room", "slug_title": "waiting-room", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tonia Sotiropoulou (Katia)", "Andreas Vougioukas (Andreas)", "Anna Fonsou (Casino Woman)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 517430, "title": "Instructions on Parting", "original_title": "Instructions on Parting", "slug_title": "instructions-on-parting", "date": "2018-02-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3Us1Jy29ypWzkIPNnGbtfV3PQ2e.jpg", "actors": [], "comments": [], "recommandations_id": []}

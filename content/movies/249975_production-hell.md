@@ -1,0 +1,1 @@
+{"tmdb_id": 249975, "title": "Production Hell", "original_title": "Production Hell", "slug_title": "production-hell", "date": "2011-01-12", "genre": "", "score": "0.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vTJvzmVaH9kq4eQuYlZBV7b8Aj3.jpg", "actors": [], "comments": [], "recommandations_id": []}

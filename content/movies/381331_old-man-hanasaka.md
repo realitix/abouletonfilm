@@ -1,0 +1,1 @@
+{"tmdb_id": 381331, "title": "Old Man Hanasaka", "original_title": "Hanasaka Jijii", "slug_title": "old-man-hanasaka", "date": "1917-08-26", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1aBk88vfetcuZOvQQeFPiddbEUj.jpg", "actors": [], "comments": [], "recommandations_id": []}

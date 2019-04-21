@@ -1,0 +1,1 @@
+{"tmdb_id": 509662, "title": "O C\u00e1rcere e a Rua", "original_title": "O C\u00e1rcere e a Rua", "slug_title": "o-carcere-e-a-rua", "date": "2004-08-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/c8TQ4bQgtcCNIgwHsEc5i8iCbTE.jpg", "actors": [], "comments": [], "recommandations_id": []}

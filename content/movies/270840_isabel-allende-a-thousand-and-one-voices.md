@@ -1,0 +1,1 @@
+{"tmdb_id": 270840, "title": "Isabel Allende: A Thousand and One Voices", "original_title": "Isabel Allende. Erz\u00e4hl mir vom Leben", "slug_title": "isabel-allende-a-thousand-and-one-voices", "date": "2008-01-06", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

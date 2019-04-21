@@ -1,0 +1,1 @@
+{"tmdb_id": 349839, "title": "\uc18c\ub9bc\uad00 \uc9c0\ubc30\uc778", "original_title": "\uc18c\ub9bc\uad00 \uc9c0\ubc30\uc778", "slug_title": "sorimgwan-jibaein", "date": "1982-12-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

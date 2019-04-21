@@ -1,0 +1,1 @@
+{"tmdb_id": 490936, "title": "Il Tempo delle Api", "original_title": "Il Tempo delle Api", "slug_title": "il-tempo-delle-api", "date": "2017-01-01", "genre": "Documentaire", "score": "7.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mtAoSHOk2wDjeJ2rt187tAk9PeR.jpg", "actors": [], "comments": [], "recommandations_id": []}

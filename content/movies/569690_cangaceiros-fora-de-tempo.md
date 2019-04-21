@@ -1,0 +1,1 @@
+{"tmdb_id": 569690, "title": "Cangaceiros Fora de Tempo", "original_title": "Cangaceiros Fora de Tempo", "slug_title": "cangaceiros-fora-de-tempo", "date": "2012-01-01", "genre": "Action / Aventure / Western", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

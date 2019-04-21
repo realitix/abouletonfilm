@@ -1,0 +1,1 @@
+{"tmdb_id": 240389, "title": "The Metropolis Case", "original_title": "Der Fall Metropolis", "slug_title": "the-metropolis-case", "date": "2003-02-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5AjPGKSflo36UQdQpLbEgikSkhM.jpg", "actors": ["Enno Patalas (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 456026, "title": "Phantasmagorical Mystery Tour", "original_title": "Phantasmagorical Mystery Tour", "slug_title": "phantasmagorical-mystery-tour", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Reggie Bannister ()"], "comments": [], "recommandations_id": []}

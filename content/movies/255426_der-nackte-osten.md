@@ -1,0 +1,1 @@
+{"tmdb_id": 255426, "title": "Der nackte Osten", "original_title": "Der nackte Osten", "slug_title": "der-nackte-osten", "date": "1994-07-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

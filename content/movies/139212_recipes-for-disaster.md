@@ -1,0 +1,1 @@
+{"tmdb_id": 139212, "title": "Recipes For Disaster", "original_title": "Katastrofin aineksia", "slug_title": "recipes-for-disaster", "date": "2008-09-19", "genre": "", "score": "6.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/osLiD06b1rGbXGQbZ7mkmWFdIBX.jpg", "actors": [], "comments": [], "recommandations_id": [22857]}

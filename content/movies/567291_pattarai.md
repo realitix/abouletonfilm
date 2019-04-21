@@ -1,0 +1,1 @@
+{"tmdb_id": 567291, "title": "Pattarai", "original_title": "Pattarai", "slug_title": "pattarai", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["J. D. Chakravarthi ()", "Senthil ()"], "comments": [], "recommandations_id": []}

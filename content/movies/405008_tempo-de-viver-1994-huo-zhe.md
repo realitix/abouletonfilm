@@ -1,0 +1,1 @@
+{"tmdb_id": 405008, "title": "Tempo de Viver (1994) Huo zhe", "original_title": "Tempo de Viver (1994) Huo zhe", "slug_title": "tempo-de-viver-1994-huo-zhe", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 90852, "title": "True Believer", "original_title": "D.A.D.: True Believer", "slug_title": "true-believer", "date": "2008-10-10", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7h512lwxIVZb4bzTt9j7XwnXuCL.jpg", "actors": ["Jesper Binzer ()"], "comments": [], "recommandations_id": []}

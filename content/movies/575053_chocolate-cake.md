@@ -1,0 +1,1 @@
+{"tmdb_id": 575053, "title": "Chocolate Cake", "original_title": "Chocolate Cake", "slug_title": "chocolate-cake", "date": "1973-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

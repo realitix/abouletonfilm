@@ -1,0 +1,1 @@
+{"tmdb_id": 538860, "title": "Dreams of Cinema", "original_title": "Dreams of Cinema", "slug_title": "dreams-of-cinema", "date": "2016-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/svXP9lnx4CfPs6EQ4jEOq85xKQ5.jpg", "actors": ["Kogonada (Himself)"], "comments": [], "recommandations_id": []}

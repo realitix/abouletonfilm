@@ -1,0 +1,1 @@
+{"tmdb_id": 563033, "title": "Painkiller: Inside the Opioid Crisis", "original_title": "Painkiller: Inside the Opioid Crisis", "slug_title": "painkiller-inside-the-opioid-crisis", "date": "2018-11-19", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

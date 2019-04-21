@@ -1,0 +1,1 @@
+{"tmdb_id": 473004, "title": "Bridges", "original_title": "Bridges", "slug_title": "bridges", "date": "2013-08-27", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Seana McKenna (Ericka)", "Oliver Becker (David)", "Abigail Winter (Lucy)", "Christine Horne (Linda)"], "comments": [], "recommandations_id": []}

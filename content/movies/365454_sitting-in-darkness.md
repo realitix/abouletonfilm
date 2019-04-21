@@ -1,0 +1,1 @@
+{"tmdb_id": 365454, "title": "Sitting in Darkness", "original_title": "Sitting in Darkness", "slug_title": "sitting-in-darkness", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

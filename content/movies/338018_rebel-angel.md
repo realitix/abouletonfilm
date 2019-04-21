@@ -1,0 +1,1 @@
+{"tmdb_id": 338018, "title": "Rebel Angel", "original_title": "Rebel Angel", "slug_title": "rebel-angel", "date": "1962-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tom Falk ()", "Richard Flynn ()", "Patricia Manning ()", "Denny Ross ()"], "comments": [], "recommandations_id": []}

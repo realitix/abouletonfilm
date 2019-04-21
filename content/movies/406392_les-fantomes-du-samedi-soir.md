@@ -1,0 +1,1 @@
+{"tmdb_id": 406392, "title": "Les fant\u00f4mes du samedi soir", "original_title": "Les fant\u00f4mes du samedi soir", "slug_title": "les-fantomes-du-samedi-soir", "date": "1997-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y5mOuRzixaG4MWzpy03TyMZA1T.jpg", "actors": [], "comments": [], "recommandations_id": []}

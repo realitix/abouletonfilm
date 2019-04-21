@@ -1,0 +1,1 @@
+{"tmdb_id": 521811, "title": "Schr\u00f6dinger's Cat Part I", "original_title": "Schr\u00f6dinger's Cat Part I", "slug_title": "schrodinger-s-cat-part-i", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

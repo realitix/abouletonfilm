@@ -1,0 +1,1 @@
+{"tmdb_id": 427145, "title": "The Face", "original_title": "El rostro", "slug_title": "the-face", "date": "1961-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/13lKATdR07UFXdlNxMqqaok1qhs.jpg", "actors": ["Juli\u00e1n Hern\u00e1ndez ()"], "comments": [], "recommandations_id": []}

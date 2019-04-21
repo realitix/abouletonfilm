@@ -1,0 +1,1 @@
+{"tmdb_id": 555396, "title": "Papa Hulin", "original_title": "Papa Hulin", "slug_title": "papa-hulin", "date": "1916-06-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

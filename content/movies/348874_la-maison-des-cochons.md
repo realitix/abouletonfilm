@@ -1,0 +1,1 @@
+{"tmdb_id": 348874, "title": "La Maison des Cochons", "original_title": "La Maison des Cochons", "slug_title": "la-maison-des-cochons", "date": "1997-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

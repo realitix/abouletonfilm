@@ -1,0 +1,1 @@
+{"tmdb_id": 234451, "title": "Tepee for Two", "original_title": "Tepee for Two", "slug_title": "tepee-for-two", "date": "1963-10-28", "genre": "Animation", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/heQehDtsju2VRTlbAHP7ST7yBOp.jpg", "actors": [], "comments": [], "recommandations_id": []}

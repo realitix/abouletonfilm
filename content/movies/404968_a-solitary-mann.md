@@ -1,0 +1,1 @@
+{"tmdb_id": 404968, "title": "A Solitary Mann", "original_title": "A Solitary Mann", "slug_title": "a-solitary-mann", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 529529, "title": "Os Boias-Frias do Futebol", "original_title": "Os Boias-Frias do Futebol", "slug_title": "os-boias-frias-do-futebol", "date": "2015-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

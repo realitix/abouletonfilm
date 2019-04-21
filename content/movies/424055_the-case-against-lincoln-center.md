@@ -1,0 +1,1 @@
+{"tmdb_id": 424055, "title": "The Case Against Lincoln Center", "original_title": "The Case Against Lincoln Center", "slug_title": "the-case-against-lincoln-center", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/viIuczUDPkXaomCIx7yKyNShp4A.jpg", "actors": [], "comments": [], "recommandations_id": []}

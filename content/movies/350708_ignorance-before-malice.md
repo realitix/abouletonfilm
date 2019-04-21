@@ -1,0 +1,1 @@
+{"tmdb_id": 350708, "title": "Ignorance Before Malice", "original_title": "Ignorance Before Malice", "slug_title": "ignorance-before-malice", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iGBV4Cr6O5g682auVQqoAifQNiC.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 311970, "title": "Urban Task Force", "original_title": "Urban Task Force", "slug_title": "urban-task-force", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 347709, "title": "Weather Report of the End", "original_title": "Weather Report of the End", "slug_title": "weather-report-of-the-end", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

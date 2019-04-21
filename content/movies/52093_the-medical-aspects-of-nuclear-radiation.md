@@ -1,0 +1,1 @@
+{"tmdb_id": 52093, "title": "The Medical Aspects of Nuclear Radiation", "original_title": "The Medical Aspects of Nuclear Radiation", "slug_title": "the-medical-aspects-of-nuclear-radiation", "date": "1950-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

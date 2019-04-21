@@ -1,0 +1,1 @@
+{"tmdb_id": 109052, "title": "Im Goggomobil um die Welt", "original_title": "Im Goggomobil um die Welt", "slug_title": "im-goggomobil-um-die-welt", "date": "2006-03-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3oG6tZRT5Ru7lpyZ5p12GmUzmIn.jpg", "actors": [], "comments": [], "recommandations_id": []}

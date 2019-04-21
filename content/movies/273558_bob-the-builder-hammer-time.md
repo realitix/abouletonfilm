@@ -1,0 +1,1 @@
+{"tmdb_id": 273558, "title": "Bob the Builder: Hammer Time", "original_title": "Bob the Builder: Hammer Time", "slug_title": "bob-the-builder-hammer-time", "date": "2013-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

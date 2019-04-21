@@ -1,0 +1,1 @@
+{"tmdb_id": 339676, "title": "Idiosyncrasy", "original_title": "Idiosyncrasy", "slug_title": "idiosyncrasy", "date": "2011-03-10", "genre": "Fantastique / Musique", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

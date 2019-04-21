@@ -1,0 +1,1 @@
+{"tmdb_id": 340823, "title": "Cash for Kenya", "original_title": "Cash for Kenya", "slug_title": "cash-for-kenya", "date": "2008-10-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/natgVmhW4yITk02kFwaeGhrmDsn.jpg", "actors": ["Johnny Cash (himself)"], "comments": [], "recommandations_id": []}

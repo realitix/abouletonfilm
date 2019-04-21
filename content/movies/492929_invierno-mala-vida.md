@@ -1,0 +1,1 @@
+{"tmdb_id": 492929, "title": "Invierno mala vida", "original_title": "Invierno mala vida", "slug_title": "invierno-mala-vida", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

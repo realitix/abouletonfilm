@@ -1,0 +1,1 @@
+{"tmdb_id": 273496, "title": "Low Budget", "original_title": "Low Budget", "slug_title": "low-budget", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

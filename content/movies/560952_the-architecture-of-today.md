@@ -1,0 +1,1 @@
+{"tmdb_id": 560952, "title": "The Architecture of Today", "original_title": "The Architecture of Today", "slug_title": "the-architecture-of-today", "date": "1930-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Le Corbusier ()"], "comments": [], "recommandations_id": []}

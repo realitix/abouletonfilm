@@ -1,0 +1,1 @@
+{"tmdb_id": 520060, "title": "Blixa Bargeld: Rede / Speech", "original_title": "Blixa Bargeld: Rede / Speech", "slug_title": "blixa-bargeld-rede-speech", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

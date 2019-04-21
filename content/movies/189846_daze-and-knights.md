@@ -1,0 +1,1 @@
+{"tmdb_id": 189846, "title": "Daze and Knights", "original_title": "Daze and Knights", "slug_title": "daze-and-knights", "date": "1927-10-29", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

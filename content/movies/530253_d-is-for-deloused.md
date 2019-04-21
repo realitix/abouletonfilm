@@ -1,0 +1,1 @@
+{"tmdb_id": 530253, "title": "D Is for Deloused", "original_title": "D Is for Deloused", "slug_title": "d-is-for-deloused", "date": "2014-10-02", "genre": "Animation / Horreur", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5v9t5JgyCebHxcKGTE6oSiUJZFR.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 553341, "title": "The Little Spoon", "original_title": "La Petite Cuill\u00e8re", "slug_title": "the-little-spoon", "date": "1960-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7JEyD33ZschwEsW4tbTCi1E7ulc.jpg", "actors": [], "comments": [], "recommandations_id": []}

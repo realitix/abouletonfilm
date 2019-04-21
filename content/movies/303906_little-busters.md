@@ -1,0 +1,1 @@
+{"tmdb_id": 303906, "title": "Little Busters!", "original_title": "Little Busters!", "slug_title": "little-busters", "date": "", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

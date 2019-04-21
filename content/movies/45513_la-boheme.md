@@ -1,0 +1,1 @@
+{"tmdb_id": 45513, "title": "La Boh\u00e8me", "original_title": "La Boh\u00e8me", "slug_title": "la-boheme", "date": "2009-01-01", "genre": "Documentaire / Musique", "score": "5.4/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4QvF7Ql4unjrWD5ZP6Hu58hamC6.jpg", "actors": ["Peter Auty ()", "Mary Plazas ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 114221, "title": "Strange Girls", "original_title": "Strange Girls", "slug_title": "strange-girls", "date": "2007-11-02", "genre": "Thriller", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tEjzoJTS7vpkSsBCUFsGb2VtRkK.jpg", "actors": ["David Dietz (Officer #1)"], "comments": [], "recommandations_id": []}

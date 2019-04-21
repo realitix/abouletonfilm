@@ -1,0 +1,1 @@
+{"tmdb_id": 581145, "title": "Teddy Tells Jokes", "original_title": "Teddy Tells Jokes", "slug_title": "teddy-tells-jokes", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tony Conrad ()", "Ted Conrad ()"], "comments": [], "recommandations_id": []}

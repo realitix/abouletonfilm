@@ -1,0 +1,1 @@
+{"tmdb_id": 578612, "title": "Tragedy of the Commons", "original_title": "Tragedy of the Commons", "slug_title": "tragedy-of-the-commons", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

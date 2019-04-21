@@ -1,0 +1,1 @@
+{"tmdb_id": 152531, "title": "Trond Kirkvaag - Bare Trond", "original_title": "Trond Kirkvaag - Bare Trond", "slug_title": "trond-kirkvaag-bare-trond", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tqqcjLs2aM1M6e2vQpi5S1hlVlu.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 255767, "title": "Can Notes", "original_title": "Can Notes", "slug_title": "can-notes", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3t6nmuncAOc4B2ePpImyqT4EHO7.jpg", "actors": [], "comments": [], "recommandations_id": []}

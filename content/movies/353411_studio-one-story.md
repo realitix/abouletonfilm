@@ -1,0 +1,1 @@
+{"tmdb_id": 353411, "title": "Studio One Story", "original_title": "Studio One Story", "slug_title": "studio-one-story", "date": "2002-12-27", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7obVXPEXKzeC3CDrwabZFYjToLg.jpg", "actors": [], "comments": [], "recommandations_id": []}

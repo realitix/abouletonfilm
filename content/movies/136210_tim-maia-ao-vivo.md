@@ -1,0 +1,1 @@
+{"tmdb_id": 136210, "title": "Tim Maia Ao Vivo", "original_title": "Tim Maia Ao Vivo", "slug_title": "tim-maia-ao-vivo", "date": "2016-02-20", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aX5vl8fbTO65GMC5AInh7CwBlOz.jpg", "actors": [], "comments": [], "recommandations_id": []}

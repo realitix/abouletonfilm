@@ -1,0 +1,1 @@
+{"tmdb_id": 165334, "title": "The Kung Fu Years", "original_title": "The Kung Fu Years", "slug_title": "the-kung-fu-years", "date": "1997-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yPCOuES7qb60gYAnvuSYwPhHiij.jpg", "actors": [], "comments": [], "recommandations_id": []}

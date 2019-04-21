@@ -1,0 +1,1 @@
+{"tmdb_id": 588720, "title": "Letsplay", "original_title": "\u041b\u0435\u0442\u0441\u043f\u043b\u0435\u0439", "slug_title": "letsplay", "date": "2019-04-06", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/BpThF7lt7qbG7eR3WTCadlVaxy.jpg", "actors": [], "comments": [], "recommandations_id": []}

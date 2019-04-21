@@ -1,0 +1,1 @@
+{"tmdb_id": 40678, "title": "Tit\u00e3s - MTV ao Vivo", "original_title": "Tit\u00e3s - MTV ao Vivo", "slug_title": "titas-mtv-ao-vivo", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sx47ZL34PHVA757ODcsbOu4VF85.jpg", "actors": [], "comments": [], "recommandations_id": []}

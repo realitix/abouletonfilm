@@ -1,0 +1,1 @@
+{"tmdb_id": 423340, "title": "The Call of Charlie", "original_title": "The Call of Charlie", "slug_title": "the-call-of-charlie", "date": "", "genre": "Horreur / Com\u00e9die", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qzuZSjM5r3YvvCZAy4h3fhYetXG.jpg", "actors": [], "comments": [], "recommandations_id": []}

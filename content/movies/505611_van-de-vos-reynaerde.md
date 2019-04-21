@@ -1,0 +1,1 @@
+{"tmdb_id": 505611, "title": "Van de vos reynaerde", "original_title": "Van de vos reynaerde", "slug_title": "van-de-vos-reynaerde", "date": "1943-04-25", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/85CGrmc7OuicUqSTsFtyG8CsdR1.jpg", "actors": [], "comments": [], "recommandations_id": []}

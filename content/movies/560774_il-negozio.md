@@ -1,0 +1,1 @@
+{"tmdb_id": 560774, "title": "Il Negozio", "original_title": "Il Negozio", "slug_title": "il-negozio", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Alessandro Isidori ()", "Pascale Misuraca ()"], "comments": [], "recommandations_id": []}

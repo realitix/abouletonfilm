@@ -1,0 +1,1 @@
+{"tmdb_id": 591601, "title": "Cities of the Sea", "original_title": "Cities of the Sea", "slug_title": "cities-of-the-sea", "date": "2019-03-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Stephanie Arne (Herself)"], "comments": [], "recommandations_id": []}

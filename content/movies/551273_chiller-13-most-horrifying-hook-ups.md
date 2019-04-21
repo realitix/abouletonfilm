@@ -1,0 +1,1 @@
+{"tmdb_id": 551273, "title": "Chiller 13: Most Horrifying Hook-ups", "original_title": "Chiller 13: Most Horrifying Hook-ups", "slug_title": "chiller-13-most-horrifying-hook-ups", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

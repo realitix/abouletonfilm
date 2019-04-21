@@ -1,0 +1,1 @@
+{"tmdb_id": 574185, "title": "A Day in Liverpool", "original_title": "A Day in Liverpool", "slug_title": "a-day-in-liverpool", "date": "1929-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

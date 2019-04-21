@@ -1,0 +1,1 @@
+{"tmdb_id": 582545, "title": "Bill's leaving", "original_title": "Bill's leaving", "slug_title": "bill-s-leaving", "date": "2017-08-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fAgXaZe8X6xAoP70B9c71AzZ0z2.jpg", "actors": [], "comments": [], "recommandations_id": []}

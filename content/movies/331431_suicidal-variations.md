@@ -1,0 +1,1 @@
+{"tmdb_id": 331431, "title": "Suicidal Variations", "original_title": "Suicidal Variations", "slug_title": "suicidal-variations", "date": "2007-01-01", "genre": "Thriller / Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/umWOUv7JLafNQdOJ0xCjZI5nsh3.jpg", "actors": ["Jang Sun-Jin ()"], "comments": [], "recommandations_id": []}

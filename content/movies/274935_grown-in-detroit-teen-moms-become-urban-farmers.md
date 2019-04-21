@@ -1,0 +1,1 @@
+{"tmdb_id": 274935, "title": "Grown in Detroit/Teen Moms Become Urban Farmers", "original_title": "Grown in Detroit/Teen Moms Become Urban Farmers", "slug_title": "grown-in-detroit-teen-moms-become-urban-farmers", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

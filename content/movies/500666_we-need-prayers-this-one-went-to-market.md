@@ -1,0 +1,1 @@
+{"tmdb_id": 500666, "title": "We Need Prayers: This One Went to Market", "original_title": "We Need Prayers: This One Went to Market", "slug_title": "we-need-prayers-this-one-went-to-market", "date": "2018-01-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

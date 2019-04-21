@@ -1,0 +1,1 @@
+{"tmdb_id": 516653, "title": "Enredando as pessoas", "original_title": "Enredando as pessoas", "slug_title": "enredando-as-pessoas", "date": "1995-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

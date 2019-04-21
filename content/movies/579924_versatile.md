@@ -1,0 +1,1 @@
+{"tmdb_id": 579924, "title": "Versatile", "original_title": "Vers\u00e1til", "slug_title": "versatile", "date": "2017-10-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zfZQV037Vd3go77WsHMUkqJX9Ev.jpg", "actors": ["Eudald Font (Alex)", "Christian Escudero (Hugo)"], "comments": [], "recommandations_id": []}

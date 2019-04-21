@@ -1,0 +1,1 @@
+{"tmdb_id": 491547, "title": "9/11-11/9 Fear of the Unknown", "original_title": "9/11-11/9 Fear of the Unknown", "slug_title": "9-11-11-9-fear-of-the-unknown", "date": "2017-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

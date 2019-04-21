@@ -1,0 +1,1 @@
+{"tmdb_id": 367262, "title": "Janku 5: Shi no Katarogu", "original_title": "Janku 5: Shi no Katarogu", "slug_title": "janku-5-shi-no-katarogu", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

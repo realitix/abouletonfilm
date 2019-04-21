@@ -1,0 +1,1 @@
+{"tmdb_id": 156533, "title": "Japanese American Communities", "original_title": "Japanese American Communities", "slug_title": "japanese-american-communities", "date": "1932-04-17", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 251884, "title": "Labios de Churrasco", "original_title": "Labios de Churrasco", "slug_title": "labios-de-churrasco", "date": "1994-07-03", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b9SoaKfh5hwJ60tlL5rRHBoWHAs.jpg", "actors": [], "comments": [], "recommandations_id": []}

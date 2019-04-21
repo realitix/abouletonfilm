@@ -1,0 +1,1 @@
+{"tmdb_id": 96878, "title": "The Red Stuff", "original_title": "The Red Stuff", "slug_title": "the-red-stuff", "date": "2000-01-01", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/65YC34Fd39H3ysJfMeDWODWiXZ0.jpg", "actors": [], "comments": [], "recommandations_id": []}

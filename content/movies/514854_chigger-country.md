@@ -1,0 +1,1 @@
+{"tmdb_id": 514854, "title": "Chigger Country", "original_title": "Chigger Country", "slug_title": "chigger-country", "date": "1999-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4OEgUezuRmcoJcIH9m3zzY6AKw9.jpg", "actors": ["George Kuchar ()"], "comments": [], "recommandations_id": []}

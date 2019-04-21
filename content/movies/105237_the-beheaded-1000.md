@@ -1,0 +1,1 @@
+{"tmdb_id": 105237, "title": "The Beheaded 1000", "original_title": "Qian ren zhan", "slug_title": "the-beheaded-1000", "date": "1991-01-01", "genre": "Horreur / Action", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o0SxJfhrEK8t4bDRkVwVZ6Fkzjo.jpg", "actors": [], "comments": [], "recommandations_id": []}

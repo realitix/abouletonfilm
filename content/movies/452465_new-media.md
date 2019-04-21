@@ -1,0 +1,1 @@
+{"tmdb_id": 452465, "title": "New Media", "original_title": "New Media", "slug_title": "new-media", "date": "2010-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["BethAnn Bonner (Chloe Hudson)", "Morgan Lynch (Meredith Murdoch)", "Bill McHugh (Herman Barton)"], "comments": [], "recommandations_id": []}

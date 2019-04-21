@@ -1,0 +1,1 @@
+{"tmdb_id": 450894, "title": "Aprender a ler para ensinar meus camaradas", "original_title": "Aprender a ler para ensinar meus camaradas", "slug_title": "aprender-a-ler-para-ensinar-meus-camaradas", "date": "2013-11-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

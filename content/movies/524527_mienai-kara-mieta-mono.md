@@ -1,0 +1,1 @@
+{"tmdb_id": 524527, "title": "Mienai kara mieta mono", "original_title": "Mienai kara mieta mono", "slug_title": "mienai-kara-mieta-mono", "date": "2016-11-19", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

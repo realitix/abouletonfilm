@@ -1,0 +1,1 @@
+{"tmdb_id": 437520, "title": "What's It Gonna Be?", "original_title": "What's It Gonna Be?", "slug_title": "what-s-it-gonna-be", "date": "2016-06-01", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Shura (Shura)", "Nick (Nick)", "Sara Guerrero (Sarah)", "Pau Zeiss (Brad)"], "comments": [], "recommandations_id": []}

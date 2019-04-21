@@ -1,0 +1,1 @@
+{"tmdb_id": 350202, "title": "\ub2ec\ub824\ub77c \ud48d\uc120", "original_title": "\ub2ec\ub824\ub77c \ud48d\uc120", "slug_title": "dalryeora-pungseon", "date": "1980-11-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

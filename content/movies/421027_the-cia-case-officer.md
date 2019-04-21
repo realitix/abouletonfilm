@@ -1,0 +1,1 @@
+{"tmdb_id": 421027, "title": "The CIA Case Officer", "original_title": "The CIA Case Officer", "slug_title": "the-cia-case-officer", "date": "1978-09-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

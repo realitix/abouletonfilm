@@ -1,0 +1,1 @@
+{"tmdb_id": 311535, "title": "Andrea Bacchetti: Bach: Goldberg Variations", "original_title": "Andrea Bacchetti: Bach: Goldberg Variations", "slug_title": "andrea-bacchetti-bach-goldberg-variations", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

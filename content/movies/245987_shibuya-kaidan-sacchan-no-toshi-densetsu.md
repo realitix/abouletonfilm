@@ -1,0 +1,1 @@
+{"tmdb_id": 245987, "title": "Shibuya Kaidan Sacchan no Toshi Densetsu", "original_title": "Shibuya Kaidan Sacchan no Toshi Densetsu", "slug_title": "shibuya-kaidan-sacchan-no-toshi-densetsu", "date": "2004-01-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

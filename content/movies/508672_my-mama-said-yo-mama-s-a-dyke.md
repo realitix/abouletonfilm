@@ -1,0 +1,1 @@
+{"tmdb_id": 508672, "title": "My Mama Said Yo Mama's a Dyke", "original_title": "My Mama Said Yo Mama's a Dyke", "slug_title": "my-mama-said-yo-mama-s-a-dyke", "date": "2010-11-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5xHY6N6a9JE643wljaxCCsxSV1M.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 316403, "title": "History of Christian Worship: Part 2, The Body", "original_title": "History of Christian Worship: Part 2, The Body", "slug_title": "history-of-christian-worship-part-2-the-body", "date": "2010-02-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

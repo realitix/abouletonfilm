@@ -1,0 +1,1 @@
+{"tmdb_id": 151832, "title": "Man At War", "original_title": "Wirtualna Wojna", "slug_title": "man-at-war", "date": "2012-05-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pFHplVJBElvsyUI5l6Uw5G1qIMH.jpg", "actors": [], "comments": [], "recommandations_id": []}

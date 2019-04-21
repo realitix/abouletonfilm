@@ -1,0 +1,1 @@
+{"tmdb_id": 34191, "title": "Alf, Bill and Fred", "original_title": "Alf, Bill and Fred", "slug_title": "alf-bill-and-fred", "date": "1964-01-01", "genre": "Animation", "score": "5.3/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

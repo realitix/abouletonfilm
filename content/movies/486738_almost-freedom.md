@@ -1,0 +1,1 @@
+{"tmdb_id": 486738, "title": "(Almost) Freedom", "original_title": "(Almost) Freedom", "slug_title": "almost-freedom", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

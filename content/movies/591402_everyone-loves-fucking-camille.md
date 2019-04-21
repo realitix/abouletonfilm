@@ -1,0 +1,1 @@
+{"tmdb_id": 591402, "title": "Everyone Loves Fucking Camille", "original_title": "Everyone Loves Fucking Camille", "slug_title": "everyone-loves-fucking-camille", "date": "2015-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gaz8DxsbH5zzmc2F5N2iu7Q3GG0.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 90951, "title": "Pa\u00eds Paisa", "original_title": "Pa\u00eds Paisa", "slug_title": "pais-paisa", "date": "", "genre": "Com\u00e9die", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/icHKqWywZ6wBlFEVF0qo4Sx0K4H.jpg", "actors": [], "comments": [], "recommandations_id": []}

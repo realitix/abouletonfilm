@@ -1,0 +1,1 @@
+{"tmdb_id": 1438, "title": "Regoch", "original_title": "Regoch", "slug_title": "regoch", "date": "2006-11-20", "genre": "Animation", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

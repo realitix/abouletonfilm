@@ -1,0 +1,1 @@
+{"tmdb_id": 350513, "title": "\uc21c\uc545\uc9c8 \uc5ec\uc0ac", "original_title": "\uc21c\uc545\uc9c8 \uc5ec\uc0ac", "slug_title": "sunagjil-yeosa", "date": "1980-03-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

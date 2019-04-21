@@ -1,0 +1,1 @@
+{"tmdb_id": 85633, "title": "Hot Pepper", "original_title": "Hot Pepper", "slug_title": "hot-pepper", "date": "1973-11-22", "genre": "Documentaire / Musique", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v7usOC8HfXkFcWXUno5fXDJ6cQf.jpg", "actors": ["Clifton Chenier (Himself)"], "comments": [], "recommandations_id": []}

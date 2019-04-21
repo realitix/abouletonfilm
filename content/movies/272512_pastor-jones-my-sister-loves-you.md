@@ -1,0 +1,1 @@
+{"tmdb_id": 272512, "title": "Pastor Jones: My Sister Loves You", "original_title": "Pastor Jones: My Sister Loves You", "slug_title": "pastor-jones-my-sister-loves-you", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

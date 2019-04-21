@@ -1,0 +1,1 @@
+{"tmdb_id": 515172, "title": "putani safari", "original_title": "putani safari", "slug_title": "putani-safari", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x1qKYm7KZVfVVkP3yk0bItS92J0.jpg", "actors": [], "comments": [], "recommandations_id": []}

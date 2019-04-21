@@ -1,0 +1,1 @@
+{"tmdb_id": 235912, "title": "Shuteye Popeye", "original_title": "Shuteye Popeye", "slug_title": "shuteye-popeye", "date": "1952-10-02", "genre": "Animation", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2HzFTeZA8QwFytYmnvz6VqqF1Wf.jpg", "actors": [], "comments": [], "recommandations_id": []}

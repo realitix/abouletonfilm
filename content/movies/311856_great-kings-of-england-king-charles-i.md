@@ -1,0 +1,1 @@
+{"tmdb_id": 311856, "title": "Great Kings of England: King Charles I", "original_title": "Great Kings of England: King Charles I", "slug_title": "great-kings-of-england-king-charles-i", "date": "2000-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

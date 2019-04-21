@@ -1,0 +1,1 @@
+{"tmdb_id": 337404, "title": "Cruella", "original_title": "Cruella", "slug_title": "cruella", "date": "", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kaiWqxZMZOCXjRknyfOCJKBvwwt.jpg", "actors": ["Emma Stone (Cruella de Vil)"], "comments": [], "recommandations_id": []}

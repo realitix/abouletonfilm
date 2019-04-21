@@ -1,0 +1,1 @@
+{"tmdb_id": 280641, "title": "Elias p\u00e5 Nya Uppdrag", "original_title": "Elias p\u00e5 Nya Uppdrag", "slug_title": "elias-pa-nya-uppdrag", "date": "2007-07-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

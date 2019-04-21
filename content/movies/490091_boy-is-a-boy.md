@@ -1,0 +1,1 @@
+{"tmdb_id": 490091, "title": "Boy Is A Boy", "original_title": "Mal'chik kak Mal'chik", "slug_title": "boy-is-a-boy", "date": "1986-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Liya Akhedzhakova ()"], "comments": [], "recommandations_id": []}

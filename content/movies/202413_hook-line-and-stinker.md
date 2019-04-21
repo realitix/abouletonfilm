@@ -1,0 +1,1 @@
+{"tmdb_id": 202413, "title": "Hook, Line, and Stinker", "original_title": "Hook, Line, and Stinker", "slug_title": "hook-line-and-stinker", "date": "1968-03-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bjIafYGKDhPH7VFyBPCHaRGZpsC.jpg", "actors": [], "comments": [], "recommandations_id": []}

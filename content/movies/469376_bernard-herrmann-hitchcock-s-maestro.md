@@ -1,0 +1,1 @@
+{"tmdb_id": 469376, "title": "Bernard Herrmann: Hitchcock's Maestro", "original_title": "Bernard Herrmann: Hitchcock's Maestro", "slug_title": "bernard-herrmann-hitchcock-s-maestro", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

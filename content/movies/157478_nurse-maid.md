@@ -1,0 +1,1 @@
+{"tmdb_id": 157478, "title": "Nurse Maid", "original_title": "Nurse Maid", "slug_title": "nurse-maid", "date": "1932-11-25", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

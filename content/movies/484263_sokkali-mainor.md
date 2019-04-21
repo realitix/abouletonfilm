@@ -1,0 +1,1 @@
+{"tmdb_id": 484263, "title": "Sokkali Mainor", "original_title": "Sokkali Mainor", "slug_title": "sokkali-mainor", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pG2fDD86e1CPsxThi7VGZfyitW1.jpg", "actors": [], "comments": [], "recommandations_id": []}

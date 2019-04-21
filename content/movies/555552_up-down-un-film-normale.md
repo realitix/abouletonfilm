@@ -1,0 +1,1 @@
+{"tmdb_id": 555552, "title": "Up&Down - Un film normale", "original_title": "Up&Down - Un film normale", "slug_title": "up-down-un-film-normale", "date": "2018-10-25", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/13Pj0PkWeI6rxZS80Uc2pYcSu6Y.jpg", "actors": [], "comments": [], "recommandations_id": []}

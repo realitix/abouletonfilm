@@ -1,0 +1,1 @@
+{"tmdb_id": 308280, "title": "Animal Planet: Growing Up Safari", "original_title": "Animal Planet: Growing Up Safari", "slug_title": "animal-planet-growing-up-safari", "date": "2010-01-26", "genre": "Documentaire / Familial", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

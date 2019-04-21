@@ -1,0 +1,1 @@
+{"tmdb_id": 284987, "title": "Pappa kom hem", "original_title": "Pappa kom hem", "slug_title": "pappa-kom-hem", "date": "2010-04-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jack Vreeswijk ()", "Stefan Sundstr\u00f6m ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 301411, "title": "Je'Caryous Johnson's Men, Money and Gold Diggers", "original_title": "Je'Caryous Johnson's Men, Money and Gold Diggers", "slug_title": "je-caryous-johnson-s-men-money-and-gold-diggers", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

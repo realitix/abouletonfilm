@@ -1,0 +1,1 @@
+{"tmdb_id": 538020, "title": "tarumba", "original_title": "tarumba", "slug_title": "tarumba", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2otD9oxmxCKpca5QbX8lA4piT7q.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 80185, "title": "Enxaneta", "original_title": "Enxaneta", "slug_title": "enxaneta", "date": "2011-11-11", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n4zjXa0OrT3nbhnqcV1Pa0gv0Gv.jpg", "actors": ["Miquel Botella ()", "Roser Herreros ()", "Helena Llagostera ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 381362, "title": "Pineapple Calamari", "original_title": "Pineapple Calamari", "slug_title": "pineapple-calamari", "date": "2014-12-31", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hZC4nk7ZQxn6HXKXVWCUW9NFNxj.jpg", "actors": [], "comments": [], "recommandations_id": []}

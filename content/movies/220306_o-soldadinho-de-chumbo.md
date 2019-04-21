@@ -1,0 +1,1 @@
+{"tmdb_id": 220306, "title": "O Soldadinho de Chumbo", "original_title": "O Soldadinho de Chumbo", "slug_title": "o-soldadinho-de-chumbo", "date": "", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 506461, "title": "My DDR T-Shirt", "original_title": "My DDR T-Shirt", "slug_title": "my-ddr-t-shirt", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

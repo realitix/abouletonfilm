@@ -1,0 +1,1 @@
+{"tmdb_id": 235245, "title": "Black Trip 2", "original_title": "Black Trip 2", "slug_title": "black-trip-2", "date": "1967-11-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/unDBLBZrL95maanejG67WB0c43c.jpg", "actors": [], "comments": [], "recommandations_id": []}

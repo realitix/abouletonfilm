@@ -1,0 +1,1 @@
+{"tmdb_id": 394236, "title": "The Territory of Others", "original_title": "Le territoire des autres", "slug_title": "the-territory-of-others", "date": "1970-04-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/glkRyQYWYOfnqYsfP1LA3tsqV6w.jpg", "actors": [], "comments": [], "recommandations_id": []}

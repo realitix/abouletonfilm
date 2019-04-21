@@ -1,0 +1,1 @@
+{"tmdb_id": 190746, "title": "Kri Kri domestico", "original_title": "Kri Kri domestico", "slug_title": "kri-kri-domestico", "date": "1913-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Raymond Dandy (Kri Kri)"], "comments": [], "recommandations_id": []}

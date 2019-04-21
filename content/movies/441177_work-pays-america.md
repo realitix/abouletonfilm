@@ -1,0 +1,1 @@
+{"tmdb_id": 441177, "title": "Work Pays America", "original_title": "Work Pays America", "slug_title": "work-pays-america", "date": "1937-02-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

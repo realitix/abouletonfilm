@@ -1,0 +1,1 @@
+{"tmdb_id": 319817, "title": "Srimanthudu", "original_title": "Srimanthudu", "slug_title": "srimanthudu", "date": "1971-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

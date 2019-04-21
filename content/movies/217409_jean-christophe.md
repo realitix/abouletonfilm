@@ -1,0 +1,1 @@
+{"tmdb_id": 217409, "title": "Jean-Christophe", "original_title": "Jean-Christophe", "slug_title": "jean-christophe", "date": "1978-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Klaus Maria Brandauer ()"], "comments": [], "recommandations_id": []}

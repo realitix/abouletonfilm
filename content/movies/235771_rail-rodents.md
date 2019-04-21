@@ -1,0 +1,1 @@
+{"tmdb_id": 235771, "title": "Rail Rodents", "original_title": "Rail Rodents", "slug_title": "rail-rodents", "date": "1954-11-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

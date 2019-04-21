@@ -1,0 +1,1 @@
+{"tmdb_id": 536230, "title": "Truck Wars", "original_title": "Truck Wars", "slug_title": "truck-wars", "date": "2018-07-10", "genre": "Histoire / Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bvNiucoT4N52cYJDK2KRhIeD0Aq.jpg", "actors": [], "comments": [], "recommandations_id": []}

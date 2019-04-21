@@ -1,0 +1,1 @@
+{"tmdb_id": 36721, "title": "Jung On Film", "original_title": "Jung On Film", "slug_title": "jung-on-film", "date": "1991-06-10", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6PUBwGA6sTTIZtDsxdb9mD78sxG.jpg", "actors": ["Carl Jung (Himself)"], "comments": [], "recommandations_id": []}

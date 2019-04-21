@@ -1,0 +1,1 @@
+{"tmdb_id": 324300, "title": "Rolling Papers", "original_title": "Rolling Papers", "slug_title": "rolling-papers", "date": "2015-03-15", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ckPHkH3rmAqoMpj0cbnxTrZrwo4.jpg", "actors": [], "comments": [], "recommandations_id": [422753, 336992, 391754, 285937]}

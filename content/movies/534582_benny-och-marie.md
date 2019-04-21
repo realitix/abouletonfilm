@@ -1,0 +1,1 @@
+{"tmdb_id": 534582, "title": "Benny och Marie", "original_title": "Benny och Marie", "slug_title": "benny-och-marie", "date": "1974-01-01", "genre": "Drame / Familial", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

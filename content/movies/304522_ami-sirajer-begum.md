@@ -1,0 +1,1 @@
+{"tmdb_id": 304522, "title": "Ami Sirajer Begum", "original_title": "Ami Sirajer Begum", "slug_title": "ami-sirajer-begum", "date": "1973-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

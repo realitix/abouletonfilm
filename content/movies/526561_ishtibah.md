@@ -1,0 +1,1 @@
+{"tmdb_id": 526561, "title": "Ishtiba\u0304h", "original_title": "Ishtiba\u0304h", "slug_title": "ishtibah", "date": "2006-06-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Salim Shaheen ()"], "comments": [], "recommandations_id": []}

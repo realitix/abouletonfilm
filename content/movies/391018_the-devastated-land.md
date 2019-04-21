@@ -1,0 +1,1 @@
+{"tmdb_id": 391018, "title": "The Devastated Land", "original_title": "Le Pays D\u00e9vast\u00e9", "slug_title": "the-devastated-land", "date": "2015-06-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

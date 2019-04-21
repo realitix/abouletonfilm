@@ -1,0 +1,1 @@
+{"tmdb_id": 563714, "title": "Puppy Love", "original_title": "Puppy Love", "slug_title": "puppy-love", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sqciPyxNNfbmCnrS6rxPCcC7tf3.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 398457, "title": "Dance with a Serial Killer", "original_title": "Dance with a Serial Killer", "slug_title": "dance-with-a-serial-killer", "date": "2008-02-24", "genre": "Documentaire / Crime / T\u00e9l\u00e9film", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

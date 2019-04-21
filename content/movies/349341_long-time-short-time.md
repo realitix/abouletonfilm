@@ -1,0 +1,1 @@
+{"tmdb_id": 349341, "title": "Long Time, Short Time", "original_title": "\uc9e7\uc740 \uc2dc\uac04 \uae34 \uc2dc\uac04", "slug_title": "long-time-short-time", "date": "1994-03-26", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 208407, "title": "L.A: Gangs de femmes", "original_title": "L.A: Gangs de femmes", "slug_title": "l-a-gangs-de-femmes", "date": "2012-04-17", "genre": "Drame / Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qymTxOg86lkzZb4wsKaLw74gdTm.jpg", "actors": [], "comments": [], "recommandations_id": []}

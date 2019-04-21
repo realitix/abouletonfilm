@@ -1,0 +1,1 @@
+{"tmdb_id": 402802, "title": "White Tape", "original_title": "White Tape", "slug_title": "white-tape", "date": "2010-01-01", "genre": "Animation / Drame", "score": "2.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

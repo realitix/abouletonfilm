@@ -1,0 +1,1 @@
+{"tmdb_id": 252687, "title": "Hell's Kitchen: A New York Neighborhood", "original_title": "Hell's Kitchen: A New York Neighborhood", "slug_title": "hell-s-kitchen-a-new-york-neighborhood", "date": "2000-01-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 113402, "title": "Phone Sex", "original_title": "Phone Sex", "slug_title": "phone-sex", "date": "1999-07-14", "genre": "Drame", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lyxwDiI00ZybGCcuLBcJ9LqTzO6.jpg", "actors": ["Ara Mina ()", "John Apacible ()"], "comments": [], "recommandations_id": []}

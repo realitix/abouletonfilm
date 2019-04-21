@@ -1,0 +1,1 @@
+{"tmdb_id": 535800, "title": "La revoluci\u00f3n matrimonial", "original_title": "La revoluci\u00f3n matrimonial", "slug_title": "la-revolucion-matrimonial", "date": "1974-07-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fD6dLP1C9hpvBjHN2Tyl8dcy6va.jpg", "actors": [], "comments": [], "recommandations_id": []}

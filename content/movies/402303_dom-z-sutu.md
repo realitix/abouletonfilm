@@ -1,0 +1,1 @@
+{"tmdb_id": 402303, "title": "Dom'z s\u00fct\u00fc", "original_title": "Dom'z s\u00fct\u00fc", "slug_title": "dom-z-sutu", "date": "2014-12-31", "genre": "Com\u00e9die / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Vivien Bullert (Lena)", "Irfan Kars (Erol)", "Murat Dikenci (\u00dcmmet)"], "comments": [], "recommandations_id": []}

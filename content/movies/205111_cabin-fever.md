@@ -1,0 +1,1 @@
+{"tmdb_id": 205111, "title": "Cabin Fever", "original_title": "Cabin Fever", "slug_title": "cabin-fever", "date": "1993-10-15", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Belinda Farrell (Lenore Hoffman)", "Judd Dunning (Jack)"], "comments": [], "recommandations_id": []}

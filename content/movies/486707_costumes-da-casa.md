@@ -1,0 +1,1 @@
+{"tmdb_id": 486707, "title": "Costumes da Casa", "original_title": "Costumes da Casa", "slug_title": "costumes-da-casa", "date": "1977-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

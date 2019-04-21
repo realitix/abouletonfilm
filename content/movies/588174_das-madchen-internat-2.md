@@ -1,0 +1,1 @@
+{"tmdb_id": 588174, "title": "Das M\u00e4dchen Internat 2", "original_title": "Das M\u00e4dchen Internat 2", "slug_title": "das-madchen-internat-2", "date": "2004-03-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bWSty6SfwnAXwzUIso2xokHnZXh.jpg", "actors": ["Kelly Trump ()"], "comments": [], "recommandations_id": []}

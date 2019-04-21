@@ -1,0 +1,1 @@
+{"tmdb_id": 468078, "title": "African Exodus", "original_title": "African Exodus", "slug_title": "african-exodus", "date": "2014-03-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oBkf22quOzXpMojJZSeL9ImVqE7.jpg", "actors": [], "comments": [], "recommandations_id": []}

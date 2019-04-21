@@ -1,0 +1,1 @@
+{"tmdb_id": 443514, "title": "Know your enemy: The Viet Cong", "original_title": "Know your enemy: The Viet Cong", "slug_title": "know-your-enemy-the-viet-cong", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

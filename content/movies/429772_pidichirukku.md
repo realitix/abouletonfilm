@@ -1,0 +1,1 @@
+{"tmdb_id": 429772, "title": "Pidichirukku", "original_title": "Pidichirukku", "slug_title": "pidichirukku", "date": "2008-01-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ashok Kumar ()", "Vishakha Singh ()", "Sampath Raj ()", "Kanja Karuppu ()", "Saranya Ponvannan ()"], "comments": [], "recommandations_id": []}

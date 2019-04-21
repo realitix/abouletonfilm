@@ -1,0 +1,1 @@
+{"tmdb_id": 395518, "title": "Map Projections", "original_title": "Map Projections", "slug_title": "map-projections", "date": "1977-05-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ened8pAEZ1mPFcigE9DuFl8WAxb.jpg", "actors": [], "comments": [], "recommandations_id": []}

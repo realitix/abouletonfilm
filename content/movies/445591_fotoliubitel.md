@@ -1,0 +1,1 @@
+{"tmdb_id": 445591, "title": "\u0424\u043e\u0442\u043e\u043b\u044e\u0431\u0438\u0442\u0435\u043b\u044c", "original_title": "\u0424\u043e\u0442\u043e\u043b\u044e\u0431\u0438\u0442\u0435\u043b\u044c", "slug_title": "fotoliubitel", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 332773, "title": "They Took Us to The Sea", "original_title": "They Took Us to The Sea", "slug_title": "they-took-us-to-the-sea", "date": "1961-01-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mjumdq4MHC5lhOswYeV0z0jb41d.jpg", "actors": [], "comments": [], "recommandations_id": []}

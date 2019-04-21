@@ -1,0 +1,1 @@
+{"tmdb_id": 380641, "title": "Chromaticit\u00e9 I", "original_title": "Chromaticit\u00e9 I", "slug_title": "chromaticite-i", "date": "1977-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j0BzWF2LomqSqhcY5zsQCcbArux.jpg", "actors": [], "comments": [], "recommandations_id": []}

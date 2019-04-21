@@ -1,0 +1,1 @@
+{"tmdb_id": 536875, "title": "Das Haus ohne T\u00fcr", "original_title": "Das Haus ohne T\u00fcr", "slug_title": "das-haus-ohne-tur", "date": "1914-06-30", "genre": "Myst\u00e8re", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Theodor Loos ()", "Paul Moleska ()"], "comments": [], "recommandations_id": []}

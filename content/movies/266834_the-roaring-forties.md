@@ -1,0 +1,1 @@
+{"tmdb_id": 266834, "title": "The Roaring Forties", "original_title": "Les quaranti\u00e8mes rugissants", "slug_title": "the-roaring-forties", "date": "1982-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nQY4jtBy0VFpNxeOSYRnVCvOfNB.jpg", "actors": [], "comments": [], "recommandations_id": []}

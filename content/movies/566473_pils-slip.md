@@ -1,0 +1,1 @@
+{"tmdb_id": 566473, "title": "PILS SLIP", "original_title": "PILS SLIP", "slug_title": "pils-slip", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

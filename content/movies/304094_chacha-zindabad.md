@@ -1,0 +1,1 @@
+{"tmdb_id": 304094, "title": "Chacha Zindabad", "original_title": "Chacha Zindabad", "slug_title": "chacha-zindabad", "date": "1959-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

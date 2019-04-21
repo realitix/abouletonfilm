@@ -1,0 +1,1 @@
+{"tmdb_id": 575780, "title": "Legend of the Champions", "original_title": "Legend of the Champions", "slug_title": "legend-of-the-champions", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

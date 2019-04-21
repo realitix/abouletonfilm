@@ -1,0 +1,1 @@
+{"tmdb_id": 292854, "title": "Household Blues", "original_title": "Household Blues", "slug_title": "household-blues", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

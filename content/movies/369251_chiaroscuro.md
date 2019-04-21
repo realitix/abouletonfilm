@@ -1,0 +1,1 @@
+{"tmdb_id": 369251, "title": "Chiaroscuro", "original_title": "Chiaroscuro", "slug_title": "chiaroscuro", "date": "2014-05-22", "genre": "Animation", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n3Qv1z8xQXLXNdNzsNsrCoID3rz.jpg", "actors": [], "comments": [], "recommandations_id": []}

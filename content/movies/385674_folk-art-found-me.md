@@ -1,0 +1,1 @@
+{"tmdb_id": 385674, "title": "Folk Art Found Me", "original_title": "Folk Art Found Me", "slug_title": "folk-art-found-me", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

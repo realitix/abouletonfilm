@@ -1,0 +1,1 @@
+{"tmdb_id": 528550, "title": "Ganesh, Boy Wonder", "original_title": "Ganesh, Boy Wonder", "slug_title": "ganesh-boy-wonder", "date": "2009-05-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gDJfO1xhiyLYZs0vZP9sa4f7eAR.jpg", "actors": [], "comments": [], "recommandations_id": []}

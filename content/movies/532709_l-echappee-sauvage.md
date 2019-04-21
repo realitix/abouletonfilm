@@ -1,0 +1,1 @@
+{"tmdb_id": 532709, "title": "L'\u00c9chapp\u00e9e sauvage", "original_title": "L'\u00c9chapp\u00e9e sauvage", "slug_title": "l-echappee-sauvage", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

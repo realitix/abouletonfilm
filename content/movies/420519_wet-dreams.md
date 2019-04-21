@@ -1,0 +1,1 @@
+{"tmdb_id": 420519, "title": "Wet Dreams", "original_title": "Wet Dreams", "slug_title": "wet-dreams", "date": "1974-10-10", "genre": "Drame", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/juMzeXeQxn4mkF9yVyzUv1euz4B.jpg", "actors": ["Melvin Miracle (Dream Master)"], "comments": [], "recommandations_id": []}

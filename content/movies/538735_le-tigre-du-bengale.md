@@ -1,0 +1,1 @@
+{"tmdb_id": 538735, "title": "Le Tigre du Bengale", "original_title": "Le Tigre du Bengale", "slug_title": "le-tigre-du-bengale", "date": "1938-03-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/31zY8NZdHlif7OXDTsfW553SOUL.jpg", "actors": [], "comments": [], "recommandations_id": []}

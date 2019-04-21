@@ -1,0 +1,1 @@
+{"tmdb_id": 559635, "title": "The Big Meeting", "original_title": "Le grand rendez-vous", "slug_title": "the-big-meeting", "date": "1950-02-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eBd2U9t7by8IckAtCs6ChiaYix8.jpg", "actors": [], "comments": [], "recommandations_id": []}

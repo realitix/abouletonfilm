@@ -1,0 +1,1 @@
+{"tmdb_id": 85700, "title": "PSP World Cup 2008", "original_title": "PSP World Cup 2008", "slug_title": "psp-world-cup-2008", "date": "", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/prQtw0U6PLeUQDF8zyZxBKcaZSI.jpg", "actors": [], "comments": [], "recommandations_id": []}

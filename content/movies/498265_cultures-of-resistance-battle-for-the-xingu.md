@@ -1,0 +1,1 @@
+{"tmdb_id": 498265, "title": "Cultures of Resistance: Battle for the Xingu", "original_title": "Cultures of Resistance: Battle for the Xingu", "slug_title": "cultures-of-resistance-battle-for-the-xingu", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

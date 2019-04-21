@@ -1,0 +1,1 @@
+{"tmdb_id": 490641, "title": "Monsters and Mysteries in Alaska", "original_title": "Monsters and Mysteries in Alaska", "slug_title": "monsters-and-mysteries-in-alaska", "date": "2010-03-14", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Peter Thomas (Narrator)"], "comments": [], "recommandations_id": []}

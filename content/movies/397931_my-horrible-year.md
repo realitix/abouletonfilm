@@ -1,0 +1,1 @@
+{"tmdb_id": 397931, "title": "My Horrible Year!", "original_title": "My Horrible Year!", "slug_title": "my-horrible-year", "date": "2001-07-04", "genre": "", "score": "4.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8wWYMBKkTVo7etfNxlEDTwTtoKN.jpg", "actors": [], "comments": [], "recommandations_id": [126853, 141996, 352037, 88651]}

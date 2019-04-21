@@ -1,0 +1,1 @@
+{"tmdb_id": 313656, "title": "Miss Taurus", "original_title": "Miss Taurus", "slug_title": "miss-taurus", "date": "1994-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Johanna Hanley (Violet Evans)"], "comments": [], "recommandations_id": []}

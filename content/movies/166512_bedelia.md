@@ -1,0 +1,1 @@
+{"tmdb_id": 166512, "title": "Bedelia", "original_title": "Bedelia", "slug_title": "bedelia", "date": "1930-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

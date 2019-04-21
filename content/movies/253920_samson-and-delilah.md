@@ -1,0 +1,1 @@
+{"tmdb_id": 253920, "title": "Samson and Delilah", "original_title": "Samson and Delilah", "slug_title": "samson-and-delilah", "date": "1922-07-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Valia (Delilah)", "M.D. Waxman (Samson)"], "comments": [], "recommandations_id": []}

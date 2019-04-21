@@ -1,0 +1,1 @@
+{"tmdb_id": 430688, "title": "Printemps \u00e0 Beijing", "original_title": "Printemps \u00e0 Beijing", "slug_title": "printemps-a-beijing", "date": "1988-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6Y9nRXWwC3pX3lxTO6B2qCLbw1K.jpg", "actors": [], "comments": [], "recommandations_id": []}

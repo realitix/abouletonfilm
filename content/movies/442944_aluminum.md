@@ -1,0 +1,1 @@
+{"tmdb_id": 442944, "title": "Aluminum", "original_title": "Aluminum", "slug_title": "aluminum", "date": "1941-12-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

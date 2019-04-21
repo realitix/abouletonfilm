@@ -1,0 +1,1 @@
+{"tmdb_id": 300022, "title": "Edgar Cayce of Hopkinsville, Kentucky", "original_title": "Edgar Cayce of Hopkinsville, Kentucky", "slug_title": "edgar-cayce-of-hopkinsville-kentucky", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

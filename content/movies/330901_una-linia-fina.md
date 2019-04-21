@@ -1,0 +1,1 @@
+{"tmdb_id": 330901, "title": "Una l\u00ednia fina", "original_title": "Una l\u00ednia fina", "slug_title": "una-linia-fina", "date": "2013-01-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8yX7i0xCKStJh8k0sseWHtErwPi.jpg", "actors": [], "comments": [], "recommandations_id": []}

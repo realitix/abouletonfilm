@@ -1,0 +1,1 @@
+{"tmdb_id": 528518, "title": "Green Worm", "original_title": "\u7dd1\u866b", "slug_title": "green-worm", "date": "1991-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fXBRi8tW4sMeen24w6vOV8bHmM7.jpg", "actors": [], "comments": [], "recommandations_id": []}

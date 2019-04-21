@@ -1,0 +1,1 @@
+{"tmdb_id": 328666, "title": "The 2nd Infantry Division In Korea", "original_title": "The 2nd Infantry Division In Korea", "slug_title": "the-2nd-infantry-division-in-korea", "date": "1954-01-01", "genre": "Documentaire / Guerre", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

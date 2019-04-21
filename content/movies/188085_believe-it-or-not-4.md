@@ -1,0 +1,1 @@
+{"tmdb_id": 188085, "title": "Believe It or Not #4", "original_title": "Believe It or Not #4", "slug_title": "believe-it-or-not-4", "date": "1930-09-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Robert L. Ripley ()"], "comments": [], "recommandations_id": []}

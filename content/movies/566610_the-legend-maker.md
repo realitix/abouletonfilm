@@ -1,0 +1,1 @@
+{"tmdb_id": 566610, "title": "The Legend Maker", "original_title": "The Legend Maker", "slug_title": "the-legend-maker", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

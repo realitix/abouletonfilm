@@ -1,0 +1,1 @@
+{"tmdb_id": 508431, "title": "Tattooist", "original_title": "Tattooist", "slug_title": "tattooist", "date": "2017-05-17", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

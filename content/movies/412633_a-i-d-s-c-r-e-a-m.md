@@ -1,0 +1,1 @@
+{"tmdb_id": 412633, "title": "A.I.D.S.C.R.E.A.M.", "original_title": "A.I.D.S.C.R.E.A.M.", "slug_title": "a-i-d-s-c-r-e-a-m", "date": "2003-11-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ivkik8xHEajNUsw7WwKiOEuo0AZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

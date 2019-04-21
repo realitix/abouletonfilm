@@ -1,0 +1,1 @@
+{"tmdb_id": 226026, "title": "The Nuke Brothers", "original_title": "The Nuke Brothers", "slug_title": "the-nuke-brothers", "date": "2005-07-01", "genre": "Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

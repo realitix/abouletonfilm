@@ -1,0 +1,1 @@
+{"tmdb_id": 453991, "title": "The Alpha-Bots Christmas", "original_title": "The Alpha-Bots Christmas", "slug_title": "the-alpha-bots-christmas", "date": "2005-11-08", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1t8Uhj5j3TekTlsSPGcV68DTSpI.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 516465, "title": "Der Held des Tages", "original_title": "Der Held des Tages", "slug_title": "der-held-des-tages", "date": "1921-06-12", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["K\u00e4the Haack ()", "Karl Falkenberg ()", "Kurt Gerron ()", "Hermann Picha ()"], "comments": [], "recommandations_id": []}

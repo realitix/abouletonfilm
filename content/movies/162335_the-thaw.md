@@ -1,0 +1,1 @@
+{"tmdb_id": 162335, "title": "The Thaw", "original_title": "\u041b\u0435\u0434\u043e\u043b\u043e\u043c", "slug_title": "the-thaw", "date": "1931-04-17", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fZnqoTgibYmoH0zqoi64nRcYj9O.jpg", "actors": [], "comments": [], "recommandations_id": []}

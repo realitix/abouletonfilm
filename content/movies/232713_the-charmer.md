@@ -1,0 +1,1 @@
+{"tmdb_id": 232713, "title": "The Charmer", "original_title": "Le charmeur", "slug_title": "the-charmer", "date": "1906-02-07", "genre": "Fantastique", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p3mjXVrzdWvxMlHYkKazZx6134p.jpg", "actors": [], "comments": [], "recommandations_id": []}

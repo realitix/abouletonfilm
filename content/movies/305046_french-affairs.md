@@ -1,0 +1,1 @@
+{"tmdb_id": 305046, "title": "French Affairs", "original_title": "French Affairs", "slug_title": "french-affairs", "date": "2011-07-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qfkuaHesvvBnsmRXaEDYKK5XReE.jpg", "actors": [], "comments": [], "recommandations_id": []}

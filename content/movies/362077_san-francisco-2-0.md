@@ -1,0 +1,1 @@
+{"tmdb_id": 362077, "title": "San Francisco 2.0", "original_title": "San Francisco 2.0", "slug_title": "san-francisco-2-0", "date": "2015-09-28", "genre": "Documentaire", "score": "7.4/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/upFnPakz8XwuiUswVYqZgHlBqDG.jpg", "actors": [], "comments": [], "recommandations_id": []}

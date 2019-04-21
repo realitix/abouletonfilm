@@ -1,0 +1,1 @@
+{"tmdb_id": 426858, "title": "Back to the Territories: Amarillo", "original_title": "Back to the Territories: Amarillo", "slug_title": "back-to-the-territories-amarillo", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jim Cornette (Himself)", "Terry Funk (Himself)"], "comments": [], "recommandations_id": []}

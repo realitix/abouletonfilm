@@ -1,0 +1,1 @@
+{"tmdb_id": 27237, "title": "Dead Pet", "original_title": "Dead Pet", "slug_title": "dead-pet", "date": "1999-01-01", "genre": "Com\u00e9die", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bhI37gVfIrEZUSfNJ13R3ciTQ1v.jpg", "actors": ["Kevin Cotteleer (Jake)"], "comments": [], "recommandations_id": []}

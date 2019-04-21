@@ -1,0 +1,1 @@
+{"tmdb_id": 266298, "title": "Karpotrotter", "original_title": "Karpopotnik", "slug_title": "karpotrotter", "date": "2013-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yrI7xU6CDznwf71igG5qpEXgpJx.jpg", "actors": ["Neboj\u0161a Pop-Tasi\u0107 (Narrator)"], "comments": [], "recommandations_id": []}

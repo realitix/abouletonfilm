@@ -1,0 +1,1 @@
+{"tmdb_id": 349343, "title": "Ulysses", "original_title": "\uc728\ub9ac\uc2dc\uc988", "slug_title": "ulysses", "date": "1999-01-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

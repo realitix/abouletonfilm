@@ -1,0 +1,1 @@
+{"tmdb_id": 488927, "title": "Peaking: UCI MTB World Cup", "original_title": "Peaking: UCI MTB World Cup", "slug_title": "peaking-uci-mtb-world-cup", "date": "2016-01-09", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jenny Risveds ()", "Thomas Frischknecht ()"], "comments": [], "recommandations_id": []}

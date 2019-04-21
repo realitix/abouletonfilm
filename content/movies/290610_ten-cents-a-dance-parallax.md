@@ -1,0 +1,1 @@
+{"tmdb_id": 290610, "title": "Ten Cents a Dance: Parallax", "original_title": "Ten Cents a Dance: Parallax", "slug_title": "ten-cents-a-dance-parallax", "date": "1985-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

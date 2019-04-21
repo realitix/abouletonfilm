@@ -1,0 +1,1 @@
+{"tmdb_id": 590607, "title": "Yo La Tengo Live at National Sawdust", "original_title": "Yo La Tengo Live at National Sawdust", "slug_title": "yo-la-tengo-live-at-national-sawdust", "date": "2018-02-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

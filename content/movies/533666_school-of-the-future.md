@@ -1,0 +1,1 @@
+{"tmdb_id": 533666, "title": "School of the Future", "original_title": "School of the Future", "slug_title": "school-of-the-future", "date": "2016-09-14", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3Ymv5UAKX9KwdfvRpVrogoiFbrL.jpg", "actors": ["LeVar Burton ()"], "comments": [], "recommandations_id": []}

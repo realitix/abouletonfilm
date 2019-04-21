@@ -1,0 +1,1 @@
+{"tmdb_id": 557835, "title": "A Cabra Na Regi\u00e3o Semi-\u00c1rida", "original_title": "A Cabra Na Regi\u00e3o Semi-\u00c1rida", "slug_title": "a-cabra-na-regiao-semi-arida", "date": "1966-10-04", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

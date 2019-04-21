@@ -1,0 +1,1 @@
+{"tmdb_id": 411575, "title": "Strumming Techniques 2", "original_title": "Strumming Techniques 2", "slug_title": "strumming-techniques-2", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1dq4RDOA4QsvVOnhJOFFIK22T2d.jpg", "actors": ["Justin Sandercoe ()"], "comments": [], "recommandations_id": []}

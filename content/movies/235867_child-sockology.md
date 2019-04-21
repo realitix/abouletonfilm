@@ -1,0 +1,1 @@
+{"tmdb_id": 235867, "title": "Child Sockology", "original_title": "Child Sockology", "slug_title": "child-sockology", "date": "1953-01-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

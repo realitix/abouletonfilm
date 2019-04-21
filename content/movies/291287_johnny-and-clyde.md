@@ -1,0 +1,1 @@
+{"tmdb_id": 291287, "title": "Johnny and Clyde", "original_title": "Johnny and Clyde", "slug_title": "johnny-and-clyde", "date": "1995-01-01", "genre": "", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

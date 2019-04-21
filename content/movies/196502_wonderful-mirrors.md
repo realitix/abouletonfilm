@@ -1,0 +1,1 @@
+{"tmdb_id": 196502, "title": "Wonderful Mirrors", "original_title": "Les glaces merveilleuses", "slug_title": "wonderful-mirrors", "date": "1907-12-28", "genre": "Com\u00e9die / Fantastique", "score": "3.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

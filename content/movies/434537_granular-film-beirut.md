@@ -1,0 +1,1 @@
+{"tmdb_id": 434537, "title": "Granular Film - Beirut", "original_title": "Granular Film - Beirut", "slug_title": "granular-film-beirut", "date": "2016-10-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

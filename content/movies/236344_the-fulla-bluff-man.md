@@ -1,0 +1,1 @@
+{"tmdb_id": 236344, "title": "The Fulla Bluff Man", "original_title": "The Fulla Bluff Man", "slug_title": "the-fulla-bluff-man", "date": "1940-08-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

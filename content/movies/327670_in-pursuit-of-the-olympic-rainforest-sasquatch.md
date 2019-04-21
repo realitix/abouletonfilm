@@ -1,0 +1,1 @@
+{"tmdb_id": 327670, "title": "In Pursuit of the Olympic Rainforest Sasquatch", "original_title": "In Pursuit of the Olympic Rainforest Sasquatch", "slug_title": "in-pursuit-of-the-olympic-rainforest-sasquatch", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

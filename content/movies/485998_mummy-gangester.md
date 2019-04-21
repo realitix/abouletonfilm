@@ -1,0 +1,1 @@
+{"tmdb_id": 485998, "title": "Mummy Gangester", "original_title": "Mummy Gangester", "slug_title": "mummy-gangester", "date": "2017-12-30", "genre": "Action / Com\u00e9die / Drame / Familial", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Vicky Kadian (Gangester)"], "comments": [], "recommandations_id": []}

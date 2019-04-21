@@ -1,0 +1,1 @@
+{"tmdb_id": 520261, "title": "Poor Little Rich Girl: The Barbara Hutton Story", "original_title": "Poor Little Rich Girl: The Barbara Hutton Story", "slug_title": "poor-little-rich-girl-the-barbara-hutton-story", "date": "1987-11-16", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

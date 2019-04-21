@@ -1,0 +1,1 @@
+{"tmdb_id": 178765, "title": "The Clan", "original_title": "The Clan", "slug_title": "the-clan", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

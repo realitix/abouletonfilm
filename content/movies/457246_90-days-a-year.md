@@ -1,0 +1,1 @@
+{"tmdb_id": 457246, "title": "90 Days a Year", "original_title": "90 dni w roku", "slug_title": "90-days-a-year", "date": "1968-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

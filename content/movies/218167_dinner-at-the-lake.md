@@ -1,0 +1,1 @@
+{"tmdb_id": 218167, "title": "Dinner at the Lake", "original_title": "Dinner at the Lake", "slug_title": "dinner-at-the-lake", "date": "2012-10-19", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

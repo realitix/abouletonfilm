@@ -1,0 +1,1 @@
+{"tmdb_id": 278293, "title": "Adynata", "original_title": "Adynata", "slug_title": "adynata", "date": "1983-01-02", "genre": "", "score": "4.6/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3T8HQUGlyV6wBU4jNLpwT1YZIvS.jpg", "actors": [], "comments": [], "recommandations_id": [391789, 391787, 251483, 163384]}

@@ -1,0 +1,1 @@
+{"tmdb_id": 526469, "title": "Ballad for a lonely man", "original_title": "Ballade pour un homme seul", "slug_title": "ballad-for-a-lonely-man", "date": "1968-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jnTvSDFp5K6YeFVHp6gqa7bxPms.jpg", "actors": [], "comments": [], "recommandations_id": []}

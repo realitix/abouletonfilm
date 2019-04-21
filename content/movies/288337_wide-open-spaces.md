@@ -1,0 +1,1 @@
+{"tmdb_id": 288337, "title": "Wide Open Spaces", "original_title": "Wide Open Spaces", "slug_title": "wide-open-spaces", "date": "1950-11-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

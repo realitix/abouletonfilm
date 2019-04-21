@@ -1,0 +1,1 @@
+{"tmdb_id": 548565, "title": "T-Junction", "original_title": "T-Junction", "slug_title": "t-junction", "date": "2017-07-08", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vvuAhu0tZK0h4uD23oKfPNxNalt.jpg", "actors": ["Hawa Alisa (Fatima)", "Magdalena Christopher (Maria)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 307932, "title": "Paisa Ya Pyar", "original_title": "Paisa Ya Pyar", "slug_title": "paisa-ya-pyar", "date": "1969-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

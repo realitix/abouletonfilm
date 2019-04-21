@@ -1,0 +1,1 @@
+{"tmdb_id": 523207, "title": "Dying to Live", "original_title": "Dying to Live", "slug_title": "dying-to-live", "date": "2018-06-08", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jwyOSOgNtImKad6zFJZqVrzRNFp.jpg", "actors": [], "comments": [], "recommandations_id": []}

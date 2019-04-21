@@ -1,0 +1,1 @@
+{"tmdb_id": 149469, "title": "Carne de gallina", "original_title": "Carne de gallina", "slug_title": "carne-de-gallina", "date": "2001-10-26", "genre": "", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dIzKZK3JDHKOBFHo3debkFkKG9C.jpg", "actors": [], "comments": [], "recommandations_id": []}

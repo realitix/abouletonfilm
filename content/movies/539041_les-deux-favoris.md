@@ -1,0 +1,1 @@
+{"tmdb_id": 539041, "title": "Les deux favoris", "original_title": "Les deux favoris", "slug_title": "les-deux-favoris", "date": "1936-07-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hGeEgIh6FkkNwDSAQb8Hvy6KTg5.jpg", "actors": [], "comments": [], "recommandations_id": []}

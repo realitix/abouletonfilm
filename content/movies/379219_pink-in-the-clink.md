@@ -1,0 +1,1 @@
+{"tmdb_id": 379219, "title": "Pink In The Clink", "original_title": "Pink In The Clink", "slug_title": "pink-in-the-clink", "date": "1968-09-18", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ukbRwtZf6RdgwUXQ9DMIJ1IY1m1.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 522015, "title": "The Wave", "original_title": "Lmuja", "slug_title": "the-wave", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

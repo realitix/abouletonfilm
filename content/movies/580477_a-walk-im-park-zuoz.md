@@ -1,0 +1,1 @@
+{"tmdb_id": 580477, "title": "A Walk / Im Park / ZUOZ", "original_title": "A Walk / Im Park / ZUOZ", "slug_title": "a-walk-im-park-zuoz", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kwVAkukog9G0oNJwp1SPQgaufM3.jpg", "actors": [], "comments": [], "recommandations_id": []}

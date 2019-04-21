@@ -1,0 +1,1 @@
+{"tmdb_id": 299905, "title": "Casa Luz", "original_title": "Casa Luz", "slug_title": "casa-luz", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

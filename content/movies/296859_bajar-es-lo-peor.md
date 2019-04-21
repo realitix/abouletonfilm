@@ -1,0 +1,1 @@
+{"tmdb_id": 296859, "title": "Bajar es lo peor", "original_title": "Bajar es lo peor", "slug_title": "bajar-es-lo-peor", "date": "2002-04-26", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

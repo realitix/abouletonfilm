@@ -1,0 +1,1 @@
+{"tmdb_id": 234672, "title": "Poop Deck Pirate", "original_title": "Poop Deck Pirate", "slug_title": "poop-deck-pirate", "date": "1961-01-09", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6gEScc0XTjZ6YZp9Az4fZMDj53q.jpg", "actors": ["Grace Stafford (Woody (voice))"], "comments": [], "recommandations_id": []}

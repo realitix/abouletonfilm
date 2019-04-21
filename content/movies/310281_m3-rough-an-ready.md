@@ -1,0 +1,1 @@
+{"tmdb_id": 310281, "title": "M3: Rough an' Ready", "original_title": "M3: Rough an' Ready", "slug_title": "m3-rough-an-ready", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

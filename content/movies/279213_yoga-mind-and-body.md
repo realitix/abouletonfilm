@@ -1,0 +1,1 @@
+{"tmdb_id": 279213, "title": "Yoga Mind And Body", "original_title": "Yoga Mind And Body", "slug_title": "yoga-mind-and-body", "date": "2003-12-30", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ali MacGraw (Ali MacGraw)", "Erich Schiffmann (Erich Schiffmann)"], "comments": [], "recommandations_id": []}

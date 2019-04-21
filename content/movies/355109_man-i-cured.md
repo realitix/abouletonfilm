@@ -1,0 +1,1 @@
+{"tmdb_id": 355109, "title": "Man I Cured", "original_title": "Man I Cured", "slug_title": "man-i-cured", "date": "1941-09-20", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Leon Errol (Leon Errol)"], "comments": [], "recommandations_id": []}

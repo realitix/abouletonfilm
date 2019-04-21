@@ -1,0 +1,1 @@
+{"tmdb_id": 197404, "title": "Silicon Prairie: America's New Internet Economy", "original_title": "Silicon Prairie: America's New Internet Economy", "slug_title": "silicon-prairie-america-s-new-internet-economy", "date": "2013-01-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

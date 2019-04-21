@@ -1,0 +1,1 @@
+{"tmdb_id": 366056, "title": "Seven Steps", "original_title": "Saptapadi", "slug_title": "seven-steps", "date": "1961-10-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/seFMwJ5wsxXMa3SfjyN0Bffrnid.jpg", "actors": ["Suchitra Sen ()", "Uttam Kumar ()"], "comments": [], "recommandations_id": []}

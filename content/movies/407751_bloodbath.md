@@ -1,0 +1,1 @@
+{"tmdb_id": 407751, "title": "Bloodbath", "original_title": "Bloodbath", "slug_title": "bloodbath", "date": "1991-07-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

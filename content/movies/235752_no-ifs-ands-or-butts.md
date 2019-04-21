@@ -1,0 +1,1 @@
+{"tmdb_id": 235752, "title": "No Ifs, Ands or Butts", "original_title": "No Ifs, Ands or Butts", "slug_title": "no-ifs-ands-or-butts", "date": "1954-12-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

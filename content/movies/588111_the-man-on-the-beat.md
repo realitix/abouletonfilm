@@ -1,0 +1,1 @@
+{"tmdb_id": 588111, "title": "The Man on the Beat", "original_title": "The Man on the Beat", "slug_title": "the-man-on-the-beat", "date": "1944-03-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

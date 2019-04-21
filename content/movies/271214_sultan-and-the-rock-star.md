@@ -1,0 +1,1 @@
+{"tmdb_id": 271214, "title": "Sultan And The Rock Star", "original_title": "Sultan And The Rock Star", "slug_title": "sultan-and-the-rock-star", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

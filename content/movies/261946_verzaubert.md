@@ -1,0 +1,1 @@
+{"tmdb_id": 261946, "title": "Verzaubert", "original_title": "Verzaubert", "slug_title": "verzaubert", "date": "1993-01-01", "genre": "Documentaire / Guerre", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/szhxq73W9u0TKpS1AAZm4pEApzH.jpg", "actors": [], "comments": [], "recommandations_id": []}

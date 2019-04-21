@@ -1,0 +1,1 @@
+{"tmdb_id": 236714, "title": "Way Down Yonder in the Corn", "original_title": "Way Down Yonder in the Corn", "slug_title": "way-down-yonder-in-the-corn", "date": "1943-11-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

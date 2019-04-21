@@ -1,0 +1,1 @@
+{"tmdb_id": 381593, "title": "Haiti: 'Land of Dark Majesty'", "original_title": "Haiti: 'Land of Dark Majesty'", "slug_title": "haiti-land-of-dark-majesty", "date": "1941-07-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["James A. FitzPatrick (Narrator (voice))"], "comments": [], "recommandations_id": []}

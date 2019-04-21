@@ -1,0 +1,1 @@
+{"tmdb_id": 194233, "title": "Project Kronos", "original_title": "Project Kronos", "slug_title": "project-kronos", "date": "2013-04-29", "genre": "Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gwXDb9H2PjtJ1LXJmb2sBDITaEs.jpg", "actors": [], "comments": [], "recommandations_id": []}

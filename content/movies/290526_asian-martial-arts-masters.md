@@ -1,0 +1,1 @@
+{"tmdb_id": 290526, "title": "Asian Martial Arts Masters", "original_title": "Asian Martial Arts Masters", "slug_title": "asian-martial-arts-masters", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

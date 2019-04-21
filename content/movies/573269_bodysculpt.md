@@ -1,0 +1,1 @@
+{"tmdb_id": 573269, "title": "Bodysculpt", "original_title": "Bodysculpt", "slug_title": "bodysculpt", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yMkROcYzpkX0RznIbPNxdKRsTlW.jpg", "actors": [], "comments": [], "recommandations_id": []}

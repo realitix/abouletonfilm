@@ -1,0 +1,1 @@
+{"tmdb_id": 68376, "title": "Why Do We Talk", "original_title": "Why Do We Talk", "slug_title": "why-do-we-talk", "date": "", "genre": "Documentaire", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f2zponQFJ4lXypyBYW3hooQc4Ir.jpg", "actors": [], "comments": [], "recommandations_id": []}

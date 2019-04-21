@@ -1,0 +1,1 @@
+{"tmdb_id": 544612, "title": "Xu Bing: Phoenix", "original_title": "Xu Bing: Phoenix", "slug_title": "xu-bing-phoenix", "date": "2013-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cHHXJ3Pc8nQ1zV7UCqIDpdwcH37.jpg", "actors": ["Xu Bing (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 350421, "title": "\ubc24\ub9c8\ub2e4 \uc6b0\ub294 \ubed0\uafb8\uae30", "original_title": "\ubc24\ub9c8\ub2e4 \uc6b0\ub294 \ubed0\uafb8\uae30", "slug_title": "bammada-uneun-bbeoggugi", "date": "1990-03-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

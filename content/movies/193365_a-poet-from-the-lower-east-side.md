@@ -1,0 +1,1 @@
+{"tmdb_id": 193365, "title": "A Poet from the Lower East Side", "original_title": "A Poet from the Lower East Side", "slug_title": "a-poet-from-the-lower-east-side", "date": "1997-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Allen Ginsberg (Himself)", "Jonas Mekas (Himself)"], "comments": [], "recommandations_id": []}

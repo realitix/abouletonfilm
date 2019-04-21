@@ -1,0 +1,1 @@
+{"tmdb_id": 366540, "title": "Cyclone Alley Ceramics", "original_title": "Cyclone Alley Ceramics", "slug_title": "cyclone-alley-ceramics", "date": "2000-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vqFmgDDdVFjSoEHlVrGaWli9e7k.jpg", "actors": [], "comments": [], "recommandations_id": []}

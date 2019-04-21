@@ -1,0 +1,1 @@
+{"tmdb_id": 312207, "title": "The U.S. Ski Team's Greatest Day: 2004 Birds of Prey", "original_title": "The U.S. Ski Team's Greatest Day: 2004 Birds of Prey", "slug_title": "the-u-s-ski-team-s-greatest-day-2004-birds-of-prey", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

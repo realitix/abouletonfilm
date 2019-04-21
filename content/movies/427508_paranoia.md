@@ -1,0 +1,1 @@
+{"tmdb_id": 427508, "title": "Paranoia", "original_title": "Paranoja", "slug_title": "paranoia", "date": "1993-11-28", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Goran Visnjic ()", "Tihomir \u017darn ()"], "comments": [], "recommandations_id": []}

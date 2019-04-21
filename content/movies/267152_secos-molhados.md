@@ -1,0 +1,1 @@
+{"tmdb_id": 267152, "title": "Secos & Molhados", "original_title": "Secos & Molhados", "slug_title": "secos-molhados", "date": "1999-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

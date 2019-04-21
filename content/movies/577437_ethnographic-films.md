@@ -1,0 +1,1 @@
+{"tmdb_id": 577437, "title": "Ethnographic Films", "original_title": "Ethnographic Films", "slug_title": "ethnographic-films", "date": "1929-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lwppOzSa5ZI7au9ivEkj4IFC3hP.jpg", "actors": [], "comments": [], "recommandations_id": []}

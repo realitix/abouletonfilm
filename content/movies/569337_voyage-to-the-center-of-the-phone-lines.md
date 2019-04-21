@@ -1,0 +1,1 @@
+{"tmdb_id": 569337, "title": "Voyage to the Center of the Phone Lines", "original_title": "Voyage to the Center of the Phone Lines", "slug_title": "voyage-to-the-center-of-the-phone-lines", "date": "1993-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

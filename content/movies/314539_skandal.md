@@ -1,0 +1,1 @@
+{"tmdb_id": 314539, "title": "Skandal", "original_title": "Skandal", "slug_title": "skandal", "date": "2014-05-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/khgf2rsOIbPdw2pyhyipyIKq6tz.jpg", "actors": [], "comments": [], "recommandations_id": []}

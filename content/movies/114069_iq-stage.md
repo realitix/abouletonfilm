@@ -1,0 +1,1 @@
+{"tmdb_id": 114069, "title": "IQ - Stage", "original_title": "IQ - Stage", "slug_title": "iq-stage", "date": "2006-03-31", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fWT4VuN8MUHBaWu9uGqzHZwVfeX.jpg", "actors": [], "comments": [], "recommandations_id": []}

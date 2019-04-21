@@ -1,0 +1,1 @@
+{"tmdb_id": 578275, "title": "Bhagshesh: The Remainder", "original_title": "Bhagshesh: The Remainder", "slug_title": "bhagshesh-the-remainder", "date": "2011-09-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jQnvz3sFJea4wPjG1uS28jjm5z7.jpg", "actors": [], "comments": [], "recommandations_id": []}

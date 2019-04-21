@@ -1,0 +1,1 @@
+{"tmdb_id": 276403, "title": "Cuba Feliz", "original_title": "Cuba Feliz", "slug_title": "cuba-feliz", "date": "2002-06-12", "genre": "", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ivXdkqrCIrFGmelzUMdCfePjTtc.jpg", "actors": [], "comments": [], "recommandations_id": []}

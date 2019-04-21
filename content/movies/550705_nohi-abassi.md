@@ -1,0 +1,1 @@
+{"tmdb_id": 550705, "title": "Nohi Abassi", "original_title": "Nohi Abassi", "slug_title": "nohi-abassi", "date": "1989-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pk4LFTDaOOWpwNtqsJQyOm4lZqQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

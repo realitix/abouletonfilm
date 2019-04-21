@@ -1,0 +1,1 @@
+{"tmdb_id": 288117, "title": "Living with the Fosters", "original_title": "Living with the Fosters", "slug_title": "living-with-the-fosters", "date": "2002-03-23", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

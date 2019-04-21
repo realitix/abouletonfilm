@@ -1,0 +1,1 @@
+{"tmdb_id": 255394, "title": "Placebo", "original_title": "Placebo", "slug_title": "placebo", "date": "2013-09-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/axpmmKxEvqL65FC8k7Qh0lVVird.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 563380, "title": "The Elephant and the Sea", "original_title": "The Elephant and the Sea", "slug_title": "the-elephant-and-the-sea", "date": "", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

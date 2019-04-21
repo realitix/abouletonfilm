@@ -1,0 +1,1 @@
+{"tmdb_id": 520840, "title": "Blue Grass Kings", "original_title": "Blue Grass Kings", "slug_title": "blue-grass-kings", "date": "1931-06-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Grantland Rice (Narrator)"], "comments": [], "recommandations_id": []}

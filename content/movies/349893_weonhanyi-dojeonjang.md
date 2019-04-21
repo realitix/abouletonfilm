@@ -1,0 +1,1 @@
+{"tmdb_id": 349893, "title": "\uc6d0\ud55c\uc758 \ub3c4\uc804\uc7a5", "original_title": "\uc6d0\ud55c\uc758 \ub3c4\uc804\uc7a5", "slug_title": "weonhanyi-dojeonjang", "date": "1983-03-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

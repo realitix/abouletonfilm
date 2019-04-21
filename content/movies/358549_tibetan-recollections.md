@@ -1,0 +1,1 @@
+{"tmdb_id": 358549, "title": "Tibetan Recollections", "original_title": "Tibetan Recollections", "slug_title": "tibetan-recollections", "date": "1988-09-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

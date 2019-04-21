@@ -1,0 +1,1 @@
+{"tmdb_id": 511131, "title": "Pol\u00e1rnik", "original_title": "Pol\u00e1rnik", "slug_title": "polarnik", "date": "2014-04-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A99NqxKOtLXuKadibrG0Eiqx5nD.jpg", "actors": ["Peter Valu\u0161iak ()", "Vladimir \u010cukov ()"], "comments": [], "recommandations_id": []}

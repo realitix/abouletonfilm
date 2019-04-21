@@ -1,0 +1,1 @@
+{"tmdb_id": 139304, "title": "My Name Is Alan and I Paint Pictures", "original_title": "My Name Is Alan and I Paint Pictures", "slug_title": "my-name-is-alan-and-i-paint-pictures", "date": "2007-09-19", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

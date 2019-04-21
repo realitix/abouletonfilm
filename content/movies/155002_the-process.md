@@ -1,0 +1,1 @@
+{"tmdb_id": 155002, "title": "The Process", "original_title": "The Process", "slug_title": "the-process", "date": "1972-12-31", "genre": "", "score": "5.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/blYnIAgsloNh6IrpamGwJmOKVUG.jpg", "actors": [], "comments": [], "recommandations_id": [145971, 149708, 164593, 164590]}

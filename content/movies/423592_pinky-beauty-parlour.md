@@ -1,0 +1,1 @@
+{"tmdb_id": 423592, "title": "Pinky Beauty Parlour", "original_title": "Pinky Beauty Parlour", "slug_title": "pinky-beauty-parlour", "date": "2016-10-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

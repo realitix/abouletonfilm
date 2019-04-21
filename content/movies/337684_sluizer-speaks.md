@@ -1,0 +1,1 @@
+{"tmdb_id": 337684, "title": "Sluizer Speaks", "original_title": "Sluizer Speaks", "slug_title": "sluizer-speaks", "date": "2014-11-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4iEVgV1ZzoKYGrbQiQulLiEMjJo.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 222591, "title": "Buzzy Boop", "original_title": "Buzzy Boop", "slug_title": "buzzy-boop", "date": "1938-07-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 540820, "title": "Lens and Mirror Film", "original_title": "Lens and Mirror Film", "slug_title": "lens-and-mirror-film", "date": "1973-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3D4WcC5symImGSigvhRlcgJYezU.jpg", "actors": [], "comments": [], "recommandations_id": []}

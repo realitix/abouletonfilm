@@ -1,0 +1,1 @@
+{"tmdb_id": 483167, "title": "Friday the 13th", "original_title": "Friday the 13th", "slug_title": "friday-the-13th", "date": "", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

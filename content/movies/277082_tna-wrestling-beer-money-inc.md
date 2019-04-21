@@ -1,0 +1,1 @@
+{"tmdb_id": 277082, "title": "TNA Wrestling: Beer Money, Inc.", "original_title": "TNA Wrestling: Beer Money, Inc.", "slug_title": "tna-wrestling-beer-money-inc", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

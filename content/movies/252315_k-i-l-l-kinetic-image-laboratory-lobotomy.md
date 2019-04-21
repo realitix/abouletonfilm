@@ -1,0 +1,1 @@
+{"tmdb_id": 252315, "title": "K.I.L.L. \u2013 Kinetic Image Laboratory/Lobotomy", "original_title": "K.I.L.L. \u2013 Kinetic Image Laboratory/Lobotomy", "slug_title": "k-i-l-l-kinetic-image-laboratory-lobotomy", "date": "1999-06-11", "genre": "", "score": "7.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 271252, "title": "Island Assault 3", "original_title": "Island Assault 3", "slug_title": "island-assault-3", "date": "2011-12-10", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nKxh0JnAdLgrjItbK9vL6aexdD6.jpg", "actors": ["Brian Viloria (himself)"], "comments": [], "recommandations_id": []}

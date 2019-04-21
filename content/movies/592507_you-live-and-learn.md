@@ -1,0 +1,1 @@
+{"tmdb_id": 592507, "title": "You Live and Learn", "original_title": "You Live and Learn", "slug_title": "you-live-and-learn", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

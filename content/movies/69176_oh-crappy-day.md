@@ -1,0 +1,1 @@
+{"tmdb_id": 69176, "title": "Oh Crappy Day", "original_title": "Oh Crappy Day", "slug_title": "oh-crappy-day", "date": "1993-01-01", "genre": "Animation / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1CwNcGNeA1XZZ5H1hIAfVPvxBQl.jpg", "actors": [], "comments": [], "recommandations_id": []}

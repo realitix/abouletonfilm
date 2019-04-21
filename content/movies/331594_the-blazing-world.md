@@ -1,0 +1,1 @@
+{"tmdb_id": 331594, "title": "The Blazing World", "original_title": "The Blazing World", "slug_title": "the-blazing-world", "date": "2013-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

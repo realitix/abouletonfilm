@@ -1,0 +1,1 @@
+{"tmdb_id": 345216, "title": "Cross Breed", "original_title": "Cross Breed", "slug_title": "cross-breed", "date": "1927-11-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

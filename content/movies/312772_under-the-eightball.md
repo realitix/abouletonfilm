@@ -1,0 +1,1 @@
+{"tmdb_id": 312772, "title": "Under the Eightball", "original_title": "Under the Eightball", "slug_title": "under-the-eightball", "date": "2009-12-16", "genre": "Documentaire / Histoire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cHrczxDLtEhBJTpLQoeICTJQbUV.jpg", "actors": [], "comments": [], "recommandations_id": []}

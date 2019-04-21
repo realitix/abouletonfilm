@@ -1,0 +1,1 @@
+{"tmdb_id": 452648, "title": "Pagliacci", "original_title": "Pagliacci", "slug_title": "pagliacci", "date": "1948-12-02", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bC3hgNnnExA85X5xMrq8CoViz9g.jpg", "actors": ["Tito Gobbi (Tonio/Silvio)", "Gina Lollobrigida (Nedda)"], "comments": [], "recommandations_id": []}

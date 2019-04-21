@@ -1,0 +1,1 @@
+{"tmdb_id": 281592, "title": "Paris Syndrome", "original_title": "Paris Syndrome", "slug_title": "paris-syndrome", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

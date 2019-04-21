@@ -1,0 +1,1 @@
+{"tmdb_id": 397213, "title": "Au large de Bad Ragaz", "original_title": "Au large de Bad Ragaz", "slug_title": "au-large-de-bad-ragaz", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

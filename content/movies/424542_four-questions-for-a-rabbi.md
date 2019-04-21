@@ -1,0 +1,1 @@
+{"tmdb_id": 424542, "title": "Four Questions for a Rabbi", "original_title": "Four Questions for a Rabbi", "slug_title": "four-questions-for-a-rabbi", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qYX8y644tFySIImB35JrJdynqci.jpg", "actors": [], "comments": [], "recommandations_id": []}

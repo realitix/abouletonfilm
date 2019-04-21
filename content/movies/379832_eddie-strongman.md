@@ -1,0 +1,1 @@
+{"tmdb_id": 379832, "title": "Eddie: Strongman", "original_title": "Eddie: Strongman", "slug_title": "eddie-strongman", "date": "2015-08-08", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/poY1PIdzttOBr00IaXeXcGxUyIT.jpg", "actors": [], "comments": [], "recommandations_id": [411918, 336992, 403581, 384845]}

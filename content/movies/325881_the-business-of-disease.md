@@ -1,0 +1,1 @@
+{"tmdb_id": 325881, "title": "The Business of Disease", "original_title": "The Business of Disease", "slug_title": "the-business-of-disease", "date": "2014-09-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pwTNGNfIvuEv0tbIDYTY9zRV861.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 357488, "title": "Land of Promise", "original_title": "Land of Promise", "slug_title": "land-of-promise", "date": "1946-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Frederick Allen ()", "Elizabeth Cowell ()", "Henry Hallett ()"], "comments": [], "recommandations_id": []}

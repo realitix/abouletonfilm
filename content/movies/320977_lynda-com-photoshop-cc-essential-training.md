@@ -1,0 +1,1 @@
+{"tmdb_id": 320977, "title": "Lynda.com: Photoshop CC Essential Training", "original_title": "Lynda.com: Photoshop CC Essential Training", "slug_title": "lynda-com-photoshop-cc-essential-training", "date": "2014-10-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

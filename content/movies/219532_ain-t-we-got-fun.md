@@ -1,0 +1,1 @@
+{"tmdb_id": 219532, "title": "Ain't We Got Fun", "original_title": "Ain't We Got Fun", "slug_title": "ain-t-we-got-fun", "date": "1937-08-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cJLvjiN3oDcnkA3CjHXWusZbcd9.jpg", "actors": [], "comments": [], "recommandations_id": []}

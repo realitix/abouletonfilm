@@ -1,0 +1,1 @@
+{"tmdb_id": 302467, "title": "Chris Spencer: The Other Chris", "original_title": "Chris Spencer: The Other Chris", "slug_title": "chris-spencer-the-other-chris", "date": "2014-01-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5wYEUFh4HVeaYbqG9YdH7FYvAwZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

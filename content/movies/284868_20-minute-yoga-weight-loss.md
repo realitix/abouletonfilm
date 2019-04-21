@@ -1,0 +1,1 @@
+{"tmdb_id": 284868, "title": "20 Minute Yoga - Weight Loss", "original_title": "20 Minute Yoga - Weight Loss", "slug_title": "20-minute-yoga-weight-loss", "date": "2004-08-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eja6lGkTDI9PDAhOc5ES3UfAslJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 432300, "title": "The Bribe of Heaven", "original_title": "El soborno del cielo", "slug_title": "the-bribe-of-heaven", "date": "2016-03-17", "genre": "Com\u00e9die", "score": "6.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mNoRK9bNMfffqdIqFhO78OkAEWy.jpg", "actors": [], "comments": [], "recommandations_id": []}

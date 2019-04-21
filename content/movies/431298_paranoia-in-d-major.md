@@ -1,0 +1,1 @@
+{"tmdb_id": 431298, "title": "Paranoia in D Major", "original_title": "Paranoia in D Major", "slug_title": "paranoia-in-d-major", "date": "2016-12-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jape Man ()"], "comments": [], "recommandations_id": []}

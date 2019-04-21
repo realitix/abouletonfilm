@@ -1,0 +1,1 @@
+{"tmdb_id": 544122, "title": "Sweatshirt Money", "original_title": "Sweatshirt Money", "slug_title": "sweatshirt-money", "date": "", "genre": "Com\u00e9die / Crime", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

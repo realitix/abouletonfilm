@@ -1,0 +1,1 @@
+{"tmdb_id": 49651, "title": "Vietnam War: America's Conflict", "original_title": "Vietnam War: America's Conflict", "slug_title": "vietnam-war-america-s-conflict", "date": "2008-05-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4IXpWbYYltfA9XRnQBLxmLOvroM.jpg", "actors": [], "comments": [], "recommandations_id": []}

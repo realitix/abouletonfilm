@@ -1,0 +1,1 @@
+{"tmdb_id": 232721, "title": "Mr. Hurry-up", "original_title": "Mr. Hurry-up", "slug_title": "mr-hurry-up", "date": "1907-02-08", "genre": "Fantastique / Com\u00e9die", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eRHZweZKscM8IKw0cSQ1KCJNzgE.jpg", "actors": [], "comments": [], "recommandations_id": []}

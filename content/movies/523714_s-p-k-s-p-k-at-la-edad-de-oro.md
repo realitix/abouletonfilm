@@ -1,0 +1,1 @@
+{"tmdb_id": 523714, "title": "S.P.K.: S.P.K. At La Edad De oro", "original_title": "S.P.K.: S.P.K. At La Edad De oro", "slug_title": "s-p-k-s-p-k-at-la-edad-de-oro", "date": "1983-12-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

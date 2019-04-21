@@ -1,0 +1,1 @@
+{"tmdb_id": 302479, "title": "Shotokan Man", "original_title": "Shotokan Man", "slug_title": "shotokan-man", "date": "2013-09-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 296692, "title": "Chiaroscuro, Baby", "original_title": "Chiaroscuro, Baby", "slug_title": "chiaroscuro-baby", "date": "2009-11-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

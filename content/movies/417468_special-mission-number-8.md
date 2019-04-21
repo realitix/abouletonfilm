@@ -1,0 +1,1 @@
+{"tmdb_id": 417468, "title": "Special Mission Number 8", "original_title": "\ud2b9\uba85 8\ud638", "slug_title": "special-mission-number-8", "date": "1978-11-03", "genre": "Guerre", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

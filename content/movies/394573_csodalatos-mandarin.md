@@ -1,0 +1,1 @@
+{"tmdb_id": 394573, "title": "Csod\u00e1latos mandarin", "original_title": "Csod\u00e1latos mandarin", "slug_title": "csodalatos-mandarin", "date": "1970-04-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

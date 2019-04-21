@@ -1,0 +1,1 @@
+{"tmdb_id": 320805, "title": "Independent Lens: A Fish Story", "original_title": "Independent Lens: A Fish Story", "slug_title": "independent-lens-a-fish-story", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

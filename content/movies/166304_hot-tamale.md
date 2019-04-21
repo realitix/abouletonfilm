@@ -1,0 +1,1 @@
+{"tmdb_id": 166304, "title": "Hot Tamale", "original_title": "Hot Tamale", "slug_title": "hot-tamale", "date": "1930-08-02", "genre": "", "score": "2.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

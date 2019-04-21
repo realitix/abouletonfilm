@@ -1,0 +1,1 @@
+{"tmdb_id": 533716, "title": "Star Wars: Episode III.VIII: Rise of the Troopers", "original_title": "Star Wars: Episode III.VIII: Rise of the Troopers", "slug_title": "star-wars-episode-iii-viii-rise-of-the-troopers", "date": "2007-05-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

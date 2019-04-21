@@ -1,0 +1,1 @@
+{"tmdb_id": 534061, "title": "Bad Taste Movie No. 1", "original_title": "Bad Taste Movie No. 1", "slug_title": "bad-taste-movie-no-1", "date": "1982-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mEOuqO2I2xBmEBSdR1w7docX946.jpg", "actors": [], "comments": [], "recommandations_id": []}

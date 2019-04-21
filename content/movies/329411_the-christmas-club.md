@@ -1,0 +1,1 @@
+{"tmdb_id": 329411, "title": "The Christmas Club", "original_title": "The Christmas Club", "slug_title": "the-christmas-club", "date": "2015-02-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

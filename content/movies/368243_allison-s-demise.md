@@ -1,0 +1,1 @@
+{"tmdb_id": 368243, "title": "Allison's Demise", "original_title": "Allison's Demise", "slug_title": "allison-s-demise", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

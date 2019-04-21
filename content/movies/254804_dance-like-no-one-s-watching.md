@@ -1,0 +1,1 @@
+{"tmdb_id": 254804, "title": "Dance Like No One's Watching", "original_title": "Dance Like No One's Watching", "slug_title": "dance-like-no-one-s-watching", "date": "2013-10-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

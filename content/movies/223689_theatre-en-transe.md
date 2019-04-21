@@ -1,0 +1,1 @@
+{"tmdb_id": 223689, "title": "Th\u00e9\u00e2tre en transe", "original_title": "Theater in Trance", "slug_title": "theatre-en-transe", "date": "1981-08-20", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jc0addyBC1GX1ZEvmyCl1Eivf7c.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 396244, "title": "The Other Side", "original_title": "Druga strona", "slug_title": "the-other-side", "date": "1980-05-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vYMcu7xbiq9E4zM8x0XBAvMy8Nz.jpg", "actors": [], "comments": [], "recommandations_id": []}

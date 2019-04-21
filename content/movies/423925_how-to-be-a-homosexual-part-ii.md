@@ -1,0 +1,1 @@
+{"tmdb_id": 423925, "title": "How to Be a Homosexual Part II", "original_title": "How to Be a Homosexual Part II", "slug_title": "how-to-be-a-homosexual-part-ii", "date": "1982-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

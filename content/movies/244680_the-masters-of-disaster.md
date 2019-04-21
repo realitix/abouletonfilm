@@ -1,0 +1,1 @@
+{"tmdb_id": 244680, "title": "The Masters of Disaster", "original_title": "The Masters of Disaster", "slug_title": "the-masters-of-disaster", "date": "1986-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

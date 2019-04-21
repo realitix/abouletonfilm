@@ -1,0 +1,1 @@
+{"tmdb_id": 79458, "title": "The Finland Phenomenon", "original_title": "The Finland Phenomenon", "slug_title": "the-finland-phenomenon", "date": "2011-03-24", "genre": "Documentaire", "score": "5.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bz5u3RVcetaPRBW77ZilOdXG9OT.jpg", "actors": [], "comments": [], "recommandations_id": []}

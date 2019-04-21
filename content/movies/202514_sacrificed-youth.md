@@ -1,0 +1,1 @@
+{"tmdb_id": 202514, "title": "Sacrificed Youth", "original_title": "Qing chun ji", "slug_title": "sacrificed-youth", "date": "1986-10-24", "genre": "Drame", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t5OUQ4suIrvy2hcSzPzyJYBwpqZ.jpg", "actors": ["Feng Yuanzheng ()", "Li Feng-Xu ()"], "comments": [], "recommandations_id": []}

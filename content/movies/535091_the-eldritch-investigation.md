@@ -1,0 +1,1 @@
+{"tmdb_id": 535091, "title": "The Eldritch Investigation", "original_title": "The Eldritch Investigation", "slug_title": "the-eldritch-investigation", "date": "2008-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

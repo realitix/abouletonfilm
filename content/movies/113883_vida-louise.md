@@ -1,0 +1,1 @@
+{"tmdb_id": 113883, "title": "vida & Louise", "original_title": "vida & Louise", "slug_title": "vida-louise", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

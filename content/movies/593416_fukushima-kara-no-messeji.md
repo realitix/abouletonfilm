@@ -1,0 +1,1 @@
+{"tmdb_id": 593416, "title": "Fukushima kara no mess\u00eaji", "original_title": "Fukushima kara no mess\u00eaji", "slug_title": "fukushima-kara-no-messeji", "date": "2012-09-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

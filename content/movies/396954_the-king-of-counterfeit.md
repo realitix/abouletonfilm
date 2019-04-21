@@ -1,0 +1,1 @@
+{"tmdb_id": 396954, "title": "The King of Counterfeit", "original_title": "The King of Counterfeit", "slug_title": "the-king-of-counterfeit", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Linda Cardellini ()", "Josh Hutcherson ()", "Bill Murray ()"], "comments": [], "recommandations_id": []}

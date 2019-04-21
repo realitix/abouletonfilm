@@ -1,0 +1,1 @@
+{"tmdb_id": 219524, "title": "Swing Wedding", "original_title": "Swing Wedding", "slug_title": "swing-wedding", "date": "1937-02-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dzDdt1aOJ2gMZfZ6xAgv13R0Frt.jpg", "actors": [], "comments": [], "recommandations_id": []}

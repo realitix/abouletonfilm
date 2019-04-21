@@ -1,0 +1,1 @@
+{"tmdb_id": 254408, "title": "Kamikaze in Color", "original_title": "Kamikaze in Color", "slug_title": "kamikaze-in-color", "date": "2006-05-09", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2WDFgPMAgXcYTAA2Hng8MIy9hPj.jpg", "actors": [], "comments": [], "recommandations_id": []}

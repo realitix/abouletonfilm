@@ -1,0 +1,1 @@
+{"tmdb_id": 447225, "title": "Call of Cuteness", "original_title": "Call of Cuteness", "slug_title": "call-of-cuteness", "date": "2017-02-10", "genre": "Animation", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kHdHT46E5FSP3MFqnOMlKYSCi0q.jpg", "actors": [], "comments": [], "recommandations_id": []}

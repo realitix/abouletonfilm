@@ -1,0 +1,1 @@
+{"tmdb_id": 371071, "title": "Devil May Care", "original_title": "Devil May Care", "slug_title": "devil-may-care", "date": "2013-10-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yESbDL7IeM6eO60CbchsIGzxdd2.jpg", "actors": [], "comments": [], "recommandations_id": []}

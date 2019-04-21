@@ -1,0 +1,1 @@
+{"tmdb_id": 330898, "title": "Bowl of Pork", "original_title": "Bowl of Pork", "slug_title": "bowl-of-pork", "date": "1997-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dave Chappelle (Black Forrest Gump)"], "comments": [], "recommandations_id": []}

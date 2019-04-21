@@ -1,0 +1,1 @@
+{"tmdb_id": 166554, "title": "Golf Nuts", "original_title": "Golf Nuts", "slug_title": "golf-nuts", "date": "1930-12-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

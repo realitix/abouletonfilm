@@ -1,0 +1,1 @@
+{"tmdb_id": 410093, "title": "She dreamt, we dreamt", "original_title": "Ella so\u00f1\u00f3, nosotros so\u00f1amos", "slug_title": "she-dreamt-we-dreamt", "date": "2007-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f2QL2mOAejZBHcHj57mzvckiC7X.jpg", "actors": [], "comments": [], "recommandations_id": []}

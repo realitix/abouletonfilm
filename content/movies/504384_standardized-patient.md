@@ -1,0 +1,1 @@
+{"tmdb_id": 504384, "title": "Standardized Patient", "original_title": "Standardized Patient", "slug_title": "standardized-patient", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

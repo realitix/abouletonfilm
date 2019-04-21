@@ -1,0 +1,1 @@
+{"tmdb_id": 312328, "title": "Mississippi Mass Choir: The Essential Collection", "original_title": "Mississippi Mass Choir: The Essential Collection", "slug_title": "mississippi-mass-choir-the-essential-collection", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

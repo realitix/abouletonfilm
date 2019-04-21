@@ -1,0 +1,1 @@
+{"tmdb_id": 65178, "title": "Lady Ninja Kasumi 8", "original_title": "Lady Ninja Kasumi 8", "slug_title": "lady-ninja-kasumi-8", "date": "2009-07-01", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iQQEzndtHYqzKituAyJzwuZ0hTs.jpg", "actors": [], "comments": [], "recommandations_id": []}

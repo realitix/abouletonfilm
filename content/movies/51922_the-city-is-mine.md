@@ -1,0 +1,1 @@
+{"tmdb_id": 51922, "title": "The City Is Mine", "original_title": "The City Is Mine", "slug_title": "the-city-is-mine", "date": "2008-08-08", "genre": "Action / Drame / Thriller", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9KFuCTAZ4H6x9zsUheZJKaP0PPn.jpg", "actors": [], "comments": [], "recommandations_id": []}

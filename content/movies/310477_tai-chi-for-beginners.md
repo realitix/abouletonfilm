@@ -1,0 +1,1 @@
+{"tmdb_id": 310477, "title": "Tai Chi For Beginners", "original_title": "Tai Chi For Beginners", "slug_title": "tai-chi-for-beginners", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cHLEk7uwt5pWYmnaY9MEy2bX6BP.jpg", "actors": ["Christopher Pei (Himself)"], "comments": [], "recommandations_id": []}

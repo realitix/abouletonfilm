@@ -1,0 +1,1 @@
+{"tmdb_id": 396375, "title": "George and Tammy", "original_title": "George and Tammy", "slug_title": "george-and-tammy", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Josh Brolin (George Jones)", "Jessica Chastain (Tammy Wynette)"], "comments": [], "recommandations_id": [457232, 424853, 76545]}

@@ -1,0 +1,1 @@
+{"tmdb_id": 318800, "title": "Tsunami Bomb: Live at the Glass House", "original_title": "Tsunami Bomb: Live at the Glass House", "slug_title": "tsunami-bomb-live-at-the-glass-house", "date": "2005-06-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

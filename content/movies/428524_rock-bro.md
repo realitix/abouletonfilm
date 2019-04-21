@@ -1,0 +1,1 @@
+{"tmdb_id": 428524, "title": "Rock Bro", "original_title": "Rock Bro", "slug_title": "rock-bro", "date": "2016-10-27", "genre": "Com\u00e9die", "score": "7.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e8DWg8P6oLWJC3EFUrjWhI1uUbz.jpg", "actors": ["Sofi Jikan ()", "Khir Rahman ()", "Pekin Ibrahim ()"], "comments": [], "recommandations_id": []}

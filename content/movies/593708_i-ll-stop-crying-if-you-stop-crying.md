@@ -1,0 +1,1 @@
+{"tmdb_id": 593708, "title": "I'll Stop Crying If You Stop Crying", "original_title": "I'll Stop Crying If You Stop Crying", "slug_title": "i-ll-stop-crying-if-you-stop-crying", "date": "2012-01-01", "genre": "Animation / Drame / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

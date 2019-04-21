@@ -1,0 +1,1 @@
+{"tmdb_id": 493517, "title": "Das Haus voller Leichen", "original_title": "Das Haus voller Leichen", "slug_title": "das-haus-voller-leichen", "date": "1959-11-24", "genre": "Crime", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Annemarie Hase (Dwina Arbuckle)", "Loni Michelis (Yedda Arbuckle)"], "comments": [], "recommandations_id": []}

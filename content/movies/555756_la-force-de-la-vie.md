@@ -1,0 +1,1 @@
+{"tmdb_id": 555756, "title": "La force de la vie", "original_title": "La force de la vie", "slug_title": "la-force-de-la-vie", "date": "1920-08-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

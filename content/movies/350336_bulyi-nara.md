@@ -1,0 +1,1 @@
+{"tmdb_id": 350336, "title": "\ubd88\uc758 \ub098\ub77c", "original_title": "\ubd88\uc758 \ub098\ub77c", "slug_title": "bulyi-nara", "date": "1989-08-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

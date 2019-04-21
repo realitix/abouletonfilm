@@ -1,0 +1,1 @@
+{"tmdb_id": 299703, "title": "Pearl Harbor & the Explosions", "original_title": "Pearl Harbor & the Explosions", "slug_title": "pearl-harbor-the-explosions", "date": "1978-01-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pearl E. Gates ()"], "comments": [], "recommandations_id": []}

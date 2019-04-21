@@ -1,0 +1,1 @@
+{"tmdb_id": 315833, "title": "Shaun Palmer - The Miserable Champion", "original_title": "Shaun Palmer - The Miserable Champion", "slug_title": "shaun-palmer-the-miserable-champion", "date": "2012-08-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

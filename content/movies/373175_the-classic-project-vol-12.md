@@ -1,0 +1,1 @@
+{"tmdb_id": 373175, "title": "The Classic Project Vol. 12", "original_title": "The Classic Project Vol. 12", "slug_title": "the-classic-project-vol-12", "date": "", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3sOZOlCtkjyJu0I8LKerozgzJIl.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 569357, "title": "Fades and Close-Ups", "original_title": "Fades and Close-Ups", "slug_title": "fades-and-close-ups", "date": "1978-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

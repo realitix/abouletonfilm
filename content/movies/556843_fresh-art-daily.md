@@ -1,0 +1,1 @@
+{"tmdb_id": 556843, "title": "Fresh Art Daily", "original_title": "Fresh Art Daily", "slug_title": "fresh-art-daily", "date": "2004-02-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

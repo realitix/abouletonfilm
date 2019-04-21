@@ -1,0 +1,1 @@
+{"tmdb_id": 378590, "title": "Julie Andrews in Concert", "original_title": "Julie Andrews in Concert", "slug_title": "julie-andrews-in-concert", "date": "1990-03-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e4EMcraeCqEzbLFY0SQGlm8NBKY.jpg", "actors": ["Julie Andrews ()"], "comments": [], "recommandations_id": []}

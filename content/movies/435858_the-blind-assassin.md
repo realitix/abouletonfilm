@@ -1,0 +1,1 @@
+{"tmdb_id": 435858, "title": "The Blind Assassin", "original_title": "The Blind Assassin", "slug_title": "the-blind-assassin", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

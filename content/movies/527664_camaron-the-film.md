@@ -1,0 +1,1 @@
+{"tmdb_id": 527664, "title": "Camar\u00f3n: The Film", "original_title": "Camar\u00f3n: Flamenco y revoluci\u00f3n", "slug_title": "camaron-the-film", "date": "2018-06-01", "genre": "Documentaire", "score": "8.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1JD3rBk8DU2c654azd6jRtLuaFQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

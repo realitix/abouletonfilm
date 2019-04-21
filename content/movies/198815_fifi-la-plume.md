@@ -1,0 +1,1 @@
+{"tmdb_id": 198815, "title": "Fifi la plume", "original_title": "Fifi la plume", "slug_title": "fifi-la-plume", "date": "1965-06-08", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fWj0julsCLCS3oKQ30fRAsnHTET.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 423963, "title": "Yoga mit Ralf Bauer", "original_title": "Yoga mit Ralf Bauer", "slug_title": "yoga-mit-ralf-bauer", "date": "2004-09-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1R5HkqWn6tJtcRQSN1ZRV1jFU2Z.jpg", "actors": [], "comments": [], "recommandations_id": []}

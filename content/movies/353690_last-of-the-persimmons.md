@@ -1,0 +1,1 @@
+{"tmdb_id": 353690, "title": "Last of the Persimmons", "original_title": "Last of the Persimmons", "slug_title": "last-of-the-persimmons", "date": "1972-05-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tmopE6WxK0jiBBnj3ONthm7DLtG.jpg", "actors": [], "comments": [], "recommandations_id": []}

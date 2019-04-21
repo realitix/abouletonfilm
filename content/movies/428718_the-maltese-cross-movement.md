@@ -1,0 +1,1 @@
+{"tmdb_id": 428718, "title": "The Maltese Cross Movement", "original_title": "The Maltese Cross Movement", "slug_title": "the-maltese-cross-movement", "date": "1967-01-01", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

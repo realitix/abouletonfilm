@@ -1,0 +1,1 @@
+{"tmdb_id": 262024, "title": "Arabian Coffee", "original_title": "Coffea ar\u00e1biga", "slug_title": "arabian-coffee", "date": "1968-01-01", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oNfphEjgPo0fAcrNPho8Rsspr7k.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 552553, "title": "Chal Man Jeetva Jaiye", "original_title": "Chal Man Jeetva Jaiye", "slug_title": "chal-man-jeetva-jaiye", "date": "2017-12-29", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hzJWolDDHoQEizXejCNM5ajltv5.jpg", "actors": [], "comments": [], "recommandations_id": []}

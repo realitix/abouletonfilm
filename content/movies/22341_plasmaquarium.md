@@ -1,0 +1,1 @@
+{"tmdb_id": 22341, "title": "Plasmaquarium", "original_title": "Plasmaquarium", "slug_title": "plasmaquarium", "date": "2004-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kRkAYSFwCCAGcdxX62wS53j2HRl.jpg", "actors": [], "comments": [], "recommandations_id": []}

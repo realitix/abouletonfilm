@@ -1,0 +1,1 @@
+{"tmdb_id": 463784, "title": "Ritter R\u00fcdiger - Die Zeitreise", "original_title": "Ritter R\u00fcdiger - Die Zeitreise", "slug_title": "ritter-rudiger-die-zeitreise", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

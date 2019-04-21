@@ -1,0 +1,1 @@
+{"tmdb_id": 521491, "title": "Blue's Clues Blue Takes You To School", "original_title": "Blue's Clues Blue Takes You To School", "slug_title": "blue-s-clues-blue-takes-you-to-school", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

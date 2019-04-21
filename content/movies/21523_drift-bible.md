@@ -1,0 +1,1 @@
+{"tmdb_id": 21523, "title": "Drift Bible", "original_title": "The Drift King Keiichi Tsuchiya's Drift Bible: A Complete Guide to Drifting", "slug_title": "drift-bible", "date": "2003-09-01", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

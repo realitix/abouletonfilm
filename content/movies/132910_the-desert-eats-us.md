@@ -1,0 +1,1 @@
+{"tmdb_id": 132910, "title": "The Desert Eats Us", "original_title": "The Desert Eats Us", "slug_title": "the-desert-eats-us", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

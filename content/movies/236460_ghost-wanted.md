@@ -1,0 +1,1 @@
+{"tmdb_id": 236460, "title": "Ghost Wanted", "original_title": "Ghost Wanted", "slug_title": "ghost-wanted", "date": "1940-08-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cTvl1uNYHasOqyo7lTi6ZgoZhDB.jpg", "actors": [], "comments": [], "recommandations_id": []}

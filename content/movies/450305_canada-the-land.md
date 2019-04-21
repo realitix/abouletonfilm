@@ -1,0 +1,1 @@
+{"tmdb_id": 450305, "title": "Canada the Land", "original_title": "Canada the Land", "slug_title": "canada-the-land", "date": "1969-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l3UyQZvMaTtlKo42PMlkU9hieC8.jpg", "actors": [], "comments": [], "recommandations_id": []}

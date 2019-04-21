@@ -1,0 +1,1 @@
+{"tmdb_id": 593759, "title": "The Lobotomist", "original_title": "The Lobotomist", "slug_title": "the-lobotomist", "date": "2008-01-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aaLJdZuId38mgjJxNg3r6blvhT9.jpg", "actors": [], "comments": [], "recommandations_id": []}

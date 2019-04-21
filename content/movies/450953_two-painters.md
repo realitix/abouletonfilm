@@ -1,0 +1,1 @@
+{"tmdb_id": 450953, "title": "Two Painters", "original_title": "\u5169\u500b\u6cb9\u6f06\u5320", "slug_title": "two-painters", "date": "1989-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sun Yueh ()", "Joyce Ni ()", "Chan Yat-Daat ()", "Teresa Tsui ()", "Bor Jeng Chen ()"], "comments": [], "recommandations_id": []}

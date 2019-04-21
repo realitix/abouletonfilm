@@ -1,0 +1,1 @@
+{"tmdb_id": 313431, "title": "Alexandre Pires: Exitos, Solo Para Usted", "original_title": "Alexandre Pires: Exitos, Solo Para Usted", "slug_title": "alexandre-pires-exitos-solo-para-usted", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

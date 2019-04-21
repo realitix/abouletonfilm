@@ -1,0 +1,1 @@
+{"tmdb_id": 435822, "title": "Arabic Numeral Series 0", "original_title": "Arabic Numeral Series 0", "slug_title": "arabic-numeral-series-0", "date": "1981-01-18", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 548672, "title": "Kalabush", "original_title": "Kalabush", "slug_title": "kalabush", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

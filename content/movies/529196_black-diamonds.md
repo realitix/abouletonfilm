@@ -1,0 +1,1 @@
+{"tmdb_id": 529196, "title": "Black Diamonds", "original_title": "Czarne diamenty", "slug_title": "black-diamonds", "date": "1939-06-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hiWfu9t4yqiHjC6ufMdj0r1bBUy.jpg", "actors": [], "comments": [], "recommandations_id": []}

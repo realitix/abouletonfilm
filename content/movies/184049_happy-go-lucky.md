@@ -1,0 +1,1 @@
+{"tmdb_id": 184049, "title": "Happy Go Lucky", "original_title": "Happy Go Lucky", "slug_title": "happy-go-lucky", "date": "2002-07-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kJLMhjBwre0IcR25ZO5dt2MsthJ.jpg", "actors": ["Sora Aoi (Aoi)"], "comments": [], "recommandations_id": []}

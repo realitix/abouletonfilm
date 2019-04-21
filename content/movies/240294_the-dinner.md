@@ -1,0 +1,1 @@
+{"tmdb_id": 240294, "title": "The Dinner", "original_title": "\ub9cc\ucc2c", "slug_title": "the-dinner", "date": "2013-10-11", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tvj0oWsAta2G6HBCgs4AztNHfUi.jpg", "actors": ["Jeong Ui-gap ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 312684, "title": "Military History: B-25: One Helluva Bomber", "original_title": "Military History: B-25: One Helluva Bomber", "slug_title": "military-history-b-25-one-helluva-bomber", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

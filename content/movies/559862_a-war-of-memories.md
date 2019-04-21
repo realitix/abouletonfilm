@@ -1,0 +1,1 @@
+{"tmdb_id": 559862, "title": "A War of Memories", "original_title": "\uae30\uc5b5\uc758 \uc804\uc7c1", "slug_title": "a-war-of-memories", "date": "2018-10-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

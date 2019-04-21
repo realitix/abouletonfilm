@@ -1,0 +1,1 @@
+{"tmdb_id": 419134, "title": "Nudie Cutie Marathon", "original_title": "Nudie Cutie Marathon", "slug_title": "nudie-cutie-marathon", "date": "2016-06-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

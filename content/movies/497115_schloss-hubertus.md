@@ -1,0 +1,1 @@
+{"tmdb_id": 497115, "title": "Schlo\u00df Hubertus", "original_title": "Schlo\u00df Hubertus", "slug_title": "schloss-hubertus", "date": "1934-07-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wTDKS112SNRyTTlmFumQj0PyLL2.jpg", "actors": [], "comments": [], "recommandations_id": []}

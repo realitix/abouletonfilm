@@ -1,0 +1,1 @@
+{"tmdb_id": 65472, "title": "Opry Video Classics: Duets", "original_title": "Opry Video Classics: Duets", "slug_title": "opry-video-classics-duets", "date": "2011-01-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lUx9jCrkZzXRVQo4yewjzbR298O.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 355748, "title": "The Last Day of a Rainy Summer", "original_title": "Poslednii den' nenastnogo leta", "slug_title": "the-last-day-of-a-rainy-summer", "date": "1978-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

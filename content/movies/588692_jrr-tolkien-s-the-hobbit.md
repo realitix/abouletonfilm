@@ -1,0 +1,1 @@
+{"tmdb_id": 588692, "title": "JRR Tolkien's The Hobbit", "original_title": "JRR Tolkien's The Hobbit", "slug_title": "jrr-tolkien-s-the-hobbit", "date": "2015-12-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

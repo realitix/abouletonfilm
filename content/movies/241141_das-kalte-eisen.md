@@ -1,0 +1,1 @@
+{"tmdb_id": 241141, "title": "Das Kalte Eisen", "original_title": "Das Kalte Eisen", "slug_title": "das-kalte-eisen", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

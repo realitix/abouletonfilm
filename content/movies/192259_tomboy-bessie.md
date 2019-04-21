@@ -1,0 +1,1 @@
+{"tmdb_id": 192259, "title": "Tomboy Bessie", "original_title": "Tomboy Bessie", "slug_title": "tomboy-bessie", "date": "1912-06-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mabel Normand (Tomboy Bessie)", "Mack Sennett (Andrew - the Suitor)"], "comments": [], "recommandations_id": []}

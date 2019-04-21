@@ -1,0 +1,1 @@
+{"tmdb_id": 367813, "title": "Girls never Call", "original_title": "Girls never Call", "slug_title": "girls-never-call", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

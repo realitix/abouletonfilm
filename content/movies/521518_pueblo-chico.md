@@ -1,0 +1,1 @@
+{"tmdb_id": 521518, "title": "Pueblo chico", "original_title": "Pueblo chico", "slug_title": "pueblo-chico", "date": "1974-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

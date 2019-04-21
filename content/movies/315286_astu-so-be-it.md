@@ -1,0 +1,1 @@
+{"tmdb_id": 315286, "title": "Astu - So Be It", "original_title": "Astu - So Be It", "slug_title": "astu-so-be-it", "date": "2014-08-01", "genre": "Drame", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2NY6liSov1vPmDRmYrdOP7maIBr.jpg", "actors": ["Mohan Agashe (Appa)", "Amruta Subhash ()"], "comments": [], "recommandations_id": []}

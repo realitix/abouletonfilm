@@ -1,0 +1,1 @@
+{"tmdb_id": 444712, "title": "The Mystery of the Morro Castle", "original_title": "The Mystery of the Morro Castle", "slug_title": "the-mystery-of-the-morro-castle", "date": "1980-03-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["John Goodman (Telegraph Operator)"], "comments": [], "recommandations_id": []}

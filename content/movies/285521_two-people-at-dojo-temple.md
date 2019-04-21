@@ -1,0 +1,1 @@
+{"tmdb_id": 285521, "title": "Two People at Dojo temple", "original_title": "Ninin Dojoji", "slug_title": "two-people-at-dojo-temple", "date": "1899-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Yokitsu Ichimura ()", "Eizaburo Onoe ()"], "comments": [], "recommandations_id": []}

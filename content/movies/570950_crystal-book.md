@@ -1,0 +1,1 @@
+{"tmdb_id": 570950, "title": "Crystal Book", "original_title": "Le livre de cristal", "slug_title": "crystal-book", "date": "1996-10-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

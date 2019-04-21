@@ -1,0 +1,1 @@
+{"tmdb_id": 334737, "title": "Demian\u2019s Face", "original_title": "Demian\u2019s Face", "slug_title": "demians-face", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 145787, "title": "Words for Battle", "original_title": "Words for Battle", "slug_title": "words-for-battle", "date": "1941-01-24", "genre": "", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xQ9edAEYU5WicXrXHBVLjZVXvgV.jpg", "actors": ["Laurence Olivier ((voice))"], "comments": [], "recommandations_id": []}

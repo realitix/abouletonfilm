@@ -1,0 +1,1 @@
+{"tmdb_id": 272727, "title": "Wyoming Triumph", "original_title": "Wyoming Triumph", "slug_title": "wyoming-triumph", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

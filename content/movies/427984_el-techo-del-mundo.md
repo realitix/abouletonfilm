@@ -1,0 +1,1 @@
+{"tmdb_id": 427984, "title": "El techo del mundo", "original_title": "El techo del mundo", "slug_title": "el-techo-del-mundo", "date": "1995-12-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1IqJbyabhtzxZrekNCOYj45MdsE.jpg", "actors": ["Santiago Ramos ()"], "comments": [], "recommandations_id": []}

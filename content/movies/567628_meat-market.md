@@ -1,0 +1,1 @@
+{"tmdb_id": 567628, "title": "Meat Market", "original_title": "Meat Market", "slug_title": "meat-market", "date": "2007-07-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Joanna Curtis (Martina)", "David Corden (Ray)", "Sarah Ashton (Anne)", "James Atkinson (The gimp)"], "comments": [], "recommandations_id": []}

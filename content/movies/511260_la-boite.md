@@ -1,0 +1,1 @@
+{"tmdb_id": 511260, "title": "La bo\u00eete", "original_title": "La bo\u00eete", "slug_title": "la-boite", "date": "1989-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

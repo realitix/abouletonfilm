@@ -1,0 +1,1 @@
+{"tmdb_id": 575310, "title": "Confessions", "original_title": "Confessions Series", "slug_title": "confessions", "date": "2019-08-30", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dI9DuWzWA9I3NUTqdynE5h8p6Le.jpg", "actors": ["Zane Foyle (Young man)"], "comments": [], "recommandations_id": []}

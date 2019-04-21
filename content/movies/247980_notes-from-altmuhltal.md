@@ -1,0 +1,1 @@
+{"tmdb_id": 247980, "title": "Notes from Altm\u00fchltal", "original_title": "Notizen aus dem Altm\u00fchltal", "slug_title": "notes-from-altmuhltal", "date": "1961-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Wolfgang B\u00fcttner ((voice))"], "comments": [], "recommandations_id": []}

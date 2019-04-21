@@ -1,0 +1,1 @@
+{"tmdb_id": 467913, "title": "One Hit Wonders", "original_title": "One Hit Wonders", "slug_title": "one-hit-wonders", "date": "", "genre": "Com\u00e9die / Musique / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

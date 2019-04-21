@@ -1,0 +1,1 @@
+{"tmdb_id": 479175, "title": "The FIRM: Time Crunch Cardio", "original_title": "The FIRM: Time Crunch Cardio", "slug_title": "the-firm-time-crunch-cardio", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vKbwdgCjedyas2yHoOWa5Jsn9qa.jpg", "actors": [], "comments": [], "recommandations_id": []}

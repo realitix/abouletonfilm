@@ -1,0 +1,1 @@
+{"tmdb_id": 334429, "title": "The Wound", "original_title": "Yara", "slug_title": "the-wound", "date": "1998-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wsIZBXtUSQqBWk45cL7lfQNmYLp.jpg", "actors": ["Yelda Reynaud ()", "Halil Erg\u00fcn ()", "Nur S\u00fcrer ()"], "comments": [], "recommandations_id": []}

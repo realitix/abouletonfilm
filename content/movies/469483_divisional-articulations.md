@@ -1,0 +1,1 @@
+{"tmdb_id": 469483, "title": "Divisional Articulations", "original_title": "Divisional Articulations", "slug_title": "divisional-articulations", "date": "2017-05-24", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

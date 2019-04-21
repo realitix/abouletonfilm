@@ -1,0 +1,1 @@
+{"tmdb_id": 539467, "title": "Screen Snapshots Series 19, No. 1", "original_title": "Screen Snapshots Series 19, No. 1", "slug_title": "screen-snapshots-series-19-no-1", "date": "1939-09-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

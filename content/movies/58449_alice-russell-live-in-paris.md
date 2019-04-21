@@ -1,0 +1,1 @@
+{"tmdb_id": 58449, "title": "Alice Russell - Live in Paris", "original_title": "Alice Russell - Live in Paris", "slug_title": "alice-russell-live-in-paris", "date": "", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bkePUJnDuwkJdUZjWZBp40gRKLy.jpg", "actors": [], "comments": [], "recommandations_id": []}

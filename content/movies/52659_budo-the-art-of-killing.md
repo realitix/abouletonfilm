@@ -1,0 +1,1 @@
+{"tmdb_id": 52659, "title": "Budo: The Art of Killing", "original_title": "Budo", "slug_title": "budo-the-art-of-killing", "date": "1978-01-01", "genre": "Documentaire", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g9x66GyEWnXuGWEhrIMoOQ5aT5x.jpg", "actors": ["Harry J. Quini (Narrator)"], "comments": [], "recommandations_id": []}

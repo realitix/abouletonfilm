@@ -1,0 +1,1 @@
+{"tmdb_id": 511301, "title": "A Scooby-Doo! Christmas", "original_title": "A Scooby-Doo! Christmas", "slug_title": "a-scooby-doo-christmas", "date": "2002-12-13", "genre": "Animation", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jQckoQuqC3FSjyd4sDTmiGOicLv.jpg", "actors": [], "comments": [], "recommandations_id": []}

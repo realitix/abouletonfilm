@@ -1,0 +1,1 @@
+{"tmdb_id": 500790, "title": "Crown of Fire", "original_title": "Crown of Fire", "slug_title": "crown-of-fire", "date": "1998-04-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/35VYWbtrvw5yWW6sGU67XlOi2bZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

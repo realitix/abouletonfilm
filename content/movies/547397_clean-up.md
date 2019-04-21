@@ -1,0 +1,1 @@
+{"tmdb_id": 547397, "title": "Clean Up", "original_title": "\ud638\ud761", "slug_title": "clean-up", "date": "2018-10-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4bT1PO1V3Cegffx0WuwJ0yHoe95.jpg", "actors": ["Yoon Ji-hye (Jeong-ju)", "Kim Dae-gun (Min-gu)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 98093, "title": "Death Riders", "original_title": "Death Riders", "slug_title": "death-riders", "date": "1976-07-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/myN7bshpJ6enqVHJ7A0HeFk2HEb.jpg", "actors": ["Henry Trumblay (Commentator)"], "comments": [], "recommandations_id": []}

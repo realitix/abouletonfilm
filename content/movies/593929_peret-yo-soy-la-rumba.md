@@ -1,0 +1,1 @@
+{"tmdb_id": 593929, "title": "Peret, yo soy la rumba", "original_title": "Peret, yo soy la rumba", "slug_title": "peret-yo-soy-la-rumba", "date": "2019-03-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l2nyMwQVSHA5PDA5IiLu1bJ8iSs.jpg", "actors": [], "comments": [], "recommandations_id": []}

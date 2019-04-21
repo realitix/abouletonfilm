@@ -1,0 +1,1 @@
+{"tmdb_id": 413921, "title": "Love in Simla", "original_title": "Love in Simla", "slug_title": "love-in-simla", "date": "1960-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/65COu2uaYoflT8AtBe0IJBlCWMm.jpg", "actors": ["Sadhana ()", "Joy Mukherjee ()"], "comments": [], "recommandations_id": []}

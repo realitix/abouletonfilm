@@ -1,0 +1,1 @@
+{"tmdb_id": 488756, "title": "A Woman Captured", "original_title": "Egy n\u0151 fogs\u00e1gban", "slug_title": "a-woman-captured", "date": "2017-11-19", "genre": "Documentaire", "score": "7.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5OQ5EByd4ZxKthaCYaLx6BH6wk7.jpg", "actors": [], "comments": [], "recommandations_id": []}

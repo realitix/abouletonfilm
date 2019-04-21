@@ -1,0 +1,1 @@
+{"tmdb_id": 192635, "title": "Vile Pervert: The Musical", "original_title": "Vile Pervert: The Musical", "slug_title": "vile-pervert-the-musical", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

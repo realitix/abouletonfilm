@@ -1,0 +1,1 @@
+{"tmdb_id": 379241, "title": "Pink Lightning", "original_title": "Pink Lightning", "slug_title": "pink-lightning", "date": "1978-11-17", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8RVNNEWZz9ixUYYLMaEubQfwiFO.jpg", "actors": [], "comments": [], "recommandations_id": []}

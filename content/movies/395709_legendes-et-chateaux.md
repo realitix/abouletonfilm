@@ -1,0 +1,1 @@
+{"tmdb_id": 395709, "title": "L\u00e9gendes et ch\u00e2teaux", "original_title": "L\u00e9gendes et ch\u00e2teaux", "slug_title": "legendes-et-chateaux", "date": "1972-05-01", "genre": "Horreur / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Marie-Paule Mailleux (Witch)"], "comments": [], "recommandations_id": []}

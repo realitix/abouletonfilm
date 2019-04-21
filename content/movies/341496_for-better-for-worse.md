@@ -1,0 +1,1 @@
+{"tmdb_id": 341496, "title": "For Better, for Worse", "original_title": "Yu guo tian qing", "slug_title": "for-better-for-worse", "date": "1959-08-20", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bwapJm5aRaejpnsCgOOGMiMYbq8.jpg", "actors": [], "comments": [], "recommandations_id": []}

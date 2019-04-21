@@ -1,0 +1,1 @@
+{"tmdb_id": 468163, "title": "My Dad the Communist", "original_title": "My Dad the Communist", "slug_title": "my-dad-the-communist", "date": "2009-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sRW1btqkBGlhPteQGQAyozbSECI.jpg", "actors": [], "comments": [], "recommandations_id": []}

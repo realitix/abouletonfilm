@@ -1,0 +1,1 @@
+{"tmdb_id": 350192, "title": "\uc591\uadc0\ube44\uc758 \ud6c4\uc608\ub4e4", "original_title": "\uc591\uadc0\ube44\uc758 \ud6c4\uc608\ub4e4", "slug_title": "yanggwibiyi-huyedeul", "date": "1989-04-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

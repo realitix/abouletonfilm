@@ -1,0 +1,1 @@
+{"tmdb_id": 367642, "title": "Chronicles of Hope", "original_title": "Chronicles of Hope", "slug_title": "chronicles-of-hope", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

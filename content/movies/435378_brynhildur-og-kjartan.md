@@ -1,0 +1,1 @@
+{"tmdb_id": 435378, "title": "Brynhildur og Kjartan", "original_title": "Brynhildur og Kjartan", "slug_title": "brynhildur-og-kjartan", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Theod\u00f3r J\u00fal\u00edusson ()", "Helga J\u00f3nsd\u00f3ttir ()"], "comments": [], "recommandations_id": []}

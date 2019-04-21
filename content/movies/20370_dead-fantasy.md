@@ -1,0 +1,1 @@
+{"tmdb_id": 20370, "title": "Dead Fantasy", "original_title": "Dead Fantasy", "slug_title": "dead-fantasy", "date": "2007-01-01", "genre": "Action / Animation / Fantastique", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bGoRgEWfYyXOZmhdLr8MGfeCIts.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 453305, "title": "Elations in Negative", "original_title": "Elations in Negative", "slug_title": "elations-in-negative", "date": "1990-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iqIUttl6o6OsPCLkRpaSsVZFkJx.jpg", "actors": [], "comments": [], "recommandations_id": []}

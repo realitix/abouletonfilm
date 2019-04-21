@@ -1,0 +1,1 @@
+{"tmdb_id": 323572, "title": "Raising Shrimp", "original_title": "Raising Shrimp", "slug_title": "raising-shrimp", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

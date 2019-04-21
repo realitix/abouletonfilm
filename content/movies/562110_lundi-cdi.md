@@ -1,0 +1,1 @@
+{"tmdb_id": 562110, "title": "Lundi CDI", "original_title": "Lundi CDI", "slug_title": "lundi-cdi", "date": "2010-07-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/96Sgfj7ummYMJADldRYv9rw3j5n.jpg", "actors": ["Fran\u00e7ois Godart (Eric)", "Eric Savin (Jos\u00e9)"], "comments": [], "recommandations_id": []}

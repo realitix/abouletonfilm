@@ -1,0 +1,1 @@
+{"tmdb_id": 261920, "title": "Georges Franju - Le visionnaire", "original_title": "Georges Franju - Le visionnaire", "slug_title": "georges-franju-le-visionnaire", "date": "1998-09-02", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Georges Franju (Himself)"], "comments": [], "recommandations_id": []}

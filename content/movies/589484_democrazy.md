@@ -1,0 +1,1 @@
+{"tmdb_id": 589484, "title": "Democrazy", "original_title": "Democrazy", "slug_title": "democrazy", "date": "2005-01-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

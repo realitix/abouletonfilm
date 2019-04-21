@@ -1,0 +1,1 @@
+{"tmdb_id": 312501, "title": "Verdi: The Royal Opera: Covent Garden: Don Carlos", "original_title": "Verdi: The Royal Opera: Covent Garden: Don Carlos", "slug_title": "verdi-the-royal-opera-covent-garden-don-carlos", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 174362, "title": "Bending Steel", "original_title": "Bending Steel", "slug_title": "bending-steel", "date": "2013-04-20", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3MmqKS6PGjf4NaRMnUu3aaQuOw5.jpg", "actors": [], "comments": [], "recommandations_id": []}

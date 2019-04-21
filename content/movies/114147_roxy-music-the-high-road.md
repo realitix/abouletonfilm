@@ -1,0 +1,1 @@
+{"tmdb_id": 114147, "title": "Roxy Music - The High Road", "original_title": "Roxy Music - The High Road", "slug_title": "roxy-music-the-high-road", "date": "1982-11-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z5xOs31WUOIqspTWdDHbqGjvnPS.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 377366, "title": "The Demon of Lataran", "original_title": "The Demon of Lataran", "slug_title": "the-demon-of-lataran", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yzKCNnUuveb41sMwM0bIrUWJB9F.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 569465, "title": "Fair Play", "original_title": "Fair Play", "slug_title": "fair-play", "date": "1986-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

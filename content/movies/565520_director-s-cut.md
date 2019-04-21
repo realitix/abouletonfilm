@@ -1,0 +1,1 @@
+{"tmdb_id": 565520, "title": "Director's Cut", "original_title": "Director's Cut", "slug_title": "director-s-cut", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

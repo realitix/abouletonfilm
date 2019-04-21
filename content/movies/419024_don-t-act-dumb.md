@@ -1,0 +1,1 @@
+{"tmdb_id": 419024, "title": "Don't Act Dumb", "original_title": "Don't Act Dumb", "slug_title": "don-t-act-dumb", "date": "2015-01-01", "genre": "Drame / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Linda Elizabeth (Clare)", "Lars Engstrom (Police Officer)", "Arthur Kriklivy (Steven)"], "comments": [], "recommandations_id": []}

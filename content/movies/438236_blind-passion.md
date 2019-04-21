@@ -1,0 +1,1 @@
+{"tmdb_id": 438236, "title": "Blind Passion", "original_title": "Pasi\u00f3n Siega", "slug_title": "blind-passion", "date": "1979-01-30", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 554810, "title": "The Mask", "original_title": "The Mask", "slug_title": "the-mask", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Noadia Fernandes ()", "Hadassa Raquel ()", "Aryadiniz Diniz ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 401972, "title": "La plan\u00e8te Nam", "original_title": "La plan\u00e8te Nam", "slug_title": "la-planete-nam", "date": "2014-06-13", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Vincent Wilson ()", "Judith Baribeau ()", "Phil\u00e9mon Goulet ()", "Martin Giraldeau ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 369084, "title": "TupiniQueens", "original_title": "TupiniQueens", "slug_title": "tupiniqueens", "date": "2015-11-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qU63l4dbYL6N6HaARqJLO9kNo8g.jpg", "actors": [], "comments": [], "recommandations_id": []}

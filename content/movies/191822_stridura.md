@@ -1,0 +1,1 @@
+{"tmdb_id": 191822, "title": "Stridura", "original_title": "Stridura", "slug_title": "stridura", "date": "1980-01-01", "genre": "Crime / Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uua0gnMn2xpQjuXxTDjohbGXIEC.jpg", "actors": ["Pierre Cl\u00e9menti ()"], "comments": [], "recommandations_id": []}

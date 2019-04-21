@@ -1,0 +1,1 @@
+{"tmdb_id": 327025, "title": "Amerikan Holocaust", "original_title": "Amerikan Holocaust", "slug_title": "amerikan-holocaust", "date": "2013-01-01", "genre": "Horreur", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3El1lu2mEft8bvZsHZZvDwjp3pU.jpg", "actors": [], "comments": [], "recommandations_id": []}

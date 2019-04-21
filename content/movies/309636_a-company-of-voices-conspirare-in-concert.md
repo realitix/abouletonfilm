@@ -1,0 +1,1 @@
+{"tmdb_id": 309636, "title": "A Company of Voices: Conspirare In Concert", "original_title": "A Company of Voices: Conspirare In Concert", "slug_title": "a-company-of-voices-conspirare-in-concert", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

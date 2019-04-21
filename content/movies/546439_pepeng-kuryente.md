@@ -1,0 +1,1 @@
+{"tmdb_id": 546439, "title": "Pepeng Kuryente", "original_title": "Pepeng Kuryente", "slug_title": "pepeng-kuryente", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ramon Revilla Sr. ()", "Ramon 'Bong' Revilla Jr. ()"], "comments": [], "recommandations_id": []}

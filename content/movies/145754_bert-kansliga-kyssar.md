@@ -1,0 +1,1 @@
+{"tmdb_id": 145754, "title": "Bert - K\u00e4nsliga kyssar", "original_title": "Bert - K\u00e4nsliga kyssar", "slug_title": "bert-kansliga-kyssar", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tjCeD0gfVeTYqYs8o9QenEAWpx2.jpg", "actors": [], "comments": [], "recommandations_id": []}

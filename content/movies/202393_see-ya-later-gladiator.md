@@ -1,0 +1,1 @@
+{"tmdb_id": 202393, "title": "See Ya Later Gladiator", "original_title": "See Ya Later Gladiator", "slug_title": "see-ya-later-gladiator", "date": "1968-06-28", "genre": "", "score": "4.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

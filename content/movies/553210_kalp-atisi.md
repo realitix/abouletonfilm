@@ -1,0 +1,1 @@
+{"tmdb_id": 553210, "title": "Kalp Atisi", "original_title": "Kalp Atisi", "slug_title": "kalp-atisi", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

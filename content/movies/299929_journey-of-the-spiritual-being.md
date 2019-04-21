@@ -1,0 +1,1 @@
+{"tmdb_id": 299929, "title": "Journey of the Spiritual Being", "original_title": "Journey of the Spiritual Being", "slug_title": "journey-of-the-spiritual-being", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

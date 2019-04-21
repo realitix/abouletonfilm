@@ -1,0 +1,1 @@
+{"tmdb_id": 544588, "title": "Meaning of the Interval", "original_title": "Meaning of the Interval", "slug_title": "meaning-of-the-interval", "date": "1987-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zjsEXn4db5QNAUmryCYAhOknfjM.jpg", "actors": [], "comments": [], "recommandations_id": []}

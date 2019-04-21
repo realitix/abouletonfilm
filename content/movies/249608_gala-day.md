@@ -1,0 +1,1 @@
+{"tmdb_id": 249608, "title": "Gala Day", "original_title": "Gala Day", "slug_title": "gala-day", "date": "1963-12-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

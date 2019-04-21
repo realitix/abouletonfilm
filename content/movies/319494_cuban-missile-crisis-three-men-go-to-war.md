@@ -1,0 +1,1 @@
+{"tmdb_id": 319494, "title": "Cuban Missile Crisis: Three Men Go to War", "original_title": "Cuban Missile Crisis: Three Men Go to War", "slug_title": "cuban-missile-crisis-three-men-go-to-war", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

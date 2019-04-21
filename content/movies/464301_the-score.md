@@ -1,0 +1,1 @@
+{"tmdb_id": 464301, "title": "The Score", "original_title": "The Score", "slug_title": "the-score", "date": "2013-07-03", "genre": "Thriller / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dean Cartmel (Mr White)", "Phil Zachariah (Mr Black)"], "comments": [], "recommandations_id": []}

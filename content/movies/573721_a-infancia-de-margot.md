@@ -1,0 +1,1 @@
+{"tmdb_id": 573721, "title": "A Inf\u00e2ncia de Margot", "original_title": "A Inf\u00e2ncia de Margot", "slug_title": "a-infancia-de-margot", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sj7buy0zvVYDj8pqJfHgjEZzjN1.jpg", "actors": [], "comments": [], "recommandations_id": []}

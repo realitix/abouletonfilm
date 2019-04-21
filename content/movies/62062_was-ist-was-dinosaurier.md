@@ -1,0 +1,1 @@
+{"tmdb_id": 62062, "title": "Was ist Was - Dinosaurier", "original_title": "Was ist Was - Dinosaurier", "slug_title": "was-ist-was-dinosaurier", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dm7jPWlKYxjGEgMpjiXZTxkU0CR.jpg", "actors": [], "comments": [], "recommandations_id": []}

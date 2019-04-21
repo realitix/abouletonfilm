@@ -1,0 +1,1 @@
+{"tmdb_id": 372357, "title": "Paulina", "original_title": "Paulina", "slug_title": "paulina", "date": "2012-03-17", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Karolina Porcari (Paulina)", "Sophie Rogall (Anna)"], "comments": [], "recommandations_id": []}

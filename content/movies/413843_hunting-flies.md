@@ -1,0 +1,1 @@
+{"tmdb_id": 413843, "title": "Hunting Flies", "original_title": "Fluefangeren", "slug_title": "hunting-flies", "date": "2017-04-21", "genre": "Drame", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8b9XCRQOXlx0wsXa5cKwSr1Z6TS.jpg", "actors": ["Burhan Amiti (Ghani)"], "comments": [], "recommandations_id": []}

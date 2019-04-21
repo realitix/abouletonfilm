@@ -1,0 +1,1 @@
+{"tmdb_id": 381120, "title": "Rockhounds", "original_title": "Rockhounds", "slug_title": "rockhounds", "date": "1975-11-20", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bob Holt (Dogfather / Pug / Boy (voice))"], "comments": [], "recommandations_id": []}

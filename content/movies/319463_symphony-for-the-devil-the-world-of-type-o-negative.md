@@ -1,0 +1,1 @@
+{"tmdb_id": 319463, "title": "Symphony for the Devil: The World of Type O Negative", "original_title": "Symphony for the Devil: The World of Type O Negative", "slug_title": "symphony-for-the-devil-the-world-of-type-o-negative", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

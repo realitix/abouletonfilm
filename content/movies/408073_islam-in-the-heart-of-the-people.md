@@ -1,0 +1,1 @@
+{"tmdb_id": 408073, "title": "Islam in The Heart of The People", "original_title": "Islam in The Heart of The People", "slug_title": "islam-in-the-heart-of-the-people", "date": "2016-05-15", "genre": "Action / Histoire", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bilal Akbulut (Tobey)"], "comments": [], "recommandations_id": []}

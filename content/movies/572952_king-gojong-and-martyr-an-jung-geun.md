@@ -1,0 +1,1 @@
+{"tmdb_id": 572952, "title": "King Gojong and Martyr An Jung-Geun", "original_title": "Gojonghwangjewa uisa An Jung-geun", "slug_title": "king-gojong-and-martyr-an-jung-geun", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

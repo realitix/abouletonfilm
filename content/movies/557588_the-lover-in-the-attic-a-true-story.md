@@ -1,0 +1,1 @@
+{"tmdb_id": 557588, "title": "The Lover in the Attic: A True Story", "original_title": "The Lover in the Attic: A True Story", "slug_title": "the-lover-in-the-attic-a-true-story", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

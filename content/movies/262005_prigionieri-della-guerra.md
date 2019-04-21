@@ -1,0 +1,1 @@
+{"tmdb_id": 262005, "title": "Prigionieri della guerra", "original_title": "Prigionieri della guerra", "slug_title": "prigionieri-della-guerra", "date": "1995-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5vYteC9qKcl3NH8karrtCulN2P7.jpg", "actors": [], "comments": [], "recommandations_id": []}

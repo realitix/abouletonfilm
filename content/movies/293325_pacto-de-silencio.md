@@ -1,0 +1,1 @@
+{"tmdb_id": 293325, "title": "Pacto de silencio", "original_title": "Pacto de silencio", "slug_title": "pacto-de-silencio", "date": "1949-09-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ft8vJJPCAcvRGLr1nEVIBtxpSwJ.jpg", "actors": ["Rafael Bardem (Insp. Costa)"], "comments": [], "recommandations_id": []}

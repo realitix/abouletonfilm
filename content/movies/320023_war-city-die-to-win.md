@@ -1,0 +1,1 @@
+{"tmdb_id": 320023, "title": "War City: Die to Win", "original_title": "War City: Die to Win", "slug_title": "war-city-die-to-win", "date": "1988-01-01", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/prFWAxdNvSBy7rWmqUJzvlKKWFs.jpg", "actors": ["Mike Abbott ()"], "comments": [], "recommandations_id": []}

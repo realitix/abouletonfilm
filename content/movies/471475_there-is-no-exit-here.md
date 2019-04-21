@@ -1,0 +1,1 @@
+{"tmdb_id": 471475, "title": "There Is No Exit Here", "original_title": "There Is No Exit Here", "slug_title": "there-is-no-exit-here", "date": "2017-08-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kana Harris ()", "Jay Dilick ()", "David Petro ()"], "comments": [], "recommandations_id": []}

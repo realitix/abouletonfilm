@@ -1,0 +1,1 @@
+{"tmdb_id": 521552, "title": "A Strike and an Uprising (in Texas)", "original_title": "A Strike and an Uprising (in Texas)", "slug_title": "a-strike-and-an-uprising-in-texas", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

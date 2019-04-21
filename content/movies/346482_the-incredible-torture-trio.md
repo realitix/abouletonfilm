@@ -1,0 +1,1 @@
+{"tmdb_id": 346482, "title": "The Incredible Torture Trio", "original_title": "The Incredible Torture Trio", "slug_title": "the-incredible-torture-trio", "date": "2004-08-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

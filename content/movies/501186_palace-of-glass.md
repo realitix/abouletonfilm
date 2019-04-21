@@ -1,0 +1,1 @@
+{"tmdb_id": 501186, "title": "Palace Of Glass", "original_title": "Palace Of Glass", "slug_title": "palace-of-glass", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aylG0IiIDWD1L1tY5zsEWwxmpHt.jpg", "actors": [], "comments": [], "recommandations_id": []}

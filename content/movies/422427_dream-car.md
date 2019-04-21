@@ -1,0 +1,1 @@
+{"tmdb_id": 422427, "title": "Dream car", "original_title": "Dream car", "slug_title": "dream-car", "date": "1989-10-09", "genre": "Myst\u00e8re / Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pqZpmSIJeUx4aHa8UPdY8gLCe5R.jpg", "actors": [], "comments": [], "recommandations_id": []}

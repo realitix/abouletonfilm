@@ -1,0 +1,1 @@
+{"tmdb_id": 365681, "title": "The Battleship 'Odin'", "original_title": "The Battleship 'Odin'", "slug_title": "the-battleship-odin", "date": "1900-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

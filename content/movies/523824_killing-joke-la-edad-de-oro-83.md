@@ -1,0 +1,1 @@
+{"tmdb_id": 523824, "title": "Killing Joke: La Edad De Oro 83", "original_title": "Killing Joke: La Edad De Oro 83", "slug_title": "killing-joke-la-edad-de-oro-83", "date": "1983-10-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

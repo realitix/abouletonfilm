@@ -1,0 +1,1 @@
+{"tmdb_id": 458706, "title": "Franz & Kafka", "original_title": "Franz & Kafka", "slug_title": "franz-kafka", "date": "1997-04-24", "genre": "Com\u00e9die", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lPA8leCSxrMLFwWZbb3yN7tkBZ.jpg", "actors": ["Peter Lesley ()", "Greg Williams ()"], "comments": [], "recommandations_id": []}

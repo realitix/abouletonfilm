@@ -1,0 +1,1 @@
+{"tmdb_id": 285656, "title": "Ossis Tagebuch", "original_title": "Ossis Tagebuch", "slug_title": "ossis-tagebuch", "date": "1917-10-05", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ossi Oswalda ()", "Hermann Thimig ()", "Ernst Lubitsch ()"], "comments": [], "recommandations_id": []}

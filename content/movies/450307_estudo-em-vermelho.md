@@ -1,0 +1,1 @@
+{"tmdb_id": 450307, "title": "Estudo em Vermelho", "original_title": "Estudo em Vermelho", "slug_title": "estudo-em-vermelho", "date": "2013-04-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7tfpHGWbTX8C8zqIsJbJyxMBdm7.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 260290, "title": "Luto Como M\u00e3e", "original_title": "Luto Como M\u00e3e", "slug_title": "luto-como-mae", "date": "2010-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p0C9Gr8eVHKGaY1DK2neOYNADUP.jpg", "actors": [], "comments": [], "recommandations_id": []}

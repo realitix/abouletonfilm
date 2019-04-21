@@ -1,0 +1,1 @@
+{"tmdb_id": 435778, "title": "Rue des Teinturiers", "original_title": "Rue des Teinturiers", "slug_title": "rue-des-teinturiers", "date": "1979-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ru3qBBYwh4kzUeOVReBDJRkyxeS.jpg", "actors": [], "comments": [], "recommandations_id": []}

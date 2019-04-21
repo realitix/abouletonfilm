@@ -1,0 +1,1 @@
+{"tmdb_id": 292927, "title": "The Art of Am\u00e1lia", "original_title": "The Art of Am\u00e1lia", "slug_title": "the-art-of-amalia", "date": "2000-12-08", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 477183, "title": "Berlin-Cinema", "original_title": "Berlin-Cinema", "slug_title": "berlin-cinema", "date": "1999-09-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 188359, "title": "Trailer Town", "original_title": "Trailer Town", "slug_title": "trailer-town", "date": "2003-03-09", "genre": "Drame / Com\u00e9die", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/liuMGAk7d00BYftYxPOfSFNJb77.jpg", "actors": [], "comments": [], "recommandations_id": []}

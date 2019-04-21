@@ -1,0 +1,1 @@
+{"tmdb_id": 470290, "title": "ATAR MASS", "original_title": "ATAR MASS", "slug_title": "atar-mass", "date": "2019-10-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Roshan Mathew ()"], "comments": [], "recommandations_id": []}

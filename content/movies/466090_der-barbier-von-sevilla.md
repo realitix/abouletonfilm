@@ -1,0 +1,1 @@
+{"tmdb_id": 466090, "title": "Der Barbier von Sevilla", "original_title": "Der Barbier von Sevilla", "slug_title": "der-barbier-von-sevilla", "date": "1959-12-25", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cLlFYBaSoFDTct6Op3Di4PIOzkG.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 48370, "title": "Venice: Motel Westcoast", "original_title": "Venice: Motel Westcoast", "slug_title": "venice-motel-westcoast", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 318068, "title": "Old Skool Killaz: Sword of the Master", "original_title": "Old Skool Killaz: Sword of the Master", "slug_title": "old-skool-killaz-sword-of-the-master", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 522948, "title": "Sochaux June 11th '68", "original_title": "Sochaux 11 juin 68", "slug_title": "sochaux-june-11th-68", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

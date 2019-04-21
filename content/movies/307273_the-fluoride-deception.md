@@ -1,0 +1,1 @@
+{"tmdb_id": 307273, "title": "The Fluoride Deception", "original_title": "The Fluoride Deception", "slug_title": "the-fluoride-deception", "date": "2004-09-01", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k9RQfY1DyckQ6tcrC8myoKYS4iq.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 536505, "title": "The Theater", "original_title": "\uc528\uc5b4\ud130", "slug_title": "the-theater", "date": "2000-01-01", "genre": "Horreur / Thriller / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dtaRE7RTjA1YCvYvrKcsgjfH8Af.jpg", "actors": [], "comments": [], "recommandations_id": []}

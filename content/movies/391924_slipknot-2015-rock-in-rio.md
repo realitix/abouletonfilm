@@ -1,0 +1,1 @@
+{"tmdb_id": 391924, "title": "Slipknot: [2015] Rock in Rio", "original_title": "Slipknot: [2015] Rock in Rio", "slug_title": "slipknot-2015-rock-in-rio", "date": "2015-09-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u6WEQDVqB5hMHwABiZOHibHoMvf.jpg", "actors": [], "comments": [], "recommandations_id": []}

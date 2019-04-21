@@ -1,0 +1,1 @@
+{"tmdb_id": 407186, "title": "Juquilita", "original_title": "Juquilita", "slug_title": "juquilita", "date": "2004-07-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 525434, "title": "Der schwarze Storch", "original_title": "Der schwarze Storch", "slug_title": "der-schwarze-storch", "date": "1976-02-16", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ellen Frank ()", "Dinah Hinz ()", "Hartmut Reck ()"], "comments": [], "recommandations_id": []}

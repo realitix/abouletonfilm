@@ -1,0 +1,1 @@
+{"tmdb_id": 555753, "title": "The Man Who Sold His Soul to the Devil", "original_title": "L'homme qui vendit son \u00e2me au diable", "slug_title": "the-man-who-sold-his-soul-to-the-devil", "date": "1921-01-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

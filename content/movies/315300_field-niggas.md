@@ -1,0 +1,1 @@
+{"tmdb_id": 315300, "title": "Field Niggas", "original_title": "Field Niggas", "slug_title": "field-niggas", "date": "2015-02-01", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/73lrMCafvzqZgojMl7yG9IorQi8.jpg", "actors": [], "comments": [], "recommandations_id": []}

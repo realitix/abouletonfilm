@@ -1,0 +1,1 @@
+{"tmdb_id": 331496, "title": "Holiday", "original_title": "\u015awi\u0119to", "slug_title": "holiday", "date": "1975-06-30", "genre": "Animation", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9athAjtTLdMnOCxYDVMsLv5HtRG.jpg", "actors": [], "comments": [], "recommandations_id": []}

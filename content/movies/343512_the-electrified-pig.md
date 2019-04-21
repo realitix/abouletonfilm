@@ -1,0 +1,1 @@
+{"tmdb_id": 343512, "title": "The Electrified Pig", "original_title": "The Electrified Pig", "slug_title": "the-electrified-pig", "date": "1911-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

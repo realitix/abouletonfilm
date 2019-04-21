@@ -1,0 +1,1 @@
+{"tmdb_id": 521947, "title": "Abschied von Olga", "original_title": "Abschied von Olga", "slug_title": "abschied-von-olga", "date": "1969-11-14", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Giulia Follina (Joschi)", "Friedhelm Ptok (Rudolf)"], "comments": [], "recommandations_id": []}

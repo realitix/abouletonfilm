@@ -1,0 +1,1 @@
+{"tmdb_id": 312203, "title": "The B. Coming of Beanie Sigel", "original_title": "The B. Coming of Beanie Sigel", "slug_title": "the-b-coming-of-beanie-sigel", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 322007, "title": "Zen Garden - Fifty Shades of Green", "original_title": "Zen Garden - Fifty Shades of Green", "slug_title": "zen-garden-fifty-shades-of-green", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

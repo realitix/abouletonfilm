@@ -1,0 +1,1 @@
+{"tmdb_id": 218504, "title": "Crosscut", "original_title": "Crosscut", "slug_title": "crosscut", "date": "1996-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y8yppP8nJcCFYGydI38XXJF0k9O.jpg", "actors": ["Costas Mandylor ()", "Megan Gallagher ()", "Casey Sander ()"], "comments": [], "recommandations_id": []}

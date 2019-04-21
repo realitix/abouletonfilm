@@ -1,0 +1,1 @@
+{"tmdb_id": 370462, "title": "El alegre paralelo", "original_title": "El alegre paralelo", "slug_title": "el-alegre-paralelo", "date": "1964-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

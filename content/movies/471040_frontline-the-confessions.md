@@ -1,0 +1,1 @@
+{"tmdb_id": 471040, "title": "Frontline: The Confessions", "original_title": "Frontline: The Confessions", "slug_title": "frontline-the-confessions", "date": "2010-11-09", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qHHYEbrMH24KJ8WIhi8Nhb1b7an.jpg", "actors": [], "comments": [], "recommandations_id": []}

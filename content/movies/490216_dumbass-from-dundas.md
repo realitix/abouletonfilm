@@ -1,0 +1,1 @@
+{"tmdb_id": 490216, "title": "Dumbass From Dundas", "original_title": "Dumbass From Dundas", "slug_title": "dumbass-from-dundas", "date": "1988-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4T5uySZcqY1c9lf4seZKhFVWYhW.jpg", "actors": [], "comments": [], "recommandations_id": []}

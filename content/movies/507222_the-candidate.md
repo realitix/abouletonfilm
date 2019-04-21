@@ -1,0 +1,1 @@
+{"tmdb_id": 507222, "title": "The Candidate", "original_title": "Hou bu dui yuan", "slug_title": "the-candidate", "date": "1983-02-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tUxBVa5053AkSqQYJoOUE9PvDny.jpg", "actors": ["Liu Wei-Hua ()"], "comments": [], "recommandations_id": []}

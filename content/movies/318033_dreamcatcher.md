@@ -1,0 +1,1 @@
+{"tmdb_id": 318033, "title": "Dreamcatcher", "original_title": "Dreamcatcher", "slug_title": "dreamcatcher", "date": "2015-03-27", "genre": "Documentaire", "score": "5.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bL7oMk6tZymISkwbhSHHgYL1B7C.jpg", "actors": ["Brenda Myers-Powell (Herself)"], "comments": [], "recommandations_id": [46883, 34128]}

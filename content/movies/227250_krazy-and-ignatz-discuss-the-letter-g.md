@@ -1,0 +1,1 @@
+{"tmdb_id": 227250, "title": "Krazy and Ignatz Discuss the Letter 'G'", "original_title": "Krazy and Ignatz Discuss the Letter 'G'", "slug_title": "krazy-and-ignatz-discuss-the-letter-g", "date": "1916-02-24", "genre": "", "score": "2.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

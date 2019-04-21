@@ -1,0 +1,1 @@
+{"tmdb_id": 313649, "title": "Personal Cuts", "original_title": "Osobni rezovi", "slug_title": "personal-cuts", "date": "1982-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/smueM3xEECofxyC6B3XcktiVN4G.jpg", "actors": ["Sanja Ivekovi\u0107 (Herself)"], "comments": [], "recommandations_id": []}

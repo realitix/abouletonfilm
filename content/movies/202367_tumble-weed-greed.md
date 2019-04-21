@@ -1,0 +1,1 @@
+{"tmdb_id": 202367, "title": "Tumble Weed Greed", "original_title": "Tumble Weed Greed", "slug_title": "tumble-weed-greed", "date": "1969-06-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vKuSKRjks0afZv6PVaa9A1LTFck.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 352279, "title": "Operaci\u00f3n Piloto", "original_title": "Operaci\u00f3n Piloto", "slug_title": "operacion-piloto", "date": "", "genre": "Action / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Michelle Bonev (Laura)", "Pino Quartullo (roberto)", "Massimo Ranieri (Raffaele)"], "comments": [], "recommandations_id": []}

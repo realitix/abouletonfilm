@@ -1,0 +1,1 @@
+{"tmdb_id": 436569, "title": "Liberty Kids", "original_title": "Liberty Kids", "slug_title": "liberty-kids", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fteoHxUW4l58lHYDWV7wQXsgHVB.jpg", "actors": [], "comments": [], "recommandations_id": []}

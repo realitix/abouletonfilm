@@ -1,0 +1,1 @@
+{"tmdb_id": 427106, "title": "Dark Prism", "original_title": "Dark Prism", "slug_title": "dark-prism", "date": "2015-01-01", "genre": "Horreur / Com\u00e9die / Fantastique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dNtsiP0n7gdrDzoDFAiLOWqlQys.jpg", "actors": [], "comments": [], "recommandations_id": []}

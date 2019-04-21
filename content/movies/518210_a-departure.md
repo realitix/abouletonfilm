@@ -1,0 +1,1 @@
+{"tmdb_id": 518210, "title": "A Departure", "original_title": "A Departure", "slug_title": "a-departure", "date": "2018-04-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vWX8dc7won6jdcy7pFMoA5jDQEy.jpg", "actors": ["Dov Doviak (The Individual)"], "comments": [], "recommandations_id": []}

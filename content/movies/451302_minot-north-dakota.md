@@ -1,0 +1,1 @@
+{"tmdb_id": 451302, "title": "Minot, North Dakota", "original_title": "Minot, North Dakota", "slug_title": "minot-north-dakota", "date": "2008-04-09", "genre": "Documentaire", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xV6VzTMVqXx4E5byaZoVvTNjBtH.jpg", "actors": [], "comments": [], "recommandations_id": []}

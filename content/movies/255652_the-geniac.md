@@ -1,0 +1,1 @@
+{"tmdb_id": 255652, "title": "The Geniac", "original_title": "Le Geniaque", "slug_title": "the-geniac", "date": "2013-06-03", "genre": "Fantastique / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hjvjQfRRVH45VYBM5zWuBW2fhZ9.jpg", "actors": [], "comments": [], "recommandations_id": []}

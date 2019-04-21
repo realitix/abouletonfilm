@@ -1,0 +1,1 @@
+{"tmdb_id": 332946, "title": "The Greek Myths: Athena, Poseidon and Zeus", "original_title": "The Greek Myths: Athena, Poseidon and Zeus", "slug_title": "the-greek-myths-athena-poseidon-and-zeus", "date": "2014-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

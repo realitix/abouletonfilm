@@ -1,0 +1,1 @@
+{"tmdb_id": 567277, "title": "Tr\u00eas Moedas na Fonte", "original_title": "Tr\u00eas Moedas na Fonte", "slug_title": "tres-moedas-na-fonte", "date": "1988-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Imara Reis ()"], "comments": [], "recommandations_id": []}

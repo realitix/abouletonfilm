@@ -1,0 +1,1 @@
+{"tmdb_id": 111267, "title": "Ronaldo Fenomeno", "original_title": "Ronaldo Fenomeno", "slug_title": "ronaldo-fenomeno", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/orZOXPNGHzqZhV0META6Qdw8B3R.jpg", "actors": [], "comments": [], "recommandations_id": []}

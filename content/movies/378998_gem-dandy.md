@@ -1,0 +1,1 @@
+{"tmdb_id": 378998, "title": "Gem Dandy", "original_title": "Gem Dandy", "slug_title": "gem-dandy", "date": "1970-10-25", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vRvtiN3900ZP6ZTY33PspAfMDVp.jpg", "actors": ["Lennie Weinrib (Roland / Rattfink (voice))"], "comments": [], "recommandations_id": []}

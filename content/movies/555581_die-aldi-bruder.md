@@ -1,0 +1,1 @@
+{"tmdb_id": 555581, "title": "Die Aldi-Br\u00fcder", "original_title": "Die Aldi-Br\u00fcder", "slug_title": "die-aldi-bruder", "date": "2018-10-22", "genre": "Documentaire / Drame", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rIIJyCRE6ju5YfXQklREdkmQ8oI.jpg", "actors": [], "comments": [], "recommandations_id": []}

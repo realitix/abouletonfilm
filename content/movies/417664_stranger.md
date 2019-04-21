@@ -1,0 +1,1 @@
+{"tmdb_id": 417664, "title": "Stranger", "original_title": "Stranger", "slug_title": "stranger", "date": "2000-04-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

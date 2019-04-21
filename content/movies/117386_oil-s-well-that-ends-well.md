@@ -1,0 +1,1 @@
+{"tmdb_id": 117386, "title": "Oil's Well That Ends Well", "original_title": "Oil's Well That Ends Well", "slug_title": "oil-s-well-that-ends-well", "date": "1958-12-04", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Joe Besser (Joe)", "Larry Fine (Larry)", "Moe Howard (Moe)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 477941, "title": "Efeitos Secund\u00e1rios", "original_title": "Efeitos Secund\u00e1rios", "slug_title": "efeitos-secundarios", "date": "2011-12-14", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

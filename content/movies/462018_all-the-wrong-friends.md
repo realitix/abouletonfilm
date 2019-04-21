@@ -1,0 +1,1 @@
+{"tmdb_id": 462018, "title": "All the Wrong Friends", "original_title": "All the Wrong Friends", "slug_title": "all-the-wrong-friends", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

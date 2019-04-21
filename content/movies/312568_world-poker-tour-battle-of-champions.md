@@ -1,0 +1,1 @@
+{"tmdb_id": 312568, "title": "World Poker Tour: Battle of Champions", "original_title": "World Poker Tour: Battle of Champions", "slug_title": "world-poker-tour-battle-of-champions", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

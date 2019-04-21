@@ -1,0 +1,1 @@
+{"tmdb_id": 433954, "title": "Losing Weight", "original_title": "Losing Weight", "slug_title": "losing-weight", "date": "1916-06-30", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hughie Mack ()", "Jewell Hunt (Jewell)", "John Flatow (Mr. Smith)", "Eddie Dunn ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 191641, "title": "Coolies \u00e0 Sa\u00efgon", "original_title": "Coolies \u00e0 Sa\u00efgon", "slug_title": "coolies-a-saigon", "date": "1897-12-26", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fd0JWCfShTH2ExOA8lpnM1spEdX.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 125046, "title": "How I Spent My Summer Vacation", "original_title": "How I Spent My Summer Vacation", "slug_title": "how-i-spent-my-summer-vacation", "date": "1997-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h2T2Z4S42L2hQ9hRu3BBIMD2bOn.jpg", "actors": [], "comments": [], "recommandations_id": []}

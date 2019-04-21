@@ -1,0 +1,1 @@
+{"tmdb_id": 78113, "title": "Of Monster Mode", "original_title": "Bakemono moyou", "slug_title": "of-monster-mode", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xLSX7facIpoH2lyAqI5bSYcKWVL.jpg", "actors": [], "comments": [], "recommandations_id": []}

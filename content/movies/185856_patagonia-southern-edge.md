@@ -1,0 +1,1 @@
+{"tmdb_id": 185856, "title": "Patagonia, Southern Edge", "original_title": "Patagonia, Conf\u00edn Austral", "slug_title": "patagonia-southern-edge", "date": "2004-07-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qzf99ZyjS05Qvlj3nrtqumgpzwm.jpg", "actors": [], "comments": [], "recommandations_id": []}

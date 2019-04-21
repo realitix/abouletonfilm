@@ -1,0 +1,1 @@
+{"tmdb_id": 335018, "title": "B\u0142\u0119kitny pok\u00f3j", "original_title": "B\u0142\u0119kitny pok\u00f3j", "slug_title": "blekitny-pokoj", "date": "1965-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/skMYSdHqr7WYPYy8KedkQTze2V7.jpg", "actors": [], "comments": [], "recommandations_id": []}

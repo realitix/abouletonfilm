@@ -1,0 +1,1 @@
+{"tmdb_id": 501038, "title": "Blind Swordswoman", "original_title": "Blind Swordswoman", "slug_title": "blind-swordswoman", "date": "1971-01-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qTHnuRnpFL4hEVPdtVxEb2eg7EZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

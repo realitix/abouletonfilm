@@ -1,0 +1,1 @@
+{"tmdb_id": 154821, "title": "Arguing the World", "original_title": "Arguing the World", "slug_title": "arguing-the-world", "date": "1998-01-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8JQUtS5NWWLSAzivFX3QYxAyINt.jpg", "actors": [], "comments": [], "recommandations_id": []}

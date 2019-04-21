@@ -1,0 +1,1 @@
+{"tmdb_id": 459712, "title": "Lives in Hazard", "original_title": "Lives in Hazard", "slug_title": "lives-in-hazard", "date": "", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

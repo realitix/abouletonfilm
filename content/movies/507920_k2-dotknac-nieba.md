@@ -1,0 +1,1 @@
+{"tmdb_id": 507920, "title": "K2. Dotknac nieba", "original_title": "K2. Dotknac nieba", "slug_title": "k2-dotknac-nieba", "date": "2015-06-14", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

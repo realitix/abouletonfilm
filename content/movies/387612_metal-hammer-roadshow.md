@@ -1,0 +1,1 @@
+{"tmdb_id": 387612, "title": "Metal Hammer Roadshow", "original_title": "Metal Hammer Roadshow", "slug_title": "metal-hammer-roadshow", "date": "1986-06-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lAC8wLMj3oNoOrL02ZTLAsxkN2d.jpg", "actors": [], "comments": [], "recommandations_id": []}

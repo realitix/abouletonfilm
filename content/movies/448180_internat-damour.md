@@ -1,0 +1,1 @@
+{"tmdb_id": 448180, "title": "Internat d\u00b4amour", "original_title": "Internat d\u00b4amour", "slug_title": "internat-damour", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vYrRJpd2WP9DkWp5euBpAFzE48V.jpg", "actors": [], "comments": [], "recommandations_id": []}

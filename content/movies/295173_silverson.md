@@ -1,0 +1,1 @@
+{"tmdb_id": 295173, "title": "Silverson", "original_title": "Silverson", "slug_title": "silverson", "date": "1974-10-07", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ernst Schr\u00f6der (Silverson)", "Herbert B\u00f6tticher (Brooke)", "Harry W\u00fcstenhagen (Charly)"], "comments": [], "recommandations_id": []}

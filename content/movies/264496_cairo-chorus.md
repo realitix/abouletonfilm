@@ -1,0 +1,1 @@
+{"tmdb_id": 264496, "title": "Cairo Chorus", "original_title": "Cairo Chorus", "slug_title": "cairo-chorus", "date": "2010-04-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iMV9JB7T43ya9pjXWTUtzSStyiR.jpg", "actors": [], "comments": [], "recommandations_id": []}

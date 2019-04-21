@@ -1,0 +1,1 @@
+{"tmdb_id": 538770, "title": "Escadrille of Chance", "original_title": "L'escadrille de la chance", "slug_title": "escadrille-of-chance", "date": "1938-06-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sxkwSn2f7cYqJmHrNMq5w7LbZ71.jpg", "actors": [], "comments": [], "recommandations_id": []}

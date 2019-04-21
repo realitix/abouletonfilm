@@ -1,0 +1,1 @@
+{"tmdb_id": 55299, "title": "Muzica in Sange", "original_title": "Muzica in Sange", "slug_title": "muzica-in-sange", "date": "2010-01-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

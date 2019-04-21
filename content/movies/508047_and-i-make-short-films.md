@@ -1,0 +1,1 @@
+{"tmdb_id": 508047, "title": "And I Make Short Films", "original_title": "And I Make Short Films", "slug_title": "and-i-make-short-films", "date": "1967-02-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

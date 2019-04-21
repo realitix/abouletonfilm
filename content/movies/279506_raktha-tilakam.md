@@ -1,0 +1,1 @@
+{"tmdb_id": 279506, "title": "Raktha Tilakam", "original_title": "Raktha Tilakam", "slug_title": "raktha-tilakam", "date": "1988-01-13", "genre": "Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Venkatesh ()", "Amala Akkineni ()", "Sharada ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 304902, "title": "Edison : The Wizard of Life", "original_title": "Edison : The Wizard of Life", "slug_title": "edison-the-wizard-of-life", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

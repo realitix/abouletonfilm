@@ -1,0 +1,1 @@
+{"tmdb_id": 66329, "title": "Gaayathri", "original_title": "Gaayathri", "slug_title": "gaayathri", "date": "1977-05-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rajinikanth ()", "Sridevi ()", "M. N. Rajam ()", "S. A. Asokan ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 209439, "title": "Hassan's Way", "original_title": "El Rayo", "slug_title": "hassan-s-way", "date": "2014-03-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o2WcAHCv1QeCd5AOSgQo4vyRXHd.jpg", "actors": ["Hassan Benoudra ()"], "comments": [], "recommandations_id": []}

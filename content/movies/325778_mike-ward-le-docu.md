@@ -1,0 +1,1 @@
+{"tmdb_id": 325778, "title": "Mike Ward Le Docu", "original_title": "Mike Ward Le Docu", "slug_title": "mike-ward-le-docu", "date": "2014-12-16", "genre": "Com\u00e9die / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8tIFogwzNI88TfcycTZ6fMAtdaB.jpg", "actors": ["Mike Ward ()"], "comments": [], "recommandations_id": []}

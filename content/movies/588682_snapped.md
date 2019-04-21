@@ -1,0 +1,1 @@
+{"tmdb_id": 588682, "title": "Snapped", "original_title": "Snapped", "slug_title": "snapped", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

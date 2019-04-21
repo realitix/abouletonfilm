@@ -1,0 +1,1 @@
+{"tmdb_id": 120924, "title": "The Purity Myth", "original_title": "The Purity Myth", "slug_title": "the-purity-myth", "date": "2011-12-11", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6no6v3UBFqUoEadmVUEHPkULbjE.jpg", "actors": ["Jessica Valenti ()"], "comments": [], "recommandations_id": []}

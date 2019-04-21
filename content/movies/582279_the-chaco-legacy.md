@@ -1,0 +1,1 @@
+{"tmdb_id": 582279, "title": "The Chaco Legacy", "original_title": "The Chaco Legacy", "slug_title": "the-chaco-legacy", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2QrUf7P0mWDdlBsvJ09RDugb5Wm.jpg", "actors": [], "comments": [], "recommandations_id": []}

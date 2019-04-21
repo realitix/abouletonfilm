@@ -1,0 +1,1 @@
+{"tmdb_id": 122551, "title": "How Clean is Your House", "original_title": "How Clean is Your House", "slug_title": "how-clean-is-your-house", "date": "2003-01-01", "genre": "", "score": "6.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hBSMaw6dsgUSYw5ThrdXm5i0uno.jpg", "actors": [], "comments": [], "recommandations_id": []}

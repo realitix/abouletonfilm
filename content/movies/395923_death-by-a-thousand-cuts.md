@@ -1,0 +1,1 @@
+{"tmdb_id": 395923, "title": "Death by a Thousand Cuts", "original_title": "Death by a Thousand Cuts", "slug_title": "death-by-a-thousand-cuts", "date": "2016-05-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6QMGJNkQ7LrsbANaue44ifLIdAn.jpg", "actors": [], "comments": [], "recommandations_id": []}

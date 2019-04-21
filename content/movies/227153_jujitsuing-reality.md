@@ -1,0 +1,1 @@
+{"tmdb_id": 227153, "title": "Jujitsuing Reality", "original_title": "Jujitsuing Reality", "slug_title": "jujitsuing-reality", "date": "2013-04-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Scott Lew (himself)"], "comments": [], "recommandations_id": []}

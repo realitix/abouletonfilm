@@ -1,0 +1,1 @@
+{"tmdb_id": 253697, "title": "Entrecampos", "original_title": "Entrecampos", "slug_title": "entrecampos", "date": "2013-10-17", "genre": "Drame", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

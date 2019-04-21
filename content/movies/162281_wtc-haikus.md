@@ -1,0 +1,1 @@
+{"tmdb_id": 162281, "title": "WTC Haikus", "original_title": "WTC Haikus", "slug_title": "wtc-haikus", "date": "2010-01-25", "genre": "Documentaire", "score": "8.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v71Yjy3RYwT7amiZX3Tx9IwmV5o.jpg", "actors": [], "comments": [], "recommandations_id": [165356, 149145]}

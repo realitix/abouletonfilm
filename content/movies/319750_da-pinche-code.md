@@ -1,0 +1,1 @@
+{"tmdb_id": 319750, "title": "Da Pinche Code", "original_title": "Da Pinche Code", "slug_title": "da-pinche-code", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

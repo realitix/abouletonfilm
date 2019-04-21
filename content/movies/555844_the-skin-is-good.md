@@ -1,0 +1,1 @@
+{"tmdb_id": 555844, "title": "The Skin is Good", "original_title": "The Skin is Good", "slug_title": "the-skin-is-good", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 151840, "title": "Totally Trucks Fire Monsters", "original_title": "Totally Trucks Fire Monsters", "slug_title": "totally-trucks-fire-monsters", "date": "2010-01-01", "genre": "", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tXS63enhXNJhzNSlzGlW3q4A8dm.jpg", "actors": [], "comments": [], "recommandations_id": []}

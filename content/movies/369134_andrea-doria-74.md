@@ -1,0 +1,1 @@
+{"tmdb_id": 369134, "title": "Andrea Doria -74", "original_title": "Andrea Doria -74", "slug_title": "andrea-doria-74", "date": "1970-02-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

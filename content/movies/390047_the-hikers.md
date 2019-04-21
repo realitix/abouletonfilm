@@ -1,0 +1,1 @@
+{"tmdb_id": 390047, "title": "The Hikers", "original_title": "The Hikers", "slug_title": "the-hikers", "date": "2012-03-27", "genre": "", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oiHD3RlW2bDDHwQxpJol0unpb3q.jpg", "actors": [], "comments": [], "recommandations_id": []}

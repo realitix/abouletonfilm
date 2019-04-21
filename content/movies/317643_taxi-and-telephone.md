@@ -1,0 +1,1 @@
+{"tmdb_id": 317643, "title": "Taxi and Telephone", "original_title": "Taxi and Telephone", "slug_title": "taxi-and-telephone", "date": "2013-11-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gulmira Tursunbaeva ()", "Asylbek Ozubekov ()", "Kanat Mamyrkanov ()"], "comments": [], "recommandations_id": []}

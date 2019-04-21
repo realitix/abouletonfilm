@@ -1,0 +1,1 @@
+{"tmdb_id": 271301, "title": "Johnny Cash: The Man in Black", "original_title": "Johnny Cash: The Man in Black", "slug_title": "johnny-cash-the-man-in-black", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/prlIVT8xUmEUU5KiskFdw82ZnQW.jpg", "actors": [], "comments": [], "recommandations_id": []}

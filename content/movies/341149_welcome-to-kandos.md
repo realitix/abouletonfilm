@@ -1,0 +1,1 @@
+{"tmdb_id": 341149, "title": "Welcome to Kandos", "original_title": "Welcome to Kandos", "slug_title": "welcome-to-kandos", "date": "2015-03-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

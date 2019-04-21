@@ -1,0 +1,1 @@
+{"tmdb_id": 309234, "title": "My Life with Carlos", "original_title": "My Life with Carlos", "slug_title": "my-life-with-carlos", "date": "2010-10-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jqO651yUB4BbNjpu9sKaBqtz0OO.jpg", "actors": [], "comments": [], "recommandations_id": []}

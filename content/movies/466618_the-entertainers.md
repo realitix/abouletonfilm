@@ -1,0 +1,1 @@
+{"tmdb_id": 466618, "title": "The Entertainers", "original_title": "The Entertainers", "slug_title": "the-entertainers", "date": "2012-04-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8MotyBpXT8YkuZEpOhVJP3cW98O.jpg", "actors": [], "comments": [], "recommandations_id": []}

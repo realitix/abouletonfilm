@@ -1,0 +1,1 @@
+{"tmdb_id": 295456, "title": "Future Sounds of Mzansi", "original_title": "Future Sounds of Mzansi", "slug_title": "future-sounds-of-mzansi", "date": "2014-07-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ju69kEYA0HxnvFykVhv7MVzBDJH.jpg", "actors": [], "comments": [], "recommandations_id": []}

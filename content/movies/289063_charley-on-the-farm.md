@@ -1,0 +1,1 @@
+{"tmdb_id": 289063, "title": "Charley on the Farm", "original_title": "Charley on the Farm", "slug_title": "charley-on-the-farm", "date": "1919-08-26", "genre": "Com\u00e9die", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

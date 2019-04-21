@@ -1,0 +1,1 @@
+{"tmdb_id": 495395, "title": "Lachhamaniya", "original_title": "Lachhamaniya", "slug_title": "lachhamaniya", "date": "2017-12-15", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8hFN1Y1etVBErHcdt0M1FhAdA8J.jpg", "actors": ["Suraj Malla Thakuri ()", "Laxmi Bardewa ()"], "comments": [], "recommandations_id": []}

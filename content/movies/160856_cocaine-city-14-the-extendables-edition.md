@@ -1,0 +1,1 @@
+{"tmdb_id": 160856, "title": "Cocaine City #14: The Extendables Edition", "original_title": "Cocaine City #14: The Extendables Edition", "slug_title": "cocaine-city-14-the-extendables-edition", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

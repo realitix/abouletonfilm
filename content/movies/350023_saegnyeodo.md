@@ -1,0 +1,1 @@
+{"tmdb_id": 350023, "title": "\uc0c9\ub140\ub3c4", "original_title": "\uc0c9\ub140\ub3c4", "slug_title": "saegnyeodo", "date": "1990-11-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

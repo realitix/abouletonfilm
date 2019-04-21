@@ -1,0 +1,1 @@
+{"tmdb_id": 586119, "title": "Ammachi Yemba Nenapu", "original_title": "Ammachi Yemba Nenapu", "slug_title": "ammachi-yemba-nenapu", "date": "2018-11-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Vyjayanthi Adiga ()", "Diya Palakkal ()", "Raj B. Shetty ()"], "comments": [], "recommandations_id": []}

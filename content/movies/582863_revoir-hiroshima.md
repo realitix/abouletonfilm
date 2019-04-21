@@ -1,0 +1,1 @@
+{"tmdb_id": 582863, "title": "Revoir Hiroshima...", "original_title": "Revoir Hiroshima...", "slug_title": "revoir-hiroshima", "date": "2013-12-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Davide Pozzi (Interviewee)", "Renato Berta (Interviewee)"], "comments": [], "recommandations_id": []}

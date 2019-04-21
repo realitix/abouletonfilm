@@ -1,0 +1,1 @@
+{"tmdb_id": 385087, "title": "Il covo di Teresa", "original_title": "Il covo di Teresa", "slug_title": "il-covo-di-teresa", "date": "2006-12-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hw96w12qNlTUWOQhQkdFCj9JMKt.jpg", "actors": [], "comments": [], "recommandations_id": []}

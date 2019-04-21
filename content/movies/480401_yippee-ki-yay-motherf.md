@@ -1,0 +1,1 @@
+{"tmdb_id": 480401, "title": "Yippee Ki Yay, Motherf*****", "original_title": "Yippee Ki Yay, Motherf*****", "slug_title": "yippee-ki-yay-motherf", "date": "2007-11-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

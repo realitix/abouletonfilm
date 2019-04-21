@@ -1,0 +1,1 @@
+{"tmdb_id": 318704, "title": "Snakefist of a Buddhist Dragon", "original_title": "Snakefist of a Buddhist Dragon", "slug_title": "snakefist-of-a-buddhist-dragon", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

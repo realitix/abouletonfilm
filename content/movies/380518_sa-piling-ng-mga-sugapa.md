@@ -1,0 +1,1 @@
+{"tmdb_id": 380518, "title": "Sa Piling ng mga Sugapa", "original_title": "Sa Piling ng mga Sugapa", "slug_title": "sa-piling-ng-mga-sugapa", "date": "1977-12-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pRrppUqjyxnyTzzi6Vixn8jENbF.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 472421, "title": "Mishima in Mexico", "original_title": "Mishima in Mexico", "slug_title": "mishima-in-mexico", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

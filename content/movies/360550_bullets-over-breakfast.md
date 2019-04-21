@@ -1,0 +1,1 @@
+{"tmdb_id": 360550, "title": "Bullets Over Breakfast", "original_title": "Bullets Over Breakfast", "slug_title": "bullets-over-breakfast", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ryan Foss (Ryan)", "William R. Nagel (Bill)", "Brandon Ogle (Brandon)"], "comments": [], "recommandations_id": []}

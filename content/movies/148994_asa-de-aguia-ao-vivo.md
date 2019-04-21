@@ -1,0 +1,1 @@
+{"tmdb_id": 148994, "title": "Asa De \u00c1guia Ao Vivo", "original_title": "Asa De \u00c1guia Ao Vivo", "slug_title": "asa-de-aguia-ao-vivo", "date": "2016-02-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/79p0sxoDYO4iG1oLLcSua6rddba.jpg", "actors": [], "comments": [], "recommandations_id": []}

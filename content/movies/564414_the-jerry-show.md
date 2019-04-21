@@ -1,0 +1,1 @@
+{"tmdb_id": 564414, "title": "The Jerry Show", "original_title": "The Jerry Show", "slug_title": "the-jerry-show", "date": "", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

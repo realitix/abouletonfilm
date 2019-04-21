@@ -1,0 +1,1 @@
+{"tmdb_id": 318925, "title": "Wings of the World", "original_title": "Wings of the World", "slug_title": "wings-of-the-world", "date": "1989-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5riPuUoFczB4NKHRneJTsdeHsSS.jpg", "actors": [], "comments": [], "recommandations_id": []}

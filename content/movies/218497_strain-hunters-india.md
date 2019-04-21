@@ -1,0 +1,1 @@
+{"tmdb_id": 218497, "title": "Strain Hunters India", "original_title": "Strain Hunters India", "slug_title": "strain-hunters-india", "date": "2010-09-03", "genre": "Documentaire", "score": "9.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qUXO32CIkynE2zZpQKgfjDDLWh6.jpg", "actors": [], "comments": [], "recommandations_id": []}

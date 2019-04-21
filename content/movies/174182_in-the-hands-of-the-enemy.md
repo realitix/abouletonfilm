@@ -1,0 +1,1 @@
+{"tmdb_id": 174182, "title": "In the Hands of the Enemy", "original_title": "In the Hands of the Enemy", "slug_title": "in-the-hands-of-the-enemy", "date": "1915-11-15", "genre": "Guerre / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["J. Morris Foster (Albert)", "Inda Palmer (Constance)"], "comments": [], "recommandations_id": []}

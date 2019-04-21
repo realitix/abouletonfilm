@@ -1,0 +1,1 @@
+{"tmdb_id": 509064, "title": "6 Weeks in June", "original_title": "6 Weeks in June", "slug_title": "6-weeks-in-june", "date": "1998-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rytbfSBTAB6bR2iqhknMrHbYloF.jpg", "actors": [], "comments": [], "recommandations_id": []}

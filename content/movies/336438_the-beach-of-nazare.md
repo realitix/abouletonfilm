@@ -1,0 +1,1 @@
+{"tmdb_id": 336438, "title": "The Beach of Nazar\u00e9", "original_title": "The Beach of Nazar\u00e9", "slug_title": "the-beach-of-nazare", "date": "1956-04-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

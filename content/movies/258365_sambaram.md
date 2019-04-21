@@ -1,0 +1,1 @@
+{"tmdb_id": 258365, "title": "Sambaram", "original_title": "Sambaram", "slug_title": "sambaram", "date": "2003-07-31", "genre": "Com\u00e9die", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hEeGLlqs7PQdqF8Ko2OMOvJR5It.jpg", "actors": ["Nitin (Ravi)", "Nikita Thukral (Geeta)"], "comments": [], "recommandations_id": []}

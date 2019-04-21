@@ -1,0 +1,1 @@
+{"tmdb_id": 511182, "title": "Burn Karma Burn", "original_title": "Burn Karma Burn", "slug_title": "burn-karma-burn", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

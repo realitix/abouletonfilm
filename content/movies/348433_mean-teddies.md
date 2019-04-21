@@ -1,0 +1,1 @@
+{"tmdb_id": 348433, "title": "Mean Teddies", "original_title": "Mean Teddies", "slug_title": "mean-teddies", "date": "2014-06-10", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x6ujoIkOP91HzFXYWdQ5fSGQN6p.jpg", "actors": [], "comments": [], "recommandations_id": []}

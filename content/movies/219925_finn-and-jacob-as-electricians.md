@@ -1,0 +1,1 @@
+{"tmdb_id": 219925, "title": "Finn and Jacob As Electricians", "original_title": "Finn and Jacob As Electricians", "slug_title": "finn-and-jacob-as-electricians", "date": "1987-09-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/scU1vK1OW4TQj5pdJ44TYM8iJoK.jpg", "actors": [], "comments": [], "recommandations_id": []}

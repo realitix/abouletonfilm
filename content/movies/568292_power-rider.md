@@ -1,0 +1,1 @@
+{"tmdb_id": 568292, "title": "Power Rider", "original_title": "Power Rider", "slug_title": "power-rider", "date": "1995-12-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6XtSFnJKfkRURVP5vO119M8fxJ7.jpg", "actors": [], "comments": [], "recommandations_id": []}

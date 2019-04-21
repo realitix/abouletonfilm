@@ -1,0 +1,1 @@
+{"tmdb_id": 99527, "title": "OTHERWORLDS #1 - THE RETURN OF JOHN FRUM", "original_title": "OTHERWORLDS #1 - THE RETURN OF JOHN FRUM", "slug_title": "otherworlds-1-the-return-of-john-frum", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

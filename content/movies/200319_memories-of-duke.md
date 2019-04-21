@@ -1,0 +1,1 @@
+{"tmdb_id": 200319, "title": "Memories of Duke", "original_title": "Memories of Duke", "slug_title": "memories-of-duke", "date": "1980-04-12", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Russell Procope (Himself)", "Cootie Williams (Himself)"], "comments": [], "recommandations_id": []}

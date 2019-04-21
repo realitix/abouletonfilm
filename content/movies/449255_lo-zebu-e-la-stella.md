@@ -1,0 +1,1 @@
+{"tmdb_id": 449255, "title": "Lo zebu\u0300 e la stella", "original_title": "Lo zebu\u0300 e la stella", "slug_title": "lo-zebu-e-la-stella", "date": "2007-03-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dAHVTREOVsBJARbqN42A5oRcIN1.jpg", "actors": [], "comments": [], "recommandations_id": []}

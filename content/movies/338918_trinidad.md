@@ -1,0 +1,1 @@
+{"tmdb_id": 338918, "title": "Trinidad", "original_title": "Trinidad", "slug_title": "trinidad", "date": "2015-05-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Anthony Dixon Jr. (Trinidad)", "Vincent Ingram (Older Cousin)", "Taez OG (Bicycle Mechanic)", "Patrice Craddieth (Mom)"], "comments": [], "recommandations_id": []}

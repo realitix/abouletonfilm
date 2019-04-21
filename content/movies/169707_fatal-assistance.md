@@ -1,0 +1,1 @@
+{"tmdb_id": 169707, "title": "Fatal Assistance", "original_title": "Assistance Mortelle", "slug_title": "fatal-assistance", "date": "2013-05-06", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rBU2GoKayV7PNJtpFIzQHYfgBnZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

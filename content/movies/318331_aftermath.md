@@ -1,0 +1,1 @@
+{"tmdb_id": 318331, "title": "Aftermath", "original_title": "Aftermath", "slug_title": "aftermath", "date": "1960-04-17", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aATxvbNjrvDNeFIyiceBZLgs5CN.jpg", "actors": [], "comments": [], "recommandations_id": []}

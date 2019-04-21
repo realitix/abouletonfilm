@@ -1,0 +1,1 @@
+{"tmdb_id": 531399, "title": "Der gro\u00dfe Traum von Hollywood", "original_title": "Der gro\u00dfe Traum von Hollywood", "slug_title": "der-grosse-traum-von-hollywood", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

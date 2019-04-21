@@ -1,0 +1,1 @@
+{"tmdb_id": 557819, "title": "Casus Kiran - 7 canli adam", "original_title": "Casus Kiran - 7 canli adam", "slug_title": "casus-kiran-7-canli-adam", "date": "1970-01-01", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Irfan Atasoy ()"], "comments": [], "recommandations_id": []}

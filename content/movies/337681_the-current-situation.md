@@ -1,0 +1,1 @@
+{"tmdb_id": 337681, "title": "The Current Situation", "original_title": "The Current Situation", "slug_title": "the-current-situation", "date": "2015-04-27", "genre": "Histoire / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1R2Jwa0dQAbVUtAWuJn31qylANT.jpg", "actors": [], "comments": [], "recommandations_id": []}

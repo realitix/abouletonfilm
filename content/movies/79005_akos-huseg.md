@@ -1,0 +1,1 @@
+{"tmdb_id": 79005, "title": "\u00c1kos H\u0171s\u00e9g", "original_title": "\u00c1kos H\u0171s\u00e9g", "slug_title": "akos-huseg", "date": "2000-09-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rsppAvCgG0eZEwPht6SOu2KWtAa.jpg", "actors": [], "comments": [], "recommandations_id": []}

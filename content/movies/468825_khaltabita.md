@@ -1,0 +1,1 @@
+{"tmdb_id": 468825, "title": "Khaltabita", "original_title": "Khaltabita", "slug_title": "khaltabita", "date": "1993-07-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mahmoud Abdel Aziz ()"], "comments": [], "recommandations_id": []}

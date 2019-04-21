@@ -1,0 +1,1 @@
+{"tmdb_id": 269961, "title": "Pourquoi Isra\u00ebl", "original_title": "Pourquoi Isra\u00ebl", "slug_title": "pourquoi-israel", "date": "1973-10-01", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t9RKoSA1hQDV6StT8Wb7NUxNBja.jpg", "actors": [], "comments": [], "recommandations_id": []}

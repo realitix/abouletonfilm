@@ -1,0 +1,1 @@
+{"tmdb_id": 457674, "title": "Polska Kronika Filmowa No. 52/1959 A-B", "original_title": "Polska Kronika Filmowa No. 52/1959 A-B", "slug_title": "polska-kronika-filmowa-no-52-1959-a-b", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

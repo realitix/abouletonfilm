@@ -1,0 +1,1 @@
+{"tmdb_id": 509824, "title": "Happiness at Its Worst", "original_title": "L\u00e4gsta graden av lycka", "slug_title": "happiness-at-its-worst", "date": "2014-10-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3j51eSKBFgkcZQHkDDtRF1oeenV.jpg", "actors": [], "comments": [], "recommandations_id": []}

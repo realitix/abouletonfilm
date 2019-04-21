@@ -1,0 +1,1 @@
+{"tmdb_id": 591133, "title": "Nardong Putik", "original_title": "Nardong Putik", "slug_title": "nardong-putik", "date": "1972-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ramon Revilla Sr. ()"], "comments": [], "recommandations_id": []}

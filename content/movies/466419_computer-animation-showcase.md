@@ -1,0 +1,1 @@
+{"tmdb_id": 466419, "title": "Computer Animation Showcase", "original_title": "Computer Animation Showcase", "slug_title": "computer-animation-showcase", "date": "1997-09-23", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dRpV3jvdYrwP31SmIgo3FFpPZ1R.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 57492, "title": "Bratz Rock N Princess", "original_title": "Bratz Rock N Princess", "slug_title": "bratz-rock-n-princess", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

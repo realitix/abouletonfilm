@@ -1,0 +1,1 @@
+{"tmdb_id": 412919, "title": "Lieutenant Rose and the Chinese Pirates", "original_title": "Lieutenant Rose and the Chinese Pirates", "slug_title": "lieutenant-rose-and-the-chinese-pirates", "date": "1910-10-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["P.G. Norgate (Lt. Rose)"], "comments": [], "recommandations_id": []}

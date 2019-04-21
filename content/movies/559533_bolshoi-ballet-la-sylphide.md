@@ -1,0 +1,1 @@
+{"tmdb_id": 559533, "title": "Bolshoi Ballet: La Sylphide", "original_title": "Bolshoi Ballet: La Sylphide", "slug_title": "bolshoi-ballet-la-sylphide", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rQSqcG63nZ4DkITxL6DMXwTYOP8.jpg", "actors": [], "comments": [], "recommandations_id": []}

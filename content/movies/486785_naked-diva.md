@@ -1,0 +1,1 @@
+{"tmdb_id": 486785, "title": "Naked Diva", "original_title": "Naked Diva", "slug_title": "naked-diva", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cRLqhvSJ2czvVlLbcLZXkpE5wRP.jpg", "actors": [], "comments": [], "recommandations_id": []}

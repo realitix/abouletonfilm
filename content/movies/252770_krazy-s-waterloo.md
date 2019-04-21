@@ -1,0 +1,1 @@
+{"tmdb_id": 252770, "title": "Krazy's Waterloo", "original_title": "Krazy's Waterloo", "slug_title": "krazy-s-waterloo", "date": "1934-11-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

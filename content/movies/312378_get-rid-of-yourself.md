@@ -1,0 +1,1 @@
+{"tmdb_id": 312378, "title": "Get Rid of Yourself", "original_title": "Get Rid of Yourself", "slug_title": "get-rid-of-yourself", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nsmn74GccBuxpEx6yLWomgHalLq.jpg", "actors": ["Chlo\u00eb Sevigny ()"], "comments": [], "recommandations_id": []}

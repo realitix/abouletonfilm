@@ -1,0 +1,1 @@
+{"tmdb_id": 582150, "title": "Lamento", "original_title": "Lamento", "slug_title": "lamento", "date": "2018-12-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Marco Ricca (Elder)", "Thaila Ayala (Let\u00edcia)", "Veronica Rodrigues (Rosa)", "Marco Zenni (Osvaldo)"], "comments": [], "recommandations_id": []}

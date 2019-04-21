@@ -1,0 +1,1 @@
+{"tmdb_id": 361672, "title": "The Frog Prince", "original_title": "The Frog Prince", "slug_title": "the-frog-prince", "date": "1954-01-02", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

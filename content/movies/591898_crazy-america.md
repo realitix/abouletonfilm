@@ -1,0 +1,1 @@
+{"tmdb_id": 591898, "title": "Crazy America", "original_title": "Crazy America", "slug_title": "crazy-america", "date": "2017-05-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jO3dyeug0RvCpnWlPfFvYAsTIFD.jpg", "actors": [], "comments": [], "recommandations_id": []}

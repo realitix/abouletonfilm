@@ -1,0 +1,1 @@
+{"tmdb_id": 319672, "title": "Podbradak potpisanih", "original_title": "Podbradak potpisanih", "slug_title": "podbradak-potpisanih", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

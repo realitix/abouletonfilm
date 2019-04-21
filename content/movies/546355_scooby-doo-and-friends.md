@@ -1,0 +1,1 @@
+{"tmdb_id": 546355, "title": "Scooby-Doo! and Friends", "original_title": "Scooby-Doo! and Friends", "slug_title": "scooby-doo-and-friends", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5KkLUVvYxQ5wxQfyipaPLq48mTk.jpg", "actors": [], "comments": [], "recommandations_id": []}

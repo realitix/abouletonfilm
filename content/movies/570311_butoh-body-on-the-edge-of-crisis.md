@@ -1,0 +1,1 @@
+{"tmdb_id": 570311, "title": "Butoh: Body on the Edge of Crisis", "original_title": "Butoh: Body on the Edge of Crisis", "slug_title": "butoh-body-on-the-edge-of-crisis", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/swu2gTEi5gwHQQDbwIrRdeIE39Z.jpg", "actors": [], "comments": [], "recommandations_id": []}

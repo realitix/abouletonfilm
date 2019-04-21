@@ -1,0 +1,1 @@
+{"tmdb_id": 137068, "title": "The Kitchen", "original_title": "The Kitchen", "slug_title": "the-kitchen", "date": "2006-09-04", "genre": "", "score": "3.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/caigjQTZyxLOhY3jV2JXH8dWP3v.jpg", "actors": [], "comments": [], "recommandations_id": []}

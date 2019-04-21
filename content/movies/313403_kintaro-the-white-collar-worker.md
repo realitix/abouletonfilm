@@ -1,0 +1,1 @@
+{"tmdb_id": 313403, "title": "Kintaro: The White Collar Worker", "original_title": "Kintaro: The White Collar Worker", "slug_title": "kintaro-the-white-collar-worker", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

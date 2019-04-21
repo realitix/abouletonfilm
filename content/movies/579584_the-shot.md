@@ -1,0 +1,1 @@
+{"tmdb_id": 579584, "title": "The Shot", "original_title": "The Shot", "slug_title": "the-shot", "date": "1996-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ejwGe3XuJlaQ1DdUIJiGrjdjRW7.jpg", "actors": [], "comments": [], "recommandations_id": []}

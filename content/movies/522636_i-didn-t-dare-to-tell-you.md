@@ -1,0 +1,1 @@
+{"tmdb_id": 522636, "title": "I Didn't Dare to Tell You", "original_title": "\u4e0d\u6562\u8ddf\u4f60\u8b1b", "slug_title": "i-didn-t-dare-to-tell-you", "date": "1969-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gua Ah-leh ()"], "comments": [], "recommandations_id": []}

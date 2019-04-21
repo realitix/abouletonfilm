@@ -1,0 +1,1 @@
+{"tmdb_id": 346090, "title": "My Beautiful Nightmare", "original_title": "My Beautiful Nightmare", "slug_title": "my-beautiful-nightmare", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

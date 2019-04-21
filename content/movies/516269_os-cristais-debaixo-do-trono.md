@@ -1,0 +1,1 @@
+{"tmdb_id": 516269, "title": "Os Cristais Debaixo do Trono", "original_title": "Os Cristais Debaixo do Trono", "slug_title": "os-cristais-debaixo-do-trono", "date": "2000-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

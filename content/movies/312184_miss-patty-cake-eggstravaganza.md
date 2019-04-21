@@ -1,0 +1,1 @@
+{"tmdb_id": 312184, "title": "Miss Patty Cake: Eggstravaganza", "original_title": "Miss Patty Cake: Eggstravaganza", "slug_title": "miss-patty-cake-eggstravaganza", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

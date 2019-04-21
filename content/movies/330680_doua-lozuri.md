@@ -1,0 +1,1 @@
+{"tmdb_id": 330680, "title": "Doua lozuri", "original_title": "Doua lozuri", "slug_title": "doua-lozuri", "date": "1957-12-05", "genre": "Com\u00e9die / Drame", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lbTXnafsOaMXaqV5RNGkeaWkGWE.jpg", "actors": [], "comments": [], "recommandations_id": []}

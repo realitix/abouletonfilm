@@ -1,0 +1,1 @@
+{"tmdb_id": 248516, "title": "No es una crisis", "original_title": "No es una crisis", "slug_title": "no-es-una-crisis", "date": "2013-10-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oN0kT67JNrn9q9VBvPgxs52mEwb.jpg", "actors": [], "comments": [], "recommandations_id": []}

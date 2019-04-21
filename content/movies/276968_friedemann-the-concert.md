@@ -1,0 +1,1 @@
+{"tmdb_id": 276968, "title": "Friedemann: The Concert", "original_title": "Friedemann: The Concert", "slug_title": "friedemann-the-concert", "date": "2004-01-01", "genre": "", "score": "9.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

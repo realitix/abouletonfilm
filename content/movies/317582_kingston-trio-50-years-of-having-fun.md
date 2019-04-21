@@ -1,0 +1,1 @@
+{"tmdb_id": 317582, "title": "Kingston Trio: 50 Years of Having Fun", "original_title": "Kingston Trio: 50 Years of Having Fun", "slug_title": "kingston-trio-50-years-of-having-fun", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

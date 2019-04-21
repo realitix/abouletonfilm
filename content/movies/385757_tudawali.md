@@ -1,0 +1,1 @@
+{"tmdb_id": 385757, "title": "Tudawali", "original_title": "Tudawali", "slug_title": "tudawali", "date": "1988-09-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s0iaCJSb1Jc1xVtbddUTOVDDJMR.jpg", "actors": ["Ernie Dingo (Robert Tudawali)", "Charles Tingwell (Dr. Rayment)"], "comments": [], "recommandations_id": []}

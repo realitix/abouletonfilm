@@ -1,0 +1,1 @@
+{"tmdb_id": 218474, "title": "Incident at Channel Q", "original_title": "Incident at Channel Q", "slug_title": "incident-at-channel-q", "date": "1986-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5Kbmnrw862LjmRunaeIV8O86aep.jpg", "actors": ["Al Corley ()"], "comments": [], "recommandations_id": []}

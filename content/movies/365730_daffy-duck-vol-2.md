@@ -1,0 +1,1 @@
+{"tmdb_id": 365730, "title": "Daffy Duck - Vol. 2", "original_title": "Daffy Duck - Vol. 2", "slug_title": "daffy-duck-vol-2", "date": "1994-01-13", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uE2RODGHNGJSentPb2peZE0RNcy.jpg", "actors": [], "comments": [], "recommandations_id": []}

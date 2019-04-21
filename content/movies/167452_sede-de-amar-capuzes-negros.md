@@ -1,0 +1,1 @@
+{"tmdb_id": 167452, "title": "Sede de Amar (Capuzes Negros)", "original_title": "Sede de Amar (Capuzes Negros)", "slug_title": "sede-de-amar-capuzes-negros", "date": "1978-02-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sandra Br\u00e9a ()", "Luis Gustavo ()"], "comments": [], "recommandations_id": []}

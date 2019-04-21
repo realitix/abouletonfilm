@@ -1,0 +1,1 @@
+{"tmdb_id": 487120, "title": "Cancer Can Be Killed", "original_title": "Cancer Can Be Killed", "slug_title": "cancer-can-be-killed", "date": "2017-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eS0gYwlQ6UwItOi7EHKAFRuFMG.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 512507, "title": "Vitamin She", "original_title": "\u0ab5\u0abf\u0a9f\u0abe\u0aae\u0ac0\u0aa8 She", "slug_title": "vitamin-she", "date": "2017-07-28", "genre": "Com\u00e9die / Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t8eIysXEcdk97lH1PvaaqN0kB3T.jpg", "actors": [], "comments": [], "recommandations_id": []}

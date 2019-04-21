@@ -1,0 +1,1 @@
+{"tmdb_id": 262008, "title": "Lo specchio di Diana", "original_title": "Lo specchio di Diana", "slug_title": "lo-specchio-di-diana", "date": "1996-11-01", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p6jEWHeEBgKdIt68rxzj8qhkFfI.jpg", "actors": [], "comments": [], "recommandations_id": []}

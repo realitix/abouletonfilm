@@ -1,0 +1,1 @@
+{"tmdb_id": 293372, "title": "Hunger Hits Home", "original_title": "Hunger Hits Home", "slug_title": "hunger-hits-home", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

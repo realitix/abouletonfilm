@@ -1,0 +1,1 @@
+{"tmdb_id": 385338, "title": "Louis Armstrong in Copenhagen", "original_title": "Louis Armstrong in Copenhagen", "slug_title": "louis-armstrong-in-copenhagen", "date": "1934-01-01", "genre": "Musique / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Louis Armstrong (Himself)"], "comments": [], "recommandations_id": []}

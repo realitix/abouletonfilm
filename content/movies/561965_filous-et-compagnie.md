@@ -1,0 +1,1 @@
+{"tmdb_id": 561965, "title": "Filous et compagnie", "original_title": "Filous et compagnie", "slug_title": "filous-et-compagnie", "date": "1957-11-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zqDQasJzVxRuUXDSBHWJ5NThpAM.jpg", "actors": [], "comments": [], "recommandations_id": []}

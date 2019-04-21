@@ -1,0 +1,1 @@
+{"tmdb_id": 296544, "title": "Under Heat", "original_title": "Under Heat", "slug_title": "under-heat", "date": "1994-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u7g3vNoNiAKJxEV19wtU15GIHRr.jpg", "actors": [], "comments": [], "recommandations_id": []}

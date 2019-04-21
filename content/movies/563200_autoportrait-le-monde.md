@@ -1,0 +1,1 @@
+{"tmdb_id": 563200, "title": "AUTOPORTRAIT & LE MONDE", "original_title": "AUTOPORTRAIT & LE MONDE", "slug_title": "autoportrait-le-monde", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/812OfAC19wkR9C1d1ocMdHNwmJP.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 324563, "title": "A Nightmare in Las Cruces: Part 2", "original_title": "A Nightmare in Las Cruces: Part 2", "slug_title": "a-nightmare-in-las-cruces-part-2", "date": "2015-02-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

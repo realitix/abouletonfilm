@@ -1,0 +1,1 @@
+{"tmdb_id": 442458, "title": "Est\u00e1s vendo coisas", "original_title": "Est\u00e1s vendo coisas", "slug_title": "estas-vendo-coisas", "date": "2017-02-10", "genre": "Documentaire / Musique", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hQFLn8JSNT9Gv2cRiMSWGiaPyN3.jpg", "actors": [], "comments": [], "recommandations_id": []}

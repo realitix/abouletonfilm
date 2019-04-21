@@ -1,0 +1,1 @@
+{"tmdb_id": 487572, "title": "Nos hommes dans l'Ouest", "original_title": "Nos hommes dans l'Ouest", "slug_title": "nos-hommes-dans-l-ouest", "date": "2017-11-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

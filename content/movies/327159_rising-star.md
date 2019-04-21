@@ -1,0 +1,1 @@
+{"tmdb_id": 327159, "title": "Rising Star", "original_title": "Rising Star", "slug_title": "rising-star", "date": "2013-04-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8SMX8wAHEh0rWmoeR4YFARFLqyV.jpg", "actors": [], "comments": [], "recommandations_id": []}

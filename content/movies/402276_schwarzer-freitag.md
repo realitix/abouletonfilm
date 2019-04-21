@@ -1,0 +1,1 @@
+{"tmdb_id": 402276, "title": "Schwarzer Freitag", "original_title": "Schwarzer Freitag", "slug_title": "schwarzer-freitag", "date": "2013-10-22", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

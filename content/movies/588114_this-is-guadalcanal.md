@@ -1,0 +1,1 @@
+{"tmdb_id": 588114, "title": "This Is Guadalcanal", "original_title": "This Is Guadalcanal", "slug_title": "this-is-guadalcanal", "date": "1944-03-14", "genre": "Documentaire / Guerre", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Donald L. Dickson (Narrator)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 590278, "title": "The Menace with Five Arms", "original_title": "The Menace with Five Arms", "slug_title": "the-menace-with-five-arms", "date": "2013-06-22", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 188610, "title": "Aunt Luisa", "original_title": "Aunt Luisa", "slug_title": "aunt-luisa", "date": "2002-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d4VCE2pjr1oNWF0C6dSo1LyxmN0.jpg", "actors": [], "comments": [], "recommandations_id": []}

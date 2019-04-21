@@ -1,0 +1,1 @@
+{"tmdb_id": 309522, "title": "The R.M.: Special Edition", "original_title": "The R.M.: Special Edition", "slug_title": "the-r-m-special-edition", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

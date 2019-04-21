@@ -1,0 +1,1 @@
+{"tmdb_id": 329191, "title": "Power to the People", "original_title": "Power to the People", "slug_title": "power-to-the-people", "date": "2013-05-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

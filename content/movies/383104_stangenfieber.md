@@ -1,0 +1,1 @@
+{"tmdb_id": 383104, "title": "Stangenfieber", "original_title": "Stangenfieber", "slug_title": "stangenfieber", "date": "1987-06-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

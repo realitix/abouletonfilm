@@ -1,0 +1,1 @@
+{"tmdb_id": 431666, "title": "Le Cin\u00e9ma au travail comme la mort", "original_title": "Le Cin\u00e9ma au travail comme la mort", "slug_title": "le-cinema-au-travail-comme-la-mort", "date": "1997-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Roland Topor ()"], "comments": [], "recommandations_id": []}

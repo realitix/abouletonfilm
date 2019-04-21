@@ -1,0 +1,1 @@
+{"tmdb_id": 579580, "title": "Wildfire: Feel the Heat", "original_title": "Wildfire: Feel the Heat", "slug_title": "wildfire-feel-the-heat", "date": "1999-03-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eYXqIykq1ylJ7xJLd6oxxjfE6w0.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 190731, "title": "Dog Factory", "original_title": "Dog Factory", "slug_title": "dog-factory", "date": "1904-05-11", "genre": "Com\u00e9die", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mJB3fyjxQvsFDbZpqWYfRJuk82Y.jpg", "actors": [], "comments": [], "recommandations_id": [185220, 152207, 195558, 147723]}

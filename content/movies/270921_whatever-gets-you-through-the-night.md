@@ -1,0 +1,1 @@
+{"tmdb_id": 270921, "title": "Whatever Gets You Through The Night", "original_title": "Whatever Gets You Through The Night", "slug_title": "whatever-gets-you-through-the-night", "date": "2012-08-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 310779, "title": "Alfredo Kraus in Concert", "original_title": "Alfredo Kraus in Concert", "slug_title": "alfredo-kraus-in-concert", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

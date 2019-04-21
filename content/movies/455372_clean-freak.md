@@ -1,0 +1,1 @@
+{"tmdb_id": 455372, "title": "Clean Freak", "original_title": "Clean Freak", "slug_title": "clean-freak", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

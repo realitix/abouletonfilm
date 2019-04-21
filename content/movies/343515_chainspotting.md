@@ -1,0 +1,1 @@
+{"tmdb_id": 343515, "title": "Chainspotting", "original_title": "Chainspotting", "slug_title": "chainspotting", "date": "1997-05-01", "genre": "Documentaire / Action", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/771AAAT601fWptrYqjTECGuOUmJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

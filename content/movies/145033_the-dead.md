@@ -1,0 +1,1 @@
+{"tmdb_id": 145033, "title": "The Dead", "original_title": "The Dead", "slug_title": "the-dead", "date": "1960-12-31", "genre": "", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3QDL79FTJjm6FZg1HCjRXkhOyZf.jpg", "actors": ["Kenneth Anger ()"], "comments": [], "recommandations_id": [145619, 145720, 148827, 132161]}

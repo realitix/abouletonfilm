@@ -1,0 +1,1 @@
+{"tmdb_id": 494186, "title": "KHAMAICA", "original_title": "KHAMAICA", "slug_title": "khamaica", "date": "2014-06-01", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4mfynFJov8cmo0FEndnhHvVOdpv.jpg", "actors": [], "comments": [], "recommandations_id": []}

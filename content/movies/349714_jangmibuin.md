@@ -1,0 +1,1 @@
+{"tmdb_id": 349714, "title": "\uc7a5\ubbf8\ubd80\uc778", "original_title": "\uc7a5\ubbf8\ubd80\uc778", "slug_title": "jangmibuin", "date": "1983-03-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

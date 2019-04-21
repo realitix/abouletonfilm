@@ -1,0 +1,1 @@
+{"tmdb_id": 302768, "title": "Nela Meeda Thaaralu", "original_title": "Nela Meeda Thaaralu", "slug_title": "nela-meeda-thaaralu", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

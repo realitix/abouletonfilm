@@ -1,0 +1,1 @@
+{"tmdb_id": 357712, "title": "American Rebel: The Dean Reed Story", "original_title": "American Rebel: The Dean Reed Story", "slug_title": "american-rebel-the-dean-reed-story", "date": "1985-10-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dean Reed (Himself)"], "comments": [], "recommandations_id": []}

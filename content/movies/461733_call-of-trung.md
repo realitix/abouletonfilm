@@ -1,0 +1,1 @@
+{"tmdb_id": 461733, "title": "Call of Trung", "original_title": "Call of Trung", "slug_title": "call-of-trung", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mohamed Allam ()", "Nhung Nguyen Thi ()"], "comments": [], "recommandations_id": []}

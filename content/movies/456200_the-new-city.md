@@ -1,0 +1,1 @@
+{"tmdb_id": 456200, "title": "The New City", "original_title": "La ville nouvelle", "slug_title": "the-new-city", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

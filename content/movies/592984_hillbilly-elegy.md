@@ -1,0 +1,1 @@
+{"tmdb_id": 592984, "title": "Hillbilly Elegy", "original_title": "Hillbilly Elegy", "slug_title": "hillbilly-elegy", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Amy Adams ()"], "comments": [], "recommandations_id": []}

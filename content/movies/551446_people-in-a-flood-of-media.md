@@ -1,0 +1,1 @@
+{"tmdb_id": 551446, "title": "People In A Flood Of Media", "original_title": "\ubbf8\ub514\uc5b4 \uc232 \uc18d\uc758 \uc0ac\ub78c\ub4e4", "slug_title": "people-in-a-flood-of-media", "date": "1995-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

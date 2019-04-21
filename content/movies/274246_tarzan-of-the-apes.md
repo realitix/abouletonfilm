@@ -1,0 +1,1 @@
+{"tmdb_id": 274246, "title": "Tarzan of the Apes", "original_title": "Tarzan of the Apes", "slug_title": "tarzan-of-the-apes", "date": "1998-09-08", "genre": "Aventure / Animation / Familial", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hApPuhQf441Vy6Bq9EOuyrXRfHZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

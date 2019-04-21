@@ -1,0 +1,1 @@
+{"tmdb_id": 388270, "title": "Thrill of the Surf", "original_title": "Thrill of the Surf", "slug_title": "thrill-of-the-surf", "date": "1949-12-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

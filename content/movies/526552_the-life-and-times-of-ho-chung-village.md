@@ -1,0 +1,1 @@
+{"tmdb_id": 526552, "title": "The Life and Times of Ho Chung Village", "original_title": "\u6cb3\u4e0a\u98a8\u5149", "slug_title": "the-life-and-times-of-ho-chung-village", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

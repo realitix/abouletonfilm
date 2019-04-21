@@ -1,0 +1,1 @@
+{"tmdb_id": 113409, "title": "Love Bite", "original_title": "Love Bite", "slug_title": "love-bite", "date": "2008-01-01", "genre": "Horreur", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b0XOMVtpze0oFEouj0qq1VJrK6d.jpg", "actors": ["Aidan Calabria (Gus)", "Will Field (Noah)"], "comments": [], "recommandations_id": []}

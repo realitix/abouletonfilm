@@ -1,0 +1,1 @@
+{"tmdb_id": 472223, "title": "Cruel por Companhia de Dan\u00e7a Deborah Colker", "original_title": "Cruel por Companhia de Dan\u00e7a Deborah Colker", "slug_title": "cruel-por-companhia-de-danca-deborah-colker", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

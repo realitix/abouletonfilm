@@ -1,0 +1,1 @@
+{"tmdb_id": 506021, "title": "The Chapel", "original_title": "The Chapel", "slug_title": "the-chapel", "date": "2018-02-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

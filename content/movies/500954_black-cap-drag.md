@@ -1,0 +1,1 @@
+{"tmdb_id": 500954, "title": "Black Cap Drag", "original_title": "Black Cap Drag", "slug_title": "black-cap-drag", "date": "1969-01-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Shane (Themself)", "Laurie Lee (Themself)"], "comments": [], "recommandations_id": []}

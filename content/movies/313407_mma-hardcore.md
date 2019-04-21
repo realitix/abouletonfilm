@@ -1,0 +1,1 @@
+{"tmdb_id": 313407, "title": "MMA Hardcore", "original_title": "MMA Hardcore", "slug_title": "mma-hardcore", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

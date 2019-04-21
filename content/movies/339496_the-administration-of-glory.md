@@ -1,0 +1,1 @@
+{"tmdb_id": 339496, "title": "The Administration of Glory", "original_title": "The Administration of Glory", "slug_title": "the-administration-of-glory", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

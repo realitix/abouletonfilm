@@ -1,0 +1,1 @@
+{"tmdb_id": 327529, "title": "The Firm - Cardio Dance Slim Down", "original_title": "The Firm - Cardio Dance Slim Down", "slug_title": "the-firm-cardio-dance-slim-down", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

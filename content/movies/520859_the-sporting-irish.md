@@ -1,0 +1,1 @@
+{"tmdb_id": 520859, "title": "The Sporting Irish", "original_title": "The Sporting Irish", "slug_title": "the-sporting-irish", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Marvin Miller (Narrator)"], "comments": [], "recommandations_id": []}

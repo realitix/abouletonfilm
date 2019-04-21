@@ -1,0 +1,1 @@
+{"tmdb_id": 221376, "title": "My Friend Is a Cloud", "original_title": "My Friend Is a Cloud", "slug_title": "my-friend-is-a-cloud", "date": "2010-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

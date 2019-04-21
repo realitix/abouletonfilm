@@ -1,0 +1,1 @@
+{"tmdb_id": 495675, "title": "The Swimming Trunks", "original_title": "Le Maillot de Bain", "slug_title": "the-swimming-trunks", "date": "2013-08-24", "genre": "", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m6ybTf1xLgGX6DrMCNDQiOiOs2o.jpg", "actors": [], "comments": [], "recommandations_id": []}

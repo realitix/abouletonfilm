@@ -1,0 +1,1 @@
+{"tmdb_id": 402738, "title": "Gente buena", "original_title": "Gente buena", "slug_title": "gente-buena", "date": "2013-01-02", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1D0N7ECd9ZweH2nAeAbIVYdgJuC.jpg", "actors": ["Luis Gonzaga (Pito)", "Alfredo de Quesada ()"], "comments": [], "recommandations_id": []}

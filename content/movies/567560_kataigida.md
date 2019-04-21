@@ -1,0 +1,1 @@
+{"tmdb_id": 567560, "title": "Kataigida", "original_title": "\u039a\u03b1\u03c4\u03b1\u03b9\u03b3\u03af\u03b4\u03b1", "slug_title": "kataigida", "date": "1965-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dora Yannakopoulou (Marina Ralli)"], "comments": [], "recommandations_id": []}

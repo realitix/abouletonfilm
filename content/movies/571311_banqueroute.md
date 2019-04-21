@@ -1,0 +1,1 @@
+{"tmdb_id": 571311, "title": "Banqueroute", "original_title": "Banqueroute", "slug_title": "banqueroute", "date": "2000-07-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dQ1SWzmdyXok05JOFxjjxLV4TQt.jpg", "actors": [], "comments": [], "recommandations_id": []}

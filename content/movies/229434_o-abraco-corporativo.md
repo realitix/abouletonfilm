@@ -1,0 +1,1 @@
+{"tmdb_id": 229434, "title": "O Abra\u00e7o Corporativo", "original_title": "O Abra\u00e7o Corporativo", "slug_title": "o-abraco-corporativo", "date": "2009-01-01", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/esimZDoUcD23U8crF9gfe4khAiY.jpg", "actors": [], "comments": [], "recommandations_id": []}

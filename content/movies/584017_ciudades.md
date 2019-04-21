@@ -1,0 +1,1 @@
+{"tmdb_id": 584017, "title": "Ciudades", "original_title": "Ciudades", "slug_title": "ciudades", "date": "2013-06-07", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qQYuSB54hCI3cXOAwdZiSLdUzux.jpg", "actors": ["Mischa Gerber ()", "Ana Ver\u00f3nica Schultz ()"], "comments": [], "recommandations_id": []}

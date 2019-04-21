@@ -1,0 +1,1 @@
+{"tmdb_id": 39818, "title": "Yanky Clippers", "original_title": "Yanky Clippers", "slug_title": "yanky-clippers", "date": "1929-01-01", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uBzahPzDh2zLrYn88I8czXzvDmf.jpg", "actors": [], "comments": [], "recommandations_id": []}

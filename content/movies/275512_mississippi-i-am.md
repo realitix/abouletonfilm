@@ -1,0 +1,1 @@
+{"tmdb_id": 275512, "title": "Mississippi I Am", "original_title": "Mississippi I Am", "slug_title": "mississippi-i-am", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b2EYbgwS7lPKSzXlNCDQBK2YGgu.jpg", "actors": [], "comments": [], "recommandations_id": []}

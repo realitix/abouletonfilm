@@ -1,0 +1,1 @@
+{"tmdb_id": 508409, "title": "Woman in the Book", "original_title": "Woman in the Book", "slug_title": "woman-in-the-book", "date": "2016-10-03", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zHMlGPQ7uFDlBYk9KUKtjphgXBv.jpg", "actors": ["Maria Volk (Marsha)"], "comments": [], "recommandations_id": []}

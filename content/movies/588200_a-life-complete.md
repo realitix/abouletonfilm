@@ -1,0 +1,1 @@
+{"tmdb_id": 588200, "title": "A Life, Complete", "original_title": "A Life, Complete", "slug_title": "a-life-complete", "date": "2019-03-08", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["John Banvard (Himself)", "Jerry Nadeau (Himself)"], "comments": [], "recommandations_id": []}

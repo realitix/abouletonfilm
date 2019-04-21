@@ -1,0 +1,1 @@
+{"tmdb_id": 279318, "title": "Agnigundam", "original_title": "Agnigundam", "slug_title": "agnigundam", "date": "1984-11-22", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Chiranjeevi ()", "Sumalatha ()", "Sarath Babu ()", "Sujatha ()"], "comments": [], "recommandations_id": []}

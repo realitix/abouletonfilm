@@ -1,0 +1,1 @@
+{"tmdb_id": 559468, "title": "Industry and Photography", "original_title": "Industrie und Fotografie", "slug_title": "industry-and-photography", "date": "1979-01-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hUrT6W0JIbMi18uXJnUcTdsL04v.jpg", "actors": [], "comments": [], "recommandations_id": []}

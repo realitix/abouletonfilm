@@ -1,0 +1,1 @@
+{"tmdb_id": 319954, "title": "Carlos el terrorista", "original_title": "Carlos el terrorista", "slug_title": "carlos-el-terrorista", "date": "1980-04-30", "genre": "", "score": "3.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fZ0SAME4V1ol3IGvYcQ6HO8NsUC.jpg", "actors": [], "comments": [], "recommandations_id": [53650, 21949]}

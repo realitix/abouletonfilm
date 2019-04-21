@@ -1,0 +1,1 @@
+{"tmdb_id": 587528, "title": "The Anatomist by James Bridie", "original_title": "The Anatomist by James Bridie", "slug_title": "the-anatomist-by-james-bridie", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aNm31kxcona8FUjubmWsF3KeQf8.jpg", "actors": [], "comments": [], "recommandations_id": []}

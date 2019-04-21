@@ -1,0 +1,1 @@
+{"tmdb_id": 402809, "title": "Warrior VS Dragon", "original_title": "Warrior VS Dragon", "slug_title": "warrior-vs-dragon", "date": "2016-06-17", "genre": "Animation / Aventure", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9LnBsN1OvWbqRdVtB2STk5lIs7s.jpg", "actors": [], "comments": [], "recommandations_id": []}

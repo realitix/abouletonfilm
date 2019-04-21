@@ -1,0 +1,1 @@
+{"tmdb_id": 343324, "title": "Black Aura on an Angel", "original_title": "Black Aura on an Angel", "slug_title": "black-aura-on-an-angel", "date": "2004-06-12", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yRlhZJuIfDDX90ccX7euPuScCK2.jpg", "actors": [], "comments": [], "recommandations_id": []}

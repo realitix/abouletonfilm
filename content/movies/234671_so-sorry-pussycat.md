@@ -1,0 +1,1 @@
+{"tmdb_id": 234671, "title": "So Sorry, Pussycat", "original_title": "So Sorry, Pussycat", "slug_title": "so-sorry-pussycat", "date": "1961-11-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

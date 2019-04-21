@@ -1,0 +1,1 @@
+{"tmdb_id": 509593, "title": "Music Lessons", "original_title": "\u0423\u0440\u043e\u043a\u0438 \u043c\u0443\u0437\u044b\u043a\u0438", "slug_title": "music-lessons", "date": "2011-03-12", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mishik Abadzyan ()", "Nikolay Manakov ()"], "comments": [], "recommandations_id": []}

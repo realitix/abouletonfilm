@@ -1,0 +1,1 @@
+{"tmdb_id": 439748, "title": "Mulher Burra", "original_title": "Mulher Burra", "slug_title": "mulher-burra", "date": "2017-02-05", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Carla Araujo ()", "Fernanda Hartmann ()", "J\u00falia Cruz ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 240625, "title": "The Ax Fight", "original_title": "The Ax Fight", "slug_title": "the-ax-fight", "date": "1975-01-01", "genre": "Documentaire", "score": "5.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eCjU7xLxCe4uMRvIllF2e7jqvAF.jpg", "actors": [], "comments": [], "recommandations_id": []}

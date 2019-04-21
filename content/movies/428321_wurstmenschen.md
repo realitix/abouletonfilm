@@ -1,0 +1,1 @@
+{"tmdb_id": 428321, "title": "Wurstmenschen", "original_title": "Wurstmenschen", "slug_title": "wurstmenschen", "date": "2003-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

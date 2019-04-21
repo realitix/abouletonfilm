@@ -1,0 +1,1 @@
+{"tmdb_id": 314715, "title": "Diaries of a Flying Dog", "original_title": "Yaoumiyat Kalb Ta'r", "slug_title": "diaries-of-a-flying-dog", "date": "2014-12-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2puxsSxokj2XZ3pSNbg03hSwtsS.jpg", "actors": [], "comments": [], "recommandations_id": []}

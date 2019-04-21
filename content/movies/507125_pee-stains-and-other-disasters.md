@@ -1,0 +1,1 @@
+{"tmdb_id": 507125, "title": "Pee Stains and Other Disasters", "original_title": "Pee Stains and Other Disasters", "slug_title": "pee-stains-and-other-disasters", "date": "2005-04-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pLxH0I3byswGyvoC2hhDfBDwaEv.jpg", "actors": [], "comments": [], "recommandations_id": []}

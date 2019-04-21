@@ -1,0 +1,1 @@
+{"tmdb_id": 161523, "title": "As Libertinas", "original_title": "As Libertinas", "slug_title": "as-libertinas", "date": "1968-12-06", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qpixFC1jTxIR4TU44MNUaef1v2q.jpg", "actors": [], "comments": [], "recommandations_id": []}

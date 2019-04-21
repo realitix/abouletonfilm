@@ -1,0 +1,1 @@
+{"tmdb_id": 119840, "title": "King Lear", "original_title": "King Lear", "slug_title": "king-lear", "date": "1982-09-19", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8VLEWRPhr382BeAmWgM3kmif0Ia.jpg", "actors": ["Michael Hordern (King Lear)"], "comments": [], "recommandations_id": []}

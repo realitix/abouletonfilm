@@ -1,0 +1,1 @@
+{"tmdb_id": 558226, "title": "Aventuras de Esparadrapo", "original_title": "Aventuras de Esparadrapo", "slug_title": "aventuras-de-esparadrapo", "date": "1949-12-26", "genre": "Animation / Aventure", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1RzCoYJt9Fv6JXjeuKB9RF4dJk0.jpg", "actors": [], "comments": [], "recommandations_id": []}

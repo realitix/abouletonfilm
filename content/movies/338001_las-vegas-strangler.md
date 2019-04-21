@@ -1,0 +1,1 @@
+{"tmdb_id": 338001, "title": "Las Vegas Strangler", "original_title": "Las Vegas Strangler", "slug_title": "las-vegas-strangler", "date": "1968-06-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dpan7cDeN0n1P35IXZti7rJ6rij.jpg", "actors": [], "comments": [], "recommandations_id": []}

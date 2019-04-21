@@ -1,0 +1,1 @@
+{"tmdb_id": 341561, "title": "El inmigrante latino", "original_title": "El inmigrante latino", "slug_title": "el-inmigrante-latino", "date": "1980-12-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f4iM7TjdMyCdtIiJr1VnjUvec9i.jpg", "actors": [], "comments": [], "recommandations_id": []}

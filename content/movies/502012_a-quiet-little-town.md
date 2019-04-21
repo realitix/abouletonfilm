@@ -1,0 +1,1 @@
+{"tmdb_id": 502012, "title": "A Quiet Little Town", "original_title": "Thi Tran Yen Tinh", "slug_title": "a-quiet-little-town", "date": "1986-01-30", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bai Binh Bui ()", "Tr\u1ecbnh Th\u1ecbnh ()"], "comments": [], "recommandations_id": []}

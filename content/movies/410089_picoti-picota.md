@@ -1,0 +1,1 @@
+{"tmdb_id": 410089, "title": "Picoti Picota", "original_title": "Picoti Picota", "slug_title": "picoti-picota", "date": "1996-01-01", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sT7mb2uuNsmsIwxR24WPCNobjdJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

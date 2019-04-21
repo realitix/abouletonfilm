@@ -1,0 +1,1 @@
+{"tmdb_id": 166714, "title": "Winter Solstice", "original_title": "Winter Solstice", "slug_title": "winter-solstice", "date": "1974-01-01", "genre": "", "score": "6.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9fnfO4YxZviev9M7qYLqzSE1JgW.jpg", "actors": [], "comments": [], "recommandations_id": [246804, 134762, 163350, 216110]}

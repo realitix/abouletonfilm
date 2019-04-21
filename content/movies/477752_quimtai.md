@@ -1,0 +1,1 @@
+{"tmdb_id": 477752, "title": "Quimtai", "original_title": "Quimtai", "slug_title": "quimtai", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

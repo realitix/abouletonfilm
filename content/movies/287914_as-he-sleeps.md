@@ -1,0 +1,1 @@
+{"tmdb_id": 287914, "title": "As He Sleeps", "original_title": "Mientras Su Durmida", "slug_title": "as-he-sleeps", "date": "2012-07-21", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iBshx4JMRGLk1Wc5rIYd9Lb9x1g.jpg", "actors": ["Sue Prado ()", "JC Alejandro ()"], "comments": [], "recommandations_id": []}

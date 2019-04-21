@@ -1,0 +1,1 @@
+{"tmdb_id": 579770, "title": "Dress Rehearsal und Karola 2", "original_title": "Dress Rehearsal und Karola 2", "slug_title": "dress-rehearsal-und-karola-2", "date": "1981-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/goMEGeEKJaJjiE3qd79P2TWzuQ3.jpg", "actors": [], "comments": [], "recommandations_id": []}

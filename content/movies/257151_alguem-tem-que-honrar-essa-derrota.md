@@ -1,0 +1,1 @@
+{"tmdb_id": 257151, "title": "Algu\u00e9m Tem que Honrar Essa Derrota!", "original_title": "Algu\u00e9m Tem que Honrar Essa Derrota!", "slug_title": "alguem-tem-que-honrar-essa-derrota", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

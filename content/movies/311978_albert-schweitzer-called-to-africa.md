@@ -1,0 +1,1 @@
+{"tmdb_id": 311978, "title": "Albert Schweitzer: Called to Africa", "original_title": "Albert Schweitzer: Called to Africa", "slug_title": "albert-schweitzer-called-to-africa", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

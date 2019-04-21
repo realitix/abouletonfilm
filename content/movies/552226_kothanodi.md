@@ -1,0 +1,1 @@
+{"tmdb_id": 552226, "title": "Kothanodi", "original_title": "Kothanodi", "slug_title": "kothanodi", "date": "2016-09-16", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1tV5yvNp53xYnoWcWWRQwP7s4Ge.jpg", "actors": ["Adil Hussain ()", "Zerifa Wahid ()", "Urmila Mahanta ()"], "comments": [], "recommandations_id": []}

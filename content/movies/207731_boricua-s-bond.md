@@ -1,0 +1,1 @@
+{"tmdb_id": 207731, "title": "Boricua's Bond", "original_title": "Boricua's Bond", "slug_title": "boricua-s-bond", "date": "", "genre": "", "score": "2.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

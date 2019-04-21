@@ -1,0 +1,1 @@
+{"tmdb_id": 309426, "title": "Laugh 'til It Hurtz", "original_title": "Laugh 'til It Hurtz", "slug_title": "laugh-til-it-hurtz", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

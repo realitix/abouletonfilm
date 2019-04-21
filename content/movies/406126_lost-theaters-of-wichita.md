@@ -1,0 +1,1 @@
+{"tmdb_id": 406126, "title": "Lost Theaters of Wichita", "original_title": "Lost Theaters of Wichita", "slug_title": "lost-theaters-of-wichita", "date": "2016-07-23", "genre": "Documentaire", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9l3hPPZlUf3vVFG8R5QDXapbwqW.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 522542, "title": "Les amis d'hier", "original_title": "Les amis d'hier", "slug_title": "les-amis-d-hier", "date": "1998-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Amal Ayouch ()", "Mohamed Basri ()", "Hassan Essakali ()", "Mohamed Marouazi ()", "Mohammed Miftah ()"], "comments": [], "recommandations_id": []}

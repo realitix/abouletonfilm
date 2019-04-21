@@ -1,0 +1,1 @@
+{"tmdb_id": 581805, "title": "The Ruins of Raqqa", "original_title": "The Ruins of Raqqa", "slug_title": "the-ruins-of-raqqa", "date": "", "genre": "Documentaire / Guerre", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 521776, "title": "The Making and Unmaking of the Earth", "original_title": "The Making and Unmaking of the Earth", "slug_title": "the-making-and-unmaking-of-the-earth", "date": "2018-06-08", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

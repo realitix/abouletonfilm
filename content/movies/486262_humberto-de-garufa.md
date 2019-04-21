@@ -1,0 +1,1 @@
+{"tmdb_id": 486262, "title": "Humberto de Garufa", "original_title": "Humberto de Garufa", "slug_title": "humberto-de-garufa", "date": "1924-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

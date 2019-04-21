@@ -1,0 +1,1 @@
+{"tmdb_id": 161985, "title": "Soda Squirt", "original_title": "Soda Squirt", "slug_title": "soda-squirt", "date": "1933-10-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

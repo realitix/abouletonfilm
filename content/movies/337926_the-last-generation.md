@@ -1,0 +1,1 @@
+{"tmdb_id": 337926, "title": "The Last Generation", "original_title": "The Last Generation", "slug_title": "the-last-generation", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

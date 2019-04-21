@@ -1,0 +1,1 @@
+{"tmdb_id": 284388, "title": "Reign of the Vampire", "original_title": "Reign of the Vampire", "slug_title": "reign-of-the-vampire", "date": "1969-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mRQVxdnGcbQTiDa6e40PRfXXcY4.jpg", "actors": [], "comments": [], "recommandations_id": []}

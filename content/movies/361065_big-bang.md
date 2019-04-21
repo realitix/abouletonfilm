@@ -1,0 +1,1 @@
+{"tmdb_id": 361065, "title": "Big Bang", "original_title": "Big Bang", "slug_title": "big-bang", "date": "1990-09-21", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bz84amqWMNGbRQxWtYdDHwc1CdC.jpg", "actors": [], "comments": [], "recommandations_id": []}

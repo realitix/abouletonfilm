@@ -1,0 +1,1 @@
+{"tmdb_id": 575415, "title": "How Taew Tak 6", "original_title": "How Taew Tak 6", "slug_title": "how-taew-tak-6", "date": "2018-12-05", "genre": "Com\u00e9die / Horreur", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tVaN0q7HDIk2UG8BYGMxRViM4sj.jpg", "actors": [], "comments": [], "recommandations_id": []}

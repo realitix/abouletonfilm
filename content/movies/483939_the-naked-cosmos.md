@@ -1,0 +1,1 @@
+{"tmdb_id": 483939, "title": "The Naked Cosmos", "original_title": "The Naked Cosmos", "slug_title": "the-naked-cosmos", "date": "2005-04-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2pvSlDF3HnjFQnXkrtJt0dI8ci9.jpg", "actors": [], "comments": [], "recommandations_id": []}

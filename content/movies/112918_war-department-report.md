@@ -1,0 +1,1 @@
+{"tmdb_id": 112918, "title": "War Department Report", "original_title": "War Department Report", "slug_title": "war-department-report", "date": "1943-12-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q4MPxjXxz8cq9yrkREmIk1FoJKM.jpg", "actors": [], "comments": [], "recommandations_id": []}

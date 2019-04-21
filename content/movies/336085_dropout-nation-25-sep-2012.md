@@ -1,0 +1,1 @@
+{"tmdb_id": 336085, "title": "Dropout Nation (25 Sep. 2012)", "original_title": "Dropout Nation (25 Sep. 2012)", "slug_title": "dropout-nation-25-sep-2012", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 345036, "title": "Friends", "original_title": "Druge", "slug_title": "friends", "date": "1972-12-14", "genre": "Documentaire", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u6T9FtniX8vIvrtOuTh2gdZvwfV.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 207499, "title": "Metropolitan Gypsies", "original_title": "Gross-Stadt Zigeuner", "slug_title": "metropolitan-gypsies", "date": "1932-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8awXOw4n4fU6qkQO5xPzOJmw7da.jpg", "actors": [], "comments": [], "recommandations_id": []}

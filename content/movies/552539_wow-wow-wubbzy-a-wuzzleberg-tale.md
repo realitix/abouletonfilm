@@ -1,0 +1,1 @@
+{"tmdb_id": 552539, "title": "Wow! Wow! Wubbzy! A Wuzzleberg Tale", "original_title": "Wow! Wow! Wubbzy! A Wuzzleberg Tale", "slug_title": "wow-wow-wubbzy-a-wuzzleberg-tale", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

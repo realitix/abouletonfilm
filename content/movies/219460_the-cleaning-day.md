@@ -1,0 +1,1 @@
+{"tmdb_id": 219460, "title": "The Cleaning Day", "original_title": "The Cleaning Day", "slug_title": "the-cleaning-day", "date": "1937-09-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 561579, "title": "Sztuka ulicy", "original_title": "Sztuka ulicy", "slug_title": "sztuka-ulicy", "date": "1957-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

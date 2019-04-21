@@ -1,0 +1,1 @@
+{"tmdb_id": 500172, "title": "La fronti\u00e8re", "original_title": "La fronti\u00e8re", "slug_title": "la-frontiere", "date": "2017-11-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/etHgbK9boYu1QjLDoURpNDvlmPb.jpg", "actors": [], "comments": [], "recommandations_id": []}

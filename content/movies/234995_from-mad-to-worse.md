@@ -1,0 +1,1 @@
+{"tmdb_id": 234995, "title": "'From Mad to Worse'", "original_title": "'From Mad to Worse'", "slug_title": "from-mad-to-worse", "date": "1957-08-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

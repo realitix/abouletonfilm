@@ -1,0 +1,1 @@
+{"tmdb_id": 235187, "title": "Inside the Metaverse", "original_title": "Inside the Metaverse", "slug_title": "inside-the-metaverse", "date": "2010-12-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5LbFg4zHK0sj0gs3U5fyihx2Lux.jpg", "actors": [], "comments": [], "recommandations_id": []}

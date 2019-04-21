@@ -1,0 +1,1 @@
+{"tmdb_id": 256225, "title": "Dada's Dance", "original_title": "\u8fbe\u8fbe", "slug_title": "dada-s-dance", "date": "2008-09-25", "genre": "Drame", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uVytUnshH5IP0nZPqk8lhtNCkOS.jpg", "actors": ["Li Xinyun (Dada)"], "comments": [], "recommandations_id": []}

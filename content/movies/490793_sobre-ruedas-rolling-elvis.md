@@ -1,0 +1,1 @@
+{"tmdb_id": 490793, "title": "Sobre ruedas - Rolling Elvis", "original_title": "Sobre ruedas - Rolling Elvis", "slug_title": "sobre-ruedas-rolling-elvis", "date": "2017-12-07", "genre": "Com\u00e9die / Familial", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

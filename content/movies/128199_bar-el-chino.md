@@ -1,0 +1,1 @@
+{"tmdb_id": 128199, "title": "Bar, El Chino", "original_title": "Bar, El Chino", "slug_title": "bar-el-chino", "date": "2003-10-15", "genre": "Drame / Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

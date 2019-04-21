@@ -1,0 +1,1 @@
+{"tmdb_id": 220792, "title": "Winesburg, Ohio", "original_title": "Winesburg, Ohio", "slug_title": "winesburg-ohio", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Thomas Britt ()", "Ron Luce ()", "Dane McCarthy ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 523636, "title": "The Curse of Da Linzer", "original_title": "The Curse of Da Linzer", "slug_title": "the-curse-of-da-linzer", "date": "2017-03-23", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dynNnpc3ylEPSeLuvKdAJM7zr2K.jpg", "actors": [], "comments": [], "recommandations_id": []}

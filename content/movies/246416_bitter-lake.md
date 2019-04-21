@@ -1,0 +1,1 @@
+{"tmdb_id": 246416, "title": "Bitter Lake", "original_title": "Bitter Lake", "slug_title": "bitter-lake", "date": "2011-08-20", "genre": "Fantastique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/of5ZaQ8SSnldl8NzyqLzCwU2b9.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 183102, "title": "Satyricon: The P3 Sessions", "original_title": "Satyricon: The P3 Sessions", "slug_title": "satyricon-the-p3-sessions", "date": "2007-09-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i3Su6ZkGRXNscTNUk17XmCpIeYh.jpg", "actors": [], "comments": [], "recommandations_id": []}

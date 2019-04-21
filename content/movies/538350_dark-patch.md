@@ -1,0 +1,1 @@
+{"tmdb_id": 538350, "title": "Dark Patch", "original_title": "Dark Patch", "slug_title": "dark-patch", "date": "2018-03-29", "genre": "Horreur / Fantastique / Action", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AtalDmanGqTbUBUdIczkRiEQrmW.jpg", "actors": [], "comments": [], "recommandations_id": []}

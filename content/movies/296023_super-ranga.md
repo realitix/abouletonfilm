@@ -1,0 +1,1 @@
+{"tmdb_id": 296023, "title": "Super Ranga", "original_title": "Super Ranga", "slug_title": "super-ranga", "date": "2014-09-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tMzN7IGii6A8iYNa1A5lP337fpS.jpg", "actors": ["Upendra (Sriranga)", "Kriti Kharbanda (Swathi)"], "comments": [], "recommandations_id": []}

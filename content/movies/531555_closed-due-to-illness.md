@@ -1,0 +1,1 @@
+{"tmdb_id": 531555, "title": "Closed Due to Illness", "original_title": "Pro nemoc zav\u0159eno", "slug_title": "closed-due-to-illness", "date": "1975-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

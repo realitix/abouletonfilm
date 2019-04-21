@@ -1,0 +1,1 @@
+{"tmdb_id": 68852, "title": "Kaiser Chiefs: Enjoyment", "original_title": "Kaiser Chiefs: Enjoyment", "slug_title": "kaiser-chiefs-enjoyment", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pNMGOqNzXJ97M3Us2wix9BuVgNt.jpg", "actors": [], "comments": [], "recommandations_id": []}

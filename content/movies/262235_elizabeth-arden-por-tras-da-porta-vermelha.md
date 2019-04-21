@@ -1,0 +1,1 @@
+{"tmdb_id": 262235, "title": "Elizabeth Arden: Por tr\u00e1s da porta vermelha", "original_title": "Elizabeth Arden: Por tr\u00e1s da porta vermelha", "slug_title": "elizabeth-arden-por-tras-da-porta-vermelha", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 534153, "title": "Voc\u00ea, morto", "original_title": "Voc\u00ea, morto", "slug_title": "voce-morto", "date": "2018-08-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lRSk30i65mJPhcGZLQtn8f3jaCV.jpg", "actors": ["Petter Baiestorf ()"], "comments": [], "recommandations_id": []}

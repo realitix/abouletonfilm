@@ -1,0 +1,1 @@
+{"tmdb_id": 578801, "title": "Sakana Otoko", "original_title": "\u9b5a\u7537", "slug_title": "sakana-otoko", "date": "2017-10-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4FUbdjK6lzc87NrSiAiqUOkTbwn.jpg", "actors": [], "comments": [], "recommandations_id": []}

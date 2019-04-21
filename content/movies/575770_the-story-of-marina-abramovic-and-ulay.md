@@ -1,0 +1,1 @@
+{"tmdb_id": 575770, "title": "The story of Marina Abramovic and Ulay", "original_title": "The story of Marina Abramovic and Ulay", "slug_title": "the-story-of-marina-abramovic-and-ulay", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

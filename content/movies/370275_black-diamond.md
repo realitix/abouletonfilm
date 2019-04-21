@@ -1,0 +1,1 @@
+{"tmdb_id": 370275, "title": "Black Diamond", "original_title": "Black Diamond", "slug_title": "black-diamond", "date": "2015-01-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sb9gCt2KA0yEXX0hgPbA4m7Cvaj.jpg", "actors": [], "comments": [], "recommandations_id": []}

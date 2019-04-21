@@ -1,0 +1,1 @@
+{"tmdb_id": 438192, "title": "Exultations: In Light of the Great Giving", "original_title": "Exultations: In Light of the Great Giving", "slug_title": "exultations-in-light-of-the-great-giving", "date": "1993-01-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

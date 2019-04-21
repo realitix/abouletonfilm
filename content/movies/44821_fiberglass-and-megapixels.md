@@ -1,0 +1,1 @@
+{"tmdb_id": 44821, "title": "Fiberglass and Megapixels", "original_title": "Fiberglass and Megapixels", "slug_title": "fiberglass-and-megapixels", "date": "2010-04-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wCJ5ZwFnEYAVM9l4NFMEBFY4Dzf.jpg", "actors": [], "comments": [], "recommandations_id": []}

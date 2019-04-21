@@ -1,0 +1,1 @@
+{"tmdb_id": 184658, "title": "Good Little Monkeys", "original_title": "Good Little Monkeys", "slug_title": "good-little-monkeys", "date": "1935-04-12", "genre": "Com\u00e9die / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u85o5BZB0hTmBVocmgGixBZ2mJO.jpg", "actors": [], "comments": [], "recommandations_id": []}

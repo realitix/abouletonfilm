@@ -1,0 +1,1 @@
+{"tmdb_id": 239889, "title": "JFK The lost bullet", "original_title": "JFK The lost bullet", "slug_title": "jfk-the-lost-bullet", "date": "2011-11-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vzQICVAfko1BRfVoZ7uSqqwoOgN.jpg", "actors": [], "comments": [], "recommandations_id": []}

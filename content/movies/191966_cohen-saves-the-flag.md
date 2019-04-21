@@ -1,0 +1,1 @@
+{"tmdb_id": 191966, "title": "Cohen Saves the Flag", "original_title": "Cohen Saves the Flag", "slug_title": "cohen-saves-the-flag", "date": "1913-11-26", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ford Sterling (Sgt. Cohen)", "Mabel Normand (Mabel)", "Henry Lehrman (Lt. Goldberg)"], "comments": [], "recommandations_id": []}

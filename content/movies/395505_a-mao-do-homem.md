@@ -1,0 +1,1 @@
+{"tmdb_id": 395505, "title": "A M\u00e3o do Homem", "original_title": "A M\u00e3o do Homem", "slug_title": "a-mao-do-homem", "date": "1970-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5T0L0jsBH51fI73TALUWTL1WhnV.jpg", "actors": [], "comments": [], "recommandations_id": []}

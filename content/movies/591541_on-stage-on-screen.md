@@ -1,0 +1,1 @@
+{"tmdb_id": 591541, "title": "On Stage on Screen", "original_title": "On Stage on Screen", "slug_title": "on-stage-on-screen", "date": "2005-03-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Paul Roberts ()", "Jean-Jacques Burnel ()", "Dave Greenfield ()", "Jet Black ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 108772, "title": "These Encounters of Theirs", "original_title": "Quei loro incontri", "slug_title": "these-encounters-of-theirs", "date": "2006-09-07", "genre": "", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ll308VnWQygiLCWMr8YkxZ57tNb.jpg", "actors": [], "comments": [], "recommandations_id": []}

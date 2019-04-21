@@ -1,0 +1,1 @@
+{"tmdb_id": 153139, "title": "Kinshasa Symphony", "original_title": "Kinshasa Symphony", "slug_title": "kinshasa-symphony", "date": "2010-09-23", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1v0YX96kaMCOs0jfNAoyVAgBiLJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

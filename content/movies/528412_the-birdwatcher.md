@@ -1,0 +1,1 @@
+{"tmdb_id": 528412, "title": "The Birdwatcher", "original_title": "The Birdwatcher", "slug_title": "the-birdwatcher", "date": "1988-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 231725, "title": "Wreck of the 'Vizcaya'", "original_title": "Wreck of the 'Vizcaya'", "slug_title": "wreck-of-the-vizcaya", "date": "1898-07-30", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

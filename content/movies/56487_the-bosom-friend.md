@@ -1,0 +1,1 @@
+{"tmdb_id": 56487, "title": "The Bosom Friend", "original_title": "Der Busenfreund", "slug_title": "the-bosom-friend", "date": "1997-06-03", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jxgDXuptkVJ5bBo8rjf66Se4Kuo.jpg", "actors": ["Ren\u00e9 Rupnik (Himself)"], "comments": [], "recommandations_id": []}

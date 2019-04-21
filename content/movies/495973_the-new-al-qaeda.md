@@ -1,0 +1,1 @@
+{"tmdb_id": 495973, "title": "The New Al-Qaeda", "original_title": "The New Al-Qaeda", "slug_title": "the-new-al-qaeda", "date": "2005-07-20", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/c4OgJWrWV45OAFj3LVPAoQN2m6V.jpg", "actors": ["Peter Taylor (Reporter)"], "comments": [], "recommandations_id": []}

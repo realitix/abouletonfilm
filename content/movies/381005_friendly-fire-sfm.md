@@ -1,0 +1,1 @@
+{"tmdb_id": 381005, "title": "Friendly Fire [SFM]", "original_title": "Friendly Fire [SFM]", "slug_title": "friendly-fire-sfm", "date": "2015-08-24", "genre": "Action / Animation / Aventure / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Musetrigger (Voice Actor)"], "comments": [], "recommandations_id": []}

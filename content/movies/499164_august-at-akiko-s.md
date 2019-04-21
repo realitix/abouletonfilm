@@ -1,0 +1,1 @@
+{"tmdb_id": 499164, "title": "August at Akiko's", "original_title": "August at Akiko's", "slug_title": "august-at-akiko-s", "date": "2018-01-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zX5LEkVd8jGUWUjTXL6s0x6i0n5.jpg", "actors": ["Alex Zhang Hungtai ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 321917, "title": "Warts & All: The Films of Danny Plotnick", "original_title": "Warts & All: The Films of Danny Plotnick", "slug_title": "warts-all-the-films-of-danny-plotnick", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

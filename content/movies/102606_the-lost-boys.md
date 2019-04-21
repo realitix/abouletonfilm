@@ -1,0 +1,1 @@
+{"tmdb_id": 102606, "title": "The Lost Boys", "original_title": "The Lost Boys", "slug_title": "the-lost-boys", "date": "2002-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

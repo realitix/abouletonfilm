@@ -1,0 +1,1 @@
+{"tmdb_id": 379069, "title": "Pink-A-Rella", "original_title": "Pink-A-Rella", "slug_title": "pink-a-rella", "date": "1969-01-08", "genre": "Animation", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mYWWZw9nKyqLNCsUPaaQ3KrB2V3.jpg", "actors": [], "comments": [], "recommandations_id": []}

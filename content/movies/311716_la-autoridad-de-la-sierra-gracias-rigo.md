@@ -1,0 +1,1 @@
+{"tmdb_id": 311716, "title": "La Autoridad de la Sierra: Gracias Rigo", "original_title": "La Autoridad de la Sierra: Gracias Rigo", "slug_title": "la-autoridad-de-la-sierra-gracias-rigo", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

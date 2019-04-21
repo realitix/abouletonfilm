@@ -1,0 +1,1 @@
+{"tmdb_id": 119935, "title": "Measure for Measure", "original_title": "Measure for Measure", "slug_title": "measure-for-measure", "date": "1979-02-18", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uA5su2M84kBm6jdrOAVGBA8ZSrZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

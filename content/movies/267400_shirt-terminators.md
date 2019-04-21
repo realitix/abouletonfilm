@@ -1,0 +1,1 @@
+{"tmdb_id": 267400, "title": "Shirt Terminators", "original_title": "Shirt Terminators", "slug_title": "shirt-terminators", "date": "2014-04-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yV64799QXbAQJ2TGOOYjJomd3Y2.jpg", "actors": [], "comments": [], "recommandations_id": []}

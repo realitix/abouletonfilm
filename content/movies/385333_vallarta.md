@@ -1,0 +1,1 @@
+{"tmdb_id": 385333, "title": "Vallarta", "original_title": "Vallarta: La Bah\u00eda de Nvo. Chiapas", "slug_title": "vallarta", "date": "2016-03-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

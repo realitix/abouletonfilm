@@ -1,0 +1,1 @@
+{"tmdb_id": 389893, "title": "Malpractice", "original_title": "Malpractice", "slug_title": "malpractice", "date": "1989-03-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

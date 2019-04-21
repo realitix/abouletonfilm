@@ -1,0 +1,1 @@
+{"tmdb_id": 569007, "title": "A Day in the Life: The World of Humans Who Use Drugs", "original_title": "A Day in the Life: The World of Humans Who Use Drugs", "slug_title": "a-day-in-the-life-the-world-of-humans-who-use-drugs", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

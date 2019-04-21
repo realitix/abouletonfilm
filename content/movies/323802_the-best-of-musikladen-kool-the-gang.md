@@ -1,0 +1,1 @@
+{"tmdb_id": 323802, "title": "The Best of MusikLaden: Kool & the Gang", "original_title": "The Best of MusikLaden: Kool & the Gang", "slug_title": "the-best-of-musikladen-kool-the-gang", "date": "1999-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

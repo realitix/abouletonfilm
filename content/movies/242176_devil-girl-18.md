@@ -1,0 +1,1 @@
+{"tmdb_id": 242176, "title": "Devil Girl 18", "original_title": "Devil Girl 18", "slug_title": "devil-girl-18", "date": "1993-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qUcjHVHUm5rbN2nR4SGfdCA6ADp.jpg", "actors": ["Yukari \u00d4shima ()"], "comments": [], "recommandations_id": []}

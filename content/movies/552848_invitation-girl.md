@@ -1,0 +1,1 @@
+{"tmdb_id": 552848, "title": "Invitation Girl", "original_title": "\ucd08\ub300\ub140", "slug_title": "invitation-girl", "date": "2018-06-26", "genre": "Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lXfkZA69ax3OQRPSGedHb2hTKX.jpg", "actors": ["Lee Eun-mi-I ()", "Park Joo-bin ()"], "comments": [], "recommandations_id": []}

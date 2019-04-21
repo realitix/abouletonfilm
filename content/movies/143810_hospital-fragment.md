@@ -1,0 +1,1 @@
+{"tmdb_id": 143810, "title": "Hospital Fragment", "original_title": "Hospital Fragment", "slug_title": "hospital-fragment", "date": "2000-01-01", "genre": "", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/28xcE0GOwLGHfKTUVZNJN9gIkY2.jpg", "actors": [], "comments": [], "recommandations_id": [70648, 59356, 162614, 104366]}

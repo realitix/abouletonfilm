@@ -1,0 +1,1 @@
+{"tmdb_id": 416015, "title": "Going to Mars", "original_title": "\ud654\uc131\uc5d0 \uac00\ub2e4", "slug_title": "going-to-mars", "date": "2010-08-19", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yLbRahLsIxni99BGJxGMOfsnVxw.jpg", "actors": ["Hwang Seok-jeong ()"], "comments": [], "recommandations_id": []}

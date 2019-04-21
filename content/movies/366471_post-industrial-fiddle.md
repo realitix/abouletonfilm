@@ -1,0 +1,1 @@
+{"tmdb_id": 366471, "title": "Post-Industrial Fiddle", "original_title": "Post-Industrial Fiddle", "slug_title": "post-industrial-fiddle", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

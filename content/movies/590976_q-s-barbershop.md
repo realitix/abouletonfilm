@@ -1,0 +1,1 @@
+{"tmdb_id": 590976, "title": "Q's Barbershop", "original_title": "Q's Barbershop", "slug_title": "q-s-barbershop", "date": "2019-03-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zC89kKir06uBF2V4CXQ1WMQSZdd.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 216280, "title": "Skank Live in Rock In Rio", "original_title": "Skank Ao Vivo No Rock In Rio", "slug_title": "skank-live-in-rock-in-rio", "date": "2011-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AmursyshDCNWojlCq0e8G77IS1M.jpg", "actors": [], "comments": [], "recommandations_id": []}

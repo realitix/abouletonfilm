@@ -1,0 +1,1 @@
+{"tmdb_id": 232976, "title": "Skoleskibet Georg Stage", "original_title": "Skoleskibet Georg Stage", "slug_title": "skoleskibet-georg-stage", "date": "1909-11-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

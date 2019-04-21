@@ -1,0 +1,1 @@
+{"tmdb_id": 496200, "title": "El Demonio de los Andes", "original_title": "El Demonio de los Andes", "slug_title": "el-demonio-de-los-andes", "date": "2014-08-28", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bBdM4Jw45PkHhE26u4asFmCfbv5.jpg", "actors": [], "comments": [], "recommandations_id": []}

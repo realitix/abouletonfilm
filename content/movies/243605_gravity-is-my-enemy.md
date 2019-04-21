@@ -1,0 +1,1 @@
+{"tmdb_id": 243605, "title": "Gravity Is My Enemy", "original_title": "Gravity Is My Enemy", "slug_title": "gravity-is-my-enemy", "date": "1977-10-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

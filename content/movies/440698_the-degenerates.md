@@ -1,0 +1,1 @@
+{"tmdb_id": 440698, "title": "The Degenerates", "original_title": "The Degenerates", "slug_title": "the-degenerates", "date": "1967-04-04", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hpwSmF25YLJHeKVstWtQziVYxe4.jpg", "actors": ["Hope Stansbury (Ivy)", "Anne Linden (Daisy)"], "comments": [], "recommandations_id": []}

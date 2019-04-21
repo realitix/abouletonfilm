@@ -1,0 +1,1 @@
+{"tmdb_id": 385795, "title": "Oczekiwanie", "original_title": "Oczekiwanie", "slug_title": "oczekiwanie", "date": "1962-01-01", "genre": "Fantastique / Animation", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n2xc9M5TTql4SgHHoBgvz9WoF67.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 133755, "title": "R\u00e9cidivistes", "original_title": "Visszaes\u0151k", "slug_title": "recidivistes", "date": "1983-09-22", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pkrmFg6Z10m5OeWjkjdooVtEJ5K.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 331903, "title": "Layla, Daughter of the Rich", "original_title": "Leila bint el agnia", "slug_title": "layla-daughter-of-the-rich", "date": "1946-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Laila Mourad ()", "Anwar Wagdi ()"], "comments": [], "recommandations_id": []}

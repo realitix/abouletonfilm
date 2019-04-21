@@ -1,0 +1,1 @@
+{"tmdb_id": 270734, "title": "Suzanne", "original_title": "Suzanne", "slug_title": "suzanne", "date": "1996-09-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Eva Vejm\u011blkov\u00e1 (Suzanne)", "Maro\u0161 Kram\u00e1r (Deny)", "Bolek Pol\u00edvka (Chris d'Garn\u00e9)"], "comments": [], "recommandations_id": []}

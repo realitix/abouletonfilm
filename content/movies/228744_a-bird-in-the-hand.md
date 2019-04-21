@@ -1,0 +1,1 @@
+{"tmdb_id": 228744, "title": "A Bird in the Hand", "original_title": "A Bird in the Hand", "slug_title": "a-bird-in-the-hand", "date": "1925-10-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gRkUe2YpfAFLBOs6QdmGn0AJUPn.jpg", "actors": [], "comments": [], "recommandations_id": []}

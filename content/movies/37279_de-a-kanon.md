@@ -1,0 +1,1 @@
+{"tmdb_id": 37279, "title": "De' \u00e4 kanon!", "original_title": "De' \u00e4 kanon!", "slug_title": "de-a-kanon", "date": "2009-09-23", "genre": "", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9Fsd5h4EGTvNFuy3168K0XgtLJ5.jpg", "actors": ["Robert Gustafsson ()"], "comments": [], "recommandations_id": []}

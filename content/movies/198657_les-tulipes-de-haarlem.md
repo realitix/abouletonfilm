@@ -1,0 +1,1 @@
+{"tmdb_id": 198657, "title": "Les tulipes de Haarlem", "original_title": "I tulipani di Haarlem", "slug_title": "les-tulipes-de-haarlem", "date": "1970-06-07", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mAmJgEdZDqG68lOjG98au7wMXYH.jpg", "actors": [], "comments": [], "recommandations_id": []}

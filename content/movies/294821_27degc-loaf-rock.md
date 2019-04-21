@@ -1,0 +1,1 @@
+{"tmdb_id": 294821, "title": "27\u00b0C - Loaf Rock", "original_title": "\u4e16\u754c\u7b2c\u4e00\u9ea5\u65b9", "slug_title": "27degc-loaf-rock", "date": "2013-07-19", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AgkKiBAdFjcPQXdRWnHXkIbUnaU.jpg", "actors": [], "comments": [], "recommandations_id": []}

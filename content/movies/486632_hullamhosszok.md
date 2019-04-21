@@ -1,0 +1,1 @@
+{"tmdb_id": 486632, "title": "Hull\u00e1mhosszok", "original_title": "Hull\u00e1mhosszok", "slug_title": "hullamhosszok", "date": "1971-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/datyzu8zasiu4Qrlol0DOjlGNEZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

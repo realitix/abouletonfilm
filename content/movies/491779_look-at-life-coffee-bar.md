@@ -1,0 +1,1 @@
+{"tmdb_id": 491779, "title": "Look at Life: Coffee Bar", "original_title": "Look at Life: Coffee Bar", "slug_title": "look-at-life-coffee-bar", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

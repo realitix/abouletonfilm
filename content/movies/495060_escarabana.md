@@ -1,0 +1,1 @@
+{"tmdb_id": 495060, "title": "Escarabana", "original_title": "Escarabana", "slug_title": "escarabana", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 387684, "title": "La Cit\u00e9 de Notre-Dame", "original_title": "La Cit\u00e9 de Notre-Dame", "slug_title": "la-cite-de-notre-dame", "date": "1942-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1tl5w6kZ3eHTbipOCNU8rLeSnpz.jpg", "actors": [], "comments": [], "recommandations_id": []}

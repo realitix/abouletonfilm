@@ -1,0 +1,1 @@
+{"tmdb_id": 491098, "title": "Jazz Dispute", "original_title": "Jazz Dispute", "slug_title": "jazz-dispute", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jeremiah McDonald ()"], "comments": [], "recommandations_id": []}

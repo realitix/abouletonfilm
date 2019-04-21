@@ -1,0 +1,1 @@
+{"tmdb_id": 132500, "title": "Zrubavel", "original_title": "Zrubavel", "slug_title": "zrubavel", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

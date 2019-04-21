@@ -1,0 +1,1 @@
+{"tmdb_id": 397652, "title": "Dead Space: Chase to Death", "original_title": "Dead Space: Chase to Death", "slug_title": "dead-space-chase-to-death", "date": "2013-04-12", "genre": "Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9ZJ5sy7XKjAf1alGbLke2VCBH1E.jpg", "actors": [], "comments": [], "recommandations_id": []}

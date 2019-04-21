@@ -1,0 +1,1 @@
+{"tmdb_id": 406038, "title": "Camino a Europa", "original_title": "Camino a Europa", "slug_title": "camino-a-europa", "date": "2013-07-25", "genre": "Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Laura Isabel Cabrera (Cecilia)", "Amilcar Rivera (Seba)", "Eyra Ag\u00fcero Joubert (Susana)"], "comments": [], "recommandations_id": []}

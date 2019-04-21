@@ -1,0 +1,1 @@
+{"tmdb_id": 165488, "title": "Norway: Land of the Midnight Sun", "original_title": "Norway: Land of the Midnight Sun", "slug_title": "norway-land-of-the-midnight-sun", "date": "1933-01-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["James A. FitzPatrick ()"], "comments": [], "recommandations_id": []}

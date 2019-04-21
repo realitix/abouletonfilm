@@ -1,0 +1,1 @@
+{"tmdb_id": 70082, "title": "Zgorszenie publiczne", "original_title": "Zgorszenie publiczne", "slug_title": "zgorszenie-publiczne", "date": "2009-09-10", "genre": "Romance / Com\u00e9die", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7HvIoNxz67iFaGdS7rzTspm5UT0.jpg", "actors": [], "comments": [], "recommandations_id": []}

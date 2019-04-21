@@ -1,0 +1,1 @@
+{"tmdb_id": 67978, "title": "Clever Monkeys", "original_title": "Clever Monkeys", "slug_title": "clever-monkeys", "date": "2008-11-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/c7opL5HnBiUM6HDSzwJWIdv1e22.jpg", "actors": [], "comments": [], "recommandations_id": []}

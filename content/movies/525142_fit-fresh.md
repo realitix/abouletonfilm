@@ -1,0 +1,1 @@
+{"tmdb_id": 525142, "title": "Fit Fresh", "original_title": "Fit Fresh", "slug_title": "fit-fresh", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

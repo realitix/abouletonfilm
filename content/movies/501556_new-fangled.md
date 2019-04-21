@@ -1,0 +1,1 @@
+{"tmdb_id": 501556, "title": "New Fangled", "original_title": "New Fangled", "slug_title": "new-fangled", "date": "1990-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

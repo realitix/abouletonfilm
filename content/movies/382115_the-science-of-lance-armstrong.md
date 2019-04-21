@@ -1,0 +1,1 @@
+{"tmdb_id": 382115, "title": "The Science of Lance Armstrong", "original_title": "The Science of Lance Armstrong", "slug_title": "the-science-of-lance-armstrong", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

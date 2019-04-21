@@ -1,0 +1,1 @@
+{"tmdb_id": 174255, "title": "Fiddlin' Fun", "original_title": "Fiddlin' Fun", "slug_title": "fiddlin-fun", "date": "1934-06-14", "genre": "", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

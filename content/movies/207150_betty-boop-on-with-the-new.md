@@ -1,0 +1,1 @@
+{"tmdb_id": 207150, "title": "Betty Boop: On with the New", "original_title": "Betty Boop: On with the New", "slug_title": "betty-boop-on-with-the-new", "date": "1938-12-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mae Questel (Betty Boop)"], "comments": [], "recommandations_id": []}

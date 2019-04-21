@@ -1,0 +1,1 @@
+{"tmdb_id": 547957, "title": "Playing Dice", "original_title": "Playing Dice", "slug_title": "playing-dice", "date": "1972-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x2DTPSQ2vWCw4Sq5GiVyG7cupji.jpg", "actors": [], "comments": [], "recommandations_id": []}

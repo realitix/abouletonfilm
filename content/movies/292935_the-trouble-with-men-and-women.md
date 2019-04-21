@@ -1,0 +1,1 @@
+{"tmdb_id": 292935, "title": "The Trouble with Men and Women", "original_title": "The Trouble with Men and Women", "slug_title": "the-trouble-with-men-and-women", "date": "2006-08-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

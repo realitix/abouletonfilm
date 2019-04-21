@@ -1,0 +1,1 @@
+{"tmdb_id": 455494, "title": "Electrical Telegraphy, Electric Bells and Telephones", "original_title": "Denshin Denrei Denwa", "slug_title": "electrical-telegraphy-electric-bells-and-telephones", "date": "1931-04-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

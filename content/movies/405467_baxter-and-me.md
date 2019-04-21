@@ -1,0 +1,1 @@
+{"tmdb_id": 405467, "title": "Baxter and Me", "original_title": "Baxter and Me", "slug_title": "baxter-and-me", "date": "2016-06-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

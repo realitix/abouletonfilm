@@ -1,0 +1,1 @@
+{"tmdb_id": 563630, "title": "Sledgehammer", "original_title": "Sledgehammer", "slug_title": "sledgehammer", "date": "2017-03-07", "genre": "Horreur / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j1sfBQQ3cvlSlGNOcdC0OBbMJx3.jpg", "actors": [], "comments": [], "recommandations_id": []}

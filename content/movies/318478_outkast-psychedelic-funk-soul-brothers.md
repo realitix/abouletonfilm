@@ -1,0 +1,1 @@
+{"tmdb_id": 318478, "title": "Outkast: Psychedelic Funk Soul Brothers", "original_title": "Outkast: Psychedelic Funk Soul Brothers", "slug_title": "outkast-psychedelic-funk-soul-brothers", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

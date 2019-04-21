@@ -1,0 +1,1 @@
+{"tmdb_id": 192438, "title": "Shaman: One Live", "original_title": "Shaman: One Live", "slug_title": "shaman-one-live", "date": "2010-11-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4RZHnMPNNzNAXbQc8i0v3t7OHH7.jpg", "actors": [], "comments": [], "recommandations_id": []}

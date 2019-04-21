@@ -1,0 +1,1 @@
+{"tmdb_id": 576245, "title": "Diamonds in a Bucket", "original_title": "Diamonds in a Bucket", "slug_title": "diamonds-in-a-bucket", "date": "2007-09-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

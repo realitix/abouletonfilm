@@ -1,0 +1,1 @@
+{"tmdb_id": 138054, "title": "Black By Injection 2", "original_title": "Black By Injection 2", "slug_title": "black-by-injection-2", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/knL23OvkbK8J4UyMEykwP3dATtF.jpg", "actors": [], "comments": [], "recommandations_id": []}

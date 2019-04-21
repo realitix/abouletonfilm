@@ -1,0 +1,1 @@
+{"tmdb_id": 590632, "title": "Chad Daniels: Dad Chaniels", "original_title": "Chad Daniels: Dad Chaniels", "slug_title": "chad-daniels-dad-chaniels", "date": "2019-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Chad Daniels (Himself)"], "comments": [], "recommandations_id": []}

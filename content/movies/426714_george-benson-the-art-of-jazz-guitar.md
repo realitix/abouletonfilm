@@ -1,0 +1,1 @@
+{"tmdb_id": 426714, "title": "George Benson: The Art of Jazz Guitar", "original_title": "George Benson: The Art of Jazz Guitar", "slug_title": "george-benson-the-art-of-jazz-guitar", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

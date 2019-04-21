@@ -1,0 +1,1 @@
+{"tmdb_id": 513634, "title": "Fermo del Tempo", "original_title": "Fermo del Tempo", "slug_title": "fermo-del-tempo", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rxbNZsXuK3xRD6BqWq2RD4S55Ah.jpg", "actors": [], "comments": [], "recommandations_id": []}

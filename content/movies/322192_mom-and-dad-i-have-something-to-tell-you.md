@@ -1,0 +1,1 @@
+{"tmdb_id": 322192, "title": "Mom and Dad, I Have Something to Tell You", "original_title": "Mom and Dad, I Have Something to Tell You", "slug_title": "mom-and-dad-i-have-something-to-tell-you", "date": "2010-06-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

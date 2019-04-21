@@ -1,0 +1,1 @@
+{"tmdb_id": 544474, "title": "Me Deixe N\u00e3o Ser", "original_title": "Me Deixe N\u00e3o Ser", "slug_title": "me-deixe-nao-ser", "date": "2018-09-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xINeEsOtDdpOqOOy2kEVq2eIDbQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

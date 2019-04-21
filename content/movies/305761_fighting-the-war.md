@@ -1,0 +1,1 @@
+{"tmdb_id": 305761, "title": "Fighting the War", "original_title": "Fighting the War", "slug_title": "fighting-the-war", "date": "1916-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

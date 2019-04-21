@@ -1,0 +1,1 @@
+{"tmdb_id": 533926, "title": "Sacrified", "original_title": "Offers", "slug_title": "sacrified", "date": "", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jacob Derwig (Haron Nasrallah)", "Maryam Hassouni (Laila al Gatawi)"], "comments": [], "recommandations_id": []}

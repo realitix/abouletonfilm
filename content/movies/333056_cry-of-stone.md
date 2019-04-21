@@ -1,0 +1,1 @@
+{"tmdb_id": 333056, "title": "Cry of Stone", "original_title": "Cri de pierre", "slug_title": "cry-of-stone", "date": "1986-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mohamed Hadj Sma\u00efn ()", "Kaltoun ()", "Taha El Amiri ()"], "comments": [], "recommandations_id": []}

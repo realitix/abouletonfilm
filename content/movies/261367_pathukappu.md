@@ -1,0 +1,1 @@
+{"tmdb_id": 261367, "title": "Pathukappu", "original_title": "Pathukappu", "slug_title": "pathukappu", "date": "1970-11-26", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sivaji Ganesan ()", "Major Sundarrajan ()", "Jayalalithaa J ()"], "comments": [], "recommandations_id": []}

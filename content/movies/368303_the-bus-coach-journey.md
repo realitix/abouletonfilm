@@ -1,0 +1,1 @@
+{"tmdb_id": 368303, "title": "The Bus Coach Journey", "original_title": "Bussresan", "slug_title": "the-bus-coach-journey", "date": "1986-12-20", "genre": "Documentaire / T\u00e9l\u00e9film", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

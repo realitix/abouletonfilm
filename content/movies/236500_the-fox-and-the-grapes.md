@@ -1,0 +1,1 @@
+{"tmdb_id": 236500, "title": "The Fox and the Grapes", "original_title": "The Fox and the Grapes", "slug_title": "the-fox-and-the-grapes", "date": "1941-12-04", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kXYzvdDMa1477Gin1SHZrkwX36f.jpg", "actors": [], "comments": [], "recommandations_id": []}

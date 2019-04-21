@@ -1,0 +1,1 @@
+{"tmdb_id": 574061, "title": "The Mirrors", "original_title": "Gli Specchi", "slug_title": "the-mirrors", "date": "1964-05-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1nBOpYoeMI3wNzr0Q60rw23GY9H.jpg", "actors": [], "comments": [], "recommandations_id": []}

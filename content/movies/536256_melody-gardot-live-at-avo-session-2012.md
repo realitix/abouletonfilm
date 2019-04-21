@@ -1,0 +1,1 @@
+{"tmdb_id": 536256, "title": "Melody Gardot - Live at AVO Session 2012", "original_title": "Melody Gardot - Live at AVO Session 2012", "slug_title": "melody-gardot-live-at-avo-session-2012", "date": "2012-10-27", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Melody Gardot ()"], "comments": [], "recommandations_id": []}

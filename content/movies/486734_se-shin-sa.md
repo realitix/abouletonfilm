@@ -1,0 +1,1 @@
+{"tmdb_id": 486734, "title": "Se Shin Sa", "original_title": "Se Shin Sa", "slug_title": "se-shin-sa", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gbmsCFbzsUtsB8dYVARHW7pPv8F.jpg", "actors": ["Zhenhua Jin (Sook)"], "comments": [], "recommandations_id": []}

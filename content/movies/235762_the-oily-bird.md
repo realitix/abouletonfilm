@@ -1,0 +1,1 @@
+{"tmdb_id": 235762, "title": "The Oily Bird", "original_title": "The Oily Bird", "slug_title": "the-oily-bird", "date": "1954-07-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

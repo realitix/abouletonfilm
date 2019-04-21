@@ -1,0 +1,1 @@
+{"tmdb_id": 525770, "title": "Great Rights", "original_title": "Great Rights", "slug_title": "great-rights", "date": "1963-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Herschel Bernardi ()", "Daws Butler ()", "June Foray ()"], "comments": [], "recommandations_id": []}

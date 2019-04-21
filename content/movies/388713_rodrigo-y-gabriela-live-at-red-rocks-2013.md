@@ -1,0 +1,1 @@
+{"tmdb_id": 388713, "title": "Rodrigo y Gabriela: Live at Red Rocks 2013", "original_title": "Rodrigo y Gabriela: Live at Red Rocks 2013", "slug_title": "rodrigo-y-gabriela-live-at-red-rocks-2013", "date": "2013-07-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

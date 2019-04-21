@@ -1,0 +1,1 @@
+{"tmdb_id": 275363, "title": "The Trouble With Atheism", "original_title": "The Trouble With Atheism", "slug_title": "the-trouble-with-atheism", "date": "2006-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

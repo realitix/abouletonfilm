@@ -1,0 +1,1 @@
+{"tmdb_id": 174879, "title": "Bears and Bad Men", "original_title": "Bears and Bad Men", "slug_title": "bears-and-bad-men", "date": "1918-10-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Larry Semon (Larry Cutshaw)", "Stan Laurel (Pete)"], "comments": [], "recommandations_id": []}

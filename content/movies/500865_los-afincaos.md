@@ -1,0 +1,1 @@
+{"tmdb_id": 500865, "title": "Los afincaos", "original_title": "Los afincaos", "slug_title": "los-afincaos", "date": "1941-10-28", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lk0yeQXcr3Q8ScrqfPClpgtAfOp.jpg", "actors": [], "comments": [], "recommandations_id": []}

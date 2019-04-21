@@ -1,0 +1,1 @@
+{"tmdb_id": 407175, "title": "Haunted Theater", "original_title": "\u5973\u512a\u970a", "slug_title": "haunted-theater", "date": "2014-01-01", "genre": "Thriller / Horreur", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bIaKAZd6ryILAygQIzMUvdw82W9.jpg", "actors": ["Erika Momotani (Yukiko)"], "comments": [], "recommandations_id": []}

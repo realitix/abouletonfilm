@@ -1,0 +1,1 @@
+{"tmdb_id": 300109, "title": "Old Testament III, Prince of Egypt", "original_title": "Old Testament III, Prince of Egypt", "slug_title": "old-testament-iii-prince-of-egypt", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

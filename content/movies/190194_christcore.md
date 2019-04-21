@@ -1,0 +1,1 @@
+{"tmdb_id": 190194, "title": "ChristCORE", "original_title": "ChristCORE", "slug_title": "christcore", "date": "2013-05-04", "genre": "Documentaire / Musique", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2qOR4wy8gdLmZftMafUTyVvzWGl.jpg", "actors": [], "comments": [], "recommandations_id": []}

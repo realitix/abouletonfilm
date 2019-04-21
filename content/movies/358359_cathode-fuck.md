@@ -1,0 +1,1 @@
+{"tmdb_id": 358359, "title": "Cathode Fuck", "original_title": "Cathode Fuck", "slug_title": "cathode-fuck", "date": "1986-04-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/92Pq4EsSU6YamwctjDQ4apEI6Kp.jpg", "actors": [], "comments": [], "recommandations_id": []}

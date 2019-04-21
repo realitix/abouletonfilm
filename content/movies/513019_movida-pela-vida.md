@@ -1,0 +1,1 @@
+{"tmdb_id": 513019, "title": "Movida, pela Vida", "original_title": "Movida, pela Vida", "slug_title": "movida-pela-vida", "date": "2015-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sNBgO121j8ZAuB8MKmF8QlXj9pc.jpg", "actors": [], "comments": [], "recommandations_id": []}

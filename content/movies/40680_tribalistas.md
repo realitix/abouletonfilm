@@ -1,0 +1,1 @@
+{"tmdb_id": 40680, "title": "Tribalistas", "original_title": "Tribalistas", "slug_title": "tribalistas", "date": "2002-11-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sPA1gpORpSbjWQ5ESSCBTZzzHXu.jpg", "actors": [], "comments": [], "recommandations_id": []}

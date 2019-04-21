@@ -1,0 +1,1 @@
+{"tmdb_id": 133186, "title": "These Hammers Don't Hurt Us", "original_title": "These Hammers Don't Hurt Us", "slug_title": "these-hammers-don-t-hurt-us", "date": "2011-03-22", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5zT3MuP1l1dB2LUqUn6XPCw22JW.jpg", "actors": [], "comments": [], "recommandations_id": []}

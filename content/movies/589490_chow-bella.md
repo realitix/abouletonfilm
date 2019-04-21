@@ -1,0 +1,1 @@
+{"tmdb_id": 589490, "title": "Chow Bella", "original_title": "Chow Bella", "slug_title": "chow-bella", "date": "1998-10-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ayc8jzvHu85Ngem3gXtGDXqGwLq.jpg", "actors": [], "comments": [], "recommandations_id": []}

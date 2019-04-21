@@ -1,0 +1,1 @@
+{"tmdb_id": 353379, "title": "Paseelka", "original_title": "Paseelka", "slug_title": "paseelka", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

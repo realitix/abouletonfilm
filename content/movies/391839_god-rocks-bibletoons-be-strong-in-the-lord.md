@@ -1,0 +1,1 @@
+{"tmdb_id": 391839, "title": "God Rocks! Bibletoons: Be Strong In The Lord!", "original_title": "God Rocks! Bibletoons: Be Strong In The Lord!", "slug_title": "god-rocks-bibletoons-be-strong-in-the-lord", "date": "2006-04-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

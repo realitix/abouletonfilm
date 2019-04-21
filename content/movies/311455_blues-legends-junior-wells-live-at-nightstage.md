@@ -1,0 +1,1 @@
+{"tmdb_id": 311455, "title": "Blues Legends: Junior Wells: Live at Nightstage", "original_title": "Blues Legends: Junior Wells: Live at Nightstage", "slug_title": "blues-legends-junior-wells-live-at-nightstage", "date": "1989-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

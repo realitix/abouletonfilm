@@ -1,0 +1,1 @@
+{"tmdb_id": 236515, "title": "Flies Ain't Human", "original_title": "Flies Ain't Human", "slug_title": "flies-ain-t-human", "date": "1941-04-04", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fnpdzRsbEK43ADEqOupT9poA5GJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

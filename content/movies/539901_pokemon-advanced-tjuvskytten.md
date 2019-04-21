@@ -1,0 +1,1 @@
+{"tmdb_id": 539901, "title": "Pok\u00e9mon Advanced - Tjuvskytten", "original_title": "Pok\u00e9mon Advanced - Tjuvskytten", "slug_title": "pokemon-advanced-tjuvskytten", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/X5wGaEgo7Xnytftn8lQgMyHn5M.jpg", "actors": [], "comments": [], "recommandations_id": []}

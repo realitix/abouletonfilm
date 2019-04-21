@@ -1,0 +1,1 @@
+{"tmdb_id": 586500, "title": "Silence After the Storm", "original_title": "Silence After the Storm", "slug_title": "silence-after-the-storm", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 205408, "title": "Bowfire - Live in Concert", "original_title": "Bowfire - Live in Concert", "slug_title": "bowfire-live-in-concert", "date": "2011-01-17", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nISUNfHMGyngxuWb6W0rIwmzBsl.jpg", "actors": [], "comments": [], "recommandations_id": []}

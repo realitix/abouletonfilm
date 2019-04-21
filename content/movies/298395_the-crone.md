@@ -1,0 +1,1 @@
+{"tmdb_id": 298395, "title": "The Crone", "original_title": "Hukluban", "slug_title": "the-crone", "date": "2014-10-21", "genre": "Horreur / Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eEdicM4cbRQaW7QOCsJl5qbXiew.jpg", "actors": ["Kiko Matos ()", "Krista Miller ()"], "comments": [], "recommandations_id": []}

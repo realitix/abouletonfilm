@@ -1,0 +1,1 @@
+{"tmdb_id": 232884, "title": "The Magnetized Man", "original_title": "L'Homme aimant\u00e9", "slug_title": "the-magnetized-man", "date": "1907-07-03", "genre": "Science-Fiction / Com\u00e9die", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/frUnLpIiPcsquOYM3eY6HM0LzJb.jpg", "actors": [], "comments": [], "recommandations_id": []}

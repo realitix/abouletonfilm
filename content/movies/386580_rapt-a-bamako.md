@@ -1,0 +1,1 @@
+{"tmdb_id": 386580, "title": "Rapt \u00e0 Bamako", "original_title": "Rapt \u00e0 Bamako", "slug_title": "rapt-a-bamako", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lCaYzOuzzONvjn3goYor1dLLKwN.jpg", "actors": [], "comments": [], "recommandations_id": []}

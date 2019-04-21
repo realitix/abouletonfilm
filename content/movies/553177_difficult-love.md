@@ -1,0 +1,1 @@
+{"tmdb_id": 553177, "title": "Difficult Love", "original_title": "Trudna mi\u0142o\u015b\u0107", "slug_title": "difficult-love", "date": "1954-04-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["J\u00f3zef Nalberczak (Malodworny)", "Malgorzata Lesniewska (Nalepianka)"], "comments": [], "recommandations_id": []}

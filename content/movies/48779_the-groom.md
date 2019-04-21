@@ -1,0 +1,1 @@
+{"tmdb_id": 48779, "title": "The Groom", "original_title": "\u0416\u0438\u043d\u0438\u0445", "slug_title": "the-groom", "date": "1960-01-01", "genre": "Drame", "score": "7.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/myrdlzgfXXpUUS2ldXhfyZKR6rs.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 498782, "title": "Chameleon Shadow", "original_title": "Chameleon Shadow", "slug_title": "chameleon-shadow", "date": "2017-09-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oODJ7q3jRMI7JBjmSmbLsn1rTUQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

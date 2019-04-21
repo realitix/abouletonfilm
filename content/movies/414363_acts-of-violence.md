@@ -1,0 +1,1 @@
+{"tmdb_id": 414363, "title": "Acts of Violence", "original_title": "Acts of Violence", "slug_title": "acts-of-violence", "date": "2006-03-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

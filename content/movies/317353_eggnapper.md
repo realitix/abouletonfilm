@@ -1,0 +1,1 @@
+{"tmdb_id": 317353, "title": "Eggnapper", "original_title": "Eggnapper", "slug_title": "eggnapper", "date": "1961-01-12", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kquXODCaSeiJlrVQKWmaHR6c9n3.jpg", "actors": ["Dal McKennon (Ranger Willoughby (voice))"], "comments": [], "recommandations_id": []}

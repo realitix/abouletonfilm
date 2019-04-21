@@ -1,0 +1,1 @@
+{"tmdb_id": 319197, "title": "The Monkey Fleet", "original_title": "Osaru no kantai", "slug_title": "the-monkey-fleet", "date": "1936-01-18", "genre": "Guerre / Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lrMRXXpCWEYKm7ERXtEfgRPq5fD.jpg", "actors": [], "comments": [], "recommandations_id": []}

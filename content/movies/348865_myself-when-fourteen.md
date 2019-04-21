@@ -1,0 +1,1 @@
+{"tmdb_id": 348865, "title": "Myself When Fourteen", "original_title": "Myself When Fourteen", "slug_title": "myself-when-fourteen", "date": "1989-08-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/joNc4Hu9C6RtqDnej0JobtuusUN.jpg", "actors": [], "comments": [], "recommandations_id": []}

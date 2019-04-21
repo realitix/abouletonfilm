@@ -1,0 +1,1 @@
+{"tmdb_id": 212192, "title": "Broken Specs", "original_title": "Broken Specs", "slug_title": "broken-specs", "date": "2012-10-19", "genre": "Com\u00e9die / Drame", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mike MacCherone (Mike)", "Andy Eklund ()", "Mark Simmons ()", "Dan Faro ()"], "comments": [], "recommandations_id": []}

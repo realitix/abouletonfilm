@@ -1,0 +1,1 @@
+{"tmdb_id": 236429, "title": "The Chewin' Bruin", "original_title": "The Chewin' Bruin", "slug_title": "the-chewin-bruin", "date": "1940-06-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zlDdp9nulPKWNHsJUBSFfXXulMH.jpg", "actors": [], "comments": [], "recommandations_id": []}

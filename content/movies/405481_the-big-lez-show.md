@@ -1,0 +1,1 @@
+{"tmdb_id": 405481, "title": "The Big Lez Show", "original_title": "The Big Lez Show", "slug_title": "the-big-lez-show", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

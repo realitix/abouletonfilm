@@ -1,0 +1,1 @@
+{"tmdb_id": 500875, "title": "Hombres de barro", "original_title": "Hombres de barro", "slug_title": "hombres-de-barro", "date": "1988-11-17", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gAjK94WWvVnEiDOnnw6BCyawJrH.jpg", "actors": [], "comments": [], "recommandations_id": []}

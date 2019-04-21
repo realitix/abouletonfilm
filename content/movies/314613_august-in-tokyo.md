@@ -1,0 +1,1 @@
+{"tmdb_id": 314613, "title": "August in Tokyo", "original_title": "August in Tokyo", "slug_title": "august-in-tokyo", "date": "2014-10-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nVjmxdIJZb9nzHINLytMV8PZ7e3.jpg", "actors": [], "comments": [], "recommandations_id": []}

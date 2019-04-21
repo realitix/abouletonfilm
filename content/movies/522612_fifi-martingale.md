@@ -1,0 +1,1 @@
+{"tmdb_id": 522612, "title": "Fifi Martingale", "original_title": "Fifi Martingale", "slug_title": "fifi-martingale", "date": "2001-09-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jean Lefebvre (Gaston Manzanar\u00e8s)", "Lydia Feld (Fifi Flor\u00e8s)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 384323, "title": "Big Bad Bubble", "original_title": "Big Bad Bubble", "slug_title": "big-bad-bubble", "date": "2014-06-24", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zhDq4isYkaXFMRw4gJuoftfj2M.jpg", "actors": [], "comments": [], "recommandations_id": []}

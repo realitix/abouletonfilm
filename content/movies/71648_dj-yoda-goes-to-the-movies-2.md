@@ -1,0 +1,1 @@
+{"tmdb_id": 71648, "title": "DJ Yoda Goes To The Movies 2", "original_title": "DJ Yoda Goes To The Movies 2", "slug_title": "dj-yoda-goes-to-the-movies-2", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q4tC7UPnw50Bq6ee2Z9uT3jtSO8.jpg", "actors": [], "comments": [], "recommandations_id": []}

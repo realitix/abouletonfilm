@@ -1,0 +1,1 @@
+{"tmdb_id": 309800, "title": "Mem\u00f3ria Filmada de Uma Saudade Eterna", "original_title": "Mem\u00f3ria Filmada de Uma Saudade Eterna", "slug_title": "memoria-filmada-de-uma-saudade-eterna", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

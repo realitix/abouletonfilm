@@ -1,0 +1,1 @@
+{"tmdb_id": 209290, "title": "The Sandwich Nazi", "original_title": "The Sandwich Nazi", "slug_title": "the-sandwich-nazi", "date": "2012-01-01", "genre": "Documentaire / Com\u00e9die", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Salam Kahil (Himself)"], "comments": [], "recommandations_id": []}

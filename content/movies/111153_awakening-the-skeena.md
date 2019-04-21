@@ -1,0 +1,1 @@
+{"tmdb_id": 111153, "title": "Awakening The Skeena", "original_title": "Awakening The Skeena", "slug_title": "awakening-the-skeena", "date": "2010-10-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ob0a9krdUlDxP8NFlUOKw51C8yN.jpg", "actors": [], "comments": [], "recommandations_id": []}

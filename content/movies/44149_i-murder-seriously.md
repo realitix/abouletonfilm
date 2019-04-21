@@ -1,0 +1,1 @@
+{"tmdb_id": 44149, "title": "I Murder Seriously", "original_title": "Asesino en Serio", "slug_title": "i-murder-seriously", "date": "2002-05-26", "genre": "Com\u00e9die", "score": "3.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jOh05noUQvCS7F9DsNTdzX3cNOx.jpg", "actors": [], "comments": [], "recommandations_id": []}

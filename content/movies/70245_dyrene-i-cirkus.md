@@ -1,0 +1,1 @@
+{"tmdb_id": 70245, "title": "Dyrene i cirkus", "original_title": "Dyrene i cirkus", "slug_title": "dyrene-i-cirkus", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f6798xL7kndbJPEu73Pg7ECaNuh.jpg", "actors": [], "comments": [], "recommandations_id": []}

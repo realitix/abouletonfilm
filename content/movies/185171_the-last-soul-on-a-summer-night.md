@@ -1,0 +1,1 @@
+{"tmdb_id": 185171, "title": "The Last Soul on a Summer Night", "original_title": "The Last Soul on a Summer Night", "slug_title": "the-last-soul-on-a-summer-night", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

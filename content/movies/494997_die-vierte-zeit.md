@@ -1,0 +1,1 @@
+{"tmdb_id": 494997, "title": "Die vierte Zeit", "original_title": "Die vierte Zeit", "slug_title": "die-vierte-zeit", "date": "1984-04-25", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bernhard Minetti (Schauspieler)", "Ulrich Gebauer (Severin)", "Katharina Hill (Wanda)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 173170, "title": "Mumitroldene: Jul i Mumidalen", "original_title": "Mumitroldene: Jul i Mumidalen", "slug_title": "mumitroldene-jul-i-mumidalen", "date": "2008-09-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p7klrdPGghC2G0AblupNwcQPNTn.jpg", "actors": [], "comments": [], "recommandations_id": []}

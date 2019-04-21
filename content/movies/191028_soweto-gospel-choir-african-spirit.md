@@ -1,0 +1,1 @@
+{"tmdb_id": 191028, "title": "Soweto Gospel Choir: African Spirit", "original_title": "Soweto Gospel Choir: African Spirit", "slug_title": "soweto-gospel-choir-african-spirit", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

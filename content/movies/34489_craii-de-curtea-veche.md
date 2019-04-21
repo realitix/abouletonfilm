@@ -1,0 +1,1 @@
+{"tmdb_id": 34489, "title": "Craii de Curtea Veche", "original_title": "Craii de Curtea Veche", "slug_title": "craii-de-curtea-veche", "date": "1995-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2WLUlpbTdEG0hyHOFx8e5uDmZR5.jpg", "actors": [], "comments": [], "recommandations_id": []}

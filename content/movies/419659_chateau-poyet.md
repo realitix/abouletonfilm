@@ -1,0 +1,1 @@
+{"tmdb_id": 419659, "title": "Chateau/Poyet", "original_title": "Chateau/Poyet", "slug_title": "chateau-poyet", "date": "2004-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uItLi6Vx7w4cy9Jx4TvXwQ0dhDY.jpg", "actors": [], "comments": [], "recommandations_id": []}

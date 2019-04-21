@@ -1,0 +1,1 @@
+{"tmdb_id": 114423, "title": "Canal Zone", "original_title": "Canal Zone", "slug_title": "canal-zone", "date": "1977-06-13", "genre": "Documentaire", "score": "7.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yv5hjvWJlHp2zA4ooIsZUSgEVzu.jpg", "actors": [], "comments": [], "recommandations_id": []}

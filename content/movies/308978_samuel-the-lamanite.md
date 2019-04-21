@@ -1,0 +1,1 @@
+{"tmdb_id": 308978, "title": "Samuel the Lamanite", "original_title": "Samuel the Lamanite", "slug_title": "samuel-the-lamanite", "date": "2006-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ravImkEH6Jdxx4xKQKJpdcefzvS.jpg", "actors": [], "comments": [], "recommandations_id": []}

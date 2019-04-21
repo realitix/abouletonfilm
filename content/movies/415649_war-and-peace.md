@@ -1,0 +1,1 @@
+{"tmdb_id": 415649, "title": "War and Peace", "original_title": "Voyna i mir", "slug_title": "war-and-peace", "date": "1915-02-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

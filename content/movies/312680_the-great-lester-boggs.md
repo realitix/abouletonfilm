@@ -1,0 +1,1 @@
+{"tmdb_id": 312680, "title": "The Great Lester Boggs", "original_title": "The Great Lester Boggs", "slug_title": "the-great-lester-boggs", "date": "1974-09-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

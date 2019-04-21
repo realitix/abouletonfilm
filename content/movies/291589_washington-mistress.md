@@ -1,0 +1,1 @@
+{"tmdb_id": 291589, "title": "Washington Mistress", "original_title": "Washington Mistress", "slug_title": "washington-mistress", "date": "1982-01-13", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bWywhdick7de6YcYFA2pjFVlxUw.jpg", "actors": [], "comments": [], "recommandations_id": []}

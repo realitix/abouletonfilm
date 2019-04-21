@@ -1,0 +1,1 @@
+{"tmdb_id": 503053, "title": "New York: The Center of the World", "original_title": "New York: The Center of the World", "slug_title": "new-york-the-center-of-the-world", "date": "2003-09-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

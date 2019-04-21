@@ -1,0 +1,1 @@
+{"tmdb_id": 393276, "title": "Arshinagar", "original_title": "Arshinagar", "slug_title": "arshinagar", "date": "2015-12-25", "genre": "", "score": "3.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uIEx18OXELjvftvX3vf5Av5wGUs.jpg", "actors": ["Roopa Ganguly ()"], "comments": [], "recommandations_id": []}

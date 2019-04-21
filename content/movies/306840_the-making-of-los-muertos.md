@@ -1,0 +1,1 @@
+{"tmdb_id": 306840, "title": "The making of Los Muertos", "original_title": "C\u00f3mo se hizo 'Los muertos'", "slug_title": "the-making-of-los-muertos", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/axqgbmmzzB5EkwLYqcK5yPbJJh1.jpg", "actors": [], "comments": [], "recommandations_id": []}

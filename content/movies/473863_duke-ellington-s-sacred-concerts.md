@@ -1,0 +1,1 @@
+{"tmdb_id": 473863, "title": "Duke Ellington's Sacred Concerts", "original_title": "Duke Ellington's Sacred Concerts", "slug_title": "duke-ellington-s-sacred-concerts", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oCOa2zG0xYGZKRkae8uta4DnbTS.jpg", "actors": [], "comments": [], "recommandations_id": []}

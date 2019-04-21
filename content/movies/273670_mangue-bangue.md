@@ -1,0 +1,1 @@
+{"tmdb_id": 273670, "title": "Mangue-Bangue", "original_title": "Mangue-Bangue", "slug_title": "mangue-bangue", "date": "1971-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5kKrmo9Opqm3IuELdC1DzjOfwW9.jpg", "actors": ["Paulo Villa\u00e7a ()", "Maria Gladys ()"], "comments": [], "recommandations_id": []}

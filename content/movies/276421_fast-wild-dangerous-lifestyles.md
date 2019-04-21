@@ -1,0 +1,1 @@
+{"tmdb_id": 276421, "title": "Fast & Wild: Dangerous Lifestyles", "original_title": "Fast & Wild: Dangerous Lifestyles", "slug_title": "fast-wild-dangerous-lifestyles", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

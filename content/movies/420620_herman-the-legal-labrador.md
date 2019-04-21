@@ -1,0 +1,1 @@
+{"tmdb_id": 420620, "title": "Herman, The Legal Labrador", "original_title": "Herman, The Legal Labrador", "slug_title": "herman-the-legal-labrador", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 238447, "title": "Holidays", "original_title": "\u041a\u0430\u043d\u0438\u043a\u0443\u043b\u044b", "slug_title": "holidays", "date": "2006-06-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

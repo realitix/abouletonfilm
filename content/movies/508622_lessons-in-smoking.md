@@ -1,0 +1,1 @@
+{"tmdb_id": 508622, "title": "Lessons in Smoking", "original_title": "Lessons in Smoking", "slug_title": "lessons-in-smoking", "date": "2002-03-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fdan7IVrCePFZks9BVIWVfDp0VC.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 312540, "title": "Dorothy Dandridge: Singing at Her Best", "original_title": "Dorothy Dandridge: Singing at Her Best", "slug_title": "dorothy-dandridge-singing-at-her-best", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

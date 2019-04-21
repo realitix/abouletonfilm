@@ -1,0 +1,1 @@
+{"tmdb_id": 349962, "title": "\uae40\ub450\ud55c\ud615 \uc2dc\ub77c\uc18c\ub2c8\ud615", "original_title": "\uae40\ub450\ud55c\ud615 \uc2dc\ub77c\uc18c\ub2c8\ud615", "slug_title": "gimduhanhyeong-sirasonihyeong", "date": "1981-09-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

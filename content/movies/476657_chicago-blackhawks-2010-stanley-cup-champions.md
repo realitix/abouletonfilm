@@ -1,0 +1,1 @@
+{"tmdb_id": 476657, "title": "Chicago Blackhawks 2010 Stanley Cup Champions", "original_title": "Chicago Blackhawks 2010 Stanley Cup Champions", "slug_title": "chicago-blackhawks-2010-stanley-cup-champions", "date": "2010-07-20", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

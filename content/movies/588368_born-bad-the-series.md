@@ -1,0 +1,1 @@
+{"tmdb_id": 588368, "title": "Born Bad The Series", "original_title": "Born Bad The Series", "slug_title": "born-bad-the-series", "date": "", "genre": "Action / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w2KL7z0NvzaBWfpp5XKohSLGL42.jpg", "actors": [], "comments": [], "recommandations_id": []}

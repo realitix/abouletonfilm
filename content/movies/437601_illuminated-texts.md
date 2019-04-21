@@ -1,0 +1,1 @@
+{"tmdb_id": 437601, "title": "Illuminated Texts", "original_title": "Illuminated Texts", "slug_title": "illuminated-texts", "date": "1982-01-27", "genre": "Documentaire", "score": "8.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w6v7vFV3kquHoJh1M8ONlCc054o.jpg", "actors": [], "comments": [], "recommandations_id": [403696]}

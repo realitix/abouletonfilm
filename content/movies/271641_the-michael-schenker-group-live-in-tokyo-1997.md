@@ -1,0 +1,1 @@
+{"tmdb_id": 271641, "title": "The Michael Schenker Group: Live in Tokyo 1997", "original_title": "The Michael Schenker Group: Live in Tokyo 1997", "slug_title": "the-michael-schenker-group-live-in-tokyo-1997", "date": "1997-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

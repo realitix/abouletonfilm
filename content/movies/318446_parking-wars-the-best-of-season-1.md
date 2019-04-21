@@ -1,0 +1,1 @@
+{"tmdb_id": 318446, "title": "Parking Wars: The Best of Season 1", "original_title": "Parking Wars: The Best of Season 1", "slug_title": "parking-wars-the-best-of-season-1", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

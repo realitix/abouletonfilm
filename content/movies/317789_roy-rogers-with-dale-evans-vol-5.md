@@ -1,0 +1,1 @@
+{"tmdb_id": 317789, "title": "Roy Rogers with Dale Evans: Vol. 5", "original_title": "Roy Rogers with Dale Evans: Vol. 5", "slug_title": "roy-rogers-with-dale-evans-vol-5", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

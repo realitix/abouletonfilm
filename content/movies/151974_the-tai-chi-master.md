@@ -1,0 +1,1 @@
+{"tmdb_id": 151974, "title": "The Tai Chi Master", "original_title": "\u592a\u6975\u5b97\u5e2b", "slug_title": "the-tai-chi-master", "date": "2003-09-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fK1pTyGlv1OfwuPNUo7tnTNvZ9q.jpg", "actors": ["Wu Jing (Yang)", "Amy Fan ()"], "comments": [], "recommandations_id": []}

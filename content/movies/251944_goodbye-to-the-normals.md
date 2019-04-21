@@ -1,0 +1,1 @@
+{"tmdb_id": 251944, "title": "Goodbye to the Normals", "original_title": "Goodbye to the Normals", "slug_title": "goodbye-to-the-normals", "date": "2006-10-16", "genre": "Com\u00e9die", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jim Field Smith (Director)", "George Kay (Writer)"], "comments": [], "recommandations_id": []}

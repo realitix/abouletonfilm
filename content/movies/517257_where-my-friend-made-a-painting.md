@@ -1,0 +1,1 @@
+{"tmdb_id": 517257, "title": "Where My Friend Made A Painting", "original_title": "Onde O Meu Amigo Pintou Um Quadro", "slug_title": "where-my-friend-made-a-painting", "date": "2014-04-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Afonso Matias ()"], "comments": [], "recommandations_id": []}

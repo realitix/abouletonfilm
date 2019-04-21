@@ -1,0 +1,1 @@
+{"tmdb_id": 250290, "title": "Where are you Bucharest?", "original_title": "Bucure\u0219ti, unde e\u0219ti?", "slug_title": "where-are-you-bucharest", "date": "2014-01-24", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sxEp2PsLuF8r9pN5n4DS8BBRroJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

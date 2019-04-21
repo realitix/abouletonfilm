@@ -1,0 +1,1 @@
+{"tmdb_id": 274106, "title": "Josef Mengele, el \u00e1ngel de la muerte", "original_title": "Josef Mengele, el \u00e1ngel de la muerte", "slug_title": "josef-mengele-el-angel-de-la-muerte", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

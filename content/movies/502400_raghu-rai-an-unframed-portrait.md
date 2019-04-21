@@ -1,0 +1,1 @@
+{"tmdb_id": 502400, "title": "Raghu Rai: An Unframed Portrait", "original_title": "Raghu Rai: An Unframed Portrait", "slug_title": "raghu-rai-an-unframed-portrait", "date": "2018-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5DP7PCmpSh5nHCJPa7NCCjUYYbr.jpg", "actors": [], "comments": [], "recommandations_id": []}

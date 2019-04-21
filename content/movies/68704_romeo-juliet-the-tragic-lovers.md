@@ -1,0 +1,1 @@
+{"tmdb_id": 68704, "title": "Romeo & Juliet: The Tragic Lovers", "original_title": "Romeo & Juliet: The Tragic Lovers", "slug_title": "romeo-juliet-the-tragic-lovers", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

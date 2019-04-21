@@ -1,0 +1,1 @@
+{"tmdb_id": 127616, "title": "Jay-Z Live at Hackney", "original_title": "Jay-Z Live at Hackney", "slug_title": "jay-z-live-at-hackney", "date": "2012-06-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bfBWdemFO2ZFbrB4lTS1XGL5y1O.jpg", "actors": [], "comments": [], "recommandations_id": []}

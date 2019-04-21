@@ -1,0 +1,1 @@
+{"tmdb_id": 449970, "title": "Group VIII: Hidden Tracings/Exposed Fragrances", "original_title": "Group VIII: Hidden Tracings/Exposed Fragrances", "slug_title": "group-viii-hidden-tracings-exposed-fragrances", "date": "1980-03-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

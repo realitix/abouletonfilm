@@ -1,0 +1,1 @@
+{"tmdb_id": 382859, "title": "Sex, Lies and Terminators", "original_title": "Sex, Lies and Terminators", "slug_title": "sex-lies-and-terminators", "date": "2015-11-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ebmagDsqRKBOJn5mKpkeC13ZtnZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

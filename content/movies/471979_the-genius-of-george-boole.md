@@ -1,0 +1,1 @@
+{"tmdb_id": 471979, "title": "The Genius of George Boole", "original_title": "The Genius of George Boole", "slug_title": "the-genius-of-george-boole", "date": "2015-11-27", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yNlL4LFWM3BNARKvd1wFqrHvfgu.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 468153, "title": "The Mystical Rose", "original_title": "The Mystical Rose", "slug_title": "the-mystical-rose", "date": "1976-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

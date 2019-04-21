@@ -1,0 +1,1 @@
+{"tmdb_id": 491192, "title": "Bandhan", "original_title": "Bandhan", "slug_title": "bandhan", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ramesh Bhatkar ()", "Ajinkya Deo ()", "Asha Kale ()", "Vasant Shinde ()", "Nishigandha Wad ()"], "comments": [], "recommandations_id": []}

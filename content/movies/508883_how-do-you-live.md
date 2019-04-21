@@ -1,0 +1,1 @@
+{"tmdb_id": 508883, "title": "How Do You Live?", "original_title": "\u304d\u307f\u305f\u3061\u306f\u3069\u3046\u3044\u304d\u308b\u304b", "slug_title": "how-do-you-live", "date": "", "genre": "Animation / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

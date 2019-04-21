@@ -1,0 +1,1 @@
+{"tmdb_id": 533071, "title": "The Thing: 27,000 Hours", "original_title": "The Thing: 27,000 Hours", "slug_title": "the-thing-27000-hours", "date": "2011-08-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Daniel Brocklebank (Skinner)", "Billy Clarke (Glass)", "Jack Gordon (Weeks)"], "comments": [], "recommandations_id": []}

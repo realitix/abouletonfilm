@@ -1,0 +1,1 @@
+{"tmdb_id": 539294, "title": "Le clown Bux", "original_title": "Le clown Bux", "slug_title": "le-clown-bux", "date": "1935-03-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6Rdxtud3ZFUXeSOUKDQ3jSPSG7d.jpg", "actors": [], "comments": [], "recommandations_id": []}

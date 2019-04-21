@@ -1,0 +1,1 @@
+{"tmdb_id": 503769, "title": "Spell of Evil", "original_title": "Spell of Evil", "slug_title": "spell-of-evil", "date": "1973-06-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

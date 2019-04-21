@@ -1,0 +1,1 @@
+{"tmdb_id": 321930, "title": "Living Warbirds: Steel Warriors", "original_title": "Living Warbirds: Steel Warriors", "slug_title": "living-warbirds-steel-warriors", "date": "2009-07-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

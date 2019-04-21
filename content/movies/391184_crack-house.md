@@ -1,0 +1,1 @@
+{"tmdb_id": 391184, "title": "Crack House", "original_title": "Crack House", "slug_title": "crack-house", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

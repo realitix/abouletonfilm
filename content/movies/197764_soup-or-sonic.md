@@ -1,0 +1,1 @@
+{"tmdb_id": 197764, "title": "Soup or Sonic", "original_title": "Soup or Sonic", "slug_title": "soup-or-sonic", "date": "1980-05-27", "genre": "", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g3f6baLg2n27gqhKLSbL8H1zZza.jpg", "actors": [], "comments": [], "recommandations_id": [234981, 102168, 234762, 234785]}

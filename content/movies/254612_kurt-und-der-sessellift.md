@@ -1,0 +1,1 @@
+{"tmdb_id": 254612, "title": "Kurt und der Sessellift", "original_title": "Kurt und der Sessellift", "slug_title": "kurt-und-der-sessellift", "date": "2012-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cBpJZGGtg4jX8K4BeAK4uLuYWU4.jpg", "actors": [], "comments": [], "recommandations_id": []}

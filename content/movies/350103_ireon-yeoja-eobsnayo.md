@@ -1,0 +1,1 @@
+{"tmdb_id": 350103, "title": "\uc774\ub7f0 \uc5ec\uc790 \uc5c6\ub098\uc694", "original_title": "\uc774\ub7f0 \uc5ec\uc790 \uc5c6\ub098\uc694", "slug_title": "ireon-yeoja-eobsnayo", "date": "1981-11-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

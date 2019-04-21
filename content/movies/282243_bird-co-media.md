@@ -1,0 +1,1 @@
+{"tmdb_id": 282243, "title": "Bird Co. Media", "original_title": "Bird Co. Media", "slug_title": "bird-co-media", "date": "2014-07-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rMSXQ5TliwdoCFieBDTIopqAAKd.jpg", "actors": [], "comments": [], "recommandations_id": []}

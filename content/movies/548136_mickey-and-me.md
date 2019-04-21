@@ -1,0 +1,1 @@
+{"tmdb_id": 548136, "title": "Mickey and Me", "original_title": "Mickey and Me", "slug_title": "mickey-and-me", "date": "2012-08-25", "genre": "Com\u00e9die / Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rebecca Cox (Sarena)"], "comments": [], "recommandations_id": []}

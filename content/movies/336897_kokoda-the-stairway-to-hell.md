@@ -1,0 +1,1 @@
+{"tmdb_id": 336897, "title": "Kokoda The Stairway To Hell", "original_title": "Kokoda The Stairway To Hell", "slug_title": "kokoda-the-stairway-to-hell", "date": "1993-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mSNFpVJXGLk6SRbSakEq4xb6hs6.jpg", "actors": [], "comments": [], "recommandations_id": []}

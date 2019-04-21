@@ -1,0 +1,1 @@
+{"tmdb_id": 244861, "title": "The Dutch Master", "original_title": "The Dutch Master", "slug_title": "the-dutch-master", "date": "1993-09-01", "genre": "", "score": "2.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/puLd1RHsimdzekYV29yhR8wEAoy.jpg", "actors": ["Mira Sorvino ()"], "comments": [], "recommandations_id": []}

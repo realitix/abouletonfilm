@@ -1,0 +1,1 @@
+{"tmdb_id": 447123, "title": "Filmmaking and the Way to the Village", "original_title": "Eiga-zukuri to mura e no michi", "slug_title": "filmmaking-and-the-way-to-the-village", "date": "1973-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 166875, "title": "The 7th Day of Creation", "original_title": "I 7i imera tis dimiourgias", "slug_title": "the-7th-day-of-creation", "date": "1966-02-08", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f2U70cDutL07ZvJoHHI29fjNzkO.jpg", "actors": [], "comments": [], "recommandations_id": []}

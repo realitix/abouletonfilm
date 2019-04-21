@@ -1,0 +1,1 @@
+{"tmdb_id": 397713, "title": "Colapso", "original_title": "Colapso", "slug_title": "colapso", "date": "2016-03-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d834SbMVn3geQpzkrk2o10jaxX8.jpg", "actors": ["Aidy Yanick ()", "Edmoud Morales Tirado ()"], "comments": [], "recommandations_id": []}

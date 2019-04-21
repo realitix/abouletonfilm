@@ -1,0 +1,1 @@
+{"tmdb_id": 499510, "title": "A warfare on Gobian street", "original_title": "A warfare on Gobian street", "slug_title": "a-warfare-on-gobian-street", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mohamed Walid (Guy #1)", "Abdulrahman Ibrahim (Guy #2)"], "comments": [], "recommandations_id": []}

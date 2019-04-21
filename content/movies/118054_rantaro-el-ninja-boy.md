@@ -1,0 +1,1 @@
+{"tmdb_id": 118054, "title": "Rantar\u00f3, el Ninja Boy", "original_title": "Rantar\u00f3, el Ninja Boy", "slug_title": "rantaro-el-ninja-boy", "date": "1993-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cftgeH4Abhqh5vjXF2YCb3SRWGa.jpg", "actors": [], "comments": [], "recommandations_id": []}

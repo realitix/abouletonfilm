@@ -1,0 +1,1 @@
+{"tmdb_id": 283090, "title": "Obsession", "original_title": "\u75af\u72c2\u7684\u4ee3\u4ef7", "slug_title": "obsession", "date": "1989-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7u049R8E85tz8d7P8MFLGo7BcFq.jpg", "actors": ["Yujuan Wu ()", "Jing Li ()", "Yuan Xie ()"], "comments": [], "recommandations_id": []}

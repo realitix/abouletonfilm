@@ -1,0 +1,1 @@
+{"tmdb_id": 393387, "title": "Interlude", "original_title": "Interlude", "slug_title": "interlude", "date": "2015-09-17", "genre": "Science-Fiction", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dW5qb4LeVbuQeZ6mHJbvnY8gGzX.jpg", "actors": [], "comments": [], "recommandations_id": []}

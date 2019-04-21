@@ -1,0 +1,1 @@
+{"tmdb_id": 540143, "title": "Georges et Georgette", "original_title": "Georges et Georgette", "slug_title": "georges-et-georgette", "date": "1934-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

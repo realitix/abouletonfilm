@@ -1,0 +1,1 @@
+{"tmdb_id": 320394, "title": "Mexico: Dr. Merry's Nomad Travel", "original_title": "Mexico: Dr. Merry's Nomad Travel", "slug_title": "mexico-dr-merry-s-nomad-travel", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

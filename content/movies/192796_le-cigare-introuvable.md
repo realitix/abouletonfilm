@@ -1,0 +1,1 @@
+{"tmdb_id": 192796, "title": "Le cigare introuvable", "original_title": "Le cigare introuvable", "slug_title": "le-cigare-introuvable", "date": "1897-01-01", "genre": "Com\u00e9die", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

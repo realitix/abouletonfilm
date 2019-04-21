@@ -1,0 +1,1 @@
+{"tmdb_id": 142832, "title": "Stylemasters 2", "original_title": "Stylemasters 2", "slug_title": "stylemasters-2", "date": "2009-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

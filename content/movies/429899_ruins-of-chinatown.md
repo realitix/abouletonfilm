@@ -1,0 +1,1 @@
+{"tmdb_id": 429899, "title": "Ruins of Chinatown", "original_title": "Ruins of Chinatown", "slug_title": "ruins-of-chinatown", "date": "1906-06-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

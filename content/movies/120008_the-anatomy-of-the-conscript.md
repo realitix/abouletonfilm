@@ -1,0 +1,1 @@
+{"tmdb_id": 120008, "title": "The Anatomy of the Conscript", "original_title": "Polin, l'anatomie du conscrit", "slug_title": "the-anatomy-of-the-conscript", "date": "1905-01-01", "genre": "", "score": "5.7/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [120012, 119980, 120010, 119988]}

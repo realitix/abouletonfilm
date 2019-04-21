@@ -1,0 +1,1 @@
+{"tmdb_id": 147719, "title": "The Wall", "original_title": "Zid", "slug_title": "the-wall", "date": "1965-12-31", "genre": "Animation / Com\u00e9die", "score": "6.4/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4yj7ubWRwk9DwDpB5qVXRYesF8v.jpg", "actors": [], "comments": [], "recommandations_id": [183913, 251483, 157109, 166707]}

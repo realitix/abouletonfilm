@@ -1,0 +1,1 @@
+{"tmdb_id": 452854, "title": "Park Shanghai", "original_title": "Park Shanghai", "slug_title": "park-shanghai", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 431960, "title": "Virtual Drug Flash + Zone", "original_title": "Virtual Drug Flash + Zone", "slug_title": "virtual-drug-flash-zone", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wLwOUhFloLo8Rbrl8TEgv2mAwz6.jpg", "actors": [], "comments": [], "recommandations_id": []}

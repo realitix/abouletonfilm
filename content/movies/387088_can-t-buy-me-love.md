@@ -1,0 +1,1 @@
+{"tmdb_id": 387088, "title": "Can't Buy Me Love", "original_title": "Can't Buy Me Love", "slug_title": "can-t-buy-me-love", "date": "2004-12-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Martin Kemp (Alan Harris)", "Michelle Collins (Donna Harris)"], "comments": [], "recommandations_id": []}

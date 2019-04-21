@@ -1,0 +1,1 @@
+{"tmdb_id": 243213, "title": "A Good Clay to Die Hard", "original_title": "A Good Clay to Die Hard", "slug_title": "a-good-clay-to-die-hard", "date": "2013-02-08", "genre": "Animation", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/99qxxzvJhbXT12tSD0BUarfvv2r.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 47835, "title": "Fishes in August", "original_title": "Mizu no naka no hachigatsu", "slug_title": "fishes-in-august", "date": "1998-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ayumi Ito ()", "Kenji Mizuhashi ()", "Ren Osugi ()", "Yoshiko Sekino ()"], "comments": [], "recommandations_id": []}

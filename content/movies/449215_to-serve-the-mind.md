@@ -1,0 +1,1 @@
+{"tmdb_id": 449215, "title": "To Serve the Mind", "original_title": "To Serve the Mind", "slug_title": "to-serve-the-mind", "date": "1955-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pmbxJiYZYHZm350y4DkqAIjeXrP.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 318486, "title": "Remaking American Medicine", "original_title": "Remaking American Medicine", "slug_title": "remaking-american-medicine", "date": "2006-11-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

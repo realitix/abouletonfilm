@@ -1,0 +1,1 @@
+{"tmdb_id": 252816, "title": "Scrappy's Art Gallery", "original_title": "Scrappy's Art Gallery", "slug_title": "scrappy-s-art-gallery", "date": "1934-01-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

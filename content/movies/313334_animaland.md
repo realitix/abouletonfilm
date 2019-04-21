@@ -1,0 +1,1 @@
+{"tmdb_id": 313334, "title": "Animaland", "original_title": "Animaland", "slug_title": "animaland", "date": "1997-05-15", "genre": "Familial / Animation", "score": "7.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wzd7AU6TkuUSfsBUUQetjw1mCxj.jpg", "actors": [], "comments": [], "recommandations_id": [154023, 503354, 55357, 145921]}

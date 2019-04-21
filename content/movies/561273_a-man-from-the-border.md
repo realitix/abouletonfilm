@@ -1,0 +1,1 @@
+{"tmdb_id": 561273, "title": "A Man from the Border", "original_title": "Tkanje pogledov - Jo\u017ee Dolmark", "slug_title": "a-man-from-the-border", "date": "2017-11-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3kup1dH6NaUsYAWJqDGQ2o6dDpL.jpg", "actors": [], "comments": [], "recommandations_id": []}

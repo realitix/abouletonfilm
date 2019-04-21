@@ -1,0 +1,1 @@
+{"tmdb_id": 16349, "title": "Fullpackat!", "original_title": "Fullpackat!", "slug_title": "fullpackat", "date": "2008-07-09", "genre": "Com\u00e9die", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gpQpEgUNrzeraHY6y2MDMmothnI.jpg", "actors": ["Robert Gustafsson (All Characters)"], "comments": [], "recommandations_id": []}

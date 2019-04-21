@@ -1,0 +1,1 @@
+{"tmdb_id": 372216, "title": "CABEZAS DE CERA - CDC LIVE USA", "original_title": "CABEZAS DE CERA - CDC LIVE USA", "slug_title": "cabezas-de-cera-cdc-live-usa", "date": "2010-12-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/weZ5lJLMAxz0cABX2OnNA1jDNAc.jpg", "actors": [], "comments": [], "recommandations_id": []}

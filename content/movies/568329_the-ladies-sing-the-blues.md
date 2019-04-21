@@ -1,0 +1,1 @@
+{"tmdb_id": 568329, "title": "The Ladies Sing The Blues", "original_title": "The Ladies Sing The Blues", "slug_title": "the-ladies-sing-the-blues", "date": "2001-10-31", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ir1hC9BgN6hkDX0TR2pxptvUtH5.jpg", "actors": [], "comments": [], "recommandations_id": []}

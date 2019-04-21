@@ -1,0 +1,1 @@
+{"tmdb_id": 497043, "title": "Quand on aime la vie on va au cin\u00e9ma", "original_title": "Quand on aime la vie on va au cin\u00e9ma", "slug_title": "quand-on-aime-la-vie-on-va-au-cinema", "date": "1975-05-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

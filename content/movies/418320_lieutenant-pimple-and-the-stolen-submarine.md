@@ -1,0 +1,1 @@
+{"tmdb_id": 418320, "title": "Lieutenant Pimple and the Stolen Submarine", "original_title": "Lieutenant Pimple and the Stolen Submarine", "slug_title": "lieutenant-pimple-and-the-stolen-submarine", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

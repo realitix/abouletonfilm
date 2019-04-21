@@ -1,0 +1,1 @@
+{"tmdb_id": 142084, "title": "Hiroshima", "original_title": "Hiroshima", "slug_title": "hiroshima", "date": "2009-09-15", "genre": "Musique", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rnZlXisjmi59yY3qOZsrvmr7gdC.jpg", "actors": [], "comments": [], "recommandations_id": []}

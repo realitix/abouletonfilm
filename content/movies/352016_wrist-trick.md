@@ -1,0 +1,1 @@
+{"tmdb_id": 352016, "title": "Wrist Trick", "original_title": "Wrist Trick", "slug_title": "wrist-trick", "date": "1965-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vR4fw9PrxoYzOD5hnk4EUFVg2mz.jpg", "actors": [], "comments": [], "recommandations_id": []}

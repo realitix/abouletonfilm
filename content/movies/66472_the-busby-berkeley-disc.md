@@ -1,0 +1,1 @@
+{"tmdb_id": 66472, "title": "The Busby Berkeley Disc", "original_title": "The Busby Berkeley Disc", "slug_title": "the-busby-berkeley-disc", "date": "1992-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/km2ddUTa9VwliiIjvHECMT5s11W.jpg", "actors": [], "comments": [], "recommandations_id": []}

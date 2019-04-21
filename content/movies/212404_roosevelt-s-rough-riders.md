@@ -1,0 +1,1 @@
+{"tmdb_id": 212404, "title": "Roosevelt's Rough Riders", "original_title": "Roosevelt's Rough Riders", "slug_title": "roosevelt-s-rough-riders", "date": "1898-07-05", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 570795, "title": "The Story of Cholera", "original_title": "The Story of Cholera", "slug_title": "the-story-of-cholera", "date": "", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

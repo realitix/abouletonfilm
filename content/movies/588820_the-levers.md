@@ -1,0 +1,1 @@
+{"tmdb_id": 588820, "title": "The Levers", "original_title": "The Levers", "slug_title": "the-levers", "date": "2018-12-31", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

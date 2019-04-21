@@ -1,0 +1,1 @@
+{"tmdb_id": 302656, "title": "Multi Murders", "original_title": "Multi Murders", "slug_title": "multi-murders", "date": "2004-12-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

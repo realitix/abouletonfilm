@@ -1,0 +1,1 @@
+{"tmdb_id": 281572, "title": "European Surf Journal", "original_title": "European Surf Journal", "slug_title": "european-surf-journal", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

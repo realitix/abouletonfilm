@@ -1,0 +1,1 @@
+{"tmdb_id": 414211, "title": "Black Ops", "original_title": "Black Ops", "slug_title": "black-ops", "date": "", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

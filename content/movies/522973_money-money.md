@@ -1,0 +1,1 @@
+{"tmdb_id": 522973, "title": "Money-Money", "original_title": "Money-Money", "slug_title": "money-money", "date": "1969-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fvuxvAX7w0eTgBBym2k35nWlqJi.jpg", "actors": [], "comments": [], "recommandations_id": []}

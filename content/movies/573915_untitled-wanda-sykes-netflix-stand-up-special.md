@@ -1,0 +1,1 @@
+{"tmdb_id": 573915, "title": "Untitled Wanda Sykes Netflix Stand-Up Special", "original_title": "Untitled Wanda Sykes Netflix Stand-Up Special", "slug_title": "untitled-wanda-sykes-netflix-stand-up-special", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Wanda Sykes (Herself)"], "comments": [], "recommandations_id": []}

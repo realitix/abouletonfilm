@@ -1,0 +1,1 @@
+{"tmdb_id": 528200, "title": "Panoptikum", "original_title": "Panoptikum", "slug_title": "panoptikum", "date": "1958-03-30", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Friedl Czepa ()", "Alexander Kerst ()", "Fritz R\u00e9mond Jr. ()"], "comments": [], "recommandations_id": []}

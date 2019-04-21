@@ -1,0 +1,1 @@
+{"tmdb_id": 379221, "title": "Prehistoric Pink", "original_title": "Prehistoric Pink", "slug_title": "prehistoric-pink", "date": "1968-08-07", "genre": "Animation", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sYL9KIlAix4qFEB2rYVeOraQrjM.jpg", "actors": [], "comments": [], "recommandations_id": []}

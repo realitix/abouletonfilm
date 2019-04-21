@@ -1,0 +1,1 @@
+{"tmdb_id": 487413, "title": "Wall Street", "original_title": "Wall Street", "slug_title": "wall-street", "date": "1980-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

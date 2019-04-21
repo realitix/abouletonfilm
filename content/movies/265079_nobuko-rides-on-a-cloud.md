@@ -1,0 +1,1 @@
+{"tmdb_id": 265079, "title": "Nobuko Rides on a Cloud", "original_title": "Nobuko Rides on a Cloud", "slug_title": "nobuko-rides-on-a-cloud", "date": "", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

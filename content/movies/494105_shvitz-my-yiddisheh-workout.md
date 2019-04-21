@@ -1,0 +1,1 @@
+{"tmdb_id": 494105, "title": "SHVITZ! My Yiddisheh Workout", "original_title": "SHVITZ! My Yiddisheh Workout", "slug_title": "shvitz-my-yiddisheh-workout", "date": "1996-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fEglOEAnRwS21MpQINl4OicryWm.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 142026, "title": "The Dancing Pig", "original_title": "Le Cochon Danseur", "slug_title": "the-dancing-pig", "date": "1907-08-10", "genre": "Com\u00e9die", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aiXohllbAJNiYUcusfh4kBmqFtZ.jpg", "actors": [], "comments": [], "recommandations_id": [189570, 49281, 195958, 196394]}

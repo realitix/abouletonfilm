@@ -1,0 +1,1 @@
+{"tmdb_id": 251530, "title": "The Plug Lady", "original_title": "The Plug Lady", "slug_title": "the-plug-lady", "date": "2004-12-14", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/om43jjjG6zjiy6QmAwD4vp2DEwJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

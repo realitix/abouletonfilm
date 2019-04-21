@@ -1,0 +1,1 @@
+{"tmdb_id": 293638, "title": "Dariela los martes", "original_title": "Dariela los martes", "slug_title": "dariela-los-martes", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aiQ5ucYPuibEYTNo8f0iPTu3v8O.jpg", "actors": ["Mauricio T. Valle ()", "Paola Nu\u00f1ez ()"], "comments": [], "recommandations_id": []}

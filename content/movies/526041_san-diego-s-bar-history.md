@@ -1,0 +1,1 @@
+{"tmdb_id": 526041, "title": "San Diego's Bar History", "original_title": "San Diego's Bar History", "slug_title": "san-diego-s-bar-history", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6H4UdgN3hs3cxWSgAJvWxgby43I.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 587998, "title": "Barbara Dickson - Into the Light", "original_title": "Barbara Dickson - Into the Light", "slug_title": "barbara-dickson-into-the-light", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qFFpprVEu7CPeQwZzoJhsuSiRy6.jpg", "actors": [], "comments": [], "recommandations_id": []}

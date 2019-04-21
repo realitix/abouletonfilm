@@ -1,0 +1,1 @@
+{"tmdb_id": 223574, "title": "Tent City, U.S.A", "original_title": "Tent City, U.S.A", "slug_title": "tent-city-u-s-a", "date": "2012-04-05", "genre": "Documentaire", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1oUrBIN15gJRirVtlO4tqAVuWMn.jpg", "actors": [], "comments": [], "recommandations_id": []}

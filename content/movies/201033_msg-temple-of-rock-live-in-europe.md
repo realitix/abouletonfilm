@@ -1,0 +1,1 @@
+{"tmdb_id": 201033, "title": "MSG: Temple of Rock Live in Europe", "original_title": "MSG: Temple of Rock Live in Europe", "slug_title": "msg-temple-of-rock-live-in-europe", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

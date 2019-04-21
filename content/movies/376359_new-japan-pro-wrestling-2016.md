@@ -1,0 +1,1 @@
+{"tmdb_id": 376359, "title": "New Japan Pro Wrestling 2016", "original_title": "New Japan Pro Wrestling 2016", "slug_title": "new-japan-pro-wrestling-2016", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u68U7DLTFXsfypSnaiRD0ckTmzE.jpg", "actors": [], "comments": [], "recommandations_id": []}

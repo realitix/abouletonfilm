@@ -1,0 +1,1 @@
+{"tmdb_id": 415920, "title": "Hotel Roccalba", "original_title": "Hotel Roccalba", "slug_title": "hotel-roccalba", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

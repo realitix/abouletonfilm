@@ -1,0 +1,1 @@
+{"tmdb_id": 570790, "title": "The One Man Beatles", "original_title": "The One Man Beatles", "slug_title": "the-one-man-beatles", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

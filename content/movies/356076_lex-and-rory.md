@@ -1,0 +1,1 @@
+{"tmdb_id": 356076, "title": "Lex and Rory", "original_title": "Lex and Rory", "slug_title": "lex-and-rory", "date": "1994-05-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

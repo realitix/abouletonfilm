@@ -1,0 +1,1 @@
+{"tmdb_id": 518894, "title": "Trane Tracks: The Legacy of John Coltrane", "original_title": "Trane Tracks: The Legacy of John Coltrane", "slug_title": "trane-tracks-the-legacy-of-john-coltrane", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

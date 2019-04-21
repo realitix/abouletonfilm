@@ -1,0 +1,1 @@
+{"tmdb_id": 586418, "title": "L\u00e9onard est un g\u00e9nie", "original_title": "L\u00e9onard est un g\u00e9nie", "slug_title": "leonard-est-un-genie", "date": "", "genre": "", "score": "0.0/10", "synopsis": "L\u00e9onard est un g\u00e9nie", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

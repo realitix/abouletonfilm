@@ -1,0 +1,1 @@
+{"tmdb_id": 580607, "title": "Eulogy for the Dead Sea", "original_title": "Eulogy for the Dead Sea", "slug_title": "eulogy-for-the-dead-sea", "date": "2018-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/13muNUtu6tP1OUSLMHiyst1zyzb.jpg", "actors": [], "comments": [], "recommandations_id": []}

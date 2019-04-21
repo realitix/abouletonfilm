@@ -1,0 +1,1 @@
+{"tmdb_id": 237099, "title": "Safari So Good", "original_title": "Safari So Good", "slug_title": "safari-so-good", "date": "1947-11-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

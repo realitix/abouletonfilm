@@ -1,0 +1,1 @@
+{"tmdb_id": 308505, "title": "The Perv Parlor / The Frat Shack Shakedown", "original_title": "The Perv Parlor / The Frat Shack Shakedown", "slug_title": "the-perv-parlor-the-frat-shack-shakedown", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

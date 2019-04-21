@@ -1,0 +1,1 @@
+{"tmdb_id": 312176, "title": "Legend of the Dragon: Vol. 2", "original_title": "Legend of the Dragon: Vol. 2", "slug_title": "legend-of-the-dragon-vol-2", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

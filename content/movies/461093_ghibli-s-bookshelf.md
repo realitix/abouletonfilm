@@ -1,0 +1,1 @@
+{"tmdb_id": 461093, "title": "Ghibli's Bookshelf", "original_title": "\u30b8\u30d6\u30ea\u306e\u672c\u68da", "slug_title": "ghibli-s-bookshelf", "date": "2010-08-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sxTPMI38fJm3EEJZGNp0cnKt81t.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 562336, "title": "Work and Freedom", "original_title": "Le travail, c'est la libert\u00e9", "slug_title": "work-and-freedom", "date": "1959-12-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dL3QV4RfWUJ3obWYpnFPKzp4pNC.jpg", "actors": [], "comments": [], "recommandations_id": []}

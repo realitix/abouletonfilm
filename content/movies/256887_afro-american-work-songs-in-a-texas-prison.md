@@ -1,0 +1,1 @@
+{"tmdb_id": 256887, "title": "Afro-American Work Songs in a Texas Prison", "original_title": "Afro-American Work Songs in a Texas Prison", "slug_title": "afro-american-work-songs-in-a-texas-prison", "date": "1966-03-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

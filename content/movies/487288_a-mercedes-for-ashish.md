@@ -1,0 +1,1 @@
+{"tmdb_id": 487288, "title": "A Mercedes for Ashish", "original_title": "Aur Ashish Ke Liye Ek Mercedes", "slug_title": "a-mercedes-for-ashish", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q5JDB9aqmJVrdplR93QuBbf8tSL.jpg", "actors": [], "comments": [], "recommandations_id": []}

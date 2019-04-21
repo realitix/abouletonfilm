@@ -1,0 +1,1 @@
+{"tmdb_id": 273760, "title": "This Is Not a Ball", "original_title": "This Is Not a Ball", "slug_title": "this-is-not-a-ball", "date": "2014-06-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6gKh5wl50110gcyfY7qp0vxIyj7.jpg", "actors": ["Vik Muniz ()"], "comments": [], "recommandations_id": []}

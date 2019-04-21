@@ -1,0 +1,1 @@
+{"tmdb_id": 306852, "title": "Kaseh Ibu", "original_title": "Kaseh Ibu", "slug_title": "kaseh-ibu", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mY8bTNadH7Vj1HzOrD4I06AlAdz.jpg", "actors": [], "comments": [], "recommandations_id": []}

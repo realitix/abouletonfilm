@@ -1,0 +1,1 @@
+{"tmdb_id": 535439, "title": "Bio and Bones", "original_title": "Bio and Bones", "slug_title": "bio-and-bones", "date": "1985-01-01", "genre": "Animation / Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i0iwCc7jnMN4pQ67uA0FIY7VC8u.jpg", "actors": [], "comments": [], "recommandations_id": []}

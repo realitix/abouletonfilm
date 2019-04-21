@@ -1,0 +1,1 @@
+{"tmdb_id": 350922, "title": "The Story of Yellow Village", "original_title": "\ud669\ud1a0\uae30", "slug_title": "the-story-of-yellow-village", "date": "1979-02-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lee Dae-geun ()", "Kim Hae-yeon ()", "Sunwoo Yong-nyeo ()", "Han Eun-jin ()"], "comments": [], "recommandations_id": []}

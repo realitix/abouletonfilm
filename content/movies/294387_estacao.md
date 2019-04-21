@@ -1,0 +1,1 @@
+{"tmdb_id": 294387, "title": "Esta\u00e7\u00e3o", "original_title": "Esta\u00e7\u00e3o", "slug_title": "estacao", "date": "2010-05-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8RWyOs8i5rDw9used4ShEKcuYGC.jpg", "actors": ["Caroline Abras ()", "Denise Weinberg ()"], "comments": [], "recommandations_id": []}

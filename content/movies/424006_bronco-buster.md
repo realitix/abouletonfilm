@@ -1,0 +1,1 @@
+{"tmdb_id": 424006, "title": "Bronco Buster", "original_title": "Bronco Buster", "slug_title": "bronco-buster", "date": "1935-08-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

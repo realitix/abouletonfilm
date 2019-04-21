@@ -1,0 +1,1 @@
+{"tmdb_id": 485604, "title": "Two Jills and a Jack", "original_title": "Two Jills and a Jack", "slug_title": "two-jills-and-a-jack", "date": "1947-04-14", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Andy Clyde (Andy)"], "comments": [], "recommandations_id": []}

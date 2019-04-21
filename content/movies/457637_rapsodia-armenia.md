@@ -1,0 +1,1 @@
+{"tmdb_id": 457637, "title": "Raps\u00f3dia Arm\u00eania", "original_title": "Raps\u00f3dia Arm\u00eania", "slug_title": "rapsodia-armenia", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 497445, "title": "The Boss Begins", "original_title": "Gazda: Po\u010detak", "slug_title": "the-boss-begins", "date": "2018-01-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ofO5TXBGwTiwMNKWlC5G5wq4Qv4.jpg", "actors": [], "comments": [], "recommandations_id": []}

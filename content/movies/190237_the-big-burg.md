@@ -1,0 +1,1 @@
+{"tmdb_id": 190237, "title": "The Big Burg", "original_title": "The Big Burg", "slug_title": "the-big-burg", "date": "1929-03-10", "genre": "", "score": "2.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

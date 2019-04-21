@@ -1,0 +1,1 @@
+{"tmdb_id": 124264, "title": "Bob Marley - Redemption", "original_title": "Bob Marley - Redemption", "slug_title": "bob-marley-redemption", "date": "2000-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wWudOUhXl2dOC7CwCViA31FJiRQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 412458, "title": "Aron Flam: K\u00f6n", "original_title": "Aron Flam: K\u00f6n", "slug_title": "aron-flam-kon", "date": "2016-01-06", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/37EGwc4UZgOGrdFU6laYWecKVJn.jpg", "actors": ["Aron Flam (Himself)"], "comments": [], "recommandations_id": []}

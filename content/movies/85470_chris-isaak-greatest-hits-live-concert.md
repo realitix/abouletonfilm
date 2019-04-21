@@ -1,0 +1,1 @@
+{"tmdb_id": 85470, "title": "Chris Isaak: Greatest Hits Live Concert", "original_title": "Chris Isaak: Greatest Hits Live Concert", "slug_title": "chris-isaak-greatest-hits-live-concert", "date": "2005-01-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Chris Isaak (Himself)"], "comments": [], "recommandations_id": []}

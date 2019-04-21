@@ -1,0 +1,1 @@
+{"tmdb_id": 231936, "title": "Princeton and Yale Football Game", "original_title": "Princeton and Yale Football Game", "slug_title": "princeton-and-yale-football-game", "date": "1903-11-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

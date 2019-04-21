@@ -1,0 +1,1 @@
+{"tmdb_id": 294700, "title": "Cantando con Adriana Volumen 3", "original_title": "Cantando con Adriana Volumen 3", "slug_title": "cantando-con-adriana-volumen-3", "date": "2008-01-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qWVJ1SATXxXF8wPqxRnFPWkrZFO.jpg", "actors": [], "comments": [], "recommandations_id": []}

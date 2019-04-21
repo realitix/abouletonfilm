@@ -1,0 +1,1 @@
+{"tmdb_id": 508606, "title": "Die Farbe der Seele", "original_title": "Die Farbe der Seele", "slug_title": "die-farbe-der-seele", "date": "2003-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Eva Mattes (Mara)", "Christine Oesterlein (Frau Lindwurm)", "Rebecca Rudolph (Sanne)"], "comments": [], "recommandations_id": []}

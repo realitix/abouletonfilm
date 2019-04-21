@@ -1,0 +1,1 @@
+{"tmdb_id": 379222, "title": "Little Beaux Pink", "original_title": "Little Beaux Pink", "slug_title": "little-beaux-pink", "date": "1968-10-02", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nbW2udOOM9ghHT3VSrvOwTQuW0y.jpg", "actors": [], "comments": [], "recommandations_id": []}

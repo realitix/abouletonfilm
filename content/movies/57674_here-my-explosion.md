@@ -1,0 +1,1 @@
+{"tmdb_id": 57674, "title": "Here... My Explosion", "original_title": "Here... My Explosion", "slug_title": "here-my-explosion", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

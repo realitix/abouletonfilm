@@ -1,0 +1,1 @@
+{"tmdb_id": 115473, "title": "Banana in a Nutshell", "original_title": "Banana in a Nutshell", "slug_title": "banana-in-a-nutshell", "date": "2005-03-01", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gmHmUrSh5S442QyYepg4OXrNTdw.jpg", "actors": [], "comments": [], "recommandations_id": []}

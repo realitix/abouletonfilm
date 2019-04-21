@@ -1,0 +1,1 @@
+{"tmdb_id": 565770, "title": "Blue Beetle", "original_title": "Blue Beetle", "slug_title": "blue-beetle", "date": "2020-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/84TFfnqq9aCDHXJ4SQvaKP0zDo.jpg", "actors": [], "comments": [], "recommandations_id": []}

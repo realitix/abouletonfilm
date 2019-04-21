@@ -1,0 +1,1 @@
+{"tmdb_id": 470715, "title": "The Andy Warhol Story", "original_title": "The Andy Warhol Story", "slug_title": "the-andy-warhol-story", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

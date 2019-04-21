@@ -1,0 +1,1 @@
+{"tmdb_id": 281903, "title": "Xavante Strategy", "original_title": "Xavante Strategy", "slug_title": "xavante-strategy", "date": "2006-06-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 476185, "title": "Herr Eduard", "original_title": "Herr Eduard", "slug_title": "herr-eduard", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Frank W. Rima (Eduard)", "Hassan Lazouane (Mahlik)", "Patrick Erwied (Enkel)", "Jelena Pesovic (Lydia)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 554750, "title": "I Am Not Handsome", "original_title": "Yo no soy guapo", "slug_title": "i-am-not-handsome", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

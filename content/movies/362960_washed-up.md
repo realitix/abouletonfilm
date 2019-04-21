@@ -1,0 +1,1 @@
+{"tmdb_id": 362960, "title": "Washed Up", "original_title": "Washed Up", "slug_title": "washed-up", "date": "2015-10-05", "genre": "", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

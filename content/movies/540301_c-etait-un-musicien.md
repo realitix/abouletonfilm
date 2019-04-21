@@ -1,0 +1,1 @@
+{"tmdb_id": 540301, "title": "C'\u00e9tait un musicien", "original_title": "C'\u00e9tait un musicien", "slug_title": "c-etait-un-musicien", "date": "1934-05-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

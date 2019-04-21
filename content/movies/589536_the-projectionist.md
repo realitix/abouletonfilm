@@ -1,0 +1,1 @@
+{"tmdb_id": 589536, "title": "The Projectionist", "original_title": "The Projectionist", "slug_title": "the-projectionist", "date": "2019-04-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Nicolas Nicolaou (Himself)"], "comments": [], "recommandations_id": []}

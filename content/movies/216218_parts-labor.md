@@ -1,0 +1,1 @@
+{"tmdb_id": 216218, "title": "Parts + Labor", "original_title": "Parts + Labor", "slug_title": "parts-labor", "date": "2010-01-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Barak Hardley (Edgar)", "Tipper Newton (Samantha)"], "comments": [], "recommandations_id": []}

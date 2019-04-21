@@ -1,0 +1,1 @@
+{"tmdb_id": 546319, "title": "Everyday Is Sunday", "original_title": "Mainichi ga Nichiyoubi", "slug_title": "everyday-is-sunday", "date": "1990-09-10", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2EEntoTh2y96o8LyyvoKjWDxQBG.jpg", "actors": [], "comments": [], "recommandations_id": []}

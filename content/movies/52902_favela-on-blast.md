@@ -1,0 +1,1 @@
+{"tmdb_id": 52902, "title": "Favela on Blast", "original_title": "Favela Bolada", "slug_title": "favela-on-blast", "date": "2008-01-01", "genre": "Documentaire / Musique", "score": "5.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sqhH9Esz7RA2Vawu8XcIhUsxEAV.jpg", "actors": [], "comments": [], "recommandations_id": []}

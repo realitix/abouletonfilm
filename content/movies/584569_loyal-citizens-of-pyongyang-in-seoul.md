@@ -1,0 +1,1 @@
+{"tmdb_id": 584569, "title": "Loyal Citizens of Pyongyang in Seoul", "original_title": "Loyal Citizens of Pyongyang in Seoul", "slug_title": "loyal-citizens-of-pyongyang-in-seoul", "date": "2018-10-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 427289, "title": "\ub0b4 \uc544\ub0b4\uc758 \uce5c\uad6c", "original_title": "\ub0b4 \uc544\ub0b4\uc758 \uce5c\uad6c", "slug_title": "nae-anaeyi-cingu", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2JAi1UP00WHzeBhwPsyOh4VMm1A.jpg", "actors": [], "comments": [], "recommandations_id": []}

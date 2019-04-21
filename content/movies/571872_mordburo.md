@@ -1,0 +1,1 @@
+{"tmdb_id": 571872, "title": "Mordb\u00fcro", "original_title": "Mordb\u00fcro", "slug_title": "mordburo", "date": "1997-07-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/EOcMCDePa4Y3HJqvs3T22NoOgi.jpg", "actors": [], "comments": [], "recommandations_id": []}

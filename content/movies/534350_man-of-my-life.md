@@ -1,0 +1,1 @@
+{"tmdb_id": 534350, "title": "Man of My Life", "original_title": "L'homme de ma vie", "slug_title": "man-of-my-life", "date": "1999-09-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8JylPcikFaF6aRGBZydOfYBqyTD.jpg", "actors": [], "comments": [], "recommandations_id": []}

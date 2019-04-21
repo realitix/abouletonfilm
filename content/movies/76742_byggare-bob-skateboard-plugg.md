@@ -1,0 +1,1 @@
+{"tmdb_id": 76742, "title": "Byggare Bob: Skateboard-Plugg", "original_title": "Byggare Bob: Skateboard-Plugg", "slug_title": "byggare-bob-skateboard-plugg", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9zsJxUzXMaBawsP18oXbdsXyTzY.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 303387, "title": "Haadsaa", "original_title": "Haadsaa", "slug_title": "haadsaa", "date": "1983-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

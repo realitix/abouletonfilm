@@ -1,0 +1,1 @@
+{"tmdb_id": 531661, "title": "The Jeremy Thorpe Scandal", "original_title": "The Jeremy Thorpe Scandal", "slug_title": "the-jeremy-thorpe-scandal", "date": "2018-06-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tom Mangold (Himself)", "Norman Scott (Himself)"], "comments": [], "recommandations_id": []}

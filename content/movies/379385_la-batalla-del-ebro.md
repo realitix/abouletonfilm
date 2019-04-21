@@ -1,0 +1,1 @@
+{"tmdb_id": 379385, "title": "La batalla del Ebro", "original_title": "La batalla del Ebro", "slug_title": "la-batalla-del-ebro", "date": "2003-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iNyxKoUiUoyxzwsBsf0vUJ5kUxd.jpg", "actors": [], "comments": [], "recommandations_id": []}

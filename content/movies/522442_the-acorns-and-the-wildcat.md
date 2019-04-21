@@ -1,0 +1,1 @@
+{"tmdb_id": 522442, "title": "The Acorns and the Wildcat", "original_title": "Donguri to Yamaneko", "slug_title": "the-acorns-and-the-wildcat", "date": "1988-09-30", "genre": "Animation / Fantastique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

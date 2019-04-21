@@ -1,0 +1,1 @@
+{"tmdb_id": 285641, "title": "On the Pole: Eddie Sachs", "original_title": "On the Pole: Eddie Sachs", "slug_title": "on-the-pole-eddie-sachs", "date": "1961-08-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Eddie Sachs (Himself)"], "comments": [], "recommandations_id": []}

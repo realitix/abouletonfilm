@@ -1,0 +1,1 @@
+{"tmdb_id": 276441, "title": "Dixie Chicks: Unauthorized", "original_title": "Dixie Chicks: Unauthorized", "slug_title": "dixie-chicks-unauthorized", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

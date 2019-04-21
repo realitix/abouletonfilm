@@ -1,0 +1,1 @@
+{"tmdb_id": 291462, "title": "Lippels Dream", "original_title": "Lippels Dream", "slug_title": "lippels-dream", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

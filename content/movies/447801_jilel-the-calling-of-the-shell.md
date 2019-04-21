@@ -1,0 +1,1 @@
+{"tmdb_id": 447801, "title": "Jilel: The Calling of the Shell", "original_title": "Jilel: The Calling of the Shell", "slug_title": "jilel-the-calling-of-the-shell", "date": "2014-10-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vbIXNbQotVQKXuaniwAhg1ENI9P.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,28 @@
+{{ define "main" }}
+<div class="jumbotron jumbotron-fluid">
+<div class="container">
+    <h1 class="display-4">Téléchargez films et séries sans limite!</h1>
+    <p class="lead">Bienvenue sur le site officiel de l'équipe Aboule! Ici vous trouverez tous les films et toutes les séries (BA) en HD light, peu lourd et de haute qualité. Seulement ici: Aboule ton Film!</p>
+</div>
+</div>
+
+<div class="latest">
+    <h3>DERNIERS AJOUTS</h3>
+    <div class="container">
+        <div class="row">
+        {{ range first 12 .Pages.ByDate.Reverse }}
+            <div class="col-3">
+                <a href="{{ .URL }}"><img src="{{.Params.image}}" /></a><br />
+                <span class="title">{{ .Title }}</span><br />
+                <span class="year">{{ .Date.Year }}</span>
+            </div>
+        {{ end }}
+        </div>
+        
+        
+
+        <a href="/movies" class="btn btn-outline-light">Voir tout...</a>
+
+    </div>
+</div>
+{{ end }}

@@ -1,0 +1,1 @@
+{"tmdb_id": 351304, "title": "Housewife Herman", "original_title": "Housewife Herman", "slug_title": "housewife-herman", "date": "1938-11-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

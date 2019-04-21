@@ -1,0 +1,1 @@
+{"tmdb_id": 324134, "title": "Dora the Explorer: Dora Rocks", "original_title": "Dora the Explorer: Dora Rocks", "slug_title": "dora-the-explorer-dora-rocks", "date": "2013-06-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wOJfhHc7WDkfBLBJQmcadthlmKA.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 470155, "title": "L'Arlesienne", "original_title": "L'Arlesienne", "slug_title": "l-arlesienne", "date": "1908-08-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/isNp38yVOKHHNVdZDETtFDmmek3.jpg", "actors": [], "comments": [], "recommandations_id": []}

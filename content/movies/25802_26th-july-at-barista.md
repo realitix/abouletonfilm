@@ -1,0 +1,1 @@
+{"tmdb_id": 25802, "title": "26th July At Barista", "original_title": "26th July At Barista", "slug_title": "26th-july-at-barista", "date": "2008-01-01", "genre": "Drame", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/E8EHzO86EwPDNJgPoCx6UTYoIj.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 294414, "title": "zombier", "original_title": "zombier", "slug_title": "zombier", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 454582, "title": "Paseo por una guerra antigua", "original_title": "Paseo por una guerra antigua", "slug_title": "paseo-por-una-guerra-antigua", "date": "", "genre": "Drame", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Agust\u00edn Lamas ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 108277, "title": "The Fisherman", "original_title": "Ang Mangingisda", "slug_title": "the-fisherman", "date": "2011-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tpgrIDy6nKJEZgzELYzoy0RdJoo.jpg", "actors": ["Erick Esteban (Narrator)"], "comments": [], "recommandations_id": []}

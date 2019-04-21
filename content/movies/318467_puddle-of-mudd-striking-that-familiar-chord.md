@@ -1,0 +1,1 @@
+{"tmdb_id": 318467, "title": "Puddle of Mudd: Striking That Familiar Chord", "original_title": "Puddle of Mudd: Striking That Familiar Chord", "slug_title": "puddle-of-mudd-striking-that-familiar-chord", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 478676, "title": "Freedom", "original_title": "Livres", "slug_title": "freedom", "date": "2017-10-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gilson da Maia ()", "Bagal\u00e1 ()", "Renee ()", "Fabio Gomes ()", "Fabio Gregorio ()", "Marcio Sousa ()"], "comments": [], "recommandations_id": []}

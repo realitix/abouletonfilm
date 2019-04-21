@@ -1,0 +1,1 @@
+{"tmdb_id": 321936, "title": "Taqdeer", "original_title": "Taqdeer", "slug_title": "taqdeer", "date": "1983-02-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

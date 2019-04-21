@@ -1,0 +1,1 @@
+{"tmdb_id": 275586, "title": "Dirt Boy", "original_title": "Dirt Boy", "slug_title": "dirt-boy", "date": "2001-06-15", "genre": "Drame / Myst\u00e8re / Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fynr23RmGw9dLP4qPxu99eqNcYS.jpg", "actors": [], "comments": [], "recommandations_id": []}

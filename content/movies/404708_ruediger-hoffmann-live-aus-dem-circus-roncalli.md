@@ -1,0 +1,1 @@
+{"tmdb_id": 404708, "title": "Ruediger Hoffmann live aus dem Circus Roncalli", "original_title": "Ruediger Hoffmann live aus dem Circus Roncalli", "slug_title": "ruediger-hoffmann-live-aus-dem-circus-roncalli", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

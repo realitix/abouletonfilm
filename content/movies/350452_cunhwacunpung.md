@@ -1,0 +1,1 @@
+{"tmdb_id": 350452, "title": "\ucd98\ud654\ucd98\ud48d", "original_title": "\ucd98\ud654\ucd98\ud48d", "slug_title": "cunhwacunpung", "date": "1990-03-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

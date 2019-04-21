@@ -1,0 +1,1 @@
+{"tmdb_id": 201131, "title": "Assalto em Curso", "original_title": "Assalto em Curso", "slug_title": "assalto-em-curso", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

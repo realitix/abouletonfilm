@@ -1,0 +1,1 @@
+{"tmdb_id": 428525, "title": "Blossoming Youth", "original_title": "Tsvetushchaia iunost'", "slug_title": "blossoming-youth", "date": "1939-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i6tO91RTB17X0MVFhysPTBmU3y8.jpg", "actors": [], "comments": [], "recommandations_id": []}

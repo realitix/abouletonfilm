@@ -1,0 +1,1 @@
+{"tmdb_id": 322987, "title": "Our Magazine No. 12", "original_title": "Our Magazine No. 12", "slug_title": "our-magazine-no-12", "date": "1955-01-01", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

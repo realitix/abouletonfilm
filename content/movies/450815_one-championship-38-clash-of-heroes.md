@@ -1,0 +1,1 @@
+{"tmdb_id": 450815, "title": "ONE Championship 38: Clash of Heroes", "original_title": "ONE Championship 38: Clash of Heroes", "slug_title": "one-championship-38-clash-of-heroes", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

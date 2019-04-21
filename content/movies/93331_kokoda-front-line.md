@@ -1,0 +1,1 @@
+{"tmdb_id": 93331, "title": "Kokoda Front Line!", "original_title": "Kokoda Front Line!", "slug_title": "kokoda-front-line", "date": "1942-09-18", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yPZu8KNB1JEfabt1n07J2tJM3YP.jpg", "actors": [], "comments": [], "recommandations_id": [48679, 383841, 147198, 148049]}

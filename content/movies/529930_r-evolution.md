@@ -1,0 +1,1 @@
+{"tmdb_id": 529930, "title": "(R)evolution", "original_title": "(R)evolution", "slug_title": "r-evolution", "date": "2001-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k20tD4N1uj0U7nEAlRMAuS1UNhP.jpg", "actors": ["Darren Burgess (The Scientist (voice))"], "comments": [], "recommandations_id": []}

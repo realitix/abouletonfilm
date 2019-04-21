@@ -1,0 +1,1 @@
+{"tmdb_id": 255204, "title": "Spade Cooley: King of Western Swing", "original_title": "Spade Cooley: King of Western Swing", "slug_title": "spade-cooley-king-of-western-swing", "date": "1945-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

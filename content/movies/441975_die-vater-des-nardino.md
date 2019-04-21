@@ -1,0 +1,1 @@
+{"tmdb_id": 441975, "title": "Die V\u00e4ter des Nardino", "original_title": "Die V\u00e4ter des Nardino", "slug_title": "die-vater-des-nardino", "date": "", "genre": "Drame / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

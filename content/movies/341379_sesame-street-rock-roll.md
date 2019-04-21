@@ -1,0 +1,1 @@
+{"tmdb_id": 341379, "title": "Sesame Street: Rock & Roll!", "original_title": "Sesame Street: Rock & Roll!", "slug_title": "sesame-street-rock-roll", "date": "1990-01-01", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pdIjVHmFPRKLdDLy07fOhmEKcwy.jpg", "actors": [], "comments": [], "recommandations_id": []}

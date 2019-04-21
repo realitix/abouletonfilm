@@ -1,0 +1,1 @@
+{"tmdb_id": 280157, "title": "The Bihac, Bosnia Kayak Club", "original_title": "The Bihac, Bosnia Kayak Club", "slug_title": "the-bihac-bosnia-kayak-club", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

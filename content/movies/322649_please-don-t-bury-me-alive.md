@@ -1,0 +1,1 @@
+{"tmdb_id": 322649, "title": "Please Don't Bury Me Alive!", "original_title": "Please Don't Bury Me Alive!", "slug_title": "please-don-t-bury-me-alive", "date": "1976-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gsqrekf2jpr5QtOeQhbTpmoHGb5.jpg", "actors": [], "comments": [], "recommandations_id": []}

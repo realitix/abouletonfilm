@@ -1,0 +1,1 @@
+{"tmdb_id": 566345, "title": "Une nuit r\u00eav\u00e9e pour un poison banal", "original_title": "Une nuit r\u00eav\u00e9e pour un poison banal", "slug_title": "une-nuit-revee-pour-un-poison-banal", "date": "1980-06-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

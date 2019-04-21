@@ -1,0 +1,1 @@
+{"tmdb_id": 422474, "title": "El esfuerzo de un pueblo", "original_title": "El esfuerzo de un pueblo", "slug_title": "el-esfuerzo-de-un-pueblo", "date": "1968-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

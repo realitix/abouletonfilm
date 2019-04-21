@@ -1,0 +1,1 @@
+{"tmdb_id": 174141, "title": "Ambrose's Nasty Temper", "original_title": "Ambrose's Nasty Temper", "slug_title": "ambrose-s-nasty-temper", "date": "1915-04-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mack Swain (Ambrose)"], "comments": [], "recommandations_id": []}

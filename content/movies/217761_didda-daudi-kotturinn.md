@@ -1,0 +1,1 @@
+{"tmdb_id": 217761, "title": "Didda & dau\u00f0i k\u00f6tturinn", "original_title": "Didda & dau\u00f0i k\u00f6tturinn", "slug_title": "didda-daudi-kotturinn", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

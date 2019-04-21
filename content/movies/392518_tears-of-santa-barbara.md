@@ -1,0 +1,1 @@
+{"tmdb_id": 392518, "title": "Tears of Santa Barbara", "original_title": "Tears of Santa Barbara", "slug_title": "tears-of-santa-barbara", "date": "2015-02-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gt22W3ZBt6YCvAa1L7LlVPwBeny.jpg", "actors": ["Lauren Avery ()"], "comments": [], "recommandations_id": []}

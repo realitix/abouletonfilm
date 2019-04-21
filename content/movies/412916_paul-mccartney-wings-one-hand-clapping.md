@@ -1,0 +1,1 @@
+{"tmdb_id": 412916, "title": "Paul McCartney & Wings: One Hand Clapping", "original_title": "Paul McCartney & Wings: One Hand Clapping", "slug_title": "paul-mccartney-wings-one-hand-clapping", "date": "2010-11-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

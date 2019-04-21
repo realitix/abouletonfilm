@@ -1,0 +1,1 @@
+{"tmdb_id": 549741, "title": "L'utilit\u00e9 des rayons x", "original_title": "L'utilit\u00e9 des rayons x", "slug_title": "l-utilite-des-rayons-x", "date": "1898-09-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

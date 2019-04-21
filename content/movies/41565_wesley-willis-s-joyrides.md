@@ -1,0 +1,1 @@
+{"tmdb_id": 41565, "title": "Wesley Willis's Joyrides", "original_title": "Wesley Willis's Joyrides", "slug_title": "wesley-willis-s-joyrides", "date": "2008-03-30", "genre": "", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AgGM19quVbGmQbjeZ28Y4ImTbjJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

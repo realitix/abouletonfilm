@@ -1,0 +1,1 @@
+{"tmdb_id": 465694, "title": "Adorno's Grey", "original_title": "Adorno's Grey", "slug_title": "adorno-s-grey", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nIzp5oPWezchS2ovXc1ZnpLVq3o.jpg", "actors": [], "comments": [], "recommandations_id": []}

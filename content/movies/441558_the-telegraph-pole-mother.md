@@ -1,0 +1,1 @@
+{"tmdb_id": 441558, "title": "The Telegraph Pole Mother", "original_title": "\u96fb\u4fe1\u67f1\u306e\u304a\u6bcd\u3055\u3093", "slug_title": "the-telegraph-pole-mother", "date": "2005-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

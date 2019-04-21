@@ -1,0 +1,1 @@
+{"tmdb_id": 303203, "title": "Showbiz Soldiers of World War II", "original_title": "Showbiz Soldiers of World War II", "slug_title": "showbiz-soldiers-of-world-war-ii", "date": "2014-04-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

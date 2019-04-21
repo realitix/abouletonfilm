@@ -1,0 +1,1 @@
+{"tmdb_id": 317594, "title": "Black and White Milk Cow", "original_title": "Yi zhi hu\u00e0 naeniu", "slug_title": "black-and-white-milk-cow", "date": "2004-01-01", "genre": "Drame", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iy8DDKCW4k6wxmBx7R35KB169Fj.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 310394, "title": "Sons of Trinity", "original_title": "Sons of Trinity", "slug_title": "sons-of-trinity", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5vNai4CQehI7vM5wg1MWnCXdENH.jpg", "actors": [], "comments": [], "recommandations_id": []}

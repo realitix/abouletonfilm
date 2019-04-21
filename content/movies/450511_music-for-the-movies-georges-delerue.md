@@ -1,0 +1,1 @@
+{"tmdb_id": 450511, "title": "Music for the Movies: Georges Delerue", "original_title": "Music for the Movies: Georges Delerue", "slug_title": "music-for-the-movies-georges-delerue", "date": "1995-04-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

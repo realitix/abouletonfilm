@@ -1,0 +1,1 @@
+{"tmdb_id": 281537, "title": "All the Wrong Places", "original_title": "All the Wrong Places", "slug_title": "all-the-wrong-places", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

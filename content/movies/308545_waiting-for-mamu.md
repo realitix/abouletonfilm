@@ -1,0 +1,1 @@
+{"tmdb_id": 308545, "title": "Waiting for Mamu", "original_title": "Waiting for Mamu", "slug_title": "waiting-for-mamu", "date": "2013-07-13", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t3SJ5zw27gjcGDGyadPjTFB1kp5.jpg", "actors": [], "comments": [], "recommandations_id": []}

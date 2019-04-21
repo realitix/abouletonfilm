@@ -1,0 +1,1 @@
+{"tmdb_id": 565461, "title": "Monster Rumble", "original_title": "Monster Rumble", "slug_title": "monster-rumble", "date": "1961-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8oGfFQDIWHcai7KGLXaaMRoM4Dc.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 284678, "title": "The King of Lenong", "original_title": "Raja Lenong", "slug_title": "the-king-of-lenong", "date": "1975-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Benyamin Sueb ()"], "comments": [], "recommandations_id": []}

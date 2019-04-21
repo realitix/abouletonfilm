@@ -1,0 +1,1 @@
+{"tmdb_id": 314482, "title": "The Rules of the Game", "original_title": "Les r\u00e8gles du jeu", "slug_title": "the-rules-of-the-game", "date": "2014-05-22", "genre": "Documentaire", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cDFvKXACas0bLppOoEYjjWE5n6W.jpg", "actors": [], "comments": [], "recommandations_id": []}

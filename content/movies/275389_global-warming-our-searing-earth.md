@@ -1,0 +1,1 @@
+{"tmdb_id": 275389, "title": "Global Warming: Our Searing Earth", "original_title": "Global Warming: Our Searing Earth", "slug_title": "global-warming-our-searing-earth", "date": "2007-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

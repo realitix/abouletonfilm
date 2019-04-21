@@ -1,0 +1,1 @@
+{"tmdb_id": 271716, "title": "Manizales City", "original_title": "Manizales City", "slug_title": "manizales-city", "date": "1925-05-23", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

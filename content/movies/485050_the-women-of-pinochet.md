@@ -1,0 +1,1 @@
+{"tmdb_id": 485050, "title": "The Women of Pinochet", "original_title": "Las Mujeres de Pinochet", "slug_title": "the-women-of-pinochet", "date": "2005-03-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

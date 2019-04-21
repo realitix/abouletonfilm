@@ -1,0 +1,1 @@
+{"tmdb_id": 368047, "title": "Natziv Hamelech", "original_title": "Natziv Hamelech", "slug_title": "natziv-hamelech", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

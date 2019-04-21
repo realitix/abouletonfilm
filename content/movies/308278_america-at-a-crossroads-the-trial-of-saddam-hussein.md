@@ -1,0 +1,1 @@
+{"tmdb_id": 308278, "title": "America at a Crossroads: The Trial of Saddam Hussein", "original_title": "America at a Crossroads: The Trial of Saddam Hussein", "slug_title": "america-at-a-crossroads-the-trial-of-saddam-hussein", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

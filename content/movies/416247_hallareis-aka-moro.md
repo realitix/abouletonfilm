@@ -1,0 +1,1 @@
+{"tmdb_id": 416247, "title": "Hallar\u00e9is: AKA MORO", "original_title": "Hallar\u00e9is: AKA MORO", "slug_title": "hallareis-aka-moro", "date": "2014-08-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/onzyOvMip6uoaKtPynDiHoO8Yu9.jpg", "actors": [], "comments": [], "recommandations_id": []}

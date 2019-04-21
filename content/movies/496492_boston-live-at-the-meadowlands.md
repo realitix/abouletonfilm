@@ -1,0 +1,1 @@
+{"tmdb_id": 496492, "title": "Boston Live At The Meadowlands", "original_title": "Boston Live At The Meadowlands", "slug_title": "boston-live-at-the-meadowlands", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hfF8onZB8XNOjISvNC2EVUzhlpJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

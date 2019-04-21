@@ -1,0 +1,1 @@
+{"tmdb_id": 480081, "title": "L'assaut", "original_title": "L'assaut", "slug_title": "l-assaut", "date": "1936-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ep24qevOn8w27Xwz9p3VxoFslDd.jpg", "actors": ["Charles Vanel ()", "Andr\u00e9 Alerme ()", "Alice Field ()"], "comments": [], "recommandations_id": []}

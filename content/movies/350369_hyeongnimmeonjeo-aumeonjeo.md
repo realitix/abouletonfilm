@@ -1,0 +1,1 @@
+{"tmdb_id": 350369, "title": "\ud615\ub2d8\uba3c\uc800 \uc544\uc6b0\uba3c\uc800", "original_title": "\ud615\ub2d8\uba3c\uc800 \uc544\uc6b0\uba3c\uc800", "slug_title": "hyeongnimmeonjeo-aumeonjeo", "date": "1980-05-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

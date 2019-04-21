@@ -1,0 +1,1 @@
+{"tmdb_id": 196939, "title": "La reine de la nuit", "original_title": "La reina de la noche", "slug_title": "la-reine-de-la-nuit", "date": "1994-09-07", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r7lnq8hMPVUuiAnKFn9iysSSwzB.jpg", "actors": ["Patricia Reyes Sp\u00edndola ()"], "comments": [], "recommandations_id": []}

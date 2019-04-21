@@ -1,0 +1,1 @@
+{"tmdb_id": 197787, "title": "Beetle - As Bad As Can", "original_title": "Beetle - As Bad As Can", "slug_title": "beetle-as-bad-as-can", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cvxrfN4QKcUX2Z5dypkaCJSqaei.jpg", "actors": ["Beetlejuice ()"], "comments": [], "recommandations_id": []}

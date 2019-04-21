@@ -1,0 +1,1 @@
+{"tmdb_id": 282581, "title": "Premaraga Hadugelati", "original_title": "Premaraga Hadugelati", "slug_title": "premaraga-hadugelati", "date": "1997-07-18", "genre": "Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Shivaraj Kumar ()", "Ramesh Aravind ()", "Lokesh ()", "Srinath ()"], "comments": [], "recommandations_id": []}

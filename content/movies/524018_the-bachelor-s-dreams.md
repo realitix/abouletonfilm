@@ -1,0 +1,1 @@
+{"tmdb_id": 524018, "title": "The Bachelor's Dreams", "original_title": "The Bachelor's Dreams", "slug_title": "the-bachelor-s-dreams", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

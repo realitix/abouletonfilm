@@ -1,0 +1,1 @@
+{"tmdb_id": 49152, "title": "La Rabbia", "original_title": "La rabbia", "slug_title": "la-rabbia", "date": "1963-04-13", "genre": "Documentaire", "score": "7.6/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/plVkFbmW6898n1EGz6WCw1Uv1LQ.jpg", "actors": [], "comments": [], "recommandations_id": [19930, 222560, 387646, 371001]}

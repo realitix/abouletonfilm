@@ -1,0 +1,1 @@
+{"tmdb_id": 394574, "title": "A fab\u00f3l faragott kir\u00e1lyfi", "original_title": "A fab\u00f3l faragott kir\u00e1lyfi", "slug_title": "a-fabol-faragott-kiralyfi", "date": "1970-04-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

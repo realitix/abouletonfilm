@@ -1,0 +1,1 @@
+{"tmdb_id": 271940, "title": "Born In The U.S.A. Reel", "original_title": "Born In The U.S.A. Reel", "slug_title": "born-in-the-u-s-a-reel", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hBBtBjx1RUSwbEh3x6OZOKRwZ0p.jpg", "actors": [], "comments": [], "recommandations_id": []}

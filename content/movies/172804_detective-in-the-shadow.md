@@ -1,0 +1,1 @@
+{"tmdb_id": 172804, "title": "Detective in the Shadow", "original_title": "Detective in the Shadow", "slug_title": "detective-in-the-shadow", "date": "1991-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

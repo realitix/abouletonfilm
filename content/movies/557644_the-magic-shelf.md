@@ -1,0 +1,1 @@
+{"tmdb_id": 557644, "title": "The Magic Shelf", "original_title": "The Magic Shelf", "slug_title": "the-magic-shelf", "date": "1952-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 502391, "title": "DJ Shadow Live at Coachella 2017", "original_title": "DJ Shadow Live at Coachella 2017", "slug_title": "dj-shadow-live-at-coachella-2017", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aQ3ewp2UTtcwVakxSH6Ta05cokF.jpg", "actors": [], "comments": [], "recommandations_id": []}

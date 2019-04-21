@@ -1,0 +1,1 @@
+{"tmdb_id": 478861, "title": "Extracurricular Activity Projective Reconstruction #1", "original_title": "Extracurricular Activity Projective Reconstruction #1", "slug_title": "extracurricular-activity-projective-reconstruction-1", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

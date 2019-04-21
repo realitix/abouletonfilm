@@ -1,0 +1,1 @@
+{"tmdb_id": 272949, "title": "Haiti Cherie: Wind of Hope", "original_title": "Haiti Cherie: Wind of Hope", "slug_title": "haiti-cherie-wind-of-hope", "date": "2010-07-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

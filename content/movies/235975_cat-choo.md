@@ -1,0 +1,1 @@
+{"tmdb_id": 235975, "title": "Cat-Choo", "original_title": "Cat-Choo", "slug_title": "cat-choo", "date": "1951-10-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

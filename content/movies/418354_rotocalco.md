@@ -1,0 +1,1 @@
+{"tmdb_id": 418354, "title": "Rotocalco", "original_title": "Rotocalco", "slug_title": "rotocalco", "date": "1970-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

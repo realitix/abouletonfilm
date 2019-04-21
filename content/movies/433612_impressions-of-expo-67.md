@@ -1,0 +1,1 @@
+{"tmdb_id": 433612, "title": "Impressions of Expo 67", "original_title": "Impressions of Expo 67", "slug_title": "impressions-of-expo-67", "date": "1967-12-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wd8M9tiPzjeNo6XWdOPDr0Nm3oc.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 550716, "title": "Leviathan: The Story of Hellraiser", "original_title": "Leviathan: The Story of Hellraiser", "slug_title": "leviathan-the-story-of-hellraiser", "date": "", "genre": "Horreur / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 343307, "title": "Gene Takes a Drink", "original_title": "Gene Takes a Drink", "slug_title": "gene-takes-a-drink", "date": "2012-06-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xx8GIb5nbr4Hsk58rVknxPnbreE.jpg", "actors": [], "comments": [], "recommandations_id": []}

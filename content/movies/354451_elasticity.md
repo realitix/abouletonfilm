@@ -1,0 +1,1 @@
+{"tmdb_id": 354451, "title": "Elasticity", "original_title": "Elasticity", "slug_title": "elasticity", "date": "1976-08-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

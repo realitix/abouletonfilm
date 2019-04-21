@@ -1,0 +1,1 @@
+{"tmdb_id": 328033, "title": "Die Zauberlaterne", "original_title": "Die Zauberlaterne", "slug_title": "die-zauberlaterne", "date": "1938-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

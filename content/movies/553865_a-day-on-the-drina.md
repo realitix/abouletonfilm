@@ -1,0 +1,1 @@
+{"tmdb_id": 553865, "title": "A Day on the Drina", "original_title": "A Day on the Drina", "slug_title": "a-day-on-the-drina", "date": "2010-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4Wo2ZhbV4nCsSvHFKzZP84hBOmv.jpg", "actors": [], "comments": [], "recommandations_id": []}

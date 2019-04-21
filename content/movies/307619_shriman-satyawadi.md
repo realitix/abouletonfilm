@@ -1,0 +1,1 @@
+{"tmdb_id": 307619, "title": "Shriman Satyawadi", "original_title": "Shriman Satyawadi", "slug_title": "shriman-satyawadi", "date": "1960-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cufAZUeTSATYoYDjTEggKpt8VK7.jpg", "actors": [], "comments": [], "recommandations_id": []}

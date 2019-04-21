@@ -1,0 +1,1 @@
+{"tmdb_id": 59530, "title": "The Mermaid Frolics", "original_title": "The Mermaid Frolics", "slug_title": "the-mermaid-frolics", "date": "1977-09-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

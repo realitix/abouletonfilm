@@ -1,0 +1,1 @@
+{"tmdb_id": 471571, "title": "Bicha Camel\u00f4", "original_title": "Bicha Camel\u00f4", "slug_title": "bicha-camelo", "date": "2017-08-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Ai5lePK6X4PTtwGw0h3prHXz147.jpg", "actors": [], "comments": [], "recommandations_id": []}

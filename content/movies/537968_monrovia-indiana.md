@@ -1,0 +1,1 @@
+{"tmdb_id": 537968, "title": "Monrovia, Indiana", "original_title": "Monrovia, Indiana", "slug_title": "monrovia-indiana", "date": "2018-09-07", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xhNab5QXXmORqHIqE3kROYIlIsq.jpg", "actors": [], "comments": [], "recommandations_id": []}

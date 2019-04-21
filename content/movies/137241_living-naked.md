@@ -1,0 +1,1 @@
+{"tmdb_id": 137241, "title": "Living Naked", "original_title": "Vivre nu: \u00c0 la recherche du paradis perdu", "slug_title": "living-naked", "date": "1993-05-26", "genre": "Documentaire", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9YQPXxbqfztPlmuKHF2WUyHJrGL.jpg", "actors": [], "comments": [], "recommandations_id": []}

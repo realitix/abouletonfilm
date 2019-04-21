@@ -1,0 +1,1 @@
+{"tmdb_id": 76432, "title": "Guld\u00f6rat", "original_title": "Guld\u00f6rat", "slug_title": "guldorat", "date": "2007-12-14", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

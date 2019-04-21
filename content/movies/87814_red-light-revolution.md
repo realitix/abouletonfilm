@@ -1,0 +1,1 @@
+{"tmdb_id": 87814, "title": "Red Light Revolution", "original_title": "Red Light Revolution", "slug_title": "red-light-revolution", "date": "2010-11-01", "genre": "Com\u00e9die", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oJPjk0g8GtArHxa2vn1p2zKwB8c.jpg", "actors": ["Zhao Jun (Shunzi)"], "comments": [], "recommandations_id": []}

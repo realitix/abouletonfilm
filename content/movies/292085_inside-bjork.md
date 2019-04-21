@@ -1,0 +1,1 @@
+{"tmdb_id": 292085, "title": "Inside Bj\u00f6rk", "original_title": "Inside Bj\u00f6rk", "slug_title": "inside-bjork", "date": "2003-01-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/japJaKjCmjDTCrTpv8B2w68u1oq.jpg", "actors": ["Bj\u00f6rk (Herself)", "Sean Penn (Himself)"], "comments": [], "recommandations_id": []}

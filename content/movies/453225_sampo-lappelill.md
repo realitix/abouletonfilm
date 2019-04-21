@@ -1,0 +1,1 @@
+{"tmdb_id": 453225, "title": "Sampo Lappelill", "original_title": "Sampo Lappelill", "slug_title": "sampo-lappelill", "date": "1949-12-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1Iv1ZIvafKYbjBAfIQv1eWGigeX.jpg", "actors": ["Leif Bexelius (Sampo Lappelill)"], "comments": [], "recommandations_id": []}

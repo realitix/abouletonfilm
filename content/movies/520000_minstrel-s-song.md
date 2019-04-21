@@ -1,0 +1,1 @@
+{"tmdb_id": 520000, "title": "Minstrel's Song", "original_title": "Sl\u00f3vce M", "slug_title": "minstrel-s-song", "date": "1964-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

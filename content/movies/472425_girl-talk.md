@@ -1,0 +1,1 @@
+{"tmdb_id": 472425, "title": "Girl Talk", "original_title": "Girl Talk", "slug_title": "girl-talk", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uI418b6TbhQOYjgYQZRhACPiFmX.jpg", "actors": ["Fred Moten (Himself)"], "comments": [], "recommandations_id": []}

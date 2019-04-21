@@ -1,0 +1,1 @@
+{"tmdb_id": 330654, "title": "Alfonsina", "original_title": "Alfonsina", "slug_title": "alfonsina", "date": "1957-08-18", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cAdBfQqHrieq2yPkVVPF6pflWWC.jpg", "actors": ["Amelia Bence (Alfonsina)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 286344, "title": "Que viva la lucha", "original_title": "Que viva la lucha", "slug_title": "que-viva-la-lucha", "date": "2007-10-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9DLHcMESezWizrxO5MaJM0zsEQK.jpg", "actors": [], "comments": [], "recommandations_id": []}

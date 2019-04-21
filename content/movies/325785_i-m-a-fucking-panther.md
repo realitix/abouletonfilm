@@ -1,0 +1,1 @@
+{"tmdb_id": 325785, "title": "I'm a Fucking Panther", "original_title": "Jag \u00e4r fan en panter", "slug_title": "i-m-a-fucking-panther", "date": "2014-09-13", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2MS4lJ6Q8pr3ZVjUNwIVebhAjJv.jpg", "actors": [], "comments": [], "recommandations_id": []}

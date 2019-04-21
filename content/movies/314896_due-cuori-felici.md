@@ -1,0 +1,1 @@
+{"tmdb_id": 314896, "title": "Due cuori felici", "original_title": "Due cuori felici", "slug_title": "due-cuori-felici", "date": "1932-12-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bMd89GtHW9zz5xSV60gL817sGhk.jpg", "actors": [], "comments": [], "recommandations_id": []}

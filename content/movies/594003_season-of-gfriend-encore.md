@@ -1,0 +1,1 @@
+{"tmdb_id": 594003, "title": "Season of GFriend: Encore", "original_title": "Season of GFriend: Encore", "slug_title": "season-of-gfriend-encore", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eBZlZSbCxCD558BykDOH1uHR9x8.jpg", "actors": [], "comments": [], "recommandations_id": []}

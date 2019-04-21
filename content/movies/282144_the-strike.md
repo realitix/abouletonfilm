@@ -1,0 +1,1 @@
+{"tmdb_id": 282144, "title": "The Strike", "original_title": "La Gr\u00e8ve", "slug_title": "the-strike", "date": "1904-09-29", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lelj0PbfqWTkW5eAy2ZzjRXNh4A.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 411188, "title": "L'amatore", "original_title": "L'amatore", "slug_title": "l-amatore", "date": "2016-08-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/es7aADb9whg2UKNHW5v7kDE3mTs.jpg", "actors": ["Giulia Lazzarini ()", "Piero Portaluppi ()"], "comments": [], "recommandations_id": []}

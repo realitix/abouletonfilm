@@ -1,0 +1,1 @@
+{"tmdb_id": 90061, "title": "American Mullet", "original_title": "American Mullet", "slug_title": "american-mullet", "date": "2001-01-01", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l8UDSG5hBjdyvqdhPUbZ9y2oBQp.jpg", "actors": [], "comments": [], "recommandations_id": []}

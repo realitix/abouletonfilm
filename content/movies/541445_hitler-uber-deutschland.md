@@ -1,0 +1,1 @@
+{"tmdb_id": 541445, "title": "Hitler \u00fcber Deutschland", "original_title": "Hitler \u00fcber Deutschland", "slug_title": "hitler-uber-deutschland", "date": "1932-12-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 312269, "title": "Florilegium: The Flowering of the Pacific", "original_title": "Florilegium: The Flowering of the Pacific", "slug_title": "florilegium-the-flowering-of-the-pacific", "date": "1984-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

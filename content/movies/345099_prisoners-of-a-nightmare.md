@@ -1,0 +1,1 @@
+{"tmdb_id": 345099, "title": "Prisoners of a Nightmare", "original_title": "Prigionieri di un Incubo", "slug_title": "prisoners-of-a-nightmare", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

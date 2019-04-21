@@ -1,0 +1,1 @@
+{"tmdb_id": 339356, "title": "Life Off Grid", "original_title": "Life Off Grid", "slug_title": "life-off-grid", "date": "2016-02-07", "genre": "Documentaire", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6UnUC8MPBxPw1NYx3f4QQJhFeaP.jpg", "actors": [], "comments": [], "recommandations_id": []}

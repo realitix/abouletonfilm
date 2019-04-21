@@ -1,0 +1,1 @@
+{"tmdb_id": 317759, "title": "Connecticut Sting 2003: Under the Umbrella", "original_title": "Connecticut Sting 2003: Under the Umbrella", "slug_title": "connecticut-sting-2003-under-the-umbrella", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

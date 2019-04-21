@@ -1,0 +1,1 @@
+{"tmdb_id": 483943, "title": "Paper And I", "original_title": "Paper And I", "slug_title": "paper-and-i", "date": "1960-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7AC19uYajBv6LRSf2e0OqQv6Uhh.jpg", "actors": [], "comments": [], "recommandations_id": []}

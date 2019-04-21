@@ -1,0 +1,1 @@
+{"tmdb_id": 471603, "title": "The Seekers 25 Year Reunion", "original_title": "The Seekers 25 Year Reunion", "slug_title": "the-seekers-25-year-reunion", "date": "1993-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mO4dAsN0i4F33BQ1D95jwelyWuK.jpg", "actors": [], "comments": [], "recommandations_id": []}

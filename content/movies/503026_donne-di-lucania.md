@@ -1,0 +1,1 @@
+{"tmdb_id": 503026, "title": "Donne di Lucania", "original_title": "Donne di Lucania", "slug_title": "donne-di-lucania", "date": "1962-02-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

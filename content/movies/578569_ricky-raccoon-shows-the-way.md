@@ -1,0 +1,1 @@
+{"tmdb_id": 578569, "title": "Ricky Raccoon Shows the Way", "original_title": "Ricky Raccoon Shows the Way", "slug_title": "ricky-raccoon-shows-the-way", "date": "1978-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

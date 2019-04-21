@@ -1,0 +1,1 @@
+{"tmdb_id": 380553, "title": "Dang-Dong", "original_title": "Dang-Dong", "slug_title": "dang-dong", "date": "1979-12-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1hKxHwYHMree0Hm37C0JXIYgnIR.jpg", "actors": [], "comments": [], "recommandations_id": []}

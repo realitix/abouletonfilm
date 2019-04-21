@@ -1,0 +1,1 @@
+{"tmdb_id": 120913, "title": "An Afternoon", "original_title": "Le Barbier", "slug_title": "an-afternoon", "date": "2001-06-24", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ticky Holgado (Le barbier)", "Fran\u00e7ois Levantal (S.S. Officer)"], "comments": [], "recommandations_id": []}

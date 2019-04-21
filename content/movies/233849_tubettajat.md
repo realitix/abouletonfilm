@@ -1,0 +1,1 @@
+{"tmdb_id": 233849, "title": "Tubettajat", "original_title": "Tubettajat", "slug_title": "tubettajat", "date": "2013-10-21", "genre": "T\u00e9l\u00e9film / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

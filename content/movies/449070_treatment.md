@@ -1,0 +1,1 @@
+{"tmdb_id": 449070, "title": "Treatment", "original_title": "\u6cbb\u7597", "slug_title": "treatment", "date": "2010-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

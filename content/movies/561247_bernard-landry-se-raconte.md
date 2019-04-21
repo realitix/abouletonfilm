@@ -1,0 +1,1 @@
+{"tmdb_id": 561247, "title": "Bernard Landry se raconte", "original_title": "Bernard Landry se raconte", "slug_title": "bernard-landry-se-raconte", "date": "2018-11-09", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bernard Landry (Himself)"], "comments": [], "recommandations_id": []}

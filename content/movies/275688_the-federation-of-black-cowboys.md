@@ -1,0 +1,1 @@
+{"tmdb_id": 275688, "title": "The Federation of Black Cowboys", "original_title": "The Federation of Black Cowboys", "slug_title": "the-federation-of-black-cowboys", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

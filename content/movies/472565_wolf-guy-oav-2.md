@@ -1,0 +1,1 @@
+{"tmdb_id": 472565, "title": "Wolf Guy OAV 2", "original_title": "\u30a6\u30eb\u30d5\u30ac\u30a4 Vol. 2 \u6028\u6b4c", "slug_title": "wolf-guy-oav-2", "date": "1993-01-20", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mwQ2BpAhjG5yuxHYFQ3CIw8FTzp.jpg", "actors": [], "comments": [], "recommandations_id": []}

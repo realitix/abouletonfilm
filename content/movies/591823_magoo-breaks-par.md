@@ -1,0 +1,1 @@
+{"tmdb_id": 591823, "title": "Magoo Breaks Par", "original_title": "Magoo Breaks Par", "slug_title": "magoo-breaks-par", "date": "1957-06-27", "genre": "Animation / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jim Backus (Mr. Magoo (voice))", "Jerry Hausner (Waldo (voice)(uncredited))"], "comments": [], "recommandations_id": []}

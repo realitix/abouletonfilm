@@ -1,0 +1,1 @@
+{"tmdb_id": 408665, "title": "Biscot se trompe d'\u00e9tage", "original_title": "Biscot se trompe d'\u00e9tage", "slug_title": "biscot-se-trompe-d-etage", "date": "1916-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Georges Biscot (Biscot)", "Kitty Hott (Bride)"], "comments": [], "recommandations_id": []}

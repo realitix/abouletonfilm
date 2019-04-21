@@ -1,0 +1,1 @@
+{"tmdb_id": 566298, "title": "Green Laser", "original_title": "Green Laser", "slug_title": "green-laser", "date": "2012-02-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

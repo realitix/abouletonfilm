@@ -1,0 +1,1 @@
+{"tmdb_id": 210954, "title": "Dinner with an Assassin", "original_title": "Dinner with an Assassin", "slug_title": "dinner-with-an-assassin", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 309903, "title": "Baby Superstar: Forest Ranger", "original_title": "Baby Superstar: Forest Ranger", "slug_title": "baby-superstar-forest-ranger", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 399085, "title": "Dogstar", "original_title": "Dogstar", "slug_title": "dogstar", "date": "2003-05-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uB6wiRVNpV7LJ3DMlIXuGtVbCGM.jpg", "actors": ["Jon Jacobs (Dogstar)", "J.C. Brandy (Gabrielle)"], "comments": [], "recommandations_id": []}

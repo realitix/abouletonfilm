@@ -1,0 +1,1 @@
+{"tmdb_id": 349619, "title": "A Honeymoon Trip", "original_title": "\ubc00\uc6d4\uc5ec\ud589", "slug_title": "a-honeymoon-trip", "date": "1993-03-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Geum Bo-ra (Kyeong-a)"], "comments": [], "recommandations_id": []}

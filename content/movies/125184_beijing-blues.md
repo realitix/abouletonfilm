@@ -1,0 +1,1 @@
+{"tmdb_id": 125184, "title": "Beijing Blues", "original_title": "\u795e\u63a2\u4ea8\u7279\u5f20", "slug_title": "beijing-blues", "date": "2012-07-20", "genre": "Drame / Crime", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3o2nk6ZEiuQL7jAx83DFYJUChk6.jpg", "actors": [], "comments": [], "recommandations_id": []}

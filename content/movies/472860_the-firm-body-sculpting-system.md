@@ -1,0 +1,1 @@
+{"tmdb_id": 472860, "title": "The Firm Body Sculpting System", "original_title": "The Firm Body Sculpting System", "slug_title": "the-firm-body-sculpting-system", "date": "2002-12-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wgLVYEcdinB6k8l7Ix2EPn2XoPF.jpg", "actors": [], "comments": [], "recommandations_id": []}

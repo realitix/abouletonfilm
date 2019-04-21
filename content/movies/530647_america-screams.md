@@ -1,0 +1,1 @@
+{"tmdb_id": 530647, "title": "America Screams", "original_title": "America Screams", "slug_title": "america-screams", "date": "1981-12-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Vincent Price (Himself - Host/Narrator)"], "comments": [], "recommandations_id": []}

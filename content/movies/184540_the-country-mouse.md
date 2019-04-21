@@ -1,0 +1,1 @@
+{"tmdb_id": 184540, "title": "The Country Mouse", "original_title": "The Country Mouse", "slug_title": "the-country-mouse", "date": "1935-07-12", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gVe7IjzDT4OyTQ2nBMY5h8Pnmoz.jpg", "actors": [], "comments": [], "recommandations_id": []}

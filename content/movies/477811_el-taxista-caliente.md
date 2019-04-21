@@ -1,0 +1,1 @@
+{"tmdb_id": 477811, "title": "El taxista caliente", "original_title": "El taxista caliente", "slug_title": "el-taxista-caliente", "date": "2016-01-01", "genre": "Com\u00e9die", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aIsxBaoddghwFfLL4qTPRfgzOBy.jpg", "actors": [], "comments": [], "recommandations_id": [309138, 14478]}

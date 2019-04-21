@@ -1,0 +1,1 @@
+{"tmdb_id": 481731, "title": "Omnibus: John Ford, Part One", "original_title": "Omnibus: John Ford, Part One", "slug_title": "omnibus-john-ford-part-one", "date": "1992-12-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lindsay Anderson (Presenter)"], "comments": [], "recommandations_id": []}

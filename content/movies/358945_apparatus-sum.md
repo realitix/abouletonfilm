@@ -1,0 +1,1 @@
+{"tmdb_id": 358945, "title": "Apparatus Sum", "original_title": "Apparatus Sum", "slug_title": "apparatus-sum", "date": "1972-09-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4APuGqiU9O7o3WNyeq4RfWXMK2C.jpg", "actors": [], "comments": [], "recommandations_id": []}

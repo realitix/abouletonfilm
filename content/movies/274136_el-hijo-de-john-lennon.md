@@ -1,0 +1,1 @@
+{"tmdb_id": 274136, "title": "El hijo de John Lennon", "original_title": "El hijo de John Lennon", "slug_title": "el-hijo-de-john-lennon", "date": "2002-07-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ana Fern\u00e1ndez ()", "Junio Valverde ()"], "comments": [], "recommandations_id": []}

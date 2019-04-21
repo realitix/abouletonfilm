@@ -1,0 +1,1 @@
+{"tmdb_id": 312612, "title": "Nuremberg: The Nazis Facing Their Crimes", "original_title": "Nuremberg: The Nazis Facing Their Crimes", "slug_title": "nuremberg-the-nazis-facing-their-crimes", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

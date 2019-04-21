@@ -1,0 +1,1 @@
+{"tmdb_id": 366794, "title": "Den Som Dr\u00e6ber - Film 3 (Ondt Blod)", "original_title": "Den Som Dr\u00e6ber - Film 3 (Ondt Blod)", "slug_title": "den-som-draeber-film-3-ondt-blod", "date": "2010-11-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

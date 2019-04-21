@@ -1,0 +1,1 @@
+{"tmdb_id": 379041, "title": "Dial 'P' for Pink", "original_title": "Dial 'P' for Pink", "slug_title": "dial-p-for-pink", "date": "1965-03-16", "genre": "Animation", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8Hri2UiKXci5TjNADVxp2auYyHS.jpg", "actors": [], "comments": [], "recommandations_id": [379046, 379042, 234389, 223037]}

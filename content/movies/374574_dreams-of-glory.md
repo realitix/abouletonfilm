@@ -1,0 +1,1 @@
+{"tmdb_id": 374574, "title": "Dreams of Glory", "original_title": "Sue\u00f1os de gloria", "slug_title": "dreams-of-glory", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Alex Donet (Arturo Gamarra)", "Macarena Carrillo (Rosario Alvarado)"], "comments": [], "recommandations_id": []}

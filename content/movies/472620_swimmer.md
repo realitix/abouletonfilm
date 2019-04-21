@@ -1,0 +1,1 @@
+{"tmdb_id": 472620, "title": "Swimmer", "original_title": "Swimmer", "slug_title": "swimmer", "date": "1987-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bTzswDb8vuZPPYsHIfiHjUA5zge.jpg", "actors": [], "comments": [], "recommandations_id": []}

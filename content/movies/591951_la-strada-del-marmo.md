@@ -1,0 +1,1 @@
+{"tmdb_id": 591951, "title": "La strada del marmo", "original_title": "La strada del marmo", "slug_title": "la-strada-del-marmo", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

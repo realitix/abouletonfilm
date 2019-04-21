@@ -1,0 +1,1 @@
+{"tmdb_id": 483012, "title": "Frank Zappa: Music In Review", "original_title": "Frank Zappa: Music In Review", "slug_title": "frank-zappa-music-in-review", "date": "2008-02-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vsEAlo8amRjI0bm9Ok95TaS4Z5n.jpg", "actors": [], "comments": [], "recommandations_id": []}

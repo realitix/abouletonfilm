@@ -1,0 +1,1 @@
+{"tmdb_id": 276283, "title": "Classic Country Comedy", "original_title": "Classic Country Comedy", "slug_title": "classic-country-comedy", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/plQEXRA6LOWf1n4YusZPQe4feQZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

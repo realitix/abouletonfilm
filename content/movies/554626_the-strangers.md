@@ -1,0 +1,1 @@
+{"tmdb_id": 554626, "title": "The Strangers", "original_title": "Bang-moon", "slug_title": "the-strangers", "date": "2018-10-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

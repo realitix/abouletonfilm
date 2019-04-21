@@ -1,0 +1,1 @@
+{"tmdb_id": 556422, "title": "La faute de Monique", "original_title": "La faute de Monique", "slug_title": "la-faute-de-monique", "date": "1928-12-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 284797, "title": "A Lass of the Lumberlands", "original_title": "A Lass of the Lumberlands", "slug_title": "a-lass-of-the-lumberlands", "date": "1916-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Helen Holmes ()", "Leo D. Maloney ()", "Thomas G. Lingham ()"], "comments": [], "recommandations_id": []}

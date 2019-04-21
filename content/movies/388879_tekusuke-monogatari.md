@@ -1,0 +1,1 @@
+{"tmdb_id": 388879, "title": "Tekusuke Monogatari", "original_title": "Tekusuke Monogatari", "slug_title": "tekusuke-monogatari", "date": "1938-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iI5JeEMCqCv5953rIUHP6xdRlgP.jpg", "actors": [], "comments": [], "recommandations_id": []}

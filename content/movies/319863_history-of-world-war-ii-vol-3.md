@@ -1,0 +1,1 @@
+{"tmdb_id": 319863, "title": "History of World War II: Vol. 3", "original_title": "History of World War II: Vol. 3", "slug_title": "history-of-world-war-ii-vol-3", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

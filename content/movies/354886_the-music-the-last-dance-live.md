@@ -1,0 +1,1 @@
+{"tmdb_id": 354886, "title": "The Music - The Last Dance (Live)", "original_title": "The Music - The Last Dance", "slug_title": "the-music-the-last-dance-live", "date": "2011-08-06", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p6DTxGWaQwGlp871TFW4mQafj1J.jpg", "actors": [], "comments": [], "recommandations_id": []}

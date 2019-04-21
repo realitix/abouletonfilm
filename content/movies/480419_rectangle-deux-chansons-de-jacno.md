@@ -1,0 +1,1 @@
+{"tmdb_id": 480419, "title": "Rectangle - Deux chansons de Jacno", "original_title": "Rectangle - Deux chansons de Jacno", "slug_title": "rectangle-deux-chansons-de-jacno", "date": "1980-01-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jacno (Jacno)", "Elli Medeiros (Elli)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 566626, "title": "Cinema Dadaab", "original_title": "Cinema Dadaab", "slug_title": "cinema-dadaab", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sYFOGzg1b6za7fA0COahq1npyjh.jpg", "actors": ["Abdikafi Mohamed Ibrahim (Protagonist / himself)"], "comments": [], "recommandations_id": []}

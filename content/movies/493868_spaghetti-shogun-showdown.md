@@ -1,0 +1,1 @@
+{"tmdb_id": 493868, "title": "Spaghetti Shogun Showdown", "original_title": "Spaghetti Shogun Showdown", "slug_title": "spaghetti-shogun-showdown", "date": "2017-03-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Louis Kroll (Ninja Cowboy)", "Kyle Frei (Denim Punk)"], "comments": [], "recommandations_id": []}

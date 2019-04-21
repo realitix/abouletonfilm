@@ -1,0 +1,1 @@
+{"tmdb_id": 507720, "title": "Una selfie con Timochenko", "original_title": "Una selfie con Timochenko", "slug_title": "una-selfie-con-timochenko", "date": "2018-03-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4jOgbzfWQyeuI9izRhHSr8ZGRAQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

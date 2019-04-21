@@ -1,0 +1,1 @@
+{"tmdb_id": 418187, "title": "Bill and Bunny", "original_title": "Bill och hemliga Bolla", "slug_title": "bill-and-bunny", "date": "1986-04-05", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2nCpU3B09CZEreKafnJtzNv91Xp.jpg", "actors": ["Bj\u00f6rn Gustafson (Narrator)"], "comments": [], "recommandations_id": []}

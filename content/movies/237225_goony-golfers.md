@@ -1,0 +1,1 @@
+{"tmdb_id": 237225, "title": "Goony Golfers", "original_title": "Goony Golfers", "slug_title": "goony-golfers", "date": "1948-12-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dayton Allen (Heckle / Jeckle / Bulldog Golfer (voice) (uncredited))"], "comments": [], "recommandations_id": []}

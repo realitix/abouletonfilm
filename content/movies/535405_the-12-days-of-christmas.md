@@ -1,0 +1,1 @@
+{"tmdb_id": 535405, "title": "The 12 Days of Christmas", "original_title": "The 12 Days of Christmas", "slug_title": "the-12-days-of-christmas", "date": "1975-12-01", "genre": "Animation / Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/52TFKPhiAu8uqKJ7raflFeObBI5.jpg", "actors": [], "comments": [], "recommandations_id": []}

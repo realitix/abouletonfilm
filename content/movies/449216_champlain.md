@@ -1,0 +1,1 @@
+{"tmdb_id": 449216, "title": "Champlain", "original_title": "Champlain", "slug_title": "champlain", "date": "1964-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hYIWWDLAhSf3nmrINwnk3i2hPnv.jpg", "actors": [], "comments": [], "recommandations_id": []}

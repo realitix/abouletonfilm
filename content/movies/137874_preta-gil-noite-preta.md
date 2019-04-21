@@ -1,0 +1,1 @@
+{"tmdb_id": 137874, "title": "Preta Gil - Noite Preta", "original_title": "Preta Gil - Noite Preta", "slug_title": "preta-gil-noite-preta", "date": "2016-02-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5uuaXThfRvPeJyPN3VESkoD9T53.jpg", "actors": [], "comments": [], "recommandations_id": []}

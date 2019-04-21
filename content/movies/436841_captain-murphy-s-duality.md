@@ -1,0 +1,1 @@
+{"tmdb_id": 436841, "title": "Captain Murphy's Duality", "original_title": "Captain Murphy's Duality", "slug_title": "captain-murphy-s-duality", "date": "2012-11-15", "genre": "Animation / Musique", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zawn04PT520sd77LkJEECsvaSJG.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 542305, "title": "Bhalobashar Bari", "original_title": "Bhalobashar Bari", "slug_title": "bhalobashar-bari", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

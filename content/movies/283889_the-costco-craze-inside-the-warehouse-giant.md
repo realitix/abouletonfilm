@@ -1,0 +1,1 @@
+{"tmdb_id": 283889, "title": "The Costco Craze: Inside the Warehouse Giant", "original_title": "The Costco Craze: Inside the Warehouse Giant", "slug_title": "the-costco-craze-inside-the-warehouse-giant", "date": "2012-04-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

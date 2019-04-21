@@ -1,0 +1,1 @@
+{"tmdb_id": 422770, "title": "Ink, Cocks & Rock'n'Roll", "original_title": "Ink, Cocks & Rock'n'Roll", "slug_title": "ink-cocks-rock-n-roll", "date": "2016-10-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Steve Martin (Himself / Krent Able)"], "comments": [], "recommandations_id": []}

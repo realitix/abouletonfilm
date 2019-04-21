@@ -1,0 +1,1 @@
+{"tmdb_id": 279513, "title": "Ajeyudu", "original_title": "Ajeyudu", "slug_title": "ajeyudu", "date": "1987-08-08", "genre": "Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7iGEtz2zkhYCyok8bLXnIGTdjUm.jpg", "actors": ["Venkatesh ()", "Shobana ()", "Sobhan Babu ()"], "comments": [], "recommandations_id": []}

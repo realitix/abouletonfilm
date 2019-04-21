@@ -1,0 +1,1 @@
+{"tmdb_id": 394125, "title": "Henry Miller, po\u00e8te maudit", "original_title": "Henry Miller, po\u00e8te maudit", "slug_title": "henry-miller-poete-maudit", "date": "1974-04-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

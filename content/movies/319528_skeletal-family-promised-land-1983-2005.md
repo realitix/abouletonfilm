@@ -1,0 +1,1 @@
+{"tmdb_id": 319528, "title": "Skeletal Family: Promised Land: 1983-2005", "original_title": "Skeletal Family: Promised Land: 1983-2005", "slug_title": "skeletal-family-promised-land-1983-2005", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

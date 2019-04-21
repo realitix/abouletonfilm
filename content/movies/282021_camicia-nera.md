@@ -1,0 +1,1 @@
+{"tmdb_id": 282021, "title": "Camicia nera", "original_title": "Camicia nera", "slug_title": "camicia-nera", "date": "1933-01-02", "genre": "", "score": "3.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4DOk2tLF6dgvyEuGOBVO0bDCPjW.jpg", "actors": [], "comments": [], "recommandations_id": [284976]}

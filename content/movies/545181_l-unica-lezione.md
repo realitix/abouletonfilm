@@ -1,0 +1,1 @@
+{"tmdb_id": 545181, "title": "L'unica lezione", "original_title": "L'unica lezione", "slug_title": "l-unica-lezione", "date": "2018-09-21", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oEiKrmSm86M4BqZzKU5CaqKvz9i.jpg", "actors": [], "comments": [], "recommandations_id": []}

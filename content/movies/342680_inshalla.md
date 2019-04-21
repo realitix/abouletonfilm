@@ -1,0 +1,1 @@
+{"tmdb_id": 342680, "title": "Inshalla", "original_title": "\uc778\uc0ec\ub77c", "slug_title": "inshalla", "date": "1997-01-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bBYmfdR580009XwgbhUUNbzZk17.jpg", "actors": ["Lee Young-ae (Li Hyang)", "Choi Min-soo ()"], "comments": [], "recommandations_id": []}

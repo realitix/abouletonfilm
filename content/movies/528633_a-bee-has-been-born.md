@@ -1,0 +1,1 @@
+{"tmdb_id": 528633, "title": "A Bee Has Been Born", "original_title": "P\u010delica je ro\u0111ena", "slug_title": "a-bee-has-been-born", "date": "1970-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g4t3wLmba9uAv69oqiWWg1fiFOk.jpg", "actors": [], "comments": [], "recommandations_id": []}

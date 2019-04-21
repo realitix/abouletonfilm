@@ -1,0 +1,1 @@
+{"tmdb_id": 591262, "title": "The History of Metal and Horror", "original_title": "The History of Metal and Horror", "slug_title": "the-history-of-metal-and-horror", "date": "", "genre": "Documentaire / Horreur / Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

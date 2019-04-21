@@ -1,0 +1,1 @@
+{"tmdb_id": 572763, "title": "The Rage", "original_title": "The Rage", "slug_title": "the-rage", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Christian Greenway (Joe)"], "comments": [], "recommandations_id": []}

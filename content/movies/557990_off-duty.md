@@ -1,0 +1,1 @@
+{"tmdb_id": 557990, "title": "Off Duty", "original_title": "Off Duty", "slug_title": "off-duty", "date": "2018-01-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

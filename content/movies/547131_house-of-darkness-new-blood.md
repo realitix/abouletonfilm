@@ -1,0 +1,1 @@
+{"tmdb_id": 547131, "title": "House of Darkness: New Blood", "original_title": "House of Darkness: New Blood", "slug_title": "house-of-darkness-new-blood", "date": "2018-09-07", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/187NThOqFyGFFUP9wfIL5VA5AVa.jpg", "actors": [], "comments": [], "recommandations_id": []}

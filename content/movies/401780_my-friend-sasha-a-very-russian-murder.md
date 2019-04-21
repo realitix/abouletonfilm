@@ -1,0 +1,1 @@
+{"tmdb_id": 401780, "title": "My Friend Sasha: A Very Russian Murder", "original_title": "My Friend Sasha: A Very Russian Murder", "slug_title": "my-friend-sasha-a-very-russian-murder", "date": "2007-01-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

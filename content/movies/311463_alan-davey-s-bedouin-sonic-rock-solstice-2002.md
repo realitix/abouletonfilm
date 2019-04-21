@@ -1,0 +1,1 @@
+{"tmdb_id": 311463, "title": "Alan Davey's Bedouin: Sonic Rock Solstice 2002", "original_title": "Alan Davey's Bedouin: Sonic Rock Solstice 2002", "slug_title": "alan-davey-s-bedouin-sonic-rock-solstice-2002", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 575650, "title": "Wife Trouble", "original_title": "Wife Trouble", "slug_title": "wife-trouble", "date": "1928-09-23", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Robert Graves ()", "Muriel Evans ()", "Amber Norman ()", "Adrienne Dore ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 228429, "title": "Chicken Elections", "original_title": "Pile\u0107i izbori", "slug_title": "chicken-elections", "date": "2005-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qf6RDejKW3CDQlPwYFGhxCAobLQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

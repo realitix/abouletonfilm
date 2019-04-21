@@ -1,0 +1,1 @@
+{"tmdb_id": 236555, "title": "Andy Panda's Pop", "original_title": "Andy Panda's Pop", "slug_title": "andy-panda-s-pop", "date": "1941-07-27", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eToix9kaGf9fKVmhyYjBkbcVCxv.jpg", "actors": [], "comments": [], "recommandations_id": []}

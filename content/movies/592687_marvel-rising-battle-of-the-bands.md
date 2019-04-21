@@ -1,0 +1,1 @@
+{"tmdb_id": 592687, "title": "Marvel Rising: Battle of the Bands", "original_title": "Marvel Rising: Battle of the Bands", "slug_title": "marvel-rising-battle-of-the-bands", "date": "", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

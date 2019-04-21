@@ -1,0 +1,1 @@
+{"tmdb_id": 303153, "title": "Barcelona Here We Stand", "original_title": "Barcelona Here We Stand", "slug_title": "barcelona-here-we-stand", "date": "2014-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 305007, "title": "VS: Apocalyptic the Tsunami War", "original_title": "VS: Apocalyptic the Tsunami War", "slug_title": "vs-apocalyptic-the-tsunami-war", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dckPnYArpfVojAb8HRDFZKsb2Sf.jpg", "actors": [], "comments": [], "recommandations_id": []}

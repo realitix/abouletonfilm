@@ -1,0 +1,1 @@
+{"tmdb_id": 528967, "title": "Manga Design", "original_title": "Manga Design", "slug_title": "manga-design", "date": "2004-09-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5KNl73udlU0NyyCJg4UpnST7BI1.jpg", "actors": [], "comments": [], "recommandations_id": []}

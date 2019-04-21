@@ -1,0 +1,1 @@
+{"tmdb_id": 259367, "title": "Double Act", "original_title": "Double Act", "slug_title": "double-act", "date": "2013-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

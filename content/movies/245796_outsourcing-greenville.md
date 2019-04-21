@@ -1,0 +1,1 @@
+{"tmdb_id": 245796, "title": "Outsourcing Greenville", "original_title": "Outsourcing Greenville", "slug_title": "outsourcing-greenville", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5dR2UkxFPBkEkNYMzTzUPqWdflg.jpg", "actors": [], "comments": [], "recommandations_id": []}

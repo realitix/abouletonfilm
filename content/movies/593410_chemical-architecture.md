@@ -1,0 +1,1 @@
+{"tmdb_id": 593410, "title": "Chemical Architecture", "original_title": "Chemical Architecture", "slug_title": "chemical-architecture", "date": "1968-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

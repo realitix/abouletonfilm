@@ -1,0 +1,1 @@
+{"tmdb_id": 532155, "title": "Musangwe: Fight Club", "original_title": "Musangwe: Fight Club", "slug_title": "musangwe-fight-club", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tZDxttt0LfgAKwvLIWyOO3fr01c.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 525386, "title": "Katya Krenalinova", "original_title": "\u041a\u0430\u0442\u044f \u041a\u0440\u0435\u043d\u0430\u043b\u0438\u043d\u043e\u0432\u0430", "slug_title": "katya-krenalinova", "date": "2011-09-27", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

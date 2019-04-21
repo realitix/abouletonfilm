@@ -1,0 +1,1 @@
+{"tmdb_id": 315192, "title": "All Stars", "original_title": "All Stars", "slug_title": "all-stars", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nKga0XpUAOejB3PJgLda1o5cXLp.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 388625, "title": "M.S. Chanda", "original_title": "Chanda Gou", "slug_title": "m-s-chanda", "date": "1964-01-01", "genre": "Animation", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uqCKpXAJ6ADmbSBVSaU8tB7knlH.jpg", "actors": [], "comments": [], "recommandations_id": []}

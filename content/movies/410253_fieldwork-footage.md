@@ -1,0 +1,1 @@
+{"tmdb_id": 410253, "title": "Fieldwork Footage", "original_title": "Fieldwork Footage", "slug_title": "fieldwork-footage", "date": "1928-01-08", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ulBlHuJiLmJF5VtjN3xsCpdSefE.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 404554, "title": "The Elephant Mouse", "original_title": "The Elephant Mouse", "slug_title": "the-elephant-mouse", "date": "1951-04-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Arthur Kay (Cat (voice))"], "comments": [], "recommandations_id": []}

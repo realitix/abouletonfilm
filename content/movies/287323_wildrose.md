@@ -1,0 +1,1 @@
+{"tmdb_id": 287323, "title": "Wildrose", "original_title": "Wildrose", "slug_title": "wildrose", "date": "1984-05-04", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f3LvSZoGouYDLFjSsF38sod23Pq.jpg", "actors": ["Lisa Eichhorn (June)", "Tom Bower (Rick)"], "comments": [], "recommandations_id": []}

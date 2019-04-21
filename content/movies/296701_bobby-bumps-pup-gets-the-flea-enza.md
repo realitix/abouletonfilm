@@ -1,0 +1,1 @@
+{"tmdb_id": 296701, "title": "Bobby Bumps' Pup Gets the Flea-Enza", "original_title": "Bobby Bumps' Pup Gets the Flea-Enza", "slug_title": "bobby-bumps-pup-gets-the-flea-enza", "date": "1919-04-19", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

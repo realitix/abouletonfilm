@@ -1,0 +1,1 @@
+{"tmdb_id": 519677, "title": "A Dam Rib Bed", "original_title": "A Dam Rib Bed", "slug_title": "a-dam-rib-bed", "date": "1965-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zusM63BNkT2NfD4uX8m4Qx76kUr.jpg", "actors": [], "comments": [], "recommandations_id": []}

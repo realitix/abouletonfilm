@@ -1,0 +1,1 @@
+{"tmdb_id": 526972, "title": "Sense of Morning", "original_title": "Sense of Morning", "slug_title": "sense-of-morning", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mohammad Bakri (Mahmoud)", "Ziad Bakri (Mahmoud)"], "comments": [], "recommandations_id": []}

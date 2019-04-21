@@ -1,0 +1,1 @@
+{"tmdb_id": 275803, "title": "Bob Dylan's New York", "original_title": "Bob Dylan's New York", "slug_title": "bob-dylan-s-new-york", "date": "2008-02-26", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

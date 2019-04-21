@@ -1,0 +1,1 @@
+{"tmdb_id": 311968, "title": "Yours Truly", "original_title": "Tumhara Kalloo", "slug_title": "yours-truly", "date": "1975-08-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8pX1mKIfPsxzZCulYoonstW3anm.jpg", "actors": [], "comments": [], "recommandations_id": []}

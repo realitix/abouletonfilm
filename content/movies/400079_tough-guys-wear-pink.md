@@ -1,0 +1,1 @@
+{"tmdb_id": 400079, "title": "Tough Guys Wear Pink", "original_title": "Tough Guys Wear Pink", "slug_title": "tough-guys-wear-pink", "date": "2004-05-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

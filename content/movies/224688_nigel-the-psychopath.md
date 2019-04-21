@@ -1,0 +1,1 @@
+{"tmdb_id": 224688, "title": "Nigel The Psychopath", "original_title": "Nigel The Psychopath", "slug_title": "nigel-the-psychopath", "date": "1994-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2b607r9TN5OhJ1Id9YiY7So9qm9.jpg", "actors": [], "comments": [], "recommandations_id": []}

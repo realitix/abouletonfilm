@@ -1,0 +1,1 @@
+{"tmdb_id": 583519, "title": "Salam Pakistan", "original_title": "Salam Pakistan", "slug_title": "salam-pakistan", "date": "2018-03-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fOlbKXfrid4A589datHDDsqJSJI.jpg", "actors": [], "comments": [], "recommandations_id": []}

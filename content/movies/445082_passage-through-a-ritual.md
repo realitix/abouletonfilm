@@ -1,0 +1,1 @@
+{"tmdb_id": 445082, "title": "Passage Through: A Ritual", "original_title": "Passage Through: A Ritual", "slug_title": "passage-through-a-ritual", "date": "1990-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

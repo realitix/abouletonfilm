@@ -1,0 +1,1 @@
+{"tmdb_id": 506823, "title": "Andy the Furniture Maker", "original_title": "Andy the Furniture Maker", "slug_title": "andy-the-furniture-maker", "date": "1986-02-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

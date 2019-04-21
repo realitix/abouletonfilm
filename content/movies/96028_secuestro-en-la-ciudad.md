@@ -1,0 +1,1 @@
+{"tmdb_id": 96028, "title": "Secuestro en la ciudad", "original_title": "Secuestro en la ciudad", "slug_title": "secuestro-en-la-ciudad", "date": "1965-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Alberto de Mendoza ()", "Jos\u00e9 Marco Dav\u00f3 ()", "Alberto Dalb\u00e9s ()"], "comments": [], "recommandations_id": []}

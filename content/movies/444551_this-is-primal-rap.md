@@ -1,0 +1,1 @@
+{"tmdb_id": 444551, "title": "This Is Primal Rap", "original_title": "This Is Primal Rap", "slug_title": "this-is-primal-rap", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

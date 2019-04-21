@@ -1,0 +1,1 @@
+{"tmdb_id": 312503, "title": "Waldb\u00fchne Concert: A Romantic Opera Night", "original_title": "Waldb\u00fchne Concert: A Romantic Opera Night", "slug_title": "waldbuhne-concert-a-romantic-opera-night", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

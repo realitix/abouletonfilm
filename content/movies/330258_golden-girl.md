@@ -1,0 +1,1 @@
+{"tmdb_id": 330258, "title": "Golden Girl", "original_title": "Golden Girl", "slug_title": "golden-girl", "date": "2003-04-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lisa Belle (Morgane)", "Philippe Visconti (Pierre)", "St\u00e9phane Jacquot (Damien)"], "comments": [], "recommandations_id": []}

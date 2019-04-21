@@ -1,0 +1,1 @@
+{"tmdb_id": 117404, "title": "ABC Africa", "original_title": "ABC Africa", "slug_title": "abc-africa", "date": "2001-10-24", "genre": "Documentaire", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7Pk7njUW33tpaSOafwMQckAQZUo.jpg", "actors": [], "comments": [], "recommandations_id": [101822, 132150, 85535, 125]}

@@ -1,0 +1,1 @@
+{"tmdb_id": 401665, "title": "Zezo - Ao vivo em Santa Cruz", "original_title": "Zezo - Ao vivo em Santa Cruz", "slug_title": "zezo-ao-vivo-em-santa-cruz", "date": "2016-06-11", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zFTuszowb2sQrXVLSWPH67XPk8B.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 480968, "title": "Pastor Cl\u00e1udio", "original_title": "Pastor Cl\u00e1udio", "slug_title": "pastor-claudio", "date": "2017-10-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gVKyWcBcV9jbVGg85GMPP6loUPb.jpg", "actors": [], "comments": [], "recommandations_id": []}

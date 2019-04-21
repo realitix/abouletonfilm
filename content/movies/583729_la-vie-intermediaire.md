@@ -1,0 +1,1 @@
+{"tmdb_id": 583729, "title": "La vie interm\u00e9diaire", "original_title": "La vie interm\u00e9diaire", "slug_title": "la-vie-intermediaire", "date": "2009-05-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lTdD19eTz2BUG044IK6VedJh6Jy.jpg", "actors": [], "comments": [], "recommandations_id": []}

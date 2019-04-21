@@ -1,0 +1,1 @@
+{"tmdb_id": 387635, "title": "Public Affairs", "original_title": "La chose publique", "slug_title": "public-affairs", "date": "2003-03-13", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5CIuHWXIMks9QZDMLyG6fiiXVeQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 414398, "title": "Car Craze", "original_title": "Car Craze", "slug_title": "car-craze", "date": "2003-01-01", "genre": "Animation", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vD6h5Uv1CwTyKeinBk0tqTpFaCa.jpg", "actors": [], "comments": [], "recommandations_id": []}

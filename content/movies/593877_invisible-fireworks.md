@@ -1,0 +1,1 @@
+{"tmdb_id": 593877, "title": "Invisible Fireworks", "original_title": "Invisible Fireworks", "slug_title": "invisible-fireworks", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

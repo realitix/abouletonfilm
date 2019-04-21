@@ -1,0 +1,1 @@
+{"tmdb_id": 313907, "title": "Autobus", "original_title": "Autobus", "slug_title": "autobus", "date": "1993-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

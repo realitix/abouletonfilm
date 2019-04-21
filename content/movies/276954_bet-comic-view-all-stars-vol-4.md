@@ -1,0 +1,1 @@
+{"tmdb_id": 276954, "title": "BET Comic View All Stars: Vol. 4", "original_title": "BET Comic View All Stars: Vol. 4", "slug_title": "bet-comic-view-all-stars-vol-4", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

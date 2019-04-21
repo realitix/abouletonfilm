@@ -1,0 +1,1 @@
+{"tmdb_id": 324600, "title": "Meat of Other Times", "original_title": "Meat of Other Times", "slug_title": "meat-of-other-times", "date": "1984-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

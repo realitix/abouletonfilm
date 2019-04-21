@@ -1,0 +1,1 @@
+{"tmdb_id": 307237, "title": "Adera Premante", "original_title": "Adera Premante", "slug_title": "adera-premante", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 323980, "title": "Destroy Roy", "original_title": "Destroy Roy", "slug_title": "destroy-roy", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

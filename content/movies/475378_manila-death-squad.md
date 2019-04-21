@@ -1,0 +1,1 @@
+{"tmdb_id": 475378, "title": "Manila Death Squad", "original_title": "Manila Death Squad", "slug_title": "manila-death-squad", "date": "2017-02-01", "genre": "Crime / Drame", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z2YOPnBwW60wT1ojRSIev9ca1R6.jpg", "actors": ["Sid Lucero ()"], "comments": [], "recommandations_id": []}

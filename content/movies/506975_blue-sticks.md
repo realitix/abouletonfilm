@@ -1,0 +1,1 @@
+{"tmdb_id": 506975, "title": "Blue Sticks", "original_title": "Blue Sticks", "slug_title": "blue-sticks", "date": "1998-02-23", "genre": "Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zZl229nKDX8CToSb50MCfOnea7C.jpg", "actors": [], "comments": [], "recommandations_id": []}

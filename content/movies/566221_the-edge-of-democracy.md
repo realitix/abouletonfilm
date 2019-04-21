@@ -1,0 +1,1 @@
+{"tmdb_id": 566221, "title": "The Edge of Democracy", "original_title": "Democracia em Vertigem", "slug_title": "the-edge-of-democracy", "date": "2019-01-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m0YFndoMyczlKBUIGp9T8sc7Q6M.jpg", "actors": [], "comments": [], "recommandations_id": []}

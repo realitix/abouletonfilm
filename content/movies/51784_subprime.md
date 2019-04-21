@@ -1,0 +1,1 @@
+{"tmdb_id": 51784, "title": "Subprime", "original_title": "Subprime", "slug_title": "subprime", "date": "2010-09-17", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rEsBvzkintuMjpRCdrPlH5qqBDT.jpg", "actors": ["Aaron Miller (Leo Monroe)"], "comments": [], "recommandations_id": []}

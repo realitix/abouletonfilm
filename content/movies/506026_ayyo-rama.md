@@ -1,0 +1,1 @@
+{"tmdb_id": 506026, "title": "Ayyo Rama", "original_title": "Ayyo Rama", "slug_title": "ayyo-rama", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

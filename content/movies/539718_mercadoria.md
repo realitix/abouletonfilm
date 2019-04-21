@@ -1,0 +1,1 @@
+{"tmdb_id": 539718, "title": "Mercadoria", "original_title": "Mercadoria", "slug_title": "mercadoria", "date": "2017-05-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/49XYc9beqIEsfXCGarX8N2ZMlzH.jpg", "actors": [], "comments": [], "recommandations_id": []}

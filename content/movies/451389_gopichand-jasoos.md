@@ -1,0 +1,1 @@
+{"tmdb_id": 451389, "title": "Gopichand Jasoos", "original_title": "Gopichand Jasoos", "slug_title": "gopichand-jasoos", "date": "1982-02-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Raj Kapoor ()", "Zeenat Aman ()", "Prem Chopra ()", "Viju Khote ()"], "comments": [], "recommandations_id": []}

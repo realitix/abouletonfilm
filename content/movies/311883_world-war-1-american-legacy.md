@@ -1,0 +1,1 @@
+{"tmdb_id": 311883, "title": "World War 1: American Legacy", "original_title": "World War 1: American Legacy", "slug_title": "world-war-1-american-legacy", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

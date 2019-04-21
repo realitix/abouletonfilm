@@ -1,0 +1,1 @@
+{"tmdb_id": 398783, "title": "Helt P\u00e5 Trynet 2", "original_title": "Helt P\u00e5 Trynet 2", "slug_title": "helt-pa-trynet-2", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/conJhgV8BBAUBQ3tqLng2Uvd86Q.jpg", "actors": ["Eldar V\u00e5gan ()"], "comments": [], "recommandations_id": []}

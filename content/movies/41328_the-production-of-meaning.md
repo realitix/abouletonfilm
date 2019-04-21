@@ -1,0 +1,1 @@
+{"tmdb_id": 41328, "title": "The Production of Meaning", "original_title": "The Production of Meaning", "slug_title": "the-production-of-meaning", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jxwbjhlLxkDis9rFQXoXBV3MsBH.jpg", "actors": [], "comments": [], "recommandations_id": []}

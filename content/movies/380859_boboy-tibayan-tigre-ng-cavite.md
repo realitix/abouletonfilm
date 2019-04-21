@@ -1,0 +1,1 @@
+{"tmdb_id": 380859, "title": "Boboy Tibayan: Tigre ng Cavite", "original_title": "Boboy Tibayan: Tigre ng Cavite", "slug_title": "boboy-tibayan-tigre-ng-cavite", "date": "1985-12-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cJSwmuUlVJe058npPldRz1VssBi.jpg", "actors": [], "comments": [], "recommandations_id": []}

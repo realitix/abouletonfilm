@@ -1,0 +1,1 @@
+{"tmdb_id": 539012, "title": "Trois jours de perm'", "original_title": "Trois jours de perm'", "slug_title": "trois-jours-de-perm", "date": "1936-06-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bf9SS6Ghga0kn5vdAQ28Lmwjd5h.jpg", "actors": [], "comments": [], "recommandations_id": []}

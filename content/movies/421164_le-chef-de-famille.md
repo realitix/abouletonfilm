@@ -1,0 +1,1 @@
+{"tmdb_id": 421164, "title": "Le chef de famille", "original_title": "Le chef de famille", "slug_title": "le-chef-de-famille", "date": "1982-02-12", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Edwige Feuill\u00e8re (Liane)", "Fanny Ardant (Katy)"], "comments": [], "recommandations_id": []}

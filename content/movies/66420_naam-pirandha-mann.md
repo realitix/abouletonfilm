@@ -1,0 +1,1 @@
+{"tmdb_id": 66420, "title": "Naam Pirandha Mann", "original_title": "Naam Pirandha Mann", "slug_title": "naam-pirandha-mann", "date": "1977-08-07", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["K R Vijaya ()", "Gemini Ganesan ()", "Kamal Haasan ()", "Sivaji Ganesan ()"], "comments": [], "recommandations_id": []}

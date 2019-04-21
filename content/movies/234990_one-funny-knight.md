@@ -1,0 +1,1 @@
+{"tmdb_id": 234990, "title": "One Funny Knight", "original_title": "One Funny Knight", "slug_title": "one-funny-knight", "date": "1957-11-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

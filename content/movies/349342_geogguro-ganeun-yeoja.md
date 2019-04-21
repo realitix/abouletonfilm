@@ -1,0 +1,1 @@
+{"tmdb_id": 349342, "title": "\uac70\uafb8\ub85c \uac00\ub294 \uc5ec\uc790", "original_title": "\uac70\uafb8\ub85c \uac00\ub294 \uc5ec\uc790", "slug_title": "geogguro-ganeun-yeoja", "date": "1994-03-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kang Ri-na ()"], "comments": [], "recommandations_id": []}

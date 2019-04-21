@@ -1,0 +1,1 @@
+{"tmdb_id": 235657, "title": "Busy Little Bears", "original_title": "Busy Little Bears", "slug_title": "busy-little-bears", "date": "1939-04-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 571799, "title": "Tre skojiga skojare", "original_title": "Tre skojiga skojare", "slug_title": "tre-skojiga-skojare", "date": "1942-08-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

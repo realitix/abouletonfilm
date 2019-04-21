@@ -1,0 +1,1 @@
+{"tmdb_id": 114868, "title": "Kasiping", "original_title": "Kasiping", "slug_title": "kasiping", "date": "2002-01-01", "genre": "Romance / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5yN6zmUb8xUkP46lOfBi1A4QcIO.jpg", "actors": ["Diana Zubiri ()", "Halina Perez ()"], "comments": [], "recommandations_id": []}

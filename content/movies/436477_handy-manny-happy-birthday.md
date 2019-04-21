@@ -1,0 +1,1 @@
+{"tmdb_id": 436477, "title": "Handy Manny: Happy Birthday", "original_title": "Handy Manny: Happy Birthday", "slug_title": "handy-manny-happy-birthday", "date": "", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vbVvu3opjWdC5tHRe9BUBO69zLC.jpg", "actors": [], "comments": [], "recommandations_id": []}

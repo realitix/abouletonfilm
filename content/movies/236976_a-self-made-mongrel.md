@@ -1,0 +1,1 @@
+{"tmdb_id": 236976, "title": "A Self-Made Mongrel", "original_title": "A Self-Made Mongrel", "slug_title": "a-self-made-mongrel", "date": "1945-06-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rhejVwkVpElBWCgvV3njeHtubKX.jpg", "actors": [], "comments": [], "recommandations_id": []}

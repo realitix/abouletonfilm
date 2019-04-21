@@ -1,0 +1,1 @@
+{"tmdb_id": 296667, "title": "Romans d'ados", "original_title": "Romans d'ados", "slug_title": "romans-d-ados", "date": "2010-02-02", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kqxxHodxRgbPMvp0tVSkQVQaHyz.jpg", "actors": [], "comments": [], "recommandations_id": []}

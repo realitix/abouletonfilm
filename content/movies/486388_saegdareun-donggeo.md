@@ -1,0 +1,1 @@
+{"tmdb_id": 486388, "title": "\uc0c9\ub2e4\ub978 \ub3d9\uac70", "original_title": "\uc0c9\ub2e4\ub978 \ub3d9\uac70", "slug_title": "saegdareun-donggeo", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dQJo3asS2eKBTqGVklh0f6pA42W.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 422689, "title": "Be Like Me", "original_title": "Be Like Me", "slug_title": "be-like-me", "date": "1931-10-24", "genre": "Musique", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sogojmbCGKjNxUdvGCyqEdZ3RQY.jpg", "actors": ["Ethel Merman (Eve)", "Sidney Easton (George)"], "comments": [], "recommandations_id": []}

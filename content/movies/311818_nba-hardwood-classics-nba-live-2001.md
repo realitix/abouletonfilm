@@ -1,0 +1,1 @@
+{"tmdb_id": 311818, "title": "NBA Hardwood Classics: NBA Live 2001", "original_title": "NBA Hardwood Classics: NBA Live 2001", "slug_title": "nba-hardwood-classics-nba-live-2001", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

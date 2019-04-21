@@ -1,0 +1,1 @@
+{"tmdb_id": 220665, "title": "Fish Fry", "original_title": "Fish Fry", "slug_title": "fish-fry", "date": "1944-06-19", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bW5h3QGb4pS8qtVCsQIEgAXzMPV.jpg", "actors": ["Mel Blanc ()"], "comments": [], "recommandations_id": []}

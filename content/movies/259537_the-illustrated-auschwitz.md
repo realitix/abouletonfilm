@@ -1,0 +1,1 @@
+{"tmdb_id": 259537, "title": "The Illustrated Auschwitz", "original_title": "The Illustrated Auschwitz", "slug_title": "the-illustrated-auschwitz", "date": "1992-06-15", "genre": "Drame / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

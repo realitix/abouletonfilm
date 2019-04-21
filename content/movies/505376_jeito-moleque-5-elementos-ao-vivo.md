@@ -1,0 +1,1 @@
+{"tmdb_id": 505376, "title": "Jeito Moleque - 5 Elementos - Ao Vivo", "original_title": "Jeito Moleque - 5 Elementos - Ao Vivo", "slug_title": "jeito-moleque-5-elementos-ao-vivo", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

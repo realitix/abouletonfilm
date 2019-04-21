@@ -1,0 +1,1 @@
+{"tmdb_id": 355165, "title": "The Cropping of the Spectacle", "original_title": "The Cropping of the Spectacle", "slug_title": "the-cropping-of-the-spectacle", "date": "2010-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

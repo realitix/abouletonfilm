@@ -1,0 +1,1 @@
+{"tmdb_id": 540054, "title": "Tapout XT - Buns And Guns", "original_title": "Tapout XT - Buns And Guns", "slug_title": "tapout-xt-buns-and-guns", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gjG52RhejXj7wSLj4QruwkHytsV.jpg", "actors": [], "comments": [], "recommandations_id": []}

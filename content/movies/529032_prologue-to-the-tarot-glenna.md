@@ -1,0 +1,1 @@
+{"tmdb_id": 529032, "title": "Prologue to the Tarot: Glenna", "original_title": "Prologue to the Tarot: Glenna", "slug_title": "prologue-to-the-tarot-glenna", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ysI3YTBhJRth5d1c1Nwf4vT9LTP.jpg", "actors": [], "comments": [], "recommandations_id": []}

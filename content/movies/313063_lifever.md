@@ -1,0 +1,1 @@
+{"tmdb_id": 313063, "title": "Lifever", "original_title": "Lifever", "slug_title": "lifever", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Adeline Adelski ()", "Simon Bonnel ()", "Anna Cottis ()", "C\u00e9dric Ingard ()", "Lara Mistretta ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 159839, "title": "When the Zombies Come", "original_title": "When the Zombies Come", "slug_title": "when-the-zombies-come", "date": "2013-01-18", "genre": "", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1CC1CaCCZHjnvfs8a7XBzBAEFsw.jpg", "actors": [], "comments": [], "recommandations_id": []}

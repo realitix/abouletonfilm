@@ -1,0 +1,1 @@
+{"tmdb_id": 272868, "title": "Fry's Planet Word", "original_title": "Fry's Planet Word", "slug_title": "fry-s-planet-word", "date": "2011-09-25", "genre": "Documentaire", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gX1TbOswcsNj4V5XkY4b64rlecG.jpg", "actors": ["Stephen Fry ()"], "comments": [], "recommandations_id": []}

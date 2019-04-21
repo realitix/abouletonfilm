@@ -1,0 +1,1 @@
+{"tmdb_id": 275784, "title": "Solva Saal", "original_title": "Solva Saal", "slug_title": "solva-saal", "date": "1958-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sJ6mcYiagdvCK0NTnuzukHb8hd.jpg", "actors": [], "comments": [], "recommandations_id": []}

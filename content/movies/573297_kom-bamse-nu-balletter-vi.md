@@ -1,0 +1,1 @@
+{"tmdb_id": 573297, "title": "Kom Bamse nu balletter vi", "original_title": "Kom Bamse nu balletter vi", "slug_title": "kom-bamse-nu-balletter-vi", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b6HDaB4EpgFXSQMo9z1s2miydJl.jpg", "actors": [], "comments": [], "recommandations_id": []}

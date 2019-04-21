@@ -1,0 +1,1 @@
+{"tmdb_id": 570111, "title": "Satan and the Virgin", "original_title": "Satan and the Virgin", "slug_title": "satan-and-the-virgin", "date": "", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pFVlJlyO4VWQMaiXcTISA6nKxx1.jpg", "actors": [], "comments": [], "recommandations_id": []}

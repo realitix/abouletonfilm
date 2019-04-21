@@ -1,0 +1,1 @@
+{"tmdb_id": 196592, "title": "Fran\u00e7ois Ier et Triboulet", "original_title": "Fran\u00e7ois Ier et Triboulet", "slug_title": "francois-ier-et-triboulet", "date": "1908-01-24", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

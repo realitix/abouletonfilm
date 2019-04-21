@@ -1,0 +1,1 @@
+{"tmdb_id": 510018, "title": "Side by Side, Eye to Eye", "original_title": "Juntos y revueltos: El mejunje de Silverio", "slug_title": "side-by-side-eye-to-eye", "date": "2014-03-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uYrNIDzL3ZDOx4aIAOhbDp9tWon.jpg", "actors": [], "comments": [], "recommandations_id": []}

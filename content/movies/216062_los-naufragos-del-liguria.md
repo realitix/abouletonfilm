@@ -1,0 +1,1 @@
+{"tmdb_id": 216062, "title": "Los na\u00fafragos del liguria", "original_title": "Los na\u00fafragos del liguria", "slug_title": "los-naufragos-del-liguria", "date": "1985-08-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p2AvmEsQrTh7r7g018z5m7owrm1.jpg", "actors": [], "comments": [], "recommandations_id": []}

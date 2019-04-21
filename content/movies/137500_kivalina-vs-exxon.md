@@ -1,0 +1,1 @@
+{"tmdb_id": 137500, "title": "Kivalina vs. Exxon", "original_title": "Kivalina vs. Exxon", "slug_title": "kivalina-vs-exxon", "date": "2012-06-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7Rl8ANDFIcWNMyr639VK6hREoFU.jpg", "actors": [], "comments": [], "recommandations_id": []}

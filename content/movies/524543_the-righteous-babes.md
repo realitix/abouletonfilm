@@ -1,0 +1,1 @@
+{"tmdb_id": 524543, "title": "The Righteous Babes", "original_title": "The Righteous Babes", "slug_title": "the-righteous-babes", "date": "1998-12-22", "genre": "Documentaire / Musique / T\u00e9l\u00e9film", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

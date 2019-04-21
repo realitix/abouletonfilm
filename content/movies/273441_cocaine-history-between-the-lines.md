@@ -1,0 +1,1 @@
+{"tmdb_id": 273441, "title": "Cocaine: History Between the Lines", "original_title": "Cocaine: History Between the Lines", "slug_title": "cocaine-history-between-the-lines", "date": "", "genre": "Histoire / Documentaire / T\u00e9l\u00e9film", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 364573, "title": "Clayfist", "original_title": "Clayfist", "slug_title": "clayfist", "date": "2015-04-30", "genre": "Histoire / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 391381, "title": "Wanted a Wife in a Hurry", "original_title": "Wanted a Wife in a Hurry", "slug_title": "wanted-a-wife-in-a-hurry", "date": "1912-04-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

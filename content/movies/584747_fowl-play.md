@@ -1,0 +1,1 @@
+{"tmdb_id": 584747, "title": "Fowl Play", "original_title": "Fri\u00df Vogel oder stirb", "slug_title": "fowl-play", "date": "1998-06-17", "genre": "Animation / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["K\u00e4the Lachmann (Various)"], "comments": [], "recommandations_id": []}

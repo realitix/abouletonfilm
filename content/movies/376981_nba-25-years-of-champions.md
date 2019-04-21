@@ -1,0 +1,1 @@
+{"tmdb_id": 376981, "title": "NBA: 25 Years of Champions", "original_title": "NBA: 25 Years of Champions", "slug_title": "nba-25-years-of-champions", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

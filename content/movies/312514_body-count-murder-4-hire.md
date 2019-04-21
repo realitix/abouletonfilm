@@ -1,0 +1,1 @@
+{"tmdb_id": 312514, "title": "Body Count: Murder 4 Hire", "original_title": "Body Count: Murder 4 Hire", "slug_title": "body-count-murder-4-hire", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

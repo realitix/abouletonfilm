@@ -1,0 +1,1 @@
+{"tmdb_id": 496910, "title": "Chuck Berry in Concert", "original_title": "Chuck Berry in Concert", "slug_title": "chuck-berry-in-concert", "date": "1972-07-22", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kp6gkSLwvGiy6RfZeazABzaDeRn.jpg", "actors": ["Chuck Berry ()"], "comments": [], "recommandations_id": []}

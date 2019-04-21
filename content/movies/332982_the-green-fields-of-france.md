@@ -1,0 +1,1 @@
+{"tmdb_id": 332982, "title": "The Green Fields Of France", "original_title": "The Green Fields Of France", "slug_title": "the-green-fields-of-france", "date": "2009-01-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

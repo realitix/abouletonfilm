@@ -1,0 +1,1 @@
+{"tmdb_id": 317350, "title": "Foofle's Picnic", "original_title": "Foofle's Picnic", "slug_title": "foofle-s-picnic", "date": "1960-03-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

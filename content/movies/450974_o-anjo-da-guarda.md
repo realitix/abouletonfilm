@@ -1,0 +1,1 @@
+{"tmdb_id": 450974, "title": "O Anjo da Guarda", "original_title": "O Anjo da Guarda", "slug_title": "o-anjo-da-guarda", "date": "1998-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ujP3IAEUHJ55iy9hx01GVMJo4YP.jpg", "actors": [], "comments": [], "recommandations_id": []}

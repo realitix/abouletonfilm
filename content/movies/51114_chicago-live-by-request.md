@@ -1,0 +1,1 @@
+{"tmdb_id": 51114, "title": "Chicago: Live by Request", "original_title": "Chicago: Live by Request", "slug_title": "chicago-live-by-request", "date": "2003-10-13", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nWZvu2nd881F67tpWnLmOdK2bBL.jpg", "actors": [], "comments": [], "recommandations_id": []}

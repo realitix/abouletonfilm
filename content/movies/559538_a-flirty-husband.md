@@ -1,0 +1,1 @@
+{"tmdb_id": 559538, "title": "A Flirty Husband", "original_title": "Balamnan nampyeon jabneun bultaneun yogjeongnyeo", "slug_title": "a-flirty-husband", "date": "2014-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Barley ()", "Semi ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 488849, "title": "Azem 4: Alacakaranlik", "original_title": "Azem 4: Alacakaranlik", "slug_title": "azem-4-alacakaranlik", "date": "2016-09-09", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AibyTJWIZiODBbL0bkvqu5zl9EC.jpg", "actors": [], "comments": [], "recommandations_id": []}

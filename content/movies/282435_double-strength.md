@@ -1,0 +1,1 @@
+{"tmdb_id": 282435, "title": "Double Strength", "original_title": "Double Strength", "slug_title": "double-strength", "date": "1978-01-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mY76gNCr2A6TjP62Arl9jKQjHIn.jpg", "actors": ["Barbara Hammer ()", "Terry Sendgraff ()"], "comments": [], "recommandations_id": []}

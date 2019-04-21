@@ -1,0 +1,1 @@
+{"tmdb_id": 325506, "title": "Jackson Pollock", "original_title": "Jackson Pollock", "slug_title": "jackson-pollock", "date": "1987-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

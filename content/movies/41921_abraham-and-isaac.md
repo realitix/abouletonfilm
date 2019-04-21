@@ -1,0 +1,1 @@
+{"tmdb_id": 41921, "title": "Abraham and Isaac", "original_title": "Abraham and Isaac", "slug_title": "abraham-and-isaac", "date": "1992-06-01", "genre": "Animation / Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jNDhLEW6wfABBoMBx3Z3reoAc1o.jpg", "actors": [], "comments": [], "recommandations_id": []}

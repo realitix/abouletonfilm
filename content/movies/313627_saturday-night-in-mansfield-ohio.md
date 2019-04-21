@@ -1,0 +1,1 @@
+{"tmdb_id": 313627, "title": "Saturday Night in Mansfield Ohio", "original_title": "Saturday Night in Mansfield Ohio", "slug_title": "saturday-night-in-mansfield-ohio", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 347451, "title": "Los laberintos de la memoria", "original_title": "Los laberintos de la memoria", "slug_title": "los-laberintos-de-la-memoria", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

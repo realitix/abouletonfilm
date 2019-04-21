@@ -1,0 +1,1 @@
+{"tmdb_id": 193739, "title": "The House-Cat (Felis Vulgaris)", "original_title": "The House-Cat (Felis Vulgaris)", "slug_title": "the-house-cat-felis-vulgaris", "date": "1948-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zaJ4iDwX6P36Xgsx1TZN0OiLY36.jpg", "actors": [], "comments": [], "recommandations_id": []}

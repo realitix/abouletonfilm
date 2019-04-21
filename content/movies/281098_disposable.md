@@ -1,0 +1,1 @@
+{"tmdb_id": 281098, "title": "Disposable", "original_title": "Usar y tirar", "slug_title": "disposable", "date": "2003-10-29", "genre": "", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Maite Blasco ()", "Yuniesky Rodr\u00edguez ()", "Pepo Oliva ()", "Diego Mart\u00edn ()", "Ivan Krastev ()"], "comments": [], "recommandations_id": []}

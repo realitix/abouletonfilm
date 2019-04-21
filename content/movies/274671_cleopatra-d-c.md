@@ -1,0 +1,1 @@
+{"tmdb_id": 274671, "title": "Cleopatra D.C.", "original_title": "Cleopatra D.C.", "slug_title": "cleopatra-d-c", "date": "1989-01-01", "genre": "", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xxjKVe7yqh7knpmWErbLEzkIETE.jpg", "actors": [], "comments": [], "recommandations_id": []}

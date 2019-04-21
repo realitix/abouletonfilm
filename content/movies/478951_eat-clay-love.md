@@ -1,0 +1,1 @@
+{"tmdb_id": 478951, "title": "Eat, Clay, Love", "original_title": "Eat, Clay, Love", "slug_title": "eat-clay-love", "date": "2017-09-30", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Christine Sydelko (Judy Thyssencrupp)", "Elijah Daniel (Ernesto)", "Jeff Cyrus (Garol)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 522861, "title": "Once Upon a Time...", "original_title": "\u041a\u043e\u0433\u0434\u0430-\u0442\u043e \u0434\u0430\u0432\u043d\u043e...", "slug_title": "once-upon-a-time", "date": "1990-01-07", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 176615, "title": "Totally Trucks Metal Monsters", "original_title": "Totally Trucks Metal Monsters", "slug_title": "totally-trucks-metal-monsters", "date": "2010-07-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rG4cu4SiSJnyP1QnlQ5laMrtBpB.jpg", "actors": [], "comments": [], "recommandations_id": []}

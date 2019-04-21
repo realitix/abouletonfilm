@@ -1,0 +1,1 @@
+{"tmdb_id": 473800, "title": "Blerta Revisited", "original_title": "Blerta Revisited", "slug_title": "blerta-revisited", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

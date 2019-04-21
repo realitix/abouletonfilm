@@ -1,0 +1,1 @@
+{"tmdb_id": 383380, "title": "the rooster", "original_title": "the rooster", "slug_title": "the-rooster", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

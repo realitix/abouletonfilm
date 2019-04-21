@@ -1,0 +1,1 @@
+{"tmdb_id": 370108, "title": "The New Neighbor", "original_title": "The New Neighbor", "slug_title": "the-new-neighbor", "date": "1912-09-29", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Fred Mace ()", "Ford Sterling ()", "Mabel Normand ()", "Mack Sennett ()"], "comments": [], "recommandations_id": []}

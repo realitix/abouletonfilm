@@ -1,0 +1,1 @@
+{"tmdb_id": 105677, "title": "The Beat Hotel", "original_title": "The Beat Hotel", "slug_title": "the-beat-hotel", "date": "2012-03-30", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/94UB9IdmFUFUiN5i6oJZTxQB1vn.jpg", "actors": [], "comments": [], "recommandations_id": []}

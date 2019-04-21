@@ -1,0 +1,1 @@
+{"tmdb_id": 283351, "title": "Soul of a Banquet", "original_title": "Soul of a Banquet", "slug_title": "soul-of-a-banquet", "date": "2014-05-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qFANFjXayf8GHT4BYkEP1B14Rcc.jpg", "actors": [], "comments": [], "recommandations_id": []}

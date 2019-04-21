@@ -1,0 +1,1 @@
+{"tmdb_id": 281445, "title": "Dealing Dogs", "original_title": "Dealing Dogs", "slug_title": "dealing-dogs", "date": "2006-01-30", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n106HY0eWH0JTJznapKeZJp7o1Y.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 428897, "title": "Samson et Dalila", "original_title": "Samson et Dalila", "slug_title": "samson-et-dalila", "date": "1902-12-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

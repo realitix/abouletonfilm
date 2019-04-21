@@ -1,0 +1,1 @@
+{"tmdb_id": 523724, "title": "The Last Clan", "original_title": "The Last Clan", "slug_title": "the-last-clan", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1WB5EfG3YjJit5IJdjfOZXX8bj8.jpg", "actors": [], "comments": [], "recommandations_id": []}

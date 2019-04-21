@@ -1,0 +1,1 @@
+{"tmdb_id": 372538, "title": "Notes from a scaresmith", "original_title": "Notes from a scaresmith", "slug_title": "notes-from-a-scaresmith", "date": "2009-02-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

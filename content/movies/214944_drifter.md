@@ -1,0 +1,1 @@
+{"tmdb_id": 214944, "title": "Drifter", "original_title": "Andarilho", "slug_title": "drifter", "date": "2007-06-30", "genre": "", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hUVAN7VG4X5BHY2vUFQBBL4wXTh.jpg", "actors": ["Ga\u00facho ()", "Nercino ()", "Paul\u00e3o ()"], "comments": [], "recommandations_id": []}

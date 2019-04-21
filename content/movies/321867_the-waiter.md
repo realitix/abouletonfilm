@@ -1,0 +1,1 @@
+{"tmdb_id": 321867, "title": "The Waiter", "original_title": "The Waiter", "slug_title": "the-waiter", "date": "2015-01-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

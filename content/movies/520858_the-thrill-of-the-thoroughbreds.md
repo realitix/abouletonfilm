@@ -1,0 +1,1 @@
+{"tmdb_id": 520858, "title": "The Thrill of the Thoroughbreds", "original_title": "The Thrill of the Thoroughbreds", "slug_title": "the-thrill-of-the-thoroughbreds", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

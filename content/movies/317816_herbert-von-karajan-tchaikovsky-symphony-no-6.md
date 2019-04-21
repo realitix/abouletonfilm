@@ -1,0 +1,1 @@
+{"tmdb_id": 317816, "title": "Herbert von Karajan: Tchaikovsky: Symphony No. 6", "original_title": "Herbert von Karajan: Tchaikovsky: Symphony No. 6", "slug_title": "herbert-von-karajan-tchaikovsky-symphony-no-6", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

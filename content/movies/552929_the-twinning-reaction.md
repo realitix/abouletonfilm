@@ -1,0 +1,1 @@
+{"tmdb_id": 552929, "title": "The Twinning Reaction", "original_title": "The Twinning Reaction", "slug_title": "the-twinning-reaction", "date": "2017-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

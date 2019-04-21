@@ -1,0 +1,1 @@
+{"tmdb_id": 544854, "title": "Armor del Amor", "original_title": "Armor del Amor", "slug_title": "armor-del-amor", "date": "2018-02-01", "genre": "Animation / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/acqEgtcNyu4j6MqQioUQLTxluEs.jpg", "actors": ["Edmund Stone (Narrator)"], "comments": [], "recommandations_id": []}

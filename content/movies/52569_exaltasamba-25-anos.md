@@ -1,0 +1,1 @@
+{"tmdb_id": 52569, "title": "Exaltasamba - 25 Anos", "original_title": "Exaltasamba - 25 Anos", "slug_title": "exaltasamba-25-anos", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hu3aRFh4jed4dm6N03U3S6Jqa1v.jpg", "actors": [], "comments": [], "recommandations_id": []}

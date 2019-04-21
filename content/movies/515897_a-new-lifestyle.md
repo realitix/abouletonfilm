@@ -1,0 +1,1 @@
+{"tmdb_id": 515897, "title": "A New Lifestyle", "original_title": "A New Lifestyle", "slug_title": "a-new-lifestyle", "date": "1969-04-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Elia Kazan (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 560511, "title": "East Meets West", "original_title": "East Meets West", "slug_title": "east-meets-west", "date": "2008-01-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/c5S2zQPihSYlCbzE8y9i0sI7QuQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

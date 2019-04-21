@@ -1,0 +1,1 @@
+{"tmdb_id": 353075, "title": "Genius and Madness", "original_title": "Genius and Madness", "slug_title": "genius-and-madness", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mcd142m9z1FVJDgtcZTc6lwb6H6.jpg", "actors": [], "comments": [], "recommandations_id": []}

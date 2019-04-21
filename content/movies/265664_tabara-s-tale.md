@@ -1,0 +1,1 @@
+{"tmdb_id": 265664, "title": "Tabara's Tale", "original_title": "Tabarana Kathe", "slug_title": "tabara-s-tale", "date": "1986-04-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nmnIpSdaguuZSnItQTb90aDapEl.jpg", "actors": [], "comments": [], "recommandations_id": []}

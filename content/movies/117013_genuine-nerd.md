@@ -1,0 +1,1 @@
+{"tmdb_id": 117013, "title": "Genuine Nerd", "original_title": "Genuine Nerd", "slug_title": "genuine-nerd", "date": "2006-06-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vUDvpNXsXTw1Yj8BD5DSrKSNErz.jpg", "actors": [], "comments": [], "recommandations_id": []}

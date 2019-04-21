@@ -1,0 +1,1 @@
+{"tmdb_id": 210051, "title": "Emanuel and the Angel", "original_title": "Emanuel and the Angel", "slug_title": "emanuel-and-the-angel", "date": "2013-07-21", "genre": "Drame", "score": "6.8/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Layton Warhurst (Emanuel)"], "comments": [], "recommandations_id": []}

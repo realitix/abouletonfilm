@@ -1,0 +1,1 @@
+{"tmdb_id": 317485, "title": "Bad Azz Muthaz: Way of the Black Dragon", "original_title": "Bad Azz Muthaz: Way of the Black Dragon", "slug_title": "bad-azz-muthaz-way-of-the-black-dragon", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

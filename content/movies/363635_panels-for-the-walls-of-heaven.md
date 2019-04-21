@@ -1,0 +1,1 @@
+{"tmdb_id": 363635, "title": "Panels for the Walls of Heaven", "original_title": "Panels for the Walls of Heaven", "slug_title": "panels-for-the-walls-of-heaven", "date": "2002-12-26", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Afrl62aPP4cDvIXbQNvJuL4jAYa.jpg", "actors": [], "comments": [], "recommandations_id": []}

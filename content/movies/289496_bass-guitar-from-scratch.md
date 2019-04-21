@@ -1,0 +1,1 @@
+{"tmdb_id": 289496, "title": "Bass Guitar From Scratch", "original_title": "Bass Guitar From Scratch", "slug_title": "bass-guitar-from-scratch", "date": "2008-08-25", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uFIXae6T77RyuoPaEavCG1I7OJh.jpg", "actors": [], "comments": [], "recommandations_id": []}

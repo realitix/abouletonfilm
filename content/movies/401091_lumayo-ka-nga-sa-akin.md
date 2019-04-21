@@ -1,0 +1,1 @@
+{"tmdb_id": 401091, "title": "Lumayo ka nga sa akin", "original_title": "Lumayo ka nga sa akin", "slug_title": "lumayo-ka-nga-sa-akin", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

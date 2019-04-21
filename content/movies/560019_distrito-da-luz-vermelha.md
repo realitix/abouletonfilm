@@ -1,0 +1,1 @@
+{"tmdb_id": 560019, "title": "Distrito da Luz Vermelha", "original_title": "Distrito da Luz Vermelha", "slug_title": "distrito-da-luz-vermelha", "date": "2018-07-29", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5T5zurJTcUwovBAdihb3Z2dLfDC.jpg", "actors": [], "comments": [], "recommandations_id": []}

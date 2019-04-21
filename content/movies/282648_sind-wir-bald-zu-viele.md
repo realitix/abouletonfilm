@@ -1,0 +1,1 @@
+{"tmdb_id": 282648, "title": "Sind wir bald zu viele?", "original_title": "Sind wir bald zu viele?", "slug_title": "sind-wir-bald-zu-viele", "date": "2012-04-24", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9tOuwCn8XSHBZifjBe2S7xZ5FzM.jpg", "actors": [], "comments": [], "recommandations_id": []}

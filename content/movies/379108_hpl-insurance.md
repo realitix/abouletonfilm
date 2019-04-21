@@ -1,0 +1,1 @@
+{"tmdb_id": 379108, "title": "HPL Insurance", "original_title": "HPL Insurance", "slug_title": "hpl-insurance", "date": "2015-12-02", "genre": "Com\u00e9die / Horreur / Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jim Borwick (HPL Spokesperson)", "Daniel Hambly (Claimant)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 259512, "title": "The Devil\u00b4s Weed", "original_title": "La hierba del diablo", "slug_title": "the-devils-weed", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Emilio Uvalle ()", "David Torres ()", "Cosette Borges ()"], "comments": [], "recommandations_id": []}

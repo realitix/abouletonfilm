@@ -1,0 +1,1 @@
+{"tmdb_id": 579252, "title": "Hungry Horse: Legends of the Everyday", "original_title": "Hungry Horse: Legends of the Everyday", "slug_title": "hungry-horse-legends-of-the-everyday", "date": "2014-11-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

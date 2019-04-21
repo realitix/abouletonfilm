@@ -1,0 +1,1 @@
+{"tmdb_id": 308071, "title": "Premalekhalu", "original_title": "Premalekhalu", "slug_title": "premalekhalu", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

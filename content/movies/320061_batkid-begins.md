@@ -1,0 +1,1 @@
+{"tmdb_id": 320061, "title": "Batkid Begins", "original_title": "Batkid Begins", "slug_title": "batkid-begins", "date": "2015-06-26", "genre": "Familial / Documentaire", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vLLLhVUDBy9ZhFHTaxKIckmgwKw.jpg", "actors": [], "comments": [], "recommandations_id": [334679, 370835, 381041, 78529]}

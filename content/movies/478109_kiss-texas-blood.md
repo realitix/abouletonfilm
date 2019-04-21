@@ -1,0 +1,1 @@
+{"tmdb_id": 478109, "title": "Kiss Texas Blood", "original_title": "Kiss Texas Blood", "slug_title": "kiss-texas-blood", "date": "1977-09-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dW5BmmUtE8ApelVIvsBLVQ73VqF.jpg", "actors": [], "comments": [], "recommandations_id": []}

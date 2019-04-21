@@ -1,0 +1,1 @@
+{"tmdb_id": 239850, "title": "Maur\u00edcio Einhorn - Estamos A\u00ed", "original_title": "Maur\u00edcio Einhorn - Estamos A\u00ed", "slug_title": "mauricio-einhorn-estamos-ai", "date": "2012-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

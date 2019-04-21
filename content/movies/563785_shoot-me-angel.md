@@ -1,0 +1,1 @@
+{"tmdb_id": 563785, "title": "Shoot Me Angel", "original_title": "Shoot Me Angel", "slug_title": "shoot-me-angel", "date": "1995-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xkgqX11UthRsr7vg9Mx4Kw25bbI.jpg", "actors": [], "comments": [], "recommandations_id": []}

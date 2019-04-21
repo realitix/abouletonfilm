@@ -1,0 +1,1 @@
+{"tmdb_id": 72665, "title": "Pele: The Master & His Method", "original_title": "Pele: The Master & His Method", "slug_title": "pele-the-master-his-method", "date": "2003-09-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jOVQmHqCTslpV5q7GHVK7LzrGvk.jpg", "actors": [], "comments": [], "recommandations_id": []}

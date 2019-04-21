@@ -1,0 +1,1 @@
+{"tmdb_id": 515656, "title": "Baja Fantasy", "original_title": "Baja Fantasy", "slug_title": "baja-fantasy", "date": "1984-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jamie Walters ()"], "comments": [], "recommandations_id": []}

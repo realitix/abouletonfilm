@@ -1,0 +1,1 @@
+{"tmdb_id": 448041, "title": "\u041a\u0440\u0435\u043f\u044b\u0448", "original_title": "\u041a\u0440\u0435\u043f\u044b\u0448", "slug_title": "krepysh", "date": "1950-03-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1BArtiBkPU1p4kZXa6IHQTyIsF.jpg", "actors": [], "comments": [], "recommandations_id": []}

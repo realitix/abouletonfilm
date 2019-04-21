@@ -1,0 +1,1 @@
+{"tmdb_id": 68785, "title": "Droga do raju", "original_title": "Droga do raju", "slug_title": "droga-do-raju", "date": "2010-05-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ehbtacd9OYf6TNk30Wba9Uec3Q2.jpg", "actors": [], "comments": [], "recommandations_id": []}

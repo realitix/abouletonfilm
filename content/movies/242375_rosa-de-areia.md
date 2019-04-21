@@ -1,0 +1,1 @@
+{"tmdb_id": 242375, "title": "Rosa de Areia", "original_title": "Rosa de Areia", "slug_title": "rosa-de-areia", "date": "1989-02-18", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e5SSN75a5xmQ7kiWadzIjDKn3QL.jpg", "actors": [], "comments": [], "recommandations_id": []}

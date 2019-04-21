@@ -1,0 +1,1 @@
+{"tmdb_id": 311984, "title": "The USA: Eastern & Western States", "original_title": "The USA: Eastern & Western States", "slug_title": "the-usa-eastern-western-states", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

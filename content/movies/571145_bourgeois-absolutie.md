@@ -1,0 +1,1 @@
+{"tmdb_id": 571145, "title": "Bourgeois Absolutie", "original_title": "Bourgeois Absolutie", "slug_title": "bourgeois-absolutie", "date": "", "genre": "Thriller / Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 175553, "title": "Fultah Fisher's Boarding House", "original_title": "Fultah Fisher's Boarding House", "slug_title": "fultah-fisher-s-boarding-house", "date": "1922-04-01", "genre": "", "score": "5.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uVr0Iu3wQcQtmh1IYwmMiF5dHbd.jpg", "actors": [], "comments": [], "recommandations_id": []}

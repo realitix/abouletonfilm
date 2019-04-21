@@ -1,0 +1,1 @@
+{"tmdb_id": 448675, "title": "Atlantic Wall", "original_title": "Atlantic Wall", "slug_title": "atlantic-wall", "date": "", "genre": "Guerre / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bradley Cooper ()"], "comments": [], "recommandations_id": [457232, 424853, 76545]}

@@ -1,0 +1,1 @@
+{"tmdb_id": 357234, "title": "Die gr\u00fcne Zukunft Chinas", "original_title": "Die gr\u00fcne Zukunft Chinas", "slug_title": "die-grune-zukunft-chinas", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3MMg1KurAuZ4H4uERn6ZkW0okzF.jpg", "actors": [], "comments": [], "recommandations_id": []}

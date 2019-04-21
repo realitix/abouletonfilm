@@ -1,0 +1,1 @@
+{"tmdb_id": 316968, "title": "Euphoria", "original_title": "Euphoria", "slug_title": "euphoria", "date": "1974-01-01", "genre": "Animation", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fOCJR9bkTEaZcKfv6luE015fBGA.jpg", "actors": [], "comments": [], "recommandations_id": []}

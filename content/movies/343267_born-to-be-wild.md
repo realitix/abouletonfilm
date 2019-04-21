@@ -1,0 +1,1 @@
+{"tmdb_id": 343267, "title": "Born to Be Wild", "original_title": "Born to Be Wild", "slug_title": "born-to-be-wild", "date": "1999-12-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

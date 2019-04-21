@@ -1,0 +1,1 @@
+{"tmdb_id": 445053, "title": "W\u00e4scherinnen", "original_title": "W\u00e4scherinnen", "slug_title": "wascherinnen", "date": "1972-11-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oue9QZKEcjrqqVf72kOrF6y7uZ8.jpg", "actors": [], "comments": [], "recommandations_id": []}

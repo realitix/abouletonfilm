@@ -1,0 +1,1 @@
+{"tmdb_id": 114500, "title": "Helen Keller in Her Story", "original_title": "Helen Keller in Her Story", "slug_title": "helen-keller-in-her-story", "date": "1954-06-15", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p0eALU7P6kfyTO3d51Apz0wplRf.jpg", "actors": [], "comments": [], "recommandations_id": []}

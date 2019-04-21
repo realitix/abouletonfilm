@@ -1,0 +1,1 @@
+{"tmdb_id": 433368, "title": "Musik Spass Superstars", "original_title": "Musik Spass Superstars", "slug_title": "musik-spass-superstars", "date": "2005-08-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/60Pmyo6iMXOZ9yqSg4PFLJvgk9M.jpg", "actors": [], "comments": [], "recommandations_id": []}

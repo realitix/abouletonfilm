@@ -1,0 +1,1 @@
+{"tmdb_id": 592059, "title": "Sound of Silence", "original_title": "H\u00f6r mig skrika", "slug_title": "sound-of-silence", "date": "2019-03-26", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Wanda \u00c5mark ()", "Nathalie Al-Rifai Dirawi ()"], "comments": [], "recommandations_id": []}

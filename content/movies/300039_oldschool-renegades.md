@@ -1,0 +1,1 @@
+{"tmdb_id": 300039, "title": "Oldschool Renegades", "original_title": "Oldschool Renegades", "slug_title": "oldschool-renegades", "date": "2013-10-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cr8iHrbvxoBsJVQUAjIqQi7Q0rD.jpg", "actors": [], "comments": [], "recommandations_id": []}

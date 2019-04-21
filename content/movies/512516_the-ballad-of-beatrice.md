@@ -1,0 +1,1 @@
+{"tmdb_id": 512516, "title": "The Ballad of Beatrice", "original_title": "Balladen om Beatrice", "slug_title": "the-ballad-of-beatrice", "date": "2009-01-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

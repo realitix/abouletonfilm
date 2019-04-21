@@ -1,0 +1,1 @@
+{"tmdb_id": 79385, "title": "Mami blue", "original_title": "Mami blue", "slug_title": "mami-blue", "date": "2011-06-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vQj8EVeX4Hcueoe8PkU674z7hL3.jpg", "actors": ["David Fern\u00e1ndez ()", "Ruth Gabriel ()", "Mercedes Hoyos ()"], "comments": [], "recommandations_id": []}

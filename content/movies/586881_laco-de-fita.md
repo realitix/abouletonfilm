@@ -1,0 +1,1 @@
+{"tmdb_id": 586881, "title": "La\u00e7o de Fita", "original_title": "La\u00e7o de Fita", "slug_title": "laco-de-fita", "date": "1976-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 234280, "title": "Space Kid", "original_title": "Space Kid", "slug_title": "space-kid", "date": "1966-04-08", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

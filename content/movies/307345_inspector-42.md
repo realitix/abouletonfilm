@@ -1,0 +1,1 @@
+{"tmdb_id": 307345, "title": "Inspector 42", "original_title": "Inspector 42", "slug_title": "inspector-42", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

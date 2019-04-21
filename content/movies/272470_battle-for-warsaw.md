@@ -1,0 +1,1 @@
+{"tmdb_id": 272470, "title": "Battle for Warsaw", "original_title": "Battle for Warsaw", "slug_title": "battle-for-warsaw", "date": "1984-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

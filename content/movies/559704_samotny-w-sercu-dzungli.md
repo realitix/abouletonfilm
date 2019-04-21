@@ -1,0 +1,1 @@
+{"tmdb_id": 559704, "title": "Samotny w sercu d\u017cungli", "original_title": "Samotny w sercu d\u017cungli", "slug_title": "samotny-w-sercu-dzungli", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

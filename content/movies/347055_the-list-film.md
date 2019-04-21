@@ -1,0 +1,1 @@
+{"tmdb_id": 347055, "title": "The List Film", "original_title": "The List Film", "slug_title": "the-list-film", "date": "2014-08-03", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dsBL8pAR6SK4iqICY3R0ifpHy2D.jpg", "actors": ["Maureen Beattie (the woman)"], "comments": [], "recommandations_id": []}

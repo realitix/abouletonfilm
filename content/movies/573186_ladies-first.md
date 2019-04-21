@@ -1,0 +1,1 @@
+{"tmdb_id": 573186, "title": "Ladies First", "original_title": "Ladies First", "slug_title": "ladies-first", "date": "2004-07-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f2RxfSmof4LTqD7d8MccqWLkYCO.jpg", "actors": [], "comments": [], "recommandations_id": []}

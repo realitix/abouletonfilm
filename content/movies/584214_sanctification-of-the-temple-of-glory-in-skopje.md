@@ -1,0 +1,1 @@
+{"tmdb_id": 584214, "title": "Sanctification of the Temple of Glory in Skopje", "original_title": "Osve\u0107enje hrama slave u Skoplju", "slug_title": "sanctification-of-the-temple-of-glory-in-skopje", "date": "1934-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

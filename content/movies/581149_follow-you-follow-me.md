@@ -1,0 +1,1 @@
+{"tmdb_id": 581149, "title": "Follow You Follow Me", "original_title": "Follow You Follow Me", "slug_title": "follow-you-follow-me", "date": "1979-10-10", "genre": "Drame", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yHwznNfe0KvQ6gs9T724PDHdwiv.jpg", "actors": [], "comments": [], "recommandations_id": []}

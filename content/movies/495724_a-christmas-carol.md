@@ -1,0 +1,1 @@
+{"tmdb_id": 495724, "title": "A Christmas Carol", "original_title": "A Christmas Carol", "slug_title": "a-christmas-carol", "date": "1980-12-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Geraint Evans (Scrooge)", "Ryland Davies (Bob Crachett)"], "comments": [], "recommandations_id": []}

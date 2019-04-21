@@ -1,0 +1,1 @@
+{"tmdb_id": 526690, "title": "Non-Place/Other Space", "original_title": "\u96b1\u57ce\uff65\u61f8\u6d6e\u534a\u7a7a", "slug_title": "non-place-other-space", "date": "2009-05-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cU57jaOZjTiQncv0F0xDEsKRzUw.jpg", "actors": [], "comments": [], "recommandations_id": []}

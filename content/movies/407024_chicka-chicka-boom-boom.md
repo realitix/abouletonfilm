@@ -1,0 +1,1 @@
+{"tmdb_id": 407024, "title": "Chicka Chicka Boom Boom", "original_title": "Chicka Chicka Boom Boom", "slug_title": "chicka-chicka-boom-boom", "date": "1999-01-01", "genre": "Animation / Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2GjGPtgBQucPl57z6N27jxA1ivr.jpg", "actors": [], "comments": [], "recommandations_id": []}

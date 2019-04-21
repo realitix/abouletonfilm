@@ -1,0 +1,1 @@
+{"tmdb_id": 117052, "title": "Absolut Warhola", "original_title": "Absolut Warhola", "slug_title": "absolut-warhola", "date": "2001-11-09", "genre": "Documentaire", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k7oP7P9mYJcbQMAek8ujxVkd5Im.jpg", "actors": [], "comments": [], "recommandations_id": [36821, 67404]}

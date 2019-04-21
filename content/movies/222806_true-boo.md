@@ -1,0 +1,1 @@
+{"tmdb_id": 222806, "title": "True Boo", "original_title": "True Boo", "slug_title": "true-boo", "date": "1952-10-24", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9SicgnLr8dYUtgVtAA09ZV2n6y4.jpg", "actors": [], "comments": [], "recommandations_id": []}

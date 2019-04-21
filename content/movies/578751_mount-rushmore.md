@@ -1,0 +1,1 @@
+{"tmdb_id": 578751, "title": "Mount Rushmore", "original_title": "Mount Rushmore", "slug_title": "mount-rushmore", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gutzon Borglum ()"], "comments": [], "recommandations_id": []}

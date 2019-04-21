@@ -1,0 +1,1 @@
+{"tmdb_id": 252958, "title": "The Last Angry Man", "original_title": "The Last Angry Man", "slug_title": "the-last-angry-man", "date": "1974-04-17", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pat Hingle (Dr. Sam Abelman)", "Lynn Carlin (Sarah Abelman)"], "comments": [], "recommandations_id": []}

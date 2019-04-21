@@ -1,0 +1,1 @@
+{"tmdb_id": 362859, "title": "Krtek ve m\u011bst\u011b", "original_title": "Krtek ve m\u011bst\u011b", "slug_title": "krtek-ve-meste", "date": "1982-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

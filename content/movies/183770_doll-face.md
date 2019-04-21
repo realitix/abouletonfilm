@@ -1,0 +1,1 @@
+{"tmdb_id": 183770, "title": "Doll Face", "original_title": "Doll Face", "slug_title": "doll-face", "date": "2005-08-01", "genre": "Animation", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pLdWvS3S16NZtQqYMCdUDUViyRd.jpg", "actors": [], "comments": [], "recommandations_id": []}

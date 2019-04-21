@@ -1,0 +1,1 @@
+{"tmdb_id": 528164, "title": "Jillian Michaels: Maximize Your Life Live", "original_title": "Jillian Michaels: Maximize Your Life Live", "slug_title": "jillian-michaels-maximize-your-life-live", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 429216, "title": "La malaria", "original_title": "La malaria", "slug_title": "la-malaria", "date": "1926-01-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

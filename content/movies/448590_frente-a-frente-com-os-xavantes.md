@@ -1,0 +1,1 @@
+{"tmdb_id": 448590, "title": "Frente a Frente com os Xavantes", "original_title": "Frente a Frente com os Xavantes", "slug_title": "frente-a-frente-com-os-xavantes", "date": "1947-12-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

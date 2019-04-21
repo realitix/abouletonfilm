@@ -1,0 +1,1 @@
+{"tmdb_id": 419153, "title": "The Iraqi Superman", "original_title": "The Iraqi Superman", "slug_title": "the-iraqi-superman", "date": "2016-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mipXPLBuIkohLjLFeUAEVgrMzYT.jpg", "actors": ["Warith Kwaish ()", "Hassan Wathiq ()"], "comments": [], "recommandations_id": []}

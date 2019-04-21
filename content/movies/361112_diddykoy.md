@@ -1,0 +1,1 @@
+{"tmdb_id": 361112, "title": "Diddyk\u00f6y", "original_title": "Diddyk\u00f6y", "slug_title": "diddykoy", "date": "1992-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lOqcV6ercEA5i52a7TTC4eHw3MD.jpg", "actors": [], "comments": [], "recommandations_id": []}

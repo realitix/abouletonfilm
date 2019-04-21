@@ -1,0 +1,1 @@
+{"tmdb_id": 443510, "title": "And There Was Fire in the Center of the Earth", "original_title": "And There Was Fire in the Center of the Earth", "slug_title": "and-there-was-fire-in-the-center-of-the-earth", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

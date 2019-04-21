@@ -1,0 +1,1 @@
+{"tmdb_id": 279424, "title": "Liberators Take Liberties", "original_title": "BeFreier und BeFreite", "slug_title": "liberators-take-liberties", "date": "1992-01-02", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fsjFUpoJhxn0J9pDiSJq0OM1j1N.jpg", "actors": [], "comments": [], "recommandations_id": []}

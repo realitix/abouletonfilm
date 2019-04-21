@@ -1,0 +1,1 @@
+{"tmdb_id": 401714, "title": "The Carnivore", "original_title": "Carn\u00edvora", "slug_title": "the-carnivore", "date": "2016-06-10", "genre": "Drame / Fantastique / Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/navPpqdeibSa5Sf1mU9sDAHDVJw.jpg", "actors": [], "comments": [], "recommandations_id": []}

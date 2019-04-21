@@ -1,0 +1,1 @@
+{"tmdb_id": 472531, "title": "Facing Genocide: Khieu Samphan and Pol Pot", "original_title": "Facing Genocide: Khieu Samphan and Pol Pot", "slug_title": "facing-genocide-khieu-samphan-and-pol-pot", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

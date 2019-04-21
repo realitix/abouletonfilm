@@ -1,0 +1,1 @@
+{"tmdb_id": 252643, "title": "Madonna: Goddess of Pop", "original_title": "Madonna: Goddess of Pop", "slug_title": "madonna-goddess-of-pop", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7dOh9DoQVzq6M7aWTnLDKqtcXtX.jpg", "actors": [], "comments": [], "recommandations_id": []}

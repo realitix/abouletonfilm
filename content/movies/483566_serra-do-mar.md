@@ -1,0 +1,1 @@
+{"tmdb_id": 483566, "title": "Serra do Mar", "original_title": "Serra do Mar", "slug_title": "serra-do-mar", "date": "2012-08-01", "genre": "Myst\u00e8re / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rodrigo Bolzan (Jonas)", "Luciana Paes (Julia)", "Roney Villela (Francisco)"], "comments": [], "recommandations_id": []}

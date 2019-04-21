@@ -1,0 +1,1 @@
+{"tmdb_id": 151022, "title": "Gerorisuto", "original_title": "Gerorisuto", "slug_title": "gerorisuto", "date": "1986-01-01", "genre": "Myst\u00e8re / Thriller / Horreur", "score": "8.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wnG2sb72fOlaXliPIqR6xuxSpxJ.jpg", "actors": ["Chiemi End\u00f4 ()"], "comments": [], "recommandations_id": []}

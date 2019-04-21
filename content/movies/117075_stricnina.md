@@ -1,0 +1,1 @@
+{"tmdb_id": 117075, "title": "Stricnina", "original_title": "Stricnina", "slug_title": "stricnina", "date": "1973-01-01", "genre": "", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/70ENrzn4mf5nit8L6g7gEh9JQZj.jpg", "actors": [], "comments": [], "recommandations_id": []}

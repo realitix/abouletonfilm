@@ -1,0 +1,1 @@
+{"tmdb_id": 305338, "title": "Sanford Meisner Master Class", "original_title": "Sanford Meisner Master Class", "slug_title": "sanford-meisner-master-class", "date": "2006-10-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sanford Meisner (Himself)"], "comments": [], "recommandations_id": []}

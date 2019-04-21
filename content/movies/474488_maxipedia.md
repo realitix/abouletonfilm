@@ -1,0 +1,1 @@
+{"tmdb_id": 474488, "title": "Maxipedia", "original_title": "Maxipedia", "slug_title": "maxipedia", "date": "2017-09-06", "genre": "Com\u00e9die", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5TvPC1BT4zvXpOdlJsyN78vgctP.jpg", "actors": ["Maxi Gstettenbauer (himself)"], "comments": [], "recommandations_id": []}

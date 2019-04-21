@@ -1,0 +1,1 @@
+{"tmdb_id": 387962, "title": "A Is for Atom", "original_title": "A Is for Atom", "slug_title": "a-is-for-atom", "date": "1953-01-01", "genre": "Animation / Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6HiYU1tyo7wMriOHMZqzR0tzyM8.jpg", "actors": [], "comments": [], "recommandations_id": []}

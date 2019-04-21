@@ -1,0 +1,1 @@
+{"tmdb_id": 556619, "title": "The Shot Heard 'Round the World", "original_title": "The Shot Heard 'Round the World", "slug_title": "the-shot-heard-round-the-world", "date": "1997-07-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

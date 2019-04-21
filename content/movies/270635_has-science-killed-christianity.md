@@ -1,0 +1,1 @@
+{"tmdb_id": 270635, "title": "Has Science Killed Christianity?", "original_title": "Has Science Killed Christianity?", "slug_title": "has-science-killed-christianity", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

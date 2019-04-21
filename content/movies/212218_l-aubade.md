@@ -1,0 +1,1 @@
+{"tmdb_id": 212218, "title": "L'Aubade", "original_title": "L'Aubade", "slug_title": "l-aubade", "date": "", "genre": "Animation / Fantastique", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Arnaud Kamphuis (Departing man (voice))"], "comments": [], "recommandations_id": []}

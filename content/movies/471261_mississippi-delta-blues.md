@@ -1,0 +1,1 @@
+{"tmdb_id": 471261, "title": "Mississippi Delta Blues", "original_title": "Mississippi Delta Blues", "slug_title": "mississippi-delta-blues", "date": "1974-08-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1wB7ogbbezixjdiAywaaS824q0x.jpg", "actors": [], "comments": [], "recommandations_id": []}

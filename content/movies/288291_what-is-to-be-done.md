@@ -1,0 +1,1 @@
+{"tmdb_id": 288291, "title": "What Is to Be Done?", "original_title": "\u00a1Qu\u00e9 hacer!", "slug_title": "what-is-to-be-done", "date": "1970-01-01", "genre": "Drame", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6krvufu0W15wiPC35AwDLDX0rFs.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 202015, "title": "The Log Cabin", "original_title": "The Log Cabin", "slug_title": "the-log-cabin", "date": "1936-06-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

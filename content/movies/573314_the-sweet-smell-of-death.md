@@ -1,0 +1,1 @@
+{"tmdb_id": 573314, "title": "The Sweet Smell of Death", "original_title": "\u56c9\u547d\u54e5\u7f85\u82b3", "slug_title": "the-sweet-smell-of-death", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qzBrlYteRi864nHFKyiLsBVdUjK.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 266665, "title": "Unusual Jacket", "original_title": "Neobi\u010dni sako", "slug_title": "unusual-jacket", "date": "1984-04-09", "genre": "Drame / Myst\u00e8re", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ivica Vidovi\u0107 ()", "Ljubica Jovi\u0107 ()"], "comments": [], "recommandations_id": []}

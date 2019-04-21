@@ -1,0 +1,1 @@
+{"tmdb_id": 570976, "title": "Esque\u00e7a", "original_title": "Esque\u00e7a", "slug_title": "esqueca", "date": "2012-09-11", "genre": "Drame / Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t1LDNj9SweyT3uinZmGCTh8NwUg.jpg", "actors": ["Bert Tischendorf ()", "Alexandra Neldel ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 559912, "title": "Good Enough to Eat", "original_title": "Une fille \u00e0 croquer", "slug_title": "good-enough-to-eat", "date": "1951-06-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

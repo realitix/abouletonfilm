@@ -1,0 +1,1 @@
+{"tmdb_id": 113919, "title": "Camel : Coming of Age", "original_title": "Camel : Coming of Age", "slug_title": "camel-coming-of-age", "date": "2002-08-13", "genre": "Musique / Documentaire", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iUINCy0zD1XDKOZ9qkOLhlgi0B9.jpg", "actors": [], "comments": [], "recommandations_id": []}

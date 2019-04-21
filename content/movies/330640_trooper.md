@@ -1,0 +1,1 @@
+{"tmdb_id": 330640, "title": "Trooper", "original_title": "Trooper", "slug_title": "trooper", "date": "2014-11-11", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

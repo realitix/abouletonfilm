@@ -1,0 +1,1 @@
+{"tmdb_id": 484278, "title": "Death Rot", "original_title": "Death Rot", "slug_title": "death-rot", "date": "2017-02-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9fJjHMO00TASSVErvOeAYFA60Fk.jpg", "actors": ["Lena Howe (Lily Krenshaw)"], "comments": [], "recommandations_id": []}

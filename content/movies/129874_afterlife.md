@@ -1,0 +1,1 @@
+{"tmdb_id": 129874, "title": "Afterlife", "original_title": "Afterlife", "slug_title": "afterlife", "date": "1978-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/54mEsXsYuKSQAbfESTLV9G7ZK8Z.jpg", "actors": [], "comments": [], "recommandations_id": []}

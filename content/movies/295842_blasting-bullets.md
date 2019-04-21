@@ -1,0 +1,1 @@
+{"tmdb_id": 295842, "title": "Blasting Bullets", "original_title": "Hari ng Gatilyo", "slug_title": "blasting-bullets", "date": "1985-06-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zQaLgrakN6tkvHqJvLLUNe7C4Lf.jpg", "actors": [], "comments": [], "recommandations_id": []}

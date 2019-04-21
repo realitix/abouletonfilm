@@ -1,0 +1,1 @@
+{"tmdb_id": 159245, "title": "Komsomol", "original_title": "Pesn o gerojach (Komsomol)", "slug_title": "komsomol", "date": "1933-01-02", "genre": "Documentaire", "score": "6.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/13qwxp4f8d3tolqFT0WfqxStMYV.jpg", "actors": [], "comments": [], "recommandations_id": []}

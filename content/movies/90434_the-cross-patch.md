@@ -1,0 +1,1 @@
+{"tmdb_id": 90434, "title": "The Cross-Patch", "original_title": "De Kribbebijter", "slug_title": "the-cross-patch", "date": "1935-08-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Cor Ruys (Kribbebijter)", "Louis de Bree (Oom Moekie)", "Dolly Mollinger (Loes)", "Philip Dorn (Willy)"], "comments": [], "recommandations_id": []}

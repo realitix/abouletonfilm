@@ -1,0 +1,1 @@
+{"tmdb_id": 235780, "title": "Crazy Town", "original_title": "Crazy Town", "slug_title": "crazy-town", "date": "1954-02-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

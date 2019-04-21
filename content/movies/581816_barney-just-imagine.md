@@ -1,0 +1,1 @@
+{"tmdb_id": 581816, "title": "Barney: Just Imagine", "original_title": "Barney: Just Imagine", "slug_title": "barney-just-imagine", "date": "2005-05-03", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vXEhK0PcqZ2UnFHlVKMCPKejvEt.jpg", "actors": [], "comments": [], "recommandations_id": []}

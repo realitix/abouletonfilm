@@ -1,0 +1,1 @@
+{"tmdb_id": 356118, "title": "Los indomables", "original_title": "Los indomables", "slug_title": "los-indomables", "date": "1972-11-16", "genre": "Western", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mario Almada ()", "Rodolfo de Anda ()", "Claudia Islas ()", "Gina Morett ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 518680, "title": "Calling All Pa's", "original_title": "Calling All Pa's", "slug_title": "calling-all-pa-s", "date": "1942-10-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pete Smith ()", "Dave O'Brien ()"], "comments": [], "recommandations_id": []}

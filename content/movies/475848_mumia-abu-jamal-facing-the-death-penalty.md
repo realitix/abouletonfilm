@@ -1,0 +1,1 @@
+{"tmdb_id": 475848, "title": "Mumia Abu-Jamal: Facing the Death Penalty", "original_title": "Mumia Abu-Jamal: Facing the Death Penalty", "slug_title": "mumia-abu-jamal-facing-the-death-penalty", "date": "1995-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

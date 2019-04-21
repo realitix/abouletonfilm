@@ -1,0 +1,1 @@
+{"tmdb_id": 232893, "title": "The Black Cat", "original_title": "The Black Cat", "slug_title": "the-black-cat", "date": "1995-12-31", "genre": "Horreur", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Clive Perrott (The Prisoner)", "David Kincaid (Listener)"], "comments": [], "recommandations_id": []}

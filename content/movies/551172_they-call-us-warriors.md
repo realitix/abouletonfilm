@@ -1,0 +1,1 @@
+{"tmdb_id": 551172, "title": "They Call Us Warriors", "original_title": "They Call Us Warriors", "slug_title": "they-call-us-warriors", "date": "2018-04-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gMW2v3B7FYHP6pRWBv5jUfptUNy.jpg", "actors": [], "comments": [], "recommandations_id": []}

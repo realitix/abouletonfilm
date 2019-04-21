@@ -1,0 +1,1 @@
+{"tmdb_id": 411801, "title": "M Station: Hawaii", "original_title": "M Station: Hawaii", "slug_title": "m-station-hawaii", "date": "", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

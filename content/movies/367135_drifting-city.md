@@ -1,0 +1,1 @@
+{"tmdb_id": 367135, "title": "Drifting City", "original_title": "\ub3c4\uc2dc\ub97c \ub5a0\ub3cc\ub2e4", "slug_title": "drifting-city", "date": "2015-09-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kmVMByP7LgwEQHksATfXgcR0aD8.jpg", "actors": [], "comments": [], "recommandations_id": []}

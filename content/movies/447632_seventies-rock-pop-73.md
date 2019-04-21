@@ -1,0 +1,1 @@
+{"tmdb_id": 447632, "title": "Seventies Rock & Pop 73", "original_title": "Seventies Rock & Pop 73", "slug_title": "seventies-rock-pop-73", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3qEVMgYgyKdIRKCrsORscjn7SLU.jpg", "actors": [], "comments": [], "recommandations_id": []}

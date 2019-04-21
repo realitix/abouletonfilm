@@ -1,0 +1,1 @@
+{"tmdb_id": 307933, "title": "Badi Didi", "original_title": "Badi Didi", "slug_title": "badi-didi", "date": "1969-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 525647, "title": "Tecuani, Hombre Jaguar", "original_title": "Tecuani, Hombre Jaguar", "slug_title": "tecuani-hombre-jaguar", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x66EjbeHcvBilocAbxv5fejsMI9.jpg", "actors": [], "comments": [], "recommandations_id": []}

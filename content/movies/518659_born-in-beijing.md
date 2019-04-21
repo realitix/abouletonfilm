@@ -1,0 +1,1 @@
+{"tmdb_id": 518659, "title": "Born in Beijing", "original_title": "Jing sheng", "slug_title": "born-in-beijing", "date": "2011-01-01", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zip5SQnK90358JeYiYAV6zo4Ttj.jpg", "actors": [], "comments": [], "recommandations_id": []}

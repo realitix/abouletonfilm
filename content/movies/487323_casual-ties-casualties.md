@@ -1,0 +1,1 @@
+{"tmdb_id": 487323, "title": "Casual Ties: Casualties", "original_title": "Casual Ties: Casualties", "slug_title": "casual-ties-casualties", "date": "1972-01-01", "genre": "Documentaire / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r3SwO1LZAthR2lBHBjgQi47i96k.jpg", "actors": [], "comments": [], "recommandations_id": []}

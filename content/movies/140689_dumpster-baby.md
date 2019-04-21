@@ -1,0 +1,1 @@
+{"tmdb_id": 140689, "title": "Dumpster Baby", "original_title": "Dumpster Baby", "slug_title": "dumpster-baby", "date": "2000-02-11", "genre": "", "score": "1.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7K7SJKqSGHPpHmuBug5CAgv8Eo5.jpg", "actors": ["Angela Benjamin (Claire)"], "comments": [], "recommandations_id": []}

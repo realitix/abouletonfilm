@@ -1,0 +1,1 @@
+{"tmdb_id": 516325, "title": "Akai Kutsu! Onnanoko!", "original_title": "\u8d64\u3044\u9774\uff01\u5973\u306e\u5b50\uff01", "slug_title": "akai-kutsu-onnanoko", "date": "2009-12-31", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

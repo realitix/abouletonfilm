@@ -1,0 +1,1 @@
+{"tmdb_id": 196810, "title": "The Lumineers - Live on KEXP", "original_title": "The Lumineers - Live on KEXP", "slug_title": "the-lumineers-live-on-kexp", "date": "2012-04-02", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qibW8jViz7JtAGWF9GJ6pYdtaXb.jpg", "actors": [], "comments": [], "recommandations_id": []}

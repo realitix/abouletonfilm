@@ -1,0 +1,1 @@
+{"tmdb_id": 283286, "title": "Focus II", "original_title": "Focus II", "slug_title": "focus-ii", "date": "1978-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rfhJxoAuI6iKNC2pbI9dQv7k9yk.jpg", "actors": [], "comments": [], "recommandations_id": []}

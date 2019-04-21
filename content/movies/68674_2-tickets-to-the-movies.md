@@ -1,0 +1,1 @@
+{"tmdb_id": 68674, "title": "2 Tickets to the Movies", "original_title": "2 Tickets to the Movies", "slug_title": "2-tickets-to-the-movies", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

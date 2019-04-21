@@ -1,0 +1,1 @@
+{"tmdb_id": 420413, "title": "Death Note: Another Note", "original_title": "Death Note: Another Note", "slug_title": "death-note-another-note", "date": "2012-01-01", "genre": "Drame / Crime / Thriller", "score": "9.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

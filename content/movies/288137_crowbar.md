@@ -1,0 +1,1 @@
+{"tmdb_id": 288137, "title": "Crowbar", "original_title": "Crowbar", "slug_title": "crowbar", "date": "2011-11-08", "genre": "", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p8EwbVzrfAopOnEGJTqAR1wDgBw.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 253322, "title": "CMT Bike Week: Biker Battles", "original_title": "CMT Bike Week: Biker Battles", "slug_title": "cmt-bike-week-biker-battles", "date": "2013-08-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

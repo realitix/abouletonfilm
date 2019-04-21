@@ -1,0 +1,1 @@
+{"tmdb_id": 540216, "title": "The Clinton 12: A Documentary Film", "original_title": "The Clinton 12: A Documentary Film", "slug_title": "the-clinton-12-a-documentary-film", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

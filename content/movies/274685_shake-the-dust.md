@@ -1,0 +1,1 @@
+{"tmdb_id": 274685, "title": "Shake the Dust", "original_title": "Shake the Dust", "slug_title": "shake-the-dust", "date": "2014-06-05", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e5oN0HZSl5CrHnPtEswJyaHg1bQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

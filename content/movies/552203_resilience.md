@@ -1,0 +1,1 @@
+{"tmdb_id": 552203, "title": "Resilience", "original_title": "\u041f\u0435\u0440\u0435\u0436\u0438\u0432\u0435\u043c", "slug_title": "resilience", "date": "2018-05-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pLpImnS15DhuXcEhIDtQa2C8m4n.jpg", "actors": [], "comments": [], "recommandations_id": []}

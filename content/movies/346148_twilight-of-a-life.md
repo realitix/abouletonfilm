@@ -1,0 +1,1 @@
+{"tmdb_id": 346148, "title": "Twilight of a Life", "original_title": "\u05e2\u05d3 \u05e7\u05e6\u05d4 \u05d4\u05d6\u05e8\u05d9\u05d7\u05d4", "slug_title": "twilight-of-a-life", "date": "2015-11-19", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sylvain Biegeleisen ()"], "comments": [], "recommandations_id": []}

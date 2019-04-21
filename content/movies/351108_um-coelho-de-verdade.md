@@ -1,0 +1,1 @@
+{"tmdb_id": 351108, "title": "Um Coelho de Verdade", "original_title": "Um Coelho de Verdade", "slug_title": "um-coelho-de-verdade", "date": "", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

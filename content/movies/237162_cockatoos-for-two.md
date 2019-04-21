@@ -1,0 +1,1 @@
+{"tmdb_id": 237162, "title": "Cockatoos for Two", "original_title": "Cockatoos for Two", "slug_title": "cockatoos-for-two", "date": "1947-02-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oFf0aysSHsPJcfnnj6J3Tlsdx7N.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 302909, "title": "The Impressionists: Pissarro", "original_title": "The Impressionists: Pissarro", "slug_title": "the-impressionists-pissarro", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qqnln34y6QzPlV7AgFlJp1D8Go2.jpg", "actors": [], "comments": [], "recommandations_id": []}

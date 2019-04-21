@@ -1,0 +1,1 @@
+{"tmdb_id": 164256, "title": "When a Man Rides Alone", "original_title": "When a Man Rides Alone", "slug_title": "when-a-man-rides-alone", "date": "1933-01-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tom Tyler (The Llano Kid)", "Adele Lacy (Ruth Davis)"], "comments": [], "recommandations_id": []}

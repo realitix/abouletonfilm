@@ -1,0 +1,1 @@
+{"tmdb_id": 273924, "title": "Dick Winters: Hang Tough", "original_title": "Dick Winters: Hang Tough", "slug_title": "dick-winters-hang-tough", "date": "2012-10-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yDgzz1cpC4IEPrrHvrPcc2Uzu7S.jpg", "actors": [], "comments": [], "recommandations_id": []}

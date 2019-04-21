@@ -1,0 +1,1 @@
+{"tmdb_id": 260607, "title": "Bad Hero", "original_title": "Bad Hero", "slug_title": "bad-hero", "date": "", "genre": "Com\u00e9die / Crime / Thriller / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 316599, "title": "Brother Bat", "original_title": "Brother Bat", "slug_title": "brother-bat", "date": "1967-08-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 464477, "title": "The Swimming Pool", "original_title": "La piscina", "slug_title": "the-swimming-pool", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

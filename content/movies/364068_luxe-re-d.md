@@ -1,0 +1,1 @@
+{"tmdb_id": 364068, "title": "LUXE Re:D", "original_title": "LUXE Re:D", "slug_title": "luxe-re-d", "date": "2008-12-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/utd7NvgkoIC9PKLqPvEiMp7xeQP.jpg", "actors": ["Nagi ()", "Sho ()", "Hikaru ()"], "comments": [], "recommandations_id": []}

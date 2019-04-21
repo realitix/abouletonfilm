@@ -1,0 +1,1 @@
+{"tmdb_id": 30915, "title": "Abinadi and King Noah", "original_title": "Abinadi and King Noah", "slug_title": "abinadi-and-king-noah", "date": "1988-01-01", "genre": "Animation / Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zN6HddPNlpMQYwVXXCdqChGgi5R.jpg", "actors": [], "comments": [], "recommandations_id": []}

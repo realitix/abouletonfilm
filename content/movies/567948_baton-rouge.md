@@ -1,0 +1,1 @@
+{"tmdb_id": 567948, "title": "B\u00e2ton rouge", "original_title": "B\u00e2ton rouge", "slug_title": "baton-rouge", "date": "1985-12-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lzOSczMkbyE9Zs0FUdGnsOkGt80.jpg", "actors": [], "comments": [], "recommandations_id": []}

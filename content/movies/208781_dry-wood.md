@@ -1,0 +1,1 @@
+{"tmdb_id": 208781, "title": "Dry Wood", "original_title": "Dry Wood", "slug_title": "dry-wood", "date": "1973-10-01", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r9ofTZfFVmvzg49NxjBL2u6nAus.jpg", "actors": [], "comments": [], "recommandations_id": [83909]}

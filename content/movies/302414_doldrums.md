@@ -1,0 +1,1 @@
+{"tmdb_id": 302414, "title": "Doldrums", "original_title": "Doldrums", "slug_title": "doldrums", "date": "1972-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jS07RBn7cNFbrwcCuCQVZA9IwmZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 541864, "title": "Lauras Stern 1", "original_title": "Lauras Stern 1", "slug_title": "lauras-stern-1", "date": "2008-07-25", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aqOR1MTsdPt8yrNg807UWWdogHm.jpg", "actors": [], "comments": [], "recommandations_id": []}

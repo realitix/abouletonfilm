@@ -1,0 +1,1 @@
+{"tmdb_id": 364964, "title": "Sweet Home", "original_title": "Doce Lar", "slug_title": "sweet-home", "date": "2014-09-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AbbztnuSxNcn84hYvdrWZNFcxgC.jpg", "actors": ["Adriano Carvalho (Man)"], "comments": [], "recommandations_id": []}

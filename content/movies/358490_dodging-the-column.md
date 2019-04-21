@@ -1,0 +1,1 @@
+{"tmdb_id": 358490, "title": "Dodging the Column", "original_title": "Dodging the Column", "slug_title": "dodging-the-column", "date": "1952-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

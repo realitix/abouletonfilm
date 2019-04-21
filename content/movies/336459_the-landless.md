@@ -1,0 +1,1 @@
+{"tmdb_id": 336459, "title": "The Landless", "original_title": "Los Sin Tierra", "slug_title": "the-landless", "date": "2004-07-30", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Cecilia Roth (Narrator)"], "comments": [], "recommandations_id": []}

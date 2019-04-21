@@ -1,0 +1,1 @@
+{"tmdb_id": 162106, "title": "Bear Country", "original_title": "Bear Country", "slug_title": "bear-country", "date": "1953-02-05", "genre": "", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4iaOjL7dZGIlyHgGyIRbVvb8JDr.jpg", "actors": ["Winston Hibler (Narrator)"], "comments": [], "recommandations_id": []}

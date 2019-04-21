@@ -1,0 +1,1 @@
+{"tmdb_id": 320787, "title": "C\u00f3ry szcz\u0119\u015bcia", "original_title": "C\u00f3ry szcz\u0119\u015bcia", "slug_title": "cory-szczescia", "date": "2000-01-10", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rBPqjBVVznqZ0YfxbedNKdKiIAm.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 586681, "title": "Assassination in Dreamland", "original_title": "Assassination in Dreamland", "slug_title": "assassination-in-dreamland", "date": "2011-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

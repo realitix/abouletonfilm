@@ -1,0 +1,1 @@
+{"tmdb_id": 123414, "title": "Night Shift", "original_title": "Le Shift de nuit", "slug_title": "night-shift", "date": "1979-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Camile Bergeron ()", "Paul B\u00e9langer ()", "Marie-Ginette Guay ()"], "comments": [], "recommandations_id": []}

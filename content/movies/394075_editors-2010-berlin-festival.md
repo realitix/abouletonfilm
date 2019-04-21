@@ -1,0 +1,1 @@
+{"tmdb_id": 394075, "title": "Editors: [2010] Berlin Festival", "original_title": "Editors: [2010] Berlin Festival", "slug_title": "editors-2010-berlin-festival", "date": "2010-09-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/71DRNX4ANdD6gmSdda0O5OmsY50.jpg", "actors": [], "comments": [], "recommandations_id": []}

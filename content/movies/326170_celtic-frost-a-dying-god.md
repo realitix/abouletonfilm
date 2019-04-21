@@ -1,0 +1,1 @@
+{"tmdb_id": 326170, "title": "Celtic Frost - A Dying God", "original_title": "Celtic Frost - A Dying God", "slug_title": "celtic-frost-a-dying-god", "date": "2008-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hshHim28JvkCzQzDViJx3pZL6b2.jpg", "actors": [], "comments": [], "recommandations_id": []}

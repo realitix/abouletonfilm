@@ -1,0 +1,1 @@
+{"tmdb_id": 311405, "title": "Mera Pati Sirf Mera Hai", "original_title": "Mera Pati Sirf Mera Hai", "slug_title": "mera-pati-sirf-mera-hai", "date": "1990-01-01", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/98OHK3XHhZHMDc4Mln69WQssL24.jpg", "actors": [], "comments": [], "recommandations_id": []}

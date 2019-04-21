@@ -1,0 +1,1 @@
+{"tmdb_id": 484289, "title": "Coffin Joe Heart of Darkness", "original_title": "Coffin Joe Heart of Darkness", "slug_title": "coffin-joe-heart-of-darkness", "date": "2017-10-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

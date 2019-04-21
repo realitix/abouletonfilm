@@ -1,0 +1,1 @@
+{"tmdb_id": 213824, "title": "Tasuma: The Fighter", "original_title": "Tasuma: The Fighter", "slug_title": "tasuma-the-fighter", "date": "2004-07-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5138U7mMBqxYlQzg1ejSeV3kt3Y.jpg", "actors": [], "comments": [], "recommandations_id": []}

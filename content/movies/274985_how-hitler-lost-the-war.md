@@ -1,0 +1,1 @@
+{"tmdb_id": 274985, "title": "How Hitler Lost the War", "original_title": "How Hitler Lost the War", "slug_title": "how-hitler-lost-the-war", "date": "1989-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zyW3qNULhVRjfiXh26GCPZPC5oz.jpg", "actors": [], "comments": [], "recommandations_id": []}

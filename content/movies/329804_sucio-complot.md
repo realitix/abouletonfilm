@@ -1,0 +1,1 @@
+{"tmdb_id": 329804, "title": "Sucio complot", "original_title": "Sucio complot", "slug_title": "sucio-complot", "date": "1997-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Raquel Evans ()", "Miguel Cazorla ()"], "comments": [], "recommandations_id": []}

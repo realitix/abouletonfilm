@@ -1,0 +1,1 @@
+{"tmdb_id": 489167, "title": "\ub0b4 \uc544\ub0b4\uc758 \uc5b8\ub2c8", "original_title": "\ub0b4 \uc544\ub0b4\uc758 \uc5b8\ub2c8", "slug_title": "nae-anaeyi-eonni", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3lTFVVWIqvnRn73ocd9216h4sYd.jpg", "actors": [], "comments": [], "recommandations_id": []}

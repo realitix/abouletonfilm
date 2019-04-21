@@ -1,0 +1,1 @@
+{"tmdb_id": 376810, "title": "Pat and Mat in a Movie", "original_title": "Pat a Mat ve filmu", "slug_title": "pat-and-mat-in-a-movie", "date": "2016-02-03", "genre": "Animation / Com\u00e9die", "score": "7.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ih0QYROOKk3aaxLxorrzdx97URZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

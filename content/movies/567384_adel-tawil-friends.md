@@ -1,0 +1,1 @@
+{"tmdb_id": 567384, "title": "Adel Tawil & Friends", "original_title": "Adel Tawil & Friends", "slug_title": "adel-tawil-friends", "date": "2018-12-07", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ioGC8H0GHlviqn3nzS8GADEF6F5.jpg", "actors": ["Adel Tawil (Musiker)"], "comments": [], "recommandations_id": []}

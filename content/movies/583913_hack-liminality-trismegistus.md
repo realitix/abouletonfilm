@@ -1,0 +1,1 @@
+{"tmdb_id": 583913, "title": ".hack Liminality: Trismegistus", "original_title": ".hack Liminality: Trismegistus", "slug_title": "hack-liminality-trismegistus", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wS897zexkLLTSRmmHHJOD10KmRN.jpg", "actors": [], "comments": [], "recommandations_id": []}

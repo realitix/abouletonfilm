@@ -1,0 +1,1 @@
+{"tmdb_id": 574469, "title": "The Ticcers", "original_title": "T.I.C. - Trouble involontaire convulsif", "slug_title": "the-ticcers", "date": "2004-08-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hG84S3ed1e6lbR39NuUyoSpwfNd.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 591508, "title": "Fujicablue", "original_title": "\u30d5\u30b8\u30ab\u30d6\u30eb\u30fc", "slug_title": "fujicablue", "date": "2007-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/erCbNeQ5uaA4gFitUlvSzKXmdvW.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 420339, "title": "Algj\u00f6r Sveppi - Dagur \u00ed l\u00edfi str\u00e1ks", "original_title": "Algj\u00f6r Sveppi - Dagur \u00ed l\u00edfi str\u00e1ks", "slug_title": "algjor-sveppi-dagur-i-lifi-straks", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

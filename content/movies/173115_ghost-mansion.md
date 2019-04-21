@@ -1,0 +1,1 @@
+{"tmdb_id": 173115, "title": "Ghost Mansion", "original_title": "Ghost Mansion", "slug_title": "ghost-mansion", "date": "1987-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

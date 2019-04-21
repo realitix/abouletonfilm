@@ -1,0 +1,1 @@
+{"tmdb_id": 43163, "title": "Maple Colors", "original_title": "Maple Colors", "slug_title": "maple-colors", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

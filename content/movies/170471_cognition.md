@@ -1,0 +1,1 @@
+{"tmdb_id": 170471, "title": "Cognition", "original_title": "Cognition", "slug_title": "cognition", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/55y2Iem2ka8Aa0vQaocxMB5XlvN.jpg", "actors": [], "comments": [], "recommandations_id": []}

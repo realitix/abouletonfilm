@@ -1,0 +1,1 @@
+{"tmdb_id": 534984, "title": "Malevolence", "original_title": "Malevolence", "slug_title": "malevolence", "date": "1999-02-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Joe Cortese (Billy Bob Jones)", "Michael McGrady (James Clark)"], "comments": [], "recommandations_id": []}

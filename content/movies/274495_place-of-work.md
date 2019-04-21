@@ -1,0 +1,1 @@
+{"tmdb_id": 274495, "title": "Place of Work", "original_title": "Place of Work", "slug_title": "place-of-work", "date": "1976-06-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cRP30nLnEnNI4b6fpJPD14xrBzM.jpg", "actors": [], "comments": [], "recommandations_id": []}

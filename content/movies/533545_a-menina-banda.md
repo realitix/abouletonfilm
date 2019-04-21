@@ -1,0 +1,1 @@
+{"tmdb_id": 533545, "title": "A menina banda", "original_title": "A menina banda", "slug_title": "a-menina-banda", "date": "2018-08-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oTczJonxjrs4KJ8cZkH8Z45Aqa9.jpg", "actors": [], "comments": [], "recommandations_id": []}

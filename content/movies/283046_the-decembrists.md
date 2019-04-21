@@ -1,0 +1,1 @@
+{"tmdb_id": 283046, "title": "The Decembrists", "original_title": "Dekabristy", "slug_title": "the-decembrists", "date": "1927-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Vladimir Maksimov ()", "Yevgeni Boronikhin ()", "Varvara Annenkova ()"], "comments": [], "recommandations_id": []}

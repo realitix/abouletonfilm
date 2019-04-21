@@ -1,0 +1,1 @@
+{"tmdb_id": 48335, "title": "Riverdance: Live From Beijing", "original_title": "Riverdance: Live From Beijing", "slug_title": "riverdance-live-from-beijing", "date": "2010-10-11", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wjJO0UeHB5LVlo4URFSBWyXTuUr.jpg", "actors": [], "comments": [], "recommandations_id": []}

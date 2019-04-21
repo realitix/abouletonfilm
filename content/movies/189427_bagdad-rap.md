@@ -1,0 +1,1 @@
+{"tmdb_id": 189427, "title": "Bagdad Rap", "original_title": "Bagdad Rap", "slug_title": "bagdad-rap", "date": "2005-10-09", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5PGlaTD3HtJ8L3OGzj0374X3Mbb.jpg", "actors": [], "comments": [], "recommandations_id": []}

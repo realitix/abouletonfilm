@@ -1,0 +1,1 @@
+{"tmdb_id": 330581, "title": "6.30 Collection", "original_title": "6.30 Collection", "slug_title": "6-30-collection", "date": "1934-07-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ySv4Ktl69EkHYHoSj3TptzFXw21.jpg", "actors": [], "comments": [], "recommandations_id": []}

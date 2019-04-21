@@ -1,0 +1,1 @@
+{"tmdb_id": 13952, "title": "Your Mommy Kills Animals", "original_title": "Your Mommy Kills Animals", "slug_title": "your-mommy-kills-animals", "date": "2007-01-01", "genre": "Documentaire", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ujgBDakWginr5scXnD6FrhPaYwh.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 238627, "title": "New Jack: Hardcore", "original_title": "New Jack: Hardcore", "slug_title": "new-jack-hardcore", "date": "2007-01-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hGqoWn7cYSkM8lyvrxOArXE7xoH.jpg", "actors": ["Jerome Young ()"], "comments": [], "recommandations_id": []}

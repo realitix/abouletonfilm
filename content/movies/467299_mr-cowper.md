@@ -1,0 +1,1 @@
+{"tmdb_id": 467299, "title": "Mr. Cowper", "original_title": "Mr. Cowper", "slug_title": "mr-cowper", "date": "2016-06-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/693eHNtCHOkFZywsNC2QOnaaCiZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

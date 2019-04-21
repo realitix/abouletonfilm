@@ -1,0 +1,1 @@
+{"tmdb_id": 270684, "title": "Pavlov's Dogs", "original_title": "Pavlov's Dogs", "slug_title": "pavlov-s-dogs", "date": "2006-02-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

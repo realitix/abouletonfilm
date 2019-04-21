@@ -1,0 +1,1 @@
+{"tmdb_id": 469406, "title": "Nigerian Art: Kindred Spirits", "original_title": "Nigerian Art: Kindred Spirits", "slug_title": "nigerian-art-kindred-spirits", "date": "1990-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tq6vltJt2ZEaEVRv8XP40mxyeBs.jpg", "actors": [], "comments": [], "recommandations_id": []}

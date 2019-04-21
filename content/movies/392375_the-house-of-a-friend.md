@@ -1,0 +1,1 @@
+{"tmdb_id": 392375, "title": "The House of a Friend", "original_title": "La casa de un amigo", "slug_title": "the-house-of-a-friend", "date": "1963-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s1x04mXxGHf1N4ygi1oAT2nKGyS.jpg", "actors": ["Iris Martinez ()"], "comments": [], "recommandations_id": []}

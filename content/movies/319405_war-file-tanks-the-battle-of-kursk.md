@@ -1,0 +1,1 @@
+{"tmdb_id": 319405, "title": "War File: Tanks!: The Battle of Kursk", "original_title": "War File: Tanks!: The Battle of Kursk", "slug_title": "war-file-tanks-the-battle-of-kursk", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 550772, "title": "Quarantine", "original_title": "Quarantine", "slug_title": "quarantine", "date": "2014-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

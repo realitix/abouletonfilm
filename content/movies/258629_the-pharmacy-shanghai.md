@@ -1,0 +1,1 @@
+{"tmdb_id": 258629, "title": "The Pharmacy: Shanghai", "original_title": "La Pharmacie no. 3: Shanghai", "slug_title": "the-pharmacy-shanghai", "date": "1976-03-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bmlwNrr9Rkd7eRvlrfaPryyFVN3.jpg", "actors": [], "comments": [], "recommandations_id": []}

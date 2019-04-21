@@ -1,0 +1,1 @@
+{"tmdb_id": 222699, "title": "Fishing Tackler", "original_title": "Fishing Tackler", "slug_title": "fishing-tackler", "date": "1957-03-29", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

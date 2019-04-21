@@ -1,0 +1,1 @@
+{"tmdb_id": 445047, "title": "Continuum", "original_title": "Continuum", "slug_title": "continuum", "date": "2006-04-06", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uxbXyrs7iZauOYeGtj9TwlokKxp.jpg", "actors": [], "comments": [], "recommandations_id": []}

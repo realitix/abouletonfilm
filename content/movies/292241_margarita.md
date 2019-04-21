@@ -1,0 +1,1 @@
+{"tmdb_id": 292241, "title": "Margarita", "original_title": "Margarita", "slug_title": "margarita", "date": "2009-09-27", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rWhy0LI1jygYbahYo8lFPB4C25g.jpg", "actors": [], "comments": [], "recommandations_id": []}

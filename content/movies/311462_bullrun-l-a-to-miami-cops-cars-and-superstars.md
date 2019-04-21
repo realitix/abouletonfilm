@@ -1,0 +1,1 @@
+{"tmdb_id": 311462, "title": "Bullrun: L.A. to Miami: Cops, Cars and Superstars", "original_title": "Bullrun: L.A. to Miami: Cops, Cars and Superstars", "slug_title": "bullrun-l-a-to-miami-cops-cars-and-superstars", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

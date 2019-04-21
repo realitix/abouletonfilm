@@ -1,0 +1,1 @@
+{"tmdb_id": 502363, "title": "My Piece of The City", "original_title": "My Piece of The City", "slug_title": "my-piece-of-the-city", "date": "2018-02-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

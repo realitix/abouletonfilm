@@ -1,0 +1,1 @@
+{"tmdb_id": 548326, "title": "Sontag Platz", "original_title": "Sontag Platz", "slug_title": "sontag-platz", "date": "1986-09-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

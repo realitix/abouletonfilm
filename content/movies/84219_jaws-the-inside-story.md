@@ -1,0 +1,1 @@
+{"tmdb_id": 84219, "title": "Jaws: The Inside Story", "original_title": "Jaws: The Inside Story", "slug_title": "jaws-the-inside-story", "date": "2010-06-16", "genre": "", "score": "7.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/durZDxQqJsde5YEeJBtI82VSWTy.jpg", "actors": [], "comments": [], "recommandations_id": []}

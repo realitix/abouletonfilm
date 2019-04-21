@@ -1,0 +1,1 @@
+{"tmdb_id": 553716, "title": "Notes on Bangladesh", "original_title": "Notes on Bangladesh", "slug_title": "notes-on-bangladesh", "date": "2017-09-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ft22Oxj2234VUt2NEO1UyOtvprr.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 322270, "title": "Talvivaaran miehet", "original_title": "Talvivaaran miehet", "slug_title": "talvivaaran-miehet", "date": "2015-01-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8ahtqymfeh3alCsUMvy3SGZUrdw.jpg", "actors": [], "comments": [], "recommandations_id": []}

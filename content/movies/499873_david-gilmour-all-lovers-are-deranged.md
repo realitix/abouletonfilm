@@ -1,0 +1,1 @@
+{"tmdb_id": 499873, "title": "David Gilmour: All Lovers Are Deranged", "original_title": "David Gilmour: All Lovers Are Deranged", "slug_title": "david-gilmour-all-lovers-are-deranged", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["David Gilmour ()"], "comments": [], "recommandations_id": []}

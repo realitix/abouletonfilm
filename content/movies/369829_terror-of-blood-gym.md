@@ -1,0 +1,1 @@
+{"tmdb_id": 369829, "title": "Terror of Blood Gym", "original_title": "Terror of Blood Gym", "slug_title": "terror-of-blood-gym", "date": "1995-02-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ccltLqVMx1TrkE1ID06i0KNh8Ec.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 74440, "title": "Nikola Tesla: La electricidad", "original_title": "Nikola Tesla: La electricidad", "slug_title": "nikola-tesla-la-electricidad", "date": "2008-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

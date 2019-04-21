@@ -1,0 +1,1 @@
+{"tmdb_id": 266843, "title": "Astonishing X-Men: Dangerous", "original_title": "Astonishing X-Men: Dangerous", "slug_title": "astonishing-x-men-dangerous", "date": "2012-04-10", "genre": "Animation", "score": "8.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4HDOp9HYxqx6M71ijwGByrpGQ9z.jpg", "actors": [], "comments": [], "recommandations_id": []}

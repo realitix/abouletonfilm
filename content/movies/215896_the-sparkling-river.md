@@ -1,0 +1,1 @@
+{"tmdb_id": 215896, "title": "The Sparkling River", "original_title": "The Sparkling River", "slug_title": "the-sparkling-river", "date": "2013-05-01", "genre": "Drame / Fantastique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Qizhen Song ()", "Debbie Wong ()", "Jesse Zubot ()"], "comments": [], "recommandations_id": []}

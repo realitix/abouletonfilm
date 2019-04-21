@@ -1,0 +1,1 @@
+{"tmdb_id": 468101, "title": "Sugar Maple Stand", "original_title": "Sugar Maple Stand", "slug_title": "sugar-maple-stand", "date": "1990-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/av4Yklq5SVewA8UKQKM4wZz4MIg.jpg", "actors": [], "comments": [], "recommandations_id": []}

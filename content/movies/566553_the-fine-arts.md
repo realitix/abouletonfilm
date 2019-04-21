@@ -1,0 +1,1 @@
+{"tmdb_id": 566553, "title": "The Fine Arts", "original_title": "The Fine Arts", "slug_title": "the-fine-arts", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zRqAsDDBXrouqU399DKDCHHkoJP.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 449148, "title": "A Pedagogia da Presen\u00e7a", "original_title": "A Pedagogia da Presen\u00e7a", "slug_title": "a-pedagogia-da-presenca", "date": "2010-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

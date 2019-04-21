@@ -1,0 +1,1 @@
+{"tmdb_id": 583231, "title": "Ebola: A Poem For the Living", "original_title": "Ebola: A Poem For the Living", "slug_title": "ebola-a-poem-for-the-living", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

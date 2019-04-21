@@ -1,0 +1,1 @@
+{"tmdb_id": 493487, "title": "Sun and Man", "original_title": "\u592a\u9633\u548c\u4eba", "slug_title": "sun-and-man", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lX98DCGRmR9pTzc7FiTHnR7UDbl.jpg", "actors": ["Liu Wenzhi ()", "Huang Meiying ()", "Leng Mei ()"], "comments": [], "recommandations_id": []}

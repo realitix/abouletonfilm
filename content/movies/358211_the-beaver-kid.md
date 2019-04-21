@@ -1,0 +1,1 @@
+{"tmdb_id": 358211, "title": "The Beaver Kid", "original_title": "The Beaver Kid", "slug_title": "the-beaver-kid", "date": "1979-09-04", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gic9Rl6UtBtEWadiHk8SQo5Te7F.jpg", "actors": ["Groovin' Gary (Himself)"], "comments": [], "recommandations_id": []}

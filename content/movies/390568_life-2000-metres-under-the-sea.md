@@ -1,0 +1,1 @@
+{"tmdb_id": 390568, "title": "Life 2000 Metres Under The Sea", "original_title": "Life 2000 Metres Under The Sea", "slug_title": "life-2000-metres-under-the-sea", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

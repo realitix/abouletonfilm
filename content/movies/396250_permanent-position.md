@@ -1,0 +1,1 @@
+{"tmdb_id": 396250, "title": "Permanent Position", "original_title": "Sta\u0142e zaj\u0119cie", "slug_title": "permanent-position", "date": "1979-05-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4UqUVpmwwvhtr8MwopaaFrLrRr2.jpg", "actors": [], "comments": [], "recommandations_id": []}

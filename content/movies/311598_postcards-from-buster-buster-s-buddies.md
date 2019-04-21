@@ -1,0 +1,1 @@
+{"tmdb_id": 311598, "title": "Postcards from Buster: Buster's Buddies", "original_title": "Postcards from Buster: Buster's Buddies", "slug_title": "postcards-from-buster-buster-s-buddies", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

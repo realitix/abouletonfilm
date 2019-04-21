@@ -1,0 +1,1 @@
+{"tmdb_id": 123230, "title": "Weekender", "original_title": "Weekender", "slug_title": "weekender", "date": "1992-01-31", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lQycBSyCsw5sr0QEEbYGhSL7XIS.jpg", "actors": [], "comments": [], "recommandations_id": []}

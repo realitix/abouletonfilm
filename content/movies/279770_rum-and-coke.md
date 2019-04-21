@@ -1,0 +1,1 @@
+{"tmdb_id": 279770, "title": "Rum and Coke", "original_title": "Rum and Coke", "slug_title": "rum-and-coke", "date": "1999-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vvyUq96cYVKGlW86MZYMVtACF1k.jpg", "actors": [], "comments": [], "recommandations_id": []}

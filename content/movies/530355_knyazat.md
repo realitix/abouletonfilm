@@ -1,0 +1,1 @@
+{"tmdb_id": 530355, "title": "Knyazat", "original_title": "\u041a\u043d\u044f\u0437\u044a\u0442", "slug_title": "knyazat", "date": "1970-05-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

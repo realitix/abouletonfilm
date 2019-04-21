@@ -1,0 +1,1 @@
+{"tmdb_id": 216214, "title": "The Southern Cross", "original_title": "La cruz del sur", "slug_title": "the-southern-cross", "date": "2003-05-14", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hoNW4pRnnkwsuGdKPdTIY79E1zt.jpg", "actors": [], "comments": [], "recommandations_id": []}

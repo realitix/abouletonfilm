@@ -1,0 +1,1 @@
+{"tmdb_id": 242676, "title": "The Joy Of Disco", "original_title": "The Joy Of Disco", "slug_title": "the-joy-of-disco", "date": "2012-03-02", "genre": "Musique / Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pTN0M0ertIgeiiPcAv5ADZm9MCV.jpg", "actors": [], "comments": [], "recommandations_id": []}

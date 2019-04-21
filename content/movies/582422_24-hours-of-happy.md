@@ -1,0 +1,1 @@
+{"tmdb_id": 582422, "title": "24 Hours of Happy", "original_title": "24 Hours of Happy", "slug_title": "24-hours-of-happy", "date": "2013-11-21", "genre": "Documentaire", "score": "9.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pharrell Williams (self)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 581618, "title": "Suc de s\u00edndria", "original_title": "Suc de s\u00edndria", "slug_title": "suc-de-sindria", "date": "2019-02-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/81nJZldO5CAboQIq3TdRvnifZZM.jpg", "actors": [], "comments": [], "recommandations_id": []}

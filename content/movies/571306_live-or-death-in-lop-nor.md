@@ -1,0 +1,1 @@
+{"tmdb_id": 571306, "title": "Live or death in Lop Nor", "original_title": "\u751f\u6b7b\u7f57\u5e03\u6cca", "slug_title": "live-or-death-in-lop-nor", "date": "2012-05-22", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/13x4HOC8HPC7dGJNjLQNgUb4LFx.jpg", "actors": [], "comments": [], "recommandations_id": []}

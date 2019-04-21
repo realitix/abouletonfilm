@@ -1,0 +1,1 @@
+{"tmdb_id": 259853, "title": "Fantasy Animal", "original_title": "Animal de fantas\u00eda", "slug_title": "fantasy-animal", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jos\u00e9 Rivera Moya ()"], "comments": [], "recommandations_id": []}

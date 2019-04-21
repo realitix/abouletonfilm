@@ -1,0 +1,1 @@
+{"tmdb_id": 303358, "title": "Rick Lee James: Basement Psalms Live", "original_title": "Rick Lee James: Basement Psalms Live", "slug_title": "rick-lee-james-basement-psalms-live", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

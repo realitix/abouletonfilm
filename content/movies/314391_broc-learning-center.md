@@ -1,0 +1,1 @@
+{"tmdb_id": 314391, "title": "Broc Learning Center", "original_title": "Broc Learning Center", "slug_title": "broc-learning-center", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

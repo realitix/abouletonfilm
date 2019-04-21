@@ -1,0 +1,1 @@
+{"tmdb_id": 504182, "title": "The Return of the Loch Ness Monster from Outer Space", "original_title": "The Return of the Loch Ness Monster from Outer Space", "slug_title": "the-return-of-the-loch-ness-monster-from-outer-space", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 500424, "title": "Duke Nukem", "original_title": "Duke Nukem", "slug_title": "duke-nukem", "date": "", "genre": "Action / Science-Fiction", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["John Cena (Duke Nukem)"], "comments": [], "recommandations_id": []}

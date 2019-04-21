@@ -1,0 +1,1 @@
+{"tmdb_id": 328838, "title": "The Berlin Wall", "original_title": "The Berlin Wall", "slug_title": "the-berlin-wall", "date": "1962-01-01", "genre": "Histoire / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

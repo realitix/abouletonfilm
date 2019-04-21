@@ -1,0 +1,1 @@
+{"tmdb_id": 58268, "title": "Schertz, Zatire en Yronie", "original_title": "Schertz, Zatire en Yronie", "slug_title": "schertz-zatire-en-yronie", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/osIxeKZSYxQ7pdQQbnLi93hYJmi.jpg", "actors": [], "comments": [], "recommandations_id": []}

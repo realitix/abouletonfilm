@@ -1,0 +1,1 @@
+{"tmdb_id": 354512, "title": "Arena: The Private Dirk Bogarde", "original_title": "Arena: The Private Dirk Bogarde", "slug_title": "arena-the-private-dirk-bogarde", "date": "2001-08-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

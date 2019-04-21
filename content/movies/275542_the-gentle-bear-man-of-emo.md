@@ -1,0 +1,1 @@
+{"tmdb_id": 275542, "title": "The Gentle Bear Man of Emo", "original_title": "The Gentle Bear Man of Emo", "slug_title": "the-gentle-bear-man-of-emo", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

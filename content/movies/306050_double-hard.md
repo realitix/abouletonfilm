@@ -1,0 +1,1 @@
+{"tmdb_id": 306050, "title": "Double Hard", "original_title": "Double Hard", "slug_title": "double-hard", "date": "2014-08-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 161945, "title": "Buddy's Day Out", "original_title": "Buddy's Day Out", "slug_title": "buddy-s-day-out", "date": "1933-09-09", "genre": "", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mbSGTcpturZpwtv8QGX3pzhTHxa.jpg", "actors": ["Jack Carr (Buddy)", "Bernice Hansen (Cookie)"], "comments": [], "recommandations_id": []}

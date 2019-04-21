@@ -1,0 +1,1 @@
+{"tmdb_id": 488562, "title": "U2: Last Night at the Ritz  1981", "original_title": "U2: Last Night at the Ritz  1981", "slug_title": "u2-last-night-at-the-ritz-1981", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/71DMIIx9CefX8ZATA2rzrhpkfsM.jpg", "actors": [], "comments": [], "recommandations_id": []}

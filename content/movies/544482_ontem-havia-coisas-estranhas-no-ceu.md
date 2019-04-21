@@ -1,0 +1,1 @@
+{"tmdb_id": 544482, "title": "Ontem Havia Coisas Estranhas no C\u00e9u", "original_title": "Ontem Havia Coisas Estranhas no C\u00e9u", "slug_title": "ontem-havia-coisas-estranhas-no-ceu", "date": "2018-09-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

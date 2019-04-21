@@ -1,0 +1,1 @@
+{"tmdb_id": 412256, "title": "Champ proven\u00e7al", "original_title": "Champ proven\u00e7al", "slug_title": "champ-provencal", "date": "1979-06-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uwAHmTsBabRmeoWNNQuzEG9mi9O.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 281144, "title": "L'armoire", "original_title": "L'armoire", "slug_title": "l-armoire", "date": "1979-06-27", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pd87j29ywQR9jLqyxmuaCxyqz9Y.jpg", "actors": ["Marie-Catherine Conti ()", "Yves-Marie Maurin ()"], "comments": [], "recommandations_id": []}

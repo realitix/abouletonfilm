@@ -1,0 +1,1 @@
+{"tmdb_id": 131232, "title": "Two Friends", "original_title": "Due amici", "slug_title": "two-friends", "date": "2002-03-20", "genre": "Drame", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jo4n8M8EHedIuatB39C8EEmJBH8.jpg", "actors": ["Francesco Sframeli (Nunzio)", "Spiro Scimone (Pino)"], "comments": [], "recommandations_id": []}

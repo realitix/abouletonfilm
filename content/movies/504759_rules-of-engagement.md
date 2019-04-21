@@ -1,0 +1,1 @@
+{"tmdb_id": 504759, "title": "Rules of Engagement", "original_title": "Rules of Engagement", "slug_title": "rules-of-engagement", "date": "2018-01-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

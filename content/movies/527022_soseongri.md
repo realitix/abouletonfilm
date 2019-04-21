@@ -1,0 +1,1 @@
+{"tmdb_id": 527022, "title": "Soseongri", "original_title": "\uc18c\uc131\ub9ac", "slug_title": "soseongri", "date": "2018-08-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sXSyfrJ8v7w576223FNY9dvmu0v.jpg", "actors": [], "comments": [], "recommandations_id": []}

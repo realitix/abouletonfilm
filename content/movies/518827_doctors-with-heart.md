@@ -1,0 +1,1 @@
+{"tmdb_id": 518827, "title": "Doctors with Heart", "original_title": "M\u00e9decins de c\u0153ur", "slug_title": "doctors-with-heart", "date": "1993-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7Hxs1DUBrx2bu1EBcAtOsjAJ3nW.jpg", "actors": [], "comments": [], "recommandations_id": []}

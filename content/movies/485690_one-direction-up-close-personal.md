@@ -1,0 +1,1 @@
+{"tmdb_id": 485690, "title": "One Direction - Up Close & Personal", "original_title": "One Direction - Up Close & Personal", "slug_title": "one-direction-up-close-personal", "date": "2013-04-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

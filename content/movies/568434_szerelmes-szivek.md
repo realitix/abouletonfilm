@@ -1,0 +1,1 @@
+{"tmdb_id": 568434, "title": "Szerelmes sz\u00edvek", "original_title": "Szerelmes sz\u00edvek", "slug_title": "szerelmes-szivek", "date": "1991-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wPbwPmtsGDhU1JMHzzt9ZeIzXpd.jpg", "actors": [], "comments": [], "recommandations_id": []}

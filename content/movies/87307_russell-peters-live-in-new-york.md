@@ -1,0 +1,1 @@
+{"tmdb_id": 87307, "title": "Russell Peters: Live In New York", "original_title": "Russell Peters: Live In New York", "slug_title": "russell-peters-live-in-new-york", "date": "2004-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Russell Peters (Himself)"], "comments": [], "recommandations_id": []}

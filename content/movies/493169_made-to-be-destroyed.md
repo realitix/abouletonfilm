@@ -1,0 +1,1 @@
+{"tmdb_id": 493169, "title": "Made to Be Destroyed", "original_title": "Made to Be Destroyed", "slug_title": "made-to-be-destroyed", "date": "2016-12-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

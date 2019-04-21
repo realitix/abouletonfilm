@@ -1,0 +1,1 @@
+{"tmdb_id": 341339, "title": "Ambiciosa", "original_title": "Ambiciosa", "slug_title": "ambiciosa", "date": "1953-02-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Meche Barba ()", "Fernando Fern\u00e1ndez ()", "Crox Alvarado ()", "Dagoberto Rodr\u00edguez ()"], "comments": [], "recommandations_id": []}

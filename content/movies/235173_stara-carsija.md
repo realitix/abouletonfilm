@@ -1,0 +1,1 @@
+{"tmdb_id": 235173, "title": "Stara carsija", "original_title": "Stara carsija", "slug_title": "stara-carsija", "date": "1955-11-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 226021, "title": "Zordax II", "original_title": "Zordax II", "slug_title": "zordax-ii", "date": "2006-06-09", "genre": "Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

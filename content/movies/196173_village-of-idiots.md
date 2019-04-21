@@ -1,0 +1,1 @@
+{"tmdb_id": 196173, "title": "Village of Idiots", "original_title": "Village of Idiots", "slug_title": "village-of-idiots", "date": "1999-06-19", "genre": "", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/55jTb0ZwC3Cwi2IiLOZn8AvvdL2.jpg", "actors": ["Jack Newman ()", "Nicholas Rice ()"], "comments": [], "recommandations_id": []}

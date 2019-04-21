@@ -1,0 +1,1 @@
+{"tmdb_id": 456735, "title": "Cinema Twain", "original_title": "Cinema Twain", "slug_title": "cinema-twain", "date": "2016-06-30", "genre": "Com\u00e9die", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/atgYsfIH9uGWre4cznTd456GN4A.jpg", "actors": ["Val Kilmer (Mark Twain)"], "comments": [], "recommandations_id": []}

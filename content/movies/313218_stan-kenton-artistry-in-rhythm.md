@@ -1,0 +1,1 @@
+{"tmdb_id": 313218, "title": "Stan Kenton: Artistry in Rhythm", "original_title": "Stan Kenton: Artistry in Rhythm", "slug_title": "stan-kenton-artistry-in-rhythm", "date": "1977-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

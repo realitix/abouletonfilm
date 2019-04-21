@@ -1,0 +1,1 @@
+{"tmdb_id": 345730, "title": "Return of the Free China Junk", "original_title": "Return of the Free China Junk", "slug_title": "return-of-the-free-china-junk", "date": "2015-07-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

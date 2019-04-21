@@ -1,0 +1,1 @@
+{"tmdb_id": 274090, "title": "Primates of the Seven Seas", "original_title": "Primates of the Seven Seas", "slug_title": "primates-of-the-seven-seas", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nKXFKzhEPKMUDPs3IQ05SzR3V1g.jpg", "actors": [], "comments": [], "recommandations_id": []}

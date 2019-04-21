@@ -1,0 +1,1 @@
+{"tmdb_id": 392436, "title": "I Came As a Stranger", "original_title": "Fremd bin ich eingezogen", "slug_title": "i-came-as-a-stranger", "date": "1979-04-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

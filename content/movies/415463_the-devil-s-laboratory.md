@@ -1,0 +1,1 @@
+{"tmdb_id": 415463, "title": "The Devil's Laboratory", "original_title": "Le cabinet de M\u00e9phistoph\u00e9l\u00e8s", "slug_title": "the-devil-s-laboratory", "date": "1897-01-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

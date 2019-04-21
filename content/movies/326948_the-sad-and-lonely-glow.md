@@ -1,0 +1,1 @@
+{"tmdb_id": 326948, "title": "The Sad and Lonely Glow", "original_title": "The Sad and Lonely Glow", "slug_title": "the-sad-and-lonely-glow", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

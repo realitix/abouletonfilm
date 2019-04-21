@@ -1,0 +1,1 @@
+{"tmdb_id": 573425, "title": "Combat in the Air - Top Gun", "original_title": "Combat in the Air - Top Gun", "slug_title": "combat-in-the-air-top-gun", "date": "1997-04-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/whZNNhnaWWP972rArTYtSVPtSjA.jpg", "actors": [], "comments": [], "recommandations_id": []}

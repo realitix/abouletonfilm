@@ -1,0 +1,1 @@
+{"tmdb_id": 479470, "title": "Hot Ticket", "original_title": "Hot Ticket", "slug_title": "hot-ticket", "date": "1993-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Zo\u00eb Lund ()", "Rob Cryston ()"], "comments": [], "recommandations_id": []}

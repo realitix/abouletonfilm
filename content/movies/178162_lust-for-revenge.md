@@ -1,0 +1,1 @@
+{"tmdb_id": 178162, "title": "Lust for Revenge", "original_title": "Lust for Revenge", "slug_title": "lust-for-revenge", "date": "1976-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fnR45e4BBxfPUgAd3EeI02Iq2O.jpg", "actors": [], "comments": [], "recommandations_id": []}

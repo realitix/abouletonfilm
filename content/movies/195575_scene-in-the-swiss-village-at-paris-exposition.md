@@ -1,0 +1,1 @@
+{"tmdb_id": 195575, "title": "Scene in the Swiss Village at Paris Exposition", "original_title": "Scene in the Swiss Village at Paris Exposition", "slug_title": "scene-in-the-swiss-village-at-paris-exposition", "date": "1900-05-21", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

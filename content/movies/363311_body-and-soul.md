@@ -1,0 +1,1 @@
+{"tmdb_id": 363311, "title": "Body and Soul", "original_title": "\u8eab\u3082\u5fc3\u3082", "slug_title": "body-and-soul", "date": "1997-10-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w2ZWMlmyLE8nmaKC8RwSxA8V0bP.jpg", "actors": ["Eiji Okuda ()"], "comments": [], "recommandations_id": []}

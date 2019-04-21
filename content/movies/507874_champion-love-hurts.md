@@ -1,0 +1,1 @@
+{"tmdb_id": 507874, "title": "Champion: Love Hurts", "original_title": "Champion: Love Hurts", "slug_title": "champion-love-hurts", "date": "2009-02-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/itU2hFmdRq83XiRy0jNU8NjIbFz.jpg", "actors": [], "comments": [], "recommandations_id": []}

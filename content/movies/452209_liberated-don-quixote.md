@@ -1,0 +1,1 @@
+{"tmdb_id": 452209, "title": "Liberated Don Quixote", "original_title": "Liberated Don Quixote", "slug_title": "liberated-don-quixote", "date": "1987-02-06", "genre": "Animation / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/57SdPIAbcFVOjhgVMWalVMlpe1X.jpg", "actors": [], "comments": [], "recommandations_id": []}

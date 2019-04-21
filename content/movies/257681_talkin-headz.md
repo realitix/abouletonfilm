@@ -1,0 +1,1 @@
+{"tmdb_id": 257681, "title": "Talkin' Headz", "original_title": "Talkin' Headz", "slug_title": "talkin-headz", "date": "1998-11-23", "genre": "Musique / Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/agnOsHwztJeyRh6bciTHZRCCvN9.jpg", "actors": ["Goldie (Himself)"], "comments": [], "recommandations_id": []}

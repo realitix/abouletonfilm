@@ -1,0 +1,1 @@
+{"tmdb_id": 476034, "title": "TruInside: Election", "original_title": "TruInside: Election", "slug_title": "truinside-election", "date": "2016-03-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

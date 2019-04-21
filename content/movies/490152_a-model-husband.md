@@ -1,0 +1,1 @@
+{"tmdb_id": 490152, "title": "A Model Husband", "original_title": "A Model Husband", "slug_title": "a-model-husband", "date": "1916-03-29", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Harry Myers (Mr Cherub)", "Rosemary Theby (Mrs Cherub)", "Nora Cecil (Mrs Gossip)"], "comments": [], "recommandations_id": []}

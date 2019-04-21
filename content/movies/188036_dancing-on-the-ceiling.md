@@ -1,0 +1,1 @@
+{"tmdb_id": 188036, "title": "Dancing on the Ceiling", "original_title": "Dancing on the Ceiling", "slug_title": "dancing-on-the-ceiling", "date": "1937-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Colin Kenny (Dental Patient)", "James C. Morton (Dental Patient)"], "comments": [], "recommandations_id": []}

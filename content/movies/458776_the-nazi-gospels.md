@@ -1,0 +1,1 @@
+{"tmdb_id": 458776, "title": "The Nazi Gospels", "original_title": "The Nazi Gospels", "slug_title": "the-nazi-gospels", "date": "2012-01-01", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eQcFe6k9zxaSi5ImGkV0xMIGlsv.jpg", "actors": ["Eric Meyers (Narrator)"], "comments": [], "recommandations_id": []}

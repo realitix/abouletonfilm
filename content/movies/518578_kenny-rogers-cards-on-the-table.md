@@ -1,0 +1,1 @@
+{"tmdb_id": 518578, "title": "Kenny Rogers: Cards on the Table", "original_title": "Kenny Rogers: Cards on the Table", "slug_title": "kenny-rogers-cards-on-the-table", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

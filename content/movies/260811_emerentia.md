@@ -1,0 +1,1 @@
+{"tmdb_id": 260811, "title": "Emerentia", "original_title": "Emerentia", "slug_title": "emerentia", "date": "2013-12-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u7GCXCvOl7hVRcGp4Fhm2SRXXcq.jpg", "actors": ["Myriam Heritier (as)"], "comments": [], "recommandations_id": []}

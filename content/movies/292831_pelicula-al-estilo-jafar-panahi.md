@@ -1,0 +1,1 @@
+{"tmdb_id": 292831, "title": "Pel\u00edcula al estilo Jafar Panahi", "original_title": "Pel\u00edcula al estilo Jafar Panahi", "slug_title": "pelicula-al-estilo-jafar-panahi", "date": "2014-09-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jos\u00e9 Luis Cubillo Fern\u00e1ndez ()"], "comments": [], "recommandations_id": []}

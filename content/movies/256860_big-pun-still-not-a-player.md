@@ -1,0 +1,1 @@
+{"tmdb_id": 256860, "title": "Big Pun: Still Not a Player", "original_title": "Big Pun: Still Not a Player", "slug_title": "big-pun-still-not-a-player", "date": "2002-06-11", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Big Pun (Himeself)"], "comments": [], "recommandations_id": []}

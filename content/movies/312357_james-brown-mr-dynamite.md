@@ -1,0 +1,1 @@
+{"tmdb_id": 312357, "title": "James Brown: Mr. Dynamite", "original_title": "James Brown: Mr. Dynamite", "slug_title": "james-brown-mr-dynamite", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

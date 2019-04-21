@@ -1,0 +1,1 @@
+{"tmdb_id": 309333, "title": "Spartakus", "original_title": "Spartakus", "slug_title": "spartakus", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Vladimir Vasiliev (Spartacus)", "Natalia Bessmertnova (Phrygia)", "Maris Liepa (Crassus)", "Nina Timofeyeva (Aegina)"], "comments": [], "recommandations_id": []}

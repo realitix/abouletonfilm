@@ -1,0 +1,1 @@
+{"tmdb_id": 563782, "title": "Nuhr 2007 \u2013 Der Jahresr\u00fcckblick", "original_title": "Nuhr 2007 \u2013 Der Jahresr\u00fcckblick", "slug_title": "nuhr-2007-der-jahresruckblick", "date": "2007-12-27", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dieter Nuhr ()"], "comments": [], "recommandations_id": []}

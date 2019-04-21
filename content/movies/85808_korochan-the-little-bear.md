@@ -1,0 +1,1 @@
+{"tmdb_id": 85808, "title": "Korochan, The Little Bear", "original_title": "Koguma no Koro-chan", "slug_title": "korochan-the-little-bear", "date": "1958-03-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zF4YFh9dwrW7wPEAVbay8sH2kyC.jpg", "actors": [], "comments": [], "recommandations_id": []}

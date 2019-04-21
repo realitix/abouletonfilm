@@ -1,0 +1,1 @@
+{"tmdb_id": 329092, "title": "Hell-dwellers", "original_title": "Barzakhiha", "slug_title": "hell-dwellers", "date": "1982-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mohamad Ali Fardin ()", "Naser Malek Motiee ()", "Saeed Rad ()"], "comments": [], "recommandations_id": []}

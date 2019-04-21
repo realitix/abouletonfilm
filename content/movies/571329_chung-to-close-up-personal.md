@@ -1,0 +1,1 @@
+{"tmdb_id": 571329, "title": "Chung To: Close Up & Personal", "original_title": "Chung To: Close Up & Personal", "slug_title": "chung-to-close-up-personal", "date": "2006-11-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Chung To (himself)"], "comments": [], "recommandations_id": []}

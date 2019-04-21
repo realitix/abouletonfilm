@@ -1,0 +1,1 @@
+{"tmdb_id": 568544, "title": "Rhabdophis Tigrinus", "original_title": "Yamakagashi", "slug_title": "rhabdophis-tigrinus", "date": "1972-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

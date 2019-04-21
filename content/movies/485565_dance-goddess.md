@@ -1,0 +1,1 @@
+{"tmdb_id": 485565, "title": "Dance Goddess", "original_title": "Dance Goddess", "slug_title": "dance-goddess", "date": "1987-09-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1ggUkU2fjDhJUZTQKEuGGhexdmj.jpg", "actors": [], "comments": [], "recommandations_id": []}

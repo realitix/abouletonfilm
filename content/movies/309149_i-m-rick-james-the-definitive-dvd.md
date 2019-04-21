@@ -1,0 +1,1 @@
+{"tmdb_id": 309149, "title": "I'm Rick James: The Definitive DVD", "original_title": "I'm Rick James: The Definitive DVD", "slug_title": "i-m-rick-james-the-definitive-dvd", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

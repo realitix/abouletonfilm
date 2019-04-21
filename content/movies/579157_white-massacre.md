@@ -1,0 +1,1 @@
+{"tmdb_id": 579157, "title": "White Massacre", "original_title": "White Massacre", "slug_title": "white-massacre", "date": "1989-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

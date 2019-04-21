@@ -1,0 +1,1 @@
+{"tmdb_id": 591520, "title": "Canelo vs. Jacobs", "original_title": "Canelo vs. Jacobs", "slug_title": "canelo-vs-jacobs", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9XuAjPzJCVzjNokgsGmDWxDMg6y.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 587673, "title": "\u9093\u5c0f\u5e73", "original_title": "\u9093\u5c0f\u5e73", "slug_title": "deng-xiao-ping", "date": "2003-02-19", "genre": "Histoire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6kYzuajXpk5PIgJMdN5UmuIpAgU.jpg", "actors": ["Qi Lu (\u9093\u5c0f\u5e73)"], "comments": [], "recommandations_id": []}

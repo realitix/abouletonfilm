@@ -1,0 +1,1 @@
+{"tmdb_id": 163010, "title": "Dust: A Sculptor's Journey", "original_title": "Dust: A Sculptor's Journey", "slug_title": "dust-a-sculptor-s-journey", "date": "2011-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

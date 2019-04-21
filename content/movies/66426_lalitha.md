@@ -1,0 +1,1 @@
+{"tmdb_id": 66426, "title": "Lalitha", "original_title": "Lalitha", "slug_title": "lalitha", "date": "1976-12-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gemini Ganesan ()", "Kamal Haasan ()", "Pandari Bai ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 85797, "title": "Mermaid", "original_title": "Ningyo", "slug_title": "mermaid", "date": "1964-09-21", "genre": "Animation", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3Y6Gkc5w7PHMxcMo4AF6q3vl3MV.jpg", "actors": [], "comments": [], "recommandations_id": [189943, 265655, 183718, 386435]}

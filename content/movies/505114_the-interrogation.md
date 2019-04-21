@@ -1,0 +1,1 @@
+{"tmdb_id": 505114, "title": "The Interrogation", "original_title": "The Interrogation", "slug_title": "the-interrogation", "date": "2018-02-16", "genre": "Crime", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oIqGcZwzwSczKtYu7Qr1CxPeuA8.jpg", "actors": ["Jackson Stern ()"], "comments": [], "recommandations_id": []}

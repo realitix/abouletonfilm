@@ -1,0 +1,1 @@
+{"tmdb_id": 453041, "title": "Magoo Makes News", "original_title": "Magoo Makes News", "slug_title": "magoo-makes-news", "date": "1955-11-15", "genre": "Familial / Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jim Backus (Mr. Magoo)", "Jerry Hausner (Waldo)"], "comments": [], "recommandations_id": []}

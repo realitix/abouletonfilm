@@ -1,0 +1,1 @@
+{"tmdb_id": 353799, "title": "Se\u00f1ales de Ruta", "original_title": "Se\u00f1ales de Ruta", "slug_title": "senales-de-ruta", "date": "2000-06-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/61b5HvaoS8z8OcUmScbPz1MIwli.jpg", "actors": [], "comments": [], "recommandations_id": []}

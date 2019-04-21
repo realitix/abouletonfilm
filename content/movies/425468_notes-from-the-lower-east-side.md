@@ -1,0 +1,1 @@
+{"tmdb_id": 425468, "title": "Notes From the Lower East Side", "original_title": "Notes From the Lower East Side", "slug_title": "notes-from-the-lower-east-side", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jeP8l8EGEKD9mvFayfVpk0IODan.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 312607, "title": "Maestro Ali Akbar Khan: The Summer Solstice", "original_title": "Maestro Ali Akbar Khan: The Summer Solstice", "slug_title": "maestro-ali-akbar-khan-the-summer-solstice", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

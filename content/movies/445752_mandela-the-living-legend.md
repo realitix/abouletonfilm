@@ -1,0 +1,1 @@
+{"tmdb_id": 445752, "title": "Mandela, the Living Legend", "original_title": "Mandela, the Living Legend", "slug_title": "mandela-the-living-legend", "date": "2003-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/egTwCbdXWb0Gy9ayUXlrZuuWkdU.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 138119, "title": "BedBugs", "original_title": "BedBugs", "slug_title": "bedbugs", "date": "2011-07-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hrtEi9aVMokVIg6mkbWvbV0R7XO.jpg", "actors": ["Oliver Malam (Tom)", "Samuel Harman (Nick)", "Austin Caley (Finn)"], "comments": [], "recommandations_id": []}

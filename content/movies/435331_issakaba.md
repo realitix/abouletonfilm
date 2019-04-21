@@ -1,0 +1,1 @@
+{"tmdb_id": 435331, "title": "Issakaba", "original_title": "Issakaba", "slug_title": "issakaba", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uTrbNtbWztUtoZCI8swQ8hIWtSO.jpg", "actors": [], "comments": [], "recommandations_id": []}

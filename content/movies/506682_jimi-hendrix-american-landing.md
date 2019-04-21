@@ -1,0 +1,1 @@
+{"tmdb_id": 506682, "title": "Jimi Hendrix: American Landing", "original_title": "Jimi Hendrix: American Landing", "slug_title": "jimi-hendrix-american-landing", "date": "2007-02-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cnwum8DYyh80I4BEAqeMQPZUjes.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 523763, "title": "Suicide: One Day + Live At La Loco / Paris", "original_title": "Suicide: One Day + Live At La Loco / Paris", "slug_title": "suicide-one-day-live-at-la-loco-paris", "date": "2005-11-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

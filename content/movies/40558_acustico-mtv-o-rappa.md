@@ -1,0 +1,1 @@
+{"tmdb_id": 40558, "title": "Ac\u00fastico MTV - O Rappa", "original_title": "Ac\u00fastico MTV - O Rappa", "slug_title": "acustico-mtv-o-rappa", "date": "2005-06-16", "genre": "Musique", "score": "7.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1740fRMXUFDs8FiRJfhMCk1rTbV.jpg", "actors": [], "comments": [], "recommandations_id": []}

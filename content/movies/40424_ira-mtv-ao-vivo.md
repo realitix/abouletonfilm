@@ -1,0 +1,1 @@
+{"tmdb_id": 40424, "title": "Ira - MTV ao Vivo", "original_title": "Ira - MTV ao Vivo", "slug_title": "ira-mtv-ao-vivo", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v6gzz2OT5cABMtibqo1QMj4VfUe.jpg", "actors": [], "comments": [], "recommandations_id": []}

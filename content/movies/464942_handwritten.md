@@ -1,0 +1,1 @@
+{"tmdb_id": 464942, "title": "Handwritten", "original_title": "Handwritten", "slug_title": "handwritten", "date": "1959-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

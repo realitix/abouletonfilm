@@ -1,0 +1,1 @@
+{"tmdb_id": 344159, "title": "El efecto Kulechov", "original_title": "El efecto Kulechov", "slug_title": "el-efecto-kulechov", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

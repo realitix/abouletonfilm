@@ -1,0 +1,1 @@
+{"tmdb_id": 513722, "title": "Adeus Ao Inferno Verde", "original_title": "Adeus Ao Inferno Verde", "slug_title": "adeus-ao-inferno-verde", "date": "1967-01-19", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

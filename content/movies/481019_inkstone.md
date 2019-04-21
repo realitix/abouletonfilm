@@ -1,0 +1,1 @@
+{"tmdb_id": 481019, "title": "Inkstone", "original_title": "\u781a\u5e8a", "slug_title": "inkstone", "date": "1995-12-31", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qwmmiPHke3XZbUKGTcdwSmh3BH4.jpg", "actors": ["Bin Li ()", "Anita Chan ()", "Fu Chengpeng ()"], "comments": [], "recommandations_id": []}

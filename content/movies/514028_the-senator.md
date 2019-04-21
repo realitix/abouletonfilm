@@ -1,0 +1,1 @@
+{"tmdb_id": 514028, "title": "The Senator", "original_title": "El Senador", "slug_title": "the-senator", "date": "", "genre": "Action / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vTupbbPwYwMoZxMVav2LlnyOTm1.jpg", "actors": ["Luis Vitalino Grand\u00f3n (Fernando Palermo)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 318905, "title": "Patience The New Guy", "original_title": "Patience The New Guy", "slug_title": "patience-the-new-guy", "date": "2013-08-02", "genre": "Com\u00e9die", "score": "9.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Michael Boris (Medi Mike)", "Cody Morley (Richard)"], "comments": [], "recommandations_id": []}

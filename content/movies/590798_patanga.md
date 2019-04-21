@@ -1,0 +1,1 @@
+{"tmdb_id": 590798, "title": "Patanga", "original_title": "Patanga", "slug_title": "patanga", "date": "1971-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Shashi Kapoor ()", "Ajit ()", "Leela Mishra ()", "Ram Mohan ()", "Jagdish Raj ()", "Laxmi Chhaya ()"], "comments": [], "recommandations_id": []}

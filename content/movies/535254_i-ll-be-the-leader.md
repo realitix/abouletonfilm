@@ -1,0 +1,1 @@
+{"tmdb_id": 535254, "title": "I'll Be The Leader!", "original_title": "\u0412\u043e\u0436\u0434\u0435\u043c \u0431\u0443\u0434\u0443 \u044f!", "slug_title": "i-ll-be-the-leader", "date": "2015-12-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 573973, "title": "The First Chapter", "original_title": "Pehla Adhyay", "slug_title": "the-first-chapter", "date": "1981-01-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 437824, "title": "Amor e Medo", "original_title": "Amor e Medo", "slug_title": "amor-e-medo", "date": "1974-11-18", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jos\u00e9 Wilker ()", "Irene Stef\u00e2nia ()", "Maria Alice Vergueiro ()"], "comments": [], "recommandations_id": []}

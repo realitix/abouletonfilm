@@ -1,0 +1,1 @@
+{"tmdb_id": 581754, "title": "Kung Fu Hustle 2", "original_title": "Kung Fu Hustle 2", "slug_title": "kung-fu-hustle-2", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

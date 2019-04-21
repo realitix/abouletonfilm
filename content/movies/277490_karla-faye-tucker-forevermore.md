@@ -1,0 +1,1 @@
+{"tmdb_id": 277490, "title": "Karla Faye Tucker: Forevermore", "original_title": "Karla Faye Tucker: Forevermore", "slug_title": "karla-faye-tucker-forevermore", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h4qlDYnvJ4ZA1JI90oMeuZfSXCo.jpg", "actors": [], "comments": [], "recommandations_id": []}

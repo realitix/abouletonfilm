@@ -1,0 +1,1 @@
+{"tmdb_id": 304231, "title": "Jeevan Ki Shatranj", "original_title": "Jeevan Ki Shatranj", "slug_title": "jeevan-ki-shatranj", "date": "1993-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

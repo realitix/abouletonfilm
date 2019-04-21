@@ -1,0 +1,1 @@
+{"tmdb_id": 501499, "title": "Countryside Lovers", "original_title": "Novios del campo", "slug_title": "countryside-lovers", "date": "2009-03-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 289819, "title": "The Traveling Female Entertainer", "original_title": "Tabi no onna geinin", "slug_title": "the-traveling-female-entertainer", "date": "1923-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Utako Suzuki ()", "Yoneko Sakai ()"], "comments": [], "recommandations_id": []}

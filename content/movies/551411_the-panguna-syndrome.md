@@ -1,0 +1,1 @@
+{"tmdb_id": 551411, "title": "The Panguna Syndrome", "original_title": "Le syndrome Panguna", "slug_title": "the-panguna-syndrome", "date": "2017-01-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2YqFjj2NkuNLu1yQquH2bZT4TmJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

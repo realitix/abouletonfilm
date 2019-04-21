@@ -1,0 +1,1 @@
+{"tmdb_id": 467721, "title": "Giuseppi Logan", "original_title": "Giuseppi Logan", "slug_title": "giuseppi-logan", "date": "1966-01-01", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

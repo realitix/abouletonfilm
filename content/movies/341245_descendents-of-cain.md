@@ -1,0 +1,1 @@
+{"tmdb_id": 341245, "title": "Descendents of Cain", "original_title": "Cainui huye", "slug_title": "descendents-of-cain", "date": "1968-06-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hMEzElynUnvqK8kACbAx9BZf2En.jpg", "actors": [], "comments": [], "recommandations_id": []}

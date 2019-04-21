@@ -1,0 +1,1 @@
+{"tmdb_id": 48964, "title": "Die Legende des Werwolfs", "original_title": "Die Legende des Werwolfs", "slug_title": "die-legende-des-werwolfs", "date": "2010-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

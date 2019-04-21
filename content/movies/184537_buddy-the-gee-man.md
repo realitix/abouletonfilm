@@ -1,0 +1,1 @@
+{"tmdb_id": 184537, "title": "Buddy the Gee Man", "original_title": "Buddy the Gee Man", "slug_title": "buddy-the-gee-man", "date": "1935-08-23", "genre": "", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2eqRZ1uYAdGuFOoKBHjVUHjFW5M.jpg", "actors": [], "comments": [], "recommandations_id": []}

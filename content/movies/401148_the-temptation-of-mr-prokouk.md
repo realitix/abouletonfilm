@@ -1,0 +1,1 @@
+{"tmdb_id": 401148, "title": "The Temptation of Mr. Prokouk", "original_title": "Pan Prokouk v poku\u0161en\u00ed", "slug_title": "the-temptation-of-mr-prokouk", "date": "1947-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aOyWW6jitUC0kvzqx4mnlBCBXpl.jpg", "actors": [], "comments": [], "recommandations_id": []}

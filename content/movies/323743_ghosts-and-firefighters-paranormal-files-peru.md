@@ -1,0 +1,1 @@
+{"tmdb_id": 323743, "title": "\"Ghosts and Firefighters\", paranormal files, Peru", "original_title": "\"Ghosts and Firefighters\", paranormal files, Peru", "slug_title": "ghosts-and-firefighters-paranormal-files-peru", "date": "2013-02-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

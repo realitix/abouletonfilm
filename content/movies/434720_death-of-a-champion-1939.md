@@ -1,0 +1,1 @@
+{"tmdb_id": 434720, "title": "Death of a Champion - 1939", "original_title": "Death of a Champion - 1939", "slug_title": "death-of-a-champion-1939", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

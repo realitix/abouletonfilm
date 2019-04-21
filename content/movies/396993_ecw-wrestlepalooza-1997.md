@@ -1,0 +1,1 @@
+{"tmdb_id": 396993, "title": "ECW Wrestlepalooza 1997", "original_title": "ECW Wrestlepalooza 1997", "slug_title": "ecw-wrestlepalooza-1997", "date": "1997-05-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hndW89UYUi5wsXXosdP4f8xfLD6.jpg", "actors": [], "comments": [], "recommandations_id": []}

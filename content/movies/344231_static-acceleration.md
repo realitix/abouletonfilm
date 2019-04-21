@@ -1,0 +1,1 @@
+{"tmdb_id": 344231, "title": "Static Acceleration", "original_title": "Static Acceleration", "slug_title": "static-acceleration", "date": "1976-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5U50kKvQYHbVABKU31wYFHf0uhM.jpg", "actors": [], "comments": [], "recommandations_id": []}

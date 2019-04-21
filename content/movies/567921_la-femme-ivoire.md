@@ -1,0 +1,1 @@
+{"tmdb_id": 567921, "title": "La femme ivoire", "original_title": "La femme ivoire", "slug_title": "la-femme-ivoire", "date": "1984-12-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

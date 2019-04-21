@@ -1,0 +1,1 @@
+{"tmdb_id": 410031, "title": "Les Stars", "original_title": "Les Stars", "slug_title": "les-stars", "date": "2014-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/c9aD9DWigwNUTmLgrFi1xNAfHNy.jpg", "actors": [], "comments": [], "recommandations_id": []}

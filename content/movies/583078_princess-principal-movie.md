@@ -1,0 +1,1 @@
+{"tmdb_id": 583078, "title": "Princess Principal Movie", "original_title": "Princess Principal Movie", "slug_title": "princess-principal-movie", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

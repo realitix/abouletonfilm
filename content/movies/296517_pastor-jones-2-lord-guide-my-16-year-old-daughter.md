@@ -1,0 +1,1 @@
+{"tmdb_id": 296517, "title": "Pastor Jones 2: Lord Guide My 16 Year Old Daughter", "original_title": "Pastor Jones 2: Lord Guide My 16 Year Old Daughter", "slug_title": "pastor-jones-2-lord-guide-my-16-year-old-daughter", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

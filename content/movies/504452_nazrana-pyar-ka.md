@@ -1,0 +1,1 @@
+{"tmdb_id": 504452, "title": "Nazrana Pyar Ka", "original_title": "Nazrana Pyar Ka", "slug_title": "nazrana-pyar-ka", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3r9LpTwuFNEhUljX2MiedfkW7ti.jpg", "actors": [], "comments": [], "recommandations_id": []}

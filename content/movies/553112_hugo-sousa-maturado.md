@@ -1,0 +1,1 @@
+{"tmdb_id": 553112, "title": "Hugo Sousa: Maturado", "original_title": "Hugo Sousa: Maturado", "slug_title": "hugo-sousa-maturado", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qrSOby0aDHUkq8YBZZYJb8Chcyj.jpg", "actors": ["Hugo Sousa (Himself)"], "comments": [], "recommandations_id": []}

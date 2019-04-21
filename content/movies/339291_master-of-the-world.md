@@ -1,0 +1,1 @@
+{"tmdb_id": 339291, "title": "Master of the World", "original_title": "I Padroni del Mondo", "slug_title": "master-of-the-world", "date": "1983-05-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fTdZKCLUffL4uHwuRwHQno5btBz.jpg", "actors": [], "comments": [], "recommandations_id": []}

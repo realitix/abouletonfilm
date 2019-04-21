@@ -1,0 +1,1 @@
+{"tmdb_id": 575975, "title": "Khamakha", "original_title": "Khamakha", "slug_title": "khamakha", "date": "2016-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oPLnSrhWECvOxw8MGxYvLgrbSdX.jpg", "actors": [], "comments": [], "recommandations_id": []}

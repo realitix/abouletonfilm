@@ -1,0 +1,1 @@
+{"tmdb_id": 160857, "title": "DRUGS ON MUSIC: COCAINE CITY 12", "original_title": "DRUGS ON MUSIC: COCAINE CITY 12", "slug_title": "drugs-on-music-cocaine-city-12", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

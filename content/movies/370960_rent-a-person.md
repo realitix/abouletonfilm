@@ -1,0 +1,1 @@
+{"tmdb_id": 370960, "title": "Rent-a-Person", "original_title": "Rent-a-Person", "slug_title": "rent-a-person", "date": "2004-03-07", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cBUK7YBsTxzhvv4X2O7Xd93bWTY.jpg", "actors": ["James Haven (James Coleman)"], "comments": [], "recommandations_id": []}

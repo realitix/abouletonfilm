@@ -1,0 +1,1 @@
+{"tmdb_id": 283211, "title": "Ich liebe dich", "original_title": "Ich liebe dich", "slug_title": "ich-liebe-dich", "date": "1963-08-03", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Chariklia Baxevanos (Eva)", "Harald Juhnke (Percy)"], "comments": [], "recommandations_id": []}

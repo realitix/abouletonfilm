@@ -1,0 +1,1 @@
+{"tmdb_id": 543153, "title": "Mysterious Doctor Satan The Flaming Coffin", "original_title": "Mysterious Doctor Satan The Flaming Coffin", "slug_title": "mysterious-doctor-satan-the-flaming-coffin", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

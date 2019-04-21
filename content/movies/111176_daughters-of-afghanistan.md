@@ -1,0 +1,1 @@
+{"tmdb_id": 111176, "title": "Daughters of Afghanistan", "original_title": "Daughters of Afghanistan", "slug_title": "daughters-of-afghanistan", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

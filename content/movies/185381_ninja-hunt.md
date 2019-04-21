@@ -1,0 +1,1 @@
+{"tmdb_id": 185381, "title": "Ninja Hunt", "original_title": "Ninja Gari", "slug_title": "ninja-hunt", "date": "1982-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oBUf1Kwjffab4VJH309sI2qGl0a.jpg", "actors": ["Hiroki Matsukata (Wadakuro)"], "comments": [], "recommandations_id": []}

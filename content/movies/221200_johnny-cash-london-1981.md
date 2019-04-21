@@ -1,0 +1,1 @@
+{"tmdb_id": 221200, "title": "Johnny Cash: London 1981", "original_title": "Johnny Cash: London 1981", "slug_title": "johnny-cash-london-1981", "date": "1981-02-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/szrDs26kr99Oj6vihjUyVaLLmLH.jpg", "actors": [], "comments": [], "recommandations_id": []}

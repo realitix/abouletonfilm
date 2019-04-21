@@ -1,0 +1,1 @@
+{"tmdb_id": 477999, "title": "Best Buddies", "original_title": "Best Buddies", "slug_title": "best-buddies", "date": "2015-08-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

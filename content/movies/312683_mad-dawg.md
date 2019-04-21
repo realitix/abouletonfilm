@@ -1,0 +1,1 @@
+{"tmdb_id": 312683, "title": "Mad Dawg", "original_title": "Mad Dawg", "slug_title": "mad-dawg", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nE3EvRrXUG9dh8XMR4JyrbiFILM.jpg", "actors": [], "comments": [], "recommandations_id": []}

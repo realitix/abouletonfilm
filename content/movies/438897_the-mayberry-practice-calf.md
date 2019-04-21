@@ -1,0 +1,1 @@
+{"tmdb_id": 438897, "title": "The Mayberry Practice Calf", "original_title": "The Mayberry Practice Calf", "slug_title": "the-mayberry-practice-calf", "date": "2012-02-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nhEhOHSjBkm7THk7BpPpLqJsMur.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 358796, "title": "Portrait of Queenie", "original_title": "Portrait of Queenie", "slug_title": "portrait-of-queenie", "date": "1964-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mjumdq4MHC5lhOswYeV0z0jb41d.jpg", "actors": [], "comments": [], "recommandations_id": []}

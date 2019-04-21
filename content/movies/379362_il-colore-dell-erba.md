@@ -1,0 +1,1 @@
+{"tmdb_id": 379362, "title": "Il colore dell'erba", "original_title": "Il colore dell'erba", "slug_title": "il-colore-dell-erba", "date": "2016-01-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/juSn8z3gal46nzvIbMiGf1FFPO7.jpg", "actors": [], "comments": [], "recommandations_id": []}

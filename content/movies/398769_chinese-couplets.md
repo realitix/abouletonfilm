@@ -1,0 +1,1 @@
+{"tmdb_id": 398769, "title": "Chinese Couplets", "original_title": "Chinese Couplets", "slug_title": "chinese-couplets", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dMF9d0N2pIbqMNuF1U0hklunp5V.jpg", "actors": [], "comments": [], "recommandations_id": []}

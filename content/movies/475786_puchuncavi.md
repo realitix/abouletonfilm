@@ -1,0 +1,1 @@
+{"tmdb_id": 475786, "title": "Puchuncav\u00ed", "original_title": "Puchuncav\u00ed", "slug_title": "puchuncavi", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7UmJerdJjQNL11UAKYVGjJHX2aW.jpg", "actors": [], "comments": [], "recommandations_id": []}

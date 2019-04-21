@@ -1,0 +1,1 @@
+{"tmdb_id": 561684, "title": "A Dog's Life", "original_title": "A Dog's Life", "slug_title": "a-dog-s-life", "date": "", "genre": "Animation / Drame / Aventure", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7jSpWnsEbOy16ytO1mQlYR0lNAJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

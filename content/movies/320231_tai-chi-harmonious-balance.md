@@ -1,0 +1,1 @@
+{"tmdb_id": 320231, "title": "Tai Chi: Harmonious Balance", "original_title": "Tai Chi: Harmonious Balance", "slug_title": "tai-chi-harmonious-balance", "date": "1998-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

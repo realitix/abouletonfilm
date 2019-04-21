@@ -1,0 +1,1 @@
+{"tmdb_id": 293910, "title": "One Shot", "original_title": "One Shot", "slug_title": "one-shot", "date": "2009-03-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9RV9clZEydLOmRHd9AFp57Y9JTr.jpg", "actors": [], "comments": [], "recommandations_id": []}

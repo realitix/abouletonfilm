@@ -1,0 +1,1 @@
+{"tmdb_id": 390262, "title": "Awaiting", "original_title": "\u30ad\u30e0\u30fb\u30cf\u30b1\u30f3", "slug_title": "awaiting", "date": "2012-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iDZCGy8C1ZrVkGF6VjrSpAaFmQe.jpg", "actors": [], "comments": [], "recommandations_id": []}

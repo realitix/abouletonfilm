@@ -1,0 +1,1 @@
+{"tmdb_id": 428534, "title": "Brontosaurus", "original_title": "Brontosaurus", "slug_title": "brontosaurus", "date": "1995-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sP4SnP7aX41bTFkgLOzU4ARoF2E.jpg", "actors": [], "comments": [], "recommandations_id": []}

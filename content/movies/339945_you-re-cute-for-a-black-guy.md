@@ -1,0 +1,1 @@
+{"tmdb_id": 339945, "title": "You're Cute for a Black Guy", "original_title": "You're Cute for a Black Guy", "slug_title": "you-re-cute-for-a-black-guy", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

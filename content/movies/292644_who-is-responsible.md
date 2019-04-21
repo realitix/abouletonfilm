@@ -1,0 +1,1 @@
+{"tmdb_id": 292644, "title": "Who is Responsible?", "original_title": "Man al-mas'oul?", "slug_title": "who-is-responsible", "date": "1959-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

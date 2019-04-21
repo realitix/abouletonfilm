@@ -1,0 +1,1 @@
+{"tmdb_id": 376112, "title": "Sexy Palace", "original_title": "\u5510\u671d\u7981\u5bae\u9177\u5211", "slug_title": "sexy-palace", "date": "1994-01-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hWIkgUYEkwqBvp5OGYXkCzP47D4.jpg", "actors": ["Lung Tien-Hsiang ()"], "comments": [], "recommandations_id": []}

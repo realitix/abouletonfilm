@@ -1,0 +1,1 @@
+{"tmdb_id": 392317, "title": "Kill Hitler", "original_title": "Es ist kalt in Brandenburg", "slug_title": "kill-hitler", "date": "1981-04-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4TJLajbKvJUBfutAzBm0T41KQip.jpg", "actors": ["Roger Jendly ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 368331, "title": "O Panama", "original_title": "O Panama", "slug_title": "o-panama", "date": "1985-03-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Willem Dafoe ()"], "comments": [], "recommandations_id": []}

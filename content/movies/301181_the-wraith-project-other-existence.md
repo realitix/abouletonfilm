@@ -1,0 +1,1 @@
+{"tmdb_id": 301181, "title": "The Wraith Project: Other Existence", "original_title": "The Wraith Project: Other Existence", "slug_title": "the-wraith-project-other-existence", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

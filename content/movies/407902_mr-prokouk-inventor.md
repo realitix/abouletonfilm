@@ -1,0 +1,1 @@
+{"tmdb_id": 407902, "title": "Mr. Prokouk Inventor", "original_title": "Pan Prokouk vyn\u00e1lezcem", "slug_title": "mr-prokouk-inventor", "date": "1949-07-23", "genre": "Com\u00e9die / Animation", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vH537ivxzuejo9CwSDfikdlSeGm.jpg", "actors": [], "comments": [], "recommandations_id": []}

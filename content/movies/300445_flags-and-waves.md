@@ -1,0 +1,1 @@
+{"tmdb_id": 300445, "title": "Flags and Waves", "original_title": "Flags and Waves", "slug_title": "flags-and-waves", "date": "1986-08-18", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ivPmEdhr0WYLJmgAK2O20I9WyAa.jpg", "actors": [], "comments": [], "recommandations_id": []}

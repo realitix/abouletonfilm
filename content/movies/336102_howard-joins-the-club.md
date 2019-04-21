@@ -1,0 +1,1 @@
+{"tmdb_id": 336102, "title": "Howard Joins The Club", "original_title": "Howard Joins The Club", "slug_title": "howard-joins-the-club", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

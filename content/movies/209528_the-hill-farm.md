@@ -1,0 +1,1 @@
+{"tmdb_id": 209528, "title": "The Hill Farm", "original_title": "The Hill Farm", "slug_title": "the-hill-farm", "date": "1989-01-01", "genre": "Animation", "score": "7.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lL3q0AwIP2wSL9tlVUTCr7Mp6yj.jpg", "actors": [], "comments": [], "recommandations_id": []}

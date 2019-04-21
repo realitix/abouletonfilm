@@ -1,0 +1,1 @@
+{"tmdb_id": 174692, "title": "A Studio Stampede", "original_title": "A Studio Stampede", "slug_title": "a-studio-stampede", "date": "1917-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ben Turpin ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 439774, "title": "As Desgra\u00e7adas", "original_title": "As Desgra\u00e7adas", "slug_title": "as-desgracadas", "date": "2017-02-05", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Giu Rocha ()", "Mariana Leme ()", "Rita Batata ()"], "comments": [], "recommandations_id": []}

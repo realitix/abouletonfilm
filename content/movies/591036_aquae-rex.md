@@ -1,0 +1,1 @@
+{"tmdb_id": 591036, "title": "Aquae Rex", "original_title": "Aquae Rex", "slug_title": "aquae-rex", "date": "2018-05-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xrBc71WZCQTJ6D1AZ686NMJxCXe.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 312309, "title": "Viva Nelson Mandela: A Hero for All Seasons", "original_title": "Viva Nelson Mandela: A Hero for All Seasons", "slug_title": "viva-nelson-mandela-a-hero-for-all-seasons", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

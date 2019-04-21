@@ -1,0 +1,1 @@
+{"tmdb_id": 493609, "title": "No Applause, Just Throw Money", "original_title": "No Applause, Just Throw Money", "slug_title": "no-applause-just-throw-money", "date": "1989-08-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

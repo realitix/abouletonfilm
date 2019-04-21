@@ -1,0 +1,1 @@
+{"tmdb_id": 524648, "title": "Al Goodwin: Badgerine", "original_title": "Al Goodwin: Badgerine", "slug_title": "al-goodwin-badgerine", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

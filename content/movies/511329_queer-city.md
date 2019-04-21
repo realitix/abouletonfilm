@@ -1,0 +1,1 @@
+{"tmdb_id": 511329, "title": "Queer City", "original_title": "Queer City", "slug_title": "queer-city", "date": "2016-04-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rMZXlpfs8XXTnVpT0kECXqw71Y2.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 553385, "title": "Cicatrices 2", "original_title": "Cicatrices 2", "slug_title": "cicatrices-2", "date": "2007-02-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nHSDmbm8wcWWSu5R68iJcWE07Uk.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 353919, "title": "Bop Scotch", "original_title": "Bop Scotch", "slug_title": "bop-scotch", "date": "1952-01-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xLiim5Y1lIIkoftSt2016nMTMeJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

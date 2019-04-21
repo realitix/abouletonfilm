@@ -1,0 +1,1 @@
+{"tmdb_id": 560632, "title": "The Ghosts of Electricity", "original_title": "The Ghosts of Electricity", "slug_title": "the-ghosts-of-electricity", "date": "1997-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

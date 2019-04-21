@@ -1,0 +1,1 @@
+{"tmdb_id": 502849, "title": "Magic Journeys", "original_title": "Magic Journeys", "slug_title": "magic-journeys", "date": "1982-10-01", "genre": "Fantastique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3p6aeBk6NxKI74KO77AYzzP7T3X.jpg", "actors": [], "comments": [], "recommandations_id": []}

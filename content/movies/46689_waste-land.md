@@ -1,0 +1,1 @@
+{"tmdb_id": 46689, "title": "Waste Land", "original_title": "Waste Land", "slug_title": "waste-land", "date": "2010-01-24", "genre": "Documentaire", "score": "7.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4Jgq7Cv5uRfQkb8P1kQ4ldPJudW.jpg", "actors": ["Vik Muniz (Himself)"], "comments": [], "recommandations_id": [138061, 54994, 22034, 291352]}

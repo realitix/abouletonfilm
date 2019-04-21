@@ -1,0 +1,1 @@
+{"tmdb_id": 236244, "title": "The Three Bears", "original_title": "The Three Bears", "slug_title": "the-three-bears", "date": "1939-02-10", "genre": "Musique / Animation / Com\u00e9die", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vH09fincV5GAK4MR41ZiBMVB4oa.jpg", "actors": [], "comments": [], "recommandations_id": []}

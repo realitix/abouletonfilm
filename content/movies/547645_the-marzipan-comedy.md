@@ -1,0 +1,1 @@
+{"tmdb_id": 547645, "title": "The Marzipan Comedy", "original_title": "Marcip\u00e1nov\u00e1 kom\u00e9dia", "slug_title": "the-marzipan-comedy", "date": "1987-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wHSAzAqlLlM3J4pIRnyHFRbe9QH.jpg", "actors": [], "comments": [], "recommandations_id": []}

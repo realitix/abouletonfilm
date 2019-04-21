@@ -1,0 +1,1 @@
+{"tmdb_id": 457240, "title": "A Lodz Life", "original_title": "\u0141\u00f3dzki \u017cyciorys", "slug_title": "a-lodz-life", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

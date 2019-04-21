@@ -1,0 +1,1 @@
+{"tmdb_id": 324037, "title": "The Detective", "original_title": "The Detective", "slug_title": "the-detective", "date": "1930-09-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

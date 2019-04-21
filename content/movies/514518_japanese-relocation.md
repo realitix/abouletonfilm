@@ -1,0 +1,1 @@
+{"tmdb_id": 514518, "title": "Japanese Relocation", "original_title": "Japanese Relocation", "slug_title": "japanese-relocation", "date": "1942-11-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Milton S. Eisenhower ()"], "comments": [], "recommandations_id": []}

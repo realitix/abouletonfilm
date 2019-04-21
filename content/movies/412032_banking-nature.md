@@ -1,0 +1,1 @@
+{"tmdb_id": 412032, "title": "Banking Nature", "original_title": "Banking Nature", "slug_title": "banking-nature", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

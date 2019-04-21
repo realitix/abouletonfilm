@@ -1,0 +1,1 @@
+{"tmdb_id": 45291, "title": "Sm\u00e5stadsliv 3", "original_title": "Sm\u00e5stadsliv 3", "slug_title": "smastadsliv-3", "date": "2010-02-27", "genre": "Com\u00e9die", "score": "8.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sy33sjnM2xNRamoRISRByWm5owl.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 347221, "title": "Psicotaxi", "original_title": "Psicotaxi", "slug_title": "psicotaxi", "date": "2002-07-02", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Alejandro Jodorowsky (Himself)"], "comments": [], "recommandations_id": []}

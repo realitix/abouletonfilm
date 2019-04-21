@@ -1,0 +1,1 @@
+{"tmdb_id": 357654, "title": "The Best of the Beta Band - Film", "original_title": "The Best of the Beta Band - Film", "slug_title": "the-best-of-the-beta-band-film", "date": "2005-10-03", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

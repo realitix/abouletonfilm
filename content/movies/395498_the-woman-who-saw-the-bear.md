@@ -1,0 +1,1 @@
+{"tmdb_id": 395498, "title": "The Woman Who Saw The Bear", "original_title": "The Woman Who Saw The Bear", "slug_title": "the-woman-who-saw-the-bear", "date": "2016-04-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wag4xIQdBi9lkYKRnGrjViO2Oz.jpg", "actors": [], "comments": [], "recommandations_id": []}

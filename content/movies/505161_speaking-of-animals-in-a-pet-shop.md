@@ -1,0 +1,1 @@
+{"tmdb_id": 505161, "title": "Speaking of Animals in a Pet Shop", "original_title": "Speaking of Animals in a Pet Shop", "slug_title": "speaking-of-animals-in-a-pet-shop", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

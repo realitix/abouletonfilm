@@ -1,0 +1,1 @@
+{"tmdb_id": 523733, "title": "Con-Dom / The Grey Wolves: Consumer Electronics #5", "original_title": "Con-Dom / The Grey Wolves: Consumer Electronics #5", "slug_title": "con-dom-the-grey-wolves-consumer-electronics-5", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

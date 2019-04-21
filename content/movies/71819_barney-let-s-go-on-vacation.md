@@ -1,0 +1,1 @@
+{"tmdb_id": 71819, "title": "Barney: Let's Go on Vacation", "original_title": "Barney: Let's Go on Vacation", "slug_title": "barney-let-s-go-on-vacation", "date": "2009-05-19", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lPIjXl3mFo7rvqIEac4npxjl8OB.jpg", "actors": [], "comments": [], "recommandations_id": []}

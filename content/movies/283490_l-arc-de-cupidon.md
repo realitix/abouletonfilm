@@ -1,0 +1,1 @@
+{"tmdb_id": 283490, "title": "L'arc de Cupidon", "original_title": "L'arc de Cupidon", "slug_title": "l-arc-de-cupidon", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

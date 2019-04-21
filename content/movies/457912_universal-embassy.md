@@ -1,0 +1,1 @@
+{"tmdb_id": 457912, "title": "Universal Embassy", "original_title": "Universal Embassy", "slug_title": "universal-embassy", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

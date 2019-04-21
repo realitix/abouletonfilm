@@ -1,0 +1,1 @@
+{"tmdb_id": 441842, "title": "Amore e ipnotismo", "original_title": "Amore e ipnotismo", "slug_title": "amore-e-ipnotismo", "date": "", "genre": "Drame", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Alberto Collo ()", "Amelia Cattaneo ()", "Emilio Ghione ()"], "comments": [], "recommandations_id": []}

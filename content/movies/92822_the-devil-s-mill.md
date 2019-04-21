@@ -1,0 +1,1 @@
+{"tmdb_id": 92822, "title": "The Devil's Mill", "original_title": "\u010cert\u016fv ml\u00fdn", "slug_title": "the-devil-s-mill", "date": "1949-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aTTuegcxxKWIlscMsUHYAb0Go3H.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 526274, "title": "Min\u00e4 el\u00e4n", "original_title": "Min\u00e4 el\u00e4n", "slug_title": "mina-elan", "date": "1946-10-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

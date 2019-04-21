@@ -1,0 +1,1 @@
+{"tmdb_id": 453842, "title": "Midwinter Bathing, L Street Bath, Boston", "original_title": "Midwinter Bathing, L Street Bath, Boston", "slug_title": "midwinter-bathing-l-street-bath-boston", "date": "1905-03-23", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

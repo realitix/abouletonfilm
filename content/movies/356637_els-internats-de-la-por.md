@@ -1,0 +1,1 @@
+{"tmdb_id": 356637, "title": "Els internats de la por", "original_title": "Els internats de la por", "slug_title": "els-internats-de-la-por", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

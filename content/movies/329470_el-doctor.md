@@ -1,0 +1,1 @@
+{"tmdb_id": 329470, "title": "El doctor", "original_title": "El doctor", "slug_title": "el-doctor", "date": "1940-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Suleiman Naguib ()", "Amina Rizk ()", "Anwar Wagdi ()", "Abdel Warith Assir ()"], "comments": [], "recommandations_id": []}

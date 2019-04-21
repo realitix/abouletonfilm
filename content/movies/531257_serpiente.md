@@ -1,0 +1,1 @@
+{"tmdb_id": 531257, "title": "Serpiente", "original_title": "Serpiente", "slug_title": "serpiente", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Agust\u00edn Bernal ()", "Manuel 'Flaco' Ib\u00e1\u00f1ez ()"], "comments": [], "recommandations_id": []}

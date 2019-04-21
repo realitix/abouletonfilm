@@ -1,0 +1,1 @@
+{"tmdb_id": 388257, "title": "Shinjuku Station", "original_title": "Shinjuku Station", "slug_title": "shinjuku-station", "date": "1974-06-06", "genre": "Histoire / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

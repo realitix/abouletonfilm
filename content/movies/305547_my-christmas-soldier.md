@@ -1,0 +1,1 @@
+{"tmdb_id": 305547, "title": "My Christmas Soldier", "original_title": "My Christmas Soldier", "slug_title": "my-christmas-soldier", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Emily Jordan (Cilla Walker)", "Ben Johnson III (Charlie)"], "comments": [], "recommandations_id": []}

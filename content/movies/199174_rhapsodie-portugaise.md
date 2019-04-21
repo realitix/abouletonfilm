@@ -1,0 +1,1 @@
+{"tmdb_id": 199174, "title": "Rhapsodie portugaise", "original_title": "Raps\u00f3dia Portuguesa", "slug_title": "rhapsodie-portugaise", "date": "1959-03-29", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pedro Moutinho (Narrator)"], "comments": [], "recommandations_id": []}

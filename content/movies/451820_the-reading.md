@@ -1,0 +1,1 @@
+{"tmdb_id": 451820, "title": "The Reading", "original_title": "The Reading", "slug_title": "the-reading", "date": "2011-07-12", "genre": "Action / Animation", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fA4b7wINE6o38NWQUUhJbfsG7Ru.jpg", "actors": ["Catya Plate (The Woman)"], "comments": [], "recommandations_id": []}

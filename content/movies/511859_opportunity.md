@@ -1,0 +1,1 @@
+{"tmdb_id": 511859, "title": "Opportunity", "original_title": "Avsar", "slug_title": "opportunity", "date": "2017-03-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/haKOFsA61qOsQEKRyePrl5a2ey.jpg", "actors": [], "comments": [], "recommandations_id": []}

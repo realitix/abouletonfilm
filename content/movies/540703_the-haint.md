@@ -1,0 +1,1 @@
+{"tmdb_id": 540703, "title": "The Haint", "original_title": "The Haint", "slug_title": "the-haint", "date": "", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Troy Mink ()"], "comments": [], "recommandations_id": []}

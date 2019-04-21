@@ -1,0 +1,1 @@
+{"tmdb_id": 520065, "title": "Bauhaus - Live At The University Of London, 1980", "original_title": "Bauhaus - Live At The University Of London, 1980", "slug_title": "bauhaus-live-at-the-university-of-london-1980", "date": "1980-10-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

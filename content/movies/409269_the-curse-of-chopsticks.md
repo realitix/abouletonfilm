@@ -1,0 +1,1 @@
+{"tmdb_id": 409269, "title": "The Curse of Chopsticks", "original_title": "\u7b77\u4ed9", "slug_title": "the-curse-of-chopsticks", "date": "2016-06-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mHSDiYKa3ETHG0JrOfTiItvtfhl.jpg", "actors": [], "comments": [], "recommandations_id": []}

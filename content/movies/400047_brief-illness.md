@@ -1,0 +1,1 @@
+{"tmdb_id": 400047, "title": "Brief Illness", "original_title": "Badiaga", "slug_title": "brief-illness", "date": "1987-01-01", "genre": "Drame", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["justine sengue ()"], "comments": [], "recommandations_id": []}

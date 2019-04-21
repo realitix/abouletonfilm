@@ -1,0 +1,1 @@
+{"tmdb_id": 219316, "title": "Sklavin Silvia", "original_title": "Sklavin Silvia", "slug_title": "sklavin-silvia", "date": "1987-07-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nVtn3E9DFssqMVXzleiikUQXPIH.jpg", "actors": ["Sivia Mueller ()"], "comments": [], "recommandations_id": []}

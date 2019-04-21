@@ -1,0 +1,1 @@
+{"tmdb_id": 573604, "title": "Na\u0161e bl\u00e1zniv\u00e1 rodina", "original_title": "Na\u0161e bl\u00e1zniv\u00e1 rodina", "slug_title": "nase-blazniva-rodina", "date": "1968-11-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3XJ33oMafIrl8Z3QzF7yZIXTCRc.jpg", "actors": [], "comments": [], "recommandations_id": []}

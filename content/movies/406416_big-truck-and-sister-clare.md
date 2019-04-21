@@ -1,0 +1,1 @@
+{"tmdb_id": 406416, "title": "Big Truck and Sister Clare", "original_title": "Big Truck and Sister Clare", "slug_title": "big-truck-and-sister-clare", "date": "1972-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Peter Ustinov ()", "Francesca Annis ()", "Perry King ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 504455, "title": "Black Lips", "original_title": "Black Lips", "slug_title": "black-lips", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jason Chong (Hong)", "Adam Marks (Cain)", "Alex Rowe (Jeremy)"], "comments": [], "recommandations_id": []}

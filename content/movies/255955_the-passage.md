@@ -1,0 +1,1 @@
+{"tmdb_id": 255955, "title": "The Passage", "original_title": "\u7d93\u904e", "slug_title": "the-passage", "date": "2004-10-24", "genre": "Drame", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8f9hvqPZKWKozUwso0nHwtWxlSu.jpg", "actors": ["Kwai Lun-Mei ()", "Leon Dai ()"], "comments": [], "recommandations_id": []}

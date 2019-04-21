@@ -1,0 +1,1 @@
+{"tmdb_id": 557977, "title": "Disciple of Terror", "original_title": "Disciple of Terror", "slug_title": "disciple-of-terror", "date": "", "genre": "Action / Crime / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cuIQS4e9JtTrf17aRuFDX1xqct9.jpg", "actors": [], "comments": [], "recommandations_id": []}

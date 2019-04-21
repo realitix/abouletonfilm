@@ -1,0 +1,1 @@
+{"tmdb_id": 579722, "title": "The 80's Massacre (Short Film)", "original_title": "The 80's Massacre (Short Film)", "slug_title": "the-80-s-massacre-short-film", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

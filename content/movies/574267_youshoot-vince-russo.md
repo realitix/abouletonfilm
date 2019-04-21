@@ -1,0 +1,1 @@
+{"tmdb_id": 574267, "title": "YouShoot: Vince Russo", "original_title": "YouShoot: Vince Russo", "slug_title": "youshoot-vince-russo", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sean Oliver (Himself)", "Vince Russo (Himself)"], "comments": [], "recommandations_id": []}

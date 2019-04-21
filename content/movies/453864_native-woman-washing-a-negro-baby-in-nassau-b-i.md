@@ -1,0 +1,1 @@
+{"tmdb_id": 453864, "title": "Native Woman Washing a Negro Baby in Nassau, B.I.", "original_title": "Native Woman Washing a Negro Baby in Nassau, B.I.", "slug_title": "native-woman-washing-a-negro-baby-in-nassau-b-i", "date": "1903-04-22", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

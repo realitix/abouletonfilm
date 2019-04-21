@@ -1,0 +1,1 @@
+{"tmdb_id": 577770, "title": "Latvie\u0161i!", "original_title": "Latvie\u0161i!", "slug_title": "latviesi", "date": "1943-01-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

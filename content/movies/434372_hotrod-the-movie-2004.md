@@ -1,0 +1,1 @@
+{"tmdb_id": 434372, "title": "Hotrod: The Movie - 2004", "original_title": "Hotrod: The Movie - 2004", "slug_title": "hotrod-the-movie-2004", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

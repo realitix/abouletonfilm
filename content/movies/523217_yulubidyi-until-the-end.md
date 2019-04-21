@@ -1,0 +1,1 @@
+{"tmdb_id": 523217, "title": "Yulubidyi - Until The End", "original_title": "Yulubidyi - Until The End", "slug_title": "yulubidyi-until-the-end", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

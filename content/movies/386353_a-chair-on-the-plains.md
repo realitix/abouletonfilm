@@ -1,0 +1,1 @@
+{"tmdb_id": 386353, "title": "A Chair on the Plains", "original_title": "Sougen No Isu", "slug_title": "a-chair-on-the-plains", "date": "2013-02-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hraFShRZTs19XBk9v0NMrrn2Ulv.jpg", "actors": [], "comments": [], "recommandations_id": []}

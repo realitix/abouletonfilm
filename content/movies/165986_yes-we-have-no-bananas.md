@@ -1,0 +1,1 @@
+{"tmdb_id": 165986, "title": "Yes! We Have No Bananas", "original_title": "Yes! We Have No Bananas", "slug_title": "yes-we-have-no-bananas", "date": "1930-04-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

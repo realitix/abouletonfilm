@@ -1,0 +1,1 @@
+{"tmdb_id": 550304, "title": "Bartleby", "original_title": "Bartleby", "slug_title": "bartleby", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

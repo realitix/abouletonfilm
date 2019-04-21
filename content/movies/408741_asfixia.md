@@ -1,0 +1,1 @@
+{"tmdb_id": 408741, "title": "Asfixia", "original_title": "Asfixia", "slug_title": "asfixia", "date": "2006-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k6ZKCIr0nKHNGBmYSHtZhN0bgYs.jpg", "actors": [], "comments": [], "recommandations_id": []}

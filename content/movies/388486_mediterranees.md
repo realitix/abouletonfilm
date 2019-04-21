@@ -1,0 +1,1 @@
+{"tmdb_id": 388486, "title": "M\u00e9diterran\u00e9es", "original_title": "M\u00e9diterran\u00e9es", "slug_title": "mediterranees", "date": "2011-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5qmm72Rtp8BdmYchVCHkgo0h0ph.jpg", "actors": [], "comments": [], "recommandations_id": []}

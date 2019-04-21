@@ -1,0 +1,1 @@
+{"tmdb_id": 476857, "title": "L'altro io", "original_title": "L'altro io", "slug_title": "l-altro-io", "date": "1917-11-01", "genre": "Horreur / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mario Bonnard ()", "Ria Bruna ()", "Vittorio Tettoni ()"], "comments": [], "recommandations_id": []}

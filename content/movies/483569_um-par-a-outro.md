@@ -1,0 +1,1 @@
+{"tmdb_id": 483569, "title": "Um Par a Outro", "original_title": "Um Par a Outro", "slug_title": "um-par-a-outro", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Luciana Paes ()", "Haroldo Costa ()", "Leandro Feingenblatt ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 296482, "title": "Black Woman's Guide to Finding a Good Man", "original_title": "Black Woman's Guide to Finding a Good Man", "slug_title": "black-woman-s-guide-to-finding-a-good-man", "date": "2007-05-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

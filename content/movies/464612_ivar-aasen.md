@@ -1,0 +1,1 @@
+{"tmdb_id": 464612, "title": "Ivar Aasen", "original_title": "Ivar Aasen", "slug_title": "ivar-aasen", "date": "1996-08-22", "genre": "Documentaire / Drame / Histoire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zmN7Xx5zBFf0uE4yHxfEIn7r6uJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 101616, "title": "The Ballad of Lucky Fonz III", "original_title": "The Ballad of Lucky Fonz III", "slug_title": "the-ballad-of-lucky-fonz-iii", "date": "2011-11-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pebRzchd5MgUgiot4YlLRfxpUHq.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 263834, "title": "A Friend\u2019s Shoulder", "original_title": "Shaneh-ye Doust", "slug_title": "a-friends-shoulder", "date": "2013-10-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oNJ6QV5iUcf9ogJyhaZbagNhTN0.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 335257, "title": "A Whiter Shade of Pale, w/ Procul Harum 1967", "original_title": "A Whiter Shade of Pale, w/ Procul Harum 1967", "slug_title": "a-whiter-shade-of-pale-w-procul-harum-1967", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

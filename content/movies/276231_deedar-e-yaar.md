@@ -1,0 +1,1 @@
+{"tmdb_id": 276231, "title": "Deedar-E-Yaar", "original_title": "Deedar-E-Yaar", "slug_title": "deedar-e-yaar", "date": "1982-10-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

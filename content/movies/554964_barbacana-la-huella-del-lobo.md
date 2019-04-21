@@ -1,0 +1,1 @@
+{"tmdb_id": 554964, "title": "Barbacana, la huella del lobo", "original_title": "Barbacana, la huella del lobo", "slug_title": "barbacana-la-huella-del-lobo", "date": "2018-10-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tx6PcE2vtjDOoAvvI0Xu1gNbOW5.jpg", "actors": [], "comments": [], "recommandations_id": []}

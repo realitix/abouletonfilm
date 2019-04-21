@@ -1,0 +1,1 @@
+{"tmdb_id": 409906, "title": "Joy! Portrait of a Nun", "original_title": "Joy! Portrait of a Nun", "slug_title": "joy-portrait-of-a-nun", "date": "2012-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8lFt67EhcvZhBCUsjSBDJd4RKm2.jpg", "actors": [], "comments": [], "recommandations_id": []}

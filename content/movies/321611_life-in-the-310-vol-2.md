@@ -1,0 +1,1 @@
+{"tmdb_id": 321611, "title": "Life in the 310: Vol. 2", "original_title": "Life in the 310: Vol. 2", "slug_title": "life-in-the-310-vol-2", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

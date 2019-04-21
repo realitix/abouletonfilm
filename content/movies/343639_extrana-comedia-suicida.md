@@ -1,0 +1,1 @@
+{"tmdb_id": 343639, "title": "Extra\u00f1a comedia suicida", "original_title": "Extra\u00f1a comedia suicida", "slug_title": "extrana-comedia-suicida", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

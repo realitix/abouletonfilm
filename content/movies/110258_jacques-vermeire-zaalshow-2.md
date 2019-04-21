@@ -1,0 +1,1 @@
+{"tmdb_id": 110258, "title": "Jacques Vermeire: Zaalshow 2", "original_title": "Jacques Vermeire: Zaalshow 2", "slug_title": "jacques-vermeire-zaalshow-2", "date": "1995-10-09", "genre": "", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p0FiGIROt5aeQRqJKQg3D3zxuPu.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 342841, "title": "Studio Shape with Sadie Lincoln", "original_title": "Studio Shape with Sadie Lincoln", "slug_title": "studio-shape-with-sadie-lincoln", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sadie Lincoln ()"], "comments": [], "recommandations_id": []}

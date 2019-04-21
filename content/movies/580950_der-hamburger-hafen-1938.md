@@ -1,0 +1,1 @@
+{"tmdb_id": 580950, "title": "Der Hamburger Hafen 1938", "original_title": "Der Hamburger Hafen 1938", "slug_title": "der-hamburger-hafen-1938", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 534288, "title": "'Imuhar': A Legend", "original_title": "'Im\u00fbhar', une l\u00e9gende", "slug_title": "imuhar-a-legend", "date": "1997-11-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6JdM2dAL8MOGgdI1RiR3Ca29DD9.jpg", "actors": [], "comments": [], "recommandations_id": []}

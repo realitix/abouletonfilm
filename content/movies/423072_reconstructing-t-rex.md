@@ -1,0 +1,1 @@
+{"tmdb_id": 423072, "title": "Reconstructing T-Rex", "original_title": "Reconstructing T-Rex", "slug_title": "reconstructing-t-rex", "date": "2010-05-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rM43HqauhrTrI1dXmkFOOfMzxag.jpg", "actors": [], "comments": [], "recommandations_id": []}

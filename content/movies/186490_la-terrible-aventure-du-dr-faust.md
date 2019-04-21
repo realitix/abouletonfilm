@@ -1,0 +1,1 @@
+{"tmdb_id": 186490, "title": "La Terrible aventure du Dr. Faust", "original_title": "La Terrible aventure du Dr. Faust", "slug_title": "la-terrible-aventure-du-dr-faust", "date": "1931-04-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

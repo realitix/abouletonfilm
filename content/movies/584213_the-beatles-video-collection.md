@@ -1,0 +1,1 @@
+{"tmdb_id": 584213, "title": "The Beatles video collection", "original_title": "The Beatles video collection", "slug_title": "the-beatles-video-collection", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jR1ATjtyzcGN32ryfj6DJxS0VEv.jpg", "actors": [], "comments": [], "recommandations_id": []}

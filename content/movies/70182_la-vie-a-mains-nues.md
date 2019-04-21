@@ -1,0 +1,1 @@
+{"tmdb_id": 70182, "title": "La vie \u00e0 mains nues", "original_title": "La vie \u00e0 mains nues", "slug_title": "la-vie-a-mains-nues", "date": "1995-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

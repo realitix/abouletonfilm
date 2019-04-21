@@ -1,0 +1,1 @@
+{"tmdb_id": 235636, "title": "Kara Zindan", "original_title": "Kara Zindan", "slug_title": "kara-zindan", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/udWo4C5RJRTPO37Fm5a7g6La7Og.jpg", "actors": [], "comments": [], "recommandations_id": []}

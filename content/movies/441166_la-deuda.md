@@ -1,0 +1,1 @@
+{"tmdb_id": 441166, "title": "La Deuda", "original_title": "La Deuda", "slug_title": "la-deuda", "date": "2013-02-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/epar7I9UkI8VaxARou5D0TUeRJT.jpg", "actors": [], "comments": [], "recommandations_id": []}

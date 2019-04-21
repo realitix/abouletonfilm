@@ -1,0 +1,1 @@
+{"tmdb_id": 331729, "title": "Sa Kambas Ng Lipunan", "original_title": "Sa Kambas Ng Lipunan", "slug_title": "sa-kambas-ng-lipunan", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

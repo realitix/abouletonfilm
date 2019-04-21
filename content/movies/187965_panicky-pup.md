@@ -1,0 +1,1 @@
+{"tmdb_id": 187965, "title": "Panicky Pup", "original_title": "Panicky Pup", "slug_title": "panicky-pup", "date": "1933-02-23", "genre": "Animation", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

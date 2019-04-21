@@ -1,0 +1,1 @@
+{"tmdb_id": 569215, "title": "Les Forces de l'Ombre et de la Lumi\u00e8re", "original_title": "Les Forces de l'Ombre et de la Lumi\u00e8re", "slug_title": "les-forces-de-l-ombre-et-de-la-lumiere", "date": "2012-07-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Marcel Maz\u00e9 ()"], "comments": [], "recommandations_id": []}

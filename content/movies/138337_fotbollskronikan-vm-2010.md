@@ -1,0 +1,1 @@
+{"tmdb_id": 138337, "title": "Fotbollskr\u00f6nikan VM 2010", "original_title": "Fotbollskr\u00f6nikan VM 2010", "slug_title": "fotbollskronikan-vm-2010", "date": "2010-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6Lz7AmhtQ88i9A13n5jGmrnKayT.jpg", "actors": [], "comments": [], "recommandations_id": []}

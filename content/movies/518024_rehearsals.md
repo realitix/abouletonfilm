@@ -1,0 +1,1 @@
+{"tmdb_id": 518024, "title": "Rehearsals", "original_title": "Rehearsals", "slug_title": "rehearsals", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

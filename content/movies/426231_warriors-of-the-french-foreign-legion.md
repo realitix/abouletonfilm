@@ -1,0 +1,1 @@
+{"tmdb_id": 426231, "title": "Warriors of the French Foreign Legion", "original_title": "Warriors of the French Foreign Legion", "slug_title": "warriors-of-the-french-foreign-legion", "date": "2000-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

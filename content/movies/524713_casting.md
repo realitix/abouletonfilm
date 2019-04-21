@@ -1,0 +1,1 @@
+{"tmdb_id": 524713, "title": "Casting", "original_title": "\u041a\u0430\u0441\u0442\u0438\u043d\u0433", "slug_title": "casting", "date": "2018-06-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Marta Timofeeva ()", "Yuliya Aleksandrova ()"], "comments": [], "recommandations_id": []}

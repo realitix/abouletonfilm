@@ -1,0 +1,1 @@
+{"tmdb_id": 436845, "title": "Ciguri - Tarahumaras 99 - Le dernier chaman", "original_title": "Ciguri - Tarahumaras 99 - Le dernier chaman", "slug_title": "ciguri-tarahumaras-99-le-dernier-chaman", "date": "1999-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

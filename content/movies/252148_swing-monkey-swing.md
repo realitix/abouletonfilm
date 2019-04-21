@@ -1,0 +1,1 @@
+{"tmdb_id": 252148, "title": "Swing, Monkey, Swing", "original_title": "Swing, Monkey, Swing", "slug_title": "swing-monkey-swing", "date": "1937-09-10", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

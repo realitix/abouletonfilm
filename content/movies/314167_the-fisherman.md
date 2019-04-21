@@ -1,0 +1,1 @@
+{"tmdb_id": 314167, "title": "The Fisherman", "original_title": "The Fisherman", "slug_title": "the-fisherman", "date": "1931-12-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mickey Rooney (Oswald the Lucky Rabbit (voice))"], "comments": [], "recommandations_id": []}

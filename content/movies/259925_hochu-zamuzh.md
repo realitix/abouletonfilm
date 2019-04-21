@@ -1,0 +1,1 @@
+{"tmdb_id": 259925, "title": "Hochu zamuzh", "original_title": "Hochu zamuzh", "slug_title": "hochu-zamuzh", "date": "2014-01-07", "genre": "Romance / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4IbDkMOAuAYGKtCbPcvoUtaqgYR.jpg", "actors": [], "comments": [], "recommandations_id": []}

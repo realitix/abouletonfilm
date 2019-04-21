@@ -1,0 +1,1 @@
+{"tmdb_id": 471984, "title": "El Justiceiro", "original_title": "El Justiceiro", "slug_title": "el-justiceiro", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/enLkMTm9ViKeHS7C4Xkt8EjgFAy.jpg", "actors": ["Isabel Abreu (Mae)", "J.P. Sim\u00f5es (Pai)"], "comments": [], "recommandations_id": []}

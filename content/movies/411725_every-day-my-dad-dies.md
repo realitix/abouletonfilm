@@ -1,0 +1,1 @@
+{"tmdb_id": 411725, "title": "Every Day my Dad Dies", "original_title": "Every Day my Dad Dies", "slug_title": "every-day-my-dad-dies", "date": "2015-06-24", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qHgemAIRU0GnDkmLI87O3tnTQPH.jpg", "actors": [], "comments": [], "recommandations_id": []}

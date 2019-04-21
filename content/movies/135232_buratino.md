@@ -1,0 +1,1 @@
+{"tmdb_id": 135232, "title": "Buratino", "original_title": "Buratino", "slug_title": "buratino", "date": "2009-03-12", "genre": "", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A2Mp6TcVdSKqcDDiiyOXHCNn1y5.jpg", "actors": ["Marina Solopchenko (Karlo's mother)"], "comments": [], "recommandations_id": []}

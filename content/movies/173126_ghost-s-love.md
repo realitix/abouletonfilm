@@ -1,0 +1,1 @@
+{"tmdb_id": 173126, "title": "Ghost's Love", "original_title": "Ghost's Love", "slug_title": "ghost-s-love", "date": "1990-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

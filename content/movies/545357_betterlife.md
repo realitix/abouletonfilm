@@ -1,0 +1,1 @@
+{"tmdb_id": 545357, "title": "Betterlife", "original_title": "Betterlife", "slug_title": "betterlife", "date": "", "genre": "Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Veronica Redpath (Emily)", "Mark Lanz (Chip Repair)"], "comments": [], "recommandations_id": []}

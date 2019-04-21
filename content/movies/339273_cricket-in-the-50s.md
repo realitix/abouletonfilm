@@ -1,0 +1,1 @@
+{"tmdb_id": 339273, "title": "Cricket in the '50s", "original_title": "Cricket in the '50s", "slug_title": "cricket-in-the-50s", "date": "2006-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yfsjyIcduelc98178f22yjC5vcP.jpg", "actors": [], "comments": [], "recommandations_id": []}

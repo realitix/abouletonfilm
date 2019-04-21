@@ -1,0 +1,1 @@
+{"tmdb_id": 240461, "title": "Aquatic House Party", "original_title": "Aquatic House Party", "slug_title": "aquatic-house-party", "date": "1950-03-31", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

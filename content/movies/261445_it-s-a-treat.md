@@ -1,0 +1,1 @@
+{"tmdb_id": 261445, "title": "It's a Treat", "original_title": "It's a Treat", "slug_title": "it-s-a-treat", "date": "2011-09-24", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Natalie Trent (Monique)", "Guy Edmonds (David)"], "comments": [], "recommandations_id": []}

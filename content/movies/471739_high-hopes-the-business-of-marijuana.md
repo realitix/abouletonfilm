@@ -1,0 +1,1 @@
+{"tmdb_id": 471739, "title": "High Hopes: The Business of Marijuana", "original_title": "High Hopes: The Business of Marijuana", "slug_title": "high-hopes-the-business-of-marijuana", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

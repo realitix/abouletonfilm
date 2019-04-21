@@ -1,0 +1,1 @@
+{"tmdb_id": 299931, "title": "Juicing and Raw Food Demonstration", "original_title": "Juicing and Raw Food Demonstration", "slug_title": "juicing-and-raw-food-demonstration", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

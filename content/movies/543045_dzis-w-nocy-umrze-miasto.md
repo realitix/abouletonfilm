@@ -1,0 +1,1 @@
+{"tmdb_id": 543045, "title": "Dzi\u015b w nocy umrze miasto", "original_title": "Dzi\u015b w nocy umrze miasto", "slug_title": "dzis-w-nocy-umrze-miasto", "date": "1961-09-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

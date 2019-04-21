@@ -1,0 +1,1 @@
+{"tmdb_id": 353712, "title": "The Truth about Black Dahlia", "original_title": "La Verite sur le Dahlia noir", "slug_title": "the-truth-about-black-dahlia", "date": "", "genre": "", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fRqaaatkuggODKfBfId63TUq3Ac.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 492816, "title": "Hello! Hello! This Is Juju", "original_title": "Hello! Hello! This Is Juju", "slug_title": "hello-hello-this-is-juju", "date": "1995-06-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/arOz6fzPWjqZdlXxmQrPc9KvgAs.jpg", "actors": [], "comments": [], "recommandations_id": []}

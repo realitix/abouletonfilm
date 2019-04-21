@@ -1,0 +1,1 @@
+{"tmdb_id": 316591, "title": "Scuba Duba Do", "original_title": "Scuba Duba Do", "slug_title": "scuba-duba-do", "date": "1966-06-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/93m0kTBviKzqtGVXMMuWDbtuu1Q.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 489868, "title": "Yayoi Kusama", "original_title": "Yayoi Kusama", "slug_title": "yayoi-kusama", "date": "2016-05-22", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v5OYrnvWeEZC10aFBFHtTUSCpQj.jpg", "actors": ["Yayoi Kusama ()", "Jeff Shero ()"], "comments": [], "recommandations_id": []}

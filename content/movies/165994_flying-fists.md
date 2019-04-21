@@ -1,0 +1,1 @@
+{"tmdb_id": 165994, "title": "Flying Fists", "original_title": "Flying Fists", "slug_title": "flying-fists", "date": "1930-09-05", "genre": "Animation / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/piqZRsiyHTjPNb0JzyR0TjrcijX.jpg", "actors": [], "comments": [], "recommandations_id": []}

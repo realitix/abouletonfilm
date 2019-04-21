@@ -1,0 +1,1 @@
+{"tmdb_id": 82710, "title": "Children of Haiti", "original_title": "Children of Haiti", "slug_title": "children-of-haiti", "date": "2011-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

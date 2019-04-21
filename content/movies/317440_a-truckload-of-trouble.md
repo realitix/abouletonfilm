@@ -1,0 +1,1 @@
+{"tmdb_id": 317440, "title": "A Truckload of Trouble", "original_title": "A Truckload of Trouble", "slug_title": "a-truckload-of-trouble", "date": "1949-10-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 572040, "title": "Capa Negra", "original_title": "Capa Negra", "slug_title": "capa-negra", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

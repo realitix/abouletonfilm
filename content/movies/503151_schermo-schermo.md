@@ -1,0 +1,1 @@
+{"tmdb_id": 503151, "title": "Schermo-Schermo", "original_title": "Schermo-Schermo", "slug_title": "schermo-schermo", "date": "1987-02-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

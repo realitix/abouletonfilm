@@ -1,0 +1,1 @@
+{"tmdb_id": 301333, "title": "Portraits of Inspiring Lives with Byron Katie", "original_title": "Portraits of Inspiring Lives with Byron Katie", "slug_title": "portraits-of-inspiring-lives-with-byron-katie", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

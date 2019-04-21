@@ -1,0 +1,1 @@
+{"tmdb_id": 50935, "title": "UFC Ultimate Heavyweights", "original_title": "UFC Ultimate Heavyweights", "slug_title": "ufc-ultimate-heavyweights", "date": "2010-12-07", "genre": "Action", "score": "4.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uIwzWxMe0eimfzKfaS2v88nYkmz.jpg", "actors": [], "comments": [], "recommandations_id": []}

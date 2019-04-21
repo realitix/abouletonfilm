@@ -1,0 +1,1 @@
+{"tmdb_id": 555927, "title": "What Do Those Lunatics Want?", "original_title": "\u0160ta ho\u0107e ti lu\u0111aci?", "slug_title": "what-do-those-lunatics-want", "date": "2007-10-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Zelimir Zilnik (Himself)"], "comments": [], "recommandations_id": []}

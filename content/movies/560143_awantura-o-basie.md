@@ -1,0 +1,1 @@
+{"tmdb_id": 560143, "title": "Awantura o Basi\u0119", "original_title": "Awantura o Basi\u0119", "slug_title": "awantura-o-basie", "date": "1995-01-01", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rbxrMbmKCFZKEWkM0dngdLD1OLm.jpg", "actors": [], "comments": [], "recommandations_id": []}

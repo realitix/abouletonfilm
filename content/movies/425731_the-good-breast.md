@@ -1,0 +1,1 @@
+{"tmdb_id": 425731, "title": "The Good Breast", "original_title": "The Good Breast", "slug_title": "the-good-breast", "date": "2016-11-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

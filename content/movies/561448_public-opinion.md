@@ -1,0 +1,1 @@
+{"tmdb_id": 561448, "title": "Public Opinion", "original_title": "Opinione pubblica", "slug_title": "public-opinion", "date": "1954-02-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sl5QTGf55E7baIK55FYCxr9xSk.jpg", "actors": [], "comments": [], "recommandations_id": []}

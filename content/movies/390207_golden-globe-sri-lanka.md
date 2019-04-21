@@ -1,0 +1,1 @@
+{"tmdb_id": 390207, "title": "Golden Globe - Sri Lanka", "original_title": "Golden Globe - Sri Lanka", "slug_title": "golden-globe-sri-lanka", "date": "2012-03-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ptVYk82lPaISWUR97CQ4xp7ZGEA.jpg", "actors": [], "comments": [], "recommandations_id": []}

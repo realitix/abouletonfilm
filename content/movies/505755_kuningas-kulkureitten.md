@@ -1,0 +1,1 @@
+{"tmdb_id": 505755, "title": "Kuningas kulkureitten", "original_title": "Kuningas kulkureitten", "slug_title": "kuningas-kulkureitten", "date": "1953-11-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nuD7WP51gWRaqH2DCaaPd6YT85g.jpg", "actors": ["Tuija Halonen ()"], "comments": [], "recommandations_id": []}

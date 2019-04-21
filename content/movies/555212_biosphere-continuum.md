@@ -1,0 +1,1 @@
+{"tmdb_id": 555212, "title": "Biosphere Continuum", "original_title": "Biosphere Continuum", "slug_title": "biosphere-continuum", "date": "2015-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pnYMONqOd7ALSy5jNI7sTIYIyPa.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 274073, "title": "Witchcraft: The Magick Rituals of the Coven", "original_title": "Witchcraft: The Magick Rituals of the Coven", "slug_title": "witchcraft-the-magick-rituals-of-the-coven", "date": "2011-05-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

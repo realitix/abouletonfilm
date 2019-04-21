@@ -1,0 +1,1 @@
+{"tmdb_id": 333461, "title": "Edith & Aljosja", "original_title": "Edith & Aljosja", "slug_title": "edith-aljosja", "date": "2015-01-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sNPLBpHnr3yICGenay2UlmrT8h6.jpg", "actors": [], "comments": [], "recommandations_id": []}

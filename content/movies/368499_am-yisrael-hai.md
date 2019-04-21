@@ -1,0 +1,1 @@
+{"tmdb_id": 368499, "title": "Am Yisrael Hai", "original_title": "Am Yisrael Hai", "slug_title": "am-yisrael-hai", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

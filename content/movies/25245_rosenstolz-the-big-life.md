@@ -1,0 +1,1 @@
+{"tmdb_id": 25245, "title": "Rosenstolz - The Big Life", "original_title": "Rosenstolz - Das gro\u00dfe Leben", "slug_title": "rosenstolz-the-big-life", "date": "2006-09-08", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5wkKlebZQd7MQYzqJI7jsu8Ol0W.jpg", "actors": [], "comments": [], "recommandations_id": []}

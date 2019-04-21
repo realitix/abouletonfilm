@@ -1,0 +1,1 @@
+{"tmdb_id": 565060, "title": "Special Friend", "original_title": "Amigo Especial", "slug_title": "special-friend", "date": "2018-11-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

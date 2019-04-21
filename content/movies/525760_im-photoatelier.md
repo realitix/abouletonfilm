@@ -1,0 +1,1 @@
+{"tmdb_id": 525760, "title": "Im Photoatelier", "original_title": "Im Photoatelier", "slug_title": "im-photoatelier", "date": "1933-10-10", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Karl Valentin (Gehilfe)", "Liesl Karlstadt (Lehrling)"], "comments": [], "recommandations_id": []}

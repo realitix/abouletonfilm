@@ -1,0 +1,1 @@
+{"tmdb_id": 550107, "title": "Doctors of Death", "original_title": "Doctors of Death", "slug_title": "doctors-of-death", "date": "2010-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vZU4GdZ0BEzYUNkWcSGu9yIXixU.jpg", "actors": [], "comments": [], "recommandations_id": []}

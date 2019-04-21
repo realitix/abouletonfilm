@@ -1,0 +1,1 @@
+{"tmdb_id": 287974, "title": "People Say I'm Crazy", "original_title": "People Say I'm Crazy", "slug_title": "people-say-i-m-crazy", "date": "2003-09-12", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

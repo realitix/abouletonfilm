@@ -1,0 +1,1 @@
+{"tmdb_id": 380046, "title": "Nudes of the World", "original_title": "Nudes of the World", "slug_title": "nudes-of-the-world", "date": "1962-07-03", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dpD6xA5RYfZ851ICBGh9tkyBFld.jpg", "actors": [], "comments": [], "recommandations_id": []}

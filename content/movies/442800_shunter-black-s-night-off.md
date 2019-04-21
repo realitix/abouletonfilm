@@ -1,0 +1,1 @@
+{"tmdb_id": 442800, "title": "Shunter Black's Night Off", "original_title": "Shunter Black's Night Off", "slug_title": "shunter-black-s-night-off", "date": "1941-02-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["John Slater (Narrator (voice))"], "comments": [], "recommandations_id": []}

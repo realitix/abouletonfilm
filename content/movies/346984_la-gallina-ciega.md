@@ -1,0 +1,1 @@
+{"tmdb_id": 346984, "title": "La gallina ciega", "original_title": "La gallina ciega", "slug_title": "la-gallina-ciega", "date": "2005-06-11", "genre": "Animation", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

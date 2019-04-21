@@ -1,0 +1,1 @@
+{"tmdb_id": 212766, "title": "Prague vu par", "original_title": "Praha o\u010dima...", "slug_title": "prague-vu-par", "date": "1999-04-29", "genre": "Drame / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Karel Roden (Petr)", "Lucie K\u0159\u00ed\u017ekov\u00e1 (Hedvika)"], "comments": [], "recommandations_id": []}

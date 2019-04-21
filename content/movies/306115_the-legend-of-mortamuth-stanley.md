@@ -1,0 +1,1 @@
+{"tmdb_id": 306115, "title": "The Legend of Mortamuth Stanley", "original_title": "The Legend of Mortamuth Stanley", "slug_title": "the-legend-of-mortamuth-stanley", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

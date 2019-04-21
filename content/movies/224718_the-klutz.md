@@ -1,0 +1,1 @@
+{"tmdb_id": 224718, "title": "The Klutz", "original_title": "Les deux pieds dans la m\u00eame bottine", "slug_title": "the-klutz", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

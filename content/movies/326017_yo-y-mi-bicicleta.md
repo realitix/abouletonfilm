@@ -1,0 +1,1 @@
+{"tmdb_id": 326017, "title": "Yo y mi bicicleta", "original_title": "Yo y mi bicicleta", "slug_title": "yo-y-mi-bicicleta", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 171694, "title": "Balkan Melody", "original_title": "Balkan Melodie", "slug_title": "balkan-melody", "date": "2012-08-03", "genre": "Documentaire / Histoire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kaGf9mSSL1D3bRsUVOpisHWwR4p.jpg", "actors": [], "comments": [], "recommandations_id": []}

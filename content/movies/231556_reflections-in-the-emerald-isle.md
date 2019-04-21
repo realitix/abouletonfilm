@@ -1,0 +1,1 @@
+{"tmdb_id": 231556, "title": "Reflections in the Emerald Isle", "original_title": "Reflections in the Emerald Isle", "slug_title": "reflections-in-the-emerald-isle", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

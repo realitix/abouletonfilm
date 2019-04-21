@@ -1,0 +1,1 @@
+{"tmdb_id": 189417, "title": "Clara Cleans Her Teeth", "original_title": "Clara Cleans Her Teeth", "slug_title": "clara-cleans-her-teeth", "date": "1926-04-28", "genre": "", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iFKXfCWiPu9AjJc1FNIewfARYeQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 289377, "title": "T\u00f6dlicher Duft", "original_title": "T\u00f6dlicher Duft", "slug_title": "todlicher-duft", "date": "1997-02-24", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sebastian Koch (Robert)", "Susanna Simon (Caroline)", "Petra Kleinert (Claudia)"], "comments": [], "recommandations_id": []}

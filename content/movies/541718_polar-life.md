@@ -1,0 +1,1 @@
+{"tmdb_id": 541718, "title": "Polar Life", "original_title": "Polar Life", "slug_title": "polar-life", "date": "1967-04-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

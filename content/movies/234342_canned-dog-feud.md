@@ -1,0 +1,1 @@
+{"tmdb_id": 234342, "title": "Canned Dog Feud", "original_title": "Canned Dog Feud", "slug_title": "canned-dog-feud", "date": "1965-11-08", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dV1jTCQQdthtDj95t5jgrQ7EgZl.jpg", "actors": [], "comments": [], "recommandations_id": []}

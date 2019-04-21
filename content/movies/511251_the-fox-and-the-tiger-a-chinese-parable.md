@@ -1,0 +1,1 @@
+{"tmdb_id": 511251, "title": "The Fox and the Tiger: A Chinese Parable", "original_title": "The Fox and the Tiger: A Chinese Parable", "slug_title": "the-fox-and-the-tiger-a-chinese-parable", "date": "1986-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

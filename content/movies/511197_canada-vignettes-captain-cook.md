@@ -1,0 +1,1 @@
+{"tmdb_id": 511197, "title": "Canada Vignettes: Captain Cook", "original_title": "Canada Vignettes: Captain Cook", "slug_title": "canada-vignettes-captain-cook", "date": "1978-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

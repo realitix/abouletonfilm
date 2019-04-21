@@ -1,0 +1,1 @@
+{"tmdb_id": 300852, "title": "The Medieval Papacy", "original_title": "The Medieval Papacy", "slug_title": "the-medieval-papacy", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

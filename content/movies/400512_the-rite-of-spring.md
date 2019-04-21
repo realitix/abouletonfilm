@@ -1,0 +1,1 @@
+{"tmdb_id": 400512, "title": "The Rite of Spring", "original_title": "Sv\u011bcen\u00ed jara", "slug_title": "the-rite-of-spring", "date": "2002-03-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tz2ALTBk0bcJFHNn0AbFAb4szjV.jpg", "actors": [], "comments": [], "recommandations_id": []}

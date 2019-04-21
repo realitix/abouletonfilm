@@ -1,0 +1,1 @@
+{"tmdb_id": 393836, "title": "Lotte Lenya Sings Kurt Weill", "original_title": "Lotte Lenya Sings Kurt Weill", "slug_title": "lotte-lenya-sings-kurt-weill", "date": "1961-04-21", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

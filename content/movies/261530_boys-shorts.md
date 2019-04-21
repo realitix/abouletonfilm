@@ -1,0 +1,1 @@
+{"tmdb_id": 261530, "title": "Boys' Shorts", "original_title": "Boys' Shorts", "slug_title": "boys-shorts", "date": "1993-09-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z1teNoc2ayKof2NCAWplqMFA714.jpg", "actors": [], "comments": [], "recommandations_id": []}

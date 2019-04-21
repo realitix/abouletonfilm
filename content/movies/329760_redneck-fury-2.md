@@ -1,0 +1,1 @@
+{"tmdb_id": 329760, "title": "Redneck Fury 2", "original_title": "Redneck Fury 2", "slug_title": "redneck-fury-2", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/juDp6CUseZYaUgPCsOk2MxFMDmu.jpg", "actors": [], "comments": [], "recommandations_id": []}

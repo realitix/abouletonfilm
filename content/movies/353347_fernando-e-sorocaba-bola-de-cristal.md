@@ -1,0 +1,1 @@
+{"tmdb_id": 353347, "title": "Fernando e Sorocaba Bola de Cristal", "original_title": "Fernando e Sorocaba Bola de Cristal", "slug_title": "fernando-e-sorocaba-bola-de-cristal", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

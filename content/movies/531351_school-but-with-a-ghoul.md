@@ -1,0 +1,1 @@
+{"tmdb_id": 531351, "title": "School, But With A Ghoul", "original_title": "School, But With A Ghoul", "slug_title": "school-but-with-a-ghoul", "date": "2017-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hDcmxD3N84bBeD9DI6oRmryxIWZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

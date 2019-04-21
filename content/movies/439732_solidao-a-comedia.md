@@ -1,0 +1,1 @@
+{"tmdb_id": 439732, "title": "Solid\u00e3o, a Com\u00e9dia", "original_title": "Solid\u00e3o, a Com\u00e9dia", "slug_title": "solidao-a-comedia", "date": "2017-02-05", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Maur\u00edcio Machado ()"], "comments": [], "recommandations_id": []}

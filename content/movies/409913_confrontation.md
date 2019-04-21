@@ -1,0 +1,1 @@
+{"tmdb_id": 409913, "title": "Confrontation", "original_title": "Confrontation", "slug_title": "confrontation", "date": "", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

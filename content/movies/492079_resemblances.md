@@ -1,0 +1,1 @@
+{"tmdb_id": 492079, "title": "Resemblances", "original_title": "Resemblances", "slug_title": "resemblances", "date": "2013-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w8GOrZisV2aSWufV135b2rFvqOM.jpg", "actors": ["Clara-Marie Pazzini (Madame Da Bartmann)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 49228, "title": "Welcome To September", "original_title": "Welcome To September", "slug_title": "welcome-to-september", "date": "2005-03-24", "genre": "Drame / Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/abnDiQFJyt5lsiTp1M27AMCB4v4.jpg", "actors": [], "comments": [], "recommandations_id": []}

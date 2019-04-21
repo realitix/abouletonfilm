@@ -1,0 +1,1 @@
+{"tmdb_id": 379452, "title": "Hiss and Hers", "original_title": "Hiss and Hers", "slug_title": "hiss-and-hers", "date": "1972-04-02", "genre": "Animation", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Larry D. Mann (Blue Racer (voice))", "Tom Holland (Japanese Beetle (voice))"], "comments": [], "recommandations_id": []}

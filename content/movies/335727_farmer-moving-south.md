@@ -1,0 +1,1 @@
+{"tmdb_id": 335727, "title": "Farmer Moving South", "original_title": "Farmer Moving South", "slug_title": "farmer-moving-south", "date": "1952-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jQfevlrD7AwtCrJpwbY8ZspaWTb.jpg", "actors": [], "comments": [], "recommandations_id": []}

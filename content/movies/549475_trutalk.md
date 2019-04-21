@@ -1,0 +1,1 @@
+{"tmdb_id": 549475, "title": "TruTalk", "original_title": "TruTalk", "slug_title": "trutalk", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jim Carrey (Truman Burbank)", "Ed Harris (Christof)", "Laura Linney (Hannah Gill)"], "comments": [], "recommandations_id": []}

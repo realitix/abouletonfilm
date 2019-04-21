@@ -1,0 +1,1 @@
+{"tmdb_id": 191981, "title": "Die Filmprimadonna", "original_title": "Die Filmprimadonna", "slug_title": "die-filmprimadonna", "date": "1913-12-06", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nlbpOENHNbSp5HOCSH7J7oX3oQh.jpg", "actors": ["Asta Nielsen (Ruth Breton)"], "comments": [], "recommandations_id": []}

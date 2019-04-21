@@ -1,0 +1,1 @@
+{"tmdb_id": 518868, "title": "Magnanimous Despair", "original_title": "Desespero Magn\u00e2nima", "slug_title": "magnanimous-despair", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/svMLrv7YTYG2nxKk7Kps3gTPfef.jpg", "actors": [], "comments": [], "recommandations_id": []}

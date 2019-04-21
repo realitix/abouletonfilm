@@ -1,0 +1,1 @@
+{"tmdb_id": 553075, "title": "The Catskill Chainsaw Redemption", "original_title": "The Catskill Chainsaw Redemption", "slug_title": "the-catskill-chainsaw-redemption", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 335568, "title": "The Crossing", "original_title": "The Crossing", "slug_title": "the-crossing", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 30360, "title": "3 Days Gone", "original_title": "3 Days Gone", "slug_title": "3-days-gone", "date": "2008-01-01", "genre": "Action / Myst\u00e8re / Thriller", "score": "2.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nHjxtBWG8HasciVeAc9HGDhxYcl.jpg", "actors": ["Christopher Backus (Lucas)"], "comments": [], "recommandations_id": []}

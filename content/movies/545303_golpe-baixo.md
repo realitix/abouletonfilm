@@ -1,0 +1,1 @@
+{"tmdb_id": 545303, "title": "Golpe Baixo", "original_title": "Golpe Baixo", "slug_title": "golpe-baixo", "date": "2018-08-22", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fMTbpgca3L0323U4A0VSZWs1YSq.jpg", "actors": [], "comments": [], "recommandations_id": []}

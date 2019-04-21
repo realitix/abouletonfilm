@@ -1,0 +1,1 @@
+{"tmdb_id": 321407, "title": "Aerosmith Permanent Rock", "original_title": "Aerosmith: Permanent Vacation: Live", "slug_title": "aerosmith-permanent-rock", "date": "1990-01-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aQJMdYHfSDljV0tfvk4eEA4Jxog.jpg", "actors": [], "comments": [], "recommandations_id": []}

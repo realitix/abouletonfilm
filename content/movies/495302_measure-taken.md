@@ -1,0 +1,1 @@
+{"tmdb_id": 495302, "title": "Measure Taken", "original_title": "Measure Taken", "slug_title": "measure-taken", "date": "1984-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jessica Nares ()", "Earl Garrett Jr. ()", "Jan Reds ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 273233, "title": "Bohemian Town", "original_title": "Bohemian Town", "slug_title": "bohemian-town", "date": "2004-07-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fejapcZkW2AyAu4jyYBPUL13eWf.jpg", "actors": [], "comments": [], "recommandations_id": []}

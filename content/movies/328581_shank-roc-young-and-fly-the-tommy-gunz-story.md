@@ -1,0 +1,1 @@
+{"tmdb_id": 328581, "title": "Shank Roc: Young and Fly - The Tommy Gunz Story", "original_title": "Shank Roc: Young and Fly - The Tommy Gunz Story", "slug_title": "shank-roc-young-and-fly-the-tommy-gunz-story", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

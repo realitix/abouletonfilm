@@ -1,0 +1,1 @@
+{"tmdb_id": 421407, "title": "Joshua and the Blob", "original_title": "Joshua and the Blob", "slug_title": "joshua-and-the-blob", "date": "1972-10-07", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i4mfb6jiyI961s1IJXc9wGoGeD8.jpg", "actors": [], "comments": [], "recommandations_id": []}

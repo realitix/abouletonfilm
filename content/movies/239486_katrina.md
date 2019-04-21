@@ -1,0 +1,1 @@
+{"tmdb_id": 239486, "title": "Katrina", "original_title": "Katrina", "slug_title": "katrina", "date": "1969-07-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y6HxDNzohy7GMrZioTG2nw8JJ6i.jpg", "actors": ["Jill Kirkland ()"], "comments": [], "recommandations_id": []}

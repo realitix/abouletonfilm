@@ -1,0 +1,1 @@
+{"tmdb_id": 379496, "title": "Live at Montreux 1982", "original_title": "Live at Montreux 1982", "slug_title": "live-at-montreux-1982", "date": "", "genre": "", "score": "0.0/10", "synopsis": "MINK DEVILLE", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

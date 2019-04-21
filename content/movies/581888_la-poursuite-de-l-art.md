@@ -1,0 +1,1 @@
+{"tmdb_id": 581888, "title": "La Poursuite de l'Art", "original_title": "La Poursuite de l'Art", "slug_title": "la-poursuite-de-l-art", "date": "1999-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kelDM8idyofLZE2z0bOBuOqOQ5d.jpg", "actors": [], "comments": [], "recommandations_id": []}

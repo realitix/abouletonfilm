@@ -1,0 +1,1 @@
+{"tmdb_id": 194266, "title": "Carmaux, chargement du coke", "original_title": "Carmaux, chargement du coke", "slug_title": "carmaux-chargement-du-coke", "date": "1896-07-26", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1Umoo8QfRtpghgWKCLse6ZMxybj.jpg", "actors": [], "comments": [], "recommandations_id": []}

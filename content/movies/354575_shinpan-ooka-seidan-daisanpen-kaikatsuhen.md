@@ -1,0 +1,1 @@
+{"tmdb_id": 354575, "title": "Shinpan \u00d4oka seidan; Daisanpen: Kaikatsuhen", "original_title": "Shinpan \u00d4oka seidan; Daisanpen: Kaikatsuhen", "slug_title": "shinpan-ooka-seidan-daisanpen-kaikatsuhen", "date": "1928-08-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

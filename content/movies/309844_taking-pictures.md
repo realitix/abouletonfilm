@@ -1,0 +1,1 @@
+{"tmdb_id": 309844, "title": "Taking Pictures", "original_title": "Taking Pictures", "slug_title": "taking-pictures", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

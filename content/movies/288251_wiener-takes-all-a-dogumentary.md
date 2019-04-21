@@ -1,0 +1,1 @@
+{"tmdb_id": 288251, "title": "Wiener Takes All: A Dogumentary", "original_title": "Wiener Takes All: A Dogumentary", "slug_title": "wiener-takes-all-a-dogumentary", "date": "2007-09-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jprDN8MaHMAZa7ym99gNCmBZIzf.jpg", "actors": [], "comments": [], "recommandations_id": []}

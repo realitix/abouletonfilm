@@ -1,0 +1,1 @@
+{"tmdb_id": 447443, "title": "Slim in 6: Slim & Limber", "original_title": "Slim in 6: Slim & Limber", "slug_title": "slim-in-6-slim-limber", "date": "2010-01-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4UU6YUitR2xbT8bACGD3ZBtAe5t.jpg", "actors": [], "comments": [], "recommandations_id": []}

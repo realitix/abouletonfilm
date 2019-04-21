@@ -1,0 +1,1 @@
+{"tmdb_id": 117067, "title": "Twin Sisters", "original_title": "Zi mei hua", "slug_title": "twin-sisters", "date": "1934-02-13", "genre": "Drame", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qr5wNCLwyjS0NrfE03RBsF3oreg.jpg", "actors": [], "comments": [], "recommandations_id": []}

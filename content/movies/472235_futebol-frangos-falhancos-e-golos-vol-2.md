@@ -1,0 +1,1 @@
+{"tmdb_id": 472235, "title": "Futebol: Frangos, Falhan\u00e7os e Golos Vol. 2", "original_title": "Futebol: Frangos, Falhan\u00e7os e Golos Vol. 2", "slug_title": "futebol-frangos-falhancos-e-golos-vol-2", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

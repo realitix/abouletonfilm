@@ -1,0 +1,1 @@
+{"tmdb_id": 132440, "title": "Current", "original_title": "Current", "slug_title": "current", "date": "2009-06-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kUsGqX0NtcplFUDFMlsKsmCVzkA.jpg", "actors": ["Sushanth (Sushanth)", "Sneha Ullal (Sneha)", "Raghu Babu ()"], "comments": [], "recommandations_id": []}

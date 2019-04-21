@@ -1,0 +1,1 @@
+{"tmdb_id": 235938, "title": "The Little Wise Quacker", "original_title": "The Little Wise Quacker", "slug_title": "the-little-wise-quacker", "date": "1952-11-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zKEIcXumE0YuLwDRzzO4aWdYSBs.jpg", "actors": [], "comments": [], "recommandations_id": []}

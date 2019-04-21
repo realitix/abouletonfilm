@@ -1,0 +1,1 @@
+{"tmdb_id": 317764, "title": "Fritz Wunderlich: Life and Legend", "original_title": "Fritz Wunderlich: Life and Legend", "slug_title": "fritz-wunderlich-life-and-legend", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

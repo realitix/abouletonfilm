@@ -1,0 +1,1 @@
+{"tmdb_id": 323790, "title": "The Will of Victory (A Doc Opera)", "original_title": "The Will of Victory (A Doc Opera)", "slug_title": "the-will-of-victory-a-doc-opera", "date": "2011-08-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

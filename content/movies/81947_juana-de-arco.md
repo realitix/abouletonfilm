@@ -1,0 +1,1 @@
+{"tmdb_id": 81947, "title": "Juana de Arco", "original_title": "Juana de Arco", "slug_title": "juana-de-arco", "date": "", "genre": "", "score": "2.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

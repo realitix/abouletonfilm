@@ -1,0 +1,1 @@
+{"tmdb_id": 496053, "title": "The Girlfriend Experience", "original_title": "The Girlfriend Experience", "slug_title": "the-girlfriend-experience", "date": "2014-10-05", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

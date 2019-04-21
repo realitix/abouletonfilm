@@ -1,0 +1,1 @@
+{"tmdb_id": 189430, "title": "S\u00edndrome laboral", "original_title": "S\u00edndrome laboral", "slug_title": "sindrome-laboral", "date": "2005-04-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Merc\u00e8 Llorens ()", "Carmelo G\u00f3mez ()", "Isabel Rocatti ()", "Juli Mira ()"], "comments": [], "recommandations_id": []}

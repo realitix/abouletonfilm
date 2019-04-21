@@ -1,0 +1,1 @@
+{"tmdb_id": 490408, "title": "Wookyung", "original_title": "\uc6b0\uacbd", "slug_title": "wookyung", "date": "2017-11-29", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6C3hKTlmfNCJokOT8CdwcjQ62Y5.jpg", "actors": ["Woo-kyeong Ahn (Himself)"], "comments": [], "recommandations_id": []}

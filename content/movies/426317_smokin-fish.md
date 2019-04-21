@@ -1,0 +1,1 @@
+{"tmdb_id": 426317, "title": "Smokin' Fish", "original_title": "Smokin' Fish", "slug_title": "smokin-fish", "date": "2011-10-06", "genre": "Documentaire / Histoire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4lxdIDAXrfxAckgBByJI57XmxNN.jpg", "actors": ["Cory Mann ()"], "comments": [], "recommandations_id": []}

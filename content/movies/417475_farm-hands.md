@@ -1,0 +1,1 @@
+{"tmdb_id": 417475, "title": "Farm Hands", "original_title": "Farm Hands", "slug_title": "farm-hands", "date": "1943-06-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

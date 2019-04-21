@@ -1,0 +1,1 @@
+{"tmdb_id": 207252, "title": "Rope Dance", "original_title": "Seilt\u00e4nzer", "slug_title": "rope-dance", "date": "1986-01-01", "genre": "Animation", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/beZkDJDC76esHrAg25zT6CJlDUS.jpg", "actors": [], "comments": [], "recommandations_id": [163349, 162660, 49454]}

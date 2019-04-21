@@ -1,0 +1,1 @@
+{"tmdb_id": 459553, "title": "Remembering Playland at the Beach", "original_title": "Remembering Playland at the Beach", "slug_title": "remembering-playland-at-the-beach", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d9xUyUXFSXlXLBAzS87LxiiUpKu.jpg", "actors": [], "comments": [], "recommandations_id": []}

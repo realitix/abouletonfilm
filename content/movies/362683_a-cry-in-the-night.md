@@ -1,0 +1,1 @@
+{"tmdb_id": 362683, "title": "A Cry in the Night", "original_title": "A Cry in the Night", "slug_title": "a-cry-in-the-night", "date": "1915-07-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["James Russell (The Thing)"], "comments": [], "recommandations_id": []}

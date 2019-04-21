@@ -1,0 +1,1 @@
+{"tmdb_id": 260789, "title": "Morgan Kane: D\u00f8den er en ensom jeger", "original_title": "Morgan Kane: D\u00f8den er en ensom jeger", "slug_title": "morgan-kane-doden-er-en-ensom-jeger", "date": "2001-03-28", "genre": "", "score": "1.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

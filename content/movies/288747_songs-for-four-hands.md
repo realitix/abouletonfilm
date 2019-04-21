@@ -1,0 +1,1 @@
+{"tmdb_id": 288747, "title": "Songs for Four Hands", "original_title": "Songs for Four Hands", "slug_title": "songs-for-four-hands", "date": "1970-08-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/abXlJcxqMy9le4H5PleFoHI4eD.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 280442, "title": "Mineirinho vivo ou morto", "original_title": "Mineirinho vivo ou morto", "slug_title": "mineirinho-vivo-ou-morto", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

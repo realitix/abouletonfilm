@@ -1,0 +1,1 @@
+{"tmdb_id": 278156, "title": "Ratnavali", "original_title": "Ratnavali", "slug_title": "ratnavali", "date": "2016-09-04", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sunil Sharma ()", "Pooja Balushi ()", "Vani Viswanath ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 443774, "title": "Satan Jawa", "original_title": "Setan Jawa", "slug_title": "satan-jawa", "date": "2016-09-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/14E7glrfDYoDQBRExnA12FuDXDQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

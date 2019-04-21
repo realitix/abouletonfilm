@@ -1,0 +1,1 @@
+{"tmdb_id": 224672, "title": "Honningsv\u00e5grevyen - Now is the time", "original_title": "Honningsv\u00e5grevyen - Det e No Det Gjeld", "slug_title": "honningsvagrevyen-now-is-the-time", "date": "2004-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

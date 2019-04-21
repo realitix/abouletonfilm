@@ -1,0 +1,1 @@
+{"tmdb_id": 485052, "title": "Las ruinas de Bah\u00eda Blanca", "original_title": "Las ruinas de Bah\u00eda Blanca", "slug_title": "las-ruinas-de-bahia-blanca", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

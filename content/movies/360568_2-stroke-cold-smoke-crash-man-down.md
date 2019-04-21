@@ -1,0 +1,1 @@
+{"tmdb_id": 360568, "title": "2 Stroke Cold Smoke: Crash! Man Down!", "original_title": "2 Stroke Cold Smoke: Crash! Man Down!", "slug_title": "2-stroke-cold-smoke-crash-man-down", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

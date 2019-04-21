@@ -1,0 +1,1 @@
+{"tmdb_id": 143709, "title": "In the Beginning: The Wisdom of Solomon", "original_title": "In the Beginning: The Wisdom of Solomon", "slug_title": "in-the-beginning-the-wisdom-of-solomon", "date": "1992-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

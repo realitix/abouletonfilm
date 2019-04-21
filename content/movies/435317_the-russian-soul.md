@@ -1,0 +1,1 @@
+{"tmdb_id": 435317, "title": "The Russian Soul", "original_title": "Il Naso", "slug_title": "the-russian-soul", "date": "1993-01-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/loTcH2JWdBLVxSr6jIhV4JIzMkm.jpg", "actors": ["Lina Wertm\u00fcller (Herself)"], "comments": [], "recommandations_id": []}

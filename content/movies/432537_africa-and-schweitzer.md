@@ -1,0 +1,1 @@
+{"tmdb_id": 432537, "title": "Africa and Schweitzer", "original_title": "Africa and Schweitzer", "slug_title": "africa-and-schweitzer", "date": "1957-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fy97gUxAkTVG7MyN6kHxX0WCh3m.jpg", "actors": [], "comments": [], "recommandations_id": []}

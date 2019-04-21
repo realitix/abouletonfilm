@@ -1,0 +1,1 @@
+{"tmdb_id": 185824, "title": "Luminous People", "original_title": "Luminous People", "slug_title": "luminous-people", "date": "2007-05-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eDHnCWs4LhLzhlC2gmsixIuguKQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

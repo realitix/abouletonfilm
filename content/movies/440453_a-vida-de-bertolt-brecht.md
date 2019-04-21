@@ -1,0 +1,1 @@
+{"tmdb_id": 440453, "title": "A Vida de Bertolt Brecht", "original_title": "A Vida de Bertolt Brecht", "slug_title": "a-vida-de-bertolt-brecht", "date": "2006-02-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xvKUDOk97Gk7WyagSDgXh9brlDI.jpg", "actors": [], "comments": [], "recommandations_id": []}

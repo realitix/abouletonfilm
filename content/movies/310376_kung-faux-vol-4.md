@@ -1,0 +1,1 @@
+{"tmdb_id": 310376, "title": "Kung Faux: Vol. 4", "original_title": "Kung Faux: Vol. 4", "slug_title": "kung-faux-vol-4", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

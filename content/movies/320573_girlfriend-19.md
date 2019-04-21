@@ -1,0 +1,1 @@
+{"tmdb_id": 320573, "title": "Girlfriend 19", "original_title": "Girlfriend 19", "slug_title": "girlfriend-19", "date": "", "genre": "", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/duBTjboSEnUwMMshEBvnnDz2AVg.jpg", "actors": ["Chris Ivan Cevic (Rob)", "Cassidy Brown (Bethany)"], "comments": [], "recommandations_id": []}

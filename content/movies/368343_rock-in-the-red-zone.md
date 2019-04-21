@@ -1,0 +1,1 @@
+{"tmdb_id": 368343, "title": "Rock in the Red Zone", "original_title": "Rock in the Red Zone", "slug_title": "rock-in-the-red-zone", "date": "2015-11-13", "genre": "Documentaire / Musique", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tGNoQ3tQfqSvaLrkU2iCSPviIfV.jpg", "actors": [], "comments": [], "recommandations_id": []}

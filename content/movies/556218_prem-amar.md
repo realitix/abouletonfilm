@@ -1,0 +1,1 @@
+{"tmdb_id": 556218, "title": "Prem Amar", "original_title": "Prem Amar", "slug_title": "prem-amar", "date": "2009-10-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yxvwHawU7UeDgbYCMacP2YVRBSg.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 578335, "title": "In the Time of King Krakus", "original_title": "Za kr\u00f3la Krakusa", "slug_title": "in-the-time-of-king-krakus", "date": "1947-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2x7VaUFBbhrH3XAZeHw0eo6ZXJL.jpg", "actors": [], "comments": [], "recommandations_id": []}

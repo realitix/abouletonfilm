@@ -1,0 +1,1 @@
+{"tmdb_id": 416379, "title": "\uac78\uc74c\uc758 \uc774\uc720", "original_title": "\uac78\uc74c\uc758 \uc774\uc720", "slug_title": "geoleumyi-iyu", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

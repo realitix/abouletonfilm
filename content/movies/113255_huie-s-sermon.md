@@ -1,0 +1,1 @@
+{"tmdb_id": 113255, "title": "Huie's Sermon", "original_title": "Huie's Predigt", "slug_title": "huie-s-sermon", "date": "1983-07-07", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1tBQhVnAmyxM12vpDXm0W7QI1QP.jpg", "actors": ["Huie Rogers (Himself)"], "comments": [], "recommandations_id": []}

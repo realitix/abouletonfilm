@@ -1,0 +1,1 @@
+{"tmdb_id": 233350, "title": "Torpedo Squadron", "original_title": "Torpedo Squadron", "slug_title": "torpedo-squadron", "date": "1942-01-01", "genre": "Documentaire / Guerre", "score": "6.3/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 458289, "title": "Prologue: Squat/Anti-Squat", "original_title": "Prologue: Squat/Anti-Squat", "slug_title": "prologue-squat-anti-squat", "date": "2017-05-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

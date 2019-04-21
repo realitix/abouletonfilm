@@ -1,0 +1,1 @@
+{"tmdb_id": 352797, "title": "Das Beste von den Stehaufmandln", "original_title": "Das Beste von den Stehaufmandln", "slug_title": "das-beste-von-den-stehaufmandln", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 479592, "title": "The Wave by The FIRM: Rock it OFF! - Cardio Express", "original_title": "The Wave by The FIRM: Rock it OFF! - Cardio Express", "slug_title": "the-wave-by-the-firm-rock-it-off-cardio-express", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

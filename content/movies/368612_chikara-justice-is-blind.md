@@ -1,0 +1,1 @@
+{"tmdb_id": 368612, "title": "CHIKARA: Justice is Blind", "original_title": "CHIKARA: Justice is Blind", "slug_title": "chikara-justice-is-blind", "date": "2015-09-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3MvnVwIZ6vLRvZFzJo7VsEtGz4U.jpg", "actors": [], "comments": [], "recommandations_id": []}

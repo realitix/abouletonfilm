@@ -1,0 +1,1 @@
+{"tmdb_id": 510794, "title": "Tu Mo Hero", "original_title": "Tu Mo Hero", "slug_title": "tu-mo-hero", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jhilik Bhattacharya ()", "Mihir Das ()"], "comments": [], "recommandations_id": []}

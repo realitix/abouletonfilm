@@ -1,0 +1,1 @@
+{"tmdb_id": 581196, "title": "Palm Magic", "original_title": "Palmenzauber", "slug_title": "palm-magic", "date": "1934-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

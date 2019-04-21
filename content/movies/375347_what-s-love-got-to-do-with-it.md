@@ -1,0 +1,1 @@
+{"tmdb_id": 375347, "title": "What's Love Got to Do With It?", "original_title": "What's Love Got to Do With It?", "slug_title": "what-s-love-got-to-do-with-it", "date": "2013-10-22", "genre": "", "score": "3.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cunDoKDFapxqsdUzM7NQYKDx40E.jpg", "actors": [], "comments": [], "recommandations_id": []}

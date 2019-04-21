@@ -1,0 +1,1 @@
+{"tmdb_id": 298531, "title": "Medium Earth", "original_title": "Medium Earth", "slug_title": "medium-earth", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

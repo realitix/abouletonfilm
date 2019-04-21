@@ -1,0 +1,1 @@
+{"tmdb_id": 528593, "title": "Clubland", "original_title": "Clubland", "slug_title": "clubland", "date": "2009-05-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

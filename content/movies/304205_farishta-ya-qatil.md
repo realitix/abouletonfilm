@@ -1,0 +1,1 @@
+{"tmdb_id": 304205, "title": "Farishta Ya Qatil", "original_title": "Farishta Ya Qatil", "slug_title": "farishta-ya-qatil", "date": "1977-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

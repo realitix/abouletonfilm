@@ -1,0 +1,1 @@
+{"tmdb_id": 284038, "title": "Angel of Darkness Volume 3", "original_title": "Angel of Darkness Volume 3", "slug_title": "angel-of-darkness-volume-3", "date": "1995-08-25", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yzXBzIoW7me58vmRty7rwR8b9TD.jpg", "actors": [], "comments": [], "recommandations_id": []}

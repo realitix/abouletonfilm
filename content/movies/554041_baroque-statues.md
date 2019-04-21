@@ -1,0 +1,1 @@
+{"tmdb_id": 554041, "title": "Baroque Statues", "original_title": "Baroque Statues", "slug_title": "baroque-statues", "date": "1974-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jMCb4c8mzlpKm7HLif0ANpy8K42.jpg", "actors": [], "comments": [], "recommandations_id": []}

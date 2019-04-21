@@ -1,0 +1,1 @@
+{"tmdb_id": 338174, "title": "Il pezzo mancante", "original_title": "Il pezzo mancante", "slug_title": "il-pezzo-mancante", "date": "2010-11-27", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yihk0438LTKPNUKqm7BUlCwV30y.jpg", "actors": [], "comments": [], "recommandations_id": []}

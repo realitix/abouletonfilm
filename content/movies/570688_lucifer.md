@@ -1,0 +1,1 @@
+{"tmdb_id": 570688, "title": "Lucifer", "original_title": "Lucifer", "slug_title": "lucifer", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

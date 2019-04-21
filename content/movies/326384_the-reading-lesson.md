@@ -1,0 +1,1 @@
+{"tmdb_id": 326384, "title": "The Reading-Lesson", "original_title": "Het leesplankje", "slug_title": "the-reading-lesson", "date": "1973-02-20", "genre": "Documentaire", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lul5rmi8lxl2o13lKNsiDUXur07.jpg", "actors": [], "comments": [], "recommandations_id": []}

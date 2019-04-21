@@ -1,0 +1,1 @@
+{"tmdb_id": 176976, "title": "2\u00ba Direito", "original_title": "2\u00ba Direito", "slug_title": "2o-direito", "date": "2005-03-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v2bythSjGOt10XlfXLZIpNcdMpd.jpg", "actors": [], "comments": [], "recommandations_id": []}

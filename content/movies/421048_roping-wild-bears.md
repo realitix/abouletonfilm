@@ -1,0 +1,1 @@
+{"tmdb_id": 421048, "title": "Roping Wild Bears", "original_title": "Roping Wild Bears", "slug_title": "roping-wild-bears", "date": "1934-02-10", "genre": "Com\u00e9die / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pete Smith (Narrator (voice))"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 349868, "title": "Ardent Love", "original_title": "\uc5f4\uc560", "slug_title": "ardent-love", "date": "1982-07-17", "genre": "Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kim Choo-ryeon ()", "Na Young-hee ()", "Song Jae-ho  ()", "Kim Shin-jae ()", "Kim Mi-Sook ()"], "comments": [], "recommandations_id": []}

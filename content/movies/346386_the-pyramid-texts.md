@@ -1,0 +1,1 @@
+{"tmdb_id": 346386, "title": "The Pyramid Texts", "original_title": "The Pyramid Texts", "slug_title": "the-pyramid-texts", "date": "2015-06-19", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rvlm1W1eawsgFYljLWFILe1BK9M.jpg", "actors": ["James Cosmo (Ray)"], "comments": [], "recommandations_id": []}

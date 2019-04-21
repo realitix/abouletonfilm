@@ -1,0 +1,1 @@
+{"tmdb_id": 304133, "title": "Jalama: Beach to Burgers", "original_title": "Jalama: Beach to Burgers", "slug_title": "jalama-beach-to-burgers", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

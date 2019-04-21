@@ -1,0 +1,1 @@
+{"tmdb_id": 481547, "title": "\ubdf0\ud2f0\ud480 \ucc28\uc77c\ub4dc", "original_title": "\ubdf0\ud2f0\ud480 \ucc28\uc77c\ub4dc", "slug_title": "byutipul-caildeu", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

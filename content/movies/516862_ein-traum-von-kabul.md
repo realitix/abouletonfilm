@@ -1,0 +1,1 @@
+{"tmdb_id": 516862, "title": "Ein Traum von Kabul", "original_title": "Ein Traum von Kabul", "slug_title": "ein-traum-von-kabul", "date": "1996-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

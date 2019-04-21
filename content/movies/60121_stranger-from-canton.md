@@ -1,0 +1,1 @@
+{"tmdb_id": 60121, "title": "Stranger from Canton", "original_title": "Guai ke", "slug_title": "stranger-from-canton", "date": "1973-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lcsMCJBFXeol7sgP5vsxKKbl2MY.jpg", "actors": ["Hao-ran Chen ()"], "comments": [], "recommandations_id": []}

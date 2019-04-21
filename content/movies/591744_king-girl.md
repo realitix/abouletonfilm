@@ -1,0 +1,1 @@
+{"tmdb_id": 591744, "title": "King girl", "original_title": "King girl", "slug_title": "king-girl", "date": "1996-09-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

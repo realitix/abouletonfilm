@@ -1,0 +1,1 @@
+{"tmdb_id": 276953, "title": "Attack!: Lions & Africa's Giants", "original_title": "Attack!: Lions & Africa's Giants", "slug_title": "attack-lions-africa-s-giants", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jzhknYWMNEypecw4YROiwMzmFtR.jpg", "actors": [], "comments": [], "recommandations_id": []}

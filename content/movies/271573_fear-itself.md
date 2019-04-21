@@ -1,0 +1,1 @@
+{"tmdb_id": 271573, "title": "Fear Itself", "original_title": "Fear Itself", "slug_title": "fear-itself", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 416542, "title": "My Lover Yurie", "original_title": "\ub0b4 \uc0ac\ub791 \uc720\ub9ac\uc5d0", "slug_title": "my-lover-yurie", "date": "2008-01-31", "genre": "Fantastique / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bu49sYNBNBDR89wtCVVboFzXUcb.jpg", "actors": [], "comments": [], "recommandations_id": []}

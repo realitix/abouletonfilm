@@ -1,0 +1,1 @@
+{"tmdb_id": 325535, "title": "\u00d3li Prik", "original_title": "\u00d3li Prik", "slug_title": "oli-prik", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gu8hNNMZwbjgXDczY65ricHM2EP.jpg", "actors": [], "comments": [], "recommandations_id": []}

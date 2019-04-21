@@ -1,0 +1,1 @@
+{"tmdb_id": 449926, "title": "Arabella", "original_title": "Arabella", "slug_title": "arabella", "date": "2001-06-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wKVC1FJYO1wUdUed9DUcoCZzZPc.jpg", "actors": ["Kiri Te Kanawa ()", "Wolfgang Brendel ()", "Natalie Dessay ()"], "comments": [], "recommandations_id": []}

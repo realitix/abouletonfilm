@@ -1,0 +1,1 @@
+{"tmdb_id": 520371, "title": "My Boyfriend's Dog", "original_title": "My Boyfriend's Dog", "slug_title": "my-boyfriend-s-dog", "date": "2014-10-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5jB4sOAkecu1kW2s9OcGeQy2uMy.jpg", "actors": [], "comments": [], "recommandations_id": []}

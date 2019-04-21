@@ -1,0 +1,1 @@
+{"tmdb_id": 529491, "title": "Forceful Impact", "original_title": "Forceful Impact", "slug_title": "forceful-impact", "date": "1988-07-04", "genre": "Action", "score": "2.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mike Abbott ()", "Cindy Lee Duck ()"], "comments": [], "recommandations_id": []}

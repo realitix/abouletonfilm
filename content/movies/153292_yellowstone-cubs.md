@@ -1,0 +1,1 @@
+{"tmdb_id": 153292, "title": "Yellowstone Cubs", "original_title": "Yellowstone Cubs", "slug_title": "yellowstone-cubs", "date": "1963-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yiMqhw2sAALDAaYtoz8QxqHK1v7.jpg", "actors": ["Rex Allen (Narrator)"], "comments": [], "recommandations_id": []}

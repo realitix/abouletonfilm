@@ -1,0 +1,1 @@
+{"tmdb_id": 291518, "title": "East Dallas, Summer, 1974", "original_title": "East Dallas, Summer, 1974", "slug_title": "east-dallas-summer-1974", "date": "1974-01-01", "genre": "Documentaire", "score": "5.3/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Florence Mayfield (Herself)"], "comments": [], "recommandations_id": []}

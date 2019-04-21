@@ -1,0 +1,1 @@
+{"tmdb_id": 562348, "title": "The Pioneers", "original_title": "Os Bandeirantes", "slug_title": "the-pioneers", "date": "1960-10-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/751ODKQ4s9wKevyQSGovJmrByiW.jpg", "actors": [], "comments": [], "recommandations_id": []}

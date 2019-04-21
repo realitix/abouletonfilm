@@ -1,0 +1,1 @@
+{"tmdb_id": 558105, "title": "Katakuti", "original_title": "Katakuti", "slug_title": "katakuti", "date": "2011-10-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/81bELFBDdnZdONkIP0X7XcCV4lo.jpg", "actors": [], "comments": [], "recommandations_id": []}

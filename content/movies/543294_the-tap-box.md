@@ -1,0 +1,1 @@
+{"tmdb_id": 543294, "title": "The Tap Box", "original_title": "Song Lang", "slug_title": "the-tap-box", "date": "2018-08-17", "genre": "Drame", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k1EDK7Fmh6WhWVtf9Ei7X0nYK0U.jpg", "actors": ["Isaac (Linh Ph\u1ee5ng)", "Lien Binh Phat (D\u0169ng)"], "comments": [], "recommandations_id": []}

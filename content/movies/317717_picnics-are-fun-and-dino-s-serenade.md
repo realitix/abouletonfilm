@@ -1,0 +1,1 @@
+{"tmdb_id": 317717, "title": "Picnics Are Fun and Dino's Serenade", "original_title": "Picnics Are Fun and Dino's Serenade", "slug_title": "picnics-are-fun-and-dino-s-serenade", "date": "1959-01-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

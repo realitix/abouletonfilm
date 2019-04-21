@@ -1,0 +1,1 @@
+{"tmdb_id": 574579, "title": "La rencontre", "original_title": "La rencontre", "slug_title": "la-rencontre", "date": "1978-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Edward Luyken ()"], "comments": [], "recommandations_id": []}

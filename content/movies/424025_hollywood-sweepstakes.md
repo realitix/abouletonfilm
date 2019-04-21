@@ -1,0 +1,1 @@
+{"tmdb_id": 424025, "title": "Hollywood Sweepstakes", "original_title": "Hollywood Sweepstakes", "slug_title": "hollywood-sweepstakes", "date": "1939-07-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

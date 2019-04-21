@@ -1,0 +1,1 @@
+{"tmdb_id": 126500, "title": "The Revolution of Responsibility", "original_title": "The Revolution of Responsibility", "slug_title": "the-revolution-of-responsibility", "date": "2012-10-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

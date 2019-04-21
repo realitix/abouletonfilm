@@ -1,0 +1,1 @@
+{"tmdb_id": 325951, "title": "Night of a Thousand Eyes", "original_title": "Night of a Thousand Eyes", "slug_title": "night-of-a-thousand-eyes", "date": "1984-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

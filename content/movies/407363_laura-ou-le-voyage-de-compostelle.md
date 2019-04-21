@@ -1,0 +1,1 @@
+{"tmdb_id": 407363, "title": "Laura ou le voyage de Compostelle", "original_title": "Laura ou le voyage de Compostelle", "slug_title": "laura-ou-le-voyage-de-compostelle", "date": "1991-02-02", "genre": "Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Florence Gu\u00e9rin (Laura)"], "comments": [], "recommandations_id": []}

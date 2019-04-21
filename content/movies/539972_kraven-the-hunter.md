@@ -1,0 +1,1 @@
+{"tmdb_id": 539972, "title": "Kraven the Hunter", "original_title": "Kraven the Hunter", "slug_title": "kraven-the-hunter", "date": "", "genre": "Action / Thriller", "score": "9.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

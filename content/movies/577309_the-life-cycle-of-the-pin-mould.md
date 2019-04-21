@@ -1,0 +1,1 @@
+{"tmdb_id": 577309, "title": "The Life Cycle of the Pin Mould", "original_title": "The Life Cycle of the Pin Mould", "slug_title": "the-life-cycle-of-the-pin-mould", "date": "1943-01-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

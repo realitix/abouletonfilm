@@ -1,0 +1,1 @@
+{"tmdb_id": 285088, "title": "Dynamic Yoga", "original_title": "Dynamic Yoga", "slug_title": "dynamic-yoga", "date": "2005-04-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lDLaCX7cwRNosSmza8u5edeY2uh.jpg", "actors": [], "comments": [], "recommandations_id": []}

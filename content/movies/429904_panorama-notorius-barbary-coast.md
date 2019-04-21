@@ -1,0 +1,1 @@
+{"tmdb_id": 429904, "title": "Panorama, Notorius 'Barbary Coast'", "original_title": "Panorama, Notorius 'Barbary Coast'", "slug_title": "panorama-notorius-barbary-coast", "date": "1906-06-11", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

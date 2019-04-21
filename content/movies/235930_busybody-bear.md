@@ -1,0 +1,1 @@
+{"tmdb_id": 235930, "title": "Busybody Bear", "original_title": "Busybody Bear", "slug_title": "busybody-bear", "date": "1952-12-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fuSKXuscZ2YuGLLd6VmVyIcJf4Z.jpg", "actors": [], "comments": [], "recommandations_id": []}

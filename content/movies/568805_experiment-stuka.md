@@ -1,0 +1,1 @@
+{"tmdb_id": 568805, "title": "Experiment Stuka", "original_title": "Experiment Stuka", "slug_title": "experiment-stuka", "date": "2018-11-08", "genre": "Documentaire / Histoire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qvKPwJxoAxPpyGO0wYcaORuEMdH.jpg", "actors": [], "comments": [], "recommandations_id": []}

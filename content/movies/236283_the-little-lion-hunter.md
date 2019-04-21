@@ -1,0 +1,1 @@
+{"tmdb_id": 236283, "title": "The Little Lion Hunter", "original_title": "The Little Lion Hunter", "slug_title": "the-little-lion-hunter", "date": "1939-10-06", "genre": "Animation", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3BLoVQt51l4uGVve6ei1R3iMfni.jpg", "actors": [], "comments": [], "recommandations_id": []}

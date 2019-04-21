@@ -1,0 +1,1 @@
+{"tmdb_id": 533040, "title": "Planeta Zara", "original_title": "Planeta Zara", "slug_title": "planeta-zara", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n7p7Ij7k5CgKQJXAZTdb8Bhj1Au.jpg", "actors": [], "comments": [], "recommandations_id": []}

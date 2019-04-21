@@ -1,0 +1,1 @@
+{"tmdb_id": 312764, "title": "Cirkusrevyen 2014", "original_title": "Cirkusrevyen 2014", "slug_title": "cirkusrevyen-2014", "date": "2014-11-20", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/II1AG2CIWZgv7wbcxQgPh9AG9m.jpg", "actors": [], "comments": [], "recommandations_id": []}

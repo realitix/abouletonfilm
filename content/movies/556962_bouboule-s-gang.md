@@ -1,0 +1,1 @@
+{"tmdb_id": 556962, "title": "Bouboule's Gang", "original_title": "La bande \u00e0 Bouboule", "slug_title": "bouboule-s-gang", "date": "1931-12-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

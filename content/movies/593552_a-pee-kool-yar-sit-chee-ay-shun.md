@@ -1,0 +1,1 @@
+{"tmdb_id": 593552, "title": "A Pee-kool-yar Sit-chee-ay-shun", "original_title": "A Pee-kool-yar Sit-chee-ay-shun", "slug_title": "a-pee-kool-yar-sit-chee-ay-shun", "date": "1944-07-26", "genre": "Animation / Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

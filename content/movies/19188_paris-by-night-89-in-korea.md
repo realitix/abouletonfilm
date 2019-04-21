@@ -1,0 +1,1 @@
+{"tmdb_id": 19188, "title": "Paris by Night 89: In Korea", "original_title": "Paris by Night 89: In Korea", "slug_title": "paris-by-night-89-in-korea", "date": "2007-06-30", "genre": "Musique", "score": "4.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hkX8qRNw7o7jUy7UMEV6WQhxocm.jpg", "actors": [], "comments": [], "recommandations_id": []}

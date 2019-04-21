@@ -1,0 +1,1 @@
+{"tmdb_id": 223268, "title": "The Sea Wolf", "original_title": "The Sea Wolf", "slug_title": "the-sea-wolf", "date": "1997-01-01", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2KFyzIZZXWAhm9JDNeBtdeEJwqu.jpg", "actors": ["Stacy Keach ()", "Jaason Simmons ()"], "comments": [], "recommandations_id": []}

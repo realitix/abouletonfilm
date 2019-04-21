@@ -1,0 +1,1 @@
+{"tmdb_id": 275878, "title": "Joseph Stalin: Red Terror", "original_title": "Joseph Stalin: Red Terror", "slug_title": "joseph-stalin-red-terror", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

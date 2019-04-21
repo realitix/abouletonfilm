@@ -1,0 +1,1 @@
+{"tmdb_id": 420387, "title": "Homeless Diaries", "original_title": "Homeless Diaries", "slug_title": "homeless-diaries", "date": "1996-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

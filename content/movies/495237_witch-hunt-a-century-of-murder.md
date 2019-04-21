@@ -1,0 +1,1 @@
+{"tmdb_id": 495237, "title": "Witch Hunt: A Century of Murder", "original_title": "Witch Hunt: A Century of Murder", "slug_title": "witch-hunt-a-century-of-murder", "date": "", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Suzannah Lipscomb ()"], "comments": [], "recommandations_id": []}

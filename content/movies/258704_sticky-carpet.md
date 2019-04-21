@@ -1,0 +1,1 @@
+{"tmdb_id": 258704, "title": "Sticky Carpet", "original_title": "Sticky Carpet", "slug_title": "sticky-carpet", "date": "2006-07-28", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/twaZMiUPD5OAdQejSikc2vTKEgC.jpg", "actors": [], "comments": [], "recommandations_id": []}

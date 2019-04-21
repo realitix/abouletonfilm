@@ -1,0 +1,1 @@
+{"tmdb_id": 480395, "title": "Dirtbags", "original_title": "Dirtbags", "slug_title": "dirtbags", "date": "2014-01-26", "genre": "Drame / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kgHFyEYN3W3KhuM7SUWVzAEHk21.jpg", "actors": [], "comments": [], "recommandations_id": []}

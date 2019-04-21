@@ -1,0 +1,1 @@
+{"tmdb_id": 513769, "title": "Mind Games", "original_title": "Mind Games", "slug_title": "mind-games", "date": "1998-04-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8bzPiVIedfFQ3zTr7oYP7Yvoukg.jpg", "actors": [], "comments": [], "recommandations_id": []}

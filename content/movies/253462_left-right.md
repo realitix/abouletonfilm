@@ -1,0 +1,1 @@
+{"tmdb_id": 253462, "title": "Left/Right", "original_title": "Left/Right", "slug_title": "left-right", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jRM75mPzcjre0JlluPQE5Tx7LF.jpg", "actors": [], "comments": [], "recommandations_id": []}

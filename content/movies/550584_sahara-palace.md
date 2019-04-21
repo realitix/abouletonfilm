@@ -1,0 +1,1 @@
+{"tmdb_id": 550584, "title": "Sahara Palace", "original_title": "Sahara Palace", "slug_title": "sahara-palace", "date": "2018-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bnkkNl3GoX8Xvg9qJT06fjzdzJt.jpg", "actors": [], "comments": [], "recommandations_id": []}

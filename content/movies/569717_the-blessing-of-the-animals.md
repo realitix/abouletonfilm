@@ -1,0 +1,1 @@
+{"tmdb_id": 569717, "title": "The Blessing of the Animals", "original_title": "The Blessing of the Animals", "slug_title": "the-blessing-of-the-animals", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

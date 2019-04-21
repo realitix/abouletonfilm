@@ -1,0 +1,1 @@
+{"tmdb_id": 531229, "title": "Son G\u00f6kt\u00fcrk", "original_title": "Son G\u00f6kt\u00fcrk", "slug_title": "son-gokturk", "date": "2025-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iuk8tKnme2qjFB0wHTaCqJbGuhf.jpg", "actors": [], "comments": [], "recommandations_id": []}

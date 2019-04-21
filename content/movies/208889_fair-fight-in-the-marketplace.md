@@ -1,0 +1,1 @@
+{"tmdb_id": 208889, "title": "Fair Fight in the Marketplace", "original_title": "Fair Fight in the Marketplace", "slug_title": "fair-fight-in-the-marketplace", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

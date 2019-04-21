@@ -1,0 +1,1 @@
+{"tmdb_id": 313198, "title": "Sex & Love: What's a Teenager to Do?", "original_title": "Sex & Love: What's a Teenager to Do?", "slug_title": "sex-love-what-s-a-teenager-to-do", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

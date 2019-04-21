@@ -1,0 +1,1 @@
+{"tmdb_id": 572793, "title": "Best Friends", "original_title": "Best Friends", "slug_title": "best-friends", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sumati Patil ()", "Dravya Shetty ()"], "comments": [], "recommandations_id": []}

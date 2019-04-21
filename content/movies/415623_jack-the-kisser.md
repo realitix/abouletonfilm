@@ -1,0 +1,1 @@
+{"tmdb_id": 415623, "title": "Jack the Kisser", "original_title": "Jack the Kisser", "slug_title": "jack-the-kisser", "date": "1907-10-19", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

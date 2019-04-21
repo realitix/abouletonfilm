@@ -1,0 +1,1 @@
+{"tmdb_id": 293712, "title": "Yenan and the Eighth Route Army", "original_title": "Yenan ho Ba Lu Chun", "slug_title": "yenan-and-the-eighth-route-army", "date": "1939-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

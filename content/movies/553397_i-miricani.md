@@ -1,0 +1,1 @@
+{"tmdb_id": 553397, "title": "I Miricani", "original_title": "I Miricani", "slug_title": "i-miricani", "date": "2018-10-13", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

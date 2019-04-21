@@ -1,0 +1,1 @@
+{"tmdb_id": 454335, "title": "Hamlet in Palestine", "original_title": "Hamlet en Palestine", "slug_title": "hamlet-in-palestine", "date": "2013-07-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Thomas Ostermeier (Himself)"], "comments": [], "recommandations_id": []}

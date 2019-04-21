@@ -1,0 +1,1 @@
+{"tmdb_id": 467882, "title": "Rakthavira", "original_title": "Rakthavira", "slug_title": "rakthavira", "date": "1994-01-01", "genre": "Animation", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kiHkH8ykvlY4rMqJdz3yG2R7ADZ.jpg", "actors": ["Debbie Harry (Narrator (voice))"], "comments": [], "recommandations_id": []}

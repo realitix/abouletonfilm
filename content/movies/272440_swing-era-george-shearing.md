@@ -1,0 +1,1 @@
+{"tmdb_id": 272440, "title": "Swing Era: George Shearing", "original_title": "Swing Era: George Shearing", "slug_title": "swing-era-george-shearing", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

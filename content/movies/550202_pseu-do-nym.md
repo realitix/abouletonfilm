@@ -1,0 +1,1 @@
+{"tmdb_id": 550202, "title": "pseu\u00b7do\u00b7nym", "original_title": "pseu\u00b7do\u00b7nym", "slug_title": "pseu-do-nym", "date": "2018-09-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4M2zyI9fn6pIOLmlxVlQqRxMAC4.jpg", "actors": ["M.O.E. (The Man)"], "comments": [], "recommandations_id": []}

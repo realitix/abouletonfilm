@@ -1,0 +1,1 @@
+{"tmdb_id": 231944, "title": "Shooting the Chutes, Luna Park", "original_title": "Shooting the Chutes, Luna Park", "slug_title": "shooting-the-chutes-luna-park", "date": "1903-07-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

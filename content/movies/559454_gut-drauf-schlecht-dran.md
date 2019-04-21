@@ -1,0 +1,1 @@
+{"tmdb_id": 559454, "title": "Gut drauf, schlecht dran", "original_title": "Gut drauf, schlecht dran", "slug_title": "gut-drauf-schlecht-dran", "date": "1994-02-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 282585, "title": "C.B.I. Shiva", "original_title": "C.B.I. Shiva", "slug_title": "c-b-i-shiva", "date": "1991-07-18", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Prabhakar ()", "Ramesh Aravind ()", "Jaggesh ()", "Tara ()", "Shruti ()"], "comments": [], "recommandations_id": []}

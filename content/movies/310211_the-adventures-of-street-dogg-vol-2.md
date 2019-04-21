@@ -1,0 +1,1 @@
+{"tmdb_id": 310211, "title": "The Adventures of Street Dogg: Vol. 2", "original_title": "The Adventures of Street Dogg: Vol. 2", "slug_title": "the-adventures-of-street-dogg-vol-2", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

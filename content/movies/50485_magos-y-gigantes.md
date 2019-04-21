@@ -1,0 +1,1 @@
+{"tmdb_id": 50485, "title": "Magos y Gigantes", "original_title": "Magos y Gigantes", "slug_title": "magos-y-gigantes", "date": "2003-01-01", "genre": "Familial / Animation / Fantastique", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wcwfkzdF4yxSQeJJuwdIBr3xWg2.jpg", "actors": [], "comments": [], "recommandations_id": []}

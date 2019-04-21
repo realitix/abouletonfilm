@@ -1,0 +1,1 @@
+{"tmdb_id": 582646, "title": "Silent Chaser Kagami", "original_title": "SILENT CHASER \u72e9\u795e", "slug_title": "silent-chaser-kagami", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f8mVQ36czT8UftxGV2mmPErP3x6.jpg", "actors": [], "comments": [], "recommandations_id": []}

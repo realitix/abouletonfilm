@@ -1,0 +1,1 @@
+{"tmdb_id": 358221, "title": "Meet Me Down at Coney Isle", "original_title": "Meet Me Down at Coney Isle", "slug_title": "meet-me-down-at-coney-isle", "date": "1930-09-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

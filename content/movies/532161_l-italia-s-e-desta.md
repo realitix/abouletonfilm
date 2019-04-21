@@ -1,0 +1,1 @@
+{"tmdb_id": 532161, "title": "L'Italia s'\u00e8 desta", "original_title": "L'Italia s'\u00e8 desta", "slug_title": "l-italia-s-e-desta", "date": "1927-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 186846, "title": "Notes for a Film in India", "original_title": "Notes for a Film in India", "slug_title": "notes-for-a-film-in-india", "date": "1968-04-17", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a3dLBg37qH4h7OPzI6oFYKzrjCX.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 317665, "title": "Dance Moms Christmas Special", "original_title": "Dance Moms Christmas Special", "slug_title": "dance-moms-christmas-special", "date": "2013-12-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

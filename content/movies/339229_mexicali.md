@@ -1,0 +1,1 @@
+{"tmdb_id": 339229, "title": "Mexicali", "original_title": "Mexicali", "slug_title": "mexicali", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pntrlPk4zAwce6CCj8A6Oin7H3A.jpg", "actors": [], "comments": [], "recommandations_id": []}

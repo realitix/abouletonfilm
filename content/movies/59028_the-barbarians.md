@@ -1,0 +1,1 @@
+{"tmdb_id": 59028, "title": "The Barbarians", "original_title": "Il Sacco di Roma", "slug_title": "the-barbarians", "date": "1955-08-12", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2YZw5RlDfbhzPI8hWcRSZBDhdBp.jpg", "actors": [], "comments": [], "recommandations_id": []}

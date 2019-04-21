@@ -1,0 +1,1 @@
+{"tmdb_id": 104857, "title": "37 Uses for a Dead Sheep", "original_title": "37 Uses for a Dead Sheep", "slug_title": "37-uses-for-a-dead-sheep", "date": "2006-06-08", "genre": "Documentaire", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2tU2Ra6lQw8p3eZr11bSdQQnKDa.jpg", "actors": [], "comments": [], "recommandations_id": []}

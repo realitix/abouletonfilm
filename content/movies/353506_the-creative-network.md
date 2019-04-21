@@ -1,0 +1,1 @@
+{"tmdb_id": 353506, "title": "The Creative Network", "original_title": "The Creative Network", "slug_title": "the-creative-network", "date": "2016-03-01", "genre": "Aventure / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Marc Litz (Himself)"], "comments": [], "recommandations_id": []}

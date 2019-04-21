@@ -1,0 +1,1 @@
+{"tmdb_id": 371092, "title": "Mission Third Planet: Creatures of the Land", "original_title": "Mission Third Planet: Creatures of the Land", "slug_title": "mission-third-planet-creatures-of-the-land", "date": "", "genre": "Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

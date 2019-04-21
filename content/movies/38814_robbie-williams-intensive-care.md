@@ -1,0 +1,1 @@
+{"tmdb_id": 38814, "title": "Robbie Williams: Intensive Care", "original_title": "Robbie Williams: Intensive Care", "slug_title": "robbie-williams-intensive-care", "date": "2005-10-19", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

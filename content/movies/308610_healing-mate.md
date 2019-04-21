@@ -1,0 +1,1 @@
+{"tmdb_id": 308610, "title": "Healing Mate", "original_title": "\ud790\ub9c1 \uba54\uc774\ud2b8", "slug_title": "healing-mate", "date": "2014-11-01", "genre": "", "score": "4.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uKca9ZUY8KQSxvUkQUwHfEBcwuZ.jpg", "actors": ["Jin Hye-kyeong ()", "Eom Ji hye ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 86020, "title": "Mosley vs. Cotto", "original_title": "Mosley vs. Cotto", "slug_title": "mosley-vs-cotto", "date": "2007-11-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cxzcL4YPVIRYHkgwr2ZRHB5RZDR.jpg", "actors": [], "comments": [], "recommandations_id": []}

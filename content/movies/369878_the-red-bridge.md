@@ -1,0 +1,1 @@
+{"tmdb_id": 369878, "title": "The Red Bridge", "original_title": "Le pont rouge", "slug_title": "the-red-bridge", "date": "1992-08-06", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

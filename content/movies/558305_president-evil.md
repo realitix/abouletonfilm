@@ -1,0 +1,1 @@
+{"tmdb_id": 558305, "title": "President Evil", "original_title": "President Evil", "slug_title": "president-evil", "date": "2018-10-18", "genre": "Horreur", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/epXKHKtqlKGL96oJLzz9Bs6Nf9d.jpg", "actors": [], "comments": [], "recommandations_id": []}

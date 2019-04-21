@@ -1,0 +1,1 @@
+{"tmdb_id": 307999, "title": "Prema Yuddham", "original_title": "Prema Yuddham", "slug_title": "prema-yuddham", "date": "1990-03-23", "genre": "Action", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Amala Akkineni ()", "Nagarjuna Akkineni ()", "Giri Babu ()", "Mohan Babu ()"], "comments": [], "recommandations_id": []}

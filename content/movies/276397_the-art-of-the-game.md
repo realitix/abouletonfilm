@@ -1,0 +1,1 @@
+{"tmdb_id": 276397, "title": "The Art of the Game", "original_title": "The Art of the Game", "slug_title": "the-art-of-the-game", "date": "2014-05-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aWfeWZPs2vrZikZD2dPU84RZ9or.jpg", "actors": [], "comments": [], "recommandations_id": []}

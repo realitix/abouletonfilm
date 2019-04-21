@@ -1,0 +1,1 @@
+{"tmdb_id": 308284, "title": "Pravarakyudu", "original_title": "Pravarakyudu", "slug_title": "pravarakyudu", "date": "2009-12-04", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xNHb9NUWLm4LvPeWwXVgPC2WwH9.jpg", "actors": [], "comments": [], "recommandations_id": []}

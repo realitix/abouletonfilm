@@ -1,0 +1,1 @@
+{"tmdb_id": 276962, "title": "Completely Christ's: Mother Teresa", "original_title": "Completely Christ's: Mother Teresa", "slug_title": "completely-christ-s-mother-teresa", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

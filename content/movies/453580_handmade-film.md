@@ -1,0 +1,1 @@
+{"tmdb_id": 453580, "title": "Handmade Film", "original_title": "Handmade Film", "slug_title": "handmade-film", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

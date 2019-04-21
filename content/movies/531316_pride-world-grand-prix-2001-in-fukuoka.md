@@ -1,0 +1,1 @@
+{"tmdb_id": 531316, "title": "Pride World Grand Prix 2001 in Fukuoka", "original_title": "Pride World Grand Prix 2001 in Fukuoka", "slug_title": "pride-world-grand-prix-2001-in-fukuoka", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

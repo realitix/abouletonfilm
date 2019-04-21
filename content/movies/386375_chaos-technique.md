@@ -1,0 +1,1 @@
+{"tmdb_id": 386375, "title": "Chaos Technique", "original_title": "Chaos Technique", "slug_title": "chaos-technique", "date": "1998-03-08", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Patrick Catalifo ()", "Isabelle G\u00e9linas ()", "Didier B\u00e9nureau ()"], "comments": [], "recommandations_id": []}

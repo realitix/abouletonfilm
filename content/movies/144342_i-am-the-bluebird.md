@@ -1,0 +1,1 @@
+{"tmdb_id": 144342, "title": "I Am the Bluebird", "original_title": "I Am the Bluebird", "slug_title": "i-am-the-bluebird", "date": "2009-04-07", "genre": "Science-Fiction / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tone Bell (Philip)"], "comments": [], "recommandations_id": []}

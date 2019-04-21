@@ -1,0 +1,1 @@
+{"tmdb_id": 388065, "title": "Influence", "original_title": "Influencia", "slug_title": "influence", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wLLuvTlOsC7aQaWbxN4cpqjSnMJ.jpg", "actors": ["Marco Zapata (Brando)", "Rodolfo Palacios (Negro)"], "comments": [], "recommandations_id": []}

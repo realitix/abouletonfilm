@@ -1,0 +1,1 @@
+{"tmdb_id": 355276, "title": "Plastic and Glass", "original_title": "Plastic and Glass", "slug_title": "plastic-and-glass", "date": "2009-08-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

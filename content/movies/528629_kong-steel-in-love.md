@@ -1,0 +1,1 @@
+{"tmdb_id": 528629, "title": "KONG: STEEL IN LOVE", "original_title": "KONG: STEEL IN LOVE", "slug_title": "kong-steel-in-love", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

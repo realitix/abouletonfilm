@@ -1,0 +1,1 @@
+{"tmdb_id": 315648, "title": "Guerra de Cholos", "original_title": "Guerra de Cholos", "slug_title": "guerra-de-cholos", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

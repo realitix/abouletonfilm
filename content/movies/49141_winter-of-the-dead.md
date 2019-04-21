@@ -1,0 +1,1 @@
+{"tmdb_id": 49141, "title": "Winter of the Dead", "original_title": "Kuolleiden talvi", "slug_title": "winter-of-the-dead", "date": "2005-05-19", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

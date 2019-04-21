@@ -1,0 +1,1 @@
+{"tmdb_id": 321418, "title": "Battle's Poison Cloud", "original_title": "Battle's Poison Cloud", "slug_title": "battle-s-poison-cloud", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

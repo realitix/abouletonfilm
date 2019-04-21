@@ -1,0 +1,1 @@
+{"tmdb_id": 349669, "title": "\uc601\uad6c\uc640 \uacf5\ub8e1 \ucbb8\ucbb8", "original_title": "\uc601\uad6c\uc640 \uacf5\ub8e1 \ucbb8\ucbb8", "slug_title": "yeongguwa-gongryong-jjyujjyu", "date": "1993-07-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

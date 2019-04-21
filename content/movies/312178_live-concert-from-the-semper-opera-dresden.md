@@ -1,0 +1,1 @@
+{"tmdb_id": 312178, "title": "Live Concert from the Semper Opera, Dresden", "original_title": "Live Concert from the Semper Opera, Dresden", "slug_title": "live-concert-from-the-semper-opera-dresden", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

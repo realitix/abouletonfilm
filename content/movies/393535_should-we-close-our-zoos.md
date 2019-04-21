@@ -1,0 +1,1 @@
+{"tmdb_id": 393535, "title": "Should We Close Our Zoos", "original_title": "Should We Close Our Zoos", "slug_title": "should-we-close-our-zoos", "date": "2016-04-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Liz Bonnin (Herself)"], "comments": [], "recommandations_id": []}

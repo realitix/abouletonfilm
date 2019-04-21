@@ -1,0 +1,1 @@
+{"tmdb_id": 497063, "title": "Super Fungi", "original_title": "Super Fungi", "slug_title": "super-fungi", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dhKza9oxhSz2PpeGAIrQP5m8Beh.jpg", "actors": [], "comments": [], "recommandations_id": []}

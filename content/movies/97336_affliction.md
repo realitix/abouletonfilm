@@ -1,0 +1,1 @@
+{"tmdb_id": 97336, "title": "Affliction", "original_title": "Affliction", "slug_title": "affliction", "date": "2011-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cUqW0XO8d4CovwkN6wWinSYkpje.jpg", "actors": ["Abigail Culwell (Sara)", "John Charles Meyer (Freckles)"], "comments": [], "recommandations_id": []}

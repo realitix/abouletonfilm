@@ -1,0 +1,1 @@
+{"tmdb_id": 540355, "title": "Rocambole", "original_title": "Rocambole", "slug_title": "rocambole", "date": "1933-01-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t5J29Hl3odUgt0xl0GhP9tofRZ.jpg", "actors": ["Rolla Norman (Rocambole)", "Jim G\u00e9rald ()"], "comments": [], "recommandations_id": []}

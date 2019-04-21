@@ -1,0 +1,1 @@
+{"tmdb_id": 442144, "title": "Bilddokumente Zur Geschichte des Films", "original_title": "Bilddokumente Zur Geschichte des Films", "slug_title": "bilddokumente-zur-geschichte-des-films", "date": "1970-01-02", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

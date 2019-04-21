@@ -1,0 +1,1 @@
+{"tmdb_id": 432935, "title": "Halimuhfack", "original_title": "Halimuhfack", "slug_title": "halimuhfack", "date": "2016-11-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

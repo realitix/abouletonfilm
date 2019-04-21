@@ -1,0 +1,1 @@
+{"tmdb_id": 255146, "title": "Kingu gemu", "original_title": "KING GAME", "slug_title": "kingu-gemu", "date": "2010-08-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3vC4CFkIJJTvzoO7HVYMoV9EO35.jpg", "actors": ["Sei Ashina (Chekov)"], "comments": [], "recommandations_id": []}

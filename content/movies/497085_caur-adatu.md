@@ -1,0 +1,1 @@
+{"tmdb_id": 497085, "title": "Caur adatu", "original_title": "Caur adatu", "slug_title": "caur-adatu", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k5S4Ue8TDB4RTNJj6pR0wa9epyR.jpg", "actors": [], "comments": [], "recommandations_id": []}

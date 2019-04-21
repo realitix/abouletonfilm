@@ -1,0 +1,1 @@
+{"tmdb_id": 496266, "title": "Solving My Mother", "original_title": "Dotais lielums: Mana m\u0101te", "slug_title": "solving-my-mother", "date": "2018-01-04", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1N7DC1dtVE5pLFyerUV4K8Z5Ubr.jpg", "actors": [], "comments": [], "recommandations_id": []}

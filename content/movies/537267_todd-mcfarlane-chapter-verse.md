@@ -1,0 +1,1 @@
+{"tmdb_id": 537267, "title": "Todd McFarlane: Chapter & Verse", "original_title": "Todd McFarlane: Chapter & Verse", "slug_title": "todd-mcfarlane-chapter-verse", "date": "1998-01-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Todd McFarlane (Himself)"], "comments": [], "recommandations_id": []}

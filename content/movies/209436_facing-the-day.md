@@ -1,0 +1,1 @@
+{"tmdb_id": 209436, "title": "Facing the Day", "original_title": "\u0160to sa sobom preko dana", "slug_title": "facing-the-day", "date": "2006-04-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cbBdUIofZNYOdCEe1KbEKhtziwR.jpg", "actors": [], "comments": [], "recommandations_id": []}

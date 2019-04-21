@@ -1,0 +1,1 @@
+{"tmdb_id": 356924, "title": "El Papa del fin del mundo", "original_title": "El Papa del fin del mundo", "slug_title": "el-papa-del-fin-del-mundo", "date": "2013-08-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

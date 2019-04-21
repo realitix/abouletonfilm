@@ -1,0 +1,1 @@
+{"tmdb_id": 303723, "title": "The World of Robert Abel", "original_title": "The World of Robert Abel", "slug_title": "the-world-of-robert-abel", "date": "1985-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sHaF5zE6McBG2J5Rjnh1DifT3NW.jpg", "actors": ["Robert Abel (self)"], "comments": [], "recommandations_id": []}

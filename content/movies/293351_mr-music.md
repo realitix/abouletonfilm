@@ -1,0 +1,1 @@
+{"tmdb_id": 293351, "title": "Mr. Music", "original_title": "Mr. Music", "slug_title": "mr-music", "date": "1998-03-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jonathan Tucker ()", "Mick Fleetwood ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 348292, "title": "Efeito Casimiro", "original_title": "Efeito Casimiro", "slug_title": "efeito-casimiro", "date": "2013-08-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uMhlOoA0un2ksp8aNqoAkqQCxAI.jpg", "actors": [], "comments": [], "recommandations_id": []}

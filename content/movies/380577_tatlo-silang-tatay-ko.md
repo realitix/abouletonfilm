@@ -1,0 +1,1 @@
+{"tmdb_id": 380577, "title": "Tatlo Silang Tatay Ko", "original_title": "Tatlo Silang Tatay Ko", "slug_title": "tatlo-silang-tatay-ko", "date": "1982-12-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xh3sF7uN6ICOuEu4GN8AMxWe8aE.jpg", "actors": [], "comments": [], "recommandations_id": []}

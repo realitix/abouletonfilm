@@ -1,0 +1,1 @@
+{"tmdb_id": 491293, "title": "Maurizio Pollini: De Main De Ma\u00eetre", "original_title": "Maurizio Pollini: De Main De Ma\u00eetre", "slug_title": "maurizio-pollini-de-main-de-maitre", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

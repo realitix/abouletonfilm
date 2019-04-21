@@ -1,0 +1,1 @@
+{"tmdb_id": 200612, "title": "Rabid Hunters", "original_title": "Rabid Hunters", "slug_title": "rabid-hunters", "date": "1932-02-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fbeskMmPXNXOWli4dyAtN1ctcJF.jpg", "actors": [], "comments": [], "recommandations_id": []}

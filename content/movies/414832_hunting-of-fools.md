@@ -1,0 +1,1 @@
+{"tmdb_id": 414832, "title": "Hunting of Fools", "original_title": "\ubc14\ubcf4\uc0ac\ub0e5", "slug_title": "hunting-of-fools", "date": "1984-12-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oyH1oXL98o6M4JOPghhRsI7LvX6.jpg", "actors": [], "comments": [], "recommandations_id": []}

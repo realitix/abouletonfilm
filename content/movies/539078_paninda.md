@@ -1,0 +1,1 @@
+{"tmdb_id": 539078, "title": "Paninda", "original_title": "Paninda", "slug_title": "paninda", "date": "2001-07-04", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A3NSi2YO8mLLNy781U8dR4uPYpa.jpg", "actors": ["Pyar Mirasol ()", "Charlie Davao ()"], "comments": [], "recommandations_id": []}

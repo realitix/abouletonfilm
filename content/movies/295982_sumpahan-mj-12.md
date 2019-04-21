@@ -1,0 +1,1 @@
+{"tmdb_id": 295982, "title": "Sumpahan MJ 12", "original_title": "Sumpahan MJ 12", "slug_title": "sumpahan-mj-12", "date": "2014-07-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wCRlMQSlqGbUfKDZURDHsYFXbXo.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 55743, "title": "A Boring Afternoon", "original_title": "F\u00e1dn\u00ed odpoledne", "slug_title": "a-boring-afternoon", "date": "1964-01-01", "genre": "Drame / Com\u00e9die", "score": "6.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zcASaB7cOQioKcnoBoeoP7purcv.jpg", "actors": [], "comments": [], "recommandations_id": []}

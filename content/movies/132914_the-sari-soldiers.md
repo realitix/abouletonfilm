@@ -1,0 +1,1 @@
+{"tmdb_id": 132914, "title": "The Sari Soldiers", "original_title": "The Sari Soldiers", "slug_title": "the-sari-soldiers", "date": "2008-03-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f7tHWOBSPExyB8FJRpiuFZpMG5Z.jpg", "actors": [], "comments": [], "recommandations_id": []}

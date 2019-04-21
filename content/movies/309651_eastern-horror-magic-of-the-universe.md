@@ -1,0 +1,1 @@
+{"tmdb_id": 309651, "title": "Eastern Horror: Magic of the Universe", "original_title": "Eastern Horror: Magic of the Universe", "slug_title": "eastern-horror-magic-of-the-universe", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

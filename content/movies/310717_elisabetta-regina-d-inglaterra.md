@@ -1,0 +1,1 @@
+{"tmdb_id": 310717, "title": "Elisabetta Regina D'Inglaterra", "original_title": "Elisabetta Regina D'Inglaterra", "slug_title": "elisabetta-regina-d-inglaterra", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

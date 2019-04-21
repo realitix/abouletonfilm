@@ -1,0 +1,1 @@
+{"tmdb_id": 368069, "title": "Solveig", "original_title": "Solveig", "slug_title": "solveig", "date": "2006-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kFRXAIX8RNPAFRHQ1H4Ravj1Rzj.jpg", "actors": ["Bronwen Loshak (Solveig)", "Martin Ammitsb\u00f8l (Richard)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 590914, "title": "Como todo el mundo", "original_title": "Como todo el mundo", "slug_title": "como-todo-el-mundo", "date": "2007-03-26", "genre": "Drame", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Marcela Valencia (Pablo's mother)"], "comments": [], "recommandations_id": []}

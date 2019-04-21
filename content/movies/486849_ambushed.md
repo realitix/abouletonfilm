@@ -1,0 +1,1 @@
+{"tmdb_id": 486849, "title": "Ambushed", "original_title": "Ambushed", "slug_title": "ambushed", "date": "1988-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Innocent Gumede ()", "Kay Magubane ()", "Hector Manthanda ()"], "comments": [], "recommandations_id": []}

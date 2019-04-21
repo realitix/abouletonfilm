@@ -1,0 +1,1 @@
+{"tmdb_id": 521484, "title": "Black Memorabilia", "original_title": "Black Memorabilia", "slug_title": "black-memorabilia", "date": "2018-02-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vRPoa0ua8JcgUaRYNhbHCQ87DY9.jpg", "actors": [], "comments": [], "recommandations_id": []}

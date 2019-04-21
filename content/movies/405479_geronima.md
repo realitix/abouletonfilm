@@ -1,0 +1,1 @@
+{"tmdb_id": 405479, "title": "Ger\u00f3nima", "original_title": "Ger\u00f3nima", "slug_title": "geronima", "date": "1986-11-27", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i4kpAuc1x6kNnXVezwmxjDCgtCd.jpg", "actors": [], "comments": [], "recommandations_id": []}

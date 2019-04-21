@@ -1,0 +1,1 @@
+{"tmdb_id": 314620, "title": "Rock on Bones", "original_title": "Rock on Bones", "slug_title": "rock-on-bones", "date": "2014-10-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 531634, "title": "Pick It Up! - Ska in the '90s", "original_title": "Pick It Up! - Ska in the '90s", "slug_title": "pick-it-up-ska-in-the-90s", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

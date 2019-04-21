@@ -1,0 +1,1 @@
+{"tmdb_id": 327108, "title": "Cerro rico, tierra rica", "original_title": "Cerro rico, tierra rica", "slug_title": "cerro-rico-tierra-rica", "date": "2012-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

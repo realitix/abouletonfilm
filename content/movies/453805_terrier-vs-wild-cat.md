@@ -1,0 +1,1 @@
+{"tmdb_id": 453805, "title": "Terrier vs. Wild Cat", "original_title": "Terrier vs. Wild Cat", "slug_title": "terrier-vs-wild-cat", "date": "1906-04-22", "genre": "", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

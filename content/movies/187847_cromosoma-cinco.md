@@ -1,0 +1,1 @@
+{"tmdb_id": 187847, "title": "Cromosoma Cinco", "original_title": "Cromosoma Cinco", "slug_title": "cromosoma-cinco", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lwYwPA6fJsKqmI8TvFlWW9qIAXw.jpg", "actors": [], "comments": [], "recommandations_id": []}

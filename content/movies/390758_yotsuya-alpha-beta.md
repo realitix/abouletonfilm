@@ -1,0 +1,1 @@
+{"tmdb_id": 390758, "title": "Yotsuya Alpha Beta", "original_title": "\u56db\u30c3\u8c37\u3044\u308d\u306f", "slug_title": "yotsuya-alpha-beta", "date": "2010-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wXzSMt17RJhEvYqwqW2ai0kYDKQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

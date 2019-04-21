@@ -1,0 +1,1 @@
+{"tmdb_id": 347006, "title": "The Magus", "original_title": "The Magus", "slug_title": "the-magus", "date": "2011-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uhaBEPacfTNfURkLq21sgDhZ0sx.jpg", "actors": [], "comments": [], "recommandations_id": []}

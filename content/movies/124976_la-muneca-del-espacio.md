@@ -1,0 +1,1 @@
+{"tmdb_id": 124976, "title": "La mu\u00f1eca del espacio", "original_title": "La mu\u00f1eca del espacio", "slug_title": "la-muneca-del-espacio", "date": "2007-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2wKaPfuLJtzN2Kbd25426S5B4jH.jpg", "actors": [], "comments": [], "recommandations_id": []}

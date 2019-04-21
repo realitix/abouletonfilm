@@ -1,0 +1,1 @@
+{"tmdb_id": 267663, "title": "Maradona \u00e0 Naples", "original_title": "Maradona \u00e0 Naples", "slug_title": "maradona-a-naples", "date": "1994-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n6KelZYDw6LtjbdKhlJUZsSdpms.jpg", "actors": [], "comments": [], "recommandations_id": []}

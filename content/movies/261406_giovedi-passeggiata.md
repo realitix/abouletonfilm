@@ -1,0 +1,1 @@
+{"tmdb_id": 261406, "title": "Giovedi : passeggiata", "original_title": "Giovedi: passeggiata", "slug_title": "giovedi-passeggiata", "date": "1961-03-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

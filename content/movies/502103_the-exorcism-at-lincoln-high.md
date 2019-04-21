@@ -1,0 +1,1 @@
+{"tmdb_id": 502103, "title": "The Exorcism at Lincoln High", "original_title": "The Exorcism at Lincoln High", "slug_title": "the-exorcism-at-lincoln-high", "date": "", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

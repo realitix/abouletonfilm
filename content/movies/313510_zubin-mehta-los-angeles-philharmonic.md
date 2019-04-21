@@ -1,0 +1,1 @@
+{"tmdb_id": 313510, "title": "Zubin Mehta: Los Angeles Philharmonic", "original_title": "Zubin Mehta: Los Angeles Philharmonic", "slug_title": "zubin-mehta-los-angeles-philharmonic", "date": "1977-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

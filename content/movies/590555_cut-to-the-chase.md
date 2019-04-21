@@ -1,0 +1,1 @@
+{"tmdb_id": 590555, "title": "Cut to the Chase", "original_title": "Cut to the Chase", "slug_title": "cut-to-the-chase", "date": "2015-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/G2pnTcq27mgUcuYZyIZZSqj1OP.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 532031, "title": "The Three Cornered Hat", "original_title": "The Three Cornered Hat", "slug_title": "the-three-cornered-hat", "date": "1934-09-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

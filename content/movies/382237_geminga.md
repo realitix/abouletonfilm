@@ -1,0 +1,1 @@
+{"tmdb_id": 382237, "title": "G\u00e9minga", "original_title": "G\u00e9minga", "slug_title": "geminga", "date": "2003-06-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9bMiQMQppvC3e3RfLVr0GQryhbn.jpg", "actors": [], "comments": [], "recommandations_id": []}

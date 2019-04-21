@@ -1,0 +1,1 @@
+{"tmdb_id": 388591, "title": "Beyond the Horizon", "original_title": "Moe Goke Set Wyne Ko Kyaw Lun Yeuh", "slug_title": "beyond-the-horizon", "date": "2005-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lwin Moe ()", "Yan Kyaw ()", "Tun Eaindra Bo ()", "Khine Thin Kyi ()"], "comments": [], "recommandations_id": []}

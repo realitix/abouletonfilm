@@ -1,0 +1,1 @@
+{"tmdb_id": 518520, "title": "Burned Wings", "original_title": "\u5357\u98ce", "slug_title": "burned-wings", "date": "2013-07-01", "genre": "Drame / Crime", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a1Jkm7Y7G1kmAYpPA3rQCG5XKv0.jpg", "actors": [], "comments": [], "recommandations_id": []}

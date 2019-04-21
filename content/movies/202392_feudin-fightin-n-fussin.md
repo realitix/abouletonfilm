@@ -1,0 +1,1 @@
+{"tmdb_id": 202392, "title": "Feudin Fightin-N-Fussin", "original_title": "Feudin Fightin-N-Fussin", "slug_title": "feudin-fightin-n-fussin", "date": "1968-06-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9Z2ItohyNDi5HHq3EFvRE0lVE8g.jpg", "actors": [], "comments": [], "recommandations_id": []}

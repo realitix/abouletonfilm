@@ -1,0 +1,1 @@
+{"tmdb_id": 505598, "title": "Teddy Bears Are for Lovers", "original_title": "Teddy Bears Are for Lovers", "slug_title": "teddy-bears-are-for-lovers", "date": "", "genre": "Horreur / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

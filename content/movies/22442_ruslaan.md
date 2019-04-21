@@ -1,0 +1,1 @@
+{"tmdb_id": 22442, "title": "Ruslaan", "original_title": "Ruslaan", "slug_title": "ruslaan", "date": "2009-09-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 107463, "title": "Fighting Life", "original_title": "Ji qiao ren wu", "slug_title": "fighting-life", "date": "1981-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i1GX9DVefx9axgNKXGTfiuqtUgK.jpg", "actors": ["Jackie Conn ()", "Frankie Shum ()"], "comments": [], "recommandations_id": []}

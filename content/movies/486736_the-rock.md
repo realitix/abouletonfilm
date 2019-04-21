@@ -1,0 +1,1 @@
+{"tmdb_id": 486736, "title": "The Rock", "original_title": "The Rock", "slug_title": "the-rock", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

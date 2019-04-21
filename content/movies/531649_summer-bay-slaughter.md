@@ -1,0 +1,1 @@
+{"tmdb_id": 531649, "title": "Summer Bay Slaughter", "original_title": "Summer Bay Slaughter", "slug_title": "summer-bay-slaughter", "date": "2008-06-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4z9sqP5il2S8G4aAyuFOTItyyPA.jpg", "actors": ["Ray Meagher ()"], "comments": [], "recommandations_id": []}

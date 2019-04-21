@@ -1,0 +1,1 @@
+{"tmdb_id": 562392, "title": "So You Want to Be a V.P.", "original_title": "So You Want to Be a V.P.", "slug_title": "so-you-want-to-be-a-v-p", "date": "1955-10-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["George O'Hanlon ()"], "comments": [], "recommandations_id": []}

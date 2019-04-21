@@ -1,0 +1,1 @@
+{"tmdb_id": 521425, "title": "Terra Bruciata!", "original_title": "Terra Bruciata!", "slug_title": "terra-bruciata", "date": "", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n9CrM2xwhSE4uIbhTrSynNWkKn5.jpg", "actors": [], "comments": [], "recommandations_id": []}

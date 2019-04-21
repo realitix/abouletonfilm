@@ -1,0 +1,1 @@
+{"tmdb_id": 541730, "title": "Growing Up Wild - Fuzzy Wuzzy Bears", "original_title": "Growing Up Wild - Fuzzy Wuzzy Bears", "slug_title": "growing-up-wild-fuzzy-wuzzy-bears", "date": "1992-07-09", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Paul W. Smith (Narrator)"], "comments": [], "recommandations_id": []}

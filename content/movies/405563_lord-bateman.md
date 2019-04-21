@@ -1,0 +1,1 @@
+{"tmdb_id": 405563, "title": "Lord Bateman", "original_title": "Lord Bateman", "slug_title": "lord-bateman", "date": "", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tJyo9QBUjNoOHayjcHbDOQxVqDA.jpg", "actors": ["Baby Norman ()", "Bill Oberst Jr. ()"], "comments": [], "recommandations_id": []}

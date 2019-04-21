@@ -1,0 +1,1 @@
+{"tmdb_id": 323135, "title": "Black Girl in Paris", "original_title": "Black Girl in Paris", "slug_title": "black-girl-in-paris", "date": "2013-06-01", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

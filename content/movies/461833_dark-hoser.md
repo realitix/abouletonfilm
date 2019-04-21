@@ -1,0 +1,1 @@
+{"tmdb_id": 461833, "title": "Dark Hoser", "original_title": "Dark Hoser", "slug_title": "dark-hoser", "date": "2017-06-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8t0Cvw5tmPu2n1WpsXFZUtnEIDs.jpg", "actors": [], "comments": [], "recommandations_id": []}

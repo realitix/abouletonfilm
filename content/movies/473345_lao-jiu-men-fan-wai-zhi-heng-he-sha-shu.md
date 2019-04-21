@@ -1,0 +1,1 @@
+{"tmdb_id": 473345, "title": "\u8001\u4e5d\u95e8\u756a\u5916\u4e4b\u6052\u6cb3\u6740\u6811", "original_title": "\u8001\u4e5d\u95e8\u756a\u5916\u4e4b\u6052\u6cb3\u6740\u6811", "slug_title": "lao-jiu-men-fan-wai-zhi-heng-he-sha-shu", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

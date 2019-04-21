@@ -1,0 +1,1 @@
+{"tmdb_id": 329031, "title": "Coffee House Rendezvous", "original_title": "Coffee House Rendezvous", "slug_title": "coffee-house-rendezvous", "date": "1966-01-01", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uDLCOjq36ZPR1256IZKLb7DEydK.jpg", "actors": [], "comments": [], "recommandations_id": []}

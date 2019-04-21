@@ -1,0 +1,1 @@
+{"tmdb_id": 589333, "title": "Son of Sidra", "original_title": "\u0648\u0644\u062f \u0633\u062f\u0631\u0629", "slug_title": "son-of-sidra", "date": "2019-03-24", "genre": "Drame / Myst\u00e8re", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5U07NrrbrjYbDtmgNsWc9VEzaoA.jpg", "actors": [], "comments": [], "recommandations_id": []}

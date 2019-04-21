@@ -1,0 +1,1 @@
+{"tmdb_id": 402435, "title": "cin\u00e9ma concret", "original_title": "cin\u00e9ma concret", "slug_title": "cinema-concret", "date": "2015-09-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iaxAHQSvpbHcOxRla2PgIPH3QId.jpg", "actors": [], "comments": [], "recommandations_id": []}

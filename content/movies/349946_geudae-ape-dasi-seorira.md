@@ -1,0 +1,1 @@
+{"tmdb_id": 349946, "title": "\uadf8\ub300 \uc55e\uc5d0 \ub2e4\uc2dc \uc11c\ub9ac\ub77c", "original_title": "\uadf8\ub300 \uc55e\uc5d0 \ub2e4\uc2dc \uc11c\ub9ac\ub77c", "slug_title": "geudae-ape-dasi-seorira", "date": "1981-10-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 487715, "title": "The Wings of Man", "original_title": "The Wings of Man", "slug_title": "the-wings-of-man", "date": "1971-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t4GEjPJfSkpnkYcGRluxOs32ESK.jpg", "actors": ["Orson Welles (Narrator (voice))"], "comments": [], "recommandations_id": []}

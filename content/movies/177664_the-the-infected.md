@@ -1,0 +1,1 @@
+{"tmdb_id": 177664, "title": "The The: Infected", "original_title": "The The: Infected", "slug_title": "the-the-infected", "date": "1987-01-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h1gwiJutAPg9LjKqzyYDxK9Fm9K.jpg", "actors": ["Matt Johnson (Himself)"], "comments": [], "recommandations_id": []}

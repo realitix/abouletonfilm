@@ -1,0 +1,1 @@
+{"tmdb_id": 468681, "title": "Urbance", "original_title": "Urbance", "slug_title": "urbance", "date": "2016-11-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dVLr58jg3JqY1viqJoHTgC8Iyc5.jpg", "actors": [], "comments": [], "recommandations_id": []}

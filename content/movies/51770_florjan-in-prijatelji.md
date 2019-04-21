@@ -1,0 +1,1 @@
+{"tmdb_id": 51770, "title": "Florjan in Prijatelji", "original_title": "Florjan in Prijatelji", "slug_title": "florjan-in-prijatelji", "date": "2008-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aH7HYlqiHYSS0NcPO6K7ZAxT3nj.jpg", "actors": [], "comments": [], "recommandations_id": []}

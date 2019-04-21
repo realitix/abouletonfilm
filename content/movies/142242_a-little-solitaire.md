@@ -1,0 +1,1 @@
+{"tmdb_id": 142242, "title": "A Little Solitaire", "original_title": "A Little Solitaire", "slug_title": "a-little-solitaire", "date": "2004-07-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["William Friedkin (Himself)"], "comments": [], "recommandations_id": []}

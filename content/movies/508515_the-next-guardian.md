@@ -1,0 +1,1 @@
+{"tmdb_id": 508515, "title": "The Next Guardian", "original_title": "A monostor gyermekei", "slug_title": "the-next-guardian", "date": "2018-08-23", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x43VtRCnH7tU7nlqpfYa1XddrJC.jpg", "actors": [], "comments": [], "recommandations_id": []}

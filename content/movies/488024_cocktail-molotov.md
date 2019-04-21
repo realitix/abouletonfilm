@@ -1,0 +1,1 @@
+{"tmdb_id": 488024, "title": "Cocktail Molotov", "original_title": "Cocktail Molotov", "slug_title": "cocktail-molotov", "date": "1968-11-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

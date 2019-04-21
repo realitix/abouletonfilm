@@ -1,0 +1,1 @@
+{"tmdb_id": 582880, "title": "Technoboss", "original_title": "Technoboss", "slug_title": "technoboss", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lu\u00edsa Cruz ()", "Miguel Lobo Antunes ()"], "comments": [], "recommandations_id": []}

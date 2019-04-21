@@ -1,0 +1,1 @@
+{"tmdb_id": 321655, "title": "The Modus Mix: White Knuckle Extreme", "original_title": "The Modus Mix: White Knuckle Extreme", "slug_title": "the-modus-mix-white-knuckle-extreme", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 537704, "title": "Blood Bullet", "original_title": "Blood Bullet", "slug_title": "blood-bullet", "date": "2017-05-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pFMPAdbmi3s0h1qNQZM3ATSDolo.jpg", "actors": [], "comments": [], "recommandations_id": []}

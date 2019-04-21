@@ -1,0 +1,1 @@
+{"tmdb_id": 305266, "title": "Serenity Channel - Florida", "original_title": "Serenity Channel - Florida", "slug_title": "serenity-channel-florida", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

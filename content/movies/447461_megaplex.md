@@ -1,0 +1,1 @@
+{"tmdb_id": 447461, "title": "Megaplex", "original_title": "Megaplex", "slug_title": "megaplex", "date": "2016-05-23", "genre": "Action / Animation / Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e38rNoTwMusAc3gYxJBddILoH4g.jpg", "actors": ["Michael Jackson (Himself)"], "comments": [], "recommandations_id": []}

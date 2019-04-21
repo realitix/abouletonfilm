@@ -1,0 +1,1 @@
+{"tmdb_id": 132495, "title": "Coachella", "original_title": "Coachella", "slug_title": "coachella", "date": "2006-05-09", "genre": "Documentaire / Musique", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hUQ22hYOauMq90Nmx32hzUkpxJW.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 90604, "title": "Can College 26", "original_title": "Can College 26", "slug_title": "can-college-26", "date": "2008-09-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/35RNO6kZ0tOt10JPnuRGaElIntR.jpg", "actors": ["Jun Natsumi (Herself)"], "comments": [], "recommandations_id": []}

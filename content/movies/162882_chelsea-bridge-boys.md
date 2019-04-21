@@ -1,0 +1,1 @@
+{"tmdb_id": 162882, "title": "Chelsea Bridge Boys", "original_title": "Chelsea Bridge Boys", "slug_title": "chelsea-bridge-boys", "date": "1965-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

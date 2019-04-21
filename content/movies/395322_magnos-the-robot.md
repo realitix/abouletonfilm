@@ -1,0 +1,1 @@
+{"tmdb_id": 395322, "title": "Magnos: The Robot", "original_title": "Magnos: The Robot", "slug_title": "magnos-the-robot", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sErINQ0zJPb7Ucq4aqXmxufAATo.jpg", "actors": [], "comments": [], "recommandations_id": []}

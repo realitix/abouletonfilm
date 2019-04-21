@@ -1,0 +1,1 @@
+{"tmdb_id": 552601, "title": "Playing with FIRE: The Documentary", "original_title": "Playing with FIRE: The Documentary", "slug_title": "playing-with-fire-the-documentary", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 590100, "title": "Autour du blues", "original_title": "Autour du blues", "slug_title": "autour-du-blues", "date": "", "genre": "", "score": "0.0/10", "synopsis": "Concert au Club Med World en 2001", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 543941, "title": "Chalta Purza", "original_title": "Chalta Purza", "slug_title": "chalta-purza", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

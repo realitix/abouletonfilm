@@ -1,0 +1,1 @@
+{"tmdb_id": 333006, "title": "The Ninja Way", "original_title": "The Ninja Way", "slug_title": "the-ninja-way", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tnrg8ous1HaNiNBQVtR7odYstkA.jpg", "actors": [], "comments": [], "recommandations_id": []}

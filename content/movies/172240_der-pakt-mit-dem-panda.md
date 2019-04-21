@@ -1,0 +1,1 @@
+{"tmdb_id": 172240, "title": "Der Pakt mit dem Panda", "original_title": "Der Pakt mit dem Panda", "slug_title": "der-pakt-mit-dem-panda", "date": "2011-06-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xVyUdlp1248M9EmWse7xQpPFypy.jpg", "actors": [], "comments": [], "recommandations_id": []}

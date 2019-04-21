@@ -1,0 +1,1 @@
+{"tmdb_id": 52951, "title": "The Sneetches", "original_title": "The Sneetches", "slug_title": "the-sneetches", "date": "1973-10-15", "genre": "Animation / Com\u00e9die / Familial", "score": "4.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jbeRCRBklS7UNbpLEvfLo9Aloj5.jpg", "actors": [], "comments": [], "recommandations_id": []}

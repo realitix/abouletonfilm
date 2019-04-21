@@ -1,0 +1,1 @@
+{"tmdb_id": 528647, "title": "Alias JJ, The Celebrity of Evil", "original_title": "Alias JJ, la celebridad del mal", "slug_title": "alias-jj-the-celebrity-of-evil", "date": "", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o54rqunQrNahfHiNG1SDG0TAiZp.jpg", "actors": [], "comments": [], "recommandations_id": []}

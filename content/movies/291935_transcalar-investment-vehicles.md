@@ -1,0 +1,1 @@
+{"tmdb_id": 291935, "title": "Transcalar Investment Vehicles", "original_title": "Transcalar Investment Vehicles", "slug_title": "transcalar-investment-vehicles", "date": "2014-10-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

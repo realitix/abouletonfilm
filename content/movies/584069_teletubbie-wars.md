@@ -1,0 +1,1 @@
+{"tmdb_id": 584069, "title": "Teletubbie Wars", "original_title": "Teletubbie Wars", "slug_title": "teletubbie-wars", "date": "", "genre": "Horreur / Guerre / Action", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Drew Masciarelli (Captain)", "Eric Anderson (Private)", "Ben Hopkinson (Man in Tent)"], "comments": [], "recommandations_id": []}

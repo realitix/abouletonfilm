@@ -1,0 +1,1 @@
+{"tmdb_id": 420113, "title": "Tarantella", "original_title": "Tarantella", "slug_title": "tarantella", "date": "1966-09-15", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

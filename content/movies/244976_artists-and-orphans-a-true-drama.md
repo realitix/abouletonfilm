@@ -1,0 +1,1 @@
+{"tmdb_id": 244976, "title": "Artists and Orphans: A True Drama", "original_title": "Artists and Orphans: A True Drama", "slug_title": "artists-and-orphans-a-true-drama", "date": "2002-04-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rosie O'Donnell (Narrator)"], "comments": [], "recommandations_id": []}

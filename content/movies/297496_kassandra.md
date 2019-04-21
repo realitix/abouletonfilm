@@ -1,0 +1,1 @@
+{"tmdb_id": 297496, "title": "Kassandra", "original_title": "Kassandra", "slug_title": "kassandra", "date": "2013-08-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dYmprRyKGwJvSYeBlXXc8r9B32l.jpg", "actors": [], "comments": [], "recommandations_id": []}

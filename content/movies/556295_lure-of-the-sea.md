@@ -1,0 +1,1 @@
+{"tmdb_id": 556295, "title": "Lure of the Sea", "original_title": "Les \u00e9lus de la mer", "slug_title": "lure-of-the-sea", "date": "1925-05-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

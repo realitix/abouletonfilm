@@ -1,0 +1,1 @@
+{"tmdb_id": 560075, "title": "Romantics & Realists: Rossetti", "original_title": "Romantics & Realists: Rossetti", "slug_title": "romantics-realists-rossetti", "date": "2000-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tzPoeBh9UuoM73QgwEofjW8VBoT.jpg", "actors": [], "comments": [], "recommandations_id": []}

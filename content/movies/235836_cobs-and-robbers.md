@@ -1,0 +1,1 @@
+{"tmdb_id": 235836, "title": "Cobs and Robbers", "original_title": "Cobs and Robbers", "slug_title": "cobs-and-robbers", "date": "1953-03-13", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6islzIPDVFEQNeSIzFjOkIggW4m.jpg", "actors": [], "comments": [], "recommandations_id": []}

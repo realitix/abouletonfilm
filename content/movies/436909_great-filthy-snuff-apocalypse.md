@@ -1,0 +1,1 @@
+{"tmdb_id": 436909, "title": "Great Filthy Snuff Apocalypse", "original_title": "Great Filthy Snuff Apocalypse", "slug_title": "great-filthy-snuff-apocalypse", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eInKbFFICNVXwSBNl75tzskSEcH.jpg", "actors": [], "comments": [], "recommandations_id": []}

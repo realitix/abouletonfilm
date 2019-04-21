@@ -1,0 +1,1 @@
+{"tmdb_id": 393413, "title": "El testament de Rosa", "original_title": "El testament de Rosa", "slug_title": "el-testament-de-rosa", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6ebXhbqGCsgNLBNttEhyqqKamBy.jpg", "actors": [], "comments": [], "recommandations_id": []}

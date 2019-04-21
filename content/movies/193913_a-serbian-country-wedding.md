@@ -1,0 +1,1 @@
+{"tmdb_id": 193913, "title": "A Serbian Country Wedding", "original_title": "Jedna seoska srpska svadba", "slug_title": "a-serbian-country-wedding", "date": "1911-05-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yX1548AVoiWJQA2FK8tl9U09YFZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

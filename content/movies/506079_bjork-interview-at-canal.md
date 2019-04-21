@@ -1,0 +1,1 @@
+{"tmdb_id": 506079, "title": "Bj\u00f6rk: Interview at Canal +", "original_title": "Bj\u00f6rk: Interview at Canal +", "slug_title": "bjork-interview-at-canal", "date": "2004-10-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ftSI9xg3CrkA9XJw9P4UshN9Qei.jpg", "actors": [], "comments": [], "recommandations_id": []}

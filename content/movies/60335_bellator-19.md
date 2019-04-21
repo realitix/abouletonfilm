@@ -1,0 +1,1 @@
+{"tmdb_id": 60335, "title": "Bellator 19", "original_title": "Bellator 19", "slug_title": "bellator-19", "date": "2010-05-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7OZ5qydQDDuomnHQsBUjqcKsFG4.jpg", "actors": [], "comments": [], "recommandations_id": []}

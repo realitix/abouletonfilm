@@ -1,0 +1,1 @@
+{"tmdb_id": 477913, "title": "Pl\u00e1cido", "original_title": "Pl\u00e1cido", "slug_title": "placido", "date": "1986-01-01", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

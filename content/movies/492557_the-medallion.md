@@ -1,0 +1,1 @@
+{"tmdb_id": 492557, "title": "The Medallion", "original_title": "The Medallion", "slug_title": "the-medallion", "date": "1911-03-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

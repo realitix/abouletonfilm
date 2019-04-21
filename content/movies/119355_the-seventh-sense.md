@@ -1,0 +1,1 @@
+{"tmdb_id": 119355, "title": "The Seventh Sense", "original_title": "The Seventh Sense", "slug_title": "the-seventh-sense", "date": "", "genre": "Drame", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

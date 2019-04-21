@@ -1,0 +1,1 @@
+{"tmdb_id": 336839, "title": "From Darkroom To Daylight", "original_title": "From Darkroom To Daylight", "slug_title": "from-darkroom-to-daylight", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fjw28ZCCiQklPk8OrQ5TUeqFJ4W.jpg", "actors": [], "comments": [], "recommandations_id": []}

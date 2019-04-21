@@ -1,0 +1,1 @@
+{"tmdb_id": 411409, "title": "HAMLET en Directo", "original_title": "HAMLET en Directo", "slug_title": "hamlet-en-directo", "date": "", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

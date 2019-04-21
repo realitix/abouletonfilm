@@ -1,0 +1,1 @@
+{"tmdb_id": 282871, "title": "The Lady of the Camellias", "original_title": "La dame aux cam\u00e9lias", "slug_title": "the-lady-of-the-camellias", "date": "1912-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sarah Bernhardt ()", "Lou Tellegen ()", "Paul Capellani ()"], "comments": [], "recommandations_id": []}

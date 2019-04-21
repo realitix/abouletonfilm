@@ -1,0 +1,1 @@
+{"tmdb_id": 139748, "title": "The Christmas Season Massacre", "original_title": "The Christmas Season Massacre", "slug_title": "the-christmas-season-massacre", "date": "2001-01-01", "genre": "", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bDrTJI4gnc9yx4UtcGyGQoWQujG.jpg", "actors": [], "comments": [], "recommandations_id": []}

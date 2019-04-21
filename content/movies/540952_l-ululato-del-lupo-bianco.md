@@ -1,0 +1,1 @@
+{"tmdb_id": 540952, "title": "L'ululato del lupo bianco", "original_title": "L'ululato del lupo bianco", "slug_title": "l-ululato-del-lupo-bianco", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

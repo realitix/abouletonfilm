@@ -1,0 +1,1 @@
+{"tmdb_id": 403989, "title": "Police Dog on the Wire", "original_title": "Police Dog on the Wire", "slug_title": "police-dog-on-the-wire", "date": "1916-01-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

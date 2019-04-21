@@ -1,0 +1,1 @@
+{"tmdb_id": 461353, "title": "Son of Satan", "original_title": "Sotonin sin", "slug_title": "son-of-satan", "date": "2012-01-01", "genre": "Animation / Fantastique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gBWo7Q0KJK2RwveP3rBRggQ7Gkc.jpg", "actors": [], "comments": [], "recommandations_id": []}

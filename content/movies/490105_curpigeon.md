@@ -1,0 +1,1 @@
+{"tmdb_id": 490105, "title": "Curpigeon", "original_title": "Curpigeon", "slug_title": "curpigeon", "date": "", "genre": "Animation / Com\u00e9die / Drame / Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/65Emr3gOGs2asZIFzQkQKg5z6io.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 351492, "title": "Fishing Made Easy", "original_title": "Fishing Made Easy", "slug_title": "fishing-made-easy", "date": "1941-02-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

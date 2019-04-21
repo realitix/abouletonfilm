@@ -1,0 +1,1 @@
+{"tmdb_id": 449122, "title": "Steve Earle - To Hell And Back", "original_title": "Steve Earle - To Hell And Back", "slug_title": "steve-earle-to-hell-and-back", "date": "1996-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xqRsb7C1tsuTNWSeN6ikGPISgLO.jpg", "actors": [], "comments": [], "recommandations_id": []}

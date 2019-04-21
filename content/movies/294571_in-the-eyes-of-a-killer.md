@@ -1,0 +1,1 @@
+{"tmdb_id": 294571, "title": "In the Eyes of a Killer", "original_title": "In the Eyes of a Killer", "slug_title": "in-the-eyes-of-a-killer", "date": "2009-05-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ZO82nqIA54PPfVAwtHVkgEIn7h.jpg", "actors": [], "comments": [], "recommandations_id": []}

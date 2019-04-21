@@ -1,0 +1,1 @@
+{"tmdb_id": 235821, "title": "Nicoleta", "original_title": "Nicoleta", "slug_title": "nicoleta", "date": "2013-09-25", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j44ZPH6axYqh37ZIuXPbzLF7sqR.jpg", "actors": [], "comments": [], "recommandations_id": []}

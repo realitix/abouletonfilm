@@ -1,0 +1,1 @@
+{"tmdb_id": 212928, "title": "Click, Clack, Moo: Cows That Type", "original_title": "Click, Clack, Moo: Cows That Type", "slug_title": "click-clack-moo-cows-that-type", "date": "2001-08-08", "genre": "Animation / Com\u00e9die / Familial", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

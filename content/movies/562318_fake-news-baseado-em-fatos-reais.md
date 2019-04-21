@@ -1,0 +1,1 @@
+{"tmdb_id": 562318, "title": "Fake News - Baseado em Fatos Reais", "original_title": "Fake News - Baseado em Fatos Reais", "slug_title": "fake-news-baseado-em-fatos-reais", "date": "2017-09-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 576538, "title": "Love with an Alien", "original_title": "\u7570\u570b\u60c5\u9d1b", "slug_title": "love-with-an-alien", "date": "1958-02-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lucilla Yu Ming ()", "Kim Jin-kyu ()", "Chan Wan ()", "Yang Chi-Ching ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 428336, "title": "Dog Daze", "original_title": "Dog Daze", "slug_title": "dog-daze", "date": "1925-10-10", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Cliff Bowes ()"], "comments": [], "recommandations_id": []}

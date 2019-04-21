@@ -1,0 +1,1 @@
+{"tmdb_id": 286281, "title": "Testamente", "original_title": "Testamente", "slug_title": "testamente", "date": "1989-04-10", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Manja Behrens (Shanna)", "Lotte Loebinger (Swetlana)", "Ulrich M\u00fcller (Grigori)"], "comments": [], "recommandations_id": []}

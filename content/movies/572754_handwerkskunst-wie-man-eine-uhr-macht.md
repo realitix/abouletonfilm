@@ -1,0 +1,1 @@
+{"tmdb_id": 572754, "title": "Handwerkskunst! Wie man eine Uhr macht", "original_title": "Handwerkskunst! Wie man eine Uhr macht", "slug_title": "handwerkskunst-wie-man-eine-uhr-macht", "date": "2016-10-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

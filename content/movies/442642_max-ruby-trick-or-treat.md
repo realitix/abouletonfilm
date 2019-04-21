@@ -1,0 +1,1 @@
+{"tmdb_id": 442642, "title": "Max & Ruby Trick or Treat", "original_title": "Max & Ruby Trick or Treat", "slug_title": "max-ruby-trick-or-treat", "date": "2013-09-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aHRhzkOQh7oTQbD7GmOmyFe92R1.jpg", "actors": [], "comments": [], "recommandations_id": []}

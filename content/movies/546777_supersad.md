@@ -1,0 +1,1 @@
+{"tmdb_id": 546777, "title": "Supersad", "original_title": "Supersad", "slug_title": "supersad", "date": "2018-09-22", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6lrCXRetrOIilcmdOYPaEZfd55S.jpg", "actors": ["Sky Jafri ((voice))"], "comments": [], "recommandations_id": []}

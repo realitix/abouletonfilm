@@ -1,0 +1,1 @@
+{"tmdb_id": 495405, "title": "Mother Has Cancer", "original_title": "M\u00e1ma m\u00e1 raka", "slug_title": "mother-has-cancer", "date": "2016-09-21", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jan Pet\u0159ina (Kamil)"], "comments": [], "recommandations_id": []}

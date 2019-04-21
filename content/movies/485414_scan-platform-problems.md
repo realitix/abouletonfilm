@@ -1,0 +1,1 @@
+{"tmdb_id": 485414, "title": "Scan Platform Problems", "original_title": "Scan Platform Problems", "slug_title": "scan-platform-problems", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

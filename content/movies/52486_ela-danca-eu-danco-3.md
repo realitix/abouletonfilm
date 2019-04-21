@@ -1,0 +1,1 @@
+{"tmdb_id": 52486, "title": "Ela Dan\u00e7a, Eu Dan\u00e7o 3", "original_title": "Ela Dan\u00e7a, Eu Dan\u00e7o 3", "slug_title": "ela-danca-eu-danco-3", "date": "", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

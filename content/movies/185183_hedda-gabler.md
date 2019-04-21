@@ -1,0 +1,1 @@
+{"tmdb_id": 185183, "title": "Hedda Gabler", "original_title": "Hedda Gabler", "slug_title": "hedda-gabler", "date": "2004-06-12", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vzDFSqARz2NQ1pXCUMOg0ZfMsQv.jpg", "actors": ["Heidi Schreck (Hedda)"], "comments": [], "recommandations_id": []}

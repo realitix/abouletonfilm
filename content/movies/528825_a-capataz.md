@@ -1,0 +1,1 @@
+{"tmdb_id": 528825, "title": "A Capataz", "original_title": "A Capataz", "slug_title": "a-capataz", "date": "2017-12-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

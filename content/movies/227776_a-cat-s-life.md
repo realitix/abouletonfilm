@@ -1,0 +1,1 @@
+{"tmdb_id": 227776, "title": "A Cat's Life", "original_title": "A Cat's Life", "slug_title": "a-cat-s-life", "date": "1920-10-13", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

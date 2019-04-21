@@ -1,0 +1,1 @@
+{"tmdb_id": 18864, "title": "The Art of Eric Gill", "original_title": "The Art of Eric Gill", "slug_title": "the-art-of-eric-gill", "date": "2005-10-21", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4vLNw2mFLAMqzYtc1cuOXphJ38e.jpg", "actors": [], "comments": [], "recommandations_id": []}

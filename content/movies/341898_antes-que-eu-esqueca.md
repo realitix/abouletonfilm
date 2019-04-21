@@ -1,0 +1,1 @@
+{"tmdb_id": 341898, "title": "Antes que Eu Esque\u00e7a", "original_title": "Antes que Eu Esque\u00e7a", "slug_title": "antes-que-eu-esqueca", "date": "1977-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

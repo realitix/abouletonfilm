@@ -1,0 +1,1 @@
+{"tmdb_id": 590221, "title": "Studio Killers - Live Experience 2014", "original_title": "Studio Killers - Live Experience 2014", "slug_title": "studio-killers-live-experience-2014", "date": "2014-09-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

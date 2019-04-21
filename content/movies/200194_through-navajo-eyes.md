@@ -1,0 +1,1 @@
+{"tmdb_id": 200194, "title": "Through Navajo Eyes", "original_title": "Through Navajo Eyes", "slug_title": "through-navajo-eyes", "date": "1966-02-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t4huEVkCGdYCePjfVPXJwDPTHnf.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 417190, "title": "\ub7c9\uac15\ub3c4 \uc544\uc774\ub4e4", "original_title": "\ub7c9\uac15\ub3c4 \uc544\uc774\ub4e4", "slug_title": "ryanggangdo-aideul", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2Gb3ZGMwRRLdPmEVxFUPfSMDgRa.jpg", "actors": [], "comments": [], "recommandations_id": []}

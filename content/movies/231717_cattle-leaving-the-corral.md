@@ -1,0 +1,1 @@
+{"tmdb_id": 231717, "title": "Cattle Leaving the Corral", "original_title": "Cattle Leaving the Corral", "slug_title": "cattle-leaving-the-corral", "date": "1898-02-20", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

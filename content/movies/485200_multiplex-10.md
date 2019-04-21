@@ -1,0 +1,1 @@
+{"tmdb_id": 485200, "title": "Multiplex 10", "original_title": "Multiplex 10", "slug_title": "multiplex-10", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

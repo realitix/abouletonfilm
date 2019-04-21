@@ -1,0 +1,1 @@
+{"tmdb_id": 234978, "title": "Gopher Broke", "original_title": "Gopher Broke", "slug_title": "gopher-broke", "date": "1958-11-14", "genre": "", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rsnI18Yxsmzk63yAtCKSeb3Mrm4.jpg", "actors": [], "comments": [], "recommandations_id": []}

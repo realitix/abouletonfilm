@@ -1,0 +1,1 @@
+{"tmdb_id": 397123, "title": "Cynic: [1994] Totally Focused", "original_title": "Cynic: [1994] Totally Focused", "slug_title": "cynic-1994-totally-focused", "date": "1994-07-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3Z8rKrmhdb57e7iLvxPmQnRSIMO.jpg", "actors": [], "comments": [], "recommandations_id": []}

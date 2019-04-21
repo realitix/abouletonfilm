@@ -1,0 +1,1 @@
+{"tmdb_id": 310034, "title": "Iz: Hot Hawaiian Nights", "original_title": "Iz: Hot Hawaiian Nights", "slug_title": "iz-hot-hawaiian-nights", "date": "1993-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k2GbCn5w0RzHpZLOxRTjF02Iz7z.jpg", "actors": [], "comments": [], "recommandations_id": []}

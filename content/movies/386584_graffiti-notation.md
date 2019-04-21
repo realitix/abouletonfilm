@@ -1,0 +1,1 @@
+{"tmdb_id": 386584, "title": "Graffiti Notation", "original_title": "\u697d\u8b5c\u306e\u843d\u66f8\u304d\u5e33", "slug_title": "graffiti-notation", "date": "2009-11-10", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9Vvx4E7hfv5Yr2FtaSOJQ0003R1.jpg", "actors": [], "comments": [], "recommandations_id": []}

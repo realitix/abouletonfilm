@@ -1,0 +1,1 @@
+{"tmdb_id": 325947, "title": "Dr Breakfast", "original_title": "Dr Breakfast", "slug_title": "dr-breakfast", "date": "2012-01-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ms8FJds45JGbFkAZYqVh4owHqZr.jpg", "actors": [], "comments": [], "recommandations_id": []}

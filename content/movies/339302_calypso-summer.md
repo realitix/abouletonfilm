@@ -1,0 +1,1 @@
+{"tmdb_id": 339302, "title": "Calypso Summer", "original_title": "Calypso Summer", "slug_title": "calypso-summer", "date": "2005-11-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 561438, "title": "Marvel Mon Amour", "original_title": "Marvel Mon Amour", "slug_title": "marvel-mon-amour", "date": "2018-02-26", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fsIKuT9q4B3HGpabE7j7VEpuVPh.jpg", "actors": ["Stan Lee (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 251004, "title": "7p., cuis., s. de b...", "original_title": "7p., cuis., s. de b...", "slug_title": "7p-cuis-s-de-b", "date": "1984-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bSAS9ZlHIQk3ZdbVHMpQiZ24AyU.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 409823, "title": "Mr. Prokouk, Detective", "original_title": "Pan Prokouk detektivem", "slug_title": "mr-prokouk-detective", "date": "1957-08-28", "genre": "Animation / Com\u00e9die", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

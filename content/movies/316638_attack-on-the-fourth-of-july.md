@@ -1,0 +1,1 @@
+{"tmdb_id": 316638, "title": "Attack on the Fourth of July", "original_title": "Attack on the Fourth of July", "slug_title": "attack-on-the-fourth-of-july", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

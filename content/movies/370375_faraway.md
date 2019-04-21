@@ -1,0 +1,1 @@
+{"tmdb_id": 370375, "title": "Faraway", "original_title": "\u062e\u06cc\u0644\u06cc \u062f\u0648\u0631", "slug_title": "faraway", "date": "2011-10-26", "genre": "Drame", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mahdi Bakhtyar Nejhad (Mahdi)", "narges ebrahimi (narges)", "Babak Mehrabi (Babak)"], "comments": [], "recommandations_id": []}

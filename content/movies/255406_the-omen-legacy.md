@@ -1,0 +1,1 @@
+{"tmdb_id": 255406, "title": "The Omen Legacy", "original_title": "The Omen Legacy", "slug_title": "the-omen-legacy", "date": "2001-10-30", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wdxdIx9QHNBQWQQErw5FlI1qN44.jpg", "actors": ["Jack Palance (Narrator (voice))"], "comments": [], "recommandations_id": []}

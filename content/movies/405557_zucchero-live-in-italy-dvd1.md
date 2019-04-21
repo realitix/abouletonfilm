@@ -1,0 +1,1 @@
+{"tmdb_id": 405557, "title": "Zucchero - Live in Italy DVD1", "original_title": "Zucchero - Live in Italy DVD1", "slug_title": "zucchero-live-in-italy-dvd1", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jrnk13D5AOyMRpS1wFF2sADgUNO.jpg", "actors": [], "comments": [], "recommandations_id": []}

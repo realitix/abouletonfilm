@@ -1,0 +1,1 @@
+{"tmdb_id": 87437, "title": "Rest In Pieces", "original_title": "Rest In Pieces", "slug_title": "rest-in-pieces", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

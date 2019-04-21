@@ -1,0 +1,1 @@
+{"tmdb_id": 111793, "title": "Crossroads", "original_title": "Crossroads", "slug_title": "crossroads", "date": "1976-01-01", "genre": "", "score": "6.9/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dz6R2hSxvNY0KJvB59HDYNvctjh.jpg", "actors": [], "comments": [], "recommandations_id": [162462, 132364, 233180, 151436]}

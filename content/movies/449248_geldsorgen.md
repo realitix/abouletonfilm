@@ -1,0 +1,1 @@
+{"tmdb_id": 449248, "title": "Geldsorgen", "original_title": "Geldsorgen", "slug_title": "geldsorgen", "date": "1975-11-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4ZV258X6CeLzbmMGDGzqSiFipot.jpg", "actors": ["Gerhard Scheumann (Narrator (voice))"], "comments": [], "recommandations_id": []}

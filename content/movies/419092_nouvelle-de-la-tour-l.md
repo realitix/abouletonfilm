@@ -1,0 +1,1 @@
+{"tmdb_id": 419092, "title": "Nouvelle de la tour L", "original_title": "Nouvelle de la tour L", "slug_title": "nouvelle-de-la-tour-l", "date": "2000-01-02", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eqamR8IZSftiKmJXRuwmciaHEx0.jpg", "actors": [], "comments": [], "recommandations_id": []}

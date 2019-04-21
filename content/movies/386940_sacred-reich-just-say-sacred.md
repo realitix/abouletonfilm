@@ -1,0 +1,1 @@
+{"tmdb_id": 386940, "title": "Sacred Reich: Just Say Sacred", "original_title": "Sacred Reich: Just Say Sacred", "slug_title": "sacred-reich-just-say-sacred", "date": "1991-08-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wCLAtWStSE8oWL70tF81Rs0ls6.jpg", "actors": [], "comments": [], "recommandations_id": []}

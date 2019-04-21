@@ -1,0 +1,1 @@
+{"tmdb_id": 488589, "title": "Slaughterbots", "original_title": "Slaughterbots", "slug_title": "slaughterbots", "date": "2017-11-17", "genre": "Science-Fiction", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vLtOG0jEl7Vv4XOhRG3RLu6j9QO.jpg", "actors": [], "comments": [], "recommandations_id": []}

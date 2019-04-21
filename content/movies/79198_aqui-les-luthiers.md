@@ -1,0 +1,1 @@
+{"tmdb_id": 79198, "title": "Aqu\u00ed Les Luthiers", "original_title": "Aqu\u00ed Les Luthiers", "slug_title": "aqui-les-luthiers", "date": "2005-01-28", "genre": "Com\u00e9die", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sQIbTE6SCiopBqlHrK34aZl8mI5.jpg", "actors": ["Les Luthiers ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 433983, "title": "Heisei harenchi gakuen", "original_title": "Heisei harenchi gakuen", "slug_title": "heisei-harenchi-gakuen", "date": "1996-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kei Mizutani ()", "Natsuko T\u00f4no ()"], "comments": [], "recommandations_id": []}

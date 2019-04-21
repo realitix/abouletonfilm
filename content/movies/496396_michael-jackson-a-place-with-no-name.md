@@ -1,0 +1,1 @@
+{"tmdb_id": 496396, "title": "Michael Jackson - A Place With No Name", "original_title": "Michael Jackson - A Place With No Name", "slug_title": "michael-jackson-a-place-with-no-name", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

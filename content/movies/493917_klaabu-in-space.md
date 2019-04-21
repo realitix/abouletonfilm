@@ -1,0 +1,1 @@
+{"tmdb_id": 493917, "title": "Klaabu in Space", "original_title": "Klaabu kosmoses", "slug_title": "klaabu-in-space", "date": "1981-06-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

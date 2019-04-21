@@ -1,0 +1,1 @@
+{"tmdb_id": 510846, "title": "Lair of the Snakegod", "original_title": "\u86c7\u795e\u9b54\u6bbf", "slug_title": "lair-of-the-snakegod", "date": "1960-04-12", "genre": "Myst\u00e8re", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Keiko Fujita ()", "Yoshiko Fujita ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 187090, "title": "Laafi - Tout va bien", "original_title": "Laafi - Tout va bien", "slug_title": "laafi-tout-va-bien", "date": "1990-04-18", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7eEHFiTufiffjQvXop7DVBmrL07.jpg", "actors": [], "comments": [], "recommandations_id": []}

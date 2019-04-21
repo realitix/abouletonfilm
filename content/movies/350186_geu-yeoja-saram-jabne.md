@@ -1,0 +1,1 @@
+{"tmdb_id": 350186, "title": "\uadf8 \uc5ec\uc790 \uc0ac\ub78c \uc7a1\ub124", "original_title": "\uadf8 \uc5ec\uc790 \uc0ac\ub78c \uc7a1\ub124", "slug_title": "geu-yeoja-saram-jabne", "date": "1980-03-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 330156, "title": "Defeat of the Barbarians", "original_title": "Re Manfredi", "slug_title": "defeat-of-the-barbarians", "date": "1962-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

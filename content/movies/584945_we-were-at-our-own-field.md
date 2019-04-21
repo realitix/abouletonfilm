@@ -1,0 +1,1 @@
+{"tmdb_id": 584945, "title": "We Were At Our Own Field", "original_title": "We Were At Our Own Field", "slug_title": "we-were-at-our-own-field", "date": "1988-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vLftDiqDQ6euarhYRBnMLEE5QEB.jpg", "actors": [], "comments": [], "recommandations_id": []}

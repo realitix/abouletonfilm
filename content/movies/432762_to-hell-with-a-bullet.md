@@ -1,0 +1,1 @@
+{"tmdb_id": 432762, "title": "To Hell with a Bullet", "original_title": "To Hell with a Bullet", "slug_title": "to-hell-with-a-bullet", "date": "2013-08-17", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1Uk3Ohc5Zigco7Y6j8jShpFumjx.jpg", "actors": [], "comments": [], "recommandations_id": []}

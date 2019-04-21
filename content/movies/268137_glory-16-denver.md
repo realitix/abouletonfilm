@@ -1,0 +1,1 @@
+{"tmdb_id": 268137, "title": "Glory 16: Denver", "original_title": "Glory 16: Denver", "slug_title": "glory-16-denver", "date": "2014-05-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oDwX9mLnfBLlCFX5Cei56S7bcqi.jpg", "actors": [], "comments": [], "recommandations_id": []}

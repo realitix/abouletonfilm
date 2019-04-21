@@ -1,0 +1,1 @@
+{"tmdb_id": 483630, "title": "The Battle of San Romano", "original_title": "La Bataille de San Romano", "slug_title": "the-battle-of-san-romano", "date": "2017-10-27", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u8aWGsDOKq5yKBUuJgZLoGSLQUk.jpg", "actors": [], "comments": [], "recommandations_id": []}

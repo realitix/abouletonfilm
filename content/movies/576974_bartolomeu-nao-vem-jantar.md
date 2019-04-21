@@ -1,0 +1,1 @@
+{"tmdb_id": 576974, "title": "Bartolomeu n\u00e3o Vem Jantar", "original_title": "Bartolomeu n\u00e3o Vem Jantar", "slug_title": "bartolomeu-nao-vem-jantar", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 476778, "title": "Captain Lash", "original_title": "Captain Lash", "slug_title": "captain-lash", "date": "1929-01-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

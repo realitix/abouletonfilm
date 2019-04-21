@@ -1,0 +1,1 @@
+{"tmdb_id": 412592, "title": "The Way Out Is The Way Two", "original_title": "The Way Out Is The Way Two", "slug_title": "the-way-out-is-the-way-two", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

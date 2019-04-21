@@ -1,0 +1,1 @@
+{"tmdb_id": 473758, "title": "Svartzul", "original_title": "Svartzul", "slug_title": "svartzul", "date": "2017-08-28", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yzkQKAF56W0mTQYvPFWkJ5hEU1k.jpg", "actors": [], "comments": [], "recommandations_id": []}

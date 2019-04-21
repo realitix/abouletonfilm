@@ -1,0 +1,1 @@
+{"tmdb_id": 417729, "title": "The Horse Killer", "original_title": "The Horse Killer", "slug_title": "the-horse-killer", "date": "1970-08-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sandra Peabody ()"], "comments": [], "recommandations_id": []}

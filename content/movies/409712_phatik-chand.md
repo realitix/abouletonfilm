@@ -1,0 +1,1 @@
+{"tmdb_id": 409712, "title": "Phatik Chand", "original_title": "Phatik Chand", "slug_title": "phatik-chand", "date": "1983-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tTdn40Nmoo15qEZMixuJo2WtmEB.jpg", "actors": [], "comments": [], "recommandations_id": []}

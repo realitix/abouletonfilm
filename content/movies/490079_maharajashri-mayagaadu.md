@@ -1,0 +1,1 @@
+{"tmdb_id": 490079, "title": "Maharajashri Mayagaadu", "original_title": "Maharajashri Mayagaadu", "slug_title": "maharajashri-mayagaadu", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aYx7rzfs4D1CZ1nMCtGa21uTBhg.jpg", "actors": [], "comments": [], "recommandations_id": []}

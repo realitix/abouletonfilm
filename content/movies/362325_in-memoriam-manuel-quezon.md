@@ -1,0 +1,1 @@
+{"tmdb_id": 362325, "title": "In Memoriam Manuel Quezon", "original_title": "In Memoriam Manuel Quezon", "slug_title": "in-memoriam-manuel-quezon", "date": "1944-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gapTERoLwHOiA2brdnJkFDyJwMx.jpg", "actors": [], "comments": [], "recommandations_id": []}

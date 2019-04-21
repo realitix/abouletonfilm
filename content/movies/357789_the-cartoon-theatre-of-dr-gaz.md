@@ -1,0 +1,1 @@
+{"tmdb_id": 357789, "title": "The Cartoon Theatre of Dr Gaz", "original_title": "The Cartoon Theatre of Dr Gaz", "slug_title": "the-cartoon-theatre-of-dr-gaz", "date": "1979-01-02", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6AjIhmxWHtnP9NnnrqB6mQqB4Cm.jpg", "actors": [], "comments": [], "recommandations_id": []}

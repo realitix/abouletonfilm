@@ -1,0 +1,1 @@
+{"tmdb_id": 275733, "title": "Easy Listening", "original_title": "Easy Listening", "slug_title": "easy-listening", "date": "2002-01-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

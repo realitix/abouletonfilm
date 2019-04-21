@@ -1,0 +1,1 @@
+{"tmdb_id": 370357, "title": "Chile, a Galaxy of Problems", "original_title": "Chile, una galaxia de problemas", "slug_title": "chile-a-galaxy-of-problems", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

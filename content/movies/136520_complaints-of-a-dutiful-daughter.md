@@ -1,0 +1,1 @@
+{"tmdb_id": 136520, "title": "Complaints of a Dutiful Daughter", "original_title": "Complaints of a Dutiful Daughter", "slug_title": "complaints-of-a-dutiful-daughter", "date": "1994-12-01", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

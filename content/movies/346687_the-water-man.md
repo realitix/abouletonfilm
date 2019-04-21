@@ -1,0 +1,1 @@
+{"tmdb_id": 346687, "title": "The Water Man", "original_title": "The Water Man", "slug_title": "the-water-man", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

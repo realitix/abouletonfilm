@@ -1,0 +1,1 @@
+{"tmdb_id": 373727, "title": "Pennsylvania Hardcore", "original_title": "Pennsylvania Hardcore", "slug_title": "pennsylvania-hardcore", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

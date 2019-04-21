@@ -1,0 +1,1 @@
+{"tmdb_id": 476061, "title": "Write to Kill", "original_title": "Write to Kill", "slug_title": "write-to-kill", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s3keuBV1XFawWFsgpMyRqEVEiaj.jpg", "actors": [], "comments": [], "recommandations_id": []}

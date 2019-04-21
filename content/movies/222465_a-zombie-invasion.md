@@ -1,0 +1,1 @@
+{"tmdb_id": 222465, "title": "A Zombie Invasion", "original_title": "A Zombie Invasion", "slug_title": "a-zombie-invasion", "date": "2012-12-01", "genre": "Horreur", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dPPqCP1jLyXDnDUr93TenUKvMOb.jpg", "actors": [], "comments": [], "recommandations_id": []}

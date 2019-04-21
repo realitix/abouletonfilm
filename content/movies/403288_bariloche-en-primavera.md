@@ -1,0 +1,1 @@
+{"tmdb_id": 403288, "title": "Bariloche en primavera", "original_title": "Bariloche en primavera", "slug_title": "bariloche-en-primavera", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

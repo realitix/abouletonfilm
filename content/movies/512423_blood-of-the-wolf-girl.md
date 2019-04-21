@@ -1,0 +1,1 @@
+{"tmdb_id": 512423, "title": "Blood of the Wolf Girl", "original_title": "Blood of the Wolf Girl", "slug_title": "blood-of-the-wolf-girl", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

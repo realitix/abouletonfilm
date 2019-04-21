@@ -1,0 +1,1 @@
+{"tmdb_id": 87243, "title": "The Jerk Too", "original_title": "The Jerk Too", "slug_title": "the-jerk-too", "date": "1984-01-06", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pL3p0tNedEsQXtKbt5qLNFCcYmW.jpg", "actors": ["Mark Blankfield (Navin Johnson)", "Ray Walston (Diesel)"], "comments": [], "recommandations_id": []}

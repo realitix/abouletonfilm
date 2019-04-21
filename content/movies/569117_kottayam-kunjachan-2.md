@@ -1,0 +1,1 @@
+{"tmdb_id": 569117, "title": "Kottayam Kunjachan 2", "original_title": "Kottayam Kunjachan 2", "slug_title": "kottayam-kunjachan-2", "date": "2019-09-07", "genre": "Com\u00e9die / Action / Familial / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mammootty (Kottayam Kunjachan)"], "comments": [], "recommandations_id": []}

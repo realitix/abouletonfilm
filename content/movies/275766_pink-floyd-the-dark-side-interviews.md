@@ -1,0 +1,1 @@
+{"tmdb_id": 275766, "title": "Pink Floyd: The Dark Side: Interviews", "original_title": "Pink Floyd: The Dark Side: Interviews", "slug_title": "pink-floyd-the-dark-side-interviews", "date": "1968-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

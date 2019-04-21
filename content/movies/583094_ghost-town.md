@@ -1,0 +1,1 @@
+{"tmdb_id": 583094, "title": "Ghost Town", "original_title": "Ghost Town", "slug_title": "ghost-town", "date": "1974-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zsdG2Me65NVrNml7VcumHSXzcAa.jpg", "actors": [], "comments": [], "recommandations_id": []}

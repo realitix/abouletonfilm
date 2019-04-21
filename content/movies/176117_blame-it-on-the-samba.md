@@ -1,0 +1,1 @@
+{"tmdb_id": 176117, "title": "Blame It on the Samba", "original_title": "Blame It on the Samba", "slug_title": "blame-it-on-the-samba", "date": "1948-05-27", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9PDL1yMB13uN6CyyBZwfsyDFb8F.jpg", "actors": [], "comments": [], "recommandations_id": [68504, 68492, 56009, 164954]}

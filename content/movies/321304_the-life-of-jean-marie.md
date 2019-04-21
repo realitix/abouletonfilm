@@ -1,0 +1,1 @@
+{"tmdb_id": 321304, "title": "The Life of Jean-Marie", "original_title": "La vie de Jean-Marie", "slug_title": "the-life-of-jean-marie", "date": "2015-01-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bxwXZApk70qrVdsMWiJX2P07JeZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

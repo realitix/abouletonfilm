@@ -1,0 +1,1 @@
+{"tmdb_id": 533439, "title": "The Itchy Palm", "original_title": "La main chaude", "slug_title": "the-itchy-palm", "date": "1960-02-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eTL5pOMrAZWZjIOU9GYRBvQDRlm.jpg", "actors": [], "comments": [], "recommandations_id": []}

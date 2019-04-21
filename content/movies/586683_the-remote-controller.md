@@ -1,0 +1,1 @@
+{"tmdb_id": 586683, "title": "The Remote Controller", "original_title": "The Remote Controller", "slug_title": "the-remote-controller", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

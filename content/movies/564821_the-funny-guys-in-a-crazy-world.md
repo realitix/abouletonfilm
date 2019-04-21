@@ -1,0 +1,1 @@
+{"tmdb_id": 564821, "title": "The Funny Guys in a Crazy World", "original_title": "La grande nouba", "slug_title": "the-funny-guys-in-a-crazy-world", "date": "1974-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yAX3qe6WPvJUb1urPyK5Mzc3CYd.jpg", "actors": [], "comments": [], "recommandations_id": []}

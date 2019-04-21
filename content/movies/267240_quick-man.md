@@ -1,0 +1,1 @@
+{"tmdb_id": 267240, "title": "Quick Man", "original_title": "\ud035 \ub9e8", "slug_title": "quick-man", "date": "2002-01-02", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gadM8ZJ9EuZ08VDYeAtzyvk59sJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

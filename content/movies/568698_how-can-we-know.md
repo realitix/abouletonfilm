@@ -1,0 +1,1 @@
+{"tmdb_id": 568698, "title": "How Can We Know?", "original_title": "How Can We Know?", "slug_title": "how-can-we-know", "date": "2018-12-14", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["John Velsor (Himself)"], "comments": [], "recommandations_id": []}

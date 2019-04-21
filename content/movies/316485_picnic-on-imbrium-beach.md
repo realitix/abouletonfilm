@@ -1,0 +1,1 @@
+{"tmdb_id": 316485, "title": "Picnic on Imbrium Beach", "original_title": "Picnic on Imbrium Beach", "slug_title": "picnic-on-imbrium-beach", "date": "1983-10-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 535272, "title": "Football Freaks", "original_title": "Football Freaks", "slug_title": "football-freaks", "date": "", "genre": "Musique / Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

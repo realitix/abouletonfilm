@@ -1,0 +1,1 @@
+{"tmdb_id": 553436, "title": "Entre Calaveras 2", "original_title": "Entre Calaveras 2", "slug_title": "entre-calaveras-2", "date": "2014-01-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kaGdu2bdRSSnFrjvoc29E5ihNsf.jpg", "actors": [], "comments": [], "recommandations_id": []}

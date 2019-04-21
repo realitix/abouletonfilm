@@ -1,0 +1,1 @@
+{"tmdb_id": 46798, "title": "The City", "original_title": "La ciudad", "slug_title": "the-city", "date": "1999-10-22", "genre": "Drame", "score": "7.6/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/abBdx8J84KbkGGE7PxBoXQ2onUS.jpg", "actors": [], "comments": [], "recommandations_id": [256959, 134754, 24952, 52799]}

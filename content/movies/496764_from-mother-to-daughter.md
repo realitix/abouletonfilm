@@ -1,0 +1,1 @@
+{"tmdb_id": 496764, "title": "From Mother to Daughter", "original_title": "Di madre in figlia", "slug_title": "from-mother-to-daughter", "date": "2008-09-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f4mIodyUVeClcs5tDlAeIeJAflM.jpg", "actors": [], "comments": [], "recommandations_id": []}

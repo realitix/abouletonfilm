@@ -1,0 +1,1 @@
+{"tmdb_id": 483394, "title": "Mario Jean 1", "original_title": "Mario Jean 1", "slug_title": "mario-jean-1", "date": "1995-10-25", "genre": "Com\u00e9die", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uFcg0bVcxtYtIKCs26l4WWOrcFa.jpg", "actors": ["Mario Jean ()"], "comments": [], "recommandations_id": []}

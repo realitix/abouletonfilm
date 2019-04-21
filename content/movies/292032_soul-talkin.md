@@ -1,0 +1,1 @@
+{"tmdb_id": 292032, "title": "Soul Talkin'", "original_title": "Soul Talkin'", "slug_title": "soul-talkin", "date": "2000-10-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 428962, "title": "Wir sind Juden aus Breslau", "original_title": "Wir sind Juden aus Breslau", "slug_title": "wir-sind-juden-aus-breslau", "date": "2016-11-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gpfuHrL9UF8f6hv65aqRmlqzRKJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

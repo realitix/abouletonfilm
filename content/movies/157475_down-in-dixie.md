@@ -1,0 +1,1 @@
+{"tmdb_id": 157475, "title": "Down in Dixie", "original_title": "Down in Dixie", "slug_title": "down-in-dixie", "date": "1932-08-15", "genre": "Animation", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

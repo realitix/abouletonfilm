@@ -1,0 +1,1 @@
+{"tmdb_id": 307540, "title": "Maa Ka Aanchal", "original_title": "Maa Ka Aanchal", "slug_title": "maa-ka-aanchal", "date": "1970-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

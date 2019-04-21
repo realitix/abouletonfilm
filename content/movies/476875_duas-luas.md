@@ -1,0 +1,1 @@
+{"tmdb_id": 476875, "title": "Duas Luas", "original_title": "Duas Luas", "slug_title": "duas-luas", "date": "2013-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/whyC2BmkY7SHuuABQhDikUWRFFW.jpg", "actors": ["Hermila Guedes ()", "Anthero Montenegro ()"], "comments": [], "recommandations_id": []}

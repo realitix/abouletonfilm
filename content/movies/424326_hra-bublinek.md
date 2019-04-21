@@ -1,0 +1,1 @@
+{"tmdb_id": 424326, "title": "Hra bublinek", "original_title": "Hra bublinek", "slug_title": "hra-bublinek", "date": "1936-11-04", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

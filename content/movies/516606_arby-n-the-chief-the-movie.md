@@ -1,0 +1,1 @@
+{"tmdb_id": 516606, "title": "Arby 'n' The Chief: The Movie", "original_title": "Arby 'n' The Chief: The Movie", "slug_title": "arby-n-the-chief-the-movie", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

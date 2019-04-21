@@ -1,0 +1,1 @@
+{"tmdb_id": 70704, "title": "Long Story Short", "original_title": "Long Story Short", "slug_title": "long-story-short", "date": "2006-09-01", "genre": "Documentaire", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u3cZUzlpck13y0r1lgwP1fFTdWN.jpg", "actors": [], "comments": [], "recommandations_id": []}

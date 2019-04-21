@@ -1,0 +1,1 @@
+{"tmdb_id": 556708, "title": "L'\u00e9trang\u00e8re", "original_title": "L'\u00e9trang\u00e8re", "slug_title": "l-etrangere", "date": "1931-02-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

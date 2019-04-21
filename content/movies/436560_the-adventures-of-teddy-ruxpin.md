@@ -1,0 +1,1 @@
+{"tmdb_id": 436560, "title": "The Adventures of Teddy Ruxpin", "original_title": "The Adventures of Teddy Ruxpin", "slug_title": "the-adventures-of-teddy-ruxpin", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

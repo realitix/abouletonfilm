@@ -1,0 +1,1 @@
+{"tmdb_id": 372529, "title": "Bargain!", "original_title": "Bargain!", "slug_title": "bargain", "date": "2009-02-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qB89CxDLHpVOhpeKvrkey9GGN27.jpg", "actors": ["Rebel Wilson (Linda)"], "comments": [], "recommandations_id": []}

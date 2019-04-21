@@ -1,0 +1,1 @@
+{"tmdb_id": 371588, "title": "10 zp\u016fsob\u016f l\u00e1sky", "original_title": "10 zp\u016fsob\u016f l\u00e1sky", "slug_title": "10-zpusobu-lasky", "date": "2008-07-07", "genre": "Drame / Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Filip \u010capka ()", "Dana Sedl\u00e1kov\u00e1 ()"], "comments": [], "recommandations_id": []}

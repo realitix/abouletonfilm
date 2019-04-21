@@ -1,0 +1,1 @@
+{"tmdb_id": 262067, "title": "Sur les cimes tout est calme", "original_title": "Su tutte le vette \u00e8 pace", "slug_title": "sur-les-cimes-tout-est-calme", "date": "1999-01-01", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

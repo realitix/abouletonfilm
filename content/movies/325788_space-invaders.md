@@ -1,0 +1,1 @@
+{"tmdb_id": 325788, "title": "Space Invaders", "original_title": "Space Invaders", "slug_title": "space-invaders", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

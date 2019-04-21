@@ -1,0 +1,1 @@
+{"tmdb_id": 78000, "title": "Constantin si Elena", "original_title": "Constantin si Elena", "slug_title": "constantin-si-elena", "date": "2009-08-09", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oFD0002voedlKI0XrfCaocP0v0U.jpg", "actors": [], "comments": [], "recommandations_id": []}

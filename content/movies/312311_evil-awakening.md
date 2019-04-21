@@ -1,0 +1,1 @@
+{"tmdb_id": 312311, "title": "Evil Awakening", "original_title": "Evil Awakening", "slug_title": "evil-awakening", "date": "2008-08-19", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fAyOxsHZXEToUt82QwpNPHZq44n.jpg", "actors": [], "comments": [], "recommandations_id": []}

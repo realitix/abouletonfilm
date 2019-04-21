@@ -1,0 +1,1 @@
+{"tmdb_id": 188683, "title": "Children Who Draw", "original_title": "Te o kaku kodomotachi", "slug_title": "children-who-draw", "date": "1956-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3SZFxUxrbiOWu9Fg2vYS702FDUn.jpg", "actors": [], "comments": [], "recommandations_id": []}

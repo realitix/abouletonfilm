@@ -1,0 +1,1 @@
+{"tmdb_id": 12727, "title": "Der F\u00e4hrmeister", "original_title": "Der F\u00e4hrmeister", "slug_title": "der-fahrmeister", "date": "2007-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Radik Golovkov (Andreas)", "G\u00fcnter Lamprecht (Herr Arnold)"], "comments": [], "recommandations_id": []}

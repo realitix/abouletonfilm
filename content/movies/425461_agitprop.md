@@ -1,0 +1,1 @@
+{"tmdb_id": 425461, "title": "Agitprop", "original_title": "Agitprop", "slug_title": "agitprop", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dGxZQKZDCbiu8dCbsQR80eHGUtk.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 545733, "title": "Produ\u00e7\u00e3o de Ouro: Pr\u00f3logo", "original_title": "Produ\u00e7\u00e3o de Ouro: Pr\u00f3logo", "slug_title": "producao-de-ouro-prologo", "date": "2018-08-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

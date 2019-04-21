@@ -1,0 +1,1 @@
+{"tmdb_id": 431708, "title": "Max in the Morning", "original_title": "Max in the Morning", "slug_title": "max-in-the-morning", "date": "1965-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nZ8QzUTgdb7BKwrw185gN0HhaX0.jpg", "actors": ["Max Ferguson ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 426927, "title": "Angelina", "original_title": "Angelina", "slug_title": "angelina", "date": "2008-08-25", "genre": "Drame / Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lily Portillo (Manuela)", "Oscar Rivera ()", "Edgardo Rivera ()", "Manuel Caballero Leiva (Sacerdote)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 582854, "title": "I Barbari Del Cph", "original_title": "I Barbari Del Cph", "slug_title": "i-barbari-del-cph", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y1tTAfBfpofUoQSNbKRJYRh8fbF.jpg", "actors": [], "comments": [], "recommandations_id": []}

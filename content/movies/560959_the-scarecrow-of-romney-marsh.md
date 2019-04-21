@@ -1,0 +1,1 @@
+{"tmdb_id": 560959, "title": "The Scarecrow of Romney Marsh", "original_title": "The Scarecrow of Romney Marsh", "slug_title": "the-scarecrow-of-romney-marsh", "date": "1964-02-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Patrick McGoohan (Dr Syn The Scarecrow of Romney Marsh)"], "comments": [], "recommandations_id": []}

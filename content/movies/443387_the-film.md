@@ -1,0 +1,1 @@
+{"tmdb_id": 443387, "title": "The film", "original_title": "The film", "slug_title": "the-film", "date": "1975-10-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

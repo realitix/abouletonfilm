@@ -1,0 +1,1 @@
+{"tmdb_id": 222387, "title": "Cleaning Up!!?", "original_title": "Cleaning Up!!?", "slug_title": "cleaning-up", "date": "1921-03-20", "genre": "Animation", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/icb4uvqrpeHhASRt2TyOQizpNw4.jpg", "actors": [], "comments": [], "recommandations_id": []}

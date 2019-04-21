@@ -1,0 +1,1 @@
+{"tmdb_id": 523194, "title": "You Speak of Latin America: Che's Message", "original_title": "On vous parle d\u2019Am\u00e9rique Latine: Le message du Che", "slug_title": "you-speak-of-latin-america-che-s-message", "date": "1968-09-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

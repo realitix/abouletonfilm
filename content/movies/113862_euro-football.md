@@ -1,0 +1,1 @@
+{"tmdb_id": 113862, "title": "Euro Football", "original_title": "Euro Football", "slug_title": "euro-football", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 151758, "title": "Bar\u00e3o Vermelho - Balada MTV", "original_title": "Bar\u00e3o Vermelho - Balada MTV", "slug_title": "barao-vermelho-balada-mtv", "date": "2016-02-13", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ubzkpWbGnVtE5WdJoy6AyKj84U5.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 593055, "title": "Pragiwaksono", "original_title": "Pragiwaksono", "slug_title": "pragiwaksono", "date": "2019-04-05", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pandji Pragiwaksono ()"], "comments": [], "recommandations_id": []}

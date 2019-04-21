@@ -1,0 +1,1 @@
+{"tmdb_id": 538228, "title": "Dead is Dead", "original_title": "Dead is Dead", "slug_title": "dead-is-dead", "date": "1974-07-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uWHy1V138lQcy2uHfA4G6mbuoiQ.jpg", "actors": ["Godfrey Cambridge (Host - Himself)"], "comments": [], "recommandations_id": []}

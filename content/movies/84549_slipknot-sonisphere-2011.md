@@ -1,0 +1,1 @@
+{"tmdb_id": 84549, "title": "Slipknot: Sonisphere 2011", "original_title": "Slipknot: Sonisphere 2011", "slug_title": "slipknot-sonisphere-2011", "date": "2011-07-10", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ph1VPZOa25FQXPPfISlhE7VsM8t.jpg", "actors": [], "comments": [], "recommandations_id": []}

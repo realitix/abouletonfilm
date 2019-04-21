@@ -1,0 +1,1 @@
+{"tmdb_id": 384606, "title": "Towarisch Berlin", "original_title": "Towarisch Berlin", "slug_title": "towarisch-berlin", "date": "1969-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ernst Busch (himself)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 577222, "title": "The Bathers' Revenge", "original_title": "The Bathers' Revenge", "slug_title": "the-bathers-revenge", "date": "1904-10-23", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

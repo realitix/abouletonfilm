@@ -1,0 +1,1 @@
+{"tmdb_id": 379048, "title": "The Pink Tail Fly", "original_title": "The Pink Tail Fly", "slug_title": "the-pink-tail-fly", "date": "1965-08-25", "genre": "Animation", "score": "6.4/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7CQP9nSlxFmHB472bbcYFZI7ETm.jpg", "actors": [], "comments": [], "recommandations_id": [379046, 66829, 379042, 379041]}

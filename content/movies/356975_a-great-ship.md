@@ -1,0 +1,1 @@
+{"tmdb_id": 356975, "title": "A Great Ship", "original_title": "A Great Ship", "slug_title": "a-great-ship", "date": "1962-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

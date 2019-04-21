@@ -1,0 +1,1 @@
+{"tmdb_id": 442434, "title": "Rex Navarrete: Badass Madapaka", "original_title": "Rex Navarrete: Badass Madapaka", "slug_title": "rex-navarrete-badass-madapaka", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vCDLT83GNCbJrEmQAofM24ioFfZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 349709, "title": "\uc778\uc0dd\uadf9\uc7a5", "original_title": "\uc778\uc0dd\uadf9\uc7a5", "slug_title": "insaenggeugjang", "date": "1983-06-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

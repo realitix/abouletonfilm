@@ -1,0 +1,1 @@
+{"tmdb_id": 572393, "title": "Chittagong: The Last Stopover", "original_title": "Chittagong: Derni\u00e8re escale", "slug_title": "chittagong-the-last-stopover", "date": "2001-12-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k2bi20nfkZYmWJZXNk0NrENhdcH.jpg", "actors": [], "comments": [], "recommandations_id": []}

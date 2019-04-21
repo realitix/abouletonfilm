@@ -1,0 +1,1 @@
+{"tmdb_id": 558198, "title": "Batsh*t Bride", "original_title": "Batsh*t Bride", "slug_title": "batsh-t-bride", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

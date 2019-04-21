@@ -1,0 +1,1 @@
+{"tmdb_id": 247482, "title": "Floating in Memory", "original_title": "Liu li", "slug_title": "floating-in-memory", "date": "2009-01-30", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1svSdBu3aVhWxuHFqR3sbZcpUF.jpg", "actors": ["Huo Shiyu ()", "Pan Xingxing ()"], "comments": [], "recommandations_id": []}

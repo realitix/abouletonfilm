@@ -1,0 +1,1 @@
+{"tmdb_id": 52336, "title": "The Clean Bin Project", "original_title": "The Clean Bin Project", "slug_title": "the-clean-bin-project", "date": "2010-05-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/slM6JN65T9Zvv0VPA5lUXpX26e.jpg", "actors": [], "comments": [], "recommandations_id": []}

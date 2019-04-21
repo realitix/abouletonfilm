@@ -1,0 +1,1 @@
+{"tmdb_id": 304935, "title": "Balipeetam", "original_title": "Balipeetam", "slug_title": "balipeetam", "date": "1975-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

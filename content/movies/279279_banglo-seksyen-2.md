@@ -1,0 +1,1 @@
+{"tmdb_id": 279279, "title": "Banglo Seksyen 2", "original_title": "Banglo Seksyen 2", "slug_title": "banglo-seksyen-2", "date": "2013-12-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hairul Azreen ()", "Aliff Hadi ()", "Aedy Ashraf ()", "Hanis Kamal Bakar ()", "Hafeez Mikail ()"], "comments": [], "recommandations_id": []}

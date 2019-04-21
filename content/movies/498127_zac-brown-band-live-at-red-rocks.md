@@ -1,0 +1,1 @@
+{"tmdb_id": 498127, "title": "Zac Brown Band: Live at Red Rocks", "original_title": "Zac Brown Band: Live at Red Rocks", "slug_title": "zac-brown-band-live-at-red-rocks", "date": "2011-12-10", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Zac Brown Band (The Band)"], "comments": [], "recommandations_id": []}

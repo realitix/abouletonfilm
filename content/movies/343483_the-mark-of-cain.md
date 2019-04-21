@@ -1,0 +1,1 @@
+{"tmdb_id": 343483, "title": "The Mark of Cain", "original_title": "The Mark of Cain", "slug_title": "the-mark-of-cain", "date": "1947-03-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Eric Portman (Richard Howard)", "Sally Gray (Sarah Bonheur)", "Patrick Holt (John Howard)"], "comments": [], "recommandations_id": []}

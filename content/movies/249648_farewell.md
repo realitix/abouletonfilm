@@ -1,0 +1,1 @@
+{"tmdb_id": 249648, "title": "Farewell", "original_title": "\u041f\u0440\u043e\u0449\u0430\u043d\u0438\u0435", "slug_title": "farewell", "date": "2004-01-19", "genre": "Drame", "score": "2.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3WmHRXNeQDi9RzCAPtaD8BXtGXU.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 84456, "title": "Lacuna Coil: Graspop 2009", "original_title": "Lacuna Coil: Graspop 2009", "slug_title": "lacuna-coil-graspop-2009", "date": "", "genre": "", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bTchNl3b2xYtfRLtBFqE5BfDo56.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 56081, "title": "Generation M", "original_title": "Generation M", "slug_title": "generation-m", "date": "2012-08-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

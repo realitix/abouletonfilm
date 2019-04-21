@@ -1,0 +1,1 @@
+{"tmdb_id": 323892, "title": "Expedicion Juan Fernandez", "original_title": "Expedicion Juan Fernandez", "slug_title": "expedicion-juan-fernandez", "date": "2014-03-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

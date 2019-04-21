@@ -1,0 +1,1 @@
+{"tmdb_id": 84482, "title": "Golden Earring: Naked II", "original_title": "Golden Earring: Naked II", "slug_title": "golden-earring-naked-ii", "date": "1997-09-26", "genre": "Musique / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hFcu9gvy7QokoervwIkn0tC7ea1.jpg", "actors": [], "comments": [], "recommandations_id": []}

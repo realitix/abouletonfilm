@@ -1,0 +1,1 @@
+{"tmdb_id": 546802, "title": "Cinema Verite", "original_title": "Cinema Verite", "slug_title": "cinema-verite", "date": "1979-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cZsvmyar4JLk3y1jzTojjkS1GUN.jpg", "actors": [], "comments": [], "recommandations_id": []}

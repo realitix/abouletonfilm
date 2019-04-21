@@ -1,0 +1,1 @@
+{"tmdb_id": 301326, "title": "Medicated Love", "original_title": "Medicated Love", "slug_title": "medicated-love", "date": "2014-02-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

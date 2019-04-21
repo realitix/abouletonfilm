@@ -1,0 +1,1 @@
+{"tmdb_id": 577435, "title": "Neromanna", "original_title": "Neromanna", "slug_title": "neromanna", "date": "2017-01-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4Vu1MOL9yr9DWdBRzCU0v4dkXA5.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 475837, "title": "Sidet: Forced Exile", "original_title": "Sidet: Forced Exile", "slug_title": "sidet-forced-exile", "date": "1991-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mV4RLMJudMls3rp2U9HAvRCHwOe.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 303181, "title": "Project Power", "original_title": "Project Power", "slug_title": "project-power", "date": "2014-11-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

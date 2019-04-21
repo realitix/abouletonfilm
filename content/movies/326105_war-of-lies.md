@@ -1,0 +1,1 @@
+{"tmdb_id": 326105, "title": "War of Lies", "original_title": "War of Lies", "slug_title": "war-of-lies", "date": "2014-11-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7Vi93vTRrkY5HwaBOfsQvnMQ2wg.jpg", "actors": ["Rafed Al Janabi (Himself)"], "comments": [], "recommandations_id": []}

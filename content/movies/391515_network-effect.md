@@ -1,0 +1,1 @@
+{"tmdb_id": 391515, "title": "Network Effect", "original_title": "Network Effect", "slug_title": "network-effect", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

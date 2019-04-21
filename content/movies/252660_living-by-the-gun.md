@@ -1,0 +1,1 @@
+{"tmdb_id": 252660, "title": "Living by the Gun", "original_title": "Living by the Gun", "slug_title": "living-by-the-gun", "date": "2014-01-07", "genre": "Action / Western", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cf7dSThpqONxmDbDF8H57sBkBa6.jpg", "actors": ["Pat McIntire (Uncle)"], "comments": [], "recommandations_id": []}

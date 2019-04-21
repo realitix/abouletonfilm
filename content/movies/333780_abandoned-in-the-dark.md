@@ -1,0 +1,1 @@
+{"tmdb_id": 333780, "title": "Abandoned in the Dark", "original_title": "Abandoned in the Dark", "slug_title": "abandoned-in-the-dark", "date": "2014-11-08", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lUoeowzFdwxZXEmxJw9dInumfCI.jpg", "actors": ["Kane Hodder ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 270972, "title": "Today We Have the Power", "original_title": "Today We Have the Power", "slug_title": "today-we-have-the-power", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 347075, "title": "Victim of Rage", "original_title": "Victim of Rage", "slug_title": "victim-of-rage", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/18ZjspoEyfo3bKeaAt5y9kbluxx.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 133240, "title": "Talking Architect", "original_title": "\ub9d0\ud558\ub294 \uac74\ucd95\uac00", "slug_title": "talking-architect", "date": "2012-03-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yVXL0DafLwjHpeqMuKdLV3kv2wx.jpg", "actors": ["Chung Gu-yon (Self)"], "comments": [], "recommandations_id": []}

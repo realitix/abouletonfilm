@@ -1,0 +1,1 @@
+{"tmdb_id": 393606, "title": "Love Never Dies", "original_title": "Love never dies", "slug_title": "love-never-dies", "date": "2003-10-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

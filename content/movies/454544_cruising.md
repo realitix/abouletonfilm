@@ -1,0 +1,1 @@
+{"tmdb_id": 454544, "title": "Cruising", "original_title": "Cruising", "slug_title": "cruising", "date": "2014-04-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jDkfGLrOwPZJwY9jaSUuShyvo4j.jpg", "actors": ["Dan Broughton ()", "Jace Tyler ()", "Gabriel Clark ()"], "comments": [], "recommandations_id": []}

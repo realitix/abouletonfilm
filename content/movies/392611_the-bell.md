@@ -1,0 +1,1 @@
+{"tmdb_id": 392611, "title": "The Bell", "original_title": "Kane", "slug_title": "the-bell", "date": "1967-04-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 393685, "title": "The Bible", "original_title": "La Bible", "slug_title": "the-bible", "date": "1977-04-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dnqopZpd6drp0kSa7RuYjxKJLAA.jpg", "actors": [], "comments": [], "recommandations_id": []}

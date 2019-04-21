@@ -1,0 +1,1 @@
+{"tmdb_id": 316562, "title": "Service with a Smile", "original_title": "Service with a Smile", "slug_title": "service-with-a-smile", "date": "1964-08-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

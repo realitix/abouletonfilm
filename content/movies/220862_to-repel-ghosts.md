@@ -1,0 +1,1 @@
+{"tmdb_id": 220862, "title": "To Repel Ghosts", "original_title": "To Repel Ghosts", "slug_title": "to-repel-ghosts", "date": "2013-09-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kkq3Ojgq06dGLb8tj6E7YA8nqOD.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 580132, "title": "Cannibal Maniac", "original_title": "Cannibal Maniac", "slug_title": "cannibal-maniac", "date": "2003-10-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y3g3dRYMiqL2N4eZDB1MGaiA0Tq.jpg", "actors": ["Lou Garcia (Doug)", "Annette Martinez (Lisa)"], "comments": [], "recommandations_id": []}

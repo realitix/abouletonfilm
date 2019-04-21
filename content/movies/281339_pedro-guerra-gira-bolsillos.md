@@ -1,0 +1,1 @@
+{"tmdb_id": 281339, "title": "Pedro Guerra Gira Bolsillos", "original_title": "Pedro Guerra Gira Bolsillos", "slug_title": "pedro-guerra-gira-bolsillos", "date": "2005-06-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lnG7Fd2q1eCDhkfi0S42U9Hk5yu.jpg", "actors": [], "comments": [], "recommandations_id": []}

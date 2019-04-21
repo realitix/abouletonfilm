@@ -1,0 +1,1 @@
+{"tmdb_id": 567779, "title": "Tokyo Videos of Horror", "original_title": "\u95c7\u52d5\u753b", "slug_title": "tokyo-videos-of-horror", "date": "2012-01-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

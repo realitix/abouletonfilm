@@ -1,0 +1,1 @@
+{"tmdb_id": 418302, "title": "Farmer Al Falfa's Revenge", "original_title": "Farmer Al Falfa's Revenge", "slug_title": "farmer-al-falfa-s-revenge", "date": "1916-08-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

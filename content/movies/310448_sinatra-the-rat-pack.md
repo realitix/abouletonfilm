@@ -1,0 +1,1 @@
+{"tmdb_id": 310448, "title": "Sinatra & the Rat Pack", "original_title": "Sinatra & the Rat Pack", "slug_title": "sinatra-the-rat-pack", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

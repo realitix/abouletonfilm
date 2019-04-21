@@ -1,0 +1,1 @@
+{"tmdb_id": 260931, "title": "Taglish", "original_title": "Taglish", "slug_title": "taglish", "date": "2012-12-06", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nAGxKxpoh7FhPod9kg3ftfFj1Il.jpg", "actors": ["Dado Javier ()", "Loleng Hernandez-Javier ()"], "comments": [], "recommandations_id": []}

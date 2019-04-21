@@ -1,0 +1,1 @@
+{"tmdb_id": 304017, "title": "Tea Making Tips", "original_title": "Tea Making Tips", "slug_title": "tea-making-tips", "date": "1941-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9b8X0nBMgdj2d3X8QIhlmM4JTAB.jpg", "actors": [], "comments": [], "recommandations_id": []}

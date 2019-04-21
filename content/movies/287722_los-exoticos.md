@@ -1,0 +1,1 @@
+{"tmdb_id": 287722, "title": "Los Ex\u00f3ticos", "original_title": "Los Ex\u00f3ticos", "slug_title": "los-exoticos", "date": "2013-06-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2V2tqPUnLysbG8I5miGfBeziJYo.jpg", "actors": [], "comments": [], "recommandations_id": []}

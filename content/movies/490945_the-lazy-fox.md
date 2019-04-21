@@ -1,0 +1,1 @@
+{"tmdb_id": 490945, "title": "The Lazy Fox", "original_title": "Namakegitsune", "slug_title": "the-lazy-fox", "date": "1941-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

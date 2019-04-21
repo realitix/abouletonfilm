@@ -1,0 +1,1 @@
+{"tmdb_id": 397086, "title": "The Arnold Waltz", "original_title": "The Arnold Waltz", "slug_title": "the-arnold-waltz", "date": "1990-04-27", "genre": "Com\u00e9die / Animation", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

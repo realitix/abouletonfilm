@@ -1,0 +1,1 @@
+{"tmdb_id": 511120, "title": "Stretch Hunter", "original_title": "Stretch Hunter", "slug_title": "stretch-hunter", "date": "1980-03-25", "genre": "Drame / Crime", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Trevor Thomas (Stretch Hunter)", "Helene Hunt ()"], "comments": [], "recommandations_id": []}

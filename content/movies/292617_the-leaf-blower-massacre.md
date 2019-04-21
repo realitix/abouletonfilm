@@ -1,0 +1,1 @@
+{"tmdb_id": 292617, "title": "The Leaf Blower Massacre", "original_title": "The Leaf Blower Massacre", "slug_title": "the-leaf-blower-massacre", "date": "2013-01-12", "genre": "Horreur", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dQ0L5MGhsfeBjKph8KxQ8E0V0Nj.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 434795, "title": "Hussein Yavari", "original_title": "Hussein Yavari", "slug_title": "hussein-yavari", "date": "1972-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8ox2rdhGrpxrUPizFKG7t6WNaSm.jpg", "actors": ["Hussein Yavari (Himself)"], "comments": [], "recommandations_id": []}

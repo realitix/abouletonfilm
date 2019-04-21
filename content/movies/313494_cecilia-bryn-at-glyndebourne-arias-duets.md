@@ -1,0 +1,1 @@
+{"tmdb_id": 313494, "title": "Cecilia & Bryn at Glyndebourne: Arias & Duets", "original_title": "Cecilia & Bryn at Glyndebourne: Arias & Duets", "slug_title": "cecilia-bryn-at-glyndebourne-arias-duets", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

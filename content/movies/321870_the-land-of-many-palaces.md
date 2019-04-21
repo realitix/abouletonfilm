@@ -1,0 +1,1 @@
+{"tmdb_id": 321870, "title": "The Land of Many Palaces", "original_title": "The Land of Many Palaces", "slug_title": "the-land-of-many-palaces", "date": "2015-01-01", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2sqo1fyDwZXKBjfLPr7OzxfiYfh.jpg", "actors": [], "comments": [], "recommandations_id": []}

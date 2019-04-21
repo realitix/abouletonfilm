@@ -1,0 +1,1 @@
+{"tmdb_id": 122219, "title": "Sergej in der Urne", "original_title": "Sergej in der Urne", "slug_title": "sergej-in-der-urne", "date": "2010-04-20", "genre": "Documentaire / Histoire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zGtea2VDYslNjKhs9v5i57AShK5.jpg", "actors": [], "comments": [], "recommandations_id": []}

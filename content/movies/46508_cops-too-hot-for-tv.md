@@ -1,0 +1,1 @@
+{"tmdb_id": 46508, "title": "Cops: Too Hot For TV", "original_title": "Cops: Too Hot For TV", "slug_title": "cops-too-hot-for-tv", "date": "", "genre": "Documentaire / Crime", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fPHpflwxeetLuBMDKk1Rpl2yWda.jpg", "actors": [], "comments": [], "recommandations_id": []}

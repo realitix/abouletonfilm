@@ -1,0 +1,1 @@
+{"tmdb_id": 310414, "title": "What About Style?: Alex Katz: A Painter's Painter", "original_title": "What About Style?: Alex Katz: A Painter's Painter", "slug_title": "what-about-style-alex-katz-a-painter-s-painter", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

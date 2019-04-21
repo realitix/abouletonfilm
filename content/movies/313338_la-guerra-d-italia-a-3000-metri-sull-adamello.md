@@ -1,0 +1,1 @@
+{"tmdb_id": 313338, "title": "La guerra d'Italia a 3000 metri sull'Adamello", "original_title": "La guerra d'Italia a 3000 metri sull'Adamello", "slug_title": "la-guerra-d-italia-a-3000-metri-sull-adamello", "date": "1916-06-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

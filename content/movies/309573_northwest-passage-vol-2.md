@@ -1,0 +1,1 @@
+{"tmdb_id": 309573, "title": "Northwest Passage: Vol. 2", "original_title": "Northwest Passage: Vol. 2", "slug_title": "northwest-passage-vol-2", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

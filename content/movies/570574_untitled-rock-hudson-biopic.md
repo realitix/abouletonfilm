@@ -1,0 +1,1 @@
+{"tmdb_id": 570574, "title": "Untitled Rock Hudson Biopic", "original_title": "Untitled Rock Hudson Biopic", "slug_title": "untitled-rock-hudson-biopic", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

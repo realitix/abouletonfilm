@@ -1,0 +1,1 @@
+{"tmdb_id": 335227, "title": "Schicksal einer Oper", "original_title": "Schicksal einer Oper", "slug_title": "schicksal-einer-oper", "date": "1958-06-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/awZM43ITYIriG48I4HsG5llXjEW.jpg", "actors": [], "comments": [], "recommandations_id": []}

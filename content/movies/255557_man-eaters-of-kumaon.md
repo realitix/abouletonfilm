@@ -1,0 +1,1 @@
+{"tmdb_id": 255557, "title": "Man-Eaters of Kumaon", "original_title": "Man-Eaters of Kumaon", "slug_title": "man-eaters-of-kumaon", "date": "1986-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tim Bentinck ()", "Anna Cropper ()", "Barry John ()"], "comments": [], "recommandations_id": []}

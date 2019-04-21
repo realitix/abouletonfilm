@@ -1,0 +1,1 @@
+{"tmdb_id": 419143, "title": "What Makes Me Tic?", "original_title": "What Makes Me Tic?", "slug_title": "what-makes-me-tic", "date": "2013-12-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uuRQEHsPT40Fon4AhulmN8WzTzV.jpg", "actors": ["Matt Duhamel (Producer)"], "comments": [], "recommandations_id": []}

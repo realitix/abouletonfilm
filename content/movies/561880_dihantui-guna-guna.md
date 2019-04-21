@@ -1,0 +1,1 @@
+{"tmdb_id": 561880, "title": "Dihantui Guna Guna", "original_title": "Dihantui Guna Guna", "slug_title": "dihantui-guna-guna", "date": "2015-10-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y5KaVOygQKcs0hJKn3ZR3rpabHV.jpg", "actors": [], "comments": [], "recommandations_id": []}

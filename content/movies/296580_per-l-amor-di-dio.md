@@ -1,0 +1,1 @@
+{"tmdb_id": 296580, "title": "Per l'amor di Dio", "original_title": "Per l'amor di Dio", "slug_title": "per-l-amor-di-dio", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cUrCq0eIL37QT7fYMCmRU8VgpTy.jpg", "actors": [], "comments": [], "recommandations_id": []}

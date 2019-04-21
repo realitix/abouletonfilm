@@ -1,0 +1,1 @@
+{"tmdb_id": 478906, "title": "Saying No", "original_title": "Saying No", "slug_title": "saying-no", "date": "1982-09-30", "genre": "Drame / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Larry Reinhardt-Meyer (Young Man)", "Ann E. Ward (Young Woman)"], "comments": [], "recommandations_id": []}

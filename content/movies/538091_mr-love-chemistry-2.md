@@ -1,0 +1,1 @@
+{"tmdb_id": 538091, "title": "Mr. Love Chemistry 2", "original_title": "\u78c1\u77f3\u75372015", "slug_title": "mr-love-chemistry-2", "date": "2015-09-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aAyHpKv65Yg4BZrPnYw8f8eodAp.jpg", "actors": [], "comments": [], "recommandations_id": []}

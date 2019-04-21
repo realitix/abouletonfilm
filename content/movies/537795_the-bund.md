@@ -1,0 +1,1 @@
+{"tmdb_id": 537795, "title": "The Bund", "original_title": "\u4e0a\u6d77\u7058", "slug_title": "the-bund", "date": "1983-01-20", "genre": "Drame", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4XrBPYQgNuy8GHG5Vj4xXRYBpeH.jpg", "actors": ["Chow Yun-Fat ()", "Ray Lui ()", "Angie Chiu ()"], "comments": [], "recommandations_id": []}

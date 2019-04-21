@@ -1,0 +1,1 @@
+{"tmdb_id": 563239, "title": "The Cin\u00e9amateur Club and Its Purpose", "original_title": "Klub kinoamatera i njegova svrha", "slug_title": "the-cineamateur-club-and-its-purpose", "date": "1934-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 531165, "title": "Zoo Wars", "original_title": "Zoo Wars", "slug_title": "zoo-wars", "date": "2018-04-20", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y9OcP9W3IcfpJvJ8qW5YeZyIrBc.jpg", "actors": [], "comments": [], "recommandations_id": []}

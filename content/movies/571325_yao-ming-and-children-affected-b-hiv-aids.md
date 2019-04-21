@@ -1,0 +1,1 @@
+{"tmdb_id": 571325, "title": "Yao Ming and Children Affected b HIV/AIDS", "original_title": "Yao Ming and Children Affected b HIV/AIDS", "slug_title": "yao-ming-and-children-affected-b-hiv-aids", "date": "2005-04-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Yao Ming (himself)"], "comments": [], "recommandations_id": []}

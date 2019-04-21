@@ -1,0 +1,1 @@
+{"tmdb_id": 57895, "title": "Winx Club 22", "original_title": "Winx Club 22", "slug_title": "winx-club-22", "date": "2010-03-06", "genre": "Animation", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ucAV23BVmf4kgSDjSUpWhJLaSOs.jpg", "actors": [], "comments": [], "recommandations_id": []}

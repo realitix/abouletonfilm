@@ -1,0 +1,1 @@
+{"tmdb_id": 568066, "title": "Bikes The Movie", "original_title": "Bikes The Movie", "slug_title": "bikes-the-movie", "date": "2019-04-18", "genre": "Animation / Aventure", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i9Sx5lNeXDnznsgcupACyxDqaGs.jpg", "actors": [], "comments": [], "recommandations_id": []}

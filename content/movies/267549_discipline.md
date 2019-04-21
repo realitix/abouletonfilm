@@ -1,0 +1,1 @@
+{"tmdb_id": 267549, "title": "Discipline", "original_title": "\uc218\ub828", "slug_title": "discipline", "date": "2013-11-29", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["KIM Lee-chang (Himself)"], "comments": [], "recommandations_id": []}

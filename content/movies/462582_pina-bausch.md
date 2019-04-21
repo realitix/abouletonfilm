@@ -1,0 +1,1 @@
+{"tmdb_id": 462582, "title": "Pina Bausch", "original_title": "Pina Bausch", "slug_title": "pina-bausch", "date": "2006-12-09", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pina Bausch ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 259397, "title": "The Laughing Alligator", "original_title": "The Laughing Alligator", "slug_title": "the-laughing-alligator", "date": "1979-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

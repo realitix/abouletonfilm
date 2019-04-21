@@ -1,0 +1,1 @@
+{"tmdb_id": 16341, "title": "Barney: Let's Go To The Fair", "original_title": "Barney: Let's Go To The Fair", "slug_title": "barney-let-s-go-to-the-fair", "date": "2006-09-05", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/c3cRdRP5BDO5N7L0ItXRjoTJtZX.jpg", "actors": [], "comments": [], "recommandations_id": []}

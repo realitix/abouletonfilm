@@ -1,0 +1,1 @@
+{"tmdb_id": 345226, "title": "Ud\u00f8delige Ibsen", "original_title": "Ud\u00f8delige Ibsen", "slug_title": "udodelige-ibsen", "date": "2000-06-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

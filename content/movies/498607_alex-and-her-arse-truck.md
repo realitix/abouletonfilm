@@ -1,0 +1,1 @@
+{"tmdb_id": 498607, "title": "Alex and Her Arse Truck", "original_title": "Alex and Her Arse Truck", "slug_title": "alex-and-her-arse-truck", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/paKL9UTp2fa1rGXOqFyEL6S6Rji.jpg", "actors": [], "comments": [], "recommandations_id": []}

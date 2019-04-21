@@ -1,0 +1,1 @@
+{"tmdb_id": 304683, "title": "Galaate Samsaara", "original_title": "Galaate Samsaara", "slug_title": "galaate-samsaara", "date": "1977-12-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u2bEYuDLCGRlKQ5FSYNjZZGfrwY.jpg", "actors": ["Rajinikanth ()"], "comments": [], "recommandations_id": []}

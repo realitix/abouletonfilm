@@ -1,0 +1,1 @@
+{"tmdb_id": 37156, "title": "Cocorico: Aventuras no Campo", "original_title": "Cocorico: Aventuras no Campo", "slug_title": "cocorico-aventuras-no-campo", "date": "", "genre": "Drame / Action", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9GwLF3YpbCZ3F21kXSlPwTXA39O.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 346172, "title": "Intruder", "original_title": "\uce68\uc785\uc790", "slug_title": "intruder", "date": "2014-07-18", "genre": "Thriller / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Park Jong-hwan (Jae-min)", "Go Gyu-pil (Jae-young)"], "comments": [], "recommandations_id": []}

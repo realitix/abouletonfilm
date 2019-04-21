@@ -1,0 +1,1 @@
+{"tmdb_id": 487002, "title": "Camping", "original_title": "Camping", "slug_title": "camping", "date": "2017-11-23", "genre": "Myst\u00e8re", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ndkim5HoBs9ULqCL72pKwF0a7HH.jpg", "actors": [], "comments": [], "recommandations_id": []}

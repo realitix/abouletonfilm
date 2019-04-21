@@ -1,0 +1,1 @@
+{"tmdb_id": 154525, "title": "Maxwell's Demon", "original_title": "Maxwell's Demon", "slug_title": "maxwell-s-demon", "date": "1968-12-31", "genre": "", "score": "4.6/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tw7Yp51rlJaisR3Qq80aqOhfw3Z.jpg", "actors": [], "comments": [], "recommandations_id": [383841, 285768, 152973, 150933]}

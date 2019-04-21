@@ -1,0 +1,1 @@
+{"tmdb_id": 212259, "title": "Fotbollskr\u00f6nikan EM 1988", "original_title": "Fotbollskr\u00f6nikan EM 1988", "slug_title": "fotbollskronikan-em-1988", "date": "1988-08-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5neBQOschScJDvuGSzEJGcHBcTA.jpg", "actors": [], "comments": [], "recommandations_id": []}

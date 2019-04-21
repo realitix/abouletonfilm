@@ -1,0 +1,1 @@
+{"tmdb_id": 395889, "title": "Everything or Nothing", "original_title": "Sve ili ni\u0161ta", "slug_title": "everything-or-nothing", "date": "1968-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6nPQPlBzix9jAaiaW7Y1SHpnolR.jpg", "actors": [], "comments": [], "recommandations_id": []}

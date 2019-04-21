@@ -1,0 +1,1 @@
+{"tmdb_id": 333943, "title": "Dirty Blondes 2", "original_title": "Dirty Blondes 2", "slug_title": "dirty-blondes-2", "date": "2006-08-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kfTSaCSLuSCmyM4dZFLnKppM2Oi.jpg", "actors": ["Nicole Oring ()", "Xara Diaz ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 296235, "title": "Demon Beast Invasion Volume 6", "original_title": "Demon Beast Invasion Volume 6", "slug_title": "demon-beast-invasion-volume-6", "date": "1994-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/35sjSeq2DUr6FgAxvz7cAAYjESs.jpg", "actors": [], "comments": [], "recommandations_id": []}

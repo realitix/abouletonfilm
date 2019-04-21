@@ -1,0 +1,1 @@
+{"tmdb_id": 572174, "title": "Just Awful", "original_title": "Just Awful", "slug_title": "just-awful", "date": "1972-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

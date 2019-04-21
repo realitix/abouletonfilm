@@ -1,0 +1,1 @@
+{"tmdb_id": 149463, "title": "Naldo - Na Veia Tour 2011", "original_title": "Naldo - Na Veia Tour 2011", "slug_title": "naldo-na-veia-tour-2011", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5IgqJmcgF57ULf9kPqFa3zoDn41.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 382420, "title": "Mosori Monika", "original_title": "Mosori Monika", "slug_title": "mosori-monika", "date": "1970-02-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

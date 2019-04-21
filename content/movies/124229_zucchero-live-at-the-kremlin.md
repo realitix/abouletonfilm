@@ -1,0 +1,1 @@
+{"tmdb_id": 124229, "title": "Zucchero - Live at the Kremlin", "original_title": "Zucchero - Live at the Kremlin", "slug_title": "zucchero-live-at-the-kremlin", "date": "1990-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/igPZ1Qqi1n82i5TTWuA0zrujSzV.jpg", "actors": [], "comments": [], "recommandations_id": []}

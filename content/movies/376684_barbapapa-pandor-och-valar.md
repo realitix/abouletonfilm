@@ -1,0 +1,1 @@
+{"tmdb_id": 376684, "title": "Barbapapa - Pandor och Valar", "original_title": "Barbapapa - Pandor och Valar", "slug_title": "barbapapa-pandor-och-valar", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wQh8RVzYRt3QTSRXqJn3aIarfE0.jpg", "actors": [], "comments": [], "recommandations_id": []}

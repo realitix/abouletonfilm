@@ -1,0 +1,1 @@
+{"tmdb_id": 593676, "title": "The Legacy", "original_title": "The Legacy", "slug_title": "the-legacy", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Nathan Day (Hayden)", "Al Snow (Grim)"], "comments": [], "recommandations_id": []}

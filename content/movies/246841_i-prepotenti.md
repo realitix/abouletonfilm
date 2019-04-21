@@ -1,0 +1,1 @@
+{"tmdb_id": 246841, "title": "I prepotenti", "original_title": "I prepotenti", "slug_title": "i-prepotenti", "date": "1958-12-30", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cJ8byyej6ZdTInFSQ93jx02pu4G.jpg", "actors": ["Aldo Fabrizi ()", "Nino Taranto ()", "Ave Ninchi ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 534295, "title": "La s\u00e9villane", "original_title": "La s\u00e9villane", "slug_title": "la-sevillane", "date": "1992-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

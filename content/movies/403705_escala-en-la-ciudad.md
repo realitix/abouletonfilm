@@ -1,0 +1,1 @@
+{"tmdb_id": 403705, "title": "Escala en la ciudad", "original_title": "Escala en la ciudad", "slug_title": "escala-en-la-ciudad", "date": "1935-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rCQ4X0Bq24b6lktzUXifTVZdiV2.jpg", "actors": [], "comments": [], "recommandations_id": []}

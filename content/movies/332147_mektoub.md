@@ -1,0 +1,1 @@
+{"tmdb_id": 332147, "title": "Mektoub", "original_title": "Mektoub", "slug_title": "mektoub", "date": "1970-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["El Kebir ()", "Pierre Mirat ()", "Ali Ghalem ()"], "comments": [], "recommandations_id": []}

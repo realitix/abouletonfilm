@@ -1,0 +1,1 @@
+{"tmdb_id": 406944, "title": "A Barber Cure", "original_title": "A Barber Cure", "slug_title": "a-barber-cure", "date": "1913-10-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gus Pixley (The Barber)", "Charles Murray (The Count)", "Louise Orth (Flossie Fluff)"], "comments": [], "recommandations_id": []}

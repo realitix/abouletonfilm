@@ -1,0 +1,1 @@
+{"tmdb_id": 188265, "title": "Magnetic Personality", "original_title": "Magnetic Personality", "slug_title": "magnetic-personality", "date": "2012-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

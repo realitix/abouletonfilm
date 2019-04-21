@@ -1,0 +1,1 @@
+{"tmdb_id": 533893, "title": "The Bob Zula", "original_title": "The Bob Zula", "slug_title": "the-bob-zula", "date": "2009-03-26", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9lSEcMU6FgPK9l3qTttVFyJG8EM.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 386836, "title": "The Golden Cage", "original_title": "La Jaula de Oro", "slug_title": "the-golden-cage", "date": "", "genre": "Drame", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wf8M1LUawAiKwbjVM7KlE0FoNJk.jpg", "actors": [], "comments": [], "recommandations_id": []}

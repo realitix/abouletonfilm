@@ -1,0 +1,1 @@
+{"tmdb_id": 319723, "title": "Majestic Journeys", "original_title": "Majestic Journeys", "slug_title": "majestic-journeys", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

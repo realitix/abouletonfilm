@@ -1,0 +1,1 @@
+{"tmdb_id": 552656, "title": "Valerie Morgan: TV Qualified", "original_title": "Valerie Morgan: TV Qualified", "slug_title": "valerie-morgan-tv-qualified", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

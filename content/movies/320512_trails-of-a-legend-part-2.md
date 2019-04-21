@@ -1,0 +1,1 @@
+{"tmdb_id": 320512, "title": "Trails of a Legend Part 2", "original_title": "Trails of a Legend Part 2", "slug_title": "trails-of-a-legend-part-2", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

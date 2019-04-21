@@ -1,0 +1,1 @@
+{"tmdb_id": 550675, "title": "Haunted People", "original_title": "Gehetzte Menschen", "slug_title": "haunted-people", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 588905, "title": "Theo Angelopoulos: A Lifework in Film", "original_title": "Theo Angelopoulos: A Lifework in Film", "slug_title": "theo-angelopoulos-a-lifework-in-film", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Theo Angelopoulos ()"], "comments": [], "recommandations_id": []}

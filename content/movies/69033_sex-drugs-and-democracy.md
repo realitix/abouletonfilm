@@ -1,0 +1,1 @@
+{"tmdb_id": 69033, "title": "Sex, Drugs and Democracy", "original_title": "Sex, Drugs and Democracy", "slug_title": "sex-drugs-and-democracy", "date": "1994-07-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4TIFmOEDDVvjUdYXfxHeOolInZZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

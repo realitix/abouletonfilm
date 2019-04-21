@@ -1,0 +1,1 @@
+{"tmdb_id": 309504, "title": "Pallas: Live from London", "original_title": "Pallas: Live from London", "slug_title": "pallas-live-from-london", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

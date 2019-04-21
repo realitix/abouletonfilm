@@ -1,0 +1,1 @@
+{"tmdb_id": 203008, "title": "The Bake Street Hauntings", "original_title": "The Bake Street Hauntings", "slug_title": "the-bake-street-hauntings", "date": "2011-01-01", "genre": "", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dr5mdbjib0aN97PWf3Qx6CnpJn8.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 516611, "title": "Son Darbe: 28 \u015eubat", "original_title": "Son Darbe: 28 \u015eubat", "slug_title": "son-darbe-28-subat", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

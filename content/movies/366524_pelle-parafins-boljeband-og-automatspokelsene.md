@@ -1,0 +1,1 @@
+{"tmdb_id": 366524, "title": "Pelle Parafins B\u00f8ljeband og automatsp\u00f8kelsene", "original_title": "Pelle Parafins B\u00f8ljeband og automatsp\u00f8kelsene", "slug_title": "pelle-parafins-boljeband-og-automatspokelsene", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

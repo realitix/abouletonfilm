@@ -1,0 +1,1 @@
+{"tmdb_id": 443415, "title": "Healthcaring from Our End of the Speculum", "original_title": "Healthcaring from Our End of the Speculum", "slug_title": "healthcaring-from-our-end-of-the-speculum", "date": "1976-02-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 489883, "title": "The Labor Front", "original_title": "The Labor Front", "slug_title": "the-labor-front", "date": "1943-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

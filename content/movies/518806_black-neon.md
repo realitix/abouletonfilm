@@ -1,0 +1,1 @@
+{"tmdb_id": 518806, "title": "Black Neon", "original_title": "Black Neon", "slug_title": "black-neon", "date": "", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2NbL0s9gad3VESIh2A4eBHYFtDi.jpg", "actors": [], "comments": [], "recommandations_id": []}

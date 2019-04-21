@@ -1,0 +1,1 @@
+{"tmdb_id": 594056, "title": "Dear Mr. Fukuma", "original_title": "\u798f\u9593\u3055\u3093\u3078\u3002", "slug_title": "dear-mr-fukuma", "date": "1993-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/17pvsjPRYHDdvKo8UypkEX0hDsz.jpg", "actors": [], "comments": [], "recommandations_id": []}

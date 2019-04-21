@@ -1,0 +1,1 @@
+{"tmdb_id": 512990, "title": "Exercises spirituels", "original_title": "Exercises spirituels", "slug_title": "exercises-spirituels", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d9RElaIewKQQqEOxCyuVzDpNc7p.jpg", "actors": [], "comments": [], "recommandations_id": []}

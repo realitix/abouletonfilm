@@ -1,0 +1,1 @@
+{"tmdb_id": 581772, "title": "Bittersweet Survival", "original_title": "Bittersweet Survival", "slug_title": "bittersweet-survival", "date": "1982-05-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 263551, "title": "Strange Friends", "original_title": "Mo sheng de peng you", "slug_title": "strange-friends", "date": "1983-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wrSrsYfKHglaxK3uku4Rf5u3HW7.jpg", "actors": ["Ling Li ()"], "comments": [], "recommandations_id": []}

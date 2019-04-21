@@ -1,0 +1,1 @@
+{"tmdb_id": 525116, "title": "Supernatural Assault", "original_title": "Supernatural Assault", "slug_title": "supernatural-assault", "date": "2018-04-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

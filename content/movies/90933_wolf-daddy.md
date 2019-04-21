@@ -1,0 +1,1 @@
+{"tmdb_id": 90933, "title": "Wolf Daddy", "original_title": "Wolf Daddy", "slug_title": "wolf-daddy", "date": "2005-01-01", "genre": "Animation / Com\u00e9die", "score": "6.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/W8l82yMSRDZVAXlzx2CmjZ2VDE.jpg", "actors": [], "comments": [], "recommandations_id": [344454, 73968, 160329, 254582]}

@@ -1,0 +1,1 @@
+{"tmdb_id": 344757, "title": "An Acquired Taste", "original_title": "An Acquired Taste", "slug_title": "an-acquired-taste", "date": "1982-09-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ralph Arlyck (Himself)"], "comments": [], "recommandations_id": []}

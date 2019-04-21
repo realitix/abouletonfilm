@@ -1,0 +1,1 @@
+{"tmdb_id": 300071, "title": "Will Tell Jokes For Food", "original_title": "Will Tell Jokes For Food", "slug_title": "will-tell-jokes-for-food", "date": "2014-12-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

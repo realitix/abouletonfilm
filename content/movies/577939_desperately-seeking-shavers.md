@@ -1,0 +1,1 @@
+{"tmdb_id": 577939, "title": "Desperately Seeking Shavers", "original_title": "Desperately Seeking Shavers", "slug_title": "desperately-seeking-shavers", "date": "2018-03-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

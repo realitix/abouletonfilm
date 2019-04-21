@@ -1,0 +1,1 @@
+{"tmdb_id": 587527, "title": "Ski Trippin'", "original_title": "Ski Trippin'", "slug_title": "ski-trippin", "date": "2005-04-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Poochman ()", "Eddie Hustle ()", "Tommy McMillan ()"], "comments": [], "recommandations_id": []}

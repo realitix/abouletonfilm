@@ -1,0 +1,1 @@
+{"tmdb_id": 313433, "title": "Bedbug Bible Gang: Dandy Dreams", "original_title": "Bedbug Bible Gang: Dandy Dreams", "slug_title": "bedbug-bible-gang-dandy-dreams", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

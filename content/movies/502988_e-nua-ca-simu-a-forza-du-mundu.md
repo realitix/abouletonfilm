@@ -1,0 +1,1 @@
+{"tmdb_id": 502988, "title": "E nua ca simu a forza du mundu", "original_title": "E nua ca simu a forza du mundu", "slug_title": "e-nua-ca-simu-a-forza-du-mundu", "date": "1971-02-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 310488, "title": "Egypt Light of the World", "original_title": "Egypt Light of the World", "slug_title": "egypt-light-of-the-world", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

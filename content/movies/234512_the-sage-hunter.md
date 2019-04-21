@@ -1,0 +1,1 @@
+{"tmdb_id": 234512, "title": "The Sage Hunter", "original_title": "The Sage Hunter", "slug_title": "the-sage-hunter", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

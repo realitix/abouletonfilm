@@ -1,0 +1,1 @@
+{"tmdb_id": 263083, "title": "Prime luci dell'alba", "original_title": "Prime luci dell'alba", "slug_title": "prime-luci-dell-alba", "date": "2000-04-05", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/llU77bc8UuHsJ6Dhb0XaxIageCm.jpg", "actors": [], "comments": [], "recommandations_id": []}

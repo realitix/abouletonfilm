@@ -1,0 +1,1 @@
+{"tmdb_id": 528750, "title": "De Janela pro Cinema", "original_title": "De Janela pro Cinema", "slug_title": "de-janela-pro-cinema", "date": "1999-01-02", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xwrZaTQHcISsy45nWTd09BEbSJ6.jpg", "actors": [], "comments": [], "recommandations_id": []}

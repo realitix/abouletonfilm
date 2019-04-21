@@ -1,0 +1,1 @@
+{"tmdb_id": 280713, "title": "Bamses billedbog 26", "original_title": "Bamses billedbog 26", "slug_title": "bamses-billedbog-26", "date": "2006-07-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aWM1x2vkv8iWedZS7oE0A3GNkXo.jpg", "actors": [], "comments": [], "recommandations_id": []}

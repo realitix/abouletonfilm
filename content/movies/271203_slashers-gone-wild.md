@@ -1,0 +1,1 @@
+{"tmdb_id": 271203, "title": "Slashers Gone Wild!", "original_title": "Slashers Gone Wild!", "slug_title": "slashers-gone-wild", "date": "2006-08-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9jsDP0dtsGhteXcPOCmOeSg828J.jpg", "actors": [], "comments": [], "recommandations_id": []}

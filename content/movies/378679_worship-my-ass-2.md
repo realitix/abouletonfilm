@@ -1,0 +1,1 @@
+{"tmdb_id": 378679, "title": "Worship My Ass! 2", "original_title": "Worship My Ass! 2", "slug_title": "worship-my-ass-2", "date": "2014-05-22", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2Tyu08h1zOAHoepPnaSn5TMXizA.jpg", "actors": ["Smoking Mary Jane ()"], "comments": [], "recommandations_id": []}

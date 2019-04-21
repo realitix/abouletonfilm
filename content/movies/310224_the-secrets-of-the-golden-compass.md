@@ -1,0 +1,1 @@
+{"tmdb_id": 310224, "title": "The Secrets of the Golden Compass", "original_title": "The Secrets of the Golden Compass", "slug_title": "the-secrets-of-the-golden-compass", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

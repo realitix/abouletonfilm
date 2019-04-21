@@ -1,0 +1,1 @@
+{"tmdb_id": 277169, "title": "Private Osman", "original_title": "Private Osman", "slug_title": "private-osman", "date": "1970-06-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ckxRfLLTmj0u5Moss7PSHRboBZB.jpg", "actors": [], "comments": [], "recommandations_id": []}

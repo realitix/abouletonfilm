@@ -1,0 +1,1 @@
+{"tmdb_id": 492593, "title": "A C\u00e2mera de Jo\u00e3o", "original_title": "A C\u00e2mera de Jo\u00e3o", "slug_title": "a-camera-de-joao", "date": "2017-11-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

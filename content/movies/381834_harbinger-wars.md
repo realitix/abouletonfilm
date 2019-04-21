@@ -1,0 +1,1 @@
+{"tmdb_id": 381834, "title": "Harbinger Wars", "original_title": "Harbinger Wars", "slug_title": "harbinger-wars", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

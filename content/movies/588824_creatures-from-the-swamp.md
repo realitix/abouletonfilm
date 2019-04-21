@@ -1,0 +1,1 @@
+{"tmdb_id": 588824, "title": "Creatures from the Swamp", "original_title": "Sumpdyr", "slug_title": "creatures-from-the-swamp", "date": "2018-12-31", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dXBzyuRvjT1yfSQ3FolqGDP3fNU.jpg", "actors": [], "comments": [], "recommandations_id": []}

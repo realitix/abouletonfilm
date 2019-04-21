@@ -1,0 +1,1 @@
+{"tmdb_id": 136549, "title": "After the Dawn", "original_title": "After the Dawn", "slug_title": "after-the-dawn", "date": "2012-04-22", "genre": "Horreur / Science-Fiction", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bY1cMo1EvRfcvXrsRvSyXALAgQQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

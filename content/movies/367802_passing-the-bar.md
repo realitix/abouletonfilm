@@ -1,0 +1,1 @@
+{"tmdb_id": 367802, "title": "Passing the Bar", "original_title": "Passing the Bar", "slug_title": "passing-the-bar", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 323535, "title": "Batter Up!", "original_title": "Batter Up!", "slug_title": "batter-up", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

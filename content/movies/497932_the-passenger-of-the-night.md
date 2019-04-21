@@ -1,0 +1,1 @@
+{"tmdb_id": 497932, "title": "The Passenger of the Night", "original_title": "El Pasajero de la Noche", "slug_title": "the-passenger-of-the-night", "date": "1989-06-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

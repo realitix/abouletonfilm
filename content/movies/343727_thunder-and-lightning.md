@@ -1,0 +1,1 @@
+{"tmdb_id": 343727, "title": "Thunder and Lightning", "original_title": "Thunder and Lightning", "slug_title": "thunder-and-lightning", "date": "2015-05-04", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rafael Palmeiro (Himself)", "Will Clark (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 293854, "title": "Spicy Mac Project", "original_title": "Spicy Mac Project", "slug_title": "spicy-mac-project", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Victoria Hogan (Victoria)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 311566, "title": "Krik? Krak!: Tales of a Nightmare", "original_title": "Krik? Krak!: Tales of a Nightmare", "slug_title": "krik-krak-tales-of-a-nightmare", "date": "1988-09-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 276592, "title": "Wordz: A Longboarding Lexicon", "original_title": "Wordz: A Longboarding Lexicon", "slug_title": "wordz-a-longboarding-lexicon", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 178152, "title": "Mommy Mommy Where's My Brain?", "original_title": "Mommy Mommy Where's My Brain?", "slug_title": "mommy-mommy-where-s-my-brain", "date": "1986-01-01", "genre": "", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3JtgW3bwq4V37GAsshoeefvvXIi.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 569574, "title": "Tempos de C\u00e3o", "original_title": "Tempos de C\u00e3o", "slug_title": "tempos-de-cao", "date": "2016-01-01", "genre": "Science-Fiction", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

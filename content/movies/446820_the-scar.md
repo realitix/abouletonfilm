@@ -1,0 +1,1 @@
+{"tmdb_id": 446820, "title": "The scar", "original_title": "La cicatriz", "slug_title": "the-scar", "date": "2005-02-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Angela Pugh (Mary O'Murphy)", "Ludovic Tattevin (Jorgen Nielsen)"], "comments": [], "recommandations_id": []}

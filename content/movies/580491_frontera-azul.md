@@ -1,0 +1,1 @@
+{"tmdb_id": 580491, "title": "Frontera Azul", "original_title": "Frontera Azul", "slug_title": "frontera-azul", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hycVrVwEdxQHUbEzi0XgGHhzmr4.jpg", "actors": [], "comments": [], "recommandations_id": []}

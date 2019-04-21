@@ -1,0 +1,1 @@
+{"tmdb_id": 295594, "title": "Squirrels", "original_title": "Squirrels", "slug_title": "squirrels", "date": "2014-12-30", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qeHlxwwD1QSkQi5wjs1AdnruIDY.jpg", "actors": [], "comments": [], "recommandations_id": []}

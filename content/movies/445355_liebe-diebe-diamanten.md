@@ -1,0 +1,1 @@
+{"tmdb_id": 445355, "title": "Liebe, Diebe, Diamanten", "original_title": "Liebe, Diebe, Diamanten", "slug_title": "liebe-diebe-diamanten", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Michael Fitz ()", "Sibylle Canonica ()", "Ralph Gassmann ()", "Cornelia Ivancan ()"], "comments": [], "recommandations_id": []}

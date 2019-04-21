@@ -1,0 +1,1 @@
+{"tmdb_id": 557354, "title": "Adh\u00e9mar Lampiot", "original_title": "Adh\u00e9mar Lampiot", "slug_title": "adhemar-lampiot", "date": "1932-10-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

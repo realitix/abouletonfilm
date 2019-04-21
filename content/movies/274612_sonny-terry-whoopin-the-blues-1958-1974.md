@@ -1,0 +1,1 @@
+{"tmdb_id": 274612, "title": "Sonny Terry: Whoopin' the Blues: 1958-1974", "original_title": "Sonny Terry: Whoopin' the Blues: 1958-1974", "slug_title": "sonny-terry-whoopin-the-blues-1958-1974", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

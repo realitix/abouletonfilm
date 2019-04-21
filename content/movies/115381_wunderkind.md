@@ -1,0 +1,1 @@
+{"tmdb_id": 115381, "title": "Wunderkind", "original_title": "Wunderkind", "slug_title": "wunderkind", "date": "", "genre": "Action / Thriller", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

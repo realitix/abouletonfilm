@@ -1,0 +1,1 @@
+{"tmdb_id": 520636, "title": "Wise Guys", "original_title": "Wise Guys", "slug_title": "wise-guys", "date": "1938-02-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

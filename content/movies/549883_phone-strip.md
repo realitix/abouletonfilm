@@ -1,0 +1,1 @@
+{"tmdb_id": 549883, "title": "Phone Strip", "original_title": "Phone Strip", "slug_title": "phone-strip", "date": "2007-09-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wWKizAopOhiOMxriJxreF2rTEq2.jpg", "actors": [], "comments": [], "recommandations_id": []}

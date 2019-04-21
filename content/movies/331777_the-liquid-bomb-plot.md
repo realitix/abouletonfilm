@@ -1,0 +1,1 @@
+{"tmdb_id": 331777, "title": "The Liquid Bomb Plot", "original_title": "The Liquid Bomb Plot", "slug_title": "the-liquid-bomb-plot", "date": "2011-08-22", "genre": "Drame / Documentaire / Histoire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yheChWfBoYQP9OSajQFnJ0ZkAd4.jpg", "actors": [], "comments": [], "recommandations_id": []}

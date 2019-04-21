@@ -1,0 +1,1 @@
+{"tmdb_id": 170332, "title": "Caruncula", "original_title": "Caruncula", "slug_title": "caruncula", "date": "2006-09-26", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jonathan Jaynes (Maniac)", "Rosalynd Furlong (Girl)", "Peter Waddington (Creepy Usher)"], "comments": [], "recommandations_id": []}

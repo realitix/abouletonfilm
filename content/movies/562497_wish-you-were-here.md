@@ -1,0 +1,1 @@
+{"tmdb_id": 562497, "title": "Wish You Were Here", "original_title": "Wish You Were Here", "slug_title": "wish-you-were-here", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

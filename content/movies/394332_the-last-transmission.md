@@ -1,0 +1,1 @@
+{"tmdb_id": 394332, "title": "The Last Transmission", "original_title": "The Last Transmission", "slug_title": "the-last-transmission", "date": "2016-03-01", "genre": "Drame / Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5Cc7MnIRIQQOnKlFIeCl0akQ8GK.jpg", "actors": [], "comments": [], "recommandations_id": []}

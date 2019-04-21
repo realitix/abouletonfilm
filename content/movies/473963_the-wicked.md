@@ -1,0 +1,1 @@
+{"tmdb_id": 473963, "title": "The Wicked", "original_title": "The Wicked", "slug_title": "the-wicked", "date": "2001-07-15", "genre": "Horreur", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

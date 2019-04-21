@@ -1,0 +1,1 @@
+{"tmdb_id": 268149, "title": "Strange Fruit", "original_title": "Strange Fruit", "slug_title": "strange-fruit", "date": "2014-04-19", "genre": "Animation / Drame", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/c3HoClKiMKgjQ9GwdlpRF95j3Av.jpg", "actors": [], "comments": [], "recommandations_id": []}

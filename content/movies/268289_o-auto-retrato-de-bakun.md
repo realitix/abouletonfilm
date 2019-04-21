@@ -1,0 +1,1 @@
+{"tmdb_id": 268289, "title": "O auto-retrato de Bakun", "original_title": "O auto-retrato de Bakun", "slug_title": "o-auto-retrato-de-bakun", "date": "1984-05-05", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v3Wg1qBSvcaFl3kojQ4ZTda01Su.jpg", "actors": [], "comments": [], "recommandations_id": []}

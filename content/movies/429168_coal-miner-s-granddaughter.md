@@ -1,0 +1,1 @@
+{"tmdb_id": 429168, "title": "Coal Miner's Granddaughter", "original_title": "Coal Miner's Granddaughter", "slug_title": "coal-miner-s-granddaughter", "date": "1991-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

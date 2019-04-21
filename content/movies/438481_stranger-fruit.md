@@ -1,0 +1,1 @@
+{"tmdb_id": 438481, "title": "Stranger Fruit", "original_title": "Stranger Fruit", "slug_title": "stranger-fruit", "date": "2017-03-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r4bxSms9W6om09fkoia1GQuvox5.jpg", "actors": [], "comments": [], "recommandations_id": []}

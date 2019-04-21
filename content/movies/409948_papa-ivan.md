@@ -1,0 +1,1 @@
+{"tmdb_id": 409948, "title": "Pap\u00e1 Iv\u00e1n", "original_title": "Pap\u00e1 Iv\u00e1n", "slug_title": "papa-ivan", "date": "2004-07-29", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nOh0B0XhpTB6zx4zEWUxdYPF8lP.jpg", "actors": [], "comments": [], "recommandations_id": []}

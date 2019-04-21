@@ -1,0 +1,1 @@
+{"tmdb_id": 589782, "title": "Killing Auntie", "original_title": "Zabicie ciotki", "slug_title": "killing-auntie", "date": "2013-11-20", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Marek Kossakowski ()", "Ewa Kolasi\u0144ska ()", "Aleksandra Pisula ()"], "comments": [], "recommandations_id": []}

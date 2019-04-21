@@ -1,0 +1,1 @@
+{"tmdb_id": 432909, "title": "Habilito: Debt for Life", "original_title": "Habilito: Deuda por Vida", "slug_title": "habilito-debt-for-life", "date": "2010-08-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kLPl6thgVlD4GtvZj1A7Nk8l2oD.jpg", "actors": [], "comments": [], "recommandations_id": []}

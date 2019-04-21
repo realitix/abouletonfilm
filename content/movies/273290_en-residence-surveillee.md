@@ -1,0 +1,1 @@
+{"tmdb_id": 273290, "title": "En r\u00e9sidence surveill\u00e9e", "original_title": "En r\u00e9sidence surveill\u00e9e", "slug_title": "en-residence-surveillee", "date": "1981-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Douta Seck ()", "Michel Coulon ()", "Joseph Baloma Sane ()"], "comments": [], "recommandations_id": []}

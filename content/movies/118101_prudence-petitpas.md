@@ -1,0 +1,1 @@
+{"tmdb_id": 118101, "title": "Prudence Petitpas", "original_title": "Prudence Petitpas", "slug_title": "prudence-petitpas", "date": "2001-03-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ijlUtFJFA6SlrkrWO5UDz19VwPS.jpg", "actors": [], "comments": [], "recommandations_id": []}

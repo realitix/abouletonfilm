@@ -1,0 +1,1 @@
+{"tmdb_id": 323566, "title": "Casablanca Calling", "original_title": "Casablanca Calling", "slug_title": "casablanca-calling", "date": "2014-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eGXOCgcuSEKFtQydQG3g7wwGyA6.jpg", "actors": [], "comments": [], "recommandations_id": []}

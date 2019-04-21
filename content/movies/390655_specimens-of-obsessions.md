@@ -1,0 +1,1 @@
+{"tmdb_id": 390655, "title": "Specimens of Obsessions", "original_title": "\u6a19\u672c\u306e\u5854", "slug_title": "specimens-of-obsessions", "date": "2011-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1TrT5r1Ci60crNe5stfGqa91pn1.jpg", "actors": [], "comments": [], "recommandations_id": []}

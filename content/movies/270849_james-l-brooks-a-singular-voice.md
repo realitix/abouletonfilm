@@ -1,0 +1,1 @@
+{"tmdb_id": 270849, "title": "James L. Brooks - A Singular Voice", "original_title": "James L. Brooks - A Singular Voice", "slug_title": "james-l-brooks-a-singular-voice", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

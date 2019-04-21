@@ -1,0 +1,1 @@
+{"tmdb_id": 269371, "title": "Heart of the Country", "original_title": "Heart of the Country", "slug_title": "heart-of-the-country", "date": "1997-05-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/guZShHnroUcdXJEhe9UeU3orn9q.jpg", "actors": [], "comments": [], "recommandations_id": []}

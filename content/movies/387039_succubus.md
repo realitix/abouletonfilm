@@ -1,0 +1,1 @@
+{"tmdb_id": 387039, "title": "Succubus", "original_title": "Succubus", "slug_title": "succubus", "date": "2016-04-15", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7pSwl8n0LJeB8VxoeY2gNAmdaiQ.jpg", "actors": ["Alena Trucizna ()", "Mari K ()", "Mli Droms ()", "Viik ()"], "comments": [], "recommandations_id": []}

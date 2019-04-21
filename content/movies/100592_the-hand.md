@@ -1,0 +1,1 @@
+{"tmdb_id": 100592, "title": "The Hand", "original_title": "Ruka", "slug_title": "the-hand", "date": "1965-10-26", "genre": "Animation / Horreur", "score": "7.9/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tW4cLjJGwLwUINUigYUYIoyPoKo.jpg", "actors": [], "comments": [], "recommandations_id": [47217, 44357, 183714, 128937]}

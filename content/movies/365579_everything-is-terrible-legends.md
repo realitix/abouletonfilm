@@ -1,0 +1,1 @@
+{"tmdb_id": 365579, "title": "Everything is Terrible: Legends", "original_title": "Everything is Terrible: Legends", "slug_title": "everything-is-terrible-legends", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xSDiNXyBHgEritt42lHTrcUBTsj.jpg", "actors": [], "comments": [], "recommandations_id": []}

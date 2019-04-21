@@ -1,0 +1,1 @@
+{"tmdb_id": 522343, "title": "\u00a1Ya Basta! Le Cri des Sans-Visage", "original_title": "\u00a1Ya Basta! Le Cri des Sans-Visage", "slug_title": "ya-basta-le-cri-des-sans-visage", "date": "1997-01-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

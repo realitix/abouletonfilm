@@ -1,0 +1,1 @@
+{"tmdb_id": 307427, "title": "Bangaru Kalalu", "original_title": "Bangaru Kalalu", "slug_title": "bangaru-kalalu", "date": "1974-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

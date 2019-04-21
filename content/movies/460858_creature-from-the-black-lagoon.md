@@ -1,0 +1,1 @@
+{"tmdb_id": 460858, "title": "Creature from the Black Lagoon", "original_title": "Creature from the Black Lagoon", "slug_title": "creature-from-the-black-lagoon", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

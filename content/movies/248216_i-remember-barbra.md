@@ -1,0 +1,1 @@
+{"tmdb_id": 248216, "title": "I Remember Barbra", "original_title": "I Remember Barbra", "slug_title": "i-remember-barbra", "date": "1981-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

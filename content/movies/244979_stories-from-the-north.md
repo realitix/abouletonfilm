@@ -1,0 +1,1 @@
+{"tmdb_id": 244979, "title": "Stories from the North", "original_title": "Reanglao Jak Meangnue", "slug_title": "stories-from-the-north", "date": "2006-10-21", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kon Chaitha ()", "Sombut Chaitha ()", "Tan Kongwan ()", "Sak Punkum ()"], "comments": [], "recommandations_id": []}

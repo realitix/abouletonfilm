@@ -1,0 +1,1 @@
+{"tmdb_id": 466448, "title": "Bad Penny", "original_title": "Bad Penny", "slug_title": "bad-penny", "date": "", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

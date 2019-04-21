@@ -1,0 +1,1 @@
+{"tmdb_id": 329123, "title": "Caminos de liberaci\u00f3n", "original_title": "Caminos de liberaci\u00f3n", "slug_title": "caminos-de-liberacion", "date": "1985-06-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kP0xk0u2h9ItkyBmX99ziAkJKa1.jpg", "actors": [], "comments": [], "recommandations_id": []}

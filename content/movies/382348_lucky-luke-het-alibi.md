@@ -1,0 +1,1 @@
+{"tmdb_id": 382348, "title": "Lucky Luke - Het Alibi", "original_title": "Lucky Luke - Het Alibi", "slug_title": "lucky-luke-het-alibi", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lzxYvb1BmYcrrmPiFGuYdph1kh1.jpg", "actors": [], "comments": [], "recommandations_id": []}

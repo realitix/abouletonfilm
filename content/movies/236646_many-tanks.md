@@ -1,0 +1,1 @@
+{"tmdb_id": 236646, "title": "Many Tanks", "original_title": "Many Tanks", "slug_title": "many-tanks", "date": "1942-05-14", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mIZf6k4HsV0gTdTXRNgj0CtM7xU.jpg", "actors": [], "comments": [], "recommandations_id": []}

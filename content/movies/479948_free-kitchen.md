@@ -1,0 +1,1 @@
+{"tmdb_id": 479948, "title": "Free Kitchen", "original_title": "Free Kitchen", "slug_title": "free-kitchen", "date": "", "genre": "Horreur / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Toya Morita (Mitsuo)", "Mayo Onuki (Kana)", "Kiyomi Ensou (Kayoko)"], "comments": [], "recommandations_id": []}

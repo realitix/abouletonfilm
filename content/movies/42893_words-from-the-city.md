@@ -1,0 +1,1 @@
+{"tmdb_id": 42893, "title": "Words from the City", "original_title": "Words from the City", "slug_title": "words-from-the-city", "date": "2007-12-05", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2WFXCt4C5KiW0bdw1wb2oKjaWGT.jpg", "actors": [], "comments": [], "recommandations_id": []}

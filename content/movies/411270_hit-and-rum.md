@@ -1,0 +1,1 @@
+{"tmdb_id": 411270, "title": "Hit and Rum", "original_title": "Hit and Rum", "slug_title": "hit-and-rum", "date": "1935-04-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Leon Errol (Leon Errol)", "Eddie Kane (Drunk Driver)", "Lew Kelly (Impostor)"], "comments": [], "recommandations_id": []}

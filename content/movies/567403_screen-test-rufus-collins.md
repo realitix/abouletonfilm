@@ -1,0 +1,1 @@
+{"tmdb_id": 567403, "title": "Screen Test, Rufus Collins", "original_title": "Screen Test, Rufus Collins", "slug_title": "screen-test-rufus-collins", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rufus Collins (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 481278, "title": "Love Anecdote", "original_title": "\u6d3b\u7740\u7231\u7740\u4e50\u7740", "slug_title": "love-anecdote", "date": "2007-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8IkSamfZcK33MqXoItEAFFbIiHY.jpg", "actors": ["Chao Wu ()", "Zhang Yawen ()"], "comments": [], "recommandations_id": []}

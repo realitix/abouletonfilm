@@ -1,0 +1,1 @@
+{"tmdb_id": 588749, "title": "Luke Perry: In His Own Words", "original_title": "Luke Perry: In His Own Words", "slug_title": "luke-perry-in-his-own-words", "date": "2019-03-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Luke Perry ()"], "comments": [], "recommandations_id": []}

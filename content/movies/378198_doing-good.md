@@ -1,0 +1,1 @@
+{"tmdb_id": 378198, "title": "Doing Good", "original_title": "Mannen fra Sn\u00e5sa", "slug_title": "doing-good", "date": "2016-01-22", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nF6rrlQshzVjMQwrl5ZJjlHSkgU.jpg", "actors": ["Joralf Gjerstad (Himself)"], "comments": [], "recommandations_id": []}

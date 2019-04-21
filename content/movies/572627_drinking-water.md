@@ -1,0 +1,1 @@
+{"tmdb_id": 572627, "title": "Drinking Water", "original_title": "Drinking Water", "slug_title": "drinking-water", "date": "2018-12-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vwHEkhPzHb7y7xp9CdGjttP2LRQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

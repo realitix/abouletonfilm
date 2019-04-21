@@ -1,0 +1,1 @@
+{"tmdb_id": 394997, "title": "\uc774\uc6c3\ub3d9\uc11c", "original_title": "\uc774\uc6c3\ub3d9\uc11c", "slug_title": "iusdongseo", "date": "2016-05-01", "genre": "Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Gm0Z7pLS5GEWzZmtjeBviraObX.jpg", "actors": ["Min Hyeok ()"], "comments": [], "recommandations_id": []}

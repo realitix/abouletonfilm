@@ -1,0 +1,1 @@
+{"tmdb_id": 537997, "title": "Stopgap in Stop Motion", "original_title": "Stopgap in Stop Motion", "slug_title": "stopgap-in-stop-motion", "date": "2018-07-24", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

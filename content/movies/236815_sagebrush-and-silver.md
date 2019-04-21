@@ -1,0 +1,1 @@
+{"tmdb_id": 236815, "title": "Sagebrush and Silver", "original_title": "Sagebrush and Silver", "slug_title": "sagebrush-and-silver", "date": "1941-08-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

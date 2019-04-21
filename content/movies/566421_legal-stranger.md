@@ -1,0 +1,1 @@
+{"tmdb_id": 566421, "title": "Legal Stranger", "original_title": "Legal Stranger", "slug_title": "legal-stranger", "date": "2013-06-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 346946, "title": "Calculated Movements", "original_title": "Calculated Movements", "slug_title": "calculated-movements", "date": "1985-12-31", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iYGI8cp5FxKjIpGaOTMOHTQWCr5.jpg", "actors": [], "comments": [], "recommandations_id": []}

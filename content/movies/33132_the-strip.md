@@ -1,0 +1,1 @@
+{"tmdb_id": 33132, "title": "The Strip", "original_title": "The Strip", "slug_title": "the-strip", "date": "2009-08-09", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/muIX8EonkgBSxnPEgHclFrRYF9H.jpg", "actors": ["Dave Foley (Glenn)"], "comments": [], "recommandations_id": []}

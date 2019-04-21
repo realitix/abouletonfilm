@@ -1,0 +1,1 @@
+{"tmdb_id": 46790, "title": "Call Me Genie", "original_title": "Call Me Genie", "slug_title": "call-me-genie", "date": "2005-01-27", "genre": "Com\u00e9die / Science-Fiction", "score": "3.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/po0l7YUHxbEqw4sVUHIAI2whDXl.jpg", "actors": ["Pyotr Buslov (Genie)"], "comments": [], "recommandations_id": []}

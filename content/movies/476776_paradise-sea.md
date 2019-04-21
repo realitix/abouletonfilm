@@ -1,0 +1,1 @@
+{"tmdb_id": 476776, "title": "Paradise Sea", "original_title": "\u697d\u5712", "slug_title": "paradise-sea", "date": "1998-09-19", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Shinji Arano ()", "Miwako Kawai ()", "Reiko Matsuo ()", "Fukuo Sudo ()", "Nobuyoshi Tanigawa ()"], "comments": [], "recommandations_id": []}

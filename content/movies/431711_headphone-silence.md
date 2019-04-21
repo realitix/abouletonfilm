@@ -1,0 +1,1 @@
+{"tmdb_id": 431711, "title": "Headphone Silence", "original_title": "Headphone Silence", "slug_title": "headphone-silence", "date": "2010-01-31", "genre": "Drame", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/blKAnVGuade5VbcAuLiVH4evSfG.jpg", "actors": [], "comments": [], "recommandations_id": [58877, 353049, 355513, 153798]}

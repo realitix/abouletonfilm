@@ -1,0 +1,1 @@
+{"tmdb_id": 584379, "title": "Permeke", "original_title": "Permeke", "slug_title": "permeke", "date": "1985-01-01", "genre": "Drame / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Leslie de Gruyter (commentary voice over)", "Jan Decleir (voice of Permeke)"], "comments": [], "recommandations_id": []}

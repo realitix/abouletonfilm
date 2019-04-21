@@ -1,0 +1,1 @@
+{"tmdb_id": 589708, "title": "Mother Teresa", "original_title": "Mother Teresa", "slug_title": "mother-teresa", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

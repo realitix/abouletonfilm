@@ -1,0 +1,1 @@
+{"tmdb_id": 535594, "title": "Cyber Vengeance", "original_title": "Cyber Vengeance", "slug_title": "cyber-vengeance", "date": "2007-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

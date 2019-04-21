@@ -1,0 +1,1 @@
+{"tmdb_id": 136851, "title": "Watain - Opus Diaboli", "original_title": "Watain - Opus Diaboli", "slug_title": "watain-opus-diaboli", "date": "2012-06-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vRBVAsfVSu9rYK8BM5nXE5YTz.jpg", "actors": [], "comments": [], "recommandations_id": []}

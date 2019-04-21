@@ -1,0 +1,1 @@
+{"tmdb_id": 522956, "title": "Portrait of a Life", "original_title": "Ekti Jiban", "slug_title": "portrait-of-a-life", "date": "1988-09-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mdEvPE2vfHwc0d6BFpLQVeBOO6v.jpg", "actors": [], "comments": [], "recommandations_id": []}

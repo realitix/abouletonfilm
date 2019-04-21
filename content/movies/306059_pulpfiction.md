@@ -1,0 +1,1 @@
+{"tmdb_id": 306059, "title": "Pulpfiction", "original_title": "Pulpfiction", "slug_title": "pulpfiction", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

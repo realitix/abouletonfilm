@@ -1,0 +1,1 @@
+{"tmdb_id": 368968, "title": "SHUKRAN MOROCCO", "original_title": "SHUKRAN MOROCCO", "slug_title": "shukran-morocco", "date": "2012-08-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7MLRi6HIYPcPeY8RT7WgtUrZ0ly.jpg", "actors": [], "comments": [], "recommandations_id": []}

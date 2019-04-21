@@ -1,0 +1,1 @@
+{"tmdb_id": 519408, "title": "Can\u00e7\u00e3o a Meio", "original_title": "Can\u00e7\u00e3o a Meio", "slug_title": "cancao-a-meio", "date": "2018-03-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

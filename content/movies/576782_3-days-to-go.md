@@ -1,0 +1,1 @@
+{"tmdb_id": 576782, "title": "3 Days to Go", "original_title": "3 Days to Go", "slug_title": "3-days-to-go", "date": "2019-01-25", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8tD78FMIGpSUBbEz2CQCvfFGsXq.jpg", "actors": ["Zakeeya Patel (Candice)", "Kajal Bagwandeen (Amy)"], "comments": [], "recommandations_id": []}

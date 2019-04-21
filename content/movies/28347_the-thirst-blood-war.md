@@ -1,0 +1,1 @@
+{"tmdb_id": 28347, "title": "The Thirst: Blood War", "original_title": "The Thirst: Blood War", "slug_title": "the-thirst-blood-war", "date": "2008-01-01", "genre": "", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pmEJtHm14UZ3zc3ZZ4QnGHJhTMb.jpg", "actors": [], "comments": [], "recommandations_id": []}

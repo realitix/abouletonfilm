@@ -1,0 +1,1 @@
+{"tmdb_id": 296464, "title": "Claw: A Fable", "original_title": "Claw: A Fable", "slug_title": "claw-a-fable", "date": "1968-11-27", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

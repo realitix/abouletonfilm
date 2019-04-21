@@ -1,0 +1,1 @@
+{"tmdb_id": 542669, "title": "All Eyes on Lenzi", "original_title": "All Eyes on Lenzi", "slug_title": "all-eyes-on-lenzi", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

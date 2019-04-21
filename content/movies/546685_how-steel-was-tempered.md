@@ -1,0 +1,1 @@
+{"tmdb_id": 546685, "title": "How Steel Was Tempered", "original_title": "Kako se kalio \u010delik", "slug_title": "how-steel-was-tempered", "date": "2018-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eUEsq5Li38eqOuGHSPbAC9Hc9kj.jpg", "actors": [], "comments": [], "recommandations_id": []}

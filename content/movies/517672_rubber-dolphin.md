@@ -1,0 +1,1 @@
+{"tmdb_id": 517672, "title": "Rubber Dolphin", "original_title": "Rubber Dolphin", "slug_title": "rubber-dolphin", "date": "2018-05-11", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9C5CxrScyIXRGyUUdoSHhU8nMwg.jpg", "actors": ["Chen Hefetz ()", "Omri Laron ()"], "comments": [], "recommandations_id": []}

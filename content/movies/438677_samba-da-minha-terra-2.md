@@ -1,0 +1,1 @@
+{"tmdb_id": 438677, "title": "Samba da Minha Terra 2", "original_title": "Samba da Minha Terra 2", "slug_title": "samba-da-minha-terra-2", "date": "2013-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qkvFa7uwWDnAtbzyAvsXHKZU00f.jpg", "actors": [], "comments": [], "recommandations_id": []}

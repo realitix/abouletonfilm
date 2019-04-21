@@ -1,0 +1,1 @@
+{"tmdb_id": 443336, "title": "Aad liyantaqim", "original_title": "Aad liyantaqim", "slug_title": "aad-liyantaqim", "date": "1988-01-10", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zWZWsMhDBzeDcNXgHJCT7DXjxZk.jpg", "actors": [], "comments": [], "recommandations_id": []}

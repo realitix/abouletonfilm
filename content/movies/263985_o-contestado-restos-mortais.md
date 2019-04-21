@@ -1,0 +1,1 @@
+{"tmdb_id": 263985, "title": "O Contestado - Restos Mortais", "original_title": "O Contestado - Restos Mortais", "slug_title": "o-contestado-restos-mortais", "date": "2012-10-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uoJ8BeYordPqMkK6uKIddJ92ezG.jpg", "actors": [], "comments": [], "recommandations_id": []}

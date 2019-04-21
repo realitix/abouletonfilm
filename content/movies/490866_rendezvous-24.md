@@ -1,0 +1,1 @@
+{"tmdb_id": 490866, "title": "Rendezvous 24", "original_title": "Rendezvous 24", "slug_title": "rendezvous-24", "date": "1946-05-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vG7iIZh3VI7Pp7oBgNDIDMEfyxT.jpg", "actors": [], "comments": [], "recommandations_id": []}

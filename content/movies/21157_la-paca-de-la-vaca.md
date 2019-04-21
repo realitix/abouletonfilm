@@ -1,0 +1,1 @@
+{"tmdb_id": 21157, "title": "La paca de la vaca", "original_title": "La paca de la vaca", "slug_title": "la-paca-de-la-vaca", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

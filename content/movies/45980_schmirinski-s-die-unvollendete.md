@@ -1,0 +1,1 @@
+{"tmdb_id": 45980, "title": "Schmirinski's - Die Unvollendete", "original_title": "Schmirinski's - Die Unvollendete", "slug_title": "schmirinski-s-die-unvollendete", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

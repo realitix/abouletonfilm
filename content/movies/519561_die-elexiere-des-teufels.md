@@ -1,0 +1,1 @@
+{"tmdb_id": 519561, "title": "Die Elexiere des Teufels", "original_title": "Die Elexiere des Teufels", "slug_title": "die-elexiere-des-teufels", "date": "", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mWVZaDMv0Vt7980BfPzZhdpguFy.jpg", "actors": [], "comments": [], "recommandations_id": []}

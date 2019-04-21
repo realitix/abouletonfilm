@@ -1,0 +1,1 @@
+{"tmdb_id": 483071, "title": "Coffin Joe Born Again", "original_title": "Coffin Joe Born Again", "slug_title": "coffin-joe-born-again", "date": "2015-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uP5uGKs14odyqH5wQLyKFKNSxkq.jpg", "actors": [], "comments": [], "recommandations_id": []}

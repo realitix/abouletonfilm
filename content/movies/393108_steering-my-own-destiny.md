@@ -1,0 +1,1 @@
+{"tmdb_id": 393108, "title": "Steering My Own Destiny", "original_title": "Sam sobie sterem", "slug_title": "steering-my-own-destiny", "date": "1971-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bPxUd4A1XDqxpNXhYxHvpAuVApI.jpg", "actors": [], "comments": [], "recommandations_id": []}

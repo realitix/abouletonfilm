@@ -1,0 +1,1 @@
+{"tmdb_id": 425270, "title": "Shock Ending", "original_title": "Shock Ending", "slug_title": "shock-ending", "date": "1987-01-01", "genre": "Drame / Horreur / Crime", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kJP4ITbrvEwiDo9WiGaCY8ixPhJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

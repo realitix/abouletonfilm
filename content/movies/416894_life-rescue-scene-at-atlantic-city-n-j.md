@@ -1,0 +1,1 @@
+{"tmdb_id": 416894, "title": "Life Rescue Scene at Atlantic City, N.J.", "original_title": "Life Rescue Scene at Atlantic City, N.J.", "slug_title": "life-rescue-scene-at-atlantic-city-n-j", "date": "1902-05-19", "genre": "", "score": "4.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

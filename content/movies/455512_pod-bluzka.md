@@ -1,0 +1,1 @@
+{"tmdb_id": 455512, "title": "Pod bluzk\u0105", "original_title": "Pod bluzk\u0105", "slug_title": "pod-bluzka", "date": "2008-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 297650, "title": "Parallel I-IV", "original_title": "Parallel I-IV", "slug_title": "parallel-i-iv", "date": "2014-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/650vFP5XGomapapxofbgs35Bd94.jpg", "actors": [], "comments": [], "recommandations_id": []}

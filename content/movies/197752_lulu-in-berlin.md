@@ -1,0 +1,1 @@
+{"tmdb_id": 197752, "title": "Lulu in Berlin", "original_title": "Lulu in Berlin", "slug_title": "lulu-in-berlin", "date": "1984-05-27", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2R3ZcAYcV07oKCW3zGuc3vks71F.jpg", "actors": [], "comments": [], "recommandations_id": []}

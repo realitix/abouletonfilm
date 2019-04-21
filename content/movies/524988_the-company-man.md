@@ -1,0 +1,1 @@
+{"tmdb_id": 524988, "title": "The Company Man", "original_title": "The Company Man", "slug_title": "the-company-man", "date": "", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Frank Zagarino (Ernest Gray)", "Matthias Hues (Van Guilder)", "Don Stroud (The Mule)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 158808, "title": "Derrida's Elsewhere", "original_title": "D'ailleurs, Derrida", "slug_title": "derrida-s-elsewhere", "date": "1999-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4nvCMiUhA67W8WsjEk9MPApHOJ3.jpg", "actors": ["Jacques Derrida (Himself)"], "comments": [], "recommandations_id": []}

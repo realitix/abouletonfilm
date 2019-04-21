@@ -1,0 +1,1 @@
+{"tmdb_id": 247111, "title": "Doll Killer", "original_title": "Doll Killer", "slug_title": "doll-killer", "date": "1987-01-02", "genre": "Horreur", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jSaakYIDP1t5FxuGcKpL9qoycLp.jpg", "actors": [], "comments": [], "recommandations_id": []}

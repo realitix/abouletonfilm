@@ -1,0 +1,1 @@
+{"tmdb_id": 481653, "title": "Johnny Winter: Legendary Licks Slide Guitar", "original_title": "Johnny Winter: Legendary Licks Slide Guitar", "slug_title": "johnny-winter-legendary-licks-slide-guitar", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

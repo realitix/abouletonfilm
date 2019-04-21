@@ -1,0 +1,1 @@
+{"tmdb_id": 236359, "title": "Bring Himself Back Alive", "original_title": "Bring Himself Back Alive", "slug_title": "bring-himself-back-alive", "date": "1940-12-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

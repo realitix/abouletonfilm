@@ -1,0 +1,1 @@
+{"tmdb_id": 414152, "title": "The Sound of the Violin in My Lai", "original_title": "The Sound of the Violin in My Lai", "slug_title": "the-sound-of-the-violin-in-my-lai", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

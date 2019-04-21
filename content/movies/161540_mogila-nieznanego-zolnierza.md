@@ -1,0 +1,1 @@
+{"tmdb_id": 161540, "title": "Mogila nieznanego zolnierza", "original_title": "Mogila nieznanego zolnierza", "slug_title": "mogila-nieznanego-zolnierza", "date": "1927-12-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/13OAB1ZXc53C3D7jurVDRJlYjnA.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 387150, "title": "Praise be to Small Ills", "original_title": "Nanmu Ichibyousokusai", "slug_title": "praise-be-to-small-ills", "date": "1973-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8oP3A6qQzpcjkToaWkckYe6a2Nz.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 570563, "title": "\u00c0 quoi tu penses-tu?", "original_title": "\u00c0 quoi tu penses-tu?", "slug_title": "a-quoi-tu-penses-tu", "date": "1992-03-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qDgagR7p0z7U5G2it3stu6mNbXe.jpg", "actors": [], "comments": [], "recommandations_id": []}

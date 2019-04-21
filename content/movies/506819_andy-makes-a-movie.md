@@ -1,0 +1,1 @@
+{"tmdb_id": 506819, "title": "Andy Makes a Movie", "original_title": "Andy Makes a Movie", "slug_title": "andy-makes-a-movie", "date": "1967-02-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Andy Warhol (Himself)", "Henry Geldzahler (Himself)", "Edie Sedgwick (Herself)"], "comments": [], "recommandations_id": []}

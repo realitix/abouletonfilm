@@ -1,0 +1,1 @@
+{"tmdb_id": 65583, "title": "Zombiez", "original_title": "Zombiez", "slug_title": "zombiez", "date": "2005-02-17", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/BwS3NonGgotJSuTySY35DODkyp.jpg", "actors": [], "comments": [], "recommandations_id": []}

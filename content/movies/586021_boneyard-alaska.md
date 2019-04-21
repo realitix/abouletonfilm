@@ -1,0 +1,1 @@
+{"tmdb_id": 586021, "title": "Boneyard Alaska", "original_title": "Boneyard Alaska", "slug_title": "boneyard-alaska", "date": "2019-03-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mDgS7hZxZp1ccY4wDiEby0F39Q3.jpg", "actors": ["John Reeves (Himself)"], "comments": [], "recommandations_id": []}

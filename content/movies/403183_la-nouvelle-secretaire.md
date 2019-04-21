@@ -1,0 +1,1 @@
+{"tmdb_id": 403183, "title": "La Nouvelle Secr\u00e9taire", "original_title": "La Nouvelle Secr\u00e9taire", "slug_title": "la-nouvelle-secretaire", "date": "1940-06-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

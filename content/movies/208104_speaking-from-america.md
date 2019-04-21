@@ -1,0 +1,1 @@
+{"tmdb_id": 208104, "title": "Speaking from America", "original_title": "Speaking from America", "slug_title": "speaking-from-america", "date": "1938-01-02", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

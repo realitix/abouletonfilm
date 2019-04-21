@@ -1,0 +1,1 @@
+{"tmdb_id": 344968, "title": "The Muse", "original_title": "The Muse", "slug_title": "the-muse", "date": "2014-06-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2OVkMCcDolfB8tW9aswa07UKluz.jpg", "actors": ["Ben Whishaw (Edward)", "Kristen McMenamy (The Muse)"], "comments": [], "recommandations_id": []}

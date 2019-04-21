@@ -1,0 +1,1 @@
+{"tmdb_id": 436495, "title": "Container", "original_title": "Kontener", "slug_title": "container", "date": "2017-02-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dY4S3U5iYMfeRTI4mnu7J8X1ukQ.jpg", "actors": ["Joanna Drozda (Maryna)", "Anka Graczyk (Tava)"], "comments": [], "recommandations_id": []}

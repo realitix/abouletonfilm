@@ -1,0 +1,1 @@
+{"tmdb_id": 439393, "title": "\u0413\u0430\u0432\u0440\u043e\u0448", "original_title": "\u0413\u0430\u0432\u0440\u043e\u0448", "slug_title": "gavrosh", "date": "1986-02-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dID4VWrrwZVeDxKUFd6UT2nl1Ce.jpg", "actors": [], "comments": [], "recommandations_id": []}

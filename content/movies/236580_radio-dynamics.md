@@ -1,0 +1,1 @@
+{"tmdb_id": 236580, "title": "Radio Dynamics", "original_title": "Radio Dynamics", "slug_title": "radio-dynamics", "date": "1942-11-14", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qoGgbbMZmqLz5VKJPTJP1qIHYKK.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 186181, "title": "Joe Papp in Five Acts", "original_title": "Joe Papp in Five Acts", "slug_title": "joe-papp-in-five-acts", "date": "", "genre": "Documentaire", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pkHq0XBI4Kb2ctismQoeoBStmEQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

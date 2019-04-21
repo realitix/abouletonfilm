@@ -1,0 +1,1 @@
+{"tmdb_id": 444024, "title": "Alabama", "original_title": "Alabama", "slug_title": "alabama", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

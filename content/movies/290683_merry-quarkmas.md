@@ -1,0 +1,1 @@
+{"tmdb_id": 290683, "title": "Merry Quarkmas", "original_title": "Merry Quarkmas", "slug_title": "merry-quarkmas", "date": "1987-12-02", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zE42Qvo5Rupl0S4zVAwiOzs8wRO.jpg", "actors": [], "comments": [], "recommandations_id": []}

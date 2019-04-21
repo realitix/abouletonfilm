@@ -1,0 +1,1 @@
+{"tmdb_id": 303505, "title": "Metallica - Rock Warriors Unauthorized", "original_title": "Metallica - Rock Warriors Unauthorized", "slug_title": "metallica-rock-warriors-unauthorized", "date": "2001-11-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

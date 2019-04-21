@@ -1,0 +1,1 @@
+{"tmdb_id": 94940, "title": "When Zombies Attack!!", "original_title": "When Zombies Attack!!", "slug_title": "when-zombies-attack", "date": "", "genre": "", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j5ldHlMDCPMzCbXuaNcyEXBW5eG.jpg", "actors": [], "comments": [], "recommandations_id": []}

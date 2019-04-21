@@ -1,0 +1,1 @@
+{"tmdb_id": 297973, "title": "La Casa Loca", "original_title": "La Casa Loca", "slug_title": "la-casa-loca", "date": "2007-03-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

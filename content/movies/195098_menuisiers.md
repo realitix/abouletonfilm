@@ -1,0 +1,1 @@
+{"tmdb_id": 195098, "title": "Menuisiers", "original_title": "Menuisiers", "slug_title": "menuisiers", "date": "1896-03-22", "genre": "", "score": "5.8/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [190591, 193849, 191934, 120037]}

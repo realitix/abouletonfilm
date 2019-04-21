@@ -1,0 +1,1 @@
+{"tmdb_id": 481272, "title": "Hello Beijing", "original_title": "\u5317\u4eac\u4f60\u597d", "slug_title": "hello-beijing", "date": "2005-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kCa982HfRLxFwWcXYwQg1PUcZLW.jpg", "actors": ["Yu Kailei ()"], "comments": [], "recommandations_id": []}

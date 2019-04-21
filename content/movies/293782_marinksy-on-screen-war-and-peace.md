@@ -1,0 +1,1 @@
+{"tmdb_id": 293782, "title": "Marinksy on Screen War And Peace", "original_title": "Marinksy on Screen War And Peace", "slug_title": "marinksy-on-screen-war-and-peace", "date": "2014-10-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 501871, "title": "When I Grow Up I Want to Be a Black Man", "original_title": "When I Grow Up I Want to Be a Black Man", "slug_title": "when-i-grow-up-i-want-to-be-a-black-man", "date": "2017-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

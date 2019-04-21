@@ -1,0 +1,1 @@
+{"tmdb_id": 80995, "title": "JJ Grey & Mofro - Brighter Days", "original_title": "JJ Grey & Mofro - Brighter Days", "slug_title": "jj-grey-mofro-brighter-days", "date": "2011-09-13", "genre": "", "score": "1.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

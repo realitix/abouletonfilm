@@ -1,0 +1,1 @@
+{"tmdb_id": 550330, "title": "Kapten Grogg gifter sig", "original_title": "Kapten Grogg gifter sig", "slug_title": "kapten-grogg-gifter-sig", "date": "1918-02-25", "genre": "Animation / Com\u00e9die", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

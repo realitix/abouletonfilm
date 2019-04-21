@@ -1,0 +1,1 @@
+{"tmdb_id": 476337, "title": "Girlfriend", "original_title": "\u041f\u043e\u0434\u0440\u0443\u0436\u043a\u0430", "slug_title": "girlfriend", "date": "1989-01-01", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4WOyIaCB3Vk7kkB9s2851gaYcp2.jpg", "actors": [], "comments": [], "recommandations_id": []}

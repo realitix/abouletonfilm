@@ -1,0 +1,1 @@
+{"tmdb_id": 36987, "title": "Die Ballade vom Baikalsee", "original_title": "Die Ballade vom Baikalsee", "slug_title": "die-ballade-vom-baikalsee", "date": "", "genre": "", "score": "1.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

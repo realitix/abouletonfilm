@@ -1,0 +1,1 @@
+{"tmdb_id": 288087, "title": "Der Schatten des Meeres", "original_title": "Der Schatten des Meeres", "slug_title": "der-schatten-des-meeres", "date": "1912-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lizzy Krueger ()", "Henny Porten ()", "Frau Retzlag ()"], "comments": [], "recommandations_id": []}

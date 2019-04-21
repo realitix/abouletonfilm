@@ -1,0 +1,1 @@
+{"tmdb_id": 538075, "title": "Sobre tudo sobre nada", "original_title": "Sobre tudo sobre nada", "slug_title": "sobre-tudo-sobre-nada", "date": "2018-08-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bIMphqhojETGe6ZFEZ0eKWXHGKT.jpg", "actors": [], "comments": [], "recommandations_id": []}

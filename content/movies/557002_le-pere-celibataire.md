@@ -1,0 +1,1 @@
+{"tmdb_id": 557002, "title": "Le p\u00e8re c\u00e9libataire", "original_title": "Le p\u00e8re c\u00e9libataire", "slug_title": "le-pere-celibataire", "date": "1931-01-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

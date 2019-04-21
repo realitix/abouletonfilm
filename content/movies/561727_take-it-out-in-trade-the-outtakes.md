@@ -1,0 +1,1 @@
+{"tmdb_id": 561727, "title": "Take It Out in Trade: The Outtakes", "original_title": "Take It Out in Trade: The Outtakes", "slug_title": "take-it-out-in-trade-the-outtakes", "date": "1995-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

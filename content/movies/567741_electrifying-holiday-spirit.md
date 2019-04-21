@@ -1,0 +1,1 @@
+{"tmdb_id": 567741, "title": "Electrifying Holiday Spirit", "original_title": "Electrifying Holiday Spirit", "slug_title": "electrifying-holiday-spirit", "date": "2008-12-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bJnKjXXFuPzb8AlAqPAjjMlH5x3.jpg", "actors": [], "comments": [], "recommandations_id": []}

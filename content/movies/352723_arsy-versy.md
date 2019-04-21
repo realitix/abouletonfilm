@@ -1,0 +1,1 @@
+{"tmdb_id": 352723, "title": "Arsy-Versy", "original_title": "Arsy-Versy", "slug_title": "arsy-versy", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 502146, "title": "Me, They and Daddy", "original_title": "Me, They and Daddy", "slug_title": "me-they-and-daddy", "date": "2014-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

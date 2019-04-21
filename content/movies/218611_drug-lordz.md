@@ -1,0 +1,1 @@
+{"tmdb_id": 218611, "title": "Drug Lordz", "original_title": "Drug Lordz", "slug_title": "drug-lordz", "date": "2003-06-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

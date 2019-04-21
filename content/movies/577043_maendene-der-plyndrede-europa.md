@@ -1,0 +1,1 @@
+{"tmdb_id": 577043, "title": "M\u00e6ndene der plyndrede Europa", "original_title": "M\u00e6ndene der plyndrede Europa", "slug_title": "maendene-der-plyndrede-europa", "date": "2018-11-18", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

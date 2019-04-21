@@ -1,0 +1,1 @@
+{"tmdb_id": 521696, "title": "Days of Torment", "original_title": "Jours de tourmentes", "slug_title": "days-of-torment", "date": "1985-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

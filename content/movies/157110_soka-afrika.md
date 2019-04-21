@@ -1,0 +1,1 @@
+{"tmdb_id": 157110, "title": "Soka Afrika", "original_title": "Soka Afrika", "slug_title": "soka-afrika", "date": "", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aE4m0xDfvHbcfcC0onRdnvw2x67.jpg", "actors": [], "comments": [], "recommandations_id": []}

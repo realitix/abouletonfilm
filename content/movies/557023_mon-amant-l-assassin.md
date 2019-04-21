@@ -1,0 +1,1 @@
+{"tmdb_id": 557023, "title": "Mon amant l'assassin", "original_title": "Mon amant l'assassin", "slug_title": "mon-amant-l-assassin", "date": "1932-06-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

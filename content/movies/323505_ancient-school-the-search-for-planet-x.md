@@ -1,0 +1,1 @@
+{"tmdb_id": 323505, "title": "Ancient School - The Search For Planet X", "original_title": "Ancient School - The Search For Planet X", "slug_title": "ancient-school-the-search-for-planet-x", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

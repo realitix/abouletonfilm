@@ -1,0 +1,1 @@
+{"tmdb_id": 19020, "title": "The Ossuary", "original_title": "Kostnice", "slug_title": "the-ossuary", "date": "1970-01-01", "genre": "Animation / Documentaire", "score": "7.4/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e3pY5HBFXGJ5csGbmXaKh1FU5Gw.jpg", "actors": [], "comments": [], "recommandations_id": [19031, 18950, 120275, 104275]}

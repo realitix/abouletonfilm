@@ -1,0 +1,1 @@
+{"tmdb_id": 384836, "title": "Lu ming cui gu", "original_title": "Lu ming cui gu", "slug_title": "lu-ming-cui-gu", "date": "1981-01-01", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/laLyGYXMXgWSpk05FA9QtVj8daY.jpg", "actors": [], "comments": [], "recommandations_id": []}

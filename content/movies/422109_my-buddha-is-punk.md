@@ -1,0 +1,1 @@
+{"tmdb_id": 422109, "title": "My Buddha is Punk", "original_title": "My Buddha is Punk", "slug_title": "my-buddha-is-punk", "date": "2015-11-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5IzXRd9AGcKahPPxjusbNdLcne2.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 522765, "title": "The Hare", "original_title": "Zec", "slug_title": "the-hare", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

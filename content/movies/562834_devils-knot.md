@@ -1,0 +1,1 @@
+{"tmdb_id": 562834, "title": "Devil\u2019s Knot", "original_title": "Devil\u2019s Knot", "slug_title": "devils-knot", "date": "", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

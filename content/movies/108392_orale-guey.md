@@ -1,0 +1,1 @@
+{"tmdb_id": 108392, "title": "Orale Guey", "original_title": "Orale Guey", "slug_title": "orale-guey", "date": "2008-01-01", "genre": "Action / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Guillermo Iv\u00e1n ()", "Hamlet Ram\u00edrez ()", "Enrique Vazquez ()"], "comments": [], "recommandations_id": []}

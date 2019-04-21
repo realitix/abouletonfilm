@@ -1,0 +1,1 @@
+{"tmdb_id": 306447, "title": "Bullemma Bullodu", "original_title": "Bullemma Bullodu", "slug_title": "bullemma-bullodu", "date": "1972-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

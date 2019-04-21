@@ -1,0 +1,1 @@
+{"tmdb_id": 278503, "title": "Bass Fishing: The Basics", "original_title": "Bass Fishing: The Basics", "slug_title": "bass-fishing-the-basics", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 474345, "title": "A Terra e o Homem", "original_title": "A Terra e o Homem", "slug_title": "a-terra-e-o-homem", "date": "1969-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

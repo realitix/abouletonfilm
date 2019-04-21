@@ -1,0 +1,1 @@
+{"tmdb_id": 245158, "title": "Kids for Cash", "original_title": "Kids for Cash", "slug_title": "kids-for-cash", "date": "2014-02-07", "genre": "Crime / Documentaire", "score": "6.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xjJACuZERM6mBSHzHaNq7DXnNYQ.jpg", "actors": [], "comments": [], "recommandations_id": [134754, 124067, 196123, 26336]}

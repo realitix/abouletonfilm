@@ -1,0 +1,1 @@
+{"tmdb_id": 314835, "title": "Jukebox the Ghost", "original_title": "Jukebox the Ghost", "slug_title": "jukebox-the-ghost", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

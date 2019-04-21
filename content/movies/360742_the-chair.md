@@ -1,0 +1,1 @@
+{"tmdb_id": 360742, "title": "The Chair", "original_title": "Isu", "slug_title": "the-chair", "date": "1963-09-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h3ikcJb1ga8K4zPFquocymAAlWk.jpg", "actors": [], "comments": [], "recommandations_id": []}

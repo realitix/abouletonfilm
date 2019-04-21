@@ -1,0 +1,1 @@
+{"tmdb_id": 344977, "title": "Opus 74, Version 2", "original_title": "Opus 74, Version 2", "slug_title": "opus-74-version-2", "date": "1966-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uWIZeJxrimpLD7vB5pNiBQVFyRR.jpg", "actors": [], "comments": [], "recommandations_id": []}

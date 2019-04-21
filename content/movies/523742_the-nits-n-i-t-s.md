@@ -1,0 +1,1 @@
+{"tmdb_id": 523742, "title": "The Nits: N I T S ?", "original_title": "The Nits: N I T S ?", "slug_title": "the-nits-n-i-t-s", "date": "2014-03-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

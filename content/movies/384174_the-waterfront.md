@@ -1,0 +1,1 @@
+{"tmdb_id": 384174, "title": "The Waterfront", "original_title": "The Waterfront", "slug_title": "the-waterfront", "date": "1998-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["L.P. Brown III (Travis McQuade)", "Corey Feldman ()", "Joe Estevez ()", "Robert Z'Dar (Turk)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 508670, "title": "Mother Tongue", "original_title": "Lengua materna", "slug_title": "mother-tongue", "date": "2010-10-21", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fhHUOSqCM8IhHupqpu6zCWlgJsV.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 449532, "title": "The Lost World of the Seventies", "original_title": "The Lost World of the Seventies", "slug_title": "the-lost-world-of-the-seventies", "date": "2012-05-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Michael Cockerell (Himself - Presenter)"], "comments": [], "recommandations_id": []}

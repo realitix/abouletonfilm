@@ -1,0 +1,1 @@
+{"tmdb_id": 416696, "title": "\ub3c4\uc2dc\uc5d0\uc11c \uc6b0\ub294 \ub9e4\ubbf8", "original_title": "\ub3c4\uc2dc\uc5d0\uc11c \uc6b0\ub294 \ub9e4\ubbf8", "slug_title": "dosieseo-uneun-maemi", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

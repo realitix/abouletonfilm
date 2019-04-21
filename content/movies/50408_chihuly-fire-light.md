@@ -1,0 +1,1 @@
+{"tmdb_id": 50408, "title": "Chihuly Fire & Light", "original_title": "Chihuly Fire & Light", "slug_title": "chihuly-fire-light", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w04QCyNlwisuWzL4g8z0Pod3lP7.jpg", "actors": [], "comments": [], "recommandations_id": []}

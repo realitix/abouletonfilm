@@ -1,0 +1,1 @@
+{"tmdb_id": 518224, "title": "Sonata for a Sad Man", "original_title": "Sonata para um Homem Triste", "slug_title": "sonata-for-a-sad-man", "date": "2016-07-14", "genre": "Horreur / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zXtPJzN2HIGdF50arbNNc5wrfam.jpg", "actors": [], "comments": [], "recommandations_id": []}

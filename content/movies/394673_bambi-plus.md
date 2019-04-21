@@ -1,0 +1,1 @@
+{"tmdb_id": 394673, "title": "Bambi Plus", "original_title": "Bambi Plus", "slug_title": "bambi-plus", "date": "2006-12-06", "genre": "Com\u00e9die", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cf10biwYRQi2kCvNqfmDyXfsICh.jpg", "actors": ["Marina Markovi\u0107 (Troubled Artist)"], "comments": [], "recommandations_id": []}

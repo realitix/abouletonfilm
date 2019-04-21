@@ -1,0 +1,1 @@
+{"tmdb_id": 476637, "title": "Bring Me a Dream", "original_title": "Bring Me a Dream", "slug_title": "bring-me-a-dream", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oWHNhAQBT47cAX2TSIeDRbVmrob.jpg", "actors": [], "comments": [], "recommandations_id": []}

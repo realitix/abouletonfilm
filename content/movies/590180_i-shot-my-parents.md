@@ -1,0 +1,1 @@
+{"tmdb_id": 590180, "title": "I Shot My Parents", "original_title": "I Shot My Parents", "slug_title": "i-shot-my-parents", "date": "2017-04-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4TUq0cPe7VjSHLqlJZ8SI6qV6hE.jpg", "actors": [], "comments": [], "recommandations_id": []}

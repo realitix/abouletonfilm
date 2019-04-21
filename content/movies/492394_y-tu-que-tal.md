@@ -1,0 +1,1 @@
+{"tmdb_id": 492394, "title": "Y tu, \u00bfQu\u00e9 tal?", "original_title": "Y tu, \u00bfQu\u00e9 tal?", "slug_title": "y-tu-que-tal", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nP9KHtBVp4uanmsnQI1BwguCAGs.jpg", "actors": ["EVA BEUNZA (Mar\u00eda)"], "comments": [], "recommandations_id": []}

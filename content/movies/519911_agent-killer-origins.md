@@ -1,0 +1,1 @@
+{"tmdb_id": 519911, "title": "Agent Killer: Origins", "original_title": "Agent Killer: Origins", "slug_title": "agent-killer-origins", "date": "2014-01-10", "genre": "Science-Fiction / Action", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5zlTw77T38ABrn3BVIFGCFjzcgp.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 538536, "title": "La marraine du r\u00e9giment", "original_title": "La marraine du r\u00e9giment", "slug_title": "la-marraine-du-regiment", "date": "1939-05-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n02QYmTPzMho8DYvE0qS7jLAUoo.jpg", "actors": [], "comments": [], "recommandations_id": []}

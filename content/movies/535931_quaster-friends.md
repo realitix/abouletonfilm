@@ -1,0 +1,1 @@
+{"tmdb_id": 535931, "title": "Quaster & Friends", "original_title": "Quaster & Friends", "slug_title": "quaster-friends", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

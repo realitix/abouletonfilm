@@ -1,0 +1,1 @@
+{"tmdb_id": 476247, "title": "For a Loaf of Bread", "original_title": "Za koru hleba", "slug_title": "for-a-loaf-of-bread", "date": "1923-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 271438, "title": "The Smoke Scream", "original_title": "The Smoke Scream", "slug_title": "the-smoke-scream", "date": "1928-01-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

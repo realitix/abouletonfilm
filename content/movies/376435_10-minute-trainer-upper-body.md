@@ -1,0 +1,1 @@
+{"tmdb_id": 376435, "title": "10 Minute Trainer: Upper Body", "original_title": "10 Minute Trainer: Upper Body", "slug_title": "10-minute-trainer-upper-body", "date": "2007-07-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/udsuvpz3zoJU8iogkiiToMI0BR8.jpg", "actors": [], "comments": [], "recommandations_id": []}

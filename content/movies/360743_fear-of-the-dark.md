@@ -1,0 +1,1 @@
+{"tmdb_id": 360743, "title": "Fear of the Dark", "original_title": "Fear of the Dark", "slug_title": "fear-of-the-dark", "date": "1985-09-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/we756gGwrkiweYrD43TCRLBp8k0.jpg", "actors": [], "comments": [], "recommandations_id": []}

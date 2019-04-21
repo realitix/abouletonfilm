@@ -1,0 +1,1 @@
+{"tmdb_id": 195263, "title": "U.S. Battleship 'Indiana'", "original_title": "U.S. Battleship 'Indiana'", "slug_title": "u-s-battleship-indiana", "date": "1898-03-20", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 342255, "title": "PS S\u00e3o Paulo", "original_title": "PS S\u00e3o Paulo", "slug_title": "ps-sao-paulo", "date": "2013-05-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/40jNSocCoyfYNpyMoYgDrpLyJdX.jpg", "actors": [], "comments": [], "recommandations_id": []}

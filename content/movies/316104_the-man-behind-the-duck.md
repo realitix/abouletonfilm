@@ -1,0 +1,1 @@
+{"tmdb_id": 316104, "title": "The Man Behind the Duck", "original_title": "The Man Behind the Duck", "slug_title": "the-man-behind-the-duck", "date": "2004-11-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Leonard Maltin ()", "Clarence Nash ()"], "comments": [], "recommandations_id": []}

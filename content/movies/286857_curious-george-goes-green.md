@@ -1,0 +1,1 @@
+{"tmdb_id": 286857, "title": "Curious George: Goes Green", "original_title": "Curious George: Goes Green", "slug_title": "curious-george-goes-green", "date": "2009-05-12", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3ZLcLWgeEnEPGgNYZxwAux0jWzd.jpg", "actors": [], "comments": [], "recommandations_id": []}

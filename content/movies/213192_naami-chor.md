@@ -1,0 +1,1 @@
+{"tmdb_id": 213192, "title": "Naami Chor", "original_title": "Naami Chor", "slug_title": "naami-chor", "date": "1977-08-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/td6oRcMbkHGnkENVP5KWFA9HAcm.jpg", "actors": [], "comments": [], "recommandations_id": []}

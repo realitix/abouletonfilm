@@ -1,0 +1,1 @@
+{"tmdb_id": 324736, "title": "Country Landscapes", "original_title": "Country Landscapes", "slug_title": "country-landscapes", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

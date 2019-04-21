@@ -1,0 +1,1 @@
+{"tmdb_id": 429026, "title": "Panorama de Constantine", "original_title": "Panorama de Constantine", "slug_title": "panorama-de-constantine", "date": "1903-12-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

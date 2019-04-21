@@ -1,0 +1,1 @@
+{"tmdb_id": 350127, "title": "F Tipi Film", "original_title": "F Tipi Film", "slug_title": "f-tipi-film", "date": "2012-12-21", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8d56F1UJen96btZrIhh8uZqgkce.jpg", "actors": [], "comments": [], "recommandations_id": [287011]}

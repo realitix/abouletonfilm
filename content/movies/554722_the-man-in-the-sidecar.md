@@ -1,0 +1,1 @@
+{"tmdb_id": 554722, "title": "The Man in the Sidecar", "original_title": "The Man in the Sidecar", "slug_title": "the-man-in-the-sidecar", "date": "1971-05-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gemma Jones (Edith)", "James Laurenson (Gerald)", "David Collings (Tommy)"], "comments": [], "recommandations_id": []}

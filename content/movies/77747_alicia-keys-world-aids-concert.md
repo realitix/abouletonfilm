@@ -1,0 +1,1 @@
+{"tmdb_id": 77747, "title": "Alicia Keys: World AIDS Concert", "original_title": "Alicia Keys: World AIDS Concert", "slug_title": "alicia-keys-world-aids-concert", "date": "2009-12-01", "genre": "", "score": "8.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5qGGBxb6q6QrtGv0E1opYM2ZHCS.jpg", "actors": [], "comments": [], "recommandations_id": []}

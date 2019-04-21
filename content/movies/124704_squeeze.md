@@ -1,0 +1,1 @@
+{"tmdb_id": 124704, "title": "Squeeze", "original_title": "Skvis", "slug_title": "squeeze", "date": "2012-10-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

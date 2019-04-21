@@ -1,0 +1,1 @@
+{"tmdb_id": 170088, "title": "Yoga die Kunst des Lebens", "original_title": "Yoga die Kunst des Lebens", "slug_title": "yoga-die-kunst-des-lebens", "date": "2012-01-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

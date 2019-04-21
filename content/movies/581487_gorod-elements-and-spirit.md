@@ -1,0 +1,1 @@
+{"tmdb_id": 581487, "title": "Gorod - Elements and Spirit", "original_title": "Gorod - Elements and Spirit", "slug_title": "gorod-elements-and-spirit", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nXghQgLmskK2pl1CYjX7ldCEIMt.jpg", "actors": [], "comments": [], "recommandations_id": []}

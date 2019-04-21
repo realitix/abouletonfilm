@@ -1,0 +1,1 @@
+{"tmdb_id": 365528, "title": "Monta\u00f1a de luz", "original_title": "Monta\u00f1a de luz", "slug_title": "montana-de-luz", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

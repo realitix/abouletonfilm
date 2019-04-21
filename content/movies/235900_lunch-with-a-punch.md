@@ -1,0 +1,1 @@
+{"tmdb_id": 235900, "title": "Lunch with a Punch", "original_title": "Lunch with a Punch", "slug_title": "lunch-with-a-punch", "date": "1952-03-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

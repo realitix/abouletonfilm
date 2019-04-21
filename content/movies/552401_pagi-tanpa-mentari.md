@@ -1,0 +1,1 @@
+{"tmdb_id": 552401, "title": "Pagi Tanpa Mentari", "original_title": "Pagi Tanpa Mentari", "slug_title": "pagi-tanpa-mentari", "date": "2017-06-14", "genre": "Drame / Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dNM5vCDiX9intHOgJ3WinBlc7JO.jpg", "actors": [], "comments": [], "recommandations_id": []}

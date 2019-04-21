@@ -1,0 +1,1 @@
+{"tmdb_id": 235968, "title": "Movie Madness", "original_title": "Movie Madness", "slug_title": "movie-madness", "date": "1951-11-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

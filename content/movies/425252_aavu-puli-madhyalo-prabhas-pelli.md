@@ -1,0 +1,1 @@
+{"tmdb_id": 425252, "title": "Aavu Puli Madhyalo Prabhas Pelli", "original_title": "Aavu Puli Madhyalo Prabhas Pelli", "slug_title": "aavu-puli-madhyalo-prabhas-pelli", "date": "2016-11-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

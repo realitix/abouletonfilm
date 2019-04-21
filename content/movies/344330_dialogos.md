@@ -1,0 +1,1 @@
+{"tmdb_id": 344330, "title": "Dialogos", "original_title": "Dialogos", "slug_title": "dialogos", "date": "2008-08-10", "genre": "Animation", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

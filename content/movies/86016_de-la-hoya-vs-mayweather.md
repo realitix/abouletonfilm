@@ -1,0 +1,1 @@
+{"tmdb_id": 86016, "title": "De La Hoya vs. Mayweather", "original_title": "De La Hoya vs. Mayweather", "slug_title": "de-la-hoya-vs-mayweather", "date": "2007-05-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m8HqTasljVxGHhg9gh2yTJf4YMj.jpg", "actors": [], "comments": [], "recommandations_id": []}

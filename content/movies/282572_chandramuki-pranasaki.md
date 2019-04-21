@@ -1,0 +1,1 @@
+{"tmdb_id": 282572, "title": "Chandramuki Pranasaki", "original_title": "Chandramuki Pranasaki", "slug_title": "chandramuki-pranasaki", "date": "1999-03-31", "genre": "Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ramesh Aravind ()", "Prema ()", "Bhavana Ramanna ()"], "comments": [], "recommandations_id": []}

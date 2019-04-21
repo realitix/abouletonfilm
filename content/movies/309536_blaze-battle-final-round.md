@@ -1,0 +1,1 @@
+{"tmdb_id": 309536, "title": "Blaze Battle Final Round", "original_title": "Blaze Battle Final Round", "slug_title": "blaze-battle-final-round", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

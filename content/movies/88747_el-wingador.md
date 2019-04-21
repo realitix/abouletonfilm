@@ -1,0 +1,1 @@
+{"tmdb_id": 88747, "title": "El Wingador", "original_title": "El Wingador", "slug_title": "el-wingador", "date": "2012-02-03", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5BKmdC4iJQ0Y4bCW3aJhvwdaoKX.jpg", "actors": ["Bill Simmons (Himself)"], "comments": [], "recommandations_id": []}

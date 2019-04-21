@@ -1,0 +1,1 @@
+{"tmdb_id": 268252, "title": "A Rural Demon", "original_title": "A Rural Demon", "slug_title": "a-rural-demon", "date": "1914-03-19", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Roscoe 'Fatty' Arbuckle ()", "Eva Nelson ()"], "comments": [], "recommandations_id": []}

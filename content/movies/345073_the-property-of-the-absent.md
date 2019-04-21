@@ -1,0 +1,1 @@
+{"tmdb_id": 345073, "title": "The Property of the Absent", "original_title": "L'albergo degli assenti", "slug_title": "the-property-of-the-absent", "date": "1939-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hLo6dBztxP3m9DOeBhIjqwvYBCy.jpg", "actors": [], "comments": [], "recommandations_id": []}

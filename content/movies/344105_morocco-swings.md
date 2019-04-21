@@ -1,0 +1,1 @@
+{"tmdb_id": 344105, "title": "Morocco Swings", "original_title": "Marokko swingt", "slug_title": "morocco-swings", "date": "2005-05-12", "genre": "Musique / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i18Ws0qa19Abn3zmWTyIif41G03.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 469410, "title": "The Lure and the Lore", "original_title": "The Lure and the Lore", "slug_title": "the-lure-and-the-lore", "date": "1988-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Thomas Pinnock (Himself)"], "comments": [], "recommandations_id": []}

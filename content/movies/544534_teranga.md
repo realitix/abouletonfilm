@@ -1,0 +1,1 @@
+{"tmdb_id": 544534, "title": "TERANGA", "original_title": "TERANGA", "slug_title": "teranga", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

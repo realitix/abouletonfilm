@@ -1,0 +1,1 @@
+{"tmdb_id": 447775, "title": "Hieroglyphics", "original_title": "Hieroglyfy", "slug_title": "hieroglyphics", "date": "1969-03-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 306485, "title": "Mivtzah YY", "original_title": "Mivtzah YY", "slug_title": "mivtzah-yy", "date": "2000-02-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ishai Golan ()", "Avi Pnini ()", "Pini Tavger ()"], "comments": [], "recommandations_id": []}

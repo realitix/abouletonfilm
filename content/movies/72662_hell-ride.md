@@ -1,0 +1,1 @@
+{"tmdb_id": 72662, "title": "Hell Ride", "original_title": "Hell Ride", "slug_title": "hell-ride", "date": "", "genre": "", "score": "1.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

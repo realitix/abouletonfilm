@@ -1,0 +1,1 @@
+{"tmdb_id": 492584, "title": "\u5c0f\u677e\u9f20\u7406\u53d1\u5e08", "original_title": "\u5c0f\u677e\u9f20\u7406\u53d1\u5e08", "slug_title": "xiao-song-shu-li-fa-shi", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4UeyrCAYm4PW5nnxovf1bmHvKCv.jpg", "actors": [], "comments": [], "recommandations_id": []}

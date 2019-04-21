@@ -1,0 +1,1 @@
+{"tmdb_id": 450704, "title": "Wittgenstein: A Wonderful Life", "original_title": "Wittgenstein: A Wonderful Life", "slug_title": "wittgenstein-a-wonderful-life", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zX8ER0SyQbWlmEPzYdftTMjDabT.jpg", "actors": [], "comments": [], "recommandations_id": []}

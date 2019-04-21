@@ -1,0 +1,1 @@
+{"tmdb_id": 485802, "title": "The Other Dakar", "original_title": "The Other Dakar", "slug_title": "the-other-dakar", "date": "2017-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AvQxaeUDYNPktqH9q1a3mpwl2Qm.jpg", "actors": [], "comments": [], "recommandations_id": []}

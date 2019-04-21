@@ -1,0 +1,1 @@
+{"tmdb_id": 571983, "title": "Les paradoxes de Bu\u00f1uel", "original_title": "Les paradoxes de Bu\u00f1uel", "slug_title": "les-paradoxes-de-bunuel", "date": "1998-04-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tQpJzGi5uCNPMw35UC8vBKKHF7o.jpg", "actors": [], "comments": [], "recommandations_id": []}

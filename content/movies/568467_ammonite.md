@@ -1,0 +1,1 @@
+{"tmdb_id": 568467, "title": "Ammonite", "original_title": "Ammonite", "slug_title": "ammonite", "date": "", "genre": "Romance / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kate Winslet (Mary Anning)", "Saoirse Ronan ()", "Fiona Shaw ()", "Alec Secareanu ()", "James McArdle ()"], "comments": [], "recommandations_id": []}

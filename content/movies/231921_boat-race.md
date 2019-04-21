@@ -1,0 +1,1 @@
+{"tmdb_id": 231921, "title": "Boat Race", "original_title": "Boat Race", "slug_title": "boat-race", "date": "1903-11-11", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 121880, "title": "boxer shorts", "original_title": "boxer shorts", "slug_title": "boxer-shorts", "date": "2002-11-26", "genre": "Com\u00e9die / Drame", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6mf88hJJmqiKDInvw92GkW73YB2.jpg", "actors": [], "comments": [], "recommandations_id": []}

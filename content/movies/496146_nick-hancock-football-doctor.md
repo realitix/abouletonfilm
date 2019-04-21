@@ -1,0 +1,1 @@
+{"tmdb_id": 496146, "title": "Nick Hancock Football Doctor", "original_title": "Nick Hancock Football Doctor", "slug_title": "nick-hancock-football-doctor", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z9BilG7uyD3bEiAOUj5pBWv9P0l.jpg", "actors": [], "comments": [], "recommandations_id": []}

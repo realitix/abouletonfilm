@@ -1,0 +1,1 @@
+{"tmdb_id": 516957, "title": "Singin' in the Corn", "original_title": "Singin' in the Corn", "slug_title": "singin-in-the-corn", "date": "1946-12-26", "genre": "Com\u00e9die / Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Judy Canova (Judy McCoy)"], "comments": [], "recommandations_id": []}

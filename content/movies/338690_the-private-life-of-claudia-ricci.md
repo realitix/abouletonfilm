@@ -1,0 +1,1 @@
+{"tmdb_id": 338690, "title": "The Private Life of Claudia Ricci", "original_title": "The Private Life of Claudia Ricci", "slug_title": "the-private-life-of-claudia-ricci", "date": "2002-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Claudia Ricci ()"], "comments": [], "recommandations_id": []}

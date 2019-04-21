@@ -1,0 +1,1 @@
+{"tmdb_id": 543802, "title": "The Long Wash", "original_title": "The Long Wash", "slug_title": "the-long-wash", "date": "2018-07-10", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2Z4gayIPZD5FIqZDVb9tRLVlRfD.jpg", "actors": ["Perry Ruhland (Man)"], "comments": [], "recommandations_id": []}

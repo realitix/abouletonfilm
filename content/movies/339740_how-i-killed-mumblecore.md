@@ -1,0 +1,1 @@
+{"tmdb_id": 339740, "title": "How I Killed Mumblecore", "original_title": "How I Killed Mumblecore", "slug_title": "how-i-killed-mumblecore", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

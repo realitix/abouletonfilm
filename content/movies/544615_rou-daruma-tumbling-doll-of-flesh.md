@@ -1,0 +1,1 @@
+{"tmdb_id": 544615, "title": "\u8089\u3060\u308b\u307e (Tumbling Doll of Flesh)", "original_title": "\u8089\u3060\u308b\u307e (Tumbling Doll of Flesh)", "slug_title": "rou-daruma-tumbling-doll-of-flesh", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

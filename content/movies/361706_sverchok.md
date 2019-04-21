@@ -1,0 +1,1 @@
+{"tmdb_id": 361706, "title": "\u0421\u0432\u0435\u0440\u0447\u043e\u043a", "original_title": "\u0421\u0432\u0435\u0440\u0447\u043e\u043a", "slug_title": "sverchok", "date": "1982-09-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/giRftWKcrhWpb8iz4hy09gtyGqm.jpg", "actors": [], "comments": [], "recommandations_id": []}

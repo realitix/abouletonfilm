@@ -1,0 +1,1 @@
+{"tmdb_id": 461699, "title": "Detective Felix in Trouble", "original_title": "Felix no meitantei", "slug_title": "detective-felix-in-trouble", "date": "1932-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3RnId8mBQRCWYFPB9u8cTyKcFza.jpg", "actors": [], "comments": [], "recommandations_id": []}

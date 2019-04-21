@@ -1,0 +1,1 @@
+{"tmdb_id": 377043, "title": "Derek Jarman: Life as Art", "original_title": "Derek Jarman: Life as Art", "slug_title": "derek-jarman-life-as-art", "date": "2004-03-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8XisSqzvzAjXTQmP2HJwSyUpJxb.jpg", "actors": [], "comments": [], "recommandations_id": []}

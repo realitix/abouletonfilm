@@ -1,0 +1,1 @@
+{"tmdb_id": 260918, "title": "Colossal", "original_title": "Colossal", "slug_title": "colossal", "date": "2012-12-06", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/41Ojjln02qpVYqcJ69Ue0CSWQct.jpg", "actors": ["Acey Aguilar (Man)", "Mercedes Cabral (Woman)", "Lav Diaz (Shaman)"], "comments": [], "recommandations_id": []}

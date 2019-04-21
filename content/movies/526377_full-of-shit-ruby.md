@@ -1,0 +1,1 @@
+{"tmdb_id": 526377, "title": "Full of shit Ruby", "original_title": "Ruby pleine de marde", "slug_title": "full-of-shit-ruby", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 464700, "title": "Red Shoe Diaries 7: Burning Up", "original_title": "Red Shoe Diaries 7: Burning Up", "slug_title": "red-shoe-diaries-7-burning-up", "date": "1997-01-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

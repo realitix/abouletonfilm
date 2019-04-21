@@ -1,0 +1,1 @@
+{"tmdb_id": 555494, "title": "Mistinguett d\u00e9tective", "original_title": "Mistinguett d\u00e9tective", "slug_title": "mistinguett-detective", "date": "1917-02-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

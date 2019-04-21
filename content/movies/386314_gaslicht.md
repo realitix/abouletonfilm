@@ -1,0 +1,1 @@
+{"tmdb_id": 386314, "title": "Gaslicht", "original_title": "Gaslicht", "slug_title": "gaslicht", "date": "1977-03-07", "genre": "Crime", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Erika Pluhar (Bella Manningham)", "Josef Meinrad (Jack Manningham)", "Gustav Knuth (Rough)", "Irmgard Riessen (Nancy)"], "comments": [], "recommandations_id": []}

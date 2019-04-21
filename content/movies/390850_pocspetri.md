@@ -1,0 +1,1 @@
+{"tmdb_id": 390850, "title": "P\u00f3cspetri", "original_title": "P\u00f3cspetri", "slug_title": "pocspetri", "date": "1983-04-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4teMw36f2HCEbEETAMtCI6O46im.jpg", "actors": [], "comments": [], "recommandations_id": []}

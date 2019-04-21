@@ -1,0 +1,1 @@
+{"tmdb_id": 520563, "title": "Incubus", "original_title": "Incubus", "slug_title": "incubus", "date": "1985-06-01", "genre": "Animation", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/UIcjvseIVdjHH1g11LpMPaZCz5.jpg", "actors": [], "comments": [], "recommandations_id": []}

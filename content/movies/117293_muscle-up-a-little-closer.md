@@ -1,0 +1,1 @@
+{"tmdb_id": 117293, "title": "Muscle Up A Little Closer", "original_title": "Muscle Up A Little Closer", "slug_title": "muscle-up-a-little-closer", "date": "1957-02-28", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Larry Fine (Larry)", "Joe Besser (Joe)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 138319, "title": "Darwin's Dilemma", "original_title": "Darwin's Dilemma", "slug_title": "darwin-s-dilemma", "date": "2009-09-14", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z6HYmsL4qYotx3WHlRWA4jTzbtU.jpg", "actors": [], "comments": [], "recommandations_id": []}

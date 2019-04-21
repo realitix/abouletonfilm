@@ -1,0 +1,1 @@
+{"tmdb_id": 79774, "title": "Oh! My Sex Goddess", "original_title": "\u3081\u304c\u3061\u3085! The Animation", "slug_title": "oh-my-sex-goddess", "date": "2007-07-25", "genre": "Animation / Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/md1UQpVN6QnFvnzxVqT2KaflglC.jpg", "actors": [], "comments": [], "recommandations_id": []}

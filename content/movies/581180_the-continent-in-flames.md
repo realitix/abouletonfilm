@@ -1,0 +1,1 @@
+{"tmdb_id": 581180, "title": "The Continent in Flames", "original_title": "\ubd88\ubd99\ub294 \ub300\ub959", "slug_title": "the-continent-in-flames", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kim Hye-jeong ()", "Kim Hee-kap ()", "Hwang Hae ()", "Jang Dong-he ()"], "comments": [], "recommandations_id": []}

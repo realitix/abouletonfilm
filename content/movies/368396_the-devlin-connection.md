@@ -1,0 +1,1 @@
+{"tmdb_id": 368396, "title": "The Devlin Connection", "original_title": "The Devlin Connection", "slug_title": "the-devlin-connection", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

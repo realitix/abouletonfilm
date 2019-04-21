@@ -1,0 +1,1 @@
+{"tmdb_id": 276227, "title": "Quadro Pink", "original_title": "Quadro Pink", "slug_title": "quadro-pink", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 465348, "title": "Kuriton sukupolvi", "original_title": "Kuriton sukupolvi", "slug_title": "kuriton-sukupolvi", "date": "1957-03-29", "genre": "Com\u00e9die", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hae0SUmAdA4RbgXkwaWybq9jFMu.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 402285, "title": "Super Batman & Mazinger V", "original_title": "Star Zzanga Z Mazinga V Super Betaman", "slug_title": "super-batman-mazinger-v", "date": "1990-08-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ahJG8yOdM80heriVCPmqrpwFCWx.jpg", "actors": [], "comments": [], "recommandations_id": []}

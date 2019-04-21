@@ -1,0 +1,1 @@
+{"tmdb_id": 563023, "title": "Kubo's Journey", "original_title": "Kubo's Journey", "slug_title": "kubo-s-journey", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

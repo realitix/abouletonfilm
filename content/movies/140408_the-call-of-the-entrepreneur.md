@@ -1,0 +1,1 @@
+{"tmdb_id": 140408, "title": "The Call of the Entrepreneur", "original_title": "The Call of the Entrepreneur", "slug_title": "the-call-of-the-entrepreneur", "date": "2007-05-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u77micjqKfOXJxuUGJNSbN4z9ox.jpg", "actors": [], "comments": [], "recommandations_id": []}

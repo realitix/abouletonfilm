@@ -1,0 +1,1 @@
+{"tmdb_id": 234732, "title": "Electronica", "original_title": "Electronica", "slug_title": "electronica", "date": "1960-08-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

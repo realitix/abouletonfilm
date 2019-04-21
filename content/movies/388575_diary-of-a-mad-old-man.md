@@ -1,0 +1,1 @@
+{"tmdb_id": 388575, "title": "Diary of a Mad Old Man", "original_title": "Dagboek van een oude dwaas", "slug_title": "diary-of-a-mad-old-man", "date": "1987-03-18", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wOYromqwzCXPCMap2Ucsld2mi5Q.jpg", "actors": [], "comments": [], "recommandations_id": []}

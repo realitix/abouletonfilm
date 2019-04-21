@@ -1,0 +1,1 @@
+{"tmdb_id": 498725, "title": "Fakkelen til Oslo", "original_title": "Fakkelen til Oslo", "slug_title": "fakkelen-til-oslo", "date": "1952-02-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

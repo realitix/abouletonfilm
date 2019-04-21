@@ -1,0 +1,1 @@
+{"tmdb_id": 174445, "title": "Insultin' the Sultan", "original_title": "Insultin' the Sultan", "slug_title": "insultin-the-sultan", "date": "1934-04-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

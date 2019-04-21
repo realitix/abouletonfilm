@@ -1,0 +1,1 @@
+{"tmdb_id": 568649, "title": "Wild Ride", "original_title": "Wild Ride", "slug_title": "wild-ride", "date": "2018-12-15", "genre": "Horreur / Com\u00e9die / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nGZ0XKsSMGEEvQqmsVMCmjRCVA5.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 307833, "title": "Vichithra Dampathyam", "original_title": "Vichithra Dampathyam", "slug_title": "vichithra-dampathyam", "date": "1969-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

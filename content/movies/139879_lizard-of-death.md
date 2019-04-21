@@ -1,0 +1,1 @@
+{"tmdb_id": 139879, "title": "Lizard of Death", "original_title": "Lizard of Death", "slug_title": "lizard-of-death", "date": "2000-11-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jRZ4q100r1SK9oUeYyyiMEcR5sx.jpg", "actors": [], "comments": [], "recommandations_id": []}

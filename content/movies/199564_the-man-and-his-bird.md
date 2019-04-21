@@ -1,0 +1,1 @@
+{"tmdb_id": 199564, "title": "The Man And His Bird", "original_title": "Chelovek I Ego Ptica", "slug_title": "the-man-and-his-bird", "date": "1975-02-15", "genre": "Animation", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v6aUGOMtnphjvHazPkeO8S8CFOl.jpg", "actors": [], "comments": [], "recommandations_id": []}

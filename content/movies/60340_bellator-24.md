@@ -1,0 +1,1 @@
+{"tmdb_id": 60340, "title": "Bellator 24", "original_title": "Bellator 24", "slug_title": "bellator-24", "date": "2010-08-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/PYAWViif2QBsFZuBN3hlghfmuh.jpg", "actors": [], "comments": [], "recommandations_id": []}

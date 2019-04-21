@@ -1,0 +1,1 @@
+{"tmdb_id": 379524, "title": "Dem Trong Can Nha Hoang", "original_title": "Dem Trong Can Nha Hoang", "slug_title": "dem-trong-can-nha-hoang", "date": "2008-01-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o5w6YUyKaP5hap89Gmq3NVeWhRJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

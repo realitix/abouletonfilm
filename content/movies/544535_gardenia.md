@@ -1,0 +1,1 @@
+{"tmdb_id": 544535, "title": "Gard\u00eania", "original_title": "Gard\u00eania", "slug_title": "gardenia", "date": "2017-06-12", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sqZHAcMZooSf6abWa7F1q4rHp5s.jpg", "actors": ["Ana B\u00e1rbara Vila Nova (Keyla)"], "comments": [], "recommandations_id": []}

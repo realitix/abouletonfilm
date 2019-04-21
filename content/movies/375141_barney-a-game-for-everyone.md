@@ -1,0 +1,1 @@
+{"tmdb_id": 375141, "title": "Barney: A Game For Everyone!", "original_title": "Barney: A Game For Everyone!", "slug_title": "barney-a-game-for-everyone", "date": "", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vxhfoY4QHGaw2aMgdxKXkZz9gY3.jpg", "actors": [], "comments": [], "recommandations_id": []}

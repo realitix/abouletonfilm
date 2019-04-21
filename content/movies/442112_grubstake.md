@@ -1,0 +1,1 @@
+{"tmdb_id": 442112, "title": "Grubstake", "original_title": "Grubstake", "slug_title": "grubstake", "date": "1952-01-01", "genre": "Western", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Stephen Wyman ()", "Jack Klugman ()", "Neile Adams ()", "Lynn Shubert ()", "Kort Falkenberg ()"], "comments": [], "recommandations_id": []}

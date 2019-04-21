@@ -1,0 +1,1 @@
+{"tmdb_id": 257814, "title": "A Fisher's Journey", "original_title": "A Fisher's Journey", "slug_title": "a-fisher-s-journey", "date": "2008-08-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wjCqhjHmxfXs8aM6qBAgsqhlyg2.jpg", "actors": ["Dalston Samuels ()"], "comments": [], "recommandations_id": []}

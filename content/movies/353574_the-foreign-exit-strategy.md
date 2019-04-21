@@ -1,0 +1,1 @@
+{"tmdb_id": 353574, "title": "The Foreign Exit Strategy", "original_title": "The Foreign Exit Strategy", "slug_title": "the-foreign-exit-strategy", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

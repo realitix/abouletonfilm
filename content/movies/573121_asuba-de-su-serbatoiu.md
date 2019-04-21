@@ -1,0 +1,1 @@
+{"tmdb_id": 573121, "title": "Asuba de su serbatoiu", "original_title": "Asuba de su serbatoiu", "slug_title": "asuba-de-su-serbatoiu", "date": "2001-08-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 536521, "title": "Depriva\u010dn\u00ed Staniol", "original_title": "Depriva\u010dn\u00ed Staniol", "slug_title": "deprivacni-staniol", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

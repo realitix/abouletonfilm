@@ -1,0 +1,1 @@
+{"tmdb_id": 104395, "title": "Der explodierende Turnschuh", "original_title": "Der explodierende Turnschuh", "slug_title": "der-explodierende-turnschuh", "date": "1980-01-01", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

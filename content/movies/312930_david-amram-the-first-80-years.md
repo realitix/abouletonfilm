@@ -1,0 +1,1 @@
+{"tmdb_id": 312930, "title": "David Amram: The First 80 Years", "original_title": "David Amram: The First 80 Years", "slug_title": "david-amram-the-first-80-years", "date": "2011-11-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/icMKy2EFo4wXPIyAjehtFaWSvOX.jpg", "actors": [], "comments": [], "recommandations_id": []}

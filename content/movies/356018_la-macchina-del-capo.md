@@ -1,0 +1,1 @@
+{"tmdb_id": 356018, "title": "La macchina del capo", "original_title": "La macchina del capo", "slug_title": "la-macchina-del-capo", "date": "2009-01-01", "genre": "Histoire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/avgbBVs5Uw8TG2qUqi15mc5UjZ3.jpg", "actors": ["Marco Paolini ()"], "comments": [], "recommandations_id": []}

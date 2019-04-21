@@ -1,0 +1,1 @@
+{"tmdb_id": 429160, "title": "Barbie's Audition", "original_title": "Barbie's Audition", "slug_title": "barbie-s-audition", "date": "1995-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Joe Gibbons ()"], "comments": [], "recommandations_id": []}

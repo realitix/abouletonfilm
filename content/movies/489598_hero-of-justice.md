@@ -1,0 +1,1 @@
+{"tmdb_id": 489598, "title": "Hero of Justice", "original_title": "Hero of Justice", "slug_title": "hero-of-justice", "date": "2017-11-25", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

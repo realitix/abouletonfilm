@@ -1,0 +1,1 @@
+{"tmdb_id": 147006, "title": "Artherapy", "original_title": "Artherapy", "slug_title": "artherapy", "date": "2010-03-11", "genre": "", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hErfSUzfbzLgHjaOKJLeulXNRKK.jpg", "actors": [], "comments": [], "recommandations_id": []}

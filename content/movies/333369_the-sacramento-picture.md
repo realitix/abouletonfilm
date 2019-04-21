@@ -1,0 +1,1 @@
+{"tmdb_id": 333369, "title": "The Sacramento Picture!", "original_title": "The Sacramento Picture!", "slug_title": "the-sacramento-picture", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

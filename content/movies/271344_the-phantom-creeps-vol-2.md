@@ -1,0 +1,1 @@
+{"tmdb_id": 271344, "title": "The Phantom Creeps, Vol. 2", "original_title": "The Phantom Creeps, Vol. 2", "slug_title": "the-phantom-creeps-vol-2", "date": "1939-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

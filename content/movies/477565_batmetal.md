@@ -1,0 +1,1 @@
+{"tmdb_id": 477565, "title": "Batmetal", "original_title": "Batmetal", "slug_title": "batmetal", "date": "2014-01-07", "genre": "Musique / Com\u00e9die", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xJSJxugMpz4EArU2E1gdsuKJ4Cu.jpg", "actors": [], "comments": [], "recommandations_id": []}

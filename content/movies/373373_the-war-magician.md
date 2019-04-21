@@ -1,0 +1,1 @@
+{"tmdb_id": 373373, "title": "The War Magician", "original_title": "The War Magician", "slug_title": "the-war-magician", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Benedict Cumberbatch (Jasper Maskelyne)"], "comments": [], "recommandations_id": [457232, 424853, 76545]}

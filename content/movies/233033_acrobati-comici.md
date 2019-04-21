@@ -1,0 +1,1 @@
+{"tmdb_id": 233033, "title": "Acrobati comici", "original_title": "Acrobati comici", "slug_title": "acrobati-comici", "date": "1910-08-09", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

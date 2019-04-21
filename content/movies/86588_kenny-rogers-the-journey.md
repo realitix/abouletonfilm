@@ -1,0 +1,1 @@
+{"tmdb_id": 86588, "title": "Kenny Rogers: The Journey", "original_title": "Kenny Rogers: The Journey", "slug_title": "kenny-rogers-the-journey", "date": "2006-09-26", "genre": "Musique", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sw7gIfYsat8J1IAir8w4vmoK2L3.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 414233, "title": "Lakshmi Nivasam", "original_title": "Lakshmi Nivasam", "slug_title": "lakshmi-nivasam", "date": "1968-07-19", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Krishna ()", "Sobhan Babu ()", "Vanisri ()", "S. V. Ranga Rao ()", "Anjali Devi ()"], "comments": [], "recommandations_id": []}

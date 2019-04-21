@@ -1,0 +1,1 @@
+{"tmdb_id": 345814, "title": "Det var ikke jeg, det var fiskm\u00e5sen", "original_title": "Det var ikke jeg, det var fiskm\u00e5sen", "slug_title": "det-var-ikke-jeg-det-var-fiskmasen", "date": "2013-06-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pelle Sandstrak ((voice))"], "comments": [], "recommandations_id": []}

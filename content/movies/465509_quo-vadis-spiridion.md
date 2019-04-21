@@ -1,0 +1,1 @@
+{"tmdb_id": 465509, "title": "Quo Vadis, Spiridion?", "original_title": "Quo Vadis, Spiridion?", "slug_title": "quo-vadis-spiridion", "date": "1911-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Spyros Dimitrakopoulos ()"], "comments": [], "recommandations_id": []}

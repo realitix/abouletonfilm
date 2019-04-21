@@ -1,0 +1,1 @@
+{"tmdb_id": 75706, "title": "Wu Seng", "original_title": "Wu Seng", "slug_title": "wu-seng", "date": "2007-01-01", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r9X9dZna7kCeNBcWBuXflDKu2wy.jpg", "actors": ["Mao Zhi-Qiang ()", "Yuan Wen-Ting ()", "Fan Siu-Wong ()"], "comments": [], "recommandations_id": []}

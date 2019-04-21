@@ -1,0 +1,1 @@
+{"tmdb_id": 275931, "title": "Jaali Note", "original_title": "Jaali Note", "slug_title": "jaali-note", "date": "1960-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eliKtqIn45BZIsgERaer0BcWPPA.jpg", "actors": ["Bipin Gupta ()"], "comments": [], "recommandations_id": []}

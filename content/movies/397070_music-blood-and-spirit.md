@@ -1,0 +1,1 @@
+{"tmdb_id": 397070, "title": "Music, Blood and Spirit", "original_title": "Music, Blood and Spirit", "slug_title": "music-blood-and-spirit", "date": "2016-04-29", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wojg65sr24KCL466g0ExdEPOQQS.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 173343, "title": "Lady Kul El Arab", "original_title": "Lady Kul El Arab", "slug_title": "lady-kul-el-arab", "date": "2008-11-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

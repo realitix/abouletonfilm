@@ -1,0 +1,1 @@
+{"tmdb_id": 585943, "title": "ingrid cambia de rumbo", "original_title": "ingrid cambia de rumbo", "slug_title": "ingrid-cambia-de-rumbo", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 519145, "title": "Skip Day", "original_title": "Skip Day", "slug_title": "skip-day", "date": "2018-05-17", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kt1gNiDqKshIevltjiCWQluB3bd.jpg", "actors": [], "comments": [], "recommandations_id": []}

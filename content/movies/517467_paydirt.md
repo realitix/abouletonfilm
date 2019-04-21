@@ -1,0 +1,1 @@
+{"tmdb_id": 517467, "title": "PayDirt", "original_title": "PayDirt", "slug_title": "paydirt", "date": "2010-02-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pQDwECt2Oyye7mfh1jAOFyoYEFG.jpg", "actors": [], "comments": [], "recommandations_id": []}

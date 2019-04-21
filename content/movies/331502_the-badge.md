@@ -1,0 +1,1 @@
+{"tmdb_id": 331502, "title": "The Badge", "original_title": "The Badge", "slug_title": "the-badge", "date": "2015-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

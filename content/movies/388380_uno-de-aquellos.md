@@ -1,0 +1,1 @@
+{"tmdb_id": 388380, "title": "Uno de Aqu\u00e9llos", "original_title": "Uno de Aqu\u00e9llos", "slug_title": "uno-de-aquellos", "date": "2009-03-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

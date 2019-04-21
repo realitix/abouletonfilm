@@ -1,0 +1,1 @@
+{"tmdb_id": 489265, "title": "Monopoly Medicine", "original_title": "Monopoly Medicine", "slug_title": "monopoly-medicine", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mike Adams (Himself)", "G. Edward Griffin (Himself)"], "comments": [], "recommandations_id": []}

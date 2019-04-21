@@ -1,0 +1,1 @@
+{"tmdb_id": 498047, "title": "Der Ruf der Sibylla", "original_title": "Der Ruf der Sibylla", "slug_title": "der-ruf-der-sibylla", "date": "1985-09-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Max R\u00fcdlinger (Balz)", "Christine Lauterburg (Clara)"], "comments": [], "recommandations_id": []}

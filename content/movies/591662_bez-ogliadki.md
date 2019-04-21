@@ -1,0 +1,1 @@
+{"tmdb_id": 591662, "title": "\u0411\u0435\u0437 \u043e\u0433\u043b\u044f\u0434\u043a\u0438", "original_title": "\u0411\u0435\u0437 \u043e\u0433\u043b\u044f\u0434\u043a\u0438", "slug_title": "bez-ogliadki", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

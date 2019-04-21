@@ -1,0 +1,1 @@
+{"tmdb_id": 510898, "title": "Harding & his kamera", "original_title": "Harding & his kamera", "slug_title": "harding-his-kamera", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

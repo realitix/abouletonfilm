@@ -1,0 +1,1 @@
+{"tmdb_id": 573038, "title": "Malu-Malu Mau", "original_title": "Malu-Malu Mau", "slug_title": "malu-malu-mau", "date": "1988-07-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/868GfcXuUcvD0WMHHYBuwt9W1lF.jpg", "actors": ["Dono ()", "Kasino ()", "Indro ()"], "comments": [], "recommandations_id": []}

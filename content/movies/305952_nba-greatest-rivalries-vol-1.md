@@ -1,0 +1,1 @@
+{"tmdb_id": 305952, "title": "NBA Greatest Rivalries Vol. 1", "original_title": "NBA Greatest Rivalries Vol. 1", "slug_title": "nba-greatest-rivalries-vol-1", "date": "2010-05-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

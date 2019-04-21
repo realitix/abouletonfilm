@@ -1,0 +1,1 @@
+{"tmdb_id": 318986, "title": "Cerrando el puesto", "original_title": "Cerrando el puesto", "slug_title": "cerrando-el-puesto", "date": "2015-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5nu7c72lBeZK5HndXRvlslSH4R4.jpg", "actors": [], "comments": [], "recommandations_id": []}

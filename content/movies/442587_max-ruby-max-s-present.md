@@ -1,0 +1,1 @@
+{"tmdb_id": 442587, "title": "Max & Ruby: Max's Present", "original_title": "Max & Ruby: Max's Present", "slug_title": "max-ruby-max-s-present", "date": "2010-05-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7TFDnuhqkSWglWtAyexeorzINPC.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 385402, "title": "Spirits in Season", "original_title": "Spirits in Season", "slug_title": "spirits-in-season", "date": "2013-07-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hh2RemtmnLjjgPPTlhDQmZs8nyx.jpg", "actors": [], "comments": [], "recommandations_id": []}

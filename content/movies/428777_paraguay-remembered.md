@@ -1,0 +1,1 @@
+{"tmdb_id": 428777, "title": "Paraguay Remembered", "original_title": "Memoria desmemoriada", "slug_title": "paraguay-remembered", "date": "2017-02-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m6LJog1Gw3h5k6VOWQ1tVIair7o.jpg", "actors": [], "comments": [], "recommandations_id": []}

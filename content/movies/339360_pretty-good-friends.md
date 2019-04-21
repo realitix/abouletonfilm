@@ -1,0 +1,1 @@
+{"tmdb_id": 339360, "title": "Pretty Good Friends", "original_title": "Pretty Good Friends", "slug_title": "pretty-good-friends", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

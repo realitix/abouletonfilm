@@ -1,0 +1,1 @@
+{"tmdb_id": 352934, "title": "Bart the General 2", "original_title": "Bart the General 2", "slug_title": "bart-the-general-2", "date": "2006-08-05", "genre": "Com\u00e9die / Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

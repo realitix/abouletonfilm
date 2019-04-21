@@ -1,0 +1,1 @@
+{"tmdb_id": 291042, "title": "Bullet in the Head", "original_title": "Bullet in the Head", "slug_title": "bullet-in-the-head", "date": "2014-06-10", "genre": "Drame / Crime", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

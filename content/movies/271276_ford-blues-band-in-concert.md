@@ -1,0 +1,1 @@
+{"tmdb_id": 271276, "title": "Ford Blues Band - In Concert", "original_title": "Ford Blues Band - In Concert", "slug_title": "ford-blues-band-in-concert", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

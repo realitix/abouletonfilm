@@ -1,0 +1,1 @@
+{"tmdb_id": 314707, "title": "REO Speedwagon: Real Artists Working", "original_title": "REO Speedwagon: Real Artists Working", "slug_title": "reo-speedwagon-real-artists-working", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

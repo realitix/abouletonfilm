@@ -1,0 +1,1 @@
+{"tmdb_id": 307504, "title": "Bin Badal Barsaat", "original_title": "Bin Badal Barsaat", "slug_title": "bin-badal-barsaat", "date": "1963-11-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

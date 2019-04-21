@@ -1,0 +1,1 @@
+{"tmdb_id": 511480, "title": "Jamie Really Liked to Eat", "original_title": "Jamie Really Liked to Eat", "slug_title": "jamie-really-liked-to-eat", "date": "1995-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1M92xs9glvOhMOj5ctjzivDaTaY.jpg", "actors": [], "comments": [], "recommandations_id": []}

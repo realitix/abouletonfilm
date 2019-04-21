@@ -1,0 +1,1 @@
+{"tmdb_id": 570548, "title": "Cookies for Candy Claws", "original_title": "Cookies for Candy Claws", "slug_title": "cookies-for-candy-claws", "date": "2018-12-24", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Aurelio Voltaire (himself)"], "comments": [], "recommandations_id": []}

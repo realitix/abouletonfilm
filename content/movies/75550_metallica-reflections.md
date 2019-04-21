@@ -1,0 +1,1 @@
+{"tmdb_id": 75550, "title": "Metallica: Reflections", "original_title": "Metallica: Reflections", "slug_title": "metallica-reflections", "date": "2006-08-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A8uOSXgXpU6tWayebn2E7lNMTct.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 370394, "title": "Lux taal", "original_title": "Lux taal", "slug_title": "lux-taal", "date": "2009-11-29", "genre": "Documentaire", "score": "7.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bfp3tVcLazLcVhS01eZQLhuTpHr.jpg", "actors": [], "comments": [], "recommandations_id": []}

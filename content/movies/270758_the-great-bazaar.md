@@ -1,0 +1,1 @@
+{"tmdb_id": 270758, "title": "The Great Bazaar", "original_title": "O Grande Bazar", "slug_title": "the-great-bazaar", "date": "2006-06-02", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zHogBr9p2m5aBkLzbUOeNSzoHhT.jpg", "actors": [], "comments": [], "recommandations_id": []}

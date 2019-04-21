@@ -1,0 +1,1 @@
+{"tmdb_id": 480911, "title": "Skandal um Peggy", "original_title": "Skandal um Peggy", "slug_title": "skandal-um-peggy", "date": "1953-06-17", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Inge Meysel ()", "Willy Maertens ()"], "comments": [], "recommandations_id": []}

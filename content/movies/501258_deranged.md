@@ -1,0 +1,1 @@
+{"tmdb_id": 501258, "title": "Deranged", "original_title": "Deranged", "slug_title": "deranged", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oYn7M2j5w2HrthnQ7IZ7QlMM0ak.jpg", "actors": ["Vanessa del Rio ()", "Luis De Jesus ()"], "comments": [], "recommandations_id": []}

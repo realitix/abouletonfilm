@@ -1,0 +1,1 @@
+{"tmdb_id": 534221, "title": "Madame Petlet's True Story", "original_title": "Le fabuleux destin de Madame Petlet", "slug_title": "madame-petlet-s-true-story", "date": "1995-07-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/66CqCUbSegC35jX0P6g4wz4tGZv.jpg", "actors": [], "comments": [], "recommandations_id": []}

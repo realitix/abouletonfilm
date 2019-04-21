@@ -1,0 +1,1 @@
+{"tmdb_id": 213360, "title": "Assassin Swordsman", "original_title": "Assassin Swordsman", "slug_title": "assassin-swordsman", "date": "2000-01-06", "genre": "Action", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kM4O5eYYv4AjrRKN3ZnQyA193NI.jpg", "actors": ["Zhao Wei ()", "Nicky Wu ()"], "comments": [], "recommandations_id": []}

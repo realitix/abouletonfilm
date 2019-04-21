@@ -1,0 +1,1 @@
+{"tmdb_id": 339971, "title": "Sattas - Regici", "original_title": "Sattas - Regici", "slug_title": "sattas-regici", "date": "2012-05-31", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6TY72zq51wVoTnYZantIuZsYbsH.jpg", "actors": [], "comments": [], "recommandations_id": []}

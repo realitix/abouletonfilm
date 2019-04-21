@@ -1,0 +1,1 @@
+{"tmdb_id": 134257, "title": "Ich oder du", "original_title": "Ich oder du", "slug_title": "ich-oder-du", "date": "1984-10-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Karl Kr\u00f6pfl (Franz)", "Hansi Lang (Robert)", "Gerald Pichowetz (Ferdl)", "Beate Finckh (Christina)"], "comments": [], "recommandations_id": []}

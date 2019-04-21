@@ -1,0 +1,1 @@
+{"tmdb_id": 427290, "title": "\ubd80\ubd80\uc758 \uc2a4\ud3f0\uc11c", "original_title": "\ubd80\ubd80\uc758 \uc2a4\ud3f0\uc11c", "slug_title": "bubuyi-seuponseo", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lAI38AWWBUl6eMiJJcFYWXL7vLt.jpg", "actors": [], "comments": [], "recommandations_id": []}

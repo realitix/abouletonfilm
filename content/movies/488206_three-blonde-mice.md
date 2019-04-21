@@ -1,0 +1,1 @@
+{"tmdb_id": 488206, "title": "Three Blonde Mice", "original_title": "Three Blonde Mice", "slug_title": "three-blonde-mice", "date": "1942-01-22", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Alan Mowbray (Elmer Smith)"], "comments": [], "recommandations_id": []}

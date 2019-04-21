@@ -1,0 +1,1 @@
+{"tmdb_id": 449278, "title": "Cultural Nationalism", "original_title": "Cultural Nationalism", "slug_title": "cultural-nationalism", "date": "1968-02-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yW6MlLKG7szXw37ASeJgFgUSmnh.jpg", "actors": [], "comments": [], "recommandations_id": []}

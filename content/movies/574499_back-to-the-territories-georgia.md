@@ -1,0 +1,1 @@
+{"tmdb_id": 574499, "title": "Back to the Territories: Georgia", "original_title": "Back to the Territories: Georgia", "slug_title": "back-to-the-territories-georgia", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jim Cornette (Himself)", "Bill Eadie (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 370196, "title": "L\u00e1gy es\u00f6", "original_title": "L\u00e1gy es\u00f6", "slug_title": "lagy-eso", "date": "2013-03-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

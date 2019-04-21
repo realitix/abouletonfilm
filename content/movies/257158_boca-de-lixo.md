@@ -1,0 +1,1 @@
+{"tmdb_id": 257158, "title": "Boca de Lixo", "original_title": "Boca de Lixo", "slug_title": "boca-de-lixo", "date": "1993-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8OkcbluggKNweykI2K2IYA9ZpFs.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 332722, "title": "Kid Protocol", "original_title": "Kid Protocol", "slug_title": "kid-protocol", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

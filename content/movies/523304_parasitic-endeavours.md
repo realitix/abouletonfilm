@@ -1,0 +1,1 @@
+{"tmdb_id": 523304, "title": "Parasitic Endeavours", "original_title": "Parasitic Endeavours", "slug_title": "parasitic-endeavours", "date": "2017-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ioY4UFy1LZ1etv2CB05zgPAZeik.jpg", "actors": [], "comments": [], "recommandations_id": []}

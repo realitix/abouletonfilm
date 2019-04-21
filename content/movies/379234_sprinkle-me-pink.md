@@ -1,0 +1,1 @@
+{"tmdb_id": 379234, "title": "Sprinkle Me Pink", "original_title": "Sprinkle Me Pink", "slug_title": "sprinkle-me-pink", "date": "1978-11-11", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eOGsAYyCfztThPW7pT89KUWRmoe.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 291217, "title": "B\u00e9b\u00e9 \u00c0 Tout Prix", "original_title": "B\u00e9b\u00e9 \u00c0 Tout Prix", "slug_title": "bebe-a-tout-prix", "date": "2014-06-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

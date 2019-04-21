@@ -1,0 +1,1 @@
+{"tmdb_id": 500094, "title": "Looted and Hidden: Palestinean Archives in Israel", "original_title": "Looted and Hidden: Palestinean Archives in Israel", "slug_title": "looted-and-hidden-palestinean-archives-in-israel", "date": "2018-01-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 584576, "title": "Sotaque do Olhar", "original_title": "Sotaque do Olhar", "slug_title": "sotaque-do-olhar", "date": "2018-12-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q0PFJVXMgqmHdrKRCpPIjLe2jEr.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 458630, "title": "Akong: A Remarkable Life", "original_title": "Akong: A Remarkable Life", "slug_title": "akong-a-remarkable-life", "date": "2017-04-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

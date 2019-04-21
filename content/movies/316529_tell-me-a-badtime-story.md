@@ -1,0 +1,1 @@
+{"tmdb_id": 316529, "title": "Tell Me a Badtime Story", "original_title": "Tell Me a Badtime Story", "slug_title": "tell-me-a-badtime-story", "date": "1963-10-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

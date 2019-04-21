@@ -1,0 +1,1 @@
+{"tmdb_id": 364792, "title": "The Champ", "original_title": "The Champ", "slug_title": "the-champ", "date": "2015-10-22", "genre": "Action / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kBNDHbwUVmAX9jhofl6KdijdvHS.jpg", "actors": ["Milos Mitrovic (Champ)"], "comments": [], "recommandations_id": []}

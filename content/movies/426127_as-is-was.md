@@ -1,0 +1,1 @@
+{"tmdb_id": 426127, "title": "As Is Was", "original_title": "As Is Was", "slug_title": "as-is-was", "date": "1995-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aJkOb6EbauvFGjchloN51vW6vkN.jpg", "actors": ["Marjorie Keller ()", "Stan Brakhage ()"], "comments": [], "recommandations_id": []}

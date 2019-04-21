@@ -1,0 +1,1 @@
+{"tmdb_id": 441866, "title": "Freelancer on the Front Lines", "original_title": "Freelancer on the Front Lines", "slug_title": "freelancer-on-the-front-lines", "date": "", "genre": "", "score": "0.0/10", "synopsis": "Un journaliste au front", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

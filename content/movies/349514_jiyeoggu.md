@@ -1,0 +1,1 @@
+{"tmdb_id": 349514, "title": "\uc9c0\uc5ed\uad6c", "original_title": "\uc9c0\uc5ed\uad6c", "slug_title": "jiyeoggu", "date": "1994-11-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

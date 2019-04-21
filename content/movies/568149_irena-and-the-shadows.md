@@ -1,0 +1,1 @@
+{"tmdb_id": 568149, "title": "Irena and the Shadows", "original_title": "Irena et les ombres", "slug_title": "irena-and-the-shadows", "date": "1987-07-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hjJlwuP3AIfeXrIq6GuB9qG16JU.jpg", "actors": [], "comments": [], "recommandations_id": []}

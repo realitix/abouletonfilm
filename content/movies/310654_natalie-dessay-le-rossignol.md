@@ -1,0 +1,1 @@
+{"tmdb_id": 310654, "title": "Natalie Dessay: Le Rossignol", "original_title": "Natalie Dessay: Le Rossignol", "slug_title": "natalie-dessay-le-rossignol", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 501004, "title": "I Was/I Am", "original_title": "I Was/I Am", "slug_title": "i-was-i-am", "date": "1973-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

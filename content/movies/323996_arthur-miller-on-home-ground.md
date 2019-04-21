@@ -1,0 +1,1 @@
+{"tmdb_id": 323996, "title": "Arthur Miller on Home Ground", "original_title": "Arthur Miller on Home Ground", "slug_title": "arthur-miller-on-home-ground", "date": "1979-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

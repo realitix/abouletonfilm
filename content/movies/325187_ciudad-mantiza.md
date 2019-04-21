@@ -1,0 +1,1 @@
+{"tmdb_id": 325187, "title": "Ciudad Mantiza", "original_title": "Ciudad Mantiza", "slug_title": "ciudad-mantiza", "date": "2013-06-21", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2OwcjuQrSKVmQOu9q6BmyO8cxtt.jpg", "actors": [], "comments": [], "recommandations_id": []}

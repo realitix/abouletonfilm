@@ -1,0 +1,1 @@
+{"tmdb_id": 382122, "title": "Jerusalem on a Plate", "original_title": "Jerusalem on a Plate", "slug_title": "jerusalem-on-a-plate", "date": "2011-12-20", "genre": "Documentaire", "score": "6.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Yotam Ottolenghi ()"], "comments": [], "recommandations_id": []}

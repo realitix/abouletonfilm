@@ -1,0 +1,1 @@
+{"tmdb_id": 190006, "title": "Goofy Ghosts", "original_title": "Goofy Ghosts", "slug_title": "goofy-ghosts", "date": "1928-04-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

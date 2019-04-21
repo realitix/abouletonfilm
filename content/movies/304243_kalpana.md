@@ -1,0 +1,1 @@
+{"tmdb_id": 304243, "title": "Kalpana", "original_title": "Kalpana", "slug_title": "kalpana", "date": "1960-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

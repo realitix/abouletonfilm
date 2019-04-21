@@ -1,0 +1,1 @@
+{"tmdb_id": 404988, "title": "Una noche en Hollywood", "original_title": "Una noche en Hollywood", "slug_title": "una-noche-en-hollywood", "date": "1996-01-02", "genre": "Com\u00e9die / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

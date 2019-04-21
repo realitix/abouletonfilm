@@ -1,0 +1,1 @@
+{"tmdb_id": 438995, "title": "Bala perdida", "original_title": "Bala perdida", "slug_title": "bala-perdida", "date": "2010-01-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oCHgA54bNXFQ51BP8HgHZ8e6YjV.jpg", "actors": [], "comments": [], "recommandations_id": []}

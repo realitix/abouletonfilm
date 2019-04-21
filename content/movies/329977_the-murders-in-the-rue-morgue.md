@@ -1,0 +1,1 @@
+{"tmdb_id": 329977, "title": "The Murders in the Rue Morgue", "original_title": "The Murders in the Rue Morgue", "slug_title": "the-murders-in-the-rue-morgue", "date": "1914-07-31", "genre": "Crime / Horreur / Myst\u00e8re", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 572206, "title": "La vie est dure, nous aussi", "original_title": "La vie est dure, nous aussi", "slug_title": "la-vie-est-dure-nous-aussi", "date": "1999-01-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hQoAv1HD8Vd40r3q4VywddKMyXe.jpg", "actors": [], "comments": [], "recommandations_id": []}

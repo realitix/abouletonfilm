@@ -1,0 +1,1 @@
+{"tmdb_id": 339294, "title": "Some Bears", "original_title": "Some Bears", "slug_title": "some-bears", "date": "2013-05-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mike Knapik (George)", "Jersey Clark (Steven)", "Liz Baker (Carey)"], "comments": [], "recommandations_id": []}

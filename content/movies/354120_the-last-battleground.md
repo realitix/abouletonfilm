@@ -1,0 +1,1 @@
+{"tmdb_id": 354120, "title": "The Last Battleground", "original_title": "The Last Battleground", "slug_title": "the-last-battleground", "date": "2010-02-17", "genre": "Horreur", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1IfZWWlp7XxPUVrJ9aYkxnWIiZo.jpg", "actors": [], "comments": [], "recommandations_id": []}

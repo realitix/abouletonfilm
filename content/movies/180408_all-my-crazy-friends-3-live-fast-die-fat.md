@@ -1,0 +1,1 @@
+{"tmdb_id": 180408, "title": "All My Crazy Friends 3... Live Fast, Die Fat", "original_title": "All My Crazy Friends 3... Live Fast, Die Fat", "slug_title": "all-my-crazy-friends-3-live-fast-die-fat", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

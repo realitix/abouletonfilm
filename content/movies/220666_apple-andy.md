@@ -1,0 +1,1 @@
+{"tmdb_id": 220666, "title": "Apple Andy", "original_title": "Apple Andy", "slug_title": "apple-andy", "date": "1946-05-20", "genre": "Animation", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t8dxybbY2OOZAUZ6Bb8pVl4rBjH.jpg", "actors": ["Mel Blanc ()"], "comments": [], "recommandations_id": []}

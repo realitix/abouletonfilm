@@ -1,0 +1,1 @@
+{"tmdb_id": 318770, "title": "Wiseguys on Texas Hold 'Em", "original_title": "Wiseguys on Texas Hold 'Em", "slug_title": "wiseguys-on-texas-hold-em", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 214560, "title": "1812: War and Peace Studies", "original_title": "1812: War and Peace Studies", "slug_title": "1812-war-and-peace-studies", "date": "2011-08-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sSI2Kdfis0Lm70m5lxdDlt1MJvX.jpg", "actors": [], "comments": [], "recommandations_id": []}

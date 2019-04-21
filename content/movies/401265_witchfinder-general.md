@@ -1,0 +1,1 @@
+{"tmdb_id": 401265, "title": "Witchfinder General", "original_title": "Witchfinder General", "slug_title": "witchfinder-general", "date": "2019-12-31", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

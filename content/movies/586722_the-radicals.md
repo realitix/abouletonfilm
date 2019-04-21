@@ -1,0 +1,1 @@
+{"tmdb_id": 586722, "title": "The Radicals", "original_title": "The Radicals", "slug_title": "the-radicals", "date": "2018-09-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

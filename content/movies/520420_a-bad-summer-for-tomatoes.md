@@ -1,0 +1,1 @@
+{"tmdb_id": 520420, "title": "A Bad Summer for Tomatoes", "original_title": "A Bad Summer for Tomatoes", "slug_title": "a-bad-summer-for-tomatoes", "date": "2016-12-15", "genre": "Drame / Fantastique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jonah Beres (Sam)"], "comments": [], "recommandations_id": []}

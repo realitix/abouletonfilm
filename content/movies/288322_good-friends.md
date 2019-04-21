@@ -1,0 +1,1 @@
+{"tmdb_id": 288322, "title": "Good friends", "original_title": "\uc88b\uc740 \uce5c\uad6c", "slug_title": "good-friends", "date": "2013-03-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kzDosCDKbKiank9Va3bYTNeGG36.jpg", "actors": [], "comments": [], "recommandations_id": []}

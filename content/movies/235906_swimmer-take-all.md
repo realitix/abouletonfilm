@@ -1,0 +1,1 @@
+{"tmdb_id": 235906, "title": "Swimmer Take All", "original_title": "Swimmer Take All", "slug_title": "swimmer-take-all", "date": "1952-05-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

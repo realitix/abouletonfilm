@@ -1,0 +1,1 @@
+{"tmdb_id": 127027, "title": "FIFA Fever", "original_title": "FIFA Fever", "slug_title": "fifa-fever", "date": "2005-05-24", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7igrP5i83B5DbZ2MEEwHfzQWoqM.jpg", "actors": [], "comments": [], "recommandations_id": []}

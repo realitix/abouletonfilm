@@ -1,0 +1,1 @@
+{"tmdb_id": 387555, "title": "Bulletin", "original_title": "Bulletin", "slug_title": "bulletin", "date": "2016-04-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

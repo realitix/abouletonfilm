@@ -1,0 +1,1 @@
+{"tmdb_id": 154693, "title": "O C\u00e9u Sobre os Ombros", "original_title": "O C\u00e9u Sobre os Ombros", "slug_title": "o-ceu-sobre-os-ombros", "date": "2011-11-18", "genre": "", "score": "3.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oH8J9dUWjSlVbp1pTSDL2yLy0ts.jpg", "actors": [], "comments": [], "recommandations_id": []}

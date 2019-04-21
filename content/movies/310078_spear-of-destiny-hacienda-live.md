@@ -1,0 +1,1 @@
+{"tmdb_id": 310078, "title": "Spear of Destiny: Hacienda Live", "original_title": "Spear of Destiny: Hacienda Live", "slug_title": "spear-of-destiny-hacienda-live", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

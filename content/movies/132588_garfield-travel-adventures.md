@@ -1,0 +1,1 @@
+{"tmdb_id": 132588, "title": "Garfield Travel Adventures", "original_title": "Garfield Travel Adventures", "slug_title": "garfield-travel-adventures", "date": "2005-10-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lHO7C1V9VewtJpDQWyBi4ya9ea8.jpg", "actors": [], "comments": [], "recommandations_id": []}

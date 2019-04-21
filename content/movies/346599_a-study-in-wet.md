@@ -1,0 +1,1 @@
+{"tmdb_id": 346599, "title": "A Study in Wet", "original_title": "A Study in Wet", "slug_title": "a-study-in-wet", "date": "1964-12-31", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3KieS1xURkoZfikuVtyuAvmvUmw.jpg", "actors": [], "comments": [], "recommandations_id": []}

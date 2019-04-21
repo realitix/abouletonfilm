@@ -1,0 +1,1 @@
+{"tmdb_id": 236701, "title": "He Dood It Again", "original_title": "He Dood It Again", "slug_title": "he-dood-it-again", "date": "1943-09-04", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zoMTp92pio00J9OZOTQgfqFEtuZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

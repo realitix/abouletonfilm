@@ -1,0 +1,1 @@
+{"tmdb_id": 38224, "title": "Isaac Stern:  Life's Virtuoso", "original_title": "Isaac Stern:  Life's Virtuoso", "slug_title": "isaac-stern-life-s-virtuoso", "date": "2000-11-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

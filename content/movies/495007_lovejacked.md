@@ -1,0 +1,1 @@
+{"tmdb_id": 495007, "title": "LoveJacked", "original_title": "LoveJacked", "slug_title": "lovejacked", "date": "2017-08-01", "genre": "Action / Aventure / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Chelsea Rae Bernier ()", "Chad Chance ()", "Ted Ferguson ()"], "comments": [], "recommandations_id": []}

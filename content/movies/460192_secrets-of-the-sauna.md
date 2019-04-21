@@ -1,0 +1,1 @@
+{"tmdb_id": 460192, "title": "Secrets of the Sauna", "original_title": "Secrets of the Sauna", "slug_title": "secrets-of-the-sauna", "date": "2016-03-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8yCruTcpE9Sv8vfV8KOQSI8ktdi.jpg", "actors": [], "comments": [], "recommandations_id": []}

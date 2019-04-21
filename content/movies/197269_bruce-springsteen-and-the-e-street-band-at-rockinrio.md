@@ -1,0 +1,1 @@
+{"tmdb_id": 197269, "title": "Bruce Springsteen and the E Street Band at RockinRio", "original_title": "Bruce Springsteen and the E Street Band at RockinRio", "slug_title": "bruce-springsteen-and-the-e-street-band-at-rockinrio", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

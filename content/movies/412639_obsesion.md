@@ -1,0 +1,1 @@
+{"tmdb_id": 412639, "title": "Obsesi\u00f3n", "original_title": "Obsesi\u00f3n", "slug_title": "obsesion", "date": "1961-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Berta Novoa ()", "Mario Pab\u00f3n ()", "Carmen Junco ()"], "comments": [], "recommandations_id": []}

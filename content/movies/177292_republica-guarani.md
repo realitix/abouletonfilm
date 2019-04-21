@@ -1,0 +1,1 @@
+{"tmdb_id": 177292, "title": "Rep\u00fablica Guarani", "original_title": "Rep\u00fablica Guarani", "slug_title": "republica-guarani", "date": "1981-01-01", "genre": "Documentaire", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9eRh7JeG4QuWdDE2e9TVFkNPuiX.jpg", "actors": [], "comments": [], "recommandations_id": []}

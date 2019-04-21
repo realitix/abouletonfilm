@@ -1,0 +1,1 @@
+{"tmdb_id": 426857, "title": "The Zwickys", "original_title": "Venganza y justicia", "slug_title": "the-zwickys", "date": "2015-04-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pHCmZOIwfwCTJQQFVu3TnLwAYBY.jpg", "actors": ["Silvana Arias ()"], "comments": [], "recommandations_id": []}

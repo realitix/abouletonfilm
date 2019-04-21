@@ -1,0 +1,1 @@
+{"tmdb_id": 310217, "title": "The First Kings of Comedy Collection", "original_title": "The First Kings of Comedy Collection", "slug_title": "the-first-kings-of-comedy-collection", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

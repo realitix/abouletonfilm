@@ -1,0 +1,1 @@
+{"tmdb_id": 295750, "title": "Dog Lover", "original_title": "Kinofil", "slug_title": "dog-lover", "date": "2010-07-25", "genre": "Documentaire", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vDEmhpuqKXaior8WzJo2O8CkkpR.jpg", "actors": [], "comments": [], "recommandations_id": []}

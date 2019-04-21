@@ -1,0 +1,1 @@
+{"tmdb_id": 54988, "title": "Bird on a Wire", "original_title": "Bird on a Wire", "slug_title": "bird-on-a-wire", "date": "1974-07-05", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kd92e65e0AicwVNEEiHALMFzv8X.jpg", "actors": ["Leonard Cohen (Himself)"], "comments": [], "recommandations_id": []}

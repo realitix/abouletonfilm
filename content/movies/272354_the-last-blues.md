@@ -1,0 +1,1 @@
+{"tmdb_id": 272354, "title": "The Last Blues", "original_title": "The Last Blues", "slug_title": "the-last-blues", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

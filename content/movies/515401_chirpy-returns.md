@@ -1,0 +1,1 @@
+{"tmdb_id": 515401, "title": "Chirpy Returns", "original_title": "Chirpy Returns", "slug_title": "chirpy-returns", "date": "2007-07-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/etTdn5B8XOpflskvUwteRU4amIb.jpg", "actors": [], "comments": [], "recommandations_id": []}

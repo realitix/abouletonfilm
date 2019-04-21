@@ -1,0 +1,1 @@
+{"tmdb_id": 492057, "title": "TV as a Fireplace", "original_title": "TV as a Fireplace", "slug_title": "tv-as-a-fireplace", "date": "1969-12-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

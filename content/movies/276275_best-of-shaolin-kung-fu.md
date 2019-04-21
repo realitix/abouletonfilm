@@ -1,0 +1,1 @@
+{"tmdb_id": 276275, "title": "Best of Shaolin Kung Fu", "original_title": "Best of Shaolin Kung Fu", "slug_title": "best-of-shaolin-kung-fu", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

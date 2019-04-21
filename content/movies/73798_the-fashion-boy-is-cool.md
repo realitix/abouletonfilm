@@ -1,0 +1,1 @@
+{"tmdb_id": 73798, "title": "The Fashion Boy is Cool", "original_title": "Oshare Kozou wa Hanamaru", "slug_title": "the-fashion-boy-is-cool", "date": "1993-04-23", "genre": "Animation / Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

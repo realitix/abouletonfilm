@@ -1,0 +1,1 @@
+{"tmdb_id": 130368, "title": "Metallica: All Nightmare Long", "original_title": "Metallica: All Nightmare Long", "slug_title": "metallica-all-nightmare-long", "date": "2008-12-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sCEtDMNJSuWKIdE9IRuSxga8nh4.jpg", "actors": [], "comments": [], "recommandations_id": []}

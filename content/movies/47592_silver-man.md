@@ -1,0 +1,1 @@
+{"tmdb_id": 47592, "title": "Silver Man", "original_title": "Silver Man", "slug_title": "silver-man", "date": "2000-01-01", "genre": "Drame / Romance", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zHNWbR7jd4U6NWkfGCYOW0Dawgw.jpg", "actors": [], "comments": [], "recommandations_id": []}

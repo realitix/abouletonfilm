@@ -1,0 +1,1 @@
+{"tmdb_id": 270928, "title": "This Is My Father", "original_title": "This Is My Father", "slug_title": "this-is-my-father", "date": "1998-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

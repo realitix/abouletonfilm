@@ -1,0 +1,1 @@
+{"tmdb_id": 394272, "title": "Mabo: Life Of An Island Man", "original_title": "Mabo: Life Of An Island Man", "slug_title": "mabo-life-of-an-island-man", "date": "1997-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mN8teIICWKXtqMlUpx3JxuIoTXB.jpg", "actors": [], "comments": [], "recommandations_id": []}

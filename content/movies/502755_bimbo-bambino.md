@@ -1,0 +1,1 @@
+{"tmdb_id": 502755, "title": "Bimbo Bambino", "original_title": "Bimbo Bambino", "slug_title": "bimbo-bambino", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

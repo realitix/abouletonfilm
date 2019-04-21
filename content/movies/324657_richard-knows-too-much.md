@@ -1,0 +1,1 @@
+{"tmdb_id": 324657, "title": "Richard Knows Too Much", "original_title": "Richard Knows Too Much", "slug_title": "richard-knows-too-much", "date": "1962-01-01", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4Q7GIOvM1q5f6JbP6yLjbToak7M.jpg", "actors": [], "comments": [], "recommandations_id": []}

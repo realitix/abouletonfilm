@@ -1,0 +1,1 @@
+{"tmdb_id": 384592, "title": "Technologies of The Gods", "original_title": "Technologies of The Gods", "slug_title": "technologies-of-the-gods", "date": "2004-09-07", "genre": "", "score": "9.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ln0mV2bx38AgJlHq8nsZvy0I953.jpg", "actors": [], "comments": [], "recommandations_id": []}

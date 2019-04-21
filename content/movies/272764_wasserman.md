@@ -1,0 +1,1 @@
+{"tmdb_id": 272764, "title": "Wasserman", "original_title": "Wasserman", "slug_title": "wasserman", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

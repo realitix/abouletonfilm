@@ -1,0 +1,1 @@
+{"tmdb_id": 575977, "title": "I Am An Artist", "original_title": "I Am An Artist", "slug_title": "i-am-an-artist", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

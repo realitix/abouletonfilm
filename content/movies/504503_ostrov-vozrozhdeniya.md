@@ -1,0 +1,1 @@
+{"tmdb_id": 504503, "title": "Ostrov vozrozhdeniya", "original_title": "Ostrov vozrozhdeniya", "slug_title": "ostrov-vozrozhdeniya", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Temirjan Daniyarov ()", "Janel Makazhanova ()", "Sayat Merekenov ()"], "comments": [], "recommandations_id": []}

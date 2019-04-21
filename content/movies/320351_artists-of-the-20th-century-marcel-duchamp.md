@@ -1,0 +1,1 @@
+{"tmdb_id": 320351, "title": "Artists of the 20th Century: Marcel Duchamp", "original_title": "Artists of the 20th Century: Marcel Duchamp", "slug_title": "artists-of-the-20th-century-marcel-duchamp", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

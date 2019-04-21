@@ -1,0 +1,1 @@
+{"tmdb_id": 349618, "title": "\uc0ac\ub791\ub9cc\ub4e4\uae30", "original_title": "\uc0ac\ub791\ub9cc\ub4e4\uae30", "slug_title": "sarangmandeulgi", "date": "1983-02-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

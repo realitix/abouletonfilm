@@ -1,0 +1,1 @@
+{"tmdb_id": 312193, "title": "R.I.P. II: Eyes on Hip Hop", "original_title": "R.I.P. II: Eyes on Hip Hop", "slug_title": "r-i-p-ii-eyes-on-hip-hop", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

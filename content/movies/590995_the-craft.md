@@ -1,0 +1,1 @@
+{"tmdb_id": 590995, "title": "The Craft", "original_title": "The Craft", "slug_title": "the-craft", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

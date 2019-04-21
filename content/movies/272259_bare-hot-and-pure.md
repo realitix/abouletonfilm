@@ -1,0 +1,1 @@
+{"tmdb_id": 272259, "title": "Bare, Hot and Pure", "original_title": "Nude Calde e Pure", "slug_title": "bare-hot-and-pure", "date": "1965-05-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pAKkByiW0D9OoxAJHcQG1DxQeb2.jpg", "actors": [], "comments": [], "recommandations_id": []}

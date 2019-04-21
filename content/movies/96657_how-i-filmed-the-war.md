@@ -1,0 +1,1 @@
+{"tmdb_id": 96657, "title": "How I Filmed The War", "original_title": "How I Filmed The War", "slug_title": "how-i-filmed-the-war", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

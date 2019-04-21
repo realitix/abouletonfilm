@@ -1,0 +1,1 @@
+{"tmdb_id": 544558, "title": "The Magic Shop", "original_title": "The Magic Shop", "slug_title": "the-magic-shop", "date": "1982-02-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4WYMU3aEX61blJNldneL4CQdiBA.jpg", "actors": ["Karl Johnson ()", "Ron Cook ()"], "comments": [], "recommandations_id": []}

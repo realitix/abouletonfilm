@@ -1,0 +1,1 @@
+{"tmdb_id": 53962, "title": "The Mediator", "original_title": "Posrednik", "slug_title": "the-mediator", "date": "1990-01-01", "genre": "", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f2TwraaDiPgznPSaca9G2GhEq9X.jpg", "actors": [], "comments": [], "recommandations_id": [220557, 146974, 325566]}

@@ -1,0 +1,1 @@
+{"tmdb_id": 496048, "title": "Baixo Centro", "original_title": "Baixo Centro", "slug_title": "baixo-centro", "date": "2018-01-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1w3UR16QVkJvqDYx6pAhYrEha3P.jpg", "actors": [], "comments": [], "recommandations_id": []}

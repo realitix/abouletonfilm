@@ -1,0 +1,1 @@
+{"tmdb_id": 82754, "title": "A Love Letter to Husband", "original_title": "Srivaariki Premalekha", "slug_title": "a-love-letter-to-husband", "date": "1984-05-23", "genre": "Romance / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vMQ5CrdrswRvkMLP9oOYzXO5a5B.jpg", "actors": [], "comments": [], "recommandations_id": []}

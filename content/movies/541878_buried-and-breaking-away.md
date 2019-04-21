@@ -1,0 +1,1 @@
+{"tmdb_id": 541878, "title": "Buried and Breaking Away", "original_title": "Buried and Breaking Away", "slug_title": "buried-and-breaking-away", "date": "2018-08-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

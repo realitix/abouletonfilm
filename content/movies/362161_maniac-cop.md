@@ -1,0 +1,1 @@
+{"tmdb_id": 362161, "title": "Maniac Cop", "original_title": "Maniac Cop", "slug_title": "maniac-cop", "date": "", "genre": "Action / Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rpAYNaCZ0FbijDdykZQcjRgAyO4.jpg", "actors": [], "comments": [], "recommandations_id": []}

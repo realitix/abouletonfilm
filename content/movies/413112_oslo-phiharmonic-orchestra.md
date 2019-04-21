@@ -1,0 +1,1 @@
+{"tmdb_id": 413112, "title": "Oslo Phiharmonic Orchestra", "original_title": "Oslo Phiharmonic Orchestra", "slug_title": "oslo-phiharmonic-orchestra", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hwVpIfrlg6KJ89TqsLj8oGQ7qCa.jpg", "actors": [], "comments": [], "recommandations_id": []}

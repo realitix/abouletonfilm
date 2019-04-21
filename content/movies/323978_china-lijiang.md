@@ -1,0 +1,1 @@
+{"tmdb_id": 323978, "title": "China-Lijiang", "original_title": "China-Lijiang", "slug_title": "china-lijiang", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

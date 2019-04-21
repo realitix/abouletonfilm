@@ -1,0 +1,1 @@
+{"tmdb_id": 165412, "title": "Spring Antics", "original_title": "Spring Antics", "slug_title": "spring-antics", "date": "1932-04-13", "genre": "", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

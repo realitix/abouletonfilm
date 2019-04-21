@@ -1,0 +1,1 @@
+{"tmdb_id": 304611, "title": "Clash of the Surfing Titans", "original_title": "Clash of the Surfing Titans", "slug_title": "clash-of-the-surfing-titans", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kLIOKin2EEeXiTR8swWMLUHPUPT.jpg", "actors": [], "comments": [], "recommandations_id": []}

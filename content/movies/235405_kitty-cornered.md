@@ -1,0 +1,1 @@
+{"tmdb_id": 235405, "title": "Kitty Cornered", "original_title": "Kitty Cornered", "slug_title": "kitty-cornered", "date": "1955-12-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

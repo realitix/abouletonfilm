@@ -1,0 +1,1 @@
+{"tmdb_id": 268132, "title": "The Writer With No Hands", "original_title": "The Writer With No Hands", "slug_title": "the-writer-with-no-hands", "date": "2014-04-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tuo3umMcD1GdWdDl6FNFsrdu1UB.jpg", "actors": [], "comments": [], "recommandations_id": []}

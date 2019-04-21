@@ -1,0 +1,1 @@
+{"tmdb_id": 529069, "title": "Chicken Elaine", "original_title": "Chicken Elaine", "slug_title": "chicken-elaine", "date": "1983-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i5ZTjUh7YUCByCtgIAjfaZWvOgV.jpg", "actors": [], "comments": [], "recommandations_id": []}

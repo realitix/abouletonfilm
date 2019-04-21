@@ -1,0 +1,1 @@
+{"tmdb_id": 97650, "title": "The Great American Oil Spill", "original_title": "The Great American Oil Spill", "slug_title": "the-great-american-oil-spill", "date": "2010-11-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

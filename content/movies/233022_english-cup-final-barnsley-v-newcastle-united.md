@@ -1,0 +1,1 @@
+{"tmdb_id": 233022, "title": "English Cup Final: Barnsley V. Newcastle United", "original_title": "English Cup Final: Barnsley V. Newcastle United", "slug_title": "english-cup-final-barnsley-v-newcastle-united", "date": "1910-11-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

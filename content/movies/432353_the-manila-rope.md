@@ -1,0 +1,1 @@
+{"tmdb_id": 432353, "title": "The Manila Rope", "original_title": "Manillak\u00f6ysi", "slug_title": "the-manila-rope", "date": "1976-09-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iG4Ec91Pkgx9FDGyvDWvCXXO39X.jpg", "actors": [], "comments": [], "recommandations_id": []}

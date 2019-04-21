@@ -1,0 +1,1 @@
+{"tmdb_id": 447985, "title": "Marc Okrand on Klingon", "original_title": "Marc Okrand on Klingon", "slug_title": "marc-okrand-on-klingon", "date": "2002-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Marc Okrand (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 275901, "title": "Krewmen: Legend of the Krewmen", "original_title": "Krewmen: Legend of the Krewmen", "slug_title": "krewmen-legend-of-the-krewmen", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

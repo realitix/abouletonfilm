@@ -1,0 +1,1 @@
+{"tmdb_id": 508340, "title": "Les Chants (I, II, III, IV, V)", "original_title": "Les Chants (I, II, III, IV, V)", "slug_title": "les-chants-i-ii-iii-iv-v", "date": "1981-03-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xXjArdHETVfSPKtuWqKNrzgC5Aj.jpg", "actors": [], "comments": [], "recommandations_id": []}

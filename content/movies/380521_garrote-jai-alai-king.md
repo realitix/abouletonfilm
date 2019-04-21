@@ -1,0 +1,1 @@
+{"tmdb_id": 380521, "title": "Garrote: Jai Alai King", "original_title": "Garrote: Jai Alai King", "slug_title": "garrote-jai-alai-king", "date": "1978-12-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b1lGIrZv91xQVrVp54vjeJrYwtS.jpg", "actors": [], "comments": [], "recommandations_id": []}

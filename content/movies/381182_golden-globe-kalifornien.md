@@ -1,0 +1,1 @@
+{"tmdb_id": 381182, "title": "Golden Globe - Kalifornien", "original_title": "Golden Globe - Kalifornien", "slug_title": "golden-globe-kalifornien", "date": "2011-02-04", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dmFzcyoJiKeFWWgHvqukMa3Fzf9.jpg", "actors": [], "comments": [], "recommandations_id": []}

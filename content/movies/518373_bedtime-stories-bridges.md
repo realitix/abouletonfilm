@@ -1,0 +1,1 @@
+{"tmdb_id": 518373, "title": "Bedtime Stories: Bridges", "original_title": "Einschlafgeschichten 2", "slug_title": "bedtime-stories-bridges", "date": "1977-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 514411, "title": "Cin\u00e9astes de notre temps: Jacques Becker", "original_title": "Cin\u00e9astes de notre temps: Jacques Becker", "slug_title": "cineastes-de-notre-temps-jacques-becker", "date": "1967-11-17", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

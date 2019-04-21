@@ -1,0 +1,1 @@
+{"tmdb_id": 195611, "title": "An Artist's Dream", "original_title": "An Artist's Dream", "slug_title": "an-artist-s-dream", "date": "1900-05-21", "genre": "Com\u00e9die", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

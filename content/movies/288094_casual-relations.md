@@ -1,0 +1,1 @@
+{"tmdb_id": 288094, "title": "Casual Relations", "original_title": "Casual Relations", "slug_title": "casual-relations", "date": "1974-03-22", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lAfBE26gBIDM2D2jq9i9HmZrS6E.jpg", "actors": ["Mark Rappaport (Director)"], "comments": [], "recommandations_id": []}

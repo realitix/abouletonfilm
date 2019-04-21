@@ -1,0 +1,1 @@
+{"tmdb_id": 404681, "title": "Camp of Gouda", "original_title": "Camp of Gouda", "slug_title": "camp-of-gouda", "date": "1916-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

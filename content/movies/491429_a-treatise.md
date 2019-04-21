@@ -1,0 +1,1 @@
+{"tmdb_id": 491429, "title": "A Treatise", "original_title": "A Treatise", "slug_title": "a-treatise", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9p7UteeJo7j5Dq60LKdxocIwci0.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 242990, "title": "Athletes of the Saddle", "original_title": "Athletes of the Saddle", "slug_title": "athletes-of-the-saddle", "date": "1952-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

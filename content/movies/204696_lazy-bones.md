@@ -1,0 +1,1 @@
+{"tmdb_id": 204696, "title": "Lazy Bones", "original_title": "Lazy Bones", "slug_title": "lazy-bones", "date": "1934-04-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

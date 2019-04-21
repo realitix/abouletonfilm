@@ -1,0 +1,1 @@
+{"tmdb_id": 387468, "title": "Boxgirl", "original_title": "Boxgirl", "slug_title": "boxgirl", "date": "2014-10-31", "genre": "Horreur", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y4LqkOB3KIl4ZHMnc8FMxNIZH0r.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 563639, "title": "Degenerates", "original_title": "Degenerates", "slug_title": "degenerates", "date": "1998-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yn6tyfYeLQEj4BJ02u1i5J3JDQ9.jpg", "actors": [], "comments": [], "recommandations_id": []}

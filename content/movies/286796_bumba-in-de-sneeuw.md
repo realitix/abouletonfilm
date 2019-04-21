@@ -1,0 +1,1 @@
+{"tmdb_id": 286796, "title": "Bumba in de Sneeuw", "original_title": "Bumba in de Sneeuw", "slug_title": "bumba-in-de-sneeuw", "date": "2014-06-01", "genre": "Familial / Aventure", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6kGEgYE7ANVFzqYtxXbJ0tonhqu.jpg", "actors": [], "comments": [], "recommandations_id": []}

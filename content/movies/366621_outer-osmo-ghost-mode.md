@@ -1,0 +1,1 @@
+{"tmdb_id": 366621, "title": "Outer Osmo Ghost Mode", "original_title": "Outer Osmo Ghost Mode", "slug_title": "outer-osmo-ghost-mode", "date": "2012-11-21", "genre": "Science-Fiction / Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

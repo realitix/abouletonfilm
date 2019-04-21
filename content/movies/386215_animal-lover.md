@@ -1,0 +1,1 @@
+{"tmdb_id": 386215, "title": "Animal Lover", "original_title": "Milovn\u00edk zv\u00edrat", "slug_title": "animal-lover", "date": "1974-01-01", "genre": "Fantastique / Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bohu\u0161 Z\u00e1horsk\u00fd (Narrator)"], "comments": [], "recommandations_id": []}

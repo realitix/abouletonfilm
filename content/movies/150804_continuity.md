@@ -1,0 +1,1 @@
+{"tmdb_id": 150804, "title": "Continuity", "original_title": "Continuity", "slug_title": "continuity", "date": "2012-06-27", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

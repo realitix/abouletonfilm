@@ -1,0 +1,1 @@
+{"tmdb_id": 423907, "title": "The Love Bus", "original_title": "The Love Bus", "slug_title": "the-love-bus", "date": "1974-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4kvbZ5toRhO1u9CU8aeUVlNrUsq.jpg", "actors": [], "comments": [], "recommandations_id": []}

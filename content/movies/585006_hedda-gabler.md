@@ -1,0 +1,1 @@
+{"tmdb_id": 585006, "title": "Hedda Gabler", "original_title": "Hedda Gabler", "slug_title": "hedda-gabler", "date": "1978-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bert Andr\u00e9 (Eljert L\u00f6vborg)", "Rita Wouters (Hedda)"], "comments": [], "recommandations_id": []}

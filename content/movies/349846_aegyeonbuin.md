@@ -1,0 +1,1 @@
+{"tmdb_id": 349846, "title": "\uc560\uacac\ubd80\uc778", "original_title": "\uc560\uacac\ubd80\uc778", "slug_title": "aegyeonbuin", "date": "1990-09-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

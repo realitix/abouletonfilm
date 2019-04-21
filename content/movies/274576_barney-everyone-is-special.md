@@ -1,0 +1,1 @@
+{"tmdb_id": 274576, "title": "Barney: Everyone is Special", "original_title": "Barney: Everyone is Special", "slug_title": "barney-everyone-is-special", "date": "2005-07-05", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3u9ge27R6xHOb09xXxE5wUELGKq.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 452112, "title": "I Went France, Cannes", "original_title": "I Went France, Cannes", "slug_title": "i-went-france-cannes", "date": "2016-09-27", "genre": "Horreur / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5wvTw2tvq30RZIKvJ5tSA2RiQRO.jpg", "actors": [], "comments": [], "recommandations_id": []}

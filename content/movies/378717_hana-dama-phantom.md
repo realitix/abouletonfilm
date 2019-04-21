@@ -1,0 +1,1 @@
+{"tmdb_id": 378717, "title": "Hana-Dama: Phantom", "original_title": "\u83ef\u9b42 \u5e7b\u5f71", "slug_title": "hana-dama-phantom", "date": "2016-02-27", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ypVuH168dszCFRyCGiaakyeie7u.jpg", "actors": [], "comments": [], "recommandations_id": []}

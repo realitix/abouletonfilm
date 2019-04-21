@@ -1,0 +1,1 @@
+{"tmdb_id": 381842, "title": "Dashkin Intro", "original_title": "Dashkin Intro", "slug_title": "dashkin-intro", "date": "2011-06-28", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/39hQn7Bdu8WSihauZiovetp965L.jpg", "actors": [], "comments": [], "recommandations_id": []}

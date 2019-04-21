@@ -1,0 +1,1 @@
+{"tmdb_id": 384110, "title": "Sunayama Ginza", "original_title": "Sunayama Ginza", "slug_title": "sunayama-ginza", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

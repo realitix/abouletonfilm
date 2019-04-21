@@ -1,0 +1,1 @@
+{"tmdb_id": 326354, "title": "A Lecture on Schizophonia", "original_title": "A Lecture on Schizophonia", "slug_title": "a-lecture-on-schizophonia", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7E8T9t37hlYUl577jaUUMZvUPhz.jpg", "actors": [], "comments": [], "recommandations_id": []}

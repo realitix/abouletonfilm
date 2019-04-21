@@ -1,0 +1,1 @@
+{"tmdb_id": 592881, "title": "Divinations", "original_title": "Divinations", "slug_title": "divinations", "date": "2019-04-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

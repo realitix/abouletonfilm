@@ -1,0 +1,1 @@
+{"tmdb_id": 320241, "title": "War File: Tanks!: The Battles for Normandy", "original_title": "War File: Tanks!: The Battles for Normandy", "slug_title": "war-file-tanks-the-battles-for-normandy", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

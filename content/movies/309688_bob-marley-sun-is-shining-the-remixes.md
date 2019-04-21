@@ -1,0 +1,1 @@
+{"tmdb_id": 309688, "title": "Bob Marley: Sun Is Shining: The Remixes", "original_title": "Bob Marley: Sun Is Shining: The Remixes", "slug_title": "bob-marley-sun-is-shining-the-remixes", "date": "1999-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

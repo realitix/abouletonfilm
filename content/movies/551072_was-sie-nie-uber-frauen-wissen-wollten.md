@@ -1,0 +1,1 @@
+{"tmdb_id": 551072, "title": "Was Sie nie \u00fcber Frauen wissen wollten", "original_title": "Was Sie nie \u00fcber Frauen wissen wollten", "slug_title": "was-sie-nie-uber-frauen-wissen-wollten", "date": "1992-02-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

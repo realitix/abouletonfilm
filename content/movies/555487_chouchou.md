@@ -1,0 +1,1 @@
+{"tmdb_id": 555487, "title": "Chouchou", "original_title": "Chouchou", "slug_title": "chouchou", "date": "1916-10-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

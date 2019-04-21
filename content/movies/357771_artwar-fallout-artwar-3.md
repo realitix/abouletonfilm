@@ -1,0 +1,1 @@
+{"tmdb_id": 357771, "title": "Artwar Fallout + Artwar 3", "original_title": "Artwar Fallout + Artwar 3", "slug_title": "artwar-fallout-artwar-3", "date": "1995-01-02", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fUOSSc748BbkT2ageWPDNnY9ng8.jpg", "actors": [], "comments": [], "recommandations_id": []}

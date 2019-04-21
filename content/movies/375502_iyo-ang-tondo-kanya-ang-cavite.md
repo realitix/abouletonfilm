@@ -1,0 +1,1 @@
+{"tmdb_id": 375502, "title": "Iyo ang Tondo Kanya ang Cavite", "original_title": "Iyo ang Tondo Kanya ang Cavite", "slug_title": "iyo-ang-tondo-kanya-ang-cavite", "date": "1986-01-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Fernando Poe Jr. (Crisanto)", "Ramon Revilla Sr. (Bador)"], "comments": [], "recommandations_id": []}

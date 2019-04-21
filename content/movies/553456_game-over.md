@@ -1,0 +1,1 @@
+{"tmdb_id": 553456, "title": "Game Over", "original_title": "\u0b95\u0bc7\u0bae\u0bcd \u0b93\u0bb5\u0bb0\u0bcd", "slug_title": "game-over", "date": "", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pv75061LYd4bMX890nAEyC7DCra.jpg", "actors": ["Taapsee Pannu ()"], "comments": [], "recommandations_id": []}

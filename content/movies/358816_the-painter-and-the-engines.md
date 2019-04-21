@@ -1,0 +1,1 @@
+{"tmdb_id": 358816, "title": "The Painter and the Engines", "original_title": "The Painter and the Engines", "slug_title": "the-painter-and-the-engines", "date": "1967-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["John David Shepherd ()", "Corbet Woodall ()"], "comments": [], "recommandations_id": []}

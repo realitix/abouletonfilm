@@ -1,0 +1,1 @@
+{"tmdb_id": 410947, "title": "Cipriano", "original_title": "Cipriano", "slug_title": "cipriano", "date": "2001-01-01", "genre": "Drame", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Vilma Alc\u00e2ntara (Bigail)", "Jorge Luciano Carvalho (Demon)", "Tarciso Prado (Cipriano)"], "comments": [], "recommandations_id": []}

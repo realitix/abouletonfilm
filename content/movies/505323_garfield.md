@@ -1,0 +1,1 @@
+{"tmdb_id": 505323, "title": "Garfield", "original_title": "Garfield", "slug_title": "garfield", "date": "2017-09-29", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xYuyd5udAQkdwgm2gknxDMqYuOf.jpg", "actors": ["Mandeep Dhillon (Krishna)", "Matthew Trevannion (Garfield)"], "comments": [], "recommandations_id": []}

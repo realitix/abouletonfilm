@@ -1,0 +1,1 @@
+{"tmdb_id": 579572, "title": "Nidhiyude Katha", "original_title": "\u0d28\u0d3f\u0d27\u0d3f\u0d2f\u0d41\u0d1f\u0d46 \u0d15\u0d25", "slug_title": "nidhiyude-katha", "date": "1986-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

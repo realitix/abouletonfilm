@@ -1,0 +1,1 @@
+{"tmdb_id": 378077, "title": "Canciones de amor y anarqu\u00eda", "original_title": "Canciones de amor y anarqu\u00eda", "slug_title": "canciones-de-amor-y-anarquia", "date": "2014-01-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

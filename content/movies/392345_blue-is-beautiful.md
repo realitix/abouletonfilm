@@ -1,0 +1,1 @@
+{"tmdb_id": 392345, "title": "Blue Is Beautiful", "original_title": "Blue Is Beautiful", "slug_title": "blue-is-beautiful", "date": "1997-10-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vNBE2rxZirzaOgBp5sIEC1bDTEI.jpg", "actors": ["Ian Svenonius (Himself)"], "comments": [], "recommandations_id": []}

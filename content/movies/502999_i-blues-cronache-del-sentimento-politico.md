@@ -1,0 +1,1 @@
+{"tmdb_id": 502999, "title": "I blues: Cronache del sentimento politico", "original_title": "I blues: Cronache del sentimento politico", "slug_title": "i-blues-cronache-del-sentimento-politico", "date": "1975-02-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

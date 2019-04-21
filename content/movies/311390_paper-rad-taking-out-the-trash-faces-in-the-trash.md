@@ -1,0 +1,1 @@
+{"tmdb_id": 311390, "title": "Paper Rad: Taking Out the Trash / Faces in the Trash", "original_title": "Paper Rad: Taking Out the Trash / Faces in the Trash", "slug_title": "paper-rad-taking-out-the-trash-faces-in-the-trash", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

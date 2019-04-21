@@ -1,0 +1,1 @@
+{"tmdb_id": 368513, "title": "Suck It Up Buttercup", "original_title": "Suck It Up Buttercup", "slug_title": "suck-it-up-buttercup", "date": "2015-11-24", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

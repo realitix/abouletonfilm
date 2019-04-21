@@ -1,0 +1,1 @@
+{"tmdb_id": 391092, "title": "The Funeral Procession of Buenaventura Durruti", "original_title": "The Funeral Procession of Buenaventura Durruti", "slug_title": "the-funeral-procession-of-buenaventura-durruti", "date": "1936-04-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

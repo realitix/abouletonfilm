@@ -1,0 +1,1 @@
+{"tmdb_id": 529993, "title": "Edifice", "original_title": "Edifice", "slug_title": "edifice", "date": "2018-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

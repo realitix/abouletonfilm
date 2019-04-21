@@ -1,0 +1,1 @@
+{"tmdb_id": 561354, "title": "Lehre Deutsch mit Petra von Kant", "original_title": "Lehre Deutsch mit Petra von Kant", "slug_title": "lehre-deutsch-mit-petra-von-kant", "date": "2017-06-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

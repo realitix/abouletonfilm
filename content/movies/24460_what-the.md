@@ -1,0 +1,1 @@
+{"tmdb_id": 24460, "title": "What the...?", "original_title": "What the...?", "slug_title": "what-the", "date": "2009-06-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

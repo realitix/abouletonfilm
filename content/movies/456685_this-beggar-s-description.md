@@ -1,0 +1,1 @@
+{"tmdb_id": 456685, "title": "This Beggar's Description", "original_title": "This Beggar's Description", "slug_title": "this-beggar-s-description", "date": "2006-07-19", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Phil T\u00e9trault (Self)"], "comments": [], "recommandations_id": []}

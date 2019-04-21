@@ -1,0 +1,1 @@
+{"tmdb_id": 310801, "title": "Fotonovela", "original_title": "Fotonovela", "slug_title": "fotonovela", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

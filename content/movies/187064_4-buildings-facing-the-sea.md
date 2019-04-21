@@ -1,0 +1,1 @@
+{"tmdb_id": 187064, "title": "4 Buildings, Facing the Sea", "original_title": "4 b\u00e2timents, face \u00e0 la mer", "slug_title": "4-buildings-facing-the-sea", "date": "2012-07-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

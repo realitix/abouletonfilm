@@ -1,0 +1,1 @@
+{"tmdb_id": 320581, "title": "Bruce Springsteen: Videobiography", "original_title": "Bruce Springsteen: Videobiography", "slug_title": "bruce-springsteen-videobiography", "date": "2007-09-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

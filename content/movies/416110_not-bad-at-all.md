@@ -1,0 +1,1 @@
+{"tmdb_id": 416110, "title": "Not Bad at All", "original_title": "Not Bad at All", "slug_title": "not-bad-at-all", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nZNvUGtGWExcNZrUq6qG2AIDjLg.jpg", "actors": [], "comments": [], "recommandations_id": []}

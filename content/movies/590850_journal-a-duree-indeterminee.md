@@ -1,0 +1,1 @@
+{"tmdb_id": 590850, "title": "Journal \u00e0 dur\u00e9e ind\u00e9termin\u00e9e", "original_title": "Journal \u00e0 dur\u00e9e ind\u00e9termin\u00e9e", "slug_title": "journal-a-duree-indeterminee", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "Un film de Michel Nedjar.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

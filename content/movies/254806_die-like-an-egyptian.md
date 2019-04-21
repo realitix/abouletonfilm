@@ -1,0 +1,1 @@
+{"tmdb_id": 254806, "title": "Die Like an Egyptian", "original_title": "Die Like an Egyptian", "slug_title": "die-like-an-egyptian", "date": "2013-04-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kyvMNnlHXUfux92TLd4ZWETiwof.jpg", "actors": [], "comments": [], "recommandations_id": []}

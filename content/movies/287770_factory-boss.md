@@ -1,0 +1,1 @@
+{"tmdb_id": 287770, "title": "Factory Boss", "original_title": "\u6253\u5de5\u8001\u677f", "slug_title": "factory-boss", "date": "2014-08-24", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cczZh11TSgKAckrR1hwqjxGPCgr.jpg", "actors": ["Yao Anlian ()"], "comments": [], "recommandations_id": []}

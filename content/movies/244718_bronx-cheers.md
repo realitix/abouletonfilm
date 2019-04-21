@@ -1,0 +1,1 @@
+{"tmdb_id": 244718, "title": "Bronx Cheers", "original_title": "Bronx Cheers", "slug_title": "bronx-cheers", "date": "1990-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fdiIgmDZPXlkk157PCdoOvQtoBJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

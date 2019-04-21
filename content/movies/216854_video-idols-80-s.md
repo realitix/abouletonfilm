@@ -1,0 +1,1 @@
+{"tmdb_id": 216854, "title": "Video Idols - 80's", "original_title": "Video Idols - 80's", "slug_title": "video-idols-80-s", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

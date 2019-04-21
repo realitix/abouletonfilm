@@ -1,0 +1,1 @@
+{"tmdb_id": 301719, "title": "The Sacred Cities of the Greeks and Romans", "original_title": "The Sacred Cities of the Greeks and Romans", "slug_title": "the-sacred-cities-of-the-greeks-and-romans", "date": "2013-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

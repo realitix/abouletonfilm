@@ -1,0 +1,1 @@
+{"tmdb_id": 345436, "title": "Alle fugler", "original_title": "Alle fugler", "slug_title": "alle-fugler", "date": "2009-09-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Amanda Jean Kvakland ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 227419, "title": "Goodbye Mister De Vries", "original_title": "Dag meneer de Vries", "slug_title": "goodbye-mister-de-vries", "date": "2012-09-09", "genre": "Animation / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dY3Qih5dcMm2OIcn09MV62ahKTG.jpg", "actors": [], "comments": [], "recommandations_id": []}

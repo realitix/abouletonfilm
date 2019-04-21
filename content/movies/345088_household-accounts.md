@@ -1,0 +1,1 @@
+{"tmdb_id": 345088, "title": "Household Accounts", "original_title": "Household Accounts", "slug_title": "household-accounts", "date": "2003-03-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

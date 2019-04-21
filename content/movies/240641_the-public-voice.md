@@ -1,0 +1,1 @@
+{"tmdb_id": 240641, "title": "The Public Voice", "original_title": "Den offentlige r\u00f8st", "slug_title": "the-public-voice", "date": "1988-01-02", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yZHwZyCck2UN1529kNQKqgvqxFF.jpg", "actors": [], "comments": [], "recommandations_id": [196198, 162660, 163349]}

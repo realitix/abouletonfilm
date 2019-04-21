@@ -1,0 +1,1 @@
+{"tmdb_id": 271787, "title": "People in the Slum", "original_title": "\uaf2c\ubc29\ub3d9\ub124 \uc0ac\ub78c\ub4e4", "slug_title": "people-in-the-slum", "date": "1982-07-17", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1pB4L2v9HoULm1WlhLlgfwzlAtb.jpg", "actors": [], "comments": [], "recommandations_id": []}

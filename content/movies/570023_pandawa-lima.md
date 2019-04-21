@@ -1,0 +1,1 @@
+{"tmdb_id": 570023, "title": "Pandawa Lima", "original_title": "Pandawa Lima", "slug_title": "pandawa-lima", "date": "1983-10-11", "genre": "Action / Aventure", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b683P9X1NlHoNUzCxhC6cPcjEsq.jpg", "actors": [], "comments": [], "recommandations_id": []}

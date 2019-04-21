@@ -1,0 +1,1 @@
+{"tmdb_id": 47750, "title": "The Legend of Pale Male", "original_title": "The Legend of Pale Male", "slug_title": "the-legend-of-pale-male", "date": "2011-11-24", "genre": "Documentaire", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nutaYe8g2lRZjlm2ASWtnCtWiam.jpg", "actors": [], "comments": [], "recommandations_id": []}

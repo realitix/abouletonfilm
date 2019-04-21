@@ -1,0 +1,1 @@
+{"tmdb_id": 37357, "title": "The History of Hardcore", "original_title": "The History of Hardcore", "slug_title": "the-history-of-hardcore", "date": "2002-06-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zj3ig1dkCjoiaAKeTRuXl83X0xP.jpg", "actors": [], "comments": [], "recommandations_id": []}

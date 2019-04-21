@@ -1,0 +1,1 @@
+{"tmdb_id": 334910, "title": "A Sunday in September", "original_title": "A Sunday in September", "slug_title": "a-sunday-in-september", "date": "1961-09-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 550298, "title": "F*ck Bunny", "original_title": "F*ck Bunny", "slug_title": "f-ck-bunny", "date": "2018-02-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qq2ht58jLgZwflePyiCnWaypjPF.jpg", "actors": ["Francesca Anderson ()"], "comments": [], "recommandations_id": []}

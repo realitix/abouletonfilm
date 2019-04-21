@@ -1,0 +1,1 @@
+{"tmdb_id": 528584, "title": "K-pop Killers", "original_title": "K-pop Killers", "slug_title": "k-pop-killers", "date": "2018-06-03", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2yE1M6KnkbXsI1nQyjcHazCSxkP.jpg", "actors": [], "comments": [], "recommandations_id": []}

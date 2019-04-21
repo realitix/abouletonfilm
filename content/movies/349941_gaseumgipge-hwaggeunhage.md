@@ -1,0 +1,1 @@
+{"tmdb_id": 349941, "title": "\uac00\uc2b4\uae4a\uac8c \ud654\ub048\ud558\uac8c", "original_title": "\uac00\uc2b4\uae4a\uac8c \ud654\ub048\ud558\uac8c", "slug_title": "gaseumgipge-hwaggeunhage", "date": "1981-10-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

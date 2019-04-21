@@ -1,0 +1,1 @@
+{"tmdb_id": 262321, "title": "Panithirai", "original_title": "Panithirai", "slug_title": "panithirai", "date": "1961-12-13", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gemini Ganesan ()", "B. Saroja Devi ()", "K. A. Thangavelu ()", "Nagesh ()"], "comments": [], "recommandations_id": []}

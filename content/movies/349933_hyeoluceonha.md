@@ -1,0 +1,1 @@
+{"tmdb_id": 349933, "title": "\ud608\uc6b0\ucc9c\ud558", "original_title": "\ud608\uc6b0\ucc9c\ud558", "slug_title": "hyeoluceonha", "date": "1982-04-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

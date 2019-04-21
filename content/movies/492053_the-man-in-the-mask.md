@@ -1,0 +1,1 @@
+{"tmdb_id": 492053, "title": "The Man in the Mask", "original_title": "The Man in the Mask", "slug_title": "the-man-in-the-mask", "date": "", "genre": "Drame / Thriller / Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

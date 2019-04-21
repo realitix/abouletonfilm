@@ -1,0 +1,1 @@
+{"tmdb_id": 431364, "title": "Lost Village", "original_title": "Lost Village", "slug_title": "lost-village", "date": "2016-02-06", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7FAqLY47wFTMk7ARARjG3hFB6wn.jpg", "actors": ["Lia Abuladze ()", "Kakha Kobaladze ()"], "comments": [], "recommandations_id": []}

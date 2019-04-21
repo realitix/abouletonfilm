@@ -1,0 +1,1 @@
+{"tmdb_id": 291897, "title": "Man-Eating Zombie Cats", "original_title": "Man-Eating Zombie Cats", "slug_title": "man-eating-zombie-cats", "date": "", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

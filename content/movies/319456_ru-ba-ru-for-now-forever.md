@@ -1,0 +1,1 @@
+{"tmdb_id": 319456, "title": "Ru-Ba-Ru: For Now & Forever", "original_title": "Ru-Ba-Ru: For Now & Forever", "slug_title": "ru-ba-ru-for-now-forever", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

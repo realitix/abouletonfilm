@@ -1,0 +1,1 @@
+{"tmdb_id": 398073, "title": "Locust Invasion", "original_title": "Locust Invasion", "slug_title": "locust-invasion", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

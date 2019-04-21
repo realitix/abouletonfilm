@@ -1,0 +1,1 @@
+{"tmdb_id": 389011, "title": "Alliance by a Progress", "original_title": "Alianza para el progreso", "slug_title": "alliance-by-a-progress", "date": "1971-03-20", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2tk3sfaQRbtfh0wYAxncn4DrTLZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

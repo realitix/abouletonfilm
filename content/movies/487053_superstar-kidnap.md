@@ -1,0 +1,1 @@
+{"tmdb_id": 487053, "title": "Superstar Kidnap", "original_title": "Superstar Kidnap", "slug_title": "superstar-kidnap", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

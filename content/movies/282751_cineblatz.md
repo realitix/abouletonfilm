@@ -1,0 +1,1 @@
+{"tmdb_id": 282751, "title": "Cineblatz", "original_title": "Cine Blatz", "slug_title": "cineblatz", "date": "1967-01-01", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1PTl4irrriUBSK85NV87ur0D7iA.jpg", "actors": [], "comments": [], "recommandations_id": []}

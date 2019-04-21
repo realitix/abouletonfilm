@@ -1,0 +1,1 @@
+{"tmdb_id": 564624, "title": "Crystals Go to War", "original_title": "Crystals Go to War", "slug_title": "crystals-go-to-war", "date": "1943-11-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

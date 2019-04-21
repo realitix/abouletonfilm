@@ -1,0 +1,1 @@
+{"tmdb_id": 336015, "title": "Sergeant X", "original_title": "Sergeant X", "slug_title": "sergeant-x", "date": "", "genre": "", "score": "0.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gina Carano (Sergeant)", "Storm Reid (Tess Tready)"], "comments": [], "recommandations_id": []}

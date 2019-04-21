@@ -1,0 +1,1 @@
+{"tmdb_id": 475699, "title": "Cabaret f\u00fcr alle", "original_title": "Cabaret f\u00fcr alle", "slug_title": "cabaret-fur-alle", "date": "2010-09-14", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4HdG8PCB82eeDAxHlpvuL15ipgs.jpg", "actors": [], "comments": [], "recommandations_id": []}

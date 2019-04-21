@@ -1,0 +1,1 @@
+{"tmdb_id": 274375, "title": "Dionne Warwick Live", "original_title": "Dionne Warwick Live", "slug_title": "dionne-warwick-live", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

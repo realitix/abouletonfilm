@@ -1,0 +1,1 @@
+{"tmdb_id": 591123, "title": "The Kamagasaki Cauldron War", "original_title": "\u6708\u591c\u91dc\u5408\u6226", "slug_title": "the-kamagasaki-cauldron-war", "date": "2018-11-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iD6Hcl4zTAIDw1n2Qa4KgRzXk7N.jpg", "actors": [], "comments": [], "recommandations_id": []}

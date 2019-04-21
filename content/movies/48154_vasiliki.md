@@ -1,0 +1,1 @@
+{"tmdb_id": 48154, "title": "Vasiliki", "original_title": "Vasiliki", "slug_title": "vasiliki", "date": "1997-01-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dM7z68NBCrF9lJZxzBWxEI3OF3Z.jpg", "actors": [], "comments": [], "recommandations_id": []}

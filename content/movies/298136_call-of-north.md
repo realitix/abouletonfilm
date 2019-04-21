@@ -1,0 +1,1 @@
+{"tmdb_id": 298136, "title": "Call of North", "original_title": "Call of North", "slug_title": "call-of-north", "date": "2014-10-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

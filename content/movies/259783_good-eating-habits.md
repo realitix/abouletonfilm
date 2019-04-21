@@ -1,0 +1,1 @@
+{"tmdb_id": 259783, "title": "Good Eating Habits", "original_title": "Good Eating Habits", "slug_title": "good-eating-habits", "date": "1951-01-01", "genre": "Familial", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6kmkHgiG6vygfBXAl92hUDLN4YS.jpg", "actors": ["James Andelin (Narrator)"], "comments": [], "recommandations_id": []}

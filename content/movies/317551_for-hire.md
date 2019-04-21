@@ -1,0 +1,1 @@
+{"tmdb_id": 317551, "title": "For Hire", "original_title": "For Hire", "slug_title": "for-hire", "date": "1999-01-02", "genre": "Thriller", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nlvjGXoRhTFurwiOUauImqlLyU5.jpg", "actors": ["Rob Lowe (Mitch Lawrence)", "Joe Mantegna (Alan Webber)"], "comments": [], "recommandations_id": []}

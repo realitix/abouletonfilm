@@ -1,0 +1,1 @@
+{"tmdb_id": 394963, "title": "Cin\u00e9 Follies", "original_title": "Cin\u00e9 Follies", "slug_title": "cine-follies", "date": "1977-04-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2hAVkXGnCb77M2njqacZkaBx9Xi.jpg", "actors": [], "comments": [], "recommandations_id": []}

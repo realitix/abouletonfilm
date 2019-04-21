@@ -1,0 +1,1 @@
+{"tmdb_id": 41306, "title": "Cuba - The Forgotten Island", "original_title": "Cuba - The Forgotten Island", "slug_title": "cuba-the-forgotten-island", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jJyR5yqSa12gQqhUNnusjDQeTW4.jpg", "actors": [], "comments": [], "recommandations_id": []}

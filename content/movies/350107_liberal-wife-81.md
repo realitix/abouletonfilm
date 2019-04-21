@@ -1,0 +1,1 @@
+{"tmdb_id": 350107, "title": "Liberal Wife '81", "original_title": "\uc790\uc720\ubd80\uc778", "slug_title": "liberal-wife-81", "date": "1981-06-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Yoon Jeong-hee ()", "Choi Moo-ryong ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 330192, "title": "The Cursed Island", "original_title": "\u7121\u4eba\u5cf6", "slug_title": "the-cursed-island", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7kjkGDgYnWnlZD5HCB9HxemWzOf.jpg", "actors": ["Sajan Nk (Sajan)"], "comments": [], "recommandations_id": []}

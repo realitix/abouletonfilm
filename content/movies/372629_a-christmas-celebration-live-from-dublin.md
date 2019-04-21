@@ -1,0 +1,1 @@
+{"tmdb_id": 372629, "title": "A Christmas Celebration: Live from Dublin", "original_title": "A Christmas Celebration: Live from Dublin", "slug_title": "a-christmas-celebration-live-from-dublin", "date": "2007-10-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["John O'Brien (Himself)"], "comments": [], "recommandations_id": []}

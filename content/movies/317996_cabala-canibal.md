@@ -1,0 +1,1 @@
+{"tmdb_id": 317996, "title": "C\u00e1bala can\u00edbal", "original_title": "C\u00e1bala can\u00edbal", "slug_title": "cabala-canibal", "date": "2015-01-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mn1oezFCDL4bPD05WzjAtPivhoR.jpg", "actors": [], "comments": [], "recommandations_id": []}

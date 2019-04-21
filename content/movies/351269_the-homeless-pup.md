@@ -1,0 +1,1 @@
+{"tmdb_id": 351269, "title": "The Homeless Pup", "original_title": "The Homeless Pup", "slug_title": "the-homeless-pup", "date": "1937-07-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

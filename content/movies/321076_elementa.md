@@ -1,0 +1,1 @@
+{"tmdb_id": 321076, "title": "Elementa", "original_title": "Elementa", "slug_title": "elementa", "date": "1992-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

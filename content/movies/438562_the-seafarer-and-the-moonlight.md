@@ -1,0 +1,1 @@
+{"tmdb_id": 438562, "title": "The Seafarer and the Moonlight", "original_title": "The Seafarer and the Moonlight", "slug_title": "the-seafarer-and-the-moonlight", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

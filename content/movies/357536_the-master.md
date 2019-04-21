@@ -1,0 +1,1 @@
+{"tmdb_id": 357536, "title": "The Master", "original_title": "The Master", "slug_title": "the-master", "date": "2014-11-27", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b2Xv2LrsyyYAd5vdScUuEU8A0fk.jpg", "actors": [], "comments": [], "recommandations_id": []}

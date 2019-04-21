@@ -1,0 +1,1 @@
+{"tmdb_id": 263577, "title": "Luang ta", "original_title": "Luang ta", "slug_title": "luang-ta", "date": "1981-02-09", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

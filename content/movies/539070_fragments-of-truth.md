@@ -1,0 +1,1 @@
+{"tmdb_id": 539070, "title": "Fragments of Truth", "original_title": "Fragments of Truth", "slug_title": "fragments-of-truth", "date": "2018-04-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9evysapHr4geLJKVsa7RBLliTHM.jpg", "actors": [], "comments": [], "recommandations_id": []}

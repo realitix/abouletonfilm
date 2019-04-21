@@ -1,0 +1,1 @@
+{"tmdb_id": 315539, "title": "Yuki \u2013 The Snow Fairy", "original_title": "\u3086\u304d", "slug_title": "yuki-the-snow-fairy", "date": "1981-01-01", "genre": "Familial / Animation / Aventure", "score": "7.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AcULlVKqVPQyUkMEfTqandJftw1.jpg", "actors": [], "comments": [], "recommandations_id": []}

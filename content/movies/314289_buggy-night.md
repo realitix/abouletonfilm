@@ -1,0 +1,1 @@
+{"tmdb_id": 314289, "title": "Buggy Night", "original_title": "Buggy Night", "slug_title": "buggy-night", "date": "2014-03-04", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vzeqgaIKDUo3dFwVM8oVDvk9Vtp.jpg", "actors": [], "comments": [], "recommandations_id": []}

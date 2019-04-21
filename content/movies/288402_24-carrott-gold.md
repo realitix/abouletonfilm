@@ -1,0 +1,1 @@
+{"tmdb_id": 288402, "title": "24 Carrott Gold", "original_title": "24 Carrott Gold", "slug_title": "24-carrott-gold", "date": "", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bfB6hs1WKYwQrGPxPZanxhn2A29.jpg", "actors": ["Jasper Carrott (Himself)"], "comments": [], "recommandations_id": []}

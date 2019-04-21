@@ -1,0 +1,1 @@
+{"tmdb_id": 381718, "title": "Head Spoon", "original_title": "\u30d8\u30c3\u30c9\u30fb\u30b9\u30d7\u30fc\u30f3", "slug_title": "head-spoon", "date": "1972-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kEvben9BIx9THKWi3JIm9L2BTRv.jpg", "actors": [], "comments": [], "recommandations_id": []}

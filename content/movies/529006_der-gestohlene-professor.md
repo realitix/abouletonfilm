@@ -1,0 +1,1 @@
+{"tmdb_id": 529006, "title": "Der gestohlene Professor", "original_title": "Der gestohlene Professor", "slug_title": "der-gestohlene-professor", "date": "1924-11-14", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Eugen Rex ()", "Frida Richard ()", "Hans Junkermann ()"], "comments": [], "recommandations_id": []}

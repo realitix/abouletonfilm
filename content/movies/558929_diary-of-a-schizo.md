@@ -1,0 +1,1 @@
+{"tmdb_id": 558929, "title": "Diary of a Schizo", "original_title": "Diary of a Schizo", "slug_title": "diary-of-a-schizo", "date": "1972-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rene Bond ()", "Keith Erickson ()", "Nina Fause ()", "Ric Lutze ()"], "comments": [], "recommandations_id": []}

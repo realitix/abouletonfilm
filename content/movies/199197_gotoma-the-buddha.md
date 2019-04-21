@@ -1,0 +1,1 @@
+{"tmdb_id": 199197, "title": "Gotoma the Buddha", "original_title": "Gotoma the Buddha", "slug_title": "gotoma-the-buddha", "date": "1957-01-01", "genre": "Histoire / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2PeGBKsYTPTalWlzo59clgc5Mbu.jpg", "actors": [], "comments": [], "recommandations_id": []}

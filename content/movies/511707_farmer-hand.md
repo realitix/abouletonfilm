@@ -1,0 +1,1 @@
+{"tmdb_id": 511707, "title": "FARMER HAND", "original_title": "FARMER HAND", "slug_title": "farmer-hand", "date": "2018-02-28", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jbEBWW4fwCIl3HgQk2AI4IRa0MA.jpg", "actors": [], "comments": [], "recommandations_id": []}

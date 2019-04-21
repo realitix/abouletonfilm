@@ -1,0 +1,1 @@
+{"tmdb_id": 75593, "title": "Bellator 52", "original_title": "Bellator 52", "slug_title": "bellator-52", "date": "2011-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qlI1UEQ2Y9xbFn7JMElNdgFEXQq.jpg", "actors": [], "comments": [], "recommandations_id": []}

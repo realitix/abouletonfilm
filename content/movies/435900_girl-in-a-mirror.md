@@ -1,0 +1,1 @@
+{"tmdb_id": 435900, "title": "Girl in a Mirror", "original_title": "Girl in a Mirror", "slug_title": "girl-in-a-mirror", "date": "2005-06-06", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kathy Drayton (Director)"], "comments": [], "recommandations_id": []}

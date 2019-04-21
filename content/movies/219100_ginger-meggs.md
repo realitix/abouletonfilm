@@ -1,0 +1,1 @@
+{"tmdb_id": 219100, "title": "Ginger Meggs", "original_title": "Ginger Meggs", "slug_title": "ginger-meggs", "date": "1982-12-16", "genre": "Com\u00e9die / Myst\u00e8re", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g1d4PlGdEFQBafPNsTfBdYF8451.jpg", "actors": [], "comments": [], "recommandations_id": []}

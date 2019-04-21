@@ -1,0 +1,1 @@
+{"tmdb_id": 461497, "title": "Jo\u00e3o de Deus", "original_title": "Jo\u00e3o de Deus", "slug_title": "joao-de-deus", "date": "1980-06-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

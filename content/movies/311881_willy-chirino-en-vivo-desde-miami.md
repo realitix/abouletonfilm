@@ -1,0 +1,1 @@
+{"tmdb_id": 311881, "title": "Willy Chirino: En Vivo Desde Miami", "original_title": "Willy Chirino: En Vivo Desde Miami", "slug_title": "willy-chirino-en-vivo-desde-miami", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

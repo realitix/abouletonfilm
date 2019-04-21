@@ -1,0 +1,1 @@
+{"tmdb_id": 411025, "title": "Close Relations", "original_title": "\u0420\u043e\u0434\u043d\u044b\u0435", "slug_title": "close-relations", "date": "2016-07-05", "genre": "Documentaire", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gfaH0MlohoTNiGoT0lxo8Bm6Bbf.jpg", "actors": [], "comments": [], "recommandations_id": []}

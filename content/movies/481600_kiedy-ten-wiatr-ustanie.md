@@ -1,0 +1,1 @@
+{"tmdb_id": 481600, "title": "Kiedy ten wiatr ustanie", "original_title": "Kiedy ten wiatr ustanie", "slug_title": "kiedy-ten-wiatr-ustanie", "date": "2016-05-13", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mTcP709E1duIIxzfyb7VR7SxuCv.jpg", "actors": [], "comments": [], "recommandations_id": []}

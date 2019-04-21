@@ -1,0 +1,1 @@
+{"tmdb_id": 373665, "title": "Read Only Memory", "original_title": "Read Only Memory", "slug_title": "read-only-memory", "date": "1998-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 117879, "title": "DIY Aquaponics", "original_title": "DIY Aquaponics", "slug_title": "diy-aquaponics", "date": "2011-02-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5N4h8J8TdIx42froLvTmfySCj6p.jpg", "actors": [], "comments": [], "recommandations_id": []}

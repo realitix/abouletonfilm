@@ -1,0 +1,1 @@
+{"tmdb_id": 473585, "title": "Crossings", "original_title": "Crossings", "slug_title": "crossings", "date": "2017-06-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

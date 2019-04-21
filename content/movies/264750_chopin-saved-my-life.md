@@ -1,0 +1,1 @@
+{"tmdb_id": 264750, "title": "Chopin Saved My Life", "original_title": "Chopin Saved My Life", "slug_title": "chopin-saved-my-life", "date": "2013-09-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

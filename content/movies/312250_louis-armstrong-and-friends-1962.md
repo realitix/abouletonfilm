@@ -1,0 +1,1 @@
+{"tmdb_id": 312250, "title": "Louis Armstrong and Friends 1962", "original_title": "Louis Armstrong and Friends 1962", "slug_title": "louis-armstrong-and-friends-1962", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

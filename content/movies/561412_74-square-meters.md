@@ -1,0 +1,1 @@
+{"tmdb_id": 561412, "title": "74 Square Meters", "original_title": "74 m2", "slug_title": "74-square-meters", "date": "2012-11-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3oy9T13gkRJGBvNhKyVFIW2kh84.jpg", "actors": [], "comments": [], "recommandations_id": []}

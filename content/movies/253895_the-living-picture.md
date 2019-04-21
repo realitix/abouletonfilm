@@ -1,0 +1,1 @@
+{"tmdb_id": 253895, "title": "The Living Picture", "original_title": "The Living Picture", "slug_title": "the-living-picture", "date": "1904-04-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

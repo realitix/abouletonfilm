@@ -1,0 +1,1 @@
+{"tmdb_id": 474858, "title": "Sweet Bird of Youth", "original_title": "Sweet Bird of Youth", "slug_title": "sweet-bird-of-youth", "date": "1987-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 571700, "title": "Die Zeit: 2011 - Der Jahresr\u00fcckblick auf DVD", "original_title": "Die Zeit: 2011 - Der Jahresr\u00fcckblick auf DVD", "slug_title": "die-zeit-2011-der-jahresruckblick-auf-dvd", "date": "2011-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

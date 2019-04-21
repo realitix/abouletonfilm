@@ -1,0 +1,1 @@
+{"tmdb_id": 461610, "title": "Dukha in Summer", "original_title": "Dukha in Summer", "slug_title": "dukha-in-summer", "date": "2014-11-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1Y0nny322t4W9RWevGQMLmXwO1s.jpg", "actors": [], "comments": [], "recommandations_id": []}

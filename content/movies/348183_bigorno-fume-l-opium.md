@@ -1,0 +1,1 @@
+{"tmdb_id": 348183, "title": "Bigorno fume l'opium", "original_title": "Bigorno fume l'opium", "slug_title": "bigorno-fume-l-opium", "date": "1914-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ren\u00e9 Lantini (Bigorno)"], "comments": [], "recommandations_id": []}

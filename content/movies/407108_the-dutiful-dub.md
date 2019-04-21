@@ -1,0 +1,1 @@
+{"tmdb_id": 407108, "title": "The Dutiful Dub", "original_title": "The Dutiful Dub", "slug_title": "the-dutiful-dub", "date": "1919-03-23", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Harold Lloyd ()", "'Snub' Pollard ()", "Bebe Daniels ()", "Harry Burns ()", "Billy Fay ()"], "comments": [], "recommandations_id": []}

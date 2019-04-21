@@ -1,0 +1,1 @@
+{"tmdb_id": 74976, "title": "Living In A Parallel Universe", "original_title": "Living In A Parallel Universe", "slug_title": "living-in-a-parallel-universe", "date": "", "genre": "Documentaire", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ltsj4ab4nmVrTEAZvbdAqlQ39S8.jpg", "actors": [], "comments": [], "recommandations_id": []}

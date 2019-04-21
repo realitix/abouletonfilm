@@ -1,0 +1,1 @@
+{"tmdb_id": 277065, "title": "Prince William & Kate: The Royal Romance", "original_title": "Prince William & Kate: The Royal Romance", "slug_title": "prince-william-kate-the-royal-romance", "date": "2011-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

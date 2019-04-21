@@ -1,0 +1,1 @@
+{"tmdb_id": 309456, "title": "Third World: Music Hall in Concert", "original_title": "Third World: Music Hall in Concert", "slug_title": "third-world-music-hall-in-concert", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 552429, "title": "The Story of Ones", "original_title": "Chuy\u1ec7n m\u1ecdi nh\u00e0", "slug_title": "the-story-of-ones", "date": "2011-10-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cXWk4GoZYDOx2R1pQuqJsdQwuR1.jpg", "actors": [], "comments": [], "recommandations_id": []}

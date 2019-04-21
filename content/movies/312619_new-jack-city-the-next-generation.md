@@ -1,0 +1,1 @@
+{"tmdb_id": 312619, "title": "New Jack City: The Next Generation", "original_title": "New Jack City: The Next Generation", "slug_title": "new-jack-city-the-next-generation", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 482671, "title": "2012: Prophecy Or Panic?", "original_title": "2012: Prophecy Or Panic?", "slug_title": "2012-prophecy-or-panic", "date": "2011-10-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

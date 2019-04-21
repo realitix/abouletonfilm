@@ -1,0 +1,1 @@
+{"tmdb_id": 514502, "title": "\u00dapa en apuros", "original_title": "\u00dapa en apuros", "slug_title": "upa-en-apuros", "date": "1942-11-20", "genre": "Animation / Aventure / Familial", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gmLQWPLtSUrva0FdVWLXnNBMYtG.jpg", "actors": [], "comments": [], "recommandations_id": []}

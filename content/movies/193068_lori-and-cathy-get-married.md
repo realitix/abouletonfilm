@@ -1,0 +1,1 @@
+{"tmdb_id": 193068, "title": "Lori and Cathy Get Married", "original_title": "Lori and Cathy Get Married", "slug_title": "lori-and-cathy-get-married", "date": "2005-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 522120, "title": "Samuel Johnson: The Dictionary Man", "original_title": "Samuel Johnson: The Dictionary Man", "slug_title": "samuel-johnson-the-dictionary-man", "date": "2006-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 383732, "title": "HSA Hospital Strike '75", "original_title": "HSA Hospital Strike '75", "slug_title": "hsa-hospital-strike-75", "date": "1975-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

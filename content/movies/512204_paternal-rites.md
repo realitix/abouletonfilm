@@ -1,0 +1,1 @@
+{"tmdb_id": 512204, "title": "Paternal Rites", "original_title": "Paternal Rites", "slug_title": "paternal-rites", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nHrKNqy6ybIMc2AhXyDLy0GukZR.jpg", "actors": [], "comments": [], "recommandations_id": []}

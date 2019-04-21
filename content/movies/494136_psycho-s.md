@@ -1,0 +1,1 @@
+{"tmdb_id": 494136, "title": "Psycho/s", "original_title": "Psycho/s", "slug_title": "psycho-s", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4QcRWI7at5TcWIdENctxNp29Rru.jpg", "actors": [], "comments": [], "recommandations_id": []}

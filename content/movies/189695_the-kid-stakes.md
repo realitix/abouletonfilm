@@ -1,0 +1,1 @@
+{"tmdb_id": 189695, "title": "The Kid Stakes", "original_title": "The Kid Stakes", "slug_title": "the-kid-stakes", "date": "1927-06-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5zcNrbkDyW42SArDRjENF8rDo4N.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 329169, "title": "Shell Shock", "original_title": "Helem Krav", "slug_title": "shell-shock", "date": "1989-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Anat Atzmon ()", "Gili Ben-Uzilo ()", "Slava Chaplin ()"], "comments": [], "recommandations_id": []}

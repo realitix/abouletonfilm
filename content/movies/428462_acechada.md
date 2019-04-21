@@ -1,0 +1,1 @@
+{"tmdb_id": 428462, "title": "Acechada", "original_title": "Acechada", "slug_title": "acechada", "date": "2011-01-02", "genre": "Thriller / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/di0IKTIN3ELj7G72Fc5aubv5gYi.jpg", "actors": ["Irmaris Rodr\u00edguez ()", "Ricardo D\u00edaz ()"], "comments": [], "recommandations_id": []}

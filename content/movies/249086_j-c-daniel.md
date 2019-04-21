@@ -1,0 +1,1 @@
+{"tmdb_id": 249086, "title": "J.C.Daniel", "original_title": "J.C.Daniel", "slug_title": "j-c-daniel", "date": "2014-01-04", "genre": "", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jCEdigfK1awMLCMdzEQJbq0UTAa.jpg", "actors": [], "comments": [], "recommandations_id": []}

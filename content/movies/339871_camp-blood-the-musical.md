@@ -1,0 +1,1 @@
+{"tmdb_id": 339871, "title": "Camp Blood: The Musical", "original_title": "Camp Blood: The Musical", "slug_title": "camp-blood-the-musical", "date": "2006-10-06", "genre": "Com\u00e9die / Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ka1ZFvWN54MwC23sXn32zhlGtQR.jpg", "actors": [], "comments": [], "recommandations_id": []}

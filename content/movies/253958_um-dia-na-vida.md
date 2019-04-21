@@ -1,0 +1,1 @@
+{"tmdb_id": 253958, "title": "Um Dia na Vida", "original_title": "Um Dia na Vida", "slug_title": "um-dia-na-vida", "date": "2010-10-28", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lNWFiaDXqBKGSWEoAzbJhwSRVll.jpg", "actors": [], "comments": [], "recommandations_id": []}

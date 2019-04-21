@@ -1,0 +1,1 @@
+{"tmdb_id": 405114, "title": "Yen's Life", "original_title": "Cu\u1ed9c \u0111\u1eddi c\u1ee7a Y\u1ebfn", "slug_title": "yen-s-life", "date": "2016-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7TDsrkqnUTykpomxHITItS4LrRM.jpg", "actors": [], "comments": [], "recommandations_id": []}

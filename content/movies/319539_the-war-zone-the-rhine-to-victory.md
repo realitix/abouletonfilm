@@ -1,0 +1,1 @@
+{"tmdb_id": 319539, "title": "The War Zone: The Rhine to Victory", "original_title": "The War Zone: The Rhine to Victory", "slug_title": "the-war-zone-the-rhine-to-victory", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 201375, "title": "Detras del dinero", "original_title": "Detras del dinero", "slug_title": "detras-del-dinero", "date": "1995-01-01", "genre": "", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wNWfLur1PdWaTOr7qD9zI2e7Ekm.jpg", "actors": [], "comments": [], "recommandations_id": []}

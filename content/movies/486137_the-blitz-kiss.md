@@ -1,0 +1,1 @@
+{"tmdb_id": 486137, "title": "The Blitz Kiss", "original_title": "The Blitz Kiss", "slug_title": "the-blitz-kiss", "date": "1941-10-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["El Brendel (Oley Olsen)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 488636, "title": "A Killer in Every Corner", "original_title": "A Killer in Every Corner", "slug_title": "a-killer-in-every-corner", "date": "1974-11-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1vCw3ktEbeXaQDGXe1SpkcEPtcZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

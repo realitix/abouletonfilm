@@ -1,0 +1,1 @@
+{"tmdb_id": 520090, "title": "A King's Betrayal", "original_title": "A King's Betrayal", "slug_title": "a-king-s-betrayal", "date": "2015-04-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sIwohMiBpYezFhLvacvWWonZVEw.jpg", "actors": [], "comments": [], "recommandations_id": []}

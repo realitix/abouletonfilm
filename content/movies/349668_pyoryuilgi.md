@@ -1,0 +1,1 @@
+{"tmdb_id": 349668, "title": "\ud45c\ub958\uc77c\uae30", "original_title": "\ud45c\ub958\uc77c\uae30", "slug_title": "pyoryuilgi", "date": "1997-08-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cIwUxAMm7NeXlmb0OO1Je4oVkrz.jpg", "actors": [], "comments": [], "recommandations_id": []}

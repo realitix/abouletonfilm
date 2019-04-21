@@ -1,0 +1,1 @@
+{"tmdb_id": 427307, "title": "Frantz Fanon: His Life, His Struggle, His Work", "original_title": "Frantz Fanon: His Life, His Struggle, His Work", "slug_title": "frantz-fanon-his-life-his-struggle-his-work", "date": "2001-11-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

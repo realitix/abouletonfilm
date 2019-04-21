@@ -1,0 +1,1 @@
+{"tmdb_id": 389151, "title": "Pizza Bethlehem", "original_title": "Pizza Bethlehem", "slug_title": "pizza-bethlehem", "date": "2010-04-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dfQiWg923VEvQAfR52UeN4yZsHP.jpg", "actors": [], "comments": [], "recommandations_id": []}

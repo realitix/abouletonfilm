@@ -1,0 +1,1 @@
+{"tmdb_id": 558585, "title": "The Mules", "original_title": "Mulai", "slug_title": "the-mules", "date": "2018-11-03", "genre": "Documentaire / Crime", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fYUoLb6nr7tuSrhZHHPvP48Yoca.jpg", "actors": ["Edmundas Putrimas (Himself)"], "comments": [], "recommandations_id": []}

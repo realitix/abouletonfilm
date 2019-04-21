@@ -1,0 +1,1 @@
+{"tmdb_id": 67574, "title": "Soldiers Of War", "original_title": "Soldiers Of War", "slug_title": "soldiers-of-war", "date": "2012-12-16", "genre": "Action / Guerre", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m6itrNuamt561m4ljj0Un2kjOM9.jpg", "actors": [], "comments": [], "recommandations_id": []}

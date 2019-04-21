@@ -1,0 +1,1 @@
+{"tmdb_id": 314823, "title": "Zirkus Nemo - nu med Schumann", "original_title": "Zirkus Nemo - nu med Schumann", "slug_title": "zirkus-nemo-nu-med-schumann", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 487768, "title": "The Blue Summer", "original_title": "The Blue Summer", "slug_title": "the-blue-summer", "date": "2000-11-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Nicola Walker ()", "Barney Kaye ()"], "comments": [], "recommandations_id": []}

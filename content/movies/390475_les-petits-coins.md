@@ -1,0 +1,1 @@
+{"tmdb_id": 390475, "title": "Les petits coins", "original_title": "Les petits coins", "slug_title": "les-petits-coins", "date": "1986-03-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

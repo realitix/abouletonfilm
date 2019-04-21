@@ -1,0 +1,1 @@
+{"tmdb_id": 352367, "title": "Helberger in Paradise", "original_title": "Helberger in Paradise", "slug_title": "helberger-in-paradise", "date": "2014-05-29", "genre": "Drame / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kate Lyn Sheil (Nora)", "Musto Pelinkovicci (Rally)"], "comments": [], "recommandations_id": []}

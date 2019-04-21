@@ -1,0 +1,1 @@
+{"tmdb_id": 555740, "title": "Gosse de riche", "original_title": "Gosse de riche", "slug_title": "gosse-de-riche", "date": "1920-08-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

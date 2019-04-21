@@ -1,0 +1,1 @@
+{"tmdb_id": 487511, "title": "Chicharon", "original_title": "Chicharon", "slug_title": "chicharon", "date": "2013-12-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vaV6j6UkmHXWxX7rYsvJa8PExUD.jpg", "actors": [], "comments": [], "recommandations_id": []}

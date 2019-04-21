@@ -1,0 +1,1 @@
+{"tmdb_id": 486007, "title": "The Book of Life 2", "original_title": "The Book of Life 2", "slug_title": "the-book-of-life-2", "date": "2020-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rJpP9pl6VhdywyKHPx92R1ciTX0.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 419226, "title": "Kubas g\u00f6ttliche Rhythmen", "original_title": "Kubas g\u00f6ttliche Rhythmen", "slug_title": "kubas-gottliche-rhythmen", "date": "2013-10-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

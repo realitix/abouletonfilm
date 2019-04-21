@@ -1,0 +1,1 @@
+{"tmdb_id": 189588, "title": "Shivering Spooks", "original_title": "Shivering Spooks", "slug_title": "shivering-spooks", "date": "1926-08-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

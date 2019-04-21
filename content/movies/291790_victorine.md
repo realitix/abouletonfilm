@@ -1,0 +1,1 @@
+{"tmdb_id": 291790, "title": "Victorine", "original_title": "Victorine", "slug_title": "victorine", "date": "2012-12-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Claudia Tagbo ()", "Ralph Amoussou ()", "Fabrice Colson ()"], "comments": [], "recommandations_id": []}

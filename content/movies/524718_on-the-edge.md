@@ -1,0 +1,1 @@
+{"tmdb_id": 524718, "title": "On The Edge", "original_title": "\u041d\u0430 \u043a\u0440\u0430\u044e", "slug_title": "on-the-edge", "date": "2018-06-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Evgeny Antropov ()", "Yuliya Sorokina ()"], "comments": [], "recommandations_id": []}

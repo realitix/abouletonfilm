@@ -1,0 +1,1 @@
+{"tmdb_id": 282586, "title": "Shivaputswami From Singanallur", "original_title": "Shivaputswami From Singanallur", "slug_title": "shivaputswami-from-singanallur", "date": "2014-11-30", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Shivaraj Kumar ()"], "comments": [], "recommandations_id": []}

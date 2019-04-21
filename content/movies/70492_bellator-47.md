@@ -1,0 +1,1 @@
+{"tmdb_id": 70492, "title": "Bellator 47", "original_title": "Bellator 47", "slug_title": "bellator-47", "date": "2011-07-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dOU2ShwZQQHzhvnQKTw2zzOOf6J.jpg", "actors": [], "comments": [], "recommandations_id": []}

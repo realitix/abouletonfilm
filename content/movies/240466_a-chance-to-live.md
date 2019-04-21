@@ -1,0 +1,1 @@
+{"tmdb_id": 240466, "title": "A Chance to Live", "original_title": "A Chance to Live", "slug_title": "a-chance-to-live", "date": "1949-12-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

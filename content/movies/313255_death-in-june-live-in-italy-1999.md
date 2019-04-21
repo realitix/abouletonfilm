@@ -1,0 +1,1 @@
+{"tmdb_id": 313255, "title": "Death in June: Live in Italy 1999", "original_title": "Death in June: Live in Italy 1999", "slug_title": "death-in-june-live-in-italy-1999", "date": "2003-02-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

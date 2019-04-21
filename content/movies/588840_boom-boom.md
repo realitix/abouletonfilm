@@ -1,0 +1,1 @@
+{"tmdb_id": 588840, "title": "Boom Boom", "original_title": "Boom Boom", "slug_title": "boom-boom", "date": "2017-12-31", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fkiaIlVNPoByT626BQZ6xq0TvsA.jpg", "actors": [], "comments": [], "recommandations_id": []}

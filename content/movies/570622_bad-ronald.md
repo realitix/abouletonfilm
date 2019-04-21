@@ -1,0 +1,1 @@
+{"tmdb_id": 570622, "title": "Bad Ronald", "original_title": "M\u00e9chant gar\u00e7on", "slug_title": "bad-ronald", "date": "1992-03-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

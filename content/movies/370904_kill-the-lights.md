@@ -1,0 +1,1 @@
+{"tmdb_id": 370904, "title": "Kill the Lights", "original_title": "Kill the Lights", "slug_title": "kill-the-lights", "date": "2016-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

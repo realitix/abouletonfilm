@@ -1,0 +1,1 @@
+{"tmdb_id": 278522, "title": "Frontline: Battle for Haiti", "original_title": "Frontline: Battle for Haiti", "slug_title": "frontline-battle-for-haiti", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

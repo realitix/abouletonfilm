@@ -1,0 +1,1 @@
+{"tmdb_id": 504249, "title": "The Strange Name Movie", "original_title": "The Strange Name Movie", "slug_title": "the-strange-name-movie", "date": "2017-12-12", "genre": "Documentaire", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9CLSdvttZ70JWVYM42tRXjFuFyH.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 97289, "title": "Sour Strawberries", "original_title": "Sour Strawberries", "slug_title": "sour-strawberries", "date": "2008-04-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z2PpnL6MhCLIPGiCCdzNk0kfQzE.jpg", "actors": [], "comments": [], "recommandations_id": []}

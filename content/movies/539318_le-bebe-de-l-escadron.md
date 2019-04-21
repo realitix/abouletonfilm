@@ -1,0 +1,1 @@
+{"tmdb_id": 539318, "title": "Le b\u00e9b\u00e9 de l'escadron", "original_title": "Le b\u00e9b\u00e9 de l'escadron", "slug_title": "le-bebe-de-l-escadron", "date": "1935-12-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rtcAogzh8QanaDStEjSx8cVzZzY.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 429794, "title": "The Beast of Bodmin Moor", "original_title": "The Beast of Bodmin Moor", "slug_title": "the-beast-of-bodmin-moor", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jMrgKcG0Ch3jkhgvNveR0jZtL85.jpg", "actors": [], "comments": [], "recommandations_id": []}

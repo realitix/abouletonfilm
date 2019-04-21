@@ -1,0 +1,1 @@
+{"tmdb_id": 227227, "title": "The Dummy", "original_title": "The Dummy", "slug_title": "the-dummy", "date": "1995-06-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xjh2Vr25OcLasdb3xhgFiGyQVwE.jpg", "actors": [], "comments": [], "recommandations_id": []}

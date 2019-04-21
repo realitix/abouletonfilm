@@ -1,0 +1,1 @@
+{"tmdb_id": 572765, "title": "You've Been Bad", "original_title": "You've Been Bad", "slug_title": "you-ve-been-bad", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

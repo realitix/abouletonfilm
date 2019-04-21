@@ -1,0 +1,1 @@
+{"tmdb_id": 550335, "title": "Mannen fr\u00e5n Podalida", "original_title": "Mannen fr\u00e5n Podalida", "slug_title": "mannen-fran-podalida", "date": "1998-01-09", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Katarina Frostenson (Herself)"], "comments": [], "recommandations_id": []}

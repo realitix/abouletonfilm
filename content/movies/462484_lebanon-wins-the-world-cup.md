@@ -1,0 +1,1 @@
+{"tmdb_id": 462484, "title": "Lebanon Wins the World Cup", "original_title": "Lebanon Wins the World Cup", "slug_title": "lebanon-wins-the-world-cup", "date": "2015-10-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eUXcY9a3tclrisXxGJdxqIjE1ne.jpg", "actors": [], "comments": [], "recommandations_id": []}

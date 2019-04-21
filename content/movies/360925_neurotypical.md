@@ -1,0 +1,1 @@
+{"tmdb_id": 360925, "title": "Neurotypical", "original_title": "Neurotypical", "slug_title": "neurotypical", "date": "2013-07-29", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gojUQPvmaQ43YqK55rbMNaRynnm.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 261713, "title": "Acceleration Punk", "original_title": "Acceleration Punk", "slug_title": "acceleration-punk", "date": "1977-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oqfcZWeO3cboyTvCVyOxUZb7vEo.jpg", "actors": [], "comments": [], "recommandations_id": []}

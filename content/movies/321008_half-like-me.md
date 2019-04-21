@@ -1,0 +1,1 @@
+{"tmdb_id": 321008, "title": "Half Like Me", "original_title": "Half Like Me", "slug_title": "half-like-me", "date": "2015-01-22", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nb2zh2jaf8QE4lNIUDHQRtRMggv.jpg", "actors": ["Al Madrigal (Himself)"], "comments": [], "recommandations_id": []}

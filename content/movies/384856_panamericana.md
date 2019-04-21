@@ -1,0 +1,1 @@
+{"tmdb_id": 384856, "title": "Panamericana", "original_title": "Panamericana - Traumstra\u00dfe der Welt", "slug_title": "panamericana", "date": "1968-10-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wGwdnzqezetKzwWFSdmBTm3EJ6W.jpg", "actors": [], "comments": [], "recommandations_id": []}

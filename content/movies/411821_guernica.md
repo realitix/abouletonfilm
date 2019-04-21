@@ -1,0 +1,1 @@
+{"tmdb_id": 411821, "title": "Guernica", "original_title": "Guernica", "slug_title": "guernica", "date": "1982-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

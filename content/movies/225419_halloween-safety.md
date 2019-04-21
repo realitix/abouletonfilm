@@ -1,0 +1,1 @@
+{"tmdb_id": 225419, "title": "Halloween Safety", "original_title": "Halloween Safety", "slug_title": "halloween-safety", "date": "1977-10-01", "genre": "Familial / Horreur / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/18w75Xmoq514fo2Hf3ieYu0ABPN.jpg", "actors": [], "comments": [], "recommandations_id": []}

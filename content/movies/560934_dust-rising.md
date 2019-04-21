@@ -1,0 +1,1 @@
+{"tmdb_id": 560934, "title": "Dust Rising", "original_title": "Dust Rising", "slug_title": "dust-rising", "date": "2018-08-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

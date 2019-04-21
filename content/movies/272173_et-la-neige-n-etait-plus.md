@@ -1,0 +1,1 @@
+{"tmdb_id": 272173, "title": "Et la neige n'\u00e9tait plus", "original_title": "Et la neige n'\u00e9tait plus", "slug_title": "et-la-neige-n-etait-plus", "date": "1965-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

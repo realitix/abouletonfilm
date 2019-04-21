@@ -1,0 +1,1 @@
+{"tmdb_id": 522663, "title": "The Pearl Remains", "original_title": "The Pearl Remains", "slug_title": "the-pearl-remains", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

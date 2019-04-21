@@ -1,0 +1,1 @@
+{"tmdb_id": 316664, "title": "Roy Shaw: Brute Force", "original_title": "Roy Shaw: Brute Force", "slug_title": "roy-shaw-brute-force", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

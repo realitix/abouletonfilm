@@ -1,0 +1,1 @@
+{"tmdb_id": 278394, "title": "Arival Chuttika Nakshathram", "original_title": "Arival Chuttika Nakshathram", "slug_title": "arival-chuttika-nakshathram", "date": "", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

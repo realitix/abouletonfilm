@@ -1,0 +1,1 @@
+{"tmdb_id": 278297, "title": "Ahu's Husband", "original_title": "Shohar-e Ahu khanom", "slug_title": "ahu-s-husband", "date": "1968-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mehri Vadadian ()", "Adile Eshragh ()", "Hossein Eshragh ()"], "comments": [], "recommandations_id": []}

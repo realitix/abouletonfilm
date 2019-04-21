@@ -1,0 +1,1 @@
+{"tmdb_id": 274606, "title": "Procol Harum: Live in Copenhagen", "original_title": "Procol Harum: Live in Copenhagen", "slug_title": "procol-harum-live-in-copenhagen", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

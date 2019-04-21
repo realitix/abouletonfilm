@@ -1,0 +1,1 @@
+{"tmdb_id": 307197, "title": "Love Covers All", "original_title": "Love Covers All", "slug_title": "love-covers-all", "date": "2014-10-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 562731, "title": "Stroh zu Gold", "original_title": "Stroh zu Gold", "slug_title": "stroh-zu-gold", "date": "1997-02-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

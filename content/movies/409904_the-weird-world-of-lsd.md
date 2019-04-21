@@ -1,0 +1,1 @@
+{"tmdb_id": 409904, "title": "The Weird World of LSD", "original_title": "The Weird World of LSD", "slug_title": "the-weird-world-of-lsd", "date": "1967-04-08", "genre": "Drame", "score": "2.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o2AMiGWrCz8gn8EE9ePvkwZK1xj.jpg", "actors": [], "comments": [], "recommandations_id": []}

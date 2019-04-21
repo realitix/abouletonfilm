@@ -1,0 +1,1 @@
+{"tmdb_id": 313842, "title": "Kath Putli", "original_title": "Kath Putli", "slug_title": "kath-putli", "date": "1957-01-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tgpLJ9jZMZEitCg0rLSn5IeuOnj.jpg", "actors": ["Balraj Sahni ()", "Vyjayanthimala ()"], "comments": [], "recommandations_id": []}

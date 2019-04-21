@@ -1,0 +1,1 @@
+{"tmdb_id": 412734, "title": "Gun Runners", "original_title": "Gun Runners", "slug_title": "gun-runners", "date": "2016-10-07", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8ZkW8X5Zq8zX66dmLNYhVD0vl8H.jpg", "actors": ["Julius Arile ()", "Robert Matanda ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 352316, "title": "Canada Vignettes: News Canada", "original_title": "Canada Vignettes: News Canada", "slug_title": "canada-vignettes-news-canada", "date": "1978-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

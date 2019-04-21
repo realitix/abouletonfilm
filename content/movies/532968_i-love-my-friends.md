@@ -1,0 +1,1 @@
+{"tmdb_id": 532968, "title": "I Love My Friends", "original_title": "I Love My Friends", "slug_title": "i-love-my-friends", "date": "2018-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lorelei Ramirez ()", "Amy Zimmer ()", "Ana Fabrega ()", "Patti Harrison ()"], "comments": [], "recommandations_id": []}

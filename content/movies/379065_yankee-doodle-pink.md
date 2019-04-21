@@ -1,0 +1,1 @@
+{"tmdb_id": 379065, "title": "Yankee Doodle Pink", "original_title": "Yankee Doodle Pink", "slug_title": "yankee-doodle-pink", "date": "1978-12-02", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2TA4tM4T69wa6yrsaYL3ClDCKQd.jpg", "actors": [], "comments": [], "recommandations_id": []}

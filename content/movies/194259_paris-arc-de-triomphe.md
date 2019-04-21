@@ -1,0 +1,1 @@
+{"tmdb_id": 194259, "title": "Paris, Arc de Triomphe", "original_title": "Paris, Arc de Triomphe", "slug_title": "paris-arc-de-triomphe", "date": "1896-11-14", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 236163, "title": "The Little Bantamweight", "original_title": "The Little Bantamweight", "slug_title": "the-little-bantamweight", "date": "1938-03-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nbBrj4aq1laG5bv6sbzD7IgrEIG.jpg", "actors": [], "comments": [], "recommandations_id": []}

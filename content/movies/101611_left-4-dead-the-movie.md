@@ -1,0 +1,1 @@
+{"tmdb_id": 101611, "title": "Left 4 Dead - The Movie", "original_title": "Left 4 Dead - The Movie", "slug_title": "left-4-dead-the-movie", "date": "2016-09-10", "genre": "Horreur", "score": "4.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q9TdjjWgUUmPxwQlDqtYlO3BfAC.jpg", "actors": [], "comments": [], "recommandations_id": [405615]}

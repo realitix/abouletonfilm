@@ -1,0 +1,1 @@
+{"tmdb_id": 196335, "title": "\u00bfDe qu\u00e9 va la vida?", "original_title": "\u00bfDe qu\u00e9 va la vida?", "slug_title": "de-que-va-la-vida", "date": "2013-05-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3eMi7QAki3BPCRxBegr3eKEhHCi.jpg", "actors": [], "comments": [], "recommandations_id": []}

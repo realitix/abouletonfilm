@@ -1,0 +1,1 @@
+{"tmdb_id": 593144, "title": "Dance Night Obsession", "original_title": "Dance Night Obsession", "slug_title": "dance-night-obsession", "date": "2016-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

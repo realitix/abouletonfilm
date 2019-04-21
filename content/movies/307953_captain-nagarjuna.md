@@ -1,0 +1,1 @@
+{"tmdb_id": 307953, "title": "Captain Nagarjuna", "original_title": "Captain Nagarjuna", "slug_title": "captain-nagarjuna", "date": "1986-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iqrMa1KfRQ74ISXUO7oVo49JsDl.jpg", "actors": ["Nagarjuna Akkineni ()", "Khushboo ()"], "comments": [], "recommandations_id": []}

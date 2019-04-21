@@ -1,0 +1,1 @@
+{"tmdb_id": 422745, "title": "Jadubhatta", "original_title": "Jadubhatta", "slug_title": "jadubhatta", "date": "1954-06-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ajitprakash ()", "Chhabi Biswas ()", "Tulsi Chakraborty ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 77712, "title": "Ganga Putrulu", "original_title": "Ganga Putrulu", "slug_title": "ganga-putrulu", "date": "2011-03-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hHlQSYeZgFHjzVRGPGWhXE51631.jpg", "actors": [], "comments": [], "recommandations_id": []}

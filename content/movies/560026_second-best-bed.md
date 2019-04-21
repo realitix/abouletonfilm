@@ -1,0 +1,1 @@
+{"tmdb_id": 560026, "title": "Second Best Bed", "original_title": "Second Best Bed", "slug_title": "second-best-bed", "date": "1938-07-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

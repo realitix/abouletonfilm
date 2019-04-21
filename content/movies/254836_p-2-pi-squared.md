@@ -1,0 +1,1 @@
+{"tmdb_id": 254836, "title": "\u03c0 \u00b2 (Pi Squared)", "original_title": "\u03c0 \u00b2 (Pi Squared)", "slug_title": "p-2-pi-squared", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

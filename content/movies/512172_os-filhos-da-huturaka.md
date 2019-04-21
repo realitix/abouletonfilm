@@ -1,0 +1,1 @@
+{"tmdb_id": 512172, "title": "Os Filhos da Huturaka", "original_title": "Os Filhos da Huturaka", "slug_title": "os-filhos-da-huturaka", "date": "2013-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g253O0qZnzPB5OPrsNZoxbEJjXh.jpg", "actors": [], "comments": [], "recommandations_id": []}

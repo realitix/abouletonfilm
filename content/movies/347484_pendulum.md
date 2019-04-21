@@ -1,0 +1,1 @@
+{"tmdb_id": 347484, "title": "Pendulum", "original_title": "El p\u00e9ndulo", "slug_title": "pendulum", "date": "1981-03-04", "genre": "Drame", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Aldo Pastur ()", "Cristina Aroca ()"], "comments": [], "recommandations_id": []}

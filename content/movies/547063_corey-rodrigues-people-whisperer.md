@@ -1,0 +1,1 @@
+{"tmdb_id": 547063, "title": "Corey Rodrigues: People Whisperer", "original_title": "Corey Rodrigues: People Whisperer", "slug_title": "corey-rodrigues-people-whisperer", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

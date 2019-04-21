@@ -1,0 +1,1 @@
+{"tmdb_id": 211635, "title": "H'mong Sisters", "original_title": "H'mong Sisters", "slug_title": "h-mong-sisters", "date": "", "genre": "Drame", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ph\u00f9ng Hoa Ho\u00e0i Linh (Mu)", "Th\u00f9y Anh (Paj)", "Scott Dean (Jackson)"], "comments": [], "recommandations_id": []}

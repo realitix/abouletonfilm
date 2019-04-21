@@ -1,0 +1,1 @@
+{"tmdb_id": 454802, "title": "Bo-Bajet", "original_title": "Bo-Bajet", "slug_title": "bo-bajet", "date": "2017-04-27", "genre": "Action / Com\u00e9die", "score": "2.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Janna Nick ()", "Saharul ridwan ()", "Noryati Ibrahim ()", "Faiq Syazwan Kuhiri ()"], "comments": [], "recommandations_id": []}

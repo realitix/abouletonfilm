@@ -1,0 +1,1 @@
+{"tmdb_id": 195908, "title": "Trade Procession at Opening of Cork Exhibition", "original_title": "Trade Procession at Opening of Cork Exhibition", "slug_title": "trade-procession-at-opening-of-cork-exhibition", "date": "1902-05-22", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

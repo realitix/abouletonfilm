@@ -1,0 +1,1 @@
+{"tmdb_id": 560944, "title": "Coming Attractions: Horror: Volume Two", "original_title": "Coming Attractions: Horror: Volume Two", "slug_title": "coming-attractions-horror-volume-two", "date": "2014-08-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 350458, "title": "\ub4a4 \ub3cc\uc544 \ubcf4\uc9c0\ub9c8\ub77c", "original_title": "\ub4a4 \ub3cc\uc544 \ubcf4\uc9c0\ub9c8\ub77c", "slug_title": "dwi-dola-bojimara", "date": "1979-11-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

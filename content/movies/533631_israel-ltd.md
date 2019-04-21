@@ -1,0 +1,1 @@
+{"tmdb_id": 533631, "title": "Israel Ltd.", "original_title": "Israel Ltd.", "slug_title": "israel-ltd", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/caGoLkuH9QQYaf84R2ALFdIh5LJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

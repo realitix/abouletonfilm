@@ -1,0 +1,1 @@
+{"tmdb_id": 537295, "title": "Candeias", "original_title": "Candeias", "slug_title": "candeias", "date": "2017-09-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8v3LuEcmUhdbmcCTOwIHkPdEcqX.jpg", "actors": [], "comments": [], "recommandations_id": []}

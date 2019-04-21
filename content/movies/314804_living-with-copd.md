@@ -1,0 +1,1 @@
+{"tmdb_id": 314804, "title": "Living with COPD", "original_title": "Living with COPD", "slug_title": "living-with-copd", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

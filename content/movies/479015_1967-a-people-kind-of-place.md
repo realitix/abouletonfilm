@@ -1,0 +1,1 @@
+{"tmdb_id": 479015, "title": "1967: A People Kind of Place", "original_title": "1967: A People Kind of Place", "slug_title": "1967-a-people-kind-of-place", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

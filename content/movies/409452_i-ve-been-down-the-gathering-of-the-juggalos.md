@@ -1,0 +1,1 @@
+{"tmdb_id": 409452, "title": "I've Been Down: The Gathering of the Juggalos", "original_title": "I've Been Down: The Gathering of the Juggalos", "slug_title": "i-ve-been-down-the-gathering-of-the-juggalos", "date": "2011-08-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

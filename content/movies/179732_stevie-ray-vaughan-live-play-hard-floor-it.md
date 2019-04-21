@@ -1,0 +1,1 @@
+{"tmdb_id": 179732, "title": "Stevie Ray Vaughan Live: Play Hard & Floor It!", "original_title": "Stevie Ray Vaughan Live: Play Hard & Floor It!", "slug_title": "stevie-ray-vaughan-live-play-hard-floor-it", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 483401, "title": "Maestro Plecnik", "original_title": "Mojster Ple\u010dnik", "slug_title": "maestro-plecnik", "date": "1953-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7MsEtTiMDv2YfEYoWBfETb6aCb1.jpg", "actors": [], "comments": [], "recommandations_id": []}

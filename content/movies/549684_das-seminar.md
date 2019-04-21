@@ -1,0 +1,1 @@
+{"tmdb_id": 549684, "title": "Das Seminar", "original_title": "Das Seminar", "slug_title": "das-seminar", "date": "1967-12-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5ZWrRQd9qIuTqkjzN2SJbf23aQW.jpg", "actors": [], "comments": [], "recommandations_id": []}

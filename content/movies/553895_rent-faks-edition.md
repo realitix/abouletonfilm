@@ -1,0 +1,1 @@
+{"tmdb_id": 553895, "title": "Rent - Faks Edition", "original_title": "Rent - Faks Edition", "slug_title": "rent-faks-edition", "date": "2018-09-12", "genre": "Drame / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/noIktaDomlzFie4wYoyIXAKQqw3.jpg", "actors": [], "comments": [], "recommandations_id": []}

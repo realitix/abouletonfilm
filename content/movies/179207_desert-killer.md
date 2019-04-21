@@ -1,0 +1,1 @@
+{"tmdb_id": 179207, "title": "Desert Killer", "original_title": "Desert Killer", "slug_title": "desert-killer", "date": "1953-06-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Art Gilmore (Narrator)", "Marvin Glenn ((Himself))"], "comments": [], "recommandations_id": []}

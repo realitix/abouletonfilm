@@ -1,0 +1,1 @@
+{"tmdb_id": 428490, "title": "Japanese Calligraphy", "original_title": "Japanese Calligraphy", "slug_title": "japanese-calligraphy", "date": "1956-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 89537, "title": "Wild Women", "original_title": "Wild Women", "slug_title": "wild-women", "date": "1951-09-23", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kxCKaKVtcGIWO2IOaa98Xe4lyHq.jpg", "actors": [], "comments": [], "recommandations_id": []}

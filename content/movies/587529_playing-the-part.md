@@ -1,0 +1,1 @@
+{"tmdb_id": 587529, "title": "Playing the Part", "original_title": "Playing the Part", "slug_title": "playing-the-part", "date": "1995-03-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jy1gGfy0EdNLo0kyRH77sNy1e2x.jpg", "actors": ["Mitch McCabe (Herself)"], "comments": [], "recommandations_id": []}

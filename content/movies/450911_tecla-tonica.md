@@ -1,0 +1,1 @@
+{"tmdb_id": 450911, "title": "Tecla T\u00f3nica", "original_title": "Tecla T\u00f3nica", "slug_title": "tecla-tonica", "date": "2016-04-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6sBY4qJapHq469EIZpKyW0EcOLn.jpg", "actors": [], "comments": [], "recommandations_id": []}

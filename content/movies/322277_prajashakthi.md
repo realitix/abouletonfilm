@@ -1,0 +1,1 @@
+{"tmdb_id": 322277, "title": "Prajashakthi", "original_title": "Prajashakthi", "slug_title": "prajashakthi", "date": "1994-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

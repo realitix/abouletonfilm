@@ -1,0 +1,1 @@
+{"tmdb_id": 363574, "title": "Em dic Sara", "original_title": "Em dic Sara", "slug_title": "em-dic-sara", "date": "1999-05-21", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z6tQ31Li9GVpKBT877uLm9sK7bP.jpg", "actors": [], "comments": [], "recommandations_id": []}

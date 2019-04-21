@@ -1,0 +1,1 @@
+{"tmdb_id": 312012, "title": "Likehell: The Movie", "original_title": "Likehell: The Movie", "slug_title": "likehell-the-movie", "date": "2005-10-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

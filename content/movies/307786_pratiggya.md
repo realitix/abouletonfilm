@@ -1,0 +1,1 @@
+{"tmdb_id": 307786, "title": "Pratiggya", "original_title": "Pratiggya", "slug_title": "pratiggya", "date": "1975-06-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

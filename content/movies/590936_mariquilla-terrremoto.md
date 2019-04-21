@@ -1,0 +1,1 @@
+{"tmdb_id": 590936, "title": "Mariquilla Terrremoto", "original_title": "Mariquilla Terrremoto", "slug_title": "mariquilla-terrremoto", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ricardo Merino ()", "Rafaela Satorr\u00e9s ()"], "comments": [], "recommandations_id": []}

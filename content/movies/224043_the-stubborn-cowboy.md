@@ -1,0 +1,1 @@
+{"tmdb_id": 224043, "title": "The Stubborn Cowboy", "original_title": "The Stubborn Cowboy", "slug_title": "the-stubborn-cowboy", "date": "1967-10-01", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

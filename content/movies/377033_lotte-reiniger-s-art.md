@@ -1,0 +1,1 @@
+{"tmdb_id": 377033, "title": "Lotte Reiniger's Art", "original_title": "Lotte Reiniger's Art", "slug_title": "lotte-reiniger-s-art", "date": "1970-12-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lotte Reiniger (Herself)"], "comments": [], "recommandations_id": []}

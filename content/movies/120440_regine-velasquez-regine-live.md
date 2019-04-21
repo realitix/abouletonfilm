@@ -1,0 +1,1 @@
+{"tmdb_id": 120440, "title": "Regine Velasquez: Regine Live", "original_title": "Regine Velasquez: Regine Live", "slug_title": "regine-velasquez-regine-live", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Regine Velasquez (herself)"], "comments": [], "recommandations_id": []}

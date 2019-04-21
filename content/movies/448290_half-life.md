@@ -1,0 +1,1 @@
+{"tmdb_id": 448290, "title": "Half -Life", "original_title": "Half -Life", "slug_title": "half-life", "date": "", "genre": "Science-Fiction / Thriller", "score": "3.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3uv9oaqOJkkdZiQp6r9lf24tkHW.jpg", "actors": [], "comments": [], "recommandations_id": []}

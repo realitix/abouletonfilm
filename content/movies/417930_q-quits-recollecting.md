@@ -1,0 +1,1 @@
+{"tmdb_id": 417930, "title": "Q Quits Recollecting", "original_title": "Q smette di ricordare", "slug_title": "q-quits-recollecting", "date": "2013-12-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w379NKyYvZ1DCo2Pl6xHDVNMAuK.jpg", "actors": [], "comments": [], "recommandations_id": []}

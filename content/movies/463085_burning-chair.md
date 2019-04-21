@@ -1,0 +1,1 @@
+{"tmdb_id": 463085, "title": "Burning Chair", "original_title": "Burning Chair", "slug_title": "burning-chair", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 576746, "title": "Scissor", "original_title": "\u0642\u06cc\u0686\u06cc", "slug_title": "scissor", "date": "2016-05-22", "genre": "Crime / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g7VQoAhqVbsLWP1vLSlxiUpDpDS.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 343520, "title": "Ambiente familiar", "original_title": "Ambiente familiar", "slug_title": "ambiente-familiar", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 149256, "title": "The Hoaxters", "original_title": "The Hoaxters", "slug_title": "the-hoaxters", "date": "1952-12-05", "genre": "", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zGCyG6V1BcM6MevxEcm602ACh8d.jpg", "actors": [], "comments": [], "recommandations_id": []}

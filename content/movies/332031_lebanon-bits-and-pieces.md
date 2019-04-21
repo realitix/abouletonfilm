@@ -1,0 +1,1 @@
+{"tmdb_id": 332031, "title": "Lebanon: Bits and Pieces", "original_title": "Lebanon: Bits and Pieces", "slug_title": "lebanon-bits-and-pieces", "date": "1994-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 46176, "title": "Sade: Lovers Live", "original_title": "Sade: Lovers Live", "slug_title": "sade-lovers-live", "date": "2002-03-05", "genre": "Musique", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/74EOE16O60XoMQc9IqXQtztESVa.jpg", "actors": ["Sade (Herself)"], "comments": [], "recommandations_id": [43774]}

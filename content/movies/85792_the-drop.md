@@ -1,0 +1,1 @@
+{"tmdb_id": 85792, "title": "The Drop", "original_title": "Shizuku", "slug_title": "the-drop", "date": "1965-10-01", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eWefxAyk6802udjD5TEz1lCzAZT.jpg", "actors": [], "comments": [], "recommandations_id": []}

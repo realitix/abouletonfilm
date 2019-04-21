@@ -1,0 +1,1 @@
+{"tmdb_id": 502644, "title": "Le pecore di Cheyenne", "original_title": "Le pecore di Cheyenne", "slug_title": "le-pecore-di-cheyenne", "date": "2008-05-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

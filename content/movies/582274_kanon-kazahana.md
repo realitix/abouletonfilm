@@ -1,0 +1,1 @@
+{"tmdb_id": 582274, "title": "Kanon Kazahana", "original_title": "\u30ab\u30ce\u30f3 \u98a8\u82b1", "slug_title": "kanon-kazahana", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zu1eQG9dkBLc5c01n83tvjOhGBg.jpg", "actors": [], "comments": [], "recommandations_id": []}

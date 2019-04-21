@@ -1,0 +1,1 @@
+{"tmdb_id": 589477, "title": "The Rural Teacher", "original_title": "The Rural Teacher", "slug_title": "the-rural-teacher", "date": "1983-10-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

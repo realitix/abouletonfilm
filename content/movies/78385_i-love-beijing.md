@@ -1,0 +1,1 @@
+{"tmdb_id": 78385, "title": "I Love Beijing", "original_title": "Xia Ri Nuan Yangyang", "slug_title": "i-love-beijing", "date": "2001-01-05", "genre": "Drame / Romance", "score": "5.4/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5zKKnvFAdqcTnMBz7OQpJ5Kd21e.jpg", "actors": ["Lei Yu (Desi)", "Tao Hong ()"], "comments": [], "recommandations_id": []}

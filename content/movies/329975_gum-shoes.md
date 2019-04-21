@@ -1,0 +1,1 @@
+{"tmdb_id": 329975, "title": "Gum Shoes", "original_title": "Gum Shoes", "slug_title": "gum-shoes", "date": "1935-03-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Monte Collins ()", "Tom Kennedy ()"], "comments": [], "recommandations_id": []}

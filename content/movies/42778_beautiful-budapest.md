@@ -1,0 +1,1 @@
+{"tmdb_id": 42778, "title": "Beautiful Budapest", "original_title": "Beautiful Budapest", "slug_title": "beautiful-budapest", "date": "1938-01-01", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hXkZH46ps9C7cqV8cl6SLVqpmKp.jpg", "actors": ["James A. FitzPatrick ()"], "comments": [], "recommandations_id": []}

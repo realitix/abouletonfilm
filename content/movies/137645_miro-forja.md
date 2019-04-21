@@ -1,0 +1,1 @@
+{"tmdb_id": 137645, "title": "Miro Forja", "original_title": "Mir\u00f3 La Forja", "slug_title": "miro-forja", "date": "1973-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fr0cqYnCo3dInwJLTRA3nkia4l9.jpg", "actors": [], "comments": [], "recommandations_id": []}

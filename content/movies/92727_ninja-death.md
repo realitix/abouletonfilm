@@ -1,0 +1,1 @@
+{"tmdb_id": 92727, "title": "Ninja Death", "original_title": "Ninja Death", "slug_title": "ninja-death", "date": "1987-01-01", "genre": "Action", "score": "3.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xfWEf5UoZpu4gVriyGIqVt1f98P.jpg", "actors": ["Fei Meng ()", "Alexander Lo Rei  (Tiger)"], "comments": [], "recommandations_id": []}

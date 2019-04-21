@@ -1,0 +1,1 @@
+{"tmdb_id": 383617, "title": "Ritmas Crom\u00e0tics", "original_title": "Ritmas Crom\u00e0tics", "slug_title": "ritmas-cromatics", "date": "1978-02-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

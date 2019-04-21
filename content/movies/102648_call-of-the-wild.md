@@ -1,0 +1,1 @@
+{"tmdb_id": 102648, "title": "Call of the Wild", "original_title": "Call of the Wild", "slug_title": "call-of-the-wild", "date": "2002-05-22", "genre": "Animation / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 310645, "title": "Kazuo Umezz's Horror Theater: Vol. 2", "original_title": "Kazuo Umezz's Horror Theater: Vol. 2", "slug_title": "kazuo-umezz-s-horror-theater-vol-2", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

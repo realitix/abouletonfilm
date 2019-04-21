@@ -1,0 +1,1 @@
+{"tmdb_id": 318488, "title": "Road Fools 8: White Knuckle Extreme", "original_title": "Road Fools 8: White Knuckle Extreme", "slug_title": "road-fools-8-white-knuckle-extreme", "date": "2003-05-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 235123, "title": "Lion in the Roar", "original_title": "Lion in the Roar", "slug_title": "lion-in-the-roar", "date": "1956-12-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

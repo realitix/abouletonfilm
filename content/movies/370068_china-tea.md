@@ -1,0 +1,1 @@
+{"tmdb_id": 370068, "title": "China Tea", "original_title": "China Tea", "slug_title": "china-tea", "date": "1965-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dzR7Tl7PmqhiUcaYXOQrsTokko1.jpg", "actors": [], "comments": [], "recommandations_id": []}

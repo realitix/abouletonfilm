@@ -1,0 +1,1 @@
+{"tmdb_id": 348369, "title": "Avatar Days", "original_title": "Avatar Days", "slug_title": "avatar-days", "date": "2010-02-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

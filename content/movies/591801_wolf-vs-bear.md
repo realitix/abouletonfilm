@@ -1,0 +1,1 @@
+{"tmdb_id": 591801, "title": "Wolf vs Bear", "original_title": "Wolf vs Bear", "slug_title": "wolf-vs-bear", "date": "2019-03-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2JQg1p8bmrjQFFyJLBaYnb2I0NV.jpg", "actors": [], "comments": [], "recommandations_id": []}

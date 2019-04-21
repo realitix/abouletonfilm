@@ -1,0 +1,1 @@
+{"tmdb_id": 537072, "title": "The Book Club", "original_title": "The Book Club", "slug_title": "the-book-club", "date": "2018-07-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ray LaMontagne (Nigel)", "Sarah Sousa (Ellie)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 487890, "title": "Katjira's Two Funerals", "original_title": "Katjira's Two Funerals", "slug_title": "katjira-s-two-funerals", "date": "2010-11-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

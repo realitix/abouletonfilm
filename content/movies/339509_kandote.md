@@ -1,0 +1,1 @@
+{"tmdb_id": 339509, "title": "Kandote", "original_title": "Kandote", "slug_title": "kandote", "date": "2014-08-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

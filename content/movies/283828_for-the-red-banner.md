@@ -1,0 +1,1 @@
+{"tmdb_id": 283828, "title": "For the Red Banner", "original_title": "Za krasnoye znamya", "slug_title": "for-the-red-banner", "date": "1919-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

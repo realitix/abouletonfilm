@@ -1,0 +1,1 @@
+{"tmdb_id": 281083, "title": "Fight Back, Fight AIDS: 15 Years of ACT UP", "original_title": "Fight Back, Fight AIDS: 15 Years of ACT UP", "slug_title": "fight-back-fight-aids-15-years-of-act-up", "date": "2004-04-04", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

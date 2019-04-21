@@ -1,0 +1,1 @@
+{"tmdb_id": 361570, "title": "1966 England vs W Germany", "original_title": "1966 England vs W Germany", "slug_title": "1966-england-vs-w-germany", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rw6DxlCNW30tVkGlnGgiCod7ym3.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 40409, "title": "Ac\u00fastico MTV: Gal Costa", "original_title": "Ac\u00fastico MTV: Gal Costa", "slug_title": "acustico-mtv-gal-costa", "date": "2001-11-28", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qcbPcENa4bGzGN6VpbbkcQI5wUE.jpg", "actors": [], "comments": [], "recommandations_id": []}

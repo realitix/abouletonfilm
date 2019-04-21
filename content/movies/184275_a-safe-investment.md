@@ -1,0 +1,1 @@
+{"tmdb_id": 184275, "title": "A Safe Investment", "original_title": "A Safe Investment", "slug_title": "a-safe-investment", "date": "1915-10-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

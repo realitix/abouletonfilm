@@ -1,0 +1,1 @@
+{"tmdb_id": 235753, "title": "Carrego Comigo", "original_title": "Carrego Comigo", "slug_title": "carrego-comigo", "date": "2000-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7Lw8OBpdNgaJ9esKDp88g31LUBa.jpg", "actors": [], "comments": [], "recommandations_id": []}

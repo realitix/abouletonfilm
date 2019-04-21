@@ -1,0 +1,1 @@
+{"tmdb_id": 525489, "title": "O Florista", "original_title": "O Florista", "slug_title": "o-florista", "date": "2017-07-29", "genre": "Drame / Science-Fiction / Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4C4AZwL47HmjV4VTQ8IuKwWOy60.jpg", "actors": ["Filipi Silveira (Florista)"], "comments": [], "recommandations_id": []}

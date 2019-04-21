@@ -1,0 +1,1 @@
+{"tmdb_id": 390384, "title": "Wawa No Cidal", "original_title": "\u592a\u967d\u7684\u5b69\u5b50", "slug_title": "wawa-no-cidal", "date": "2015-07-04", "genre": "Familial / Drame", "score": "6.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yVXJNW3KZOUhXzJnAMtVIdespWQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 419403, "title": "The Taming of the Shrew", "original_title": "The Taming of the Shrew", "slug_title": "the-taming-of-the-shrew", "date": "1923-04-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dacia Deane (Katherina)", "Lauderdale Maitland (Petruchio)"], "comments": [], "recommandations_id": []}

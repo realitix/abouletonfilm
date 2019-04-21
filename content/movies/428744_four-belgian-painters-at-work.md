@@ -1,0 +1,1 @@
+{"tmdb_id": 428744, "title": "Four Belgian Painters at Work", "original_title": "Four Belgian Painters at Work", "slug_title": "four-belgian-painters-at-work", "date": "1952-12-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

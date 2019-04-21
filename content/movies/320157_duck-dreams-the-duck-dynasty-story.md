@@ -1,0 +1,1 @@
+{"tmdb_id": 320157, "title": "Duck Dreams The Duck Dynasty Story", "original_title": "Duck Dreams The Duck Dynasty Story", "slug_title": "duck-dreams-the-duck-dynasty-story", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 57858, "title": "The Yogis of Tibet", "original_title": "The Yogis of Tibet", "slug_title": "the-yogis-of-tibet", "date": "2002-01-03", "genre": "Documentaire", "score": "6.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uVGMgqx5uvO8sZ7iqgjablAVq5b.jpg", "actors": [], "comments": [], "recommandations_id": [68365]}

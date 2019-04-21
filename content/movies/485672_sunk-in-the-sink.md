@@ -1,0 +1,1 @@
+{"tmdb_id": 485672, "title": "Sunk in the Sink", "original_title": "Sunk in the Sink", "slug_title": "sunk-in-the-sink", "date": "1949-03-10", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Andy Clyde (Andy)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 379017, "title": "Splendid but Sad Days", "original_title": "\uc21c\ucc9c", "slug_title": "splendid-but-sad-days", "date": "2014-09-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uOj0dltYZuTthPeTI8lV5Fd5Tsw.jpg", "actors": [], "comments": [], "recommandations_id": []}

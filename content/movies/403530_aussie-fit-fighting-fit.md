@@ -1,0 +1,1 @@
+{"tmdb_id": 403530, "title": "Aussie Fit - Fighting Fit", "original_title": "Aussie Fit - Fighting Fit", "slug_title": "aussie-fit-fighting-fit", "date": "2002-08-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fHPyOW18QtYOjf3gGSRBYvRcArg.jpg", "actors": [], "comments": [], "recommandations_id": []}

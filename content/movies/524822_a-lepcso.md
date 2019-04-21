@@ -1,0 +1,1 @@
+{"tmdb_id": 524822, "title": "A l\u00e9pcs\u0151", "original_title": "A l\u00e9pcs\u0151", "slug_title": "a-lepcso", "date": "1994-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7m8nWz2jz6bN1RcSzLrZDVbb2a0.jpg", "actors": [], "comments": [], "recommandations_id": []}

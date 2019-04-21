@@ -1,0 +1,1 @@
+{"tmdb_id": 485693, "title": "A Blissful Blunder", "original_title": "A Blissful Blunder", "slug_title": "a-blissful-blunder", "date": "1952-05-08", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Andy Clyde (Andy Clyde)"], "comments": [], "recommandations_id": []}

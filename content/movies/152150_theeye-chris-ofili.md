@@ -1,0 +1,1 @@
+{"tmdb_id": 152150, "title": "TheEYE: Chris Ofili", "original_title": "TheEYE: Chris Ofili", "slug_title": "theeye-chris-ofili", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zlWmmvCI19v6l1SA47XabnM7BE2.jpg", "actors": [], "comments": [], "recommandations_id": []}

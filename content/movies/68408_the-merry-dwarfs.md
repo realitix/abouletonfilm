@@ -1,0 +1,1 @@
+{"tmdb_id": 68408, "title": "The Merry Dwarfs", "original_title": "The Merry Dwarfs", "slug_title": "the-merry-dwarfs", "date": "1929-12-16", "genre": "Animation", "score": "4.9/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tJJISm7tPxGsqB00d6V34kU2SDK.jpg", "actors": [], "comments": [], "recommandations_id": [56009, 39092, 57639, 51825]}

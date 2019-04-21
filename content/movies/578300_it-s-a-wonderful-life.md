@@ -1,0 +1,1 @@
+{"tmdb_id": 578300, "title": "It's a Wonderful Life", "original_title": "It's a Wonderful Life", "slug_title": "it-s-a-wonderful-life", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 150599, "title": "Buddy  Guy  at Vienne", "original_title": "Buddy  Guy  at Vienne", "slug_title": "buddy-guy-at-vienne", "date": "", "genre": "Musique", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Buddy Guy (Guitar / Vocal)"], "comments": [], "recommandations_id": []}

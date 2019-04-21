@@ -1,0 +1,1 @@
+{"tmdb_id": 151856, "title": "Busky Bakers", "original_title": "Busky Bakers", "slug_title": "busky-bakers", "date": "1940-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

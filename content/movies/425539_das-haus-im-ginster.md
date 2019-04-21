@@ -1,0 +1,1 @@
+{"tmdb_id": 425539, "title": "Das Haus im Ginster", "original_title": "Das Haus im Ginster", "slug_title": "das-haus-im-ginster", "date": "1993-07-23", "genre": "Drame", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["J\u00fcrgen Heinrich (Professor)", "Sabine Sinjen (Andrea)"], "comments": [], "recommandations_id": []}

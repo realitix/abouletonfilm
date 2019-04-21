@@ -1,0 +1,1 @@
+{"tmdb_id": 524871, "title": "Aganthukaya", "original_title": "\u0d86\u0d9c\u0db1\u0dca\u0dad\u0dd4\u0d9a\u0dba\u0dcf", "slug_title": "aganthukaya", "date": "2007-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vB3kgqrJCSyYyT8hETuqpj3j5b2.jpg", "actors": [], "comments": [], "recommandations_id": []}

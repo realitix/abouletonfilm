@@ -1,0 +1,1 @@
+{"tmdb_id": 396818, "title": "Visa to Hell", "original_title": "Visa to Hell", "slug_title": "visa-to-hell", "date": "1992-05-10", "genre": "Action / Crime", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5D35xFeHdHMboIpz5oU9FD1k9Pe.jpg", "actors": [], "comments": [], "recommandations_id": []}

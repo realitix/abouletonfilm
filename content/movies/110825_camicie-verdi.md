@@ -1,0 +1,1 @@
+{"tmdb_id": 110825, "title": "Camicie verdi", "original_title": "Camicie verdi", "slug_title": "camicie-verdi", "date": "2006-01-01", "genre": "Documentaire", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tl6pbLPIVyDdo0AJXQcFduYgcGu.jpg", "actors": [], "comments": [], "recommandations_id": []}

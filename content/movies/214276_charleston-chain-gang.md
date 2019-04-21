@@ -1,0 +1,1 @@
+{"tmdb_id": 214276, "title": "Charleston Chain-Gang", "original_title": "Charleston Chain-Gang", "slug_title": "charleston-chain-gang", "date": "1902-04-13", "genre": "", "score": "4.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 62451, "title": "Battle Royal", "original_title": "Battle Royal", "slug_title": "battle-royal", "date": "1936-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

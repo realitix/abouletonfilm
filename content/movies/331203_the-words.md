@@ -1,0 +1,1 @@
+{"tmdb_id": 331203, "title": "The Words", "original_title": "Les Mots", "slug_title": "the-words", "date": "2009-10-01", "genre": "", "score": "8.3/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

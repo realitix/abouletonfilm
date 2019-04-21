@@ -1,0 +1,1 @@
+{"tmdb_id": 584247, "title": "Jazz camping", "original_title": "Jazz camping", "slug_title": "jazz-camping", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 586569, "title": "Human Sun", "original_title": "Human Sun", "slug_title": "human-sun", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dKJJU3Ub53ctHNuVYnqnXWqoBfF.jpg", "actors": ["Carl Bird McLaughlin (Corey Forsythe)"], "comments": [], "recommandations_id": []}

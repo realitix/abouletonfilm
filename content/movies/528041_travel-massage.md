@@ -1,0 +1,1 @@
+{"tmdb_id": 528041, "title": "Travel Massage", "original_title": "Ch\u2019ulchangmasajisa kkosigi", "slug_title": "travel-massage", "date": "2017-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hideo Takeda ()", "Matsu Hiyoshi ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 375296, "title": "Did'ums Diddles The P'liceman", "original_title": "Did'ums Diddles The P'liceman", "slug_title": "did-ums-diddles-the-p-liceman", "date": "1912-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

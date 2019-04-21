@@ -1,0 +1,1 @@
+{"tmdb_id": 569013, "title": "Ghosts of San Francisco", "original_title": "Ghosts of San Francisco", "slug_title": "ghosts-of-san-francisco", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3VkSJamgbHhCSqmcZJSe7kASxhA.jpg", "actors": [], "comments": [], "recommandations_id": []}

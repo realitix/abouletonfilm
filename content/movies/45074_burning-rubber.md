@@ -1,0 +1,1 @@
+{"tmdb_id": 45074, "title": "Burning Rubber", "original_title": "Burning Rubber", "slug_title": "burning-rubber", "date": "2001-06-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8AeKoKpzPI3ppqhSFf5mCq3DYQp.jpg", "actors": ["Tiff Needell (Himself)", "Russ Swift (Himself)"], "comments": [], "recommandations_id": []}

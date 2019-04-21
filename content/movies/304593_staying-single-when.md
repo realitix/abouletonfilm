@@ -1,0 +1,1 @@
+{"tmdb_id": 304593, "title": "Staying Single When", "original_title": "Staying Single When", "slug_title": "staying-single-when", "date": "2011-07-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

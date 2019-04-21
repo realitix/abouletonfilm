@@ -1,0 +1,1 @@
+{"tmdb_id": 370309, "title": "The Deacon's Troubles", "original_title": "The Deacon's Troubles", "slug_title": "the-deacon-s-troubles", "date": "1912-11-11", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mabel Normand ()", "Ford Sterling ()", "Fred Mace ()", "Mack Sennett ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 327758, "title": "Era lei che lo voleva!", "original_title": "Era lei che lo voleva!", "slug_title": "era-lei-che-lo-voleva", "date": "1952-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Walter Chiari ()", "Lucia Bos\u00e9 ()", "Carlo Campanini ()", "Jone Morino ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 536052, "title": "Ticket Zer0", "original_title": "Ticket Zer0", "slug_title": "ticket-zer0", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

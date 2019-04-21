@@ -1,0 +1,1 @@
+{"tmdb_id": 327148, "title": "The Land Is Rich", "original_title": "The Land Is Rich", "slug_title": "the-land-is-rich", "date": "2014-06-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

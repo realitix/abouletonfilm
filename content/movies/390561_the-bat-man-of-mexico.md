@@ -1,0 +1,1 @@
+{"tmdb_id": 390561, "title": "The Bat Man of Mexico", "original_title": "The Bat Man of Mexico", "slug_title": "the-bat-man-of-mexico", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

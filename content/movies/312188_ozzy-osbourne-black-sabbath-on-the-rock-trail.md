@@ -1,0 +1,1 @@
+{"tmdb_id": 312188, "title": "Ozzy Osbourne & Black Sabbath: On the Rock Trail", "original_title": "Ozzy Osbourne & Black Sabbath: On the Rock Trail", "slug_title": "ozzy-osbourne-black-sabbath-on-the-rock-trail", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

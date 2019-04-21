@@ -1,0 +1,1 @@
+{"tmdb_id": 527600, "title": "Blerghhh!!!", "original_title": "Blerghhh!!!", "slug_title": "blerghhh", "date": "1996-07-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/43qOkG2NUtNE3gPxDMhopAfd5Kk.jpg", "actors": [], "comments": [], "recommandations_id": []}

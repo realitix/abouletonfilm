@@ -1,0 +1,1 @@
+{"tmdb_id": 455351, "title": "Panoramic View of Brooklyn Bridge", "original_title": "Panoramic View of Brooklyn Bridge", "slug_title": "panoramic-view-of-brooklyn-bridge", "date": "1899-02-20", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

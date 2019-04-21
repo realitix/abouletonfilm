@@ -1,0 +1,1 @@
+{"tmdb_id": 377294, "title": "The Mouse and the Lion", "original_title": "The Mouse and the Lion", "slug_title": "the-mouse-and-the-lion", "date": "1953-05-11", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o59DnjMtlayYGDnGI8qhrPdq9BC.jpg", "actors": [], "comments": [], "recommandations_id": []}

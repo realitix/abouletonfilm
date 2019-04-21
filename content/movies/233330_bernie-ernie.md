@@ -1,0 +1,1 @@
+{"tmdb_id": 233330, "title": "Bernie & Ernie", "original_title": "Bernie & Ernie", "slug_title": "bernie-ernie", "date": "2013-11-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yOgXRyjpIyFSZ5D3RZAvaN2kXa0.jpg", "actors": [], "comments": [], "recommandations_id": []}

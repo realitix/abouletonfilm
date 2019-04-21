@@ -1,0 +1,1 @@
+{"tmdb_id": 227084, "title": "Dewey Arch: Troops Passing Under Arch", "original_title": "Dewey Arch: Troops Passing Under Arch", "slug_title": "dewey-arch-troops-passing-under-arch", "date": "1899-10-10", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

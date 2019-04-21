@@ -1,0 +1,1 @@
+{"tmdb_id": 355818, "title": "Dark Funeral: Attera Orbis Terrarum - Part II", "original_title": "Dark Funeral: Attera Orbis Terrarum - Part II", "slug_title": "dark-funeral-attera-orbis-terrarum-part-ii", "date": "2008-10-20", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

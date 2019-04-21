@@ -1,0 +1,1 @@
+{"tmdb_id": 549584, "title": "\u6e2f\u7247\u5e74\u534e", "original_title": "\u6e2f\u7247\u5e74\u534e", "slug_title": "gang-pian-nian-hua", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

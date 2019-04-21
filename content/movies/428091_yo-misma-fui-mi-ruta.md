@@ -1,0 +1,1 @@
+{"tmdb_id": 428091, "title": "Yo misma fui mi ruta", "original_title": "Yo misma fui mi ruta", "slug_title": "yo-misma-fui-mi-ruta", "date": "2002-04-21", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

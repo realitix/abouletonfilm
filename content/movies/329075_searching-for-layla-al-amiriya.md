@@ -1,0 +1,1 @@
+{"tmdb_id": 329075, "title": "Searching for Layla al-'Amiriya", "original_title": "al-Bahth 'An Layla al-'Amiriya", "slug_title": "searching-for-layla-al-amiriya", "date": "1990-01-02", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

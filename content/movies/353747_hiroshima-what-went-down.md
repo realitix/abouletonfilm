@@ -1,0 +1,1 @@
+{"tmdb_id": 353747, "title": "Hiroshima: What Went Down", "original_title": "Hiroshima 70 Anos Depois", "slug_title": "hiroshima-what-went-down", "date": "2009-11-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w73zmmqdr7nWMYV1rj5ituRWgB3.jpg", "actors": [], "comments": [], "recommandations_id": []}

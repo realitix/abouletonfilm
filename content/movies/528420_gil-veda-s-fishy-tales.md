@@ -1,0 +1,1 @@
+{"tmdb_id": 528420, "title": "Gil Veda's Fishy Tales", "original_title": "Gil Veda's Fishy Tales", "slug_title": "gil-veda-s-fishy-tales", "date": "2018-05-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gil Veda (Himself)"], "comments": [], "recommandations_id": []}

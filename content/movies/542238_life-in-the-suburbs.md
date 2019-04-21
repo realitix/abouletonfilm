@@ -1,0 +1,1 @@
+{"tmdb_id": 542238, "title": "Life In The Suburbs", "original_title": "Life In The Suburbs", "slug_title": "life-in-the-suburbs", "date": "1957-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

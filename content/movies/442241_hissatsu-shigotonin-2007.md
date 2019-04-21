@@ -1,0 +1,1 @@
+{"tmdb_id": 442241, "title": "Hissatsu Shigotonin 2007", "original_title": "\u5fc5\u6bba\u4ed5\u4e8b\u4eba 2007", "slug_title": "hissatsu-shigotonin-2007", "date": "2007-07-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z6igsfsEC9CRjjt30sLSwtk9Pf6.jpg", "actors": [], "comments": [], "recommandations_id": []}

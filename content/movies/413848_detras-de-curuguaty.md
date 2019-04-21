@@ -1,0 +1,1 @@
+{"tmdb_id": 413848, "title": "Detr\u00e1s de Curuguaty", "original_title": "Detr\u00e1s de Curuguaty", "slug_title": "detras-de-curuguaty", "date": "2013-01-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tr23N2oDklv5YqR2hnOU8za6jua.jpg", "actors": [], "comments": [], "recommandations_id": []}

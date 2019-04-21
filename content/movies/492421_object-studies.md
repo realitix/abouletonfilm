@@ -1,0 +1,1 @@
+{"tmdb_id": 492421, "title": "Object Studies", "original_title": "Object Studies", "slug_title": "object-studies", "date": "2005-12-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hi7kwGlXEcA3Lw45XMRGRw3zcEe.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 503702, "title": "The Clip", "original_title": "The Clip", "slug_title": "the-clip", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

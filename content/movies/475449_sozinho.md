@@ -1,0 +1,1 @@
+{"tmdb_id": 475449, "title": "Sozinho", "original_title": "Sozinho", "slug_title": "sozinho", "date": "2003-01-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mara Vanessa Prieto ()", "Jos\u00e9 Salles ()"], "comments": [], "recommandations_id": []}

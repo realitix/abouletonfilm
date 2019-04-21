@@ -1,0 +1,1 @@
+{"tmdb_id": 469499, "title": "Lesson in History", "original_title": "Lesson in History", "slug_title": "lesson-in-history", "date": "1990-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

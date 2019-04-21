@@ -1,0 +1,1 @@
+{"tmdb_id": 337951, "title": "Rire sur la ville 3", "original_title": "Rire sur la ville 3", "slug_title": "rire-sur-la-ville-3", "date": "2014-12-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "Festival Rire sur la ville 3 en 2014...", "image": "/img/default-cover.png", "actors": ["Fran\u00e7ois Pirette ()"], "comments": [], "recommandations_id": []}

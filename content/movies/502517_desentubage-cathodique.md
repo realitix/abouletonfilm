@@ -1,0 +1,1 @@
+{"tmdb_id": 502517, "title": "D\u00e9sentubage cathodique", "original_title": "D\u00e9sentubage cathodique", "slug_title": "desentubage-cathodique", "date": "2005-09-21", "genre": "Documentaire", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sFzVQ1POC53bN7ERev3XuRD4Dvu.jpg", "actors": [], "comments": [], "recommandations_id": []}

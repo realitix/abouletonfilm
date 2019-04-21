@@ -1,0 +1,1 @@
+{"tmdb_id": 371292, "title": "North and South", "original_title": "Namgwa buk", "slug_title": "north-and-south", "date": "1965-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3l1zOaIT87vGWlxeHPKqA5Os6hD.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 139056, "title": "Swiss Ball Basics", "original_title": "Swiss Ball Basics", "slug_title": "swiss-ball-basics", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

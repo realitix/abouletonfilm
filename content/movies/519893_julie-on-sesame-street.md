@@ -1,0 +1,1 @@
+{"tmdb_id": 519893, "title": "Julie on Sesame Street", "original_title": "Julie on Sesame Street", "slug_title": "julie-on-sesame-street", "date": "1973-11-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vQcvRwv1oQuBN77jyjGKFHNDIiW.jpg", "actors": [], "comments": [], "recommandations_id": []}

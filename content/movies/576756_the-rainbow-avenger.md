@@ -1,0 +1,1 @@
+{"tmdb_id": 576756, "title": "The Rainbow Avenger", "original_title": "The Rainbow Avenger", "slug_title": "the-rainbow-avenger", "date": "1998-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pJ0C6Hi0cgPFyZYqn3eeIbrJGTW.jpg", "actors": [], "comments": [], "recommandations_id": []}

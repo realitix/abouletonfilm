@@ -1,0 +1,1 @@
+{"tmdb_id": 457335, "title": "Guns Akimbo", "original_title": "Guns Akimbo", "slug_title": "guns-akimbo", "date": "", "genre": "Com\u00e9die / Action", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Daniel Radcliffe (Miles)", "Samara Weaving (Nix)", "Natasha Liu Bordizzo (Nova)"], "comments": [], "recommandations_id": []}

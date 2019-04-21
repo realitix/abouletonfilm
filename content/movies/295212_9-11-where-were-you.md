@@ -1,0 +1,1 @@
+{"tmdb_id": 295212, "title": "9/11: Where Were You?", "original_title": "9/11: Where Were You?", "slug_title": "9-11-where-were-you", "date": "2001-08-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

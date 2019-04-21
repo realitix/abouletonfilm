@@ -1,0 +1,1 @@
+{"tmdb_id": 462535, "title": "Detroit Devival", "original_title": "Detroit Devival", "slug_title": "detroit-devival", "date": "2005-03-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/R8Rfj3msgrZZvviuDyvk4zoxNO.jpg", "actors": [], "comments": [], "recommandations_id": []}

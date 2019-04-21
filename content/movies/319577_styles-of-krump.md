@@ -1,0 +1,1 @@
+{"tmdb_id": 319577, "title": "Styles of Krump", "original_title": "Styles of Krump", "slug_title": "styles-of-krump", "date": "2005-09-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

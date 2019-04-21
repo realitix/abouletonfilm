@@ -1,0 +1,1 @@
+{"tmdb_id": 112740, "title": "Judge Judy: Justice Served", "original_title": "Judge Judy: Justice Served", "slug_title": "judge-judy-justice-served", "date": "2007-09-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vgYscT4uwROv6fdtgBGL7xgpxk4.jpg", "actors": [], "comments": [], "recommandations_id": []}

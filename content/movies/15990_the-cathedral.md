@@ -1,0 +1,1 @@
+{"tmdb_id": 15990, "title": "The Cathedral", "original_title": "Katedra", "slug_title": "the-cathedral", "date": "2002-10-18", "genre": "Science-Fiction / Animation", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ticcTG4vVpuTWJ8A2fR7aGAOlam.jpg", "actors": [], "comments": [], "recommandations_id": [27357, 416763, 430652, 48329]}

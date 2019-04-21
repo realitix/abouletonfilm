@@ -1,0 +1,1 @@
+{"tmdb_id": 90278, "title": "Het beste van Bart", "original_title": "Het beste van Bart", "slug_title": "het-beste-van-bart", "date": "2003-01-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dSg43WSywtHmPlFTB2hvnFdEaiA.jpg", "actors": [], "comments": [], "recommandations_id": []}

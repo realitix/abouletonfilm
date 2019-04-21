@@ -1,0 +1,1 @@
+{"tmdb_id": 399987, "title": "Hero Ships: USS New York", "original_title": "Hero Ships: USS New York", "slug_title": "hero-ships-uss-new-york", "date": "2008-12-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

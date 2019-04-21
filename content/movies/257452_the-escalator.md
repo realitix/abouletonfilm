@@ -1,0 +1,1 @@
+{"tmdb_id": 257452, "title": "The Escalator", "original_title": "La escalera", "slug_title": "the-escalator", "date": "2004-10-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qXSz20toeQclqvanet3PIEctTzf.jpg", "actors": ["Camila Peroni (Diana)"], "comments": [], "recommandations_id": []}

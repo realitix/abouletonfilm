@@ -1,0 +1,1 @@
+{"tmdb_id": 511589, "title": "Shop Class", "original_title": "Shop Class", "slug_title": "shop-class", "date": "2018-02-07", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gs1wKKzQcg7N8ew1vbP2zlygBtZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

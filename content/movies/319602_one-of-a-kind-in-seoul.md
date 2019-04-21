@@ -1,0 +1,1 @@
+{"tmdb_id": 319602, "title": "One of a Kind in Seoul", "original_title": "One of a Kind in Seoul", "slug_title": "one-of-a-kind-in-seoul", "date": "2013-09-13", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tbaBrlNKciade1rxkWObyrBMrvz.jpg", "actors": ["G-Dragon ()"], "comments": [], "recommandations_id": []}

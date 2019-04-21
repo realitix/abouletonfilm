@@ -1,0 +1,1 @@
+{"tmdb_id": 290846, "title": "Willing Collaborators", "original_title": "Uz Sp\u0113les Latvija", "slug_title": "willing-collaborators", "date": "2014-08-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ehwjoI1ym5XXjO6zVpm8pRVuKHA.jpg", "actors": [], "comments": [], "recommandations_id": []}

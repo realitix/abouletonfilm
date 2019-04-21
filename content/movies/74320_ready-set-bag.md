@@ -1,0 +1,1 @@
+{"tmdb_id": 74320, "title": "Ready, Set, Bag!", "original_title": "Ready, Set, Bag!", "slug_title": "ready-set-bag", "date": "2008-06-20", "genre": "Documentaire", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zrdvT5lp0yzt95VzLXP3AcFgeWJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 310703, "title": "Skellington's Revenge", "original_title": "Skellington's Revenge", "slug_title": "skellington-s-revenge", "date": "2013-12-25", "genre": "Animation / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ArvJ5pUA3ztkO7vHHjiT5auBbBL.jpg", "actors": [], "comments": [], "recommandations_id": []}

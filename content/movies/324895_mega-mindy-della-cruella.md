@@ -1,0 +1,1 @@
+{"tmdb_id": 324895, "title": "Mega Mindy - Della Cruella", "original_title": "Mega Mindy - Della Cruella", "slug_title": "mega-mindy-della-cruella", "date": "2014-05-15", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6MJIYxFPa9mBuXx4JEMp5Rt8WNE.jpg", "actors": [], "comments": [], "recommandations_id": []}

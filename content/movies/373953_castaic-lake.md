@@ -1,0 +1,1 @@
+{"tmdb_id": 373953, "title": "Castaic Lake", "original_title": "Castaic Lake", "slug_title": "castaic-lake", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tYUshyYaEmtNg8RSXTJHhrwoSpH.jpg", "actors": [], "comments": [], "recommandations_id": []}

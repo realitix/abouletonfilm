@@ -1,0 +1,1 @@
+{"tmdb_id": 562341, "title": "Three Etc.'s and the Colonel", "original_title": "Le tre eccetera del colonnello", "slug_title": "three-etc-s-and-the-colonel", "date": "1960-10-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dHPEs0f5tyYOVdWKj61eqEyFb9n.jpg", "actors": [], "comments": [], "recommandations_id": []}

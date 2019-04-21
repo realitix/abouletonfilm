@@ -1,0 +1,1 @@
+{"tmdb_id": 289000, "title": "Lumaajuuq", "original_title": "Lumaajuuq", "slug_title": "lumaajuuq", "date": "2010-01-01", "genre": "Animation / Fantastique", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g79NnDiXFxsv5tyEt8VHBEM0jwy.jpg", "actors": ["Rachelle White Wind (Narrator)"], "comments": [], "recommandations_id": []}

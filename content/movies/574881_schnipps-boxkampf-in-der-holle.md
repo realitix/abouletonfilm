@@ -1,0 +1,1 @@
+{"tmdb_id": 574881, "title": "Schnipps Boxkampf in der H\u00f6lle", "original_title": "Schnipps Boxkampf in der H\u00f6lle", "slug_title": "schnipps-boxkampf-in-der-holle", "date": "1920-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

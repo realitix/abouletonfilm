@@ -1,0 +1,1 @@
+{"tmdb_id": 275455, "title": "The Lost Spirits", "original_title": "The Lost Spirits", "slug_title": "the-lost-spirits", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

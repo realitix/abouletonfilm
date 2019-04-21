@@ -1,0 +1,1 @@
+{"tmdb_id": 246194, "title": "Algunas lecciones de amor", "original_title": "Algunas lecciones de amor", "slug_title": "algunas-lecciones-de-amor", "date": "1960-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n5FGVUFY2lUonOqxx0WaiQIbs53.jpg", "actors": [], "comments": [], "recommandations_id": []}

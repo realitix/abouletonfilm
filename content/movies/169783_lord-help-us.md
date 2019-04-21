@@ -1,0 +1,1 @@
+{"tmdb_id": 169783, "title": "Lord Help Us", "original_title": "Lord Help Us", "slug_title": "lord-help-us", "date": "", "genre": "", "score": "2.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

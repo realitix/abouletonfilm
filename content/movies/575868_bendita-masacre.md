@@ -1,0 +1,1 @@
+{"tmdb_id": 575868, "title": "BENDITA MASACRE", "original_title": "BENDITA MASACRE", "slug_title": "bendita-masacre", "date": "2011-01-17", "genre": "Action / Crime", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hzWYX1FoJ8bvvxShEaWRGQkA8fF.jpg", "actors": [], "comments": [], "recommandations_id": []}

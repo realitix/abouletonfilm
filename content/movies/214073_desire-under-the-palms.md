@@ -1,0 +1,1 @@
+{"tmdb_id": 214073, "title": "Desire Under The Palms", "original_title": "Desire Under The Palms", "slug_title": "desire-under-the-palms", "date": "1968-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/67UJOod5aOezlbRbrYsmXzCBdXv.jpg", "actors": [], "comments": [], "recommandations_id": []}

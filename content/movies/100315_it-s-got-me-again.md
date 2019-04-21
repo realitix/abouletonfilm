@@ -1,0 +1,1 @@
+{"tmdb_id": 100315, "title": "It's Got Me Again!", "original_title": "It's Got Me Again!", "slug_title": "it-s-got-me-again", "date": "1932-05-14", "genre": "Musique / Animation / Com\u00e9die", "score": "6.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9IzxhxQmAhyv8vu7vEoTVMn6NQI.jpg", "actors": [], "comments": [], "recommandations_id": []}

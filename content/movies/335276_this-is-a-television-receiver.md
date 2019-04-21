@@ -1,0 +1,1 @@
+{"tmdb_id": 335276, "title": "This Is a Television Receiver", "original_title": "This Is a Television Receiver", "slug_title": "this-is-a-television-receiver", "date": "1976-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vNkAooSEvQmc8ts7rd1MeifXadg.jpg", "actors": [], "comments": [], "recommandations_id": []}

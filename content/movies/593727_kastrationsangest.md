@@ -1,0 +1,1 @@
+{"tmdb_id": 593727, "title": "Kastrations\u00e5ngest", "original_title": "Kastrations\u00e5ngest", "slug_title": "kastrationsangest", "date": "2003-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jonas T\u00f6rnros ((voice))"], "comments": [], "recommandations_id": []}

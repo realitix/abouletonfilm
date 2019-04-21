@@ -1,0 +1,1 @@
+{"tmdb_id": 471576, "title": "Cores de Bissau", "original_title": "Cores de Bissau", "slug_title": "cores-de-bissau", "date": "2017-08-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gU4UGNq62bWHZt65WyDb306Tjwu.jpg", "actors": [], "comments": [], "recommandations_id": []}

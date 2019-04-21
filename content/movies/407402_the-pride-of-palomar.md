@@ -1,0 +1,1 @@
+{"tmdb_id": 407402, "title": "The Pride of Palomar", "original_title": "The Pride of Palomar", "slug_title": "the-pride-of-palomar", "date": "1922-11-26", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wzKI49mwcNCERQID6XC6BbNWjdM.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 590497, "title": "2 Gisht Mjalt\u00eb", "original_title": "2 Gisht Mjalt\u00eb", "slug_title": "2-gisht-mjalte", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

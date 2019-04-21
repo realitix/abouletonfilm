@@ -1,0 +1,1 @@
+{"tmdb_id": 529413, "title": "Local Kung Fu", "original_title": "Local Kung Fu", "slug_title": "local-kung-fu", "date": "", "genre": "Action / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sEftbLfWVf7cKMCIhMgu2eu6f3u.jpg", "actors": ["Kenny Basumatary ()"], "comments": [], "recommandations_id": []}

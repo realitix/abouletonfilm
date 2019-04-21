@@ -1,0 +1,1 @@
+{"tmdb_id": 460737, "title": "Zone Bleue", "original_title": "Zone Bleue", "slug_title": "zone-bleue", "date": "1993-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Karin Viard (Karin)", "Edouard Montoute (Edouard)", "Pascal Demolon (Pascal)"], "comments": [], "recommandations_id": []}

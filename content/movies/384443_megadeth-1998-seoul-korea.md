@@ -1,0 +1,1 @@
+{"tmdb_id": 384443, "title": "Megadeth: [1998] Seoul, Korea", "original_title": "Megadeth: [1998] Seoul, Korea", "slug_title": "megadeth-1998-seoul-korea", "date": "1998-11-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r4LUOV0nYepffKRORW1cxFA7ra4.jpg", "actors": [], "comments": [], "recommandations_id": []}

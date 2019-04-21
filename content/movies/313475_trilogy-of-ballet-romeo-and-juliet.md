@@ -1,0 +1,1 @@
+{"tmdb_id": 313475, "title": "Trilogy of Ballet: Romeo and Juliet", "original_title": "Trilogy of Ballet: Romeo and Juliet", "slug_title": "trilogy-of-ballet-romeo-and-juliet", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

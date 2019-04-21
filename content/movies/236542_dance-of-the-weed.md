@@ -1,0 +1,1 @@
+{"tmdb_id": 236542, "title": "Dance of the Weed", "original_title": "Dance of the Weed", "slug_title": "dance-of-the-weed", "date": "1941-06-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vTvczb5B982JZSt2IOEJn6XR1s2.jpg", "actors": [], "comments": [], "recommandations_id": []}

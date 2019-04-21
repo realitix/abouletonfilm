@@ -1,0 +1,1 @@
+{"tmdb_id": 286934, "title": "American Experience: Sister Aimee", "original_title": "American Experience: Sister Aimee", "slug_title": "american-experience-sister-aimee", "date": "2007-04-02", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 387158, "title": "Wasteland", "original_title": "Wasteland", "slug_title": "wasteland", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

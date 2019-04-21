@@ -1,0 +1,1 @@
+{"tmdb_id": 490794, "title": "Kusama: Infinity", "original_title": "Kusama: Infinity", "slug_title": "kusama-infinity", "date": "2018-09-07", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x4eiKzoPOonx8hmyRaoFp21H9JF.jpg", "actors": ["Yayoi Kusama (Herself)"], "comments": [], "recommandations_id": []}

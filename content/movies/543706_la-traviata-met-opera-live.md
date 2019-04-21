@@ -1,0 +1,1 @@
+{"tmdb_id": 543706, "title": "La Traviata - Met Opera Live", "original_title": "La Traviata - Met Opera Live", "slug_title": "la-traviata-met-opera-live", "date": "2018-12-15", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cXGFmnVaPyVptDP9b8dOGOdGdN4.jpg", "actors": [], "comments": [], "recommandations_id": []}

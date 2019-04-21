@@ -1,0 +1,1 @@
+{"tmdb_id": 405938, "title": "ITC: Paranormal or Pareidolia", "original_title": "ITC: Paranormal or Pareidolia", "slug_title": "itc-paranormal-or-pareidolia", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Peter Greci (Host)"], "comments": [], "recommandations_id": []}

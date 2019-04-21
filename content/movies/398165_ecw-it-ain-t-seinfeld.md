@@ -1,0 +1,1 @@
+{"tmdb_id": 398165, "title": "ECW It Ain't Seinfeld", "original_title": "ECW It Ain't Seinfeld", "slug_title": "ecw-it-ain-t-seinfeld", "date": "1998-05-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pi5u1I1aONW7m8yhFCSrZVAeITy.jpg", "actors": [], "comments": [], "recommandations_id": []}

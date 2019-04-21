@@ -1,0 +1,1 @@
+{"tmdb_id": 477360, "title": "Speaking Freely Volume 2: Susan George", "original_title": "Speaking Freely Volume 2: Susan George", "slug_title": "speaking-freely-volume-2-susan-george", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

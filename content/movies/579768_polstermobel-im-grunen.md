@@ -1,0 +1,1 @@
+{"tmdb_id": 579768, "title": "Polsterm\u00f6bel im Gr\u00fcnen", "original_title": "Polsterm\u00f6bel im Gr\u00fcnen", "slug_title": "polstermobel-im-grunen", "date": "1984-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/izBtgXhNBhJsw9D7ixN3xcYRlW2.jpg", "actors": [], "comments": [], "recommandations_id": []}

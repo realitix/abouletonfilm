@@ -1,0 +1,1 @@
+{"tmdb_id": 422856, "title": "Aus dem Leben der Kate auf Deutsch-Neuguinea", "original_title": "Aus dem Leben der Kate auf Deutsch-Neuguinea", "slug_title": "aus-dem-leben-der-kate-auf-deutsch-neuguinea", "date": "1909-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

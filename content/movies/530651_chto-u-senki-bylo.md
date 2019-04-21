@@ -1,0 +1,1 @@
+{"tmdb_id": 530651, "title": "Chto u Senki bylo", "original_title": "Chto u Senki bylo", "slug_title": "chto-u-senki-bylo", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

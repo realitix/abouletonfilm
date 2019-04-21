@@ -1,0 +1,1 @@
+{"tmdb_id": 579569, "title": "The Emotional Music Script", "original_title": "The Emotional Music Script", "slug_title": "the-emotional-music-script", "date": "2005-06-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Joachim Holbek (Interviewee)"], "comments": [], "recommandations_id": []}

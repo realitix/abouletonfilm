@@ -1,0 +1,1 @@
+{"tmdb_id": 546480, "title": "Credible", "original_title": "Credible", "slug_title": "credible", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Justin Credible (Himself)", "Dallas Page (Himself)", "Jake Roberts (Himself)", "Scott Hall (Himself)"], "comments": [], "recommandations_id": []}

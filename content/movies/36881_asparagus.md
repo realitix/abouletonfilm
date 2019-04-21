@@ -1,0 +1,1 @@
+{"tmdb_id": 36881, "title": "Asparagus", "original_title": "Asparagus", "slug_title": "asparagus", "date": "1979-02-02", "genre": "Animation", "score": "6.4/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fB5gdLzx2VVWF6zU76gogJHY7aI.jpg", "actors": [], "comments": [], "recommandations_id": [246663, 203089, 128700, 18953]}

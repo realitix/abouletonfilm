@@ -1,0 +1,1 @@
+{"tmdb_id": 468496, "title": "The Sabbat of the Black Cat", "original_title": "The Sabbat of the Black Cat", "slug_title": "the-sabbat-of-the-black-cat", "date": "1973-05-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

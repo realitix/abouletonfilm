@@ -1,0 +1,1 @@
+{"tmdb_id": 398522, "title": "CHIKARA The New Batch", "original_title": "CHIKARA The New Batch", "slug_title": "chikara-the-new-batch", "date": "2016-03-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cwci5ep8NJwLjRdssoiLtXBrrvQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

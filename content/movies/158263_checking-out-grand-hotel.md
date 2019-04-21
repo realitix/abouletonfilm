@@ -1,0 +1,1 @@
+{"tmdb_id": 158263, "title": "Checking Out: Grand Hotel", "original_title": "Checking Out: Grand Hotel", "slug_title": "checking-out-grand-hotel", "date": "2004-02-03", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tom Kane (Narrator (voice))"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 108831, "title": "Hotel Monterey", "original_title": "H\u00f4tel Monterey", "slug_title": "hotel-monterey", "date": "1972-01-01", "genre": "Documentaire", "score": "7.6/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3y5S6sIEWAFAARohhdSsR39YglL.jpg", "actors": [], "comments": [], "recommandations_id": [65720, 310799, 251037, 200021]}

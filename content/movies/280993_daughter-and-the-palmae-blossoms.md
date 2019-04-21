@@ -1,0 +1,1 @@
+{"tmdb_id": 280993, "title": "Daughter and the Palmae Blossoms", "original_title": "Konsrey ning Phka Sla", "slug_title": "daughter-and-the-palmae-blossoms", "date": "", "genre": "Documentaire", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2v9s3nXBLqPCpaXsWEp0goMgp3z.jpg", "actors": [], "comments": [], "recommandations_id": []}

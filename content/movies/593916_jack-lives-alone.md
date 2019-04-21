@@ -1,0 +1,1 @@
+{"tmdb_id": 593916, "title": "Jack Lives Alone", "original_title": "Jack Lives Alone", "slug_title": "jack-lives-alone", "date": "", "genre": "Drame / Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Francisco Raposo (Jack)", "Louren\u00e7o Mimoso (Adam)", "Guilherme F\u00e9lix (Pedestrian)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 538957, "title": "Tita, tejedora de ra\u00edces", "original_title": "Tita, tejedora de ra\u00edces", "slug_title": "tita-tejedora-de-raices", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2H3ezQw5hNfHrXSTCAE1wzYAQHZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 347925, "title": "The Wall Street Bull", "original_title": "Il Toro Di Wall Street", "slug_title": "the-wall-street-bull", "date": "2014-07-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

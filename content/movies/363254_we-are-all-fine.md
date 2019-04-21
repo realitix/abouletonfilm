@@ -1,0 +1,1 @@
+{"tmdb_id": 363254, "title": "We Are All Fine", "original_title": "We Are All Fine", "slug_title": "we-are-all-fine", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 438384, "title": "Floating Vessel", "original_title": "Floating Vessel", "slug_title": "floating-vessel", "date": "1957-04-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Michiko Ai ()", "Teruyo Asagumo ()", "Mirasaki Fujima ()"], "comments": [], "recommandations_id": []}
