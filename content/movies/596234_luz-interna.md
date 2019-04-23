@@ -1,0 +1,1 @@
+{"tmdb_id": 596234, "title": "Luz Interna", "original_title": "Luz Interna", "slug_title": "luz-interna", "date": "2018-06-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8qP3O6aPJl4W3ylPy2KYN7fA8mp.jpg", "actors": ["Isis Mendes T\u00e1vora ()"], "comments": [], "recommandations_id": []}

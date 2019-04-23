@@ -1,0 +1,1 @@
+{"tmdb_id": 594500, "title": "The Pollinators", "original_title": "The Pollinators", "slug_title": "the-pollinators", "date": "2019-02-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

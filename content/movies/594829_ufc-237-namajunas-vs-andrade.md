@@ -1,0 +1,1 @@
+{"tmdb_id": 594829, "title": "UFC 237: Namajunas vs. Andrade", "original_title": "UFC 237: Namajunas vs. Andrade", "slug_title": "ufc-237-namajunas-vs-andrade", "date": "2019-05-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rose Namajunas ()", "J\u00e9ssica Andrade ()"], "comments": [], "recommandations_id": []}

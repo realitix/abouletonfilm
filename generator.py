@@ -3,6 +3,7 @@ import os.path
 import json
 import tmdbsimple as tmdb
 from slugify import slugify
+from requests import exceptions as rex
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 
@@ -22,6 +23,8 @@ def main():
             id_filename = filename.split('_')[0]
             existing_ids.add(int(id_filename))
 
+    data_notfound = {"draft": "true", "title": "not_found"}
+
     # Loop througt all movies
     for i in range(latest_id):
         # Check if id exists (don't request in that case)
@@ -40,8 +43,13 @@ def main():
             reviews = movie.reviews() # need another request because of the language
             recommandations_id = [x['id'] for x in info['recommendations']['results'][:4]]
             videos = info['videos']
-        except Exception:
+        except rex.HTTPError:
+            movie_filename = '{}_{}.md'.format(i, "notfound")
+            with open(os.path.join(HERE, 'content/movies', movie_filename), 'w') as outfile:
+                json.dump(data_notfound, outfile)
             continue
+        except Exception:
+            raise
 
         image_url = "/img/default-cover.png"
         if info['poster_path']:

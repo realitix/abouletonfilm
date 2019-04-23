@@ -1,0 +1,1 @@
+{"tmdb_id": 595329, "title": "Finding Giannis", "original_title": "Finding Giannis", "slug_title": "finding-giannis", "date": "2019-02-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 594938, "title": "Heart Singers", "original_title": "Spivaye Ivano-Frankivskteplokomunenergo", "slug_title": "heart-singers", "date": "2019-04-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

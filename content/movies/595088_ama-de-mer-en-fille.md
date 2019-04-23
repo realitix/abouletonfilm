@@ -1,0 +1,1 @@
+{"tmdb_id": 595088, "title": "Ama, de mer en fille", "original_title": "Ama, de mer en fille", "slug_title": "ama-de-mer-en-fille", "date": "2015-12-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1WirRm0Z3UqyLQqDlfTVvd044A7.jpg", "actors": [], "comments": [], "recommandations_id": []}

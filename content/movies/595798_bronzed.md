@@ -1,0 +1,1 @@
+{"tmdb_id": 595798, "title": "Bronzed", "original_title": "Bronzed", "slug_title": "bronzed", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t4NAlXH6jA7E9BHiRAMg8pXkIYf.jpg", "actors": ["Linas Phillips (Martin)", "Johnny Pemberton (Corey)", "Colleen Socha (Jennifer)"], "comments": [], "recommandations_id": []}

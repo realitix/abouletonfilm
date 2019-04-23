@@ -1,0 +1,1 @@
+{"tmdb_id": 594603, "title": "The Price For Silence", "original_title": "The Price For Silence", "slug_title": "the-price-for-silence", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

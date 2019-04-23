@@ -1,0 +1,1 @@
+{"tmdb_id": 595090, "title": "Collisions", "original_title": "Collisions", "slug_title": "collisions", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

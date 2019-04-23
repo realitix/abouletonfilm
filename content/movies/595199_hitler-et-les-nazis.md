@@ -1,0 +1,1 @@
+{"tmdb_id": 595199, "title": "HITLER ET LES NAZIS", "original_title": "HITLER ET LES NAZIS", "slug_title": "hitler-et-les-nazis", "date": "", "genre": "", "score": "0.0/10", "synopsis": "Documentaires sur Adolf Hitler et les Nazis.", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zu6IM1tYF2fkFelQi6FisSyyMSJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

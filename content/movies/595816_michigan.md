@@ -1,0 +1,1 @@
+{"tmdb_id": 595816, "title": "Michigan", "original_title": "Michigan", "slug_title": "michigan", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kOGTcW5irvoJYyyHVxNs6qljZf9.jpg", "actors": [], "comments": [], "recommandations_id": []}

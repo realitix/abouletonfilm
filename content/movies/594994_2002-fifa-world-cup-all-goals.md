@@ -1,0 +1,1 @@
+{"tmdb_id": 594994, "title": "2002 FIFA World Cup All Goals", "original_title": "2002 FIFA World Cup All Goals", "slug_title": "2002-fifa-world-cup-all-goals", "date": "2002-05-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8swxrc9rYiRQIer3OuLuOfrrDxO.jpg", "actors": [], "comments": [], "recommandations_id": []}

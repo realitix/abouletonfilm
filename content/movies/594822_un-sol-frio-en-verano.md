@@ -1,0 +1,1 @@
+{"tmdb_id": 594822, "title": "Un sol fr\u00edo en verano", "original_title": "Un sol fr\u00edo en verano", "slug_title": "un-sol-frio-en-verano", "date": "2016-01-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ogfXId4AhAxx4eWwtYvLNUj7gvW.jpg", "actors": [], "comments": [], "recommandations_id": []}

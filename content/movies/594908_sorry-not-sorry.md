@@ -1,0 +1,1 @@
+{"tmdb_id": 594908, "title": "Sorry, Not Sorry", "original_title": "Sorry, Not Sorry", "slug_title": "sorry-not-sorry", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

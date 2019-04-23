@@ -1,0 +1,1 @@
+{"tmdb_id": 595639, "title": "Companionate Marriage", "original_title": "Companionate Marriage", "slug_title": "companionate-marriage", "date": "1928-10-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7JqvMrAFhoGYA14Sj93pIau1bSF.jpg", "actors": [], "comments": [], "recommandations_id": []}

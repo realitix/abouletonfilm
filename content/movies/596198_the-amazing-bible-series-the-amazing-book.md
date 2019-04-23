@@ -1,0 +1,1 @@
+{"tmdb_id": 596198, "title": "The Amazing Bible Series: The Amazing Book", "original_title": "The Amazing Bible Series: The Amazing Book", "slug_title": "the-amazing-bible-series-the-amazing-book", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 595732, "title": "Azealia Banks: Live at Coachella", "original_title": "Azealia Banks: Live at Coachella", "slug_title": "azealia-banks-live-at-coachella", "date": "2015-04-10", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Azealia Banks (Herself)"], "comments": [], "recommandations_id": []}

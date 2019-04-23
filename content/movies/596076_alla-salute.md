@@ -1,0 +1,1 @@
+{"tmdb_id": 596076, "title": "Alla Salute", "original_title": "Alla Salute", "slug_title": "alla-salute", "date": "2018-06-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eZxKqVfeqZuEjmnv5WgDYDHCEPE.jpg", "actors": ["Nicola Difino ()", "Paola Maugeri ()"], "comments": [], "recommandations_id": []}

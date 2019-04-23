@@ -1,0 +1,1 @@
+{"tmdb_id": 596424, "title": "Pura Vida", "original_title": "Pura Vida", "slug_title": "pura-vida", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

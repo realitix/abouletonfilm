@@ -1,0 +1,1 @@
+{"tmdb_id": 594534, "title": "Murder Machine", "original_title": "Murder Machine", "slug_title": "murder-machine", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["E. Ray Goodwin (Murder Machine)", "Don Kilrain (Steve Briscoe)"], "comments": [], "recommandations_id": []}

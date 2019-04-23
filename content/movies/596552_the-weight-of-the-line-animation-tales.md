@@ -1,0 +1,1 @@
+{"tmdb_id": 596552, "title": "The Weight of the Line: Animation Tales", "original_title": "The Weight of the Line: Animation Tales", "slug_title": "the-weight-of-the-line-animation-tales", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Richard Linklater (Self)"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 596193, "title": "Bachehaye bad", "original_title": "Bachehaye bad", "slug_title": "bachehaye-bad", "date": "2000-02-03", "genre": "Crime / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Reza Davoudnejad (Reza)", "Zahra Davoudnejad (Roya)", "Ehteram-Sadat Habibian ()"], "comments": [], "recommandations_id": []}

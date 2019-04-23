@@ -1,0 +1,1 @@
+{"tmdb_id": 596429, "title": "Solar Plexus", "original_title": "Solar Plexus", "slug_title": "solar-plexus", "date": "2019-05-11", "genre": "Animation / Horreur / Fantastique / Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zOa70PCZj1xVukKsqaMGiIJBfG7.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 594766, "title": "The Bookstore", "original_title": "The Bookstore", "slug_title": "the-bookstore", "date": "", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

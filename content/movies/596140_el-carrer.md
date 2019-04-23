@@ -1,0 +1,1 @@
+{"tmdb_id": 596140, "title": "El carrer", "original_title": "El carrer", "slug_title": "el-carrer", "date": "1960-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cG8zZmWNcC4miDkSnqGsMLgNwiJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

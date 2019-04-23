@@ -1,0 +1,1 @@
+{"tmdb_id": 595349, "title": "Cinderella and Friends", "original_title": "Cinderella and Friends", "slug_title": "cinderella-and-friends", "date": "1993-06-01", "genre": "Animation / Familial", "score": "0.0/10", "synopsis": "Cendrillon + Extra Bonus Courts M\u00e9trages Anim\u00e9s", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

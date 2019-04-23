@@ -1,0 +1,1 @@
+{"tmdb_id": 596108, "title": "Vem que tem", "original_title": "Vem que tem", "slug_title": "vem-que-tem", "date": "1985-07-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kz5YAaJeN6FfNQXNz9alVkSSj3m.jpg", "actors": ["Chumbinho ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 595351, "title": "What Every Girl Should Know", "original_title": "What Every Girl Should Know", "slug_title": "what-every-girl-should-know", "date": "1927-03-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/re5zzkZQVsb2W604lqNJzDY727W.jpg", "actors": [], "comments": [], "recommandations_id": []}

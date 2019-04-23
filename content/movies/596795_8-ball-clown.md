@@ -1,0 +1,1 @@
+{"tmdb_id": 596795, "title": "8 Ball Clown", "original_title": "8 Ball Clown", "slug_title": "8-ball-clown", "date": "", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/46Vvu0srnVRtNSjlWeR9eqgQyiy.jpg", "actors": ["Jacob Le Doux (8 Ball the Clown)"], "comments": [], "recommandations_id": []}

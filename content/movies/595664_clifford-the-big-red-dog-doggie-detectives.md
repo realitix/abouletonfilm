@@ -1,0 +1,1 @@
+{"tmdb_id": 595664, "title": "Clifford the Big Red Dog: Doggie Detectives", "original_title": "Clifford the Big Red Dog: Doggie Detectives", "slug_title": "clifford-the-big-red-dog-doggie-detectives", "date": "2005-08-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

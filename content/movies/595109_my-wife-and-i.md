@@ -1,0 +1,1 @@
+{"tmdb_id": 595109, "title": "My Wife and I", "original_title": "My Wife and I", "slug_title": "my-wife-and-i", "date": "1925-05-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uT0EmklqqwHFDJQe31yOk86rwR9.jpg", "actors": [], "comments": [], "recommandations_id": []}

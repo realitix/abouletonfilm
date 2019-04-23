@@ -1,0 +1,1 @@
+{"tmdb_id": 595403, "title": "Salam Godzilla", "original_title": "Salam Godzilla", "slug_title": "salam-godzilla", "date": "2019-04-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 594498, "title": "The Good, The Bad, The Hungry", "original_title": "The Good, The Bad, The Hungry", "slug_title": "the-good-the-bad-the-hungry", "date": "2019-04-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

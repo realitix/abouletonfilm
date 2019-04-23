@@ -1,0 +1,1 @@
+{"tmdb_id": 595449, "title": "Skemerson", "original_title": "Skemerson", "slug_title": "skemerson", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o5GBNAHXFM8UMy7Rkc7tmqFy3ZT.jpg", "actors": [], "comments": [], "recommandations_id": []}

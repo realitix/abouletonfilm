@@ -1,0 +1,1 @@
+{"tmdb_id": 595123, "title": "Ride the Tiger", "original_title": "Ride the Tiger", "slug_title": "ride-the-tiger", "date": "", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["George Montgomery ()", "Victoria Shaw ()", "Marshall Thompson ()"], "comments": [], "recommandations_id": []}

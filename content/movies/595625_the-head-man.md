@@ -1,0 +1,1 @@
+{"tmdb_id": 595625, "title": "The Head Man", "original_title": "The Head Man", "slug_title": "the-head-man", "date": "1928-07-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nzrDslKUpbDoduwcEEp2a7s9cnj.jpg", "actors": [], "comments": [], "recommandations_id": []}

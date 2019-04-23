@@ -1,0 +1,1 @@
+{"tmdb_id": 595977, "title": "Que sea ley", "original_title": "Que sea ley", "slug_title": "que-sea-ley", "date": "2019-05-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

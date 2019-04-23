@@ -1,0 +1,1 @@
+{"tmdb_id": 594539, "title": "Bad Behavior", "original_title": "Bad Behavior", "slug_title": "bad-behavior", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["John Langston (Turner)", "Amelia Blue (Leah)"], "comments": [], "recommandations_id": []}

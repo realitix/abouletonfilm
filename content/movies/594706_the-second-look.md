@@ -1,0 +1,1 @@
+{"tmdb_id": 594706, "title": "The Second Look", "original_title": "Negah-e dovom", "slug_title": "the-second-look", "date": "1989-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

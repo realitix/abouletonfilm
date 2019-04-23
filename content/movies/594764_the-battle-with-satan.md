@@ -1,0 +1,1 @@
+{"tmdb_id": 594764, "title": "The Battle with Satan", "original_title": "The Battle with Satan", "slug_title": "the-battle-with-satan", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 595907, "title": "Hey Arnold - Volume 1", "original_title": "Hey Arnold - Volume 1", "slug_title": "hey-arnold-volume-1", "date": "2011-08-09", "genre": "Animation / Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iT2C4o5fI9QipKYsGhZAnRibKDP.jpg", "actors": [], "comments": [], "recommandations_id": []}

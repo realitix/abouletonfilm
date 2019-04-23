@@ -1,0 +1,1 @@
+{"tmdb_id": 594843, "title": "Dakar, ta nostalgie", "original_title": "Dakar, ta nostalgie", "slug_title": "dakar-ta-nostalgie", "date": "2016-01-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tXYPOAk0Oy8fRhIJMBdJKEg9gxd.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 596657, "title": "Transparency", "original_title": "Stakleni \u010covjek", "slug_title": "transparency", "date": "2015-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p6mQCxqHGMdihLAojZqjDGgA67A.jpg", "actors": [], "comments": [], "recommandations_id": []}

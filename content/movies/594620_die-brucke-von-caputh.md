@@ -1,0 +1,1 @@
+{"tmdb_id": 594620, "title": "Die Br\u00fccke von Caputh", "original_title": "Die Br\u00fccke von Caputh", "slug_title": "die-brucke-von-caputh", "date": "1949-07-08", "genre": "Drame / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

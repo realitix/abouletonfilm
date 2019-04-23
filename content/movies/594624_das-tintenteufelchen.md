@@ -1,0 +1,1 @@
+{"tmdb_id": 594624, "title": "Das Tintenteufelchen", "original_title": "Das Tintenteufelchen", "slug_title": "das-tintenteufelchen", "date": "1957-11-29", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vHx4PmMIBxUORrs8ioiHlWgbYt5.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 594835, "title": "UFC on ESPN 4: Woodley vs. Lawler 2", "original_title": "UFC on ESPN 4: Woodley vs. Lawler 2", "slug_title": "ufc-on-espn-4-woodley-vs-lawler-2", "date": "2019-06-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tyron Woodley ()", "Robbie Lawler ()"], "comments": [], "recommandations_id": []}

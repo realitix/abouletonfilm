@@ -1,0 +1,1 @@
+{"tmdb_id": 596622, "title": "Paul Elliott Technically Speaking", "original_title": "Paul Elliott Technically Speaking", "slug_title": "paul-elliott-technically-speaking", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l4oHsxi0POwpASZPlpl1p9jscQT.jpg", "actors": [], "comments": [], "recommandations_id": []}

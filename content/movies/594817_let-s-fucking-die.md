@@ -1,0 +1,1 @@
+{"tmdb_id": 594817, "title": "Let's Fucking Die", "original_title": "Let's Fucking Die", "slug_title": "let-s-fucking-die", "date": "1997-01-01", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

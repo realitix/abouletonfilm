@@ -1,0 +1,1 @@
+{"tmdb_id": 594834, "title": "La mer est mon royaume", "original_title": "La mer est mon royaume", "slug_title": "la-mer-est-mon-royaume", "date": "2016-01-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6OigurCLgrF1Uvgo23UiqzfhBWC.jpg", "actors": [], "comments": [], "recommandations_id": []}

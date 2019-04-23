@@ -1,0 +1,1 @@
+{"tmdb_id": 595174, "title": "En la plaza oscura", "original_title": "En la plaza oscura", "slug_title": "en-la-plaza-oscura", "date": "2019-04-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

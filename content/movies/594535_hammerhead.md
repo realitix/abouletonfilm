@@ -1,0 +1,1 @@
+{"tmdb_id": 594535, "title": "Hammerhead", "original_title": "Hammerhead", "slug_title": "hammerhead", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Amber Newman (Becca)", "Christopher Collard (Killian)"], "comments": [], "recommandations_id": []}

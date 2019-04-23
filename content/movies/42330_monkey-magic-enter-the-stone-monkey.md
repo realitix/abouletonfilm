@@ -1,0 +1,1 @@
+{"tmdb_id": 42330, "title": "Monkey Magic - Enter the Stone Monkey", "original_title": "Monkey Magic - Enter the Stone Monkey", "slug_title": "monkey-magic-enter-the-stone-monkey", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 595520, "title": "Lits d\u00e9faits", "original_title": "Lits d\u00e9faits", "slug_title": "lits-defaits", "date": "2019-04-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 594847, "title": "PJ Harvey: Live @ Rock en Seine 2017", "original_title": "PJ Harvey: Live @ Rock en Seine 2017", "slug_title": "pj-harvey-live-rock-en-seine-2017", "date": "2017-08-26", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["PJ Harvey (vocals)"], "comments": [], "recommandations_id": []}

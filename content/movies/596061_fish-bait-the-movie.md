@@ -1,0 +1,1 @@
+{"tmdb_id": 596061, "title": "Fish Bait: The Movie", "original_title": "Fish Bait: The Movie", "slug_title": "fish-bait-the-movie", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

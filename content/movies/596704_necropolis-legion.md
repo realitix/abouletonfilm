@@ -1,0 +1,1 @@
+{"tmdb_id": 596704, "title": "Necropolis: Legion", "original_title": "Necropolis: Legion", "slug_title": "necropolis-legion", "date": "2020-02-14", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sjbOCCJORdlk0oceGDR1hZUhrQa.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 596372, "title": "Lucette", "original_title": "Lucette", "slug_title": "lucette", "date": "1924-11-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

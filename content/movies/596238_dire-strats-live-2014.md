@@ -1,0 +1,1 @@
+{"tmdb_id": 596238, "title": "dIRE sTRATS: Live 2014", "original_title": "dIRE sTRATS: Live 2014", "slug_title": "dire-strats-live-2014", "date": "", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 595595, "title": "Das Gl\u00fcck sei Unbeweglichkeit", "original_title": "Das Gl\u00fcck sei Unbeweglichkeit", "slug_title": "das-gluck-sei-unbeweglichkeit", "date": "1990-10-16", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Christine Schnell ()"], "comments": [], "recommandations_id": []}

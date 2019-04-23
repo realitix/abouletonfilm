@@ -1,0 +1,1 @@
+{"tmdb_id": 595988, "title": "Crystal Clear", "original_title": "Crystal Clear", "slug_title": "crystal-clear", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

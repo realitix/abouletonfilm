@@ -1,0 +1,1 @@
+{"tmdb_id": 595917, "title": "Hey Arnold - Volume 4", "original_title": "Hey Arnold - Volume 4", "slug_title": "hey-arnold-volume-4", "date": "2013-01-29", "genre": "Animation / Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b1T99MX3XBsN0fnVWGtBUHm8FbA.jpg", "actors": [], "comments": [], "recommandations_id": []}

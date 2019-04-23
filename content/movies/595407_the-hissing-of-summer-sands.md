@@ -1,0 +1,1 @@
+{"tmdb_id": 595407, "title": "The Hissing of Summer Sands", "original_title": "O Mar Enrola na Areia", "slug_title": "the-hissing-of-summer-sands", "date": "2019-04-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

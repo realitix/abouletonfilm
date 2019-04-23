@@ -1,0 +1,1 @@
+{"tmdb_id": 595267, "title": "Kanalbr\u00fccke", "original_title": "Kanalbr\u00fccke", "slug_title": "kanalbrucke", "date": "2011-03-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

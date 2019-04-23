@@ -1,0 +1,1 @@
+{"tmdb_id": 595202, "title": "Strange Sightings", "original_title": "Strange Sightings", "slug_title": "strange-sightings", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

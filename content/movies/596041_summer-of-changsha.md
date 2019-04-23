@@ -1,0 +1,1 @@
+{"tmdb_id": 596041, "title": "Summer of Changsha", "original_title": "Liu Yu Tian", "slug_title": "summer-of-changsha", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n1oZdYrFjDQAAXMuUP4FuPZyFnC.jpg", "actors": [], "comments": [], "recommandations_id": []}

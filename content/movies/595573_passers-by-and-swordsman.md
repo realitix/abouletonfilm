@@ -1,0 +1,1 @@
+{"tmdb_id": 595573, "title": "Passers-by and Swordsman", "original_title": "99\u65b0\u8def\u5ba2\u8207\u5200\u5ba2", "slug_title": "passers-by-and-swordsman", "date": "1999-11-18", "genre": "Aventure", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Elvis Tsui ()", "Anita Lee ()", "Cheung Shui-Chit ()"], "comments": [], "recommandations_id": []}

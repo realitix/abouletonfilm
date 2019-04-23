@@ -1,0 +1,1 @@
+{"tmdb_id": 594521, "title": "The Truth and Nothing But the Truth", "original_title": "The Truth and Nothing But the Truth", "slug_title": "the-truth-and-nothing-but-the-truth", "date": "1968-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

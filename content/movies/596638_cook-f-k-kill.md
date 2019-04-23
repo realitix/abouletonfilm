@@ -1,0 +1,1 @@
+{"tmdb_id": 596638, "title": "Cook F**k Kill", "original_title": "Cook F**k Kill", "slug_title": "cook-f-k-kill", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jaroslav Plesl ()", "Regina R\u00e1zlov\u00e1 ()", "Petra Fornayov\u00e1 ()"], "comments": [], "recommandations_id": []}

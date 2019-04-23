@@ -1,0 +1,1 @@
+{"tmdb_id": 595713, "title": "Jeanne Moreau, l'affranchie", "original_title": "Jeanne Moreau, l'affranchie", "slug_title": "jeanne-moreau-l-affranchie", "date": "2018-04-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4AzMKgWVeaz5nhxD6JcMDGDyeLJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

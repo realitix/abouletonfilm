@@ -1,0 +1,1 @@
+{"tmdb_id": 595915, "title": "Hey Arnold - Volume 3", "original_title": "Hey Arnold - Volume 3", "slug_title": "hey-arnold-volume-3", "date": "2012-07-24", "genre": "Animation / Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/snDkl5ov0e4RPJ4Ah9QOxk0pDHD.jpg", "actors": [], "comments": [], "recommandations_id": []}

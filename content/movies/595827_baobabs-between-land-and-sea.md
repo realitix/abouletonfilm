@@ -1,0 +1,1 @@
+{"tmdb_id": 595827, "title": "Baobabs between Land and Sea", "original_title": "Baobabs between Land and Sea", "slug_title": "baobabs-between-land-and-sea", "date": "2015-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xKbvaaW71AJVHCBXPTdD6qXfo3y.jpg", "actors": [], "comments": [], "recommandations_id": []}

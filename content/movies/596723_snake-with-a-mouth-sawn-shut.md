@@ -1,0 +1,1 @@
+{"tmdb_id": 596723, "title": "Snake With a Mouth Sawn Shut", "original_title": "Snake With a Mouth Sawn Shut", "slug_title": "snake-with-a-mouth-sawn-shut", "date": "2018-11-13", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

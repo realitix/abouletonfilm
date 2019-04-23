@@ -1,0 +1,1 @@
+{"tmdb_id": 596345, "title": "Coming as a Friend 2005", "original_title": "Coming as a Friend 2005", "slug_title": "coming-as-a-friend-2005", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gKQ9uq9xZcqPR7Eyg9ac0FZParb.jpg", "actors": [], "comments": [], "recommandations_id": []}

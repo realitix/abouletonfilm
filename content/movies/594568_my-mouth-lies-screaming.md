@@ -1,0 +1,1 @@
+{"tmdb_id": 594568, "title": "My Mouth Lies Screaming", "original_title": "My Mouth Lies Screaming", "slug_title": "my-mouth-lies-screaming", "date": "2009-09-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

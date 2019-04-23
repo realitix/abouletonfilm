@@ -1,0 +1,1 @@
+{"tmdb_id": 594935, "title": "Diary of Cattle", "original_title": "Diary of Cattle", "slug_title": "diary-of-cattle", "date": "2019-04-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kKuYicem5xeSrlpz6IWcjRf0nZS.jpg", "actors": [], "comments": [], "recommandations_id": []}

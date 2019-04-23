@@ -1,0 +1,1 @@
+{"tmdb_id": 595163, "title": "Kihlaus", "original_title": "Kihlaus", "slug_title": "kihlaus", "date": "1922-01-09", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Iisakki Lattu (Eenokki)", "Martti Tuukka (Aapeli)", "Annie M\u00f6rk (Herrojen Eeva)", "Uuno Kantanen (Jooseppi)"], "comments": [], "recommandations_id": []}

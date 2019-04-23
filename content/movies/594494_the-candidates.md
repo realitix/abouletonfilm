@@ -1,0 +1,1 @@
+{"tmdb_id": 594494, "title": "The Candidates", "original_title": "The Candidates", "slug_title": "the-candidates", "date": "2018-11-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

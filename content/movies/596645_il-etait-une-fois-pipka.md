@@ -1,0 +1,1 @@
+{"tmdb_id": 596645, "title": "Il \u00e9tait une fois Pipka", "original_title": "Il \u00e9tait une fois Pipka", "slug_title": "il-etait-une-fois-pipka", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

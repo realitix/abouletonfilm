@@ -1,0 +1,1 @@
+{"tmdb_id": 594691, "title": "Lisa Redler", "original_title": "Lisa Redler", "slug_title": "lisa-redler", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

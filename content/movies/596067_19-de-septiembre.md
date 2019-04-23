@@ -1,0 +1,1 @@
+{"tmdb_id": 596067, "title": "19 de septiembre", "original_title": "19 de septiembre", "slug_title": "19-de-septiembre", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

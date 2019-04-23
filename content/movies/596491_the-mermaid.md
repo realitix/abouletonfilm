@@ -1,0 +1,1 @@
+{"tmdb_id": 596491, "title": "The Mermaid", "original_title": "Sirena", "slug_title": "the-mermaid", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Vianney Trejo ()", "Jos\u00e9 Pelaes ()", "Victoria Delgadillo ()", "Miguel \u00c1ngel Hidalgo ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 596814, "title": "Kafka's Dream", "original_title": "Kafkas Traum", "slug_title": "kafka-s-dream", "date": "1990-02-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3oaoaWlmwMl1B0tDg9AibtMr2W.jpg", "actors": [], "comments": [], "recommandations_id": []}

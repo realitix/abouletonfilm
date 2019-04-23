@@ -1,0 +1,1 @@
+{"tmdb_id": 595354, "title": "RED STARS", "original_title": "RED STARS", "slug_title": "red-stars", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

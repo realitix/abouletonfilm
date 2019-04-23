@@ -1,0 +1,1 @@
+{"tmdb_id": 596063, "title": "CTRL+ALT+DLT", "original_title": "CTRL+ALT+DLT", "slug_title": "ctrl-alt-dlt", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

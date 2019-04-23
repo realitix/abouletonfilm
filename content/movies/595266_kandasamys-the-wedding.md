@@ -1,0 +1,1 @@
+{"tmdb_id": 595266, "title": "Kandasamys The Wedding", "original_title": "Kandasamys The Wedding", "slug_title": "kandasamys-the-wedding", "date": "2019-04-19", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bBVLId6pxWG04a0arfpqHQmT0z3.jpg", "actors": [], "comments": [], "recommandations_id": []}

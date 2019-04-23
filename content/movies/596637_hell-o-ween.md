@@ -1,0 +1,1 @@
+{"tmdb_id": 596637, "title": "Hell-O-Ween", "original_title": "Hell-O-Ween", "slug_title": "hell-o-ween", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gregory Patrick Agnew (Sergeant)", "Jessica Cameron (Megan)", "Mike Bundy (J.R. Hinzman)"], "comments": [], "recommandations_id": []}

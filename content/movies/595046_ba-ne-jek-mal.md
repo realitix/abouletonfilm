@@ -1,0 +1,1 @@
+{"tmdb_id": 595046, "title": "Ba Ne Jek Mal", "original_title": "Ba Ne Jek Mal", "slug_title": "ba-ne-jek-mal", "date": "2014-06-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["James Gakjang Malual (James)", "Theresa Nyahon Boin (Theresa)"], "comments": [], "recommandations_id": []}

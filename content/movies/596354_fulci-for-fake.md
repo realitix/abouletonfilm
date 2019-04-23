@@ -1,0 +1,1 @@
+{"tmdb_id": 596354, "title": "Fulci for fake", "original_title": "Fulci for fake", "slug_title": "fulci-for-fake", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Nicola Nocella ()"], "comments": [], "recommandations_id": []}

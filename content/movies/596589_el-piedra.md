@@ -1,0 +1,1 @@
+{"tmdb_id": 596589, "title": "El Piedra", "original_title": "El Piedra", "slug_title": "el-piedra", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lqXia9lArvbFvUtfba9ounslfiK.jpg", "actors": [], "comments": [], "recommandations_id": []}

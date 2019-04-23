@@ -1,0 +1,1 @@
+{"tmdb_id": 594616, "title": "Foxtrot", "original_title": "Foxtrot", "slug_title": "foxtrot", "date": "1982-05-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bxpQt8BTogOfKEbLLb41vm3uoF3.jpg", "actors": [], "comments": [], "recommandations_id": []}

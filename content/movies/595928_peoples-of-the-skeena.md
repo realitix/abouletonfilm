@@ -1,0 +1,1 @@
+{"tmdb_id": 595928, "title": "Peoples of the Skeena", "original_title": "Peoples of the Skeena", "slug_title": "peoples-of-the-skeena", "date": "1949-12-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

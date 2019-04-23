@@ -1,0 +1,1 @@
+{"tmdb_id": 596295, "title": "Cirque du Soleil: LUZIA", "original_title": "Cirque du Soleil: LUZIA", "slug_title": "cirque-du-soleil-luzia", "date": "2016-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nqj5AbCPooTdiXiY4payhZaQ1YW.jpg", "actors": [], "comments": [], "recommandations_id": []}

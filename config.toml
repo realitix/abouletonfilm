@@ -4,3 +4,4 @@ title = "Aboule ton film"
 DefaultContentLanguage = "fr"
 disableKinds = ["taxonomy", "taxonomyTerm", "RSS"]
 paginate = 100
+publishDir = "(root)/../../misc1_out"

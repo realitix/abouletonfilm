@@ -1,0 +1,1 @@
+{"tmdb_id": 594779, "title": "The Haunted Graduation Photo", "original_title": "The Haunted Graduation Photo", "slug_title": "the-haunted-graduation-photo", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Chen Yuan ()", "Liu Li-Er ()"], "comments": [], "recommandations_id": []}

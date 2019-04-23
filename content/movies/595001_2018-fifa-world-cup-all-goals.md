@@ -1,0 +1,1 @@
+{"tmdb_id": 595001, "title": "2018 FIFA World Cup All Goals", "original_title": "2018 FIFA World Cup All Goals", "slug_title": "2018-fifa-world-cup-all-goals", "date": "2018-06-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uIoxuuwfFq5Zcd3rHNITkUnVvRP.jpg", "actors": [], "comments": [], "recommandations_id": []}

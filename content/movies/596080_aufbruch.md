@@ -1,0 +1,1 @@
+{"tmdb_id": 596080, "title": "Aufbruch", "original_title": "Aufbruch", "slug_title": "aufbruch", "date": "1985-09-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nPRKry4nK5wADvPKBfvrCE6rav3.jpg", "actors": [], "comments": [], "recommandations_id": []}

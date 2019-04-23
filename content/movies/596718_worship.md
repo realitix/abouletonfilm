@@ -1,0 +1,1 @@
+{"tmdb_id": 596718, "title": "Worship", "original_title": "Worship", "slug_title": "worship", "date": "2018-10-09", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 594874, "title": "Rizin 13 - Saitama", "original_title": "Rizin 13 - Saitama", "slug_title": "rizin-13-saitama", "date": "2018-09-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

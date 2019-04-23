@@ -1,0 +1,1 @@
+{"tmdb_id": 596073, "title": "Placer Y Muerte", "original_title": "Placer Y Muerte", "slug_title": "placer-y-muerte", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sergio Goyri ()"], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 595301, "title": "The Indomitable Teddy Roosevelt", "original_title": "The Indomitable Teddy Roosevelt", "slug_title": "the-indomitable-teddy-roosevelt", "date": "1983-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["George C. Scott (Narrator)"], "comments": [], "recommandations_id": []}

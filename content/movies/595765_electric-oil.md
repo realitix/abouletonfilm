@@ -1,0 +1,1 @@
+{"tmdb_id": 595765, "title": "Electric Oil", "original_title": "Electric Oil", "slug_title": "electric-oil", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/60X8e81dWxcQDaBVD2AWvBC90Ta.jpg", "actors": [], "comments": [], "recommandations_id": []}

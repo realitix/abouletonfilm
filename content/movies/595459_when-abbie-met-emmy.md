@@ -1,0 +1,1 @@
+{"tmdb_id": 595459, "title": "When Abbie Met Emmy", "original_title": "When Abbie Met Emmy", "slug_title": "when-abbie-met-emmy", "date": "2019-03-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AwFGunipJEaaIdqg3dXWpJljJ0F.jpg", "actors": ["Rachel Flynn (Abbie)"], "comments": [], "recommandations_id": []}

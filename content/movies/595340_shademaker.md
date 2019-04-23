@@ -1,0 +1,1 @@
+{"tmdb_id": 595340, "title": "Shademaker", "original_title": "Shademaker", "slug_title": "shademaker", "date": "2015-10-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pag0OrGjWueu8GZXkj4bITfLo4.jpg", "actors": [], "comments": [], "recommandations_id": []}

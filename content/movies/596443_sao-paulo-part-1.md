@@ -1,0 +1,1 @@
+{"tmdb_id": 596443, "title": "S\u00e3o Paulo Part 1", "original_title": "S\u00e3o Paulo Part 1", "slug_title": "sao-paulo-part-1", "date": "2019-04-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

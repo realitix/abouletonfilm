@@ -1,0 +1,1 @@
+{"tmdb_id": 595487, "title": "Annemin Sinemalar\u0131", "original_title": "Annemin Sinemalar\u0131", "slug_title": "annemin-sinemalari", "date": "2019-03-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pEpZ4tvOLCBKWssCD1GPQxiziG7.jpg", "actors": [], "comments": [], "recommandations_id": []}

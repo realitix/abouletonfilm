@@ -1,0 +1,1 @@
+{"tmdb_id": 596751, "title": "Dandelion", "original_title": "Maskros", "slug_title": "dandelion", "date": "2010-01-31", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6duicP5cEhhYPYai22pE39OF35r.jpg", "actors": ["Felicia Nilsson ()", "Nora Julia ()"], "comments": [], "recommandations_id": []}

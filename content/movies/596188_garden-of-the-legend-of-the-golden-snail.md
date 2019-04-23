@@ -1,0 +1,1 @@
+{"tmdb_id": 596188, "title": "Garden of the Legend of the Golden Snail", "original_title": "Garden of the Legend of the Golden Snail", "slug_title": "garden-of-the-legend-of-the-golden-snail", "date": "2019-04-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

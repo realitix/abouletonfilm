@@ -1,0 +1,1 @@
+{"tmdb_id": 594610, "title": "Josette and her Daddy", "original_title": "Josette und ihr Papa", "slug_title": "josette-and-her-daddy", "date": "2010-04-12", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

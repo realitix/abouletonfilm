@@ -1,0 +1,1 @@
+{"tmdb_id": 596804, "title": "Ich war einmal ein Kind", "original_title": "Ich war einmal ein Kind", "slug_title": "ich-war-einmal-ein-kind", "date": "1987-03-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4ui1ACN1cj6fOsioS5rLHWXc5Yw.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 595914, "title": "My Mother's Ghost", "original_title": "My Mother's Ghost", "slug_title": "my-mother-s-ghost", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

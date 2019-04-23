@@ -1,0 +1,1 @@
+{"tmdb_id": 596300, "title": "HAPPINESS: CAPITALISM VS. MARXISM", "original_title": "HAPPINESS: CAPITALISM VS. MARXISM", "slug_title": "happiness-capitalism-vs-marxism", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hO6lNP9abbqRxdIGeKDQCRsKQQ9.jpg", "actors": [], "comments": [], "recommandations_id": []}

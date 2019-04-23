@@ -1,0 +1,1 @@
+{"tmdb_id": 596068, "title": "Are You Going to Shout at Me?", "original_title": "\u00bfMe vas a gritar?", "slug_title": "are-you-going-to-shout-at-me", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

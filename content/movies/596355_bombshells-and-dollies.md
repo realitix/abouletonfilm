@@ -1,0 +1,1 @@
+{"tmdb_id": 596355, "title": "Bombshells and Dollies", "original_title": "Bombshells and Dollies", "slug_title": "bombshells-and-dollies", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

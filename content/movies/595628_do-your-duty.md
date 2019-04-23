@@ -1,0 +1,1 @@
+{"tmdb_id": 595628, "title": "Do Your Duty", "original_title": "Do Your Duty", "slug_title": "do-your-duty", "date": "1928-10-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nBoGvNto5edGmoOxu0fzvWAap9R.jpg", "actors": [], "comments": [], "recommandations_id": []}

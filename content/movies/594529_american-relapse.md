@@ -1,0 +1,1 @@
+{"tmdb_id": 594529, "title": "American Relapse", "original_title": "American Relapse", "slug_title": "american-relapse", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Frankie Holmes (Self)", "Allie Severino (Self)"], "comments": [], "recommandations_id": []}

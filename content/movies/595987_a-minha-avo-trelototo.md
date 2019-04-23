@@ -1,0 +1,1 @@
+{"tmdb_id": 595987, "title": "A Minha Av\u00f3 Trelot\u00f3t\u00f3", "original_title": "A Minha Av\u00f3 Trelot\u00f3t\u00f3", "slug_title": "a-minha-avo-trelototo", "date": "2019-05-06", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

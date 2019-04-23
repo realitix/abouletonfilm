@@ -1,0 +1,1 @@
+{"tmdb_id": 595478, "title": "Larsen & Friends - ABECEDA", "original_title": "Larsen & Friends - ABECEDA", "slug_title": "larsen-friends-abeceda", "date": "2006-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

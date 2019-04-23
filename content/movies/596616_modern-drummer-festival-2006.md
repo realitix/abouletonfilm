@@ -1,0 +1,1 @@
+{"tmdb_id": 596616, "title": "Modern Drummer Festival 2006", "original_title": "Modern Drummer Festival 2006", "slug_title": "modern-drummer-festival-2006", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eJm5yMYqsSYpsqdpIeiHtsuB8sz.jpg", "actors": [], "comments": [], "recommandations_id": []}

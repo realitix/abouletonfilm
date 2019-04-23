@@ -1,0 +1,1 @@
+{"tmdb_id": 596549, "title": "Voices That Heal", "original_title": "Esas voces que curan", "slug_title": "voices-that-heal", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hvPlJFaVADTbJW9gOBeAlDvgM5U.jpg", "actors": ["Herlinda Augustin (Herself)"], "comments": [], "recommandations_id": []}

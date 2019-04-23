@@ -1,0 +1,1 @@
+{"tmdb_id": 595299, "title": "Pattes de Velours", "original_title": "Pattes de Velours", "slug_title": "pattes-de-velours", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Michel Bouquet ()", "Bernadette Lafont ()", "Caroline Sihol ()", "Pierre Arditi ()"], "comments": [], "recommandations_id": []}

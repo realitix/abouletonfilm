@@ -1,0 +1,1 @@
+{"tmdb_id": 594705, "title": "Akaboum", "original_title": "Akaboum", "slug_title": "akaboum", "date": "2018-06-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p1WKY7BPNnA4LqRRp8YZeWlqXh0.jpg", "actors": [], "comments": [], "recommandations_id": []}

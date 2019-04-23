@@ -1,0 +1,1 @@
+{"tmdb_id": 595912, "title": "Hey Arnold - Volume 2", "original_title": "Hey Arnold - Volume 2", "slug_title": "hey-arnold-volume-2", "date": "2012-03-20", "genre": "Animation / Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3IEVHzvfaJcZqV2vT5SD3FBwsCZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

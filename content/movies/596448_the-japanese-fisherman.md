@@ -1,0 +1,1 @@
+{"tmdb_id": 596448, "title": "The Japanese Fisherman", "original_title": "EIEN NARU HEIWA", "slug_title": "the-japanese-fisherman", "date": "1954-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tom Driberg (Narrator (voice))"], "comments": [], "recommandations_id": []}

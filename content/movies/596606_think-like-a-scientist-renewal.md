@@ -1,0 +1,1 @@
+{"tmdb_id": 596606, "title": "Think Like A Scientist: Renewal", "original_title": "Think Like A Scientist: Renewal", "slug_title": "think-like-a-scientist-renewal", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

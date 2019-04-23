@@ -1,0 +1,1 @@
+{"tmdb_id": 595777, "title": "Incident at the 3D Lounge", "original_title": "Incident at the 3D Lounge", "slug_title": "incident-at-the-3d-lounge", "date": "2019-04-16", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

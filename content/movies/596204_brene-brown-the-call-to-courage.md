@@ -1,0 +1,1 @@
+{"tmdb_id": 596204, "title": "Bren\u00e9 Brown: The Call to Courage", "original_title": "Bren\u00e9 Brown: The Call to Courage", "slug_title": "brene-brown-the-call-to-courage", "date": "2019-04-19", "genre": "Documentaire", "score": "7.7/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bren\u00e9 Brown (Herself)"], "comments": [], "recommandations_id": []}

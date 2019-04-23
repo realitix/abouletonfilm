@@ -1,0 +1,1 @@
+{"tmdb_id": 595919, "title": "Golda's Balcony", "original_title": "Golda's Balcony", "slug_title": "golda-s-balcony", "date": "2019-01-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fKGGNcebjpiG1BPivB7OKUQsF0Z.jpg", "actors": ["Tovah Feldshuh (Golda Meir)"], "comments": [], "recommandations_id": []}

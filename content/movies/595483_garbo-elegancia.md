@@ -1,0 +1,1 @@
+{"tmdb_id": 595483, "title": "Garbo & Eleg\u00e2ncia", "original_title": "Garbo & Eleg\u00e2ncia", "slug_title": "garbo-elegancia", "date": "2018-10-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

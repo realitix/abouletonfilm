@@ -1,0 +1,1 @@
+{"tmdb_id": 596134, "title": "Snare Drum Basics", "original_title": "Snare Drum Basics", "slug_title": "snare-drum-basics", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yqNqrK409byk9qz05GdFhh38oeU.jpg", "actors": [], "comments": [], "recommandations_id": []}

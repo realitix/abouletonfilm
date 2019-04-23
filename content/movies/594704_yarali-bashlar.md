@@ -1,0 +1,1 @@
+{"tmdb_id": 594704, "title": "Yarali bashlar", "original_title": "Yarali bashlar", "slug_title": "yarali-bashlar", "date": "1988-01-01", "genre": "Documentaire / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

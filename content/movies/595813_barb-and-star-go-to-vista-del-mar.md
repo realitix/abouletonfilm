@@ -1,0 +1,1 @@
+{"tmdb_id": 595813, "title": "Barb and Star Go to Vista Del Mar", "original_title": "Barb and Star Go to Vista Del Mar", "slug_title": "barb-and-star-go-to-vista-del-mar", "date": "", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kristen Wiig (Barb)", "Annie Mumolo (Star)"], "comments": [], "recommandations_id": []}

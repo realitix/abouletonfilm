@@ -1,0 +1,1 @@
+{"tmdb_id": 595515, "title": "Dead Sea Dying", "original_title": "Dead Sea Dying", "slug_title": "dead-sea-dying", "date": "2019-04-09", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

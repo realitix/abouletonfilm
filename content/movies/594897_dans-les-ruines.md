@@ -1,0 +1,1 @@
+{"tmdb_id": 594897, "title": "Dans les ruines", "original_title": "Dans les ruines", "slug_title": "dans-les-ruines", "date": "2019-04-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

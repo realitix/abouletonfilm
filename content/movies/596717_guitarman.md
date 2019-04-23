@@ -1,0 +1,1 @@
+{"tmdb_id": 596717, "title": "Guitarman", "original_title": "Guitarman", "slug_title": "guitarman", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3DEWCCp7wRs816gGHPgvXkc4XOr.jpg", "actors": [], "comments": [], "recommandations_id": []}

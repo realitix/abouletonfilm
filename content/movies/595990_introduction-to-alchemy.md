@@ -1,0 +1,1 @@
+{"tmdb_id": 595990, "title": "Introduction to Alchemy", "original_title": "Introduction to Alchemy", "slug_title": "introduction-to-alchemy", "date": "2018-11-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

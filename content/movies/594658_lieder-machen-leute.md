@@ -1,0 +1,1 @@
+{"tmdb_id": 594658, "title": "Lieder machen Leute", "original_title": "Lieder machen Leute", "slug_title": "lieder-machen-leute", "date": "1968-09-13", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4rjParajJjefFf158Qc3njx3opx.jpg", "actors": [], "comments": [], "recommandations_id": []}

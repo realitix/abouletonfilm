@@ -1,0 +1,1 @@
+{"tmdb_id": 594993, "title": "Sou louca por voc\u00ea", "original_title": "Sou louca por voc\u00ea", "slug_title": "sou-louca-por-voce", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

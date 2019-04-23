@@ -1,0 +1,1 @@
+{"tmdb_id": 595430, "title": "L\u2019uomo proibito", "original_title": "L\u2019uomo proibito", "slug_title": "luomo-proibito", "date": "2019-04-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wtOAKqfZOkzGwoBG04u2Qtwi6Oq.jpg", "actors": [], "comments": [], "recommandations_id": []}

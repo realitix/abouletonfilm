@@ -1,0 +1,1 @@
+{"tmdb_id": 595468, "title": "The Bush Leaguer", "original_title": "The Bush Leaguer", "slug_title": "the-bush-leaguer", "date": "1927-08-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6is0SaqEdTDgGv3hmwomdXGYPrC.jpg", "actors": [], "comments": [], "recommandations_id": []}

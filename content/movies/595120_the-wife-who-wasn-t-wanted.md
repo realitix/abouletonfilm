@@ -1,0 +1,1 @@
+{"tmdb_id": 595120, "title": "The Wife Who Wasn't Wanted", "original_title": "The Wife Who Wasn't Wanted", "slug_title": "the-wife-who-wasn-t-wanted", "date": "1925-09-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yRUChzfHa4o2Y9GjcIWG6eM2jWi.jpg", "actors": [], "comments": [], "recommandations_id": []}

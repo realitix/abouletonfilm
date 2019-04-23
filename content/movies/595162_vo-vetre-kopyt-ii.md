@@ -1,0 +1,1 @@
+{"tmdb_id": 595162, "title": "Vo vetre kop\u00fdt II.", "original_title": "Vo vetre kop\u00fdt II.", "slug_title": "vo-vetre-kopyt-ii", "date": "2017-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

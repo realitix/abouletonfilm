@@ -1,0 +1,1 @@
+{"tmdb_id": 594715, "title": "Wubbzy's Egg-Cellent Easter", "original_title": "Wubbzy's Egg-Cellent Easter", "slug_title": "wubbzy-s-egg-cellent-easter", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gR43xCdA60wffs4UHTGTno0rJwY.jpg", "actors": [], "comments": [], "recommandations_id": []}

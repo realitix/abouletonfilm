@@ -1,0 +1,1 @@
+{"tmdb_id": 595484, "title": "The Rose of Tirana", "original_title": "La rose de Tirana", "slug_title": "the-rose-of-tirana", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n33LQcMBbs6xa5Ch6TlecWPppA0.jpg", "actors": [], "comments": [], "recommandations_id": []}

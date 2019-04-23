@@ -1,0 +1,1 @@
+{"tmdb_id": 594854, "title": "Rizin World Grand Prix 2015: Part 1 - Saraba", "original_title": "Rizin World Grand Prix 2015: Part 1 - Saraba", "slug_title": "rizin-world-grand-prix-2015-part-1-saraba", "date": "2015-12-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

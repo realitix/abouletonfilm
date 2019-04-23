@@ -1,0 +1,1 @@
+{"tmdb_id": 594846, "title": "Bitch Lasagna", "original_title": "Bitch Lasagna", "slug_title": "bitch-lasagna", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Felix Kjellberg (PewDiePie)"], "comments": [], "recommandations_id": []}

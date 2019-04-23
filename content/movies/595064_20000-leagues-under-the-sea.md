@@ -1,0 +1,1 @@
+{"tmdb_id": 595064, "title": "20,000 Leagues Under the Sea", "original_title": "20,000 Leagues Under the Sea", "slug_title": "20000-leagues-under-the-sea", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 595471, "title": "Ginsberg the Great", "original_title": "Ginsberg the Great", "slug_title": "ginsberg-the-great", "date": "1927-11-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d3qW07HbDLgamfz653QPx6vPTzN.jpg", "actors": [], "comments": [], "recommandations_id": []}

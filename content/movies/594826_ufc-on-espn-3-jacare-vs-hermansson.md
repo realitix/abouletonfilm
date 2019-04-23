@@ -1,0 +1,1 @@
+{"tmdb_id": 594826, "title": "UFC on ESPN 3: Jacare vs. Hermansson", "original_title": "UFC on ESPN 3: Jacare vs. Hermansson", "slug_title": "ufc-on-espn-3-jacare-vs-hermansson", "date": "2019-04-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ronaldo Souza ()", "Jack Hermansson ()"], "comments": [], "recommandations_id": []}

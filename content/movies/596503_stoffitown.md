@@ -1,0 +1,1 @@
+{"tmdb_id": 596503, "title": "St\u00f6ffitown", "original_title": "St\u00f6ffitown", "slug_title": "stoffitown", "date": "2015-05-10", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Max Gertsch (Zeno Kaelin)", "Matthias Schoch (Herr Odermatt)", "Regula Imboden (Antonia)"], "comments": [], "recommandations_id": []}

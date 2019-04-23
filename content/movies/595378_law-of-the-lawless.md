@@ -1,0 +1,1 @@
+{"tmdb_id": 595378, "title": "Law of the Lawless", "original_title": "Brigada", "slug_title": "law-of-the-lawless", "date": "2002-09-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sjBSA1CJczNFx0YN4PpNdPIIlRX.jpg", "actors": [], "comments": [], "recommandations_id": []}

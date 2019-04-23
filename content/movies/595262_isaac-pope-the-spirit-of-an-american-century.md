@@ -1,0 +1,1 @@
+{"tmdb_id": 595262, "title": "Isaac Pope: The Spirit of an American Century", "original_title": "Isaac Pope: The Spirit of an American Century", "slug_title": "isaac-pope-the-spirit-of-an-american-century", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

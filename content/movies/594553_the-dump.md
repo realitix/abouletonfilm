@@ -1,0 +1,1 @@
+{"tmdb_id": 594553, "title": "The Dump", "original_title": "The Dump", "slug_title": "the-dump", "date": "2012-07-07", "genre": "Horreur / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Matthew Currie Holmes (The Yuppie)", "Kyle Morris (The Laundry)"], "comments": [], "recommandations_id": []}

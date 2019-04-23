@@ -1,0 +1,1 @@
+{"tmdb_id": 596294, "title": "Luana Muniz: Daughter of the Moon", "original_title": "Luana Muniz: Daughter of the Moon", "slug_title": "luana-muniz-daughter-of-the-moon", "date": "2017-07-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

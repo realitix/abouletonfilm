@@ -1,0 +1,1 @@
+{"tmdb_id": 595047, "title": "Piss on Pity, Part 1--We Will Ride", "original_title": "Piss on Pity, Part 1--We Will Ride", "slug_title": "piss-on-pity-part-1-we-will-ride", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

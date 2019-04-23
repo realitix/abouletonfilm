@@ -1,0 +1,1 @@
+{"tmdb_id": 595922, "title": "Birth of Civilization", "original_title": "Birth of Civilization", "slug_title": "birth-of-civilization", "date": "2008-06-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tfFnU9Te5414Vl7mMKp3hyDuGsy.jpg", "actors": [], "comments": [], "recommandations_id": []}

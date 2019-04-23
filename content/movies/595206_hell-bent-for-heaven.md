@@ -1,0 +1,1 @@
+{"tmdb_id": 595206, "title": "Hell-Bent for Heaven", "original_title": "Hell-Bent for Heaven", "slug_title": "hell-bent-for-heaven", "date": "1926-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

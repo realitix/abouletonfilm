@@ -1,0 +1,1 @@
+{"tmdb_id": 594698, "title": "Charles Manson: The Funeral", "original_title": "Charles Manson: The Funeral", "slug_title": "charles-manson-the-funeral", "date": "2019-04-11", "genre": "T\u00e9l\u00e9film / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

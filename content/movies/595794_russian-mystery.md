@@ -1,0 +1,1 @@
+{"tmdb_id": 595794, "title": "Russian Mystery", "original_title": "Russian Mystery", "slug_title": "russian-mystery", "date": "1991-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zIbReDJqu7Nvn350ci55v1X4K8b.jpg", "actors": [], "comments": [], "recommandations_id": []}

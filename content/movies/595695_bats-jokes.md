@@ -1,0 +1,1 @@
+{"tmdb_id": 595695, "title": "Bats & Jokes", "original_title": "Bats & Jokes", "slug_title": "bats-jokes", "date": "2017-11-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pqhZZ07saCxBIA3b83p0fZRGcSV.jpg", "actors": [], "comments": [], "recommandations_id": []}

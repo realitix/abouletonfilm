@@ -1,0 +1,1 @@
+{"tmdb_id": 594493, "title": "Skinny Puppy - Dolce Vita", "original_title": "Skinny Puppy - Dolce Vita", "slug_title": "skinny-puppy-dolce-vita", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/81rgrlnPqBcDD8TDRtRu9tIGBNY.jpg", "actors": [], "comments": [], "recommandations_id": []}

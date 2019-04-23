@@ -1,0 +1,1 @@
+{"tmdb_id": 594873, "title": "Rizin 12 - Nagoya", "original_title": "Rizin 12 - Nagoya", "slug_title": "rizin-12-nagoya", "date": "2018-08-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

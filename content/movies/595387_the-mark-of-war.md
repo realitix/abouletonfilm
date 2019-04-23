@@ -1,0 +1,1 @@
+{"tmdb_id": 595387, "title": "The Mark of War", "original_title": "The Mark of War", "slug_title": "the-mark-of-war", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AuaSzLwBjpRVodtvkeNXPqkNkzT.jpg", "actors": [], "comments": [], "recommandations_id": []}

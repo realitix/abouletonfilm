@@ -1,0 +1,1 @@
+{"tmdb_id": 594645, "title": "Pearl in Hades", "original_title": "\u9ec4\u6cc9\u306e\u771f\u73e0", "slug_title": "pearl-in-hades", "date": "1988-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7jTDkNToOLu04mWwGJX39I94Otz.jpg", "actors": [], "comments": [], "recommandations_id": []}

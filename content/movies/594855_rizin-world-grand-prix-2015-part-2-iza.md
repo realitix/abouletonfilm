@@ -1,0 +1,1 @@
+{"tmdb_id": 594855, "title": "Rizin World Grand Prix 2015: Part 2 - Iza", "original_title": "Rizin World Grand Prix 2015: Part 2 - Iza", "slug_title": "rizin-world-grand-prix-2015-part-2-iza", "date": "2015-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

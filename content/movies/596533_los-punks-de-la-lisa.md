@@ -1,0 +1,1 @@
+{"tmdb_id": 596533, "title": "Los Punks de la Lisa", "original_title": "Los Punks de la Lisa", "slug_title": "los-punks-de-la-lisa", "date": "2019-04-20", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

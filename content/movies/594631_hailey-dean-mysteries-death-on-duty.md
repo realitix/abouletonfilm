@@ -1,0 +1,1 @@
+{"tmdb_id": 594631, "title": "Hailey Dean Mysteries: Death on Duty", "original_title": "Hailey Dean Mysteries: Death on Duty", "slug_title": "hailey-dean-mysteries-death-on-duty", "date": "2019-05-05", "genre": "Myst\u00e8re", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kellie Martin (Hailey Dean)"], "comments": [], "recommandations_id": []}

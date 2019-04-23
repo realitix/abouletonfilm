@@ -1,0 +1,1 @@
+{"tmdb_id": 596547, "title": "The Jarana\u2019s Journey", "original_title": "El viaje de la jarana", "slug_title": "the-jaranas-journey", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Paola Medina ()", "Alejandro Pizano ()", "Ermis Cruz ()"], "comments": [], "recommandations_id": []}

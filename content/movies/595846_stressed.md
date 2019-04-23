@@ -1,0 +1,1 @@
+{"tmdb_id": 595846, "title": "Stressed", "original_title": "Stressed", "slug_title": "stressed", "date": "1995-04-10", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fZP5iO26etdSpJaCFdqL1hD7AJh.jpg", "actors": [], "comments": [], "recommandations_id": []}

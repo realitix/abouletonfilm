@@ -1,0 +1,1 @@
+{"tmdb_id": 595652, "title": "Foosballers", "original_title": "Foosballers", "slug_title": "foosballers", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zwAkS7kW1DKeUarjptjpavRomw5.jpg", "actors": [], "comments": [], "recommandations_id": []}

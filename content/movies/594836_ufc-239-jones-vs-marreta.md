@@ -1,0 +1,1 @@
+{"tmdb_id": 594836, "title": "UFC 239: Jones vs. Marreta", "original_title": "UFC 239: Jones vs. Marreta", "slug_title": "ufc-239-jones-vs-marreta", "date": "2019-07-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jon Jones ()", "Thiago Santos ()"], "comments": [], "recommandations_id": []}

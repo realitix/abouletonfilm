@@ -1,0 +1,1 @@
+{"tmdb_id": 595956, "title": "Ty Barnett", "original_title": "Ty Barnett", "slug_title": "ty-barnett", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

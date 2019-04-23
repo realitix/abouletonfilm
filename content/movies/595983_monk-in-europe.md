@@ -1,0 +1,1 @@
+{"tmdb_id": 595983, "title": "Monk in Europe", "original_title": "Monk in Europe", "slug_title": "monk-in-europe", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Thelonious Monk (Himself)"], "comments": [], "recommandations_id": []}

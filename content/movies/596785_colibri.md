@@ -1,0 +1,1 @@
+{"tmdb_id": 596785, "title": "Colibr\u00ed", "original_title": "Colibr\u00ed", "slug_title": "colibri", "date": "2011-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ajtWAfXY7ZfZ6tKCpDqCQbErmFh.jpg", "actors": ["Juli\u00e1n Vargas ()"], "comments": [], "recommandations_id": []}

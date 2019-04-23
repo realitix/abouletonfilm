@@ -1,0 +1,1 @@
+{"tmdb_id": 596741, "title": "Bernstein in Paris: The Ravel Concerts", "original_title": "Bernstein in Paris: The Ravel Concerts", "slug_title": "bernstein-in-paris-the-ravel-concerts", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Leonard Bernstein ()"], "comments": [], "recommandations_id": []}

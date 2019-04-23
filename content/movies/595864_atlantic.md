@@ -1,0 +1,1 @@
+{"tmdb_id": 595864, "title": "Atlantic", "original_title": "Atlantique", "slug_title": "atlantic", "date": "2019-05-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

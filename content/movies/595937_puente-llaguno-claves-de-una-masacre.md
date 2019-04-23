@@ -1,0 +1,1 @@
+{"tmdb_id": 595937, "title": "Puente Llaguno: Claves de una masacre", "original_title": "Puente Llaguno: Claves de una masacre", "slug_title": "puente-llaguno-claves-de-una-masacre", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 595337, "title": "The Glow is Gone", "original_title": "The Glow is Gone", "slug_title": "the-glow-is-gone", "date": "2017-10-05", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

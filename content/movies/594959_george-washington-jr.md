@@ -1,0 +1,1 @@
+{"tmdb_id": 594959, "title": "George Washington, Jr.", "original_title": "George Washington, Jr.", "slug_title": "george-washington-jr", "date": "1924-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yKUJQfHVwOqIHz0Eqdf5peiSbUs.jpg", "actors": [], "comments": [], "recommandations_id": []}

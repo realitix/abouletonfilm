@@ -1,0 +1,1 @@
+{"tmdb_id": 595158, "title": "Area of Conflict", "original_title": "Area of Conflict", "slug_title": "area-of-conflict", "date": "2017-05-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bCEkx4uWt7EqNsb4PNJkGiMt3bR.jpg", "actors": [], "comments": [], "recommandations_id": []}

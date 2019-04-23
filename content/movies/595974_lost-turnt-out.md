@@ -1,0 +1,1 @@
+{"tmdb_id": 595974, "title": "Lost & Turnt Out", "original_title": "Lost & Turnt Out", "slug_title": "lost-turnt-out", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rashyn Washington (Director)"], "comments": [], "recommandations_id": []}

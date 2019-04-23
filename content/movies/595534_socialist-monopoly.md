@@ -1,0 +1,1 @@
+{"tmdb_id": 595534, "title": "Socialist Monopoly", "original_title": "Socialist Monopoly", "slug_title": "socialist-monopoly", "date": "2019-04-09", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

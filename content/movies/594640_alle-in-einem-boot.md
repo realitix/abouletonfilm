@@ -1,0 +1,1 @@
+{"tmdb_id": 594640, "title": "Alle in einem Boot", "original_title": "Alle in einem Boot", "slug_title": "alle-in-einem-boot", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

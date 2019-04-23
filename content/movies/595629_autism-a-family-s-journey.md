@@ -1,0 +1,1 @@
+{"tmdb_id": 595629, "title": "Autism: A Family's Journey", "original_title": "Autism: A Family's Journey", "slug_title": "autism-a-family-s-journey", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

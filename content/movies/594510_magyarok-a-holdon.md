@@ -1,0 +1,1 @@
+{"tmdb_id": 594510, "title": "Magyarok a Holdon", "original_title": "Magyarok a Holdon", "slug_title": "magyarok-a-holdon", "date": "2017-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eYEs0tdU0kkqbADMdLTWmVORSww.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 594562, "title": "L\u00e9once Perret: The Filmmaker's Filmmaker", "original_title": "L\u00e9once Perret: The Filmmaker's Filmmaker", "slug_title": "leonce-perret-the-filmmaker-s-filmmaker", "date": "2009-09-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

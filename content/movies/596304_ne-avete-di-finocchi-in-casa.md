@@ -1,0 +1,1 @@
+{"tmdb_id": 596304, "title": "Ne avete di finocchi in casa?", "original_title": "Ne avete di finocchi in casa?", "slug_title": "ne-avete-di-finocchi-in-casa", "date": "2017-06-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yI1HRbJdTuwDnpCo61PXf10mYMD.jpg", "actors": [], "comments": [], "recommandations_id": []}

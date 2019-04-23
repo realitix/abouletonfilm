@@ -1,0 +1,1 @@
+{"tmdb_id": 595797, "title": "Degrassi: Las Vegas", "original_title": "Degrassi: Las Vegas", "slug_title": "degrassi-las-vegas", "date": "2012-12-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

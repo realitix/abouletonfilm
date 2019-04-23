@@ -1,0 +1,1 @@
+{"tmdb_id": 596802, "title": "Colecciones", "original_title": "Colecciones", "slug_title": "colecciones", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Guillermina Pico ()", "Francisco Lumerman ()", "Claudio Kustin ()"], "comments": [], "recommandations_id": []}

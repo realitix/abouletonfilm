@@ -1,0 +1,1 @@
+{"tmdb_id": 595124, "title": "The Guy Who Didn't Like Musicals", "original_title": "The Guy Who Didn't Like Musicals", "slug_title": "the-guy-who-didn-t-like-musicals", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

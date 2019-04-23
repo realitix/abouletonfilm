@@ -1,0 +1,1 @@
+{"tmdb_id": 594486, "title": "One Punch", "original_title": "One Punch", "slug_title": "one-punch", "date": "2019-04-11", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Choi Hyun-do ()", "Park Shin-woo-II ()", "Choi Gyoo-ri ()", "Hong Jun-ki ()"], "comments": [], "recommandations_id": []}

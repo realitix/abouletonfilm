@@ -1,0 +1,1 @@
+{"tmdb_id": 594989, "title": "\u00c1guia em patrulha", "original_title": "\u00c1guia em patrulha", "slug_title": "aguia-em-patrulha", "date": "", "genre": "Aventure", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

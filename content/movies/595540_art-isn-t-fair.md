@@ -1,0 +1,1 @@
+{"tmdb_id": 595540, "title": "Art Isn't Fair", "original_title": "Art Isn't Fair", "slug_title": "art-isn-t-fair", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 595630, "title": "The Ware Case", "original_title": "The Ware Case", "slug_title": "the-ware-case", "date": "1928-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/JlFPuMfA6eorcVlOzOYMswznqP.jpg", "actors": [], "comments": [], "recommandations_id": []}

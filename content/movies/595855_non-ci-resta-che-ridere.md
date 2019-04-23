@@ -1,0 +1,1 @@
+{"tmdb_id": 595855, "title": "Non ci resta che ridere", "original_title": "Non ci resta che ridere", "slug_title": "non-ci-resta-che-ridere", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Alessandro Paci ()", "Massimo Ceccherini ()", "Benedetta Rossi ()"], "comments": [], "recommandations_id": []}

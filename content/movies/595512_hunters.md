@@ -1,0 +1,1 @@
+{"tmdb_id": 595512, "title": "Hunters", "original_title": "Chasseurs", "slug_title": "hunters", "date": "2019-04-09", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

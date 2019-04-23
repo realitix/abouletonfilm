@@ -1,0 +1,1 @@
+{"tmdb_id": 595894, "title": "Shella Record \u2013 A Reggae Mystery", "original_title": "Shella Record \u2013 A Reggae Mystery", "slug_title": "shella-record-a-reggae-mystery", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

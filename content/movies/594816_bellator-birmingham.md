@@ -1,0 +1,1 @@
+{"tmdb_id": 594816, "title": "Bellator Birmingham", "original_title": "Bellator Birmingham", "slug_title": "bellator-birmingham", "date": "2019-05-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Brent Primus ()", "Tim Wilde ()"], "comments": [], "recommandations_id": []}

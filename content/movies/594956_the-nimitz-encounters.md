@@ -1,0 +1,1 @@
+{"tmdb_id": 594956, "title": "The Nimitz Encounters", "original_title": "The Nimitz Encounters", "slug_title": "the-nimitz-encounters", "date": "2018-11-14", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["David Fravor (Himself)", "Bob Hite (Narrator)"], "comments": [], "recommandations_id": []}

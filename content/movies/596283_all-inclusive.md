@@ -1,0 +1,1 @@
+{"tmdb_id": 596283, "title": "All Inclusive", "original_title": "All Inclusive", "slug_title": "all-inclusive", "date": "2019-05-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

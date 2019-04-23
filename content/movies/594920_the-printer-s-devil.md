@@ -1,0 +1,1 @@
+{"tmdb_id": 594920, "title": "The Printer's Devil", "original_title": "The Printer's Devil", "slug_title": "the-printer-s-devil", "date": "1923-08-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qMM8dj4WQhOI635o48U7XNOfTOF.jpg", "actors": [], "comments": [], "recommandations_id": []}

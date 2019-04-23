@@ -1,0 +1,1 @@
+{"tmdb_id": 596548, "title": "In Lucia's Skin", "original_title": "En la piel de Luc\u00eda", "slug_title": "in-lucia-s-skin", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Valery Sais ()", "Mayra Hermosillo ()", "Pao Avil\u00e9s ()", "Fabi\u00e1n Pazzo ()"], "comments": [], "recommandations_id": []}

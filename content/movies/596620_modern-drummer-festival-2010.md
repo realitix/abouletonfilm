@@ -1,0 +1,1 @@
+{"tmdb_id": 596620, "title": "Modern Drummer Festival 2010", "original_title": "Modern Drummer Festival 2010", "slug_title": "modern-drummer-festival-2010", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m3yELO5E8G8sePO0G8fFsWmwHV1.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 596119, "title": "El Coraz\u00f3n de Bol\u00edvar", "original_title": "El Coraz\u00f3n de Bol\u00edvar", "slug_title": "el-corazon-de-bolivar", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

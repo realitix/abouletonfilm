@@ -1,0 +1,1 @@
+{"tmdb_id": 596011, "title": "Zwangspause", "original_title": "Zwangspause", "slug_title": "zwangspause", "date": "1974-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ilsemarie Schnering ()", "J\u00fcrgen Draeger ()"], "comments": [], "recommandations_id": []}

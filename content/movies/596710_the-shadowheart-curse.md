@@ -1,0 +1,1 @@
+{"tmdb_id": 596710, "title": "The Shadowheart Curse", "original_title": "The Shadowheart Curse", "slug_title": "the-shadowheart-curse", "date": "2020-02-14", "genre": "Horreur / Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5R3is1PnEJf3NLJFKyCiBpXXaRb.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,0 +1,1 @@
+{"tmdb_id": 596776, "title": "Music from the Mountains", "original_title": "Music from the Mountains", "slug_title": "music-from-the-mountains", "date": "1947-01-01", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

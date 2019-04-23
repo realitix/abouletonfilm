@@ -1,0 +1,1 @@
+{"tmdb_id": 595122, "title": "Black Man's Houses", "original_title": "Black Man's Houses", "slug_title": "black-man-s-houses", "date": "1993-03-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

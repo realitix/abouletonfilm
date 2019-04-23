@@ -1,0 +1,1 @@
+{"tmdb_id": 595152, "title": "Hot Bagels", "original_title": "Hot Bagels", "slug_title": "hot-bagels", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Marty Rosenblatt (Himself)"], "comments": [], "recommandations_id": []}

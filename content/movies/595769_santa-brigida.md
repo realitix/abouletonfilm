@@ -1,0 +1,1 @@
+{"tmdb_id": 595769, "title": "Santa Brigida", "original_title": "Santa Brigida", "slug_title": "santa-brigida", "date": "1951-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n3AVLghX2szUtqKQzTJfPY7yKXt.jpg", "actors": ["Ingrid Bergman (Herself)"], "comments": [], "recommandations_id": []}
