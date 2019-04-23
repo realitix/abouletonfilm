@@ -1,0 +1,1 @@
+{"tmdb_id": 596910, "title": "Tuesday From 8 to 6", "original_title": "Mardi de 8 \u00e0 18", "slug_title": "tuesday-from-8-to-6", "date": "2019-05-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

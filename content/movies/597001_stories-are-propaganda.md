@@ -1,0 +1,1 @@
+{"tmdb_id": 597001, "title": "Stories are Propaganda", "original_title": "Stories are Propaganda", "slug_title": "stories-are-propaganda", "date": "2005-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rirkrit Tiravanija ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,0 +1,1 @@
+{"tmdb_id": 597107, "title": "Sick Sick Sick", "original_title": "Sem seu sangue", "slug_title": "sick-sick-sick", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

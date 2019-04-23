@@ -1,0 +1,1 @@
+{"tmdb_id": 596912, "title": "The Last Trip to the Seaside", "original_title": "Ultimul Drum Spre Mare", "slug_title": "the-last-trip-to-the-seaside", "date": "2019-05-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

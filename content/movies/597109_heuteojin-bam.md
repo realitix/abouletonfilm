@@ -1,0 +1,1 @@
+{"tmdb_id": 597109, "title": "\ud769\uc5b4\uc9c4 \ubc24", "original_title": "\ud769\uc5b4\uc9c4 \ubc24", "slug_title": "heuteojin-bam", "date": "2019-05-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

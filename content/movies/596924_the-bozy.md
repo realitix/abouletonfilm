@@ -1,0 +1,1 @@
+{"tmdb_id": 596924, "title": "The Bozy", "original_title": "\ubcf4\uc9c0", "slug_title": "the-bozy", "date": "2003-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/64e1EXGtEivKR6GO8VB5MhIyZkX.jpg", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}
