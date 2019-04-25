@@ -1,1 +1,0 @@
-{"tmdb_id": 532544, "title": "How To Power A City", "original_title": "How To Power A City", "slug_title": "how-to-power-a-city", "date": "2018-03-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

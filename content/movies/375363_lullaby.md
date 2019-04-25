@@ -1,1 +1,0 @@
-{"tmdb_id": 375363, "title": "Lullaby", "original_title": "Lullaby", "slug_title": "lullaby", "date": "", "genre": "Drame / Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mark Hoadley (John)", "Jay Disney (Lee)", "Katie Charek (Sarah)", "Linda Webb (Patty Ramsey)"], "comments": [], "recommandations_id": []}

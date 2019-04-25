@@ -1,1 +1,0 @@
-{"tmdb_id": 399927, "title": "Against Me - Open Air Gampel 2015", "original_title": "Against Me - Open Air Gampel 2015", "slug_title": "against-me-open-air-gampel-2015", "date": "2015-08-23", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

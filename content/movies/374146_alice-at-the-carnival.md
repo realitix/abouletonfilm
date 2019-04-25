@@ -1,1 +1,0 @@
-{"tmdb_id": 374146, "title": "Alice at the Carnival", "original_title": "Alice at the Carnival", "slug_title": "alice-at-the-carnival", "date": "1927-02-07", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Margie Gay (Alice)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 192867, "title": "Ken Russell 'In Search of the English Folk Song'", "original_title": "Ken Russell 'In Search of the English Folk Song'", "slug_title": "ken-russell-in-search-of-the-english-folk-song", "date": "1997-11-14", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

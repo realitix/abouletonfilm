@@ -1,1 +1,0 @@
-{"tmdb_id": 154202, "title": "The Pom Pom Massacre", "original_title": "The Pom Pom Massacre", "slug_title": "the-pom-pom-massacre", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

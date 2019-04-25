@@ -1,1 +1,0 @@
-{"tmdb_id": 495218, "title": "Auroratone", "original_title": "Auroratone", "slug_title": "auroratone", "date": "2012-01-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vbrHAa31SAQSfjonxG7opQb17Pn.jpg", "actors": [], "comments": [], "recommandations_id": []}

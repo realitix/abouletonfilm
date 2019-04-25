@@ -1,1 +1,0 @@
-{"tmdb_id": 427233, "title": "The Australian Mounted Rifle Volunteers", "original_title": "The Australian Mounted Rifle Volunteers", "slug_title": "the-australian-mounted-rifle-volunteers", "date": "1900-11-22", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

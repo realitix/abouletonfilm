@@ -1,1 +1,0 @@
-{"tmdb_id": 107152, "title": "Bad Writing", "original_title": "Bad Writing", "slug_title": "bad-writing", "date": "2010-12-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fnUxwZjONR8CIVFGH8PG0aPnrER.jpg", "actors": [], "comments": [], "recommandations_id": []}

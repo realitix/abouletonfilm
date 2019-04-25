@@ -1,1 +1,0 @@
-{"tmdb_id": 275546, "title": "The Gift", "original_title": "The Gift", "slug_title": "the-gift", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

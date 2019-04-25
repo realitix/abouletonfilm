@@ -1,1 +1,0 @@
-{"tmdb_id": 501985, "title": "For Life, Against the War", "original_title": "For Life, Against the War", "slug_title": "for-life-against-the-war", "date": "1967-01-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sShQ2jZVJkpn4fHCKTgjpfsgh8v.jpg", "actors": [], "comments": [], "recommandations_id": []}

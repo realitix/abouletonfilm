@@ -1,1 +1,0 @@
-{"tmdb_id": 361440, "title": "DIEGO DANIMAR", "original_title": "DIEGO DANIMAR", "slug_title": "diego-danimar", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 438207, "title": "Pleasureland", "original_title": "Pleasureland", "slug_title": "pleasureland", "date": "2003-11-16", "genre": "T\u00e9l\u00e9film / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Claire Hackett (Julie Mosscroft)", "Barry Sloane (Darren)"], "comments": [], "recommandations_id": []}

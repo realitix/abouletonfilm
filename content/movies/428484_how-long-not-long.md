@@ -1,1 +1,0 @@
-{"tmdb_id": 428484, "title": "How Long, Not Long", "original_title": "How Long, Not Long", "slug_title": "how-long-not-long", "date": "2016-08-21", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tABr658YpVHNoYn8OZHIptXwMGG.jpg", "actors": [], "comments": [], "recommandations_id": []}

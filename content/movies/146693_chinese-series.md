@@ -1,1 +1,0 @@
-{"tmdb_id": 146693, "title": "Chinese Series", "original_title": "Chinese Series", "slug_title": "chinese-series", "date": "2003-05-31", "genre": "", "score": "5.1/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kg4cKSmEOig3Cq19JyDtECbFoCT.jpg", "actors": [], "comments": [], "recommandations_id": [146662, 104407, 126204, 126215]}

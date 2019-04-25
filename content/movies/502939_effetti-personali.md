@@ -1,1 +1,0 @@
-{"tmdb_id": 502939, "title": "Effetti personali", "original_title": "Effetti personali", "slug_title": "effetti-personali", "date": "1983-02-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

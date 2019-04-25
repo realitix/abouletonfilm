@@ -1,1 +1,0 @@
-{"tmdb_id": 352541, "title": "Letters to Angola", "original_title": "Cartas para Angola", "slug_title": "letters-to-angola", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eYCmuuEnnCO2bIZO6Llh83GtMjw.jpg", "actors": [], "comments": [], "recommandations_id": []}

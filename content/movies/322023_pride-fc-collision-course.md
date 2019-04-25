@@ -1,1 +1,0 @@
-{"tmdb_id": 322023, "title": "Pride FC: Collision Course", "original_title": "Pride FC: Collision Course", "slug_title": "pride-fc-collision-course", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

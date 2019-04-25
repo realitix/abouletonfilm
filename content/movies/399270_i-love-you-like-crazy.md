@@ -1,1 +1,0 @@
-{"tmdb_id": 399270, "title": "I Love You Like Crazy", "original_title": "I Love You Like Crazy", "slug_title": "i-love-you-like-crazy", "date": "2011-06-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Valorie Curry (Melody)", "Patrick Gallo (Dan)"], "comments": [], "recommandations_id": []}

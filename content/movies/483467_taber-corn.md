@@ -1,1 +1,0 @@
-{"tmdb_id": 483467, "title": "Taber Corn", "original_title": "Taber Corn", "slug_title": "taber-corn", "date": "2007-10-26", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zneVMxbd0AEXW7cieBaCMtvVAZZ.jpg", "actors": ["Blake Ryan (Buddha Wilson)"], "comments": [], "recommandations_id": []}

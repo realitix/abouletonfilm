@@ -1,1 +1,0 @@
-{"tmdb_id": 388214, "title": "Barbie Dance Club", "original_title": "Barbie Dance Club", "slug_title": "barbie-dance-club", "date": "", "genre": "Familial", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xfvXw6he0mDE6Dl6jdczrZpkDKZ.jpg", "actors": ["Paula Abdul ()"], "comments": [], "recommandations_id": []}

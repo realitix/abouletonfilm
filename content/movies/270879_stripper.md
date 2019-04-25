@@ -1,1 +1,0 @@
-{"tmdb_id": 270879, "title": "Stripper", "original_title": "Stripper", "slug_title": "stripper", "date": "1986-01-01", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kupgRtj0amhMd6qeZNyy9QUROBv.jpg", "actors": [], "comments": [], "recommandations_id": []}

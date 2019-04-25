@@ -1,1 +1,0 @@
-{"tmdb_id": 538281, "title": "Le mari r\u00eav\u00e9", "original_title": "Le mari r\u00eav\u00e9", "slug_title": "le-mari-reve", "date": "1936-12-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1UklTlQiehnJVv5zFXHQOCcTe0j.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 356647, "title": "Espect\u00e1culo Speedy Gonzalez V6", "original_title": "Espect\u00e1culo Speedy Gonzalez V6", "slug_title": "espectaculo-speedy-gonzalez-v6", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uxw1NCzXxJcyqmQKSreoQArfHpY.jpg", "actors": [], "comments": [], "recommandations_id": []}

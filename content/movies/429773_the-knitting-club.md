@@ -1,1 +1,0 @@
-{"tmdb_id": 429773, "title": "The Knitting Club", "original_title": "The Knitting Club", "slug_title": "the-knitting-club", "date": "2015-09-19", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/le19D3wmkM5Q4TFQYKcbZfPYcov.jpg", "actors": [], "comments": [], "recommandations_id": []}

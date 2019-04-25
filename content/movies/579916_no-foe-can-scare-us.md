@@ -1,1 +1,0 @@
-{"tmdb_id": 579916, "title": "No Foe Can Scare Us", "original_title": "Mums nebaisus jokie priesai", "slug_title": "no-foe-can-scare-us", "date": "1978-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/41gwEUOHl2XJCxCDWyg65jeOxcu.jpg", "actors": [], "comments": [], "recommandations_id": []}

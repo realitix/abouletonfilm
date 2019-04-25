@@ -1,1 +1,0 @@
-{"tmdb_id": 549230, "title": "INITIAL VAPOR", "original_title": "INITIAL VAPOR", "slug_title": "initial-vapor", "date": "2012-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pe0bum8AFab1SuWVMnH31wbbktW.jpg", "actors": [], "comments": [], "recommandations_id": []}

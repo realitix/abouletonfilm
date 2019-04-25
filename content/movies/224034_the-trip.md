@@ -1,1 +1,0 @@
-{"tmdb_id": 224034, "title": "The Trip", "original_title": "The Trip", "slug_title": "the-trip", "date": "1967-04-25", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

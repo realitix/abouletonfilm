@@ -1,1 +1,0 @@
-{"tmdb_id": 562357, "title": "So You Want to Throw a Party", "original_title": "So You Want to Throw a Party", "slug_title": "so-you-want-to-throw-a-party", "date": "1950-02-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["George O'Hanlon ()"], "comments": [], "recommandations_id": []}

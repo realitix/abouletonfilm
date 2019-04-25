@@ -1,1 +1,0 @@
-{"tmdb_id": 542715, "title": "She Called It Melodrama", "original_title": "She Called It Melodrama", "slug_title": "she-called-it-melodrama", "date": "2018-06-19", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/587sATYUJFaJHj8aCLvVuTlSRs5.jpg", "actors": [], "comments": [], "recommandations_id": []}

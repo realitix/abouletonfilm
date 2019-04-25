@@ -1,1 +1,0 @@
-{"tmdb_id": 394155, "title": "Canto A La Vida: Song to Life", "original_title": "Canto A La Vida: Song to Life", "slug_title": "canto-a-la-vida-song-to-life", "date": "1991-04-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/md1omwagWvhJi4vdf7GekRQNwml.jpg", "actors": [], "comments": [], "recommandations_id": []}

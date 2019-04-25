@@ -1,1 +1,0 @@
-{"tmdb_id": 219519, "title": "House Cleaning Blues", "original_title": "House Cleaning Blues", "slug_title": "house-cleaning-blues", "date": "1937-01-14", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uPD1z3eDGonwgq9qLwu83hBVsTO.jpg", "actors": [], "comments": [], "recommandations_id": []}

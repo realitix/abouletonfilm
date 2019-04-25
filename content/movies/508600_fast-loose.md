@@ -1,1 +1,0 @@
-{"tmdb_id": 508600, "title": "Fast & Loose", "original_title": "Fast & Loose", "slug_title": "fast-loose", "date": "2018-02-08", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Whitmer Thomas (Whit)", "Budd Diaz (Budd)", "Clay Tatum (Clay)", "Penelope Gazin (Beth)"], "comments": [], "recommandations_id": []}

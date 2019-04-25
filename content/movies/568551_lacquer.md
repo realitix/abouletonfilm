@@ -1,1 +1,0 @@
-{"tmdb_id": 568551, "title": "Lacquer", "original_title": "Lacquer", "slug_title": "lacquer", "date": "1973-05-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 275470, "title": "Mystical Brain", "original_title": "Mystical Brain", "slug_title": "mystical-brain", "date": "2006-01-01", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qjwEqmrG38T2RrZAZxnr4u1go4k.jpg", "actors": ["Tenzin Gyatso (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 386325, "title": "Le sourire du serpent", "original_title": "Le sourire du serpent", "slug_title": "le-sourire-du-serpent", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

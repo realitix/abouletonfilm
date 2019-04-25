@@ -1,1 +1,0 @@
-{"tmdb_id": 549712, "title": "Colloquio con un uomo disprezzato", "original_title": "Colloquio con un uomo disprezzato", "slug_title": "colloquio-con-un-uomo-disprezzato", "date": "1962-07-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

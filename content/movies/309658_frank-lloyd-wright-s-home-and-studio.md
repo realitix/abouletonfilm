@@ -1,1 +1,0 @@
-{"tmdb_id": 309658, "title": "Frank Lloyd Wright's Home and Studio", "original_title": "Frank Lloyd Wright's Home and Studio", "slug_title": "frank-lloyd-wright-s-home-and-studio", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

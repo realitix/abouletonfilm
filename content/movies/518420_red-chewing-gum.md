@@ -1,1 +1,0 @@
-{"tmdb_id": 518420, "title": "Red Chewing Gum", "original_title": "Red Chewing Gum", "slug_title": "red-chewing-gum", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

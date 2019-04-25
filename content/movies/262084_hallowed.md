@@ -1,1 +1,0 @@
-{"tmdb_id": 262084, "title": "Hallowed", "original_title": "Hallowed", "slug_title": "hallowed", "date": "2005-12-07", "genre": "Horreur", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n0L0lstfX2cON2EIAROzExv4TLH.jpg", "actors": [], "comments": [], "recommandations_id": []}

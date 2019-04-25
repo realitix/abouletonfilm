@@ -1,1 +1,0 @@
-{"tmdb_id": 552255, "title": "Othello", "original_title": "Othello", "slug_title": "othello", "date": "2017-03-31", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lARUrO3X161niaRexLRRWAf2j1f.jpg", "actors": ["Jupitora Bhuyan ()"], "comments": [], "recommandations_id": []}

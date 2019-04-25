@@ -1,1 +1,0 @@
-{"tmdb_id": 444362, "title": "The Lonely", "original_title": "The Lonely", "slug_title": "the-lonely", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

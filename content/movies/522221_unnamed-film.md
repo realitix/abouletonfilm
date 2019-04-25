@@ -1,1 +1,0 @@
-{"tmdb_id": 522221, "title": "Unnamed Film", "original_title": "Unnamed Film", "slug_title": "unnamed-film", "date": "1989-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

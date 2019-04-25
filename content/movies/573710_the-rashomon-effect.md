@@ -1,1 +1,0 @@
-{"tmdb_id": 573710, "title": "The Rashomon Effect", "original_title": "The Rashomon Effect", "slug_title": "the-rashomon-effect", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

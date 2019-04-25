@@ -1,1 +1,0 @@
-{"tmdb_id": 463717, "title": "Cafe Coexistence", "original_title": "Cafe Coexistence", "slug_title": "cafe-coexistence", "date": "2009-09-09", "genre": "Com\u00e9die / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Brittany Petros (Director)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 491168, "title": "Calling All Fibbers", "original_title": "Calling All Fibbers", "slug_title": "calling-all-fibbers", "date": "1945-11-29", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Barbara Jo Allen (Vera Vague (as Vera Vague))"], "comments": [], "recommandations_id": []}

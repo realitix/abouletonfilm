@@ -1,1 +1,0 @@
-{"tmdb_id": 325571, "title": "Spoofie - Die Wilde Weste", "original_title": "Spoofie - Die Wilde Weste", "slug_title": "spoofie-die-wilde-weste", "date": "2012-04-01", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j1YnlPLWDNjVqKDocDVVYbt4Mo4.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 171357, "title": "Jonathan Rosenbaum, Present", "original_title": "Jonathan Rosenbaum, Present", "slug_title": "jonathan-rosenbaum-present", "date": "2013-02-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jonathan Rosenbaum (Self)", "Ignatiy Vishnevetsky (Self)"], "comments": [], "recommandations_id": []}

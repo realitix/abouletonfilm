@@ -1,1 +1,0 @@
-{"tmdb_id": 596624, "title": "Soul of the Funky Drummers", "original_title": "Soul of the Funky Drummers", "slug_title": "soul-of-the-funky-drummers", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8olEw8xIvjZUReA4VGaLxuOZUfG.jpg", "actors": [], "comments": [], "recommandations_id": []}

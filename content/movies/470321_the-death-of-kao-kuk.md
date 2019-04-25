@@ -1,1 +1,0 @@
-{"tmdb_id": 470321, "title": "The Death of Kao-Kuk", "original_title": "The Death of Kao-Kuk", "slug_title": "the-death-of-kao-kuk", "date": "2015-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

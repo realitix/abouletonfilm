@@ -1,1 +1,0 @@
-{"tmdb_id": 554311, "title": "Zombie Child", "original_title": "Zombi Child", "slug_title": "zombie-child", "date": "", "genre": "Fantastique / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

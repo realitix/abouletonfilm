@@ -1,1 +1,0 @@
-{"tmdb_id": 304525, "title": "Androcles and the Lion", "original_title": "Androcles and the Lion", "slug_title": "androcles-and-the-lion", "date": "1967-11-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

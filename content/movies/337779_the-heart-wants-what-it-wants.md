@@ -1,1 +1,0 @@
-{"tmdb_id": 337779, "title": "The Heart Wants What It Wants", "original_title": "The Heart Wants What It Wants", "slug_title": "the-heart-wants-what-it-wants", "date": "2015-03-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 373026, "title": "The Classic Project Vol. 6", "original_title": "The Classic Project Vol. 6", "slug_title": "the-classic-project-vol-6", "date": "2009-12-27", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2jicy8JZHGz4kgHXuo2T5tiroQC.jpg", "actors": [], "comments": [], "recommandations_id": []}

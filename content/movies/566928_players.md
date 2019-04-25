@@ -1,1 +1,0 @@
-{"tmdb_id": 566928, "title": "players", "original_title": "players", "slug_title": "players", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rOGYMfDo9w9l80bzOF9lxh4xBY0.jpg", "actors": ["Mariana Lilla (Mia)", "Mark Piller (Andy)"], "comments": [], "recommandations_id": []}

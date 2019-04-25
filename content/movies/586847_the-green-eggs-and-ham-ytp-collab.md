@@ -1,1 +1,0 @@
-{"tmdb_id": 586847, "title": "The Green Eggs And Ham YTP Collab", "original_title": "The Green Eggs And Ham YTP Collab", "slug_title": "the-green-eggs-and-ham-ytp-collab", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

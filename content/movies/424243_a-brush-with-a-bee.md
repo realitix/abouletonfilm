@@ -1,1 +1,0 @@
-{"tmdb_id": 424243, "title": "A Brush with a Bee", "original_title": "A Brush with a Bee", "slug_title": "a-brush-with-a-bee", "date": "2012-07-05", "genre": "Com\u00e9die / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sRGu22SWfPGFlXsLtJY4GqIMKvo.jpg", "actors": [], "comments": [], "recommandations_id": []}

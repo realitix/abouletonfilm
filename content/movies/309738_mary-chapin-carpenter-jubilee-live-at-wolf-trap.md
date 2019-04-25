@@ -1,1 +1,0 @@
-{"tmdb_id": 309738, "title": "Mary Chapin Carpenter: Jubilee: Live at Wolf Trap", "original_title": "Mary Chapin Carpenter: Jubilee: Live at Wolf Trap", "slug_title": "mary-chapin-carpenter-jubilee-live-at-wolf-trap", "date": "1995-07-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 32953, "title": "Alice the Toreador", "original_title": "Alice the Toreador", "slug_title": "alice-the-toreador", "date": "1925-01-01", "genre": "Animation", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wxUHXrg9U8q7uafsNes9VLkqED1.jpg", "actors": ["Virginia Davis (Alice)"], "comments": [], "recommandations_id": []}

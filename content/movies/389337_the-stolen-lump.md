@@ -1,1 +1,0 @@
-{"tmdb_id": 389337, "title": "The Stolen Lump", "original_title": "Kobutori", "slug_title": "the-stolen-lump", "date": "1957-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s51HOMRySS8BXTYwHpnkJojPHua.jpg", "actors": [], "comments": [], "recommandations_id": []}

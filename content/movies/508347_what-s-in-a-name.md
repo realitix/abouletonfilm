@@ -1,1 +1,0 @@
-{"tmdb_id": 508347, "title": "What's in a Name", "original_title": "What's in a Name", "slug_title": "what-s-in-a-name", "date": "2009-11-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Ahlo8FnzirGwY6RPtYrnC5C7hZi.jpg", "actors": [], "comments": [], "recommandations_id": []}

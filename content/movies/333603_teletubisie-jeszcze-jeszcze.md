@@ -1,1 +1,0 @@
-{"tmdb_id": 333603, "title": "Teletubisie: Jeszcze, jeszcze!", "original_title": "Teletubisie: Jeszcze, jeszcze!", "slug_title": "teletubisie-jeszcze-jeszcze", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

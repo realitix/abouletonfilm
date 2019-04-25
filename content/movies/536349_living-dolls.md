@@ -1,1 +1,0 @@
-{"tmdb_id": 536349, "title": "Living Dolls", "original_title": "Living Dolls", "slug_title": "living-dolls", "date": "2013-10-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pha2Mw9FMza3xnKDW2bOBNimtO9.jpg", "actors": [], "comments": [], "recommandations_id": []}

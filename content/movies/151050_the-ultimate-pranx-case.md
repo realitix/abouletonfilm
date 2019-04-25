@@ -1,1 +1,0 @@
-{"tmdb_id": 151050, "title": "The Ultimate Pranx Case", "original_title": "The Ultimate Pranx Case", "slug_title": "the-ultimate-pranx-case", "date": "2012-01-24", "genre": "", "score": "2.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aF0EvxdOyzl9Kucn6YqxmGxJQie.jpg", "actors": [], "comments": [], "recommandations_id": []}

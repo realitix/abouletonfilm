@@ -1,1 +1,0 @@
-{"tmdb_id": 531726, "title": "\u50f5\u5c38\u4fa0", "original_title": "\u50f5\u5c38\u4fa0", "slug_title": "jiang-shi-xia", "date": "2016-01-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f6blde8GizTd59nSTybMflLO5CV.jpg", "actors": [], "comments": [], "recommandations_id": []}

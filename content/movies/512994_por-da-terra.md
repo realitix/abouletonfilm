@@ -1,1 +1,0 @@
-{"tmdb_id": 512994, "title": "P\u00f4r da Terra", "original_title": "P\u00f4r da Terra", "slug_title": "por-da-terra", "date": "2015-11-23", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yVccb9bu5320t0aH1NJSfag4344.jpg", "actors": [], "comments": [], "recommandations_id": []}

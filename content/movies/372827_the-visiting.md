@@ -1,1 +1,0 @@
-{"tmdb_id": 372827, "title": "The Visiting", "original_title": "The Visiting", "slug_title": "the-visiting", "date": "2007-03-10", "genre": "Myst\u00e8re / Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Peter Chu ()", "David Rees-Thomas ()", "Katherine Hoskins Mackey (Reporter)"], "comments": [], "recommandations_id": []}

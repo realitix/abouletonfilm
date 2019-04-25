@@ -1,1 +1,0 @@
-{"tmdb_id": 336589, "title": "David Lynch Cooks Quinoa", "original_title": "David Lynch Cooks Quinoa", "slug_title": "david-lynch-cooks-quinoa", "date": "2007-08-14", "genre": "Documentaire", "score": "8.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["David Lynch (Himself)"], "comments": [], "recommandations_id": [271115, 210833, 196942, 458128]}

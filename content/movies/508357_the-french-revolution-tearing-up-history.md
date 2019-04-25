@@ -1,1 +1,0 @@
-{"tmdb_id": 508357, "title": "The French Revolution: Tearing Up History", "original_title": "The French Revolution: Tearing Up History", "slug_title": "the-french-revolution-tearing-up-history", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

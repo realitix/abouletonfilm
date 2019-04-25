@@ -1,1 +1,0 @@
-{"tmdb_id": 483279, "title": "Lie Back & Enjoy It", "original_title": "Lie Back & Enjoy It", "slug_title": "lie-back-enjoy-it", "date": "1982-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

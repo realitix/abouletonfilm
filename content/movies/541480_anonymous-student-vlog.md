@@ -1,1 +1,0 @@
-{"tmdb_id": 541480, "title": "Anonymous Student Vlog", "original_title": "Anonymous Student Vlog", "slug_title": "anonymous-student-vlog", "date": "2018-08-15", "genre": "Crime", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ykPAfyohQpFfo1lUU9nPsXZM0JT.jpg", "actors": [], "comments": [], "recommandations_id": []}

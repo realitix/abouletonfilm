@@ -1,1 +1,0 @@
-{"tmdb_id": 544409, "title": "Pregnant With a Swastika", "original_title": "Pregnant With a Swastika", "slug_title": "pregnant-with-a-swastika", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

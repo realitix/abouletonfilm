@@ -1,1 +1,0 @@
-{"tmdb_id": 563960, "title": "Latif\u00fandio", "original_title": "Latif\u00fandio", "slug_title": "latifundio", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4VcY29lWEY4tm5ztK2F1d2DwtNK.jpg", "actors": [], "comments": [], "recommandations_id": []}

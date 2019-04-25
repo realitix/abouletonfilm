@@ -1,1 +1,0 @@
-{"tmdb_id": 341103, "title": "Gamle Venner", "original_title": "Gamle Venner", "slug_title": "gamle-venner", "date": "2014-04-01", "genre": "Com\u00e9die / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Knut Walle ()", "Ingar Helge Gimle ()", "Frida Ferd ()"], "comments": [], "recommandations_id": []}

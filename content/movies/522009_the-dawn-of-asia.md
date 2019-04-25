@@ -1,1 +1,0 @@
-{"tmdb_id": 522009, "title": "The Dawn of Asia", "original_title": "Ajia no Akebono", "slug_title": "the-dawn-of-asia", "date": "1964-05-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

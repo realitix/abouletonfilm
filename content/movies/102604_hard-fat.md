@@ -1,1 +1,0 @@
-{"tmdb_id": 102604, "title": "Hard Fat", "original_title": "Hard Fat", "slug_title": "hard-fat", "date": "2002-08-24", "genre": "Documentaire", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

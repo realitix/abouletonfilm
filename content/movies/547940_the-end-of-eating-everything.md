@@ -1,1 +1,0 @@
-{"tmdb_id": 547940, "title": "The End of Eating Everything", "original_title": "The End of Eating Everything", "slug_title": "the-end-of-eating-everything", "date": "2013-03-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Santigold ()"], "comments": [], "recommandations_id": []}

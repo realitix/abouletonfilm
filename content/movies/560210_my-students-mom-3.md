@@ -1,1 +1,0 @@
-{"tmdb_id": 560210, "title": "My Student\u2019s Mom 3", "original_title": "My Student\u2019s Mom 3", "slug_title": "my-students-mom-3", "date": "2018-02-05", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jPYWpxZXEF35qkY9OTGU2z8l9Uh.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 334025, "title": "Captured on Film: The True Story of Marion Davies", "original_title": "Captured on Film: The True Story of Marion Davies", "slug_title": "captured-on-film-the-true-story-of-marion-davies", "date": "2001-02-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 262510, "title": "Freedom of the Leg", "original_title": "Wolno\u015b\u0107 nogi", "slug_title": "freedom-of-the-leg", "date": "1989-05-01", "genre": "", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/856UFpIKl7GoxgCdfGH2BtJltOS.jpg", "actors": [], "comments": [], "recommandations_id": []}

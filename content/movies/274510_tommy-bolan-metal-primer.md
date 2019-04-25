@@ -1,1 +1,0 @@
-{"tmdb_id": 274510, "title": "Tommy Bolan: Metal Primer", "original_title": "Tommy Bolan: Metal Primer", "slug_title": "tommy-bolan-metal-primer", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

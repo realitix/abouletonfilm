@@ -1,1 +1,0 @@
-{"tmdb_id": 573770, "title": "Rock N Roll Starship", "original_title": "Rock N Roll Starship", "slug_title": "rock-n-roll-starship", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

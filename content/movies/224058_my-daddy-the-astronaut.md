@@ -1,1 +1,0 @@
-{"tmdb_id": 224058, "title": "My Daddy the Astronaut", "original_title": "My Daddy the Astronaut", "slug_title": "my-daddy-the-astronaut", "date": "1967-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

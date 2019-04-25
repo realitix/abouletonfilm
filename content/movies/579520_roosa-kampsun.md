@@ -1,1 +1,0 @@
-{"tmdb_id": 579520, "title": "Roosa kampsun", "original_title": "Roosa kampsun", "slug_title": "roosa-kampsun", "date": "2014-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

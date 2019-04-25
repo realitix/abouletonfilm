@@ -1,1 +1,0 @@
-{"tmdb_id": 441034, "title": "Paradzhanov", "original_title": "Paradzhanov", "slug_title": "paradzhanov", "date": "1998-10-27", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wXrYdJqdtR86PuoO4dO1gFEIMNk.jpg", "actors": ["Sergei Parajanov (Himself (archive footage))"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 216657, "title": "Martin Scorsese, l'\u00e9motion par la musique", "original_title": "Martin Scorsese, l'\u00e9motion par la musique", "slug_title": "martin-scorsese-l-emotion-par-la-musique", "date": "2005-12-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 311418, "title": "Regalo Caro II", "original_title": "Regalo Caro II", "slug_title": "regalo-caro-ii", "date": "2004-06-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/21KwCiBx3TEOmC8XdUA1VAjgOT1.jpg", "actors": [], "comments": [], "recommandations_id": []}

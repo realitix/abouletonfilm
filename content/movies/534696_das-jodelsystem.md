@@ -1,1 +1,0 @@
-{"tmdb_id": 534696, "title": "Das Jodelsystem", "original_title": "Das Jodelsystem", "slug_title": "das-jodelsystem", "date": "1972-07-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 561150, "title": "The Male Fairy Fox of Liaozhai", "original_title": "The Male Fairy Fox of Liaozhai", "slug_title": "the-male-fairy-fox-of-liaozhai", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k2fkK8ofEHIJZUh0VfOkn251rr3.jpg", "actors": [], "comments": [], "recommandations_id": []}

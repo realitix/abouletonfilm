@@ -1,1 +1,0 @@
-{"tmdb_id": 306783, "title": "Stand-up bez cenzury", "original_title": "Stand-up bez cenzury", "slug_title": "stand-up-bez-cenzury", "date": "2014-11-06", "genre": "", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h3Ht5f5WvzkWCzDIVuW4YTYF0yi.jpg", "actors": [], "comments": [], "recommandations_id": []}

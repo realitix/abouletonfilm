@@ -1,1 +1,0 @@
-{"tmdb_id": 390629, "title": "WWF Xperience 1996", "original_title": "WWF Xperience 1996", "slug_title": "wwf-xperience-1996", "date": "1996-08-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ctQHCevlGv8I44PGbcauwItXalr.jpg", "actors": [], "comments": [], "recommandations_id": []}

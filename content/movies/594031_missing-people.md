@@ -1,1 +1,0 @@
-{"tmdb_id": 594031, "title": "Missing People", "original_title": "Missing People", "slug_title": "missing-people", "date": "2019-06-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

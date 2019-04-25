@@ -1,1 +1,1 @@
-{"tmdb_id": 532117, "title": "O Passageiro", "original_title": "O Passageiro", "slug_title": "o-passageiro", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 532117, "title": "O Passageiro", "original_title": "O Passageiro", "slug_title": "o-passageiro", "date": "", "genre": [""], "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

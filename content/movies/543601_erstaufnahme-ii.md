@@ -1,1 +1,0 @@
-{"tmdb_id": 543601, "title": "ERSTAUFNAHME II", "original_title": "ERSTAUFNAHME II", "slug_title": "erstaufnahme-ii", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

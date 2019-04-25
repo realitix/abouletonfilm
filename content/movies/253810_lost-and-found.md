@@ -1,1 +1,0 @@
-{"tmdb_id": 253810, "title": "Lost and Found", "original_title": "Lost and Found", "slug_title": "lost-and-found", "date": "2003-09-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

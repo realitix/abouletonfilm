@@ -1,1 +1,0 @@
-{"tmdb_id": 327661, "title": "Bleaching Black Culture", "original_title": "Bleaching Black Culture", "slug_title": "bleaching-black-culture", "date": "2014-09-30", "genre": "Documentaire", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w8W8qD4qbWPObvQ6S4VtEwCKlpZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

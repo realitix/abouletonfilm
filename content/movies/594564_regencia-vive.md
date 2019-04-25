@@ -1,1 +1,1 @@
-{"tmdb_id": 594564, "title": "Reg\u00eancia Vive", "original_title": "Reg\u00eancia Vive", "slug_title": "regencia-vive", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 594564, "title": "Reg\u00eancia Vive", "original_title": "Reg\u00eancia Vive", "slug_title": "regencia-vive", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

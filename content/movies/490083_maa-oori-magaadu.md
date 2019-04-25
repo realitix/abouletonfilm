@@ -1,1 +1,0 @@
-{"tmdb_id": 490083, "title": "Maa Oori Magaadu", "original_title": "Maa Oori Magaadu", "slug_title": "maa-oori-magaadu", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sD2c9DlAKkWaBmGyNQyzIRgBXi0.jpg", "actors": [], "comments": [], "recommandations_id": []}

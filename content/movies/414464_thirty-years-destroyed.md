@@ -1,1 +1,0 @@
-{"tmdb_id": 414464, "title": "Thirty Years Destroyed", "original_title": "Thirty Years Destroyed", "slug_title": "thirty-years-destroyed", "date": "1953-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 470903, "title": "Muffins for Granny", "original_title": "Muffins for Granny", "slug_title": "muffins-for-granny", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g9v9ChzvUO1RcDWWIb1aHbxlDgh.jpg", "actors": [], "comments": [], "recommandations_id": []}

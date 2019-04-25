@@ -1,1 +1,1 @@
-{"tmdb_id": 374424, "title": "Hauntologies", "original_title": "Hauntologies", "slug_title": "hauntologies", "date": "2012-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 374424, "title": "Hauntologies", "original_title": "Hauntologies", "slug_title": "hauntologies", "date": "2012-01-02", "genre": [""], "score": "0.0/10", "synopsis": "No overview", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

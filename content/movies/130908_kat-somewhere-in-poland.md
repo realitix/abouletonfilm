@@ -1,1 +1,0 @@
-{"tmdb_id": 130908, "title": "Kat - Somewhere In Poland", "original_title": "Kat - Somewhere In Poland", "slug_title": "kat-somewhere-in-poland", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zhRmy10abotwEfozbJQttRblhlz.jpg", "actors": [], "comments": [], "recommandations_id": []}

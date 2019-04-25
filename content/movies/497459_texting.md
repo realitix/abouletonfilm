@@ -1,1 +1,0 @@
-{"tmdb_id": 497459, "title": "Texting", "original_title": "Texting", "slug_title": "texting", "date": "2017-12-09", "genre": "Com\u00e9die / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uqRfpz83cBNlNcCBv8ezgYse8a0.jpg", "actors": ["Connor Munro (Man on phone)"], "comments": [], "recommandations_id": []}

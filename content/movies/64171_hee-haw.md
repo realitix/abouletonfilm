@@ -1,1 +1,0 @@
-{"tmdb_id": 64171, "title": "Hee Haw", "original_title": "Hee Haw", "slug_title": "hee-haw", "date": "1969-06-15", "genre": "", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sMHCX9mFH4JcCJWVkHK2lBfzZnr.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 411055, "title": "George Jones: Golden Hits", "original_title": "George Jones: Golden Hits", "slug_title": "george-jones-golden-hits", "date": "1994-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/va7m1BiO9Lg0Agt8etVZXfy7xwZ.jpg", "actors": ["George Jones ()"], "comments": [], "recommandations_id": []}

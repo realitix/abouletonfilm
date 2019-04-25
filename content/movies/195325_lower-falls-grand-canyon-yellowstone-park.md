@@ -1,1 +1,0 @@
-{"tmdb_id": 195325, "title": "Lower Falls, Grand Canyon, Yellowstone Park", "original_title": "Lower Falls, Grand Canyon, Yellowstone Park", "slug_title": "lower-falls-grand-canyon-yellowstone-park", "date": "1899-01-20", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

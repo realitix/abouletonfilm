@@ -1,1 +1,0 @@
-{"tmdb_id": 421241, "title": "Dynamic Salt", "original_title": "Du Sel Dans Mon Moteur", "slug_title": "dynamic-salt", "date": "2015-06-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6fTIVgYBNEa2xrNi8TAo5TUjixV.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 540134, "title": "Kirawa sakura ko no issh\u014d", "original_title": "Kirawa sakura ko no issh\u014d", "slug_title": "kirawa-sakura-ko-no-issho", "date": "2007-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kanade Ai ()", "Rio Mochizuki ()", "Takahiro Nomura ()"], "comments": [], "recommandations_id": []}

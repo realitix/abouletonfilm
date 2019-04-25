@@ -1,1 +1,0 @@
-{"tmdb_id": 233133, "title": "Muda Brasil", "original_title": "Muda Brasil", "slug_title": "muda-brasil", "date": "1985-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5lWCVTCv5YwZTJxjAKWQ4u0d4n.jpg", "actors": ["Jos\u00e9 de Abreu ()"], "comments": [], "recommandations_id": []}

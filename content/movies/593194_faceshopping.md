@@ -1,1 +1,0 @@
-{"tmdb_id": 593194, "title": "Faceshopping", "original_title": "Faceshopping", "slug_title": "faceshopping", "date": "2018-10-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

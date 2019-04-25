@@ -1,1 +1,0 @@
-{"tmdb_id": 341449, "title": "Ana Terra", "original_title": "Ana Terra", "slug_title": "ana-terra", "date": "1971-05-23", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jP3CCENyrRl9wYS7YfTYicp6BRN.jpg", "actors": ["Rossana Ghessa ()", "Geraldo Del Rey ()"], "comments": [], "recommandations_id": []}

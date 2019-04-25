@@ -1,1 +1,0 @@
-{"tmdb_id": 505942, "title": "Lifeboat", "original_title": "Lifeboat", "slug_title": "lifeboat", "date": "2018-10-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sofia Helin (Iben)", "P\u00e5l Sverre Hagen ()", "Sebnem Hassanisoughi ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 577762, "title": "Kill or Be Killed", "original_title": "Kill or Be Killed", "slug_title": "kill-or-be-killed", "date": "1943-01-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Elisha Cook Jr. ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 420207, "title": "Lights Above Water", "original_title": "Lumi\u00e8res sur l'eau", "slug_title": "lights-above-water", "date": "2016-10-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aYbwn5QM9visv6jfmTxc9t2HI8q.jpg", "actors": [], "comments": [], "recommandations_id": []}

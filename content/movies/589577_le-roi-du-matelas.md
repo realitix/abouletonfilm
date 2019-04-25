@@ -1,1 +1,0 @@
-{"tmdb_id": 589577, "title": "Le roi du matelas", "original_title": "Le roi du matelas", "slug_title": "le-roi-du-matelas", "date": "", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

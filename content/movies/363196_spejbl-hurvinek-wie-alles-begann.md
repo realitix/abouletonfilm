@@ -1,1 +1,0 @@
-{"tmdb_id": 363196, "title": "Spejbl & Hurvinek - Wie alles begann", "original_title": "Spejbl & Hurvinek - Wie alles begann", "slug_title": "spejbl-hurvinek-wie-alles-begann", "date": "1974-10-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

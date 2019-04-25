@@ -1,1 +1,0 @@
-{"tmdb_id": 275527, "title": "The Black Miami", "original_title": "The Black Miami", "slug_title": "the-black-miami", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

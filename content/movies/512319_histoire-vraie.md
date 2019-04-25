@@ -1,1 +1,0 @@
-{"tmdb_id": 512319, "title": "Histoire vraie", "original_title": "Histoire vraie", "slug_title": "histoire-vraie", "date": "1973-05-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

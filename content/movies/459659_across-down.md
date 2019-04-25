@@ -1,1 +1,0 @@
-{"tmdb_id": 459659, "title": "Across & Down", "original_title": "Across & Down", "slug_title": "across-down", "date": "2012-06-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

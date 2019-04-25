@@ -1,1 +1,0 @@
-{"tmdb_id": 354052, "title": "Bobby's Day Out", "original_title": "Bobby's Day Out", "slug_title": "bobby-s-day-out", "date": "1926-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bobby Ray (Bobby)"], "comments": [], "recommandations_id": []}

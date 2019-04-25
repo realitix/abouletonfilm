@@ -1,1 +1,0 @@
-{"tmdb_id": 497347, "title": "In The Footsteps of Verdi", "original_title": "In The Footsteps of Verdi", "slug_title": "in-the-footsteps-of-verdi", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

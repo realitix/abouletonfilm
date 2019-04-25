@@ -1,1 +1,0 @@
-{"tmdb_id": 466111, "title": "The AIDS Movie", "original_title": "The AIDS Movie", "slug_title": "the-aids-movie", "date": "1986-07-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 300855, "title": "5 Seasons The Movie", "original_title": "5 Seasons The Movie", "slug_title": "5-seasons-the-movie", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

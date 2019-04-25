@@ -1,1 +1,0 @@
-{"tmdb_id": 192480, "title": "Schoffies", "original_title": "Schoffies", "slug_title": "schoffies", "date": "2006-12-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oNGAfAbJQKdDcLDfPzHTzY6Rmo7.jpg", "actors": [], "comments": [], "recommandations_id": []}

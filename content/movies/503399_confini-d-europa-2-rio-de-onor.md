@@ -1,1 +1,0 @@
-{"tmdb_id": 503399, "title": "Confini d'Europa 2: Rio de Onor", "original_title": "Confini d'Europa 2: Rio de Onor", "slug_title": "confini-d-europa-2-rio-de-onor", "date": "2006-02-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

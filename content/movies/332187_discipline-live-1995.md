@@ -1,1 +1,0 @@
-{"tmdb_id": 332187, "title": "Discipline. - Live 1995", "original_title": "Discipline. - Live 1995", "slug_title": "discipline-live-1995", "date": "2005-08-30", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jcImwkC3dDPPq8bmaVCP3tVr8Ts.jpg", "actors": [], "comments": [], "recommandations_id": []}

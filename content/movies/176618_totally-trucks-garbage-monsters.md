@@ -1,1 +1,0 @@
-{"tmdb_id": 176618, "title": "Totally Trucks Garbage Monsters", "original_title": "Totally Trucks Garbage Monsters", "slug_title": "totally-trucks-garbage-monsters", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fCI8zDQLKkHLWxnBFxuT65HJ2dk.jpg", "actors": [], "comments": [], "recommandations_id": []}

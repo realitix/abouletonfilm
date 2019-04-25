@@ -1,1 +1,0 @@
-{"tmdb_id": 215116, "title": "Speaking Directly", "original_title": "Speaking Directly", "slug_title": "speaking-directly", "date": "1973-01-01", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w1JKtELS0lNwtzZgRBRh2thzX29.jpg", "actors": [], "comments": [], "recommandations_id": []}

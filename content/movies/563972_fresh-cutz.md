@@ -1,1 +1,0 @@
-{"tmdb_id": 563972, "title": "Fresh Cutz", "original_title": "Fresh Cutz", "slug_title": "fresh-cutz", "date": "2018-11-17", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qwT4wDuQ6nip53q30bj7xdNFBr7.jpg", "actors": [], "comments": [], "recommandations_id": []}

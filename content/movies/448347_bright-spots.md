@@ -1,1 +1,0 @@
-{"tmdb_id": 448347, "title": "Bright Spots", "original_title": "Bright Spots", "slug_title": "bright-spots", "date": "2016-04-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pP6GHmAvsE4cAiyu6EN2sl9NFYJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

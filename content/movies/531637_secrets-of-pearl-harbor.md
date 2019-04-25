@@ -1,1 +1,0 @@
-{"tmdb_id": 531637, "title": "Secrets of Pearl Harbor", "original_title": "Secrets of Pearl Harbor", "slug_title": "secrets-of-pearl-harbor", "date": "2004-12-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/keDVisOO2kP4i6gVJ2ZRPA5h6ki.jpg", "actors": [], "comments": [], "recommandations_id": []}

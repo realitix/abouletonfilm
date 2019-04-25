@@ -1,1 +1,0 @@
-{"tmdb_id": 153440, "title": "Hi I'm Philip", "original_title": "Hi I'm Philip", "slug_title": "hi-i-m-philip", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fSccGb6jZ3bsPzrY1E36U74qXdt.jpg", "actors": ["Philip Frabosilo (Himself)"], "comments": [], "recommandations_id": []}

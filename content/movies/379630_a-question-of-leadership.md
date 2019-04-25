@@ -1,1 +1,0 @@
-{"tmdb_id": 379630, "title": "A Question of Leadership", "original_title": "A Question of Leadership", "slug_title": "a-question-of-leadership", "date": "1981-08-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gxsVjmsQezAIDUJHO1V1pclo4Uk.jpg", "actors": [], "comments": [], "recommandations_id": []}

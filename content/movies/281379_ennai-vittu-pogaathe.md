@@ -1,1 +1,0 @@
-{"tmdb_id": 281379, "title": "Ennai Vittu Pogaathe", "original_title": "Ennai Vittu Pogaathe", "slug_title": "ennai-vittu-pogaathe", "date": "1988-07-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ramarajan ()", "Sabitha Anand ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 470108, "title": "MLB Official 2002 World Series Film", "original_title": "MLB Official 2002 World Series Film", "slug_title": "mlb-official-2002-world-series-film", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

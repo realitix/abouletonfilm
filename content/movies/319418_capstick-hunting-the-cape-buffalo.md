@@ -1,1 +1,0 @@
-{"tmdb_id": 319418, "title": "Capstick: Hunting the Cape Buffalo", "original_title": "Capstick: Hunting the Cape Buffalo", "slug_title": "capstick-hunting-the-cape-buffalo", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

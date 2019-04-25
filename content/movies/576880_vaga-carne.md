@@ -1,1 +1,0 @@
-{"tmdb_id": 576880, "title": "Vaga Carne", "original_title": "Vaga Carne", "slug_title": "vaga-carne", "date": "2019-01-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4nFAhrE49hdukhDHLIDONzpuRgu.jpg", "actors": ["Grace Pass\u00f4 ()"], "comments": [], "recommandations_id": []}

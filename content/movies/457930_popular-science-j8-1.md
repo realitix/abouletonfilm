@@ -1,1 +1,0 @@
-{"tmdb_id": 457930, "title": "Popular Science J8-1", "original_title": "Popular Science J8-1", "slug_title": "popular-science-j8-1", "date": "1938-09-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gayne Whitman (Narrator)"], "comments": [], "recommandations_id": []}

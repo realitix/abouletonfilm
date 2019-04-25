@@ -1,1 +1,0 @@
-{"tmdb_id": 541239, "title": "Cholera", "original_title": "\u0425\u043e\u043b\u0435\u0440\u0430", "slug_title": "cholera", "date": "2018-04-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hX6KAJAsOkyUMzK9wODr19CYUR5.jpg", "actors": [], "comments": [], "recommandations_id": []}

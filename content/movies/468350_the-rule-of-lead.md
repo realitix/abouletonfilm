@@ -1,1 +1,0 @@
-{"tmdb_id": 468350, "title": "The Rule of Lead", "original_title": "La Regola del Piombo", "slug_title": "the-rule-of-lead", "date": "2014-01-01", "genre": "Thriller / Drame / Fantastique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4HGmHoj9xWoc5UXeiiuMwreCUmC.jpg", "actors": [], "comments": [], "recommandations_id": []}

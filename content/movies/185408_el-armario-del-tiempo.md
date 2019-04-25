@@ -1,1 +1,0 @@
-{"tmdb_id": 185408, "title": "El armario del tiempo", "original_title": "El armario del tiempo", "slug_title": "el-armario-del-tiempo", "date": "1971-11-28", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2rkCXebMeLqiuVGjRpJULRxdxnf.jpg", "actors": [], "comments": [], "recommandations_id": []}

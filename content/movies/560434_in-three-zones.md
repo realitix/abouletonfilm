@@ -1,1 +1,0 @@
-{"tmdb_id": 560434, "title": "In Three Zones", "original_title": "In Three Zones", "slug_title": "in-three-zones", "date": "1966-06-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

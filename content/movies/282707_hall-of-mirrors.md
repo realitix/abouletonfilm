@@ -1,1 +1,0 @@
-{"tmdb_id": 282707, "title": "Hall of Mirrors", "original_title": "Hall of Mirrors", "slug_title": "hall-of-mirrors", "date": "1966-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cWSHdxooMgwN7Zb098XeADkylpY.jpg", "actors": ["Rene Ricard ()", "Gerard Malanga ()"], "comments": [], "recommandations_id": []}

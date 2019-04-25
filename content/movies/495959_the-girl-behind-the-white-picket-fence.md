@@ -1,1 +1,0 @@
-{"tmdb_id": 495959, "title": "The Girl behind the White Picket Fence", "original_title": "The Girl behind the White Picket Fence", "slug_title": "the-girl-behind-the-white-picket-fence", "date": "2013-12-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

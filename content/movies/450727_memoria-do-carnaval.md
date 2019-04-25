@@ -1,1 +1,0 @@
-{"tmdb_id": 450727, "title": "Mem\u00f3ria do Carnaval", "original_title": "Mem\u00f3ria do Carnaval", "slug_title": "memoria-do-carnaval", "date": "1976-04-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u8gkJ8eFmRzDM8BO9gCEszoD9ku.jpg", "actors": [], "comments": [], "recommandations_id": []}

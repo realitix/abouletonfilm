@@ -1,1 +1,0 @@
-{"tmdb_id": 135167, "title": "Banksy's Coming to Dinner", "original_title": "Banksy's Coming to Dinner", "slug_title": "banksy-s-coming-to-dinner", "date": "2009-07-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 536741, "title": "Strong Waters", "original_title": "\u00c1gua Forte", "slug_title": "strong-waters", "date": "2018-07-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rnuCSCeTX1Sg4hgwoTwk0qQNw0d.jpg", "actors": ["Adriana Villa (Narrator)"], "comments": [], "recommandations_id": []}

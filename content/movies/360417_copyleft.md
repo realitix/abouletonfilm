@@ -1,1 +1,0 @@
-{"tmdb_id": 360417, "title": "Copyleft", "original_title": "Copyleft", "slug_title": "copyleft", "date": "2015-09-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/shSmiGkMdbIw2uzfj2mYwEknjZG.jpg", "actors": ["Elke Maravilha ()", "Andr\u00e9 Nakau ()", "Neuzinha Rocha ()"], "comments": [], "recommandations_id": []}

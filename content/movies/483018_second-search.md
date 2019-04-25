@@ -1,1 +1,0 @@
-{"tmdb_id": 483018, "title": "Second Search", "original_title": "Jostoju-ye dovvom", "slug_title": "second-search", "date": "1981-10-23", "genre": "Aventure", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gn8O53QJQ6RKRQwsOJFbiUHvdET.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 283249, "title": "Dokuro no mai", "original_title": "Dokuro no mai", "slug_title": "dokuro-no-mai", "date": "1923-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kaichi Yamamoto ()", "Eijir\u00f4 Mori ()", "Takaya Yamada ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 313951, "title": "Tropical Fish", "original_title": "Tropical Fish", "slug_title": "tropical-fish", "date": "1933-05-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

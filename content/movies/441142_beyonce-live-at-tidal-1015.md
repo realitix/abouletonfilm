@@ -1,1 +1,0 @@
-{"tmdb_id": 441142, "title": "Beyonc\u00e9, Live at Tidal 1015", "original_title": "Beyonc\u00e9, Live at Tidal 1015", "slug_title": "beyonce-live-at-tidal-1015", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

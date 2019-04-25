@@ -1,1 +1,0 @@
-{"tmdb_id": 569858, "title": "Braddock, PA", "original_title": "Braddock, PA", "slug_title": "braddock-pa", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/adtFfyPawaKRNr8WD0YpzyAlTcg.jpg", "actors": [], "comments": [], "recommandations_id": []}

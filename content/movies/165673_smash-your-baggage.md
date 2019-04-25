@@ -1,1 +1,0 @@
-{"tmdb_id": 165673, "title": "Smash Your Baggage", "original_title": "Smash Your Baggage", "slug_title": "smash-your-baggage", "date": "1932-10-29", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

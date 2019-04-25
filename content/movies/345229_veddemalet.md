@@ -1,1 +1,0 @@
-{"tmdb_id": 345229, "title": "Veddem\u00e5let", "original_title": "Veddem\u00e5let", "slug_title": "veddemalet", "date": "2001-11-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Niklas James Knudsen ()", "Peter Tindberg ()", "Axel Zeiner ()"], "comments": [], "recommandations_id": []}

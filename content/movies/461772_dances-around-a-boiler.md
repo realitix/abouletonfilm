@@ -1,1 +1,0 @@
-{"tmdb_id": 461772, "title": "Dances Around a Boiler", "original_title": "Tants aurukatla \u00fcmber", "slug_title": "dances-around-a-boiler", "date": "1987-06-13", "genre": "Drame / Histoire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

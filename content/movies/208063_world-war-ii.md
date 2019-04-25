@@ -1,1 +1,0 @@
-{"tmdb_id": 208063, "title": "World War II", "original_title": "World War II", "slug_title": "world-war-ii", "date": "2006-05-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 319969, "title": "Brooklyn's Bridge To Jordan", "original_title": "Brooklyn's Bridge To Jordan", "slug_title": "brooklyn-s-bridge-to-jordan", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 104806, "title": "Allegretto", "original_title": "Allegretto", "slug_title": "allegretto", "date": "1936-01-01", "genre": "Animation", "score": "6.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yW9IifUtCJRzd6atq9m3C3js3fD.jpg", "actors": [], "comments": [], "recommandations_id": [190309, 190081, 189943, 236063]}

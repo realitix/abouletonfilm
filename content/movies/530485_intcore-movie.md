@@ -1,1 +1,1 @@
-{"tmdb_id": 530485, "title": "Intcore Movie", "original_title": "Intcore Movie", "slug_title": "intcore-movie", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 530485, "title": "Intcore Movie", "original_title": "Intcore Movie", "slug_title": "intcore-movie", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "It's about intcore movie.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

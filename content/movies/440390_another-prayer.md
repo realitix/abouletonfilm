@@ -1,1 +1,0 @@
-{"tmdb_id": 440390, "title": "Another Prayer", "original_title": "Dalsza Modlitwa", "slug_title": "another-prayer", "date": "2014-03-05", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/flcmNdSLntKhLolLRQRluj8Z7wk.jpg", "actors": [], "comments": [], "recommandations_id": []}

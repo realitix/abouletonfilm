@@ -1,1 +1,0 @@
-{"tmdb_id": 428856, "title": "Leyendas del Toa", "original_title": "Leyendas del Toa", "slug_title": "leyendas-del-toa", "date": "1993-01-02", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

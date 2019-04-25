@@ -1,1 +1,0 @@
-{"tmdb_id": 294322, "title": "Flashdrive", "original_title": "Flashdrive", "slug_title": "flashdrive", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 565772, "title": "Deya Neya", "original_title": "Deya Neya", "slug_title": "deya-neya", "date": "1963-03-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e6pF7KgvReA0cJsYEeSBp8nP5v8.jpg", "actors": ["Uttam Kumar (Prasanta Roy)", "Tanuja (Sucharita Majumdar)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 267088, "title": "Salt in the Air", "original_title": "Salt in the Air", "slug_title": "salt-in-the-air", "date": "2013-08-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rc82gq8vDhxkh0hUXdjvLNpw1Nc.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 334014, "title": "The Flood", "original_title": "\u0627\u0644\u0637\u0648\u0641\u0627\u0646", "slug_title": "the-flood", "date": "1985-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

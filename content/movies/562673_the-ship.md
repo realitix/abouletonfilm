@@ -1,1 +1,0 @@
-{"tmdb_id": 562673, "title": "The Ship", "original_title": "Laivas", "slug_title": "the-ship", "date": "2018-11-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dV1Kf4hjcujqtfEphekLdK7R6u7.jpg", "actors": [], "comments": [], "recommandations_id": []}

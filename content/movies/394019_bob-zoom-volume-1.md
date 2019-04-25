@@ -1,1 +1,0 @@
-{"tmdb_id": 394019, "title": "Bob Zoom - Volume 1", "original_title": "Bob Zoom - Volume 1", "slug_title": "bob-zoom-volume-1", "date": "2013-06-25", "genre": "Familial / Musique", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ruUEqQGn4bVQfQFzWN4MXbMWqHK.jpg", "actors": [], "comments": [], "recommandations_id": []}

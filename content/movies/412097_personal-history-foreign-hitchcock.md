@@ -1,1 +1,0 @@
-{"tmdb_id": 412097, "title": "Personal History: Foreign Hitchcock", "original_title": "Personal History: Foreign Hitchcock", "slug_title": "personal-history-foreign-hitchcock", "date": "2004-09-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

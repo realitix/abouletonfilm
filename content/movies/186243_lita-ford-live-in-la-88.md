@@ -1,1 +1,0 @@
-{"tmdb_id": 186243, "title": "Lita Ford: Live in LA '88", "original_title": "Lita Ford: Live in LA '88", "slug_title": "lita-ford-live-in-la-88", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

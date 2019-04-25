@@ -1,1 +1,0 @@
-{"tmdb_id": 410359, "title": "Normalization", "original_title": "Kauza Cervanov\u00e1", "slug_title": "normalization", "date": "2013-01-01", "genre": "Crime / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cfhMuBWWlYo0BC13gOX72wr51z6.jpg", "actors": [], "comments": [], "recommandations_id": []}

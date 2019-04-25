@@ -1,1 +1,0 @@
-{"tmdb_id": 302015, "title": "Poem Field No. 2", "original_title": "Poem Field No. 2", "slug_title": "poem-field-no-2", "date": "1966-01-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kZ9CzP1G2m9GPdPFu2wNEwDVr0a.jpg", "actors": [], "comments": [], "recommandations_id": []}

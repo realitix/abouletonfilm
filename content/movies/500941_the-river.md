@@ -1,1 +1,0 @@
-{"tmdb_id": 500941, "title": "The River", "original_title": "Floden", "slug_title": "the-river", "date": "2003-08-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ellen Hillings\u00f8 ()", "Jens J\u00f8rn Spottag ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 504808, "title": "Cadenza d'inganno", "original_title": "Cadenza d'inganno", "slug_title": "cadenza-d-inganno", "date": "2011-04-10", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

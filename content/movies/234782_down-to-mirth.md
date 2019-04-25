@@ -1,1 +1,0 @@
-{"tmdb_id": 234782, "title": "Down to Mirth", "original_title": "Down to Mirth", "slug_title": "down-to-mirth", "date": "1959-05-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

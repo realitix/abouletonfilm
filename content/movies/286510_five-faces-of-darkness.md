@@ -1,1 +1,0 @@
-{"tmdb_id": 286510, "title": "Five Faces of Darkness", "original_title": "Five Faces of Darkness", "slug_title": "five-faces-of-darkness", "date": "1986-09-15", "genre": "", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jOPL91JdAfm9cwFe5IAtVEX78s8.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 350509, "title": "\uc544\uba54\ub9ac\uce74 \uc544\uba54\ub9ac\uce74", "original_title": "\uc544\uba54\ub9ac\uce74 \uc544\uba54\ub9ac\uce74", "slug_title": "amerika-amerika", "date": "1988-09-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 412275, "title": "Dune - Live at Smukfest", "original_title": "Dune - Live at Smukfest", "slug_title": "dune-live-at-smukfest", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

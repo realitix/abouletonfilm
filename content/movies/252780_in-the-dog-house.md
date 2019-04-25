@@ -1,1 +1,0 @@
-{"tmdb_id": 252780, "title": "In the Dog House", "original_title": "In the Dog House", "slug_title": "in-the-dog-house", "date": "1934-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Andy Clyde ()", "Vivien Oakland ()", "Delmar Watson ()"], "comments": [], "recommandations_id": []}

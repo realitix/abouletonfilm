@@ -1,1 +1,0 @@
-{"tmdb_id": 179130, "title": "Mind Fuck", "original_title": "Mind Fuck", "slug_title": "mind-fuck", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

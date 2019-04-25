@@ -1,1 +1,0 @@
-{"tmdb_id": 374054, "title": "Cavern Club", "original_title": "Cavern Club", "slug_title": "cavern-club", "date": "2015-05-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o75LZs3Gt4GNyLWBlZp4hr4PCY6.jpg", "actors": [], "comments": [], "recommandations_id": []}

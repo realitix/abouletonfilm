@@ -1,1 +1,0 @@
-{"tmdb_id": 566939, "title": "Chasseurs de phoques", "original_title": "Chasseurs de phoques", "slug_title": "chasseurs-de-phoques", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uKaXlj1BGOMFUP4QRUu6RbDij0s.jpg", "actors": [], "comments": [], "recommandations_id": []}

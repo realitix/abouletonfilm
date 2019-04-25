@@ -1,1 +1,0 @@
-{"tmdb_id": 541255, "title": "Mein Bruder - We'll Meet Again", "original_title": "Mein Bruder - We'll Meet Again", "slug_title": "mein-bruder-we-ll-meet-again", "date": "2005-02-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

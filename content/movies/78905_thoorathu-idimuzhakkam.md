@@ -1,1 +1,0 @@
-{"tmdb_id": 78905, "title": "Thoorathu Idimuzhakkam", "original_title": "Thoorathu Idimuzhakkam", "slug_title": "thoorathu-idimuzhakkam", "date": "1980-12-05", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Vijayakanth ()", "Poornima Bhagyaraj ()"], "comments": [], "recommandations_id": []}

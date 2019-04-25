@@ -1,1 +1,0 @@
-{"tmdb_id": 216929, "title": "A Cut Above - 100 Seasons of Duke Basketball", "original_title": "A Cut Above - 100 Seasons of Duke Basketball", "slug_title": "a-cut-above-100-seasons-of-duke-basketball", "date": "2005-10-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

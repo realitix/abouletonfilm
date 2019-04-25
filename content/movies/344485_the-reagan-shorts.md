@@ -1,1 +1,0 @@
-{"tmdb_id": 344485, "title": "The Reagan Shorts", "original_title": "The Reagan Shorts", "slug_title": "the-reagan-shorts", "date": "2015-01-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

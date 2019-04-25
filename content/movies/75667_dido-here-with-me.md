@@ -1,1 +1,0 @@
-{"tmdb_id": 75667, "title": "Dido: Here With Me", "original_title": "Dido: Here With Me", "slug_title": "dido-here-with-me", "date": "2000-11-21", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qhK0TKHP6HjRSAEzumsfIVMfVaa.jpg", "actors": ["Dido (Herself)"], "comments": [], "recommandations_id": []}

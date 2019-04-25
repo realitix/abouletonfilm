@@ -1,1 +1,0 @@
-{"tmdb_id": 580471, "title": "Ich hasse, ich liebe Film", "original_title": "Ich hasse, ich liebe Film", "slug_title": "ich-hasse-ich-liebe-film", "date": "1977-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qtr43VcBtGK5WP8VVbPat1cB7Wl.jpg", "actors": [], "comments": [], "recommandations_id": []}

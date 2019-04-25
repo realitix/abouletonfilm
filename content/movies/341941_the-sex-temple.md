@@ -1,1 +1,0 @@
-{"tmdb_id": 341941, "title": "The Sex Temple", "original_title": "Sextemplet", "slug_title": "the-sex-temple", "date": "2015-05-29", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hfJwYPJTj9ulMakNJQcqNAOrLAD.jpg", "actors": [], "comments": [], "recommandations_id": []}

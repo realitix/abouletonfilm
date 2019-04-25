@@ -1,1 +1,0 @@
-{"tmdb_id": 349653, "title": "\uc624\uc0ac\uce74\uc758 \ud478\ub978 \ubc24", "original_title": "\uc624\uc0ac\uce74\uc758 \ud478\ub978 \ubc24", "slug_title": "osakayi-pureun-bam", "date": "1993-06-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

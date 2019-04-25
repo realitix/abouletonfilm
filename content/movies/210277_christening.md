@@ -1,1 +1,0 @@
-{"tmdb_id": 210277, "title": "Christening", "original_title": "Christening", "slug_title": "christening", "date": "2010-10-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

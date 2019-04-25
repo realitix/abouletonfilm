@@ -1,1 +1,0 @@
-{"tmdb_id": 189503, "title": "Hooked at the Altar", "original_title": "Hooked at the Altar", "slug_title": "hooked-at-the-altar", "date": "1926-10-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

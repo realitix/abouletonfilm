@@ -1,1 +1,0 @@
-{"tmdb_id": 263500, "title": "Cruel and Unusual", "original_title": "Cruel and Unusual", "slug_title": "cruel-and-unusual", "date": "2006-10-24", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bm3E9kB6b76Z1g8yeIbkBupqmFh.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 300147, "title": "Buba Matti", "original_title": "\u05d1\u05d5\u05d1\u05d4 \u05de\u05ea\u05d9", "slug_title": "buba-matti", "date": "1992-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/957XXBBqbiGSNgBtIgCi6Aj7xTW.jpg", "actors": ["Matti Caspi (Buba Matti)"], "comments": [], "recommandations_id": []}

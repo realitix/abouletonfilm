@@ -1,1 +1,0 @@
-{"tmdb_id": 280777, "title": "Tendulkar Out", "original_title": "Tendulkar Out", "slug_title": "tendulkar-out", "date": "2013-11-15", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sai Tamhankar ()", "Santosh Juvekar ()", "Sayaji Shinde ()", "Aniket Vishwasrao ()"], "comments": [], "recommandations_id": []}

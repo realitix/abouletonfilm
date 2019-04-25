@@ -1,1 +1,0 @@
-{"tmdb_id": 554237, "title": "We are like Oranges", "original_title": "Vi \u00e4r som apelsiner", "slug_title": "we-are-like-oranges", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kari Berg (Sara)", "Jesper Eriksson (Josef)", "Tim Tjernlund (Peter)"], "comments": [], "recommandations_id": []}

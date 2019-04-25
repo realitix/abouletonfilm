@@ -1,1 +1,0 @@
-{"tmdb_id": 358186, "title": "Plastic", "original_title": "Plastic", "slug_title": "plastic", "date": "2008-01-04", "genre": "", "score": "6.3/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Romy Bartz (Anna)", "Don Hany (Henry)"], "comments": [], "recommandations_id": []}

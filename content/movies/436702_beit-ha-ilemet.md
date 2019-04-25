@@ -1,1 +1,0 @@
-{"tmdb_id": 436702, "title": "Beit Ha'Ilemet", "original_title": "Beit Ha'Ilemet", "slug_title": "beit-ha-ilemet", "date": "2015-01-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6RvKs9GDMovat7VsxqwKZd6y2hq.jpg", "actors": [], "comments": [], "recommandations_id": []}

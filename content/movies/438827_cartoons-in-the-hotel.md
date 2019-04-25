@@ -1,1 +1,0 @@
-{"tmdb_id": 438827, "title": "Cartoons in the Hotel", "original_title": "Cartoons in the Hotel", "slug_title": "cartoons-in-the-hotel", "date": "1915-06-29", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Andy Clark ()", "Guido Colucci ()", "Gladys Leslie ()", "Julian Reed ()"], "comments": [], "recommandations_id": []}

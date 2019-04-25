@@ -1,1 +1,0 @@
-{"tmdb_id": 132851, "title": "Black TV", "original_title": "Black TV", "slug_title": "black-tv", "date": "1968-01-01", "genre": "", "score": "5.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a8SNIbYrzKlvrHQttcpYYIeWNTl.jpg", "actors": [], "comments": [], "recommandations_id": [147990, 147986, 383841, 150933]}

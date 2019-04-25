@@ -1,1 +1,0 @@
-{"tmdb_id": 557739, "title": "Cliff Richard & The Shadows. Live in London 2009", "original_title": "Cliff Richard & The Shadows. Live in London 2009", "slug_title": "cliff-richard-the-shadows-live-in-london-2009", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

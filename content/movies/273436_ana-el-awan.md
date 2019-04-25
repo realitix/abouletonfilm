@@ -1,1 +1,0 @@
-{"tmdb_id": 273436, "title": "Ana El Awan", "original_title": "Ana El Awan", "slug_title": "ana-el-awan", "date": "1994-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Simon Abkarian ()", "Darina El Joundi ()", "Nati Sourati ()"], "comments": [], "recommandations_id": []}

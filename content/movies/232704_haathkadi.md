@@ -1,1 +1,0 @@
-{"tmdb_id": 232704, "title": "Haathkadi", "original_title": "Haathkadi", "slug_title": "haathkadi", "date": "1995-03-30", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bhFfg0OURszlSP3W4AJXrPTdk60.jpg", "actors": ["Govinda (Suraj / Rajnikanth)", "Shilpa Shetty (Neha)"], "comments": [], "recommandations_id": []}

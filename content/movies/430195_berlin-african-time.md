@@ -1,1 +1,0 @@
-{"tmdb_id": 430195, "title": "Berlin African Time", "original_title": "Berlin African Time", "slug_title": "berlin-african-time", "date": "1991-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

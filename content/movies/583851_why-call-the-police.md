@@ -1,1 +1,0 @@
-{"tmdb_id": 583851, "title": "Why Call the Police", "original_title": "Why Call the Police", "slug_title": "why-call-the-police", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dWf9xh8JYQkqDZVLHSi3Th3Tw18.jpg", "actors": [], "comments": [], "recommandations_id": []}

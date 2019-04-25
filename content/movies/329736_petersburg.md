@@ -1,1 +1,0 @@
-{"tmdb_id": 329736, "title": "Petersburg", "original_title": "Peterburg", "slug_title": "petersburg", "date": "2003-06-21", "genre": "Animation", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bPpacgah6PJETD9zSoacw0JmtlN.jpg", "actors": [], "comments": [], "recommandations_id": []}

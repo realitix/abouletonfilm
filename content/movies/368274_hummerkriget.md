@@ -1,1 +1,1 @@
-{"tmdb_id": 368274, "title": "Hummerkriget", "original_title": "Hummerkriget", "slug_title": "hummerkriget", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 368274, "title": "Hummerkriget", "original_title": "Hummerkriget", "slug_title": "hummerkriget", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Swedish TV-Drama", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,1 +1,0 @@
-{"tmdb_id": 321279, "title": "The Granite Stroke", "original_title": "The Granite Stroke", "slug_title": "the-granite-stroke", "date": "2014-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

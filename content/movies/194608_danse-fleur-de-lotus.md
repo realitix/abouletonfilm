@@ -1,1 +1,0 @@
-{"tmdb_id": 194608, "title": "Danse fleur de lotus", "original_title": "Danse fleur de lotus", "slug_title": "danse-fleur-de-lotus", "date": "1897-05-18", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uj1s42zDqJOPeHGj5R4QeIhNERE.jpg", "actors": [], "comments": [], "recommandations_id": []}

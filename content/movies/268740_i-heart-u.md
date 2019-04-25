@@ -1,1 +1,0 @@
-{"tmdb_id": 268740, "title": "I Heart U", "original_title": "I Heart U", "slug_title": "i-heart-u", "date": "2014-05-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

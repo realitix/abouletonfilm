@@ -1,1 +1,0 @@
-{"tmdb_id": 511498, "title": "The Dirt on Soap", "original_title": "Le savon lave", "slug_title": "the-dirt-on-soap", "date": "2000-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/c4QfpN9yYazdauenHIDDkToy1BU.jpg", "actors": [], "comments": [], "recommandations_id": []}

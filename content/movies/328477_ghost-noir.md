@@ -1,1 +1,0 @@
-{"tmdb_id": 328477, "title": "Ghost Noir", "original_title": "Ghost Noir", "slug_title": "ghost-noir", "date": "2015-01-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

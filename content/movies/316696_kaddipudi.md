@@ -1,1 +1,0 @@
-{"tmdb_id": 316696, "title": "Kaddipudi", "original_title": "Kaddipudi", "slug_title": "kaddipudi", "date": "2013-06-07", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

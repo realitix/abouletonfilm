@@ -1,1 +1,0 @@
-{"tmdb_id": 463437, "title": "Mater Dolorosa", "original_title": "Mater Dolorosa", "slug_title": "mater-dolorosa", "date": "1933-01-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xbMzyKdbmR4S1EVfmUzc55UYyAf.jpg", "actors": [], "comments": [], "recommandations_id": []}

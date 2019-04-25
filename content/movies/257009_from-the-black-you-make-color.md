@@ -1,1 +1,0 @@
-{"tmdb_id": 257009, "title": "From the Black You Make Color", "original_title": "From the Black You Make Color", "slug_title": "from-the-black-you-make-color", "date": "2012-11-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

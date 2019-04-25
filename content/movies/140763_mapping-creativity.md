@@ -1,1 +1,0 @@
-{"tmdb_id": 140763, "title": "Mapping Creativity", "original_title": "Mapping Creativity", "slug_title": "mapping-creativity", "date": "2012-09-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

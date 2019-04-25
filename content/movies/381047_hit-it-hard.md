@@ -1,1 +1,0 @@
-{"tmdb_id": 381047, "title": "Hit it Hard", "original_title": "Hit it Hard", "slug_title": "hit-it-hard", "date": "2016-03-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7ehkV4gfb7TpMndb7O2dRSjjxIk.jpg", "actors": ["John Daly (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 193672, "title": "Coldplay: MTV World Stage", "original_title": "Coldplay: MTV World Stage", "slug_title": "coldplay-mtv-world-stage", "date": "2009-05-15", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7ywOUFxJpgo97tprRJlQWTTPbVH.jpg", "actors": [], "comments": [], "recommandations_id": []}

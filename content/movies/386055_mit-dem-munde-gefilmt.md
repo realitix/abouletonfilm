@@ -1,1 +1,0 @@
-{"tmdb_id": 386055, "title": "Mit dem Munde gefilmt", "original_title": "Mit dem Munde gefilmt", "slug_title": "mit-dem-munde-gefilmt", "date": "1981-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

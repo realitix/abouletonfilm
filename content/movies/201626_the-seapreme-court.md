@@ -1,1 +1,0 @@
-{"tmdb_id": 201626, "title": "The Seapreme Court", "original_title": "The Seapreme Court", "slug_title": "the-seapreme-court", "date": "1954-01-29", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xkQF9Ue8asXpfRQMAA0P0SoqNYj.jpg", "actors": [], "comments": [], "recommandations_id": []}

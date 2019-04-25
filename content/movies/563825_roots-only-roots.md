@@ -1,1 +1,0 @@
-{"tmdb_id": 563825, "title": "Roots, Only Roots", "original_title": "Roots, Only Roots", "slug_title": "roots-only-roots", "date": "2017-12-11", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y1GWtw91RWCGaj16Gsr4vZyTPF0.jpg", "actors": [], "comments": [], "recommandations_id": []}

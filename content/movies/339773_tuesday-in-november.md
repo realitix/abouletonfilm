@@ -1,1 +1,0 @@
-{"tmdb_id": 339773, "title": "Tuesday in November", "original_title": "Tuesday in November", "slug_title": "tuesday-in-november", "date": "1945-05-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aOjRsl7Iz6AtvHHjuJp8lTLixpM.jpg", "actors": [], "comments": [], "recommandations_id": []}

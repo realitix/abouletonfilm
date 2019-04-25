@@ -1,1 +1,0 @@
-{"tmdb_id": 61181, "title": "Pavlo Mediterranean Nights", "original_title": "Pavlo Mediterranean Nights", "slug_title": "pavlo-mediterranean-nights", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2xKiNdbZi0IubtiDcYlYapOTAZd.jpg", "actors": [], "comments": [], "recommandations_id": []}

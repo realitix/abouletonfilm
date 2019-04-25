@@ -1,1 +1,0 @@
-{"tmdb_id": 420659, "title": "The Master: An Ordinary Man", "original_title": "\ub2ec\uc778", "slug_title": "the-master-an-ordinary-man", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8WSYzRpTKjthCT4kndeHP0h0dOq.jpg", "actors": [], "comments": [], "recommandations_id": []}

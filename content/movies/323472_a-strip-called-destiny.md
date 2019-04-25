@@ -1,1 +1,0 @@
-{"tmdb_id": 323472, "title": "A Strip Called Destiny", "original_title": "A Strip Called Destiny", "slug_title": "a-strip-called-destiny", "date": "2009-10-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

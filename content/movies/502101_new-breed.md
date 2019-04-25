@@ -1,1 +1,0 @@
-{"tmdb_id": 502101, "title": "New Breed", "original_title": "New Breed", "slug_title": "new-breed", "date": "", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xwZRFJRVXhHWAw0h0CATVDGNgDp.jpg", "actors": ["Hannah Fierman ()"], "comments": [], "recommandations_id": []}

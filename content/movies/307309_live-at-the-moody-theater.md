@@ -1,1 +1,0 @@
-{"tmdb_id": 307309, "title": "Live At The Moody Theater", "original_title": "Live At The Moody Theater", "slug_title": "live-at-the-moody-theater", "date": "2012-05-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

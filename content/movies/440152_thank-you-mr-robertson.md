@@ -1,1 +1,0 @@
-{"tmdb_id": 440152, "title": "Thank You, Mr. Robertson", "original_title": "Merci Monsieur Robertson", "slug_title": "thank-you-mr-robertson", "date": "1985-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Alexandre von Sivers (Robertson)"], "comments": [], "recommandations_id": []}

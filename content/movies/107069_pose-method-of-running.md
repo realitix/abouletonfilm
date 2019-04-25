@@ -1,1 +1,0 @@
-{"tmdb_id": 107069, "title": "Pose Method of Running", "original_title": "Pose Method of Running", "slug_title": "pose-method-of-running", "date": "2001-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ex7qy9eVdVEhPXfGlzVSguIUzlA.jpg", "actors": [], "comments": [], "recommandations_id": []}

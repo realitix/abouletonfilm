@@ -1,1 +1,0 @@
-{"tmdb_id": 45946, "title": "Terminus", "original_title": "Terminus", "slug_title": "terminus", "date": "1961-12-01", "genre": "Documentaire", "score": "6.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wgINROVnzQtujpvc8FZYKkD01TP.jpg", "actors": [], "comments": [], "recommandations_id": [315647, 85797, 183005, 331489]}

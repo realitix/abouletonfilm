@@ -1,1 +1,0 @@
-{"tmdb_id": 254105, "title": "Prisoners Prove Intervention in Spain", "original_title": "Prisoners Prove Intervention in Spain", "slug_title": "prisoners-prove-intervention-in-spain", "date": "1938-02-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

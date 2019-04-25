@@ -1,1 +1,0 @@
-{"tmdb_id": 318537, "title": "Third Day", "original_title": "Third Day", "slug_title": "third-day", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

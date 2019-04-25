@@ -1,1 +1,0 @@
-{"tmdb_id": 331315, "title": "Patron Saint", "original_title": "Patron Saint", "slug_title": "patron-saint", "date": "2015-03-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Janusz Dukszta (himself)"], "comments": [], "recommandations_id": []}

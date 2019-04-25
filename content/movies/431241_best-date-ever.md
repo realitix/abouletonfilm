@@ -1,1 +1,0 @@
-{"tmdb_id": 431241, "title": "Best Date Ever!", "original_title": "Best Date Ever!", "slug_title": "best-date-ever", "date": "2011-05-21", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Harry Shum Jr. (Stewart)", "Tania Verafield (Date)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 48622, "title": "Gatebil Filmen 2008", "original_title": "Gatebil Filmen 2008", "slug_title": "gatebil-filmen-2008", "date": "2008-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8CIcp1gojv9RjGKKwFzssKRMQJe.jpg", "actors": ["Geir Schau (Glenn Rodney)"], "comments": [], "recommandations_id": []}

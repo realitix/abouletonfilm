@@ -1,1 +1,0 @@
-{"tmdb_id": 76337, "title": "Sammi Love Mi Concert 2009", "original_title": "Sammi Love Mi Concert 2009", "slug_title": "sammi-love-mi-concert-2009", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iomIFZTTrqcwYMw29f1NsWmNU0a.jpg", "actors": ["Sammi Cheng ()"], "comments": [], "recommandations_id": []}

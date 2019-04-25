@@ -1,1 +1,0 @@
-{"tmdb_id": 506655, "title": "Eternity", "original_title": "P\u00ebrjet\u00ebsi", "slug_title": "eternity", "date": "1973-02-21", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

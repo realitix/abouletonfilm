@@ -1,1 +1,0 @@
-{"tmdb_id": 443394, "title": "The Wave", "original_title": "The Wave", "slug_title": "the-wave", "date": "2005-04-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ba7SLQ1hROLhZwPbJzMJ3FC2jyA.jpg", "actors": ["Gabrielle Roth (Herself)"], "comments": [], "recommandations_id": []}

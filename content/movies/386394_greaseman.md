@@ -1,1 +1,0 @@
-{"tmdb_id": 386394, "title": "Greaseman", "original_title": "Greaseman", "slug_title": "greaseman", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

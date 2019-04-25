@@ -1,1 +1,0 @@
-{"tmdb_id": 520909, "title": "A Woman Like Me", "original_title": "A Woman Like Me", "slug_title": "a-woman-like-me", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

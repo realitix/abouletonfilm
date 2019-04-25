@@ -1,1 +1,0 @@
-{"tmdb_id": 202374, "title": "Little Skeeter", "original_title": "Little Skeeter", "slug_title": "little-skeeter", "date": "1969-06-19", "genre": "Animation", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A88NjdNrP9I3QaRWcgkvMcjWoRz.jpg", "actors": [], "comments": [], "recommandations_id": []}

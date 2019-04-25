@@ -1,1 +1,0 @@
-{"tmdb_id": 468765, "title": "The Approximate Present", "original_title": "The Approximate Present", "slug_title": "the-approximate-present", "date": "2014-05-26", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sjSB7qmxGPro9Xwqpkjig4wkbih.jpg", "actors": [], "comments": [], "recommandations_id": []}

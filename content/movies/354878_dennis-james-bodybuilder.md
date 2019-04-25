@@ -1,1 +1,0 @@
-{"tmdb_id": 354878, "title": "Dennis James: Bodybuilder", "original_title": "Dennis James: Bodybuilder", "slug_title": "dennis-james-bodybuilder", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

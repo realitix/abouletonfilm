@@ -1,1 +1,0 @@
-{"tmdb_id": 306848, "title": "Sicilia illustrata", "original_title": "Sicilia illustrata", "slug_title": "sicilia-illustrata", "date": "1908-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

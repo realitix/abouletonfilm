@@ -1,1 +1,0 @@
-{"tmdb_id": 588489, "title": "Dil Hai Betaab", "original_title": "Dil Hai Betaab", "slug_title": "dil-hai-betaab", "date": "1993-08-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ajay Devgn (Actor)"], "comments": [], "recommandations_id": []}

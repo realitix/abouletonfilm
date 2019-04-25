@@ -1,1 +1,0 @@
-{"tmdb_id": 417042, "title": "Cize - Crazy 8s", "original_title": "Cize - Crazy 8s", "slug_title": "cize-crazy-8s", "date": "2015-07-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gxdCzFXO2rZdKqAhhrgMk22R7wd.jpg", "actors": ["Shaun T. ()"], "comments": [], "recommandations_id": []}

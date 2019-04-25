@@ -1,1 +1,0 @@
-{"tmdb_id": 467592, "title": "Spur of the Moment", "original_title": "Spur of the Moment", "slug_title": "spur-of-the-moment", "date": "1931-09-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vWv7zpW7trwkh6PLrZXzzdp0xZj.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 273661, "title": "A Letter To True", "original_title": "A Letter To True", "slug_title": "a-letter-to-true", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/euaAG1Z70QEeBLylU5bqvopT1hK.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 75982, "title": "Islands of the Sea", "original_title": "Islands of the Sea", "slug_title": "islands-of-the-sea", "date": "1960-03-16", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zbZtAByJXBxs8vBzwTQKWWPawDx.jpg", "actors": ["Winston Hibler (Narrator)"], "comments": [], "recommandations_id": []}

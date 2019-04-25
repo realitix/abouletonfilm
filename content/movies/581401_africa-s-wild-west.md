@@ -1,1 +1,0 @@
-{"tmdb_id": 581401, "title": "Africa's Wild West", "original_title": "Africa's Wild West", "slug_title": "africa-s-wild-west", "date": "2015-01-01", "genre": "Documentaire / T\u00e9l\u00e9film", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

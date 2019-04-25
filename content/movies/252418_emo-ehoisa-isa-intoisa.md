@@ -1,1 +1,0 @@
-{"tmdb_id": 252418, "title": "Emo ehoisa - Is\u00e4 intoisa", "original_title": "Emo ehoisa - Is\u00e4 intoisa", "slug_title": "emo-ehoisa-isa-intoisa", "date": "1937-01-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

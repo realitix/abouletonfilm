@@ -1,1 +1,0 @@
-{"tmdb_id": 416375, "title": "\u6975\u9053\u5fe0\u81e3\u8535", "original_title": "\u6975\u9053\u5fe0\u81e3\u8535", "slug_title": "ji-dao-zhong-chen-zang", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zhOrVGP5lJsDdgH5NhhEBg7ImtG.jpg", "actors": [], "comments": [], "recommandations_id": []}

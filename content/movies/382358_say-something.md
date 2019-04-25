@@ -1,1 +1,0 @@
-{"tmdb_id": 382358, "title": "Say Something", "original_title": "Say Something", "slug_title": "say-something", "date": "2016-03-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Ak9guA5aT2Kxb7d3wsV46PemXGX.jpg", "actors": [], "comments": [], "recommandations_id": []}

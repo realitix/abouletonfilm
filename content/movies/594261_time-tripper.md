@@ -1,1 +1,0 @@
-{"tmdb_id": 594261, "title": "Time Tripper", "original_title": "Time Tripper", "slug_title": "time-tripper", "date": "1978-04-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1RgMHVqhIfFei2dHyCs0wATxV4M.jpg", "actors": [], "comments": [], "recommandations_id": []}

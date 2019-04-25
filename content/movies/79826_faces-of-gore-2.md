@@ -1,1 +1,0 @@
-{"tmdb_id": 79826, "title": "Faces Of Gore 2", "original_title": "Faces Of Gore 2", "slug_title": "faces-of-gore-2", "date": "2000-05-25", "genre": "Documentaire / Horreur", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2OzF8A9JgRsgxe5iGGiPwUnusyi.jpg", "actors": [], "comments": [], "recommandations_id": []}

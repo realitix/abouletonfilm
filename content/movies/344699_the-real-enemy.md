@@ -1,1 +1,0 @@
-{"tmdb_id": 344699, "title": "The Real Enemy", "original_title": "The Real Enemy", "slug_title": "the-real-enemy", "date": "2015-06-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

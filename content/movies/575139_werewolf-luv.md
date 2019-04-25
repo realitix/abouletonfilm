@@ -1,1 +1,0 @@
-{"tmdb_id": 575139, "title": "Werewolf Luv", "original_title": "Werewolf Luv", "slug_title": "werewolf-luv", "date": "2018-05-07", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hN7rcp1RDfme1SJ07yO3EGNEs5C.jpg", "actors": [], "comments": [], "recommandations_id": []}

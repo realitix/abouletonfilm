@@ -1,1 +1,0 @@
-{"tmdb_id": 298873, "title": "Sweet Mosquito", "original_title": "Sweet Mosquito", "slug_title": "sweet-mosquito", "date": "2012-07-07", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pIo4Ue0rgfWzhVtvKMM6kdmDVNK.jpg", "actors": ["Benjamin Rolland (Romain)"], "comments": [], "recommandations_id": []}

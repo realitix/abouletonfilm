@@ -1,1 +1,0 @@
-{"tmdb_id": 122597, "title": "Ping Pong", "original_title": "Ping Pong", "slug_title": "ping-pong", "date": "2012-07-06", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w9TUyfXtJdGYEqy6lHv1laZJNly.jpg", "actors": [], "comments": [], "recommandations_id": []}

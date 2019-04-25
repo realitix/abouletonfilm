@@ -1,1 +1,0 @@
-{"tmdb_id": 539406, "title": "Saikati", "original_title": "Saikati", "slug_title": "saikati", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Esther Muthee (Saikati)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 231952, "title": "Panorama, Union Square, San Francisco", "original_title": "Panorama, Union Square, San Francisco", "slug_title": "panorama-union-square-san-francisco", "date": "1903-06-04", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

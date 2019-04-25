@@ -1,1 +1,0 @@
-{"tmdb_id": 268433, "title": "Rock'em Sock'em 9", "original_title": "Rock'em Sock'em 9", "slug_title": "rock-em-sock-em-9", "date": "1997-06-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eTYYzz6hDDz3zZOAzNDkSHTlPSQ.jpg", "actors": ["Don Cherry (Himself)"], "comments": [], "recommandations_id": []}

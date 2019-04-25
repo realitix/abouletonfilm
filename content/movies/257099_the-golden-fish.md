@@ -1,1 +1,0 @@
-{"tmdb_id": 257099, "title": "The Golden Fish", "original_title": "O zlat\u00e9 rybce", "slug_title": "the-golden-fish", "date": "1951-01-01", "genre": "Animation", "score": "5.9/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [66126, 75029, 65903, 81197]}

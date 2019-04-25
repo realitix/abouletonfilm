@@ -1,1 +1,0 @@
-{"tmdb_id": 502161, "title": "Getting Over", "original_title": "Getting Over", "slug_title": "getting-over", "date": "2018-03-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3T6gxFBRinJwg7xqxYOMFtr6rDK.jpg", "actors": [], "comments": [], "recommandations_id": []}

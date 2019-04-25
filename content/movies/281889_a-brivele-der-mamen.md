@@ -1,1 +1,0 @@
-{"tmdb_id": 281889, "title": "A Brivele der mamen", "original_title": "A Brivele der mamen", "slug_title": "a-brivele-der-mamen", "date": "1938-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lucy Gehrman ()", "Misha Gehrman ()", "Gertrude Bulman ()"], "comments": [], "recommandations_id": []}

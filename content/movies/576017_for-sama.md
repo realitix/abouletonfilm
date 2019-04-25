@@ -1,1 +1,0 @@
-{"tmdb_id": 576017, "title": "For Sama", "original_title": "For Sama", "slug_title": "for-sama", "date": "2019-03-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

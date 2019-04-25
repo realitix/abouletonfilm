@@ -1,1 +1,0 @@
-{"tmdb_id": 165490, "title": "Shot on Location", "original_title": "Shot on Location", "slug_title": "shot-on-location", "date": "1972-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rene Bond ()", "Sandy Dempsey ()", "Suzanne Fields ()", "Ric Lutze ()"], "comments": [], "recommandations_id": []}

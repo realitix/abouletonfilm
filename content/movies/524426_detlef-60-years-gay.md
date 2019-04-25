@@ -1,1 +1,0 @@
-{"tmdb_id": 524426, "title": "Detlef: 60 Years Gay", "original_title": "Detlef - 60 Jahre schwul", "slug_title": "detlef-60-years-gay", "date": "2012-02-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4WRQf3UeZVjEouX3weBYsdS7K82.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 416004, "title": "\ud654\ub140\ucd0c", "original_title": "\ud654\ub140\ucd0c", "slug_title": "hwanyeocon", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 311432, "title": "30 Years of Fun", "original_title": "30 Years of Fun", "slug_title": "30-years-of-fun", "date": "1963-02-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

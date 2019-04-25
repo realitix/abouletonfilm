@@ -1,1 +1,0 @@
-{"tmdb_id": 322617, "title": "Arroseur et arros\u00e9, [III]", "original_title": "Arroseur et arros\u00e9, [III]", "slug_title": "arroseur-et-arrose-iii", "date": "1897-05-01", "genre": "", "score": "5.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

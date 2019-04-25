@@ -1,1 +1,0 @@
-{"tmdb_id": 328481, "title": "Life's Essentials with Ruby Dee", "original_title": "Life's Essentials with Ruby Dee", "slug_title": "life-s-essentials-with-ruby-dee", "date": "2014-06-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

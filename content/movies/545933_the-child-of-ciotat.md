@@ -1,1 +1,0 @@
-{"tmdb_id": 545933, "title": "The Child of Ciotat", "original_title": "L'enfant de la Ciotat", "slug_title": "the-child-of-ciotat", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

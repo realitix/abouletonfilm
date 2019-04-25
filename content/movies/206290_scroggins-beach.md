@@ -1,1 +1,0 @@
-{"tmdb_id": 206290, "title": "Scroggins Beach", "original_title": "Scroggins Beach", "slug_title": "scroggins-beach", "date": "2010-07-08", "genre": "Animation", "score": "8.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pkuqdISWxqHYsj1y3q5U7JseWfB.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 435970, "title": "The Other Side of the Moon", "original_title": "The Other Side of the Moon", "slug_title": "the-other-side-of-the-moon", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

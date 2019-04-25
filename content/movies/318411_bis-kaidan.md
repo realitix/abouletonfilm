@@ -1,1 +1,0 @@
-{"tmdb_id": 318411, "title": "BiS Kaidan", "original_title": "BiS Kaidan", "slug_title": "bis-kaidan", "date": "2014-09-03", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pXuSOSaWKQIw3uTuymGEfBpqjl2.jpg", "actors": [], "comments": [], "recommandations_id": []}

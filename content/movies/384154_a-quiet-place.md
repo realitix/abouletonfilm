@@ -1,1 +1,0 @@
-{"tmdb_id": 384154, "title": "A Quiet Place", "original_title": "A Quiet Place", "slug_title": "a-quiet-place", "date": "2016-02-18", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8qjFWIAzPlQiYbl5xWNLw6x3wmz.jpg", "actors": ["Madalina Craiu (Cristina)", "Oana Rusu (Marina)"], "comments": [], "recommandations_id": []}

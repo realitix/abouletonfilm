@@ -1,1 +1,0 @@
-{"tmdb_id": 516491, "title": "A Dupla Jornada", "original_title": "A Dupla Jornada", "slug_title": "a-dupla-jornada", "date": "1975-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

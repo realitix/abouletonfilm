@@ -1,1 +1,0 @@
-{"tmdb_id": 436940, "title": "Mariah Carey: Mariah Carey", "original_title": "Mariah Carey: Mariah Carey", "slug_title": "mariah-carey-mariah-carey", "date": "", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mys93Ngz2qujAmjEICPz7DGSMXN.jpg", "actors": ["Mariah Carey ()"], "comments": [], "recommandations_id": []}

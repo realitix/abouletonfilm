@@ -1,1 +1,1 @@
-{"tmdb_id": 526492, "title": "G\u00fcl\u00fczar", "original_title": "G\u00fcl\u00fczar", "slug_title": "guluzar", "date": "1994-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 526492, "title": "G\u00fcl\u00fczar", "original_title": "G\u00fcl\u00fczar", "slug_title": "guluzar", "date": "1994-02-02", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

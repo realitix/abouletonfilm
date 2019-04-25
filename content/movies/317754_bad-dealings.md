@@ -1,1 +1,0 @@
-{"tmdb_id": 317754, "title": "Bad Dealings", "original_title": "Bad Dealings", "slug_title": "bad-dealings", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 594868, "title": "Rizin World Grand Prix 2017: 2nd Round", "original_title": "Rizin World Grand Prix 2017: 2nd Round", "slug_title": "rizin-world-grand-prix-2017-2nd-round", "date": "2017-12-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

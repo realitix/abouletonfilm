@@ -1,1 +1,0 @@
-{"tmdb_id": 276013, "title": "The Truth About Cancer", "original_title": "The Truth About Cancer", "slug_title": "the-truth-about-cancer", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Linda Garmon (Herself - Narrator)"], "comments": [], "recommandations_id": []}

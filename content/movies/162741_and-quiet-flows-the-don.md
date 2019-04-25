@@ -1,1 +1,0 @@
-{"tmdb_id": 162741, "title": "And Quiet Flows the Don", "original_title": "Tikhiy Don", "slug_title": "and-quiet-flows-the-don", "date": "1931-05-14", "genre": "Drame", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8EdAhcxVkVEsz7301FPtj5SwiQh.jpg", "actors": [], "comments": [], "recommandations_id": []}

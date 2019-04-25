@@ -1,1 +1,0 @@
-{"tmdb_id": 533012, "title": "I Can't Wait Until It's Dark!", "original_title": "Kuraku naru-made matenai!", "slug_title": "i-can-t-wait-until-it-s-dark", "date": "1975-04-06", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Seijun Suzuki (Himself)"], "comments": [], "recommandations_id": []}

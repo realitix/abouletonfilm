@@ -1,1 +1,0 @@
-{"tmdb_id": 523472, "title": "Het Bezoek", "original_title": "Het Bezoek", "slug_title": "het-bezoek", "date": "1970-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

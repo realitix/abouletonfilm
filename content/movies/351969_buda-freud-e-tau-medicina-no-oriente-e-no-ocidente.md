@@ -1,1 +1,0 @@
-{"tmdb_id": 351969, "title": "Buda, Freud e Tau: Medicina no Oriente e no Ocidente", "original_title": "Buda, Freud e Tau: Medicina no Oriente e no Ocidente", "slug_title": "buda-freud-e-tau-medicina-no-oriente-e-no-ocidente", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

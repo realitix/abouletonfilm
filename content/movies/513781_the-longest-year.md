@@ -1,1 +1,0 @@
-{"tmdb_id": 513781, "title": "The Longest Year", "original_title": "The Longest Year", "slug_title": "the-longest-year", "date": "2018-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 528939, "title": "The Herd", "original_title": "The Herd", "slug_title": "the-herd", "date": "2016-08-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/elNAC8fOcPA869KD2nIt4ZRZLPW.jpg", "actors": [], "comments": [], "recommandations_id": []}

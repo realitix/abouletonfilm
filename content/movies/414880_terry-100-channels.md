@@ -1,1 +1,0 @@
-{"tmdb_id": 414880, "title": "Terry 100 Channels", "original_title": "Terry 100 Channels", "slug_title": "terry-100-channels", "date": "1985-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8YuM0GYZtracIx4UDSnIJAocE2O.jpg", "actors": [], "comments": [], "recommandations_id": []}

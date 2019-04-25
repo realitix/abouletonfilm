@@ -1,1 +1,0 @@
-{"tmdb_id": 308313, "title": "Armed Forces: Birth of a Soldier", "original_title": "Armed Forces: Birth of a Soldier", "slug_title": "armed-forces-birth-of-a-soldier", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

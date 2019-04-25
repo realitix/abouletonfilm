@@ -1,1 +1,0 @@
-{"tmdb_id": 196306, "title": "A Sore for Sighted Eyes", "original_title": "A Sore for Sighted Eyes", "slug_title": "a-sore-for-sighted-eyes", "date": "2006-08-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3210uIjGAzIajciSvR5DaGM5T4O.jpg", "actors": [], "comments": [], "recommandations_id": []}

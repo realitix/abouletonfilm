@@ -1,1 +1,0 @@
-{"tmdb_id": 548972, "title": "London Clouds", "original_title": "London Clouds", "slug_title": "london-clouds", "date": "1986-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Edward Williams ()"], "comments": [], "recommandations_id": []}

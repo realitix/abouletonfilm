@@ -1,1 +1,0 @@
-{"tmdb_id": 473781, "title": "Sem T\u00edtulo I", "original_title": "Sem T\u00edtulo I", "slug_title": "sem-titulo-i", "date": "1972-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uJGMK0tzNLWH54YiQQj7WB7Vx7Q.jpg", "actors": [], "comments": [], "recommandations_id": []}

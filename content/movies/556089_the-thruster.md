@@ -1,1 +1,0 @@
-{"tmdb_id": 556089, "title": "The Thruster", "original_title": "L'arriviste", "slug_title": "the-thruster", "date": "1924-09-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

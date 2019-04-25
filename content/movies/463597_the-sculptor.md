@@ -1,1 +1,0 @@
-{"tmdb_id": 463597, "title": "The Sculptor", "original_title": "The Sculptor", "slug_title": "the-sculptor", "date": "2011-05-15", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Charles Malik Whitfield (Leo)", "Antonique Smith (Eleanor)"], "comments": [], "recommandations_id": []}

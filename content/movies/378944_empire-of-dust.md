@@ -1,1 +1,0 @@
-{"tmdb_id": 378944, "title": "Empire of Dust", "original_title": "Empire of Dust", "slug_title": "empire-of-dust", "date": "2011-10-18", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k08D2CrRkc0vvW6NPJ4dN9XoG13.jpg", "actors": ["Lao Yang ()"], "comments": [], "recommandations_id": []}

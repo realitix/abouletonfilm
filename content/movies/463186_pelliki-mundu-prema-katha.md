@@ -1,1 +1,0 @@
-{"tmdb_id": 463186, "title": "Pelliki Mundu Prema Katha", "original_title": "Pelliki Mundu Prema Katha", "slug_title": "pelliki-mundu-prema-katha", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

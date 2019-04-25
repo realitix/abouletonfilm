@@ -1,1 +1,0 @@
-{"tmdb_id": 365647, "title": "I Am. Shimon Peres", "original_title": "I Am. Shimon Peres", "slug_title": "i-am-shimon-peres", "date": "2014-08-07", "genre": "Documentaire", "score": "6.1/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8pzwydCaXzASPK0rwRv00ABQyDf.jpg", "actors": ["Shimon Peres (Himself)"], "comments": [], "recommandations_id": []}

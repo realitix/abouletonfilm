@@ -1,1 +1,0 @@
-{"tmdb_id": 436404, "title": "West of England", "original_title": "West of England", "slug_title": "west-of-england", "date": "1950-12-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3upclN326ALdx99hL6pEatqYKYO.jpg", "actors": ["Stephen Murray (Narrator)"], "comments": [], "recommandations_id": []}

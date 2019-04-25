@@ -1,1 +1,0 @@
-{"tmdb_id": 466662, "title": "Eddie Bravo Invitational 11", "original_title": "Eddie Bravo Invitational 11", "slug_title": "eddie-bravo-invitational-11", "date": "2017-03-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bB02RoAMIvc94AU3jCX9dhYb99w.jpg", "actors": [], "comments": [], "recommandations_id": []}

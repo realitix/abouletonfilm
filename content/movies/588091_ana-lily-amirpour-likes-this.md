@@ -1,1 +1,0 @@
-{"tmdb_id": 588091, "title": "Ana Lily Amirpour Likes This", "original_title": "Ana Lily Amirpour Likes This", "slug_title": "ana-lily-amirpour-likes-this", "date": "2010-12-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ana Lily Amirpour (Herself)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 376055, "title": "Los ojos de la guerra", "original_title": "Los ojos de la guerra", "slug_title": "los-ojos-de-la-guerra", "date": "", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e1Yo6xknhxbC2Ka9c3f5xLFyp75.jpg", "actors": [], "comments": [], "recommandations_id": []}

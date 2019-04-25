@@ -1,1 +1,0 @@
-{"tmdb_id": 244883, "title": "89 mm from Europe", "original_title": "89 mm od Europy", "slug_title": "89-mm-from-europe", "date": "1993-05-01", "genre": "Documentaire", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2DwsURD646ABjSLbwvxQmmA9bFP.jpg", "actors": [], "comments": [], "recommandations_id": []}

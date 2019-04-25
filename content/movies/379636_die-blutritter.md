@@ -1,1 +1,0 @@
-{"tmdb_id": 379636, "title": "Die Blutritter", "original_title": "Die Blutritter", "slug_title": "die-blutritter", "date": "2004-09-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p10NsnrgGcCJeB3YLHhWyQUDNjA.jpg", "actors": [], "comments": [], "recommandations_id": []}

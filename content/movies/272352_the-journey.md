@@ -1,1 +1,0 @@
-{"tmdb_id": 272352, "title": "The Journey", "original_title": "The Journey", "slug_title": "the-journey", "date": "2007-09-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

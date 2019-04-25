@@ -1,1 +1,0 @@
-{"tmdb_id": 40386, "title": "Deep Purple - Bombay Calling", "original_title": "Deep Purple - Bombay Calling", "slug_title": "deep-purple-bombay-calling", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9Rq7WnZ0xrj10TF4HHWC033SaBc.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 104347, "title": "Shine On", "original_title": "Shine On", "slug_title": "shine-on", "date": "2004-06-14", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qlz4ssdHQNLeB1ktuxuOqKAxlPN.jpg", "actors": ["Brendan Shine (Himself)"], "comments": [], "recommandations_id": []}

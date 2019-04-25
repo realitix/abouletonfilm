@@ -1,1 +1,0 @@
-{"tmdb_id": 508913, "title": "No. 16 Barkhor South Street", "original_title": "No. 16 Barkhor South Street", "slug_title": "no-16-barkhor-south-street", "date": "1996-03-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

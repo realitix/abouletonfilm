@@ -1,1 +1,0 @@
-{"tmdb_id": 161021, "title": "Gerinctorna Fit-Ball-on", "original_title": "Gerinctorna Fit-Ball-on", "slug_title": "gerinctorna-fit-ball-on", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ge0ek0sSqqEVdbprPYqwAPoCstt.jpg", "actors": [], "comments": [], "recommandations_id": []}

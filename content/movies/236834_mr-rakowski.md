@@ -1,1 +1,0 @@
-{"tmdb_id": 236834, "title": "Mr. Rakowski", "original_title": "Mr. Rakowski", "slug_title": "mr-rakowski", "date": "2007-11-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

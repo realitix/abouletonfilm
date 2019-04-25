@@ -1,1 +1,0 @@
-{"tmdb_id": 377664, "title": "Skin and Bones", "original_title": "Skin and Bones", "slug_title": "skin-and-bones", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

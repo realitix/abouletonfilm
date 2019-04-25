@@ -1,1 +1,0 @@
-{"tmdb_id": 39601, "title": "Private Gold 43: No Sun No Fun", "original_title": "Private Gold 43: No Sun No Fun", "slug_title": "private-gold-43-no-sun-no-fun", "date": "2000-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e59YyUpTnhuxWkEE0BYfPUf2Kcq.jpg", "actors": [], "comments": [], "recommandations_id": []}

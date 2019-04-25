@@ -1,1 +1,0 @@
-{"tmdb_id": 376413, "title": "Brandmand Sam - R\u00f8d Alarm", "original_title": "Brandmand Sam - R\u00f8d Alarm", "slug_title": "brandmand-sam-rod-alarm", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oNoKaz1HObfIIUTSL1l7MuwWYpo.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 316948, "title": "The Knight of Kruja", "original_title": "Il cavaliere di Kruja", "slug_title": "the-knight-of-kruja", "date": "1940-01-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uV0f7ePgXegIF67v29z921hTH3w.jpg", "actors": [], "comments": [], "recommandations_id": []}

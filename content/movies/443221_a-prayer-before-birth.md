@@ -1,1 +1,0 @@
-{"tmdb_id": 443221, "title": "A Prayer Before Birth", "original_title": "A Prayer Before Birth", "slug_title": "a-prayer-before-birth", "date": "1991-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k5U3PHvXIwCrOlv4KGUgUyWfkud.jpg", "actors": ["Adjoa Andoh ()"], "comments": [], "recommandations_id": []}

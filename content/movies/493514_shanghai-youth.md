@@ -1,1 +1,0 @@
-{"tmdb_id": 493514, "title": "Shanghai Youth", "original_title": "\u4e0a\u6d77\u9752\u5e74", "slug_title": "shanghai-youth", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2FCMcoXch8eXxRljSgQOaIRAl1r.jpg", "actors": [], "comments": [], "recommandations_id": []}

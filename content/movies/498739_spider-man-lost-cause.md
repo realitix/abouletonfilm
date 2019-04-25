@@ -1,1 +1,0 @@
-{"tmdb_id": 498739, "title": "Spider Man: Lost Cause", "original_title": "Spider Man: Lost Cause", "slug_title": "spider-man-lost-cause", "date": "2014-09-26", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5Mi9r4nUW02qQxXBszpduLDSN3w.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 349652, "title": "101\ubc88\uc9f8 \ud504\ub85c\ud3ec\uc988", "original_title": "101\ubc88\uc9f8 \ud504\ub85c\ud3ec\uc988", "slug_title": "101beonjjae-peuropojeu", "date": "1993-06-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

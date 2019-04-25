@@ -1,1 +1,0 @@
-{"tmdb_id": 556061, "title": "Pulcinella", "original_title": "Pulcinella", "slug_title": "pulcinella", "date": "1924-01-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

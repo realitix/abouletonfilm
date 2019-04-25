@@ -1,1 +1,0 @@
-{"tmdb_id": 408143, "title": "Asia, Workers' Awakening", "original_title": "Asie le R\u00e9veil Ouvrier", "slug_title": "asia-workers-awakening", "date": "2013-07-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gOtAWuY9nTfVWaxtsisMNSOQSsn.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 547995, "title": "Rustlers", "original_title": "Rustlers", "slug_title": "rustlers", "date": "2018-04-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nkq8z8raAka4cU5aRAvtKxtOck7.jpg", "actors": [], "comments": [], "recommandations_id": []}

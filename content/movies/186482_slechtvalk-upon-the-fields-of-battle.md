@@ -1,1 +1,0 @@
-{"tmdb_id": 186482, "title": "Slechtvalk: Upon the Fields of Battle", "original_title": "Slechtvalk: Upon the Fields of Battle", "slug_title": "slechtvalk-upon-the-fields-of-battle", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

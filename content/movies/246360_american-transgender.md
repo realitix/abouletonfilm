@@ -1,1 +1,0 @@
-{"tmdb_id": 246360, "title": "American Transgender", "original_title": "American Transgender", "slug_title": "american-transgender", "date": "2012-05-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rijRYLUWVhIgNOP2bJe73miiUk6.jpg", "actors": [], "comments": [], "recommandations_id": []}

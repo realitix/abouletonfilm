@@ -1,1 +1,0 @@
-{"tmdb_id": 356864, "title": "Fat Man on a Beach", "original_title": "Fat Man on a Beach", "slug_title": "fat-man-on-a-beach", "date": "1973-01-02", "genre": "", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qW1oQlOHizRHXZQrpkimYr0oxzn.jpg", "actors": ["B. S. Johnson ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 588062, "title": "Wanted: Dead or Alive", "original_title": "Wanted: Dead or Alive", "slug_title": "wanted-dead-or-alive", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

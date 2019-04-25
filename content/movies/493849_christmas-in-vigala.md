@@ -1,1 +1,0 @@
-{"tmdb_id": 493849, "title": "Christmas in Vigala", "original_title": "J\u00f5ulud Vigalas", "slug_title": "christmas-in-vigala", "date": "1981-01-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Evald Aavik (Bernhard Laipmann)"], "comments": [], "recommandations_id": []}

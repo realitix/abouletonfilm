@@ -1,1 +1,0 @@
-{"tmdb_id": 306673, "title": "Four Short Films", "original_title": "Four Short Films", "slug_title": "four-short-films", "date": "1973-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 473632, "title": "Lex Minister", "original_title": "Lex Minister", "slug_title": "lex-minister", "date": "1990-09-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

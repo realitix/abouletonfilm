@@ -1,1 +1,0 @@
-{"tmdb_id": 521229, "title": "\u00c4lska Mig", "original_title": "\u00c4lska Mig", "slug_title": "alska-mig", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

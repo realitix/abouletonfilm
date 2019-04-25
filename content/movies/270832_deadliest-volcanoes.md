@@ -1,1 +1,0 @@
-{"tmdb_id": 270832, "title": "Deadliest Volcanoes", "original_title": "Deadliest Volcanoes", "slug_title": "deadliest-volcanoes", "date": "2012-01-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rgPVVpN1e6Vq6JemfcPFjCiOU79.jpg", "actors": ["Craig Sechler (Narrator)"], "comments": [], "recommandations_id": []}

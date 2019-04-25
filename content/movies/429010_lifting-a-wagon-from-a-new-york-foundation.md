@@ -1,1 +1,0 @@
-{"tmdb_id": 429010, "title": "Lifting a Wagon from a New York Foundation", "original_title": "Lifting a Wagon from a New York Foundation", "slug_title": "lifting-a-wagon-from-a-new-york-foundation", "date": "1903-12-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 47526, "title": "An Angel for Christmas", "original_title": "An Angel for Christmas", "slug_title": "an-angel-for-christmas", "date": "1996-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vow1KiwzctE9FEkULQLE8qbfxoV.jpg", "actors": [], "comments": [], "recommandations_id": []}

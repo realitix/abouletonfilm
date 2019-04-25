@@ -1,1 +1,0 @@
-{"tmdb_id": 433764, "title": "Trip To Carolee", "original_title": "Trip To Carolee", "slug_title": "trip-to-carolee", "date": "1973-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cwpDg4JAG62RqjvxDrWCK1rbX4N.jpg", "actors": ["Marjorie Keller ()", "Coleen Fitzgibbon ()"], "comments": [], "recommandations_id": []}

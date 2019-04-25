@@ -1,1 +1,0 @@
-{"tmdb_id": 288385, "title": "Sergeant X", "original_title": "Sergeant X", "slug_title": "sergeant-x", "date": "1932-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ivan Mosjoukine ()", "Trude von Molo ()", "Peter Vo\u00df ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 516045, "title": "Weight of the Hand", "original_title": "\uc190\uc758 \ubb34\uac8c", "slug_title": "weight-of-the-hand", "date": "2017-07-15", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

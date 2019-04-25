@@ -1,1 +1,0 @@
-{"tmdb_id": 155174, "title": "Road to Ladakh", "original_title": "Road to Ladakh", "slug_title": "road-to-ladakh", "date": "2003-10-02", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gLCpRO3zYSMpaLe08wP1Hzvt3q9.jpg", "actors": [], "comments": [], "recommandations_id": []}

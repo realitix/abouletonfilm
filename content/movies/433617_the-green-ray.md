@@ -1,1 +1,0 @@
-{"tmdb_id": 433617, "title": "The Green Ray", "original_title": "The Green Ray", "slug_title": "the-green-ray", "date": "2017-01-07", "genre": "Myst\u00e8re", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xVQ8sAIc3yb1WVZwQZOotfQ4VOu.jpg", "actors": [], "comments": [], "recommandations_id": []}

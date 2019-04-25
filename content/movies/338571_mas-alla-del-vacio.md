@@ -1,1 +1,0 @@
-{"tmdb_id": 338571, "title": "Mas alla del vacio", "original_title": "Mas alla del vacio", "slug_title": "mas-alla-del-vacio", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 396414, "title": "Un dernier bain", "original_title": "Un dernier bain", "slug_title": "un-dernier-bain", "date": "2015-09-10", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Georgia Azoulay ()", "Laura M\u00e9linand ()"], "comments": [], "recommandations_id": []}

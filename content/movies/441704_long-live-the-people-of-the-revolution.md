@@ -1,1 +1,0 @@
-{"tmdb_id": 441704, "title": "Long Live the People of the Revolution", "original_title": "Long Live the People of the Revolution", "slug_title": "long-live-the-people-of-the-revolution", "date": "2010-07-09", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

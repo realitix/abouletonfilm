@@ -1,1 +1,0 @@
-{"tmdb_id": 380489, "title": "Postcards from China", "original_title": "Postcards from China", "slug_title": "postcards-from-china", "date": "1975-09-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lovZVDeZ08NTeHtuoLJSqAFljET.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 382924, "title": "Phoenix Dance", "original_title": "Phoenix Dance", "slug_title": "phoenix-dance", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vyekMYtZJg4KWEkZHPbNkz0fONC.jpg", "actors": [], "comments": [], "recommandations_id": []}

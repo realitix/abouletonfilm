@@ -1,1 +1,0 @@
-{"tmdb_id": 498897, "title": "Who's Afraid of Conceptual Art?", "original_title": "Who's Afraid of Conceptual Art?", "slug_title": "who-s-afraid-of-conceptual-art", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mktFYTJeRIM3ZGXvZPyygI7TYRy.jpg", "actors": [], "comments": [], "recommandations_id": []}

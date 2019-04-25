@@ -1,1 +1,1 @@
-{"tmdb_id": 502829, "title": "A Simple Elegy", "original_title": "A Simple Elegy", "slug_title": "a-simple-elegy", "date": "1990-02-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 502829, "title": "A Simple Elegy", "original_title": "A Simple Elegy", "slug_title": "a-simple-elegy", "date": "1990-02-03", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

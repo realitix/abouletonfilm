@@ -1,1 +1,0 @@
-{"tmdb_id": 307149, "title": "Sadarame", "original_title": "Sadarame", "slug_title": "sadarame", "date": "1956-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 191953, "title": "Hide and Seek", "original_title": "Hide and Seek", "slug_title": "hide-and-seek", "date": "1913-04-03", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mabel Normand (Mabel Brown - the Boss's Daughter)", "Ford Sterling (The Police Chief)"], "comments": [], "recommandations_id": []}

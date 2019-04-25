@@ -1,1 +1,0 @@
-{"tmdb_id": 580299, "title": "The Civil War", "original_title": "The Civil War", "slug_title": "the-civil-war", "date": "1991-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e0cIJy1S74hE2CYfcDAI5jdMoqO.jpg", "actors": ["Jack Hanrahan (Narrator (voice))"], "comments": [], "recommandations_id": []}

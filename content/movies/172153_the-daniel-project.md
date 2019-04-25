@@ -1,1 +1,0 @@
-{"tmdb_id": 172153, "title": "The Daniel Project", "original_title": "The Daniel Project", "slug_title": "the-daniel-project", "date": "2012-01-01", "genre": "Documentaire", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pmGvcmddpvMpQWh5KDUfvQTgVVg.jpg", "actors": ["Jeremy Hitchen (Himself)"], "comments": [], "recommandations_id": []}

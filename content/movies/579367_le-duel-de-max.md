@@ -1,1 +1,0 @@
-{"tmdb_id": 579367, "title": "Le duel de Max", "original_title": "Le duel de Max", "slug_title": "le-duel-de-max", "date": "1913-08-29", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Max Linder (Max)"], "comments": [], "recommandations_id": []}

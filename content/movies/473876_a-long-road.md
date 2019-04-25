@@ -1,1 +1,0 @@
-{"tmdb_id": 473876, "title": "A Long Road", "original_title": "A Long Road", "slug_title": "a-long-road", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

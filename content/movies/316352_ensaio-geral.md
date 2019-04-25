@@ -1,1 +1,0 @@
-{"tmdb_id": 316352, "title": "Ensaio Geral", "original_title": "Ensaio Geral", "slug_title": "ensaio-geral", "date": "2000-08-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

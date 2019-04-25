@@ -1,1 +1,0 @@
-{"tmdb_id": 534916, "title": "\u00c0 la d\u00e9couverte du monde", "original_title": "\u00c0 la d\u00e9couverte du monde", "slug_title": "a-la-decouverte-du-monde", "date": "2017-09-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lVq4cI2VxPZCMsNXPtekiwkzJBs.jpg", "actors": [], "comments": [], "recommandations_id": []}

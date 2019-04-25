@@ -1,1 +1,0 @@
-{"tmdb_id": 251476, "title": "Force Attack 2007", "original_title": "Force Attack 2007", "slug_title": "force-attack-2007", "date": "2007-08-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oiPNzme8kRqfmutbqWiTctcRbKm.jpg", "actors": [], "comments": [], "recommandations_id": []}

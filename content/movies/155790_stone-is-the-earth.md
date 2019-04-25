@@ -1,1 +1,0 @@
-{"tmdb_id": 155790, "title": "Stone Is the Earth", "original_title": "Ang Mundo Sa Panahon Ng Bato", "slug_title": "stone-is-the-earth", "date": "2010-07-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7opjhsGrWxYHqMYv5YGIwbIkM6V.jpg", "actors": ["Edwin Pamanian (Vergel)"], "comments": [], "recommandations_id": []}

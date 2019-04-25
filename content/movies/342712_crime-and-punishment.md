@@ -1,1 +1,0 @@
-{"tmdb_id": 342712, "title": "Crime and Punishment", "original_title": "Crime and Punishment", "slug_title": "crime-and-punishment", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6BCMY83JUvqFFGqr9hm1doZGc91.jpg", "actors": [], "comments": [], "recommandations_id": []}

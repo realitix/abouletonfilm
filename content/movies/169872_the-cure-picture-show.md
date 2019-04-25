@@ -1,1 +1,0 @@
-{"tmdb_id": 169872, "title": "The Cure - Picture Show", "original_title": "The Cure - Picture Show", "slug_title": "the-cure-picture-show", "date": "1991-08-13", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7NUvg5yIhtrjFqsA8thC2XKVNLo.jpg", "actors": ["The Cure (Band)"], "comments": [], "recommandations_id": []}

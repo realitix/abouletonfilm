@@ -1,1 +1,0 @@
-{"tmdb_id": 556182, "title": "Mallorca - Insel der Stille", "original_title": "Mallorca - Insel der Stille", "slug_title": "mallorca-insel-der-stille", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

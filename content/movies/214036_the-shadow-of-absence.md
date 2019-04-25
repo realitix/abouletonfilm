@@ -1,1 +1,0 @@
-{"tmdb_id": 214036, "title": "The Shadow of Absence", "original_title": "The Shadow of Absence", "slug_title": "the-shadow-of-absence", "date": "2007-06-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

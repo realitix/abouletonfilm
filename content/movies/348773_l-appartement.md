@@ -1,1 +1,0 @@
-{"tmdb_id": 348773, "title": "L'appartement", "original_title": "L'appartement", "slug_title": "l-appartement", "date": "2015-07-14", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

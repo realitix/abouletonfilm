@@ -1,1 +1,0 @@
-{"tmdb_id": 440258, "title": "Hay golpes en la vida", "original_title": "Hay golpes en la vida", "slug_title": "hay-golpes-en-la-vida", "date": "2001-01-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

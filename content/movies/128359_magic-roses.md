@@ -1,1 +1,0 @@
-{"tmdb_id": 128359, "title": "Magic Roses", "original_title": "Les roses magiques", "slug_title": "magic-roses", "date": "1906-12-01", "genre": "Fantastique", "score": "5.4/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/47f1U0XWOF68XRFyOx9OExAd63r.jpg", "actors": [], "comments": [], "recommandations_id": [196538, 159907, 196372, 195630]}

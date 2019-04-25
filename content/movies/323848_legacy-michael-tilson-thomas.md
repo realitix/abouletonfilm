@@ -1,1 +1,0 @@
-{"tmdb_id": 323848, "title": "Legacy: Michael Tilson Thomas", "original_title": "Legacy: Michael Tilson Thomas", "slug_title": "legacy-michael-tilson-thomas", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

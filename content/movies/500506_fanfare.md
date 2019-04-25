@@ -1,1 +1,0 @@
-{"tmdb_id": 500506, "title": "Fanfare", "original_title": "Fanfare", "slug_title": "fanfare", "date": "2018-01-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2B5yFwe8bVmNlfHXhrRMS9235do.jpg", "actors": [], "comments": [], "recommandations_id": []}

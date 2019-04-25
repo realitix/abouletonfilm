@@ -1,1 +1,0 @@
-{"tmdb_id": 42562, "title": "A Song of Good", "original_title": "A Song of Good", "slug_title": "a-song-of-good", "date": "2008-01-29", "genre": "Crime / Drame / Myst\u00e8re", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7d2PBvnzWRheHdH4qEtpnWD99uF.jpg", "actors": [], "comments": [], "recommandations_id": []}

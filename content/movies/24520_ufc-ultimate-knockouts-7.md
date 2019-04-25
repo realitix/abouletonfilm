@@ -1,1 +1,0 @@
-{"tmdb_id": 24520, "title": "UFC Ultimate Knockouts 7", "original_title": "UFC Ultimate Knockouts 7", "slug_title": "ufc-ultimate-knockouts-7", "date": "2009-09-29", "genre": "", "score": "6.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/74CuM2wxPUCdKlcLCNqOWvGek3a.jpg", "actors": [], "comments": [], "recommandations_id": []}

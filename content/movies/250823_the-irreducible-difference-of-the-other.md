@@ -1,1 +1,0 @@
-{"tmdb_id": 250823, "title": "The Irreducible Difference of the Other", "original_title": "The Irreducible Difference of the Other", "slug_title": "the-irreducible-difference-of-the-other", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Olwen Fou\u00e9r\u00e9 ()"], "comments": [], "recommandations_id": []}

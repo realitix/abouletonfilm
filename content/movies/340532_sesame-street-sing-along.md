@@ -1,1 +1,0 @@
-{"tmdb_id": 340532, "title": "Sesame Street: Sing Along", "original_title": "Sesame Street: Sing Along", "slug_title": "sesame-street-sing-along", "date": "1987-01-01", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y2vEC35QpbhuWmYGtO1Jj7T7thU.jpg", "actors": [], "comments": [], "recommandations_id": []}

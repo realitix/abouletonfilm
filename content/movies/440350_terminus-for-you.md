@@ -1,1 +1,0 @@
-{"tmdb_id": 440350, "title": "Terminus for you", "original_title": "Terminus for you", "slug_title": "terminus-for-you", "date": "1996-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mWd2hTZQd3ZjBJ0bRN0Epo9DAzT.jpg", "actors": [], "comments": [], "recommandations_id": []}

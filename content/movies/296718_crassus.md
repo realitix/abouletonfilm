@@ -1,1 +1,0 @@
-{"tmdb_id": 296718, "title": "Crassus", "original_title": "Crassus", "slug_title": "crassus", "date": "2007-02-01", "genre": "Science-Fiction / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

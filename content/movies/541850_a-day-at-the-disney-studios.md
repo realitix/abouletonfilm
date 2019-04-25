@@ -1,1 +1,0 @@
-{"tmdb_id": 541850, "title": "A Day at the Disney Studios", "original_title": "A Day at the Disney Studios", "slug_title": "a-day-at-the-disney-studios", "date": "1995-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

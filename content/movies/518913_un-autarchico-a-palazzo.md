@@ -1,1 +1,0 @@
-{"tmdb_id": 518913, "title": "Un autarchico a 'palazzo'", "original_title": "Un autarchico a 'palazzo'", "slug_title": "un-autarchico-a-palazzo", "date": "1977-02-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Nanni Moretti (Himself)", "Fabio Traversa (Himself)"], "comments": [], "recommandations_id": []}

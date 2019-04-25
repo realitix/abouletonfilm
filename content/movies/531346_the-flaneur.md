@@ -1,1 +1,0 @@
-{"tmdb_id": 531346, "title": "The Flaneur", "original_title": "The Flaneur", "slug_title": "the-flaneur", "date": "2016-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/enpdaF2ZX4ADoHCW1IcfXvsCgs5.jpg", "actors": [], "comments": [], "recommandations_id": []}

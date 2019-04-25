@@ -1,1 +1,0 @@
-{"tmdb_id": 591704, "title": "Nosferatu Re-Animated", "original_title": "Nosferatu Re-Animated", "slug_title": "nosferatu-re-animated", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

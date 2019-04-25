@@ -1,1 +1,0 @@
-{"tmdb_id": 290669, "title": "Deliverance from Evil", "original_title": "Deliverance from Evil", "slug_title": "deliverance-from-evil", "date": "2012-03-20", "genre": "", "score": "3.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y04tPXevY6BsW85zCvsUkCMSvsB.jpg", "actors": [], "comments": [], "recommandations_id": []}

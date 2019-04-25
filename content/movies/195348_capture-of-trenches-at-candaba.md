@@ -1,1 +1,0 @@
-{"tmdb_id": 195348, "title": "Capture of Trenches at Candaba", "original_title": "Capture of Trenches at Candaba", "slug_title": "capture-of-trenches-at-candaba", "date": "1899-06-20", "genre": "", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

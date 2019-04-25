@@ -1,1 +1,0 @@
-{"tmdb_id": 453357, "title": "Goya Munch Lautrec", "original_title": "Goya Munch Lautrec", "slug_title": "goya-munch-lautrec", "date": "1989-01-01", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

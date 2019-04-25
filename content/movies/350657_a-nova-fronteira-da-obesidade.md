@@ -1,1 +1,0 @@
-{"tmdb_id": 350657, "title": "A Nova Fronteira da Obesidade", "original_title": "A Nova Fronteira da Obesidade", "slug_title": "a-nova-fronteira-da-obesidade", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

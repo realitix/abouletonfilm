@@ -1,1 +1,0 @@
-{"tmdb_id": 204469, "title": "Bosco & Me", "original_title": "Bosco & Me", "slug_title": "bosco-me", "date": "2009-11-02", "genre": "Aventure / Familial", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Steve Guttenberg ()", "Billy Zane ()", "Curtis Armstrong ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 474177, "title": "Jinsei gekij\u00f4", "original_title": "Jinsei gekij\u00f4", "slug_title": "jinsei-gekijo", "date": "1936-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

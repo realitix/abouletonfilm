@@ -1,1 +1,0 @@
-{"tmdb_id": 289406, "title": "Den dr\u00f6mda dalen - Soria Moria", "original_title": "Den dr\u00f6mda dalen - Soria Moria", "slug_title": "den-dromda-dalen-soria-moria", "date": "1948-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

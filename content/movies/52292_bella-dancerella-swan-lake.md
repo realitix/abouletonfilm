@@ -1,1 +1,0 @@
-{"tmdb_id": 52292, "title": "Bella Dancerella - Swan Lake", "original_title": "Bella Dancerella - Swan Lake", "slug_title": "bella-dancerella-swan-lake", "date": "2006-06-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t9ZWjjciRfLSDb0F4qnUJXVOYsM.jpg", "actors": [], "comments": [], "recommandations_id": []}

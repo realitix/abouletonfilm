@@ -1,1 +1,0 @@
-{"tmdb_id": 134647, "title": "Forgetting Dad", "original_title": "Forgetting Dad", "slug_title": "forgetting-dad", "date": "2008-11-22", "genre": "Documentaire", "score": "6.6/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p71MyDswtlmXmM7ezCIo6XCspbr.jpg", "actors": [], "comments": [], "recommandations_id": []}

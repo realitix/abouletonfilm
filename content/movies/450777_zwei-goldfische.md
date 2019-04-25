@@ -1,1 +1,0 @@
-{"tmdb_id": 450777, "title": "Zwei Goldfische", "original_title": "Zwei Goldfische", "slug_title": "zwei-goldfische", "date": "2007-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Laura Tonke ()", "Rainer Knepperges ()"], "comments": [], "recommandations_id": []}

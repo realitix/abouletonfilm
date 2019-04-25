@@ -1,1 +1,0 @@
-{"tmdb_id": 262964, "title": "Pattasu", "original_title": "Pattasu", "slug_title": "pattasu", "date": "2009-12-25", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Vikranth ()", "Sibiraj ()", "Madhumitha ()", "Chaya Singh ()", "Vivek ()"], "comments": [], "recommandations_id": []}

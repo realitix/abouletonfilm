@@ -1,1 +1,0 @@
-{"tmdb_id": 179810, "title": "Who Cares ?", "original_title": "Quem Se Importa ?", "slug_title": "who-cares", "date": "2014-09-04", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cd6xHZPFjI5kHA2xndyQY99n6Ic.jpg", "actors": ["Rodrigo Santoro ()"], "comments": [], "recommandations_id": []}

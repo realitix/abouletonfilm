@@ -1,1 +1,0 @@
-{"tmdb_id": 352351, "title": "Der Schein tr\u00fcgt", "original_title": "Der Schein tr\u00fcgt", "slug_title": "der-schein-trugt", "date": "2009-09-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/khyLGNlD5yaxkBzlbR0ezYwJlOA.jpg", "actors": [], "comments": [], "recommandations_id": []}

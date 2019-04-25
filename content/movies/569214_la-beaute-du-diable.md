@@ -1,1 +1,0 @@
-{"tmdb_id": 569214, "title": "La beaut\u00e9 du diable", "original_title": "La beaut\u00e9 du diable", "slug_title": "la-beaute-du-diable", "date": "2006-06-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Orlan Roy ((voice))"], "comments": [], "recommandations_id": []}

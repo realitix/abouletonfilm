@@ -1,1 +1,0 @@
-{"tmdb_id": 318673, "title": "Ultimate Combat 7: World Domination", "original_title": "Ultimate Combat 7: World Domination", "slug_title": "ultimate-combat-7-world-domination", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

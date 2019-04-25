@@ -1,1 +1,0 @@
-{"tmdb_id": 459821, "title": "The Music of the Bush Era", "original_title": "The Music of the Bush Era", "slug_title": "the-music-of-the-bush-era", "date": "2017-05-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

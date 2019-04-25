@@ -1,1 +1,0 @@
-{"tmdb_id": 475535, "title": "Creativity: Simon's New Sound", "original_title": "Creativity: Simon's New Sound", "slug_title": "creativity-simon-s-new-sound", "date": "1978-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

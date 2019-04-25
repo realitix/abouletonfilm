@@ -1,1 +1,0 @@
-{"tmdb_id": 515972, "title": "Triumph the Insult Comic Dog: Come Poop With Me", "original_title": "Triumph the Insult Comic Dog: Come Poop With Me", "slug_title": "triumph-the-insult-comic-dog-come-poop-with-me", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

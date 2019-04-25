@@ -1,1 +1,0 @@
-{"tmdb_id": 291106, "title": "Plan 9 From Syracuse", "original_title": "Plan 9 From Syracuse", "slug_title": "plan-9-from-syracuse", "date": "2007-09-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oC85GSDC5cqhXb2lYxBx1WkOt8y.jpg", "actors": [], "comments": [], "recommandations_id": []}

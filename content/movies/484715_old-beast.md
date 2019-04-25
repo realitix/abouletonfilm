@@ -1,1 +1,0 @@
-{"tmdb_id": 484715, "title": "Old Beast", "original_title": "\u8001\u517d", "slug_title": "old-beast", "date": "2017-12-21", "genre": "Drame", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aEX8rbzA8l5F1oPdQr9V20x2DKc.jpg", "actors": ["Men Tu (Lao Yang)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 536439, "title": "Gallagher: That's Stupid", "original_title": "Gallagher: That's Stupid", "slug_title": "gallagher-that-s-stupid", "date": "1982-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xqGbKGwmrfhxJx9kUJyin5AoK1y.jpg", "actors": ["Gallagher (Himself)"], "comments": [], "recommandations_id": []}

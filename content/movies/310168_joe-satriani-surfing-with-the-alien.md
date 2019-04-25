@@ -1,1 +1,0 @@
-{"tmdb_id": 310168, "title": "Joe Satriani: Surfing with the Alien", "original_title": "Joe Satriani: Surfing with the Alien", "slug_title": "joe-satriani-surfing-with-the-alien", "date": "2002-09-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

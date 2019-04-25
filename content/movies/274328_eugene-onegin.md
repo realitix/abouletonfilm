@@ -1,1 +1,0 @@
-{"tmdb_id": 274328, "title": "Eugene Onegin", "original_title": "Eugene Onegin", "slug_title": "eugene-onegin", "date": "1994-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

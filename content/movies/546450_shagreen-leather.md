@@ -1,1 +1,0 @@
-{"tmdb_id": 546450, "title": "Shagreen Leather", "original_title": "\u0160agrenska ko\u017ea", "slug_title": "shagreen-leather", "date": "1960-03-09", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lLUMqpQ78sfOrVK70TKrEaelpCz.jpg", "actors": [], "comments": [], "recommandations_id": []}

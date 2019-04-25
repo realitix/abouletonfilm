@@ -1,1 +1,0 @@
-{"tmdb_id": 277308, "title": "A Trial in Prague", "original_title": "A Trial in Prague", "slug_title": "a-trial-in-prague", "date": "2001-09-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 323499, "title": "The Ghost-Eye Tree", "original_title": "The Ghost-Eye Tree", "slug_title": "the-ghost-eye-tree", "date": "2009-07-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

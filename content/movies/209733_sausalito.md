@@ -1,1 +1,0 @@
-{"tmdb_id": 209733, "title": "Sausalito", "original_title": "Sausalito", "slug_title": "sausalito", "date": "1948-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 321471, "title": "Todd Rundgren: Live in Japan", "original_title": "Todd Rundgren: Live in Japan", "slug_title": "todd-rundgren-live-in-japan", "date": "2002-08-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

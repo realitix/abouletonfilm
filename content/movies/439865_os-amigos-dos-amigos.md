@@ -1,1 +1,0 @@
-{"tmdb_id": 439865, "title": "Os Amigos dos Amigos", "original_title": "Os Amigos dos Amigos", "slug_title": "os-amigos-dos-amigos", "date": "2017-02-05", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Vict\u00f3ria Camargo ()", "Julia Ianina ()"], "comments": [], "recommandations_id": []}

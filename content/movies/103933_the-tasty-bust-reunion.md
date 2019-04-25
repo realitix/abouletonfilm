@@ -1,1 +1,0 @@
-{"tmdb_id": 103933, "title": "The Tasty Bust Reunion", "original_title": "The Tasty Bust Reunion", "slug_title": "the-tasty-bust-reunion", "date": "2004-06-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zwgAR9nVPe5xKhdottDyiDXMMWk.jpg", "actors": [], "comments": [], "recommandations_id": []}

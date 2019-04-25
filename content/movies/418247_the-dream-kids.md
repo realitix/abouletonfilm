@@ -1,1 +1,0 @@
-{"tmdb_id": 418247, "title": "The Dream Kids", "original_title": "The Dream Kids", "slug_title": "the-dream-kids", "date": "1944-04-28", "genre": "Animation / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Frank Graham (Fox / Crow)"], "comments": [], "recommandations_id": []}

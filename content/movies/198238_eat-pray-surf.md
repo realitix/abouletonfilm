@@ -1,1 +1,0 @@
-{"tmdb_id": 198238, "title": "Eat Pray Surf", "original_title": "Eat Pray Surf", "slug_title": "eat-pray-surf", "date": "2011-06-05", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3SZ3VikkzQtnAmpJrrzaxa16I1q.jpg", "actors": [], "comments": [], "recommandations_id": []}

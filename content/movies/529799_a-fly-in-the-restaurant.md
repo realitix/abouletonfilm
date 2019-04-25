@@ -1,1 +1,0 @@
-{"tmdb_id": 529799, "title": "A Fly in the Restaurant", "original_title": "\u5bd2\u9732", "slug_title": "a-fly-in-the-restaurant", "date": "2018-06-05", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/asxCBmheehgprsLAlyYYHTMVqxo.jpg", "actors": [], "comments": [], "recommandations_id": []}

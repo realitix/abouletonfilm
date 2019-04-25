@@ -1,1 +1,0 @@
-{"tmdb_id": 275834, "title": "Capone 'N' Noriega: What Up 2 Da Hood", "original_title": "Capone 'N' Noriega: What Up 2 Da Hood", "slug_title": "capone-n-noriega-what-up-2-da-hood", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

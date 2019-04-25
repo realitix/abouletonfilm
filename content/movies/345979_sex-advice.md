@@ -1,1 +1,0 @@
-{"tmdb_id": 345979, "title": "Sex Advice", "original_title": "Sesso in confessionale", "slug_title": "sex-advice", "date": "1974-05-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aj0E8KppoQ5rvfQKuuXqyCp6grc.jpg", "actors": [], "comments": [], "recommandations_id": []}

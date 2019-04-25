@@ -1,1 +1,0 @@
-{"tmdb_id": 499217, "title": "A Seuso-kincsek rejt\u00e9lye", "original_title": "A Seuso-kincsek rejt\u00e9lye", "slug_title": "a-seuso-kincsek-rejtelye", "date": "1997-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Zolt\u00e1n D\u00e9zsy (Riporter)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 78742, "title": "Kaadhal Oyvathillai", "original_title": "Kaadhal Oyvathillai", "slug_title": "kaadhal-oyvathillai", "date": "1989-09-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Karthik Muthuraman ()", "Ramya Krishnan ()"], "comments": [], "recommandations_id": []}

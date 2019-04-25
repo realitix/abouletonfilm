@@ -1,1 +1,0 @@
-{"tmdb_id": 467442, "title": "Angelyne", "original_title": "Angelyne", "slug_title": "angelyne", "date": "1995-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6n1CeyJSd4w7PXtwwSgxmDey8so.jpg", "actors": ["Angelyne (Herself)", "Stefan Dahlberg ()"], "comments": [], "recommandations_id": []}

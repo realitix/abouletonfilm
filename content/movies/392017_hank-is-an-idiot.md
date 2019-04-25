@@ -1,1 +1,0 @@
-{"tmdb_id": 392017, "title": "Hank is an Idiot", "original_title": "Hank is an Idiot", "slug_title": "hank-is-an-idiot", "date": "2016-04-09", "genre": "Com\u00e9die / Science-Fiction", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7GsHfXtXtHi7O1EL3ZiqjTJnBnd.jpg", "actors": [], "comments": [], "recommandations_id": []}

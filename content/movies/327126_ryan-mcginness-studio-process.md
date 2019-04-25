@@ -1,1 +1,0 @@
-{"tmdb_id": 327126, "title": "Ryan Mcginness: Studio Process", "original_title": "Ryan Mcginness: Studio Process", "slug_title": "ryan-mcginness-studio-process", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

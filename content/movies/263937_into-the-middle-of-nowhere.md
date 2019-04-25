@@ -1,1 +1,0 @@
-{"tmdb_id": 263937, "title": "Into the Middle of Nowhere", "original_title": "Into the Middle of Nowhere", "slug_title": "into-the-middle-of-nowhere", "date": "2010-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

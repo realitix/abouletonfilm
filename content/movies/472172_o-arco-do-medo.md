@@ -1,1 +1,0 @@
-{"tmdb_id": 472172, "title": "O Arco do Medo", "original_title": "O Arco do Medo", "slug_title": "o-arco-do-medo", "date": "2017-09-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5TJfAAWz8IsExWGQXAwFrh7aYgW.jpg", "actors": [], "comments": [], "recommandations_id": []}

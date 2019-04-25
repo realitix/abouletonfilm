@@ -1,1 +1,0 @@
-{"tmdb_id": 161921, "title": "Croon Crazy", "original_title": "Croon Crazy", "slug_title": "croon-crazy", "date": "1933-12-28", "genre": "", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gtXBtJ9cWTw3SRgDgtkejv9E8m9.jpg", "actors": [], "comments": [], "recommandations_id": []}

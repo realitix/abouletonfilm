@@ -1,1 +1,0 @@
-{"tmdb_id": 73319, "title": "Visions of Eight", "original_title": "Visions of Eight", "slug_title": "visions-of-eight", "date": "1973-10-06", "genre": "Documentaire", "score": "7.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mzVkecyq9ZUh5kaF8caVwr7tHso.jpg", "actors": [], "comments": [], "recommandations_id": []}

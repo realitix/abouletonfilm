@@ -1,1 +1,0 @@
-{"tmdb_id": 341092, "title": "Land of Enchantment", "original_title": "Land of Enchantment", "slug_title": "land-of-enchantment", "date": "2000-02-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2KEjvfRyw4iIuuNmLrdB6hX1Tv6.jpg", "actors": [], "comments": [], "recommandations_id": []}

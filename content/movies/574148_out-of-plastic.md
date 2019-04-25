@@ -1,1 +1,0 @@
-{"tmdb_id": 574148, "title": "Out of Plastic", "original_title": "Out of Plastic", "slug_title": "out-of-plastic", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3lLuGLPpbY8LuZHgFuMgo1HPXtH.jpg", "actors": [], "comments": [], "recommandations_id": []}

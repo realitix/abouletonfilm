@@ -1,1 +1,0 @@
-{"tmdb_id": 323191, "title": "Crisis in the Classroom", "original_title": "Crisis in the Classroom", "slug_title": "crisis-in-the-classroom", "date": "1958-01-01", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4Q7GIOvM1q5f6JbP6yLjbToak7M.jpg", "actors": [], "comments": [], "recommandations_id": []}

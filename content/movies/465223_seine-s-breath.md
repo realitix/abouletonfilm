@@ -1,1 +1,0 @@
-{"tmdb_id": 465223, "title": "Seine's Breath", "original_title": "Seine's Breath", "slug_title": "seine-s-breath", "date": "2016-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kN5ctHhQkY725APfIBbdrcu8RkI.jpg", "actors": [], "comments": [], "recommandations_id": []}

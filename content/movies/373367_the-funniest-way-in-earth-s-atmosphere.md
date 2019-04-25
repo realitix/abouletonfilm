@@ -1,1 +1,0 @@
-{"tmdb_id": 373367, "title": "The Funniest Way in Earth's Atmosphere", "original_title": "The Funniest Way in Earth's Atmosphere", "slug_title": "the-funniest-way-in-earth-s-atmosphere", "date": "1993-02-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

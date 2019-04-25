@@ -1,1 +1,0 @@
-{"tmdb_id": 343234, "title": "West of Redemption", "original_title": "West of Redemption", "slug_title": "west-of-redemption", "date": "2015-05-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Billy Zane (Hank Keller)", "Kevin Alejandro (Rick Youngblood)", "Mariana Klaveno (Becky)"], "comments": [], "recommandations_id": []}

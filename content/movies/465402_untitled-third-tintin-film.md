@@ -1,1 +1,0 @@
-{"tmdb_id": 465402, "title": "Untitled Third Tintin Film", "original_title": "Untitled Third Tintin Film", "slug_title": "untitled-third-tintin-film", "date": "", "genre": "Aventure", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Andy Serkis (Haddock (rumored))"], "comments": [], "recommandations_id": []}

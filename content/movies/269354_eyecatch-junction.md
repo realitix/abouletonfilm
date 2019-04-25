@@ -1,1 +1,0 @@
-{"tmdb_id": 269354, "title": "Eyecatch Junction", "original_title": "Toppuu! Minipato tai - Aikyacchi Jankushon", "slug_title": "eyecatch-junction", "date": "1991-10-25", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/irSfMH7d3qV8URareRQoFu7wC70.jpg", "actors": [], "comments": [], "recommandations_id": []}

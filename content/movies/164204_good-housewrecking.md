@@ -1,1 +1,0 @@
-{"tmdb_id": 164204, "title": "Good Housewrecking", "original_title": "Good Housewrecking", "slug_title": "good-housewrecking", "date": "1933-06-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Edgar Kennedy ()", "Dot Farley ()"], "comments": [], "recommandations_id": []}

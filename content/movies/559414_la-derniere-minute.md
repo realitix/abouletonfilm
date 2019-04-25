@@ -1,1 +1,0 @@
-{"tmdb_id": 559414, "title": "La derni\u00e8re minute", "original_title": "La derni\u00e8re minute", "slug_title": "la-derniere-minute", "date": "", "genre": "", "score": "0.0/10", "synopsis": "Court M\u00e9trage de Nicolas Salis", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 232895, "title": "Typografernes Strejke", "original_title": "Typografernes Strejke", "slug_title": "typografernes-strejke", "date": "1908-11-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

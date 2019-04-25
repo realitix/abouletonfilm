@@ -1,1 +1,0 @@
-{"tmdb_id": 529449, "title": "Die Wollands", "original_title": "Die Wollands", "slug_title": "die-wollands", "date": "1973-09-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Nicolas Brieger (Horst Wolland)", "Elfriede Irrall (Karin Wolland)"], "comments": [], "recommandations_id": []}

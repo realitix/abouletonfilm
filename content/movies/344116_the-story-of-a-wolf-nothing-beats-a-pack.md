@@ -1,1 +1,0 @@
-{"tmdb_id": 344116, "title": "The Story of a Wolf: Nothing Beats a Pack", "original_title": "Opowie\u015b\u0107 o wilku: Nie ma jak stado", "slug_title": "the-story-of-a-wolf-nothing-beats-a-pack", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

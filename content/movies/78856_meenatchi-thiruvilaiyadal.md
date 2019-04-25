@@ -1,1 +1,0 @@
-{"tmdb_id": 78856, "title": "Meenatchi Thiruvilaiyadal", "original_title": "Meenatchi Thiruvilaiyadal", "slug_title": "meenatchi-thiruvilaiyadal", "date": "", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

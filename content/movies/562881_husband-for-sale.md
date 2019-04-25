@@ -1,1 +1,0 @@
-{"tmdb_id": 562881, "title": "Husband for Sale", "original_title": "Un mari \u00e0 prix fixe", "slug_title": "husband-for-sale", "date": "1965-07-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g63Qe0hiYYEfjLUIm4sCBByYGw9.jpg", "actors": [], "comments": [], "recommandations_id": []}

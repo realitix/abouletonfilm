@@ -1,1 +1,0 @@
-{"tmdb_id": 396534, "title": "Jabe Babe: A Heightened Life", "original_title": "Jabe Babe: A Heightened Life", "slug_title": "jabe-babe-a-heightened-life", "date": "2005-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/78lQowBiRtC8NdfeDNd7OQ1xVY7.jpg", "actors": [], "comments": [], "recommandations_id": []}

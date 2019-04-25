@@ -1,1 +1,0 @@
-{"tmdb_id": 495137, "title": "Operaatio Alaska", "original_title": "Operaatio Alaska", "slug_title": "operaatio-alaska", "date": "2017-12-28", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

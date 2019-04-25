@@ -1,1 +1,0 @@
-{"tmdb_id": 456376, "title": "These Are the Men", "original_title": "These Are the Men", "slug_title": "these-are-the-men", "date": "1943-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

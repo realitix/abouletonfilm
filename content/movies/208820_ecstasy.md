@@ -1,1 +1,0 @@
-{"tmdb_id": 208820, "title": "Ecstasy", "original_title": "Ecstasy", "slug_title": "ecstasy", "date": "2013-06-30", "genre": "Drame / Thriller", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1OJ7EUn3gIfTSPFW1dfHU33Jxe0.jpg", "actors": ["John Malkovich (Vinny)"], "comments": [], "recommandations_id": []}

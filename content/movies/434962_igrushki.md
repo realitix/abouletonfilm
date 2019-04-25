@@ -1,1 +1,0 @@
-{"tmdb_id": 434962, "title": "Igrushki", "original_title": "Igrushki", "slug_title": "igrushki", "date": "2012-01-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

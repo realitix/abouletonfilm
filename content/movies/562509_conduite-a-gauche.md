@@ -1,1 +1,0 @@
-{"tmdb_id": 562509, "title": "Conduite \u00e0 gauche", "original_title": "Conduite \u00e0 gauche", "slug_title": "conduite-a-gauche", "date": "1962-06-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dkvV0Ph7uQ1VPrmITa1DJvHsTgu.jpg", "actors": [], "comments": [], "recommandations_id": []}

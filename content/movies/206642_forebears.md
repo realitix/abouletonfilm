@@ -1,1 +1,0 @@
-{"tmdb_id": 206642, "title": "ForeBears", "original_title": "ForeBears", "slug_title": "forebears", "date": "2013-07-11", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uKWVyPq5nzetzWkPf5BjyUl1Jgq.jpg", "actors": ["Varg Vikernes ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 579516, "title": "Are We Alone", "original_title": "Are We Alone", "slug_title": "are-we-alone", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

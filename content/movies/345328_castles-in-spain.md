@@ -1,1 +1,0 @@
-{"tmdb_id": 345328, "title": "Castles in Spain", "original_title": "Castillos en Espa\u00f1a", "slug_title": "castles-in-spain", "date": "1944-06-18", "genre": "Drame / Documentaire", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jaime Millet ()", "Federico Mir ()", "Benito Toral ((voice))"], "comments": [], "recommandations_id": []}

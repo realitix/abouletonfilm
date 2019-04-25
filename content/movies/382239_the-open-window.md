@@ -1,1 +1,0 @@
-{"tmdb_id": 382239, "title": "The Open Window", "original_title": "La fen\u00eatre ouverte", "slug_title": "the-open-window", "date": "1952-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iOzxFkcCLZXajEw7jWfiV6T0waZ.jpg", "actors": ["Roger Pigout (Narration)"], "comments": [], "recommandations_id": []}

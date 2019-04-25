@@ -1,1 +1,0 @@
-{"tmdb_id": 389330, "title": "Go-hiki no Kozaru-tachi", "original_title": "Go-hiki no Kozaru-tachi", "slug_title": "go-hiki-no-kozaru-tachi", "date": "1956-01-01", "genre": "Animation", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rMKOWmK2WvunPC0CnrsGrOSlnM4.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 562275, "title": "\u8ffd\u6740\u4ee4", "original_title": "\u8ffd\u6740\u4ee4", "slug_title": "zhui-sha-ling", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

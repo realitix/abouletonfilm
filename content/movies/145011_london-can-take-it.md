@@ -1,1 +1,0 @@
-{"tmdb_id": 145011, "title": "London Can Take It!", "original_title": "London Can Take It!", "slug_title": "london-can-take-it", "date": "1940-10-01", "genre": "Documentaire / Guerre", "score": "6.6/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Quentin Reynolds (Commentator (voice))"], "comments": [], "recommandations_id": [163366, 154902, 43386, 43836]}

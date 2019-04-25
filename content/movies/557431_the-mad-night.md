@@ -1,1 +1,0 @@
-{"tmdb_id": 557431, "title": "The Mad Night", "original_title": "La folle nuit", "slug_title": "the-mad-night", "date": "1932-04-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

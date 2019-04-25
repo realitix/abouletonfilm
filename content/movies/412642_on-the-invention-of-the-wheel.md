@@ -1,1 +1,0 @@
-{"tmdb_id": 412642, "title": "On the Invention of the Wheel", "original_title": "On the Invention of the Wheel", "slug_title": "on-the-invention-of-the-wheel", "date": "2016-08-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8ESNoktcts6yASmssv6D6fcIQK7.jpg", "actors": [], "comments": [], "recommandations_id": []}

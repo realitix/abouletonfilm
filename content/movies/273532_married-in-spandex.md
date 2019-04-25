@@ -1,1 +1,0 @@
-{"tmdb_id": 273532, "title": "Married in Spandex", "original_title": "Married in Spandex", "slug_title": "married-in-spandex", "date": "2011-01-01", "genre": "", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6zbdsGtH73W2DwiZr2BZOVqWcAf.jpg", "actors": [], "comments": [], "recommandations_id": []}

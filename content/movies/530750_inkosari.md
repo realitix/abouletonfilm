@@ -1,1 +1,0 @@
-{"tmdb_id": 530750, "title": "Inkosari", "original_title": "Inkosari", "slug_title": "inkosari", "date": "2010-02-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nLZlGC3KydoDFCdiQq4xsDigVQQ.jpg", "actors": ["Raja ()", "Richa Pallod ()", "Manjari Phadnis ()"], "comments": [], "recommandations_id": []}

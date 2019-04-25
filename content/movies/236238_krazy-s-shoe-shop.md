@@ -1,1 +1,0 @@
-{"tmdb_id": 236238, "title": "Krazy's Shoe Shop", "original_title": "Krazy's Shoe Shop", "slug_title": "krazy-s-shoe-shop", "date": "1939-05-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

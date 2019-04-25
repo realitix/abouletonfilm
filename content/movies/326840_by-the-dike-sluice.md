@@ -1,1 +1,0 @@
-{"tmdb_id": 326840, "title": "By the Dike Sluice", "original_title": "Am Siel", "slug_title": "by-the-dike-sluice", "date": "1963-02-12", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4BAGrwoLT4sUST1i48BdqftWmsu.jpg", "actors": ["Robert Wolfgang Schnell (Narrator)"], "comments": [], "recommandations_id": []}

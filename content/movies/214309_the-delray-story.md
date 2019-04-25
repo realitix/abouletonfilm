@@ -1,1 +1,0 @@
-{"tmdb_id": 214309, "title": "The Delray Story", "original_title": "The Delray Story", "slug_title": "the-delray-story", "date": "", "genre": "Com\u00e9die / Musique", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dan O'Brien (Delray)"], "comments": [], "recommandations_id": []}

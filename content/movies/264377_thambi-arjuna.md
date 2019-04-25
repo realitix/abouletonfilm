@@ -1,1 +1,0 @@
-{"tmdb_id": 264377, "title": "Thambi Arjuna", "original_title": "Thambi Arjuna", "slug_title": "thambi-arjuna", "date": "2010-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ramana ()", "Suman Talwar ()", "Feroz Khan ()", "Ashima Bhalla (Radhika)"], "comments": [], "recommandations_id": []}

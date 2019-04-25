@@ -1,1 +1,0 @@
-{"tmdb_id": 516458, "title": "Em Defesa da Fam\u00edlia", "original_title": "Em Defesa da Fam\u00edlia", "slug_title": "em-defesa-da-familia", "date": "2017-05-17", "genre": "Documentaire / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3aAgxop4LjEKFuOkLrvsaf6gdQC.jpg", "actors": [], "comments": [], "recommandations_id": []}

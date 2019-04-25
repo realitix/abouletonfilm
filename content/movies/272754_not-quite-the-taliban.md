@@ -1,1 +1,0 @@
-{"tmdb_id": 272754, "title": "Not Quite the Taliban", "original_title": "Not Quite the Taliban", "slug_title": "not-quite-the-taliban", "date": "2009-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bSyyJ8y5OO4QoHQI4FDOYarButt.jpg", "actors": [], "comments": [], "recommandations_id": []}

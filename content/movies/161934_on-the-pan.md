@@ -1,1 +1,0 @@
-{"tmdb_id": 161934, "title": "On the Pan", "original_title": "On the Pan", "slug_title": "on-the-pan", "date": "1933-11-23", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

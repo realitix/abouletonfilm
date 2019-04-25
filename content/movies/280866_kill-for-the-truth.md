@@ -1,1 +1,0 @@
-{"tmdb_id": 280866, "title": "Kill for the Truth", "original_title": "Phai Kam Plerng", "slug_title": "kill-for-the-truth", "date": "1977-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sombat Metanee (Mai)"], "comments": [], "recommandations_id": []}

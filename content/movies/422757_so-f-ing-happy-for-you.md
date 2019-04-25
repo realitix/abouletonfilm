@@ -1,1 +1,0 @@
-{"tmdb_id": 422757, "title": "So F***ing Happy for You", "original_title": "So F***ing Happy for You", "slug_title": "so-f-ing-happy-for-you", "date": "2016-10-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wkNVRGwD1VTsDCxvmOysm1Fxafz.jpg", "actors": [], "comments": [], "recommandations_id": []}

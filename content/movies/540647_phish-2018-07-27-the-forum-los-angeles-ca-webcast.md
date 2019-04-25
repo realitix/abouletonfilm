@@ -1,1 +1,0 @@
-{"tmdb_id": 540647, "title": "Phish - 2018-07-27 - The Forum - Los Angeles CA Webcast", "original_title": "Phish - 2018-07-27 - The Forum - Los Angeles CA Webcast", "slug_title": "phish-2018-07-27-the-forum-los-angeles-ca-webcast", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

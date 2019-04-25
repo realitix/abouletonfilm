@@ -1,1 +1,0 @@
-{"tmdb_id": 529303, "title": "Waiting for Ishtar", "original_title": "Waiting for Ishtar", "slug_title": "waiting-for-ishtar", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bLgkCeYSucSUuY23zwaPkc29GW5.jpg", "actors": [], "comments": [], "recommandations_id": []}

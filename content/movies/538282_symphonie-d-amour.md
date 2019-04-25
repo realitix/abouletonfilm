@@ -1,1 +1,0 @@
-{"tmdb_id": 538282, "title": "Symphonie D'Amour", "original_title": "Le grand refrain", "slug_title": "symphonie-d-amour", "date": "1936-09-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3f1FJjbautEdkVwcpk2POY22ZaB.jpg", "actors": [], "comments": [], "recommandations_id": []}

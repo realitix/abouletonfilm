@@ -1,1 +1,0 @@
-{"tmdb_id": 590001, "title": "Kain,Jarum dan Gunting", "original_title": "Kain,Jarum dan Gunting", "slug_title": "kain-jarum-dan-gunting", "date": "2013-07-22", "genre": "Com\u00e9die / T\u00e9l\u00e9film", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Nabil Raja Lawak ()"], "comments": [], "recommandations_id": []}

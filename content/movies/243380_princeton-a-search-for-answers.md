@@ -1,1 +1,0 @@
-{"tmdb_id": 243380, "title": "Princeton: A Search for Answers", "original_title": "Princeton: A Search for Answers", "slug_title": "princeton-a-search-for-answers", "date": "1974-03-21", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jiz0Peviyis1yUnHHBVyp7Zysoz.jpg", "actors": [], "comments": [], "recommandations_id": []}

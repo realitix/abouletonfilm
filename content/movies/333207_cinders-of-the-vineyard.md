@@ -1,1 +1,0 @@
-{"tmdb_id": 333207, "title": "Cinders of the Vineyard", "original_title": "Ram\u00e2d al-zariba", "slug_title": "cinders-of-the-vineyard", "date": "1977-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mohamed El Habachi ()", "Ahmed Naji ()"], "comments": [], "recommandations_id": []}

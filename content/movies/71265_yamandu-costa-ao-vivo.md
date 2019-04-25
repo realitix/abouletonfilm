@@ -1,1 +1,0 @@
-{"tmdb_id": 71265, "title": "Yamandu Costa Ao Vivo", "original_title": "Yamandu Costa Ao Vivo", "slug_title": "yamandu-costa-ao-vivo", "date": "2005-01-01", "genre": "Musique", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hPhVsCr3sWPFGkXmwRk6CSs56TS.jpg", "actors": ["Yamand\u00fa Costa ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 255543, "title": "Sobre Futebol e Barreiras", "original_title": "Sobre Futebol e Barreiras", "slug_title": "sobre-futebol-e-barreiras", "date": "2011-10-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qjrng4wDQeACq3AQuaD9ODjli1z.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 509388, "title": "Sportsfreund L\u00f6tzsch", "original_title": "Sportsfreund L\u00f6tzsch", "slug_title": "sportsfreund-lotzsch", "date": "2008-07-17", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a1HfmnVDvVClPQRCC2UI9OgSw5h.jpg", "actors": [], "comments": [], "recommandations_id": []}

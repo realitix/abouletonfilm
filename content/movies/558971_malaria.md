@@ -1,1 +1,0 @@
-{"tmdb_id": 558971, "title": "Malaria", "original_title": "Malaria", "slug_title": "malaria", "date": "1943-06-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qkgzJg1y54FnjnmRjTqPdyRmbRf.jpg", "actors": [], "comments": [], "recommandations_id": []}

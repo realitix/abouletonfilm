@@ -1,1 +1,0 @@
-{"tmdb_id": 467445, "title": "The Salt Mines", "original_title": "The Salt Mines", "slug_title": "the-salt-mines", "date": "1990-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rvsUAjFcvWPFWo8QVccEmc70TJn.jpg", "actors": [], "comments": [], "recommandations_id": []}

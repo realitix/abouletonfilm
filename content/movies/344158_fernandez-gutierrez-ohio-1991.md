@@ -1,1 +1,0 @@
-{"tmdb_id": 344158, "title": "Fern\u00e1ndez \u2013 Gutierrez, Ohio 1991", "original_title": "Fern\u00e1ndez \u2013 Gutierrez, Ohio 1991", "slug_title": "fernandez-gutierrez-ohio-1991", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 321641, "title": "Christian Dating: The Shocking Truth", "original_title": "Christian Dating: The Shocking Truth", "slug_title": "christian-dating-the-shocking-truth", "date": "1999-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

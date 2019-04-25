@@ -1,1 +1,0 @@
-{"tmdb_id": 312519, "title": "Full Leather Jacket", "original_title": "Full Leather Jacket", "slug_title": "full-leather-jacket", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

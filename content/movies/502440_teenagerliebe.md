@@ -1,1 +1,1 @@
-{"tmdb_id": 502440, "title": "Teenagerliebe", "original_title": "Teenagerliebe", "slug_title": "teenagerliebe", "date": "1975-02-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 502440, "title": "Teenagerliebe", "original_title": "Teenagerliebe", "slug_title": "teenagerliebe", "date": "1975-02-03", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

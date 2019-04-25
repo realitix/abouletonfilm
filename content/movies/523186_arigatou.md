@@ -1,1 +1,0 @@
-{"tmdb_id": 523186, "title": "Arigatou", "original_title": "\u3042\u308a\u304c\u3068\u3046", "slug_title": "arigatou", "date": "1996-07-20", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Eiji Okuda ()", "Misato Hayase ()", "Y\u00fbna Natsuo ()"], "comments": [], "recommandations_id": []}

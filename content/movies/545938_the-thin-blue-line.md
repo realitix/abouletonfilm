@@ -1,1 +1,0 @@
-{"tmdb_id": 545938, "title": "The Thin Blue Line", "original_title": "The Thin Blue Line", "slug_title": "the-thin-blue-line", "date": "1966-09-03", "genre": "Documentaire / T\u00e9l\u00e9film", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Van Heflin (Narrator)"], "comments": [], "recommandations_id": []}

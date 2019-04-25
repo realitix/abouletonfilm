@@ -1,1 +1,0 @@
-{"tmdb_id": 515474, "title": "Mo'ne Davis: I Throw Like a Girl", "original_title": "Mo'ne Davis: I Throw Like a Girl", "slug_title": "mo-ne-davis-i-throw-like-a-girl", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

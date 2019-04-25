@@ -1,1 +1,0 @@
-{"tmdb_id": 440388, "title": "Fuddy Duddy", "original_title": "Fuddy Duddy", "slug_title": "fuddy-duddy", "date": "2016-10-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kvCvBFzUhbF0kCHQrFmdZm1w9hF.jpg", "actors": [], "comments": [], "recommandations_id": []}

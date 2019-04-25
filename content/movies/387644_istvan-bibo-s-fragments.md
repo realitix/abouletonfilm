@@ -1,1 +1,0 @@
-{"tmdb_id": 387644, "title": "Istvan Bibo's Fragments", "original_title": "Bib\u00f3 Brevi\u00e1rium", "slug_title": "istvan-bibo-s-fragments", "date": "2002-05-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mXPwDVLL5S0PgKnzb0TgA3I96Zi.jpg", "actors": [], "comments": [], "recommandations_id": []}

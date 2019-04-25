@@ -1,1 +1,0 @@
-{"tmdb_id": 322274, "title": "Police Mattu Dada", "original_title": "Police Mattu Dada", "slug_title": "police-mattu-dada", "date": "1991-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

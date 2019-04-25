@@ -1,1 +1,0 @@
-{"tmdb_id": 333508, "title": "Sex and the Lonely Woman", "original_title": "Sex and the Lonely Woman", "slug_title": "sex-and-the-lonely-woman", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mjTTr8RLV3Y8zdleYNdnUlXI2TO.jpg", "actors": [], "comments": [], "recommandations_id": []}

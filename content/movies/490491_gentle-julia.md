@@ -1,1 +1,0 @@
-{"tmdb_id": 490491, "title": "Gentle Julia", "original_title": "Gentle Julia", "slug_title": "gentle-julia", "date": "1936-04-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5amE0e2GijQyhWEMYyQItEfY6dc.jpg", "actors": [], "comments": [], "recommandations_id": []}

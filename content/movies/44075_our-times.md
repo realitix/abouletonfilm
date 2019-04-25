@@ -1,1 +1,0 @@
-{"tmdb_id": 44075, "title": "Our Times", "original_title": "Ruz-egar-e ma", "slug_title": "our-times", "date": "2002-01-01", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/znvsw5jlW3a0PHJUMXztaehECR8.jpg", "actors": [], "comments": [], "recommandations_id": []}

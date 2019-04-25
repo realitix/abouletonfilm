@@ -1,1 +1,0 @@
-{"tmdb_id": 396607, "title": "Shout for Joy", "original_title": "Shout for Joy", "slug_title": "shout-for-joy", "date": "1983-09-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yjq8Nj3ORu6l4fSEyFatlUdf5SB.jpg", "actors": [], "comments": [], "recommandations_id": []}

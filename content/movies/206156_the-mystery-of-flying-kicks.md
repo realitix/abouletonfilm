@@ -1,1 +1,0 @@
-{"tmdb_id": 206156, "title": "The Mystery of Flying Kicks", "original_title": "The Mystery of Flying Kicks", "slug_title": "the-mystery-of-flying-kicks", "date": "2010-02-07", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/snBCM97SayG1eD72ke19HtzMgA4.jpg", "actors": [], "comments": [], "recommandations_id": []}

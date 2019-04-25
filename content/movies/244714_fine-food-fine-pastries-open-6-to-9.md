@@ -1,1 +1,0 @@
-{"tmdb_id": 244714, "title": "Fine Food, Fine Pastries, Open 6 to 9", "original_title": "Fine Food, Fine Pastries, Open 6 to 9", "slug_title": "fine-food-fine-pastries-open-6-to-9", "date": "1989-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

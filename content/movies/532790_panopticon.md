@@ -1,1 +1,0 @@
-{"tmdb_id": 532790, "title": "Panopticon", "original_title": "Panopticon", "slug_title": "panopticon", "date": "", "genre": "Horreur / Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Edith Hueck (Alice)", "Donna Delaney (Bob)", "Louise Timpson (Claudia)", "James Elmes (John)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 274457, "title": "Crocodile in the Yangtze", "original_title": "Crocodile in the Yangtze", "slug_title": "crocodile-in-the-yangtze", "date": "2012-04-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/71WhQLHJi23VyPqATULB0AmAjXc.jpg", "actors": [], "comments": [], "recommandations_id": []}

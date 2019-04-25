@@ -1,1 +1,0 @@
-{"tmdb_id": 271832, "title": "Fruit of the Vine", "original_title": "Fruit of the Vine", "slug_title": "fruit-of-the-vine", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bitsqD7VCQqVfZAMDXVcIXhzelY.jpg", "actors": [], "comments": [], "recommandations_id": []}

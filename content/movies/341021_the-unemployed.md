@@ -1,1 +1,0 @@
-{"tmdb_id": 341021, "title": "The Unemployed", "original_title": "Nezaposleni ljudi", "slug_title": "the-unemployed", "date": "1968-12-25", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4sIprPKfqjfY7U0jAhn2GqUx9p5.jpg", "actors": [], "comments": [], "recommandations_id": []}

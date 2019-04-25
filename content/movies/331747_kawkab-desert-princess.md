@@ -1,1 +1,0 @@
-{"tmdb_id": 331747, "title": "Kawkab: Desert Princess", "original_title": "Kawkab: Amirat al Sahra", "slug_title": "kawkab-desert-princess", "date": "1946-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

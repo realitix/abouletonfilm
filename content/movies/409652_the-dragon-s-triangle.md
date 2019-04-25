@@ -1,1 +1,0 @@
-{"tmdb_id": 409652, "title": "The Dragon's Triangle", "original_title": "The Dragon's Triangle", "slug_title": "the-dragon-s-triangle", "date": "", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

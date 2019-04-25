@@ -1,1 +1,0 @@
-{"tmdb_id": 551297, "title": "The Fountain of Youth", "original_title": "Izvor \u017eivota", "slug_title": "the-fountain-of-youth", "date": "1969-06-05", "genre": "Animation / Fantastique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ktf88FC04yIwPJfydxWBliqzGh4.jpg", "actors": [], "comments": [], "recommandations_id": []}

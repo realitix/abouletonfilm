@@ -1,1 +1,0 @@
-{"tmdb_id": 574735, "title": "Acuario", "original_title": "Acuario", "slug_title": "acuario", "date": "2016-04-22", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fyTO4JRupVjBHMaQ6yyz7OExhSr.jpg", "actors": ["Orange Fish (Orange Fish)"], "comments": [], "recommandations_id": []}

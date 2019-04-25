@@ -1,1 +1,0 @@
-{"tmdb_id": 475581, "title": "Progress on the Rails", "original_title": "Progress on the Rails", "slug_title": "progress-on-the-rails", "date": "1952-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o1rCEXDJhFCOdL3mhVviI0RYkNv.jpg", "actors": [], "comments": [], "recommandations_id": []}

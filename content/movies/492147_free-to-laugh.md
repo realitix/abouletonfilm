@@ -1,1 +1,0 @@
-{"tmdb_id": 492147, "title": "Free to Laugh", "original_title": "Free to Laugh", "slug_title": "free-to-laugh", "date": "2016-02-10", "genre": "Documentaire", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nVBQLHDgtAU5YQGn8tLiiqlFlB0.jpg", "actors": [], "comments": [], "recommandations_id": []}

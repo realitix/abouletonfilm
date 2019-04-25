@@ -1,1 +1,0 @@
-{"tmdb_id": 438628, "title": "Canners", "original_title": "Canners", "slug_title": "canners", "date": "2017-02-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/50MVAq3PAJ6kMfAhMB9OPBu8igM.jpg", "actors": [], "comments": [], "recommandations_id": []}

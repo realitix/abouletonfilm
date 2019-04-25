@@ -1,1 +1,0 @@
-{"tmdb_id": 525734, "title": "Zemlinsky - The Dwarf", "original_title": "Zemlinsky - The Dwarf", "slug_title": "zemlinsky-the-dwarf", "date": "2010-11-08", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wrFenWvM3wdj0bRazMfs9LaRea3.jpg", "actors": ["James Conlon ()"], "comments": [], "recommandations_id": []}

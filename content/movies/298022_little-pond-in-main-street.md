@@ -1,1 +1,0 @@
-{"tmdb_id": 298022, "title": "Little Pond in Main Street", "original_title": "\uac70\ub9ac \uc18d \uc791\uc740 \uc5f0\ubabb", "slug_title": "little-pond-in-main-street", "date": "2014-10-04", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

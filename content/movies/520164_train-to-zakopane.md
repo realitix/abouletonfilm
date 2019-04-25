@@ -1,1 +1,0 @@
-{"tmdb_id": 520164, "title": "Train to Zakopan\u00e9", "original_title": "Train to Zakopan\u00e9", "slug_title": "train-to-zakopane", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

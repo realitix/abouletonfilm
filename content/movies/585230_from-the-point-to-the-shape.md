@@ -1,1 +1,0 @@
-{"tmdb_id": 585230, "title": "From the point to the shape", "original_title": "Del punto a la forma", "slug_title": "from-the-point-to-the-shape", "date": "1954-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lXjc7qja2DQzt1u55BGvP8z87Xq.jpg", "actors": [], "comments": [], "recommandations_id": []}

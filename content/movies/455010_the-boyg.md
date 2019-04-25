@@ -1,1 +1,0 @@
-{"tmdb_id": 455010, "title": "The Boyg", "original_title": "B\u00f8ygen", "slug_title": "the-boyg", "date": "2016-08-18", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2WHmGdSSKuj7UbpxeHC9hWmNtxT.jpg", "actors": [], "comments": [], "recommandations_id": []}

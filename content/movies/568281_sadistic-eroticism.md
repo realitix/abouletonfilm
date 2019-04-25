@@ -1,1 +1,0 @@
-{"tmdb_id": 568281, "title": "Sadistic Eroticism", "original_title": "Sadistic Eroticism", "slug_title": "sadistic-eroticism", "date": "2012-01-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6TE8YpE9JnmmBbkcWjvJW5NNoNj.jpg", "actors": ["Sophie Dee (Mrs. Lizz)"], "comments": [], "recommandations_id": []}

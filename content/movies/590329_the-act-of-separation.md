@@ -1,1 +1,0 @@
-{"tmdb_id": 590329, "title": "The Act of Separation", "original_title": "The Act of Separation", "slug_title": "the-act-of-separation", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kHKZDkHZivd9cXMXM5flGISPtvE.jpg", "actors": ["Derek Ugochukwu ()", "Slaney Power ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 582459, "title": "Suicide Mission", "original_title": "Suicide Mission", "slug_title": "suicide-mission", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bP60pp9bPlQjfp5VZ4U0LZWTUYi.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 568017, "title": "Aloha Dying", "original_title": "Aloha Dying", "slug_title": "aloha-dying", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

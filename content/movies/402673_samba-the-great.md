@@ -1,1 +1,0 @@
-{"tmdb_id": 402673, "title": "Samba the Great", "original_title": "Samba le grand", "slug_title": "samba-the-great", "date": "1977-03-26", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a2fH6w7FEPQEt9G73a04uuDFTYi.jpg", "actors": [], "comments": [], "recommandations_id": []}

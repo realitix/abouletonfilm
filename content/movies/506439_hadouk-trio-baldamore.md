@@ -1,1 +1,0 @@
-{"tmdb_id": 506439, "title": "Hadouk Trio: Baldamore", "original_title": "Hadouk Trio: Baldamore", "slug_title": "hadouk-trio-baldamore", "date": "2007-02-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fm4kdnAc5yI0pybRvbkp2Izu6HC.jpg", "actors": [], "comments": [], "recommandations_id": []}

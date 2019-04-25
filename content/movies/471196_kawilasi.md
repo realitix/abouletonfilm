@@ -1,1 +1,0 @@
-{"tmdb_id": 471196, "title": "Kawilasi", "original_title": "Kawilasi", "slug_title": "kawilasi", "date": "1992-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Daniel Lawson ()", "Gustave Sorgho ()", "Victoire Walla (Adjo Zongo dite Tanti Adjo)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 447566, "title": "Dime Crimes # 34", "original_title": "Dime Crimes # 34", "slug_title": "dime-crimes-34", "date": "2015-12-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3y6cyU5kOgfkDqriWNX9pKACZwO.jpg", "actors": [], "comments": [], "recommandations_id": []}

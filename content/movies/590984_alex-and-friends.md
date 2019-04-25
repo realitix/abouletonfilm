@@ -1,1 +1,0 @@
-{"tmdb_id": 590984, "title": "Alex and friends", "original_title": "Alex and friends", "slug_title": "alex-and-friends", "date": "", "genre": "Romance", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Alex (Alex)", "Nicole (Discipline Daddy)", "Alex's other friends (Alex's friends)"], "comments": [], "recommandations_id": []}

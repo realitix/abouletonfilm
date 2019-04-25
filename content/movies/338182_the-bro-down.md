@@ -1,1 +1,0 @@
-{"tmdb_id": 338182, "title": "The Bro Down", "original_title": "The Bro Down", "slug_title": "the-bro-down", "date": "2014-10-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

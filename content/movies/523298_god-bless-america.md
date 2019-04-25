@@ -1,1 +1,0 @@
-{"tmdb_id": 523298, "title": "God Bless America", "original_title": "God Bless America", "slug_title": "god-bless-america", "date": "2017-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xjtNqeoAorzB6s2UNDvPgEikRq.jpg", "actors": [], "comments": [], "recommandations_id": []}

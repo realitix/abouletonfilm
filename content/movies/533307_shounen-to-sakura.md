@@ -1,1 +1,0 @@
-{"tmdb_id": 533307, "title": "Shounen to Sakura", "original_title": "Shounen to Sakura", "slug_title": "shounen-to-sakura", "date": "1983-07-01", "genre": "Animation / Familial / Histoire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

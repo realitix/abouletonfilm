@@ -1,1 +1,0 @@
-{"tmdb_id": 532727, "title": "Get the Message", "original_title": "Get the Message", "slug_title": "get-the-message", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

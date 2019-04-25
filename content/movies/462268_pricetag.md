@@ -1,1 +1,0 @@
-{"tmdb_id": 462268, "title": "Pricetag", "original_title": "Pricetag", "slug_title": "pricetag", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Frits Chung (Jeffrey Chen)", "Jenny Hsia (Annie Li)"], "comments": [], "recommandations_id": []}

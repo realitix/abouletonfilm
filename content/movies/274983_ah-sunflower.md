@@ -1,1 +1,0 @@
-{"tmdb_id": 274983, "title": "Ah, Sunflower", "original_title": "Ah, Sunflower", "slug_title": "ah-sunflower", "date": "1967-08-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Allen Ginsberg ()"], "comments": [], "recommandations_id": []}

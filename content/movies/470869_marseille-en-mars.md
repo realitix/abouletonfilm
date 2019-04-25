@@ -1,1 +1,0 @@
-{"tmdb_id": 470869, "title": "Marseille en mars", "original_title": "Marseille en mars", "slug_title": "marseille-en-mars", "date": "1993-01-01", "genre": "", "score": "0.0/10", "synopsis": "R\u00e9cit de la campagne des l\u00e9gislatives 1993 \u00e0 Marseille.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

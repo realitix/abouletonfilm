@@ -1,1 +1,0 @@
-{"tmdb_id": 233025, "title": "Staline: Le tyran rouge", "original_title": "Staline: Le tyran rouge", "slug_title": "staline-le-tyran-rouge", "date": "2007-03-14", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1TtwLbYIMFJR2rHTaNTuRT7R54G.jpg", "actors": [], "comments": [], "recommandations_id": []}

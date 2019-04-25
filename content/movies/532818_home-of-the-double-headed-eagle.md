@@ -1,1 +1,0 @@
-{"tmdb_id": 532818, "title": "Home of the Double Headed Eagle", "original_title": "Home of the Double Headed Eagle", "slug_title": "home-of-the-double-headed-eagle", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9IxE3jJBMJyjaKxQSjW9ZX9RwAD.jpg", "actors": [], "comments": [], "recommandations_id": []}

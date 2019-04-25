@@ -1,1 +1,0 @@
-{"tmdb_id": 126857, "title": "Balzac's Last Novel", "original_title": "O \u00daltimo Romance de Balzac", "slug_title": "balzac-s-last-novel", "date": "2011-11-20", "genre": "Drame / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8Aw677v3C3gQVy7yWfQOKCNyJxc.jpg", "actors": [], "comments": [], "recommandations_id": []}

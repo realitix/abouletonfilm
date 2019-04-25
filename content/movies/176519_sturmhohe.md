@@ -1,1 +1,1 @@
-{"tmdb_id": 176519, "title": "Sturmh\u00f6he", "original_title": "Sturmh\u00f6he", "slug_title": "sturmhohe", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 176519, "title": "Sturmh\u00f6he", "original_title": "Sturmh\u00f6he", "slug_title": "sturmhohe", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

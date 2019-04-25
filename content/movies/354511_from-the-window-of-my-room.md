@@ -1,1 +1,0 @@
-{"tmdb_id": 354511, "title": "From the Window of My Room", "original_title": "Da Janela do Meu Quarto", "slug_title": "from-the-window-of-my-room", "date": "2004-08-14", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xQrrnTygpVYab4YmaouCRDjhpsN.jpg", "actors": [], "comments": [], "recommandations_id": []}

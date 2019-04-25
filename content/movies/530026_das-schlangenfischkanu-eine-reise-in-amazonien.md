@@ -1,1 +1,0 @@
-{"tmdb_id": 530026, "title": "Das Schlangenfischkanu - Eine Reise in Amazonien", "original_title": "Das Schlangenfischkanu - Eine Reise in Amazonien", "slug_title": "das-schlangenfischkanu-eine-reise-in-amazonien", "date": "1984-10-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

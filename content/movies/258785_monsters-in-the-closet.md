@@ -1,1 +1,0 @@
-{"tmdb_id": 258785, "title": "Monsters in the Closet", "original_title": "Monsters in the Closet", "slug_title": "monsters-in-the-closet", "date": "1994-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

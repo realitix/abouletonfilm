@@ -1,1 +1,0 @@
-{"tmdb_id": 447368, "title": "The Fighting Liberator", "original_title": "The Fighting Liberator", "slug_title": "the-fighting-liberator", "date": "1994-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

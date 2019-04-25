@@ -1,1 +1,0 @@
-{"tmdb_id": 548070, "title": "Signals: Read 'Em or Weep", "original_title": "Signals: Read 'Em or Weep", "slug_title": "signals-read-em-or-weep", "date": "1981-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

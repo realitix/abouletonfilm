@@ -1,1 +1,0 @@
-{"tmdb_id": 475584, "title": "Last of the Giants", "original_title": "Last of the Giants", "slug_title": "last-of-the-giants", "date": "1959-01-01", "genre": "Histoire / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/92PwGUBU7sgvM4To3MQu9nVbpCB.jpg", "actors": [], "comments": [], "recommandations_id": []}

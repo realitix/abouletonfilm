@@ -1,1 +1,0 @@
-{"tmdb_id": 387378, "title": "The Kelly Gang", "original_title": "The Kelly Gang", "slug_title": "the-kelly-gang", "date": "1920-02-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

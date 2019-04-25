@@ -1,1 +1,0 @@
-{"tmdb_id": 477552, "title": "Modeschau im Zoo", "original_title": "Modeschau im Zoo", "slug_title": "modeschau-im-zoo", "date": "1915-09-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

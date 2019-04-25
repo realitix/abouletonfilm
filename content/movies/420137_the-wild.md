@@ -1,1 +1,0 @@
-{"tmdb_id": 420137, "title": "The Wild", "original_title": "Wildnis", "slug_title": "the-wild", "date": "2013-04-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4q3pUj2RUwojgyyjh1G0TJplbFZ.jpg", "actors": ["Barbara N\u00fcsse (Frau)", "Peter Maertens (Mann)"], "comments": [], "recommandations_id": []}

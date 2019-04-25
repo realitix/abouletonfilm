@@ -1,1 +1,0 @@
-{"tmdb_id": 525248, "title": "4 Rios: El Naya", "original_title": "4 Rios: El Naya", "slug_title": "4-rios-el-naya", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/504K7iGMhZb17CGHwrQ2TdIJ5jT.jpg", "actors": [], "comments": [], "recommandations_id": []}

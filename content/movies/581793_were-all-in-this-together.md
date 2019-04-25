@@ -1,1 +1,0 @@
-{"tmdb_id": 581793, "title": "We\u2019re all in This Together", "original_title": "We\u2019re all in This Together", "slug_title": "were-all-in-this-together", "date": "2019-03-17", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

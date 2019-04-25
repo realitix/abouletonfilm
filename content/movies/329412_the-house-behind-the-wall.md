@@ -1,1 +1,0 @@
-{"tmdb_id": 329412, "title": "The House Behind the Wall", "original_title": "The House Behind the Wall", "slug_title": "the-house-behind-the-wall", "date": "2014-12-30", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

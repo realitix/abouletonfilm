@@ -1,1 +1,0 @@
-{"tmdb_id": 504565, "title": "The Great Pretender", "original_title": "The Great Pretender", "slug_title": "the-great-pretender", "date": "2017-12-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u0qvatDfe7kGn4JJyDPwUsYuZQh.jpg", "actors": ["Zachary Oberzan (Himself)"], "comments": [], "recommandations_id": []}

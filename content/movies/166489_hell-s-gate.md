@@ -1,1 +1,0 @@
-{"tmdb_id": 166489, "title": "Hell's Gate", "original_title": "Hell's Gate", "slug_title": "hell-s-gate", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dgkC7go7KvJMW6mF7BIUQXqlWAQ.jpg", "actors": ["Patsy Kensit ()", "Patrick Muldoon (Dr. Campbell)"], "comments": [], "recommandations_id": []}

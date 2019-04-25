@@ -1,1 +1,0 @@
-{"tmdb_id": 354662, "title": "Experimental Dancer", "original_title": "Experimental Dancer", "slug_title": "experimental-dancer", "date": "1975-08-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ulTLolzG5fl24vlLuFZDvT3g5Rr.jpg", "actors": [], "comments": [], "recommandations_id": []}

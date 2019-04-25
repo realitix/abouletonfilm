@@ -1,1 +1,0 @@
-{"tmdb_id": 575341, "title": "Grand Theft Auto Pacifist", "original_title": "Grand Theft Auto Pacifist", "slug_title": "grand-theft-auto-pacifist", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 531855, "title": "Eddie Bravo Invitational 16", "original_title": "Eddie Bravo Invitational 16", "slug_title": "eddie-bravo-invitational-16", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Eddie Bravo ()"], "comments": [], "recommandations_id": []}

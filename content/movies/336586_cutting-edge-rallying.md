@@ -1,1 +1,0 @@
-{"tmdb_id": 336586, "title": "Cutting Edge Rallying", "original_title": "Cutting Edge Rallying", "slug_title": "cutting-edge-rallying", "date": "2010-11-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eUiTTVdOSPo83FyDLc3s94RQicx.jpg", "actors": [], "comments": [], "recommandations_id": []}

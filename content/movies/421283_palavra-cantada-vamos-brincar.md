@@ -1,1 +1,0 @@
-{"tmdb_id": 421283, "title": "Palavra Cantada - Vamos Brincar", "original_title": "Palavra Cantada - Vamos Brincar", "slug_title": "palavra-cantada-vamos-brincar", "date": "2016-10-14", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4Y4eK1vqgdgE6thKqbO3euNmQK9.jpg", "actors": [], "comments": [], "recommandations_id": []}

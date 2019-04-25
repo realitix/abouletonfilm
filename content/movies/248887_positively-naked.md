@@ -1,1 +1,0 @@
-{"tmdb_id": 248887, "title": "Positively Naked", "original_title": "Positively Naked", "slug_title": "positively-naked", "date": "2005-04-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

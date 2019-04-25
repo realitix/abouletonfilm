@@ -1,1 +1,0 @@
-{"tmdb_id": 590502, "title": "Jessica and David", "original_title": "Jessica and David", "slug_title": "jessica-and-david", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

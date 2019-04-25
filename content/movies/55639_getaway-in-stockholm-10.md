@@ -1,1 +1,0 @@
-{"tmdb_id": 55639, "title": "Getaway in Stockholm 10", "original_title": "Getaway in Stockholm 10", "slug_title": "getaway-in-stockholm-10", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gNOKlYl9yBtM33QaPYr8xt7sEXy.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 215139, "title": "End of the Icon", "original_title": "End of the Icon", "slug_title": "end-of-the-icon", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

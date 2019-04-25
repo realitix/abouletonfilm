@@ -1,1 +1,0 @@
-{"tmdb_id": 351461, "title": "The One-Man Navy", "original_title": "The One-Man Navy", "slug_title": "the-one-man-navy", "date": "1941-09-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Arthur Kay (Gandy Goose (voice))"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 588562, "title": "Story In The Stars", "original_title": "Story In The Stars", "slug_title": "story-in-the-stars", "date": "2015-05-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wV50JDa4TAMl1q8gmj75NplfUHl.jpg", "actors": ["Joe Amaral (Joe Amaral)"], "comments": [], "recommandations_id": []}

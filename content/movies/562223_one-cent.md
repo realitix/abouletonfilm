@@ -1,1 +1,0 @@
-{"tmdb_id": 562223, "title": "One Cent", "original_title": "One Cent", "slug_title": "one-cent", "date": "2018-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Penny Hardaway (Himself)", "Shaquille O'Neal (Himself)"], "comments": [], "recommandations_id": []}

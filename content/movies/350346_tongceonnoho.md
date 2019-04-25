@@ -1,1 +1,0 @@
-{"tmdb_id": 350346, "title": "\ud1b5\ucc9c\ub178\ud638", "original_title": "\ud1b5\ucc9c\ub178\ud638", "slug_title": "tongceonnoho", "date": "1980-11-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

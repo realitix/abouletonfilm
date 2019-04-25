@@ -1,1 +1,0 @@
-{"tmdb_id": 54438, "title": "Luis Miguel: Vivo", "original_title": "Luis Miguel: Vivo", "slug_title": "luis-miguel-vivo", "date": "2000-10-03", "genre": "Musique", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f1zKpXpGu51mdqgX1J6Y3899Shb.jpg", "actors": ["Luis Miguel ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 305154, "title": "Any Minute Now", "original_title": "Any Minute Now", "slug_title": "any-minute-now", "date": "2013-10-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

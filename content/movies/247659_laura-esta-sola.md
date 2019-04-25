@@ -1,1 +1,0 @@
-{"tmdb_id": 247659, "title": "Laura est\u00e1 sola", "original_title": "Laura est\u00e1 sola", "slug_title": "laura-esta-sola", "date": "2003-01-01", "genre": "", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fer4h6hmdb5FskhBOPbJY576sjJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

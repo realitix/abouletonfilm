@@ -1,1 +1,0 @@
-{"tmdb_id": 564017, "title": "La main noire", "original_title": "La main noire", "slug_title": "la-main-noire", "date": "1968-12-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f9QlLNbzZNMRBVYPXdFFbSePxYM.jpg", "actors": [], "comments": [], "recommandations_id": []}

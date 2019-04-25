@@ -1,1 +1,0 @@
-{"tmdb_id": 495799, "title": "Adha Din Adhi Raat", "original_title": "Adha Din Adhi Raat", "slug_title": "adha-din-adhi-raat", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

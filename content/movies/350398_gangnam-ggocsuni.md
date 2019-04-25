@@ -1,1 +1,0 @@
-{"tmdb_id": 350398, "title": "\uac15\ub0a8 \uaf43\uc21c\uc774", "original_title": "\uac15\ub0a8 \uaf43\uc21c\uc774", "slug_title": "gangnam-ggocsuni", "date": "1989-11-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

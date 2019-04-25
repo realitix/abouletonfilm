@@ -1,1 +1,0 @@
-{"tmdb_id": 504838, "title": "Leas Hochzeit", "original_title": "Leas Hochzeit", "slug_title": "leas-hochzeit", "date": "1992-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Marianne Nentwich (Lea)", "August Zirner (Nico)", "Monika John (Duifje)", "Albert Rueprecht (Zwart)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 292445, "title": "(Absolutions) Pipilotti's Mistakes", "original_title": "(Entlastungen) Pipilottis Fehler", "slug_title": "absolutions-pipilotti-s-mistakes", "date": "1988-01-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pipilotti Rist ()"], "comments": [], "recommandations_id": []}

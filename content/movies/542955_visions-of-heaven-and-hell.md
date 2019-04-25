@@ -1,1 +1,0 @@
-{"tmdb_id": 542955, "title": "Visions Of Heaven and Hell", "original_title": "Visions Of Heaven and Hell", "slug_title": "visions-of-heaven-and-hell", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

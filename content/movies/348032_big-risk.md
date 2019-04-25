@@ -1,1 +1,0 @@
-{"tmdb_id": 348032, "title": "Big Risk", "original_title": "Big Risk", "slug_title": "big-risk", "date": "1978-06-01", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jcKMwomBtas98m4GTL40uJ1i0Vb.jpg", "actors": [], "comments": [], "recommandations_id": []}

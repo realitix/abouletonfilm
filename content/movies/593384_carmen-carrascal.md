@@ -1,1 +1,0 @@
-{"tmdb_id": 593384, "title": "Carmen Carrascal", "original_title": "Carmen Carrascal", "slug_title": "carmen-carrascal", "date": "1982-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Carmen Carrascal ()"], "comments": [], "recommandations_id": []}

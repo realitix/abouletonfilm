@@ -1,1 +1,0 @@
-{"tmdb_id": 418282, "title": "David et Goliath", "original_title": "David et Goliath", "slug_title": "david-et-goliath", "date": "1910-09-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Berthe Bovy ()"], "comments": [], "recommandations_id": []}

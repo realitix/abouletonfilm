@@ -1,1 +1,0 @@
-{"tmdb_id": 367866, "title": "Honningfellen", "original_title": "Honningfellen", "slug_title": "honningfellen", "date": "2008-04-19", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Severija Janu\u0161auskait\u0117 (Vaida Balandyte)"], "comments": [], "recommandations_id": []}

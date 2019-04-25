@@ -1,1 +1,0 @@
-{"tmdb_id": 575795, "title": "Hangor Nodi Grenade", "original_title": "Hangor Nodi Grenade", "slug_title": "hangor-nodi-grenade", "date": "1997-11-21", "genre": "Drame / Guerre", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sohel Rana (Gofur Mia)", "Dodul (Salim)"], "comments": [], "recommandations_id": []}

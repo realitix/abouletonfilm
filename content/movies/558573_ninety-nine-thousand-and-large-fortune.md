@@ -1,1 +1,0 @@
-{"tmdb_id": 558573, "title": "Ninety-nine thousand and large fortune", "original_title": "00.99 Da fa cai", "slug_title": "ninety-nine-thousand-and-large-fortune", "date": "1989-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

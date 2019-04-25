@@ -1,1 +1,0 @@
-{"tmdb_id": 405090, "title": "The Threee Geniuses", "original_title": "The Threee Geniuses", "slug_title": "the-threee-geniuses", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9bYk1kRyi2rJHyMz6Rcsr8CWBe1.jpg", "actors": [], "comments": [], "recommandations_id": []}

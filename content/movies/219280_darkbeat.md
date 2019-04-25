@@ -1,1 +1,0 @@
-{"tmdb_id": 219280, "title": "Darkbeat", "original_title": "Darkbeat", "slug_title": "darkbeat", "date": "2006-04-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fNbVYHVn1nnAa8v8S2oD8WCBavM.jpg", "actors": [], "comments": [], "recommandations_id": []}

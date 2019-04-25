@@ -1,1 +1,0 @@
-{"tmdb_id": 595168, "title": "The Man Upstairs", "original_title": "The Man Upstairs", "slug_title": "the-man-upstairs", "date": "1926-01-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f4LLe23BdFIl9ULB9LYb8ymDjyr.jpg", "actors": [], "comments": [], "recommandations_id": []}

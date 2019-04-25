@@ -1,1 +1,0 @@
-{"tmdb_id": 324497, "title": "Domestic White", "original_title": "Domestic White", "slug_title": "domestic-white", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 516941, "title": "The Comic Sans Video", "original_title": "The Comic Sans Video", "slug_title": "the-comic-sans-video", "date": "2018-04-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

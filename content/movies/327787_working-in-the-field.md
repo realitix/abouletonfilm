@@ -1,1 +1,0 @@
-{"tmdb_id": 327787, "title": "Working in the Field", "original_title": "al-'Amal Fi-I-Haql", "slug_title": "working-in-the-field", "date": "1979-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

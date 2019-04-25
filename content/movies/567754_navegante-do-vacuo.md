@@ -1,1 +1,0 @@
-{"tmdb_id": 567754, "title": "Navegante do V\u00e1cuo", "original_title": "Navegante do V\u00e1cuo", "slug_title": "navegante-do-vacuo", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

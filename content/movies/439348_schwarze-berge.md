@@ -1,1 +1,0 @@
-{"tmdb_id": 439348, "title": "SCHWARZE BERGE", "original_title": "SCHWARZE BERGE", "slug_title": "schwarze-berge", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

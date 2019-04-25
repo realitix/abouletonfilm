@@ -1,1 +1,0 @@
-{"tmdb_id": 432302, "title": "21 Chitrakoot", "original_title": "21 Chitrakoot", "slug_title": "21-chitrakoot", "date": "2012-09-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qUygV6nKpvYIeOyexItB82qsTcV.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 454940, "title": "Jane: An Abortion Service", "original_title": "Jane: An Abortion Service", "slug_title": "jane-an-abortion-service", "date": "1995-10-06", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

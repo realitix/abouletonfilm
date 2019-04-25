@@ -1,1 +1,0 @@
-{"tmdb_id": 302028, "title": "The Purple Show", "original_title": "The Purple Show", "slug_title": "the-purple-show", "date": "2003-06-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wptpS8W89Nwr2j3t4PxHUkouaIw.jpg", "actors": [], "comments": [], "recommandations_id": []}

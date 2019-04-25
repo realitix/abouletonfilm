@@ -1,1 +1,0 @@
-{"tmdb_id": 541872, "title": "Passover", "original_title": "Passover", "slug_title": "passover", "date": "1995-04-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jorge de Juan (Joshua)", "Bel\u00e9n Fern\u00e1ndez (Magda)"], "comments": [], "recommandations_id": []}

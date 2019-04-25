@@ -1,1 +1,0 @@
-{"tmdb_id": 355696, "title": "Haj Fajv", "original_title": "Haj Fajv", "slug_title": "haj-fajv", "date": "2014-01-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/taAgWk2mCqJbm6F3AXAOYjM6gMR.jpg", "actors": [], "comments": [], "recommandations_id": []}

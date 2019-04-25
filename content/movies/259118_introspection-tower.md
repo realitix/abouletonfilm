@@ -1,1 +1,0 @@
-{"tmdb_id": 259118, "title": "Introspection Tower", "original_title": "Mikaheri no t\u00f4", "slug_title": "introspection-tower", "date": "1941-01-01", "genre": "Drame", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sBKw7j9ZN2IQw5cQ8jPtJDZfKEp.jpg", "actors": [], "comments": [], "recommandations_id": []}

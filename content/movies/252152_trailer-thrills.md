@@ -1,1 +1,0 @@
-{"tmdb_id": 252152, "title": "Trailer Thrills", "original_title": "Trailer Thrills", "slug_title": "trailer-thrills", "date": "1937-05-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

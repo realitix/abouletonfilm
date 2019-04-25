@@ -1,1 +1,0 @@
-{"tmdb_id": 308310, "title": "Suhana Safar", "original_title": "Suhana Safar", "slug_title": "suhana-safar", "date": "1970-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Shashi Kapoor ()", "Sharmila Tagore ()", "Lalita Pawar ()", "David Abraham Cheulkar ()", "K.N. Singh ()"], "comments": [], "recommandations_id": []}

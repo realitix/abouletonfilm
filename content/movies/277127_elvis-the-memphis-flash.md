@@ -1,1 +1,0 @@
-{"tmdb_id": 277127, "title": "Elvis: The Memphis Flash", "original_title": "Elvis: The Memphis Flash", "slug_title": "elvis-the-memphis-flash", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uPWpBLIHVupTdw2CPqeRUPRUr4P.jpg", "actors": [], "comments": [], "recommandations_id": []}

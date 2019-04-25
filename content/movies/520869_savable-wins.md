@@ -1,1 +1,0 @@
-{"tmdb_id": 520869, "title": "Savable Wins", "original_title": "Savable Wins", "slug_title": "savable-wins", "date": "1902-08-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 279396, "title": "The Bartered Bride", "original_title": "Prodan\u00e1 nev\u011bsta", "slug_title": "the-bartered-bride", "date": "1913-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

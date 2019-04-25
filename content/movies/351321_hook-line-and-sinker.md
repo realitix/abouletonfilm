@@ -1,1 +1,0 @@
-{"tmdb_id": 351321, "title": "Hook, Line and Sinker", "original_title": "Hook, Line and Sinker", "slug_title": "hook-line-and-sinker", "date": "1939-09-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

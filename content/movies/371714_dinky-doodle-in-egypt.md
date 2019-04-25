@@ -1,1 +1,0 @@
-{"tmdb_id": 371714, "title": "Dinky Doodle in Egypt", "original_title": "Dinky Doodle in Egypt", "slug_title": "dinky-doodle-in-egypt", "date": "1926-04-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e1k4HP79gPcFP6clQPptnECSWMU.jpg", "actors": [], "comments": [], "recommandations_id": []}

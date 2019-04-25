@@ -1,1 +1,0 @@
-{"tmdb_id": 443390, "title": "You Can't Fool a Camera", "original_title": "You Can't Fool a Camera", "slug_title": "you-can-t-fool-a-camera", "date": "1941-05-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

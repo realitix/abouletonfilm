@@ -1,1 +1,0 @@
-{"tmdb_id": 498454, "title": "Single X", "original_title": "Single X", "slug_title": "single-x", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6uXjAmnzei55sFLXpkkKOuErvnd.jpg", "actors": [], "comments": [], "recommandations_id": []}

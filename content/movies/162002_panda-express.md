@@ -1,1 +1,0 @@
-{"tmdb_id": 162002, "title": "Panda Express", "original_title": "Xiong mao da xia", "slug_title": "panda-express", "date": "2009-01-25", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ejRg7YurU5eBA1q1a5GEMX6fnOo.jpg", "actors": ["Deng Jiajia ()", "Ah Duo ()", "Liu Hua ()"], "comments": [], "recommandations_id": []}

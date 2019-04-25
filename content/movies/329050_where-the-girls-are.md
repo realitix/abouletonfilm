@@ -1,1 +1,0 @@
-{"tmdb_id": 329050, "title": "Where The Girls Are", "original_title": "Where The Girls Are", "slug_title": "where-the-girls-are", "date": "1969-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

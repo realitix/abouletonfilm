@@ -1,1 +1,0 @@
-{"tmdb_id": 390729, "title": "About the Girl", "original_title": "\u5c11\u5973\u8003", "slug_title": "about-the-girl", "date": "2010-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n62WB4EZo4yiA6qRVSOibz2op8y.jpg", "actors": [], "comments": [], "recommandations_id": []}

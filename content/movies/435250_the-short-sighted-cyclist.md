@@ -1,1 +1,0 @@
-{"tmdb_id": 435250, "title": "The Short-Sighted Cyclist", "original_title": "The Short-Sighted Cyclist", "slug_title": "the-short-sighted-cyclist", "date": "1907-06-26", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Marcel Perez ()"], "comments": [], "recommandations_id": []}

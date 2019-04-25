@@ -1,1 +1,0 @@
-{"tmdb_id": 254254, "title": "Pure Intentions", "original_title": "Pure Intentions", "slug_title": "pure-intentions", "date": "2011-08-21", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

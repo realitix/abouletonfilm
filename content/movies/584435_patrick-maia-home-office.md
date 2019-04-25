@@ -1,1 +1,0 @@
-{"tmdb_id": 584435, "title": "Patrick Maia: Home Office", "original_title": "Patrick Maia: Home Office", "slug_title": "patrick-maia-home-office", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Patrick Maia ()"], "comments": [], "recommandations_id": []}

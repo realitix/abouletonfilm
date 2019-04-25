@@ -1,1 +1,0 @@
-{"tmdb_id": 346826, "title": "The Pink Hotel", "original_title": "The Pink Hotel", "slug_title": "the-pink-hotel", "date": "2010-08-01", "genre": "Drame / Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jDVweRnoqyyP8iNU47XVyITKu5k.jpg", "actors": ["Stephanie Wyatt (Movie Star)"], "comments": [], "recommandations_id": []}

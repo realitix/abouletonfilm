@@ -1,1 +1,0 @@
-{"tmdb_id": 396763, "title": "On the Corner", "original_title": "On the Corner", "slug_title": "on-the-corner", "date": "1983-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

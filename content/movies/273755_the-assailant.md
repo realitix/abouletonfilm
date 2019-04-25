@@ -1,1 +1,0 @@
-{"tmdb_id": 273755, "title": "The Assailant", "original_title": "The Assailant", "slug_title": "the-assailant", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

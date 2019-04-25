@@ -1,1 +1,0 @@
-{"tmdb_id": 493663, "title": "Monologue", "original_title": "A monol\u00f3g", "slug_title": "monologue", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r5nbjHfmUgNq5zFtCK8zEmMbpkC.jpg", "actors": [], "comments": [], "recommandations_id": []}

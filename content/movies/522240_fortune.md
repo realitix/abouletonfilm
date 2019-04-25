@@ -1,1 +1,0 @@
-{"tmdb_id": 522240, "title": "Fortune", "original_title": "Fortuna", "slug_title": "fortune", "date": "1972-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["J\u00f3zef Nalberczak ()", "Ewa Szykulska ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 215004, "title": "Iron Thunder", "original_title": "Iron Thunder", "slug_title": "iron-thunder", "date": "1989-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6cawxNFqCDJEPIEgZlcGYp3PCQZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

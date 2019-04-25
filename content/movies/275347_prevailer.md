@@ -1,1 +1,0 @@
-{"tmdb_id": 275347, "title": "Prevailer", "original_title": "Prevailer", "slug_title": "prevailer", "date": "2013-04-02", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hVQynYUaiXuJkMgf8QaPyrFVTON.jpg", "actors": ["Mattie Montgomery (Himself)"], "comments": [], "recommandations_id": []}

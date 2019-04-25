@@ -1,1 +1,0 @@
-{"tmdb_id": 76948, "title": "Kokusen", "original_title": "Kokusen", "slug_title": "kokusen", "date": "2008-07-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zQvFK1gKTX81lolVKtG6aH5gllg.jpg", "actors": ["Arisa Aoyama ()", "Asuka Ayanami ()", "Rui Yazawa ()", "Yuu Uehara ()"], "comments": [], "recommandations_id": []}

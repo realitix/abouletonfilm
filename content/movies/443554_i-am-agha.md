@@ -1,1 +1,0 @@
-{"tmdb_id": 443554, "title": "I am Agha", "original_title": "I am Agha", "slug_title": "i-am-agha", "date": "2010-04-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k0vFFbyAbSjZer9c6LVjinVD6ja.jpg", "actors": [], "comments": [], "recommandations_id": []}

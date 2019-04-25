@@ -1,1 +1,0 @@
-{"tmdb_id": 408481, "title": "Un cuento de navidad", "original_title": "Un cuento de navidad", "slug_title": "un-cuento-de-navidad", "date": "2013-12-21", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["M\u00edriam Iscla ()", "Pere Ponce ()", "Pep Ant\u00f3n Mu\u00f1oz ()"], "comments": [], "recommandations_id": []}

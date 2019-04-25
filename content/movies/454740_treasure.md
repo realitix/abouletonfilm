@@ -1,1 +1,0 @@
-{"tmdb_id": 454740, "title": "Treasure", "original_title": "Treasure", "slug_title": "treasure", "date": "2017-03-04", "genre": "Drame", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wZ8lxH7BwABWCdJhYZ2vtwmL5tP.jpg", "actors": ["Yul Edochie ()", "Cha Cha Eke Faani ()", "Evelyn Esin ()"], "comments": [], "recommandations_id": []}

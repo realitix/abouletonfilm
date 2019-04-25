@@ -1,1 +1,0 @@
-{"tmdb_id": 203477, "title": "Guns Of The Master Killer", "original_title": "Guns Of The Master Killer", "slug_title": "guns-of-the-master-killer", "date": "", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

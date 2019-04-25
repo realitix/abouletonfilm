@@ -1,1 +1,0 @@
-{"tmdb_id": 533020, "title": "Warm Springs", "original_title": "Warm Springs", "slug_title": "warm-springs", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

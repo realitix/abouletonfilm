@@ -1,1 +1,0 @@
-{"tmdb_id": 524357, "title": "Brutos Inocentes", "original_title": "Brutos Inocentes", "slug_title": "brutos-inocentes", "date": "1974-11-20", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1HGbxppoeCK4Vss76szGWGLhxmU.jpg", "actors": [], "comments": [], "recommandations_id": []}

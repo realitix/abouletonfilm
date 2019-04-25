@@ -1,1 +1,0 @@
-{"tmdb_id": 293022, "title": "Catalogue", "original_title": "Catalogue", "slug_title": "catalogue", "date": "2014-09-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b8b1fGPOLEXPqk4AEt10f2GhiVc.jpg", "actors": [], "comments": [], "recommandations_id": []}

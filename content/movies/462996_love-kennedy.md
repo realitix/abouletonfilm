@@ -1,1 +1,0 @@
-{"tmdb_id": 462996, "title": "Love, Kennedy", "original_title": "Love, Kennedy", "slug_title": "love-kennedy", "date": "2017-06-02", "genre": "Drame", "score": "4.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1D4aZJk7OefGwKlakQvYU8GeBIz.jpg", "actors": [], "comments": [], "recommandations_id": []}

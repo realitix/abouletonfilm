@@ -1,1 +1,0 @@
-{"tmdb_id": 553711, "title": "Telephone Number Temporarily Suspended", "original_title": "Post Telefonic Suspendat Temporar", "slug_title": "telephone-number-temporarily-suspended", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Drago\u0219 Bucur ()"], "comments": [], "recommandations_id": []}

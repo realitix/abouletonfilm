@@ -1,1 +1,0 @@
-{"tmdb_id": 257674, "title": "Countdown", "original_title": "Tas, kurio nera", "slug_title": "countdown", "date": "2004-11-02", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Augustinas Baltru\u0161aitis ()"], "comments": [], "recommandations_id": []}

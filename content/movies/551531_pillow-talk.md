@@ -1,1 +1,0 @@
-{"tmdb_id": 551531, "title": "Pillow Talk", "original_title": "Pillow Talk", "slug_title": "pillow-talk", "date": "2018-09-03", "genre": "Drame", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qrCNg8MsQcchfPeDQKZ1ZW6CHwv.jpg", "actors": ["Ashleigh Cordery (Cara)", "Miranda Horn (Lucy)"], "comments": [], "recommandations_id": []}

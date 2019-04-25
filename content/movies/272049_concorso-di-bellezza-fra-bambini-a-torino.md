@@ -1,1 +1,0 @@
-{"tmdb_id": 272049, "title": "Concorso di bellezza fra bambini a Torino", "original_title": "Concorso di bellezza fra bambini a Torino", "slug_title": "concorso-di-bellezza-fra-bambini-a-torino", "date": "1909-08-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

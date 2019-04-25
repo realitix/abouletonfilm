@@ -1,1 +1,0 @@
-{"tmdb_id": 589610, "title": "Legendary AD", "original_title": "Legendary AD", "slug_title": "legendary-ad", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

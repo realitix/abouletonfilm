@@ -1,1 +1,0 @@
-{"tmdb_id": 276599, "title": "Welcome to Kiribati", "original_title": "Welcome to Kiribati", "slug_title": "welcome-to-kiribati", "date": "2012-06-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

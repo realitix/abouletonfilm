@@ -1,1 +1,0 @@
-{"tmdb_id": 184602, "title": "The Lost Chick", "original_title": "The Lost Chick", "slug_title": "the-lost-chick", "date": "1935-03-09", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p8j0YsS1iTBAqAXfWAad28rLUB7.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 585957, "title": "Bruxelles mon amour", "original_title": "Bruxelles mon amour", "slug_title": "bruxelles-mon-amour", "date": "2001-08-15", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Josse De Pauw (local priest)", "Peter van den Begin (Jens)"], "comments": [], "recommandations_id": []}

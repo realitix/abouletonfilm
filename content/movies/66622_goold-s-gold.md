@@ -1,1 +1,0 @@
-{"tmdb_id": 66622, "title": "Goold's Gold", "original_title": "Goold's Gold", "slug_title": "goold-s-gold", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gg2CKiz2RnaKgbx4HGvlL2ItUv0.jpg", "actors": [], "comments": [], "recommandations_id": []}

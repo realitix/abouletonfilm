@@ -1,1 +1,0 @@
-{"tmdb_id": 593948, "title": "Ratni Reporter", "original_title": "Ratni Reporter", "slug_title": "ratni-reporter", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

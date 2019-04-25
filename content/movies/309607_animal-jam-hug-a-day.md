@@ -1,1 +1,0 @@
-{"tmdb_id": 309607, "title": "Animal Jam: Hug a Day", "original_title": "Animal Jam: Hug a Day", "slug_title": "animal-jam-hug-a-day", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

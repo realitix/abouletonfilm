@@ -1,1 +1,0 @@
-{"tmdb_id": 391539, "title": "Grateful Dead: Truckin'", "original_title": "Grateful Dead: Truckin'", "slug_title": "grateful-dead-truckin", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

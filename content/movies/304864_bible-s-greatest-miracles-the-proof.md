@@ -1,1 +1,0 @@
-{"tmdb_id": 304864, "title": "Bible's Greatest Miracles: The Proof", "original_title": "Bible's Greatest Miracles: The Proof", "slug_title": "bible-s-greatest-miracles-the-proof", "date": "1999-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

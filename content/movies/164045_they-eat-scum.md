@@ -1,1 +1,0 @@
-{"tmdb_id": 164045, "title": "They Eat Scum", "original_title": "They Eat Scum", "slug_title": "they-eat-scum", "date": "1979-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f8hedlpGDAR71X1e49fTmiph6lu.jpg", "actors": ["Donna Death (Suzi Putrid)"], "comments": [], "recommandations_id": []}

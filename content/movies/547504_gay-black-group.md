@@ -1,1 +1,0 @@
-{"tmdb_id": 547504, "title": "Gay Black Group", "original_title": "Gay Black Group", "slug_title": "gay-black-group", "date": "1983-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Paula Ahluwalia ()", "Isaac Julien ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 376006, "title": "Sympathy, Said the Shark", "original_title": "Sympathy, Said the Shark", "slug_title": "sympathy-said-the-shark", "date": "2015-02-18", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/16eZpPuf1J8BS8a9HVmUv80rCAK.jpg", "actors": [], "comments": [], "recommandations_id": []}

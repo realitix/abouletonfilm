@@ -1,1 +1,0 @@
-{"tmdb_id": 225687, "title": "The Joycean Society", "original_title": "The Joycean Society", "slug_title": "the-joycean-society", "date": "2013-07-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uKd8q4WhcFW1G834aDXvDXfLsIl.jpg", "actors": [], "comments": [], "recommandations_id": []}

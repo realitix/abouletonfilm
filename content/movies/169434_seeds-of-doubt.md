@@ -1,1 +1,0 @@
-{"tmdb_id": 169434, "title": "Seeds Of Doubt", "original_title": "Seeds Of Doubt", "slug_title": "seeds-of-doubt", "date": "1998-05-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8xEW6b4jgiIm9AcnvcogL21giwT.jpg", "actors": [], "comments": [], "recommandations_id": []}

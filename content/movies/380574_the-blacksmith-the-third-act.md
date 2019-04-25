@@ -1,1 +1,0 @@
-{"tmdb_id": 380574, "title": "The Blacksmith: The Third Act", "original_title": "Ang Panday...Ikatlong Yugto", "slug_title": "the-blacksmith-the-third-act", "date": "1982-12-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aZPjhKof8lTuxhAoXtcwc3GBLYg.jpg", "actors": [], "comments": [], "recommandations_id": []}

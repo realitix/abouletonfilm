@@ -1,1 +1,0 @@
-{"tmdb_id": 299466, "title": "Hercules", "original_title": "Herkules", "slug_title": "hercules", "date": "2000-01-08", "genre": "", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iTDDVxAKWu6cVgWJGcw6MlMlBT8.jpg", "actors": [], "comments": [], "recommandations_id": []}

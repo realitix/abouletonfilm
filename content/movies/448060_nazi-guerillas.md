@@ -1,1 +1,0 @@
-{"tmdb_id": 448060, "title": "Nazi Guerillas", "original_title": "Nazi Guerillas", "slug_title": "nazi-guerillas", "date": "2003-12-11", "genre": "Documentaire / Guerre", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vOlnwoj9M3nWhnQ7gCI0RPTsuWm.jpg", "actors": [], "comments": [], "recommandations_id": []}

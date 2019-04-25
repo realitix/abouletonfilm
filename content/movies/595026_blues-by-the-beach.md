@@ -1,1 +1,0 @@
-{"tmdb_id": 595026, "title": "Blues by the Beach", "original_title": "Blues by the Beach", "slug_title": "blues-by-the-beach", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

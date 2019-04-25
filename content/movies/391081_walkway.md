@@ -1,1 +1,0 @@
-{"tmdb_id": 391081, "title": "Walkway", "original_title": "Chodnik", "slug_title": "walkway", "date": "1973-04-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

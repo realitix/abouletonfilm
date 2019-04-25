@@ -1,1 +1,0 @@
-{"tmdb_id": 534554, "title": "Contadini di montagna", "original_title": "Contadini di montagna", "slug_title": "contadini-di-montagna", "date": "2015-05-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

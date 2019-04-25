@@ -1,1 +1,0 @@
-{"tmdb_id": 257253, "title": "Le Rossignol", "original_title": "Le Rossignol", "slug_title": "le-rossignol", "date": "2005-04-16", "genre": "Fantastique / Musique / T\u00e9l\u00e9film", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jJaYQNUVcpjmJWVJVuhMtzHebyA.jpg", "actors": [], "comments": [], "recommandations_id": []}

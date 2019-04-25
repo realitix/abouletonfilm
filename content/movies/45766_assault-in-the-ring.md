@@ -1,1 +1,0 @@
-{"tmdb_id": 45766, "title": "Assault in the Ring", "original_title": "Assault in the Ring", "slug_title": "assault-in-the-ring", "date": "2009-08-01", "genre": "Documentaire", "score": "6.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i5hpukeHEpkYRWn8ZBsgzmOvoDt.jpg", "actors": [], "comments": [], "recommandations_id": []}

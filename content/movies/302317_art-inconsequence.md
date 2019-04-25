@@ -1,1 +1,0 @@
-{"tmdb_id": 302317, "title": "Art Inconsequence", "original_title": "Art Inconsequence", "slug_title": "art-inconsequence", "date": "2001-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7wK18yRQ8JHRyVtzn4Q7JJxT37Q.jpg", "actors": [], "comments": [], "recommandations_id": []}

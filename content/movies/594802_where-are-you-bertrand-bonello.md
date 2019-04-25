@@ -1,1 +1,0 @@
-{"tmdb_id": 594802, "title": "Where are you Bertrand Bonello?", "original_title": "O\u00f9 en \u00eates-vous, Bertrand Bonello?", "slug_title": "where-are-you-bertrand-bonello", "date": "2014-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

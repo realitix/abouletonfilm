@@ -1,1 +1,0 @@
-{"tmdb_id": 415203, "title": "To the Inland Ocean", "original_title": "To the Inland Ocean", "slug_title": "to-the-inland-ocean", "date": "2014-09-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yFdailzXfRgZx3543fQDq7mN65l.jpg", "actors": [], "comments": [], "recommandations_id": []}

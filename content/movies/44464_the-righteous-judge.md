@@ -1,1 +1,0 @@
-{"tmdb_id": 44464, "title": "The Righteous Judge", "original_title": "The Righteous Judge", "slug_title": "the-righteous-judge", "date": "1990-01-01", "genre": "Familial / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rqhbNYwjhAmQD0ykfotXFvvY5kT.jpg", "actors": [], "comments": [], "recommandations_id": []}

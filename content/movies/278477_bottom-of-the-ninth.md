@@ -1,1 +1,0 @@
-{"tmdb_id": 278477, "title": "Bottom of the Ninth", "original_title": "Bottom of the Ninth", "slug_title": "bottom-of-the-ninth", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

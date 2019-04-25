@@ -1,1 +1,0 @@
-{"tmdb_id": 270460, "title": "Digitopia", "original_title": "Digitopia", "slug_title": "digitopia", "date": "2001-04-28", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bfunECIVFB7uj5kEcEro3RONPBI.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 539442, "title": "The Movie Hound", "original_title": "The Movie Hound", "slug_title": "the-movie-hound", "date": "1927-07-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Phil Dunham ()", "Estelle Bradley ()", "Wallace Lupino ()", "Lucille Hutton ()"], "comments": [], "recommandations_id": []}

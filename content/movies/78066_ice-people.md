@@ -1,1 +1,0 @@
-{"tmdb_id": 78066, "title": "Ice People", "original_title": "Ice People", "slug_title": "ice-people", "date": "2009-05-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9A93QAqKBIMgCNpksJVzSR9gCFI.jpg", "actors": [], "comments": [], "recommandations_id": []}

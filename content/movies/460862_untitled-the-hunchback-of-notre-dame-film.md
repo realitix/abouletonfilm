@@ -1,1 +1,0 @@
-{"tmdb_id": 460862, "title": "Untitled The Hunchback of Notre-Dame Film", "original_title": "Untitled The Hunchback of Notre-Dame Film", "slug_title": "untitled-the-hunchback-of-notre-dame-film", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

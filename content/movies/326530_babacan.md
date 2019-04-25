@@ -1,1 +1,0 @@
-{"tmdb_id": 326530, "title": "Babacan", "original_title": "Babacan", "slug_title": "babacan", "date": "1975-01-01", "genre": "Crime", "score": "9.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iMp2lrXTxuOQDA13b4f5AzxnJDG.jpg", "actors": ["C\u00fcneyt Ark\u0131n ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 236090, "title": "Quick on the Vigor", "original_title": "Quick on the Vigor", "slug_title": "quick-on-the-vigor", "date": "1950-10-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

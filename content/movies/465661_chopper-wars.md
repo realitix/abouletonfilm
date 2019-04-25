@@ -1,1 +1,0 @@
-{"tmdb_id": 465661, "title": "Chopper Wars", "original_title": "Chopper Wars", "slug_title": "chopper-wars", "date": "1988-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wZlpMy4d83PRyKOk1bZ6a5BrHQW.jpg", "actors": ["Richard Lynch (Himself)"], "comments": [], "recommandations_id": []}

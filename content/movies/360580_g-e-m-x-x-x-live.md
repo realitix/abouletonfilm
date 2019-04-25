@@ -1,1 +1,0 @@
-{"tmdb_id": 360580, "title": "G.E.M. X.X.X. LIVE", "original_title": "G.E.M. X.X.X. LIVE", "slug_title": "g-e-m-x-x-x-live", "date": "2013-12-10", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mDOmlIaGzmZeVikGt8eGSRfhgPW.jpg", "actors": ["Gloria Tang Zhi-Kei (GEM)"], "comments": [], "recommandations_id": []}

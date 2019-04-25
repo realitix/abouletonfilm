@@ -1,1 +1,0 @@
-{"tmdb_id": 454725, "title": "Them Apples", "original_title": "Them Apples", "slug_title": "them-apples", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

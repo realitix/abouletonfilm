@@ -1,1 +1,0 @@
-{"tmdb_id": 482394, "title": "You Speak of Flins", "original_title": "On vous parle de Flins", "slug_title": "you-speak-of-flins", "date": "1969-10-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

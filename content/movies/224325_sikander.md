@@ -1,1 +1,0 @@
-{"tmdb_id": 224325, "title": "Sikander", "original_title": "Sikander", "slug_title": "sikander", "date": "2013-06-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9UKoXTqWOnwU3g9u2HbaMS4SKJx.jpg", "actors": [], "comments": [], "recommandations_id": []}

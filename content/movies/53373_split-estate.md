@@ -1,1 +1,0 @@
-{"tmdb_id": 53373, "title": "Split Estate", "original_title": "Split Estate", "slug_title": "split-estate", "date": "2009-08-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z3ZcecQXjQE2IuE9mOoXkotzFhh.jpg", "actors": [], "comments": [], "recommandations_id": []}

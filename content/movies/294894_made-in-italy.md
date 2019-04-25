@@ -1,1 +1,0 @@
-{"tmdb_id": 294894, "title": "Made In Italy", "original_title": "Made In Italy", "slug_title": "made-in-italy", "date": "2004-09-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gVSbf4K8Z8kdNX1C1ndRqLehcmT.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 236229, "title": "I'm Just a Jitterbug", "original_title": "I'm Just a Jitterbug", "slug_title": "i-m-just-a-jitterbug", "date": "1939-01-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 305770, "title": "Retrato de Nobel: Christian de Duve", "original_title": "Retrato de Nobel: Christian de Duve", "slug_title": "retrato-de-nobel-christian-de-duve", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 405315, "title": "All Ladies Do It", "original_title": "All Ladies Do It", "slug_title": "all-ladies-do-it", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

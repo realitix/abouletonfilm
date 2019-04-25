@@ -1,1 +1,0 @@
-{"tmdb_id": 547135, "title": "Feuchte Haarpracht", "original_title": "Feuchte Haarpracht", "slug_title": "feuchte-haarpracht", "date": "2011-12-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

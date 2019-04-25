@@ -1,1 +1,0 @@
-{"tmdb_id": 373936, "title": "Pelican Radio", "original_title": "Pelican Radio", "slug_title": "pelican-radio", "date": "2013-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/duRtd7R7IrD1Ir2pcywLrn0TeX2.jpg", "actors": [], "comments": [], "recommandations_id": []}

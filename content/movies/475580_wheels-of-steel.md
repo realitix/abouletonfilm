@@ -1,1 +1,0 @@
-{"tmdb_id": 475580, "title": "Wheels of Steel", "original_title": "Wheels of Steel", "slug_title": "wheels-of-steel", "date": "1954-01-01", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5EvMwZ8ulmqVZtxJCaCMKsHc5tO.jpg", "actors": [], "comments": [], "recommandations_id": []}

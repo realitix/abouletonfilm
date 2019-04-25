@@ -1,1 +1,0 @@
-{"tmdb_id": 322053, "title": "De dood van Pierrot", "original_title": "De dood van Pierrot", "slug_title": "de-dood-van-pierrot", "date": "1920-01-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Caroline van Dommelen ()", "Annie Frenkel-Wesling (Pierrette)", "Carl Tobi (Pierrot)"], "comments": [], "recommandations_id": []}

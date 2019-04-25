@@ -1,1 +1,0 @@
-{"tmdb_id": 253429, "title": "Mississippi Queen", "original_title": "Mississippi Queen", "slug_title": "mississippi-queen", "date": "2010-02-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AoLJuQVhBsyKuPcbUruYoLQgo4v.jpg", "actors": [], "comments": [], "recommandations_id": []}

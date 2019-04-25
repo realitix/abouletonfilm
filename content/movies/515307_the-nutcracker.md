@@ -1,1 +1,0 @@
-{"tmdb_id": 515307, "title": "The Nutcracker", "original_title": "The Nutcracker", "slug_title": "the-nutcracker", "date": "1994-03-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

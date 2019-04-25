@@ -1,1 +1,0 @@
-{"tmdb_id": 309609, "title": "TNA: Sacrifice 2008", "original_title": "TNA: Sacrifice 2008", "slug_title": "tna-sacrifice-2008", "date": "2008-05-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7dmr9I3s7i9itCGTqNdqv4eCuQA.jpg", "actors": [], "comments": [], "recommandations_id": []}

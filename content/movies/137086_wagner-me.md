@@ -1,1 +1,0 @@
-{"tmdb_id": 137086, "title": "Wagner & Me", "original_title": "Wagner & Me", "slug_title": "wagner-me", "date": "2010-01-01", "genre": "Musique / Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8ZKQMsfnUfvsp4WvP5CfeLai1h2.jpg", "actors": ["Stephen Fry (Himself)"], "comments": [], "recommandations_id": []}

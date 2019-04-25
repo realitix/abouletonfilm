@@ -1,1 +1,0 @@
-{"tmdb_id": 264563, "title": "Rise, Fair Sun", "original_title": "\u671d\u3084\u3051\u306e\u8a69", "slug_title": "rise-fair-sun", "date": "1973-10-27", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tatsuya Nakadai ()", "Kinya Kitaoji ()", "Keiko Takahashi ()", "Shin Saburi ()"], "comments": [], "recommandations_id": []}

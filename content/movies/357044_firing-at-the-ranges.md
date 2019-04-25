@@ -1,1 +1,0 @@
-{"tmdb_id": 357044, "title": "Firing at the Ranges", "original_title": "Firing at the Ranges", "slug_title": "firing-at-the-ranges", "date": "1900-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 388826, "title": "The Car Kid", "original_title": "The Car Kid", "slug_title": "the-car-kid", "date": "2002-05-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["James Franco ()", "Meat Loaf ()", "Brad Renfro (Vernon)", "Mark Anthony Williams ()", "Raymond T. Williams ()"], "comments": [], "recommandations_id": []}

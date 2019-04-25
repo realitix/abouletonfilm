@@ -1,1 +1,0 @@
-{"tmdb_id": 326689, "title": "Contingent", "original_title": "Contingent", "slug_title": "contingent", "date": "2004-02-22", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nZOpoI4o4k69aclAgE3SigxOK8f.jpg", "actors": [], "comments": [], "recommandations_id": []}

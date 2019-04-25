@@ -1,1 +1,0 @@
-{"tmdb_id": 587005, "title": "Volta pra Casa", "original_title": "Volta pra Casa", "slug_title": "volta-pra-casa", "date": "2017-11-11", "genre": "Horreur", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

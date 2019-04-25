@@ -1,1 +1,0 @@
-{"tmdb_id": 463962, "title": "Zanon: La hora del control obrero", "original_title": "Zanon: La hora del control obrero", "slug_title": "zanon-la-hora-del-control-obrero", "date": "2008-04-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

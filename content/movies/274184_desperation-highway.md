@@ -1,1 +1,0 @@
-{"tmdb_id": 274184, "title": "Desperation Highway", "original_title": "Desperation Highway", "slug_title": "desperation-highway", "date": "1998-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

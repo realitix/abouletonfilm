@@ -1,1 +1,0 @@
-{"tmdb_id": 563011, "title": "Prem Shastra", "original_title": "Prem Shastra", "slug_title": "prem-shastra", "date": "1974-01-01", "genre": "Romance / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dev Anand ()", "Zeenat Aman ()", "Bindu ()"], "comments": [], "recommandations_id": []}

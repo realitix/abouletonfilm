@@ -1,1 +1,0 @@
-{"tmdb_id": 504018, "title": "Daak Ghar", "original_title": "Daak Ghar", "slug_title": "daak-ghar", "date": "2017-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 555626, "title": "Death Has No Season", "original_title": "Death Has No Season", "slug_title": "death-has-no-season", "date": "2018-05-05", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/usQ7A1S640hYZoiBS08WkPQuiSc.jpg", "actors": [], "comments": [], "recommandations_id": []}

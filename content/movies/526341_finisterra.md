@@ -1,1 +1,0 @@
-{"tmdb_id": 526341, "title": "Finisterra", "original_title": "Finisterra", "slug_title": "finisterra", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8LOtYf6W3I2uwf9Nth3ICyrOVtd.jpg", "actors": ["Olga Roriz ()"], "comments": [], "recommandations_id": []}

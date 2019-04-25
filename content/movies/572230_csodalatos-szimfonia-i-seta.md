@@ -1,1 +1,0 @@
-{"tmdb_id": 572230, "title": "Csod\u00e1latos szimf\u00f3nia I. \u2013 S\u00e9ta", "original_title": "Csod\u00e1latos szimf\u00f3nia I. \u2013 S\u00e9ta", "slug_title": "csodalatos-szimfonia-i-seta", "date": "1957-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

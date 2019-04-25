@@ -1,1 +1,0 @@
-{"tmdb_id": 525166, "title": "12de groote prijs Brasschaet 1932", "original_title": "12de groote prijs Brasschaet 1932", "slug_title": "12de-groote-prijs-brasschaet-1932", "date": "1932-01-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

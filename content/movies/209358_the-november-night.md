@@ -1,1 +1,0 @@
-{"tmdb_id": 209358, "title": "The November Night", "original_title": "Ksi\u0119\u017cna \u0141owicka", "slug_title": "the-november-night", "date": "1932-09-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jadwiga Smosarska ()", "Stefan Jaracz ()", "J\u00f3zef Wegrzyn ()"], "comments": [], "recommandations_id": []}

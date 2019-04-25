@@ -1,1 +1,0 @@
-{"tmdb_id": 590130, "title": "The Week That Girl Died", "original_title": "The Week That Girl Died", "slug_title": "the-week-that-girl-died", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

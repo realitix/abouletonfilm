@@ -1,1 +1,0 @@
-{"tmdb_id": 338531, "title": "Conversations With Artists", "original_title": "Conversations With Artists", "slug_title": "conversations-with-artists", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

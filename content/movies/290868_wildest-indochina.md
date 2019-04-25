@@ -1,1 +1,0 @@
-{"tmdb_id": 290868, "title": "Wildest Indochina", "original_title": "Wildest Indochina", "slug_title": "wildest-indochina", "date": "2014-07-21", "genre": "Documentaire", "score": "8.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ilKofsqIHODCxthuGZxKAFacdaJ.jpg", "actors": ["Paul McGann (Narrator)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 477176, "title": "Shanghai Lady", "original_title": "Shanghai Lady", "slug_title": "shanghai-lady", "date": "1929-11-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

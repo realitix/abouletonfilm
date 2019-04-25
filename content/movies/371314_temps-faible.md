@@ -1,1 +1,0 @@
-{"tmdb_id": 371314, "title": "Temps faible", "original_title": "Temps faible", "slug_title": "temps-faible", "date": "2014-10-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m42XK5aRC2GyqhFouCBNWNfsQ83.jpg", "actors": [], "comments": [], "recommandations_id": []}

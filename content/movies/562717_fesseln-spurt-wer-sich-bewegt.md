@@ -1,1 +1,0 @@
-{"tmdb_id": 562717, "title": "Fesseln sp\u00fcrt, wer sich bewegt", "original_title": "Fesseln sp\u00fcrt, wer sich bewegt", "slug_title": "fesseln-spurt-wer-sich-bewegt", "date": "1982-04-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

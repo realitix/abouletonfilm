@@ -1,1 +1,0 @@
-{"tmdb_id": 585605, "title": "En av oss", "original_title": "En av oss", "slug_title": "en-av-oss", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Marika Johansson ()", "Josephine Alhanko ()", "Leo Magnusson ()", "Gustav Levin ()", "Jens Olsson ()"], "comments": [], "recommandations_id": []}

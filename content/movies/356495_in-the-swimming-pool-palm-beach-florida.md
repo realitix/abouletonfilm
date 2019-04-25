@@ -1,1 +1,0 @@
-{"tmdb_id": 356495, "title": "In the Swimming Pool, Palm Beach, Florida", "original_title": "In the Swimming Pool, Palm Beach, Florida", "slug_title": "in-the-swimming-pool-palm-beach-florida", "date": "1905-08-27", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

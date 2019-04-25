@@ -1,1 +1,0 @@
-{"tmdb_id": 263208, "title": "Djalioh", "original_title": "Djalioh", "slug_title": "djalioh", "date": "2011-01-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zo07SMkF3vkl5Oyv13p5msOWWJf.jpg", "actors": [], "comments": [], "recommandations_id": []}

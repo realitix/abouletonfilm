@@ -1,1 +1,0 @@
-{"tmdb_id": 279158, "title": "Canada Vignettes: Logger", "original_title": "Canada Vignettes: Logger", "slug_title": "canada-vignettes-logger", "date": "1978-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

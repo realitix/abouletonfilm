@@ -1,1 +1,0 @@
-{"tmdb_id": 88959, "title": "Bat Shit Crazy", "original_title": "Bat Shit Crazy", "slug_title": "bat-shit-crazy", "date": "2011-01-01", "genre": "Thriller", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4bqppiNHytT9Q3M5nKPA03SH9XV.jpg", "actors": [], "comments": [], "recommandations_id": []}

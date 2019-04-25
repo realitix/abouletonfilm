@@ -1,1 +1,0 @@
-{"tmdb_id": 294238, "title": "ARBOR DAZE", "original_title": "ARBOR DAZE", "slug_title": "arbor-daze", "date": "2003-04-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

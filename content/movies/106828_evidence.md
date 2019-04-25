@@ -1,1 +1,0 @@
-{"tmdb_id": 106828, "title": "Evidence", "original_title": "Evidence", "slug_title": "evidence", "date": "1995-10-02", "genre": "", "score": "6.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zvlwLYhFW9CQjfGczGai04cpelG.jpg", "actors": [], "comments": [], "recommandations_id": [86379, 161897, 246971, 18953]}

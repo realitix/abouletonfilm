@@ -1,1 +1,0 @@
-{"tmdb_id": 312701, "title": "Supercross Exposed: Stewart's New Beginning", "original_title": "Supercross Exposed: Stewart's New Beginning", "slug_title": "supercross-exposed-stewart-s-new-beginning", "date": "2006-04-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

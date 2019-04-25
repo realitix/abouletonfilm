@@ -1,1 +1,0 @@
-{"tmdb_id": 291180, "title": "Opening", "original_title": "Opening", "slug_title": "opening", "date": "2014-09-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d5Xx4LwvDuyOo6i8vc7VgsoAasr.jpg", "actors": [], "comments": [], "recommandations_id": []}

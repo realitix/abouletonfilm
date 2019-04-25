@@ -1,1 +1,0 @@
-{"tmdb_id": 569530, "title": "Flesh and the Stars", "original_title": "Flesh and the Stars", "slug_title": "flesh-and-the-stars", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Reese Westhoff ()"], "comments": [], "recommandations_id": []}

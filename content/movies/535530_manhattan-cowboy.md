@@ -1,1 +1,0 @@
-{"tmdb_id": 535530, "title": "Manhattan Cowboy", "original_title": "Manhattan Cowboy", "slug_title": "manhattan-cowboy", "date": "1928-10-01", "genre": "Western", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/heSGWTQOVtyNy9dajdEkc8P9Jli.jpg", "actors": [], "comments": [], "recommandations_id": []}

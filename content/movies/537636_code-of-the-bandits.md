@@ -1,1 +1,0 @@
-{"tmdb_id": 537636, "title": "Code of the Bandits", "original_title": "\u9b3c\u5e73\u5916\u4f1d \u591c\u514e\u306e\u89d2\u53f3\u885b\u9580", "slug_title": "code-of-the-bandits", "date": "2011-01-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 356278, "title": "It's Really Kind of You", "original_title": "\ucc38 \uce5c\uc808\ud558\uc2dc\ub124\uc694", "slug_title": "it-s-really-kind-of-you", "date": "2015-09-01", "genre": "Drame / Thriller / Myst\u00e8re", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Choi Dae-Hoon ()"], "comments": [], "recommandations_id": []}

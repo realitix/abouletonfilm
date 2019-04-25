@@ -1,1 +1,0 @@
-{"tmdb_id": 400051, "title": "Wacky Races Forever", "original_title": "Wacky Races Forever", "slug_title": "wacky-races-forever", "date": "2007-05-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mOi9yPuIiuqccaqfh4hsEsV4E0b.jpg", "actors": [], "comments": [], "recommandations_id": []}

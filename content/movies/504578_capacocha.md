@@ -1,1 +1,0 @@
-{"tmdb_id": 504578, "title": "Capacocha", "original_title": "Capacocha", "slug_title": "capacocha", "date": "2018-02-03", "genre": "Thriller / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/35cVWVzahEfcWYCnYgBXI1SoLDv.jpg", "actors": ["Ronie Cuba Sotelo (Bruno)"], "comments": [], "recommandations_id": []}

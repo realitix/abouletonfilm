@@ -1,1 +1,0 @@
-{"tmdb_id": 308609, "title": "Livin' It Up with the Bratz", "original_title": "Livin' It Up with the Bratz", "slug_title": "livin-it-up-with-the-bratz", "date": "2006-08-04", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

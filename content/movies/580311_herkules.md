@@ -1,1 +1,0 @@
-{"tmdb_id": 580311, "title": "Herkules", "original_title": "Herkules", "slug_title": "herkules", "date": "1997-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oPK20U5NpjdjegvhXHiLktcTuCV.jpg", "actors": [], "comments": [], "recommandations_id": []}

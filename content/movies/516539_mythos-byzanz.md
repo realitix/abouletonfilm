@@ -1,1 +1,0 @@
-{"tmdb_id": 516539, "title": "Mythos Byzanz", "original_title": "Mythos Byzanz", "slug_title": "mythos-byzanz", "date": "2015-05-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Petra Gerster (Moderation)"], "comments": [], "recommandations_id": []}

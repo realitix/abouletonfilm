@@ -1,1 +1,0 @@
-{"tmdb_id": 206817, "title": "Michael Madhusudhan", "original_title": "Michael Madhusudhan", "slug_title": "michael-madhusudhan", "date": "1950-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Utpal Dutt (Michael Madhusudhan Dutta)"], "comments": [], "recommandations_id": []}

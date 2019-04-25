@@ -1,1 +1,0 @@
-{"tmdb_id": 247653, "title": "Blitzkid: Death By Jersey", "original_title": "Blitzkid: Death By Jersey", "slug_title": "blitzkid-death-by-jersey", "date": "2009-04-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

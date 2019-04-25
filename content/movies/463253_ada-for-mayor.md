@@ -1,1 +1,0 @@
-{"tmdb_id": 463253, "title": "Ada for Mayor", "original_title": "Alcaldessa", "slug_title": "ada-for-mayor", "date": "2017-07-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iiimcH3ICYV1Ea1X8l3NbibWPyU.jpg", "actors": [], "comments": [], "recommandations_id": []}

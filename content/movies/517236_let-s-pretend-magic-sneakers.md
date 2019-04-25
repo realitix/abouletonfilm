@@ -1,1 +1,0 @@
-{"tmdb_id": 517236, "title": "Let's Pretend: Magic Sneakers", "original_title": "Let's Pretend: Magic Sneakers", "slug_title": "let-s-pretend-magic-sneakers", "date": "1969-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

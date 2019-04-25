@@ -1,1 +1,0 @@
-{"tmdb_id": 271476, "title": "Accessing the Mystic", "original_title": "Accessing the Mystic", "slug_title": "accessing-the-mystic", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

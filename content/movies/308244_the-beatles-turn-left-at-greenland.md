@@ -1,1 +1,0 @@
-{"tmdb_id": 308244, "title": "The Beatles: Turn Left at Greenland", "original_title": "The Beatles: Turn Left at Greenland", "slug_title": "the-beatles-turn-left-at-greenland", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

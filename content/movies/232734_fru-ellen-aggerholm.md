@@ -1,1 +1,0 @@
-{"tmdb_id": 232734, "title": "Fru Ellen Aggerholm", "original_title": "Fru Ellen Aggerholm", "slug_title": "fru-ellen-aggerholm", "date": "1907-11-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

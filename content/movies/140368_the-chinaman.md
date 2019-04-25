@@ -1,1 +1,0 @@
-{"tmdb_id": 140368, "title": "The Chinaman", "original_title": "The Chinaman", "slug_title": "the-chinaman", "date": "1920-03-19", "genre": "Com\u00e9die / Animation", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7ixCWbsc9WPudbzvq4t4Z7rkr99.jpg", "actors": ["Max Fleischer ()"], "comments": [], "recommandations_id": []}

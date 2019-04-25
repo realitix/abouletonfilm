@@ -1,1 +1,0 @@
-{"tmdb_id": 48910, "title": "Slash: Live in Glastonbury", "original_title": "Slash: Live in Glastonbury", "slug_title": "slash-live-in-glastonbury", "date": "2010-06-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t2EaJOcWQCWGl7mjzJ5JQk4IDdh.jpg", "actors": [], "comments": [], "recommandations_id": []}

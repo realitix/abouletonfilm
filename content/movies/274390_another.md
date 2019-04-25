@@ -1,1 +1,0 @@
-{"tmdb_id": 274390, "title": "Another", "original_title": "Another", "slug_title": "another", "date": "2013-05-30", "genre": "Animation", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9Yz4lXAFlxOfTzGaFw0c9npI5GP.jpg", "actors": [], "comments": [], "recommandations_id": []}

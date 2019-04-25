@@ -1,1 +1,0 @@
-{"tmdb_id": 163537, "title": "Solid Cover", "original_title": "Solid Cover", "slug_title": "solid-cover", "date": "2000-01-01", "genre": "Action / Myst\u00e8re / Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/92hivIldZ1Xp1KjW3ziVuBVo4zc.jpg", "actors": [], "comments": [], "recommandations_id": []}

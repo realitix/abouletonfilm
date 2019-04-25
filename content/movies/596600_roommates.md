@@ -1,1 +1,0 @@
-{"tmdb_id": 596600, "title": "Roommates", "original_title": "Roommates", "slug_title": "roommates", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

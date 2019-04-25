@@ -1,1 +1,0 @@
-{"tmdb_id": 414634, "title": "Cathrine", "original_title": "Cathrine", "slug_title": "cathrine", "date": "2008-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5joOFqGCuetiqLgKbEXcsC1vRCi.jpg", "actors": [], "comments": [], "recommandations_id": []}

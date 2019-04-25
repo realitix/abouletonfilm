@@ -1,1 +1,0 @@
-{"tmdb_id": 413025, "title": "The Lure of Drink", "original_title": "The Lure of Drink", "slug_title": "the-lure-of-drink", "date": "1915-04-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Blanche Forsythe (Peggy)", "Roy Travers (Ned)", "A.E. Coleby ()"], "comments": [], "recommandations_id": []}

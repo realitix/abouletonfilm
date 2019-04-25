@@ -1,1 +1,0 @@
-{"tmdb_id": 388868, "title": "Crab Temple Omen", "original_title": "Kanimanji Engi", "slug_title": "crab-temple-omen", "date": "1925-01-02", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/73EeMm0ZRDfufmDIrCXf3XcI9s9.jpg", "actors": [], "comments": [], "recommandations_id": []}

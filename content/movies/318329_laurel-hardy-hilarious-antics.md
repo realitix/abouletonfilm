@@ -1,1 +1,0 @@
-{"tmdb_id": 318329, "title": "Laurel & Hardy: Hilarious Antics", "original_title": "Laurel & Hardy: Hilarious Antics", "slug_title": "laurel-hardy-hilarious-antics", "date": "2014-08-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

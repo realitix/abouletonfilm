@@ -1,1 +1,0 @@
-{"tmdb_id": 293427, "title": "The Golden Embrace", "original_title": "The Golden Embrace", "slug_title": "the-golden-embrace", "date": "1996-01-01", "genre": "Musique / Fantastique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fIQYWVeJWJNkgz8C4eIdRzrsYtv.jpg", "actors": [], "comments": [], "recommandations_id": []}

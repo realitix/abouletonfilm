@@ -1,1 +1,0 @@
-{"tmdb_id": 583605, "title": "Jeff Allen: I Can Laugh About it Now", "original_title": "Jeff Allen: I Can Laugh About it Now", "slug_title": "jeff-allen-i-can-laugh-about-it-now", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 468165, "title": "Kuntur Wachana", "original_title": "Kuntur Wachana", "slug_title": "kuntur-wachana", "date": "1977-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pmsVGfjXY4bUbbIsVb6xRNqesqw.jpg", "actors": [], "comments": [], "recommandations_id": []}

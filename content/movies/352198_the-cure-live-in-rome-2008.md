@@ -1,1 +1,0 @@
-{"tmdb_id": 352198, "title": "The Cure: Live In Rome 2008", "original_title": "The Cure: Live In Rome 2008", "slug_title": "the-cure-live-in-rome-2008", "date": "2008-10-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2wgqDzymD9Ae4Zfn7fHXC5tEVXD.jpg", "actors": [], "comments": [], "recommandations_id": []}

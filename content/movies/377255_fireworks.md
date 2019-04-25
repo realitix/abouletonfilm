@@ -1,1 +1,0 @@
-{"tmdb_id": 377255, "title": "Fireworks", "original_title": "Fireworks", "slug_title": "fireworks", "date": "1998-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ud0bFPvZB4w5LSbWU68tdJTsryD.jpg", "actors": [], "comments": [], "recommandations_id": []}

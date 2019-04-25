@@ -1,1 +1,0 @@
-{"tmdb_id": 415901, "title": "Telecannibals", "original_title": "\u03a4\u03b7\u03bb\u03b5-\u039a\u03b1\u03bd\u03bd\u03af\u03b2\u03b1\u03bb\u03bf\u03b9", "slug_title": "telecannibals", "date": "1986-11-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

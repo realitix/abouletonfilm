@@ -1,1 +1,0 @@
-{"tmdb_id": 326487, "title": "Dirtymouth", "original_title": "Dirtymouth", "slug_title": "dirtymouth", "date": "1970-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ofTiQ7rYKJPqco3BNT6uRdg6vDS.jpg", "actors": [], "comments": [], "recommandations_id": []}

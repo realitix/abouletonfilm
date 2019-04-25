@@ -1,1 +1,0 @@
-{"tmdb_id": 514454, "title": "Terbeschikkinggesteld", "original_title": "Terbeschikkinggesteld", "slug_title": "terbeschikkinggesteld", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 480182, "title": "A Page of History", "original_title": "A Page of History", "slug_title": "a-page-of-history", "date": "1941-10-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sun Yat-sen (Himself)"], "comments": [], "recommandations_id": []}

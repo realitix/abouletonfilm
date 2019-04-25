@@ -1,1 +1,0 @@
-{"tmdb_id": 432997, "title": "Azul Magia", "original_title": "Azul Magia", "slug_title": "azul-magia", "date": "2017-01-05", "genre": "Fantastique", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qo8wgY48wDePOlUAFOUIg57C5W0.jpg", "actors": ["Esmaylin Morel (Moises)", "Marselle Jimenez (Bel)"], "comments": [], "recommandations_id": []}

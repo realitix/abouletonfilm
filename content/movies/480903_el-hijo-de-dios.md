@@ -1,1 +1,0 @@
-{"tmdb_id": 480903, "title": "El hijo de Dios", "original_title": "El hijo de Dios", "slug_title": "el-hijo-de-dios", "date": "2016-10-27", "genre": "Com\u00e9die / Western", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bCWj73B6Eq4VliU2LM5WTbnqzWG.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 330538, "title": "Howard in Particular", "original_title": "Howard in Particular", "slug_title": "howard-in-particular", "date": "1979-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wLNTaku4sGPZzVl42MkNrOIaflN.jpg", "actors": [], "comments": [], "recommandations_id": []}

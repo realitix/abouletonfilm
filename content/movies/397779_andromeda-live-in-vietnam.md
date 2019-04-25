@@ -1,1 +1,0 @@
-{"tmdb_id": 397779, "title": "Andromeda: Live in Vietnam", "original_title": "Andromeda: Live in Vietnam", "slug_title": "andromeda-live-in-vietnam", "date": "2014-01-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/14pLCpfszyvqnIXoSQhJNaJaRZp.jpg", "actors": [], "comments": [], "recommandations_id": []}

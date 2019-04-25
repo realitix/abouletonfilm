@@ -1,1 +1,0 @@
-{"tmdb_id": 373404, "title": "Hotel Diaries: B & B", "original_title": "Hotel Diaries: B & B", "slug_title": "hotel-diaries-b-b", "date": "2005-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ln5gkqvcuG8I3O00rGFdYu3Ulx.jpg", "actors": [], "comments": [], "recommandations_id": []}

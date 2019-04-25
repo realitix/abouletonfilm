@@ -1,1 +1,0 @@
-{"tmdb_id": 270944, "title": "The White Stadium", "original_title": "Das wei\u00dfe Stadion", "slug_title": "the-white-stadium", "date": "1928-03-19", "genre": "Documentaire", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qCtB3m79slI0i2h7RAcwvgr9MW6.jpg", "actors": [], "comments": [], "recommandations_id": []}

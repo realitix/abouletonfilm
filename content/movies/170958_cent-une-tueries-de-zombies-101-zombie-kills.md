@@ -1,1 +1,0 @@
-{"tmdb_id": 170958, "title": "Cent une tueries de zombies (101 Zombie Kills)", "original_title": "Cent une tueries de zombies (101 Zombie Kills)", "slug_title": "cent-une-tueries-de-zombies-101-zombie-kills", "date": "2012-09-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

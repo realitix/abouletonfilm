@@ -1,1 +1,0 @@
-{"tmdb_id": 422916, "title": "Australia, Australia", "original_title": "Australija, Australija", "slug_title": "australia-australia", "date": "1976-04-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v0kWzgzzrbuZQOyxMGHzsgYWRM.jpg", "actors": [], "comments": [], "recommandations_id": []}

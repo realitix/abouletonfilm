@@ -1,1 +1,0 @@
-{"tmdb_id": 497773, "title": "Diversity Day", "original_title": "Diversity Day", "slug_title": "diversity-day", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/esHE3gVYul6cxrr8mVLL6TYqKS0.jpg", "actors": ["Max Vrancic (James)"], "comments": [], "recommandations_id": []}

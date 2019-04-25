@@ -1,1 +1,0 @@
-{"tmdb_id": 353249, "title": "The Space Between the Teeth", "original_title": "The Space Between the Teeth", "slug_title": "the-space-between-the-teeth", "date": "1976-08-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8AbwEVEHZNyRhEw31sx3gJJQiCu.jpg", "actors": [], "comments": [], "recommandations_id": []}

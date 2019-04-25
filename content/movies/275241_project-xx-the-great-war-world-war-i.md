@@ -1,1 +1,0 @@
-{"tmdb_id": 275241, "title": "Project XX: The Great War--World War I", "original_title": "Project XX: The Great War--World War I", "slug_title": "project-xx-the-great-war-world-war-i", "date": "1956-10-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

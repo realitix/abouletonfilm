@@ -1,1 +1,0 @@
-{"tmdb_id": 344269, "title": "A Pair of Pink Pajamas", "original_title": "A Pair of Pink Pajamas", "slug_title": "a-pair-of-pink-pajamas", "date": "1918-10-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["William Parsons ()"], "comments": [], "recommandations_id": []}

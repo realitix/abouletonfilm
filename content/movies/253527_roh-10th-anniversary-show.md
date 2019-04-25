@@ -1,1 +1,0 @@
-{"tmdb_id": 253527, "title": "ROH 10th Anniversary Show", "original_title": "ROH 10th Anniversary Show", "slug_title": "roh-10th-anniversary-show", "date": "2012-03-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o5mu9ZWmNsHvKF1uvlGr9MwKWNb.jpg", "actors": [], "comments": [], "recommandations_id": []}

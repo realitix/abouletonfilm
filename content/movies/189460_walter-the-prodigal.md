@@ -1,1 +1,0 @@
-{"tmdb_id": 189460, "title": "Walter the Prodigal", "original_title": "Walter the Prodigal", "slug_title": "walter-the-prodigal", "date": "1926-04-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Walter Forde ()"], "comments": [], "recommandations_id": []}

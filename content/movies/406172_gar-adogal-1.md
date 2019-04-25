@@ -1,1 +1,0 @@
-{"tmdb_id": 406172, "title": "Gar Adogal 1", "original_title": "Gar Adogal 1", "slug_title": "gar-adogal-1", "date": "", "genre": "", "score": "0.0/10", "synopsis": "Hilal Vision", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/to1tEiQhpeWvrimOcMq0Rgtpz71.jpg", "actors": [], "comments": [], "recommandations_id": []}

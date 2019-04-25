@@ -1,1 +1,0 @@
-{"tmdb_id": 382910, "title": "Lt. Watada", "original_title": "Lt. Watada", "slug_title": "lt-watada", "date": "2010-07-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bvl1bLrE3N6O6ZKvMyccUSoAefv.jpg", "actors": [], "comments": [], "recommandations_id": []}

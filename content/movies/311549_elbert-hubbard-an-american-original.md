@@ -1,1 +1,0 @@
-{"tmdb_id": 311549, "title": "Elbert Hubbard: An American Original", "original_title": "Elbert Hubbard: An American Original", "slug_title": "elbert-hubbard-an-american-original", "date": "2009-11-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

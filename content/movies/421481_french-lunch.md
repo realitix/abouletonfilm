@@ -1,1 +1,0 @@
-{"tmdb_id": 421481, "title": "French Lunch", "original_title": "French Lunch", "slug_title": "french-lunch", "date": "1968-09-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

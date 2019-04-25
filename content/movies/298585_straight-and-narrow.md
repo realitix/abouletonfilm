@@ -1,1 +1,0 @@
-{"tmdb_id": 298585, "title": "Straight and Narrow", "original_title": "Straight and Narrow", "slug_title": "straight-and-narrow", "date": "1970-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1Orxosq92gFSRTN6EnUA1kMG314.jpg", "actors": [], "comments": [], "recommandations_id": []}

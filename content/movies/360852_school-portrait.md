@@ -1,1 +1,0 @@
-{"tmdb_id": 360852, "title": "School Portrait", "original_title": "School Portrait", "slug_title": "school-portrait", "date": "", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

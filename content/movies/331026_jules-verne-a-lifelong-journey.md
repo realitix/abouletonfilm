@@ -1,1 +1,0 @@
-{"tmdb_id": 331026, "title": "Jules Verne: a Lifelong Journey", "original_title": "Jules Verne: a Lifelong Journey", "slug_title": "jules-verne-a-lifelong-journey", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

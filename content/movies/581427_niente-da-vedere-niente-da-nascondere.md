@@ -1,1 +1,0 @@
-{"tmdb_id": 581427, "title": "Niente Da Vedere, Niente Da Nascondere", "original_title": "Niente Da Vedere, Niente Da Nascondere", "slug_title": "niente-da-vedere-niente-da-nascondere", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

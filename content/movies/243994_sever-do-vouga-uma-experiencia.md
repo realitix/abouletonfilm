@@ -1,1 +1,0 @@
-{"tmdb_id": 243994, "title": "Sever do Vouga... Uma Experi\u00eancia", "original_title": "Sever do Vouga... Uma Experi\u00eancia", "slug_title": "sever-do-vouga-uma-experiencia", "date": "1971-01-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Alexandre O'Neill (Narrator)"], "comments": [], "recommandations_id": []}

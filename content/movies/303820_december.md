@@ -1,1 +1,0 @@
-{"tmdb_id": 303820, "title": "December", "original_title": "December", "slug_title": "december", "date": "2014-04-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/twsCOFIMUCt9u2DeyRNZ8HfVDZo.jpg", "actors": [], "comments": [], "recommandations_id": []}

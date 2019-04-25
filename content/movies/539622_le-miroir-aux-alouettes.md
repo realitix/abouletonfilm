@@ -1,1 +1,0 @@
-{"tmdb_id": 539622, "title": "Le miroir aux alouettes", "original_title": "Le miroir aux alouettes", "slug_title": "le-miroir-aux-alouettes", "date": "1935-04-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

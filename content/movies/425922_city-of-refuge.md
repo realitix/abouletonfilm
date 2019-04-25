@@ -1,1 +1,0 @@
-{"tmdb_id": 425922, "title": "City of Refuge", "original_title": "City of Refuge", "slug_title": "city-of-refuge", "date": "2016-10-03", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

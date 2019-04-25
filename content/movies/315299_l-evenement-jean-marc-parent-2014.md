@@ -1,1 +1,0 @@
-{"tmdb_id": 315299, "title": "L'\u00e9v\u00e8nement Jean-Marc Parent 2014", "original_title": "L'\u00e9v\u00e8nement Jean-Marc Parent 2014", "slug_title": "l-evenement-jean-marc-parent-2014", "date": "2014-11-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

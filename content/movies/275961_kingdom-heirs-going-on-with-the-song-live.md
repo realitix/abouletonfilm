@@ -1,1 +1,0 @@
-{"tmdb_id": 275961, "title": "Kingdom Heirs: Going On with the Song: Live", "original_title": "Kingdom Heirs: Going On with the Song: Live", "slug_title": "kingdom-heirs-going-on-with-the-song-live", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

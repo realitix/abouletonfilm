@@ -1,1 +1,0 @@
-{"tmdb_id": 504474, "title": "Tomodachi Game", "original_title": "Tomodachi Game", "slug_title": "tomodachi-game", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vABDHB9nDxs5xAjM3wlgf5NquRq.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 450776, "title": "The Long Beat Club Night - Vol. 2", "original_title": "The Long Beat Club Night - Vol. 2", "slug_title": "the-long-beat-club-night-vol-2", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tX3PW8rvN4xzenlSXk9yucrI3h6.jpg", "actors": [], "comments": [], "recommandations_id": []}

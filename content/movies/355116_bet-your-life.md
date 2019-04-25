@@ -1,1 +1,0 @@
-{"tmdb_id": 355116, "title": "Bet Your Life", "original_title": "Bet Your Life", "slug_title": "bet-your-life", "date": "1948-01-16", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Leon Errol (Leon Errol)"], "comments": [], "recommandations_id": []}

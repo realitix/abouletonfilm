@@ -1,1 +1,0 @@
-{"tmdb_id": 328341, "title": "Buenos Aires Viceversa", "original_title": "Buenos Aires Viceversa", "slug_title": "buenos-aires-viceversa", "date": "1996-11-01", "genre": "", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9OiQpKObCByevf54elfP1KaENzW.jpg", "actors": [], "comments": [], "recommandations_id": []}

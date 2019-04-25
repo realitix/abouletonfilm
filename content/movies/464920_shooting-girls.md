@@ -1,1 +1,0 @@
-{"tmdb_id": 464920, "title": "Shooting Girls", "original_title": "\uc288\ud305\uac78\uc2a4", "slug_title": "shooting-girls", "date": "2017-07-15", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

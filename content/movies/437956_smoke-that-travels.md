@@ -1,1 +1,0 @@
-{"tmdb_id": 437956, "title": "Smoke That Travels", "original_title": "Smoke That Travels", "slug_title": "smoke-that-travels", "date": "2016-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

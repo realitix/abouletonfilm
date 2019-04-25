@@ -1,1 +1,0 @@
-{"tmdb_id": 353678, "title": "Lili I Was", "original_title": "Lili j'\u00e9tais", "slug_title": "lili-i-was", "date": "2010-01-01", "genre": "Musique / Drame", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xshhN7EjRivkG41WPMGV78qxRaE.jpg", "actors": ["Aurelie Marpeaux (Lili)"], "comments": [], "recommandations_id": []}

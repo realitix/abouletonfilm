@@ -1,1 +1,0 @@
-{"tmdb_id": 320531, "title": "Hwapeong ki", "original_title": "Hwapeong ki", "slug_title": "hwapeong-ki", "date": "1984-11-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

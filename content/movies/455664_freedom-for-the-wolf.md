@@ -1,1 +1,0 @@
-{"tmdb_id": 455664, "title": "Freedom For The Wolf", "original_title": "Freedom For The Wolf", "slug_title": "freedom-for-the-wolf", "date": "2017-06-12", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yj5Vt9fcPEutMABAwzp5nMWtEtA.jpg", "actors": [], "comments": [], "recommandations_id": []}

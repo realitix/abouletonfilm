@@ -1,1 +1,0 @@
-{"tmdb_id": 566739, "title": "Fury: Redux", "original_title": "Fury: Redux", "slug_title": "fury-redux", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zudhz11H1wqUiDOBbXXjwdnumAN.jpg", "actors": [], "comments": [], "recommandations_id": []}

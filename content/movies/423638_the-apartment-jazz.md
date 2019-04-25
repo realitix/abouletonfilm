@@ -1,1 +1,0 @@
-{"tmdb_id": 423638, "title": "The Apartment Jazz", "original_title": "The Apartment Jazz", "slug_title": "the-apartment-jazz", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tat\u00e1 Aeroplano ()", "J\u00fapiter Ma\u00e7\u00e3 ()"], "comments": [], "recommandations_id": []}

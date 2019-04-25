@@ -1,1 +1,0 @@
-{"tmdb_id": 430327, "title": "Con aura senz'aura. Viaggio ai confini dell'arte", "original_title": "Con aura senz'aura. Viaggio ai confini dell'arte", "slug_title": "con-aura-senz-aura-viaggio-ai-confini-dell-arte", "date": "2003-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

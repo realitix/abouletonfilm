@@ -1,1 +1,0 @@
-{"tmdb_id": 313116, "title": "3PW: Broadcast from Hell", "original_title": "3PW: Broadcast from Hell", "slug_title": "3pw-broadcast-from-hell", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

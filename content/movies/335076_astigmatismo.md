@@ -1,1 +1,0 @@
-{"tmdb_id": 335076, "title": "Astigmatismo", "original_title": "Astigmatismo", "slug_title": "astigmatismo", "date": "2013-05-01", "genre": "Familial / Animation", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ukpCiHGX4RjlTsvgDc4Dq5AQ9hG.jpg", "actors": [], "comments": [], "recommandations_id": []}

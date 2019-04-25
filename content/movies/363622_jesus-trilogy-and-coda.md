@@ -1,1 +1,0 @@
-{"tmdb_id": 363622, "title": "Jesus Trilogy and Coda", "original_title": "Jesus Trilogy and Coda", "slug_title": "jesus-trilogy-and-coda", "date": "2000-11-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

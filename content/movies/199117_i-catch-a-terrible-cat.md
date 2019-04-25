@@ -1,1 +1,0 @@
-{"tmdb_id": 199117, "title": "I Catch a Terrible Cat", "original_title": "I Catch a Terrible Cat", "slug_title": "i-catch-a-terrible-cat", "date": "2011-11-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vc0EJ8tjKkgdoEaixYm9wx7m3GM.jpg", "actors": [], "comments": [], "recommandations_id": []}

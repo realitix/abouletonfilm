@@ -1,1 +1,0 @@
-{"tmdb_id": 382877, "title": "Shtei Defikot Lev", "original_title": "Shtei Defikot Lev", "slug_title": "shtei-defikot-lev", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

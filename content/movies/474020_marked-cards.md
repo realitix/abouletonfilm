@@ -1,1 +1,0 @@
-{"tmdb_id": 474020, "title": "Marked Cards", "original_title": "Marked Cards", "slug_title": "marked-cards", "date": "1912-01-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

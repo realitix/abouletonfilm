@@ -1,1 +1,0 @@
-{"tmdb_id": 449396, "title": "Look Love", "original_title": "Look Love", "slug_title": "look-love", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

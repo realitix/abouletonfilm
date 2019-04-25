@@ -1,1 +1,0 @@
-{"tmdb_id": 536278, "title": "Dizzy's Dream Band", "original_title": "Dizzy's Dream Band", "slug_title": "dizzy-s-dream-band", "date": "1982-01-01", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 523689, "title": "China Not China", "original_title": "China Not China", "slug_title": "china-not-china", "date": "2018-06-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9ttCTlZSZKIgnkpzKXjnk17F6bI.jpg", "actors": [], "comments": [], "recommandations_id": []}

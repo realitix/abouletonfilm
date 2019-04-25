@@ -1,1 +1,0 @@
-{"tmdb_id": 83810, "title": "Windfall", "original_title": "Windfall", "slug_title": "windfall", "date": "2012-02-03", "genre": "Documentaire", "score": "4.4/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/23mjEhvrlanm69fox2ydiJZ6zwh.jpg", "actors": ["Chuck Coggins (Himself)"], "comments": [], "recommandations_id": []}

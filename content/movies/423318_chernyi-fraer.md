@@ -1,1 +1,0 @@
-{"tmdb_id": 423318, "title": "\u0427\u0435\u0440\u043d\u044b\u0439 \u0444\u0440\u0430\u0435\u0440", "original_title": "\u0427\u0435\u0440\u043d\u044b\u0439 \u0444\u0440\u0430\u0435\u0440", "slug_title": "chernyi-fraer", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

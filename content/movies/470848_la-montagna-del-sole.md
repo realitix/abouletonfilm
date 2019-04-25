@@ -1,1 +1,0 @@
-{"tmdb_id": 470848, "title": "La montagna del sole", "original_title": "La montagna del sole", "slug_title": "la-montagna-del-sole", "date": "1966-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6ct9Ongj8KVUcDUw4CfveAsirWk.jpg", "actors": [], "comments": [], "recommandations_id": []}

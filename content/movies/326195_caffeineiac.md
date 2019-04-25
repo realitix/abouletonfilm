@@ -1,1 +1,0 @@
-{"tmdb_id": 326195, "title": "Caffeineiac", "original_title": "Caffeineiac", "slug_title": "caffeineiac", "date": "2012-06-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hrSsVyWj1LSEbzUahhhfodjJWdo.jpg", "actors": [], "comments": [], "recommandations_id": []}

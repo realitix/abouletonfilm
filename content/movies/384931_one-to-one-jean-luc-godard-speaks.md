@@ -1,1 +1,0 @@
-{"tmdb_id": 384931, "title": "One to One: Jean-Luc Godard Speaks", "original_title": "One to One: Jean-Luc Godard Speaks", "slug_title": "one-to-one-jean-luc-godard-speaks", "date": "1968-11-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

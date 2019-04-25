@@ -1,1 +1,0 @@
-{"tmdb_id": 591918, "title": "Bobbyr Bondhura", "original_title": "Bobbyr Bondhura", "slug_title": "bobbyr-bondhura", "date": "2019-03-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

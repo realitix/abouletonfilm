@@ -1,1 +1,0 @@
-{"tmdb_id": 470547, "title": "O Homem de Tr\u00e1s-os-Montes", "original_title": "O Homem de Tr\u00e1s-os-Montes", "slug_title": "o-homem-de-tras-os-montes", "date": "2017-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

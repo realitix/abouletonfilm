@@ -1,1 +1,0 @@
-{"tmdb_id": 125345, "title": "In Comparison", "original_title": "Zum Vergleich", "slug_title": "in-comparison", "date": "2009-02-09", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8SR1RbAzX8sEoPnhAlS9pm09iZA.jpg", "actors": [], "comments": [], "recommandations_id": []}

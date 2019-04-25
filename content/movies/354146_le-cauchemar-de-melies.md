@@ -1,1 +1,0 @@
-{"tmdb_id": 354146, "title": "Le cauchemar de M\u00e9li\u00e8s", "original_title": "Le cauchemar de M\u00e9li\u00e8s", "slug_title": "le-cauchemar-de-melies", "date": "1988-08-12", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

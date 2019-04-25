@@ -1,1 +1,0 @@
-{"tmdb_id": 190745, "title": "Un sogno di Kri Kri", "original_title": "Un sogno di Kri Kri", "slug_title": "un-sogno-di-kri-kri", "date": "1913-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Raymond Dandy (Kri-Kri)"], "comments": [], "recommandations_id": []}

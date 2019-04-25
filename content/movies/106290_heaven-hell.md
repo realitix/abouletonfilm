@@ -1,1 +1,0 @@
-{"tmdb_id": 106290, "title": "Heaven, Hell", "original_title": "Heaven, Hell", "slug_title": "heaven-hell", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

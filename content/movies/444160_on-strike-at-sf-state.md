@@ -1,1 +1,0 @@
-{"tmdb_id": 444160, "title": "On Strike! (At SF State)", "original_title": "On Strike! (At SF State)", "slug_title": "on-strike-at-sf-state", "date": "1969-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Saul Rouda (Director)", "David Dobkin (Director)"], "comments": [], "recommandations_id": []}

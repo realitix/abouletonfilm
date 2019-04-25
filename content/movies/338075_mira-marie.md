@@ -1,1 +1,0 @@
-{"tmdb_id": 338075, "title": "Mira + Marie", "original_title": "Mira + Marie", "slug_title": "mira-marie", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/62Q5GQ4ZqCvAqV98fUVQ0La3NBa.jpg", "actors": [], "comments": [], "recommandations_id": []}

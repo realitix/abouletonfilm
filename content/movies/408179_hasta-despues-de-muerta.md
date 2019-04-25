@@ -1,1 +1,0 @@
-{"tmdb_id": 408179, "title": "Hasta despu\u00e9s de muerta", "original_title": "Hasta despu\u00e9s de muerta", "slug_title": "hasta-despues-de-muerta", "date": "1916-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vGUmPrrBC29mtOzNeSPaGQbk8dN.jpg", "actors": [], "comments": [], "recommandations_id": []}

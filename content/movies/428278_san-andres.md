@@ -1,1 +1,0 @@
-{"tmdb_id": 428278, "title": "San Andr\u00e9s", "original_title": "San Andr\u00e9s", "slug_title": "san-andres", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m4MR5HE3onJMqlsazPuQWubI9lg.jpg", "actors": [], "comments": [], "recommandations_id": []}

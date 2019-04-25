@@ -1,1 +1,0 @@
-{"tmdb_id": 154026, "title": "ANPO: Art X War", "original_title": "ANPO: Art X War", "slug_title": "anpo-art-x-war", "date": "2010-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/odnkeelxKkM3lTOStt3e9ws0gAP.jpg", "actors": [], "comments": [], "recommandations_id": []}

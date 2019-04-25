@@ -1,1 +1,0 @@
-{"tmdb_id": 154839, "title": "Love Not Wisely", "original_title": "Love Not Wisely", "slug_title": "love-not-wisely", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 180376, "title": "It Happens Fast", "original_title": "It Happens Fast", "slug_title": "it-happens-fast", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Paul Gabriellini (Inventor)"], "comments": [], "recommandations_id": []}

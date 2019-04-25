@@ -1,1 +1,0 @@
-{"tmdb_id": 512772, "title": "Goldrake addio!", "original_title": "Goldrake addio!", "slug_title": "goldrake-addio", "date": "1980-01-01", "genre": "Animation", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pWom42E7z3nJjkE0SrplxbaKUZs.jpg", "actors": [], "comments": [], "recommandations_id": []}

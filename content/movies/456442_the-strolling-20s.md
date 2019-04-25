@@ -1,1 +1,0 @@
-{"tmdb_id": 456442, "title": "The Strolling '20s", "original_title": "The Strolling '20s", "slug_title": "the-strolling-20s", "date": "1966-02-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Harry Belafonte ()", "Sidney Poitier ()", "Sammy Davis Jr. ()", "Duke Ellington ()"], "comments": [], "recommandations_id": []}

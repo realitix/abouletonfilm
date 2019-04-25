@@ -1,1 +1,0 @@
-{"tmdb_id": 314628, "title": "Cotton Road", "original_title": "Cotton Road", "slug_title": "cotton-road", "date": "2014-04-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/anawMQcLJG99o7WT33py27rNM7c.jpg", "actors": [], "comments": [], "recommandations_id": []}

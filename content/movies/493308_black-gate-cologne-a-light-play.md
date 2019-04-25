@@ -1,1 +1,0 @@
-{"tmdb_id": 493308, "title": "Black Gate Cologne (A Light Play)", "original_title": "Black Gate Cologne (Ein Lichtspiel)", "slug_title": "black-gate-cologne-a-light-play", "date": "1968-08-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

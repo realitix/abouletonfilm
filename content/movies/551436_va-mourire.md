@@ -1,1 +1,0 @@
-{"tmdb_id": 551436, "title": "Va mourire", "original_title": "Va mourire", "slug_title": "va-mourire", "date": "1995-01-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xzZ1RA9E1UpUJx2vXpfBg3fTwHn.jpg", "actors": [], "comments": [], "recommandations_id": []}

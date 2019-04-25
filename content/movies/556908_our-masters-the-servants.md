@@ -1,1 +1,0 @@
-{"tmdb_id": 556908, "title": "Our Masters, the Servants", "original_title": "Nos ma\u00eetres les domestiques", "slug_title": "our-masters-the-servants", "date": "1930-11-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

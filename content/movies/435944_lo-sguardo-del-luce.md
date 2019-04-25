@@ -1,1 +1,0 @@
-{"tmdb_id": 435944, "title": "Lo sguardo del Luce", "original_title": "Lo sguardo del Luce", "slug_title": "lo-sguardo-del-luce", "date": "2014-10-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

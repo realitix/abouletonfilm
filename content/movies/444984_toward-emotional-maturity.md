@@ -1,1 +1,0 @@
-{"tmdb_id": 444984, "title": "Toward Emotional Maturity", "original_title": "Toward Emotional Maturity", "slug_title": "toward-emotional-maturity", "date": "1954-01-01", "genre": "", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/86ll3dPnNdavVn8eoViIOD1CDGG.jpg", "actors": [], "comments": [], "recommandations_id": []}

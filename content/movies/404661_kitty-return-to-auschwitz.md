@@ -1,1 +1,0 @@
-{"tmdb_id": 404661, "title": "Kitty: Return to Auschwitz", "original_title": "Kitty: Return to Auschwitz", "slug_title": "kitty-return-to-auschwitz", "date": "1979-08-29", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A859O4aS6s4rqdkcG2toYXBJdj3.jpg", "actors": [], "comments": [], "recommandations_id": []}

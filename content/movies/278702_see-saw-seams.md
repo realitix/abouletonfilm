@@ -1,1 +1,0 @@
-{"tmdb_id": 278702, "title": "See Saw Seams", "original_title": "See Saw Seams", "slug_title": "see-saw-seams", "date": "1965-01-01", "genre": "", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5c4HxFx3sY0d7H3TJV5xq6Plrhn.jpg", "actors": [], "comments": [], "recommandations_id": []}

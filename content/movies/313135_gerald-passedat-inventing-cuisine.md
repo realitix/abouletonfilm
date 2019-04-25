@@ -1,1 +1,0 @@
-{"tmdb_id": 313135, "title": "G\u00e9rald Pass\u00e9dat: Inventing Cuisine", "original_title": "G\u00e9rald Pass\u00e9dat: Inventing Cuisine", "slug_title": "gerald-passedat-inventing-cuisine", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

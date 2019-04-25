@@ -1,1 +1,0 @@
-{"tmdb_id": 593272, "title": "Evan, A Survivor's Story", "original_title": "Evan, A Survivor's Story", "slug_title": "evan-a-survivor-s-story", "date": "2017-06-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 323218, "title": "Three's Cumpany", "original_title": "Three's Cumpany", "slug_title": "three-s-cumpany", "date": "2014-11-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kUud1C6Iq2tyxx3r8ej3HmUqHvp.jpg", "actors": [], "comments": [], "recommandations_id": []}

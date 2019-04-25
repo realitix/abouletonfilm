@@ -1,1 +1,0 @@
-{"tmdb_id": 416278, "title": "Animal Odd Couples", "original_title": "Animal Odd Couples", "slug_title": "animal-odd-couples", "date": "2012-11-07", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

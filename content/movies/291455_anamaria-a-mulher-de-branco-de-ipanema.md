@@ -1,1 +1,0 @@
-{"tmdb_id": 291455, "title": "Anamaria: A Mulher de Branco de Ipanema", "original_title": "Anamaria: A Mulher de Branco de Ipanema", "slug_title": "anamaria-a-mulher-de-branco-de-ipanema", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

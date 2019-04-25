@@ -1,1 +1,0 @@
-{"tmdb_id": 338054, "title": "Shattered Dreams", "original_title": "Shattered Dreams", "slug_title": "shattered-dreams", "date": "1998-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vNZw9VC22PR26xiF3sPYHH2jQtA.jpg", "actors": ["Sean P. Donahue ()", "Erik Estrada ()"], "comments": [], "recommandations_id": []}

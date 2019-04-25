@@ -1,1 +1,0 @@
-{"tmdb_id": 253778, "title": "Wort und Tat", "original_title": "Wort und Tat", "slug_title": "wort-und-tat", "date": "1938-03-28", "genre": "Histoire", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lF3NzB6ldGnaR48GJfWNDwCP4ly.jpg", "actors": ["Adolf Hitler ()", "Benito Mussolini ()"], "comments": [], "recommandations_id": []}

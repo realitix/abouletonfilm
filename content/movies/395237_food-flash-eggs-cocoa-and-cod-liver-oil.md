@@ -1,1 +1,0 @@
-{"tmdb_id": 395237, "title": "Food Flash: Eggs, Cocoa and Cod Liver Oil", "original_title": "Food Flash: Eggs, Cocoa and Cod Liver Oil", "slug_title": "food-flash-eggs-cocoa-and-cod-liver-oil", "date": "1940-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

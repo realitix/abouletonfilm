@@ -1,1 +1,0 @@
-{"tmdb_id": 333800, "title": "Dearly Departed: Vol. 2", "original_title": "Dearly Departed: Vol. 2", "slug_title": "dearly-departed-vol-2", "date": "2014-06-14", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

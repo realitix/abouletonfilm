@@ -1,1 +1,0 @@
-{"tmdb_id": 440557, "title": "Primero De Enero", "original_title": "Primero De Enero", "slug_title": "primero-de-enero", "date": "2014-01-01", "genre": "Familial / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bgYcKafxzM2OeoQqe3xV6oRoe5L.jpg", "actors": [], "comments": [], "recommandations_id": []}

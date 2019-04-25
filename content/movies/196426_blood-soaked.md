@@ -1,1 +1,0 @@
-{"tmdb_id": 196426, "title": "Blood Soaked", "original_title": "Blood Soaked", "slug_title": "blood-soaked", "date": "2013-05-24", "genre": "", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h1NxzP5s1GjyJgVCl7nz6q73O9q.jpg", "actors": [], "comments": [], "recommandations_id": []}

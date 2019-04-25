@@ -1,1 +1,0 @@
-{"tmdb_id": 575751, "title": "Talking About Sex", "original_title": "Talking About Sex", "slug_title": "talking-about-sex", "date": "", "genre": "Com\u00e9die / Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3tNISfteDbGI09O5HZnedzOFekb.jpg", "actors": ["Kim Wayans (Andie Norman)"], "comments": [], "recommandations_id": []}

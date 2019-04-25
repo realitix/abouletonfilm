@@ -1,1 +1,0 @@
-{"tmdb_id": 553139, "title": "Cooks And Chefs", "original_title": "Cooks And Chefs", "slug_title": "cooks-and-chefs", "date": "1970-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

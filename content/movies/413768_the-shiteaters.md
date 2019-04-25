@@ -1,1 +1,1 @@
-{"tmdb_id": 413768, "title": "The Shiteaters", "original_title": "The Shiteaters", "slug_title": "the-shiteaters", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 413768, "title": "The Shiteaters", "original_title": "The Shiteaters", "slug_title": "the-shiteaters", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

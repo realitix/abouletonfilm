@@ -1,1 +1,0 @@
-{"tmdb_id": 144433, "title": "Jeremy's Egg", "original_title": "Jeremy's Egg", "slug_title": "jeremy-s-egg", "date": "", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5UUjcdzXz54DXdMpytPzGofcs6X.jpg", "actors": [], "comments": [], "recommandations_id": []}

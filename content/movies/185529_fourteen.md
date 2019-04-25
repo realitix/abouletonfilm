@@ -1,1 +1,0 @@
-{"tmdb_id": 185529, "title": "Fourteen", "original_title": "Ju-yon-sai", "slug_title": "fourteen", "date": "2007-01-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hrTcV00D21DbH8EC1B7QMXll31w.jpg", "actors": [], "comments": [], "recommandations_id": []}

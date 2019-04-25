@@ -1,1 +1,0 @@
-{"tmdb_id": 448768, "title": "Pandem\u00f4nia", "original_title": "Pandem\u00f4nia", "slug_title": "pandemonia", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

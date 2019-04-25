@@ -1,1 +1,0 @@
-{"tmdb_id": 561692, "title": "Titanium White", "original_title": "Titanium White", "slug_title": "titanium-white", "date": "", "genre": "Aventure / Crime / Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 518608, "title": "Nature Morte", "original_title": "Nature Morte", "slug_title": "nature-morte", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

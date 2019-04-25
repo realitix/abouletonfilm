@@ -1,1 +1,0 @@
-{"tmdb_id": 112741, "title": "Judge Judy: Second to None", "original_title": "Judge Judy: Second to None", "slug_title": "judge-judy-second-to-none", "date": "2008-09-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6yIrWsOExsEa2ZuZtG8uko35sNK.jpg", "actors": [], "comments": [], "recommandations_id": []}

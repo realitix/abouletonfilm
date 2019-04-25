@@ -1,1 +1,0 @@
-{"tmdb_id": 271656, "title": "Tovarisch I Am Not Dead", "original_title": "Tovarisch I Am Not Dead", "slug_title": "tovarisch-i-am-not-dead", "date": "2008-05-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dXDzAEuqAHIe9ZD9yQKnUFDytIS.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 451003, "title": "Kashin (A Flower Aflame)", "original_title": "\u82b1\u82af", "slug_title": "kashin-a-flower-aflame", "date": "2016-08-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lDcbYmEmkusPJi9nfl2zTF3326e.jpg", "actors": [], "comments": [], "recommandations_id": []}

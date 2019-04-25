@@ -1,1 +1,0 @@
-{"tmdb_id": 409042, "title": "Die Sex-j\u00e4hrigen", "original_title": "Die Sex-j\u00e4hrigen", "slug_title": "die-sex-jahrigen", "date": "1971-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 114534, "title": "Carpe Diem Hardcore Kiteboarding", "original_title": "Carpe Diem Hardcore Kiteboarding", "slug_title": "carpe-diem-hardcore-kiteboarding", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 313855, "title": "Red Guards on Honghu Lake", "original_title": "Red Guards on Honghu Lake", "slug_title": "red-guards-on-honghu-lake", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

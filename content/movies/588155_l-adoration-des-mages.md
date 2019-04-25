@@ -1,1 +1,0 @@
-{"tmdb_id": 588155, "title": "L'adoration des mages", "original_title": "L'adoration des mages", "slug_title": "l-adoration-des-mages", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tZFqHexVMssjdFeahtc25WIZywG.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 360934, "title": "Heavy Metal Jr.", "original_title": "Heavy Metal Jr.", "slug_title": "heavy-metal-jr", "date": "2005-08-24", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

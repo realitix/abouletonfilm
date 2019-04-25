@@ -1,1 +1,0 @@
-{"tmdb_id": 530044, "title": "Schnelles Geld", "original_title": "Schnelles Geld", "slug_title": "schnelles-geld", "date": "1983-05-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

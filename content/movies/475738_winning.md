@@ -1,1 +1,0 @@
-{"tmdb_id": 475738, "title": "Winning", "original_title": "Winning", "slug_title": "winning", "date": "2017-09-08", "genre": "Documentaire", "score": "6.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ejUuQ6TGqYSey4KBY79aIUa5Zd.jpg", "actors": [], "comments": [], "recommandations_id": [440590]}

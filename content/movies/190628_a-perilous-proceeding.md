@@ -1,1 +1,0 @@
-{"tmdb_id": 190628, "title": "A Perilous Proceeding", "original_title": "A Perilous Proceeding", "slug_title": "a-perilous-proceeding", "date": "1901-09-30", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/krhgG6QJ29mEv7rKKkTKGCDcTje.jpg", "actors": [], "comments": [], "recommandations_id": []}

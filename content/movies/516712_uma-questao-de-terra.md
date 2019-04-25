@@ -1,1 +1,0 @@
-{"tmdb_id": 516712, "title": "Uma Quest\u00e3o de Terra", "original_title": "Uma Quest\u00e3o de Terra", "slug_title": "uma-questao-de-terra", "date": "1988-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kfyo1qfbQgXf1Jv8Yq2vHXICLgq.jpg", "actors": [], "comments": [], "recommandations_id": []}

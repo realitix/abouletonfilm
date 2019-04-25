@@ -1,1 +1,0 @@
-{"tmdb_id": 534637, "title": "How do you thirst?", "original_title": "How do you thirst?", "slug_title": "how-do-you-thirst", "date": "2016-11-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6TyvJRPz37Fb7a3c7ZKBFCt9fNo.jpg", "actors": ["Tomoko Karina ()", "Abraham Luna ()"], "comments": [], "recommandations_id": []}

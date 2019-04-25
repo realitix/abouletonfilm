@@ -1,1 +1,0 @@
-{"tmdb_id": 451574, "title": "Subaudition", "original_title": "\u0423\u0445\u0432\u0430\u0440\u043b\u0430\u043b", "slug_title": "subaudition", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

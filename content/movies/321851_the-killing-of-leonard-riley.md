@@ -1,1 +1,0 @@
-{"tmdb_id": 321851, "title": "The Killing of Leonard Riley", "original_title": "The Killing of Leonard Riley", "slug_title": "the-killing-of-leonard-riley", "date": "2011-10-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

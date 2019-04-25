@@ -1,1 +1,0 @@
-{"tmdb_id": 449013, "title": "The Eternal Blonde", "original_title": "The Eternal Blonde", "slug_title": "the-eternal-blonde", "date": "", "genre": "Crime / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

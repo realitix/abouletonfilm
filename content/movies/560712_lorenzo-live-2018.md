@@ -1,1 +1,0 @@
-{"tmdb_id": 560712, "title": "Lorenzo Live 2018", "original_title": "Lorenzo Live 2018", "slug_title": "lorenzo-live-2018", "date": "2018-06-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5r3mGFLFwenGCuZgWNSOl2rfzBU.jpg", "actors": ["Jovanotti ()"], "comments": [], "recommandations_id": []}

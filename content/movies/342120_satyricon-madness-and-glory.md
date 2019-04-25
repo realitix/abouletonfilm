@@ -1,1 +1,0 @@
-{"tmdb_id": 342120, "title": "Satyricon: Madness And Glory", "original_title": "Satyricon: Madness And Glory", "slug_title": "satyricon-madness-and-glory", "date": "2013-11-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

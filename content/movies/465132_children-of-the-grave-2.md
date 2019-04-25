@@ -1,1 +1,0 @@
-{"tmdb_id": 465132, "title": "Children of the Grave 2", "original_title": "Children of the Grave 2", "slug_title": "children-of-the-grave-2", "date": "2012-03-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/624knmXznbXtEY5g4aUA5TFcz5c.jpg", "actors": [], "comments": [], "recommandations_id": []}

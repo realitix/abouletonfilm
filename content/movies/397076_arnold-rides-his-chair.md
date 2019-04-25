@@ -1,1 +1,0 @@
-{"tmdb_id": 397076, "title": "Arnold Rides His Chair", "original_title": "Arnold Rides His Chair", "slug_title": "arnold-rides-his-chair", "date": "1991-08-28", "genre": "Animation / Com\u00e9die", "score": "7.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pHweQtVp6EM2DTvTxqc5r3JarUD.jpg", "actors": [], "comments": [], "recommandations_id": []}

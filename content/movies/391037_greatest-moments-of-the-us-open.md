@@ -1,1 +1,0 @@
-{"tmdb_id": 391037, "title": "Greatest Moments of the US Open", "original_title": "Greatest Moments of the US Open", "slug_title": "greatest-moments-of-the-us-open", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

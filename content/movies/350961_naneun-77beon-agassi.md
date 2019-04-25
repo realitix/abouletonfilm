@@ -1,1 +1,0 @@
-{"tmdb_id": 350961, "title": "\ub098\ub294 77\ubc88 \uc544\uac00\uc528", "original_title": "\ub098\ub294 77\ubc88 \uc544\uac00\uc528", "slug_title": "naneun-77beon-agassi", "date": "1978-11-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

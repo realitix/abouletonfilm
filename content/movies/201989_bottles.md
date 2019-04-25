@@ -1,1 +1,0 @@
-{"tmdb_id": 201989, "title": "Bottles", "original_title": "Bottles", "slug_title": "bottles", "date": "1936-01-11", "genre": "Horreur / Animation / Musique / Fantastique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6l46AmyrKwrdY62rZ4BF7CS5zVo.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 360948, "title": "Seven Mountains", "original_title": "Zevenbergen", "slug_title": "seven-mountains", "date": "2015-10-15", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Freek Verstraaten ()", "Niek Verstraaten ()", "Malou Appiah Aborah ()"], "comments": [], "recommandations_id": []}

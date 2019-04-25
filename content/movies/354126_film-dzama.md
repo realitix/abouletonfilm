@@ -1,1 +1,0 @@
-{"tmdb_id": 354126, "title": "Film(dzama)", "original_title": "Film(dzama)", "slug_title": "film-dzama", "date": "2001-08-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pE3LrJ6FxqAOeCdyywMJLAm1lf.jpg", "actors": [], "comments": [], "recommandations_id": []}

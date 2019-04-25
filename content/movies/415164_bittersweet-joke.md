@@ -1,1 +1,0 @@
-{"tmdb_id": 415164, "title": "Bittersweet Joke", "original_title": "Bittersweet Joke", "slug_title": "bittersweet-joke", "date": "2012-10-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x9zeodrqrpsmzhQX0FSuY4p13RP.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 289302, "title": "Prisoners of Conscience", "original_title": "Zameer ke Bandi", "slug_title": "prisoners-of-conscience", "date": "1978-03-29", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yss3sAPLlMaJEb3qO0sKqY4EtiS.jpg", "actors": [], "comments": [], "recommandations_id": []}

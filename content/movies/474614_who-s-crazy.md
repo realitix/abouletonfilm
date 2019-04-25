@@ -1,1 +1,0 @@
-{"tmdb_id": 474614, "title": "Who's Crazy", "original_title": "Who's Crazy", "slug_title": "who-s-crazy", "date": "1950-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 558154, "title": "Pelud\u00f3polis", "original_title": "Pelud\u00f3polis", "slug_title": "peludopolis", "date": "1931-09-16", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3cRz2aRIOcK9atmjXtC9guTd10x.jpg", "actors": [], "comments": [], "recommandations_id": []}

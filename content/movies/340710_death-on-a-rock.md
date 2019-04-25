@@ -1,1 +1,0 @@
-{"tmdb_id": 340710, "title": "Death on a Rock", "original_title": "Death on a Rock", "slug_title": "death-on-a-rock", "date": "2015-04-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7kTa2LzVmDYh77uHLDdpQ7VAtSq.jpg", "actors": [], "comments": [], "recommandations_id": []}

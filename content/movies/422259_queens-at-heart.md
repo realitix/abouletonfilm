@@ -1,1 +1,0 @@
-{"tmdb_id": 422259, "title": "Queens At Heart", "original_title": "Queens At Heart", "slug_title": "queens-at-heart", "date": "1967-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

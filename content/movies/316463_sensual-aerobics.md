@@ -1,1 +1,0 @@
-{"tmdb_id": 316463, "title": "Sensual Aerobics", "original_title": "Sensual Aerobics", "slug_title": "sensual-aerobics", "date": "2004-10-12", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2ztsYQ1yBkjJuVo6k9tq20TqrQ2.jpg", "actors": ["Cindy Kurleto (Herself)"], "comments": [], "recommandations_id": []}

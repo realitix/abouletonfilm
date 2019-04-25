@@ -1,1 +1,0 @@
-{"tmdb_id": 390091, "title": "Kabarett-Programm Nr. 1", "original_title": "Kabarett-Programm Nr. 1", "slug_title": "kabarett-programm-nr-1", "date": "1931-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Otto Wallburg ()", "Sig Arno ()", "Trude Berliner ()", "Fritz Beckmann ()"], "comments": [], "recommandations_id": []}

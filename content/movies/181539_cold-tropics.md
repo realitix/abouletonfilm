@@ -1,1 +1,0 @@
-{"tmdb_id": 181539, "title": "Cold Tropics", "original_title": "Recife Frio", "slug_title": "cold-tropics", "date": "2009-01-01", "genre": "Science-Fiction", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yrLJuJ60FpAMpzJLQnfdx7z1Cih.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 580916, "title": "Zulu Summer", "original_title": "Zulu Summer", "slug_title": "zulu-summer", "date": "2019-02-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2QuFDqcRtkxgOnzFmbkpgE4rD66.jpg", "actors": [], "comments": [], "recommandations_id": []}

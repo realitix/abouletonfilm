@@ -1,1 +1,0 @@
-{"tmdb_id": 552983, "title": "Fairfax Avenue", "original_title": "Fairfax Avenue", "slug_title": "fairfax-avenue", "date": "1951-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Janet Leigh ()", "Tony Curtis ()", "Dean Martin ()", "Jerry Lewis ()"], "comments": [], "recommandations_id": []}

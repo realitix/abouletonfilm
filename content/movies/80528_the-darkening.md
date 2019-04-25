@@ -1,1 +1,0 @@
-{"tmdb_id": 80528, "title": "The Darkening", "original_title": "The Darkening", "slug_title": "the-darkening", "date": "1995-01-01", "genre": "Horreur / Myst\u00e8re", "score": "1.7/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,1 @@
-{"tmdb_id": 322221, "title": "Nannavaru", "original_title": "Nannavaru", "slug_title": "nannavaru", "date": "1986-08-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 322221, "title": "Nannavaru", "original_title": "Nannavaru", "slug_title": "nannavaru", "date": "1986-08-26", "genre": [""], "score": "0.0/10", "synopsis": "1986 Indian Film", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

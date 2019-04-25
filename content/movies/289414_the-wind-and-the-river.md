@@ -1,1 +1,0 @@
-{"tmdb_id": 289414, "title": "The Wind and the River", "original_title": "Vinden och floden", "slug_title": "the-wind-and-the-river", "date": "1953-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

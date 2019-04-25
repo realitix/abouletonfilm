@@ -1,1 +1,0 @@
-{"tmdb_id": 24612, "title": "\u05d1\u05db\u05d1\u05d5\u05d3 \u05e9\u05dc\u05d9", "original_title": "\u05d1\u05db\u05d1\u05d5\u05d3 \u05e9\u05dc\u05d9", "slug_title": "bkbvd-shly", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

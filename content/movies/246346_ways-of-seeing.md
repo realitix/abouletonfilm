@@ -1,1 +1,0 @@
-{"tmdb_id": 246346, "title": "Ways of Seeing", "original_title": "Ways of Seeing", "slug_title": "ways-of-seeing", "date": "1972-01-30", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uI1e23GEdrxdw46CuXdF79asjKH.jpg", "actors": ["John Berger ()"], "comments": [], "recommandations_id": []}

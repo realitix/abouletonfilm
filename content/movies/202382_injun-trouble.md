@@ -1,1 +1,0 @@
-{"tmdb_id": 202382, "title": "Injun Trouble", "original_title": "Injun Trouble", "slug_title": "injun-trouble", "date": "1969-09-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iNZOlOzXJu2KAjRtjwXgOQSXf4W.jpg", "actors": ["Larry Storch (Cool Cat)"], "comments": [], "recommandations_id": []}

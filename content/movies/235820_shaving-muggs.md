@@ -1,1 +1,0 @@
-{"tmdb_id": 235820, "title": "Shaving Muggs", "original_title": "Shaving Muggs", "slug_title": "shaving-muggs", "date": "1953-10-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

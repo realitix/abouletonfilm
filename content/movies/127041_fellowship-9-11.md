@@ -1,1 +1,0 @@
-{"tmdb_id": 127041, "title": "Fellowship 9/11", "original_title": "Fellowship 9/11", "slug_title": "fellowship-9-11", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

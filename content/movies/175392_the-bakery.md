@@ -1,1 +1,0 @@
-{"tmdb_id": 175392, "title": "The Bakery", "original_title": "The Bakery", "slug_title": "the-bakery", "date": "1921-06-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Larry Semon (Larry, a Bakery Clerk)", "Oliver Hardy (Foreman)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 578909, "title": "Nun with a Gun", "original_title": "Nun with a Gun", "slug_title": "nun-with-a-gun", "date": "2008-10-31", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

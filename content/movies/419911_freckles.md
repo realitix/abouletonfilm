@@ -1,1 +1,0 @@
-{"tmdb_id": 419911, "title": "Freckles", "original_title": "Freckles", "slug_title": "freckles", "date": "1912-12-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["John Bunny (Mr. John)", "Flora Finch (Madame Legrand)", "Julia Swayne Gordon (Mrs. John)"], "comments": [], "recommandations_id": []}

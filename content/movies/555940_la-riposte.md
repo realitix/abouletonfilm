@@ -1,1 +1,1 @@
-{"tmdb_id": 555940, "title": "La riposte", "original_title": "La riposte", "slug_title": "la-riposte", "date": "1922-12-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 555940, "title": "La riposte", "original_title": "La riposte", "slug_title": "la-riposte", "date": "1922-12-20", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,1 +1,0 @@
-{"tmdb_id": 469972, "title": "Self Decapitation", "original_title": "Self Decapitation", "slug_title": "self-decapitation", "date": "2017-04-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xYXmUxcHJZbVtw3RMD15yvXsjUG.jpg", "actors": [], "comments": [], "recommandations_id": []}

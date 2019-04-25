@@ -1,1 +1,0 @@
-{"tmdb_id": 380509, "title": "Bakya Mo Neneng", "original_title": "Bakya Mo Neneng", "slug_title": "bakya-mo-neneng", "date": "1977-12-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dyU2PiBsTJ21e78kDS8jrYGUqAK.jpg", "actors": [], "comments": [], "recommandations_id": []}

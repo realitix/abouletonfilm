@@ -1,1 +1,0 @@
-{"tmdb_id": 270429, "title": "The Spectre of Marxism", "original_title": "The Spectre of Marxism", "slug_title": "the-spectre-of-marxism", "date": "1983-10-15", "genre": "Histoire / Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j2Eyz7hL7lSIwyNdqCrsTjDTQsL.jpg", "actors": [], "comments": [], "recommandations_id": []}

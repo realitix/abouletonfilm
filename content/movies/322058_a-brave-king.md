@@ -1,1 +1,0 @@
-{"tmdb_id": 322058, "title": "A Brave King", "original_title": "Yongsa-wang", "slug_title": "a-brave-king", "date": "1976-12-10", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bjT7acugtlnyBEMbnlCVAlQUOCG.jpg", "actors": ["Bang Hui-jeong ()", "Kim Jong-suk ()"], "comments": [], "recommandations_id": []}

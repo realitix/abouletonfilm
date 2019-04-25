@@ -1,1 +1,0 @@
-{"tmdb_id": 88520, "title": "Spooks", "original_title": "Spooks", "slug_title": "spooks", "date": "1930-07-13", "genre": "Animation", "score": "6.2/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pinto Colvig (Hippo)"], "comments": [], "recommandations_id": []}

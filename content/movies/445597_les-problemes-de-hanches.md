@@ -1,1 +1,0 @@
-{"tmdb_id": 445597, "title": "Les probl\u00e8mes de hanches", "original_title": "Les probl\u00e8mes de hanches", "slug_title": "les-problemes-de-hanches", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

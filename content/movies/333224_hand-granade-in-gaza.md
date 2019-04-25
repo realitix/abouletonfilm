@@ -1,1 +1,0 @@
-{"tmdb_id": 333224, "title": "Hand Granade in Gaza", "original_title": "Rimon Be'aza", "slug_title": "hand-granade-in-gaza", "date": "1970-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

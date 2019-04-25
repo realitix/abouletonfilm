@@ -1,1 +1,0 @@
-{"tmdb_id": 190000, "title": "In the Shadow of the Machine", "original_title": "Im Schatten der Maschine", "slug_title": "in-the-shadow-of-the-machine", "date": "1928-11-09", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2oWgdECUkkMLbm4qjXkAz1bK7ck.jpg", "actors": [], "comments": [], "recommandations_id": []}

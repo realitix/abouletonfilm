@@ -1,1 +1,0 @@
-{"tmdb_id": 407958, "title": "Emmeline", "original_title": "Emmeline", "slug_title": "emmeline", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jasmine Woodcock-Stewart (Emmeline)", "Richard Perryman (Edward)"], "comments": [], "recommandations_id": []}

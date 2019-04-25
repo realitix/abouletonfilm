@@ -1,1 +1,0 @@
-{"tmdb_id": 437010, "title": "Youth of Today", "original_title": "Youth of Today", "slug_title": "youth-of-today", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

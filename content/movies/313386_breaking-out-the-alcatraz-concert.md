@@ -1,1 +1,0 @@
-{"tmdb_id": 313386, "title": "Breaking Out: The Alcatraz Concert", "original_title": "Breaking Out: The Alcatraz Concert", "slug_title": "breaking-out-the-alcatraz-concert", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Too $hort ()"], "comments": [], "recommandations_id": []}

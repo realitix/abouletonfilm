@@ -1,1 +1,0 @@
-{"tmdb_id": 349599, "title": "\ub55c\uc7a5\uc774 \uc544\ub0b4", "original_title": "\ub55c\uc7a5\uc774 \uc544\ub0b4", "slug_title": "ddaemjangi-anae", "date": "1983-10-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

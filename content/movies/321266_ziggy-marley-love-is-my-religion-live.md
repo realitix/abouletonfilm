@@ -1,1 +1,0 @@
-{"tmdb_id": 321266, "title": "Ziggy Marley: Love Is My Religion: Live", "original_title": "Ziggy Marley: Love Is My Religion: Live", "slug_title": "ziggy-marley-love-is-my-religion-live", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

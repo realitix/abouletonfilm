@@ -1,1 +1,0 @@
-{"tmdb_id": 555700, "title": "Trois familles", "original_title": "Trois familles", "slug_title": "trois-familles", "date": "1919-01-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

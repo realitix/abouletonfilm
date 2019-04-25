@@ -1,1 +1,0 @@
-{"tmdb_id": 333474, "title": "Samanta", "original_title": "Samanta", "slug_title": "samanta", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 129324, "title": "Cypress Hill - Still Smokin'", "original_title": "Cypress Hill - Still Smokin'", "slug_title": "cypress-hill-still-smokin", "date": "2001-01-08", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rmDbaZcENEtzeFlzYCuwbjNDlcj.jpg", "actors": [], "comments": [], "recommandations_id": []}

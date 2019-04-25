@@ -1,1 +1,0 @@
-{"tmdb_id": 552326, "title": "Fragments of a Journey to Laos", "original_title": "Fragments of a Journey to Laos", "slug_title": "fragments-of-a-journey-to-laos", "date": "2008-06-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pLd84h3lg48UjZTY6Orp4LtTwqI.jpg", "actors": [], "comments": [], "recommandations_id": []}

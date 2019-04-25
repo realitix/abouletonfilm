@@ -1,1 +1,0 @@
-{"tmdb_id": 338956, "title": "Untitled Good Shepherd Sequel", "original_title": "Untitled Good Shepherd Sequel", "slug_title": "untitled-good-shepherd-sequel", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

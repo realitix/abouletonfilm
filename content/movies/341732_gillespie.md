@@ -1,1 +1,0 @@
-{"tmdb_id": 341732, "title": "Gillespie", "original_title": "Gillespie", "slug_title": "gillespie", "date": "2010-07-26", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Peter Marquardt (Gillespie)", "Michael S. Wilson (Peddler)"], "comments": [], "recommandations_id": []}

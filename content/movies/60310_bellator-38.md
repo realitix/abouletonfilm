@@ -1,1 +1,0 @@
-{"tmdb_id": 60310, "title": "Bellator 38", "original_title": "Bellator 38", "slug_title": "bellator-38", "date": "2011-03-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x5WWKHI55O5lhIgdeZ12AACHW6Y.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 366485, "title": "Sevgi \u00c7\u0131kmaz\u0131", "original_title": "Sevgi \u00c7\u0131kmaz\u0131", "slug_title": "sevgi-cikmazi", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kadir \u0130nan\u0131r ()"], "comments": [], "recommandations_id": []}

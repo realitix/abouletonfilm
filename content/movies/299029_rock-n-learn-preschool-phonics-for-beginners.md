@@ -1,1 +1,0 @@
-{"tmdb_id": 299029, "title": "Rock 'N Learn: PreSchool! - Phonics for Beginners", "original_title": "Rock 'N Learn: PreSchool! - Phonics for Beginners", "slug_title": "rock-n-learn-preschool-phonics-for-beginners", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

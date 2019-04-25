@@ -1,1 +1,0 @@
-{"tmdb_id": 594215, "title": "Winter Love", "original_title": "\uaca8\uc6b8\uc0ac\ub791", "slug_title": "winter-love", "date": "1980-12-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fkZ2ETzBApCZ8u0BublbBk0xKE3.jpg", "actors": ["Chang Mi-hee ()", "Lee Young-ha ()"], "comments": [], "recommandations_id": []}

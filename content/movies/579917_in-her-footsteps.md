@@ -1,1 +1,0 @@
-{"tmdb_id": 579917, "title": "In Her Footsteps", "original_title": "Acharayich", "slug_title": "in-her-footsteps", "date": "2017-07-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b3ZUIQE6sqeGTJdez7Jfo4IWC47.jpg", "actors": [], "comments": [], "recommandations_id": []}

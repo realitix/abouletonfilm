@@ -1,1 +1,0 @@
-{"tmdb_id": 593612, "title": "For Years to Come", "original_title": "For Years to Come", "slug_title": "for-years-to-come", "date": "1944-04-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gordon Zimmerman (Narration (voice))", "Lee Vickers (Narrator (voice))"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 321551, "title": "Partner With The Enemy", "original_title": "Partner With The Enemy", "slug_title": "partner-with-the-enemy", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hfcF1fhAmCTgU7qMJ4jyXFRYxeB.jpg", "actors": [], "comments": [], "recommandations_id": []}

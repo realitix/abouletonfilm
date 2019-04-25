@@ -1,1 +1,0 @@
-{"tmdb_id": 568995, "title": "The Skin of the Teeth", "original_title": "The Skin of the Teeth", "slug_title": "the-skin-of-the-teeth", "date": "2018-10-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/auJmAJlIfbS0KPqCBx0P4iUS0GR.jpg", "actors": [], "comments": [], "recommandations_id": []}

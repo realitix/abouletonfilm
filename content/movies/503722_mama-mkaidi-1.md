@@ -1,1 +1,0 @@
-{"tmdb_id": 503722, "title": "Mama Mkaidi  1", "original_title": "Mama Mkaidi  1", "slug_title": "mama-mkaidi-1", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d5BLqMOsfbOxfJGaVGRhp1PypCs.jpg", "actors": ["Fred Neyo'o (Fred)"], "comments": [], "recommandations_id": []}

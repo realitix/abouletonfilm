@@ -1,1 +1,0 @@
-{"tmdb_id": 375014, "title": "Irie Revoltes - Live", "original_title": "Irie Revoltes - Live", "slug_title": "irie-revoltes-live", "date": "2012-05-18", "genre": "Musique", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uz3qvUKlCXv4aZ9VmtQT8iMHGkH.jpg", "actors": [], "comments": [], "recommandations_id": []}

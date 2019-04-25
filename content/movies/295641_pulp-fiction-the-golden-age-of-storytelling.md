@@ -1,1 +1,0 @@
-{"tmdb_id": 295641, "title": "Pulp Fiction: the Golden Age of Storytelling", "original_title": "Pulp Fiction: the Golden Age of Storytelling", "slug_title": "pulp-fiction-the-golden-age-of-storytelling", "date": "2009-01-01", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

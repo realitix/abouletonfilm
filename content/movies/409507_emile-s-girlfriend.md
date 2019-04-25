@@ -1,1 +1,0 @@
-{"tmdb_id": 409507, "title": "Emile's Girlfriend", "original_title": "Ha-Chavera Shell Emile", "slug_title": "emile-s-girlfriend", "date": "2006-01-01", "genre": "", "score": "4.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xKZXuJjWOAsDCmVMHcUHPVaRZby.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 157669, "title": "Olvidados", "original_title": "Olvidados", "slug_title": "olvidados", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zg8uudw66sa5Y2AHEdYR2vTLVeJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

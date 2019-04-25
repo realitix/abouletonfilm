@@ -1,1 +1,0 @@
-{"tmdb_id": 505131, "title": "Suite for Freedom", "original_title": "Suite for Freedom", "slug_title": "suite-for-freedom", "date": "2004-02-13", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jmCqLHmH43hn9MYCmd8gfYjCM7P.jpg", "actors": [], "comments": [], "recommandations_id": []}

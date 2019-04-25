@@ -1,1 +1,0 @@
-{"tmdb_id": 592798, "title": "The Bare Necessity", "original_title": "Perdrix", "slug_title": "the-bare-necessity", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Swann Arlaud ()", "Maud Wyler ()", "Nicolas Maury ()", "Fanny Ardant ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 313765, "title": "Hollywood: The Dream Factory", "original_title": "Hollywood: The Dream Factory", "slug_title": "hollywood-the-dream-factory", "date": "1972-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dick Cavett (Himself - Narrator (voice))"], "comments": [], "recommandations_id": []}

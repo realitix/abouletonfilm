@@ -1,1 +1,0 @@
-{"tmdb_id": 439696, "title": "\u041f\u043e\u0434\u0430\u0440\u043e\u043a", "original_title": "\u041f\u043e\u0434\u0430\u0440\u043e\u043a", "slug_title": "podarok", "date": "1968-02-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zjVyGLta6Z9ZgzMo8PyCo2fGqGx.jpg", "actors": [], "comments": [], "recommandations_id": []}

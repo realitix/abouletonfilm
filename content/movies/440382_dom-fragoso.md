@@ -1,1 +1,0 @@
-{"tmdb_id": 440382, "title": "Dom Fragoso", "original_title": "Dom Fragoso", "slug_title": "dom-fragoso", "date": "2011-02-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1nh9LYpRI9EKYeRyr8vWsrVq2hd.jpg", "actors": [], "comments": [], "recommandations_id": []}

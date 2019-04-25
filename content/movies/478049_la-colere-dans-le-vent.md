@@ -1,1 +1,0 @@
-{"tmdb_id": 478049, "title": "La Col\u00e8re dans le vent", "original_title": "La Col\u00e8re dans le vent", "slug_title": "la-colere-dans-le-vent", "date": "2016-08-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cOmdfIt4rN5LB7br5ac53Gi8SYt.jpg", "actors": [], "comments": [], "recommandations_id": []}

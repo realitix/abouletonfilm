@@ -1,1 +1,0 @@
-{"tmdb_id": 532759, "title": "Assassins of Brotherhood", "original_title": "\u4e5d\u95e8\u63d0\u7763", "slug_title": "assassins-of-brotherhood", "date": "2018-06-22", "genre": "Action / Histoire", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oZc0bwSq4yFf7YVx3ZWiqxSN6Ec.jpg", "actors": [], "comments": [], "recommandations_id": []}

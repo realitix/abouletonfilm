@@ -1,1 +1,0 @@
-{"tmdb_id": 424133, "title": "Feast of the Vampires", "original_title": "Feast of the Vampires", "slug_title": "feast-of-the-vampires", "date": "2010-02-09", "genre": "Com\u00e9die / Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eMP2WxTVN7r62rBsy6H50R5wWze.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 455976, "title": "JANE'S HOUSE", "original_title": "JANE'S HOUSE", "slug_title": "jane-s-house", "date": "1994-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["James Woods (Paul Clark)", "Anne Archer (Mary Parker)"], "comments": [], "recommandations_id": []}

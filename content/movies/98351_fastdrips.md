@@ -1,1 +1,0 @@
-{"tmdb_id": 98351, "title": "Fastdrips", "original_title": "Fastdrips", "slug_title": "fastdrips", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vGEmmuYZO79yh5vulez9HT27dT1.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 414405, "title": "Shipwrecked", "original_title": "Shipwrecked", "slug_title": "shipwrecked", "date": "2005-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1LtfC0vBA7RfU3fSa7H0Wzdwj45.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 533107, "title": "Skids and Scalawags", "original_title": "Skids and Scalawags", "slug_title": "skids-and-scalawags", "date": "1918-07-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

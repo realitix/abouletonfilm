@@ -1,1 +1,0 @@
-{"tmdb_id": 85210, "title": "Damned in the U.S.A.", "original_title": "Damned in the U.S.A.", "slug_title": "damned-in-the-u-s-a", "date": "1992-11-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/49M8IHVWW28ClvHWxB23IGJJ5Xy.jpg", "actors": [], "comments": [], "recommandations_id": []}

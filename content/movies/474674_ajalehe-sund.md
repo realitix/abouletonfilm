@@ -1,1 +1,0 @@
-{"tmdb_id": 474674, "title": "Ajalehe s\u00fcnd", "original_title": "Ajalehe s\u00fcnd", "slug_title": "ajalehe-sund", "date": "1935-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

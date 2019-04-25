@@ -1,1 +1,0 @@
-{"tmdb_id": 568606, "title": "Star Trek: Aliens", "original_title": "Star Trek: Aliens", "slug_title": "star-trek-aliens", "date": "2009-11-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

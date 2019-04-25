@@ -1,1 +1,0 @@
-{"tmdb_id": 470138, "title": "My Dear Karady", "original_title": "My Dear Karady", "slug_title": "my-dear-karady", "date": "", "genre": "", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 506708, "title": "Vicky the Victim", "original_title": "Vicky the Victim", "slug_title": "vicky-the-victim", "date": "2012-04-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Al0P4dgQVeo8LbA8SghSOiKgisv.jpg", "actors": [], "comments": [], "recommandations_id": []}

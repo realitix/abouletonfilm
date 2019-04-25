@@ -1,1 +1,0 @@
-{"tmdb_id": 219841, "title": "Spirit Warrior", "original_title": "Spirit Warrior", "slug_title": "spirit-warrior", "date": "1994-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lukas Haas ()", "Alain Lalanne ()", "Jimmy Herman ()"], "comments": [], "recommandations_id": []}

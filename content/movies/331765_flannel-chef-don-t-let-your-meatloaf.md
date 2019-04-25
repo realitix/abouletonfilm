@@ -1,1 +1,0 @@
-{"tmdb_id": 331765, "title": "Flannel Chef \"Don't let your Meatloaf\"", "original_title": "Flannel Chef \"Don't let your Meatloaf\"", "slug_title": "flannel-chef-don-t-let-your-meatloaf", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 439932, "title": "Hist\u00f3rias por Telefone", "original_title": "Hist\u00f3rias por Telefone", "slug_title": "historias-por-telefone", "date": "2017-02-05", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Fernanda Castello Branco ()", "Julia Ianina ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 165081, "title": "A Strange Marriage Part 1", "original_title": "K\u00fcl\u00f6n\u00f6s h\u00e1zass\u00e1g 1.r\u00e9sz", "slug_title": "a-strange-marriage-part-1", "date": "1984-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

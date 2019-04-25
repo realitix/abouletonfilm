@@ -1,1 +1,1 @@
-{"tmdb_id": 555070, "title": "Cosa che fugge", "original_title": "Cosa che fugge", "slug_title": "cosa-che-fugge", "date": "2008-11-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 555070, "title": "Cosa che fugge", "original_title": "Cosa che fugge", "slug_title": "cosa-che-fugge", "date": "2008-11-19", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

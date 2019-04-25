@@ -1,1 +1,0 @@
-{"tmdb_id": 506143, "title": "Los Natas: Matadero", "original_title": "Los Natas: Matadero", "slug_title": "los-natas-matadero", "date": "2013-02-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/77JbHquCGUpkOacp4OnEX2rx4KX.jpg", "actors": [], "comments": [], "recommandations_id": []}

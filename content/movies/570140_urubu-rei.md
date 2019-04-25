@@ -1,1 +1,0 @@
-{"tmdb_id": 570140, "title": "Urubu-rei", "original_title": "Urubu-rei", "slug_title": "urubu-rei", "date": "2018-12-07", "genre": "Drame / Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zfdze504PHfoPTw7hdzzFsIoZ8u.jpg", "actors": [], "comments": [], "recommandations_id": []}

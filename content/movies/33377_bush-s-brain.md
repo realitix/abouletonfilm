@@ -1,1 +1,0 @@
-{"tmdb_id": 33377, "title": "Bush's Brain", "original_title": "Bush's Brain", "slug_title": "bush-s-brain", "date": "2004-03-13", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zvMUPlYO0a61LHq3yftTHBJipde.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 551514, "title": "Any Man's Kingdom", "original_title": "Any Man's Kingdom", "slug_title": "any-man-s-kingdom", "date": "1956-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

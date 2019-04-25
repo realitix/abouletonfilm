@@ -1,1 +1,0 @@
-{"tmdb_id": 196562, "title": "Usine \u00e0 Astrakhan", "original_title": "Usine \u00e0 Astrakhan", "slug_title": "usine-a-astrakhan", "date": "1908-06-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

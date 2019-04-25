@@ -1,1 +1,0 @@
-{"tmdb_id": 411068, "title": "\u00c4ngelen", "original_title": "\u00c4ngelen", "slug_title": "angelen", "date": "", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lQNdTNCBSWcdz5G1LvqJlmolVkA.jpg", "actors": ["Cecilia Frode ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 422578, "title": "Jump Jilani", "original_title": "Jump Jilani", "slug_title": "jump-jilani", "date": "2014-06-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sYxxbWVMe8X7jOK37tOZNG3Uk30.jpg", "actors": ["Allari Naresh ()", "Isha Chawla ()"], "comments": [], "recommandations_id": []}

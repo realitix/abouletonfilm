@@ -1,1 +1,0 @@
-{"tmdb_id": 391155, "title": "Amargosa", "original_title": "Amargosa", "slug_title": "amargosa", "date": "2000-04-16", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xzvSFjriuqQo27zhCcSibnKp7IG.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 528576, "title": "Lucky Luke og de lovl\u00f8se", "original_title": "Lucky Luke og de lovl\u00f8se", "slug_title": "lucky-luke-og-de-lovlose", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

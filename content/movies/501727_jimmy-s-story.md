@@ -1,1 +1,0 @@
-{"tmdb_id": 501727, "title": "Jimmy's Story", "original_title": "Jimmy's Story", "slug_title": "jimmy-s-story", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nL6R9FAfxkb9gUvFdKsQovfkO6J.jpg", "actors": [], "comments": [], "recommandations_id": []}

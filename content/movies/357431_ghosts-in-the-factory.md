@@ -1,1 +1,0 @@
-{"tmdb_id": 357431, "title": "Ghosts in the Factory", "original_title": "Les fant\u00f4mes de l'usine", "slug_title": "ghosts-in-the-factory", "date": "2014-08-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Yanis Bahloul (Narrator (voice))", "Reda Kateb (Narrator (voice))"], "comments": [], "recommandations_id": []}

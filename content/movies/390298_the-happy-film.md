@@ -1,1 +1,0 @@
-{"tmdb_id": 390298, "title": "The Happy Film", "original_title": "The Happy Film", "slug_title": "the-happy-film", "date": "2016-04-16", "genre": "Documentaire", "score": "7.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4LLGQt1PDX12IpqjoVJKbYULsUX.jpg", "actors": [], "comments": [], "recommandations_id": []}

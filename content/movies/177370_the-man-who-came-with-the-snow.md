@@ -1,1 +1,0 @@
-{"tmdb_id": 177370, "title": "The Man Who Came with the Snow", "original_title": "The Man Who Came with the Snow", "slug_title": "the-man-who-came-with-the-snow", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

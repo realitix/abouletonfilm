@@ -1,1 +1,0 @@
-{"tmdb_id": 271455, "title": "Le C\u0153ur et la raison", "original_title": "Le C\u0153ur et la raison", "slug_title": "le-coeur-et-la-raison", "date": "1999-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

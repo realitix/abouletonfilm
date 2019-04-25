@@ -1,1 +1,0 @@
-{"tmdb_id": 492073, "title": "A Family\u2019s Spirit", "original_title": "A Family\u2019s Spirit", "slug_title": "a-familys-spirit", "date": "2016-12-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

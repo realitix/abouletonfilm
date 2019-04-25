@@ -1,1 +1,0 @@
-{"tmdb_id": 322306, "title": "Eine Reise in das Innere von Wien", "original_title": "Eine Reise in das Innere von Wien", "slug_title": "eine-reise-in-das-innere-von-wien", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

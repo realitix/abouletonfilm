@@ -1,1 +1,0 @@
-{"tmdb_id": 131484, "title": "Under the Bridge", "original_title": "Da qiao xia mian", "slug_title": "under-the-bridge", "date": "1984-01-01", "genre": "Romance", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wox1kGtUsRQ93lrm7OXTBvdz9bY.jpg", "actors": ["Xue Gong ()", "Zhang Tielin ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 274055, "title": "The Legend of Hercules", "original_title": "The Legend of Hercules", "slug_title": "the-legend-of-hercules", "date": "1996-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

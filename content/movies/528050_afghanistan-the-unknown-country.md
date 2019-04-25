@@ -1,1 +1,0 @@
-{"tmdb_id": 528050, "title": "Afghanistan: The Unknown Country", "original_title": "Afghanistan: The Unknown Country", "slug_title": "afghanistan-the-unknown-country", "date": "2011-07-06", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lyse Doucet (Herself - Presenter)"], "comments": [], "recommandations_id": []}

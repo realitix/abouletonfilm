@@ -1,1 +1,0 @@
-{"tmdb_id": 465087, "title": "Dreams and Nightmares", "original_title": "Dreams and Nightmares", "slug_title": "dreams-and-nightmares", "date": "1974-07-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

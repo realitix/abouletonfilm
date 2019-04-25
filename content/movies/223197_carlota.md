@@ -1,1 +1,0 @@
-{"tmdb_id": 223197, "title": "Carlota", "original_title": "Carlota", "slug_title": "carlota", "date": "2013-09-17", "genre": "Com\u00e9die / Romance", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5HvrIG3feXCB1C8PmTTzppGlmoF.jpg", "actors": ["Xabi Tolosa (\u00c9l)"], "comments": [], "recommandations_id": []}

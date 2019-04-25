@@ -1,1 +1,0 @@
-{"tmdb_id": 323893, "title": "Finch: What It Is To Burn - X", "original_title": "Finch: What It Is To Burn - X", "slug_title": "finch-what-it-is-to-burn-x", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

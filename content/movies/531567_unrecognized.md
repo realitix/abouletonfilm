@@ -1,1 +1,0 @@
-{"tmdb_id": 531567, "title": "Unrecognized", "original_title": "Nepoznan\u00fd", "slug_title": "unrecognized", "date": "1980-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 127898, "title": "Miscalculation", "original_title": "Emelet", "slug_title": "miscalculation", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 575034, "title": "Sanibel", "original_title": "Sanibel", "slug_title": "sanibel", "date": "1978-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 99750, "title": "Shanghai Trance", "original_title": "Shanghai Trance", "slug_title": "shanghai-trance", "date": "2008-10-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gNaBQEn1zP8fz9YDZsrz8Pl3CnP.jpg", "actors": [], "comments": [], "recommandations_id": []}

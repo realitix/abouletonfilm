@@ -1,1 +1,0 @@
-{"tmdb_id": 166930, "title": "Mabuse in Mind", "original_title": "Dr. Mabuse im Ged\u00e4chtnis", "slug_title": "mabuse-in-mind", "date": "1985-02-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rudolf Sch\u00fcndler ()"], "comments": [], "recommandations_id": []}

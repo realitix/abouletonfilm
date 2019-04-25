@@ -1,1 +1,0 @@
-{"tmdb_id": 574619, "title": "Passage des petit M\u00e9tiers", "original_title": "Passage des petit M\u00e9tiers", "slug_title": "passage-des-petit-metiers", "date": "1990-01-01", "genre": "", "score": "0.0/10", "synopsis": "Un film de Jakobois", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

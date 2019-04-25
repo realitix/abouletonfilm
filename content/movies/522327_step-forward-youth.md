@@ -1,1 +1,0 @@
-{"tmdb_id": 522327, "title": "Step Forward Youth", "original_title": "Step Forward Youth", "slug_title": "step-forward-youth", "date": "1977-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3prURayhn3qPzXPgvqLDDuuSoLQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

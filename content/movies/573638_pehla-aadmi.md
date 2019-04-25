@@ -1,1 +1,0 @@
-{"tmdb_id": 573638, "title": "Pehla Aadmi", "original_title": "Pehla Aadmi", "slug_title": "pehla-aadmi", "date": "1950-06-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Smriti Biswas ()", "Pahari Sanyal ()", "Balraj ()", "Ashita Bose ()"], "comments": [], "recommandations_id": []}

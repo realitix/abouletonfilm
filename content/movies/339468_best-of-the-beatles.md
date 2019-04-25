@@ -1,1 +1,0 @@
-{"tmdb_id": 339468, "title": "Best Of The Beatles", "original_title": "Best Of The Beatles", "slug_title": "best-of-the-beatles", "date": "2005-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/35EMMFWETcgrmtrt26h6zjTu8ID.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 285416, "title": "A Nation Awakens", "original_title": "Bir millet uyaniyor", "slug_title": "a-nation-awakens", "date": "1932-12-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Erc\u00fcment Behzat Lav ()", "Emel Riza ()", "Nasit \u00d6zcan ()"], "comments": [], "recommandations_id": []}

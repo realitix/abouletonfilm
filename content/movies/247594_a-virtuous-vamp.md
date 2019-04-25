@@ -1,1 +1,0 @@
-{"tmdb_id": 247594, "title": "A Virtuous Vamp", "original_title": "A Virtuous Vamp", "slug_title": "a-virtuous-vamp", "date": "1919-11-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1OTbu6Jvx2JY4kt9Qgb5gXvviba.jpg", "actors": ["Constance  Talmadge ()"], "comments": [], "recommandations_id": []}

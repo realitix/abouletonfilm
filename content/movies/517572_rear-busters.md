@@ -1,1 +1,0 @@
-{"tmdb_id": 517572, "title": "Rear Busters", "original_title": "Rear Busters", "slug_title": "rear-busters", "date": "1988-04-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Andrea Brittian ()", "Buffy Davis ()", "Bunny Bleu ()", "Ginger Lynn Allen ()", "Cara Lott ()"], "comments": [], "recommandations_id": []}

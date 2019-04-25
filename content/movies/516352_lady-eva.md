@@ -1,1 +1,0 @@
-{"tmdb_id": 516352, "title": "Lady Eva", "original_title": "Lady Eva", "slug_title": "lady-eva", "date": "2017-06-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

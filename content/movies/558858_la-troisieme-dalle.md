@@ -1,1 +1,0 @@
-{"tmdb_id": 558858, "title": "La troisi\u00e8me dalle", "original_title": "La troisi\u00e8me dalle", "slug_title": "la-troisieme-dalle", "date": "1946-10-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

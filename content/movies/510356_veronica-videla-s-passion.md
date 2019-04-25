@@ -1,1 +1,0 @@
-{"tmdb_id": 510356, "title": "Veronica Videla's Passion", "original_title": "La Pasi\u00f3n de Ver\u00f3nica Videla", "slug_title": "veronica-videla-s-passion", "date": "2014-09-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f0Qdv8roS8F9vsbbNrkJ2tbg8VN.jpg", "actors": [], "comments": [], "recommandations_id": []}

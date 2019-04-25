@@ -1,1 +1,0 @@
-{"tmdb_id": 270801, "title": "Four Seasons", "original_title": "Four Seasons", "slug_title": "four-seasons", "date": "2014-01-01", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

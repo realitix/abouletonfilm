@@ -1,1 +1,0 @@
-{"tmdb_id": 349870, "title": "\uc601\uc790\uc758 \uc804\uc131\uc2dc\ub300(\uc18d)", "original_title": "\uc601\uc790\uc758 \uc804\uc131\uc2dc\ub300(\uc18d)", "slug_title": "yeongjayi-jeonseongsidae-sog", "date": "1982-05-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

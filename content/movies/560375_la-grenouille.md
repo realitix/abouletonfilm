@@ -1,1 +1,0 @@
-{"tmdb_id": 560375, "title": "La grenouille", "original_title": "La grenouille", "slug_title": "la-grenouille", "date": "1911-11-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

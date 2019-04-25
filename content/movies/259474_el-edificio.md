@@ -1,1 +1,0 @@
-{"tmdb_id": 259474, "title": "El Edificio", "original_title": "El Edificio", "slug_title": "el-edificio", "date": "2013-10-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8CRFsYUSgjfts2xZYuShc6PVz8A.jpg", "actors": [], "comments": [], "recommandations_id": []}

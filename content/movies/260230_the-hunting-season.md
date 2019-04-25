@@ -1,1 +1,0 @@
-{"tmdb_id": 260230, "title": "The Hunting Season", "original_title": "The Hunting Season", "slug_title": "the-hunting-season", "date": "1935-08-19", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gGGL6qBoPPoTxnt7kasQD1wjFIW.jpg", "actors": [], "comments": [], "recommandations_id": []}

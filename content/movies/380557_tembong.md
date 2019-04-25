@@ -1,1 +1,0 @@
-{"tmdb_id": 380557, "title": "Tembong", "original_title": "Tembong", "slug_title": "tembong", "date": "1980-12-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aRxSpoxbCBynpyGADWXep1f2IWU.jpg", "actors": [], "comments": [], "recommandations_id": []}

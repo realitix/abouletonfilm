@@ -1,1 +1,0 @@
-{"tmdb_id": 462534, "title": "As They See Bob", "original_title": "As They See Bob", "slug_title": "as-they-see-bob", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j6JvO1uzxH0E2xoslyHfmwfJBnr.jpg", "actors": [], "comments": [], "recommandations_id": []}

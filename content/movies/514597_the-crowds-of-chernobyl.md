@@ -1,1 +1,0 @@
-{"tmdb_id": 514597, "title": "The Crowds of Chernobyl", "original_title": "The Crowds of Chernobyl", "slug_title": "the-crowds-of-chernobyl", "date": "2018-03-27", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ts5b46n7dxEueqmPpgk6jTc03rG.jpg", "actors": [], "comments": [], "recommandations_id": []}

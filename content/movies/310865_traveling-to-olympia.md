@@ -1,1 +1,0 @@
-{"tmdb_id": 310865, "title": "Traveling to Olympia", "original_title": "Traveling to Olympia", "slug_title": "traveling-to-olympia", "date": "2001-01-01", "genre": "", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xdMu4bHyp3epeNnClhMQIc52mWn.jpg", "actors": [], "comments": [], "recommandations_id": []}

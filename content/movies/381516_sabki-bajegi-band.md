@@ -1,1 +1,0 @@
-{"tmdb_id": 381516, "title": "Sabki Bajegi Band", "original_title": "Sabki Bajegi Band", "slug_title": "sabki-bajegi-band", "date": "2015-05-01", "genre": "Com\u00e9die / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xRiqjAr2jH7avrpLQBaY6PLR3Rn.jpg", "actors": [], "comments": [], "recommandations_id": []}

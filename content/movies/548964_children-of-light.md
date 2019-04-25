@@ -1,1 +1,0 @@
-{"tmdb_id": 548964, "title": "Children of Light", "original_title": "Children of Light", "slug_title": "children-of-light", "date": "1969-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

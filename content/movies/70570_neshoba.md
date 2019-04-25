@@ -1,1 +1,0 @@
-{"tmdb_id": 70570, "title": "Neshoba", "original_title": "Neshoba", "slug_title": "neshoba", "date": "2010-08-15", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zW7Ne8PNUURfu1rF1kwQgegN4O7.jpg", "actors": [], "comments": [], "recommandations_id": []}

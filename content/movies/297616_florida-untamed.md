@@ -1,1 +1,0 @@
-{"tmdb_id": 297616, "title": "Florida Untamed", "original_title": "Florida Untamed", "slug_title": "florida-untamed", "date": "2014-04-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

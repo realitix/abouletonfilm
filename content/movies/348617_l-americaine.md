@@ -1,1 +1,0 @@
-{"tmdb_id": 348617, "title": "L'Am\u00e9ricaine", "original_title": "L'Am\u00e9ricaine", "slug_title": "l-americaine", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

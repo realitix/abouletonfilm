@@ -1,1 +1,0 @@
-{"tmdb_id": 453082, "title": "Nightstill", "original_title": "Nightstill", "slug_title": "nightstill", "date": "2007-04-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/khp6FKP1PHaB2WKcqcvo8fkYv1Z.jpg", "actors": [], "comments": [], "recommandations_id": []}

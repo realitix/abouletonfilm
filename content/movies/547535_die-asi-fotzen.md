@@ -1,1 +1,1 @@
-{"tmdb_id": 547535, "title": "Die Asi-Fotzen", "original_title": "Die Asi-Fotzen", "slug_title": "die-asi-fotzen", "date": "2012-03-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 547535, "title": "Die Asi-Fotzen", "original_title": "Die Asi-Fotzen", "slug_title": "die-asi-fotzen", "date": "2012-03-30", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

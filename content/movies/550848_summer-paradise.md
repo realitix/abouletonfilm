@@ -1,1 +1,0 @@
-{"tmdb_id": 550848, "title": "Summer Paradise", "original_title": "Sommerparadiset", "slug_title": "summer-paradise", "date": "1954-08-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5b1iytYkrKRIfqPwckJSOgBUOZr.jpg", "actors": [], "comments": [], "recommandations_id": []}

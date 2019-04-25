@@ -1,1 +1,0 @@
-{"tmdb_id": 507180, "title": "Nudie Cuties: Volume 69", "original_title": "Nudie Cuties: Volume 69", "slug_title": "nudie-cuties-volume-69", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 418069, "title": "Sentence of the Mind", "original_title": "Sentence of the Mind", "slug_title": "sentence-of-the-mind", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jason Pead ()"], "comments": [], "recommandations_id": []}

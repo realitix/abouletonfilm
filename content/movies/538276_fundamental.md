@@ -1,1 +1,0 @@
-{"tmdb_id": 538276, "title": "Fundamental", "original_title": "\u57fa\u77f3", "slug_title": "fundamental", "date": "2017-07-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jC4uYtmk21vBpjHbwNvszb3cHFK.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 196616, "title": "The Miser", "original_title": "L'avare", "slug_title": "the-miser", "date": "1908-05-23", "genre": "", "score": "5.4/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2ngnUQX9Abkesfq72uvBF3uj4Es.jpg", "actors": [], "comments": [], "recommandations_id": [196643, 270140, 196653, 196599]}

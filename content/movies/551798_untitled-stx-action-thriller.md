@@ -1,1 +1,0 @@
-{"tmdb_id": 551798, "title": "Untitled STX Action/Thriller", "original_title": "Untitled STX Action/Thriller", "slug_title": "untitled-stx-action-thriller", "date": "", "genre": "Action / Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

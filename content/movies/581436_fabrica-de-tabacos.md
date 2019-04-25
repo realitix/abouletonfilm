@@ -1,1 +1,0 @@
-{"tmdb_id": 581436, "title": "F\u00e1brica de tabacos", "original_title": "F\u00e1brica de tabacos", "slug_title": "fabrica-de-tabacos", "date": "1962-08-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oCATaoSZAQ5SabInWr0ryt3XQPW.jpg", "actors": [], "comments": [], "recommandations_id": []}

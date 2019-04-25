@@ -1,1 +1,0 @@
-{"tmdb_id": 42042, "title": "As Seen Through These Eyes", "original_title": "As Seen Through These Eyes", "slug_title": "as-seen-through-these-eyes", "date": "2008-03-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oAZbtvXuejxjgaXtbIvZOOppdTP.jpg", "actors": [], "comments": [], "recommandations_id": []}

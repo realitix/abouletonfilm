@@ -1,1 +1,0 @@
-{"tmdb_id": 253965, "title": "Bury the Axis", "original_title": "Bury the Axis", "slug_title": "bury-the-axis", "date": "1943-02-03", "genre": "Animation", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/csWgPLOzTVXxyylFTJdrxpof5Ar.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 595221, "title": "Partitioned Heart", "original_title": "Partitioned Heart", "slug_title": "partitioned-heart", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Travis Mitchell (Rob)", "Malik Uhuru (Daniel)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 556650, "title": "La meilleure ma\u00eetresse", "original_title": "La meilleure ma\u00eetresse", "slug_title": "la-meilleure-maitresse", "date": "1930-01-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

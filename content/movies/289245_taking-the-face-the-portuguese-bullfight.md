@@ -1,1 +1,0 @@
-{"tmdb_id": 289245, "title": "Taking the Face: The Portuguese Bullfight", "original_title": "Taking the Face: The Portuguese Bullfight", "slug_title": "taking-the-face-the-portuguese-bullfight", "date": "2013-03-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

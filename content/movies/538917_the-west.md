@@ -1,1 +1,0 @@
-{"tmdb_id": 538917, "title": "The West", "original_title": "L'occident", "slug_title": "the-west", "date": "1938-02-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bKTakcYXjpEQSw4aTDE5s6CPxRP.jpg", "actors": [], "comments": [], "recommandations_id": []}

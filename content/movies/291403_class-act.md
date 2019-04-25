@@ -1,1 +1,0 @@
-{"tmdb_id": 291403, "title": "Class Act", "original_title": "Class Act", "slug_title": "class-act", "date": "2006-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

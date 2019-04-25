@@ -1,1 +1,0 @@
-{"tmdb_id": 485148, "title": "The Threatening Sky", "original_title": "Le Ciel, la terre", "slug_title": "the-threatening-sky", "date": "1966-09-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

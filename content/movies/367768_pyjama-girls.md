@@ -1,1 +1,0 @@
-{"tmdb_id": 367768, "title": "Pyjama Girls", "original_title": "Pyjama Girls", "slug_title": "pyjama-girls", "date": "2010-04-01", "genre": "Documentaire", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jCUPsYHqBjCHxt5kvthoUqj65CC.jpg", "actors": [], "comments": [], "recommandations_id": []}

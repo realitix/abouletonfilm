@@ -1,1 +1,0 @@
-{"tmdb_id": 368517, "title": "Acting Class", "original_title": "Acting Class", "slug_title": "acting-class", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

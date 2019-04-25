@@ -1,1 +1,0 @@
-{"tmdb_id": 83263, "title": "Richard Jeni: Platypus Man", "original_title": "Richard Jeni: Platypus Man", "slug_title": "richard-jeni-platypus-man", "date": "1995-01-23", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vLFY6brDiGJKIT1IlIPbRz98O3A.jpg", "actors": [], "comments": [], "recommandations_id": []}

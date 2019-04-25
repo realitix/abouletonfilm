@@ -1,1 +1,0 @@
-{"tmdb_id": 393042, "title": "Words in Progress", "original_title": "\u00c9preuves d'artistes", "slug_title": "words-in-progress", "date": "2004-04-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

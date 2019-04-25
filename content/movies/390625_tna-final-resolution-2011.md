@@ -1,1 +1,0 @@
-{"tmdb_id": 390625, "title": "TNA Final Resolution 2011", "original_title": "TNA Final Resolution 2011", "slug_title": "tna-final-resolution-2011", "date": "2011-12-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8JPyA94cNJxFQpNiCbjsA0oQqLF.jpg", "actors": [], "comments": [], "recommandations_id": []}

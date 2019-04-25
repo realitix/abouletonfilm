@@ -1,1 +1,0 @@
-{"tmdb_id": 522949, "title": "Le fou de mai", "original_title": "Le fou de mai", "slug_title": "le-fou-de-mai", "date": "1980-04-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

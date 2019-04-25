@@ -1,1 +1,0 @@
-{"tmdb_id": 531996, "title": "Animals", "original_title": "Animals", "slug_title": "animals", "date": "2014-06-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a339Ly5eSdbkO2STGrIdGjlR344.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 523930, "title": "The Phantom of the Cinema", "original_title": "The Phantom of the Cinema", "slug_title": "the-phantom-of-the-cinema", "date": "2008-06-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8CA8WB9b6imJ4q6YDnJF6Lx53Ay.jpg", "actors": [], "comments": [], "recommandations_id": []}

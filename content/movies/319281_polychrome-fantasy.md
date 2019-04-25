@@ -1,1 +1,0 @@
-{"tmdb_id": 319281, "title": "Polychrome Fantasy", "original_title": "Polychrome Fantasy", "slug_title": "polychrome-fantasy", "date": "1935-01-19", "genre": "", "score": "5.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aqYJIIAqUG4GmQ6Ys1ipn4T2Xav.jpg", "actors": [], "comments": [], "recommandations_id": [257544, 211021, 291086, 247437]}

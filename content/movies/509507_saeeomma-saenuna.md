@@ -1,1 +1,0 @@
-{"tmdb_id": 509507, "title": "\uc0c8\uc5c4\ub9c8 \uc0c8\ub204\ub098", "original_title": "\uc0c8\uc5c4\ub9c8 \uc0c8\ub204\ub098", "slug_title": "saeeomma-saenuna", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

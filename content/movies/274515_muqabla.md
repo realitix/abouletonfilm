@@ -1,1 +1,0 @@
-{"tmdb_id": 274515, "title": "Muqabla", "original_title": "Muqabla", "slug_title": "muqabla", "date": "1993-05-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

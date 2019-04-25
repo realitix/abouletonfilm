@@ -1,1 +1,0 @@
-{"tmdb_id": 362064, "title": "The Nazi Plan", "original_title": "The Nazi Plan", "slug_title": "the-nazi-plan", "date": "1945-12-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

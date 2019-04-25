@@ -1,1 +1,0 @@
-{"tmdb_id": 524605, "title": "No Refuge", "original_title": "No Refuge", "slug_title": "no-refuge", "date": "2017-01-12", "genre": "Drame", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

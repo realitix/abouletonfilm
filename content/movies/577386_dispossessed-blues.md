@@ -1,1 +1,0 @@
-{"tmdb_id": 577386, "title": "Dispossessed Blues", "original_title": "Dispossessed Blues", "slug_title": "dispossessed-blues", "date": "1943-01-23", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lynn Albritton (Herself / Piano Player)", "The Four Knobs ()", "Billy and Ann ()"], "comments": [], "recommandations_id": []}

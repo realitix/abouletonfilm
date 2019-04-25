@@ -1,1 +1,0 @@
-{"tmdb_id": 265576, "title": "The Customer of the Off Season", "original_title": "Ore'ach B'Onah Metah", "slug_title": "the-customer-of-the-off-season", "date": "1970-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bBbcxufRHxNu2tcyA9fD6Vq5CJX.jpg", "actors": [], "comments": [], "recommandations_id": []}

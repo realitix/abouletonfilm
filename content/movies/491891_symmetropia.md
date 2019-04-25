@@ -1,1 +1,0 @@
-{"tmdb_id": 491891, "title": "Symmetropia", "original_title": "Symmetropia", "slug_title": "symmetropia", "date": "2017-05-12", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t7tBZdconbgdVtvh3rtcR0HipQo.jpg", "actors": [], "comments": [], "recommandations_id": []}

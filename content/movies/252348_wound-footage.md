@@ -1,1 +1,0 @@
-{"tmdb_id": 252348, "title": "Wound Footage", "original_title": "Wound Footage", "slug_title": "wound-footage", "date": "2003-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

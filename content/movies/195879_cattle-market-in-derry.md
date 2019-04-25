@@ -1,1 +1,0 @@
-{"tmdb_id": 195879, "title": "Cattle Market in Derry", "original_title": "Cattle Market in Derry", "slug_title": "cattle-market-in-derry", "date": "1902-05-22", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

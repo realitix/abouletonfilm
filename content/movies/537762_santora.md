@@ -1,1 +1,0 @@
-{"tmdb_id": 537762, "title": "Santora", "original_title": "Santora", "slug_title": "santora", "date": "1998-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -45,7 +45,7 @@ def compute(i):
     
     movie = tmdb.Movies(i)
     try:
-        info = movie.info(append_to_response='credits,recommendations,videos,reviews', language="fr")
+        info = movie.info(append_to_response='credits,recommendations,videos,reviews')
         credits = info['credits']
         reviews = info['reviews']
         recommandations_id = [x['id'] for x in info['recommendations']['results'][:4]]
@@ -53,6 +53,7 @@ def compute(i):
         synopsis = info['overview']
         title = info['title']
         youtube_key = "notfound"
+        genres = ' / '.join([x['name'] for x in info['genres']]),
         if videos['results']:
             youtube_key = videos['results'][0]['key']
 
@@ -62,6 +63,8 @@ def compute(i):
             synopsis = info_fr['overview']
         if info_fr['title']:
             title = info_fr['title']
+        if info_fr['genres']:
+            genres = ' / '.join([x['name'] for x in info_fr['genres']]),
     except rex.HTTPError:
         movie_filename = '{}_{}.md'.format(i, "notfound")
         with open(os.path.join(HERE, 'content/movies', movie_filename), 'w') as outfile:
@@ -80,9 +83,9 @@ def compute(i):
         'original_title': info['original_title'],
         'slug_title': slugify(title),
         'date': info['release_date'],
-        'genre': ' / '.join([x['name'] for x in info['genres']]),
+        'genre': genres,
         'score': str(info['vote_average']) + '/10',
-        'synopsis': info['overview'],
+        'synopsis': synopsis,
         'image': image_url,
         'actors': [x['name'] + " (" + x['character'] + ")" for x in credits['cast']],
         'comments': [

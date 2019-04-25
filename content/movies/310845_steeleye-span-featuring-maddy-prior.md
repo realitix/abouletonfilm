@@ -1,1 +1,0 @@
-{"tmdb_id": 310845, "title": "Steeleye Span: Featuring Maddy Prior", "original_title": "Steeleye Span: Featuring Maddy Prior", "slug_title": "steeleye-span-featuring-maddy-prior", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

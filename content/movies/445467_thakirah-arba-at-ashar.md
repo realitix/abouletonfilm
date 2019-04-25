@@ -1,1 +1,0 @@
-{"tmdb_id": 445467, "title": "Thakirah Arba'at 'Ashar", "original_title": "Thakirah Arba'at 'Ashar", "slug_title": "thakirah-arba-at-ashar", "date": "1971-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

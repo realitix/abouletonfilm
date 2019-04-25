@@ -1,1 +1,0 @@
-{"tmdb_id": 308083, "title": "Muddula Mogudu", "original_title": "Muddula Mogudu", "slug_title": "muddula-mogudu", "date": "1997-04-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

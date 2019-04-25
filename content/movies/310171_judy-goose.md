@@ -1,1 +1,0 @@
-{"tmdb_id": 310171, "title": "Judy Goose", "original_title": "Judy Goose", "slug_title": "judy-goose", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

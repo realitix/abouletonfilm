@@ -1,1 +1,0 @@
-{"tmdb_id": 503933, "title": "The Nature of Millennials", "original_title": "The Nature of Millennials", "slug_title": "the-nature-of-millennials", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fQF1libUcMaUG5gAGIzW4z1FMt8.jpg", "actors": [], "comments": [], "recommandations_id": []}

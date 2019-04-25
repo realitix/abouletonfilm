@@ -1,1 +1,0 @@
-{"tmdb_id": 375036, "title": "Vipin and Rosh Wedding", "original_title": "Vipin and Rosh Wedding", "slug_title": "vipin-and-rosh-wedding", "date": "2012-07-09", "genre": "Aventure", "score": "9.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Vipin Varghese (Groom)", "Rosh Elza Varghese (Bride)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 426919, "title": "Tramway \u00e0 vapeur et passagers", "original_title": "Tramway \u00e0 vapeur et passagers", "slug_title": "tramway-a-vapeur-et-passagers", "date": "1896-11-20", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

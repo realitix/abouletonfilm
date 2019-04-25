@@ -1,1 +1,0 @@
-{"tmdb_id": 549915, "title": "Tenori per forza", "original_title": "Tenori per forza", "slug_title": "tenori-per-forza", "date": "1948-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

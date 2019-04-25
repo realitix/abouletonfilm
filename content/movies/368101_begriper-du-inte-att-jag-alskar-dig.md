@@ -1,1 +1,0 @@
-{"tmdb_id": 368101, "title": "Begriper du inte att jag \u00e4lskar dig?", "original_title": "Begriper du inte att jag \u00e4lskar dig?", "slug_title": "begriper-du-inte-att-jag-alskar-dig", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

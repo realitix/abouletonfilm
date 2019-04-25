@@ -1,1 +1,0 @@
-{"tmdb_id": 300056, "title": "Shadow Play", "original_title": "Shadow Play", "slug_title": "shadow-play", "date": "2013-03-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 537088, "title": "Heroes of Color", "original_title": "Heroes of Color", "slug_title": "heroes-of-color", "date": "2018-07-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["J. Aaron Boykin (Narrator)"], "comments": [], "recommandations_id": []}

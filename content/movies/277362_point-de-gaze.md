@@ -1,1 +1,0 @@
-{"tmdb_id": 277362, "title": "Point de Gaze", "original_title": "Point de Gaze", "slug_title": "point-de-gaze", "date": "2012-01-01", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xTKDDiEwe56gW9p2gtlenOw8b5f.jpg", "actors": [], "comments": [], "recommandations_id": []}

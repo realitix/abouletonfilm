@@ -1,1 +1,0 @@
-{"tmdb_id": 31114, "title": "Monster Camp", "original_title": "Monster Camp", "slug_title": "monster-camp", "date": "2007-03-03", "genre": "Documentaire / Com\u00e9die", "score": "6.6/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iOu8HHzaaaLdo49wWjA4MPuk5Jd.jpg", "actors": [], "comments": [], "recommandations_id": [187790, 109394, 49332, 35663]}

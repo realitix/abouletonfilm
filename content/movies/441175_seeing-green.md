@@ -1,1 +1,0 @@
-{"tmdb_id": 441175, "title": "Seeing Green", "original_title": "Seeing Green", "slug_title": "seeing-green", "date": "1937-02-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lowell Thomas ((voice))"], "comments": [], "recommandations_id": []}

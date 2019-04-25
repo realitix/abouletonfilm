@@ -1,1 +1,0 @@
-{"tmdb_id": 594090, "title": "Slaughter Drive", "original_title": "Slaughter Drive", "slug_title": "slaughter-drive", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sVwCPs6Eu8PDF2n5O0ixPRlFQiC.jpg", "actors": ["Ben Dietels (Doug)"], "comments": [], "recommandations_id": []}

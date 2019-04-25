@@ -1,1 +1,0 @@
-{"tmdb_id": 209597, "title": "El pollito pio", "original_title": "El pollito pio", "slug_title": "el-pollito-pio", "date": "2013-07-24", "genre": "Animation / Familial", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u2cowpZLjuFmuDPN57rcnuQUapg.jpg", "actors": [], "comments": [], "recommandations_id": []}

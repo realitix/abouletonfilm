@@ -1,1 +1,0 @@
-{"tmdb_id": 107320, "title": "Kr\u00e1l Ubu", "original_title": "Kr\u00e1l Ubu", "slug_title": "kral-ubu", "date": "1997-01-01", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yMMvZxrbV8qyQrkjxDz8nt5KCij.jpg", "actors": [], "comments": [], "recommandations_id": []}

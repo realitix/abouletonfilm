@@ -1,1 +1,0 @@
-{"tmdb_id": 354498, "title": "Scattering Stars", "original_title": "Scattering Stars", "slug_title": "scattering-stars", "date": "1994-08-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

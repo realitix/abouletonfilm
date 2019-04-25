@@ -1,1 +1,0 @@
-{"tmdb_id": 448473, "title": "Charlie vs. Goliath", "original_title": "Charlie vs. Goliath", "slug_title": "charlie-vs-goliath", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

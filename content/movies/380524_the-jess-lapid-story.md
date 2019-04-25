@@ -1,1 +1,0 @@
-{"tmdb_id": 380524, "title": "The Jess Lapid Story", "original_title": "The Jess Lapid Story", "slug_title": "the-jess-lapid-story", "date": "1978-12-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dXMEQYyH6BUWr0cn2uDtx5l9VKz.jpg", "actors": [], "comments": [], "recommandations_id": []}

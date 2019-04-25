@@ -1,1 +1,0 @@
-{"tmdb_id": 111092, "title": "The Birth", "original_title": "La nascita", "slug_title": "the-birth", "date": "2006-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r74G0qJfFDYqMwelLskVqnrIxc5.jpg", "actors": [], "comments": [], "recommandations_id": []}

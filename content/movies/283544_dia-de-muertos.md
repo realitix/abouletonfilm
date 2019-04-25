@@ -1,1 +1,0 @@
-{"tmdb_id": 283544, "title": "D\u00eda de muertos", "original_title": "D\u00eda de muertos", "slug_title": "dia-de-muertos", "date": "1960-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/udeIChaUAD1bhGgYAmSBHKvV8ZI.jpg", "actors": [], "comments": [], "recommandations_id": []}

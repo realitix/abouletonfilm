@@ -1,1 +1,0 @@
-{"tmdb_id": 136856, "title": "Watain: Bloodstock 2012", "original_title": "Watain: Bloodstock 2012", "slug_title": "watain-bloodstock-2012", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d3lkyfIy48y3NJhTbikZCDvaq9P.jpg", "actors": [], "comments": [], "recommandations_id": []}

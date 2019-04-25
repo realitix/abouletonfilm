@@ -1,1 +1,0 @@
-{"tmdb_id": 384610, "title": "Latvian Folklore", "original_title": "Latvie\u0161u folklora", "slug_title": "latvian-folklore", "date": "1983-04-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5HghXJZA6rEVBpXyWm7WCNrqkZ0.jpg", "actors": [], "comments": [], "recommandations_id": []}

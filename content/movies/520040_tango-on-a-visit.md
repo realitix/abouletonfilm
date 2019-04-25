@@ -1,1 +1,0 @@
-{"tmdb_id": 520040, "title": "Tango on a Visit", "original_title": "Tango zu Besuch", "slug_title": "tango-on-a-visit", "date": "", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bRs2h2TuzXthSXcywIVMrSbMnou.jpg", "actors": [], "comments": [], "recommandations_id": []}

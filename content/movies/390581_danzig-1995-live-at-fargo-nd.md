@@ -1,1 +1,0 @@
-{"tmdb_id": 390581, "title": "Danzig: [1995] Live at Fargo, ND", "original_title": "Danzig: [1995] Live at Fargo, ND", "slug_title": "danzig-1995-live-at-fargo-nd", "date": "1995-04-13", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3qZ9HYYlBfHowkD5CvUdxlJ0alY.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 184570, "title": "Old Mother Hubbard", "original_title": "Old Mother Hubbard", "slug_title": "old-mother-hubbard", "date": "1935-04-02", "genre": "", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ncquBn6Js39esq3xOxBBmkgKW06.jpg", "actors": [], "comments": [], "recommandations_id": []}

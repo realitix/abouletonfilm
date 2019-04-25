@@ -1,1 +1,0 @@
-{"tmdb_id": 300292, "title": "Mimikry", "original_title": "Mimikry", "slug_title": "mimikry", "date": "1966-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hans Gerhard Marc (young man)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 355703, "title": "Public Enemy: Live from Metropolis Studios", "original_title": "Public Enemy: Live from Metropolis Studios", "slug_title": "public-enemy-live-from-metropolis-studios", "date": "", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

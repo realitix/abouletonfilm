@@ -1,1 +1,0 @@
-{"tmdb_id": 129213, "title": "Ghost Sweeper Mikami", "original_title": "Ghost Sweeper Mikami", "slug_title": "ghost-sweeper-mikami", "date": "1994-08-19", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1xjCpTEGpexeJTmg7Useb0SHdsN.jpg", "actors": [], "comments": [], "recommandations_id": []}

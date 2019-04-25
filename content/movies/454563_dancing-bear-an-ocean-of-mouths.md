@@ -1,1 +1,0 @@
-{"tmdb_id": 454563, "title": "Dancing Bear - An Ocean Of Mouths", "original_title": "Dancing Bear - An Ocean Of Mouths", "slug_title": "dancing-bear-an-ocean-of-mouths", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2Z8QQNHnIuWZgmdO2Yx3quKqcB4.jpg", "actors": [], "comments": [], "recommandations_id": []}

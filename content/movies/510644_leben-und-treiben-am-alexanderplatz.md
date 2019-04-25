@@ -1,1 +1,0 @@
-{"tmdb_id": 510644, "title": "Leben und Treiben am Alexanderplatz", "original_title": "Leben und Treiben am Alexanderplatz", "slug_title": "leben-und-treiben-am-alexanderplatz", "date": "1896-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 238821, "title": "Thousands... Not Billions", "original_title": "Thousands... Not Billions", "slug_title": "thousands-not-billions", "date": "2005-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qn15fLI8x90BBag3Q4E0NJSDrsp.jpg", "actors": [], "comments": [], "recommandations_id": []}

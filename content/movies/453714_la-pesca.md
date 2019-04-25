@@ -1,1 +1,0 @@
-{"tmdb_id": 453714, "title": "La pesca", "original_title": "La pesca", "slug_title": "la-pesca", "date": "2017-04-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iXfXpsG7eJeIRCujQejBzCo1o1f.jpg", "actors": [], "comments": [], "recommandations_id": []}

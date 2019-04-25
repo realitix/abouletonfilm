@@ -1,1 +1,0 @@
-{"tmdb_id": 155540, "title": "Pururambo", "original_title": "Pururambo", "slug_title": "pururambo", "date": "", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

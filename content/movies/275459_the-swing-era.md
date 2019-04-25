@@ -1,1 +1,0 @@
-{"tmdb_id": 275459, "title": "The Swing Era", "original_title": "The Swing Era", "slug_title": "the-swing-era", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

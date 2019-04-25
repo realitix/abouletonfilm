@@ -1,1 +1,0 @@
-{"tmdb_id": 560979, "title": "At The Outskirts", "original_title": "En la periferia", "slug_title": "at-the-outskirts", "date": "2017-10-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

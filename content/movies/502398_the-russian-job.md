@@ -1,1 +1,0 @@
-{"tmdb_id": 502398, "title": "The Russian Job", "original_title": "\u0160v\u00e9d v \u017eigul\u00edku", "slug_title": "the-russian-job", "date": "2018-03-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8N242p35pOqWv6KuVh9TWJr7v4I.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 496583, "title": "Chalu Aunty", "original_title": "Chalu Aunty", "slug_title": "chalu-aunty", "date": "2002-01-01", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ia8ZiraJhRm3TOGNb3pUZnRg0JU.jpg", "actors": [], "comments": [], "recommandations_id": []}

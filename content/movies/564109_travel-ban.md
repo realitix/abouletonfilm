@@ -1,1 +1,0 @@
-{"tmdb_id": 564109, "title": "Travel Ban", "original_title": "Travel Ban", "slug_title": "travel-ban", "date": "2018-01-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dnPalfvwaup3i2rk4NAzMmSJGPs.jpg", "actors": [], "comments": [], "recommandations_id": []}

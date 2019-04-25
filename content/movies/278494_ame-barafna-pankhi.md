@@ -1,1 +1,0 @@
-{"tmdb_id": 278494, "title": "Ame Barafna Pankhi", "original_title": "Ame Barafna Pankhi", "slug_title": "ame-barafna-pankhi", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

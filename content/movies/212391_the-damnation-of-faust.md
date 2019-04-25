@@ -1,1 +1,0 @@
-{"tmdb_id": 212391, "title": "The Damnation of Faust", "original_title": "La damnation de Faust", "slug_title": "the-damnation-of-faust", "date": "1898-08-05", "genre": "Horreur / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/32fmz3FJIQwqc7z03sexBKgYtpX.jpg", "actors": [], "comments": [], "recommandations_id": []}

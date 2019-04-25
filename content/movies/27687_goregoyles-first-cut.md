@@ -1,1 +1,0 @@
-{"tmdb_id": 27687, "title": "GoreGoyles: First Cut", "original_title": "GoreGoyles: First Cut", "slug_title": "goregoyles-first-cut", "date": "2003-10-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/go8SxJCYkvkETn8UhcZN6hyJOdu.jpg", "actors": [], "comments": [], "recommandations_id": []}

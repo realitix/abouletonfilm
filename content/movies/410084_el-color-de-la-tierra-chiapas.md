@@ -1,1 +1,0 @@
-{"tmdb_id": 410084, "title": "El color de la tierra: Chiapas", "original_title": "El color de la tierra: Chiapas", "slug_title": "el-color-de-la-tierra-chiapas", "date": "2001-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4Q46PFQ6jEAZudLQVzT3vAGCK0n.jpg", "actors": [], "comments": [], "recommandations_id": []}

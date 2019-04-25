@@ -1,1 +1,0 @@
-{"tmdb_id": 553713, "title": "Cognitio", "original_title": "Cognitio", "slug_title": "cognitio", "date": "2018-10-08", "genre": "Drame", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/reUKcEmlNmZTEAaNo4U7jnTXRF.jpg", "actors": ["Lasse Steen Jensen (Tobias)", "Lior Cohen (Emil)"], "comments": [], "recommandations_id": []}

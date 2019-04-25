@@ -1,1 +1,0 @@
-{"tmdb_id": 147805, "title": "Cat Piss", "original_title": "Cat Piss", "slug_title": "cat-piss", "date": "2007-04-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6IPLop6CxJZtASTUSfohVjg8BAh.jpg", "actors": [], "comments": [], "recommandations_id": []}

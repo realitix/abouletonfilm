@@ -1,1 +1,0 @@
-{"tmdb_id": 534415, "title": "About Paul", "original_title": "About Paul", "slug_title": "about-paul", "date": "2016-04-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Vitaliy Versace (Vitaliy Versace)", "Paul Gustovich (Paul Gustovich)"], "comments": [], "recommandations_id": []}

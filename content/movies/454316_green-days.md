@@ -1,1 +1,0 @@
-{"tmdb_id": 454316, "title": "Green Days", "original_title": "Ruzhaye sabz", "slug_title": "green-days", "date": "2009-09-11", "genre": "Documentaire / Drame", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vJ3QdQgSLbuIyKwPux3sRHBquUc.jpg", "actors": [], "comments": [], "recommandations_id": []}

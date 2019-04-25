@@ -1,1 +1,0 @@
-{"tmdb_id": 392410, "title": "Casper's Halloween Special", "original_title": "Casper's Halloween Special", "slug_title": "casper-s-halloween-special", "date": "1979-10-30", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aHxMLr4kYT8lyBP6xqk4DdKthWz.jpg", "actors": [], "comments": [], "recommandations_id": []}

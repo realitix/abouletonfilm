@@ -1,1 +1,0 @@
-{"tmdb_id": 303087, "title": "Hudgeeru Sir Hudgeeru", "original_title": "Hudgeeru Sir Hudgeeru", "slug_title": "hudgeeru-sir-hudgeeru", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 506149, "title": "Jeroen Jeroen", "original_title": "Jeroen Jeroen", "slug_title": "jeroen-jeroen", "date": "2012-05-29", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

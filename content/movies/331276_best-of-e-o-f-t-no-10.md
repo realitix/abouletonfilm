@@ -1,1 +1,0 @@
-{"tmdb_id": 331276, "title": "Best Of E.O.F.T. No.  10", "original_title": "Best Of E.O.F.T. No.  10", "slug_title": "best-of-e-o-f-t-no-10", "date": "2014-01-01", "genre": "Documentaire", "score": "8.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jovKIiU9uUxMCgjmky3WrzWbDkk.jpg", "actors": [], "comments": [], "recommandations_id": []}

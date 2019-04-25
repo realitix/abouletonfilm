@@ -1,1 +1,0 @@
-{"tmdb_id": 539590, "title": "Transformation", "original_title": "Transformation", "slug_title": "transformation", "date": "2018-08-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

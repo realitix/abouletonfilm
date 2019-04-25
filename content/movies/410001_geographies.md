@@ -1,1 +1,0 @@
-{"tmdb_id": 410001, "title": "Geographies", "original_title": "Geograf\u00edas", "slug_title": "geographies", "date": "2011-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A45rcqw8OI2L6qvszcmJlMZBVH7.jpg", "actors": [], "comments": [], "recommandations_id": []}

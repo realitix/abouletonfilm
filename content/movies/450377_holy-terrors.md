@@ -1,1 +1,0 @@
-{"tmdb_id": 450377, "title": "Holy Terrors", "original_title": "Holy Terrors", "slug_title": "holy-terrors", "date": "2017-07-14", "genre": "Drame", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4JCecPUbS4ZzlX3VMqxqeloZScr.jpg", "actors": ["Timothy Greenwood ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 561538, "title": "Wolters Trude", "original_title": "Wolters Trude", "slug_title": "wolters-trude", "date": "1978-01-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dN7IbHY8PRYl1l7n4QPKjjSiiem.jpg", "actors": [], "comments": [], "recommandations_id": []}

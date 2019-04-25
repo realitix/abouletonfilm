@@ -1,1 +1,0 @@
-{"tmdb_id": 325308, "title": "Historic Travel US Pennsylvania Marches On", "original_title": "Historic Travel US Pennsylvania Marches On", "slug_title": "historic-travel-us-pennsylvania-marches-on", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

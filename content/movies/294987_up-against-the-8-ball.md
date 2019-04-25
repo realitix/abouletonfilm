@@ -1,1 +1,0 @@
-{"tmdb_id": 294987, "title": "Up Against the 8 Ball", "original_title": "Up Against the 8 Ball", "slug_title": "up-against-the-8-ball", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

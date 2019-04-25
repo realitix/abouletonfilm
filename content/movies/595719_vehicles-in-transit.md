@@ -1,1 +1,0 @@
-{"tmdb_id": 595719, "title": "Vehicles in Transit", "original_title": "Vehicles in Transit", "slug_title": "vehicles-in-transit", "date": "2019-04-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ps0RaI0vcpdeT39nFEnRAXVlfCH.jpg", "actors": [], "comments": [], "recommandations_id": []}

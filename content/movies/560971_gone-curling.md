@@ -1,1 +1,0 @@
-{"tmdb_id": 560971, "title": "Gone Curling", "original_title": "Gone Curling", "slug_title": "gone-curling", "date": "1963-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

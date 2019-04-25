@@ -1,1 +1,0 @@
-{"tmdb_id": 391223, "title": "Dogs of War", "original_title": "Dogs of War", "slug_title": "dogs-of-war", "date": "1998-04-02", "genre": "Com\u00e9die", "score": "4.6/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/32BDZwcsTKdJE0SjuOItOtmXXIQ.jpg", "actors": [], "comments": [], "recommandations_id": [382874, 391072, 391073, 391071]}

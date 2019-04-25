@@ -1,1 +1,0 @@
-{"tmdb_id": 373864, "title": "Apocalypse - Sex & Love In WWII", "original_title": "Apocalypse - Sex & Love In WWII", "slug_title": "apocalypse-sex-love-in-wwii", "date": "2012-04-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qzYLMwwLf5sEAt1oS4Uidk2qJaa.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 285115, "title": "MotoGP Review 2006", "original_title": "MotoGP Review 2006", "slug_title": "motogp-review-2006", "date": "2006-12-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eodZidGTKUOV32ibxtm64EdTXxf.jpg", "actors": [], "comments": [], "recommandations_id": []}

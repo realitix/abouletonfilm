@@ -1,1 +1,0 @@
-{"tmdb_id": 190828, "title": "Fireman, Save My Gal!", "original_title": "Fireman, Save My Gal!", "slug_title": "fireman-save-my-gal", "date": "1919-12-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["George Ovey ()"], "comments": [], "recommandations_id": []}

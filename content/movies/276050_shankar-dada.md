@@ -1,1 +1,0 @@
-{"tmdb_id": 276050, "title": "Shankar Dada", "original_title": "Shankar Dada", "slug_title": "shankar-dada", "date": "1976-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Shashi Kapoor ()", "Ashok Kumar ()", "Neetu Singh ()", "Anwar Hussain ()", "Pran ()"], "comments": [], "recommandations_id": []}

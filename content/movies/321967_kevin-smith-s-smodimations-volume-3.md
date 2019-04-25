@@ -1,1 +1,0 @@
-{"tmdb_id": 321967, "title": "Kevin Smith's Smodimations: Volume 3", "original_title": "Kevin Smith's Smodimations: Volume 3", "slug_title": "kevin-smith-s-smodimations-volume-3", "date": "2013-11-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

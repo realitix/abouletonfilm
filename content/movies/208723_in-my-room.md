@@ -1,1 +1,0 @@
-{"tmdb_id": 208723, "title": "In My Room", "original_title": "In My Room", "slug_title": "in-my-room", "date": "2013-01-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

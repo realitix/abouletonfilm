@@ -1,1 +1,0 @@
-{"tmdb_id": 315249, "title": "Usklang", "original_title": "Usklang", "slug_title": "usklang", "date": "2003-03-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/adoOqC9ljXb3UEFPzT4GvCb7Aov.jpg", "actors": [], "comments": [], "recommandations_id": []}

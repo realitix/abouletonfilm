@@ -1,1 +1,0 @@
-{"tmdb_id": 254737, "title": "Eddie Duchin & Orchestra", "original_title": "Eddie Duchin & Orchestra", "slug_title": "eddie-duchin-orchestra", "date": "1933-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

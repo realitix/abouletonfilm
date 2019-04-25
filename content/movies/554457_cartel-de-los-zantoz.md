@@ -1,1 +1,0 @@
-{"tmdb_id": 554457, "title": "Cartel de los Zantoz", "original_title": "Cartel de los Zantoz", "slug_title": "cartel-de-los-zantoz", "date": "2013-03-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z7t4rpeHrjURk9GyVGIarW4Njhr.jpg", "actors": [], "comments": [], "recommandations_id": []}

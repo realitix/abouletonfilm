@@ -1,1 +1,0 @@
-{"tmdb_id": 316929, "title": "Abenteuer in Marokko", "original_title": "Abenteuer in Marokko", "slug_title": "abenteuer-in-marokko", "date": "1938-01-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

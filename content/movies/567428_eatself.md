@@ -1,1 +1,0 @@
-{"tmdb_id": 567428, "title": "Eatself", "original_title": "Si\u0119 zjada", "slug_title": "eatself", "date": "2018-05-28", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oRSfi33CqZ0vqoDBRz0T9WVYGew.jpg", "actors": [], "comments": [], "recommandations_id": []}

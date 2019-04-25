@@ -1,1 +1,0 @@
-{"tmdb_id": 580988, "title": "Uma & Haggen", "original_title": "Uma & Haggen", "slug_title": "uma-haggen", "date": "", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Alondra Hidalgo (Uma)", "Humberto V\u00e9lez ()", "Karla Falc\u00f3n (Tesla)", "H\u00e9ctor G\u00f3mez Gil ()"], "comments": [], "recommandations_id": []}

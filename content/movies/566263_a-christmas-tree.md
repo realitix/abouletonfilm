@@ -1,1 +1,0 @@
-{"tmdb_id": 566263, "title": "A Christmas Tree", "original_title": "A Christmas Tree", "slug_title": "a-christmas-tree", "date": "1972-12-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qtLhIxGz6QHiuDiFytn3KRkLUgt.jpg", "actors": [], "comments": [], "recommandations_id": []}

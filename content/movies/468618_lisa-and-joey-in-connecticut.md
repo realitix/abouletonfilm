@@ -1,1 +1,0 @@
-{"tmdb_id": 468618, "title": "Lisa and Joey in Connecticut", "original_title": "Lisa and Joey in Connecticut", "slug_title": "lisa-and-joey-in-connecticut", "date": "1965-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

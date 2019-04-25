@@ -1,1 +1,0 @@
-{"tmdb_id": 107853, "title": "Nektar: Live", "original_title": "Nektar: Live", "slug_title": "nektar-live", "date": "2002-10-22", "genre": "Musique", "score": "3.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kvP9WMpsTrnYqA92uPyqyapKszL.jpg", "actors": [], "comments": [], "recommandations_id": []}

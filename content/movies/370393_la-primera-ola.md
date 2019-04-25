@@ -1,1 +1,0 @@
-{"tmdb_id": 370393, "title": "La primera ola", "original_title": "La primera ola", "slug_title": "la-primera-ola", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8Pzlck9FT5JbkxhmmSCiQr8erPq.jpg", "actors": [], "comments": [], "recommandations_id": []}

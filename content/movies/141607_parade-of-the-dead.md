@@ -1,1 +1,0 @@
-{"tmdb_id": 141607, "title": "Parade of the Dead", "original_title": "Parade of the Dead", "slug_title": "parade-of-the-dead", "date": "2010-10-21", "genre": "Musique", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bgcAwNtCc0uQs1oYwm3mwHbpLXP.jpg", "actors": ["Suffa MC ()", "Pressure MC ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 367829, "title": "Book of the Shadow", "original_title": "Book of the Shadow", "slug_title": "book-of-the-shadow", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

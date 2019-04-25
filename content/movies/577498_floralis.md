@@ -1,1 +1,0 @@
-{"tmdb_id": 577498, "title": "Floralis", "original_title": "Floralis", "slug_title": "floralis", "date": "2019-02-09", "genre": "Fantastique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AsQSqD3evbhaa8QOwfDopHltVEE.jpg", "actors": ["Nina Viola ()", "Johnny Clyde ()"], "comments": [], "recommandations_id": []}

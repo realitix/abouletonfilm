@@ -1,1 +1,0 @@
-{"tmdb_id": 176482, "title": "Bobby's World The Signature Episodes", "original_title": "Bobby's World The Signature Episodes", "slug_title": "bobby-s-world-the-signature-episodes", "date": "2004-08-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Howie Mandel (Bobby)"], "comments": [], "recommandations_id": []}

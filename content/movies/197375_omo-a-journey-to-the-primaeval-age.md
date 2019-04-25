@@ -1,1 +1,0 @@
-{"tmdb_id": 197375, "title": "Omo: A Journey to the Primaeval Age", "original_title": "Omo - Cesta do praveku", "slug_title": "omo-a-journey-to-the-primaeval-age", "date": "2002-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

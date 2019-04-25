@@ -1,1 +1,0 @@
-{"tmdb_id": 236600, "title": "Woodman, Spare That Tree", "original_title": "Woodman, Spare That Tree", "slug_title": "woodman-spare-that-tree", "date": "1942-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

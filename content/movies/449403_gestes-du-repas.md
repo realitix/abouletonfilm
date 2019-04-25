@@ -1,1 +1,0 @@
-{"tmdb_id": 449403, "title": "Gestes du repas", "original_title": "Gestes du repas", "slug_title": "gestes-du-repas", "date": "1958-03-27", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Paul Anrieu (Voice)"], "comments": [], "recommandations_id": []}

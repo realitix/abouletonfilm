@@ -1,1 +1,0 @@
-{"tmdb_id": 446338, "title": "No Kids for Me, Thanks!", "original_title": "Maman? Non merci!", "slug_title": "no-kids-for-me-thanks", "date": "2015-11-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/smthYNWyBceNxjPs2FqAp2BVO0T.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 529432, "title": "Konsert Hora Horey Didi And Friends", "original_title": "Konsert Hora Horey Didi And Friends", "slug_title": "konsert-hora-horey-didi-and-friends", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

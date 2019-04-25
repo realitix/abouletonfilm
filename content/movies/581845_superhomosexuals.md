@@ -1,1 +1,0 @@
-{"tmdb_id": 581845, "title": "Superhomosexuals", "original_title": "Superhomosexuals", "slug_title": "superhomosexuals", "date": "2016-11-13", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xdIKzl4YvSQp2uuVkj1uH0ZJow8.jpg", "actors": ["Alan do Oro (Alan)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 333509, "title": "The Perfect Arrangement", "original_title": "The Perfect Arrangement", "slug_title": "the-perfect-arrangement", "date": "1971-10-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3ZmiJYlcSgwExAS0iJpu3tzDidX.jpg", "actors": ["Barbara Mills ()"], "comments": [], "recommandations_id": []}

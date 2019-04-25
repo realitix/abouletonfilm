@@ -1,1 +1,0 @@
-{"tmdb_id": 67864, "title": "Red Light Go", "original_title": "Red Light Go", "slug_title": "red-light-go", "date": "2005-06-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2drd6XWuoTotpgedAYwHbvQ7Ayl.jpg", "actors": [], "comments": [], "recommandations_id": []}

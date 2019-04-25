@@ -1,1 +1,0 @@
-{"tmdb_id": 298416, "title": "The Hummingbird Wars", "original_title": "The Hummingbird Wars", "slug_title": "the-hummingbird-wars", "date": "2014-10-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mLb13tLxZUrcHXHOYZjOaBuUGSL.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 476727, "title": "Com\u00e9dias do Minho", "original_title": "Com\u00e9dias do Minho", "slug_title": "comedias-do-minho", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

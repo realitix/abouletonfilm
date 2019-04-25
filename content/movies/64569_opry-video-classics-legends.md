@@ -1,1 +1,0 @@
-{"tmdb_id": 64569, "title": "Opry Video Classics - Legends", "original_title": "Opry Video Classics - Legends", "slug_title": "opry-video-classics-legends", "date": "2011-01-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7ZGuYeqmVC6RFMY1OQbhP09u2BT.jpg", "actors": [], "comments": [], "recommandations_id": []}

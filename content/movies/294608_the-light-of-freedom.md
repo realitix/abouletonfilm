@@ -1,1 +1,0 @@
-{"tmdb_id": 294608, "title": "The Light of Freedom", "original_title": "The Light of Freedom", "slug_title": "the-light-of-freedom", "date": "2013-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

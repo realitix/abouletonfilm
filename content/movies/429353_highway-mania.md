@@ -1,1 +1,0 @@
-{"tmdb_id": 429353, "title": "Highway Mania", "original_title": "Highway Mania", "slug_title": "highway-mania", "date": "1937-12-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oEIId3eLKlr9bnVdlwiLIAWbxwh.jpg", "actors": ["Lowell Thomas (Narrator)"], "comments": [], "recommandations_id": []}

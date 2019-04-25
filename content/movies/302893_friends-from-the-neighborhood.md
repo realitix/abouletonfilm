@@ -1,1 +1,0 @@
-{"tmdb_id": 302893, "title": "Friends From The Neighborhood", "original_title": "Friends From The Neighborhood", "slug_title": "friends-from-the-neighborhood", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

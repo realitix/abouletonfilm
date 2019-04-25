@@ -1,1 +1,0 @@
-{"tmdb_id": 485713, "title": "Andy Goes Wild", "original_title": "Andy Goes Wild", "slug_title": "andy-goes-wild", "date": "1956-04-26", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Andy Clyde (Andy Clyde)"], "comments": [], "recommandations_id": []}

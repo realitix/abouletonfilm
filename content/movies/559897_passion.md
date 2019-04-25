@@ -1,1 +1,0 @@
-{"tmdb_id": 559897, "title": "Passion", "original_title": "Passion", "slug_title": "passion", "date": "1951-09-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6yF5OVznXc9OyN9oArGBwZPg36Y.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 322337, "title": "Hamari Manzil", "original_title": "Hamari Manzil", "slug_title": "hamari-manzil", "date": "1949-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 400434, "title": "The Dragon Sword", "original_title": "The Dragon Sword", "slug_title": "the-dragon-sword", "date": "1986-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7ExflGZNRojprDkEWdMlUVOYdyt.jpg", "actors": [], "comments": [], "recommandations_id": []}

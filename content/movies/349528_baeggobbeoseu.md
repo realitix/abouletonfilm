@@ -1,1 +1,0 @@
-{"tmdb_id": 349528, "title": "\ubc30\uaf3d\ubc84\uc2a4", "original_title": "\ubc30\uaf3d\ubc84\uc2a4", "slug_title": "baeggobbeoseu", "date": "1995-12-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

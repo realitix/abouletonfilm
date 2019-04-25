@@ -1,1 +1,0 @@
-{"tmdb_id": 564381, "title": "Forgotten Voices: Women in Bosnia", "original_title": "Forgotten Voices: Women in Bosnia", "slug_title": "forgotten-voices-women-in-bosnia", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

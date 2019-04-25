@@ -1,1 +1,0 @@
-{"tmdb_id": 381101, "title": "Bows and Errors", "original_title": "Bows and Errors", "slug_title": "bows-and-errors", "date": "1974-12-29", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bob Holt (Dogfather (voice))", "Daws Butler (Louie (voice))"], "comments": [], "recommandations_id": []}

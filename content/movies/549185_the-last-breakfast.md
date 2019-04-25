@@ -1,1 +1,0 @@
-{"tmdb_id": 549185, "title": "The Last Breakfast", "original_title": "\u5927\u50bb\u7684\u65e9\u9910", "slug_title": "the-last-breakfast", "date": "2008-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

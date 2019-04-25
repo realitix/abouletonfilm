@@ -1,1 +1,0 @@
-{"tmdb_id": 317755, "title": "Bamboo Dream", "original_title": "Bamboo Dream", "slug_title": "bamboo-dream", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

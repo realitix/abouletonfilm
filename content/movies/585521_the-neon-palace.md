@@ -1,1 +1,0 @@
-{"tmdb_id": 585521, "title": "The Neon Palace", "original_title": "The Neon Palace", "slug_title": "the-neon-palace", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vr8LrlOczZnvrUMTyKKl3rPCd36.jpg", "actors": [], "comments": [], "recommandations_id": []}

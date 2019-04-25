@@ -1,1 +1,0 @@
-{"tmdb_id": 421535, "title": "The Arrow of Defiance", "original_title": "The Arrow of Defiance", "slug_title": "the-arrow-of-defiance", "date": "1912-10-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

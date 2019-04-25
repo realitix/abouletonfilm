@@ -1,1 +1,0 @@
-{"tmdb_id": 562503, "title": "\u00c0 fleur de peau", "original_title": "\u00c0 fleur de peau", "slug_title": "a-fleur-de-peau", "date": "1962-11-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5Z6yoX5DLwv6pcLcJwn5cHY3Xhv.jpg", "actors": [], "comments": [], "recommandations_id": []}

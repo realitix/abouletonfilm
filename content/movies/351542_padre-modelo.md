@@ -1,1 +1,0 @@
-{"tmdb_id": 351542, "title": "Padre Modelo", "original_title": "Padre Modelo", "slug_title": "padre-modelo", "date": "2009-10-27", "genre": "Com\u00e9die / Drame", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Miguel de Lira ()", "Roger Pr\u00edncep ()", "Ferran Rull ()", "\u00c0ngels Bassas ()"], "comments": [], "recommandations_id": []}

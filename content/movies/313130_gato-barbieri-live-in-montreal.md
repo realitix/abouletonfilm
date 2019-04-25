@@ -1,1 +1,0 @@
-{"tmdb_id": 313130, "title": "Gato Barbieri: Live in Montreal", "original_title": "Gato Barbieri: Live in Montreal", "slug_title": "gato-barbieri-live-in-montreal", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

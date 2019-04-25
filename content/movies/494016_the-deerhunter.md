@@ -1,1 +1,0 @@
-{"tmdb_id": 494016, "title": "the deerhunter", "original_title": "the deerhunter", "slug_title": "the-deerhunter", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

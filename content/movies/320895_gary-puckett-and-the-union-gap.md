@@ -1,1 +1,0 @@
-{"tmdb_id": 320895, "title": "Gary Puckett and the Union Gap", "original_title": "Gary Puckett and the Union Gap", "slug_title": "gary-puckett-and-the-union-gap", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

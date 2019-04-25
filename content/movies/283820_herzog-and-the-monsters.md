@@ -1,1 +1,0 @@
-{"tmdb_id": 283820, "title": "Herzog and the monsters", "original_title": "Herzog and the monsters", "slug_title": "herzog-and-the-monsters", "date": "2007-10-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iZAWwMEBa9kUKwp1em7MNuwo7tQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

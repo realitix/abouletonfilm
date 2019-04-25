@@ -1,1 +1,0 @@
-{"tmdb_id": 307573, "title": "Palletooru", "original_title": "Palletooru", "slug_title": "palletooru", "date": "1952-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

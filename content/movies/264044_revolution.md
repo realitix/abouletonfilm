@@ -1,1 +1,0 @@
-{"tmdb_id": 264044, "title": "Revolution", "original_title": "Revolution", "slug_title": "revolution", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 535195, "title": "Cassius le grand", "original_title": "Cassius le grand", "slug_title": "cassius-le-grand", "date": "1964-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

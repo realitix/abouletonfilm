@@ -1,1 +1,0 @@
-{"tmdb_id": 474836, "title": "The Story of Hitler", "original_title": "The Story of Hitler", "slug_title": "the-story-of-hitler", "date": "2007-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oq8gfjgenf6Xk3vURVjlOcmIKSS.jpg", "actors": [], "comments": [], "recommandations_id": []}

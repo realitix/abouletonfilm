@@ -1,1 +1,0 @@
-{"tmdb_id": 593383, "title": "Distinctive", "original_title": "Dong wu xiong ling", "slug_title": "distinctive", "date": "", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y9VMJB9OvTMXwyhfKBzNSF1NPvR.jpg", "actors": [], "comments": [], "recommandations_id": []}

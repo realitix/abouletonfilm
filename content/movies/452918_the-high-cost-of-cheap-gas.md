@@ -1,1 +1,0 @@
-{"tmdb_id": 452918, "title": "The High Cost of Cheap Gas", "original_title": "The High Cost of Cheap Gas", "slug_title": "the-high-cost-of-cheap-gas", "date": "2015-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

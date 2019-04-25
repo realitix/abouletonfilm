@@ -1,1 +1,0 @@
-{"tmdb_id": 246912, "title": "The Saber", "original_title": "The Saber", "slug_title": "the-saber", "date": "2007-04-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uLcJPMCRhx6d0JzhiZzMk3pXo7E.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 450924, "title": "In/Contro/Luce", "original_title": "In/Contro/Luce", "slug_title": "in-contro-luce", "date": "1976-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

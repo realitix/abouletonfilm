@@ -1,1 +1,0 @@
-{"tmdb_id": 470941, "title": "Adolf Hitler: A Last Appeal To Reason", "original_title": "Adolf Hitler: A Last Appeal To Reason", "slug_title": "adolf-hitler-a-last-appeal-to-reason", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 570242, "title": "Precious Stones", "original_title": "Precious Stones", "slug_title": "precious-stones", "date": "2018-03-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hxKBZEDvUNIZQv6QDUgmyfW3WBg.jpg", "actors": ["Daniel Crook ()", "Max Stone ()"], "comments": [], "recommandations_id": []}

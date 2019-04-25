@@ -1,1 +1,0 @@
-{"tmdb_id": 361460, "title": "Banda Calypso 15 Anos 2015", "original_title": "Banda Calypso 15 Anos 2015", "slug_title": "banda-calypso-15-anos-2015", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

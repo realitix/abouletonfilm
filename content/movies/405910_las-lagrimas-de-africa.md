@@ -1,1 +1,0 @@
-{"tmdb_id": 405910, "title": "Las l\u00e1grimas de \u00c1frica", "original_title": "Las l\u00e1grimas de \u00c1frica", "slug_title": "las-lagrimas-de-africa", "date": "", "genre": "Documentaire", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z6xy1e4XUByw0OpEiv8B5kbcdf5.jpg", "actors": [], "comments": [], "recommandations_id": []}

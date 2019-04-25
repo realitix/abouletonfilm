@@ -1,1 +1,0 @@
-{"tmdb_id": 273720, "title": "One Direction: Ruling The World", "original_title": "One Direction: Ruling The World", "slug_title": "one-direction-ruling-the-world", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

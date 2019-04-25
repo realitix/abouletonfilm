@@ -1,1 +1,0 @@
-{"tmdb_id": 297022, "title": "Red Swastik", "original_title": "Red Swastik", "slug_title": "red-swastik", "date": "2007-06-08", "genre": "", "score": "2.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gZWVbRTjPCfThgClOy4vB9Tm4DP.jpg", "actors": ["Sherlyn Chopra (Anamika)"], "comments": [], "recommandations_id": []}

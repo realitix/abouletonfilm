@@ -1,1 +1,0 @@
-{"tmdb_id": 392488, "title": "Stork Mad", "original_title": "Stork Mad", "slug_title": "stork-mad", "date": "1926-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bobby Ray (Hubby)", "Molly Malone ()"], "comments": [], "recommandations_id": []}

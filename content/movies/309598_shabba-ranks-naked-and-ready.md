@@ -1,1 +1,0 @@
-{"tmdb_id": 309598, "title": "Shabba Ranks: Naked and Ready", "original_title": "Shabba Ranks: Naked and Ready", "slug_title": "shabba-ranks-naked-and-ready", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

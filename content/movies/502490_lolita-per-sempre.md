@@ -1,1 +1,0 @@
-{"tmdb_id": 502490, "title": "Lolita per sempre", "original_title": "Lolita per sempre", "slug_title": "lolita-per-sempre", "date": "1991-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dKzMuwKKYzD2QFwNVvup9LN9JdH.jpg", "actors": ["Petra Scharbach ()", "Moris Brocci ()"], "comments": [], "recommandations_id": []}

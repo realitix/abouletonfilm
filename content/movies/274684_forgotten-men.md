@@ -1,1 +1,0 @@
-{"tmdb_id": 274684, "title": "Forgotten Men", "original_title": "Forgotten Men", "slug_title": "forgotten-men", "date": "1933-05-19", "genre": "Guerre / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/539vP2huzY70yDvd6wbzzYlH55m.jpg", "actors": [], "comments": [], "recommandations_id": []}

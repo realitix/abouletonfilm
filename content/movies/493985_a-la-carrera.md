@@ -1,1 +1,1 @@
-{"tmdb_id": 493985, "title": "A la carrera", "original_title": "A la carrera", "slug_title": "a-la-carrera", "date": "1991-12-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 493985, "title": "A la carrera", "original_title": "A la carrera", "slug_title": "a-la-carrera", "date": "1991-12-21", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

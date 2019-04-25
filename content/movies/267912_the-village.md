@@ -1,1 +1,0 @@
-{"tmdb_id": 267912, "title": "The Village", "original_title": "To Horio", "slug_title": "the-village", "date": "2010-07-07", "genre": "Animation", "score": "4.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1bbjfTdyuMXJ2aCMSeFUb8OIu8s.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 325299, "title": "Count Basie At Carnegie Hall", "original_title": "Count Basie At Carnegie Hall", "slug_title": "count-basie-at-carnegie-hall", "date": "1981-03-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

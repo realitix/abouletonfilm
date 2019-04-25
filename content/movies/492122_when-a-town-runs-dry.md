@@ -1,1 +1,0 @@
-{"tmdb_id": 492122, "title": "When a Town runs Dry", "original_title": "When a Town runs Dry", "slug_title": "when-a-town-runs-dry", "date": "2016-09-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yBg7jEDNqhFcvvAHKEipSXyMLwc.jpg", "actors": [], "comments": [], "recommandations_id": []}

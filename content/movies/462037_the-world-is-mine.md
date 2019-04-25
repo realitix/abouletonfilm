@@ -1,1 +1,0 @@
-{"tmdb_id": 462037, "title": "The World Is Mine", "original_title": "The World Is Mine", "slug_title": "the-world-is-mine", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1ds2m8R1zpDhF6fj1GR2EhX8LAI.jpg", "actors": [], "comments": [], "recommandations_id": []}

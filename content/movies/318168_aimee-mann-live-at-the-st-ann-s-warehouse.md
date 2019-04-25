@@ -1,1 +1,0 @@
-{"tmdb_id": 318168, "title": "Aimee Mann: Live at the St. Ann's Warehouse", "original_title": "Aimee Mann: Live at the St. Ann's Warehouse", "slug_title": "aimee-mann-live-at-the-st-ann-s-warehouse", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

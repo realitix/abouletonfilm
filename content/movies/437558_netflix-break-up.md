@@ -1,1 +1,0 @@
-{"tmdb_id": 437558, "title": "Netflix & Break-Up", "original_title": "Netflix & Break-Up", "slug_title": "netflix-break-up", "date": "", "genre": "Com\u00e9die", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Emanuel Vuso (Femi)", "Otillie Mackintosh (Lucy)"], "comments": [], "recommandations_id": []}

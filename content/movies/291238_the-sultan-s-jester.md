@@ -1,1 +1,0 @@
-{"tmdb_id": 291238, "title": "The Sultan's Jester", "original_title": "The Sultan's Jester", "slug_title": "the-sultan-s-jester", "date": "1930-01-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Edward Lankow (The Sultan)", "Roger Davis (Jester)"], "comments": [], "recommandations_id": []}

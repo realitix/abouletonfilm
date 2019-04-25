@@ -1,1 +1,0 @@
-{"tmdb_id": 552816, "title": "Study Skills: Verbal Communication Made Easy", "original_title": "Study Skills: Verbal Communication Made Easy", "slug_title": "study-skills-verbal-communication-made-easy", "date": "1990-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 186238, "title": "Lee Aaron: Live in London", "original_title": "Lee Aaron: Live in London", "slug_title": "lee-aaron-live-in-london", "date": "1985-04-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rD405ABvSdGLSPcZk0wdd0mNopn.jpg", "actors": [], "comments": [], "recommandations_id": []}

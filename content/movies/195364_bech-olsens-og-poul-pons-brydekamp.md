@@ -1,1 +1,0 @@
-{"tmdb_id": 195364, "title": "Bech Olsens og Poul Pons' brydekamp", "original_title": "Bech Olsens og Poul Pons' brydekamp", "slug_title": "bech-olsens-og-poul-pons-brydekamp", "date": "1899-05-20", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

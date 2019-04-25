@@ -1,1 +1,0 @@
-{"tmdb_id": 105550, "title": "Five Time Champion", "original_title": "Five Time Champion", "slug_title": "five-time-champion", "date": "2012-01-24", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/20g4ESXwSzqBqhp1eeLMZ4awzFD.jpg", "actors": [], "comments": [], "recommandations_id": []}

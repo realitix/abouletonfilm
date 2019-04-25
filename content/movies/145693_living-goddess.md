@@ -1,1 +1,0 @@
-{"tmdb_id": 145693, "title": "Living Goddess", "original_title": "Living Goddess", "slug_title": "living-goddess", "date": "2008-10-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kb7ak1BQEQm4cPidMYy0Ehlc6aU.jpg", "actors": [], "comments": [], "recommandations_id": []}

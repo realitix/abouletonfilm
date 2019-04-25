@@ -1,1 +1,0 @@
-{"tmdb_id": 81612, "title": "WordWorld: Dancing Dog", "original_title": "WordWorld: Dancing Dog", "slug_title": "wordworld-dancing-dog", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oFmwhty6zd2K2kDaIdSQ8IecaLV.jpg", "actors": [], "comments": [], "recommandations_id": []}

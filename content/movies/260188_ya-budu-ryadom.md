@@ -1,1 +1,0 @@
-{"tmdb_id": 260188, "title": "Ya budu ryadom", "original_title": "Ya budu ryadom", "slug_title": "ya-budu-ryadom", "date": "2014-02-02", "genre": "Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cRGbKE928RgdSNKCwqnPk8qBBCm.jpg", "actors": [], "comments": [], "recommandations_id": []}

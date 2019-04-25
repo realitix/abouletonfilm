@@ -1,1 +1,0 @@
-{"tmdb_id": 445974, "title": "Kutlug Ataman", "original_title": "Kutlug Ataman", "slug_title": "kutlug-ataman", "date": "2011-09-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Emre Baykal ()", "Levent Calikoglu ()", "Stuart Comer ()", "T.J. Demos ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 202042, "title": "It's a Greek Life", "original_title": "It's a Greek Life", "slug_title": "it-s-a-greek-life", "date": "1936-08-01", "genre": "", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uaxFcduOHI6P3MNMpIEU6M2gCtm.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 261030, "title": "Teletubbies: Again Again!", "original_title": "Teletubbies: Again Again!", "slug_title": "teletubbies-again-again", "date": "1996-01-01", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/61ZRNVtfTtZnVZfXCBBCKKdo6Wj.jpg", "actors": [], "comments": [], "recommandations_id": []}

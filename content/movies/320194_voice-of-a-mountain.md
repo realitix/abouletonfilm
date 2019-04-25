@@ -1,1 +1,0 @@
-{"tmdb_id": 320194, "title": "Voice of a Mountain", "original_title": "Voice of a Mountain", "slug_title": "voice-of-a-mountain", "date": "2014-05-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

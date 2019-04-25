@@ -1,1 +1,0 @@
-{"tmdb_id": 434482, "title": "Le Corbusier [IIIII] Asger Jorn [Relief]", "original_title": "Le Corbusier [IIIII] Asger Jorn [Relief]", "slug_title": "le-corbusier-iiiii-asger-jorn-relief", "date": "2016-02-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

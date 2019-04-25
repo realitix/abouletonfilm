@@ -1,1 +1,0 @@
-{"tmdb_id": 592807, "title": "Papicha", "original_title": "Papicha", "slug_title": "papicha", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Marwan Zeghbib ()", "Lyna Khoudri ()", "Yasin Houicha ()", "Nadia Kaci ()", "Shirine Boutella ()", "Amira Hilda Douaouda ()"], "comments": [], "recommandations_id": []}

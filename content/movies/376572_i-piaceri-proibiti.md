@@ -1,1 +1,0 @@
-{"tmdb_id": 376572, "title": "I piaceri proibiti", "original_title": "I piaceri proibiti", "slug_title": "i-piaceri-proibiti", "date": "1963-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8unflHSqXVjskQhWXGeKEmh360M.jpg", "actors": [], "comments": [], "recommandations_id": []}

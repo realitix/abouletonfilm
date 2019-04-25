@@ -1,1 +1,0 @@
-{"tmdb_id": 460333, "title": "Everglades", "original_title": "Everglades", "slug_title": "everglades", "date": "2016-06-23", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

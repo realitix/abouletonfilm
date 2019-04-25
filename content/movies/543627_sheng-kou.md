@@ -1,1 +1,0 @@
-{"tmdb_id": 543627, "title": "\u7272\u53e3", "original_title": "\u7272\u53e3", "slug_title": "sheng-kou", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 579445, "title": "Pleasure Principle", "original_title": "Pleasure Principle", "slug_title": "pleasure-principle", "date": "1997-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2LEsw6C6RqIVgNEKyg9x7bjFqKz.jpg", "actors": [], "comments": [], "recommandations_id": []}

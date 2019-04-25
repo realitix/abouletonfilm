@@ -1,1 +1,0 @@
-{"tmdb_id": 363911, "title": "Christopher, Please Clean Up Your Room!", "original_title": "Christopher, Please Clean Up Your Room!", "slug_title": "christopher-please-clean-up-your-room", "date": "2002-08-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

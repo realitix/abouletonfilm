@@ -1,1 +1,0 @@
-{"tmdb_id": 202901, "title": "The New Rijksmuseum", "original_title": "Het nieuwe Rijksmuseum", "slug_title": "the-new-rijksmuseum", "date": "2008-11-21", "genre": "Documentaire", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oX1CtGcJ3BDCKQ1fv2Smvie2cc1.jpg", "actors": [], "comments": [], "recommandations_id": []}

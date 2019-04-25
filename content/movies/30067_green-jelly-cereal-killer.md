@@ -1,1 +1,0 @@
-{"tmdb_id": 30067, "title": "Green Jelly: Cereal Killer", "original_title": "Green Jelly: Cereal Killer", "slug_title": "green-jelly-cereal-killer", "date": "1992-10-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rTdHmtH2d1jdxTF6jpSm6MZLX8I.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 556052, "title": "Pleasures of Paris", "original_title": "Plaisirs de Paris", "slug_title": "pleasures-of-paris", "date": "1934-01-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

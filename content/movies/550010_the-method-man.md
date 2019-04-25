@@ -1,1 +1,0 @@
-{"tmdb_id": 550010, "title": "The Method Man", "original_title": "The Method Man", "slug_title": "the-method-man", "date": "", "genre": "Com\u00e9die / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3R91lB6cRqpShXw9h5MOGWXu6va.jpg", "actors": ["Scott Smothers (Ethan Spacey)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 189333, "title": "The Man Without a Country", "original_title": "The Man Without a Country", "slug_title": "the-man-without-a-country", "date": "1917-09-08", "genre": "", "score": "4.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

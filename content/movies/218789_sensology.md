@@ -1,1 +1,0 @@
-{"tmdb_id": 218789, "title": "Sensology", "original_title": "Sensology", "slug_title": "sensology", "date": "2010-07-30", "genre": "Animation", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pXPRtajo5BoWcRYdHAcUXBfxD4f.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 543956, "title": "Hum Jo Keh Na Paaye", "original_title": "Hum Jo Keh Na Paaye", "slug_title": "hum-jo-keh-na-paaye", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

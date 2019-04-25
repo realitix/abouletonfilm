@@ -1,1 +1,0 @@
-{"tmdb_id": 466830, "title": "Emma Wants to Live", "original_title": "Emma Wants to Live", "slug_title": "emma-wants-to-live", "date": "2017-04-27", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rBOShk7kC4lVb2529eoliNUDuDa.jpg", "actors": [], "comments": [], "recommandations_id": []}

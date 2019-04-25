@@ -1,1 +1,0 @@
-{"tmdb_id": 414697, "title": "Shanghai Dawn", "original_title": "Shanghai Dawn", "slug_title": "shanghai-dawn", "date": "", "genre": "Action / Com\u00e9die", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Owen Wilson (Roy O'Bannon)", "Jackie Chan (Chon Wang)"], "comments": [], "recommandations_id": []}

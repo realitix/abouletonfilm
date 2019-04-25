@@ -1,1 +1,0 @@
-{"tmdb_id": 37446, "title": "The Other Irene", "original_title": "Cealalta Irina", "slug_title": "the-other-irene", "date": "2009-10-10", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8P70Ob1GMhYOWxULeCaRWxlCJ5Z.jpg", "actors": [], "comments": [], "recommandations_id": []}

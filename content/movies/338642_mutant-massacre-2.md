@@ -1,1 +1,0 @@
-{"tmdb_id": 338642, "title": "Mutant Massacre 2", "original_title": "Mutant Massacre 2", "slug_title": "mutant-massacre-2", "date": "1991-06-15", "genre": "Science-Fiction / Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5EHBvIkC0DeYoohR2is0Qm4UlEb.jpg", "actors": [], "comments": [], "recommandations_id": []}

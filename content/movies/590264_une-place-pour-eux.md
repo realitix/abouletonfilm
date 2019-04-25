@@ -1,1 +1,0 @@
-{"tmdb_id": 590264, "title": "Une place pour eux", "original_title": "Une place pour eux", "slug_title": "une-place-pour-eux", "date": "2019-02-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

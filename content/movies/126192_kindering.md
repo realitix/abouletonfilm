@@ -1,1 +1,0 @@
-{"tmdb_id": 126192, "title": "Kindering", "original_title": "Kindering", "slug_title": "kindering", "date": "1987-01-01", "genre": "", "score": "4.9/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nm255W5evrbZB5UtrqPdouGDVVF.jpg", "actors": [], "comments": [], "recommandations_id": [126189, 126200, 126197, 126215]}

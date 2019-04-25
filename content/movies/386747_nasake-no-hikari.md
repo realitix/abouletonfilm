@@ -1,1 +1,0 @@
-{"tmdb_id": 386747, "title": "Nasake no hikari", "original_title": "Nasake no hikari", "slug_title": "nasake-no-hikari", "date": "1926-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

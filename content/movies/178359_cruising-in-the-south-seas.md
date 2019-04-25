@@ -1,1 +1,0 @@
-{"tmdb_id": 178359, "title": "Cruising in the South Seas", "original_title": "Cruising in the South Seas", "slug_title": "cruising-in-the-south-seas", "date": "1934-03-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["James A. FitzPatrick ()"], "comments": [], "recommandations_id": []}

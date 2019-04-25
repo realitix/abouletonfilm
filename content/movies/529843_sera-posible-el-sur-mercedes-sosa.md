@@ -1,1 +1,0 @@
-{"tmdb_id": 529843, "title": "Ser\u00e1 posible el sur: Mercedes Sosa", "original_title": "Ser\u00e1 posible el sur: Mercedes Sosa", "slug_title": "sera-posible-el-sur-mercedes-sosa", "date": "1986-03-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

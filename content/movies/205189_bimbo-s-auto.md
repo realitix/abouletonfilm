@@ -1,1 +1,0 @@
-{"tmdb_id": 205189, "title": "Bimbo's Auto", "original_title": "Bimbo's Auto", "slug_title": "bimbo-s-auto", "date": "1954-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wLgPa8NBVKXgUoYxOeq7QcuVKsV.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 588022, "title": "Ninja Ballerina", "original_title": "Ninja Ballerina", "slug_title": "ninja-ballerina", "date": "2018-04-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tvciK0st2in1gyXjnN0r8LPRA6f.jpg", "actors": [], "comments": [], "recommandations_id": []}

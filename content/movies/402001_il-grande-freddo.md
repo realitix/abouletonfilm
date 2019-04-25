@@ -1,1 +1,0 @@
-{"tmdb_id": 402001, "title": "Il grande freddo", "original_title": "Il grande freddo", "slug_title": "il-grande-freddo", "date": "1971-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

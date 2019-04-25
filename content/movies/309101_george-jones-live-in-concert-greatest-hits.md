@@ -1,1 +1,0 @@
-{"tmdb_id": 309101, "title": "George Jones: Live in Concert: Greatest Hits", "original_title": "George Jones: Live in Concert: Greatest Hits", "slug_title": "george-jones-live-in-concert-greatest-hits", "date": "1984-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

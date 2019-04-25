@@ -1,1 +1,0 @@
-{"tmdb_id": 110344, "title": "Trece entre mil", "original_title": "Trece entre mil", "slug_title": "trece-entre-mil", "date": "2005-10-21", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a8vjkogtCnPEPL2R5u2tSsIbiCM.jpg", "actors": [], "comments": [], "recommandations_id": []}

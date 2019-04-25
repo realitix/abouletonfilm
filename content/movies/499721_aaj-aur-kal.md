@@ -1,1 +1,0 @@
-{"tmdb_id": 499721, "title": "Aaj Aur Kal", "original_title": "Aaj Aur Kal", "slug_title": "aaj-aur-kal", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

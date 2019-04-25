@@ -1,1 +1,0 @@
-{"tmdb_id": 359432, "title": "Roller Blade Killer", "original_title": "Cha po a jiao", "slug_title": "roller-blade-killer", "date": "1998-09-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

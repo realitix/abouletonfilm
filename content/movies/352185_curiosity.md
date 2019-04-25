@@ -1,1 +1,0 @@
-{"tmdb_id": 352185, "title": "Curiosity", "original_title": "Znati\u017eelja", "slug_title": "curiosity", "date": "1967-06-28", "genre": "Animation", "score": "6.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d1aJU9SfdvYXWBWHMcpimEbUbzA.jpg", "actors": [], "comments": [], "recommandations_id": [142194]}

@@ -1,1 +1,0 @@
-{"tmdb_id": 308334, "title": "Walking In Paris", "original_title": "Walking In Paris", "slug_title": "walking-in-paris", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

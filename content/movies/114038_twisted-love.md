@@ -1,1 +1,0 @@
-{"tmdb_id": 114038, "title": "Twisted Love", "original_title": "Twisted Love", "slug_title": "twisted-love", "date": "2011-07-28", "genre": "Com\u00e9die / Horreur", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oTZBiqUro4UkgcuGId3evwcaBVE.jpg", "actors": ["Mark Lee (Ah Guan)"], "comments": [], "recommandations_id": []}

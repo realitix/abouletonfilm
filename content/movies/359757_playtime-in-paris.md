@@ -1,1 +1,0 @@
-{"tmdb_id": 359757, "title": "Playtime in Paris", "original_title": "Jouer \u00e0 Paris", "slug_title": "playtime-in-paris", "date": "1962-09-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 135285, "title": "Rock 'N Learn: Life Science", "original_title": "Rock 'N Learn: Life Science", "slug_title": "rock-n-learn-life-science", "date": "2009-06-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wbcPJlXUUIP7It6VaGwsTjG5tdX.jpg", "actors": [], "comments": [], "recommandations_id": []}

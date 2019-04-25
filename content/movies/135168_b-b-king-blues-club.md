@@ -1,1 +1,0 @@
-{"tmdb_id": 135168, "title": "B.B. King - Blues Club`", "original_title": "B.B. King - Blues Club`", "slug_title": "b-b-king-blues-club", "date": "2016-02-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nhy1VTbnblmkwkMgDlihGVSeYTD.jpg", "actors": [], "comments": [], "recommandations_id": []}

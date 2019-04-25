@@ -1,1 +1,0 @@
-{"tmdb_id": 588052, "title": "Le ruban", "original_title": "Le ruban", "slug_title": "le-ruban", "date": "", "genre": "Drame / Guerre", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

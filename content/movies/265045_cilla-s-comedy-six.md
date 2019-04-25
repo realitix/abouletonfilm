@@ -1,1 +1,0 @@
-{"tmdb_id": 265045, "title": "Cilla's Comedy Six", "original_title": "Cilla's Comedy Six", "slug_title": "cilla-s-comedy-six", "date": "1975-01-01", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pol3b0fMeyN3DB68vn0BmnENroM.jpg", "actors": [], "comments": [], "recommandations_id": []}

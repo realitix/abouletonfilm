@@ -1,1 +1,0 @@
-{"tmdb_id": 515691, "title": "Un Seul Visage (Some came here to hide)", "original_title": "Un Seul Visage (Some came here to hide)", "slug_title": "un-seul-visage-some-came-here-to-hide", "date": "2015-03-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

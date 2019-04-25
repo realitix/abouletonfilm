@@ -1,1 +1,0 @@
-{"tmdb_id": 244896, "title": "The History of Texas Longhorns Football", "original_title": "The History of Texas Longhorns Football", "slug_title": "the-history-of-texas-longhorns-football", "date": "", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

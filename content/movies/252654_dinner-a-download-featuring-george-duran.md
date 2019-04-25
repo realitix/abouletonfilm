@@ -1,1 +1,0 @@
-{"tmdb_id": 252654, "title": "Dinner & A Download featuring George Duran", "original_title": "Dinner & A Download featuring George Duran", "slug_title": "dinner-a-download-featuring-george-duran", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 444080, "title": "Wise Quacks", "original_title": "Wise Quacks", "slug_title": "wise-quacks", "date": "1953-02-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

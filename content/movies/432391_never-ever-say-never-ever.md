@@ -1,1 +1,0 @@
-{"tmdb_id": 432391, "title": "Never Ever Say Never Ever", "original_title": "Never Ever Say Never Ever", "slug_title": "never-ever-say-never-ever", "date": "2016-01-08", "genre": "Musique", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/71jJDgyE2bWxY51AY4Zfxc7l5B3.jpg", "actors": [], "comments": [], "recommandations_id": []}

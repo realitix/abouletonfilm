@@ -1,1 +1,0 @@
-{"tmdb_id": 594591, "title": "Hotel Machine", "original_title": "Hotel Machine", "slug_title": "hotel-machine", "date": "2016-03-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tpsgyGuyUmkqI3nBaAkTA3HrJzf.jpg", "actors": [], "comments": [], "recommandations_id": []}

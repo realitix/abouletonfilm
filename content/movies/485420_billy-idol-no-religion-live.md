@@ -1,1 +1,0 @@
-{"tmdb_id": 485420, "title": "Billy Idol - No Religion Live", "original_title": "Billy Idol - No Religion Live", "slug_title": "billy-idol-no-religion-live", "date": "2011-08-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wvWvOS9GKosxq8bvaMDDumd2jU7.jpg", "actors": [], "comments": [], "recommandations_id": []}

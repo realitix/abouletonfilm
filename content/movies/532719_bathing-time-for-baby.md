@@ -1,1 +1,0 @@
-{"tmdb_id": 532719, "title": "Bathing Time For Baby", "original_title": "Bathing Time For Baby", "slug_title": "bathing-time-for-baby", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

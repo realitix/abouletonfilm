@@ -1,1 +1,0 @@
-{"tmdb_id": 297900, "title": "Musty's Vacation", "original_title": "Musty's Vacation", "slug_title": "musty-s-vacation", "date": "1917-06-03", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Harry Watson (Musty Suffer)", "Alma Hanlon ()", "H.H. McCullum ()"], "comments": [], "recommandations_id": []}

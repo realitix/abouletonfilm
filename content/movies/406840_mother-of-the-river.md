@@ -1,1 +1,0 @@
-{"tmdb_id": 406840, "title": "Mother of the River", "original_title": "Mother of the River", "slug_title": "mother-of-the-river", "date": "1995-07-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cmZmvSBRcWnQ7aoHQQhcKGOj3oJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

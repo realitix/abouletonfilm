@@ -1,1 +1,0 @@
-{"tmdb_id": 213492, "title": "At the Corner of Kyoto", "original_title": "At the Corner of Kyoto", "slug_title": "at-the-corner-of-kyoto", "date": "2013-12-19", "genre": "Drame / Myst\u00e8re", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nkOcbLiQurhYsEHE9Q0QAjXLVwK.jpg", "actors": [], "comments": [], "recommandations_id": []}

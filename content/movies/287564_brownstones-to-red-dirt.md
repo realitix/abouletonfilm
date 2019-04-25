@@ -1,1 +1,0 @@
-{"tmdb_id": 287564, "title": "Brownstones to Red Dirt", "original_title": "Brownstones to Red Dirt", "slug_title": "brownstones-to-red-dirt", "date": "2010-04-13", "genre": "Drame / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fzWl2Qubhc4EjC6vx5z6HzuxwjT.jpg", "actors": [], "comments": [], "recommandations_id": []}

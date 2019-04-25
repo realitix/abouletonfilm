@@ -1,1 +1,0 @@
-{"tmdb_id": 134546, "title": "Pangea: The Neverending World", "original_title": "Pangea: The Neverending World", "slug_title": "pangea-the-neverending-world", "date": "2009-01-01", "genre": "", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x9WuPObakP6nUOMURiB3LdX9nMU.jpg", "actors": [], "comments": [], "recommandations_id": []}

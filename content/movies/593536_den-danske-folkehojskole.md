@@ -1,1 +1,0 @@
-{"tmdb_id": 593536, "title": "Den danske folkeh\u00f8jskole", "original_title": "Den danske folkeh\u00f8jskole", "slug_title": "den-danske-folkehojskole", "date": "1944-04-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

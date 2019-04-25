@@ -1,1 +1,0 @@
-{"tmdb_id": 293507, "title": "Fiha tralala", "original_title": "F\u00edha tralala", "slug_title": "fiha-tralala", "date": "2012-11-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m4vQhk3ORZrKYzf85ZMqjHu06G3.jpg", "actors": ["Martina Jelenova (Fiha)"], "comments": [], "recommandations_id": []}

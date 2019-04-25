@@ -1,1 +1,0 @@
-{"tmdb_id": 241905, "title": "M\u00e4sterdetektiven och Rasmus", "original_title": "M\u00e4sterdetektiven och Rasmus", "slug_title": "masterdetektiven-och-rasmus", "date": "1953-01-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r8cCWo9zU1Rjje5EgkE9uc7QcMd.jpg", "actors": [], "comments": [], "recommandations_id": []}

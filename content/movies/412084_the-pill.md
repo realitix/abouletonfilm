@@ -1,1 +1,0 @@
-{"tmdb_id": 412084, "title": "The Pill", "original_title": "The Pill", "slug_title": "the-pill", "date": "1999-03-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zRJYL9KoNInI6NzsttXTq0cMbqE.jpg", "actors": ["Ann-Marie MacDonald (Narrator)"], "comments": [], "recommandations_id": []}

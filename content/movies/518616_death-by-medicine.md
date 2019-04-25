@@ -1,1 +1,0 @@
-{"tmdb_id": 518616, "title": "Death by Medicine", "original_title": "Death by Medicine", "slug_title": "death-by-medicine", "date": "2011-04-18", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eofZkrtx3fZ0xtyQDkC3dQ5rGWq.jpg", "actors": [], "comments": [], "recommandations_id": []}

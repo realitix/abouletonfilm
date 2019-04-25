@@ -1,1 +1,0 @@
-{"tmdb_id": 438352, "title": "Smaken av hund", "original_title": "Smaken av hund", "slug_title": "smaken-av-hund", "date": "2006-10-19", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cGG7JJzLRI2jZQHmSZH4NYHoKrB.jpg", "actors": [], "comments": [], "recommandations_id": []}

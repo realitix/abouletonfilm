@@ -1,1 +1,0 @@
-{"tmdb_id": 534334, "title": "Shinryaku! Ika Musume - OVA 1", "original_title": "Shinryaku! Ika Musume - OVA 1", "slug_title": "shinryaku-ika-musume-ova-1", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

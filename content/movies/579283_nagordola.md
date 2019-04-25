@@ -1,1 +1,0 @@
-{"tmdb_id": 579283, "title": "Nagordola", "original_title": "Nagordola", "slug_title": "nagordola", "date": "2005-06-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Roopa Ganguly ()"], "comments": [], "recommandations_id": []}

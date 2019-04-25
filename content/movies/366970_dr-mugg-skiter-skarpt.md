@@ -1,1 +1,0 @@
-{"tmdb_id": 366970, "title": "Dr Mugg Skiter skarpt", "original_title": "Dr Mugg Skiter skarpt", "slug_title": "dr-mugg-skiter-skarpt", "date": "2006-08-02", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

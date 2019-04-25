@@ -1,1 +1,0 @@
-{"tmdb_id": 592500, "title": "Sex and the Single Gay", "original_title": "Sex and the Single Gay", "slug_title": "sex-and-the-single-gay", "date": "1970-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bC4aGY1jySFL30WHyIoGFZ4HXWW.jpg", "actors": ["Gerald Strickland ()"], "comments": [], "recommandations_id": []}

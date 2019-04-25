@@ -1,1 +1,0 @@
-{"tmdb_id": 333827, "title": "Pull Out", "original_title": "Pull Out", "slug_title": "pull-out", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

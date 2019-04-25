@@ -1,1 +1,0 @@
-{"tmdb_id": 319123, "title": "Formales Gewissen", "original_title": "Formales Gewissen", "slug_title": "formales-gewissen", "date": "2015-01-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

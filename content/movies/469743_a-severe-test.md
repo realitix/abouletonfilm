@@ -1,1 +1,0 @@
-{"tmdb_id": 469743, "title": "A Severe Test", "original_title": "A Severe Test", "slug_title": "a-severe-test", "date": "1913-04-24", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A4ajVMKb1BxW8Eauu7RKp4r18n4.jpg", "actors": ["Marian Swayne ()", "Vinnie Burns ()"], "comments": [], "recommandations_id": []}

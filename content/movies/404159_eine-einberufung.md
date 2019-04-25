@@ -1,1 +1,0 @@
-{"tmdb_id": 404159, "title": "Eine Einberufung", "original_title": "Eine Einberufung", "slug_title": "eine-einberufung", "date": "1970-05-21", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a9HDZKRZxE2a4i3aJyK7CutmoXM.jpg", "actors": [], "comments": [], "recommandations_id": []}

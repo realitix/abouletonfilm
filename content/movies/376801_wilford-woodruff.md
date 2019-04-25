@@ -1,1 +1,0 @@
-{"tmdb_id": 376801, "title": "Wilford Woodruff", "original_title": "Wilford Woodruff", "slug_title": "wilford-woodruff", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

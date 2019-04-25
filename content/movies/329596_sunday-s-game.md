@@ -1,1 +1,0 @@
-{"tmdb_id": 329596, "title": "Sunday's Game", "original_title": "Sunday's Game", "slug_title": "sunday-s-game", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nYgYqjJm9kOyrz0fXy08VZXaZTZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 387147, "title": "The Tree of Courage", "original_title": "Mochi Mochi no Ki", "slug_title": "the-tree-of-courage", "date": "1972-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/21lTawFOgdYXPz3wc1PGzHd5AXQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

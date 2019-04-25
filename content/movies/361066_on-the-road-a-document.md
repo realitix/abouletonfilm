@@ -1,1 +1,0 @@
-{"tmdb_id": 361066, "title": "On the Road: A Document", "original_title": "On the Road: A Document", "slug_title": "on-the-road-a-document", "date": "1964-01-01", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4IUF7gfSHwjN93byqtzq3GPIgWS.jpg", "actors": [], "comments": [], "recommandations_id": []}

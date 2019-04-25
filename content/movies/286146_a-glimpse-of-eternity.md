@@ -1,1 +1,0 @@
-{"tmdb_id": 286146, "title": "A Glimpse Of Eternity", "original_title": "A Glimpse Of Eternity", "slug_title": "a-glimpse-of-eternity", "date": "1982-08-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/phcgVcozHB1oAJHDXHMrorsolst.jpg", "actors": [], "comments": [], "recommandations_id": []}

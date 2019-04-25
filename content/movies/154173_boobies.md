@@ -1,1 +1,0 @@
-{"tmdb_id": 154173, "title": "Boobies", "original_title": "Boobies", "slug_title": "boobies", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

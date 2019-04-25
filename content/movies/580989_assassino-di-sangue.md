@@ -1,1 +1,0 @@
-{"tmdb_id": 580989, "title": "Assassino Di Sangue", "original_title": "Assassino Di Sangue", "slug_title": "assassino-di-sangue", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mario Ciuffi ()"], "comments": [], "recommandations_id": []}

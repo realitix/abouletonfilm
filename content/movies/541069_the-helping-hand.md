@@ -1,1 +1,0 @@
-{"tmdb_id": 541069, "title": "The Helping Hand", "original_title": "The Helping Hand", "slug_title": "the-helping-hand", "date": "2019-04-05", "genre": "Drame / Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ryan Willard (Micah)", "Jennifer Finley (Cindy)", "Sadie Williams (Indigo)"], "comments": [], "recommandations_id": []}

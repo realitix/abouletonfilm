@@ -1,1 +1,0 @@
-{"tmdb_id": 586178, "title": "Visi\u00f3n intertropical", "original_title": "Visi\u00f3n intertropical", "slug_title": "vision-intertropical", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wzct5QL5e7xDGWPm2w5l01P4Ggx.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 108428, "title": "Devil Sorcery", "original_title": "Ban xian jiang - \u534a\u908f\u964dc", "slug_title": "devil-sorcery", "date": "1988-01-31", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7dXmMJof3hlVzSADt0OBSaoxfRs.jpg", "actors": [], "comments": [], "recommandations_id": []}

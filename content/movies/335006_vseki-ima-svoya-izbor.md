@@ -1,1 +1,0 @@
-{"tmdb_id": 335006, "title": "Vseki ima svoya izbor", "original_title": "Vseki ima svoya izbor", "slug_title": "vseki-ima-svoya-izbor", "date": "2012-06-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

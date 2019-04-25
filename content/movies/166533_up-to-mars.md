@@ -1,1 +1,0 @@
-{"tmdb_id": 166533, "title": "Up to Mars", "original_title": "Up to Mars", "slug_title": "up-to-mars", "date": "1930-11-21", "genre": "Animation / Science-Fiction", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

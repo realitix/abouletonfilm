@@ -1,1 +1,0 @@
-{"tmdb_id": 304338, "title": "Parbat Ke Us Paar", "original_title": "Parbat Ke Us Paar", "slug_title": "parbat-ke-us-paar", "date": "1988-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

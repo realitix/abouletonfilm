@@ -1,1 +1,0 @@
-{"tmdb_id": 480704, "title": "SLAM: Voz de Levante", "original_title": "SLAM: Voz de Levante", "slug_title": "slam-voz-de-levante", "date": "2017-10-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t39pFdyR5EuMih7kvveRneAUgEa.jpg", "actors": [], "comments": [], "recommandations_id": []}

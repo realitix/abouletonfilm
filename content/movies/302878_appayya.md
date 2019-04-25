@@ -1,1 +1,0 @@
-{"tmdb_id": 302878, "title": "Appayya", "original_title": "Appayya", "slug_title": "appayya", "date": "2012-09-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

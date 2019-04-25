@@ -1,1 +1,0 @@
-{"tmdb_id": 382505, "title": "Borislav", "original_title": "Borislav", "slug_title": "borislav", "date": "2014-04-22", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yzNWyVdt4Kdhdwq01P1qS81ZsGE.jpg", "actors": [], "comments": [], "recommandations_id": []}

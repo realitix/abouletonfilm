@@ -1,1 +1,0 @@
-{"tmdb_id": 63234, "title": "Time Stranger Kyoko", "original_title": "Time Stranger Kyoko", "slug_title": "time-stranger-kyoko", "date": "2001-08-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

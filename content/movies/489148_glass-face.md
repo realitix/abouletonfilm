@@ -1,1 +1,0 @@
-{"tmdb_id": 489148, "title": "Glass Face", "original_title": "Glass Face", "slug_title": "glass-face", "date": "1975-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vEFH1jSXisx0tjYJvSz64gldqPz.jpg", "actors": [], "comments": [], "recommandations_id": []}

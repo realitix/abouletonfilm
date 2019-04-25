@@ -1,1 +1,0 @@
-{"tmdb_id": 419561, "title": "Aokigahara", "original_title": "Aokigahara", "slug_title": "aokigahara", "date": "2016-09-29", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Malte Hesse ()", "Chris \"m00\" Driese ()", "David Nolte ()", "Niko Olsen ()"], "comments": [], "recommandations_id": []}

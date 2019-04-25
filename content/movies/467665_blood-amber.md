@@ -1,1 +1,0 @@
-{"tmdb_id": 467665, "title": "Blood Amber", "original_title": "\u8840\u7425\u73c0", "slug_title": "blood-amber", "date": "2017-08-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ipzsAF0Jy9Fy4yYCOxBjX0R6Jxe.jpg", "actors": [], "comments": [], "recommandations_id": []}

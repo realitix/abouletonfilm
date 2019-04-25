@@ -1,1 +1,0 @@
-{"tmdb_id": 338289, "title": "Twisted Sister: We're Not Gonna Take It", "original_title": "Twisted Sister: We're Not Gonna Take It", "slug_title": "twisted-sister-we-re-not-gonna-take-it", "date": "1984-01-01", "genre": "", "score": "8.3/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

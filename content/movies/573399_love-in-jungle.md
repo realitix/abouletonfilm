@@ -1,1 +1,0 @@
-{"tmdb_id": 573399, "title": "Love in Jungle", "original_title": "Love in Jungle", "slug_title": "love-in-jungle", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

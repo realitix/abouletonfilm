@@ -1,1 +1,0 @@
-{"tmdb_id": 154354, "title": "Dee Snider: Deevision", "original_title": "Dee Snider: Deevision", "slug_title": "dee-snider-deevision", "date": "2002-09-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d4nouSGlFiwdKcybD0nQeEf7atU.jpg", "actors": ["Dee Snider (Himself)"], "comments": [], "recommandations_id": []}

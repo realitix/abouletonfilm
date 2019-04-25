@@ -1,1 +1,0 @@
-{"tmdb_id": 570805, "title": "Sun Flower", "original_title": "\u5411\u9633\u7684\u65e5\u5b50", "slug_title": "sun-flower", "date": "2018-10-19", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jyFBtJDasMTiV9rLMvLZ5AsLWYP.jpg", "actors": [], "comments": [], "recommandations_id": []}

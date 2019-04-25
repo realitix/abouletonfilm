@@ -1,1 +1,0 @@
-{"tmdb_id": 311583, "title": "Little Monsters: The Little Monsters Go All Out", "original_title": "Little Monsters: The Little Monsters Go All Out", "slug_title": "little-monsters-the-little-monsters-go-all-out", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

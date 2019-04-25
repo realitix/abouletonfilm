@@ -1,1 +1,0 @@
-{"tmdb_id": 213700, "title": "The Father, the Son and the Housekeeper", "original_title": "The Father, the Son and the Housekeeper", "slug_title": "the-father-the-son-and-the-housekeeper", "date": "2008-06-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Michael Cleary ()"], "comments": [], "recommandations_id": []}

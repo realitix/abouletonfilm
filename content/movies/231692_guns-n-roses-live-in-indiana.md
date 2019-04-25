@@ -1,1 +1,0 @@
-{"tmdb_id": 231692, "title": "Guns N' Roses Live in Indiana", "original_title": "Guns N' Roses Live in Indiana", "slug_title": "guns-n-roses-live-in-indiana", "date": "1991-09-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kVkNzMrOXSdI0fZIowo6iI3Ojg1.jpg", "actors": [], "comments": [], "recommandations_id": []}

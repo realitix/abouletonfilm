@@ -1,1 +1,0 @@
-{"tmdb_id": 498726, "title": "Whenever the Heart Skips a Beat", "original_title": "Whenever the Heart Skips a Beat", "slug_title": "whenever-the-heart-skips-a-beat", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

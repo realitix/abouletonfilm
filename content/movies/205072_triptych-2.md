@@ -1,1 +1,0 @@
-{"tmdb_id": 205072, "title": "Triptych - 2", "original_title": "Triptyque - 2", "slug_title": "triptych-2", "date": "2013-07-03", "genre": "Animation", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mIwHHmbp2YJ8lZhbPjJpl0n2EF5.jpg", "actors": [], "comments": [], "recommandations_id": []}

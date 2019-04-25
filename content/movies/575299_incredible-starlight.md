@@ -1,1 +1,0 @@
-{"tmdb_id": 575299, "title": "Incredible Starlight", "original_title": "\u0420\u0435\u0432\u043d\u043e\u0441\u0442\u044c", "slug_title": "incredible-starlight", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

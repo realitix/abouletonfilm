@@ -1,1 +1,0 @@
-{"tmdb_id": 514530, "title": "Manpower", "original_title": "Manpower", "slug_title": "manpower", "date": "1942-10-29", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Paul V. McNutt ()"], "comments": [], "recommandations_id": []}

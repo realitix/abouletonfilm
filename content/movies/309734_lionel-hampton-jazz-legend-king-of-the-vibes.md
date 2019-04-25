@@ -1,1 +1,0 @@
-{"tmdb_id": 309734, "title": "Lionel Hampton: Jazz Legend: King of the Vibes", "original_title": "Lionel Hampton: Jazz Legend: King of the Vibes", "slug_title": "lionel-hampton-jazz-legend-king-of-the-vibes", "date": "2005-01-01", "genre": "", "score": "2.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

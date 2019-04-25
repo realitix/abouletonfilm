@@ -1,1 +1,0 @@
-{"tmdb_id": 492983, "title": "The Last Horror", "original_title": "The Last Horror", "slug_title": "the-last-horror", "date": "", "genre": "", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gRKEFiiI2YAysPqdFVBVonuK2Na.jpg", "actors": [], "comments": [], "recommandations_id": []}

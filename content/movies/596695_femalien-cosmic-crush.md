@@ -1,1 +1,0 @@
-{"tmdb_id": 596695, "title": "Femalien: Cosmic Crush", "original_title": "Femalien: Cosmic Crush", "slug_title": "femalien-cosmic-crush", "date": "2020-02-14", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4vV7KZ1FPHOUYSmtihdT5mrixrD.jpg", "actors": [], "comments": [], "recommandations_id": []}

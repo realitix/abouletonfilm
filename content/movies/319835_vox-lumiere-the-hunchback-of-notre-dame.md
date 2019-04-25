@@ -1,1 +1,0 @@
-{"tmdb_id": 319835, "title": "Vox Lumiere: The Hunchback of Notre Dame", "original_title": "Vox Lumiere: The Hunchback of Notre Dame", "slug_title": "vox-lumiere-the-hunchback-of-notre-dame", "date": "2008-09-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

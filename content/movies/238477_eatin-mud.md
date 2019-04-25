@@ -1,1 +1,0 @@
-{"tmdb_id": 238477, "title": "Eatin' Mud", "original_title": "Eatin' Mud", "slug_title": "eatin-mud", "date": "2009-11-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4NJOegdvuxjPvNwhRBXGkpSPKox.jpg", "actors": [], "comments": [], "recommandations_id": []}

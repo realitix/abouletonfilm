@@ -1,1 +1,0 @@
-{"tmdb_id": 442692, "title": "This Is Poland", "original_title": "This Is Poland", "slug_title": "this-is-poland", "date": "1941-02-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Derrick De Marney (Narrator)", "Terence de Marney (Narrator)"], "comments": [], "recommandations_id": []}

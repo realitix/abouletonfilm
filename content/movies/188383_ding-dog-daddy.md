@@ -1,1 +1,0 @@
-{"tmdb_id": 188383, "title": "Ding Dog Daddy", "original_title": "Ding Dog Daddy", "slug_title": "ding-dog-daddy", "date": "1942-12-04", "genre": "", "score": "5.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i3tHl33FavwJZ4WuhiSIZxs0HvH.jpg", "actors": [], "comments": [], "recommandations_id": [236952, 235946]}

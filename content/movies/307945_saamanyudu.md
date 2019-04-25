@@ -1,1 +1,0 @@
-{"tmdb_id": 307945, "title": "Saamanyudu", "original_title": "Saamanyudu", "slug_title": "saamanyudu", "date": "2006-10-19", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

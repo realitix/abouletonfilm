@@ -1,1 +1,0 @@
-{"tmdb_id": 488099, "title": "Age of the Drone", "original_title": "Age of the Drone", "slug_title": "age-of-the-drone", "date": "2015-02-19", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gpcqzm0TP3TMpGl8lkrT0JasA66.jpg", "actors": ["Ann-Marie MacDonald (Narrator)"], "comments": [], "recommandations_id": []}

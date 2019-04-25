@@ -1,1 +1,0 @@
-{"tmdb_id": 345720, "title": "Ever the Land", "original_title": "Ever the Land", "slug_title": "ever-the-land", "date": "2015-07-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xihLI0ST9EpdorpD3AWWvdogB3u.jpg", "actors": [], "comments": [], "recommandations_id": []}

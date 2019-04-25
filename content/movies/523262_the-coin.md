@@ -1,1 +1,0 @@
-{"tmdb_id": 523262, "title": "The Coin", "original_title": "The Coin", "slug_title": "the-coin", "date": "2018-06-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fMqSPvEBDKbLMTUvNf7zyInktrk.jpg", "actors": [], "comments": [], "recommandations_id": []}

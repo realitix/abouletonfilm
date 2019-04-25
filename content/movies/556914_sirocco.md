@@ -1,1 +1,0 @@
-{"tmdb_id": 556914, "title": "Sirocco", "original_title": "Sirocco", "slug_title": "sirocco", "date": "1931-12-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 400102, "title": "The Call", "original_title": "V\u00fdzva", "slug_title": "the-call", "date": "1999-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jPpvPh8NtSue9bn6MwkdDpVgUmF.jpg", "actors": ["Jan Potm\u011b\u0161il (Himself)"], "comments": [], "recommandations_id": []}

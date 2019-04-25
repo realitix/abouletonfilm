@@ -1,1 +1,0 @@
-{"tmdb_id": 318813, "title": "Wisin & Yandel: Pa'l Mundo", "original_title": "Wisin & Yandel: Pa'l Mundo", "slug_title": "wisin-yandel-pa-l-mundo", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

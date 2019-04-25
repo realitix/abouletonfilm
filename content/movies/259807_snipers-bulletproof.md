@@ -1,1 +1,0 @@
-{"tmdb_id": 259807, "title": "Snipers - Bulletproof", "original_title": "Snipers - Bulletproof", "slug_title": "snipers-bulletproof", "date": "2011-10-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iTIkFfOVAVLDfB50Kh70Q5n1TA5.jpg", "actors": [], "comments": [], "recommandations_id": []}

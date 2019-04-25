@@ -1,1 +1,0 @@
-{"tmdb_id": 319818, "title": "Gangsta King: Raymond Lee Washington", "original_title": "Gangsta King: Raymond Lee Washington", "slug_title": "gangsta-king-raymond-lee-washington", "date": "2003-07-22", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

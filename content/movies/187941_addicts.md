@@ -1,1 +1,0 @@
-{"tmdb_id": 187941, "title": "Addicts", "original_title": "Addicts", "slug_title": "addicts", "date": "2009-05-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mwm7gLZgKq0owePpbyxDmOYBm9w.jpg", "actors": [], "comments": [], "recommandations_id": []}

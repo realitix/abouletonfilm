@@ -1,1 +1,0 @@
-{"tmdb_id": 559675, "title": "Bertrand coeur de lion", "original_title": "Bertrand coeur de lion", "slug_title": "bertrand-coeur-de-lion", "date": "1951-05-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aCzlWVPqyKpifRFZfRneyhhBHIm.jpg", "actors": [], "comments": [], "recommandations_id": []}

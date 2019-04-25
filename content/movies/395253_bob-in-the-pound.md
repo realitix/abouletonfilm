@@ -1,1 +1,0 @@
-{"tmdb_id": 395253, "title": "Bob-in the Pound", "original_title": "Bob-in the Pound", "slug_title": "bob-in-the-pound", "date": "1940-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

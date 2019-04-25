@@ -1,1 +1,0 @@
-{"tmdb_id": 52604, "title": "Boxing my Shadow", "original_title": "Boxing my Shadow", "slug_title": "boxing-my-shadow", "date": "2008-11-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9URIShgs20QpMfqoygMqxVr5HkI.jpg", "actors": ["J\u00e9r\u00f4me Lebanner ()"], "comments": [], "recommandations_id": []}

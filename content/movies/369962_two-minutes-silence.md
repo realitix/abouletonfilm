@@ -1,1 +1,0 @@
-{"tmdb_id": 369962, "title": "Two Minutes Silence", "original_title": "Two Minutes Silence", "slug_title": "two-minutes-silence", "date": "1933-11-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6F6JEsHVzjI7u4zG71ozHAJDi0s.jpg", "actors": [], "comments": [], "recommandations_id": []}

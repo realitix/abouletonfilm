@@ -1,1 +1,0 @@
-{"tmdb_id": 332943, "title": "The Father of the American Sniper", "original_title": "The Father of the American Sniper", "slug_title": "the-father-of-the-american-sniper", "date": "2015-03-11", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

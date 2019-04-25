@@ -1,1 +1,0 @@
-{"tmdb_id": 533902, "title": "Les p'tits schtroumpfs", "original_title": "Les p'tits schtroumpfs", "slug_title": "les-p-tits-schtroumpfs", "date": "1988-03-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pI87rVcR7cIRz2JVMb0gkAzB9rV.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 196774, "title": "Restoring 'Entuziazm'", "original_title": "Restoring 'Entuziazm'", "slug_title": "restoring-entuziazm", "date": "2005-09-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fxZncQLFun76n5ABxo7lXdcGSnZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

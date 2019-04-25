@@ -1,1 +1,0 @@
-{"tmdb_id": 467268, "title": "Hub-bub in the Baobabs", "original_title": "Hub-bub in the Baobabs", "slug_title": "hub-bub-in-the-baobabs", "date": "1989-07-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

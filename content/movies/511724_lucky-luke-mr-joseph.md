@@ -1,1 +1,0 @@
-{"tmdb_id": 511724, "title": "Lucky Luke Mr Joseph", "original_title": "Lucky Luke Mr Joseph", "slug_title": "lucky-luke-mr-joseph", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8oXKlVcszL5cFDlz8x0Vje4Yq7N.jpg", "actors": [], "comments": [], "recommandations_id": []}

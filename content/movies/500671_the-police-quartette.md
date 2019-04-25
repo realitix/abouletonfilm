@@ -1,1 +1,0 @@
-{"tmdb_id": 500671, "title": "The Police Quartette", "original_title": "The Police Quartette", "slug_title": "the-police-quartette", "date": "1927-12-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

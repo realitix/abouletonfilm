@@ -1,1 +1,1 @@
-{"tmdb_id": 503561, "title": "Last Breath", "original_title": "Dernier soupir", "slug_title": "last-breath", "date": "2011-02-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 503561, "title": "Last Breath", "original_title": "Dernier soupir", "slug_title": "last-breath", "date": "2011-02-06", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

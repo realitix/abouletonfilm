@@ -1,1 +1,0 @@
-{"tmdb_id": 353736, "title": "Badlis sa Kinabuhi", "original_title": "Badlis sa Kinabuhi", "slug_title": "badlis-sa-kinabuhi", "date": "1969-02-09", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gloria Sevilla ()", "Matt Ranillo ()", "Frankie Navajar Jr. ()"], "comments": [], "recommandations_id": []}

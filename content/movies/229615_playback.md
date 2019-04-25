@@ -1,1 +1,0 @@
-{"tmdb_id": 229615, "title": "Playback", "original_title": "Playback", "slug_title": "playback", "date": "2010-10-12", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/23nXGornNAnCBssgJYw9kgp6Q4i.jpg", "actors": ["James Duval (Clark)", "Tiffany Bowyer (Stephanie)"], "comments": [], "recommandations_id": []}

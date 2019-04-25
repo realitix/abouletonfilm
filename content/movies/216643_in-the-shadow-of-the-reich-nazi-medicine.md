@@ -1,1 +1,0 @@
-{"tmdb_id": 216643, "title": "In the Shadow of the Reich: Nazi Medicine", "original_title": "In the Shadow of the Reich: Nazi Medicine", "slug_title": "in-the-shadow-of-the-reich-nazi-medicine", "date": "", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

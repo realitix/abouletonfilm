@@ -1,1 +1,0 @@
-{"tmdb_id": 584657, "title": "Rote Zora", "original_title": "Rote Zora", "slug_title": "rote-zora", "date": "2000-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

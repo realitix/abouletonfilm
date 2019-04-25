@@ -1,1 +1,0 @@
-{"tmdb_id": 342317, "title": "The Hacker : X", "original_title": "The Hacker : X", "slug_title": "the-hacker-x", "date": "2008-06-16", "genre": "", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nDJBqJfyEe2AXHgozgQ1Eg9lJJP.jpg", "actors": [], "comments": [], "recommandations_id": []}

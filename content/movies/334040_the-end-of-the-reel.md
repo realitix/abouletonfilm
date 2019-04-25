@@ -1,1 +1,0 @@
-{"tmdb_id": 334040, "title": "The End of the Reel", "original_title": "The End of the Reel", "slug_title": "the-end-of-the-reel", "date": "2011-07-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["John Boland (Edward)"], "comments": [], "recommandations_id": []}

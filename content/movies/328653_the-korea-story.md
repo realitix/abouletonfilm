@@ -1,1 +1,0 @@
-{"tmdb_id": 328653, "title": "The Korea Story", "original_title": "The Korea Story", "slug_title": "the-korea-story", "date": "1953-01-01", "genre": "Documentaire / Guerre", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 384210, "title": "The Community", "original_title": "A Comunidade", "slug_title": "the-community", "date": "2012-01-01", "genre": "Documentaire", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9F9kR53cptcRpTH1IGC2MqCjAiX.jpg", "actors": [], "comments": [], "recommandations_id": []}

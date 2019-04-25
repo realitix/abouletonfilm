@@ -1,1 +1,0 @@
-{"tmdb_id": 292254, "title": "Killing Eva Braun", "original_title": "Killing Eva Braun", "slug_title": "killing-eva-braun", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["James Maher (Adolf Hitler)", "Tracy Baumbach (Ava Brown / Eva Braun)"], "comments": [], "recommandations_id": []}

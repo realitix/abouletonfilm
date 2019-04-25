@@ -1,1 +1,0 @@
-{"tmdb_id": 479609, "title": "Pop Star: Never Stop Stopping", "original_title": "Pop Star: Never Stop Stopping", "slug_title": "pop-star-never-stop-stopping", "date": "", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

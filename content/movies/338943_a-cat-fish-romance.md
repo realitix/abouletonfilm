@@ -1,1 +1,0 @@
-{"tmdb_id": 338943, "title": "A Cat-Fish Romance", "original_title": "A Cat-Fish Romance", "slug_title": "a-cat-fish-romance", "date": "1932-10-06", "genre": "Com\u00e9die / Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Margie Hines (Catfish)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 243959, "title": "The Player", "original_title": "The Player", "slug_title": "the-player", "date": "2009-11-21", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bQyYQ8ta8HqcMgfPIzQbr8acacN.jpg", "actors": [], "comments": [], "recommandations_id": []}

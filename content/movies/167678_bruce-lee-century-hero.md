@@ -1,1 +1,0 @@
-{"tmdb_id": 167678, "title": "Bruce Lee: Century Hero", "original_title": "Bruce Lee: Century Hero", "slug_title": "bruce-lee-century-hero", "date": "1999-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n4jFzAJ4eollHa4o0aCSirywsg1.jpg", "actors": [], "comments": [], "recommandations_id": []}

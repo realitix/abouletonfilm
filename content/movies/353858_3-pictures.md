@@ -1,1 +1,0 @@
-{"tmdb_id": 353858, "title": "3 Pictures", "original_title": "3 Pictures", "slug_title": "3-pictures", "date": "2014-03-24", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/we272zH63tt3yAKX6UXJ4o9iKwq.jpg", "actors": ["Huang Lu (Wen)", "Trinity Neo (Young Wen)"], "comments": [], "recommandations_id": []}

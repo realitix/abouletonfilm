@@ -1,1 +1,0 @@
-{"tmdb_id": 276405, "title": "Arthur Ashe: Citizen of the World", "original_title": "Arthur Ashe: Citizen of the World", "slug_title": "arthur-ashe-citizen-of-the-world", "date": "1994-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

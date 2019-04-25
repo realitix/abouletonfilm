@@ -1,1 +1,0 @@
-{"tmdb_id": 330254, "title": "Lost Ships of the Mediterranean", "original_title": "Lost Ships of the Mediterranean", "slug_title": "lost-ships-of-the-mediterranean", "date": "1999-03-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

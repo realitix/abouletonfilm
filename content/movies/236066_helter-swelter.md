@@ -1,1 +1,0 @@
-{"tmdb_id": 236066, "title": "Helter Swelter", "original_title": "Helter Swelter", "slug_title": "helter-swelter", "date": "1950-08-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hXapApQQ5EI0BMVxJ2CcZ8c8D3d.jpg", "actors": [], "comments": [], "recommandations_id": []}

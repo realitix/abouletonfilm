@@ -1,1 +1,0 @@
-{"tmdb_id": 253369, "title": "Mem\u00f3ria Luizense", "original_title": "Mem\u00f3ria Luizense", "slug_title": "memoria-luizense", "date": "2012-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

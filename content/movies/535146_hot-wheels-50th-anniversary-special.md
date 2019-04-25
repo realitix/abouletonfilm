@@ -1,1 +1,0 @@
-{"tmdb_id": 535146, "title": "Hot Wheels: 50th Anniversary Special", "original_title": "Hot Wheels: 50th Anniversary Special", "slug_title": "hot-wheels-50th-anniversary-special", "date": "2018-07-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

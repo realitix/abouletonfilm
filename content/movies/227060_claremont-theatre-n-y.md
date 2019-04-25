@@ -1,1 +1,0 @@
-{"tmdb_id": 227060, "title": "Claremont Theatre, N.Y.", "original_title": "Claremont Theatre, N.Y.", "slug_title": "claremont-theatre-n-y", "date": "1915-10-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

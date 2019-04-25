@@ -1,1 +1,0 @@
-{"tmdb_id": 347005, "title": "Magus(re)Genesis", "original_title": "Magus(re)Genesis", "slug_title": "magus-re-genesis", "date": "2011-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cHxyURowpMnwSt7n2LLIzbsGl7v.jpg", "actors": [], "comments": [], "recommandations_id": []}

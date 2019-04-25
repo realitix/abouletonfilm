@@ -1,1 +1,0 @@
-{"tmdb_id": 585267, "title": "Life After Life", "original_title": "Life After Life", "slug_title": "life-after-life", "date": "2017-04-06", "genre": "Documentaire / Crime / Drame", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

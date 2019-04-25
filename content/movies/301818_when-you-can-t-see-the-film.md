@@ -1,1 +1,0 @@
-{"tmdb_id": 301818, "title": "When You Can't See the Film", "original_title": "When You Can't See the Film", "slug_title": "when-you-can-t-see-the-film", "date": "2014-11-21", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

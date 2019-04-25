@@ -1,1 +1,0 @@
-{"tmdb_id": 509965, "title": "Letter to Anita", "original_title": "Letter to Anita", "slug_title": "letter-to-anita", "date": "2014-06-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/749kmrB5TV9P1nqPg51PoKZh95V.jpg", "actors": [], "comments": [], "recommandations_id": []}

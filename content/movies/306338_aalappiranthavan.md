@@ -1,1 +1,0 @@
-{"tmdb_id": 306338, "title": "Aalappiranthavan", "original_title": "Aalappiranthavan", "slug_title": "aalappiranthavan", "date": "1987-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

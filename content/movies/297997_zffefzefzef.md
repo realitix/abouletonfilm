@@ -1,1 +1,1 @@
-{"tmdb_id": 297997, "title": "zffefzefzef", "original_title": "zffefzefzef", "slug_title": "zffefzefzef", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 297997, "title": "zffefzefzef", "original_title": "zffefzefzef", "slug_title": "zffefzefzef", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "fzefzefzefzefzef", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

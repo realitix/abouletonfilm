@@ -1,1 +1,0 @@
-{"tmdb_id": 117121, "title": "Silent Stories", "original_title": "Silent Stories", "slug_title": "silent-stories", "date": "2011-06-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5txzHVtivkkQhv5zK2ptFsu9g7Y.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 409666, "title": "David555David", "original_title": "David555David", "slug_title": "david555david", "date": "2014-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o5dqo2Qpov4VN0L1upt2Sl0y9as.jpg", "actors": [], "comments": [], "recommandations_id": []}

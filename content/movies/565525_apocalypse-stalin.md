@@ -1,1 +1,0 @@
-{"tmdb_id": 565525, "title": "Apocalypse: Stalin", "original_title": "Apocalypse: Staline", "slug_title": "apocalypse-stalin", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4bBgxTHISwpqSK9ZdNjm7ZCZ4tn.jpg", "actors": [], "comments": [], "recommandations_id": []}

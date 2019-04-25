@@ -1,1 +1,0 @@
-{"tmdb_id": 528713, "title": "K-1 GP '99 Final Round", "original_title": "K-1 GP '99 Final Round", "slug_title": "k-1-gp-99-final-round", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

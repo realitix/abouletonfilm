@@ -1,1 +1,0 @@
-{"tmdb_id": 268879, "title": "Flower in Otomi", "original_title": "Flor en otom\u00ed", "slug_title": "flower-in-otomi", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rg1NbPpaiHeCeIdUd6T9uiU9RZF.jpg", "actors": [], "comments": [], "recommandations_id": []}

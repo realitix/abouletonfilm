@@ -1,1 +1,0 @@
-{"tmdb_id": 577677, "title": "The Rabbit and the Teasel", "original_title": "The Rabbit and the Teasel", "slug_title": "the-rabbit-and-the-teasel", "date": "2014-05-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Liam Heffernan ()"], "comments": [], "recommandations_id": []}

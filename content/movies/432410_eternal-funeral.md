@@ -1,1 +1,0 @@
-{"tmdb_id": 432410, "title": "Eternal Funeral", "original_title": "Eternal Funeral", "slug_title": "eternal-funeral", "date": "2016-01-30", "genre": "Musique", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oWiHwYQJ56tR3PciWqzLdM01Ful.jpg", "actors": [], "comments": [], "recommandations_id": []}

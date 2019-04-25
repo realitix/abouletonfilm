@@ -1,1 +1,0 @@
-{"tmdb_id": 436741, "title": "Les patients", "original_title": "Les patients", "slug_title": "les-patients", "date": "1990-03-18", "genre": "Documentaire", "score": "9.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jean-Marie Bouvier (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 201404, "title": "Liebesgeschichten aus Moskau 1993 - 2009", "original_title": "Liebesgeschichten aus Moskau 1993 - 2009", "slug_title": "liebesgeschichten-aus-moskau-1993-2009", "date": "2010-05-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

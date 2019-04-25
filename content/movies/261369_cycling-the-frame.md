@@ -1,1 +1,0 @@
-{"tmdb_id": 261369, "title": "Cycling the Frame", "original_title": "Cycling the Frame", "slug_title": "cycling-the-frame", "date": "1988-08-30", "genre": "Documentaire", "score": "9.7/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tilda Swinton (The Cyclist)"], "comments": [], "recommandations_id": []}

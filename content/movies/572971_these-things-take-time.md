@@ -1,1 +1,0 @@
-{"tmdb_id": 572971, "title": "These Things Take Time", "original_title": "These Things Take Time", "slug_title": "these-things-take-time", "date": "2018-05-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g3R1yXqxUKfX1vbjQ2fR0OZdtGA.jpg", "actors": [], "comments": [], "recommandations_id": []}

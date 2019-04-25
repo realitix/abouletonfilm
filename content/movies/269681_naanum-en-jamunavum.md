@@ -1,1 +1,0 @@
-{"tmdb_id": 269681, "title": "Naanum En Jamunavum", "original_title": "Naanum En Jamunavum", "slug_title": "naanum-en-jamunavum", "date": "2013-03-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/16tBiHPS8BkBEUqAxTTWEB6yQFQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

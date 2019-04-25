@@ -1,1 +1,0 @@
-{"tmdb_id": 501247, "title": "Texas Paris Texas", "original_title": "Texas : Paris Texas", "slug_title": "texas-paris-texas", "date": "2001-01-27", "genre": "", "score": "0.0/10", "synopsis": "double DVD clips + concert \u00e0 Paris", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ufCYCoXsO22j5t4sN3fb5pSLfTe.jpg", "actors": [], "comments": [], "recommandations_id": []}

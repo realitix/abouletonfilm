@@ -1,1 +1,0 @@
-{"tmdb_id": 586113, "title": "The Quest", "original_title": "Aamrityu", "slug_title": "the-quest", "date": "2018-12-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

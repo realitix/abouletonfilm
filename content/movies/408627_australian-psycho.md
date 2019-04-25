@@ -1,1 +1,0 @@
-{"tmdb_id": 408627, "title": "Australian Psycho", "original_title": "Australian Psycho", "slug_title": "australian-psycho", "date": "2016-05-16", "genre": "Drame", "score": "6.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zAu5erM8ArzvhymzGITFNTmsjP6.jpg", "actors": ["Margot Robbie (Margot Robbie)"], "comments": [], "recommandations_id": [68568]}

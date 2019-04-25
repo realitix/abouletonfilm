@@ -1,1 +1,0 @@
-{"tmdb_id": 369693, "title": "Under The Juggernaut", "original_title": "Under The Juggernaut", "slug_title": "under-the-juggernaut", "date": "1969-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 580497, "title": "BBC Proms - Celebrating John Williams", "original_title": "BBC Proms - Celebrating John Williams", "slug_title": "bbc-proms-celebrating-john-williams", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

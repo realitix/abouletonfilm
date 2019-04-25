@@ -1,1 +1,0 @@
-{"tmdb_id": 304794, "title": "The Disgustings", "original_title": "The Disgustings", "slug_title": "the-disgustings", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w5BE8AMYaaphzmn0BdUgpDSGBjb.jpg", "actors": [], "comments": [], "recommandations_id": []}

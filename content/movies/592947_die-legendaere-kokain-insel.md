@@ -1,1 +1,0 @@
-{"tmdb_id": 592947, "title": "Die legendaere Kokain Insel", "original_title": "Die legendaere Kokain Insel", "slug_title": "die-legendaere-kokain-insel", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9Mdtwk2TnJJnpigaKmf2HvN51DF.jpg", "actors": [], "comments": [], "recommandations_id": []}

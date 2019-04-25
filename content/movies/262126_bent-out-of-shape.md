@@ -1,1 +1,0 @@
-{"tmdb_id": 262126, "title": "Bent Out of Shape", "original_title": "Bent Out of Shape", "slug_title": "bent-out-of-shape", "date": "1995-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

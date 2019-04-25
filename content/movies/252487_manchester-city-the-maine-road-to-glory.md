@@ -1,1 +1,0 @@
-{"tmdb_id": 252487, "title": "Manchester City - The Maine Road to Glory", "original_title": "Manchester City - The Maine Road to Glory", "slug_title": "manchester-city-the-maine-road-to-glory", "date": "2000-01-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

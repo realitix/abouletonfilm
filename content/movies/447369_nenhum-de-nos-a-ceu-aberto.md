@@ -1,1 +1,0 @@
-{"tmdb_id": 447369, "title": "NENHUM DE NOS A CEU ABERTO", "original_title": "NENHUM DE NOS A CEU ABERTO", "slug_title": "nenhum-de-nos-a-ceu-aberto", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kbQjJPInklYxjEuvpcNO19MUxnl.jpg", "actors": [], "comments": [], "recommandations_id": []}

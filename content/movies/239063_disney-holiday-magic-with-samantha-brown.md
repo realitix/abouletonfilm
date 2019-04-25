@@ -1,1 +1,0 @@
-{"tmdb_id": 239063, "title": "Disney Holiday Magic with Samantha Brown", "original_title": "Disney Holiday Magic with Samantha Brown", "slug_title": "disney-holiday-magic-with-samantha-brown", "date": "2011-12-11", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

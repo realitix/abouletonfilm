@@ -1,1 +1,0 @@
-{"tmdb_id": 556936, "title": "Clair de lune", "original_title": "Clair de lune", "slug_title": "clair-de-lune", "date": "1932-11-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

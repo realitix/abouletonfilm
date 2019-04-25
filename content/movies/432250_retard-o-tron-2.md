@@ -1,1 +1,0 @@
-{"tmdb_id": 432250, "title": "Retard-O-Tron 2", "original_title": "Retard-O-Tron 2", "slug_title": "retard-o-tron-2", "date": "2008-10-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uosSGtR2EoA1kuEHaOioCbQhfgR.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 571723, "title": "Kiss Me If You Can", "original_title": "Beije-me Se For Capaz", "slug_title": "kiss-me-if-you-can", "date": "2007-09-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ppRFXLo81LcINtYgdsZYRvJ4X05.jpg", "actors": [], "comments": [], "recommandations_id": []}

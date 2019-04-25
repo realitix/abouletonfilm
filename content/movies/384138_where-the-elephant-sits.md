@@ -1,1 +1,0 @@
-{"tmdb_id": 384138, "title": "Where the Elephant Sits", "original_title": "Where the Elephant Sits", "slug_title": "where-the-elephant-sits", "date": "1998-02-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mark Lowenthal ()", "Tone Forrest ()", "Danielle Garner ()"], "comments": [], "recommandations_id": []}

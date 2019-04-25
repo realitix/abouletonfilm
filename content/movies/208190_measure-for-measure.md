@@ -1,1 +1,0 @@
-{"tmdb_id": 208190, "title": "Measure For Measure", "original_title": "Measure For Measure", "slug_title": "measure-for-measure", "date": "2006-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/spfG2C1OsyMAEnlzqnnXw5gCjNn.jpg", "actors": [], "comments": [], "recommandations_id": []}

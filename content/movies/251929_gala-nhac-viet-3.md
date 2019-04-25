@@ -1,1 +1,0 @@
-{"tmdb_id": 251929, "title": "Gala Nhac Viet 3", "original_title": "Gala Nhac Viet 3", "slug_title": "gala-nhac-viet-3", "date": "2014-01-10", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eOqDMej0VLni1s2Pk2JceWIklih.jpg", "actors": [], "comments": [], "recommandations_id": []}

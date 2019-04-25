@@ -1,1 +1,0 @@
-{"tmdb_id": 335612, "title": "The Making of 'The Lord of the Rings'", "original_title": "The Making of 'The Lord of the Rings'", "slug_title": "the-making-of-the-lord-of-the-rings", "date": "2002-04-06", "genre": "Documentaire", "score": "7.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 572219, "title": "The Freelancers", "original_title": "Les cachetonneurs", "slug_title": "the-freelancers", "date": "1999-03-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wsAinECXpkYJA5C0iOkb6YknmsG.jpg", "actors": [], "comments": [], "recommandations_id": []}

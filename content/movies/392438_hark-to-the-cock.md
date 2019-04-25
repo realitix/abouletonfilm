@@ -1,1 +1,0 @@
-{"tmdb_id": 392438, "title": "Hark to the Cock", "original_title": "Chuy petela", "slug_title": "hark-to-the-cock", "date": "1978-04-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kSDvdKC0kcb4A5qh1Uxr0YUfcuP.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 189136, "title": "Awesome 80's Vol.1", "original_title": "Awesome 80's Vol.1", "slug_title": "awesome-80-s-vol-1", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xoQyEQQGDiOkQjeVcmrOxXnsTPs.jpg", "actors": [], "comments": [], "recommandations_id": []}

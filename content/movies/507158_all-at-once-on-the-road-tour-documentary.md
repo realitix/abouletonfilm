@@ -1,1 +1,0 @@
-{"tmdb_id": 507158, "title": "All At Once: On the Road Tour Documentary", "original_title": "All At Once: On the Road Tour Documentary", "slug_title": "all-at-once-on-the-road-tour-documentary", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

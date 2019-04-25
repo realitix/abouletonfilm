@@ -1,1 +1,0 @@
-{"tmdb_id": 425017, "title": "Serena Gundy", "original_title": "Serena Gundy", "slug_title": "serena-gundy", "date": "2014-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3My27hhY0TjeVCeU3zetCjwWFdG.jpg", "actors": [], "comments": [], "recommandations_id": []}

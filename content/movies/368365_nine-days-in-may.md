@@ -1,1 +1,0 @@
-{"tmdb_id": 368365, "title": "Nine Days In May", "original_title": "Nine Days In May", "slug_title": "nine-days-in-may", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 515563, "title": "DJ Pygmalion", "original_title": "DJ Pygmalion", "slug_title": "dj-pygmalion", "date": "2017-10-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Charlotte Dowell ()"], "comments": [], "recommandations_id": []}

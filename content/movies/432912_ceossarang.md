@@ -1,1 +1,0 @@
-{"tmdb_id": 432912, "title": "\uccab\uc0ac\ub791", "original_title": "\uccab\uc0ac\ub791", "slug_title": "ceossarang", "date": "2016-10-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oziBehD5ays0JC17aX24n1ID26g.jpg", "actors": [], "comments": [], "recommandations_id": []}

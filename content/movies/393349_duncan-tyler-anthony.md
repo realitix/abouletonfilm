@@ -1,1 +1,0 @@
-{"tmdb_id": 393349, "title": "Duncan Tyler & Anthony", "original_title": "Duncan Tyler & Anthony", "slug_title": "duncan-tyler-anthony", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

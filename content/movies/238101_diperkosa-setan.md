@@ -1,1 +1,0 @@
-{"tmdb_id": 238101, "title": "Diperkosa Setan", "original_title": "Diperkosa Setan", "slug_title": "diperkosa-setan", "date": "2010-02-18", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3cWgmdNJziTKpuEw5bBFTTn4Mxg.jpg", "actors": [], "comments": [], "recommandations_id": []}

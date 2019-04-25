@@ -1,1 +1,0 @@
-{"tmdb_id": 350959, "title": "\uafc8\ub098\ubb34", "original_title": "\uafc8\ub098\ubb34", "slug_title": "ggumnamu", "date": "1978-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

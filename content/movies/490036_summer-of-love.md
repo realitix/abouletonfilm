@@ -1,1 +1,0 @@
-{"tmdb_id": 490036, "title": "Summer of Love", "original_title": "Summer of Love", "slug_title": "summer-of-love", "date": "2016-08-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8ysDZIH3X9vtIgfJhPJYFPCf3p4.jpg", "actors": [], "comments": [], "recommandations_id": []}

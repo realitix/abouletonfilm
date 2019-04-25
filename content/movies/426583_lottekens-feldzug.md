@@ -1,1 +1,0 @@
-{"tmdb_id": 426583, "title": "Lottekens Feldzug", "original_title": "Lottekens Feldzug", "slug_title": "lottekens-feldzug", "date": "1915-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bruno Ziener ()", "Manny Ziener ()"], "comments": [], "recommandations_id": []}

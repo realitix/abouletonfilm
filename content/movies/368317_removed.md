@@ -1,1 +1,0 @@
-{"tmdb_id": 368317, "title": "ReMoved", "original_title": "ReMoved", "slug_title": "removed", "date": "2013-11-13", "genre": "Drame", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/toUSUXOyGDNhzb7cPRpnjvC4Ngp.jpg", "actors": ["Abby White (Zoe Locke)"], "comments": [], "recommandations_id": []}

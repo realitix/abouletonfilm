@@ -1,1 +1,0 @@
-{"tmdb_id": 541191, "title": "The Fall of Butch Hartman", "original_title": "The Fall of Butch Hartman", "slug_title": "the-fall-of-butch-hartman", "date": "2018-07-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nFKUhUmTAEHpLZzGcx901vvzOgB.jpg", "actors": [], "comments": [], "recommandations_id": []}

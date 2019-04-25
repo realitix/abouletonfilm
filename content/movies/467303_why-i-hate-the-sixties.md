@@ -1,1 +1,0 @@
-{"tmdb_id": 467303, "title": "Why I Hate the Sixties", "original_title": "Why I Hate the Sixties", "slug_title": "why-i-hate-the-sixties", "date": "", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

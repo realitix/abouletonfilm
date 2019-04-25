@@ -1,1 +1,0 @@
-{"tmdb_id": 553067, "title": "Let'Er Buck", "original_title": "Let'Er Buck", "slug_title": "let-er-buck", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

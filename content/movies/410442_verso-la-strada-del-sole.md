@@ -1,1 +1,0 @@
-{"tmdb_id": 410442, "title": "Verso la Strada del Sole", "original_title": "Verso la Strada del Sole", "slug_title": "verso-la-strada-del-sole", "date": "2015-09-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

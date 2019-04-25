@@ -1,1 +1,0 @@
-{"tmdb_id": 355794, "title": "Xavier Rudd - Live", "original_title": "Xavier Rudd - Live", "slug_title": "xavier-rudd-live", "date": "2013-07-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xVhgqENxZbZIUeAsJ6Qqjr93hIe.jpg", "actors": ["Xavier Rudd (Himself)"], "comments": [], "recommandations_id": []}

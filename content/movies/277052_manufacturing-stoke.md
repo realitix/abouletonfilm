@@ -1,1 +1,0 @@
-{"tmdb_id": 277052, "title": "Manufacturing Stoke", "original_title": "Manufacturing Stoke", "slug_title": "manufacturing-stoke", "date": "2012-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

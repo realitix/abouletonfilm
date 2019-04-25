@@ -1,1 +1,0 @@
-{"tmdb_id": 588020, "title": "Children of the Snow", "original_title": "Children of the Snow", "slug_title": "children-of-the-snow", "date": "2019-02-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pwAa2bOPRO6XbPPBjqob7oDgPxR.jpg", "actors": [], "comments": [], "recommandations_id": []}

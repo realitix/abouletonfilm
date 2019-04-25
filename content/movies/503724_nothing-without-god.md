@@ -1,1 +1,0 @@
-{"tmdb_id": 503724, "title": "Nothing Without GOD", "original_title": "Nothing Without GOD", "slug_title": "nothing-without-god", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6qDq3Vvz87Xe2VHOMiylTztAfYQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

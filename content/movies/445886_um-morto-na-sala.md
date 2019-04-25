@@ -1,1 +1,0 @@
-{"tmdb_id": 445886, "title": "Um Morto na Sala", "original_title": "Um Morto na Sala", "slug_title": "um-morto-na-sala", "date": "2008-03-09", "genre": "Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9NJGAhHJOYRozMEOoshnQIUyKjX.jpg", "actors": [], "comments": [], "recommandations_id": []}

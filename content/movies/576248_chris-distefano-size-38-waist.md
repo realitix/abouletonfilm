@@ -1,1 +1,0 @@
-{"tmdb_id": 576248, "title": "Chris Distefano: Size 38 Waist", "original_title": "Chris Distefano: Size 38 Waist", "slug_title": "chris-distefano-size-38-waist", "date": "2019-01-18", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Chris DiStefano (Himself)"], "comments": [], "recommandations_id": []}

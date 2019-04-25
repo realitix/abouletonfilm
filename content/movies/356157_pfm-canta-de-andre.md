@@ -1,1 +1,0 @@
-{"tmdb_id": 356157, "title": "PFM Canta De andr\u00e8", "original_title": "PFM Canta De andr\u00e8", "slug_title": "pfm-canta-de-andre", "date": "2008-03-29", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3AtUR8hLs81uAeFQkMMZ9raS7Oh.jpg", "actors": [], "comments": [], "recommandations_id": []}

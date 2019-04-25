@@ -1,1 +1,0 @@
-{"tmdb_id": 560002, "title": "Bill Gates Vs Steve Jobs", "original_title": "Bill Gates Vs Steve Jobs", "slug_title": "bill-gates-vs-steve-jobs", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8ZgHfCJ5G98eyddL5Ra1T6M869H.jpg", "actors": [], "comments": [], "recommandations_id": []}

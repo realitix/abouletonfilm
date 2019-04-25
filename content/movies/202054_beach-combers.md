@@ -1,1 +1,0 @@
-{"tmdb_id": 202054, "title": "Beach Combers", "original_title": "Beach Combers", "slug_title": "beach-combers", "date": "1936-10-04", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 313847, "title": "Maximum MMA: Cage Rage 16: Critical Condition", "original_title": "Maximum MMA: Cage Rage 16: Critical Condition", "slug_title": "maximum-mma-cage-rage-16-critical-condition", "date": "", "genre": "", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

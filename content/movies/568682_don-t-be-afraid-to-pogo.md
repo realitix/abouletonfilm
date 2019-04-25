@@ -1,1 +1,0 @@
-{"tmdb_id": 568682, "title": "Don't Be Afraid to Pogo", "original_title": "Don't Be Afraid to Pogo", "slug_title": "don-t-be-afraid-to-pogo", "date": "2015-03-26", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hKRD0miKlYnH1g8Gy5PqKGcN1ro.jpg", "actors": [], "comments": [], "recommandations_id": []}

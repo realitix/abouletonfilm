@@ -1,1 +1,0 @@
-{"tmdb_id": 395241, "title": "Fitness Wins: 4 and 20 Fit Girls", "original_title": "Fitness Wins: 4 and 20 Fit Girls", "slug_title": "fitness-wins-4-and-20-fit-girls", "date": "1940-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

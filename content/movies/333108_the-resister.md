@@ -1,1 +1,0 @@
-{"tmdb_id": 333108, "title": "The Resister", "original_title": "al-Rajul al-Samed", "slug_title": "the-resister", "date": "1975-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

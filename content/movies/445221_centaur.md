@@ -1,1 +1,0 @@
-{"tmdb_id": 445221, "title": "Centaur", "original_title": "Centauro", "slug_title": "centaur", "date": "2017-02-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iNl4LZWZJCbnVuaP4xV7R8beJOK.jpg", "actors": ["Agust\u00edn Alcides Otero ()", "Walter Jakob ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 88404, "title": "Freaky Farley", "original_title": "Freaky Farley", "slug_title": "freaky-farley", "date": "2007-10-08", "genre": "Horreur / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nm1A3xRk1YFQzg5Vew1WMCYyR9u.jpg", "actors": ["Matt Farley (Farley)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 317769, "title": "Hollywood Musicals of the '50s", "original_title": "Hollywood Musicals of the '50s", "slug_title": "hollywood-musicals-of-the-50s", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 570816, "title": "Blue Amber", "original_title": "\u6de1\u84dd\u7425\u73c0", "slug_title": "blue-amber", "date": "2018-12-17", "genre": "Drame / Myst\u00e8re", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lMjfZloRuVr6tB3Vu9XfsCBVgHP.jpg", "actors": [], "comments": [], "recommandations_id": []}

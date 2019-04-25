@@ -1,1 +1,0 @@
-{"tmdb_id": 309647, "title": "Celebrity News Reels: Best of Paris", "original_title": "Celebrity News Reels: Best of Paris", "slug_title": "celebrity-news-reels-best-of-paris", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

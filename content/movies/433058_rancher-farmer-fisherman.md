@@ -1,1 +1,0 @@
-{"tmdb_id": 433058, "title": "Rancher, Farmer, Fisherman", "original_title": "Rancher, Farmer, Fisherman", "slug_title": "rancher-farmer-fisherman", "date": "2017-01-20", "genre": "Documentaire", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f4nn0FxG0QdOfEfpjuN7xT0wuOL.jpg", "actors": [], "comments": [], "recommandations_id": []}

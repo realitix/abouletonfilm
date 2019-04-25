@@ -1,1 +1,0 @@
-{"tmdb_id": 390603, "title": "14 Minutes from Earth", "original_title": "14 Minutes from Earth", "slug_title": "14-minutes-from-earth", "date": "2016-04-20", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1xzsB3GNliuDfK8Fr7QKfmwOwWe.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 283496, "title": "Events of the Coming Year", "original_title": "Waqai al'am al-muqbil", "slug_title": "events-of-the-coming-year", "date": "1986-01-02", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/60baSsG2vLu6gUT4zkDgdjgX6Q7.jpg", "actors": [], "comments": [], "recommandations_id": []}

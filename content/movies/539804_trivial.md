@@ -1,1 +1,0 @@
-{"tmdb_id": 539804, "title": "Trivial", "original_title": "Trivial", "slug_title": "trivial", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

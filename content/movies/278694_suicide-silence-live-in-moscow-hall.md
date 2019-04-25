@@ -1,1 +1,0 @@
-{"tmdb_id": 278694, "title": "Suicide Silence Live in Moscow Hall", "original_title": "Suicide Silence Live in Moscow Hall", "slug_title": "suicide-silence-live-in-moscow-hall", "date": "2014-06-19", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

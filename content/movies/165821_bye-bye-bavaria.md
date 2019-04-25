@@ -1,1 +1,0 @@
-{"tmdb_id": 165821, "title": "Bye-Bye Bavaria!", "original_title": "Servus Bayern", "slug_title": "bye-bye-bavaria", "date": "1977-02-05", "genre": "", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tZsacclFMuFUnpCVeA3zH5L7VZb.jpg", "actors": [], "comments": [], "recommandations_id": []}

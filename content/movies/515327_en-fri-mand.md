@@ -1,1 +1,1 @@
-{"tmdb_id": 515327, "title": "En fri mand", "original_title": "En fri mand", "slug_title": "en-fri-mand", "date": "1996-12-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 515327, "title": "En fri mand", "original_title": "En fri mand", "slug_title": "en-fri-mand", "date": "1996-12-25", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

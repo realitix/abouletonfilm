@@ -1,1 +1,0 @@
-{"tmdb_id": 311103, "title": "Reichsautobahn", "original_title": "Reichsautobahn", "slug_title": "reichsautobahn", "date": "1986-06-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2Da6tK78sSQvfxL9BKHc1ON5uOZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

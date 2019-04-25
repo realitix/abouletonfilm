@@ -1,1 +1,0 @@
-{"tmdb_id": 510695, "title": "Sensitom\u00e9trie I", "original_title": "Sensitom\u00e9trie I", "slug_title": "sensitometrie-i", "date": "1973-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

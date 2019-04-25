@@ -1,1 +1,0 @@
-{"tmdb_id": 334841, "title": "JUST DO IT", "original_title": "JUST DO IT", "slug_title": "just-do-it", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

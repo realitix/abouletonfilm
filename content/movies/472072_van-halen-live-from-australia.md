@@ -1,1 +1,0 @@
-{"tmdb_id": 472072, "title": "Van Halen Live from Australia", "original_title": "Van Halen Live from Australia", "slug_title": "van-halen-live-from-australia", "date": "", "genre": "Musique", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4Eihvwv4kFSko80QhHQTvK0IuwP.jpg", "actors": [], "comments": [], "recommandations_id": []}

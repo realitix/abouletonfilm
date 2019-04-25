@@ -1,1 +1,0 @@
-{"tmdb_id": 182114, "title": "Remembering Arthur", "original_title": "Remembering Arthur", "slug_title": "remembering-arthur", "date": "2006-09-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/txuWEn88wj1H7gsdwSJjSVkDJrm.jpg", "actors": [], "comments": [], "recommandations_id": []}

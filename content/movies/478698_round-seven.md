@@ -1,1 +1,0 @@
-{"tmdb_id": 478698, "title": "Round Seven", "original_title": "Round Seven", "slug_title": "round-seven", "date": "2017-09-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

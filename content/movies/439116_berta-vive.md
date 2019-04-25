@@ -1,1 +1,0 @@
-{"tmdb_id": 439116, "title": "Berta Vive", "original_title": "Berta Vive", "slug_title": "berta-vive", "date": "2016-01-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4hWea2sFO37u8RL3st4GtFJQQcz.jpg", "actors": [], "comments": [], "recommandations_id": []}

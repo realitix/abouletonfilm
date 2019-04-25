@@ -1,1 +1,0 @@
-{"tmdb_id": 309406, "title": "Giggle, Giggle, Quack", "original_title": "Giggle, Giggle, Quack", "slug_title": "giggle-giggle-quack", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3oQU2qHljUwER9V4xLcW48ttwtD.jpg", "actors": [], "comments": [], "recommandations_id": []}

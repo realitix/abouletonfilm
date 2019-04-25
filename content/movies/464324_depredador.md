@@ -1,1 +1,1 @@
-{"tmdb_id": 464324, "title": "Depredador", "original_title": "Depredador", "slug_title": "depredador", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 464324, "title": "Depredador", "original_title": "Depredador", "slug_title": "depredador", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

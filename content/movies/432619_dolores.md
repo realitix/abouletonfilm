@@ -1,1 +1,0 @@
-{"tmdb_id": 432619, "title": "Dolores", "original_title": "Dolores", "slug_title": "dolores", "date": "2017-01-20", "genre": "Documentaire", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vmltoSoV2ta9vZITuVYoDRG8DLe.jpg", "actors": [], "comments": [], "recommandations_id": []}

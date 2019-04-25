@@ -1,1 +1,0 @@
-{"tmdb_id": 318701, "title": "Rough Riders: Below the Border", "original_title": "Rough Riders: Below the Border", "slug_title": "rough-riders-below-the-border", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

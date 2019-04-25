@@ -1,1 +1,0 @@
-{"tmdb_id": 538565, "title": "Le caf\u00e9 du port", "original_title": "Le caf\u00e9 du port", "slug_title": "le-cafe-du-port", "date": "1940-05-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2xuzd7wPqCZoWiUhjHrFQ6vwCIE.jpg", "actors": [], "comments": [], "recommandations_id": []}

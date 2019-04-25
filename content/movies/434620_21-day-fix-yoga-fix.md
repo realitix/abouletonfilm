@@ -1,1 +1,0 @@
-{"tmdb_id": 434620, "title": "21 Day Fix - Yoga Fix", "original_title": "21 Day Fix - Yoga Fix", "slug_title": "21-day-fix-yoga-fix", "date": "2014-01-01", "genre": "", "score": "0.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tUv6KWPzTCVj2gduYfVKB3aCh7.jpg", "actors": ["Autumn Calabrese ()"], "comments": [], "recommandations_id": []}

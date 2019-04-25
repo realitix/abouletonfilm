@@ -1,1 +1,0 @@
-{"tmdb_id": 309371, "title": "50 Years of Country Gold", "original_title": "50 Years of Country Gold", "slug_title": "50-years-of-country-gold", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

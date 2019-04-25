@@ -1,1 +1,1 @@
-{"tmdb_id": 329163, "title": "In Nahalal", "original_title": "Be Nahalal", "slug_title": "in-nahalal", "date": "1961-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 329163, "title": "In Nahalal", "original_title": "Be Nahalal", "slug_title": "in-nahalal", "date": "1961-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Emil Knebel.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

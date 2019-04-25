@@ -1,1 +1,0 @@
-{"tmdb_id": 461449, "title": "Tarde de domingo", "original_title": "Tarde de domingo", "slug_title": "tarde-de-domingo", "date": "1960-06-10", "genre": "Drame", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Matilde Marcos ()"], "comments": [], "recommandations_id": []}

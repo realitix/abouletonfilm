@@ -1,1 +1,0 @@
-{"tmdb_id": 510484, "title": "The Girl in the Green Dress", "original_title": "The Girl in the Green Dress", "slug_title": "the-girl-in-the-green-dress", "date": "2015-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/81ZW9OkL54HAs0qLThdPJxOgUQB.jpg", "actors": [], "comments": [], "recommandations_id": []}

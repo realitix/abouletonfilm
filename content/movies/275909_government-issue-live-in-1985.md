@@ -1,1 +1,0 @@
-{"tmdb_id": 275909, "title": "Government Issue: Live in 1985", "original_title": "Government Issue: Live in 1985", "slug_title": "government-issue-live-in-1985", "date": "1985-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ddbs96X7m3SC2ARnHkJLTbxJgoa.jpg", "actors": [], "comments": [], "recommandations_id": []}

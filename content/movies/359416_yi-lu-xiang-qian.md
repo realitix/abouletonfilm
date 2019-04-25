@@ -1,1 +1,0 @@
-{"tmdb_id": 359416, "title": "\u4e00\u8def\u5411\u524d", "original_title": "\u4e00\u8def\u5411\u524d", "slug_title": "yi-lu-xiang-qian", "date": "2015-09-12", "genre": "Com\u00e9die", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/scS5YQ59sMixzL4hxb84HoHaU5Y.jpg", "actors": [], "comments": [], "recommandations_id": []}

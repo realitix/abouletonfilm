@@ -1,1 +1,0 @@
-{"tmdb_id": 256875, "title": "Pioneer Axe", "original_title": "Pioneer Axe", "slug_title": "pioneer-axe", "date": "1965-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

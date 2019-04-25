@@ -1,1 +1,0 @@
-{"tmdb_id": 232230, "title": "Far from the Villages", "original_title": "Au loin des villages", "slug_title": "far-from-the-villages", "date": "2008-07-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t1n1eikRo0m6E77kLt7WRNSarmw.jpg", "actors": [], "comments": [], "recommandations_id": []}

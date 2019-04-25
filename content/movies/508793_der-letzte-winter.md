@@ -1,1 +1,0 @@
-{"tmdb_id": 508793, "title": "Der letzte Winter", "original_title": "Der letzte Winter", "slug_title": "der-letzte-winter", "date": "1991-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Katerina Jacob ()", "Gudrun Okras ()"], "comments": [], "recommandations_id": []}

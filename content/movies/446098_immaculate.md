@@ -1,1 +1,0 @@
-{"tmdb_id": 446098, "title": "Immaculate", "original_title": "Immaculate", "slug_title": "immaculate", "date": "2016-09-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

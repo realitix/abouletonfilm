@@ -1,1 +1,0 @@
-{"tmdb_id": 229355, "title": "Grave Robbing for Morons", "original_title": "Grave Robbing for Morons", "slug_title": "grave-robbing-for-morons", "date": "", "genre": "Documentaire / Aventure", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/c54k4mGZNXj28A1ZGX51vEVWfcz.jpg", "actors": [], "comments": [], "recommandations_id": []}

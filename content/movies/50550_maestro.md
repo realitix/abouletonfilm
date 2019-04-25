@@ -1,1 +1,0 @@
-{"tmdb_id": 50550, "title": "Maestro", "original_title": "Maestro", "slug_title": "maestro", "date": "2005-05-01", "genre": "Animation", "score": "5.6/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oir80ICLypzZjOxF6ttOi0Pt8Ah.jpg", "actors": [], "comments": [], "recommandations_id": [86379, 69559, 183718, 215160]}

@@ -1,1 +1,0 @@
-{"tmdb_id": 365816, "title": "Ken and Kazu", "original_title": "Ken to Kazu", "slug_title": "ken-and-kazu", "date": "2015-10-26", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AluycaP0B3sKwbG565GbB5GQXpB.jpg", "actors": ["Shuna Iijima ()", "Shinsuke Kato ()"], "comments": [], "recommandations_id": []}

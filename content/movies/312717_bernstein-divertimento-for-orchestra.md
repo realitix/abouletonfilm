@@ -1,1 +1,0 @@
-{"tmdb_id": 312717, "title": "Bernstein: Divertimento for Orchestra", "original_title": "Bernstein: Divertimento for Orchestra", "slug_title": "bernstein-divertimento-for-orchestra", "date": "1985-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

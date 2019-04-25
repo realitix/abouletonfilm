@@ -1,1 +1,0 @@
-{"tmdb_id": 492740, "title": "Dwayne Perkins: Please Believe it", "original_title": "Dwayne Perkins: Please Believe it", "slug_title": "dwayne-perkins-please-believe-it", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tgIhZbduHXBOt8zGmNSxpn5Ar2M.jpg", "actors": [], "comments": [], "recommandations_id": []}

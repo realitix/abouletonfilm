@@ -1,1 +1,0 @@
-{"tmdb_id": 180729, "title": "PAUL BALOCHE LIVE IN ASIA", "original_title": "PAUL BALOCHE LIVE IN ASIA", "slug_title": "paul-baloche-live-in-asia", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bQCNtRYvPB4kkFd1H0iAbxvc4bb.jpg", "actors": [], "comments": [], "recommandations_id": []}

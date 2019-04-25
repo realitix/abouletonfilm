@@ -1,1 +1,0 @@
-{"tmdb_id": 522357, "title": "The Lost Lake", "original_title": "The Lost Lake", "slug_title": "the-lost-lake", "date": "1946-01-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lowell Thomas (Narrator)"], "comments": [], "recommandations_id": []}

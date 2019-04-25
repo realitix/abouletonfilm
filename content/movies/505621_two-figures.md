@@ -1,1 +1,0 @@
-{"tmdb_id": 505621, "title": "Two Figures", "original_title": "Two Figures", "slug_title": "two-figures", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6MdLuOyKC7Wh2lk2HJYUwb1OqZn.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 586430, "title": "Machine for Living - Montigny-le-Bretonneux", "original_title": "Machine for Living - Montigny-le-Bretonneux", "slug_title": "machine-for-living-montigny-le-bretonneux", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

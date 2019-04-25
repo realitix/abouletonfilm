@@ -1,1 +1,0 @@
-{"tmdb_id": 123160, "title": "The Story", "original_title": "The Story", "slug_title": "the-story", "date": "2010-10-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

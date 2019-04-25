@@ -1,1 +1,0 @@
-{"tmdb_id": 496521, "title": "The Missing 6", "original_title": "The Missing 6", "slug_title": "the-missing-6", "date": "2017-12-17", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eukHQbMtmgUhrP55ZQNJlcNMb5m.jpg", "actors": ["Maya Nalli (Danielle)"], "comments": [], "recommandations_id": []}

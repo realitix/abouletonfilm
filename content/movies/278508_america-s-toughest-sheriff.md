@@ -1,1 +1,0 @@
-{"tmdb_id": 278508, "title": "America's Toughest Sheriff", "original_title": "America's Toughest Sheriff", "slug_title": "america-s-toughest-sheriff", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 459207, "title": "Haskell", "original_title": "Haskell", "slug_title": "haskell", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bo9hFXDInynAhiXEDkRpx3lm2UA.jpg", "actors": [], "comments": [], "recommandations_id": []}

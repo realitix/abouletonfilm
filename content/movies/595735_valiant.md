@@ -1,1 +1,0 @@
-{"tmdb_id": 595735, "title": "Valiant", "original_title": "Valiant", "slug_title": "valiant", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["William Karlsson (Himself)", "Marc-Andr\u00e9 Fleury (Himself)"], "comments": [], "recommandations_id": []}

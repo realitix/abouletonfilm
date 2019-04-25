@@ -1,1 +1,0 @@
-{"tmdb_id": 314261, "title": "Cash Levy: Crowd Control", "original_title": "Cash Levy: Crowd Control", "slug_title": "cash-levy-crowd-control", "date": "2012-10-25", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A67O7Thjun3DNsb8l1kdZUkemfS.jpg", "actors": [], "comments": [], "recommandations_id": []}

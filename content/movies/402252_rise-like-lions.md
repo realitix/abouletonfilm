@@ -1,1 +1,0 @@
-{"tmdb_id": 402252, "title": "Rise Like Lions", "original_title": "Rise Like Lions", "slug_title": "rise-like-lions", "date": "2011-10-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vDeQaFZxZPyAUJmSz0mb2Ynv9Qn.jpg", "actors": [], "comments": [], "recommandations_id": []}

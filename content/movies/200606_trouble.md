@@ -1,1 +1,0 @@
-{"tmdb_id": 200606, "title": "Trouble", "original_title": "Trouble", "slug_title": "trouble", "date": "1931-10-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ffZcBFB2WyelD8AqjBVBvWxqsuP.jpg", "actors": [], "comments": [], "recommandations_id": []}

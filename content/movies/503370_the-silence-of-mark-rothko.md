@@ -1,1 +1,0 @@
-{"tmdb_id": 503370, "title": "The Silence of Mark Rothko", "original_title": "The Silence of Mark Rothko", "slug_title": "the-silence-of-mark-rothko", "date": "2016-05-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bKuboTP3FEzwI2p6EeErbeEeijW.jpg", "actors": [], "comments": [], "recommandations_id": []}

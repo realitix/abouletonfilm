@@ -1,1 +1,0 @@
-{"tmdb_id": 350414, "title": "\ub108\ub294 \ub0b4 \uc6b4\uba85", "original_title": "\ub108\ub294 \ub0b4 \uc6b4\uba85", "slug_title": "neoneun-nae-unmyeong", "date": "1980-03-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

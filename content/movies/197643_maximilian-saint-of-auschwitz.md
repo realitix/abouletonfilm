@@ -1,1 +1,0 @@
-{"tmdb_id": 197643, "title": "Maximilian: Saint of Auschwitz", "original_title": "Maximilian: Saint of Auschwitz", "slug_title": "maximilian-saint-of-auschwitz", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

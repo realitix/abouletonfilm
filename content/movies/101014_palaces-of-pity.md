@@ -1,1 +1,0 @@
-{"tmdb_id": 101014, "title": "Palaces of Pity", "original_title": "Pal\u00e1cios de Pena", "slug_title": "palaces-of-pity", "date": "2011-09-02", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jYPx7r4NDJAPYgxT80HW1CPFncp.jpg", "actors": [], "comments": [], "recommandations_id": []}

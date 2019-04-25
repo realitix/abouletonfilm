@@ -1,1 +1,0 @@
-{"tmdb_id": 543851, "title": "\u65e0\u540d\u5c0f\u5352", "original_title": "\u65e0\u540d\u5c0f\u5352", "slug_title": "wu-ming-xiao-zu", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

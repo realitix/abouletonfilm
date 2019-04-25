@@ -1,1 +1,0 @@
-{"tmdb_id": 234458, "title": "Driven to Extraction", "original_title": "Driven to Extraction", "slug_title": "driven-to-extraction", "date": "1963-06-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

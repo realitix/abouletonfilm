@@ -1,1 +1,0 @@
-{"tmdb_id": 579506, "title": "Sun Kissed", "original_title": "Sun Kissed", "slug_title": "sun-kissed", "date": "1986-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fudYh7b5vLxXhAztOP7st0s4Oqv.jpg", "actors": [], "comments": [], "recommandations_id": []}

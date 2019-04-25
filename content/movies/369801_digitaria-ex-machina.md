@@ -1,1 +1,0 @@
-{"tmdb_id": 369801, "title": "Digitaria Ex Machina", "original_title": "Digitaria Ex Machina", "slug_title": "digitaria-ex-machina", "date": "2015-10-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9VN9EJDYYbfG9xWJKbdLDnEDGL9.jpg", "actors": [], "comments": [], "recommandations_id": []}

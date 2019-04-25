@@ -1,1 +1,0 @@
-{"tmdb_id": 595102, "title": "On Thin Ice", "original_title": "On Thin Ice", "slug_title": "on-thin-ice", "date": "1925-03-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e5FZ3hJFx3yL5RPgmLUJ84BfU2x.jpg", "actors": [], "comments": [], "recommandations_id": []}

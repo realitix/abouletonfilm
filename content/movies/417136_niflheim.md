@@ -1,1 +1,0 @@
-{"tmdb_id": 417136, "title": "Niflheim", "original_title": "Niflheim", "slug_title": "niflheim", "date": "2016-09-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k2g87wNVXnKBtu8pLJGLCpbDxdb.jpg", "actors": ["Fouad Benabbou ()", "Moritz Fischer ()"], "comments": [], "recommandations_id": []}

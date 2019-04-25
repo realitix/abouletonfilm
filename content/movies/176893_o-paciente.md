@@ -1,1 +1,0 @@
-{"tmdb_id": 176893, "title": "O Paciente", "original_title": "O Paciente", "slug_title": "o-paciente", "date": "2003-03-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oQHIBs9p7fRgkY18VNgodq942y9.jpg", "actors": [], "comments": [], "recommandations_id": []}

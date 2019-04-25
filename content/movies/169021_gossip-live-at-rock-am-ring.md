@@ -1,1 +1,0 @@
-{"tmdb_id": 169021, "title": "Gossip: Live at Rock am Ring", "original_title": "Gossip: Live at Rock am Ring", "slug_title": "gossip-live-at-rock-am-ring", "date": "2010-06-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2ROuhG6t1TTe8bNnceKfOKqpY30.jpg", "actors": [], "comments": [], "recommandations_id": []}

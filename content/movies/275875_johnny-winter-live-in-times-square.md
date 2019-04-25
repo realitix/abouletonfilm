@@ -1,1 +1,0 @@
-{"tmdb_id": 275875, "title": "Johnny Winter: Live in Times Square", "original_title": "Johnny Winter: Live in Times Square", "slug_title": "johnny-winter-live-in-times-square", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 103436, "title": "The Last Race", "original_title": "The Last Race", "slug_title": "the-last-race", "date": "2002-01-16", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rt8tmxAo5v0y8s0Dtt3gX5tHJ9T.jpg", "actors": ["Mia Riverton (Shannon)"], "comments": [], "recommandations_id": []}

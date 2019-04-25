@@ -1,1 +1,0 @@
-{"tmdb_id": 30182, "title": "Cool & Crazy", "original_title": "Heftig & begeistret", "slug_title": "cool-crazy", "date": "2001-01-19", "genre": "Documentaire", "score": "6.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sD4uHE88I8KEUOpp2zGQ8oZ4fS7.jpg", "actors": [], "comments": [], "recommandations_id": []}

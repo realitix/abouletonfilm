@@ -1,1 +1,0 @@
-{"tmdb_id": 138362, "title": "Fotbollskr\u00f6nikan EM 1996", "original_title": "Fotbollskr\u00f6nikan EM 1996", "slug_title": "fotbollskronikan-em-1996", "date": "1996-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uwiEAUvyqASneu4VXJ5Q1VODgq6.jpg", "actors": [], "comments": [], "recommandations_id": []}

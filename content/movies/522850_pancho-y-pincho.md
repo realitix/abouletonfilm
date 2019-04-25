@@ -1,1 +1,0 @@
-{"tmdb_id": 522850, "title": "Pancho y Pincho", "original_title": "Pancho y Pincho", "slug_title": "pancho-y-pincho", "date": "2003-05-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v49SMlThReG321C6BhGh3hcpGpF.jpg", "actors": [], "comments": [], "recommandations_id": []}

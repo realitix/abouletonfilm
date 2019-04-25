@@ -1,1 +1,0 @@
-{"tmdb_id": 323828, "title": "Dr. John featuring Dan Auerbach of The Black Keys", "original_title": "Dr. John featuring Dan Auerbach of The Black Keys", "slug_title": "dr-john-featuring-dan-auerbach-of-the-black-keys", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

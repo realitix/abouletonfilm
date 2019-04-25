@@ -1,1 +1,0 @@
-{"tmdb_id": 572199, "title": "Cheap Joke", "original_title": "Cheap Joke", "slug_title": "cheap-joke", "date": "2011-07-28", "genre": "Com\u00e9die / Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

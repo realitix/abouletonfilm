@@ -1,1 +1,0 @@
-{"tmdb_id": 378668, "title": "Dune Bug", "original_title": "Dune Bug", "slug_title": "dune-bug", "date": "1969-10-28", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u7JrBmTNnqsZN3qc20d18uRPTNM.jpg", "actors": ["John Byner (Ant / Aardvark / Life Guard / Woman (voice))"], "comments": [], "recommandations_id": []}

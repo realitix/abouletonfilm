@@ -1,1 +1,0 @@
-{"tmdb_id": 172957, "title": "De Pretenders", "original_title": "De Pretenders", "slug_title": "de-pretenders", "date": "1981-03-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["hans akerboom ()", "bob cassandra (bob)"], "comments": [], "recommandations_id": []}

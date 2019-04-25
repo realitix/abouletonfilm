@@ -1,1 +1,0 @@
-{"tmdb_id": 511222, "title": "Le tr\u00e9sor des Grotoc\u00e9ans", "original_title": "Le tr\u00e9sor des Grotoc\u00e9ans", "slug_title": "le-tresor-des-grotoceans", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

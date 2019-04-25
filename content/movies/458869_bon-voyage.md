@@ -1,1 +1,0 @@
-{"tmdb_id": 458869, "title": "Bon voyage", "original_title": "Bon voyage", "slug_title": "bon-voyage", "date": "", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

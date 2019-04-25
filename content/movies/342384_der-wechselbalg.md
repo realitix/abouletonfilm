@@ -1,1 +1,0 @@
-{"tmdb_id": 342384, "title": "Der Wechselbalg", "original_title": "Der Wechselbalg", "slug_title": "der-wechselbalg", "date": "2011-05-19", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f0atVp7oxaVqukZSn0tv5GcPm8N.jpg", "actors": [], "comments": [], "recommandations_id": []}

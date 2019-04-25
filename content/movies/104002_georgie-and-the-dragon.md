@@ -1,1 +1,0 @@
-{"tmdb_id": 104002, "title": "Georgie and the Dragon", "original_title": "Georgie and the Dragon", "slug_title": "georgie-and-the-dragon", "date": "1951-09-27", "genre": "Animation / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 378330, "title": "When Lineker met Maradona", "original_title": "When Lineker met Maradona", "slug_title": "when-lineker-met-maradona", "date": "2006-05-02", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gary Lineker (Himself - Narator)", "Diego Maradona (Himself)"], "comments": [], "recommandations_id": []}

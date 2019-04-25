@@ -1,1 +1,0 @@
-{"tmdb_id": 382070, "title": "Dinosaur Train: Dinosaurs In The Snow", "original_title": "Dinosaur Train: Dinosaurs In The Snow", "slug_title": "dinosaur-train-dinosaurs-in-the-snow", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

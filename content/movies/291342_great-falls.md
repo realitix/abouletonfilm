@@ -1,1 +1,0 @@
-{"tmdb_id": 291342, "title": "Great Falls", "original_title": "Great Falls", "slug_title": "great-falls", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

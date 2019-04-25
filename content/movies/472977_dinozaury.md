@@ -1,1 +1,0 @@
-{"tmdb_id": 472977, "title": "Dinozaury", "original_title": "Dinozaury", "slug_title": "dinozaury", "date": "1963-02-28", "genre": "Documentaire / Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zE3ROd1yBnyvHeYIFuQdpKwIXqM.jpg", "actors": [], "comments": [], "recommandations_id": []}

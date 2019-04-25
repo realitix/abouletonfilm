@@ -1,1 +1,0 @@
-{"tmdb_id": 274792, "title": "Renaissance Village", "original_title": "Renaissance Village", "slug_title": "renaissance-village", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

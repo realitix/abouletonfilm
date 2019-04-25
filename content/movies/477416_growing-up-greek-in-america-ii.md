@@ -1,1 +1,0 @@
-{"tmdb_id": 477416, "title": "Growing Up Greek in America II", "original_title": "Growing Up Greek in America II", "slug_title": "growing-up-greek-in-america-ii", "date": "", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

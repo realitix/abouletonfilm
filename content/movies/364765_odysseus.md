@@ -1,1 +1,0 @@
-{"tmdb_id": 364765, "title": "Odysseus", "original_title": "Odysseus", "slug_title": "odysseus", "date": "1997-10-21", "genre": "Animation / Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7LulMlTGcVtUVpIarYa0cKNNd4n.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 219493, "title": "House of Magic", "original_title": "House of Magic", "slug_title": "house-of-magic", "date": "1937-02-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

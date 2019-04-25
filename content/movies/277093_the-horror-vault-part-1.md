@@ -1,1 +1,0 @@
-{"tmdb_id": 277093, "title": "The Horror Vault: Part 1", "original_title": "The Horror Vault: Part 1", "slug_title": "the-horror-vault-part-1", "date": "2008-01-01", "genre": "Thriller / Horreur", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

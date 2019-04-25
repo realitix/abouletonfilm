@@ -1,1 +1,0 @@
-{"tmdb_id": 342745, "title": "Massacre 29 de abril", "original_title": "Massacre 29 de abril", "slug_title": "massacre-29-de-abril", "date": "2015-05-29", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AmqZ56aNfD5I8fDOYOpDkX0n4Px.jpg", "actors": [], "comments": [], "recommandations_id": []}

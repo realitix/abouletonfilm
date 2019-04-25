@@ -1,1 +1,0 @@
-{"tmdb_id": 70382, "title": "TMBG - Kids Go!", "original_title": "TMBG - Kids Go!", "slug_title": "tmbg-kids-go", "date": "2009-01-01", "genre": "Animation / Familial / Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pzNiqIlLr9ly3dBtEk89smUXGeM.jpg", "actors": [], "comments": [], "recommandations_id": []}

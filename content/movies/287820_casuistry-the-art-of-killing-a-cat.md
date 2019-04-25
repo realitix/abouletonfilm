@@ -1,1 +1,0 @@
-{"tmdb_id": 287820, "title": "Casuistry: The Art of Killing a Cat", "original_title": "Casuistry: The Art of Killing a Cat", "slug_title": "casuistry-the-art-of-killing-a-cat", "date": "2004-09-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

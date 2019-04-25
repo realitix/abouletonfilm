@@ -1,1 +1,0 @@
-{"tmdb_id": 477928, "title": "Paulina Hollers", "original_title": "Paulina Hollers", "slug_title": "paulina-hollers", "date": "2007-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 210275, "title": "Contactos", "original_title": "Contactos", "slug_title": "contactos", "date": "1970-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pkIWr3AibvpLnLIyg8sV8oyDhap.jpg", "actors": [], "comments": [], "recommandations_id": []}

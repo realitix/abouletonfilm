@@ -1,1 +1,0 @@
-{"tmdb_id": 312361, "title": "Legends of the Old West: Stories of the Century", "original_title": "Legends of the Old West: Stories of the Century", "slug_title": "legends-of-the-old-west-stories-of-the-century", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

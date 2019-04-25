@@ -1,1 +1,0 @@
-{"tmdb_id": 398652, "title": "Cities on Speed: Shanghai Space", "original_title": "Cities on Speed: Shanghai Space", "slug_title": "cities-on-speed-shanghai-space", "date": "2009-10-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

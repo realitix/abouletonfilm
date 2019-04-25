@@ -1,1 +1,0 @@
-{"tmdb_id": 252576, "title": "The Showdown", "original_title": "The Showdown", "slug_title": "the-showdown", "date": "2006-03-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 337814, "title": "All Living Things", "original_title": "All Living Things", "slug_title": "all-living-things", "date": "1955-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

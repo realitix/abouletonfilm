@@ -1,1 +1,0 @@
-{"tmdb_id": 422950, "title": "Two Journalists: One Century", "original_title": "Two Journalists: One Century", "slug_title": "two-journalists-one-century", "date": "2016-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Takeji Muno ()", "Tsuneko Sasamoto ()"], "comments": [], "recommandations_id": []}

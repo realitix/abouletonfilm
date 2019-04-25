@@ -1,1 +1,0 @@
-{"tmdb_id": 347292, "title": "Polycarpe veut faire un carton", "original_title": "Polycarpe veut faire un carton", "slug_title": "polycarpe-veut-faire-un-carton", "date": "1914-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Charles Serva\u00e8s (Polycarpe)"], "comments": [], "recommandations_id": []}

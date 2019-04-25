@@ -1,1 +1,0 @@
-{"tmdb_id": 596165, "title": "Lynyrd Skynyrd - Live in Atlantic City", "original_title": "Lynyrd Skynyrd - Live in Atlantic City", "slug_title": "lynyrd-skynyrd-live-in-atlantic-city", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

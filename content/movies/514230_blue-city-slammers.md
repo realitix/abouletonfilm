@@ -1,1 +1,0 @@
-{"tmdb_id": 514230, "title": "Blue City Slammers", "original_title": "Blue City Slammers", "slug_title": "blue-city-slammers", "date": "1988-04-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3rY3VKz9LBZfaO7PWM76720nCzm.jpg", "actors": [], "comments": [], "recommandations_id": []}

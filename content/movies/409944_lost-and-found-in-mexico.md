@@ -1,1 +1,0 @@
-{"tmdb_id": 409944, "title": "Lost and Found in Mexico", "original_title": "Lost and Found in Mexico", "slug_title": "lost-and-found-in-mexico", "date": "2007-01-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7X30Ijf7V4T6cn1W42LD8yAyjey.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 361220, "title": "The Twentieth", "original_title": "The Twentieth", "slug_title": "the-twentieth", "date": "1966-03-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5T7d1pJQeKkx2ChDRUaFlkav0pI.jpg", "actors": ["Hamish Hughes (Himself - Commentator)"], "comments": [], "recommandations_id": []}

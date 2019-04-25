@@ -1,1 +1,0 @@
-{"tmdb_id": 553285, "title": "Nachlass", "original_title": "Nachlass", "slug_title": "nachlass", "date": "2018-09-27", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rK8G6S2T5B26s8EkYB1FePPFMnF.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 387343, "title": "Sommergibili nel Mediterraneo", "original_title": "Sommergibili nel Mediterraneo", "slug_title": "sommergibili-nel-mediterraneo", "date": "1912-10-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

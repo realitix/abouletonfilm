@@ -1,1 +1,0 @@
-{"tmdb_id": 473386, "title": "Fjenden", "original_title": "Fjenden", "slug_title": "fjenden", "date": "2017-01-01", "genre": "Drame / Crime", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

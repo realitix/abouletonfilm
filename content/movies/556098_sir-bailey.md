@@ -1,1 +1,0 @@
-{"tmdb_id": 556098, "title": "Sir Bailey", "original_title": "Sir Bailey", "slug_title": "sir-bailey", "date": "2018-09-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cwGKommuSug7Khwr3aqa02CCUCC.jpg", "actors": [], "comments": [], "recommandations_id": []}

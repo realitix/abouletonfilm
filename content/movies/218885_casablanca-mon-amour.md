@@ -1,1 +1,0 @@
-{"tmdb_id": 218885, "title": "Casablanca mon amour", "original_title": "Casablanca mon amour", "slug_title": "casablanca-mon-amour", "date": "2012-12-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

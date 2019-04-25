@@ -1,1 +1,0 @@
-{"tmdb_id": 583701, "title": "Die Maskierten", "original_title": "Die Maskierten", "slug_title": "die-maskierten", "date": "1964-03-22", "genre": "Crime", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hans-Joachim Hanisch (Mike Jenkins)", "Irma M\u00fcnch (Donna Loyd)", "Josef van Santen (Andrews)"], "comments": [], "recommandations_id": []}

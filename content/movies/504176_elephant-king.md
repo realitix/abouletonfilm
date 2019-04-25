@@ -1,1 +1,0 @@
-{"tmdb_id": 504176, "title": "Elephant king", "original_title": "Elephant king", "slug_title": "elephant-king", "date": "2013-02-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vnyQcQU5WwRDd9ogzNhhTlziOxR.jpg", "actors": [], "comments": [], "recommandations_id": []}

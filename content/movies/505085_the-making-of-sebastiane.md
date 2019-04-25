@@ -1,1 +1,0 @@
-{"tmdb_id": 505085, "title": "The Making of Sebastiane", "original_title": "The Making of Sebastiane", "slug_title": "the-making-of-sebastiane", "date": "2018-03-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

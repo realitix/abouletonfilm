@@ -1,1 +1,0 @@
-{"tmdb_id": 575943, "title": "Uli\u010dnictv\u00ed pana \u010cabouna", "original_title": "Uli\u010dnictv\u00ed pana \u010cabouna", "slug_title": "ulicnictvi-pana-cabouna", "date": "1981-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lubom\u00edr Lipsk\u00fd ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 584961, "title": "One Shot. One Life", "original_title": "One Shot. One Life", "slug_title": "one-shot-one-life", "date": "2013-06-21", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ht84rEwXIYQTUCDElasFRVx9XSO.jpg", "actors": [], "comments": [], "recommandations_id": []}

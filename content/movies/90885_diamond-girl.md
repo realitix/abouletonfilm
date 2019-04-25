@@ -1,1 +1,0 @@
-{"tmdb_id": 90885, "title": "Diamond Girl", "original_title": "Diamond Girl", "slug_title": "diamond-girl", "date": "2004-12-01", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kenzie Ryan (Kenzie Ryan)", "Nikki Blond (Nikki Blond)", "Cassandra (Cassandra)", "Zara Mars (Zara Mars)"], "comments": [], "recommandations_id": []}

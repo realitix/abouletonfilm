@@ -1,1 +1,0 @@
-{"tmdb_id": 133647, "title": "Hands Up!", "original_title": "Hands Up!", "slug_title": "hands-up", "date": "1926-01-11", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yXhwExFZ93wdniTAyE69ec9suhU.jpg", "actors": ["Raymond Griffith (Jack)"], "comments": [], "recommandations_id": []}

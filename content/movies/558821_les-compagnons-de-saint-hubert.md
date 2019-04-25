@@ -1,1 +1,0 @@
-{"tmdb_id": 558821, "title": "Les compagnons de Saint-Hubert", "original_title": "Les compagnons de Saint-Hubert", "slug_title": "les-compagnons-de-saint-hubert", "date": "1939-11-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

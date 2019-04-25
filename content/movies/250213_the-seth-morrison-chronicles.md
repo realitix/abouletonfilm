@@ -1,1 +1,0 @@
-{"tmdb_id": 250213, "title": "The Seth Morrison Chronicles", "original_title": "The Seth Morrison Chronicles", "slug_title": "the-seth-morrison-chronicles", "date": "2004-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vpPRvDXSOYT0z0kn7aG9pWYGIqf.jpg", "actors": [], "comments": [], "recommandations_id": []}

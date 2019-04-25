@@ -1,1 +1,0 @@
-{"tmdb_id": 144027, "title": "Spirit Space", "original_title": "Spirit Space", "slug_title": "spirit-space", "date": "2008-05-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

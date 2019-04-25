@@ -1,1 +1,0 @@
-{"tmdb_id": 434617, "title": "21 Day Fix - Pilates Fix", "original_title": "21 Day Fix - Pilates Fix", "slug_title": "21-day-fix-pilates-fix", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ind3oNbLFVOGuzW9VMddsIu62IS.jpg", "actors": ["Autumn Calabrese ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 336124, "title": "Casio, Seiko, Sheraton, Toyota, Mars", "original_title": "Casio, Seiko, Sheraton, Toyota, Mars", "slug_title": "casio-seiko-sheraton-toyota-mars", "date": "2005-04-07", "genre": "Documentaire / Guerre", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

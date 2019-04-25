@@ -1,1 +1,0 @@
-{"tmdb_id": 194030, "title": "Max Plays the Part", "original_title": "Max joue le drame", "slug_title": "max-plays-the-part", "date": "1910-05-16", "genre": "Com\u00e9die", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/X4Gwln5Y8E8JqAcNpT2gADAVyJ.jpg", "actors": ["Max Linder ()"], "comments": [], "recommandations_id": []}

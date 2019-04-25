@@ -1,1 +1,0 @@
-{"tmdb_id": 580638, "title": "Song of Parkland", "original_title": "Song of Parkland", "slug_title": "song-of-parkland", "date": "2019-02-02", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8gIe66sPH9MubAkccrbOoxcHqyK.jpg", "actors": [], "comments": [], "recommandations_id": []}

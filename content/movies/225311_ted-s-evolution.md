@@ -1,1 +1,0 @@
-{"tmdb_id": 225311, "title": "Ted's Evolution", "original_title": "Ted's Evolution", "slug_title": "ted-s-evolution", "date": "2003-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

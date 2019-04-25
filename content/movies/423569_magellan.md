@@ -1,1 +1,0 @@
-{"tmdb_id": 423569, "title": "Magellan", "original_title": "Magellan", "slug_title": "magellan", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ld5WIS3gTgrCXihJW7x4x0rzUal.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 339054, "title": "Warriors from the North", "original_title": "Krigerne fra Nord", "slug_title": "warriors-from-the-north", "date": "2015-03-19", "genre": "Documentaire / Guerre", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7w1RAI0e5pBYK35v4BNhLKNUZmy.jpg", "actors": [], "comments": [], "recommandations_id": []}

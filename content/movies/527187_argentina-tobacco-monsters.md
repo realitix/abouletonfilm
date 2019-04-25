@@ -1,1 +1,0 @@
-{"tmdb_id": 527187, "title": "Argentina: Tobacco Monsters", "original_title": "Argentina: Tobacco Monsters", "slug_title": "argentina-tobacco-monsters", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

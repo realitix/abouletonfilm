@@ -1,1 +1,0 @@
-{"tmdb_id": 495823, "title": "Be Shaque", "original_title": "Be Shaque", "slug_title": "be-shaque", "date": "1981-12-18", "genre": "Thriller / Myst\u00e8re", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mithun Chakraborty ()", "Yogeeta Bali ()", "Jalal Agha ()", "Shakti Kapoor ()", "Amrish Puri ()"], "comments": [], "recommandations_id": []}

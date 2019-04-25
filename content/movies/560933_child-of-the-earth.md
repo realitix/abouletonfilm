@@ -1,1 +1,0 @@
-{"tmdb_id": 560933, "title": "Child of the Earth", "original_title": "Child of the Earth", "slug_title": "child-of-the-earth", "date": "2018-11-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jbVY3z26MZ4MKza88HMTyHYJ7RX.jpg", "actors": [], "comments": [], "recommandations_id": []}

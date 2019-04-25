@@ -1,1 +1,0 @@
-{"tmdb_id": 316632, "title": "Broadway Theatre Archive: The Rules of the Game", "original_title": "Broadway Theatre Archive: The Rules of the Game", "slug_title": "broadway-theatre-archive-the-rules-of-the-game", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

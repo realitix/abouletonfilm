@@ -1,1 +1,0 @@
-{"tmdb_id": 147932, "title": "Marisa Monte - Barulhinho Bom", "original_title": "Marisa Monte - Barulhinho Bom", "slug_title": "marisa-monte-barulhinho-bom", "date": "2016-02-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yJiwpfZ6DexPkv0ecWKK5p3zsue.jpg", "actors": [], "comments": [], "recommandations_id": []}

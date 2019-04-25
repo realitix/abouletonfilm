@@ -1,1 +1,0 @@
-{"tmdb_id": 278841, "title": "Noodlebug: On the Move", "original_title": "Noodlebug: On the Move", "slug_title": "noodlebug-on-the-move", "date": "2005-05-17", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5bQ5SRfwn2M3NCngyuD61bdmWMl.jpg", "actors": [], "comments": [], "recommandations_id": []}

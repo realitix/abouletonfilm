@@ -1,1 +1,0 @@
-{"tmdb_id": 477983, "title": "At the end of the world", "original_title": "No final do mundo", "slug_title": "at-the-end-of-the-world", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

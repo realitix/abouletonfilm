@@ -1,1 +1,0 @@
-{"tmdb_id": 354882, "title": "No Pain, No Gain", "original_title": "No Pain, No Gain", "slug_title": "no-pain-no-gain", "date": "", "genre": "", "score": "1.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

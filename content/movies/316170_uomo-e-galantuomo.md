@@ -1,1 +1,0 @@
-{"tmdb_id": 316170, "title": "Uomo e galantuomo", "original_title": "Uomo e galantuomo", "slug_title": "uomo-e-galantuomo", "date": "1975-12-26", "genre": "Com\u00e9die", "score": "9.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5Yjup2jlxdC7a29OvJSZZrfntmi.jpg", "actors": ["Eduardo De Filippo ()"], "comments": [], "recommandations_id": []}

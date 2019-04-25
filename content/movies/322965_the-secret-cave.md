@@ -1,1 +1,0 @@
-{"tmdb_id": 322965, "title": "The Secret Cave", "original_title": "The Secret Cave", "slug_title": "the-secret-cave", "date": "1953-01-01", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["David Coote ()", "Nick Edmett ()", "Susan Ford ()", "Johnny Morris ()"], "comments": [], "recommandations_id": []}

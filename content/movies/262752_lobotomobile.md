@@ -1,1 +1,0 @@
-{"tmdb_id": 262752, "title": "Lobotomobile", "original_title": "Lobotomobile", "slug_title": "lobotomobile", "date": "2008-09-11", "genre": "Com\u00e9die / Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Stefanie Eby (Teen Rebel)", "David Ludwig (The Lobotomist)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 388101, "title": "The Final Days of Anne Frank", "original_title": "The Final Days of Anne Frank", "slug_title": "the-final-days-of-anne-frank", "date": "2015-04-28", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yPX7kqt1jIn46m4dO3xuBFnh8cb.jpg", "actors": [], "comments": [], "recommandations_id": []}

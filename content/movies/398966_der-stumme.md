@@ -1,1 +1,0 @@
-{"tmdb_id": 398966, "title": "Der Stumme", "original_title": "Der Stumme", "slug_title": "der-stumme", "date": "1976-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["G\u00fcnter Lamprecht (Kahlmann)", "Klaus Knuth (Kehrer)", "Hanna Schygulla (Martha)", "Rosalinde Renn (Mutter)"], "comments": [], "recommandations_id": []}

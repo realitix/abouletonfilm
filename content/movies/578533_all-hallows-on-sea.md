@@ -1,1 +1,0 @@
-{"tmdb_id": 578533, "title": "All Hallows on Sea", "original_title": "All Hallows on Sea", "slug_title": "all-hallows-on-sea", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fnqjc2HzVxb48h1Wy0qNBmit18z.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 265802, "title": "Futebol de V\u00e1rzea", "original_title": "Futebol de V\u00e1rzea", "slug_title": "futebol-de-varzea", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

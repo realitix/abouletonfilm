@@ -1,1 +1,0 @@
-{"tmdb_id": 564859, "title": "death film", "original_title": "death film", "slug_title": "death-film", "date": "2019-01-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Nathen Gonder (Keith)", "Angel Edwards (Thana)", "Buae Hill (Dr. Connor Bion)"], "comments": [], "recommandations_id": []}

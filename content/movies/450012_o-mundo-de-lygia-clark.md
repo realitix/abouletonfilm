@@ -1,1 +1,0 @@
-{"tmdb_id": 450012, "title": "O Mundo de Lygia Clark", "original_title": "O Mundo de Lygia Clark", "slug_title": "o-mundo-de-lygia-clark", "date": "1973-03-27", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

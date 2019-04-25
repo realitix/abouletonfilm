@@ -1,1 +1,0 @@
-{"tmdb_id": 539094, "title": "L'empreinte rouge", "original_title": "L'empreinte rouge", "slug_title": "l-empreinte-rouge", "date": "1937-03-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/96yYT2SyiBAvDGTGiJQhy5jqSsf.jpg", "actors": [], "comments": [], "recommandations_id": []}

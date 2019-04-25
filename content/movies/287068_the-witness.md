@@ -1,1 +1,0 @@
-{"tmdb_id": 287068, "title": "The Witness", "original_title": "The Witness", "slug_title": "the-witness", "date": "2000-01-01", "genre": "Documentaire", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mr0Z5RMxbapTx7tjTqQKbW0OUgd.jpg", "actors": ["Eddie Lama (Himself)"], "comments": [], "recommandations_id": []}

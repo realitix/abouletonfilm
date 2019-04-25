@@ -1,1 +1,0 @@
-{"tmdb_id": 525485, "title": "Rom\u00e9os et jupettes", "original_title": "Rom\u00e9os et jupettes", "slug_title": "romeos-et-jupettes", "date": "1966-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pierre Richard ()", "Margareth Cl\u00e9menti ()", "Sophie Lebret ()"], "comments": [], "recommandations_id": []}

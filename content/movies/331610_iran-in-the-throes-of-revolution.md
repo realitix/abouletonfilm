@@ -1,1 +1,0 @@
-{"tmdb_id": 331610, "title": "Iran in the Throes of Revolution", "original_title": "Iran Dar Bohbuheh-ye Enqelab", "slug_title": "iran-in-the-throes-of-revolution", "date": "1979-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

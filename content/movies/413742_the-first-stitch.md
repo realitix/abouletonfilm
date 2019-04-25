@@ -1,1 +1,0 @@
-{"tmdb_id": 413742, "title": "The First Stitch", "original_title": "\u5728\u5ba4\u7537", "slug_title": "the-first-stitch", "date": "1984-01-01", "genre": "Romance / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Joyce Ni ()", "Yang Ching-huang ()", "Lu Hsiao-Fen ()"], "comments": [], "recommandations_id": []}

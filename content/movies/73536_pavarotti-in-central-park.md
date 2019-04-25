@@ -1,1 +1,0 @@
-{"tmdb_id": 73536, "title": "Pavarotti in Central Park", "original_title": "Pavarotti in Central Park", "slug_title": "pavarotti-in-central-park", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dthtPdGAdM1mvt4sKyykEFPnP4x.jpg", "actors": [], "comments": [], "recommandations_id": []}

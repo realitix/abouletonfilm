@@ -1,1 +1,0 @@
-{"tmdb_id": 348154, "title": "16 Days 'til the Rest of Your Life", "original_title": "16 Days 'til the Rest of Your Life", "slug_title": "16-days-til-the-rest-of-your-life", "date": "2005-01-01", "genre": "Com\u00e9die / Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

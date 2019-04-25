@@ -1,1 +1,0 @@
-{"tmdb_id": 556116, "title": "Le cavalier de minuit", "original_title": "Le cavalier de minuit", "slug_title": "le-cavalier-de-minuit", "date": "1924-11-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

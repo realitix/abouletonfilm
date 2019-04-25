@@ -1,1 +1,0 @@
-{"tmdb_id": 235351, "title": "Tama-wari hito Yuki", "original_title": "Tama-wari hito Yuki", "slug_title": "tama-wari-hito-yuki", "date": "1975-05-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zzxSjT2pP6G1HXabkhPIsihRmxm.jpg", "actors": [], "comments": [], "recommandations_id": []}

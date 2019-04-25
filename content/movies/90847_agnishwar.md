@@ -1,1 +1,0 @@
-{"tmdb_id": 90847, "title": "Agnishwar", "original_title": "Agnishwar", "slug_title": "agnishwar", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

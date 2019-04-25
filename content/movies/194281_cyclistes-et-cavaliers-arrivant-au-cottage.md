@@ -1,1 +1,0 @@
-{"tmdb_id": 194281, "title": "Cyclistes et cavaliers arrivant au cottage", "original_title": "Cyclistes et cavaliers arrivant au cottage", "slug_title": "cyclistes-et-cavaliers-arrivant-au-cottage", "date": "1896-06-26", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

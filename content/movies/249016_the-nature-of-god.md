@@ -1,1 +1,0 @@
-{"tmdb_id": 249016, "title": "The Nature of God", "original_title": "The Nature of God", "slug_title": "the-nature-of-god", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/znZNbAPGEoJQIrSE1wM0FGRswZ4.jpg", "actors": [], "comments": [], "recommandations_id": []}

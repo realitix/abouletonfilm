@@ -1,1 +1,0 @@
-{"tmdb_id": 593658, "title": "Springtime in an English Village", "original_title": "Springtime in an English Village", "slug_title": "springtime-in-an-english-village", "date": "1944-04-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Connie Antia ()", "Stephanie Antia ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 345213, "title": "Condemned", "original_title": "Condemned", "slug_title": "condemned", "date": "1923-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

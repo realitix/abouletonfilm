@@ -1,1 +1,0 @@
-{"tmdb_id": 495084, "title": "Jimeoin: What?!", "original_title": "Jimeoin: What?!", "slug_title": "jimeoin-what", "date": "2014-08-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6hRLWmB3o72TwQrqZGBJvD7iC3X.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 425225, "title": "Swamplands USA", "original_title": "Swamplands USA", "slug_title": "swamplands-usa", "date": "2016-06-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

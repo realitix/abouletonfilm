@@ -1,1 +1,0 @@
-{"tmdb_id": 455613, "title": "New Generation Queens", "original_title": "New Generation Queens", "slug_title": "new-generation-queens", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/moPzoqV4iZCRPj6uiLScohEtQrp.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 333689, "title": "The Seven Gates of the Night", "original_title": "Les sept portes de la nuit", "slug_title": "the-seven-gates-of-the-night", "date": "1994-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 350745, "title": "The Story of a Writer", "original_title": "The Story of a Writer", "slug_title": "the-story-of-a-writer", "date": "1962-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

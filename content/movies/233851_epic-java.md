@@ -1,1 +1,0 @@
-{"tmdb_id": 233851, "title": "Epic Java", "original_title": "Epic Java", "slug_title": "epic-java", "date": "2013-05-16", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uQZUp564l6vJzWIKn1MMJI648gy.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 314557, "title": "The Lack", "original_title": "The Lack", "slug_title": "the-lack", "date": "2014-08-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qRROsGlQFbWKvzQrPrBdoxcy2nI.jpg", "actors": [], "comments": [], "recommandations_id": []}

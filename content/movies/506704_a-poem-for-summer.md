@@ -1,1 +1,0 @@
-{"tmdb_id": 506704, "title": "A Poem for Summer", "original_title": "A Poem for Summer", "slug_title": "a-poem-for-summer", "date": "2006-08-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rLu1Ute0EZQ67pFOqnNnTqxmLj6.jpg", "actors": [], "comments": [], "recommandations_id": []}

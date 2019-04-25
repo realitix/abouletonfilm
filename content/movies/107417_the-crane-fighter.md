@@ -1,1 +1,0 @@
-{"tmdb_id": 107417, "title": "The Crane Fighter", "original_title": "The Crane Fighter", "slug_title": "the-crane-fighter", "date": "1979-01-01", "genre": "Action", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mjwSKsFLkbPMOMj39Ngqp0yPhxx.jpg", "actors": ["Chia Ling ()"], "comments": [], "recommandations_id": []}

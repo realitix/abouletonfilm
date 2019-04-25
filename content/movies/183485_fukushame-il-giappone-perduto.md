@@ -1,1 +1,0 @@
-{"tmdb_id": 183485, "title": "Fukushame - Il Giappone perduto", "original_title": "Fukushame - Il Giappone perduto", "slug_title": "fukushame-il-giappone-perduto", "date": "2013-01-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wIQ8bPyHcZeRZSp07HZIkimfNyB.jpg", "actors": [], "comments": [], "recommandations_id": []}

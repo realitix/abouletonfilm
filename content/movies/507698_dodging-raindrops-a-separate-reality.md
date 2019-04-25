@@ -1,1 +1,0 @@
-{"tmdb_id": 507698, "title": "Dodging Raindrops - A Separate Reality", "original_title": "Dodging Raindrops - A Separate Reality", "slug_title": "dodging-raindrops-a-separate-reality", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 349364, "title": "\uc0ac\uc774\ubc84\uc804\uc0ac", "original_title": "\uc0ac\uc774\ubc84\uc804\uc0ac", "slug_title": "saibeojeonsa", "date": "1997-11-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

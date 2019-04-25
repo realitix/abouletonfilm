@@ -1,1 +1,0 @@
-{"tmdb_id": 308374, "title": "Bonnie May", "original_title": "Bonnie May", "slug_title": "bonnie-may", "date": "1920-06-10", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bessie Love (Bonnie May)", "Miss DuPont ()", "W.H. Bainbridge ()", "Charles Gordon ()", "Lon Poff ()"], "comments": [], "recommandations_id": []}

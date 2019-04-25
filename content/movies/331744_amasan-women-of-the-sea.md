@@ -1,1 +1,0 @@
-{"tmdb_id": 331744, "title": "Amasan: Women of the Sea", "original_title": "Amasan: Women of the Sea", "slug_title": "amasan-women-of-the-sea", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j3twC63QMx3EXYbzxV6SIk2Pkk2.jpg", "actors": [], "comments": [], "recommandations_id": []}

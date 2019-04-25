@@ -1,1 +1,0 @@
-{"tmdb_id": 494448, "title": "Familienehre", "original_title": "Familienehre", "slug_title": "familienehre", "date": "1993-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Nicole Heesters ()", "Klaus Mikoleit (Kurt)", "Klausj\u00fcrgen Wussow ()"], "comments": [], "recommandations_id": []}

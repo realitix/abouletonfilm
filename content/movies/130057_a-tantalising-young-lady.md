@@ -1,1 +1,0 @@
-{"tmdb_id": 130057, "title": "A Tantalising Young Lady", "original_title": "La petite rosse", "slug_title": "a-tantalising-young-lady", "date": "1909-10-22", "genre": "", "score": "2.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Max Linder ()", "Arlette d'Um\u00e8s ()"], "comments": [], "recommandations_id": []}

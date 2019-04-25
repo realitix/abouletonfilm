@@ -1,1 +1,0 @@
-{"tmdb_id": 119489, "title": "The Collective Evolution", "original_title": "The Collective Evolution", "slug_title": "the-collective-evolution", "date": "2011-01-15", "genre": "Documentaire / Drame", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e6w2IjxgK2ArUJi4FCfgSqqMI1C.jpg", "actors": [], "comments": [], "recommandations_id": []}

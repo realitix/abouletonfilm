@@ -1,1 +1,0 @@
-{"tmdb_id": 368955, "title": "The Recruiter", "original_title": "The Recruiter", "slug_title": "the-recruiter", "date": "2008-01-18", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jLYlK6ucedX5XQT0utAL9CcbFkL.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 53279, "title": "Home Run", "original_title": "Home Run", "slug_title": "home-run", "date": "2008-10-17", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9dvZuM1EhxIXiJn9TfpenP38IDX.jpg", "actors": ["Fan Bingbing ()", "Chapman To ()"], "comments": [], "recommandations_id": []}

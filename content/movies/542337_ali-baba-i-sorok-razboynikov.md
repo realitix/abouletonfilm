@@ -1,1 +1,0 @@
-{"tmdb_id": 542337, "title": "Ali-baba i sorok razboynikov", "original_title": "Ali-baba i sorok razboynikov", "slug_title": "ali-baba-i-sorok-razboynikov", "date": "1959-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

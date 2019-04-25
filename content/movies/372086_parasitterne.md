@@ -1,1 +1,0 @@
-{"tmdb_id": 372086, "title": "Parasitterne", "original_title": "Parasitterne", "slug_title": "parasitterne", "date": "1958-05-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ec8AIGEh1W0pxOC6VYKJrbd8bYc.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 498988, "title": "Still Life", "original_title": "Still Life", "slug_title": "still-life", "date": "1969-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

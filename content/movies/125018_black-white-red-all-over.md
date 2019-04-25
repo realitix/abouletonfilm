@@ -1,1 +1,0 @@
-{"tmdb_id": 125018, "title": "Black & White & Red All Over", "original_title": "Black & White & Red All Over", "slug_title": "black-white-red-all-over", "date": "1997-03-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oLKepoy4nzOLYxzITtgVHAUamXm.jpg", "actors": [], "comments": [], "recommandations_id": []}

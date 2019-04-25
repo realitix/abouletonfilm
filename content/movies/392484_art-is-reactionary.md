@@ -1,1 +1,0 @@
-{"tmdb_id": 392484, "title": "Art Is Reactionary", "original_title": "Art Is Reactionary", "slug_title": "art-is-reactionary", "date": "1987-04-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

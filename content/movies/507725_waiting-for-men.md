@@ -1,1 +1,0 @@
-{"tmdb_id": 507725, "title": "Waiting for Men", "original_title": "En Attendant Les Hommes", "slug_title": "waiting-for-men", "date": "2007-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

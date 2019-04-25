@@ -1,1 +1,0 @@
-{"tmdb_id": 123509, "title": "Nick Warren: Ibiza", "original_title": "Nick Warren: Ibiza", "slug_title": "nick-warren-ibiza", "date": "2001-03-26", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/soePuvoTYBuyNSxZkpxiasMhpYz.jpg", "actors": [], "comments": [], "recommandations_id": []}

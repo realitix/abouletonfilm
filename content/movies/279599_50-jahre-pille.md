@@ -1,1 +1,0 @@
-{"tmdb_id": 279599, "title": "50 Jahre Pille", "original_title": "50 Jahre Pille", "slug_title": "50-jahre-pille", "date": "2010-11-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

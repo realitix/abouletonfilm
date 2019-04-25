@@ -1,1 +1,0 @@
-{"tmdb_id": 485171, "title": "Tracks Across Sand", "original_title": "Tracks Across Sand", "slug_title": "tracks-across-sand", "date": "2012-12-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

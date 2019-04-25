@@ -1,1 +1,0 @@
-{"tmdb_id": 190533, "title": "Les Pirates du Rh\u00f4ne", "original_title": "Les Pirates du Rh\u00f4ne", "slug_title": "les-pirates-du-rhone", "date": "1933-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

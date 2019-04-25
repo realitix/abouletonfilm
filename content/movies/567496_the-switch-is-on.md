@@ -1,1 +1,0 @@
-{"tmdb_id": 567496, "title": "The Switch Is On", "original_title": "The Switch Is On", "slug_title": "the-switch-is-on", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h9wzdv1tzf3yGpF1Xj25GLbwfeB.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 235128, "title": "Insect to Injury", "original_title": "Insect to Injury", "slug_title": "insect-to-injury", "date": "1956-08-10", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q4WvGvV1vyG5lmrSCWWIh6A1MjE.jpg", "actors": [], "comments": [], "recommandations_id": []}

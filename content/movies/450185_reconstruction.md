@@ -1,1 +1,0 @@
-{"tmdb_id": 450185, "title": "Reconstruction", "original_title": "Reconstruction", "slug_title": "reconstruction", "date": "", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

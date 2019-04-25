@@ -1,1 +1,0 @@
-{"tmdb_id": 369316, "title": "Death of a Beatle: John Lennon", "original_title": "Death of a Beatle: John Lennon", "slug_title": "death-of-a-beatle-john-lennon", "date": "2001-12-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mYlimU6qB4bLtRwxH3q3R5oPMgL.jpg", "actors": [], "comments": [], "recommandations_id": []}

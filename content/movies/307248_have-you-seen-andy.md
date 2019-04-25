@@ -1,1 +1,0 @@
-{"tmdb_id": 307248, "title": "Have You Seen Andy?", "original_title": "Have You Seen Andy?", "slug_title": "have-you-seen-andy", "date": "2007-06-12", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m1MI23vFPu5HPSID6OYhEP642hD.jpg", "actors": [], "comments": [], "recommandations_id": []}

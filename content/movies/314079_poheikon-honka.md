@@ -1,1 +1,0 @@
-{"tmdb_id": 314079, "title": "P\u00f6heik\u00f6n h\u00f6nk\u00e4", "original_title": "P\u00f6heik\u00f6n h\u00f6nk\u00e4", "slug_title": "poheikon-honka", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 556702, "title": "Jour de noces", "original_title": "Jour de noces", "slug_title": "jour-de-noces", "date": "1930-10-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

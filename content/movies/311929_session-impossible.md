@@ -1,1 +1,0 @@
-{"tmdb_id": 311929, "title": "Session Impossible", "original_title": "Session Impossible", "slug_title": "session-impossible", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

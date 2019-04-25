@@ -1,1 +1,0 @@
-{"tmdb_id": 350727, "title": "Palm Rot", "original_title": "Palm Rot", "slug_title": "palm-rot", "date": "2015-01-24", "genre": "Science-Fiction", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e92N9jeHPjrBiXD4bSSiF4Ge0QM.jpg", "actors": ["Greg Tonner (Bill)"], "comments": [], "recommandations_id": []}

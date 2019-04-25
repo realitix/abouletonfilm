@@ -1,1 +1,0 @@
-{"tmdb_id": 433109, "title": "Eyes of the Roshi", "original_title": "Eyes of the Roshi", "slug_title": "eyes-of-the-roshi", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/teYni8a4QS64sgnKYognQvoD59U.jpg", "actors": [], "comments": [], "recommandations_id": []}

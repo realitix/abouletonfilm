@@ -1,1 +1,0 @@
-{"tmdb_id": 551943, "title": "Alles Regional", "original_title": "Alles Regional", "slug_title": "alles-regional", "date": "2018-10-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Simon Andreas (Simon Andreas)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 548374, "title": "The Magic of Darren Jarman", "original_title": "The Magic of Darren Jarman", "slug_title": "the-magic-of-darren-jarman", "date": "2001-12-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vDcgBOIgChZ6t98yeuu5UK90C1t.jpg", "actors": [], "comments": [], "recommandations_id": []}

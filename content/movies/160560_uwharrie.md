@@ -1,1 +1,0 @@
-{"tmdb_id": 160560, "title": "Uwharrie", "original_title": "Uwharrie", "slug_title": "uwharrie", "date": "2012-09-19", "genre": "", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6f8n2Co9kLuRjeTNRc9O1p4AvTT.jpg", "actors": [], "comments": [], "recommandations_id": []}

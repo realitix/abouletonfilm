@@ -1,1 +1,0 @@
-{"tmdb_id": 262383, "title": "Kuzhandai Ullam", "original_title": "Kuzhandai Ullam", "slug_title": "kuzhandai-ullam", "date": "1969-01-13", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gemini Ganesan ()", "Vanisri ()", "Sowcar Janaki ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 471569, "title": "Atrav\u00e9s de Ti", "original_title": "Atrav\u00e9s de Ti", "slug_title": "atraves-de-ti", "date": "2017-08-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wJa0Ae0cNW1E6oNcIqnrmbTOeGQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 276942, "title": "Living is Winning", "original_title": "Living is Winning", "slug_title": "living-is-winning", "date": "2008-09-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

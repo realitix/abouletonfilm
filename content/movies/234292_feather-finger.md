@@ -1,1 +1,0 @@
-{"tmdb_id": 234292, "title": "Feather Finger", "original_title": "Feather Finger", "slug_title": "feather-finger", "date": "1966-08-20", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sPrrcAEp7UutROiTLzjTm45oHcS.jpg", "actors": [], "comments": [], "recommandations_id": []}

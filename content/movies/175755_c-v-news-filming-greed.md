@@ -1,1 +1,0 @@
-{"tmdb_id": 175755, "title": "C-V News: Filming Greed", "original_title": "C-V News: Filming Greed", "slug_title": "c-v-news-filming-greed", "date": "1923-03-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

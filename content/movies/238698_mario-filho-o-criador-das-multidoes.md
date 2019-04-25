@@ -1,1 +1,0 @@
-{"tmdb_id": 238698, "title": "Mario Filho - O Criador das Multid\u00f5es", "original_title": "Mario Filho - O Criador das Multid\u00f5es", "slug_title": "mario-filho-o-criador-das-multidoes", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

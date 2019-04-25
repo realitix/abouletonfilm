@@ -1,1 +1,0 @@
-{"tmdb_id": 414614, "title": "The Dawn Chorus", "original_title": "The Dawn Chorus", "slug_title": "the-dawn-chorus", "date": "2006-09-15", "genre": "Com\u00e9die / Drame", "score": "2.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Valerie Shusterov (Bonnie Bukowski)", "Henry Glovinsky (Lloyd Bukowski)"], "comments": [], "recommandations_id": []}

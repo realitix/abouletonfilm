@@ -1,1 +1,0 @@
-{"tmdb_id": 275345, "title": "In the Beginning was the Particle", "original_title": "In the Beginning was the Particle", "slug_title": "in-the-beginning-was-the-particle", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

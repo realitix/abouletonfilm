@@ -1,1 +1,0 @@
-{"tmdb_id": 428035, "title": "Mad Shelia", "original_title": "\u75af\u72c2\u5e0c\u8389\u5a05", "slug_title": "mad-shelia", "date": "2016-11-25", "genre": "Action", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7UKEJGgtbNrUh7Ji9EBFyStzqpq.jpg", "actors": [], "comments": [], "recommandations_id": []}

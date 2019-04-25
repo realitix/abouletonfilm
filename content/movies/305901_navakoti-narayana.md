@@ -1,1 +1,0 @@
-{"tmdb_id": 305901, "title": "Navakoti Narayana", "original_title": "Navakoti Narayana", "slug_title": "navakoti-narayana", "date": "1964-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

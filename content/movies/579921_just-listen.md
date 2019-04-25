@@ -1,1 +1,0 @@
-{"tmdb_id": 579921, "title": "Just Listen", "original_title": "Just Listen", "slug_title": "just-listen", "date": "1988-01-01", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

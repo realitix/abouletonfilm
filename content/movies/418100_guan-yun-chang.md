@@ -1,1 +1,1 @@
-{"tmdb_id": 418100, "title": "\u95dc\u96f2\u9577", "original_title": "\u95dc\u96f2\u9577", "slug_title": "guan-yun-chang", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 418100, "title": "\u95dc\u96f2\u9577", "original_title": "\u95dc\u96f2\u9577", "slug_title": "guan-yun-chang", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

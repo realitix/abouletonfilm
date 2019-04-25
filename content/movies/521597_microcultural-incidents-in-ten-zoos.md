@@ -1,1 +1,0 @@
-{"tmdb_id": 521597, "title": "Microcultural Incidents in Ten Zoos", "original_title": "Microcultural Incidents in Ten Zoos", "slug_title": "microcultural-incidents-in-ten-zoos", "date": "1971-04-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

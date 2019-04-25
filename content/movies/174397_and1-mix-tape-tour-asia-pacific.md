@@ -1,1 +1,0 @@
-{"tmdb_id": 174397, "title": "And1 Mix Tape Tour: Asia-Pacific", "original_title": "And1 Mix Tape Tour: Asia-Pacific", "slug_title": "and1-mix-tape-tour-asia-pacific", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2d4jYdmkvE391Bq4vGQq1GY6yt8.jpg", "actors": [], "comments": [], "recommandations_id": []}

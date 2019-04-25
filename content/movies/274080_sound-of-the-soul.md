@@ -1,1 +1,0 @@
-{"tmdb_id": 274080, "title": "Sound of the Soul", "original_title": "Sound of the Soul", "slug_title": "sound-of-the-soul", "date": "2005-10-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

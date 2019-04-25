@@ -1,1 +1,0 @@
-{"tmdb_id": 254079, "title": "Lost Weekend", "original_title": "Lost Weekend", "slug_title": "lost-weekend", "date": "1999-09-23", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qC7Qgz7YzL8Se8BIUFD1SYRgwHz.jpg", "actors": [], "comments": [], "recommandations_id": []}

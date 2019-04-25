@@ -1,1 +1,0 @@
-{"tmdb_id": 539673, "title": "KoKo Gurentai 2", "original_title": "\u9ad8\u6821\u611a\u9023\u968a2", "slug_title": "koko-gurentai-2", "date": "2017-12-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xoKC8wYICLTeEBCZOrCbUg9xFo1.jpg", "actors": [], "comments": [], "recommandations_id": []}

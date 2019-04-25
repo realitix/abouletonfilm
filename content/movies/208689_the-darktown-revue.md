@@ -1,1 +1,0 @@
-{"tmdb_id": 208689, "title": "The Darktown Revue", "original_title": "The Darktown Revue", "slug_title": "the-darktown-revue", "date": "1931-01-31", "genre": "Com\u00e9die / Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nMgwBnG0unWuK096s4mgiGSv2Ij.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 467949, "title": "American Fabulous", "original_title": "American Fabulous", "slug_title": "american-fabulous", "date": "1991-06-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nNjHM20Ha5MGMjiQJhh75unFp8F.jpg", "actors": ["Jeffrey Strouth (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 412790, "title": "The Next Black", "original_title": "The Next Black", "slug_title": "the-next-black", "date": "2014-10-31", "genre": "Documentaire / Histoire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9gv8zyYXcm0T1e9zCl1ZjIHGcB9.jpg", "actors": [], "comments": [], "recommandations_id": []}

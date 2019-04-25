@@ -1,1 +1,0 @@
-{"tmdb_id": 236166, "title": "The Sneezing Weasel", "original_title": "The Sneezing Weasel", "slug_title": "the-sneezing-weasel", "date": "1938-03-11", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4T3FtzjsDtrA239bNTWdulV5epf.jpg", "actors": [], "comments": [], "recommandations_id": []}

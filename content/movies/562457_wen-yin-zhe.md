@@ -1,1 +1,0 @@
-{"tmdb_id": 562457, "title": "\u543b\u9690\u8005", "original_title": "\u543b\u9690\u8005", "slug_title": "wen-yin-zhe", "date": "2018-09-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5T5HTyxypLHyJqD7W98ET0xtZVl.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 116855, "title": "Police Beat", "original_title": "Police Beat", "slug_title": "police-beat", "date": "2005-06-09", "genre": "Drame", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tEbmG2abTl0P0PAwAcrDKB9ICa4.jpg", "actors": ["Pape Sidy Niang (Z)"], "comments": [], "recommandations_id": []}

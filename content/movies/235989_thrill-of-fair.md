@@ -1,1 +1,0 @@
-{"tmdb_id": 235989, "title": "Thrill of Fair", "original_title": "Thrill of Fair", "slug_title": "thrill-of-fair", "date": "1951-04-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 275274, "title": "L'home prec\u00eds", "original_title": "L'home prec\u00eds", "slug_title": "l-home-precis", "date": "2012-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n6ZUzgXctm6lih505vR2x1nmhuC.jpg", "actors": ["Xavier Tort ()"], "comments": [], "recommandations_id": []}

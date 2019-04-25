@@ -1,1 +1,0 @@
-{"tmdb_id": 305104, "title": "Moslem Sacred Fire Decree, Part 1", "original_title": "Wu lin sheng huo ling shang ji", "slug_title": "moslem-sacred-fire-decree-part-1", "date": "1965-01-01", "genre": "Fantastique / Action", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 246775, "title": "Live Alison Krauss", "original_title": "Live Alison Krauss", "slug_title": "live-alison-krauss", "date": "2002-10-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

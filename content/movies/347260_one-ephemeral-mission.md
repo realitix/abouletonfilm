@@ -1,1 +1,0 @@
-{"tmdb_id": 347260, "title": "One Ephemeral Mission", "original_title": "Une mission \u00e9ph\u00e9m\u00e8re", "slug_title": "one-ephemeral-mission", "date": "1993-07-01", "genre": "Animation", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u9r5qAHwEJ7GUWHfKUF0PQGMK1A.jpg", "actors": [], "comments": [], "recommandations_id": []}

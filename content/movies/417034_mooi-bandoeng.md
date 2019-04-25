@@ -1,1 +1,0 @@
-{"tmdb_id": 417034, "title": "Mooi Bandoeng", "original_title": "Mooi Bandoeng", "slug_title": "mooi-bandoeng", "date": "1928-09-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

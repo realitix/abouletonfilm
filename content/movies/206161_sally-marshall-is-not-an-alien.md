@@ -1,1 +1,0 @@
-{"tmdb_id": 206161, "title": "Sally Marshall Is Not an Alien", "original_title": "Sally Marshall Is Not an Alien", "slug_title": "sally-marshall-is-not-an-alien", "date": "1999-06-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gOwcbQs5wj3QlEvD4Qq8Eos1Zqr.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 228235, "title": "The Strangest Dream", "original_title": "The Strangest Dream", "slug_title": "the-strangest-dream", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

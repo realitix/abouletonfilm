@@ -1,1 +1,0 @@
-{"tmdb_id": 50664, "title": "Godard & Others", "original_title": "Godard & Others", "slug_title": "godard-others", "date": "2010-08-01", "genre": "Drame / Com\u00e9die", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zR5tC93IqtrbVOL0GRa06BLGgaW.jpg", "actors": ["Paul McGann (Torrence)"], "comments": [], "recommandations_id": []}

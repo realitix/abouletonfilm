@@ -1,1 +1,0 @@
-{"tmdb_id": 194497, "title": "Come 2 Me Beauty Live On Stage", "original_title": "Come 2 Me Beauty Live On Stage", "slug_title": "come-2-me-beauty-live-on-stage", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/stWtL3XUa1gIceo0eaj0fxXFeze.jpg", "actors": [], "comments": [], "recommandations_id": []}

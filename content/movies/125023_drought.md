@@ -1,1 +1,0 @@
-{"tmdb_id": 125023, "title": "Drought", "original_title": "Cuates de Australia", "slug_title": "drought", "date": "2011-11-20", "genre": "Documentaire", "score": "4.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8Z2nWOfy31ylVseYRuBVdyIs8Ia.jpg", "actors": [], "comments": [], "recommandations_id": []}

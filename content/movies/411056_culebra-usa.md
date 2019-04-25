@@ -1,1 +1,0 @@
-{"tmdb_id": 411056, "title": "Culebra USA", "original_title": "Culebra USA", "slug_title": "culebra-usa", "date": "2000-12-04", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sully D\u00edaz (Nora)", "Junior \u00c1lvarez ()", "Jorge Luis Ramos ()"], "comments": [], "recommandations_id": []}

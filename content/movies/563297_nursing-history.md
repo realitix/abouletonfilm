@@ -1,1 +1,0 @@
-{"tmdb_id": 563297, "title": "Nursing History", "original_title": "Nursing History", "slug_title": "nursing-history", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

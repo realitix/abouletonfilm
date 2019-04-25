@@ -1,1 +1,0 @@
-{"tmdb_id": 595457, "title": "Maybe Today", "original_title": "Maybe Today", "slug_title": "maybe-today", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 181631, "title": "Airplane Drone (Bakuon)", "original_title": "Airplane Drone (Bakuon)", "slug_title": "airplane-drone-bakuon", "date": "", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

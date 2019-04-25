@@ -1,1 +1,0 @@
-{"tmdb_id": 518618, "title": "A Palestina Brasileira", "original_title": "A Palestina Brasileira", "slug_title": "a-palestina-brasileira", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

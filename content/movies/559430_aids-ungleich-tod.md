@@ -1,1 +1,0 @@
-{"tmdb_id": 559430, "title": "Aids ungleich Tod", "original_title": "Aids ungleich Tod", "slug_title": "aids-ungleich-tod", "date": "1996-02-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

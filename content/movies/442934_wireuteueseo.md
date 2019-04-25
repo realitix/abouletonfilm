@@ -1,1 +1,0 @@
-{"tmdb_id": 442934, "title": "\uc704\ub974\ud2b8\uc5d0\uc11c", "original_title": "\uc704\ub974\ud2b8\uc5d0\uc11c", "slug_title": "wireuteueseo", "date": "2016-07-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7oLFM34qMN8VaTLDlW21EDMxqjI.jpg", "actors": [], "comments": [], "recommandations_id": []}

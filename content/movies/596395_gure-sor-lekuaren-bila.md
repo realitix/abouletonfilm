@@ -1,1 +1,0 @@
-{"tmdb_id": 596395, "title": "Gure Sor Lekuaren bila", "original_title": "Gure Sor Lekuaren bila", "slug_title": "gure-sor-lekuaren-bila", "date": "2015-09-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mq36EQ5BeNF21B3vIFx2xipjVKE.jpg", "actors": [], "comments": [], "recommandations_id": []}

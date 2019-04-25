@@ -1,1 +1,0 @@
-{"tmdb_id": 532476, "title": "Unclassified Material", "original_title": "Unclassified Material", "slug_title": "unclassified-material", "date": "1960-06-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uv6FUloXlvPs3MgTBjdhna6X8Ew.jpg", "actors": [], "comments": [], "recommandations_id": []}

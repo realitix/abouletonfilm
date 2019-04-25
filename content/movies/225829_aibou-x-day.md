@@ -1,1 +1,0 @@
-{"tmdb_id": 225829, "title": "AIBOU X-Day", "original_title": "\u76f8\u68d2\u30b7\u30ea\u30fc\u30ba X DAY", "slug_title": "aibou-x-day", "date": "", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pIuTdE1uPcjarjUuIrOdeJyoif9.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 431123, "title": "Paris By Night 116", "original_title": "Paris By Night 116", "slug_title": "paris-by-night-116", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3b4u3uwUrqyUrhrTuXQOrhvRieh.jpg", "actors": [], "comments": [], "recommandations_id": []}

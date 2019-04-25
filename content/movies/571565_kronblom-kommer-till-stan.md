@@ -1,1 +1,0 @@
-{"tmdb_id": 571565, "title": "Kronblom kommer till stan", "original_title": "Kronblom kommer till stan", "slug_title": "kronblom-kommer-till-stan", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nnoz0lUds4mT8tO43xvkJ2VCSv9.jpg", "actors": [], "comments": [], "recommandations_id": []}

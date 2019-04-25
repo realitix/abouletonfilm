@@ -1,1 +1,0 @@
-{"tmdb_id": 509727, "title": "Love and Words Are Politics", "original_title": "Love and Words Are Politics", "slug_title": "love-and-words-are-politics", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sylvie Ballyot (Self)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 215711, "title": "When the Iron Bird Flies", "original_title": "When the Iron Bird Flies", "slug_title": "when-the-iron-bird-flies", "date": "2012-10-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Aqh91gVJsBEUNCw1NiCCcZw5BCP.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 434997, "title": "All About Anne", "original_title": "All About Anne", "slug_title": "all-about-anne", "date": "2006-01-01", "genre": "Com\u00e9die / Familial", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Nikelola Balogun (Anne)"], "comments": [], "recommandations_id": []}

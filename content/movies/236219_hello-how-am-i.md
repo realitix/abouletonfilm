@@ -1,1 +1,0 @@
-{"tmdb_id": 236219, "title": "Hello How Am I", "original_title": "Hello How Am I", "slug_title": "hello-how-am-i", "date": "1939-07-13", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dGkdidhehodIKoMWuQWU0QBRDve.jpg", "actors": [], "comments": [], "recommandations_id": []}

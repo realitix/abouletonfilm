@@ -1,1 +1,0 @@
-{"tmdb_id": 577079, "title": "inicial", "original_title": "inicial", "slug_title": "inicial", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

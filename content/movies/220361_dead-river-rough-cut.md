@@ -1,1 +1,0 @@
-{"tmdb_id": 220361, "title": "Dead River Rough Cut", "original_title": "Dead River Rough Cut", "slug_title": "dead-river-rough-cut", "date": "2002-09-20", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wGiN7iH6tcT5408qWez0oWjLyi4.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 420514, "title": "Rungoli", "original_title": "Rungoli", "slug_title": "rungoli", "date": "1962-10-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jkuihrFDgEbCL0mvsj27uPGAoSw.jpg", "actors": [], "comments": [], "recommandations_id": []}

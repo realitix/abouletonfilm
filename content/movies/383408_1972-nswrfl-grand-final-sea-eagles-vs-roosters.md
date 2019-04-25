@@ -1,1 +1,0 @@
-{"tmdb_id": 383408, "title": "1972 NSWRFL Grand Final: Sea Eagles vs Roosters", "original_title": "1972 NSWRFL Grand Final: Sea Eagles vs Roosters", "slug_title": "1972-nswrfl-grand-final-sea-eagles-vs-roosters", "date": "1972-09-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

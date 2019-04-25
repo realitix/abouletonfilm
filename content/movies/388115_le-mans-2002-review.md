@@ -1,1 +1,0 @@
-{"tmdb_id": 388115, "title": "Le Mans 2002 Review", "original_title": "Le Mans 2002 Review", "slug_title": "le-mans-2002-review", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rvaewryL6PNFD02qmKb7wwj6XMH.jpg", "actors": [], "comments": [], "recommandations_id": []}

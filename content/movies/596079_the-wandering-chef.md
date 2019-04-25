@@ -1,1 +1,0 @@
-{"tmdb_id": 596079, "title": "The Wandering Chef", "original_title": "The Wandering Chef", "slug_title": "the-wandering-chef", "date": "2019-05-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qv2mTA0FKMLXi4VyrDVeBlhWE8I.jpg", "actors": [], "comments": [], "recommandations_id": []}

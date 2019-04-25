@@ -1,1 +1,0 @@
-{"tmdb_id": 488422, "title": "Maid or Man", "original_title": "Maid or Man", "slug_title": "maid-or-man", "date": "1911-01-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mary Pickford (Elsie Keene)", "Owen Moore (Jimmy Keene)"], "comments": [], "recommandations_id": []}

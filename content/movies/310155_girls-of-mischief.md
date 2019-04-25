@@ -1,1 +1,0 @@
-{"tmdb_id": 310155, "title": "Girls of Mischief", "original_title": "Girls of Mischief", "slug_title": "girls-of-mischief", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

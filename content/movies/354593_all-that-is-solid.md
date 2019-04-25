@@ -1,1 +1,0 @@
-{"tmdb_id": 354593, "title": "All That is Solid", "original_title": "All That is Solid", "slug_title": "all-that-is-solid", "date": "2014-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wPiMdiqsmy9RnFp6RpUaNVfw2e6.jpg", "actors": [], "comments": [], "recommandations_id": []}

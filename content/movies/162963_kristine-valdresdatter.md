@@ -1,1 +1,0 @@
-{"tmdb_id": 162963, "title": "Kristine Valdresdatter", "original_title": "Kristine Valdresdatter", "slug_title": "kristine-valdresdatter", "date": "1930-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

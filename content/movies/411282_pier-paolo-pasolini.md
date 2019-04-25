@@ -1,1 +1,0 @@
-{"tmdb_id": 411282, "title": "Pier Paolo Pasolini", "original_title": "Pier Paolo Pasolini", "slug_title": "pier-paolo-pasolini", "date": "1995-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a1sLj46mFMurEIe2L4IOANKmB9z.jpg", "actors": [], "comments": [], "recommandations_id": []}

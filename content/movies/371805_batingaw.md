@@ -1,1 +1,0 @@
-{"tmdb_id": 371805, "title": "Batingaw", "original_title": "Batingaw", "slug_title": "batingaw", "date": "1960-02-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Cesar Ramirez ()", "Johnny Monteiro ()", "Jose Romulo ()", "Leonor Vergara ()", "Lily Marquez ()"], "comments": [], "recommandations_id": []}

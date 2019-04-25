@@ -1,1 +1,0 @@
-{"tmdb_id": 159529, "title": "D.O.A.: The End", "original_title": "D.O.A.: The End", "slug_title": "d-o-a-the-end", "date": "1990-11-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7QRQ7YBnkt7V7hzn136dC8Kd5qL.jpg", "actors": [], "comments": [], "recommandations_id": []}

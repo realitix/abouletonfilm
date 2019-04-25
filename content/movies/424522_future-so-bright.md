@@ -1,1 +1,0 @@
-{"tmdb_id": 424522, "title": "Future So Bright", "original_title": "Future So Bright", "slug_title": "future-so-bright", "date": "2010-10-02", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/92dicGRwhEkCQGArIWGRXW0Gsy4.jpg", "actors": [], "comments": [], "recommandations_id": []}

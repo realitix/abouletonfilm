@@ -1,1 +1,0 @@
-{"tmdb_id": 336481, "title": "Music Girl", "original_title": "Ongaku Shoujo", "slug_title": "music-girl", "date": "2015-03-22", "genre": "Animation / Musique", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rTnJYWUhCahhK9bde7Bag93VHvY.jpg", "actors": [], "comments": [], "recommandations_id": []}

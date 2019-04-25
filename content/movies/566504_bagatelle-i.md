@@ -1,1 +1,0 @@
-{"tmdb_id": 566504, "title": "Bagatelle I", "original_title": "Bagatelle I", "slug_title": "bagatelle-i", "date": "2018-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e8aP4DNaRs7CgvBYr459JfxJkds.jpg", "actors": [], "comments": [], "recommandations_id": []}

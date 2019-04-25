@@ -1,1 +1,0 @@
-{"tmdb_id": 314630, "title": "The Prince", "original_title": "Shah-zadeh", "slug_title": "the-prince", "date": "2014-11-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

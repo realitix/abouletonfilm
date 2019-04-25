@@ -1,1 +1,0 @@
-{"tmdb_id": 254087, "title": "The Clockmaker's Dog", "original_title": "The Clockmaker's Dog", "slug_title": "the-clockmaker-s-dog", "date": "1956-01-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

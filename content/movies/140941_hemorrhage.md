@@ -1,1 +1,0 @@
-{"tmdb_id": 140941, "title": "Hemorrhage", "original_title": "Hemorrhage", "slug_title": "hemorrhage", "date": "2012-09-30", "genre": "Thriller / Horreur", "score": "2.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Aekfc1ZdhHk77CpEH3ldIUlPDh.jpg", "actors": ["Alex D. Mackie (Oliver Lorenz)"], "comments": [], "recommandations_id": []}

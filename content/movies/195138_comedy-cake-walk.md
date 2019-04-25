@@ -1,1 +1,0 @@
-{"tmdb_id": 195138, "title": "Comedy Cake Walk", "original_title": "Comedy Cake Walk", "slug_title": "comedy-cake-walk", "date": "1903-05-11", "genre": "", "score": "4.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

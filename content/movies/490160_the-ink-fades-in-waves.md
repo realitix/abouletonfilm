@@ -1,1 +1,0 @@
-{"tmdb_id": 490160, "title": "The ink fades in waves", "original_title": "A tinta esbate-se em forma de onda", "slug_title": "the-ink-fades-in-waves", "date": "2016-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6oDArnv5TmwsOUtSrX0rSNUvifL.jpg", "actors": [], "comments": [], "recommandations_id": []}

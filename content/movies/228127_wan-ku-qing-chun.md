@@ -1,1 +1,0 @@
-{"tmdb_id": 228127, "title": "\u73a9\u9177\u9752\u6625", "original_title": "\u73a9\u9177\u9752\u6625", "slug_title": "wan-ku-qing-chun", "date": "2010-10-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

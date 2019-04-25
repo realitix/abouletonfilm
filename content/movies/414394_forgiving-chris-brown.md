@@ -1,1 +1,0 @@
-{"tmdb_id": 414394, "title": "Forgiving Chris Brown", "original_title": "Forgiving Chris Brown", "slug_title": "forgiving-chris-brown", "date": "2016-09-26", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mZjufhA4QuaT4BQ0iuods0Zt1gh.jpg", "actors": [], "comments": [], "recommandations_id": []}

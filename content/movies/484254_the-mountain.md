@@ -1,1 +1,0 @@
-{"tmdb_id": 484254, "title": "The Mountain", "original_title": "The Mountain", "slug_title": "the-mountain", "date": "2017-05-13", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8PiIDNdMBMEsyXgiIjfELLXsBnb.jpg", "actors": [], "comments": [], "recommandations_id": []}

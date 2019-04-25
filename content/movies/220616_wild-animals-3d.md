@@ -1,1 +1,0 @@
-{"tmdb_id": 220616, "title": "Wild Animals 3D", "original_title": "Wild Animals 3D", "slug_title": "wild-animals-3d", "date": "2012-12-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tijFKzJCccX7TPUX9IYxhPBcqPk.jpg", "actors": [], "comments": [], "recommandations_id": []}

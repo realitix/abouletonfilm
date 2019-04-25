@@ -1,1 +1,0 @@
-{"tmdb_id": 552788, "title": "The Chaney Vase", "original_title": "The Chaney Vase", "slug_title": "the-chaney-vase", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

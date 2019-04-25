@@ -1,1 +1,0 @@
-{"tmdb_id": 442263, "title": "Mononoke Dance", "original_title": "\u96fb\u6c17\u30b0\u30eb\u30fc\u30f4 \u30e2\u30ce\u30ce\u30b1\u30c0\u30f3\u30b9", "slug_title": "mononoke-dance", "date": "2008-04-02", "genre": "Animation / Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,1 @@
-{"tmdb_id": 308210, "title": "Baisaheb", "original_title": "Baisaheb", "slug_title": "baisaheb", "date": "1983-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 308210, "title": "Baisaheb", "original_title": "Baisaheb", "slug_title": "baisaheb", "date": "1983-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Bollywood 1983", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

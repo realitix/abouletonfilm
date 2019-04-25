@@ -1,1 +1,0 @@
-{"tmdb_id": 464671, "title": "NiiSoTeWak: Two Bodies, One Heart", "original_title": "NiiSoTeWak: Two Bodies, One Heart", "slug_title": "niisotewak-two-bodies-one-heart", "date": "2017-05-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jules A. Koostachin (Herself)"], "comments": [], "recommandations_id": []}

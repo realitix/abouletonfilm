@@ -1,1 +1,0 @@
-{"tmdb_id": 516906, "title": "Die Republikaner", "original_title": "Die Republikaner", "slug_title": "die-republikaner", "date": "1990-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

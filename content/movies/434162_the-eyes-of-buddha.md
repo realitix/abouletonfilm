@@ -1,1 +1,0 @@
-{"tmdb_id": 434162, "title": "The Eyes of Buddha", "original_title": "Da fo de tong kong", "slug_title": "the-eyes-of-buddha", "date": "1922-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Liu Xiyang ()"], "comments": [], "recommandations_id": []}

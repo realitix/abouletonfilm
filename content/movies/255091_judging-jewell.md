@@ -1,1 +1,0 @@
-{"tmdb_id": 255091, "title": "Judging Jewell", "original_title": "Judging Jewell", "slug_title": "judging-jewell", "date": "2014-01-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Richard Jewell (Himself)"], "comments": [], "recommandations_id": []}

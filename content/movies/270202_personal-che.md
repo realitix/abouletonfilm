@@ -1,1 +1,0 @@
-{"tmdb_id": 270202, "title": "Personal Che", "original_title": "Personal Che", "slug_title": "personal-che", "date": "2007-09-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nHqdCII3GA8wj8i1cNJx6lKEvCp.jpg", "actors": [], "comments": [], "recommandations_id": []}

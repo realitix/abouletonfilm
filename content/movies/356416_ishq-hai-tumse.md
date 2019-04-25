@@ -1,1 +1,0 @@
-{"tmdb_id": 356416, "title": "Ishq Hai Tumse", "original_title": "Ishq Hai Tumse", "slug_title": "ishq-hai-tumse", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e4zm6iq8XRBU8RHFvBv9BHzoXhv.jpg", "actors": [], "comments": [], "recommandations_id": []}

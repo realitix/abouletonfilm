@@ -1,1 +1,0 @@
-{"tmdb_id": 584670, "title": "El estado de las Cosas", "original_title": "El estado de las Cosas", "slug_title": "el-estado-de-las-cosas", "date": "2012-11-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3RdbZkdDqjTLpwBMx0HthpJQQaW.jpg", "actors": [], "comments": [], "recommandations_id": []}

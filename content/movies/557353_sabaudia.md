@@ -1,1 +1,0 @@
-{"tmdb_id": 557353, "title": "Sabaudia", "original_title": "Sabaudia", "slug_title": "sabaudia", "date": "2018-10-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gilberta Canciani ()", "Gurjeet Kaur ()", "Bruno Manotvani ()"], "comments": [], "recommandations_id": []}

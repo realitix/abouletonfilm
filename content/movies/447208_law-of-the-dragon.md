@@ -1,1 +1,0 @@
-{"tmdb_id": 447208, "title": "Law of the Dragon", "original_title": "Law of the Dragon", "slug_title": "law-of-the-dragon", "date": "2011-05-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

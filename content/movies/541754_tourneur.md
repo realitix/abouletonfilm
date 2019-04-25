@@ -1,1 +1,0 @@
-{"tmdb_id": 541754, "title": "Tourneur", "original_title": "Tourneur", "slug_title": "tourneur", "date": "2018-08-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

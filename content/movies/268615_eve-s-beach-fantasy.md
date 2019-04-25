@@ -1,1 +1,0 @@
-{"tmdb_id": 268615, "title": "Eve's Beach Fantasy", "original_title": "Eve's Beach Fantasy", "slug_title": "eve-s-beach-fantasy", "date": "1999-07-18", "genre": "Drame", "score": "1.2/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

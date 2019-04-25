@@ -1,1 +1,0 @@
-{"tmdb_id": 504763, "title": "Shear Madness", "original_title": "Shear Madness", "slug_title": "shear-madness", "date": "2017-03-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dLGTQljoEeiX9g0Tt21Cxbutiu1.jpg", "actors": [], "comments": [], "recommandations_id": []}

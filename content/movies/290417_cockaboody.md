@@ -1,1 +1,0 @@
-{"tmdb_id": 290417, "title": "Cockaboody", "original_title": "Cockaboody", "slug_title": "cockaboody", "date": "1974-01-01", "genre": "Animation", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Emily Hubley (Herself)", "Georgia Hubley (Herself)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 548380, "title": "The Colonel Comes to Japan", "original_title": "The Colonel Comes to Japan", "slug_title": "the-colonel-comes-to-japan", "date": "1981-01-01", "genre": "Documentaire / T\u00e9l\u00e9film", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Eric Sevareid (Himself - Host)"], "comments": [], "recommandations_id": []}

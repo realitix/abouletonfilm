@@ -1,1 +1,0 @@
-{"tmdb_id": 569136, "title": "Wet Load", "original_title": "Wet Load", "slug_title": "wet-load", "date": "1993-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rZsdhV9MHJivdFae6nxcG6cTVrE.jpg", "actors": [], "comments": [], "recommandations_id": []}

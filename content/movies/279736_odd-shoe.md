@@ -1,1 +1,0 @@
-{"tmdb_id": 279736, "title": "Odd Shoe", "original_title": "Odd Shoe", "slug_title": "odd-shoe", "date": "2008-03-09", "genre": "", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

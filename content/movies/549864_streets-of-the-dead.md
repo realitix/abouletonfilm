@@ -1,1 +1,0 @@
-{"tmdb_id": 549864, "title": "Streets of the Dead", "original_title": "Streets of the Dead", "slug_title": "streets-of-the-dead", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

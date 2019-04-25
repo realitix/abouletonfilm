@@ -1,1 +1,0 @@
-{"tmdb_id": 387356, "title": "Short Shave", "original_title": "Short Shave", "slug_title": "short-shave", "date": "1965-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Michael Snow ()"], "comments": [], "recommandations_id": []}

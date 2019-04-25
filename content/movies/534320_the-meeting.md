@@ -1,1 +1,0 @@
-{"tmdb_id": 534320, "title": "The Meeting", "original_title": "The Meeting", "slug_title": "the-meeting", "date": "2018-09-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/roZR6BvltXwaWDTGzIEvd1aqisp.jpg", "actors": ["Zach Jones (Zach, Frank, Gerald)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 75446, "title": "Carbon Nation", "original_title": "Carbon Nation", "slug_title": "carbon-nation", "date": "2011-02-11", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4tWZqwL5SAoBAZaqc18kMIP4GgL.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 522667, "title": "Estrella del sur", "original_title": "Estrella del sur", "slug_title": "estrella-del-sur", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3dsi3AxRnFDkCcdBtEbFN8uz2t2.jpg", "actors": [], "comments": [], "recommandations_id": []}

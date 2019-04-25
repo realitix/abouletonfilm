@@ -1,1 +1,0 @@
-{"tmdb_id": 135422, "title": "Terror of Dracula", "original_title": "Terror of Dracula", "slug_title": "terror-of-dracula", "date": "2012-03-10", "genre": "Horreur", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sVLpyRCB4M9KP7bdHp49rauU6Ct.jpg", "actors": [], "comments": [], "recommandations_id": []}

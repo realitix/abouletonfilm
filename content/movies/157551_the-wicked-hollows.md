@@ -1,1 +1,0 @@
-{"tmdb_id": 157551, "title": "The Wicked Hollows", "original_title": "The Wicked Hollows", "slug_title": "the-wicked-hollows", "date": "2016-10-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

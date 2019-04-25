@@ -1,1 +1,0 @@
-{"tmdb_id": 262491, "title": "Can't Stop the Water", "original_title": "Can't Stop the Water", "slug_title": "can-t-stop-the-water", "date": "2013-10-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

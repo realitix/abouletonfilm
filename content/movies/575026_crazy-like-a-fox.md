@@ -1,1 +1,0 @@
-{"tmdb_id": 575026, "title": "Crazy Like a Fox", "original_title": "Crazy Like a Fox", "slug_title": "crazy-like-a-fox", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

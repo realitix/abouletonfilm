@@ -1,1 +1,0 @@
-{"tmdb_id": 565309, "title": "La grande r\u00e9cr\u00e9", "original_title": "La grande r\u00e9cr\u00e9", "slug_title": "la-grande-recre", "date": "1976-03-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vojl0hejhX3d5cmdcK53D7oAknJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

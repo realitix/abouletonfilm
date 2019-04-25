@@ -1,1 +1,0 @@
-{"tmdb_id": 454319, "title": "Potsdam baut auf", "original_title": "Potsdam baut auf", "slug_title": "potsdam-baut-auf", "date": "1946-11-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

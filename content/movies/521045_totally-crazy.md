@@ -1,1 +1,0 @@
-{"tmdb_id": 521045, "title": "Totally Crazy", "original_title": "Totally Crazy", "slug_title": "totally-crazy", "date": "2017-04-06", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rS6meCHnjezRt6cYQFAyRuTbgO5.jpg", "actors": [], "comments": [], "recommandations_id": []}

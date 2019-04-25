@@ -1,1 +1,0 @@
-{"tmdb_id": 350056, "title": "I Can Go Potty!", "original_title": "I Can Go Potty!", "slug_title": "i-can-go-potty", "date": "2007-11-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

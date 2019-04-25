@@ -1,1 +1,0 @@
-{"tmdb_id": 328731, "title": "Story of the Silk Moth", "original_title": "Story of the Silk Moth", "slug_title": "story-of-the-silk-moth", "date": "1908-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

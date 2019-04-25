@@ -1,1 +1,0 @@
-{"tmdb_id": 468644, "title": "Chasse gard\u00e9e", "original_title": "Chasse gard\u00e9e", "slug_title": "chasse-gardee", "date": "1992-08-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/frY2ekzzPfaAqz8RoGidGUzOdsf.jpg", "actors": [], "comments": [], "recommandations_id": []}

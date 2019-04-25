@@ -1,1 +1,0 @@
-{"tmdb_id": 286123, "title": "Redenzione", "original_title": "Redenzione", "slug_title": "redenzione", "date": "1919-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Diana Karenne ()", "Alberto Pasquali ()", "P\u00e9pa Bonaf\u00e9 ()"], "comments": [], "recommandations_id": []}

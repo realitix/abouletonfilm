@@ -1,1 +1,0 @@
-{"tmdb_id": 448865, "title": "Ghost Can", "original_title": "Ghost Can", "slug_title": "ghost-can", "date": "2016-11-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eZ7Y2hnxnrAO3azj0jRdws6w5Tl.jpg", "actors": [], "comments": [], "recommandations_id": []}

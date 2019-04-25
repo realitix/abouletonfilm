@@ -1,1 +1,0 @@
-{"tmdb_id": 514211, "title": "Sogni infranti - Ragionamenti e deliri", "original_title": "Sogni infranti - Ragionamenti e deliri", "slug_title": "sogni-infranti-ragionamenti-e-deliri", "date": "1995-03-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

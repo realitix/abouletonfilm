@@ -1,1 +1,0 @@
-{"tmdb_id": 582017, "title": "Bulandra and the Devil", "original_title": "Bulandra i diabe\u0142", "slug_title": "bulandra-and-the-devil", "date": "1959-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hOX0Paf6QrCxYaYW5j1qxlqqR60.jpg", "actors": [], "comments": [], "recommandations_id": []}

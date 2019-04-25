@@ -1,1 +1,0 @@
-{"tmdb_id": 510344, "title": "Food Fighter", "original_title": "Food Fighter", "slug_title": "food-fighter", "date": "2018-02-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ddTHQC0udgJ5XjKuPJGyKQ53Z9.jpg", "actors": ["Ronni Kahn (Herself)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 77027, "title": "Empire of the Desert Ants", "original_title": "Empire of the Desert Ants", "slug_title": "empire-of-the-desert-ants", "date": "2011-08-04", "genre": "Documentaire", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qIjqySidt3OrKtOflgRm4VFx1iu.jpg", "actors": [], "comments": [], "recommandations_id": []}

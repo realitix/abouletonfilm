@@ -1,1 +1,0 @@
-{"tmdb_id": 299003, "title": "Flitterwochen", "original_title": "Flitterwochen", "slug_title": "flitterwochen", "date": "1980-08-28", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Michael Cramer (Herr)", "Wolfgang Fierek (Wolfgang)", "Cleo Kretschmer (Katti)"], "comments": [], "recommandations_id": []}

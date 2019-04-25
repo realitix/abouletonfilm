@@ -1,1 +1,0 @@
-{"tmdb_id": 357828, "title": "Hitler, Schindler and the Holocaust", "original_title": "Hitler, Schindler and the Holocaust", "slug_title": "hitler-schindler-and-the-holocaust", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

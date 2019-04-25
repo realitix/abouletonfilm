@@ -1,1 +1,0 @@
-{"tmdb_id": 147043, "title": "The Tipping Point", "original_title": "The Tipping Point", "slug_title": "the-tipping-point", "date": "2009-04-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m5vmo0quq0oo1XdUHTtGQhDjyOZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

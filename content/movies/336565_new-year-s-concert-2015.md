@@ -1,1 +1,0 @@
-{"tmdb_id": 336565, "title": "New Year's Concert 2015", "original_title": "New Year's Concert 2015", "slug_title": "new-year-s-concert-2015", "date": "2015-02-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iD1StSKmF7X4m2Yye5r9u7oKnGG.jpg", "actors": [], "comments": [], "recommandations_id": []}

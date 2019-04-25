@@ -1,1 +1,0 @@
-{"tmdb_id": 557423, "title": "Waste Land", "original_title": "Otzenrather Sprung", "slug_title": "waste-land", "date": "2001-11-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vFPQkaM1yH9ZMXEpjs09n9iDopJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

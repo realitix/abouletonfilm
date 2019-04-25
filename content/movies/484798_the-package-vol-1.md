@@ -1,1 +1,0 @@
-{"tmdb_id": 484798, "title": "The Package Vol. 1", "original_title": "The Package Vol. 1", "slug_title": "the-package-vol-1", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mcfbLctOJ1mnHqQkt1pmKNkLWjH.jpg", "actors": [], "comments": [], "recommandations_id": []}

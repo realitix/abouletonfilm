@@ -1,1 +1,0 @@
-{"tmdb_id": 577241, "title": "Duck Fever", "original_title": "Duck Fever", "slug_title": "duck-fever", "date": "1955-02-16", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Roy Halee (Terry Bear (voice))", "Philip A. Scheib (Terry Bear (voice))", "Doug Moye (Papa Bear (voice))"], "comments": [], "recommandations_id": []}

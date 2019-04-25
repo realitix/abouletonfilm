@@ -1,1 +1,0 @@
-{"tmdb_id": 346273, "title": "True Story", "original_title": "True Story", "slug_title": "true-story", "date": "2004-07-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

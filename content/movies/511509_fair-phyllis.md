@@ -1,1 +1,0 @@
-{"tmdb_id": 511509, "title": "Fair Phyllis", "original_title": "Fair Phyllis", "slug_title": "fair-phyllis", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

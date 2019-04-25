@@ -1,1 +1,0 @@
-{"tmdb_id": 462629, "title": "Architecture en Israel", "original_title": "Architecture en Israel", "slug_title": "architecture-en-israel", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

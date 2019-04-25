@@ -1,1 +1,0 @@
-{"tmdb_id": 457212, "title": "Hundan al Belgrano", "original_title": "Hundan al Belgrano", "slug_title": "hundan-al-belgrano", "date": "1996-04-25", "genre": "Guerre / Documentaire / Histoire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ayCH6fCLYhSfEzmgu55uEeXKaST.jpg", "actors": [], "comments": [], "recommandations_id": []}

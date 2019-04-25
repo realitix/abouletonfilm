@@ -1,1 +1,0 @@
-{"tmdb_id": 344117, "title": "Vice Versa One", "original_title": "Yeke Varune", "slug_title": "vice-versa-one", "date": "2011-05-20", "genre": "Drame", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

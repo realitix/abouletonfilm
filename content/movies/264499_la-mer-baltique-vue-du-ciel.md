@@ -1,1 +1,0 @@
-{"tmdb_id": 264499, "title": "La mer Baltique vue du ciel", "original_title": "Die Ostsee von oben", "slug_title": "la-mer-baltique-vue-du-ciel", "date": "2013-05-23", "genre": "Documentaire", "score": "6.1/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jlr9jnHWLjdYqPrYdVmP8JswC8G.jpg", "actors": [], "comments": [], "recommandations_id": []}

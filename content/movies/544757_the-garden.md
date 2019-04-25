@@ -1,1 +1,0 @@
-{"tmdb_id": 544757, "title": "The Garden", "original_title": "The Garden", "slug_title": "the-garden", "date": "2002-08-20", "genre": "Fantastique / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Joshua Sneesby (Ben)", "Andrew Hawkins (Pai)"], "comments": [], "recommandations_id": []}

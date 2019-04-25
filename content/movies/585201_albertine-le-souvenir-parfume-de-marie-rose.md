@@ -1,1 +1,0 @@
-{"tmdb_id": 585201, "title": "Albertine, le souvenir parfum\u00e9 de Marie Rose", "original_title": "Albertine, le souvenir parfum\u00e9 de Marie Rose", "slug_title": "albertine-le-souvenir-parfume-de-marie-rose", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

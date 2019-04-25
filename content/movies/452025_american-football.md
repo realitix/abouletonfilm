@@ -1,1 +1,0 @@
-{"tmdb_id": 452025, "title": "American Football", "original_title": "American Football", "slug_title": "american-football", "date": "2013-10-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qGB2xaBElGrHgD8dmYUG05i7ZnY.jpg", "actors": [], "comments": [], "recommandations_id": []}

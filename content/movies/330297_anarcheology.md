@@ -1,1 +1,0 @@
-{"tmdb_id": 330297, "title": "Anarcheology", "original_title": "Anarcheology", "slug_title": "anarcheology", "date": "2014-08-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7KoFRKNBWXaP2F5gMRcl38AZ6Vy.jpg", "actors": [], "comments": [], "recommandations_id": []}

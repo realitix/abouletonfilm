@@ -1,1 +1,0 @@
-{"tmdb_id": 558703, "title": "Otogi's Voyage Around the World", "original_title": "Otogi no sekai ryoko", "slug_title": "otogi-s-voyage-around-the-world", "date": "1962-08-25", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7jgKs83fiU16QsZmUagC0lGOBS2.jpg", "actors": [], "comments": [], "recommandations_id": []}

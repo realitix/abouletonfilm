@@ -1,1 +1,0 @@
-{"tmdb_id": 68912, "title": "Deadline Iraq: Uncensored Stories of the War", "original_title": "Deadline Iraq: Uncensored Stories of the War", "slug_title": "deadline-iraq-uncensored-stories-of-the-war", "date": "2003-11-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

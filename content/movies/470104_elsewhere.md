@@ -1,1 +1,0 @@
-{"tmdb_id": 470104, "title": "Elsewhere", "original_title": "Elsewhere", "slug_title": "elsewhere", "date": "2016-08-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

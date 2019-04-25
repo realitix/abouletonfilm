@@ -1,1 +1,0 @@
-{"tmdb_id": 535555, "title": "Planet Of The Babes", "original_title": "Planet Of The Babes", "slug_title": "planet-of-the-babes", "date": "2001-10-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Asia Carrera ()", "Bridgette Kerkove ()", "Gwen Summers ()", "Flick Shagwell ()"], "comments": [], "recommandations_id": []}

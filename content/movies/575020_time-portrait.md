@@ -1,1 +1,0 @@
-{"tmdb_id": 575020, "title": "Time Portrait", "original_title": "Time Portrait", "slug_title": "time-portrait", "date": "1965-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

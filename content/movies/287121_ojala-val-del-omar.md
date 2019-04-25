@@ -1,1 +1,0 @@
-{"tmdb_id": 287121, "title": "Ojala Val del Omar", "original_title": "Ojala Val del Omar", "slug_title": "ojala-val-del-omar", "date": "1994-08-17", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pvaLEV44BGtUa9R6nkmsjWtFZbb.jpg", "actors": [], "comments": [], "recommandations_id": []}

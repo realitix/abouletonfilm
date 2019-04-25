@@ -1,1 +1,0 @@
-{"tmdb_id": 484588, "title": "Stable Mates", "original_title": "Stable Mates", "slug_title": "stable-mates", "date": "1934-04-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["George Sidney ()", "Charles Murray ()"], "comments": [], "recommandations_id": []}

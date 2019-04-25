@@ -1,1 +1,0 @@
-{"tmdb_id": 392019, "title": "Dead Easy", "original_title": "Dead Easy", "slug_title": "dead-easy", "date": "1970-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zEkG1AxfmtXxRbQeSpTiJJiNFdx.jpg", "actors": [], "comments": [], "recommandations_id": []}

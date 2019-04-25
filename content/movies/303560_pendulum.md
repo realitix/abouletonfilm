@@ -1,1 +1,0 @@
-{"tmdb_id": 303560, "title": "Pendulum", "original_title": "Furiko", "slug_title": "pendulum", "date": "2012-08-28", "genre": "Musique / Animation", "score": "7.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v6mwcdUu98hn8j7rrGt9ptRpX6z.jpg", "actors": [], "comments": [], "recommandations_id": []}

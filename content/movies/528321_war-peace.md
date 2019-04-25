@@ -1,1 +1,0 @@
-{"tmdb_id": 528321, "title": "War/Peace", "original_title": "War/Peace", "slug_title": "war-peace", "date": "2018-06-04", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8HcfDG0gyCUbm1sGAKOLpGm93kZ.jpg", "actors": ["Sally Armbrecht ()"], "comments": [], "recommandations_id": []}

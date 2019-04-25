@@ -1,1 +1,0 @@
-{"tmdb_id": 577127, "title": "Lisa, Go Home!", "original_title": "Liza, namo!", "slug_title": "lisa-go-home", "date": "2012-10-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rBxpRlHaFJOBR5jJloWJ4jnfZUt.jpg", "actors": [], "comments": [], "recommandations_id": []}

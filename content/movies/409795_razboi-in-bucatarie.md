@@ -1,1 +1,0 @@
-{"tmdb_id": 409795, "title": "Razboi \u00een bucatarie", "original_title": "Razboi \u00een bucatarie", "slug_title": "razboi-in-bucatarie", "date": "2003-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tmQtbww8Ee9gQQvQtZGOJGz9023.jpg", "actors": [], "comments": [], "recommandations_id": []}

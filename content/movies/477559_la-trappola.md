@@ -1,1 +1,0 @@
-{"tmdb_id": 477559, "title": "La trappola", "original_title": "La trappola", "slug_title": "la-trappola", "date": "1922-06-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 30004, "title": "Legend of the Dragonslayer Sword", "original_title": "Legend of the Dragonslayer Sword", "slug_title": "legend-of-the-dragonslayer-sword", "date": "1996-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ching-tao Ma ()", "Kent Tong ()"], "comments": [], "recommandations_id": []}

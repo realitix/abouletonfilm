@@ -1,1 +1,0 @@
-{"tmdb_id": 51251, "title": "Ball Above All", "original_title": "Ball Above All", "slug_title": "ball-above-all", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wtGKimCxIy22XigQNnOTUu0IZsb.jpg", "actors": [], "comments": [], "recommandations_id": []}

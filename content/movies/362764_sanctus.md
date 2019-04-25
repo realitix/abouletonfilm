@@ -1,1 +1,0 @@
-{"tmdb_id": 362764, "title": "Sanctus", "original_title": "Sanctus", "slug_title": "sanctus", "date": "1990-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xA9Rw3wIOhifoDW5zolHdhP00PI.jpg", "actors": [], "comments": [], "recommandations_id": []}

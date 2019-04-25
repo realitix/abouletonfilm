@@ -1,1 +1,0 @@
-{"tmdb_id": 395817, "title": "The Thicket", "original_title": "The Thicket", "slug_title": "the-thicket", "date": "", "genre": "Crime", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Peter Dinklage (Shorty)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 503951, "title": "The Ragu Incident", "original_title": "Rag\u00f9: Mama's Boy", "slug_title": "the-ragu-incident", "date": "2000-09-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tbsYBCzxX2Gos8uM6jtO7D9qls4.jpg", "actors": [], "comments": [], "recommandations_id": []}

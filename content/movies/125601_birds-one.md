@@ -1,1 +1,0 @@
-{"tmdb_id": 125601, "title": "Birds, One", "original_title": "Birds, One", "slug_title": "birds-one", "date": "1968-01-01", "genre": "", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5IPNWYRy74wrrbZ77LmQlYJzpHw.jpg", "actors": ["Trix Zwartjes ()"], "comments": [], "recommandations_id": [239278, 201345, 125604, 196487]}

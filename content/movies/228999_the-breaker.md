@@ -1,1 +1,0 @@
-{"tmdb_id": 228999, "title": "The Breaker", "original_title": "The Breaker", "slug_title": "the-breaker", "date": "1974-06-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/umRqTM2hi0Lg5SsaVCAUpiLUQei.jpg", "actors": [], "comments": [], "recommandations_id": []}

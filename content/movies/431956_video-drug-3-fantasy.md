@@ -1,1 +1,0 @@
-{"tmdb_id": 431956, "title": "Video Drug 3 Fantasy", "original_title": "Video Drug 3 Fantasy", "slug_title": "video-drug-3-fantasy", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/irnKeUexV1hVGRyqrZnGImFgPJk.jpg", "actors": [], "comments": [], "recommandations_id": []}

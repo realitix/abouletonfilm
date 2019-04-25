@@ -1,1 +1,0 @@
-{"tmdb_id": 260651, "title": "The Museum of Imagination", "original_title": "The Museum of Imagination", "slug_title": "the-museum-of-imagination", "date": "2012-11-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1qgStYf3d7bGhByzNk5NEUk8gkL.jpg", "actors": [], "comments": [], "recommandations_id": []}

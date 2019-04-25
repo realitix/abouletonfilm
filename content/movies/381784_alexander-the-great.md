@@ -1,1 +1,0 @@
-{"tmdb_id": 381784, "title": "Alexander the Great", "original_title": "Alexander the Great", "slug_title": "alexander-the-great", "date": "2006-03-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/27wmt3QrAzHheEztUR8F6FAtXmZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 401212, "title": "Paradise America", "original_title": "Ameriikan raitti", "slug_title": "paradise-america", "date": "1990-02-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pdkpgQApHKzcjz9eNrET8oIxoBC.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 317704, "title": "Magoo's Check Up", "original_title": "Magoo's Check Up", "slug_title": "magoo-s-check-up", "date": "1955-02-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

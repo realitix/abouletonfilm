@@ -1,1 +1,0 @@
-{"tmdb_id": 285819, "title": "Pink Komkommer", "original_title": "Pink Komkommer", "slug_title": "pink-komkommer", "date": "1991-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9Vt6KmkckvaVEpekgktPfWIQ4nh.jpg", "actors": ["Karen Kommer ()", "Colin Nawrot ()"], "comments": [], "recommandations_id": []}

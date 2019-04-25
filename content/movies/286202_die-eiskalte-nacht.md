@@ -1,1 +1,0 @@
-{"tmdb_id": 286202, "title": "Die eiskalte Nacht", "original_title": "Die eiskalte Nacht", "slug_title": "die-eiskalte-nacht", "date": "1960-10-26", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Klaus Behrendt (Taras)", "Peter Capell (Kalany)", "Alexander Kerst (Inspektor Klauber)"], "comments": [], "recommandations_id": []}

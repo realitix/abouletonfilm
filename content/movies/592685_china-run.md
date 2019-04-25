@@ -1,1 +1,0 @@
-{"tmdb_id": 592685, "title": "China Run", "original_title": "China Run", "slug_title": "china-run", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

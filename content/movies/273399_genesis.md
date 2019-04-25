@@ -1,1 +1,1 @@
-{"tmdb_id": 273399, "title": "Genesis", "original_title": "Genesis", "slug_title": "genesis", "date": "1966-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 273399, "title": "Genesis", "original_title": "Genesis", "slug_title": "genesis", "date": "1966-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Jana Marglova.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

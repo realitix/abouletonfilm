@@ -1,1 +1,0 @@
-{"tmdb_id": 478642, "title": "Cathedrals", "original_title": "Kathedralen", "slug_title": "cathedrals", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yBf5pNG4NqTObs0tOrK2GsoJ4Gz.jpg", "actors": [], "comments": [], "recommandations_id": []}

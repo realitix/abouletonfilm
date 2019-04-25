@@ -1,1 +1,0 @@
-{"tmdb_id": 252499, "title": "By the Sea", "original_title": "By the Sea", "slug_title": "by-the-sea", "date": "1931-07-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

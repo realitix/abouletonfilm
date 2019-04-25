@@ -1,1 +1,0 @@
-{"tmdb_id": 369636, "title": "Lybia's Forgotten King", "original_title": "Lybia's Forgotten King", "slug_title": "lybia-s-forgotten-king", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

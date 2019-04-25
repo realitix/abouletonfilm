@@ -1,1 +1,0 @@
-{"tmdb_id": 483503, "title": "Ku\u0308nstliche Paradiese", "original_title": "Ku\u0308nstliche Paradiese", "slug_title": "kunstliche-paradiese", "date": "1993-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

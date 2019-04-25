@@ -1,1 +1,0 @@
-{"tmdb_id": 339464, "title": "Made for Television", "original_title": "Made for Television", "slug_title": "made-for-television", "date": "1981-04-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

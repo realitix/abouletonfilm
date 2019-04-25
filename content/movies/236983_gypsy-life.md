@@ -1,1 +1,0 @@
-{"tmdb_id": 236983, "title": "Gypsy Life", "original_title": "Gypsy Life", "slug_title": "gypsy-life", "date": "1945-08-02", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oJ9dvy9NRodocUWuE8lbXnR55Dk.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 532516, "title": "The Green Park", "original_title": "The Green Park", "slug_title": "the-green-park", "date": "2015-11-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 236898, "title": "The Henpecked Rooster", "original_title": "The Henpecked Rooster", "slug_title": "the-henpecked-rooster", "date": "1944-02-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AupylNLe2xFHfCtP4h8Vb5FRc2G.jpg", "actors": [], "comments": [], "recommandations_id": []}

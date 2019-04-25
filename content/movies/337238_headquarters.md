@@ -1,1 +1,0 @@
-{"tmdb_id": 337238, "title": "Headquarters", "original_title": "Headquarters", "slug_title": "headquarters", "date": "2015-04-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fKfodKbxbzxZEVWYRdY651m8bVF.jpg", "actors": [], "comments": [], "recommandations_id": []}

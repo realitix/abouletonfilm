@@ -1,1 +1,0 @@
-{"tmdb_id": 312705, "title": "The Dressing Room", "original_title": "The Dressing Room", "slug_title": "the-dressing-room", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

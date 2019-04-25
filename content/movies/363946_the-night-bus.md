@@ -1,1 +1,0 @@
-{"tmdb_id": 363946, "title": "The Night Bus", "original_title": "Otobus-e Shab", "slug_title": "the-night-bus", "date": "2007-01-01", "genre": "Guerre / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ji9wDAxwKjBk48JzueHOyjiOmVZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 63740, "title": "TT Tribute", "original_title": "TT Tribute", "slug_title": "tt-tribute", "date": "2006-08-21", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

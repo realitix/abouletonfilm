@@ -1,1 +1,0 @@
-{"tmdb_id": 305765, "title": "O Vento L\u00e1 Fora", "original_title": "O Vento L\u00e1 Fora", "slug_title": "o-vento-la-fora", "date": "2014-11-13", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/izY3ZBvcjqXTyBRTrtuEUHpfIzr.jpg", "actors": [], "comments": [], "recommandations_id": []}

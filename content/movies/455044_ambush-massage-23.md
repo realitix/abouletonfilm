@@ -1,1 +1,0 @@
-{"tmdb_id": 455044, "title": "Ambush Massage 23", "original_title": "Ambush Massage 23", "slug_title": "ambush-massage-23", "date": "2014-04-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ivo Kerk ()", "Tomas Ludva ()"], "comments": [], "recommandations_id": []}

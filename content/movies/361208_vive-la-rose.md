@@ -1,1 +1,0 @@
-{"tmdb_id": 361208, "title": "Vive la rose", "original_title": "Vive la rose", "slug_title": "vive-la-rose", "date": "2009-10-09", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fT2CH8rbDl16zYEnMErhfoj0y6f.jpg", "actors": [], "comments": [], "recommandations_id": []}

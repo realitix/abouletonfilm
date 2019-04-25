@@ -1,1 +1,0 @@
-{"tmdb_id": 500379, "title": "Hanende Melek", "original_title": "Hanende Melek", "slug_title": "hanende-melek", "date": "1975-10-10", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Se\u00e7il Heper (Melek)", "Mete Sezer (H\u00fcseyin Avni)", "Mustafa Taspinar (Abbas, violinist)"], "comments": [], "recommandations_id": []}

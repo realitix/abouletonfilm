@@ -1,1 +1,0 @@
-{"tmdb_id": 88400, "title": "When China Met Africa", "original_title": "When China Met Africa", "slug_title": "when-china-met-africa", "date": "2011-10-07", "genre": "Documentaire", "score": "4.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lqQDeC3mfKA0SuAFijJ1kT7kEJ8.jpg", "actors": [], "comments": [], "recommandations_id": []}

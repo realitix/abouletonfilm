@@ -1,1 +1,0 @@
-{"tmdb_id": 364235, "title": "Espresso Doppio", "original_title": "Espresso Doppio", "slug_title": "espresso-doppio", "date": "2015-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

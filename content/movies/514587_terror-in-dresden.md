@@ -1,1 +1,0 @@
-{"tmdb_id": 514587, "title": "Terror in Dresden", "original_title": "Terror in Dresden", "slug_title": "terror-in-dresden", "date": "1978-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sJo42H2XHbNzUhlwgHsEBt7R2bd.jpg", "actors": [], "comments": [], "recommandations_id": []}

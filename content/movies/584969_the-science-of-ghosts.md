@@ -1,1 +1,0 @@
-{"tmdb_id": 584969, "title": "The Science of Ghosts", "original_title": "The Science of Ghosts", "slug_title": "the-science-of-ghosts", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Adrian Crowley (Himself)"], "comments": [], "recommandations_id": []}

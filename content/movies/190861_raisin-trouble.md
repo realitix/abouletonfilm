@@ -1,1 +1,0 @@
-{"tmdb_id": 190861, "title": "Raisin' Trouble", "original_title": "Raisin' Trouble", "slug_title": "raisin-trouble", "date": "1926-05-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jack Cooper (The Husband)"], "comments": [], "recommandations_id": []}

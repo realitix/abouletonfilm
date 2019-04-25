@@ -1,1 +1,0 @@
-{"tmdb_id": 368140, "title": "Czech Rhapsody", "original_title": "\u010cesk\u00e1 rapsodie", "slug_title": "czech-rhapsody", "date": "1969-01-10", "genre": "Musique / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/szpOqWYlksjLmPnD587NDMhB0J1.jpg", "actors": [], "comments": [], "recommandations_id": []}

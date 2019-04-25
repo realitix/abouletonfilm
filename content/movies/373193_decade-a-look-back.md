@@ -1,1 +1,0 @@
-{"tmdb_id": 373193, "title": "Decade...A Look Back", "original_title": "Decade...A Look Back", "slug_title": "decade-a-look-back", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

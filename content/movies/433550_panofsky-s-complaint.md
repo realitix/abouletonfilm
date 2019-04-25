@@ -1,1 +1,0 @@
-{"tmdb_id": 433550, "title": "Panofsky's Complaint", "original_title": "Panofsky's Complaint", "slug_title": "panofsky-s-complaint", "date": "2016-11-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8WQpiqZAiHlbjZZNwnfANtgvsWT.jpg", "actors": [], "comments": [], "recommandations_id": []}

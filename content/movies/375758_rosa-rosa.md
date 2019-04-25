@@ -1,1 +1,0 @@
-{"tmdb_id": 375758, "title": "Rosa Rosa", "original_title": "Rosa Rosa", "slug_title": "rosa-rosa", "date": "2008-06-10", "genre": "Animation / Drame / Romance / Guerre", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

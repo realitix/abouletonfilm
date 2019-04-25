@@ -1,1 +1,0 @@
-{"tmdb_id": 312887, "title": "Cities in the Sea", "original_title": "Cities in the Sea", "slug_title": "cities-in-the-sea", "date": "2002-01-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e6e2REAehKljYIJSyCuwZmgQoKs.jpg", "actors": ["Jade Forster (Narrator)"], "comments": [], "recommandations_id": []}

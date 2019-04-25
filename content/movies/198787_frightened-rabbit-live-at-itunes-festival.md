@@ -1,1 +1,0 @@
-{"tmdb_id": 198787, "title": "Frightened Rabbit Live at Itunes Festival", "original_title": "Frightened Rabbit Live at Itunes Festival", "slug_title": "frightened-rabbit-live-at-itunes-festival", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

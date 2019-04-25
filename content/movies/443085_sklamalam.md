@@ -1,1 +1,0 @@
-{"tmdb_id": 443085, "title": "Sk\u0142ama\u0142am", "original_title": "Sk\u0142ama\u0142am", "slug_title": "sklamalam", "date": "1937-08-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

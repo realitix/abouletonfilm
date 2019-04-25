@@ -1,1 +1,0 @@
-{"tmdb_id": 412895, "title": "Life in Hollywood No. 3", "original_title": "Life in Hollywood No. 3", "slug_title": "life-in-hollywood-no-3", "date": "1927-08-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

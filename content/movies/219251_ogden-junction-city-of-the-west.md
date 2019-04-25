@@ -1,1 +1,0 @@
-{"tmdb_id": 219251, "title": "Ogden: Junction City of the West", "original_title": "Ogden: Junction City of the West", "slug_title": "ogden-junction-city-of-the-west", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

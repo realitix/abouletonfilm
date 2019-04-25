@@ -1,1 +1,0 @@
-{"tmdb_id": 343902, "title": "Snake Tales", "original_title": "Snake Tales", "slug_title": "snake-tales", "date": "2000-07-09", "genre": "Romance / Com\u00e9die / Myst\u00e8re", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

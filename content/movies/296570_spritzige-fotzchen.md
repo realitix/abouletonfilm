@@ -1,1 +1,0 @@
-{"tmdb_id": 296570, "title": "Spritzige F\u00f6tzchen", "original_title": "Spritzige F\u00f6tzchen", "slug_title": "spritzige-fotzchen", "date": "2014-04-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h6DaTh85M3jPEuJDz4mwyrDI85x.jpg", "actors": [], "comments": [], "recommandations_id": []}

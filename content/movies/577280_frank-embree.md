@@ -1,1 +1,0 @@
-{"tmdb_id": 577280, "title": "Frank Embree", "original_title": "Frank Embree", "slug_title": "frank-embree", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xCQIBc4wItL49pPJGs6ILI6tCIe.jpg", "actors": [], "comments": [], "recommandations_id": []}

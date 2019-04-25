@@ -1,1 +1,0 @@
-{"tmdb_id": 236631, "title": "You're a Sap, Mr. Jap", "original_title": "You're a Sap, Mr. Jap", "slug_title": "you-re-a-sap-mr-jap", "date": "1942-08-06", "genre": "Animation", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w0WQmESKJRSQkFu8mCdIafF3vbM.jpg", "actors": ["Jack Mercer (Popeye)"], "comments": [], "recommandations_id": []}

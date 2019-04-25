@@ -1,1 +1,0 @@
-{"tmdb_id": 384984, "title": "Home of the Blizzard", "original_title": "Home of the Blizzard", "slug_title": "home-of-the-blizzard", "date": "1913-01-27", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rBZH5XYmImS4s46940FTAb6j8j3.jpg", "actors": [], "comments": [], "recommandations_id": []}

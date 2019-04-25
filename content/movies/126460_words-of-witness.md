@@ -1,1 +1,0 @@
-{"tmdb_id": 126460, "title": "Words Of Witness", "original_title": "Words Of Witness", "slug_title": "words-of-witness", "date": "2012-10-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gVnSX618ygNyV2qgXg0DYlr1sLZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

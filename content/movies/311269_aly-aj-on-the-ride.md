@@ -1,1 +1,0 @@
-{"tmdb_id": 311269, "title": "Aly & AJ: On The Ride", "original_title": "Aly & AJ: On The Ride", "slug_title": "aly-aj-on-the-ride", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

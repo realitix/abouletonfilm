@@ -1,1 +1,0 @@
-{"tmdb_id": 424927, "title": "Terre morte", "original_title": "Terre morte", "slug_title": "terre-morte", "date": "1962-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

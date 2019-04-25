@@ -1,1 +1,0 @@
-{"tmdb_id": 282622, "title": "Bandhu Balaga", "original_title": "Bandhu Balaga", "slug_title": "bandhu-balaga", "date": "2008-06-07", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Shivaraj Kumar ()", "Poonam Kaur ()", "Tejaswini Prakash ()", "Shashikumar ()", "Doddanna ()"], "comments": [], "recommandations_id": []}

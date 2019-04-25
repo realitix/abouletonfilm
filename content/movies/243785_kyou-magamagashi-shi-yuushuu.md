@@ -1,1 +1,0 @@
-{"tmdb_id": 243785, "title": "Kyou <Magamagashi> Shi Yuushuu", "original_title": "Kyou <Magamagashi> Shi Yuushuu", "slug_title": "kyou-magamagashi-shi-yuushuu", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mLL4dbl7WFqcaHJMEf4x9qgDQWa.jpg", "actors": [], "comments": [], "recommandations_id": []}

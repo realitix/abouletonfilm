@@ -1,1 +1,0 @@
-{"tmdb_id": 354011, "title": "The Children's Seaside Frolic", "original_title": "Enfants au bord de la mer", "slug_title": "the-children-s-seaside-frolic", "date": "1897-01-01", "genre": "Com\u00e9die", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

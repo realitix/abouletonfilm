@@ -1,1 +1,0 @@
-{"tmdb_id": 309961, "title": "New Bomb Turks: Reigning on Edinburgh", "original_title": "New Bomb Turks: Reigning on Edinburgh", "slug_title": "new-bomb-turks-reigning-on-edinburgh", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

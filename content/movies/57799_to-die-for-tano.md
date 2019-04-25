@@ -1,1 +1,0 @@
-{"tmdb_id": 57799, "title": "To Die for Tano", "original_title": "Tano da morire", "slug_title": "to-die-for-tano", "date": "1997-01-01", "genre": "", "score": "5.6/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zOIF5E7cbsCPNwGpxgKoFBybubZ.jpg", "actors": ["Ciccio Guarino ()"], "comments": [], "recommandations_id": []}

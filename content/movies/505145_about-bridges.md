@@ -1,1 +1,0 @@
-{"tmdb_id": 505145, "title": "About Bridges", "original_title": "About Bridges", "slug_title": "about-bridges", "date": "1975-02-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wfXp2Zuou1J0hJb3ncPugF0MXw1.jpg", "actors": ["Marian Plug (Herself)"], "comments": [], "recommandations_id": []}

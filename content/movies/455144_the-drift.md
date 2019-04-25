@@ -1,1 +1,0 @@
-{"tmdb_id": 455144, "title": "The Drift", "original_title": "The Drift", "slug_title": "the-drift", "date": "2017-03-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9iP4jELUmZn7Us1YeJBTwfOUeeB.jpg", "actors": [], "comments": [], "recommandations_id": []}

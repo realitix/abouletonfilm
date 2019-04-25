@@ -1,1 +1,0 @@
-{"tmdb_id": 343836, "title": "Nine Years Later", "original_title": "Nine Years Later", "slug_title": "nine-years-later", "date": "1998-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1egrCEPvSdUvG9zdjiA4MBb0Lxx.jpg", "actors": [], "comments": [], "recommandations_id": []}

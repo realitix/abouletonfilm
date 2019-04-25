@@ -1,1 +1,0 @@
-{"tmdb_id": 422887, "title": "Zombie World, the Movie", "original_title": "Zombie World, the Movie", "slug_title": "zombie-world-the-movie", "date": "2013-11-06", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j5p2F2PIrDOqWFdY6sgkbpGjjfT.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 453134, "title": "A Idade da Pedra", "original_title": "A Idade da Pedra", "slug_title": "a-idade-da-pedra", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

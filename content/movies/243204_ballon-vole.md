@@ -1,1 +1,0 @@
-{"tmdb_id": 243204, "title": "Ballon vole", "original_title": "Ballon vole", "slug_title": "ballon-vole", "date": "1960-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

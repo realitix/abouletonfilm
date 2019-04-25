@@ -1,1 +1,0 @@
-{"tmdb_id": 117471, "title": "Every Day Except Christmas", "original_title": "Every Day Except Christmas", "slug_title": "every-day-except-christmas", "date": "1957-05-25", "genre": "Documentaire", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k3K17OsTPrqaftOpRSmwKmVXf5.jpg", "actors": [], "comments": [], "recommandations_id": []}

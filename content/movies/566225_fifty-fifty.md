@@ -1,1 +1,0 @@
-{"tmdb_id": 566225, "title": "Fifty-Fifty", "original_title": "Fifty-Fifty", "slug_title": "fifty-fifty", "date": "1981-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q6tA2uKOoL4xKOVuutHO6Ewo8Dj.jpg", "actors": [], "comments": [], "recommandations_id": []}

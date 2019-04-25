@@ -1,1 +1,0 @@
-{"tmdb_id": 322970, "title": "A Letter from Ayrshire", "original_title": "A Letter from Ayrshire", "slug_title": "a-letter-from-ayrshire", "date": "1954-01-01", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/swYExFczuFLYKOO47R1IBf8D6tK.jpg", "actors": [], "comments": [], "recommandations_id": []}

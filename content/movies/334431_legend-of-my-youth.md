@@ -1,1 +1,0 @@
-{"tmdb_id": 334431, "title": "Legend of My Youth", "original_title": "Destan moey yunosti", "slug_title": "legend-of-my-youth", "date": "1992-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Baba Annanov ()", "Yusup Kuliyev ()", "Elvira Gusejnova ()"], "comments": [], "recommandations_id": []}

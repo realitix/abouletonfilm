@@ -1,1 +1,0 @@
-{"tmdb_id": 474768, "title": "Doggone", "original_title": "Doggone", "slug_title": "doggone", "date": "2017-05-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/onCsZtZ6cJrn6wbvxk7KI6N2nD7.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 450587, "title": "Battle of Britain", "original_title": "Battle of Britain", "slug_title": "battle-of-britain", "date": "", "genre": "Drame / Guerre / Histoire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

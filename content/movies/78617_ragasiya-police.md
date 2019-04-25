@@ -1,1 +1,0 @@
-{"tmdb_id": 78617, "title": "Ragasiya Police", "original_title": "Ragasiya Police", "slug_title": "ragasiya-police", "date": "1995-10-23", "genre": "Action / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["R. Sarathkumar ()", "Nagma ()", "Anandaraj ()"], "comments": [], "recommandations_id": []}

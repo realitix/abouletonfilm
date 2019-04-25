@@ -1,1 +1,0 @@
-{"tmdb_id": 210564, "title": "Kylie Greatest Hits", "original_title": "Kylie Greatest Hits", "slug_title": "kylie-greatest-hits", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vIsbcDFLD5Ji6NKS3BODkTU9GnZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

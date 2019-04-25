@@ -1,1 +1,0 @@
-{"tmdb_id": 483796, "title": "L'Animateur", "original_title": "L'Animateur", "slug_title": "l-animateur", "date": "", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

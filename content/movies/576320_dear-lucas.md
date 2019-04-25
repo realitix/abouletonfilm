@@ -1,1 +1,0 @@
-{"tmdb_id": 576320, "title": "Dear Lucas", "original_title": "Dear Lucas", "slug_title": "dear-lucas", "date": "2014-12-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6H57uv5GrYsdU8QGhhVT01jikEw.jpg", "actors": [], "comments": [], "recommandations_id": []}

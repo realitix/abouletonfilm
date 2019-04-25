@@ -1,1 +1,0 @@
-{"tmdb_id": 519686, "title": "Battle Stations\u2013A Navel Adventure", "original_title": "Battle Stations\u2013A Navel Adventure", "slug_title": "battle-stations-a-navel-adventure", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bruce Conner ()"], "comments": [], "recommandations_id": []}

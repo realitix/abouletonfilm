@@ -1,1 +1,0 @@
-{"tmdb_id": 479664, "title": "Halloween: Revenge of the Sandman", "original_title": "Halloween: Revenge of the Sandman", "slug_title": "halloween-revenge-of-the-sandman", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/idGdCKoHpodLiIJwpeOHAH7uQLb.jpg", "actors": [], "comments": [], "recommandations_id": []}

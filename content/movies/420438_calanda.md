@@ -1,1 +1,0 @@
-{"tmdb_id": 420438, "title": "Calanda", "original_title": "Calanda", "slug_title": "calanda", "date": "1967-06-01", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pjcvuZngcfjOqyiAGkfuZGmh5Hr.jpg", "actors": [], "comments": [], "recommandations_id": []}

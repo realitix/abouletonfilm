@@ -1,1 +1,0 @@
-{"tmdb_id": 399273, "title": "A teoria gang bang", "original_title": "A teoria gang bang", "slug_title": "a-teoria-gang-bang", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sWuo4nZAWwrYjmEdN8RZXRsIbUh.jpg", "actors": ["Luara ()", "Leona ()"], "comments": [], "recommandations_id": []}

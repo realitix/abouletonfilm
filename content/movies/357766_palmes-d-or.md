@@ -1,1 +1,0 @@
-{"tmdb_id": 357766, "title": "Palmes d'Or", "original_title": "Palmes d'Or", "slug_title": "palmes-d-or", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f1UW3CfdHyM6oec5SgNooL3H9PL.jpg", "actors": [], "comments": [], "recommandations_id": []}

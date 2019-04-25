@@ -1,1 +1,0 @@
-{"tmdb_id": 228449, "title": "Pourvu qu'on ait l'ivresse...", "original_title": "Pourvu qu'on ait l'ivresse...", "slug_title": "pourvu-qu-on-ait-l-ivresse", "date": "1958-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zP8fzB3MnHuPEqev6fqoWcD3UJc.jpg", "actors": [], "comments": [], "recommandations_id": []}

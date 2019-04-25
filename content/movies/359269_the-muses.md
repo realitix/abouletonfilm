@@ -1,1 +1,0 @@
-{"tmdb_id": 359269, "title": "The Muses", "original_title": "The Muses", "slug_title": "the-muses", "date": "2013-09-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/unATfGpVGwCFBSLWviTOUiG60BR.jpg", "actors": ["Kitchie Nadal ()"], "comments": [], "recommandations_id": []}

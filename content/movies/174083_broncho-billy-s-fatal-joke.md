@@ -1,1 +1,0 @@
-{"tmdb_id": 174083, "title": "Broncho Billy's Fatal Joke", "original_title": "Broncho Billy's Fatal Joke", "slug_title": "broncho-billy-s-fatal-joke", "date": "1914-08-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gilbert M. Anderson (Broncho Billy)"], "comments": [], "recommandations_id": []}

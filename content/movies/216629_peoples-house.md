@@ -1,1 +1,0 @@
-{"tmdb_id": 216629, "title": "Peoples House", "original_title": "Peoples House", "slug_title": "peoples-house", "date": "2007-02-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

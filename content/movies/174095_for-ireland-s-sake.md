@@ -1,1 +1,0 @@
-{"tmdb_id": 174095, "title": "For Ireland's Sake", "original_title": "For Ireland's Sake", "slug_title": "for-ireland-s-sake", "date": "1914-01-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9dWyjyfQbzBpWgQZxAZQGss48OG.jpg", "actors": [], "comments": [], "recommandations_id": []}

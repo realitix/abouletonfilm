@@ -1,1 +1,0 @@
-{"tmdb_id": 330015, "title": "Archimedes: The Master of Numbers", "original_title": "Archimedes: The Master of Numbers", "slug_title": "archimedes-the-master-of-numbers", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

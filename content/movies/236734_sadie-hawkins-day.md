@@ -1,1 +1,0 @@
-{"tmdb_id": 236734, "title": "Sadie Hawkins Day", "original_title": "Sadie Hawkins Day", "slug_title": "sadie-hawkins-day", "date": "1944-05-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 81884, "title": "Trump Card", "original_title": "Trump Card", "slug_title": "trump-card", "date": "2010-03-11", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hUXsbpUKzGpLy5eNONCD7sxqqsR.jpg", "actors": [], "comments": [], "recommandations_id": []}

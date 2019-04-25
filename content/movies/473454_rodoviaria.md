@@ -1,1 +1,0 @@
-{"tmdb_id": 473454, "title": "Rodovi\u00e1ria", "original_title": "Rodovi\u00e1ria", "slug_title": "rodoviaria", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 276021, "title": "Pope Benedict XVI: My Vatican", "original_title": "Pope Benedict XVI: My Vatican", "slug_title": "pope-benedict-xvi-my-vatican", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 253967, "title": "The Snowman", "original_title": "Der Schneemann", "slug_title": "the-snowman", "date": "1944-02-03", "genre": "Animation", "score": "7.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tPA8TYWzB5NwtnnaRofRfgBxqnB.jpg", "actors": [], "comments": [], "recommandations_id": []}

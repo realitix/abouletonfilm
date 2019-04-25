@@ -1,1 +1,0 @@
-{"tmdb_id": 533773, "title": "\u00c0 Montpellier", "original_title": "\u00c0 Montpellier", "slug_title": "a-montpellier", "date": "1988-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/udAbks4oEn7IsEsOs8c21Gu5KZc.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 82458, "title": "What Are We Doing Here?", "original_title": "What Are We Doing Here?", "slug_title": "what-are-we-doing-here", "date": "2008-04-18", "genre": "Documentaire", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mMZwKYGrZRZdNHMW8s8pSWKSEWa.jpg", "actors": [], "comments": [], "recommandations_id": []}

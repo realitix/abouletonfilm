@@ -1,1 +1,0 @@
-{"tmdb_id": 472519, "title": "Belarusian Dream", "original_title": "Belarusian Dream", "slug_title": "belarusian-dream", "date": "2011-11-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xxkRZ6VwCwnij7vhBUpjgtz7BEY.jpg", "actors": [], "comments": [], "recommandations_id": []}

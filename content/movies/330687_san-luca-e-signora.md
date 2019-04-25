@@ -1,1 +1,0 @@
-{"tmdb_id": 330687, "title": "San Luca E Signora", "original_title": "San Luca E Signora", "slug_title": "san-luca-e-signora", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Astutillo Smeriglia (Luca)", "Katia Ferri ()", "Andrea Goi ()"], "comments": [], "recommandations_id": []}

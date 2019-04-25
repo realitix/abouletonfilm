@@ -1,1 +1,0 @@
-{"tmdb_id": 137211, "title": "Final Dance", "original_title": "Final Dance", "slug_title": "final-dance", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/of30J8mnXGfnOLwe13hHM6O6VUv.jpg", "actors": [], "comments": [], "recommandations_id": []}

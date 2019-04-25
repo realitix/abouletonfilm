@@ -1,1 +1,0 @@
-{"tmdb_id": 316966, "title": "Schmitz Mama", "original_title": "Schmitz Mama", "slug_title": "schmitz-mama", "date": "2011-09-10", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/743UGZ09qPy8Wgr4ztPkKNkxQPH.jpg", "actors": ["Ralf Schmitz (himself)"], "comments": [], "recommandations_id": []}

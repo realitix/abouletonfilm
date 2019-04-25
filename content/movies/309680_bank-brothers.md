@@ -1,1 +1,0 @@
-{"tmdb_id": 309680, "title": "Bank Brothers", "original_title": "Bank Brothers", "slug_title": "bank-brothers", "date": "2004-04-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

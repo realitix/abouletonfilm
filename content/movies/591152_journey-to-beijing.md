@@ -1,1 +1,0 @@
-{"tmdb_id": 591152, "title": "Journey to Beijing", "original_title": "Journey to Beijing", "slug_title": "journey-to-beijing", "date": "1998-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 195756, "title": "Vive La Canadienne", "original_title": "Vive La Canadienne", "slug_title": "vive-la-canadienne", "date": "2013-05-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2Ey78G8qx2UMOp56EruYQyqqOax.jpg", "actors": [], "comments": [], "recommandations_id": []}

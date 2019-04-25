@@ -1,1 +1,0 @@
-{"tmdb_id": 331410, "title": "Mor gifter sig", "original_title": "Mor gifter sig", "slug_title": "mor-gifter-sig", "date": "1979-12-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wK1S3ZOelj1jzX0E6UirBtjTqe2.jpg", "actors": [], "comments": [], "recommandations_id": []}

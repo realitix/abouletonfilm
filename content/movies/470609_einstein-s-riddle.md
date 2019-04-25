@@ -1,1 +1,0 @@
-{"tmdb_id": 470609, "title": "Einstein's Riddle", "original_title": "Einstein's Riddle", "slug_title": "einstein-s-riddle", "date": "2007-06-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tUOddwez0lFxIXfO7C2Wd3Ifr0U.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 531829, "title": "140 Characters", "original_title": "140 Characters", "slug_title": "140-characters", "date": "2017-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rVJCArVqYs1rJ4W3l1mPmRW5JHa.jpg", "actors": [], "comments": [], "recommandations_id": []}

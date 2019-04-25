@@ -1,1 +1,0 @@
-{"tmdb_id": 581631, "title": "Take Your Birth Control", "original_title": "Take Your Birth Control", "slug_title": "take-your-birth-control", "date": "2017-10-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pQyL5sM5c2ybkz81uBrwnAnEedR.jpg", "actors": ["Anna Akana ()"], "comments": [], "recommandations_id": []}

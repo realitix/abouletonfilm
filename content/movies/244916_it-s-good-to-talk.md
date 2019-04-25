@@ -1,1 +1,0 @@
-{"tmdb_id": 244916, "title": "It's Good to Talk", "original_title": "It's Good to Talk", "slug_title": "it-s-good-to-talk", "date": "1997-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

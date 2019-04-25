@@ -1,1 +1,0 @@
-{"tmdb_id": 234715, "title": "Mint Men", "original_title": "Mint Men", "slug_title": "mint-men", "date": "1960-06-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

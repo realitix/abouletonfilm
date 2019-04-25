@@ -1,1 +1,0 @@
-{"tmdb_id": 190944, "title": "Corn's-A-Poppin'", "original_title": "Corn's-A-Poppin'", "slug_title": "corn-s-a-poppin", "date": "1956-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tzXnQ6lVcj5Pu0sryxBzX1MaK2I.jpg", "actors": ["Jerry Wallace (Johnny Wilson)"], "comments": [], "recommandations_id": []}

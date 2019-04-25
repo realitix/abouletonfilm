@@ -1,1 +1,0 @@
-{"tmdb_id": 96120, "title": "Guns N' Roses: Rock in Rio II", "original_title": "Guns N' Roses: Rock in Rio II", "slug_title": "guns-n-roses-rock-in-rio-ii", "date": "1991-01-20", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uNBxIJTKrrK9ithbgML8aGv3tCV.jpg", "actors": [], "comments": [], "recommandations_id": []}

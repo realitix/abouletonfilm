@@ -1,1 +1,0 @@
-{"tmdb_id": 367857, "title": "Le mariage forc\u00e9", "original_title": "Le mariage forc\u00e9", "slug_title": "le-mariage-force", "date": "1914-08-10", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Max Linder ()", "Jacques Vandenne (Oncle Gaston)"], "comments": [], "recommandations_id": []}

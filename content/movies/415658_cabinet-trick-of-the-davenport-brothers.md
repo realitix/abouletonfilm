@@ -1,1 +1,0 @@
-{"tmdb_id": 415658, "title": "Cabinet Trick of the Davenport Brothers", "original_title": "L'armoire des fr\u00e8res Davenport", "slug_title": "cabinet-trick-of-the-davenport-brothers", "date": "1903-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

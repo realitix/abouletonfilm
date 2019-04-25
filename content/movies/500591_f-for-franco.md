@@ -1,1 +1,0 @@
-{"tmdb_id": 500591, "title": "F for Franco", "original_title": "F for Franco", "slug_title": "f-for-franco", "date": "2016-09-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/daDhOWfzGL2NEVlnPhiouaPNA1T.jpg", "actors": [], "comments": [], "recommandations_id": []}

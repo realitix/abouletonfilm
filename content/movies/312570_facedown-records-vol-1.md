@@ -1,1 +1,0 @@
-{"tmdb_id": 312570, "title": "Facedown Records: Vol. 1", "original_title": "Facedown Records: Vol. 1", "slug_title": "facedown-records-vol-1", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

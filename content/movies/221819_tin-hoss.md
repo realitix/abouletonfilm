@@ -1,1 +1,0 @@
-{"tmdb_id": 221819, "title": "Tin Hoss", "original_title": "Tin Hoss", "slug_title": "tin-hoss", "date": "1925-07-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gene Buckel ()", "Cliff Daniels ()", "Jeff Jenkins ()", "Jingo Jones ()", "Nancy McKee ()", "Billy Naylor ()"], "comments": [], "recommandations_id": []}

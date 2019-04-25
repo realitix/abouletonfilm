@@ -1,1 +1,0 @@
-{"tmdb_id": 228689, "title": "Soda Jerks", "original_title": "Soda Jerks", "slug_title": "soda-jerks", "date": "1925-09-17", "genre": "Com\u00e9die / Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

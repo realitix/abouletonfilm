@@ -1,1 +1,0 @@
-{"tmdb_id": 517851, "title": "La madre", "original_title": "La madre", "slug_title": "la-madre", "date": "1995-09-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2LtZJG5G0P02j8R5RQpI4YOsd1d.jpg", "actors": [], "comments": [], "recommandations_id": []}

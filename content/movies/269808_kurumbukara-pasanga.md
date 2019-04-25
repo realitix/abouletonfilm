@@ -1,1 +1,0 @@
-{"tmdb_id": 269808, "title": "Kurumbukara Pasanga", "original_title": "Kurumbukara Pasanga", "slug_title": "kurumbukara-pasanga", "date": "2013-01-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wPRNxQGpyncdu1uUHfMbMoF84rO.jpg", "actors": [], "comments": [], "recommandations_id": []}

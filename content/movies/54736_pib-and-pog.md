@@ -1,1 +1,0 @@
-{"tmdb_id": 54736, "title": "Pib and Pog", "original_title": "Pib and Pog", "slug_title": "pib-and-pog", "date": "1995-01-07", "genre": "Com\u00e9die / Animation / Familial", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5AiZkZAKUDCm3wfvNjpS2HDWer1.jpg", "actors": ["Nigel Betts ()"], "comments": [], "recommandations_id": []}

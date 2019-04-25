@@ -1,1 +1,0 @@
-{"tmdb_id": 592330, "title": "Super Gigolo", "original_title": "\u7063\u4ed4\u8d85\u7d1a\u9d28\u7537", "slug_title": "super-gigolo", "date": "1993-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Chui Lau ()", "Yau Yuk-Yue ()", "To Gam-Chi ()", "Lee Ka-Chan ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 373914, "title": "Just the Tip", "original_title": "Just the Tip", "slug_title": "just-the-tip", "date": "2012-06-07", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Morgan David Jones (Jayson)", "Kerrie Gee (Kate)", "Dan Dumsha (Throb)"], "comments": [], "recommandations_id": []}

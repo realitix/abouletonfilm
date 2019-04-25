@@ -1,1 +1,0 @@
-{"tmdb_id": 564453, "title": "Tarzan aur Jadui Chirag", "original_title": "Tarzan aur Jadui Chirag", "slug_title": "tarzan-aur-jadui-chirag", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 276455, "title": "George Eliot: Life and Literature", "original_title": "George Eliot: Life and Literature", "slug_title": "george-eliot-life-and-literature", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

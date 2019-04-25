@@ -1,1 +1,0 @@
-{"tmdb_id": 446956, "title": "Duckmen 13: Fear The Beard", "original_title": "Duckmen 13: Fear The Beard", "slug_title": "duckmen-13-fear-the-beard", "date": "", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1m5PgC5k5TzRKHziQOO3nHNaoNk.jpg", "actors": ["Phil Robertson ()"], "comments": [], "recommandations_id": []}

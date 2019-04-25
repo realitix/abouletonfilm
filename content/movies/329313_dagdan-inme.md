@@ -1,1 +1,0 @@
-{"tmdb_id": 329313, "title": "Dagdan inme", "original_title": "Dagdan inme", "slug_title": "dagdan-inme", "date": "1973-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Fatma Girik ()", "Engin \u00c7aglar ()"], "comments": [], "recommandations_id": []}

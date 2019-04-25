@@ -1,1 +1,0 @@
-{"tmdb_id": 545521, "title": "The Loner", "original_title": "\u5b64\u72ec\u7684\u8c0b\u6740\u8005", "slug_title": "the-loner", "date": "1986-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eFKAsk3tDR8nh2zgBl3VgyYet7Q.jpg", "actors": [], "comments": [], "recommandations_id": []}

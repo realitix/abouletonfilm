@@ -1,1 +1,0 @@
-{"tmdb_id": 47776, "title": "Ys II: Castle in the Heavens", "original_title": "Ys II: Castle in the Heavens", "slug_title": "ys-ii-castle-in-the-heavens", "date": "2003-06-24", "genre": "Animation", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eKSmI80Ltv0EbMk1HmmQRHJ1OEC.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 278114, "title": "Fin d'\u00e9t\u00e9", "original_title": "Fin d'\u00e9t\u00e9", "slug_title": "fin-d-ete", "date": "1999-03-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wTbMhYGLfLktxcj4r68d79FRNla.jpg", "actors": [], "comments": [], "recommandations_id": []}

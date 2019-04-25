@@ -1,1 +1,0 @@
-{"tmdb_id": 222875, "title": "Rumble in the Streets", "original_title": "Rumble in the Streets", "slug_title": "rumble-in-the-streets", "date": "1996-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["David Courtemarche ()", "Patrick De Fazio ()", "Kimberly Rowe ()"], "comments": [], "recommandations_id": []}

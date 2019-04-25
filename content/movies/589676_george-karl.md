@@ -1,1 +1,0 @@
-{"tmdb_id": 589676, "title": "George & Karl", "original_title": "George & Karl", "slug_title": "george-karl", "date": "2008-03-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Neil Levine ()", "Leonard Sragow ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 94072, "title": "Straight Out of Brooklyn", "original_title": "Straight Out of Brooklyn", "slug_title": "straight-out-of-brooklyn", "date": "1991-06-13", "genre": "Drame", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wznJa2lTmgqW9OiFkEXfY120zeM.jpg", "actors": [], "comments": [], "recommandations_id": [77041, 74395]}

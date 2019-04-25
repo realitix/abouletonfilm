@@ -1,1 +1,0 @@
-{"tmdb_id": 495125, "title": "Ideachi Kalpana", "original_title": "Ideachi Kalpana", "slug_title": "ideachi-kalpana", "date": "2010-12-31", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8SHBvYune5T6FI8gtmqbhfDXBt1.jpg", "actors": [], "comments": [], "recommandations_id": []}

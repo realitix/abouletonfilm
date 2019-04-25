@@ -1,1 +1,0 @@
-{"tmdb_id": 549036, "title": "Banned Cartoons", "original_title": "Banned Cartoons", "slug_title": "banned-cartoons", "date": "2015-08-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k8W6xoOCkDEmrPZrxkKkiyJAR4t.jpg", "actors": [], "comments": [], "recommandations_id": []}

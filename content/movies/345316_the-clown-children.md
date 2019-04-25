@@ -1,1 +1,0 @@
-{"tmdb_id": 345316, "title": "The Clown Children", "original_title": "Klovnebarna", "slug_title": "the-clown-children", "date": "2005-11-27", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/csD1k5FazylvK3GEVkaDVugqAP3.jpg", "actors": [], "comments": [], "recommandations_id": []}

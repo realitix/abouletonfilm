@@ -1,1 +1,0 @@
-{"tmdb_id": 386433, "title": "Nothing Human", "original_title": "Nothing Human", "slug_title": "nothing-human", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

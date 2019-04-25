@@ -1,1 +1,0 @@
-{"tmdb_id": 561002, "title": "The Forest of Farewell", "original_title": "La for\u00eat de l'adieu", "slug_title": "the-forest-of-farewell", "date": "1952-07-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pba5HmrQLSZqNylQg602d4X9ESh.jpg", "actors": [], "comments": [], "recommandations_id": []}

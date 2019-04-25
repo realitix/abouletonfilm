@@ -1,1 +1,0 @@
-{"tmdb_id": 523255, "title": "Tip of my Tongue", "original_title": "Tip of my Tongue", "slug_title": "tip-of-my-tongue", "date": "2018-06-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

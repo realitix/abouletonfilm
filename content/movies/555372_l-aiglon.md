@@ -1,1 +1,1 @@
-{"tmdb_id": 555372, "title": "L'aiglon", "original_title": "L'aiglon", "slug_title": "l-aiglon", "date": "1913-10-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 555372, "title": "L'aiglon", "original_title": "L'aiglon", "slug_title": "l-aiglon", "date": "1913-10-21", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

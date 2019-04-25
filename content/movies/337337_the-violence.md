@@ -1,1 +1,0 @@
-{"tmdb_id": 337337, "title": "The Violence", "original_title": "La Violencia", "slug_title": "the-violence", "date": "2015-04-12", "genre": "Histoire / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i2Gq0gLknMIMyM91xSWfWkr6tm0.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 142565, "title": "Try Revolution", "original_title": "Try Revolution", "slug_title": "try-revolution", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bhkSziLJFF5I5XSZV5IiRmm1uJp.jpg", "actors": [], "comments": [], "recommandations_id": []}

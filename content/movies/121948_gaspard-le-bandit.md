@@ -1,1 +1,0 @@
-{"tmdb_id": 121948, "title": "Gaspard le bandit", "original_title": "Gaspard le bandit", "slug_title": "gaspard-le-bandit", "date": "2006-06-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

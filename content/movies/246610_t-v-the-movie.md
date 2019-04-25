@@ -1,1 +1,0 @@
-{"tmdb_id": 246610, "title": "T.V.: The Movie", "original_title": "T.V.: The Movie", "slug_title": "t-v-the-movie", "date": "2008-08-02", "genre": "", "score": "1.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Oscar A. Castro ()", "Brett Poquette ()"], "comments": [], "recommandations_id": []}

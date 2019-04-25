@@ -1,1 +1,0 @@
-{"tmdb_id": 573494, "title": "Cuentas Por Cobrar", "original_title": "Cuentas Por Cobrar", "slug_title": "cuentas-por-cobrar", "date": "2017-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

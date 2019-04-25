@@ -1,1 +1,0 @@
-{"tmdb_id": 368213, "title": "Unexplained Laughter", "original_title": "Unexplained Laughter", "slug_title": "unexplained-laughter", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

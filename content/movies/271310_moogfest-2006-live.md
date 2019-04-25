@@ -1,1 +1,0 @@
-{"tmdb_id": 271310, "title": "Moogfest 2006: Live", "original_title": "Moogfest 2006: Live", "slug_title": "moogfest-2006-live", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

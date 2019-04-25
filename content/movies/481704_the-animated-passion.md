@@ -1,1 +1,0 @@
-{"tmdb_id": 481704, "title": "The Animated Passion", "original_title": "The Animated Passion", "slug_title": "the-animated-passion", "date": "2004-08-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y3u84LBgCpFw4a4kN2fSigIFCmo.jpg", "actors": [], "comments": [], "recommandations_id": []}

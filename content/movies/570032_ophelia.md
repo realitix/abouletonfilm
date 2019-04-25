@@ -1,1 +1,0 @@
-{"tmdb_id": 570032, "title": "Ophelia", "original_title": "Ophelia", "slug_title": "ophelia", "date": "", "genre": "Crime / Action / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

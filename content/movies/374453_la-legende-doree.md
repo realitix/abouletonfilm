@@ -1,1 +1,0 @@
-{"tmdb_id": 374453, "title": "La l\u00e9gende dor\u00e9e", "original_title": "La l\u00e9gende dor\u00e9e", "slug_title": "la-legende-doree", "date": "2015-01-31", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uoRIz5hpgG4YuhRm4qMvca24md.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 567059, "title": "A Bus - For Us", "original_title": "A Bus - For Us", "slug_title": "a-bus-for-us", "date": "1972-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

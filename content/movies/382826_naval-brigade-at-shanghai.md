@@ -1,1 +1,0 @@
-{"tmdb_id": 382826, "title": "Naval Brigade at Shanghai", "original_title": "\u4e0a\u6d77\u9678\u6226\u968a", "slug_title": "naval-brigade-at-shanghai", "date": "1939-05-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pzvARRwTxkXnMLkaoBA3i19ivCQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

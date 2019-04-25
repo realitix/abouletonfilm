@@ -1,1 +1,0 @@
-{"tmdb_id": 195189, "title": "Troops Embarking at San Francisco", "original_title": "Troops Embarking at San Francisco", "slug_title": "troops-embarking-at-san-francisco", "date": "1898-06-20", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

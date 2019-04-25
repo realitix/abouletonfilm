@@ -1,1 +1,0 @@
-{"tmdb_id": 90579, "title": "Formula One 1999 Review", "original_title": "Formula One 1999 Review", "slug_title": "formula-one-1999-review", "date": "1999-12-01", "genre": "Histoire / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jBdU8g5k1b4DPpEBupbo5FYcoIn.jpg", "actors": [], "comments": [], "recommandations_id": []}

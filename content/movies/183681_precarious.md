@@ -1,1 +1,0 @@
-{"tmdb_id": 183681, "title": "Precarious", "original_title": "Precarious", "slug_title": "precarious", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ikACYuT9auSP8r1frjLIH6e98KV.jpg", "actors": [], "comments": [], "recommandations_id": []}

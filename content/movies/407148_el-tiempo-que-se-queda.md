@@ -1,1 +1,0 @@
-{"tmdb_id": 407148, "title": "El tiempo que se queda", "original_title": "El tiempo que se queda", "slug_title": "el-tiempo-que-se-queda", "date": "2007-04-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4dAtjbBhBmP9sgyb96jNGQUIWAA.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 429309, "title": "Duck for President", "original_title": "Duck for President", "slug_title": "duck-for-president", "date": "", "genre": "Familial", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ieRzGbBbLcRr3yhVQNbRcHOmWUC.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 510494, "title": "Sailor's Delight", "original_title": "Sailor's Delight", "slug_title": "sailor-s-delight", "date": "2018-05-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hZ3mBP4Ihrio5Ftxt1uKVkw94xm.jpg", "actors": [], "comments": [], "recommandations_id": []}

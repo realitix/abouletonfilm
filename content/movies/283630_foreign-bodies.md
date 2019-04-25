@@ -1,1 +1,0 @@
-{"tmdb_id": 283630, "title": "Foreign Bodies", "original_title": "Corps \u00e9trangers", "slug_title": "foreign-bodies", "date": "2013-10-04", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3QZzqq7gK0R1mkpSIn8xAnxg6sT.jpg", "actors": [], "comments": [], "recommandations_id": []}

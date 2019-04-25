@@ -1,1 +1,0 @@
-{"tmdb_id": 484959, "title": "Armans Geheimnis -Staffel 1 und 2-", "original_title": "Armans Geheimnis -Staffel 1 und 2-", "slug_title": "armans-geheimnis-staffel-1-und-2", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i4jvl0leMHMaUCNXOubXRr1Cwgo.jpg", "actors": [], "comments": [], "recommandations_id": []}

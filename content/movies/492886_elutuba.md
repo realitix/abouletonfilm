@@ -1,1 +1,0 @@
-{"tmdb_id": 492886, "title": "Elutuba", "original_title": "Elutuba", "slug_title": "elutuba", "date": "1993-07-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zqvc3AFLnXGIdiEMNuoEnx6nQGI.jpg", "actors": [], "comments": [], "recommandations_id": []}

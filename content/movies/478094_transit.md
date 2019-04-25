@@ -1,1 +1,0 @@
-{"tmdb_id": 478094, "title": "Transit", "original_title": "Transit", "slug_title": "transit", "date": "2016-12-31", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aUXOm4uUV2WNcM6aarqgsjwat75.jpg", "actors": ["David Bredin ()", "Saro Emirze ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 188514, "title": "Paula Poundstone: Cats, Cops and Stuff", "original_title": "Paula Poundstone: Cats, Cops and Stuff", "slug_title": "paula-poundstone-cats-cops-and-stuff", "date": "", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Paula Poundstone (herself)"], "comments": [], "recommandations_id": []}

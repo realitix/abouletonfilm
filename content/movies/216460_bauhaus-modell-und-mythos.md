@@ -1,1 +1,0 @@
-{"tmdb_id": 216460, "title": "Bauhaus - Modell und Mythos", "original_title": "Bauhaus - Modell und Mythos", "slug_title": "bauhaus-modell-und-mythos", "date": "1998-10-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cJ2Uoud5tPZymFWDFyravHwaHFI.jpg", "actors": [], "comments": [], "recommandations_id": []}

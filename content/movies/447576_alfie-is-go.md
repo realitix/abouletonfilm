@@ -1,1 +1,0 @@
-{"tmdb_id": 447576, "title": "Alfie is Go!", "original_title": "Alfie is Go!", "slug_title": "alfie-is-go", "date": "2008-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oPEM97JliDn7xjvE6xiZlM2xMGh.jpg", "actors": [], "comments": [], "recommandations_id": []}

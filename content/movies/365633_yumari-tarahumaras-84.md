@@ -1,1 +1,0 @@
-{"tmdb_id": 365633, "title": "Yumari - Tarahumaras 84", "original_title": "Yumari - Tarahumaras 84", "slug_title": "yumari-tarahumaras-84", "date": "1985-07-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wozN7rq9qUr68arJ9Pt9UDC1u0q.jpg", "actors": [], "comments": [], "recommandations_id": []}

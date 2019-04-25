@@ -1,1 +1,0 @@
-{"tmdb_id": 575640, "title": "Evil Deeds: Full Circle", "original_title": "Evil Deeds: Full Circle", "slug_title": "evil-deeds-full-circle", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

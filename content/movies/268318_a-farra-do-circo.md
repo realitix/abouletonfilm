@@ -1,1 +1,0 @@
-{"tmdb_id": 268318, "title": "A Farra do Circo", "original_title": "A Farra do Circo", "slug_title": "a-farra-do-circo", "date": "2013-11-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oU6825OUMgsiDH2AgmwBkam0QDT.jpg", "actors": [], "comments": [], "recommandations_id": []}

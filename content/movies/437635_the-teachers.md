@@ -1,1 +1,0 @@
-{"tmdb_id": 437635, "title": "The Teachers", "original_title": "Die Lehrer", "slug_title": "the-teachers", "date": "2012-09-15", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

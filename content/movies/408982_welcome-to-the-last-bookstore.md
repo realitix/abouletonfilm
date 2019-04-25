@@ -1,1 +1,0 @@
-{"tmdb_id": 408982, "title": "Welcome to the Last Bookstore", "original_title": "Welcome to the Last Bookstore", "slug_title": "welcome-to-the-last-bookstore", "date": "2015-10-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qQkQes8t0LBychP2PPv5u8V2avr.jpg", "actors": [], "comments": [], "recommandations_id": []}

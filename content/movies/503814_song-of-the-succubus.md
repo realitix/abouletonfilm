@@ -1,1 +1,0 @@
-{"tmdb_id": 503814, "title": "Song of the Succubus", "original_title": "Song of the Succubus", "slug_title": "song-of-the-succubus", "date": "1975-03-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

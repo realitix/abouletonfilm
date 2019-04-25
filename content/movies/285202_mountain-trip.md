@@ -1,1 +1,0 @@
-{"tmdb_id": 285202, "title": "Mountain Trip", "original_title": "H\u00f6henrausch", "slug_title": "mountain-trip", "date": "1999-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

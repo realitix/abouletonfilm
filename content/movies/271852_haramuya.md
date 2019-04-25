@@ -1,1 +1,0 @@
-{"tmdb_id": 271852, "title": "Haramuya", "original_title": "Haramuya", "slug_title": "haramuya", "date": "1995-01-02", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rzbkovQzI6ZbRJaAn1KWEkhFFYl.jpg", "actors": ["Abdoulaye Kaba ()", "Rakieta Kabore ()", "A\u00ef Ke\u00efta ()"], "comments": [], "recommandations_id": []}

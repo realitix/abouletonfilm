@@ -1,1 +1,0 @@
-{"tmdb_id": 503793, "title": "Dr. Chris Teen Sex Surrogate", "original_title": "Dr. Chris Teen Sex Surrogate", "slug_title": "dr-chris-teen-sex-surrogate", "date": "1994-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Vaginal Davis (Herself)", "Bruce LaBruce (Fonda)"], "comments": [], "recommandations_id": []}

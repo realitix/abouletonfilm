@@ -1,1 +1,0 @@
-{"tmdb_id": 418999, "title": "Montenvers et Mer de glace", "original_title": "Montenvers et Mer de glace", "slug_title": "montenvers-et-mer-de-glace", "date": "1987-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vv45ow0zod6so2K5UTx5csGMUQq.jpg", "actors": [], "comments": [], "recommandations_id": []}

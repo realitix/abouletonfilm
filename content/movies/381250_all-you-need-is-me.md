@@ -1,1 +1,0 @@
-{"tmdb_id": 381250, "title": "All You Need Is Me", "original_title": "All You Need Is Me", "slug_title": "all-you-need-is-me", "date": "2016-02-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gu5Lpy7wYfow2bo1EyoCLz8LSHW.jpg", "actors": [], "comments": [], "recommandations_id": []}

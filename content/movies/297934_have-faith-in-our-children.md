@@ -1,1 +1,0 @@
-{"tmdb_id": 297934, "title": "Have Faith in Our Children", "original_title": "Have Faith in Our Children", "slug_title": "have-faith-in-our-children", "date": "1955-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Glenn Ford (Himself)", "Eleanor Powell (Herself)"], "comments": [], "recommandations_id": []}

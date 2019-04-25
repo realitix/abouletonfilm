@@ -1,1 +1,0 @@
-{"tmdb_id": 209826, "title": "City World", "original_title": "City World", "slug_title": "city-world", "date": "2012-05-19", "genre": "Documentaire / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/84SzqAhFp37eNm3mIwt3cfK5Msw.jpg", "actors": ["Sean Kaufman (Narrator)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 515695, "title": "Joy: An Irish Christmas", "original_title": "Joy: An Irish Christmas", "slug_title": "joy-an-irish-christmas", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

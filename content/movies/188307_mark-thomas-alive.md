@@ -1,1 +1,0 @@
-{"tmdb_id": 188307, "title": "Mark Thomas: Alive", "original_title": "Mark Thomas: Alive", "slug_title": "mark-thomas-alive", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

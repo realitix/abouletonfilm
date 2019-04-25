@@ -1,1 +1,0 @@
-{"tmdb_id": 328005, "title": "Untitled (Mirror)", "original_title": "Bez naziva (Mirror)", "slug_title": "untitled-mirror", "date": "1988-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

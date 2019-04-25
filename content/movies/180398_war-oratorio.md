@@ -1,1 +1,0 @@
-{"tmdb_id": 180398, "title": "War Oratorio", "original_title": "War Oratorio", "slug_title": "war-oratorio", "date": "2007-06-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

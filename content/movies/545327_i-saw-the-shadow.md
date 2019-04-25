@@ -1,1 +1,0 @@
-{"tmdb_id": 545327, "title": "I Saw the Shadow", "original_title": "I Saw the Shadow", "slug_title": "i-saw-the-shadow", "date": "1966-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r45QnmWGW6rxs5Xpz2l8CUeTvCs.jpg", "actors": [], "comments": [], "recommandations_id": []}

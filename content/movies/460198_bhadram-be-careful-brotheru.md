@@ -1,1 +1,0 @@
-{"tmdb_id": 460198, "title": "Bhadram Be Careful Brotheru", "original_title": "Bhadram Be Careful Brotheru", "slug_title": "bhadram-be-careful-brotheru", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cwKDKrpuWywp5OdjxjRhHt6PWtu.jpg", "actors": [], "comments": [], "recommandations_id": []}

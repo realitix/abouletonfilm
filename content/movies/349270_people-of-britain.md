@@ -1,1 +1,0 @@
-{"tmdb_id": 349270, "title": "People of Britain", "original_title": "People of Britain", "slug_title": "people-of-britain", "date": "1936-08-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/chd1uzqgF1SRsldpcLvYra1FFs2.jpg", "actors": [], "comments": [], "recommandations_id": []}

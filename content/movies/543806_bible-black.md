@@ -1,1 +1,0 @@
-{"tmdb_id": 543806, "title": "Bible Black", "original_title": "Bible Black", "slug_title": "bible-black", "date": "2002-03-02", "genre": "", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lHRBrCllxdD7mbzwxKohJIvs4wa.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 520346, "title": "Pirat mit Hindernissen", "original_title": "Pirat mit Hindernissen", "slug_title": "pirat-mit-hindernissen", "date": "1975-08-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2Tp3heGlcW5WjArO6JMwqksLQIA.jpg", "actors": [], "comments": [], "recommandations_id": []}

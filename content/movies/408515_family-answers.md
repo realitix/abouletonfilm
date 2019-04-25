@@ -1,1 +1,0 @@
-{"tmdb_id": 408515, "title": "Family Answers", "original_title": "Family Answers", "slug_title": "family-answers", "date": "1996-01-01", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/71DEuHqttMAY774VWmdN2nlYqyq.jpg", "actors": [], "comments": [], "recommandations_id": []}

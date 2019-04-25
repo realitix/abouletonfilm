@@ -1,1 +1,0 @@
-{"tmdb_id": 552787, "title": "The Sorcerer's Apprentice", "original_title": "The Sorcerer's Apprentice", "slug_title": "the-sorcerer-s-apprentice", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

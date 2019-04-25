@@ -1,1 +1,0 @@
-{"tmdb_id": 554252, "title": "Birth Pangs", "original_title": "Birth Pangs", "slug_title": "birth-pangs", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

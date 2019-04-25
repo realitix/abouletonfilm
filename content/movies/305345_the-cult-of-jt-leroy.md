@@ -1,1 +1,0 @@
-{"tmdb_id": 305345, "title": "The Cult of JT LeRoy", "original_title": "The Cult of JT LeRoy", "slug_title": "the-cult-of-jt-leroy", "date": "2014-11-14", "genre": "Documentaire", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rsLDmbumbH0FptiUjtN3kupyhqD.jpg", "actors": [], "comments": [], "recommandations_id": []}

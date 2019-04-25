@@ -1,1 +1,0 @@
-{"tmdb_id": 471200, "title": "Woof Again! Why Me?", "original_title": "Woof Again! Why Me?", "slug_title": "woof-again-why-me", "date": "1992-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

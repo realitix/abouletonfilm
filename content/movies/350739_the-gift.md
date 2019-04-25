@@ -1,1 +1,0 @@
-{"tmdb_id": 350739, "title": "The Gift", "original_title": "The Gift", "slug_title": "the-gift", "date": "2013-06-17", "genre": "Drame", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Maurice Luijten (Boy)", "Robyn Isaac (Girl)", "Martine Maes (Woman)"], "comments": [], "recommandations_id": []}

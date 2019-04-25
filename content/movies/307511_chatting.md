@@ -1,1 +1,0 @@
-{"tmdb_id": 307511, "title": "Chatting", "original_title": "Chatting", "slug_title": "chatting", "date": "1956-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

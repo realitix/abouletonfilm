@@ -1,1 +1,0 @@
-{"tmdb_id": 254965, "title": "The Surging Sea of Humanity", "original_title": "The Surging Sea of Humanity", "slug_title": "the-surging-sea-of-humanity", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nSOzX9fR9uCKJreIQMxDFjV9N5N.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 266350, "title": "A Public Ransom", "original_title": "A Public Ransom", "slug_title": "a-public-ransom", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jhf6ysdqFLT9qQKMgQALiriyjbS.jpg", "actors": [], "comments": [], "recommandations_id": []}

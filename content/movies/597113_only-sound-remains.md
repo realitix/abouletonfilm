@@ -1,1 +1,0 @@
-{"tmdb_id": 597113, "title": "Only Sound Remains", "original_title": "Only Sound Remains", "slug_title": "only-sound-remains", "date": "2010-08-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

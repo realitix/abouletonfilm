@@ -1,1 +1,0 @@
-{"tmdb_id": 573759, "title": "Herbergistene", "original_title": "Herbergistene", "slug_title": "herbergistene", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/c79QSTHjNW3y45V4YEitTgSxYqW.jpg", "actors": [], "comments": [], "recommandations_id": []}

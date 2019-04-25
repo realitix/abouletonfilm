@@ -1,1 +1,0 @@
-{"tmdb_id": 268186, "title": "Red's Breakfast 2: Dawn Of The Red", "original_title": "Red's Breakfast 2: Dawn Of The Red", "slug_title": "red-s-breakfast-2-dawn-of-the-red", "date": "1997-06-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

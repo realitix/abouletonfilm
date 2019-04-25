@@ -1,1 +1,0 @@
-{"tmdb_id": 579512, "title": "Getting Greeked", "original_title": "Getting Greeked", "slug_title": "getting-greeked", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/erTiD2NvDIzAg69wHN5p0juuV71.jpg", "actors": ["Jeff Browning ()", "Dom Sinclair ()"], "comments": [], "recommandations_id": []}

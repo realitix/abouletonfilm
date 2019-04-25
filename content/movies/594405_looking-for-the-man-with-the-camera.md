@@ -1,1 +1,0 @@
-{"tmdb_id": 594405, "title": "Looking For The Man With The Camera", "original_title": "\u00c0 la recherche de l'homme \u00e0 la cam\u00e9ra", "slug_title": "looking-for-the-man-with-the-camera", "date": "2019-04-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 329392, "title": "The Touch Of An Angel", "original_title": "Dotkniecie aniola", "slug_title": "the-touch-of-an-angel", "date": "2015-01-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dEj64IRcmIYd1vKQAQ8cn2ZbjJA.jpg", "actors": [], "comments": [], "recommandations_id": []}

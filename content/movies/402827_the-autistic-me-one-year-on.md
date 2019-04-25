@@ -1,1 +1,0 @@
-{"tmdb_id": 402827, "title": "The Autistic Me: One Year On", "original_title": "The Autistic Me: One Year On", "slug_title": "the-autistic-me-one-year-on", "date": "2010-04-22", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rvCrV8R3DIcD1rUZDKCNxnRl7Jh.jpg", "actors": [], "comments": [], "recommandations_id": []}

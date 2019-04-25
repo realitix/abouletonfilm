@@ -1,1 +1,0 @@
-{"tmdb_id": 90082, "title": "American Cannibal", "original_title": "American Cannibal", "slug_title": "american-cannibal", "date": "2006-01-03", "genre": "Documentaire", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i6cxFO4blRwtwFZV3DJ7fepiNMh.jpg", "actors": ["Sturgis Adams (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 369098, "title": "My long neck", "original_title": "My long neck", "slug_title": "my-long-neck", "date": "2013-03-09", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

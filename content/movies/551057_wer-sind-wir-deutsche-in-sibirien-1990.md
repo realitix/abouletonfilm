@@ -1,1 +1,0 @@
-{"tmdb_id": 551057, "title": "Wer sind wir? Deutsche in Sibirien 1990", "original_title": "Wer sind wir? Deutsche in Sibirien 1990", "slug_title": "wer-sind-wir-deutsche-in-sibirien-1990", "date": "1991-01-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

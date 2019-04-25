@@ -1,1 +1,0 @@
-{"tmdb_id": 512536, "title": "Letter to S\u00e3o Paulo", "original_title": "Carta a S\u00e3o Paulo", "slug_title": "letter-to-sao-paulo", "date": "2018-03-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uJwCQOW0yHHioPVOGpd6SBe0UhA.jpg", "actors": [], "comments": [], "recommandations_id": []}

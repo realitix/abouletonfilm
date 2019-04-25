@@ -1,1 +1,0 @@
-{"tmdb_id": 421744, "title": "Song of Retrospection", "original_title": "\ucd94\uc5b5 \uc758 \ub178\ub798", "slug_title": "song-of-retrospection", "date": "1986-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fOLO1c26p1VaiLXkMqVyrkZfEyo.jpg", "actors": [], "comments": [], "recommandations_id": []}

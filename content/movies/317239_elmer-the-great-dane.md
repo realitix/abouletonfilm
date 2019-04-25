@@ -1,1 +1,0 @@
-{"tmdb_id": 317239, "title": "Elmer the Great Dane", "original_title": "Elmer the Great Dane", "slug_title": "elmer-the-great-dane", "date": "1935-04-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

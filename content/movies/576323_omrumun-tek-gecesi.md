@@ -1,1 +1,0 @@
-{"tmdb_id": 576323, "title": "\u00d6mr\u00fcm\u00fcn tek gecesi", "original_title": "\u00d6mr\u00fcm\u00fcn tek gecesi", "slug_title": "omrumun-tek-gecesi", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vNiYXWD8g2GVeCKwfr9HBI98p6l.jpg", "actors": [], "comments": [], "recommandations_id": []}

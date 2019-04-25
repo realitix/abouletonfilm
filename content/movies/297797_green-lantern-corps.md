@@ -1,1 +1,0 @@
-{"tmdb_id": 297797, "title": "Green Lantern Corps", "original_title": "Green Lantern Corps", "slug_title": "green-lantern-corps", "date": "2020-07-24", "genre": "Action / Aventure / Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qtMjHsEyD2sck9748PaUwthW8JR.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,1 @@
-{"tmdb_id": 417401, "title": "Underbar Summer", "original_title": "Underbar Summer", "slug_title": "underbar-summer", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 417401, "title": "Underbar Summer", "original_title": "Underbar Summer", "slug_title": "underbar-summer", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

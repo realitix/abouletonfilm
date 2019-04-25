@@ -1,1 +1,1 @@
-{"tmdb_id": 555930, "title": "La loupiote", "original_title": "La loupiote", "slug_title": "la-loupiote", "date": "1922-12-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 555930, "title": "La loupiote", "original_title": "La loupiote", "slug_title": "la-loupiote", "date": "1922-12-13", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

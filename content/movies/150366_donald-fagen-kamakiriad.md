@@ -1,1 +1,0 @@
-{"tmdb_id": 150366, "title": "Donald Fagen - Kamakiriad", "original_title": "Donald Fagen - Kamakiriad", "slug_title": "donald-fagen-kamakiriad", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6G7F9dYIz2PgTzRXDs9f6jmI3QS.jpg", "actors": ["Donald Fagen ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 573773, "title": "The Search for Silverspear", "original_title": "The Search for Silverspear", "slug_title": "the-search-for-silverspear", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

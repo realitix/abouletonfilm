@@ -1,1 +1,0 @@
-{"tmdb_id": 383896, "title": "Elizabeth Bathory", "original_title": "Elizabeth Bathory", "slug_title": "elizabeth-bathory", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/htxzbRVQ2Igijv0ELROIzr6N1Qi.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 179955, "title": "Step by Step", "original_title": "Step by Step", "slug_title": "step-by-step", "date": "2010-02-01", "genre": "", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eF8eAhp0ndZL3T77SSvOYW1pYSf.jpg", "actors": [], "comments": [], "recommandations_id": []}

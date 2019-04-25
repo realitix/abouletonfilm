@@ -1,1 +1,0 @@
-{"tmdb_id": 282721, "title": "Friendly Witness", "original_title": "Friendly Witness", "slug_title": "friendly-witness", "date": "1989-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5GawzBQ4hFwoONJoS5iJEEfp1mI.jpg", "actors": [], "comments": [], "recommandations_id": []}

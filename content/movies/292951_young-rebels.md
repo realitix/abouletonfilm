@@ -1,1 +1,0 @@
-{"tmdb_id": 292951, "title": "Young Rebels", "original_title": "Young Rebels", "slug_title": "young-rebels", "date": "2005-03-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

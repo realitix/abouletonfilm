@@ -1,1 +1,0 @@
-{"tmdb_id": 481710, "title": "Temptation", "original_title": "Temptation", "slug_title": "temptation", "date": "1923-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bryant Washburn (Jack Baldwin)", "Eva Novak (Marjorie Baldwin)", "June Elvidge (Mrs. Martin)"], "comments": [], "recommandations_id": []}

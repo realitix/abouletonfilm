@@ -1,1 +1,0 @@
-{"tmdb_id": 48305, "title": "Slednecks 9", "original_title": "Slednecks 9", "slug_title": "slednecks-9", "date": "2006-01-08", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yLzKW46owsFqE50USZZoAhN5jwV.jpg", "actors": [], "comments": [], "recommandations_id": []}

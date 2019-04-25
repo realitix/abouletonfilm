@@ -1,1 +1,0 @@
-{"tmdb_id": 463367, "title": "Lenin - Drama eines Diktators", "original_title": "Lenin - Drama eines Diktators", "slug_title": "lenin-drama-eines-diktators", "date": "2013-03-19", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

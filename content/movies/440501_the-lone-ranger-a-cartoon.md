@@ -1,1 +1,0 @@
-{"tmdb_id": 440501, "title": "The Lone Ranger: A Cartoon", "original_title": "The Lone Ranger: A Cartoon", "slug_title": "the-lone-ranger-a-cartoon", "date": "", "genre": "Western / Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 245000, "title": "Ferry Tales", "original_title": "Ferry Tales", "slug_title": "ferry-tales", "date": "2003-10-09", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ybGhe6Fped20OAq9E2Pft6r2uF5.jpg", "actors": [], "comments": [], "recommandations_id": []}

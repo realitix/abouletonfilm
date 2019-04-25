@@ -1,1 +1,0 @@
-{"tmdb_id": 387306, "title": "Ascenzione al Dente del Gigante", "original_title": "Ascenzione al Dente del Gigante", "slug_title": "ascenzione-al-dente-del-gigante", "date": "1911-03-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

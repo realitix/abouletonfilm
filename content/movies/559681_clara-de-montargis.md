@@ -1,1 +1,0 @@
-{"tmdb_id": 559681, "title": "Clara de Montargis", "original_title": "Clara de Montargis", "slug_title": "clara-de-montargis", "date": "1951-06-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x9L9CATZk0L9hL1YMBcmvJaVHAa.jpg", "actors": [], "comments": [], "recommandations_id": []}

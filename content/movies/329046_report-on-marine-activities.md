@@ -1,1 +1,0 @@
-{"tmdb_id": 329046, "title": "Report On Marine Activities", "original_title": "Report On Marine Activities", "slug_title": "report-on-marine-activities", "date": "1966-01-01", "genre": "Documentaire / Guerre", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

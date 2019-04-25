@@ -1,1 +1,0 @@
-{"tmdb_id": 310864, "title": "Tip Drill", "original_title": "Tip Drill", "slug_title": "tip-drill", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

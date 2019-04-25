@@ -1,1 +1,0 @@
-{"tmdb_id": 113607, "title": "Der Teufel von Rudow", "original_title": "Der Teufel von Rudow", "slug_title": "der-teufel-von-rudow", "date": "2004-04-29", "genre": "Horreur", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tCSDCfjy2SHNHvOey43u1OJwokx.jpg", "actors": [], "comments": [], "recommandations_id": []}

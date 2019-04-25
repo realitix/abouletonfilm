@@ -1,1 +1,0 @@
-{"tmdb_id": 466441, "title": "Super Grupper", "original_title": "Super Grupper", "slug_title": "super-grupper", "date": "2007-08-26", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jonathan Grupper (Super Grupper)"], "comments": [], "recommandations_id": []}

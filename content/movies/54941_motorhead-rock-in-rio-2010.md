@@ -1,1 +1,0 @@
-{"tmdb_id": 54941, "title": "Mot\u00f6rhead - Rock in Rio 2010", "original_title": "Mot\u00f6rhead - Rock in Rio 2010", "slug_title": "motorhead-rock-in-rio-2010", "date": "2010-09-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fIIhI3ZeUSyhusMwKso53r9SNQ3.jpg", "actors": [], "comments": [], "recommandations_id": []}

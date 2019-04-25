@@ -1,1 +1,0 @@
-{"tmdb_id": 417718, "title": "\uc678\ub85c\uc6b4 \uc0b0\uc7a5\uc5d0\uc11c", "original_title": "\uc678\ub85c\uc6b4 \uc0b0\uc7a5\uc5d0\uc11c", "slug_title": "oeroun-sanjangeseo", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

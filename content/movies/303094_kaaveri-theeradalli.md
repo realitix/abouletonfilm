@@ -1,1 +1,0 @@
-{"tmdb_id": 303094, "title": "Kaaveri Theeradalli", "original_title": "Kaaveri Theeradalli", "slug_title": "kaaveri-theeradalli", "date": "1999-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 409383, "title": "Silent Shakespeare", "original_title": "Silent Shakespeare", "slug_title": "silent-shakespeare", "date": "2000-06-06", "genre": "Drame / Musique / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bfyYrvh228LKBh9dHEBaNAA0ueU.jpg", "actors": [], "comments": [], "recommandations_id": []}

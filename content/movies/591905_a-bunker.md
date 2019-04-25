@@ -1,1 +1,0 @@
-{"tmdb_id": 591905, "title": "A bunker", "original_title": "A bunker", "slug_title": "a-bunker", "date": "1971-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["G\u00e1bor Ag\u00e1rdi (Szerepl\u0151k Parry)", "Avar Istv\u00e1n (Feldman)", "L\u00e1szl\u00f3 M\u00e1rkus (Taylor)"], "comments": [], "recommandations_id": []}

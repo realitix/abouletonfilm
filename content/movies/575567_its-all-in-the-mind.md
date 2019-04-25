@@ -1,1 +1,0 @@
-{"tmdb_id": 575567, "title": "It\u2019s All in the Mind", "original_title": "It\u2019s All in the Mind", "slug_title": "its-all-in-the-mind", "date": "2016-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

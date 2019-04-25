@@ -1,1 +1,0 @@
-{"tmdb_id": 277428, "title": "Carrier: Arsenal of the Sea", "original_title": "Carrier: Arsenal of the Sea", "slug_title": "carrier-arsenal-of-the-sea", "date": "2005-02-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

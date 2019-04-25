@@ -1,1 +1,0 @@
-{"tmdb_id": 172150, "title": "Osobennosti russkoy bani", "original_title": "Osobennosti russkoy bani", "slug_title": "osobennosti-russkoy-bani", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 292093, "title": "Love Will Find a Way", "original_title": "Love Will Find a Way", "slug_title": "love-will-find-a-way", "date": "2014-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

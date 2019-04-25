@@ -1,1 +1,0 @@
-{"tmdb_id": 123408, "title": "Drivers Wanted", "original_title": "Drivers Wanted", "slug_title": "drivers-wanted", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["David Sirk (Sheldon)", "Brian Osborne (Friendly)", "Dave Spiecher (Rupert)", "Amaury Batista (Mang)"], "comments": [], "recommandations_id": []}

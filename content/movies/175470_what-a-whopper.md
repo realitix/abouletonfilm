@@ -1,1 +1,0 @@
-{"tmdb_id": 175470, "title": "What a Whopper!", "original_title": "What a Whopper!", "slug_title": "what-a-whopper", "date": "1921-07-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["'Snub' Pollard ()", "Marie Mosquini ()"], "comments": [], "recommandations_id": []}

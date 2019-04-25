@@ -1,1 +1,0 @@
-{"tmdb_id": 484191, "title": "Allari Premikudu", "original_title": "Allari Premikudu", "slug_title": "allari-premikudu", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/12KfHhX9Nq8UcGqUwXcHPKvlYPs.jpg", "actors": [], "comments": [], "recommandations_id": []}

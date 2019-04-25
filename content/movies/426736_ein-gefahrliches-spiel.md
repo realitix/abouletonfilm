@@ -1,1 +1,0 @@
-{"tmdb_id": 426736, "title": "Ein gef\u00e4hrliches Spiel", "original_title": "Ein gef\u00e4hrliches Spiel", "slug_title": "ein-gefahrliches-spiel", "date": "1919-11-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Harry Walden ()"], "comments": [], "recommandations_id": []}

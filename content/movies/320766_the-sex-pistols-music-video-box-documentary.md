@@ -1,1 +1,0 @@
-{"tmdb_id": 320766, "title": "The Sex Pistols: Music Video Box Documentary", "original_title": "The Sex Pistols: Music Video Box Documentary", "slug_title": "the-sex-pistols-music-video-box-documentary", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

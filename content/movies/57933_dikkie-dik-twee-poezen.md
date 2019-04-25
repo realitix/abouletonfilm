@@ -1,1 +1,0 @@
-{"tmdb_id": 57933, "title": "Dikkie Dik - Twee poezen", "original_title": "Dikkie Dik - Twee poezen", "slug_title": "dikkie-dik-twee-poezen", "date": "2008-05-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pQcIbv7lqGmgIGpi0HBQqofnpCK.jpg", "actors": [], "comments": [], "recommandations_id": []}

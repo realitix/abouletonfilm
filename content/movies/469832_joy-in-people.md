@@ -1,1 +1,0 @@
-{"tmdb_id": 469832, "title": "Joy In People", "original_title": "Joy In People", "slug_title": "joy-in-people", "date": "2017-10-04", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/htPAFojm2hQQ2yOt4wH15ib6ntR.jpg", "actors": [], "comments": [], "recommandations_id": []}

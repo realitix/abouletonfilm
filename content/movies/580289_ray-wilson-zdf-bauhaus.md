@@ -1,1 +1,0 @@
-{"tmdb_id": 580289, "title": "Ray Wilson: ZDF@Bauhaus", "original_title": "Ray Wilson: ZDF@Bauhaus", "slug_title": "ray-wilson-zdf-bauhaus", "date": "2018-10-19", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7YS1AFvkH5tzOhVoD4gVXED1p9w.jpg", "actors": ["Ray Wilson ()"], "comments": [], "recommandations_id": []}

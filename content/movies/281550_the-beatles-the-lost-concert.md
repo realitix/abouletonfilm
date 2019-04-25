@@ -1,1 +1,0 @@
-{"tmdb_id": 281550, "title": "The Beatles: The Lost Concert", "original_title": "The Beatles: The Lost Concert", "slug_title": "the-beatles-the-lost-concert", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

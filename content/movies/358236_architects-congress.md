@@ -1,1 +1,0 @@
-{"tmdb_id": 358236, "title": "Architects' Congress", "original_title": "Architects' Congress", "slug_title": "architects-congress", "date": "1933-09-05", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/c0YJeNly9ZWLgOmAY8HGimCExS2.jpg", "actors": [], "comments": [], "recommandations_id": []}

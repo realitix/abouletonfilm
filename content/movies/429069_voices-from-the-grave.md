@@ -1,1 +1,0 @@
-{"tmdb_id": 429069, "title": "Voices from the Grave", "original_title": "Voices from the Grave", "slug_title": "voices-from-the-grave", "date": "2010-12-15", "genre": "Guerre / Documentaire / Histoire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

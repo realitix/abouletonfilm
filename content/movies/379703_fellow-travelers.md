@@ -1,1 +1,0 @@
-{"tmdb_id": 379703, "title": "Fellow Travelers", "original_title": "Fellow Travelers", "slug_title": "fellow-travelers", "date": "2015-03-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gOue7uLg6lZs7q1lkO3Ql63ejII.jpg", "actors": [], "comments": [], "recommandations_id": []}

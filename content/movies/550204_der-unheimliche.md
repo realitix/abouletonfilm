@@ -1,1 +1,0 @@
-{"tmdb_id": 550204, "title": "Der Unheimliche", "original_title": "Der Unheimliche", "slug_title": "der-unheimliche", "date": "1922-03-09", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bruno Decarli ()", "Margot von Hardt ()", "Eva Brock ()", "Thea Kasten ()", "Lotte Stein ()"], "comments": [], "recommandations_id": []}

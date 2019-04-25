@@ -1,1 +1,0 @@
-{"tmdb_id": 525164, "title": "Flower Storm", "original_title": "Flower Storm", "slug_title": "flower-storm", "date": "1972-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

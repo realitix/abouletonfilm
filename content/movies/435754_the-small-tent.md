@@ -1,1 +1,0 @@
-{"tmdb_id": 435754, "title": "The Small Tent", "original_title": "Le Petit Chapiteau", "slug_title": "the-small-tent", "date": "1963-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aor3NPkjfzfKAFcdVb2Cbu8g0eq.jpg", "actors": ["Jacques Pr\u00e9vert (Narrator)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 278412, "title": "Kallakkamukan", "original_title": "Kallakkamukan", "slug_title": "kallakkamukan", "date": "", "genre": "Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 333692, "title": "Night Movie", "original_title": "Seret Layla", "slug_title": "night-movie", "date": "1986-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Moshe Ivgy ()", "Akab Abed El-Hai ()", "Dov Keren ()"], "comments": [], "recommandations_id": []}

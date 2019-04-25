@@ -1,1 +1,0 @@
-{"tmdb_id": 385569, "title": "Inwazja", "original_title": "Inwazja", "slug_title": "inwazja", "date": "1970-05-01", "genre": "Science-Fiction / Animation", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/JeNf7Q7IcO4uG86onlMxmECOdW.jpg", "actors": [], "comments": [], "recommandations_id": []}

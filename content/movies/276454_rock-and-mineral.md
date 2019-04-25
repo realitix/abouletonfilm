@@ -1,1 +1,0 @@
-{"tmdb_id": 276454, "title": "Rock and Mineral", "original_title": "Rock and Mineral", "slug_title": "rock-and-mineral", "date": "1996-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 372512, "title": "John Peel's Record Box", "original_title": "John Peel's Record Box", "slug_title": "john-peel-s-record-box", "date": "2005-11-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

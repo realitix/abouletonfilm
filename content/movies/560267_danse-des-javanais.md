@@ -1,1 +1,0 @@
-{"tmdb_id": 560267, "title": "Danse des Javanais", "original_title": "Danse des Javanais", "slug_title": "danse-des-javanais", "date": "1899-11-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

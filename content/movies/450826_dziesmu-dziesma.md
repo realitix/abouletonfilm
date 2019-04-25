@@ -1,1 +1,0 @@
-{"tmdb_id": 450826, "title": "Dziesmu dziesma", "original_title": "Dziesmu dziesma", "slug_title": "dziesmu-dziesma", "date": "1989-01-10", "genre": "Documentaire / Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bTq2qNnZAahk6OWD7pJfesOKusN.jpg", "actors": [], "comments": [], "recommandations_id": []}

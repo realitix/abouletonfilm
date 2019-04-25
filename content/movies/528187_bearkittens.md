@@ -1,1 +1,0 @@
-{"tmdb_id": 528187, "title": "Bearkittens", "original_title": "Bearkittens", "slug_title": "bearkittens", "date": "2018-04-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tqj4nW6ouiBKK4eSYSgmYiwxihU.jpg", "actors": [], "comments": [], "recommandations_id": []}

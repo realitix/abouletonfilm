@@ -1,1 +1,0 @@
-{"tmdb_id": 283751, "title": "Power Half Hour - Stretch", "original_title": "Power Half Hour - Stretch", "slug_title": "power-half-hour-stretch", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q7FFK3lG8TcPkvfYbEYkKEcUUga.jpg", "actors": [], "comments": [], "recommandations_id": []}

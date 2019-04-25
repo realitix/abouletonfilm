@@ -1,1 +1,0 @@
-{"tmdb_id": 308521, "title": "Deutsche Polizisten: Viele Kulturen - eine Truppe", "original_title": "Deutsche Polizisten: Viele Kulturen - eine Truppe", "slug_title": "deutsche-polizisten-viele-kulturen-eine-truppe", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

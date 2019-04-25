@@ -1,1 +1,0 @@
-{"tmdb_id": 469698, "title": "The Flare", "original_title": "The Flare", "slug_title": "the-flare", "date": "2017-07-11", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6KsWhDaFdh3624uiOb9ZTVi31iC.jpg", "actors": [], "comments": [], "recommandations_id": []}

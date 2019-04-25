@@ -1,1 +1,0 @@
-{"tmdb_id": 250377, "title": "Hoax Canular", "original_title": "Hoax Canular", "slug_title": "hoax-canular", "date": "2014-01-25", "genre": "", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3llideuZhoIOw2pDEeM7dgzmBUs.jpg", "actors": [], "comments": [], "recommandations_id": []}

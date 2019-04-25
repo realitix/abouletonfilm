@@ -1,1 +1,0 @@
-{"tmdb_id": 459194, "title": "The Man Who Ate Himself To Death", "original_title": "The Man Who Ate Himself To Death", "slug_title": "the-man-who-ate-himself-to-death", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 67200, "title": "Lottie Dottie Chicken", "original_title": "Galinha Pintadinha 1", "slug_title": "lottie-dottie-chicken", "date": "2008-01-01", "genre": "Animation", "score": "9.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lRWyCw2ngz5yn49AYKxSoUDkK2z.jpg", "actors": [], "comments": [], "recommandations_id": []}

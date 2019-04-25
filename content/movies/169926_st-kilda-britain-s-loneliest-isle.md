@@ -1,1 +1,0 @@
-{"tmdb_id": 169926, "title": "St Kilda: Britain's Loneliest Isle", "original_title": "St Kilda: Britain's Loneliest Isle", "slug_title": "st-kilda-britain-s-loneliest-isle", "date": "1928-02-12", "genre": "", "score": "7.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 561454, "title": "The Amazing Bone", "original_title": "The Amazing Bone", "slug_title": "the-amazing-bone", "date": "1985-01-05", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["John Lithgow (Narrator)"], "comments": [], "recommandations_id": []}

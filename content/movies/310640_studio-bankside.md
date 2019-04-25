@@ -1,1 +1,0 @@
-{"tmdb_id": 310640, "title": "Studio Bankside", "original_title": "Studio Bankside", "slug_title": "studio-bankside", "date": "1971-01-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pYT5gOtx47HhqN4sPLfupzU3naK.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 110984, "title": "Cobra Productions", "original_title": "Cobra Productions", "slug_title": "cobra-productions", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

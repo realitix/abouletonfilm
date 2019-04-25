@@ -1,1 +1,0 @@
-{"tmdb_id": 282356, "title": "The Claw", "original_title": "Pen\u00e7e", "slug_title": "the-claw", "date": "1917-01-02", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Eliza Binemeciyan ()", "Nurettin Sefkati ()", "Rasit Riza Samako ()", "Bedia Muvahhit ()"], "comments": [], "recommandations_id": []}

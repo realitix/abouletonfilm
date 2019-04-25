@@ -1,1 +1,0 @@
-{"tmdb_id": 418658, "title": "Warning to Wantons", "original_title": "Warning to Wantons", "slug_title": "warning-to-wantons", "date": "1949-01-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m2L3vhLJ3lUXmWlQ7b8jDVriNKJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 464416, "title": "Lukomir Six Months Off", "original_title": "Lukomir Six Months Off", "slug_title": "lukomir-six-months-off", "date": "2010-07-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

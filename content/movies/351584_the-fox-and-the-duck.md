@@ -1,1 +1,0 @@
-{"tmdb_id": 351584, "title": "The Fox and the Duck", "original_title": "The Fox and the Duck", "slug_title": "the-fox-and-the-duck", "date": "1945-08-24", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ksfnBbR4yxq3OSOYJsXDOFxzhP0.jpg", "actors": [], "comments": [], "recommandations_id": []}

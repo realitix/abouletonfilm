@@ -1,1 +1,0 @@
-{"tmdb_id": 314512, "title": "Breath of the Beloved", "original_title": "M\u00e2suk'un Nefesi", "slug_title": "breath-of-the-beloved", "date": "2014-06-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

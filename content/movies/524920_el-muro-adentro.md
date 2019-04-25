@@ -1,1 +1,0 @@
-{"tmdb_id": 524920, "title": "El Muro Adentro", "original_title": "El Muro Adentro", "slug_title": "el-muro-adentro", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wFWFxjeMkU9RHo8VeeH1KKy99CI.jpg", "actors": [], "comments": [], "recommandations_id": []}

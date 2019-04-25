@@ -1,1 +1,0 @@
-{"tmdb_id": 399651, "title": "Max and Moritz", "original_title": "Max und Moritz", "slug_title": "max-and-moritz", "date": "1941-10-08", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mgIFMB42O4571NXSLCz8UKaKjXd.jpg", "actors": [], "comments": [], "recommandations_id": []}

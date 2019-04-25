@@ -1,1 +1,0 @@
-{"tmdb_id": 320633, "title": "Ravages", "original_title": "Ravages", "slug_title": "ravages", "date": "2007-11-20", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

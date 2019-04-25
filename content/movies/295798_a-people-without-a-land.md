@@ -1,1 +1,0 @@
-{"tmdb_id": 295798, "title": "A People Without A Land", "original_title": "A People Without A Land", "slug_title": "a-people-without-a-land", "date": "2014-07-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6C39XH6lqrWpQCUaFum0CjCOOFX.jpg", "actors": [], "comments": [], "recommandations_id": []}

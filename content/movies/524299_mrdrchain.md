@@ -1,1 +1,0 @@
-{"tmdb_id": 524299, "title": "MRDRCHAIN", "original_title": "MRDRCHAIN", "slug_title": "mrdrchain", "date": "2010-05-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6tmTo7EFtVOFuqUE2EgdcCFYJbt.jpg", "actors": [], "comments": [], "recommandations_id": []}

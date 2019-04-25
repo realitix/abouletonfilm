@@ -1,1 +1,0 @@
-{"tmdb_id": 467554, "title": "Scarlatti K. 259", "original_title": "Scarlatti K. 259", "slug_title": "scarlatti-k-259", "date": "2016-07-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kIbiE1XB2zp0xf9WuFJQ05gyt9d.jpg", "actors": [], "comments": [], "recommandations_id": []}

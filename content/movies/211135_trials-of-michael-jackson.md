@@ -1,1 +1,0 @@
-{"tmdb_id": 211135, "title": "Trials of Michael Jackson", "original_title": "Trials of Michael Jackson", "slug_title": "trials-of-michael-jackson", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

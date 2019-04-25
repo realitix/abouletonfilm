@@ -1,1 +1,0 @@
-{"tmdb_id": 71372, "title": "Magnus Betn\u00e9r: Tal Till Nationen", "original_title": "Magnus Betn\u00e9r: Tal Till Nationen", "slug_title": "magnus-betner-tal-till-nationen", "date": "2009-09-23", "genre": "Com\u00e9die", "score": "6.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Magnus Betn\u00e9r (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 528483, "title": "Full Service Automation", "original_title": "Full Service Automation", "slug_title": "full-service-automation", "date": "1998-10-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/veA9iwhBCl3IHVX2a37cjmyVZS2.jpg", "actors": [], "comments": [], "recommandations_id": []}

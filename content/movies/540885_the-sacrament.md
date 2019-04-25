@@ -1,1 +1,0 @@
-{"tmdb_id": 540885, "title": "The Sacrament", "original_title": "The Sacrament", "slug_title": "the-sacrament", "date": "2018-07-15", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sara Ogawa ()", "Shun Yamamoto ()", "Minami Mio ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 511878, "title": "Get Lost", "original_title": "Get Lost", "slug_title": "get-lost", "date": "2018-03-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aKqZe5SpWkcCwN387gkg4Qmwl0M.jpg", "actors": ["Maxime Bouttier ()", "Agatha Valeria ()", "Angelica Simpeler ()"], "comments": [], "recommandations_id": []}

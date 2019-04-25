@@ -1,1 +1,0 @@
-{"tmdb_id": 403901, "title": "Sunshine in Soho", "original_title": "Sunshine in Soho", "slug_title": "sunshine-in-soho", "date": "1956-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

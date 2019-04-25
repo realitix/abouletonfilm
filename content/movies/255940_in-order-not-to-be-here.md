@@ -1,1 +1,0 @@
-{"tmdb_id": 255940, "title": "In Order Not to Be Here", "original_title": "In Order Not to Be Here", "slug_title": "in-order-not-to-be-here", "date": "2003-01-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mHfTiLlciE7ubNOncq8gyoOKcPU.jpg", "actors": [], "comments": [], "recommandations_id": []}

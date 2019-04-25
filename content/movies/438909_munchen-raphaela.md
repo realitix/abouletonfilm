@@ -1,1 +1,0 @@
-{"tmdb_id": 438909, "title": "M\u00fcnchen, Raphaela", "original_title": "M\u00fcnchen, Raphaela", "slug_title": "munchen-raphaela", "date": "2006-02-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pYvJLfzqrX7sERhT3IqxFNJNd3K.jpg", "actors": [], "comments": [], "recommandations_id": []}

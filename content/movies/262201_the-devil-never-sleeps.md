@@ -1,1 +1,0 @@
-{"tmdb_id": 262201, "title": "The Devil Never Sleeps", "original_title": "El diablo nunca duerme", "slug_title": "the-devil-never-sleeps", "date": "1994-09-13", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

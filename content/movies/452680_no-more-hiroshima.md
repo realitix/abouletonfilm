@@ -1,1 +1,0 @@
-{"tmdb_id": 452680, "title": "No More Hiroshima", "original_title": "No More Hiroshima", "slug_title": "no-more-hiroshima", "date": "1984-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uFdiGpQ01iFqkR5XCqjhwy55Lc5.jpg", "actors": [], "comments": [], "recommandations_id": []}

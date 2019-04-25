@@ -1,1 +1,0 @@
-{"tmdb_id": 463825, "title": "The Poet's Veil", "original_title": "The Poet's Veil", "slug_title": "the-poet-s-veil", "date": "1988-08-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

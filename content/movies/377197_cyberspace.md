@@ -1,1 +1,0 @@
-{"tmdb_id": 377197, "title": "Cyberspace", "original_title": "Cyberspace", "slug_title": "cyberspace", "date": "1995-01-01", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3Ptjv7EokvvASfYVivf3NUuI8jz.jpg", "actors": ["David Suzuki (Himself - Host)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 544620, "title": "The Satellite Maps of Paris", "original_title": "The Satellite Maps of Paris", "slug_title": "the-satellite-maps-of-paris", "date": "2012-08-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

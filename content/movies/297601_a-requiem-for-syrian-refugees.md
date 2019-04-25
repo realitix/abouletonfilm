@@ -1,1 +1,0 @@
-{"tmdb_id": 297601, "title": "A Requiem for Syrian Refugees", "original_title": "A Requiem for Syrian Refugees", "slug_title": "a-requiem-for-syrian-refugees", "date": "2014-10-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rXYeOhiVT7QML1Pkn4EDv8cUgT6.jpg", "actors": [], "comments": [], "recommandations_id": []}

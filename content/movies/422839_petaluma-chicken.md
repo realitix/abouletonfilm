@@ -1,1 +1,0 @@
-{"tmdb_id": 422839, "title": "Petaluma Chicken", "original_title": "Petaluma Chicken", "slug_title": "petaluma-chicken", "date": "1932-10-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

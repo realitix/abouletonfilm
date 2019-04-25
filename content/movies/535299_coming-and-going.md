@@ -1,1 +1,0 @@
-{"tmdb_id": 535299, "title": "Coming and Going", "original_title": "Coming and Going", "slug_title": "coming-and-going", "date": "2018-07-11", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iRcayZD7J1e5JYqOkCBYnEEu05y.jpg", "actors": [], "comments": [], "recommandations_id": []}

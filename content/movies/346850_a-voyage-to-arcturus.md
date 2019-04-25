@@ -1,1 +1,0 @@
-{"tmdb_id": 346850, "title": "A Voyage to Arcturus", "original_title": "A Voyage to Arcturus", "slug_title": "a-voyage-to-arcturus", "date": "1970-05-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

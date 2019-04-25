@@ -1,1 +1,0 @@
-{"tmdb_id": 276445, "title": "Maha Sati Savitri", "original_title": "Maha Sati Savitri", "slug_title": "maha-sati-savitri", "date": "1973-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

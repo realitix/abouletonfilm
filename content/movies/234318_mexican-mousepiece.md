@@ -1,1 +1,0 @@
-{"tmdb_id": 234318, "title": "Mexican Mousepiece", "original_title": "Mexican Mousepiece", "slug_title": "mexican-mousepiece", "date": "1966-02-25", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qKutl6t33GlCKNinpJrvCGt9iU2.jpg", "actors": [], "comments": [], "recommandations_id": []}

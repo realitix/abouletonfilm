@@ -1,1 +1,0 @@
-{"tmdb_id": 407762, "title": "The Cat Beast", "original_title": "Da Khwar Lasme Spogmay", "slug_title": "the-cat-beast", "date": "1997-06-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Shehnaz ()", "Kamran Liaqat ()", "Umar Daraz ()"], "comments": [], "recommandations_id": []}

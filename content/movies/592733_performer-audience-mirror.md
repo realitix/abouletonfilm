@@ -1,1 +1,0 @@
-{"tmdb_id": 592733, "title": "Performer/Audience/Mirror", "original_title": "Performer/Audience/Mirror", "slug_title": "performer-audience-mirror", "date": "1975-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qiBlQP9IzxM1qWGtecYm5YQLLEX.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 289031, "title": "Luk'Luk'I: Mother", "original_title": "Luk'Luk'I: Mother", "slug_title": "luk-luk-i-mother", "date": "2014-09-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lilianna Lagreca (Star)", "Eric Buurman (Eric)", "Angel Gates (Stoney)"], "comments": [], "recommandations_id": []}

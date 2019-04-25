@@ -1,1 +1,0 @@
-{"tmdb_id": 534059, "title": "Le roi de Paris", "original_title": "Le roi de Paris", "slug_title": "le-roi-de-paris", "date": "1995-01-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ljSI7pDxr9Ld0nhJXE6wDOuIZ9O.jpg", "actors": [], "comments": [], "recommandations_id": []}

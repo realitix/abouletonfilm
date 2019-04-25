@@ -1,1 +1,0 @@
-{"tmdb_id": 422555, "title": "The Law of the Jungle", "original_title": "La loi du plus fort", "slug_title": "the-law-of-the-jungle", "date": "2015-04-11", "genre": "Familial / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/71SBGWPcRzDHr65yj7poIWB8gsZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

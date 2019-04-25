@@ -1,1 +1,0 @@
-{"tmdb_id": 389281, "title": "Mona's Candle Light", "original_title": "Mona's Candle Light", "slug_title": "mona-s-candle-light", "date": "1950-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/13fwewEEqy0iQswBeB7ZCFuAUOo.jpg", "actors": [], "comments": [], "recommandations_id": []}

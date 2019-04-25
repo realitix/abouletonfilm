@@ -1,1 +1,0 @@
-{"tmdb_id": 469472, "title": "Midnight Soul Road", "original_title": "\u5348\u591c\u60ca\u9b42\u8def", "slug_title": "midnight-soul-road", "date": "2017-04-28", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ep8zESjysx28ORgCwuhmpCvQfJz.jpg", "actors": [], "comments": [], "recommandations_id": []}

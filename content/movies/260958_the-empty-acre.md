@@ -1,1 +1,0 @@
-{"tmdb_id": 260958, "title": "The Empty Acre", "original_title": "The Empty Acre", "slug_title": "the-empty-acre", "date": "2007-08-14", "genre": "Horreur / Drame", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eXyMRCLZBdI3wsySZ8v16XUbI3j.jpg", "actors": [], "comments": [], "recommandations_id": []}

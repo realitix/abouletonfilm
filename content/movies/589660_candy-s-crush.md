@@ -1,1 +1,0 @@
-{"tmdb_id": 589660, "title": "Candy's Crush", "original_title": "Candy's Crush", "slug_title": "candy-s-crush", "date": "2019-03-19", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

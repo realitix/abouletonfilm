@@ -1,1 +1,0 @@
-{"tmdb_id": 349239, "title": "Mr. Condom", "original_title": "\ubbf8\uc2a4\ud130 \ucf58\ub3d4", "slug_title": "mr-condom", "date": "1997-03-01", "genre": "Romance / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cluD099NXYwSB3szqnZirrrVIl2.jpg", "actors": [], "comments": [], "recommandations_id": []}

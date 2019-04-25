@@ -1,1 +1,1 @@
-{"tmdb_id": 418347, "title": "Paper Circus", "original_title": "Paper Circus", "slug_title": "paper-circus", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 418347, "title": "Paper Circus", "original_title": "Paper Circus", "slug_title": "paper-circus", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

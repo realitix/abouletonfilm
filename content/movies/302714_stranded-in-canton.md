@@ -1,1 +1,0 @@
-{"tmdb_id": 302714, "title": "Stranded in Canton", "original_title": "Stranded in Canton", "slug_title": "stranded-in-canton", "date": "2014-11-07", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3xmBbFp5YmQlT01UjPnAkRZ6WLO.jpg", "actors": [], "comments": [], "recommandations_id": []}

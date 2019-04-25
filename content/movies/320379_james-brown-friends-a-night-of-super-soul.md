@@ -1,1 +1,0 @@
-{"tmdb_id": 320379, "title": "James Brown & Friends: A Night of Super Soul", "original_title": "James Brown & Friends: A Night of Super Soul", "slug_title": "james-brown-friends-a-night-of-super-soul", "date": "1987-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

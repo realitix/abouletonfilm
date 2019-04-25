@@ -1,1 +1,0 @@
-{"tmdb_id": 477275, "title": "Koparan Karde\u015fler Ltd. \u015eti.", "original_title": "Koparan Karde\u015fler Ltd. \u015eti.", "slug_title": "koparan-kardesler-ltd-sti", "date": "2017-10-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

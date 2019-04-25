@@ -1,1 +1,0 @@
-{"tmdb_id": 104248, "title": "Emerica - This Is Skateboarding", "original_title": "Emerica - This Is Skateboarding", "slug_title": "emerica-this-is-skateboarding", "date": "2003-08-03", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/95ZdYSXD3bciYwB4RFk4VE6oLjS.jpg", "actors": [], "comments": [], "recommandations_id": []}

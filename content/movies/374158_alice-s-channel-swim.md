@@ -1,1 +1,0 @@
-{"tmdb_id": 374158, "title": "Alice's Channel Swim", "original_title": "Alice's Channel Swim", "slug_title": "alice-s-channel-swim", "date": "1927-06-12", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lois Hardwick (Alice)"], "comments": [], "recommandations_id": []}

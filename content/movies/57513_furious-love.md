@@ -1,1 +1,0 @@
-{"tmdb_id": 57513, "title": "Furious Love", "original_title": "Furious Love", "slug_title": "furious-love", "date": "2010-06-01", "genre": "Documentaire", "score": "6.6/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ybnZ0f04kYkstDuXQVq2MYfd0N.jpg", "actors": [], "comments": [], "recommandations_id": []}

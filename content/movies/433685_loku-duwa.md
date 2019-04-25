@@ -1,1 +1,0 @@
-{"tmdb_id": 433685, "title": "Loku Duwa", "original_title": "Loku Duwa", "slug_title": "loku-duwa", "date": "1994-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A7FeKhTGWM5YGaue5aotTWQR33k.jpg", "actors": ["Geetha Kumarasinghe ()"], "comments": [], "recommandations_id": []}

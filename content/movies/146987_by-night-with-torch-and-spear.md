@@ -1,1 +1,0 @@
-{"tmdb_id": 146987, "title": "By Night with Torch and Spear", "original_title": "By Night with Torch and Spear", "slug_title": "by-night-with-torch-and-spear", "date": "1942-12-31", "genre": "", "score": "6.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [203093, 190081, 199826, 145283]}

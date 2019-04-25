@@ -1,1 +1,0 @@
-{"tmdb_id": 236290, "title": "The Good Egg", "original_title": "The Good Egg", "slug_title": "the-good-egg", "date": "1939-10-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1tOaz04Nusrj0F6v0oWgq59KT9g.jpg", "actors": [], "comments": [], "recommandations_id": []}

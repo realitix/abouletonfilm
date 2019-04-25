@@ -1,1 +1,0 @@
-{"tmdb_id": 286278, "title": "Riku no ningyo", "original_title": "Riku no ningyo", "slug_title": "riku-no-ningyo", "date": "1926-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Komako Sunada ()", "Kanichi Tani ()", "Mineko Tsuji ()"], "comments": [], "recommandations_id": []}

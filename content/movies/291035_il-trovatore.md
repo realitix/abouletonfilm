@@ -1,1 +1,0 @@
-{"tmdb_id": 291035, "title": "Il trovatore", "original_title": "Il trovatore", "slug_title": "il-trovatore", "date": "1911-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

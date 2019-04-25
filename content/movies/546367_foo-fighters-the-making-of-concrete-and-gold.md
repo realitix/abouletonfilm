@@ -1,1 +1,0 @@
-{"tmdb_id": 546367, "title": "Foo Fighters: The Making of Concrete and Gold", "original_title": "Foo Fighters: The Making of Concrete and Gold", "slug_title": "foo-fighters-the-making-of-concrete-and-gold", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

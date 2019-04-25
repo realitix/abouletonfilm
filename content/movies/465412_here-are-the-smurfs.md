@@ -1,1 +1,0 @@
-{"tmdb_id": 465412, "title": "Here Are the Smurfs", "original_title": "Here Are the Smurfs", "slug_title": "here-are-the-smurfs", "date": "1984-03-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

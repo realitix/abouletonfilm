@@ -1,1 +1,0 @@
-{"tmdb_id": 339209, "title": "Hating Obama", "original_title": "Hating Obama", "slug_title": "hating-obama", "date": "2014-09-19", "genre": "Documentaire", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8SmoGrD929OQWjJizxNVvPs2IP2.jpg", "actors": [], "comments": [], "recommandations_id": []}

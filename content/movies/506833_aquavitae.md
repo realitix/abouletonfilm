@@ -1,1 +1,0 @@
-{"tmdb_id": 506833, "title": "Aquavitae", "original_title": "Aquavitae", "slug_title": "aquavitae", "date": "1994-02-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 311303, "title": "Super Hero Squad Show: The Infinity Gauntlet: Vol. 2", "original_title": "Super Hero Squad Show: The Infinity Gauntlet: Vol. 2", "slug_title": "super-hero-squad-show-the-infinity-gauntlet-vol-2", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

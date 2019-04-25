@@ -1,1 +1,0 @@
-{"tmdb_id": 491345, "title": "On the Edge of Freedom", "original_title": "On the Edge of Freedom", "slug_title": "on-the-edge-of-freedom", "date": "2018-12-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m6M6MV9ndcBvkDTA5f3qwmcG9A4.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 114468, "title": "The World Is Rich", "original_title": "The World Is Rich", "slug_title": "the-world-is-rich", "date": "1947-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

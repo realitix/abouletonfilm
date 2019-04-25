@@ -1,1 +1,0 @@
-{"tmdb_id": 317548, "title": "Willie Nile: Live from the Streets of New York", "original_title": "Willie Nile: Live from the Streets of New York", "slug_title": "willie-nile-live-from-the-streets-of-new-york", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

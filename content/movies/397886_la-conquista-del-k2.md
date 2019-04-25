@@ -1,1 +1,0 @@
-{"tmdb_id": 397886, "title": "La Conquista del K2", "original_title": "La Conquista del K2", "slug_title": "la-conquista-del-k2", "date": "2004-05-17", "genre": "Aventure / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/moxe0V9n5HONw9jtDIGEoj00CKz.jpg", "actors": [], "comments": [], "recommandations_id": []}

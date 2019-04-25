@@ -1,1 +1,0 @@
-{"tmdb_id": 182710, "title": "A Child's Battle", "original_title": "Bas les c\u0153urs", "slug_title": "a-child-s-battle", "date": "2011-05-23", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hekYcx8ZcevKD3s22UV0zzLkeZV.jpg", "actors": ["J\u00e9r\u00e9mie Duvall (Jean Barbier)"], "comments": [], "recommandations_id": []}

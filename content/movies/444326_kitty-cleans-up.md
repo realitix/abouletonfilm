@@ -1,1 +1,0 @@
-{"tmdb_id": 444326, "title": "Kitty Cleans Up", "original_title": "Kitty Cleans Up", "slug_title": "kitty-cleans-up", "date": "1949-01-01", "genre": "Familial", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bIv9pz7Zs1S1c6uH2NIOBFtnKzI.jpg", "actors": ["Kitty (Himself)"], "comments": [], "recommandations_id": []}

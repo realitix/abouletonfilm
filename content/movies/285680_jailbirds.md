@@ -1,1 +1,0 @@
-{"tmdb_id": 285680, "title": "Jailbirds", "original_title": "Avanzi di galera", "slug_title": "jailbirds", "date": "1955-08-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dPjldzHTH7XAb3qftj3pIb8tFr8.jpg", "actors": ["Richard Basehart ()", "Eddie Constantine ()"], "comments": [], "recommandations_id": []}

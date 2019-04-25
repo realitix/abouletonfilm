@@ -1,1 +1,0 @@
-{"tmdb_id": 524645, "title": "La follia della rivoluzione", "original_title": "La follia della rivoluzione", "slug_title": "la-follia-della-rivoluzione", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

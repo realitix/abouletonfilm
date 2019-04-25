@@ -1,1 +1,0 @@
-{"tmdb_id": 325502, "title": "How About Love", "original_title": "How About Love", "slug_title": "how-about-love", "date": "2010-08-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/icrZewqN60godB0v7x2MJV7GLpF.jpg", "actors": [], "comments": [], "recommandations_id": []}

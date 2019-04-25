@@ -1,1 +1,0 @@
-{"tmdb_id": 450115, "title": "Life Is a Runway", "original_title": "Life Is a Runway", "slug_title": "life-is-a-runway", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

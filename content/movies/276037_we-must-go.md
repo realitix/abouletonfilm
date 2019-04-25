@@ -1,1 +1,0 @@
-{"tmdb_id": 276037, "title": "We Must Go", "original_title": "We Must Go", "slug_title": "we-must-go", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

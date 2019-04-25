@@ -1,1 +1,0 @@
-{"tmdb_id": 329532, "title": "Look for the Woman", "original_title": "\u0641\u062a\u0634 \u0639\u0646 \u0627\u0644\u0645\u0631\u0623\u0629", "slug_title": "look-for-the-woman", "date": "1939-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Assia Dagher ()", "Mohsen Sarhan ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 464581, "title": "Hot to Trot", "original_title": "Hot to Trot", "slug_title": "hot-to-trot", "date": "1977-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vN9RO4MrKkDV45UghoGl83adcCZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

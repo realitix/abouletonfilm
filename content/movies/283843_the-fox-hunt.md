@@ -1,1 +1,0 @@
-{"tmdb_id": 283843, "title": "The Fox Hunt", "original_title": "The Fox Hunt", "slug_title": "the-fox-hunt", "date": "1936-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rFDPldiufq2ZJ83TgRevlssyc3C.jpg", "actors": [], "comments": [], "recommandations_id": []}

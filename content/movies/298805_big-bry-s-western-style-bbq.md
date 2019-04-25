@@ -1,1 +1,0 @@
-{"tmdb_id": 298805, "title": "Big Bry's Western Style BBQ", "original_title": "Big Bry's Western Style BBQ", "slug_title": "big-bry-s-western-style-bbq", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

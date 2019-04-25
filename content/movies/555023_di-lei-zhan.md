@@ -1,1 +1,0 @@
-{"tmdb_id": 555023, "title": "Di lei zhan", "original_title": "Di lei zhan", "slug_title": "di-lei-zhan", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

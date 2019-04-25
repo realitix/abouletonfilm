@@ -1,1 +1,0 @@
-{"tmdb_id": 574216, "title": "YouShoot: Jamie  Dundee", "original_title": "YouShoot: Jamie  Dundee", "slug_title": "youshoot-jamie-dundee", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sean Oliver (Himself)", "Jamie Dundee (Himself)"], "comments": [], "recommandations_id": []}

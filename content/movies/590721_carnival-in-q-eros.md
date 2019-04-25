@@ -1,1 +1,0 @@
-{"tmdb_id": 590721, "title": "Carnival in Q'eros", "original_title": "Carnival in Q'eros", "slug_title": "carnival-in-q-eros", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 320058, "title": "Africaine", "original_title": "Africaine", "slug_title": "africaine", "date": "2014-04-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fCozRcfrdLiJDhfle1sSJtSovJS.jpg", "actors": [], "comments": [], "recommandations_id": []}

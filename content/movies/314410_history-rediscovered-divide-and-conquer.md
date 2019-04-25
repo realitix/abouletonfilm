@@ -1,1 +1,0 @@
-{"tmdb_id": 314410, "title": "History Rediscovered: Divide and Conquer", "original_title": "History Rediscovered: Divide and Conquer", "slug_title": "history-rediscovered-divide-and-conquer", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

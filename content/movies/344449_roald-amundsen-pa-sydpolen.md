@@ -1,1 +1,0 @@
-{"tmdb_id": 344449, "title": "Roald Amundsen p\u00e5 sydpolen", "original_title": "Roald Amundsen p\u00e5 sydpolen", "slug_title": "roald-amundsen-pa-sydpolen", "date": "1913-06-12", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

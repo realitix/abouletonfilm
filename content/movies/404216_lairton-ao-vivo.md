@@ -1,1 +1,0 @@
-{"tmdb_id": 404216, "title": "Lairton - Ao Vivo", "original_title": "Lairton - Ao Vivo", "slug_title": "lairton-ao-vivo", "date": "2008-06-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3XI3iS7XjO5EkIjrMSCebJli8Uc.jpg", "actors": [], "comments": [], "recommandations_id": []}

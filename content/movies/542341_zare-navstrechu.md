@@ -1,1 +1,0 @@
-{"tmdb_id": 542341, "title": "Zare navstrechu", "original_title": "Zare navstrechu", "slug_title": "zare-navstrechu", "date": "1959-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eN6jGBzoeJF2TCwVP5fIQTcbjXa.jpg", "actors": [], "comments": [], "recommandations_id": []}

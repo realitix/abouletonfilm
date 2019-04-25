@@ -1,1 +1,0 @@
-{"tmdb_id": 351358, "title": "Felix the Fox", "original_title": "Felix the Fox", "slug_title": "felix-the-fox", "date": "1948-03-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dayton Allen (Dimwit / Felix the Fox (voice))"], "comments": [], "recommandations_id": []}

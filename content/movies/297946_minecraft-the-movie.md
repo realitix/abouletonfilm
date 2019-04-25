@@ -1,1 +1,0 @@
-{"tmdb_id": 297946, "title": "Minecraft: The Movie", "original_title": "Minecraft: The Movie", "slug_title": "minecraft-the-movie", "date": "2019-05-24", "genre": "Action / Aventure", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pGwVYYYVbA6ETll9wcIvaRQ40Iz.jpg", "actors": [], "comments": [], "recommandations_id": []}

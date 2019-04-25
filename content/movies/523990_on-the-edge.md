@@ -1,1 +1,0 @@
-{"tmdb_id": 523990, "title": "On the Edge", "original_title": "\u041d\u0430 \u043a\u0440\u0430\u044e", "slug_title": "on-the-edge", "date": "2014-12-09", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

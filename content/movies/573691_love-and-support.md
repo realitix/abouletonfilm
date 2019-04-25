@@ -1,1 +1,0 @@
-{"tmdb_id": 573691, "title": "Love and Support", "original_title": "Love and Support", "slug_title": "love-and-support", "date": "", "genre": "", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 587713, "title": "Sannari", "original_title": "\uc0b0\ub098\ub9ac", "slug_title": "sannari", "date": "2018-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6tm9OQwvN4BbG8QFJflu8sSIRFM.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 344293, "title": "Standing Pat", "original_title": "Standing Pat", "slug_title": "standing-pat", "date": "1928-07-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hilliard Karr ()", "'Kewpie' Ross ()", "Frank Alexander ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 328570, "title": "Line Describing a Cone 2.0", "original_title": "Line Describing a Cone 2.0", "slug_title": "line-describing-a-cone-2-0", "date": "2011-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k1rssfLHWjDlecXaxaMYLxbmrNh.jpg", "actors": [], "comments": [], "recommandations_id": []}

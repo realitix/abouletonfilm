@@ -1,1 +1,0 @@
-{"tmdb_id": 318738, "title": "Bigger Questions: The Nature of Reality", "original_title": "Bigger Questions: The Nature of Reality", "slug_title": "bigger-questions-the-nature-of-reality", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

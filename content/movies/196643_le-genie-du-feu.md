@@ -1,1 +1,0 @@
-{"tmdb_id": 196643, "title": "Le G\u00e9nie du feu", "original_title": "Le G\u00e9nie du feu", "slug_title": "le-genie-du-feu", "date": "1908-05-24", "genre": "", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2ngnUQX9Abkesfq72uvBF3uj4Es.jpg", "actors": [], "comments": [], "recommandations_id": [196616, 270140, 119948, 44335]}

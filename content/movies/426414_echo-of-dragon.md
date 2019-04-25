@@ -1,1 +1,0 @@
-{"tmdb_id": 426414, "title": "Echo of Dragon", "original_title": "\uc6a9\ubb38", "slug_title": "echo-of-dragon", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7OQLGdIAHMhwX83xTx5fcLqXl29.jpg", "actors": ["Kwan-Jae Ko ()", "Kim Mi-sun ()", "Nemo Kim ()"], "comments": [], "recommandations_id": []}

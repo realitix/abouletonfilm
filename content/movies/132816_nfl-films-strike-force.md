@@ -1,1 +1,0 @@
-{"tmdb_id": 132816, "title": "NFL Films - Strike Force", "original_title": "NFL Films - Strike Force", "slug_title": "nfl-films-strike-force", "date": "1989-01-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u2ubXZzBY8ssxezSw3CpcVZ7U4C.jpg", "actors": [], "comments": [], "recommandations_id": []}

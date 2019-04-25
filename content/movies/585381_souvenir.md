@@ -1,1 +1,0 @@
-{"tmdb_id": 585381, "title": "Souvenir", "original_title": "Souvenir", "slug_title": "souvenir", "date": "2019-03-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Paulina Gaita\u0301n ()", "Marco P\u00e9rez ()", "Yuriria del Valle ()", "Roberto Sosa ()", "Flavio Medina ()"], "comments": [], "recommandations_id": []}

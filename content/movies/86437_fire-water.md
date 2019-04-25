@@ -1,1 +1,0 @@
-{"tmdb_id": 86437, "title": "Fire Water", "original_title": "Fire Water", "slug_title": "fire-water", "date": "2011-02-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ybhpyqqwLhosoDQlbnfIArVBqEA.jpg", "actors": [], "comments": [], "recommandations_id": []}

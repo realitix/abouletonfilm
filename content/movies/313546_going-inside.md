@@ -1,1 +1,0 @@
-{"tmdb_id": 313546, "title": "Going Inside", "original_title": "Going Inside", "slug_title": "going-inside", "date": "2001-01-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aYYVbw9jeDUo5jIse6wOzrGkVzL.jpg", "actors": ["John Frusciante (Himself)"], "comments": [], "recommandations_id": []}

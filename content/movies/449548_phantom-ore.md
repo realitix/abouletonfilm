@@ -1,1 +1,0 @@
-{"tmdb_id": 449548, "title": "Phantom Ore", "original_title": "Phantom Ore", "slug_title": "phantom-ore", "date": "2012-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/82Mx6OWOI2Dl7TS0H1gTNCanRrZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

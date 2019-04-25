@@ -1,1 +1,0 @@
-{"tmdb_id": 327113, "title": "The Words of the Excluded", "original_title": "The Words of the Excluded", "slug_title": "the-words-of-the-excluded", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 71148, "title": "The Trade", "original_title": "The Trade", "slug_title": "the-trade", "date": "2003-01-01", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u17o99ulStJcXORzHje9z8E94a5.jpg", "actors": [], "comments": [], "recommandations_id": []}

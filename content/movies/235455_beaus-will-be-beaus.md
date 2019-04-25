@@ -1,1 +1,0 @@
-{"tmdb_id": 235455, "title": "Beaus Will Be Beaus", "original_title": "Beaus Will Be Beaus", "slug_title": "beaus-will-be-beaus", "date": "1955-05-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

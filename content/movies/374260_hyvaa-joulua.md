@@ -1,1 +1,0 @@
-{"tmdb_id": 374260, "title": "Hyv\u00e4\u00e4 joulua", "original_title": "Hyv\u00e4\u00e4 joulua", "slug_title": "hyvaa-joulua", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 339394, "title": "Un Jeune Patriote", "original_title": "A Young Patriot", "slug_title": "un-jeune-patriote", "date": "2015-01-01", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/563w33ogKIQRMeYLnFhjjAeZ1gC.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 586770, "title": "Worlds of Ursela K. Le Guin", "original_title": "Worlds of Ursela K. Le Guin", "slug_title": "worlds-of-ursela-k-le-guin", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

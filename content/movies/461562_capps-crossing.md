@@ -1,1 +1,0 @@
-{"tmdb_id": 461562, "title": "Capps Crossing", "original_title": "Capps Crossing", "slug_title": "capps-crossing", "date": "2017-06-09", "genre": "", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6f5Cut0KgX0cCcn8DqLNhPxWz8D.jpg", "actors": [], "comments": [], "recommandations_id": []}

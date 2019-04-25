@@ -1,1 +1,0 @@
-{"tmdb_id": 481470, "title": "Vietnam: The Last Battle", "original_title": "Vietnam: The Last Battle", "slug_title": "vietnam-the-last-battle", "date": "1975-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gOXk5sWA8mWdY8KysVfbzmV8yed.jpg", "actors": [], "comments": [], "recommandations_id": []}

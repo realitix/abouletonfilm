@@ -1,1 +1,0 @@
-{"tmdb_id": 537986, "title": "Bleeding and Burning", "original_title": "Bleeding and Burning", "slug_title": "bleeding-and-burning", "date": "2018-07-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

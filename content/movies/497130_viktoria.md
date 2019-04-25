@@ -1,1 +1,0 @@
-{"tmdb_id": 497130, "title": "Viktoria", "original_title": "Viktoria", "slug_title": "viktoria", "date": "1935-11-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

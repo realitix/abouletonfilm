@@ -1,1 +1,0 @@
-{"tmdb_id": 329212, "title": "My Daily Routine", "original_title": "My Daily Routine", "slug_title": "my-daily-routine", "date": "2011-02-14", "genre": "Animation / Documentaire", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9w8phCHmNU3EXp4KxVaEcSyzYWH.jpg", "actors": [], "comments": [], "recommandations_id": []}

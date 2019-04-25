@@ -1,1 +1,0 @@
-{"tmdb_id": 185442, "title": "A Narrow Escape", "original_title": "Le m\u00e9decin du ch\u00e2teau", "slug_title": "a-narrow-escape", "date": "1908-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wi8sxMp2kDVnleYl3o71NIDPh7q.jpg", "actors": [], "comments": [], "recommandations_id": []}

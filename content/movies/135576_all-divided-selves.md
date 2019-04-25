@@ -1,1 +1,0 @@
-{"tmdb_id": 135576, "title": "All Divided Selves", "original_title": "All Divided Selves", "slug_title": "all-divided-selves", "date": "2012-03-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3wKWwBXiOkgumaWi7Y6Y2cXjiwu.jpg", "actors": ["R.D. Laing ()"], "comments": [], "recommandations_id": []}

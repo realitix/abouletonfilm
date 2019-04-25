@@ -1,1 +1,0 @@
-{"tmdb_id": 386502, "title": "Fox Tale", "original_title": "Fox Tale", "slug_title": "fox-tale", "date": "2015-05-08", "genre": "Familial / Animation / Com\u00e9die", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5NV7RsjklEJpcCwPvVA2ym9BQBV.jpg", "actors": [], "comments": [], "recommandations_id": []}

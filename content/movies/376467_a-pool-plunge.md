@@ -1,1 +1,0 @@
-{"tmdb_id": 376467, "title": "A Pool Plunge", "original_title": "A Pool Plunge", "slug_title": "a-pool-plunge", "date": "1923-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 109893, "title": "Land of the Long White Cloud", "original_title": "Land of the Long White Cloud", "slug_title": "land-of-the-long-white-cloud", "date": "2011-01-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/irRKxfjAwVaKaFHsweSQhC3RMwo.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 553656, "title": "Stalin's Sickle", "original_title": "Stalin's Sickle", "slug_title": "stalin-s-sickle", "date": "1987-07-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mXAFuAa2sWK7dZw0WVD1X4JJ7GX.jpg", "actors": [], "comments": [], "recommandations_id": []}

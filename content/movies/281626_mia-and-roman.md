@@ -1,1 +1,0 @@
-{"tmdb_id": 281626, "title": "Mia and Roman", "original_title": "Mia and Roman", "slug_title": "mia-and-roman", "date": "1968-07-09", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Roman Polanski (Himself)", "Mia Farrow (Herself)", "Sharon Tate (Herself)"], "comments": [], "recommandations_id": []}

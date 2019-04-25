@@ -1,1 +1,0 @@
-{"tmdb_id": 596581, "title": "Chad Smith: Red Hot Rhythm Method", "original_title": "Chad Smith: Red Hot Rhythm Method", "slug_title": "chad-smith-red-hot-rhythm-method", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ap3ur5daGgJ2Cjo1oj90FX5cpJ2.jpg", "actors": [], "comments": [], "recommandations_id": []}

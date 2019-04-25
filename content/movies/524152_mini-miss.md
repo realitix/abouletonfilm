@@ -1,1 +1,0 @@
-{"tmdb_id": 524152, "title": "Mini Miss", "original_title": "Mini Miss", "slug_title": "mini-miss", "date": "2017-05-09", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mVT9jYkLwdF0eEPwK7vJ7G6mqbx.jpg", "actors": [], "comments": [], "recommandations_id": []}

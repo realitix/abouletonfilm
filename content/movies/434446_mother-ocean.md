@@ -1,1 +1,0 @@
-{"tmdb_id": 434446, "title": "Mother Ocean", "original_title": "The Journey: M\u00e8re Oc\u00e9an", "slug_title": "mother-ocean", "date": "2016-05-29", "genre": "Documentaire", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iJn8cCgtYXmd45pAuSTtQwAyrVe.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 344452, "title": "Mountains of the Wolf", "original_title": "Las monta\u00f1as del lobo", "slug_title": "mountains-of-the-wolf", "date": "2003-06-12", "genre": "Documentaire", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zbIQm0zP2zEgGD0uX8YUiKGI3do.jpg", "actors": [], "comments": [], "recommandations_id": []}

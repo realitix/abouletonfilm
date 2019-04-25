@@ -1,1 +1,0 @@
-{"tmdb_id": 287425, "title": "Buy Bling, Get One Free", "original_title": "\u30b7\u30e3\u30ec\u756a\u5916\u5730", "slug_title": "buy-bling-get-one-free", "date": "2014-06-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b4z3HFy7X3BilwD5pnfnRcOAOsG.jpg", "actors": [], "comments": [], "recommandations_id": []}

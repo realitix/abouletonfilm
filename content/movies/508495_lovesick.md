@@ -1,1 +1,0 @@
-{"tmdb_id": 508495, "title": "Lovesick", "original_title": "Lovesick", "slug_title": "lovesick", "date": "2017-06-26", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

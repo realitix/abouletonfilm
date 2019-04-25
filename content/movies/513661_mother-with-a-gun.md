@@ -1,1 +1,0 @@
-{"tmdb_id": 513661, "title": "Mother With A Gun", "original_title": "Mother With A Gun", "slug_title": "mother-with-a-gun", "date": "2016-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4Pp0uvRYwosYGmgNz7v5HNkpukC.jpg", "actors": [], "comments": [], "recommandations_id": []}

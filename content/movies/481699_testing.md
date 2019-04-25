@@ -1,1 +1,0 @@
-{"tmdb_id": 481699, "title": "Testing", "original_title": "Testing", "slug_title": "testing", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gNauEV30KDkYPghpeypdGjPF9Wm.jpg", "actors": ["Andrew Lopez (Subject)"], "comments": [], "recommandations_id": []}

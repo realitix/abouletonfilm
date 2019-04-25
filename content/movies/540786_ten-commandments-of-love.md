@@ -1,1 +1,0 @@
-{"tmdb_id": 540786, "title": "Ten Commandments of Love", "original_title": "Ten Commandments of Love", "slug_title": "ten-commandments-of-love", "date": "1979-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

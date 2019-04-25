@@ -1,1 +1,0 @@
-{"tmdb_id": 579024, "title": "A Million Years", "original_title": "Muoy lean chhnam", "slug_title": "a-million-years", "date": "2018-10-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9vzgQyIWwAsC8SycAyOmjR6DW5N.jpg", "actors": [], "comments": [], "recommandations_id": []}

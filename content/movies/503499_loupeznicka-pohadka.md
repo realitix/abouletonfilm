@@ -1,1 +1,0 @@
-{"tmdb_id": 503499, "title": "Loupe\u017enick\u00e1 poh\u00e1dka", "original_title": "Loupe\u017enick\u00e1 poh\u00e1dka", "slug_title": "loupeznicka-pohadka", "date": "1980-02-06", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

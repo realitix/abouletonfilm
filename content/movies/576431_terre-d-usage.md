@@ -1,1 +1,0 @@
-{"tmdb_id": 576431, "title": "Terre d'usage", "original_title": "Terre d'usage", "slug_title": "terre-d-usage", "date": "2010-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/epSTZsXJgyud5sS1T9eSSOUJO5O.jpg", "actors": [], "comments": [], "recommandations_id": []}

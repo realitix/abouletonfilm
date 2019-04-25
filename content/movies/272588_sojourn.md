@@ -1,1 +1,0 @@
-{"tmdb_id": 272588, "title": "Sojourn", "original_title": "Sojourn", "slug_title": "sojourn", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

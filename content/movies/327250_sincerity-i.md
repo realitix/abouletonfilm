@@ -1,1 +1,0 @@
-{"tmdb_id": 327250, "title": "Sincerity I", "original_title": "Sincerity I", "slug_title": "sincerity-i", "date": "1973-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5DWIbwIUEi2kR0XE07utAEFNWFE.jpg", "actors": [], "comments": [], "recommandations_id": []}

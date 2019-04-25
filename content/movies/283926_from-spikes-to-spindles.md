@@ -1,1 +1,0 @@
-{"tmdb_id": 283926, "title": "From Spikes to Spindles", "original_title": "From Spikes to Spindles", "slug_title": "from-spikes-to-spindles", "date": "1976-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 493627, "title": "E3: La Pel\u00edcula", "original_title": "E3: La Pel\u00edcula", "slug_title": "e3-la-pelicula", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qKDMVwWRE5xzZBAV1ud7Af4t9sI.jpg", "actors": [], "comments": [], "recommandations_id": []}

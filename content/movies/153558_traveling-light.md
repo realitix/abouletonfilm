@@ -1,1 +1,0 @@
-{"tmdb_id": 153558, "title": "Traveling Light", "original_title": "Traveling Light", "slug_title": "traveling-light", "date": "2012-05-20", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vm16aJpSxpH2l6CpjzpX1pJWaps.jpg", "actors": [], "comments": [], "recommandations_id": []}

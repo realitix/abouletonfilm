@@ -1,1 +1,1 @@
-{"tmdb_id": 560091, "title": "Terror de culto", "original_title": "Terror de culto", "slug_title": "terror-de-culto", "date": "", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 560091, "title": "Terror de culto", "original_title": "Terror de culto", "slug_title": "terror-de-culto", "date": "", "genre": ["Horreur"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

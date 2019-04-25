@@ -1,1 +1,0 @@
-{"tmdb_id": 511145, "title": "Lining the Blues", "original_title": "Lining the Blues", "slug_title": "lining-the-blues", "date": "1939-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 273537, "title": "The Innocent", "original_title": "The Innocent", "slug_title": "the-innocent", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 393186, "title": "Drugs: A River of No Return", "original_title": "Drugs: A River of No Return", "slug_title": "drugs-a-river-of-no-return", "date": "1986-04-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vmaXlobpB1xOL8XgCRenjtNNTAp.jpg", "actors": [], "comments": [], "recommandations_id": []}

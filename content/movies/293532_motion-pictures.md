@@ -1,1 +1,0 @@
-{"tmdb_id": 293532, "title": "Motion Pictures", "original_title": "Motion Pictures", "slug_title": "motion-pictures", "date": "1956-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hO0TFT8taew4gW6drNmUx7iUBsN.jpg", "actors": [], "comments": [], "recommandations_id": []}

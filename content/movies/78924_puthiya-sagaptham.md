@@ -1,1 +1,0 @@
-{"tmdb_id": 78924, "title": "Puthiya Sagaptham", "original_title": "Puthiya Sagaptham", "slug_title": "puthiya-sagaptham", "date": "1985-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Vijayakanth ()", "Ambika ()", "Visu ()"], "comments": [], "recommandations_id": []}

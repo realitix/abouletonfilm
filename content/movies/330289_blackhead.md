@@ -1,1 +1,0 @@
-{"tmdb_id": 330289, "title": "Blackhead", "original_title": "Blackhead", "slug_title": "blackhead", "date": "2009-03-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

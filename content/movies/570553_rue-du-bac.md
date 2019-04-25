@@ -1,1 +1,0 @@
-{"tmdb_id": 570553, "title": "Rue du Bac", "original_title": "Rue du Bac", "slug_title": "rue-du-bac", "date": "1991-03-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j5F1vruJQq3ZyGnJIpBc20aZzvl.jpg", "actors": [], "comments": [], "recommandations_id": []}

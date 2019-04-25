@@ -1,1 +1,0 @@
-{"tmdb_id": 274076, "title": "Mind Game", "original_title": "Mind Game", "slug_title": "mind-game", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

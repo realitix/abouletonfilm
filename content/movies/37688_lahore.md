@@ -1,1 +1,0 @@
-{"tmdb_id": 37688, "title": "Lahore", "original_title": "Lahore", "slug_title": "lahore", "date": "2010-03-19", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uRKHglLbA1uRp8sjb5KiStb1ldV.jpg", "actors": [], "comments": [], "recommandations_id": []}

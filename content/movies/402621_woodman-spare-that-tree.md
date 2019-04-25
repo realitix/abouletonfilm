@@ -1,1 +1,0 @@
-{"tmdb_id": 402621, "title": "Woodman, Spare That Tree", "original_title": "Woodman, Spare That Tree", "slug_title": "woodman-spare-that-tree", "date": "1950-12-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

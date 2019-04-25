@@ -1,1 +1,0 @@
-{"tmdb_id": 511584, "title": "Deyzangeroo", "original_title": "Deyzangeroo", "slug_title": "deyzangeroo", "date": "2017-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6kHOqQ0LLu7cnE9Adv8HFVbM1DM.jpg", "actors": [], "comments": [], "recommandations_id": []}

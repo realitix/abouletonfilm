@@ -1,1 +1,0 @@
-{"tmdb_id": 236949, "title": "Beau Ties", "original_title": "Beau Ties", "slug_title": "beau-ties", "date": "1945-04-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

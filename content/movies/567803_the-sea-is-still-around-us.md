@@ -1,1 +1,0 @@
-{"tmdb_id": 567803, "title": "The Sea is Still Around Us", "original_title": "The Sea is Still Around Us", "slug_title": "the-sea-is-still-around-us", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

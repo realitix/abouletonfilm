@@ -1,1 +1,0 @@
-{"tmdb_id": 510352, "title": "Trans X Istanbul", "original_title": "Trans X Istanbul", "slug_title": "trans-x-istanbul", "date": "2014-04-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/viuBVBdPg1sup7P6wgCvGZlXoB4.jpg", "actors": [], "comments": [], "recommandations_id": []}

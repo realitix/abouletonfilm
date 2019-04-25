@@ -1,1 +1,0 @@
-{"tmdb_id": 445957, "title": "Prabhakaran", "original_title": "Prabhakaran", "slug_title": "prabhakaran", "date": "2008-04-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u0u1UV8FTjvoSLoTv9rGE1U6LCP.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 135279, "title": "William Bradford - The First Thanksgiving", "original_title": "William Bradford - The First Thanksgiving", "slug_title": "william-bradford-the-first-thanksgiving", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

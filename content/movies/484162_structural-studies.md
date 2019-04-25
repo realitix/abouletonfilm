@@ -1,1 +1,0 @@
-{"tmdb_id": 484162, "title": "Structural Studies", "original_title": "Structural Studies", "slug_title": "structural-studies", "date": "1974-10-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

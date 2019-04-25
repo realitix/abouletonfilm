@@ -1,1 +1,0 @@
-{"tmdb_id": 354871, "title": "Beyond the Screams", "original_title": "Mas alla de los Gritos", "slug_title": "beyond-the-screams", "date": "1999-01-01", "genre": "Musique / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

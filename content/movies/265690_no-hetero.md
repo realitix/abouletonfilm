@@ -1,1 +1,0 @@
-{"tmdb_id": 265690, "title": "No Hetero", "original_title": "No Hetero", "slug_title": "no-hetero", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

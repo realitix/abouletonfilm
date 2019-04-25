@@ -1,1 +1,0 @@
-{"tmdb_id": 339466, "title": "Playing Cinema with Lori Felker", "original_title": "Playing Cinema with Lori Felker", "slug_title": "playing-cinema-with-lori-felker", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

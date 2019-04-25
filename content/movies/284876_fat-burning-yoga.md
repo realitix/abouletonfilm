@@ -1,1 +1,0 @@
-{"tmdb_id": 284876, "title": "Fat Burning Yoga", "original_title": "Fat Burning Yoga", "slug_title": "fat-burning-yoga", "date": "2001-10-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/75NAtzbGGPlTJ81k5IjUcqTcZrH.jpg", "actors": [], "comments": [], "recommandations_id": []}

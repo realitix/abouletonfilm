@@ -1,1 +1,0 @@
-{"tmdb_id": 401340, "title": "The Confession", "original_title": "The Confession", "slug_title": "the-confession", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

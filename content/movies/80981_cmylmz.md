@@ -1,1 +1,0 @@
-{"tmdb_id": 80981, "title": "CMYLMZ", "original_title": "CMYLMZ", "slug_title": "cmylmz", "date": "2008-03-10", "genre": "Com\u00e9die / Documentaire", "score": "8.6/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oc3E51VVlnRun8T41KjENKZh68T.jpg", "actors": ["Cem Y\u0131lmaz ()"], "comments": [], "recommandations_id": [114544, 49962, 70937, 80975]}

@@ -1,1 +1,0 @@
-{"tmdb_id": 511716, "title": "Komposition i tre satser", "original_title": "Komposition i tre satser", "slug_title": "komposition-i-tre-satser", "date": "1965-01-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6XUw8OA0V8bcTrFbOQo2lGZqPNB.jpg", "actors": [], "comments": [], "recommandations_id": []}

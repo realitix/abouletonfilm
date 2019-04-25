@@ -1,1 +1,0 @@
-{"tmdb_id": 311309, "title": "The Ramones: Around the World", "original_title": "The Ramones: Around the World", "slug_title": "the-ramones-around-the-world", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

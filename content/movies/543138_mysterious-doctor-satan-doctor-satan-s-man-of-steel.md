@@ -1,1 +1,0 @@
-{"tmdb_id": 543138, "title": "Mysterious Doctor Satan Doctor Satan's Man of Steel", "original_title": "Mysterious Doctor Satan Doctor Satan's Man of Steel", "slug_title": "mysterious-doctor-satan-doctor-satan-s-man-of-steel", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

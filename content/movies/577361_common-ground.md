@@ -1,1 +1,0 @@
-{"tmdb_id": 577361, "title": "Common Ground", "original_title": "Common Ground", "slug_title": "common-ground", "date": "1943-01-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

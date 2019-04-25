@@ -1,1 +1,0 @@
-{"tmdb_id": 410148, "title": "Aaro Pranam", "original_title": "Aaro Pranam", "slug_title": "aaro-pranam", "date": "1997-08-05", "genre": "Thriller / Romance", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Vineeth Radhakrishnan ()", "Soundarya ()", "S. P. Balasubramaniam ()", "Lakshmi ()"], "comments": [], "recommandations_id": []}

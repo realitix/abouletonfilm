@@ -1,1 +1,0 @@
-{"tmdb_id": 116547, "title": "Moore Street Masala", "original_title": "Moore Street Masala", "slug_title": "moore-street-masala", "date": "", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

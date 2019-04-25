@@ -1,1 +1,0 @@
-{"tmdb_id": 460241, "title": "Anotaciones Sobre Claudia y Sergio I", "original_title": "Anotaciones Sobre Claudia y Sergio I", "slug_title": "anotaciones-sobre-claudia-y-sergio-i", "date": "2015-07-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

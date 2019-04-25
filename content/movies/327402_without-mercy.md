@@ -1,1 +1,0 @@
-{"tmdb_id": 327402, "title": "Without Mercy", "original_title": "Without Mercy", "slug_title": "without-mercy", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

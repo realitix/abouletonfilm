@@ -1,1 +1,0 @@
-{"tmdb_id": 88570, "title": "Cat Food", "original_title": "Cat Food", "slug_title": "cat-food", "date": "1969-01-01", "genre": "", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9YeRPhcHgzsXjcqNXbIyg46lv51.jpg", "actors": [], "comments": [], "recommandations_id": [163343, 157513, 147819, 163119]}

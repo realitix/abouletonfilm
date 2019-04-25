@@ -1,1 +1,0 @@
-{"tmdb_id": 378213, "title": "Surrender", "original_title": "Surrender", "slug_title": "surrender", "date": "2001-09-13", "genre": "Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Abubakar Mohammed ()", "Issa Ali Said ()"], "comments": [], "recommandations_id": []}

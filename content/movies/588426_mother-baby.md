@@ -1,1 +1,0 @@
-{"tmdb_id": 588426, "title": "Mother & Baby", "original_title": "Mother & Baby", "slug_title": "mother-baby", "date": "2017-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

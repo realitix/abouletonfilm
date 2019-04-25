@@ -1,1 +1,0 @@
-{"tmdb_id": 94147, "title": "Uganda Rising", "original_title": "Uganda Rising", "slug_title": "uganda-rising", "date": "2006-04-05", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t6AXmAyUVRKLjVhZTsGGnOTHFBl.jpg", "actors": ["Kavan Smith (Narrator)"], "comments": [], "recommandations_id": []}

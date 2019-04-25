@@ -1,1 +1,0 @@
-{"tmdb_id": 586984, "title": "1917: La r\u00e9volution russe", "original_title": "1917: La r\u00e9volution russe", "slug_title": "1917-la-revolution-russe", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

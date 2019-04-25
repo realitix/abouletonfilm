@@ -1,1 +1,0 @@
-{"tmdb_id": 576780, "title": "Les Heures-Encre", "original_title": "Les Heures-Encre", "slug_title": "les-heures-encre", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Antonio Bu\u00edl (Igor)", "Isabelle Caillat (L\u00e9a)"], "comments": [], "recommandations_id": []}

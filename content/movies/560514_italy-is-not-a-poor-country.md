@@ -1,1 +1,0 @@
-{"tmdb_id": 560514, "title": "Italy Is Not a Poor Country", "original_title": "L'Italia non \u00e8 un paese povero", "slug_title": "italy-is-not-a-poor-country", "date": "1960-12-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Enrico Maria Salerno (narrator)"], "comments": [], "recommandations_id": []}

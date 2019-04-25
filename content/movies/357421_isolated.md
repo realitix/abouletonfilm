@@ -1,1 +1,0 @@
-{"tmdb_id": 357421, "title": "Isolated", "original_title": "Isolated", "slug_title": "isolated", "date": "2015-01-12", "genre": "Animation / Horreur", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/52KmmhzwsAi58f23So1M8Qydeeo.jpg", "actors": [], "comments": [], "recommandations_id": []}

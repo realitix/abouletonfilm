@@ -1,1 +1,0 @@
-{"tmdb_id": 584355, "title": "Girls of Joy", "original_title": "Filles de joie", "slug_title": "girls-of-joy", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["No\u00e9mie Lvovsky ()", "Sara Forestier ()", "Annabelle Lengronne ()", "Salom\u00e9 Dewaels ()"], "comments": [], "recommandations_id": []}

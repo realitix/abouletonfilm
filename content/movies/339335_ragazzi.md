@@ -1,1 +1,0 @@
-{"tmdb_id": 339335, "title": "Ragazzi", "original_title": "Ragazzi", "slug_title": "ragazzi", "date": "2014-05-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/563fHnLoWhG8ss5GvjeDpnvNAmF.jpg", "actors": [], "comments": [], "recommandations_id": []}

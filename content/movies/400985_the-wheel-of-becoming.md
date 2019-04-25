@@ -1,1 +1,0 @@
-{"tmdb_id": 400985, "title": "The Wheel of Becoming", "original_title": "The Wheel of Becoming", "slug_title": "the-wheel-of-becoming", "date": "1977-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

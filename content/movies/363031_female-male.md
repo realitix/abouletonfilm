@@ -1,1 +1,0 @@
-{"tmdb_id": 363031, "title": "Female & Male", "original_title": "Femminile e maschile", "slug_title": "female-male", "date": "2004-01-01", "genre": "Com\u00e9die / Animation", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4426tYoBnKz1kDPNuG3Vi0dWQ0y.jpg", "actors": [], "comments": [], "recommandations_id": []}

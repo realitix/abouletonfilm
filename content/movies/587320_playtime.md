@@ -1,1 +1,0 @@
-{"tmdb_id": 587320, "title": "Playtime", "original_title": "Playtime", "slug_title": "playtime", "date": "2019-03-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/GQ7nA1StecnjNCFRtF6jmCsJFq.jpg", "actors": [], "comments": [], "recommandations_id": []}

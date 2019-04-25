@@ -1,1 +1,0 @@
-{"tmdb_id": 29025, "title": "The Twlilight Thirst", "original_title": "The Twlilight Thirst", "slug_title": "the-twlilight-thirst", "date": "2007-05-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

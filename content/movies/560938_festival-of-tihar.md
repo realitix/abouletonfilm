@@ -1,1 +1,0 @@
-{"tmdb_id": 560938, "title": "Festival of Tihar", "original_title": "Festival of Tihar", "slug_title": "festival-of-tihar", "date": "2018-08-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tU0xRmAyAiWx7faPrL6FCuuCq38.jpg", "actors": [], "comments": [], "recommandations_id": []}

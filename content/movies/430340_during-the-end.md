@@ -1,1 +1,0 @@
-{"tmdb_id": 430340, "title": "During the end", "original_title": "Durante o fim", "slug_title": "during-the-end", "date": "2003-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wCwMmb9NbAOqRbrsdzrwbgSrW5D.jpg", "actors": [], "comments": [], "recommandations_id": []}

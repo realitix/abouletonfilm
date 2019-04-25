@@ -1,1 +1,0 @@
-{"tmdb_id": 102833, "title": "Gina And Stella", "original_title": "Gina And Stella", "slug_title": "gina-and-stella", "date": "2002-06-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kate Harbour ()", "Pauline McLynn ()"], "comments": [], "recommandations_id": []}

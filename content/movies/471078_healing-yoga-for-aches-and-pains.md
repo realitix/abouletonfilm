@@ -1,1 +1,0 @@
-{"tmdb_id": 471078, "title": "Healing Yoga for Aches and Pains", "original_title": "Healing Yoga for Aches and Pains", "slug_title": "healing-yoga-for-aches-and-pains", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9nd6ncZdKMz8ie8WzE0UTR1pzX5.jpg", "actors": [], "comments": [], "recommandations_id": []}

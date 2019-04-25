@@ -1,1 +1,0 @@
-{"tmdb_id": 307884, "title": "Do Kaliyan", "original_title": "Do Kaliyan", "slug_title": "do-kaliyan", "date": "1968-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

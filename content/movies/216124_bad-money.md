@@ -1,1 +1,0 @@
-{"tmdb_id": 216124, "title": "Bad Money", "original_title": "Bad Money", "slug_title": "bad-money", "date": "", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

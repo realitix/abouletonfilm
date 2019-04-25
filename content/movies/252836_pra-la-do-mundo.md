@@ -1,1 +1,0 @@
-{"tmdb_id": 252836, "title": "Pra l\u00e1 do Mundo", "original_title": "Pra l\u00e1 do Mundo", "slug_title": "pra-la-do-mundo", "date": "2013-06-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qX73vEAynPpbd6njJmCq3fYiMH3.jpg", "actors": [], "comments": [], "recommandations_id": []}

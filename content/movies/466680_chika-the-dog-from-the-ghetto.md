@@ -1,1 +1,0 @@
-{"tmdb_id": 466680, "title": "Chika, the Dog from the Ghetto", "original_title": "Chika, die H\u00fcndin im Ghetto", "slug_title": "chika-the-dog-from-the-ghetto", "date": "2016-05-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Batsheva Dagan (Herself)"], "comments": [], "recommandations_id": []}

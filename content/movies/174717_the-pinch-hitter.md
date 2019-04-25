@@ -1,1 +1,0 @@
-{"tmdb_id": 174717, "title": "The Pinch Hitter", "original_title": "The Pinch Hitter", "slug_title": "the-pinch-hitter", "date": "1917-04-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

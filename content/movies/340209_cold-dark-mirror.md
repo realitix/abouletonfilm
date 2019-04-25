@@ -1,1 +1,0 @@
-{"tmdb_id": 340209, "title": "Cold Dark Mirror", "original_title": "Cold Dark Mirror", "slug_title": "cold-dark-mirror", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

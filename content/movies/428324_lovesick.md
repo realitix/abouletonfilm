@@ -1,1 +1,0 @@
-{"tmdb_id": 428324, "title": "Lovesick", "original_title": "Lovesick", "slug_title": "lovesick", "date": "2016-12-02", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pacIJJ0AVJbTaNqwIsbpG5a6u9b.jpg", "actors": [], "comments": [], "recommandations_id": []}

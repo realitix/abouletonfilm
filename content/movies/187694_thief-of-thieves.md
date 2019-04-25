@@ -1,1 +1,0 @@
-{"tmdb_id": 187694, "title": "Thief of Thieves", "original_title": "\u8cca\u516c\u8a08\u5c0f\u5077\u624d", "slug_title": "thief-of-thieves", "date": "1975-10-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4VFvaapgykFYoBPF0b6PonrrnpG.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 293544, "title": "Thalia: Viva Tour", "original_title": "Thalia: Viva Tour", "slug_title": "thalia-viva-tour", "date": "2013-11-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r46nVANm3p6TJBenm9AQOE98AJM.jpg", "actors": [], "comments": [], "recommandations_id": []}

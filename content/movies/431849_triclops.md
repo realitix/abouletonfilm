@@ -1,1 +1,0 @@
-{"tmdb_id": 431849, "title": "Triclops", "original_title": "Triclops", "slug_title": "triclops", "date": "2016-09-12", "genre": "Aventure / Horreur / Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7Qm7LAlqQ6U2AKkz1Wg3HFMTkbo.jpg", "actors": [], "comments": [], "recommandations_id": []}

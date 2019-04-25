@@ -1,1 +1,0 @@
-{"tmdb_id": 527925, "title": "What Do I Do Now?", "original_title": "What Do I Do Now?", "slug_title": "what-do-i-do-now", "date": "", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n57o6aG4RnTQSrzE4MZ3yaR67m4.jpg", "actors": ["Noel Elgrably (Barry)"], "comments": [], "recommandations_id": []}

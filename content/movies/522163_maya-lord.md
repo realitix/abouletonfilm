@@ -1,1 +1,0 @@
-{"tmdb_id": 522163, "title": "Maya Lord", "original_title": "Maya Lord", "slug_title": "maya-lord", "date": "", "genre": "Action / Histoire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

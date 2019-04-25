@@ -1,1 +1,0 @@
-{"tmdb_id": 463501, "title": "Rehearsals", "original_title": "Rehearsals", "slug_title": "rehearsals", "date": "2015-06-14", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 268969, "title": "Dearly Departed", "original_title": "Dearly Departed", "slug_title": "dearly-departed", "date": "2006-12-14", "genre": "Documentaire", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kk7pxmSxdb7rgMvOkVOGID9bJEz.jpg", "actors": ["Scott Michaels ()"], "comments": [], "recommandations_id": []}

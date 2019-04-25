@@ -1,1 +1,0 @@
-{"tmdb_id": 359383, "title": "Blasterjaxx Ultra Music Festival Miami 2015", "original_title": "Blasterjaxx Ultra Music Festival Miami 2015", "slug_title": "blasterjaxx-ultra-music-festival-miami-2015", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

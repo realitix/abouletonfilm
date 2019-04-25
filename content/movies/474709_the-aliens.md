@@ -1,1 +1,0 @@
-{"tmdb_id": 474709, "title": "The Aliens", "original_title": "The Aliens", "slug_title": "the-aliens", "date": "2017-09-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

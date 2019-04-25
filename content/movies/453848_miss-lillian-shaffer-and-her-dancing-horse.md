@@ -1,1 +1,0 @@
-{"tmdb_id": 453848, "title": "Miss Lillian Shaffer and Her Dancing Horse", "original_title": "Miss Lillian Shaffer and Her Dancing Horse", "slug_title": "miss-lillian-shaffer-and-her-dancing-horse", "date": "1904-11-23", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lillian Shaffer ()"], "comments": [], "recommandations_id": []}

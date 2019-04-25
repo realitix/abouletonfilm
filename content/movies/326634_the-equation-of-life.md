@@ -1,1 +1,0 @@
-{"tmdb_id": 326634, "title": "The Equation of Life", "original_title": "The Equation of Life", "slug_title": "the-equation-of-life", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

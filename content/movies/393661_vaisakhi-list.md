@@ -1,1 +1,0 @@
-{"tmdb_id": 393661, "title": "Vaisakhi List", "original_title": "Vaisakhi List", "slug_title": "vaisakhi-list", "date": "2016-04-22", "genre": "Com\u00e9die / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l4nFLt8EjzxEG7ut2wzmJqSyFXs.jpg", "actors": [], "comments": [], "recommandations_id": []}

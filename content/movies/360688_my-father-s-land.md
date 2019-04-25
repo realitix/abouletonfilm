@@ -1,1 +1,0 @@
-{"tmdb_id": 360688, "title": "My Father's Land", "original_title": "My Father's Land", "slug_title": "my-father-s-land", "date": "2015-09-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

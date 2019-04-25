@@ -1,1 +1,0 @@
-{"tmdb_id": 178279, "title": "They Glow in the Dark", "original_title": "They Glow in the Dark", "slug_title": "they-glow-in-the-dark", "date": "2013-05-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7FUAzr2Krtd3C3sIQ6FVrFgrvjE.jpg", "actors": [], "comments": [], "recommandations_id": []}

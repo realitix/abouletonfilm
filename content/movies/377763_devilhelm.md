@@ -1,1 +1,0 @@
-{"tmdb_id": 377763, "title": "Devilhelm", "original_title": "Devilhelm", "slug_title": "devilhelm", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 556496, "title": "All Rolled into One", "original_title": "All Rolled into One", "slug_title": "all-rolled-into-one", "date": "2018-12-06", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3tgpnjm4giK9v1A0xtbRGlGTq3s.jpg", "actors": [], "comments": [], "recommandations_id": []}

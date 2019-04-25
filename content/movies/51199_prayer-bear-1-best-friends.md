@@ -1,1 +1,0 @@
-{"tmdb_id": 51199, "title": "Prayer Bear 1 Best Friends", "original_title": "Prayer Bear 1 Best Friends", "slug_title": "prayer-bear-1-best-friends", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3zJEINnf9qqNFM1seM3CgW8KUYm.jpg", "actors": [], "comments": [], "recommandations_id": []}

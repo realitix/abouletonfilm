@@ -1,1 +1,0 @@
-{"tmdb_id": 392858, "title": "Legends of American Skiing", "original_title": "Legends of American Skiing", "slug_title": "legends-of-american-skiing", "date": "1982-03-31", "genre": "Documentaire", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5fKeP1qtgIOtN9Cqifk73Z5sHPL.jpg", "actors": [], "comments": [], "recommandations_id": []}

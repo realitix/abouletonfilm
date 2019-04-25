@@ -1,1 +1,0 @@
-{"tmdb_id": 404467, "title": "Vigilando reprimere", "original_title": "Vigilando reprimere", "slug_title": "vigilando-reprimere", "date": "1972-07-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sylvia Poggioli ()", "Massimo Sarchielli ()"], "comments": [], "recommandations_id": []}

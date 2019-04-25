@@ -1,1 +1,0 @@
-{"tmdb_id": 506078, "title": "Living Together", "original_title": "Living Together", "slug_title": "living-together", "date": "1972-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

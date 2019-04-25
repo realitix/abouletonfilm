@@ -1,1 +1,0 @@
-{"tmdb_id": 550390, "title": "Around the Bed of a Dying Collaborator", "original_title": "Around the Bed of a Dying Collaborator", "slug_title": "around-the-bed-of-a-dying-collaborator", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

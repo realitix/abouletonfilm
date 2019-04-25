@@ -1,1 +1,1 @@
-{"tmdb_id": 556945, "title": "Gagne ta vie", "original_title": "Gagne ta vie", "slug_title": "gagne-ta-vie", "date": "1931-10-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 556945, "title": "Gagne ta vie", "original_title": "Gagne ta vie", "slug_title": "gagne-ta-vie", "date": "1931-10-09", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

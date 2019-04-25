@@ -1,1 +1,0 @@
-{"tmdb_id": 577575, "title": "Beast of the Water", "original_title": "Beast of the Water", "slug_title": "beast-of-the-water", "date": "2017-04-03", "genre": "Aventure", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fo3MsCWzr0usf0Y9j4tbDF9Eb8V.jpg", "actors": [], "comments": [], "recommandations_id": []}

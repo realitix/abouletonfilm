@@ -1,1 +1,0 @@
-{"tmdb_id": 195327, "title": "'Columbia' Winning the Cup", "original_title": "'Columbia' Winning the Cup", "slug_title": "columbia-winning-the-cup", "date": "1899-05-20", "genre": "", "score": "3.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ajyfwpzf5g2iejcz7tgsMW0i8oh.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 254051, "title": "Date with Duke", "original_title": "Date with Duke", "slug_title": "date-with-duke", "date": "1947-10-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Duke Ellington ()"], "comments": [], "recommandations_id": []}

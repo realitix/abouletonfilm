@@ -1,1 +1,0 @@
-{"tmdb_id": 272703, "title": "Sun's Last Days", "original_title": "Sun's Last Days", "slug_title": "sun-s-last-days", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

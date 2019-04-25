@@ -1,1 +1,0 @@
-{"tmdb_id": 521043, "title": "Bernstein on Mahler", "original_title": "Bernstein on Mahler", "slug_title": "bernstein-on-mahler", "date": "1985-01-01", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Leonard Bernstein (Self)"], "comments": [], "recommandations_id": []}

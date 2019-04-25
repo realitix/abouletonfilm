@@ -1,1 +1,0 @@
-{"tmdb_id": 525550, "title": "Max se marie", "original_title": "Max se marie", "slug_title": "max-se-marie", "date": "1911-03-17", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Max Linder (Max)", "Jacques Vandenne ()", "Charles De Rochefort ()", "Paulette Lorsy ()"], "comments": [], "recommandations_id": []}

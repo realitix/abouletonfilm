@@ -1,1 +1,0 @@
-{"tmdb_id": 215147, "title": "Drain the Great Lakes", "original_title": "Drain the Great Lakes", "slug_title": "drain-the-great-lakes", "date": "2011-12-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

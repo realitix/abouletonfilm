@@ -1,1 +1,0 @@
-{"tmdb_id": 416161, "title": "The Land", "original_title": "\ud669\ud1a0", "slug_title": "the-land", "date": "1975-10-24", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kim Ji-mee ()", "Park Geun-hyung ()", "Lee Soon-jae ()"], "comments": [], "recommandations_id": []}

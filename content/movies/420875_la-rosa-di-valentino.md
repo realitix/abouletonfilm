@@ -1,1 +1,0 @@
-{"tmdb_id": 420875, "title": "La rosa di Valentino", "original_title": "La rosa di Valentino", "slug_title": "la-rosa-di-valentino", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pierpaolo Giarolo ()", "Erica Barbiani ()"], "comments": [], "recommandations_id": []}

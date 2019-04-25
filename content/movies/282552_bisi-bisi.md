@@ -1,1 +1,0 @@
-{"tmdb_id": 282552, "title": "Bisi Bisi", "original_title": "Bisi Bisi", "slug_title": "bisi-bisi", "date": "2004-01-22", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ramesh Aravind ()", "Anu Prabhakar ()", "Shankar Rao ()", "Madhuri Bhattacharya ()"], "comments": [], "recommandations_id": []}

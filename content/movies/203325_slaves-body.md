@@ -1,1 +1,0 @@
-{"tmdb_id": 203325, "title": "Slaves Body", "original_title": "Slaves Body", "slug_title": "slaves-body", "date": "2013-06-25", "genre": "", "score": "0.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/htnzcrpw6e6YeMhaOqtMpLSfdVM.jpg", "actors": [], "comments": [], "recommandations_id": []}

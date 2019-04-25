@@ -1,1 +1,0 @@
-{"tmdb_id": 544114, "title": "Der Tod des Fischers Marc Leblanc", "original_title": "Der Tod des Fischers Marc Leblanc", "slug_title": "der-tod-des-fischers-marc-leblanc", "date": "1976-10-29", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

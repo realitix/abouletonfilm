@@ -1,1 +1,0 @@
-{"tmdb_id": 505869, "title": "It Kinda Scares Me", "original_title": "Tomer Ve-Hasrutim", "slug_title": "it-kinda-scares-me", "date": "2001-02-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/27peDX42ffqQNQ0T1hmIn7sEZBj.jpg", "actors": [], "comments": [], "recommandations_id": []}

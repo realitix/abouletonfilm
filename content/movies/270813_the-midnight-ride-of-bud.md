@@ -1,1 +1,0 @@
-{"tmdb_id": 270813, "title": "The Midnight Ride of Bud", "original_title": "The Midnight Ride of Bud", "slug_title": "the-midnight-ride-of-bud", "date": "1920-05-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

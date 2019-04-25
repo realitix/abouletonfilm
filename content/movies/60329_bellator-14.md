@@ -1,1 +1,0 @@
-{"tmdb_id": 60329, "title": "Bellator 14", "original_title": "Bellator 14", "slug_title": "bellator-14", "date": "2010-04-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/338kJQmda5tDbVwpGlSwi6M6kiU.jpg", "actors": [], "comments": [], "recommandations_id": []}

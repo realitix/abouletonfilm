@@ -1,1 +1,0 @@
-{"tmdb_id": 285836, "title": "Trick or Treaty?", "original_title": "Trick or Treaty?", "slug_title": "trick-or-treaty", "date": "2014-09-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1bOHitf7nzoNZ1niKEvMSVl6ZRe.jpg", "actors": [], "comments": [], "recommandations_id": []}

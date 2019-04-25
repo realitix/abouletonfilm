@@ -1,1 +1,0 @@
-{"tmdb_id": 511967, "title": "wXw 16 Carat Gold 2018 Night 3", "original_title": "wXw 16 Carat Gold 2018 Night 3", "slug_title": "wxw-16-carat-gold-2018-night-3", "date": "2018-03-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9CZgil75PsAWwctgRCyoyMgx19v.jpg", "actors": [], "comments": [], "recommandations_id": []}

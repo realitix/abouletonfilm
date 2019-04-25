@@ -1,1 +1,0 @@
-{"tmdb_id": 202674, "title": "The Constructors", "original_title": "Stroiteli", "slug_title": "the-constructors", "date": "2013-06-20", "genre": "Com\u00e9die / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

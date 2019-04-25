@@ -1,1 +1,0 @@
-{"tmdb_id": 454528, "title": "The Ugly Duckling", "original_title": "Minikui Ahiru no Ko", "slug_title": "the-ugly-duckling", "date": "1968-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

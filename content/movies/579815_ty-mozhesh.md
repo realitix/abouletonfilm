@@ -1,1 +1,0 @@
-{"tmdb_id": 579815, "title": "\u0422\u044b \u043c\u043e\u0436\u0435\u0448\u044c", "original_title": "\u0422\u044b \u043c\u043e\u0436\u0435\u0448\u044c", "slug_title": "ty-mozhesh", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Aleksey Guskov ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 343844, "title": "De tiende penning", "original_title": "De tiende penning", "slug_title": "de-tiende-penning", "date": "1985-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

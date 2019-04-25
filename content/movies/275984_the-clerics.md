@@ -1,1 +1,0 @@
-{"tmdb_id": 275984, "title": "The Clerics", "original_title": "The Clerics", "slug_title": "the-clerics", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

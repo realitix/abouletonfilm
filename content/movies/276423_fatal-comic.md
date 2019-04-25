@@ -1,1 +1,0 @@
-{"tmdb_id": 276423, "title": "Fatal Comic", "original_title": "Fatal Comic", "slug_title": "fatal-comic", "date": "2006-09-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

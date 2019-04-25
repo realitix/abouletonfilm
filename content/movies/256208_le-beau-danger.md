@@ -1,1 +1,0 @@
-{"tmdb_id": 256208, "title": "Le Beau danger", "original_title": "Le Beau danger", "slug_title": "le-beau-danger", "date": "2014-02-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qlkAJTh7YnUmx3o2P8zigoaP552.jpg", "actors": [], "comments": [], "recommandations_id": []}

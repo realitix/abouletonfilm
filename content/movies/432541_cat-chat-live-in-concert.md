@@ -1,1 +1,0 @@
-{"tmdb_id": 432541, "title": "Cat Chat: Live in Concert", "original_title": "Cat Chat: Live in Concert", "slug_title": "cat-chat-live-in-concert", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

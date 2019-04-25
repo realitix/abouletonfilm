@@ -1,1 +1,0 @@
-{"tmdb_id": 453129, "title": "Sacris Pulso", "original_title": "Sacris Pulso", "slug_title": "sacris-pulso", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bSJieh0vddFS6iH74EqfM2L8moX.jpg", "actors": [], "comments": [], "recommandations_id": []}

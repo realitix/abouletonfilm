@@ -1,1 +1,0 @@
-{"tmdb_id": 369110, "title": "MacNab's Visit to London", "original_title": "MacNab's Visit to London", "slug_title": "macnab-s-visit-to-london", "date": "1905-10-17", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Arthur Melbourne Cooper (McNab)"], "comments": [], "recommandations_id": []}

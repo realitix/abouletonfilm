@@ -1,1 +1,0 @@
-{"tmdb_id": 78861, "title": "Thenpaandi Seemaiyilae", "original_title": "Thenpaandi Seemaiyilae", "slug_title": "thenpaandi-seemaiyilae", "date": "1988-11-01", "genre": "Drame", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Vijayakanth ()", "Radhika Sarathkumar ()", "Seetha ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 321537, "title": "Life According to Ohad", "original_title": "Hachaim al pi Ohad", "slug_title": "life-according-to-ohad", "date": "2014-05-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cjR80pGGCPOnFA1ZlD8klhMbuPX.jpg", "actors": [], "comments": [], "recommandations_id": []}

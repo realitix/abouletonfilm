@@ -1,1 +1,0 @@
-{"tmdb_id": 452665, "title": "Cruisin' Fuck Forest", "original_title": "Cruisin' Fuck Forest", "slug_title": "cruisin-fuck-forest", "date": "2013-04-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Punkcher ()"], "comments": [], "recommandations_id": []}

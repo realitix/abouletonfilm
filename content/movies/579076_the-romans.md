@@ -1,1 +1,0 @@
-{"tmdb_id": 579076, "title": "The Romans", "original_title": "The Romans", "slug_title": "the-romans", "date": "2016-05-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ykdrrHax5hvfT7vbZCQ29mTmVow.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 333407, "title": "Bloody Doll", "original_title": "\u6028\u7075\u4eba\u5076", "slug_title": "bloody-doll", "date": "2014-12-31", "genre": "Horreur / Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iGGmHgjQbSopO3E4Z7Eej27ZqZq.jpg", "actors": ["Jiro Wang (Gao Yi Feng)"], "comments": [], "recommandations_id": []}

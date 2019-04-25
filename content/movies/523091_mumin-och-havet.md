@@ -1,1 +1,0 @@
-{"tmdb_id": 523091, "title": "Mumin och havet", "original_title": "Mumin och havet", "slug_title": "mumin-och-havet", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 382916, "title": "Beyond That Wasteland", "original_title": "Beyond That Wasteland", "slug_title": "beyond-that-wasteland", "date": "2012-01-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v1qYVh1mY1vk3J9I2tfelM7BKNu.jpg", "actors": [], "comments": [], "recommandations_id": []}

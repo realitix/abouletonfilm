@@ -1,1 +1,0 @@
-{"tmdb_id": 343536, "title": "Pior es na'", "original_title": "Pior es na'", "slug_title": "pior-es-na", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xLDN8oUSd2eQdgSMMe4tIP5jq1t.jpg", "actors": [], "comments": [], "recommandations_id": []}

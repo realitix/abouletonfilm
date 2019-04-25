@@ -1,1 +1,0 @@
-{"tmdb_id": 109553, "title": "Lecture 3: The Great Conservation Principles", "original_title": "Lecture 3: The Great Conservation Principles", "slug_title": "lecture-3-the-great-conservation-principles", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Richard Feynman (Himself)"], "comments": [], "recommandations_id": []}

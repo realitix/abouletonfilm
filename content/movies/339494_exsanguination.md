@@ -1,1 +1,0 @@
-{"tmdb_id": 339494, "title": "Exsanguination", "original_title": "Exsanguination", "slug_title": "exsanguination", "date": "2011-02-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zzO6L73N25rUQbLdlIz1jbTg335.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 241731, "title": "Obscure", "original_title": "Obscure", "slug_title": "obscure", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/23ICnvz1kRNxZoZwCw48X5cIHNg.jpg", "actors": ["Pavel B\u00e9di (N\u00e1jemn\u00fd vrah)"], "comments": [], "recommandations_id": []}

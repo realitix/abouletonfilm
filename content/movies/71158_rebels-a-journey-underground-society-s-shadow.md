@@ -1,1 +1,0 @@
-{"tmdb_id": 71158, "title": "Rebels: A Journey Underground - Society's Shadow", "original_title": "Rebels: A Journey Underground - Society's Shadow", "slug_title": "rebels-a-journey-underground-society-s-shadow", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

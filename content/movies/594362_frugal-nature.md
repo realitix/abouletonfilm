@@ -1,1 +1,0 @@
-{"tmdb_id": 594362, "title": "Frugal Nature", "original_title": "Frugale Nature", "slug_title": "frugal-nature", "date": "2019-04-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

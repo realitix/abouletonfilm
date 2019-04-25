@@ -1,1 +1,0 @@
-{"tmdb_id": 433697, "title": "Together", "original_title": "Together", "slug_title": "together", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

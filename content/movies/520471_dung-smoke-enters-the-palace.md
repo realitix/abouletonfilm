@@ -1,1 +1,0 @@
-{"tmdb_id": 520471, "title": "Dung Smoke Enters the Palace", "original_title": "Dung Smoke Enters the Palace", "slug_title": "dung-smoke-enters-the-palace", "date": "1989-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

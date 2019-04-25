@@ -1,1 +1,0 @@
-{"tmdb_id": 489580, "title": "Neo Kesshitai", "original_title": "Neo Kesshitai", "slug_title": "neo-kesshitai", "date": "2017-11-25", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

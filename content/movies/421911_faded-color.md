@@ -1,1 +1,0 @@
-{"tmdb_id": 421911, "title": "Faded Color", "original_title": "Faded Color", "slug_title": "faded-color", "date": "2013-06-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sk2GPNOLBJtSvUJbPzBHP8wOvxX.jpg", "actors": [], "comments": [], "recommandations_id": []}

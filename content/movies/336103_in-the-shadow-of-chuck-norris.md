@@ -1,1 +1,0 @@
-{"tmdb_id": 336103, "title": "In the shadow of Chuck Norris", "original_title": "In the shadow of Chuck Norris", "slug_title": "in-the-shadow-of-chuck-norris", "date": "2014-06-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

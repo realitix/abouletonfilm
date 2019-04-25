@@ -1,1 +1,1 @@
-{"tmdb_id": 434863, "title": "Crayons", "original_title": "Crayons", "slug_title": "crayons", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 434863, "title": "Crayons", "original_title": "Crayons", "slug_title": "crayons", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "2016 Malayalam Movie", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

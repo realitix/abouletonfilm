@@ -1,1 +1,0 @@
-{"tmdb_id": 358670, "title": "Golfers in a Scottish Landscape", "original_title": "Golfers in a Scottish Landscape", "slug_title": "golfers-in-a-scottish-landscape", "date": "1971-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

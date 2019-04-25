@@ -1,1 +1,0 @@
-{"tmdb_id": 330392, "title": "A Japanese Peach Boy", "original_title": "A Japanese Peach Boy", "slug_title": "a-japanese-peach-boy", "date": "1910-02-01", "genre": "Fantastique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Madame Pilar-Morin ()", "Gladys Hulette ()"], "comments": [], "recommandations_id": []}

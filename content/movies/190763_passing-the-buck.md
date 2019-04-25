@@ -1,1 +1,0 @@
-{"tmdb_id": 190763, "title": "Passing the Buck", "original_title": "Passing the Buck", "slug_title": "passing-the-buck", "date": "1919-05-18", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Larry Semon (The House Detective)"], "comments": [], "recommandations_id": []}

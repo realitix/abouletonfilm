@@ -1,1 +1,0 @@
-{"tmdb_id": 544830, "title": "Out of the Ground", "original_title": "Out of the Ground", "slug_title": "out-of-the-ground", "date": "2018-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2HGv4qDHMDYAzwcmLy2YpkfekjW.jpg", "actors": [], "comments": [], "recommandations_id": []}

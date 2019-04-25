@@ -1,1 +1,0 @@
-{"tmdb_id": 331560, "title": "Bewafai", "original_title": "Bewafai", "slug_title": "bewafai", "date": "1985-09-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/csTYZF9juJwMNzNCj86HwM5LunT.jpg", "actors": ["Rajesh Khanna ()", "Meenakshi Seshadri ()", "Rajinikanth ()"], "comments": [], "recommandations_id": []}

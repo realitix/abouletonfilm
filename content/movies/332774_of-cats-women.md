@@ -1,1 +1,0 @@
-{"tmdb_id": 332774, "title": "Of Cats & Women", "original_title": "Of Cats & Women", "slug_title": "of-cats-women", "date": "2007-10-14", "genre": "", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

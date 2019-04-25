@@ -1,1 +1,0 @@
-{"tmdb_id": 506836, "title": "Ash and Hatred", "original_title": "Ash and Hatred", "slug_title": "ash-and-hatred", "date": "1990-02-22", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sharon Ben-Ezer (Herself)"], "comments": [], "recommandations_id": []}

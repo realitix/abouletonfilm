@@ -1,1 +1,0 @@
-{"tmdb_id": 388576, "title": "Le matelas de la mari\u00e9e", "original_title": "Le matelas de la mari\u00e9e", "slug_title": "le-matelas-de-la-mariee", "date": "1906-12-16", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bGXjfokYljB5vtdgcCByRmmRZvb.jpg", "actors": [], "comments": [], "recommandations_id": []}

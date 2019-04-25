@@ -1,1 +1,0 @@
-{"tmdb_id": 479062, "title": "The Camps", "original_title": "The Camps", "slug_title": "the-camps", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

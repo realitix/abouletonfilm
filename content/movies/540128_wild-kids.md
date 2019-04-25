@@ -1,1 +1,0 @@
-{"tmdb_id": 540128, "title": "Wild Kids", "original_title": "Wild Kids", "slug_title": "wild-kids", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

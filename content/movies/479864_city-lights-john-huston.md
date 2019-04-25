@@ -1,1 +1,0 @@
-{"tmdb_id": 479864, "title": "City Lights: John Huston", "original_title": "City Lights: John Huston", "slug_title": "city-lights-john-huston", "date": "1979-10-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["John Huston (Interviewee)", "Brian Linehan (Host)"], "comments": [], "recommandations_id": []}

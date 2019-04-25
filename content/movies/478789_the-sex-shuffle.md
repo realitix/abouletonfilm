@@ -1,1 +1,0 @@
-{"tmdb_id": 478789, "title": "The Sex Shuffle", "original_title": "The Sex Shuffle", "slug_title": "the-sex-shuffle", "date": "1968-03-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/c7sa2LwcpfRYUQ6EqLgSIrI5yNE.jpg", "actors": ["Byron Lord ()"], "comments": [], "recommandations_id": []}

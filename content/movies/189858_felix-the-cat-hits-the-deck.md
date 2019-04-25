@@ -1,1 +1,0 @@
-{"tmdb_id": 189858, "title": "Felix the Cat Hits the Deck", "original_title": "Felix the Cat Hits the Deck", "slug_title": "felix-the-cat-hits-the-deck", "date": "1927-12-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

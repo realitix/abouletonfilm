@@ -1,1 +1,0 @@
-{"tmdb_id": 589813, "title": "Moving Stillness: Mount Rainier 1979", "original_title": "Moving Stillness: Mount Rainier 1979", "slug_title": "moving-stillness-mount-rainier-1979", "date": "1979-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

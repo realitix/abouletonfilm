@@ -1,1 +1,0 @@
-{"tmdb_id": 314043, "title": "Farm Relief", "original_title": "Farm Relief", "slug_title": "farm-relief", "date": "1929-12-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

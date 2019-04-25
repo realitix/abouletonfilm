@@ -1,1 +1,0 @@
-{"tmdb_id": 92338, "title": "2012 NFL Pro Bowl", "original_title": "2012 NFL Pro Bowl", "slug_title": "2012-nfl-pro-bowl", "date": "2012-01-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1tubfyFKCDTso4ldlwwFvrt0VCv.jpg", "actors": [], "comments": [], "recommandations_id": []}

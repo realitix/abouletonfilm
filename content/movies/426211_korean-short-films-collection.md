@@ -1,1 +1,0 @@
-{"tmdb_id": 426211, "title": "Korean Short Films Collection", "original_title": "Korean Short Films Collection", "slug_title": "korean-short-films-collection", "date": "2007-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lee Seung-yeon ()", "Bae Doo-na (Sunhee)"], "comments": [], "recommandations_id": []}

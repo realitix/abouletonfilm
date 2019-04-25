@@ -1,1 +1,0 @@
-{"tmdb_id": 550999, "title": "Jadranka", "original_title": "Jadranka", "slug_title": "jadranka", "date": "2016-01-01", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aXSCE2j2XeeZOHKKCLe3pUr9n66.jpg", "actors": ["Jadranka Stojakovi\u0107 (Herself)"], "comments": [], "recommandations_id": []}

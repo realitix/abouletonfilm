@@ -1,1 +1,0 @@
-{"tmdb_id": 319473, "title": "The Virgin Queen of St. Francis High", "original_title": "The Virgin Queen of St. Francis High", "slug_title": "the-virgin-queen-of-st-francis-high", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

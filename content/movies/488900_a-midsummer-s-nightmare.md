@@ -1,1 +1,0 @@
-{"tmdb_id": 488900, "title": "A Midsummer's Nightmare", "original_title": "A Midsummer's Nightmare", "slug_title": "a-midsummer-s-nightmare", "date": "1975-09-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

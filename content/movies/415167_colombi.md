@@ -1,1 +1,0 @@
-{"tmdb_id": 415167, "title": "Colombi", "original_title": "Colombi", "slug_title": "colombi", "date": "2016-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2bkCmL2yT6YsGFucmo96jx9FAXe.jpg", "actors": [], "comments": [], "recommandations_id": []}

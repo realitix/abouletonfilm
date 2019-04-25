@@ -1,1 +1,0 @@
-{"tmdb_id": 506693, "title": "Haunted", "original_title": "Haunted", "slug_title": "haunted", "date": "2006-08-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mByLSCbWdSIBk4XHIwY4TC2HRZK.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 317255, "title": "Dribble Drabble", "original_title": "Dribble Drabble", "slug_title": "dribble-drabble", "date": "1968-01-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

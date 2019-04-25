@@ -1,1 +1,0 @@
-{"tmdb_id": 577743, "title": "Juke and Opal", "original_title": "Juke and Opal", "slug_title": "juke-and-opal", "date": "1973-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lily Tomlin (Opal)", "Richard Pryor (Juke)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 299159, "title": "Diggin' in the Carts", "original_title": "Diggin' in the Carts", "slug_title": "diggin-in-the-carts", "date": "2014-09-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sBlB6wzSccVCqMpSzjh4z5ArRsB.jpg", "actors": [], "comments": [], "recommandations_id": []}

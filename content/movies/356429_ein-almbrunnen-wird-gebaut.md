@@ -1,1 +1,0 @@
-{"tmdb_id": 356429, "title": "Ein Almbrunnen wird gebaut", "original_title": "Ein Almbrunnen wird gebaut", "slug_title": "ein-almbrunnen-wird-gebaut", "date": "1936-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

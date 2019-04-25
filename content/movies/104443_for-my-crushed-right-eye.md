@@ -1,1 +1,0 @@
-{"tmdb_id": 104443, "title": "For My Crushed Right Eye", "original_title": "Tsuburekakatta migime no tame ni", "slug_title": "for-my-crushed-right-eye", "date": "1969-01-01", "genre": "", "score": "8.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/36UCPZ8LyIiOWdkgLBNVNpD7HmU.jpg", "actors": [], "comments": [], "recommandations_id": []}

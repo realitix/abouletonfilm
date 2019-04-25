@@ -1,1 +1,0 @@
-{"tmdb_id": 552677, "title": "Velkommen til oss", "original_title": "Velkommen til oss", "slug_title": "velkommen-til-oss", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

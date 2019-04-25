@@ -1,1 +1,0 @@
-{"tmdb_id": 347864, "title": "La princesse aux clowns", "original_title": "La princesse aux clowns", "slug_title": "la-princesse-aux-clowns", "date": "1924-10-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

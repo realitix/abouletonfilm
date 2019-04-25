@@ -1,1 +1,0 @@
-{"tmdb_id": 262897, "title": "Another World", "original_title": "Un altro mondo", "slug_title": "another-world", "date": "2014-03-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j8MpIUOs347w6Hb2eNe9vOD5Cd.jpg", "actors": [], "comments": [], "recommandations_id": []}

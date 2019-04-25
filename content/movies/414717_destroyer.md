@@ -1,1 +1,0 @@
-{"tmdb_id": 414717, "title": "Destroyer", "original_title": "Destroyer", "slug_title": "destroyer", "date": "2013-09-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jared Abrahamson (Tyson)", "Kurt Max Runte (Coach)", "Alicia Kaurinovic (Teenage girl)"], "comments": [], "recommandations_id": []}

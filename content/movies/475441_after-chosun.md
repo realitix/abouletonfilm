@@ -1,1 +1,0 @@
-{"tmdb_id": 475441, "title": "After Chosun", "original_title": "\uc774\uc0b0\uc790", "slug_title": "after-chosun", "date": "2017-09-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 591832, "title": "Main Street Meats", "original_title": "Main Street Meats", "slug_title": "main-street-meats", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

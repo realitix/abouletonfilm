@@ -1,1 +1,0 @@
-{"tmdb_id": 517913, "title": "Essence of Life", "original_title": "Essence of Life", "slug_title": "essence-of-life", "date": "2002-09-17", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Godfrey Reggio (Interviewee)", "Philip Glass (Interviewee)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 422910, "title": "A Letter Without Words", "original_title": "A Letter Without Words", "slug_title": "a-letter-without-words", "date": "1998-01-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6OhLFyopy7KEBbvxAmYo1mLVZcn.jpg", "actors": [], "comments": [], "recommandations_id": []}

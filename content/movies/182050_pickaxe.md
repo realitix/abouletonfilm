@@ -1,1 +1,0 @@
-{"tmdb_id": 182050, "title": "pickAxe", "original_title": "pickAxe", "slug_title": "pickaxe", "date": "1999-04-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8YnwBRsnegbVM6yayUISRPGGohG.jpg", "actors": ["Tim Ream (Himself)"], "comments": [], "recommandations_id": []}

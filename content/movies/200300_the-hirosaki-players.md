@@ -1,1 +1,0 @@
-{"tmdb_id": 200300, "title": "The Hirosaki Players", "original_title": "The Hirosaki Players", "slug_title": "the-hirosaki-players", "date": "", "genre": "Drame / Familial", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Eijiro Ozaki (Tsubasa)", "Ikk\u00f4 Furuya (Kentaro)"], "comments": [], "recommandations_id": []}

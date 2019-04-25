@@ -1,1 +1,0 @@
-{"tmdb_id": 451242, "title": "Cambot: The Sad Sad Robot", "original_title": "Cambot: The Sad Sad Robot", "slug_title": "cambot-the-sad-sad-robot", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

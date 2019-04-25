@@ -1,1 +1,0 @@
-{"tmdb_id": 374167, "title": "Absolute Zombies", "original_title": "Absolute Zombies", "slug_title": "absolute-zombies", "date": "2015-10-27", "genre": "", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4bRDFSTjUVCvUUChwQc1jdrovbj.jpg", "actors": ["David Allen ()", "Silje Reinamo ()"], "comments": [], "recommandations_id": []}

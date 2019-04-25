@@ -1,1 +1,0 @@
-{"tmdb_id": 340174, "title": "Cape Cod", "original_title": "Cape Cod", "slug_title": "cape-cod", "date": "2003-07-13", "genre": "Drame", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4yelLktAS0eyOW4fEabt7zQoCJB.jpg", "actors": ["Juan Pemoff ()", "Daniela Sastre ()"], "comments": [], "recommandations_id": []}

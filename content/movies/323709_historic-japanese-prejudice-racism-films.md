@@ -1,1 +1,0 @@
-{"tmdb_id": 323709, "title": "Historic Japanese Prejudice & Racism Films", "original_title": "Historic Japanese Prejudice & Racism Films", "slug_title": "historic-japanese-prejudice-racism-films", "date": "2011-06-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

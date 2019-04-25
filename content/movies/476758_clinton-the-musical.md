@@ -1,1 +1,0 @@
-{"tmdb_id": 476758, "title": "Clinton: The Musical", "original_title": "Clinton: The Musical", "slug_title": "clinton-the-musical", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

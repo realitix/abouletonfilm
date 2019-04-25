@@ -1,1 +1,0 @@
-{"tmdb_id": 587854, "title": "Flying the P-61 Series Airplane", "original_title": "Flying the P-61 Series Airplane", "slug_title": "flying-the-p-61-series-airplane", "date": "1944-03-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

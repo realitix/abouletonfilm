@@ -1,1 +1,0 @@
-{"tmdb_id": 62938, "title": "Trail of Hope", "original_title": "Trail of Hope", "slug_title": "trail-of-hope", "date": "1997-08-10", "genre": "Documentaire / Histoire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/58eKXN0jAP69DhdV2pPrY7ELCsF.jpg", "actors": ["Hal Holbrook (Narrator)"], "comments": [], "recommandations_id": []}

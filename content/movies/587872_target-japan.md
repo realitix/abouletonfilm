@@ -1,1 +1,0 @@
-{"tmdb_id": 587872, "title": "Target: Japan", "original_title": "Target: Japan", "slug_title": "target-japan", "date": "1944-10-26", "genre": "Documentaire / Guerre", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["James Forrestal (James Forrestal)", "Ernest J. King (Ernest J. King)"], "comments": [], "recommandations_id": []}

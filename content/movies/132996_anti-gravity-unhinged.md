@@ -1,1 +1,0 @@
-{"tmdb_id": 132996, "title": "Anti Gravity Unhinged", "original_title": "Anti Gravity Unhinged", "slug_title": "anti-gravity-unhinged", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o2SnE6cGf17TJc8h9M8BIh1u9lq.jpg", "actors": [], "comments": [], "recommandations_id": []}

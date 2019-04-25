@@ -1,1 +1,0 @@
-{"tmdb_id": 309440, "title": "Sinatra: Singing at His Best", "original_title": "Sinatra: Singing at His Best", "slug_title": "sinatra-singing-at-his-best", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

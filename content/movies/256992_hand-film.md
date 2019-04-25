@@ -1,1 +1,0 @@
-{"tmdb_id": 256992, "title": "Hand Film", "original_title": "Hand Film", "slug_title": "hand-film", "date": "1966-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/noNs3wHohC13VSka2W1OnRO38no.jpg", "actors": ["Yvonne Rainer ()"], "comments": [], "recommandations_id": []}

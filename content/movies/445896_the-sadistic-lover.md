@@ -1,1 +1,0 @@
-{"tmdb_id": 445896, "title": "The Sadistic Lover", "original_title": "The Sadistic Lover", "slug_title": "the-sadistic-lover", "date": "1966-03-31", "genre": "Crime", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

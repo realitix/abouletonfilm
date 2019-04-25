@@ -1,1 +1,0 @@
-{"tmdb_id": 363724, "title": "Notes from the Border", "original_title": "Notes from the Border", "slug_title": "notes-from-the-border", "date": "2015-09-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

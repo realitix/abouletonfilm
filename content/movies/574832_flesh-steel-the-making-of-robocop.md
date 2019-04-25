@@ -1,1 +1,0 @@
-{"tmdb_id": 574832, "title": "Flesh + Steel: The Making of 'RoboCop'", "original_title": "Flesh + Steel: The Making of 'RoboCop'", "slug_title": "flesh-steel-the-making-of-robocop", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

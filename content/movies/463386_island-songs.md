@@ -1,1 +1,1 @@
-{"tmdb_id": 463386, "title": "Island Songs", "original_title": "Island Songs", "slug_title": "island-songs", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 463386, "title": "Island Songs", "original_title": "Island Songs", "slug_title": "island-songs", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

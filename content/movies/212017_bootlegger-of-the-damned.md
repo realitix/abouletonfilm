@@ -1,1 +1,0 @@
-{"tmdb_id": 212017, "title": "Bootlegger of the Damned", "original_title": "Bootlegger of the Damned", "slug_title": "bootlegger-of-the-damned", "date": "2007-01-01", "genre": "Horreur / Action", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 387091, "title": "Splitting", "original_title": "Splitting", "slug_title": "splitting", "date": "1974-03-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

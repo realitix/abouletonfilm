@@ -1,1 +1,0 @@
-{"tmdb_id": 541404, "title": "The Day the Loving Stopped", "original_title": "The Day the Loving Stopped", "slug_title": "the-day-the-loving-stopped", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

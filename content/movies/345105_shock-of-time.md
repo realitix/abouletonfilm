@@ -1,1 +1,0 @@
-{"tmdb_id": 345105, "title": "Shock of Time", "original_title": "Shock of Time", "slug_title": "shock-of-time", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

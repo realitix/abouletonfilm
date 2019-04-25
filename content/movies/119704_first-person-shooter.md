@@ -1,1 +1,0 @@
-{"tmdb_id": 119704, "title": "First Person Shooter", "original_title": "First Person Shooter", "slug_title": "first-person-shooter", "date": "2002-09-01", "genre": "Documentaire", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Griffin Benger (shaGuar)"], "comments": [], "recommandations_id": []}

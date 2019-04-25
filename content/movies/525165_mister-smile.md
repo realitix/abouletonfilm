@@ -1,1 +1,0 @@
-{"tmdb_id": 525165, "title": "Mister Smile", "original_title": "Mister Smile", "slug_title": "mister-smile", "date": "1999-09-07", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

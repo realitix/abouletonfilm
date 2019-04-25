@@ -1,1 +1,0 @@
-{"tmdb_id": 154779, "title": "Ed Hardy: Tattoo the World", "original_title": "Ed Hardy: Tattoo the World", "slug_title": "ed-hardy-tattoo-the-world", "date": "2010-10-09", "genre": "Documentaire", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zgBYmCfP0mVqVAD0Vxd3BAGIWb7.jpg", "actors": [], "comments": [], "recommandations_id": []}

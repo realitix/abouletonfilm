@@ -1,1 +1,0 @@
-{"tmdb_id": 130157, "title": "Prosperity for 2008", "original_title": "Prosperity for 2008", "slug_title": "prosperity-for-2008", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/c8ZmNaSOZSXsuqK9m70kQ7msLo8.jpg", "actors": [], "comments": [], "recommandations_id": []}

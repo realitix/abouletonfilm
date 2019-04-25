@@ -1,1 +1,0 @@
-{"tmdb_id": 433193, "title": "Psykosf\u00e4r", "original_title": "Psykosf\u00e4r", "slug_title": "psykosfar", "date": "1965-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hLaI3OV2tLrrBdLbFDyUcQgMypM.jpg", "actors": [], "comments": [], "recommandations_id": []}

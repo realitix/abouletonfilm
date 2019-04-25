@@ -1,1 +1,0 @@
-{"tmdb_id": 144258, "title": "Girl Seeks Girl", "original_title": "Chica busca chica", "slug_title": "girl-seeks-girl", "date": "2009-11-10", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lLW34upIAfPW6oeNUUF90HeQSNq.jpg", "actors": [], "comments": [], "recommandations_id": []}

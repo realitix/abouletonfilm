@@ -1,1 +1,0 @@
-{"tmdb_id": 337212, "title": "Stay Then Go", "original_title": "Stay Then Go", "slug_title": "stay-then-go", "date": "2015-04-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Janel Moloney (Marion Baird)", "Nic Bishop (Dick Baird)", "Matt Kane (Eddie Baird)", "Sari Lennick (Kathy)"], "comments": [], "recommandations_id": []}

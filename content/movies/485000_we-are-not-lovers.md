@@ -1,1 +1,0 @@
-{"tmdb_id": 485000, "title": "We Are Not Lovers", "original_title": "We Are Not Lovers", "slug_title": "we-are-not-lovers", "date": "2017-02-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xxfVX4xpQO3Ej6VLGJSssWNXKw8.jpg", "actors": [], "comments": [], "recommandations_id": []}

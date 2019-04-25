@@ -1,1 +1,0 @@
-{"tmdb_id": 200367, "title": "The Mother of the Ranch", "original_title": "The Mother of the Ranch", "slug_title": "the-mother-of-the-ranch", "date": "1911-09-14", "genre": "Western", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Louise Lester (Mrs. Collins)"], "comments": [], "recommandations_id": []}

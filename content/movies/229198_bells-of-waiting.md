@@ -1,1 +1,0 @@
-{"tmdb_id": 229198, "title": "Bells of Waiting", "original_title": "Bells of Waiting", "slug_title": "bells-of-waiting", "date": "1993-10-20", "genre": "Horreur / Drame", "score": "4.3/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tembi Locke ()", "Robert Tyree. ()"], "comments": [], "recommandations_id": []}

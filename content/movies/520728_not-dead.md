@@ -1,1 +1,0 @@
-{"tmdb_id": 520728, "title": "NOT DEAD", "original_title": "NOT DEAD", "slug_title": "not-dead", "date": "2017-01-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Manu Sharma ()"], "comments": [], "recommandations_id": []}

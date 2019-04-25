@@ -1,1 +1,0 @@
-{"tmdb_id": 281226, "title": "No More Games", "original_title": "No More Games", "slug_title": "no-more-games", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Carla Fisher (Benita)", "Lai-Ling Bernstein (Rene)"], "comments": [], "recommandations_id": []}

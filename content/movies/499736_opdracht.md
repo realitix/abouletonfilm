@@ -1,1 +1,0 @@
-{"tmdb_id": 499736, "title": "Opdracht", "original_title": "Opdracht", "slug_title": "opdracht", "date": "1932-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mannus Franken ()", "Anthonie Donker ()", "Dick Laan ()"], "comments": [], "recommandations_id": []}

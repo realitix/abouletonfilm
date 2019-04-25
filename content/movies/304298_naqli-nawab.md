@@ -1,1 +1,0 @@
-{"tmdb_id": 304298, "title": "Naqli Nawab", "original_title": "Naqli Nawab", "slug_title": "naqli-nawab", "date": "1962-01-01", "genre": "Romance / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Manoj Kumar ()", "Shakila ()", "K.N. Singh ()", "Maruti ()", "Shammi ()", "Kamal Kapoor ()"], "comments": [], "recommandations_id": []}

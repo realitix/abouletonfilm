@@ -1,1 +1,0 @@
-{"tmdb_id": 396773, "title": "A City Speaks", "original_title": "A City Speaks", "slug_title": "a-city-speaks", "date": "1947-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

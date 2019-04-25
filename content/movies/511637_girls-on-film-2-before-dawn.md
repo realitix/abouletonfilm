@@ -1,1 +1,0 @@
-{"tmdb_id": 511637, "title": "Girls on Film 2: Before Dawn", "original_title": "Girls on Film 2: Before Dawn", "slug_title": "girls-on-film-2-before-dawn", "date": "2017-07-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AmqsAvsJ2KIibTPmk7v9afYj16u.jpg", "actors": [], "comments": [], "recommandations_id": []}

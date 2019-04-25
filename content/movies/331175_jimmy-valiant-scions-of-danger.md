@@ -1,1 +1,0 @@
-{"tmdb_id": 331175, "title": "Jimmy Valiant: Scions of Danger", "original_title": "Jimmy Valiant: Scions of Danger", "slug_title": "jimmy-valiant-scions-of-danger", "date": "2011-01-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 561531, "title": "Flammen", "original_title": "Flammen", "slug_title": "flammen", "date": "1967-12-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/81rZDfjXNICSBZC2wfqVo0B0oXV.jpg", "actors": [], "comments": [], "recommandations_id": []}

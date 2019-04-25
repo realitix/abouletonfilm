@@ -1,1 +1,0 @@
-{"tmdb_id": 524347, "title": "Chizhiki", "original_title": "\u0427\u0438\u0436\u0438\u043a\u0438", "slug_title": "chizhiki", "date": "2013-09-21", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nZxCI1ajURfrpn184FxB19umNwc.jpg", "actors": [], "comments": [], "recommandations_id": []}

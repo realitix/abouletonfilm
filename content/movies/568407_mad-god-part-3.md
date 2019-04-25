@@ -1,1 +1,0 @@
-{"tmdb_id": 568407, "title": "Mad God: Part 3", "original_title": "Mad God: Part 3", "slug_title": "mad-god-part-3", "date": "2018-12-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9wj1rz2l991GrdUTP1HdlwFU2KP.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 504910, "title": "Amateur Dramatics", "original_title": "Amateur Dramatics", "slug_title": "amateur-dramatics", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

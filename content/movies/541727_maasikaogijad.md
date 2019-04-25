@@ -1,1 +1,0 @@
-{"tmdb_id": 541727, "title": "Maasika\u00f5gijad", "original_title": "Maasika\u00f5gijad", "slug_title": "maasikaogijad", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vN0sXnUClqBcArWQn7dW3g69hZm.jpg", "actors": [], "comments": [], "recommandations_id": []}

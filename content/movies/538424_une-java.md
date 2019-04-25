@@ -1,1 +1,0 @@
-{"tmdb_id": 538424, "title": "Une java", "original_title": "Une java", "slug_title": "une-java", "date": "1939-01-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xlKlusDZC7BFpn7odjC03hNVgUP.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 564784, "title": "Disneyland's 35th Anniversary Special", "original_title": "Disneyland's 35th Anniversary Special", "slug_title": "disneyland-s-35th-anniversary-special", "date": "1990-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tony Danza (Himself - Host)"], "comments": [], "recommandations_id": []}

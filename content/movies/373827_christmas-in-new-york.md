@@ -1,1 +1,0 @@
-{"tmdb_id": 373827, "title": "Christmas in New York", "original_title": "Christmas in New York", "slug_title": "christmas-in-new-york", "date": "1997-01-01", "genre": "Familial / Animation", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8iGDldUyU8YHncLAlDIjiL5Gn3h.jpg", "actors": [], "comments": [], "recommandations_id": []}

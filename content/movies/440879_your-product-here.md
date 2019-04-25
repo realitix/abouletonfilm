@@ -1,1 +1,0 @@
-{"tmdb_id": 440879, "title": "Your Product Here", "original_title": "Your Product Here", "slug_title": "your-product-here", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

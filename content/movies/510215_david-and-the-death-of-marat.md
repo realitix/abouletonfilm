@@ -1,1 +1,0 @@
-{"tmdb_id": 510215, "title": "David And The Death Of Marat", "original_title": "David And The Death Of Marat", "slug_title": "david-and-the-death-of-marat", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6qzzWVUdCeZS2JvZlCgx7fhvyFo.jpg", "actors": [], "comments": [], "recommandations_id": []}

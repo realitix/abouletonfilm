@@ -1,1 +1,0 @@
-{"tmdb_id": 469236, "title": "T\u0159i arm\u00e1dy \u2013 jeden duch", "original_title": "T\u0159i arm\u00e1dy \u2013 jeden duch", "slug_title": "tri-armady-jeden-duch", "date": "1938-07-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

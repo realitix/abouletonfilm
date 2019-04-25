@@ -1,1 +1,0 @@
-{"tmdb_id": 358839, "title": "Scars of Shame", "original_title": "Scars of Shame", "slug_title": "scars-of-shame", "date": "2013-04-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Angela Hartlin (Herself)"], "comments": [], "recommandations_id": []}

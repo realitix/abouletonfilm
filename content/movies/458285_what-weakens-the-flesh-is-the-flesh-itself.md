@@ -1,1 +1,0 @@
-{"tmdb_id": 458285, "title": "What weakens the flesh is the flesh itself", "original_title": "What weakens the flesh is the flesh itself", "slug_title": "what-weakens-the-flesh-is-the-flesh-itself", "date": "2017-05-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 328006, "title": "Untitled (Record Player)", "original_title": "Bez naziva (Record Player)", "slug_title": "untitled-record-player", "date": "1976-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

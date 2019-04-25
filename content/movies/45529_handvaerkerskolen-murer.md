@@ -1,1 +1,0 @@
-{"tmdb_id": 45529, "title": "H\u00e5ndv\u00e6rkerskolen - Murer", "original_title": "H\u00e5ndv\u00e6rkerskolen - Murer", "slug_title": "handvaerkerskolen-murer", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b2OBaC0XEmdH52XlP9CNQn3dLoG.jpg", "actors": [], "comments": [], "recommandations_id": []}

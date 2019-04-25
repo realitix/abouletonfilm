@@ -1,1 +1,0 @@
-{"tmdb_id": 592045, "title": "Overdosed Nightmare", "original_title": "Bagungot na Bangag", "slug_title": "overdosed-nightmare", "date": "2008-01-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jqm6H5faZ4AJkVF2McTuxODgE7P.jpg", "actors": [], "comments": [], "recommandations_id": []}

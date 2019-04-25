@@ -1,1 +1,0 @@
-{"tmdb_id": 555825, "title": "La nuit de la Saint Jean", "original_title": "La nuit de la Saint Jean", "slug_title": "la-nuit-de-la-saint-jean", "date": "1922-03-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

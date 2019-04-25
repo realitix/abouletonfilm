@@ -1,1 +1,0 @@
-{"tmdb_id": 73780, "title": "No Right Turn", "original_title": "No Right Turn", "slug_title": "no-right-turn", "date": "2009-05-05", "genre": "Drame / Action / Thriller / Myst\u00e8re", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4Cb5GhkrHSCsBP1kIse2HFiBm2R.jpg", "actors": [], "comments": [], "recommandations_id": []}

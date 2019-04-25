@@ -1,1 +1,0 @@
-{"tmdb_id": 592662, "title": "Castle in the Ground", "original_title": "Castle in the Ground", "slug_title": "castle-in-the-ground", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Keir Gilchrist ()", "Alex Wolff ()", "Imogen Poots ()", "Neve Campbell ()", "Tom Cullen ()"], "comments": [], "recommandations_id": []}

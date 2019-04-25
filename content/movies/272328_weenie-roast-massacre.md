@@ -1,1 +1,0 @@
-{"tmdb_id": 272328, "title": "Weenie Roast Massacre", "original_title": "Weenie Roast Massacre", "slug_title": "weenie-roast-massacre", "date": "2007-01-01", "genre": "Horreur", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rfiJjfzjDKMtPOkWGzX6mXATd8s.jpg", "actors": [], "comments": [], "recommandations_id": []}

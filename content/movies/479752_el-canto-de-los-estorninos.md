@@ -1,1 +1,0 @@
-{"tmdb_id": 479752, "title": "El Canto de los Estorninos", "original_title": "El Canto de los Estorninos", "slug_title": "el-canto-de-los-estorninos", "date": "2016-10-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fepK5FRXv94kqgGUCA0PinnzPZS.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 589781, "title": "Regionalzeitung", "original_title": "Regionalzeitung", "slug_title": "regionalzeitung", "date": "1967-12-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

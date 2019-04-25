@@ -1,1 +1,0 @@
-{"tmdb_id": 477024, "title": "Wrong Numbers", "original_title": "Wrong Numbers", "slug_title": "wrong-numbers", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

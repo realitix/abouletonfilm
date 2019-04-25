@@ -1,1 +1,0 @@
-{"tmdb_id": 573766, "title": "Attack of the Killer Shrews!", "original_title": "Attack of the Killer Shrews!", "slug_title": "attack-of-the-killer-shrews", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

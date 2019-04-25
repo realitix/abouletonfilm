@@ -1,1 +1,0 @@
-{"tmdb_id": 138343, "title": "Fotbollskr\u00f6nikan VM 1986", "original_title": "Fotbollskr\u00f6nikan VM 1986", "slug_title": "fotbollskronikan-vm-1986", "date": "1986-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3n5pD0sorlNU5SlPhj5StMqpoOu.jpg", "actors": [], "comments": [], "recommandations_id": []}

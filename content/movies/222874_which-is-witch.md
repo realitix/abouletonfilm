@@ -1,1 +1,0 @@
-{"tmdb_id": 222874, "title": "Which Is Witch?", "original_title": "Which Is Witch?", "slug_title": "which-is-witch", "date": "1958-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

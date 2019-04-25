@@ -1,1 +1,1 @@
-{"tmdb_id": 417693, "title": "\uc5f4\uad81\ub140", "original_title": "\uc5f4\uad81\ub140", "slug_title": "yeolgungnyeo", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 417693, "title": "\uc5f4\uad81\ub140", "original_title": "\uc5f4\uad81\ub140", "slug_title": "yeolgungnyeo", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

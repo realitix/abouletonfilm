@@ -1,1 +1,0 @@
-{"tmdb_id": 555606, "title": "My Name Is Daniel", "original_title": "Meu Nome \u00e9 Daniel", "slug_title": "my-name-is-daniel", "date": "2018-04-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iSiDAqd7DHpwoj8sepaQ3Nqc3ZX.jpg", "actors": [], "comments": [], "recommandations_id": []}

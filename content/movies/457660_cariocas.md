@@ -1,1 +1,0 @@
-{"tmdb_id": 457660, "title": "Cariocas", "original_title": "Cariocas", "slug_title": "cariocas", "date": "2014-05-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xd7ZtvNngCtEKCf9uheI5GnxZTk.jpg", "actors": [], "comments": [], "recommandations_id": []}

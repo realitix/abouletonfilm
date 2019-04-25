@@ -1,1 +1,0 @@
-{"tmdb_id": 349609, "title": "\ubc24\uc774 \ubb34\ub108\uc9c8 \ub54c", "original_title": "\ubc24\uc774 \ubb34\ub108\uc9c8 \ub54c", "slug_title": "bami-muneojil-ddae", "date": "1984-04-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

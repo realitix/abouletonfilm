@@ -1,1 +1,0 @@
-{"tmdb_id": 450254, "title": "Graduation Day", "original_title": "Graduation Day", "slug_title": "graduation-day", "date": "2015-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dmgUAto1IjTn3aW6dP96KGsPD7I.jpg", "actors": ["Kathlene Ashcraft (Mom)", "Kyle Jones (Brian)"], "comments": [], "recommandations_id": []}

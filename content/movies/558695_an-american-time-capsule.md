@@ -1,1 +1,0 @@
-{"tmdb_id": 558695, "title": "An American Time Capsule", "original_title": "An American Time Capsule", "slug_title": "an-american-time-capsule", "date": "1969-01-01", "genre": "Histoire / Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

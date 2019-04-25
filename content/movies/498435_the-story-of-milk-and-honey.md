@@ -1,1 +1,0 @@
-{"tmdb_id": 498435, "title": "The Story of Milk and Honey", "original_title": "The Story of Milk and Honey", "slug_title": "the-story-of-milk-and-honey", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

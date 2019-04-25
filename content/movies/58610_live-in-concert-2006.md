@@ -1,1 +1,0 @@
-{"tmdb_id": 58610, "title": "Live in Concert 2006", "original_title": "Live in Concert 2006", "slug_title": "live-in-concert-2006", "date": "2006-06-30", "genre": "Musique", "score": "6.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w4LQsXrssxW2eeYxnRdC4cSOlBD.jpg", "actors": ["Barbra Streisand ()"], "comments": [], "recommandations_id": []}

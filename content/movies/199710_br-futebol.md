@@ -1,1 +1,0 @@
-{"tmdb_id": 199710, "title": "BR Futebol", "original_title": "BR Futebol", "slug_title": "br-futebol", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3HmDOqr3JzulMrISIlfZUaVb7pQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

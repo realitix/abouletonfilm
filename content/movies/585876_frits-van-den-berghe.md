@@ -1,1 +1,0 @@
-{"tmdb_id": 585876, "title": "Frits Van den Berghe", "original_title": "Frits Van den Berghe", "slug_title": "frits-van-den-berghe", "date": "1977-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

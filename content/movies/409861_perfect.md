@@ -1,1 +1,0 @@
-{"tmdb_id": 409861, "title": "Perfect", "original_title": "Parfaites", "slug_title": "perfect", "date": "2016-08-05", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pRGU3YsLmA8pLB08oDDMVABbNX9.jpg", "actors": ["Meng Chen ()", "Marie-Lou Morin ()", "Claudia Holzner ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 569233, "title": "Landscape", "original_title": "Landscape", "slug_title": "landscape", "date": "1983-02-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j8Z2rld9st18nMeEAwDdYxw6NNH.jpg", "actors": ["Colin Blakely (Duff)", "Dorothy Tutin (Beth)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 203002, "title": "Hitler Uncovered: Color of War", "original_title": "Hitler Uncovered: Color of War", "slug_title": "hitler-uncovered-color-of-war", "date": "2007-05-21", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

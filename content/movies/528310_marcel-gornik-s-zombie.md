@@ -1,1 +1,0 @@
-{"tmdb_id": 528310, "title": "Marcel Gornik's Zombie", "original_title": "Marcel Gornik's Zombie", "slug_title": "marcel-gornik-s-zombie", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wet7q33xx3LMO30TlGBtANaNHud.jpg", "actors": [], "comments": [], "recommandations_id": []}

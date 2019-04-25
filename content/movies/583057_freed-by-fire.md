@@ -1,1 +1,0 @@
-{"tmdb_id": 583057, "title": "Freed by Fire", "original_title": "Freed by Fire", "slug_title": "freed-by-fire", "date": "2017-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 481786, "title": "Cho Ninja Tai Inazuma", "original_title": "Cho Ninja Tai Inazuma", "slug_title": "cho-ninja-tai-inazuma", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Atsushi Hashimoto (Hosomatsu/Raiden)", "Hiroya Matsumoto (Kankichi/Senden)"], "comments": [], "recommandations_id": []}

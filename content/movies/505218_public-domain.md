@@ -1,1 +1,0 @@
-{"tmdb_id": 505218, "title": "Public Domain", "original_title": "Public Domain", "slug_title": "public-domain", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

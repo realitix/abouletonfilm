@@ -1,1 +1,0 @@
-{"tmdb_id": 499970, "title": "Apostle Paul", "original_title": "Apostle Paul", "slug_title": "apostle-paul", "date": "", "genre": "Histoire / Drame", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

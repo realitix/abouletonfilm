@@ -1,1 +1,0 @@
-{"tmdb_id": 231755, "title": "Visita del General Mitre al Museo Nacional", "original_title": "Visita del General Mitre al Museo Nacional", "slug_title": "visita-del-general-mitre-al-museo-nacional", "date": "1900-10-31", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

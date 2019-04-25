@@ -1,1 +1,0 @@
-{"tmdb_id": 581548, "title": "NomadsLife", "original_title": "NomadsLife", "slug_title": "nomadslife", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sF9OpQfmRRrTFDHE7z4HLaQkSxk.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 590403, "title": "Imtiaz Ali Untitled Project", "original_title": "Imtiaz Ali Untitled Project", "slug_title": "imtiaz-ali-untitled-project", "date": "2020-02-14", "genre": "Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kartik Aaryan ()", "Sara Ali Khan ()", "Randeep Hooda ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 345381, "title": "The Fable of the Leaf", "original_title": "The Fable of the Leaf", "slug_title": "the-fable-of-the-leaf", "date": "2007-06-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

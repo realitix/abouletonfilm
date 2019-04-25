@@ -1,1 +1,0 @@
-{"tmdb_id": 207448, "title": "Tiny Robots", "original_title": "Robozinhos", "slug_title": "tiny-robots", "date": "2008-01-01", "genre": "Animation / Com\u00e9die / Familial / Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/agBhQmeKAfOnZ8tjUjLcHYM6l4.jpg", "actors": [], "comments": [], "recommandations_id": []}

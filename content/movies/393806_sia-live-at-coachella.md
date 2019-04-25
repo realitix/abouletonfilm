@@ -1,1 +1,0 @@
-{"tmdb_id": 393806, "title": "Sia - Live at Coachella", "original_title": "Sia - Live at Coachella", "slug_title": "sia-live-at-coachella", "date": "2016-04-17", "genre": "Musique", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6ua68fDUmgXI2UAxvKJ6v3wHIPt.jpg", "actors": ["Sia (Herself)"], "comments": [], "recommandations_id": []}

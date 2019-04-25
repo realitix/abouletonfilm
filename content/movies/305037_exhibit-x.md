@@ -1,1 +1,0 @@
-{"tmdb_id": 305037, "title": "EXHIBIT X", "original_title": "EXHIBIT X", "slug_title": "exhibit-x", "date": "2012-10-31", "genre": "Thriller / Crime / Horreur", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l62ZuiidWdnyOS71JEimpc8bsJO.jpg", "actors": [], "comments": [], "recommandations_id": []}

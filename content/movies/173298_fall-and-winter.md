@@ -1,1 +1,0 @@
-{"tmdb_id": 173298, "title": "Fall and Winter", "original_title": "Fall and Winter", "slug_title": "fall-and-winter", "date": "", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

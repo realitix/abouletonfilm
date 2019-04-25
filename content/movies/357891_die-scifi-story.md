@@ -1,1 +1,0 @@
-{"tmdb_id": 357891, "title": "Die Scifi Story", "original_title": "Die Scifi Story", "slug_title": "die-scifi-story", "date": "2014-09-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/keAQk09mjOgGSyQH3g0tKUbFCKA.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 576477, "title": "Lugosi: The Forgotten King", "original_title": "Lugosi: The Forgotten King", "slug_title": "lugosi-the-forgotten-king", "date": "1985-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hUveQjaHzO7ajatp8w9WDAjzOM3.jpg", "actors": [], "comments": [], "recommandations_id": []}

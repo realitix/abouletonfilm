@@ -1,1 +1,0 @@
-{"tmdb_id": 581551, "title": "S.O.B. and the Legend of Alan Schafer", "original_title": "S.O.B. and the Legend of Alan Schafer", "slug_title": "s-o-b-and-the-legend-of-alan-schafer", "date": "2009-04-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

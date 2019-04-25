@@ -1,1 +1,0 @@
-{"tmdb_id": 593389, "title": "Judit och Herman", "original_title": "Judit och Herman", "slug_title": "judit-och-herman", "date": "1974-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Eddie Axberg ()", "Elisabeth Zedigh ()"], "comments": [], "recommandations_id": []}

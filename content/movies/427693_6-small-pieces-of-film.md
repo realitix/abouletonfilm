@@ -1,1 +1,0 @@
-{"tmdb_id": 427693, "title": "6 Small Pieces of Film", "original_title": "6 kleine St\u00fccke auf Film", "slug_title": "6-small-pieces-of-film", "date": "1977-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hFrRaoLV7YSfGWvCWbre1iLdUsM.jpg", "actors": [], "comments": [], "recommandations_id": []}

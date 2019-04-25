@@ -1,1 +1,0 @@
-{"tmdb_id": 245360, "title": "The Little Convict", "original_title": "The Little Convict", "slug_title": "the-little-convict", "date": "1979-12-20", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8EP0yjZnFvgUIrlE3yeQVPp31so.jpg", "actors": [], "comments": [], "recommandations_id": []}

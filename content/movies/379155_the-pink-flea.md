@@ -1,1 +1,0 @@
-{"tmdb_id": 379155, "title": "The Pink Flea", "original_title": "The Pink Flea", "slug_title": "the-pink-flea", "date": "1971-09-15", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cwP5WfKJ0tPEBycZQuM1LrACMYb.jpg", "actors": [], "comments": [], "recommandations_id": []}

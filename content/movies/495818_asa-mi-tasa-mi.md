@@ -1,1 +1,0 @@
-{"tmdb_id": 495818, "title": "Asa Mi Tasa Mi", "original_title": "Asa Mi Tasa Mi", "slug_title": "asa-mi-tasa-mi", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

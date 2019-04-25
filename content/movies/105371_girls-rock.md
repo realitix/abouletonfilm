@@ -1,1 +1,0 @@
-{"tmdb_id": 105371, "title": "Girls Rock!", "original_title": "Girls Rock!", "slug_title": "girls-rock", "date": "2008-03-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jcswjKqSu9jK9VfRtIfB9CnW7Ys.jpg", "actors": [], "comments": [], "recommandations_id": []}

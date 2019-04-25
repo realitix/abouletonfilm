@@ -1,1 +1,0 @@
-{"tmdb_id": 304793, "title": "Destination: Lusby!", "original_title": "Destination: Lusby!", "slug_title": "destination-lusby", "date": "2014-09-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Nick Byrne (Himself)"], "comments": [], "recommandations_id": []}

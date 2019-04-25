@@ -1,1 +1,0 @@
-{"tmdb_id": 359729, "title": "Gentle Whistle, Bird, and Stone", "original_title": "Yasash\u012b fue, tori, ishi", "slug_title": "gentle-whistle-bird-and-stone", "date": "2005-01-01", "genre": "Animation", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

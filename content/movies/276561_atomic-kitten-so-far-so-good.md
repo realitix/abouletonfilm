@@ -1,1 +1,0 @@
-{"tmdb_id": 276561, "title": "Atomic Kitten: So Far So Good", "original_title": "Atomic Kitten: So Far So Good", "slug_title": "atomic-kitten-so-far-so-good", "date": "2001-11-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

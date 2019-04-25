@@ -1,1 +1,0 @@
-{"tmdb_id": 450113, "title": "Friendship Through the Ages", "original_title": "Friendship Through the Ages", "slug_title": "friendship-through-the-ages", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

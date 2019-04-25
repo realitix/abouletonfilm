@@ -1,1 +1,0 @@
-{"tmdb_id": 358655, "title": "North to the Dales", "original_title": "North to the Dales", "slug_title": "north-to-the-dales", "date": "1962-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 313399, "title": "Inside Slade: The Singles: 1971-1991", "original_title": "Inside Slade: The Singles: 1971-1991", "slug_title": "inside-slade-the-singles-1971-1991", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

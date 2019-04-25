@@ -1,1 +1,0 @@
-{"tmdb_id": 435791, "title": "Fangio: Una vita a 300 all'ora", "original_title": "Fangio: Una vita a 300 all'ora", "slug_title": "fangio-una-vita-a-300-all-ora", "date": "1980-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Juan Manuel Fangio (Himself)"], "comments": [], "recommandations_id": []}

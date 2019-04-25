@@ -1,1 +1,0 @@
-{"tmdb_id": 377334, "title": "The Color of Life", "original_title": "Kar\u0101 obu Raifu", "slug_title": "the-color-of-life", "date": "2002-03-22", "genre": "Com\u00e9die", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qPlysqXMhUPg8lsua5b869XhbkG.jpg", "actors": [], "comments": [], "recommandations_id": []}

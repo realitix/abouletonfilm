@@ -1,1 +1,0 @@
-{"tmdb_id": 508863, "title": "The Infection", "original_title": "The Infection", "slug_title": "the-infection", "date": "2018-03-01", "genre": "Thriller", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ctaN4IcowLd36nY2ylFq7oEJ1zm.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 294780, "title": "Two Fat Ladies", "original_title": "Two Fat Ladies", "slug_title": "two-fat-ladies", "date": "1996-01-01", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

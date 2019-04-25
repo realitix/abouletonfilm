@@ -1,1 +1,0 @@
-{"tmdb_id": 374761, "title": "East of Salinas", "original_title": "East of Salinas", "slug_title": "east-of-salinas", "date": "2015-12-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b3ZUdqzXZkOxE6WA1o0WGKTmFwR.jpg", "actors": [], "comments": [], "recommandations_id": []}

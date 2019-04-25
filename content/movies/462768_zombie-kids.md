@@ -1,1 +1,0 @@
-{"tmdb_id": 462768, "title": "Zombie Kids", "original_title": "Zombie Kids", "slug_title": "zombie-kids", "date": "2013-10-27", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wcPK5dRE7EKWgm4KXFzwHnxDg6q.jpg", "actors": ["Greg Hinaman ()", "Hope Muehlbauer ()"], "comments": [], "recommandations_id": []}

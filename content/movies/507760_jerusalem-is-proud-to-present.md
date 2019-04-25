@@ -1,1 +1,0 @@
-{"tmdb_id": 507760, "title": "Jerusalem Is Proud to Present", "original_title": "Jerusalem Is Proud to Present", "slug_title": "jerusalem-is-proud-to-present", "date": "2008-07-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x9lT5YHbTPb6weQq826MoFaNaa7.jpg", "actors": [], "comments": [], "recommandations_id": []}

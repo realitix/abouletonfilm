@@ -1,1 +1,0 @@
-{"tmdb_id": 291534, "title": "Untitled Bill Clinton Documentary", "original_title": "Untitled Bill Clinton Documentary", "slug_title": "untitled-bill-clinton-documentary", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bill Clinton ()", "Hillary Clinton ()"], "comments": [], "recommandations_id": []}

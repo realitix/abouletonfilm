@@ -1,1 +1,0 @@
-{"tmdb_id": 563828, "title": "Sex, Drugs and Homelessness", "original_title": "Sex, Drugs and Homelessness", "slug_title": "sex-drugs-and-homelessness", "date": "2017-08-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pXtvN8TUrlDNqqZXqC4BtPJWELP.jpg", "actors": [], "comments": [], "recommandations_id": []}

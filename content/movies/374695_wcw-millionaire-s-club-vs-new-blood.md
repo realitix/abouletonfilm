@@ -1,1 +1,0 @@
-{"tmdb_id": 374695, "title": "WCW - Millionaire's Club Vs. New Blood", "original_title": "WCW - Millionaire's Club Vs. New Blood", "slug_title": "wcw-millionaire-s-club-vs-new-blood", "date": "2000-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

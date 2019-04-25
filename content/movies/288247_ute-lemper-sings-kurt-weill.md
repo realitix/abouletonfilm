@@ -1,1 +1,0 @@
-{"tmdb_id": 288247, "title": "Ute Lemper Sings Kurt Weill", "original_title": "Ute Lemper Sings Kurt Weill", "slug_title": "ute-lemper-sings-kurt-weill", "date": "1992-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

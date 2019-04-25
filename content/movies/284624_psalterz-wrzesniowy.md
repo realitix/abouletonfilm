@@ -1,1 +1,0 @@
-{"tmdb_id": 284624, "title": "Psa\u0142terz Wrze\u015bniowy", "original_title": "Psa\u0142terz Wrze\u015bniowy", "slug_title": "psalterz-wrzesniowy", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7fe82Mu6mIFNcfG0zWPbMu8fT0l.jpg", "actors": [], "comments": [], "recommandations_id": []}

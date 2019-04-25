@@ -1,1 +1,0 @@
-{"tmdb_id": 72323, "title": "Aren't the Kids Lovely?", "original_title": "Er nu jing", "slug_title": "aren-t-the-kids-lovely", "date": "1953-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Qiuxia Gong ()", "Fan Ping ()", "Hui Shi ()", "Qin Su ()"], "comments": [], "recommandations_id": []}

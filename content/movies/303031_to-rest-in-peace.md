@@ -1,1 +1,0 @@
-{"tmdb_id": 303031, "title": "To Rest in Peace", "original_title": "To Rest in Peace", "slug_title": "to-rest-in-peace", "date": "2011-05-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

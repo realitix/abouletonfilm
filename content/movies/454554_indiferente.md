@@ -1,1 +1,0 @@
-{"tmdb_id": 454554, "title": "Indiferente", "original_title": "Indiferente", "slug_title": "indiferente", "date": "2014-10-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1UcjFukFRc8mOv91lFrTW4PGRoQ.jpg", "actors": ["Fernando Bittencourt (Pedro)", "Suzi Curcio (Laura)"], "comments": [], "recommandations_id": []}

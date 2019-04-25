@@ -1,1 +1,0 @@
-{"tmdb_id": 273909, "title": "Along Recovery", "original_title": "Along Recovery", "slug_title": "along-recovery", "date": "2012-05-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

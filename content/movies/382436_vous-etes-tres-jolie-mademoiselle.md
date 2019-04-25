@@ -1,1 +1,0 @@
-{"tmdb_id": 382436, "title": "Vous \u00eates tr\u00e8s jolie, mademoiselle", "original_title": "Vous \u00eates tr\u00e8s jolie, mademoiselle", "slug_title": "vous-etes-tres-jolie-mademoiselle", "date": "", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

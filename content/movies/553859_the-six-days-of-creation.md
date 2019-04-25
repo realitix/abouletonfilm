@@ -1,1 +1,0 @@
-{"tmdb_id": 553859, "title": "The Six Days Of Creation", "original_title": "The Six Days Of Creation", "slug_title": "the-six-days-of-creation", "date": "2002-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Aqm1Hv8KDnaFQ2lhYH1tzZe3w8E.jpg", "actors": [], "comments": [], "recommandations_id": []}

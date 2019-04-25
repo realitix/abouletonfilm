@@ -1,1 +1,0 @@
-{"tmdb_id": 334867, "title": "Rafi Baby", "original_title": "Rafi Baby", "slug_title": "rafi-baby", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

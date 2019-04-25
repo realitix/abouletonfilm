@@ -1,1 +1,0 @@
-{"tmdb_id": 582578, "title": "All inclusive", "original_title": "All inclusive", "slug_title": "all-inclusive", "date": "2019-09-06", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Andrzej Chyra ()", "Izabela Kuna ()", "Krzysztof Czeczot  ()", "Jakub Majmurek ()"], "comments": [], "recommandations_id": []}

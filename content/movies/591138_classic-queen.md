@@ -1,1 +1,0 @@
-{"tmdb_id": 591138, "title": "Classic Queen", "original_title": "Classic Queen", "slug_title": "classic-queen", "date": "1992-09-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xUvaQ5hpIFwZc1FRP9PnDvGh7bI.jpg", "actors": [], "comments": [], "recommandations_id": []}

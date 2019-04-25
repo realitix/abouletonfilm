@@ -1,1 +1,0 @@
-{"tmdb_id": 36890, "title": "The African Twintowers", "original_title": "The African Twintowers", "slug_title": "the-african-twintowers", "date": "2008-08-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1HlX2ghOvIFXrnyyli6qPILNBkR.jpg", "actors": [], "comments": [], "recommandations_id": []}

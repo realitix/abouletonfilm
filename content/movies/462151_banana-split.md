@@ -1,1 +1,0 @@
-{"tmdb_id": 462151, "title": "Banana Split", "original_title": "Banana Split", "slug_title": "banana-split", "date": "1991-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/auRvcSrtEI1LWpTzKbuXi2jv5Ul.jpg", "actors": ["Kip Fulbeck (Himself)"], "comments": [], "recommandations_id": []}

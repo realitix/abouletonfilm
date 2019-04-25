@@ -1,1 +1,0 @@
-{"tmdb_id": 134395, "title": "Walking to the Cage", "original_title": "Walking to the Cage", "slug_title": "walking-to-the-cage", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

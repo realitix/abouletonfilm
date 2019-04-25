@@ -1,1 +1,0 @@
-{"tmdb_id": 468812, "title": "Painted Pictures", "original_title": "Painted Pictures", "slug_title": "painted-pictures", "date": "1930-03-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Haddon Mason (John Marsh)", "Winifred Evans (The Flirt)", "Evelyn Spillsbury (The Girl)"], "comments": [], "recommandations_id": []}

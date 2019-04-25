@@ -1,1 +1,0 @@
-{"tmdb_id": 470059, "title": "Madagascar: The Lost Makay", "original_title": "Madagascar: The Lost Makay", "slug_title": "madagascar-the-lost-makay", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4v6yFWcyT4Z7lV8O0psG7LDS16R.jpg", "actors": [], "comments": [], "recommandations_id": []}

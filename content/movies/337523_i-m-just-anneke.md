@@ -1,1 +1,0 @@
-{"tmdb_id": 337523, "title": "I'm Just Anneke", "original_title": "I'm Just Anneke", "slug_title": "i-m-just-anneke", "date": "2012-06-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

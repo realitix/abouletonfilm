@@ -1,1 +1,0 @@
-{"tmdb_id": 345417, "title": "Min Bestemor Beijing", "original_title": "Min Bestemor Beijing", "slug_title": "min-bestemor-beijing", "date": "2008-06-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 136722, "title": "My Big Fat Gypsy Wedding", "original_title": "My Big Fat Gypsy Wedding", "slug_title": "my-big-fat-gypsy-wedding", "date": "", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 373405, "title": "Hotel Diaries: Six Years Later", "original_title": "Hotel Diaries: Six Years Later", "slug_title": "hotel-diaries-six-years-later", "date": "2007-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/imAYIRvic6zxW2q9RIRPEwfl73H.jpg", "actors": [], "comments": [], "recommandations_id": []}

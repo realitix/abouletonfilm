@@ -1,1 +1,0 @@
-{"tmdb_id": 484187, "title": "Pool Intruder", "original_title": "Pool Intruder", "slug_title": "pool-intruder", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Danny Palick ()", "Josh Long ()"], "comments": [], "recommandations_id": []}

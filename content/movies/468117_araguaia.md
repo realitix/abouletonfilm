@@ -1,1 +1,0 @@
-{"tmdb_id": 468117, "title": "Araguaia", "original_title": "Araguaia", "slug_title": "araguaia", "date": "2015-12-09", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yTKtTKR1Ogk57HpPEjHPoFJJyAj.jpg", "actors": [], "comments": [], "recommandations_id": []}

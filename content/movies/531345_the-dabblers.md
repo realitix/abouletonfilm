@@ -1,1 +1,0 @@
-{"tmdb_id": 531345, "title": "The Dabblers", "original_title": "The Dabblers", "slug_title": "the-dabblers", "date": "2018-06-21", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/65WLAxtXYjo1WWOnhDOCyn5dunw.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 459240, "title": "Se busca (un mar de ausencia)", "original_title": "Se busca (un mar de ausencia)", "slug_title": "se-busca-un-mar-de-ausencia", "date": "2016-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

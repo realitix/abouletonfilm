@@ -1,1 +1,0 @@
-{"tmdb_id": 592340, "title": "The Bike", "original_title": "The Bike", "slug_title": "the-bike", "date": "1968-03-04", "genre": "Drame / Familial", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

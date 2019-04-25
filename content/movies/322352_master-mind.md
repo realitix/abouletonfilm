@@ -1,1 +1,1 @@
-{"tmdb_id": 322352, "title": "Master Mind", "original_title": "Master Mind", "slug_title": "master-mind", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 322352, "title": "Master Mind", "original_title": "Master Mind", "slug_title": "master-mind", "date": "2011-01-01", "genre": [""], "score": "0.0/10", "synopsis": "2011 Indian Film", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

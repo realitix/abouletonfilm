@@ -1,1 +1,0 @@
-{"tmdb_id": 528031, "title": "Mazinkaiser", "original_title": "Mazinkaiser", "slug_title": "mazinkaiser", "date": "2001-09-25", "genre": "Animation / Science-Fiction / Action", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1VU66rp15MAtLLp9akN6WDVFUYF.jpg", "actors": [], "comments": [], "recommandations_id": []}

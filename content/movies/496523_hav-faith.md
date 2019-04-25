@@ -1,1 +1,0 @@
-{"tmdb_id": 496523, "title": "Hav Faith", "original_title": "Hav Faith", "slug_title": "hav-faith", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fAo6BChYxz4cY0wSp9we57NpF9i.jpg", "actors": [], "comments": [], "recommandations_id": []}

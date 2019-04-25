@@ -1,1 +1,0 @@
-{"tmdb_id": 42271, "title": "Pool Party", "original_title": "Pool Party", "slug_title": "pool-party", "date": "", "genre": "Com\u00e9die", "score": "2.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2fuSrk5pGgFtFh47aORxvkDNp0D.jpg", "actors": [], "comments": [], "recommandations_id": []}

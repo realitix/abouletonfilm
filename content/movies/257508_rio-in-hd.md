@@ -1,1 +1,0 @@
-{"tmdb_id": 257508, "title": "Rio in HD", "original_title": "Rio in HD", "slug_title": "rio-in-hd", "date": "2010-02-21", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tT51JFEQNTuM4BX196KeImsd5ox.jpg", "actors": [], "comments": [], "recommandations_id": []}

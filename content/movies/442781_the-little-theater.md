@@ -1,1 +1,0 @@
-{"tmdb_id": 442781, "title": "The Little Theater", "original_title": "The Little Theater", "slug_title": "the-little-theater", "date": "1941-02-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

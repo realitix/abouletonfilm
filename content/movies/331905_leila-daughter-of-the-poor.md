@@ -1,1 +1,0 @@
-{"tmdb_id": 331905, "title": "Leila, Daughter of the Poor", "original_title": "Leila bint el fukara", "slug_title": "leila-daughter-of-the-poor", "date": "1946-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Laila Mourad ()", "Anwar Wagdi ()"], "comments": [], "recommandations_id": []}

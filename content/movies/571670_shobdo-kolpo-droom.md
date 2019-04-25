@@ -1,1 +1,0 @@
-{"tmdb_id": 571670, "title": "Shobdo Kolpo Droom", "original_title": "Shobdo Kolpo Droom", "slug_title": "shobdo-kolpo-droom", "date": "2018-07-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tpr7iuVGc1vqxg9PJH57SOXeVyx.jpg", "actors": [], "comments": [], "recommandations_id": []}

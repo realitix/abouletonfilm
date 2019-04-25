@@ -1,1 +1,0 @@
-{"tmdb_id": 29720, "title": "Democracy Is ...", "original_title": "Democracy Is ...", "slug_title": "democracy-is", "date": "2009-01-31", "genre": "Animation / Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2uB0AUdsT0R9hcqmFKmZUQ0upcg.jpg", "actors": [], "comments": [], "recommandations_id": []}

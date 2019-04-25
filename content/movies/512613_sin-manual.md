@@ -1,1 +1,0 @@
-{"tmdb_id": 512613, "title": "Sin manual", "original_title": "Sin manual", "slug_title": "sin-manual", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

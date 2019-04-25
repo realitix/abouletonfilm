@@ -1,1 +1,0 @@
-{"tmdb_id": 477991, "title": "Secret Room", "original_title": "Secret Room", "slug_title": "secret-room", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

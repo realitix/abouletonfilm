@@ -1,1 +1,0 @@
-{"tmdb_id": 533329, "title": "Dialogus corporis", "original_title": "Dialogus corporis", "slug_title": "dialogus-corporis", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

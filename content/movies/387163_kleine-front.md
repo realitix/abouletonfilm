@@ -1,1 +1,0 @@
-{"tmdb_id": 387163, "title": "Kleine Front", "original_title": "Kleine Front", "slug_title": "kleine-front", "date": "1965-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Werner Enke ()"], "comments": [], "recommandations_id": []}

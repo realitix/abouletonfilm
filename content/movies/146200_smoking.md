@@ -1,1 +1,0 @@
-{"tmdb_id": 146200, "title": "Smoking", "original_title": "Smoking", "slug_title": "smoking", "date": "1966-12-31", "genre": "", "score": "5.4/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1VtHEYBLdWyy6feDIVahmSFYJ2p.jpg", "actors": [], "comments": [], "recommandations_id": [306216, 162186, 183913, 162346]}

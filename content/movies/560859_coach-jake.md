@@ -1,1 +1,0 @@
-{"tmdb_id": 560859, "title": "Coach Jake", "original_title": "Coach Jake", "slug_title": "coach-jake", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AaW6aNOK1Jegv7IxFLnFGNrbMQa.jpg", "actors": [], "comments": [], "recommandations_id": []}

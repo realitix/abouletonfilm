@@ -1,1 +1,0 @@
-{"tmdb_id": 573320, "title": "Lothar Meggendorfers lebende Bilderb\u00fccher", "original_title": "Lothar Meggendorfers lebende Bilderb\u00fccher", "slug_title": "lothar-meggendorfers-lebende-bilderbucher", "date": "1981-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

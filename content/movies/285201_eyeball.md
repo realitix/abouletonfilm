@@ -1,1 +1,0 @@
-{"tmdb_id": 285201, "title": "Eyeball", "original_title": "Eyeball", "slug_title": "eyeball", "date": "2014-08-02", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gdjcojQaecGysEJFFwjklAtinK8.jpg", "actors": ["Nico Antonio ()", "Alchris Garret Villanueva ()"], "comments": [], "recommandations_id": []}

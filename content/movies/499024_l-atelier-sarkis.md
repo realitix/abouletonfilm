@@ -1,1 +1,0 @@
-{"tmdb_id": 499024, "title": "L'Atelier Sarkis", "original_title": "L'Atelier Sarkis", "slug_title": "l-atelier-sarkis", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sarkis (Himself)"], "comments": [], "recommandations_id": []}

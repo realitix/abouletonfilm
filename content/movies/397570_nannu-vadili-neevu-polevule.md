@@ -1,1 +1,0 @@
-{"tmdb_id": 397570, "title": "Nannu Vadili Neevu Polevule", "original_title": "Nannu Vadili Neevu Polevule", "slug_title": "nannu-vadili-neevu-polevule", "date": "2016-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d7Yu5B0TV6jbkta9QficFEe6AjJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

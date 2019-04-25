@@ -1,1 +1,0 @@
-{"tmdb_id": 268334, "title": "Heads or Tails", "original_title": "Cara o cruz", "slug_title": "heads-or-tails", "date": "2003-04-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Valentina Pacheco ()", "Maril\u00fa Vaca ()", "Luis Vivanco ()"], "comments": [], "recommandations_id": []}

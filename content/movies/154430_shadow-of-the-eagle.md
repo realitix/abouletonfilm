@@ -1,1 +1,0 @@
-{"tmdb_id": 154430, "title": "Shadow of the Eagle", "original_title": "Kaksip\u00e4isen kotkan varjossa", "slug_title": "shadow-of-the-eagle", "date": "2005-09-08", "genre": "", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p1NSwuLYUPNJiIe4Qzqg7amxqrL.jpg", "actors": [], "comments": [], "recommandations_id": []}

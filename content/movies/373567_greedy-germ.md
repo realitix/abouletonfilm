@@ -1,1 +1,0 @@
-{"tmdb_id": 373567, "title": "Greedy Germ", "original_title": "Greedy Germ", "slug_title": "greedy-germ", "date": "2015-09-21", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5QxI9n36Wmt9eI0qO3lDjwEV9qZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 453892, "title": "B\u00edr\u00f3 Ica - Intenz\u00edv 20 perc hasra", "original_title": "B\u00edr\u00f3 Ica - Intenz\u00edv 20 perc hasra", "slug_title": "biro-ica-intenziv-20-perc-hasra", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ica B\u00edr\u00f3 ()"], "comments": [], "recommandations_id": []}

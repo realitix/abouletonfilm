@@ -1,1 +1,0 @@
-{"tmdb_id": 539620, "title": "Salt Water", "original_title": "Salt Water", "slug_title": "salt-water", "date": "2018-08-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

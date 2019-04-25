@@ -1,1 +1,0 @@
-{"tmdb_id": 219994, "title": "Oceansize", "original_title": "Oceansize", "slug_title": "oceansize", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

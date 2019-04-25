@@ -1,1 +1,0 @@
-{"tmdb_id": 401188, "title": "The Dolphin Dealer", "original_title": "The Dolphin Dealer", "slug_title": "the-dolphin-dealer", "date": "2008-10-23", "genre": "Documentaire / T\u00e9l\u00e9film", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yAXjTmjVlbOf1PM6sLvzHl6B4os.jpg", "actors": [], "comments": [], "recommandations_id": []}

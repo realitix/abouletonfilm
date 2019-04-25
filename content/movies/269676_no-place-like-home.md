@@ -1,1 +1,0 @@
-{"tmdb_id": 269676, "title": "No Place Like Home", "original_title": "No Place Like Home", "slug_title": "no-place-like-home", "date": "2008-06-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 549076, "title": "Haunted Transylvania", "original_title": "Haunted Transylvania", "slug_title": "haunted-transylvania", "date": "2016-10-31", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wklsby30nKvWFOiJ1iGXugQujSf.jpg", "actors": [], "comments": [], "recommandations_id": []}

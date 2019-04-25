@@ -1,1 +1,0 @@
-{"tmdb_id": 188889, "title": "Bo'ness Public School. Queen Kathleen Jamieson", "original_title": "Bo'ness Public School. Queen Kathleen Jamieson", "slug_title": "bo-ness-public-school-queen-kathleen-jamieson", "date": "1930-04-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

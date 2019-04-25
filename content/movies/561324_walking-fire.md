@@ -1,1 +1,0 @@
-{"tmdb_id": 561324, "title": "Walking Fire", "original_title": "Walking Fire", "slug_title": "walking-fire", "date": "2017-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

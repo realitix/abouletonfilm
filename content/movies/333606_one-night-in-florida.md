@@ -1,1 +1,0 @@
-{"tmdb_id": 333606, "title": "One Night in Florida", "original_title": "One Night in Florida", "slug_title": "one-night-in-florida", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

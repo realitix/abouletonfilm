@@ -1,1 +1,0 @@
-{"tmdb_id": 141935, "title": "The Annual", "original_title": "The Annual", "slug_title": "the-annual", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

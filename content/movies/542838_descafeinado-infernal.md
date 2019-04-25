@@ -1,1 +1,0 @@
-{"tmdb_id": 542838, "title": "Descafeinado infernal", "original_title": "Descafeinado infernal", "slug_title": "descafeinado-infernal", "date": "2011-01-01", "genre": "Com\u00e9die / Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

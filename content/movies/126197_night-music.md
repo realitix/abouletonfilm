@@ -1,1 +1,0 @@
-{"tmdb_id": 126197, "title": "Night Music", "original_title": "Night Music", "slug_title": "night-music", "date": "1986-01-01", "genre": "", "score": "5.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i0KuzfqGbjKVF2NypFCddePqZMp.jpg", "actors": [], "comments": [], "recommandations_id": [126200, 97517, 126204, 126192]}

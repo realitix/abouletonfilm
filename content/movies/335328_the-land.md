@@ -1,1 +1,0 @@
-{"tmdb_id": 335328, "title": "The Land", "original_title": "The Land", "slug_title": "the-land", "date": "2015-04-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3mhQwgaA0WY4PD3uSq86GbsL6zg.jpg", "actors": [], "comments": [], "recommandations_id": []}

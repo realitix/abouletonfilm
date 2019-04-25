@@ -1,1 +1,0 @@
-{"tmdb_id": 343667, "title": "Exit Plan", "original_title": "Exit Plan", "slug_title": "exit-plan", "date": "2013-09-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

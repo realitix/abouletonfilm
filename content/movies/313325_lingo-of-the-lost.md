@@ -1,1 +1,0 @@
-{"tmdb_id": 313325, "title": "Lingo of the Lost", "original_title": "Lingo of the Lost", "slug_title": "lingo-of-the-lost", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4tsd9Alzcrt3w3hnhZWzGtUW6H1.jpg", "actors": [], "comments": [], "recommandations_id": []}

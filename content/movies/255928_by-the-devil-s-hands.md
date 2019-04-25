@@ -1,1 +1,0 @@
-{"tmdb_id": 255928, "title": "By the Devil's Hands", "original_title": "By the Devil's Hands", "slug_title": "by-the-devil-s-hands", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/LG4SeNtDEPij7c5URoum2rKogk.jpg", "actors": [], "comments": [], "recommandations_id": []}

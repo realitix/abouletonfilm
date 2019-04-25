@@ -1,1 +1,0 @@
-{"tmdb_id": 141688, "title": "Just Ancient Loops", "original_title": "Just Ancient Loops", "slug_title": "just-ancient-loops", "date": "2012-11-03", "genre": "Documentaire", "score": "7.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mGwt8xXAT4stcCjkVP02kZTuM2F.jpg", "actors": [], "comments": [], "recommandations_id": []}

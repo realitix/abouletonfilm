@@ -1,1 +1,0 @@
-{"tmdb_id": 193861, "title": "Superstition andalouse", "original_title": "Superstition andalouse", "slug_title": "superstition-andalouse", "date": "1912-08-16", "genre": "Horreur / Drame", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fK4VPpy1yfKrk99ohF899jO3lwP.jpg", "actors": [], "comments": [], "recommandations_id": []}

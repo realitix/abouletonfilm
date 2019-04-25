@@ -1,1 +1,0 @@
-{"tmdb_id": 386251, "title": "Czlowiek i chleb", "original_title": "Czlowiek i chleb", "slug_title": "czlowiek-i-chleb", "date": "1997-05-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

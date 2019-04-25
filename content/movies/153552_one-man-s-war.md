@@ -1,1 +1,0 @@
-{"tmdb_id": 153552, "title": "One Man's War", "original_title": "La guerre d'un seul homme", "slug_title": "one-man-s-war", "date": "1982-10-08", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p5t1MF45L6GPDnAskFQlnq5GAZD.jpg", "actors": ["Niels Arestrup (Narrator)"], "comments": [], "recommandations_id": []}

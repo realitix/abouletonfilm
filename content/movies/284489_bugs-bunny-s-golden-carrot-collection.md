@@ -1,1 +1,0 @@
-{"tmdb_id": 284489, "title": "Bugs Bunny's Golden Carrot Collection", "original_title": "Bugs Bunny's Golden Carrot Collection", "slug_title": "bugs-bunny-s-golden-carrot-collection", "date": "2004-03-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

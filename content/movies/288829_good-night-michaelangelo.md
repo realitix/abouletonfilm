@@ -1,1 +1,0 @@
-{"tmdb_id": 288829, "title": "Good Night, Michaelangelo", "original_title": "La famiglia Buonanotte", "slug_title": "good-night-michaelangelo", "date": "1989-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Giancarlo Giannini (Alberto)", "Kim Cattrall (Aunt Eva)"], "comments": [], "recommandations_id": []}

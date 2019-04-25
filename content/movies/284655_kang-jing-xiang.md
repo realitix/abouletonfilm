@@ -1,1 +1,0 @@
-{"tmdb_id": 284655, "title": "Kang jing xiang", "original_title": "Kang jing xiang", "slug_title": "kang-jing-xiang", "date": "1982-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

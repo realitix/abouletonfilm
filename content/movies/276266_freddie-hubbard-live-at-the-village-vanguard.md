@@ -1,1 +1,0 @@
-{"tmdb_id": 276266, "title": "Freddie Hubbard: Live at the Village Vanguard", "original_title": "Freddie Hubbard: Live at the Village Vanguard", "slug_title": "freddie-hubbard-live-at-the-village-vanguard", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

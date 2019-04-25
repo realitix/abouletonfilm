@@ -1,1 +1,0 @@
-{"tmdb_id": 306457, "title": "Teri Meri Kahani", "original_title": "Teri Meri Kahani", "slug_title": "teri-meri-kahani", "date": "1982-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

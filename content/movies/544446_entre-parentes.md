@@ -1,1 +1,0 @@
-{"tmdb_id": 544446, "title": "Entre Parentes", "original_title": "Entre Parentes", "slug_title": "entre-parentes", "date": "2018-09-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dErH6yGNNLaRqtfjTkqAPU3ytTJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

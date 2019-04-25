@@ -1,1 +1,0 @@
-{"tmdb_id": 453132, "title": "Entre Temps", "original_title": "Entre Temps", "slug_title": "entre-temps", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 528482, "title": "The Price of Admission", "original_title": "The Price of Admission", "slug_title": "the-price-of-admission", "date": "", "genre": "Com\u00e9die / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Michelle Monaghan ()", "Jeff Goldblum ()", "Michael Sheen ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 204402, "title": "The Vern: A One Hit Wonder Story", "original_title": "The Vern: A One Hit Wonder Story", "slug_title": "the-vern-a-one-hit-wonder-story", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

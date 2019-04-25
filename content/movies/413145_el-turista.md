@@ -1,1 +1,0 @@
-{"tmdb_id": 413145, "title": "El turista", "original_title": "El turista", "slug_title": "el-turista", "date": "2016-10-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w2AqnpB3JHRMZwEf58B3Epp4MB3.jpg", "actors": ["Jos\u00e9 Brocco ()", "Jorge Alberti ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 189877, "title": "Rules of the Road", "original_title": "Rules of the Road", "slug_title": "rules-of-the-road", "date": "1993-03-20", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uACk37iuDIQCUXsRRMMySAhHZMb.jpg", "actors": [], "comments": [], "recommandations_id": []}

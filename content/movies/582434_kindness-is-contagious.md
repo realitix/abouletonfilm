@@ -1,1 +1,0 @@
-{"tmdb_id": 582434, "title": "Kindness Is Contagious", "original_title": "Kindness Is Contagious", "slug_title": "kindness-is-contagious", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 588498, "title": "Soudaybazi", "original_title": "Soudaybazi", "slug_title": "soudaybazi", "date": "1985-09-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sultan Rahi ()"], "comments": [], "recommandations_id": []}

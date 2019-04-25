@@ -1,1 +1,0 @@
-{"tmdb_id": 162910, "title": "Mysterious Mose", "original_title": "Mysterious Mose", "slug_title": "mysterious-mose", "date": "1930-12-26", "genre": "", "score": "6.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rOP0LpgrJQhnSeNyyTdKYHQELXM.jpg", "actors": [], "comments": [], "recommandations_id": [156507, 166619, 156469, 145967]}

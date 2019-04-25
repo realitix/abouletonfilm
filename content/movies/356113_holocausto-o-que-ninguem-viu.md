@@ -1,1 +1,0 @@
-{"tmdb_id": 356113, "title": "Holocausto - O que Ningu\u00e9m Viu", "original_title": "Holocausto - O que Ningu\u00e9m Viu", "slug_title": "holocausto-o-que-ninguem-viu", "date": "2015-08-25", "genre": "Histoire / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

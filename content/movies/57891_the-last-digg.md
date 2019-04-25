@@ -1,1 +1,0 @@
-{"tmdb_id": 57891, "title": "The Last Digg", "original_title": "The Last Digg", "slug_title": "the-last-digg", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/otnKKmsDUE6VXvnaOmPPn3Me1wF.jpg", "actors": [], "comments": [], "recommandations_id": []}

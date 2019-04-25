@@ -1,1 +1,0 @@
-{"tmdb_id": 550834, "title": "Franco vor Gericht", "original_title": "Franco vor Gericht", "slug_title": "franco-vor-gericht", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

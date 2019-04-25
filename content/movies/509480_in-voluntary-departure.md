@@ -1,1 +1,0 @@
-{"tmdb_id": 509480, "title": "(In)Voluntary Departure", "original_title": "(In)Voluntary Departure", "slug_title": "in-voluntary-departure", "date": "2013-07-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9iQjl4jwVPKnDP50GNX5GLx43GD.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 432559, "title": "Marco Rima - Keep Cool", "original_title": "Marco Rima - Keep Cool", "slug_title": "marco-rima-keep-cool", "date": "2005-04-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oKu46CZteRKEja8NtRJQDBomrj9.jpg", "actors": ["Marco Rima ()"], "comments": [], "recommandations_id": []}

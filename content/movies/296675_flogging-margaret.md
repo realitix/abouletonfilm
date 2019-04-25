@@ -1,1 +1,0 @@
-{"tmdb_id": 296675, "title": "Flogging Margaret", "original_title": "Flogging Margaret", "slug_title": "flogging-margaret", "date": "2008-02-05", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

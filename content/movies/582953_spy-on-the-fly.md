@@ -1,1 +1,0 @@
-{"tmdb_id": 582953, "title": "Spy on the Fly", "original_title": "Spy on the Fly", "slug_title": "spy-on-the-fly", "date": "1967-08-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nYyDFoz3dfgP2AcgLGt0Q78oz70.jpg", "actors": ["Warren Fremming (Agent 0069)"], "comments": [], "recommandations_id": []}

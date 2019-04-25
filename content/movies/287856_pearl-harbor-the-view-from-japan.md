@@ -1,1 +1,0 @@
-{"tmdb_id": 287856, "title": "Pearl Harbor: The View from Japan", "original_title": "Pearl Harbor: The View from Japan", "slug_title": "pearl-harbor-the-view-from-japan", "date": "1994-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

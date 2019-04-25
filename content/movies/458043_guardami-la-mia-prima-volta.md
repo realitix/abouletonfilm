@@ -1,1 +1,0 @@
-{"tmdb_id": 458043, "title": "Guardami (La mia prima volta)", "original_title": "Guardami (La mia prima volta)", "slug_title": "guardami-la-mia-prima-volta", "date": "2017-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qvAYKMNiSpAoj65PDbzwFmZwZI0.jpg", "actors": [], "comments": [], "recommandations_id": []}

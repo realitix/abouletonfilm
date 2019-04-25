@@ -1,1 +1,0 @@
-{"tmdb_id": 350532, "title": "\uc5ec\uc790\uc774\uae30 \ub54c\ubb38\uc5d0", "original_title": "\uc5ec\uc790\uc774\uae30 \ub54c\ubb38\uc5d0", "slug_title": "yeojaigi-ddaemune", "date": "1979-05-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 48896, "title": "Cotoons", "original_title": "Cotoons", "slug_title": "cotoons", "date": "", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n4XqeWXfdM7OJCXbZ5jy8d5OPzx.jpg", "actors": [], "comments": [], "recommandations_id": []}

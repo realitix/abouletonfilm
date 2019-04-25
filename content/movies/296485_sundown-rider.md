@@ -1,1 +1,0 @@
-{"tmdb_id": 296485, "title": "Sundown Rider", "original_title": "Sundown Rider", "slug_title": "sundown-rider", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4XMxSz6Dsr94jmTJCziYteUbz1d.jpg", "actors": [], "comments": [], "recommandations_id": []}

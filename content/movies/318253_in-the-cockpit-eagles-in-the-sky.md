@@ -1,1 +1,0 @@
-{"tmdb_id": 318253, "title": "In the Cockpit: Eagles in the Sky", "original_title": "In the Cockpit: Eagles in the Sky", "slug_title": "in-the-cockpit-eagles-in-the-sky", "date": "1995-10-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

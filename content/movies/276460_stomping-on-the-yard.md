@@ -1,1 +1,0 @@
-{"tmdb_id": 276460, "title": "Stomping on the Yard", "original_title": "Stomping on the Yard", "slug_title": "stomping-on-the-yard", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

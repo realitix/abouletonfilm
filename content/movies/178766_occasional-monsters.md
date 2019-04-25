@@ -1,1 +1,0 @@
-{"tmdb_id": 178766, "title": "Occasional Monsters", "original_title": "Occasional Monsters", "slug_title": "occasional-monsters", "date": "2008-10-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

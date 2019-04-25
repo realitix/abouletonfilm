@@ -1,1 +1,0 @@
-{"tmdb_id": 547123, "title": "Susume, Karolina", "original_title": "Susume, Karolina", "slug_title": "susume-karolina", "date": "", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/danKmgFCvFtDQCBMYXZhSZgZldS.jpg", "actors": [], "comments": [], "recommandations_id": []}

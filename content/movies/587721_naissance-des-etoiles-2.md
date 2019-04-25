@@ -1,1 +1,0 @@
-{"tmdb_id": 587721, "title": "Naissance des \u00e9toiles #2", "original_title": "Naissance des \u00e9toiles #2", "slug_title": "naissance-des-etoiles-2", "date": "2018-11-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

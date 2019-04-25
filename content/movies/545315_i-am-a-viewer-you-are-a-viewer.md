@@ -1,1 +1,0 @@
-{"tmdb_id": 545315, "title": "I Am A Viewer You Are A Viewer", "original_title": "I Am A Viewer You Are A Viewer", "slug_title": "i-am-a-viewer-you-are-a-viewer", "date": "1981-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4Bbq62p1lUJMdbpzY9ahmC03pxm.jpg", "actors": [], "comments": [], "recommandations_id": []}

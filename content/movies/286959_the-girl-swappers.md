@@ -1,1 +1,0 @@
-{"tmdb_id": 286959, "title": "The Girl Swappers", "original_title": "The Girl Swappers", "slug_title": "the-girl-swappers", "date": "1962-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

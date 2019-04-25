@@ -1,1 +1,0 @@
-{"tmdb_id": 577072, "title": "Plastic Dreams", "original_title": "Plastic Dreams", "slug_title": "plastic-dreams", "date": "2019-01-07", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2QQ7c3NBIBD3WJuC0HKL0fAMOnK.jpg", "actors": [], "comments": [], "recommandations_id": []}

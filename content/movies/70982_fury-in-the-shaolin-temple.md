@@ -1,1 +1,0 @@
-{"tmdb_id": 70982, "title": "Fury in the Shaolin Temple", "original_title": "Shao Lin zhen ying xiong", "slug_title": "fury-in-the-shaolin-temple", "date": "1979-06-11", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/le7AZzO8l8ilRARDUtcBfrXilKA.jpg", "actors": [], "comments": [], "recommandations_id": []}

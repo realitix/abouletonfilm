@@ -1,1 +1,0 @@
-{"tmdb_id": 282606, "title": "Cardiology 2 0f 3", "original_title": "Cardiology 2 0f 3", "slug_title": "cardiology-2-0f-3", "date": "2014-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wPaTAgabBymFaLtifWRQCriv2Uh.jpg", "actors": [], "comments": [], "recommandations_id": []}

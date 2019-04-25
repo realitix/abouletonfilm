@@ -1,1 +1,0 @@
-{"tmdb_id": 358767, "title": "Casualties of Modernity", "original_title": "Casualties of Modernity", "slug_title": "casualties-of-modernity", "date": "2015-09-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oxhL2QPSGGlTcD4YJhS1NDo4Yxi.jpg", "actors": [], "comments": [], "recommandations_id": []}

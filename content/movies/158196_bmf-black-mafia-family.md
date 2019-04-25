@@ -1,1 +1,0 @@
-{"tmdb_id": 158196, "title": "BMF: Black Mafia Family", "original_title": "BMF: Black Mafia Family", "slug_title": "bmf-black-mafia-family", "date": "2008-10-15", "genre": "Crime / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sSCzOEW9JVba5DO1AqrxdegRRfN.jpg", "actors": [], "comments": [], "recommandations_id": []}

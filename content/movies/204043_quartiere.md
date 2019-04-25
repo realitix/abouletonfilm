@@ -1,1 +1,0 @@
-{"tmdb_id": 204043, "title": "Quartiere", "original_title": "Quartiere", "slug_title": "quartiere", "date": "1987-11-28", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3oNnfiUGBaS0Fl7xMbLHJX5YZOx.jpg", "actors": [], "comments": [], "recommandations_id": []}

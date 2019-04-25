@@ -1,1 +1,0 @@
-{"tmdb_id": 321410, "title": "Arthur Saves the Day", "original_title": "Arthur Saves the Day", "slug_title": "arthur-saves-the-day", "date": "2004-01-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

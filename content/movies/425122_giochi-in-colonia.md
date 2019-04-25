@@ -1,1 +1,0 @@
-{"tmdb_id": 425122, "title": "Giochi in colonia", "original_title": "Giochi in colonia", "slug_title": "giochi-in-colonia", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 578307, "title": "Defiance", "original_title": "Trots", "slug_title": "defiance", "date": "1952-09-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 316674, "title": "David Brainerd: Missionary to the American Indians", "original_title": "David Brainerd: Missionary to the American Indians", "slug_title": "david-brainerd-missionary-to-the-american-indians", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 336710, "title": "Feuertanz Festival 2013", "original_title": "Feuertanz Festival 2013", "slug_title": "feuertanz-festival-2013", "date": "2014-01-17", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fXqXO4S3puzGK4wRA0422bM6j4A.jpg", "actors": [], "comments": [], "recommandations_id": []}

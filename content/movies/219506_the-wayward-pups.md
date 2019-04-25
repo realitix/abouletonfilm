@@ -1,1 +1,0 @@
-{"tmdb_id": 219506, "title": "The Wayward Pups", "original_title": "The Wayward Pups", "slug_title": "the-wayward-pups", "date": "1937-07-09", "genre": "Animation", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gV60NtHkWwSmR9JHjSGrDgFnGQS.jpg", "actors": [], "comments": [], "recommandations_id": []}

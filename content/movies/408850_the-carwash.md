@@ -1,1 +1,0 @@
-{"tmdb_id": 408850, "title": "The Carwash", "original_title": "Myjnia", "slug_title": "the-carwash", "date": "2007-07-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

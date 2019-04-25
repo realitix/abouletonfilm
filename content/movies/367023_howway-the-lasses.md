@@ -1,1 +1,0 @@
-{"tmdb_id": 367023, "title": "Howway the Lasses", "original_title": "Howway the Lasses", "slug_title": "howway-the-lasses", "date": "1977-01-01", "genre": "Animation", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8zPzITmYG4cVgbcxNXBfyiRM0B9.jpg", "actors": [], "comments": [], "recommandations_id": []}

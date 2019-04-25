@@ -1,1 +1,0 @@
-{"tmdb_id": 188029, "title": "Videograss: Enlighten", "original_title": "Videograss: Enlighten", "slug_title": "videograss-enlighten", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s8gyXUMNOrrCeZotNPiH4zAyNqx.jpg", "actors": [], "comments": [], "recommandations_id": []}

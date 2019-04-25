@@ -1,1 +1,0 @@
-{"tmdb_id": 466010, "title": "Extreme Weather", "original_title": "Extreme Weather", "slug_title": "extreme-weather", "date": "2016-10-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pMgSfbAw9riatn5e5OdxKUUmkc2.jpg", "actors": [], "comments": [], "recommandations_id": []}

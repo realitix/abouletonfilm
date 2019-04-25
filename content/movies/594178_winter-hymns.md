@@ -1,1 +1,0 @@
-{"tmdb_id": 594178, "title": "Winter Hymns", "original_title": "Winter Hymns", "slug_title": "winter-hymns", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sam Ashe Arnold (Joshua)", "Kyle Peacock (Cain)", "Jason Cherniak (Father)"], "comments": [], "recommandations_id": []}

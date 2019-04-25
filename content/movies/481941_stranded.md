@@ -1,1 +1,0 @@
-{"tmdb_id": 481941, "title": "Stranded", "original_title": "Stranded", "slug_title": "stranded", "date": "2017-10-18", "genre": "Thriller / Myst\u00e8re", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wReAl2TskCtjSlNXMHcfTka0Uxk.jpg", "actors": [], "comments": [], "recommandations_id": []}

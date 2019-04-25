@@ -1,1 +1,0 @@
-{"tmdb_id": 405242, "title": "AAW Killers Among Us", "original_title": "AAW Killers Among Us", "slug_title": "aaw-killers-among-us", "date": "2016-06-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bOkHmTaBw2KySwne76QDDQZ0JG5.jpg", "actors": [], "comments": [], "recommandations_id": []}

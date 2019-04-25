@@ -1,1 +1,0 @@
-{"tmdb_id": 434065, "title": "Strad Style", "original_title": "Strad Style", "slug_title": "strad-style", "date": "2017-01-21", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kj2S4eJWWLT0BwI1m376LtK3sAL.jpg", "actors": [], "comments": [], "recommandations_id": []}

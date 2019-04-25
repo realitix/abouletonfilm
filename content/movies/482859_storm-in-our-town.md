@@ -1,1 +1,0 @@
-{"tmdb_id": 482859, "title": "Storm in Our Town", "original_title": "Toofan dar shahre ma", "slug_title": "storm-in-our-town", "date": "1958-10-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6vK8EztGkJHBsLjHIrjq2DBmNHg.jpg", "actors": [], "comments": [], "recommandations_id": []}

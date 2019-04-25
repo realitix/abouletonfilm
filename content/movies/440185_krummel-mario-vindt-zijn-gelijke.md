@@ -1,1 +1,0 @@
-{"tmdb_id": 440185, "title": "Krummel - Mario Vindt Zijn Gelijke", "original_title": "Krummel - Mario Vindt Zijn Gelijke", "slug_title": "krummel-mario-vindt-zijn-gelijke", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cZGOH0rwAdz5E95SXIlFQLopwbW.jpg", "actors": [], "comments": [], "recommandations_id": []}

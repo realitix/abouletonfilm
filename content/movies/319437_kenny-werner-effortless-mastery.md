@@ -1,1 +1,0 @@
-{"tmdb_id": 319437, "title": "Kenny Werner: Effortless Mastery", "original_title": "Kenny Werner: Effortless Mastery", "slug_title": "kenny-werner-effortless-mastery", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 558934, "title": "Beach Blanket Bango", "original_title": "Beach Blanket Bango", "slug_title": "beach-blanket-bango", "date": "1975-10-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rene Bond ()", "Tony Mazziotti ()", "Ric Lutze ()", "Frank Millen ()"], "comments": [], "recommandations_id": []}

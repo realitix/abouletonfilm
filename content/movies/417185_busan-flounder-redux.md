@@ -1,1 +1,0 @@
-{"tmdb_id": 417185, "title": "Busan Flounder - Redux", "original_title": "Busan Flounder - Redux", "slug_title": "busan-flounder-redux", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

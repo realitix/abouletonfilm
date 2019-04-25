@@ -1,1 +1,0 @@
-{"tmdb_id": 389328, "title": "Bunbuku Chagama", "original_title": "Bunbuku Chagama", "slug_title": "bunbuku-chagama", "date": "1958-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uSOjGRUnWR2RKWw0cqwXZQaVXDO.jpg", "actors": [], "comments": [], "recommandations_id": []}

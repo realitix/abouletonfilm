@@ -1,1 +1,0 @@
-{"tmdb_id": 514154, "title": "All Sides of the Road", "original_title": "All Sides of the Road", "slug_title": "all-sides-of-the-road", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/drgGZkQWLoB2B26vrVKSV816UmZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

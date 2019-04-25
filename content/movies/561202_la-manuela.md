@@ -1,1 +1,0 @@
-{"tmdb_id": 561202, "title": "La Manuela", "original_title": "La Manuela", "slug_title": "la-manuela", "date": "2017-11-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lIDusEYSPxJ0yY4toqbmP3ROf6z.jpg", "actors": [], "comments": [], "recommandations_id": []}

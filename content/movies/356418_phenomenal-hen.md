@@ -1,1 +1,0 @@
-{"tmdb_id": 356418, "title": "Phenomenal Hen", "original_title": "La poule ph\u00e9nom\u00e8ne", "slug_title": "phenomenal-hen", "date": "1905-01-01", "genre": "Fantastique", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3NGqPGvaEzSWjkSwobEsp1L23qK.jpg", "actors": [], "comments": [], "recommandations_id": []}

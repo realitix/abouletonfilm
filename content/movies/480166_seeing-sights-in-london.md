@@ -1,1 +1,0 @@
-{"tmdb_id": 480166, "title": "Seeing Sights in London", "original_title": "Seeing Sights in London", "slug_title": "seeing-sights-in-london", "date": "1919-04-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

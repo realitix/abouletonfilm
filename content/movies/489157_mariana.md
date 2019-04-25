@@ -1,1 +1,0 @@
-{"tmdb_id": 489157, "title": "Mariana", "original_title": "Mariana", "slug_title": "mariana", "date": "2017-07-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6fknCEPDQLEs5SEfeHEoY6WnI73.jpg", "actors": ["Jorge Gaviria ()"], "comments": [], "recommandations_id": []}

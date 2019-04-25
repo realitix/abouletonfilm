@@ -1,1 +1,0 @@
-{"tmdb_id": 580499, "title": "Travels of Marco Polo", "original_title": "Travels of Marco Polo", "slug_title": "travels-of-marco-polo", "date": "", "genre": "Animation / T\u00e9l\u00e9film", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

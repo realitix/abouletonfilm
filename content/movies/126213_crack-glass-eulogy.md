@@ -1,1 +1,0 @@
-{"tmdb_id": 126213, "title": "Crack Glass Eulogy", "original_title": "Crack Glass Eulogy", "slug_title": "crack-glass-eulogy", "date": "1992-01-01", "genre": "", "score": "5.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fgOQCPeDPLy4xD8ZaWlLlO1Ynpz.jpg", "actors": [], "comments": [], "recommandations_id": [126218, 126187, 126202, 105717]}

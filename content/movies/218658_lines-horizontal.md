@@ -1,1 +1,0 @@
-{"tmdb_id": 218658, "title": "Lines: Horizontal", "original_title": "Lines: Horizontal", "slug_title": "lines-horizontal", "date": "1962-01-01", "genre": "Animation", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8ZOAqVueagjViQtDrxnY2ZIuDrB.jpg", "actors": [], "comments": [], "recommandations_id": []}

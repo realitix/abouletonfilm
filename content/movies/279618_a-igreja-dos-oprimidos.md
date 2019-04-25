@@ -1,1 +1,0 @@
-{"tmdb_id": 279618, "title": "A Igreja dos Oprimidos", "original_title": "A Igreja dos Oprimidos", "slug_title": "a-igreja-dos-oprimidos", "date": "1986-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3OTNWOOdJpYvfDOfYY3taVOgyO9.jpg", "actors": [], "comments": [], "recommandations_id": []}

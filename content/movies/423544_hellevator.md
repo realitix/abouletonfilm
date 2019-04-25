@@ -1,1 +1,0 @@
-{"tmdb_id": 423544, "title": "Hellevator", "original_title": "Hellevator", "slug_title": "hellevator", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4ccJ8HCnC3p3Sol5kZUzEVZqvcr.jpg", "actors": [], "comments": [], "recommandations_id": []}

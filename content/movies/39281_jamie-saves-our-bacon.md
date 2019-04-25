@@ -1,1 +1,0 @@
-{"tmdb_id": 39281, "title": "Jamie Saves Our Bacon", "original_title": "Jamie Saves Our Bacon", "slug_title": "jamie-saves-our-bacon", "date": "2009-01-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jamie Oliver (Himself)"], "comments": [], "recommandations_id": []}

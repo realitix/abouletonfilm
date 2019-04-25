@@ -1,1 +1,0 @@
-{"tmdb_id": 481696, "title": "Six Insects", "original_title": "Six Insects", "slug_title": "six-insects", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gNauEV30KDkYPghpeypdGjPF9Wm.jpg", "actors": [], "comments": [], "recommandations_id": []}

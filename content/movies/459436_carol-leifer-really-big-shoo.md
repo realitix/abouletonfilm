@@ -1,1 +1,0 @@
-{"tmdb_id": 459436, "title": "Carol Leifer: Really Big Shoo!", "original_title": "Carol Leifer: Really Big Shoo!", "slug_title": "carol-leifer-really-big-shoo", "date": "1990-12-02", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Carol Leifer (Herself)"], "comments": [], "recommandations_id": []}

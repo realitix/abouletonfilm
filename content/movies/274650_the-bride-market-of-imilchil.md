@@ -1,1 +1,0 @@
-{"tmdb_id": 274650, "title": "The Bride Market of Imilchil", "original_title": "The Bride Market of Imilchil", "slug_title": "the-bride-market-of-imilchil", "date": "1993-02-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

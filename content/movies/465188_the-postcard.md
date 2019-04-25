@@ -1,1 +1,1 @@
-{"tmdb_id": 465188, "title": "The Postcard", "original_title": "The Postcard", "slug_title": "the-postcard", "date": "2007-07-08", "genre": "", "score": "4.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 465188, "title": "The Postcard", "original_title": "The Postcard", "slug_title": "the-postcard", "date": "2007-07-08", "genre": [""], "score": "4.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

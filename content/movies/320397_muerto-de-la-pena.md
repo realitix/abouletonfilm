@@ -1,1 +1,0 @@
-{"tmdb_id": 320397, "title": "Muerto de la Pena", "original_title": "Muerto de la Pena", "slug_title": "muerto-de-la-pena", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

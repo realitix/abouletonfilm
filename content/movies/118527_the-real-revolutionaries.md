@@ -1,1 +1,0 @@
-{"tmdb_id": 118527, "title": "The Real Revolutionaries", "original_title": "The Real Revolutionaries", "slug_title": "the-real-revolutionaries", "date": "2009-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5JNK4RizkG2XFeP9X6qXrPfjwXk.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 556795, "title": "Die Frau des Fotografen", "original_title": "Die Frau des Fotografen", "slug_title": "die-frau-des-fotografen", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 316489, "title": "Sooper Goop", "original_title": "Sooper Goop", "slug_title": "sooper-goop", "date": "1976-01-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

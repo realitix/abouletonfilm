@@ -1,1 +1,0 @@
-{"tmdb_id": 516992, "title": "No Pants Girls When They Grow Up", "original_title": "No Pants Girls When They Grow Up", "slug_title": "no-pants-girls-when-they-grow-up", "date": "2004-08-08", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

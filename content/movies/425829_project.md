@@ -1,1 +1,0 @@
-{"tmdb_id": 425829, "title": "Project", "original_title": "Project", "slug_title": "project", "date": "1986-01-09", "genre": "Horreur / Myst\u00e8re / Fantastique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m4byRCJTnJPWzySFtX5JSlAMHFg.jpg", "actors": [], "comments": [], "recommandations_id": []}

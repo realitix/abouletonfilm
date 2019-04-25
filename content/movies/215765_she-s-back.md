@@ -1,1 +1,0 @@
-{"tmdb_id": 215765, "title": "She's Back", "original_title": "She's Back", "slug_title": "she-s-back", "date": "1989-07-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oBnF4OeE67VvBpOfQa4UrtQw7JW.jpg", "actors": ["Carrie Fisher (Beatrice)", "Robert Joy (Paul)"], "comments": [], "recommandations_id": []}

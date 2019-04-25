@@ -1,1 +1,0 @@
-{"tmdb_id": 556314, "title": "Revelation", "original_title": "L'agonie de J\u00e9rusalem", "slug_title": "revelation", "date": "1927-04-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

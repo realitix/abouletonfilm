@@ -1,1 +1,0 @@
-{"tmdb_id": 526858, "title": "It Would Have Been Fantastic", "original_title": "It Would Have Been Fantastic", "slug_title": "it-would-have-been-fantastic", "date": "2009-11-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

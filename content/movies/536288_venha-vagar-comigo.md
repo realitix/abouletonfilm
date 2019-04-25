@@ -1,1 +1,0 @@
-{"tmdb_id": 536288, "title": "Venha Vagar Comigo", "original_title": "Venha Vagar Comigo", "slug_title": "venha-vagar-comigo", "date": "2017-07-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lTeeCgNbzMOd3aCRaagIV2Vwn5C.jpg", "actors": [], "comments": [], "recommandations_id": []}

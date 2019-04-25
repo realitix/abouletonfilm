@@ -1,1 +1,0 @@
-{"tmdb_id": 391028, "title": "Jack in the Green: Live in Germany 1970\u20131993", "original_title": "Jack in the Green: Live in Germany 1970\u20131993", "slug_title": "jack-in-the-green-live-in-germany-1970-1993", "date": "2008-05-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

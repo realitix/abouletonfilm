@@ -1,1 +1,0 @@
-{"tmdb_id": 567445, "title": "Razzle Dazzle", "original_title": "Razzle Dazzle", "slug_title": "razzle-dazzle", "date": "2014-10-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kwo2oA7ZimFTwe4c3cqndrJTtwB.jpg", "actors": [], "comments": [], "recommandations_id": []}

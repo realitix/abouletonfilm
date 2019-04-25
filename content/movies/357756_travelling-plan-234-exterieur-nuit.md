@@ -1,1 +1,0 @@
-{"tmdb_id": 357756, "title": "Travelling - Plan 234/Exterieur Nuit", "original_title": "Travelling - Plan 234/Exterieur Nuit", "slug_title": "travelling-plan-234-exterieur-nuit", "date": "1999-09-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

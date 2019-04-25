@@ -1,1 +1,0 @@
-{"tmdb_id": 237279, "title": "Hop, Look and Listen", "original_title": "Hop, Look and Listen", "slug_title": "hop-look-and-listen", "date": "1948-04-16", "genre": "", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iegNuNdpAtJS0HfGUc5Q8nDu75V.jpg", "actors": [], "comments": [], "recommandations_id": []}

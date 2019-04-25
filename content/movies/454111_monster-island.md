@@ -1,1 +1,0 @@
-{"tmdb_id": 454111, "title": "Monster Island", "original_title": "Monster Island", "slug_title": "monster-island", "date": "2016-05-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xaneJybCuGOantqcuydlGb6Nkl1.jpg", "actors": [], "comments": [], "recommandations_id": []}

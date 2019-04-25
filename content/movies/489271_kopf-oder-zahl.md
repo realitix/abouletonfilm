@@ -1,1 +1,0 @@
-{"tmdb_id": 489271, "title": "Kopf oder Zahl", "original_title": "Kopf oder Zahl", "slug_title": "kopf-oder-zahl", "date": "1957-08-19", "genre": "Crime", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Herbert Wei\u00dfbach (Jail Guard Tarpey)", "G\u00fcnter Meisner (Kid)", "Horst Niendorf (Bull)"], "comments": [], "recommandations_id": []}

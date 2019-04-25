@@ -1,1 +1,0 @@
-{"tmdb_id": 304738, "title": "Rajathi Raaja", "original_title": "Rajathi Raaja", "slug_title": "rajathi-raaja", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

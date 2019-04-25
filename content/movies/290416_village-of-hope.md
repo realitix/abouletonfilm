@@ -1,1 +1,0 @@
-{"tmdb_id": 290416, "title": "Village of Hope", "original_title": "\u0e27\u0e31\u0e07\u0e1e\u0e34\u0e01\u0e38\u0e25", "slug_title": "village-of-hope", "date": "2014-05-08", "genre": "Drame", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6iT7ed4dIdILuw0wFyzjtT77Mo5.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 168305, "title": "Born This Way", "original_title": "Born This Way", "slug_title": "born-this-way", "date": "2013-02-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vvmaYRCQBts91s5e2y97iGgBeJq.jpg", "actors": [], "comments": [], "recommandations_id": []}

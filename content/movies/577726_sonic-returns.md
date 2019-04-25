@@ -1,1 +1,0 @@
-{"tmdb_id": 577726, "title": "Sonic Returns", "original_title": "Sonic Returns", "slug_title": "sonic-returns", "date": "2018-03-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

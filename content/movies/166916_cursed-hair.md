@@ -1,1 +1,0 @@
-{"tmdb_id": 166916, "title": "Cursed Hair", "original_title": "Cursed Hair", "slug_title": "cursed-hair", "date": "2006-01-01", "genre": "", "score": "0.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dd9Tz2K1dg5S3f8xtCi1rvn5R3T.jpg", "actors": [], "comments": [], "recommandations_id": []}

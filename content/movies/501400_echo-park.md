@@ -1,1 +1,0 @@
-{"tmdb_id": 501400, "title": "Echo Park", "original_title": "Echo Park", "slug_title": "echo-park", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3Ta3xvnkKdpxdoiYTvm2VvmuHwc.jpg", "actors": [], "comments": [], "recommandations_id": []}

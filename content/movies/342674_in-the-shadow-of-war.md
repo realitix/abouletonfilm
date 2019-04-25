@@ -1,1 +1,0 @@
-{"tmdb_id": 342674, "title": "In the Shadow of War", "original_title": "In the Shadow of War", "slug_title": "in-the-shadow-of-war", "date": "2014-06-09", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p9Af2zzqIezAHNLNLsXFy6cPVhn.jpg", "actors": [], "comments": [], "recommandations_id": []}

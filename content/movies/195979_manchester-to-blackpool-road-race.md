@@ -1,1 +1,0 @@
-{"tmdb_id": 195979, "title": "Manchester to Blackpool Road Race", "original_title": "Manchester to Blackpool Road Race", "slug_title": "manchester-to-blackpool-road-race", "date": "1903-05-22", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

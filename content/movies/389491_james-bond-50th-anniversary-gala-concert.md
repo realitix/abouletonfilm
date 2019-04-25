@@ -1,1 +1,0 @@
-{"tmdb_id": 389491, "title": "James Bond 50th Anniversary Gala Concert", "original_title": "James Bond 50th Anniversary Gala Concert", "slug_title": "james-bond-50th-anniversary-gala-concert", "date": "2012-12-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

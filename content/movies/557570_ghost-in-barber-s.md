@@ -1,1 +1,0 @@
-{"tmdb_id": 557570, "title": "Ghost in Barber's", "original_title": "Ghost in Barber's", "slug_title": "ghost-in-barber-s", "date": "", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iES1Kdq22qJbA0O9wdwORwvUg1l.jpg", "actors": [], "comments": [], "recommandations_id": []}

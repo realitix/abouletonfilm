@@ -1,1 +1,0 @@
-{"tmdb_id": 474564, "title": "Untitled New Line Horror Film", "original_title": "Untitled New Line Horror Film", "slug_title": "untitled-new-line-horror-film", "date": "", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

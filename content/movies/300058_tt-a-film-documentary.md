@@ -1,1 +1,0 @@
-{"tmdb_id": 300058, "title": "TT: A Film Documentary", "original_title": "TT: A Film Documentary", "slug_title": "tt-a-film-documentary", "date": "2004-03-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

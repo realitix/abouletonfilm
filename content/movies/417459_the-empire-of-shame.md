@@ -1,1 +1,0 @@
-{"tmdb_id": 417459, "title": "The Empire of Shame", "original_title": "\ud0d0\uc695\uc758 \uc81c\uad6d", "slug_title": "the-empire-of-shame", "date": "2014-03-06", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9z6EFzxcI3yN5LydRZC0xGgIHVu.jpg", "actors": [], "comments": [], "recommandations_id": []}

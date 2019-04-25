@@ -1,1 +1,0 @@
-{"tmdb_id": 542214, "title": "Le due orfanelle", "original_title": "Le due orfanelle", "slug_title": "le-due-orfanelle", "date": "1976-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ida Galli (The Countess (as Evelyn Stewart))"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 199455, "title": "Si ma terre parlait", "original_title": "Si mis campos hablaran", "slug_title": "si-ma-terre-parlait", "date": "1947-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hRaDUt83WnnwPN32sVLD0gjpBBv.jpg", "actors": [], "comments": [], "recommandations_id": []}

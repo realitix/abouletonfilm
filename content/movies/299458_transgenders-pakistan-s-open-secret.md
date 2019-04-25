@@ -1,1 +1,0 @@
-{"tmdb_id": 299458, "title": "Transgenders: Pakistan's Open Secret", "original_title": "Transgenders: Pakistan's Open Secret", "slug_title": "transgenders-pakistan-s-open-secret", "date": "2011-12-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

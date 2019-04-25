@@ -1,1 +1,0 @@
-{"tmdb_id": 583270, "title": "Cannibale Mon Amour", "original_title": "Cannibale Mon Amour", "slug_title": "cannibale-mon-amour", "date": "2013-03-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Alexandre Phong (Issei Sagawa)", "Marie-Charlotte Valdener (Ren\u00e9e Hartwelt)"], "comments": [], "recommandations_id": []}

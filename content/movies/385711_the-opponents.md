@@ -1,1 +1,0 @@
-{"tmdb_id": 385711, "title": "The Opponents", "original_title": "The Opponents", "slug_title": "the-opponents", "date": "2006-12-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

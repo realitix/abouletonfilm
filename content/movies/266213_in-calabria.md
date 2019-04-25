@@ -1,1 +1,0 @@
-{"tmdb_id": 266213, "title": "In Calabria", "original_title": "In Calabria", "slug_title": "in-calabria", "date": "1993-04-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kfnjDBmByXcQTq6HW9u877W0s5B.jpg", "actors": [], "comments": [], "recommandations_id": []}

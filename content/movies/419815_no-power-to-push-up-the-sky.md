@@ -1,1 +1,0 @@
-{"tmdb_id": 419815, "title": "No Power to Push Up the Sky", "original_title": "No Power to Push Up the Sky", "slug_title": "no-power-to-push-up-the-sky", "date": "2001-10-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

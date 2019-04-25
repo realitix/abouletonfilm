@@ -1,1 +1,0 @@
-{"tmdb_id": 272043, "title": "Beijing Ants", "original_title": "\u5317\u4eac\u8682\u8681", "slug_title": "beijing-ants", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

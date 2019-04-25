@@ -1,1 +1,0 @@
-{"tmdb_id": 135838, "title": "Karl Rove, I Love You", "original_title": "Karl Rove, I Love You", "slug_title": "karl-rove-i-love-you", "date": "2007-11-15", "genre": "Com\u00e9die", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ZTvhMeZZxoN1siugDXtdWoJ3wE.jpg", "actors": [], "comments": [], "recommandations_id": []}

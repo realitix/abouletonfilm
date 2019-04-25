@@ -1,1 +1,0 @@
-{"tmdb_id": 152049, "title": "Claudio Zoli - Na Pista", "original_title": "Claudio Zoli - Na Pista", "slug_title": "claudio-zoli-na-pista", "date": "2016-02-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A5Q7URR6P7tu0YGSvWUjMKbnVAO.jpg", "actors": [], "comments": [], "recommandations_id": []}

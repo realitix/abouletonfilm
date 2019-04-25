@@ -1,1 +1,0 @@
-{"tmdb_id": 490441, "title": "Paracas", "original_title": "Paracas", "slug_title": "paracas", "date": "1983-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

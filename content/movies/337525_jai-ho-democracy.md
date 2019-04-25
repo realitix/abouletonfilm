@@ -1,1 +1,0 @@
-{"tmdb_id": 337525, "title": "Jai Ho! Democracy", "original_title": "Jai Ho! Democracy", "slug_title": "jai-ho-democracy", "date": "2015-04-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sdXmklvyBsN4JKAFDli9Cvdplnf.jpg", "actors": [], "comments": [], "recommandations_id": []}

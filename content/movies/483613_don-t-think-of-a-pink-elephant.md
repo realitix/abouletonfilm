@@ -1,1 +1,0 @@
-{"tmdb_id": 483613, "title": "Don't Think of A Pink Elephant", "original_title": "Don't Think of A Pink Elephant", "slug_title": "don-t-think-of-a-pink-elephant", "date": "2017-10-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

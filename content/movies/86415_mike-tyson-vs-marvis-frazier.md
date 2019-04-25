@@ -1,1 +1,0 @@
-{"tmdb_id": 86415, "title": "Mike Tyson vs Marvis Frazier", "original_title": "Mike Tyson vs Marvis Frazier", "slug_title": "mike-tyson-vs-marvis-frazier", "date": "1986-07-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kM5lm8vki5EP5kF9gf1DdJ6e3DB.jpg", "actors": [], "comments": [], "recommandations_id": []}

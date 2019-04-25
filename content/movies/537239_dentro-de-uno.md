@@ -1,1 +1,0 @@
-{"tmdb_id": 537239, "title": "Dentro de Uno", "original_title": "Dentro de Uno", "slug_title": "dentro-de-uno", "date": "2012-10-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8NaHKKNjfcZ3yr48fiXAlogevz7.jpg", "actors": [], "comments": [], "recommandations_id": []}

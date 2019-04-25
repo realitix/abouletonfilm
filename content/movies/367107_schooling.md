@@ -1,1 +1,0 @@
-{"tmdb_id": 367107, "title": "Schooling", "original_title": "\u0160kolovanje", "slug_title": "schooling", "date": "1970-12-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iLEzvJggygkGpokKgD4GQ6Cx1Sn.jpg", "actors": [], "comments": [], "recommandations_id": []}

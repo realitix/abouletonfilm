@@ -1,1 +1,0 @@
-{"tmdb_id": 493538, "title": "Holy Working Day", "original_title": "\ud640\ub9ac\uc6cc\ud0b9\ub370\uc774", "slug_title": "holy-working-day", "date": "2016-06-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lIQejWDvUtZuTtFyoQ8zftlx2EX.jpg", "actors": [], "comments": [], "recommandations_id": []}

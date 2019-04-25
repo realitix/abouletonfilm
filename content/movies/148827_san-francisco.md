@@ -1,1 +1,0 @@
-{"tmdb_id": 148827, "title": "San Francisco", "original_title": "San Francisco", "slug_title": "san-francisco", "date": "1968-12-31", "genre": "", "score": "6.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b2liVrf685ByJzHn8xcEhn5Fx1L.jpg", "actors": [], "comments": [], "recommandations_id": [145720, 153180, 47229, 145915]}

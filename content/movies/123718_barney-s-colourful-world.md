@@ -1,1 +1,0 @@
-{"tmdb_id": 123718, "title": "Barney's Colourful World", "original_title": "Barney's Colourful World", "slug_title": "barney-s-colourful-world", "date": "2004-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/caiPbJ8hrFYzUNeq3JjqU33vEdV.jpg", "actors": [], "comments": [], "recommandations_id": []}

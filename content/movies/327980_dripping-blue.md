@@ -1,1 +1,0 @@
-{"tmdb_id": 327980, "title": "Dripping Blue", "original_title": "Bleu Gouttes", "slug_title": "dripping-blue", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 534340, "title": "Les S\u0153urs Hamlet", "original_title": "Les S\u0153urs Hamlet", "slug_title": "les-soeurs-hamlet", "date": "1998-02-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g4ES6ATOKiID1fiEMc6VMfSIDan.jpg", "actors": [], "comments": [], "recommandations_id": []}

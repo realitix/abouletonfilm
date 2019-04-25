@@ -1,1 +1,0 @@
-{"tmdb_id": 587158, "title": "Stepdaddy", "original_title": "Stepdaddy", "slug_title": "stepdaddy", "date": "2019-03-09", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lauren Blumenfeld (Patricia)", "Max Jenkins (Wyatt)", "Peter Gallagher ()"], "comments": [], "recommandations_id": []}

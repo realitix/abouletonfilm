@@ -1,1 +1,0 @@
-{"tmdb_id": 513771, "title": "Heliopolis Heliopolis", "original_title": "Heliopolis Heliopolis", "slug_title": "heliopolis-heliopolis", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kpq579vDZO2RseTI3ADwtSAieAx.jpg", "actors": [], "comments": [], "recommandations_id": []}

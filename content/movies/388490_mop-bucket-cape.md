@@ -1,1 +1,0 @@
-{"tmdb_id": 388490, "title": "Mop, Bucket & Cape", "original_title": "Mop, Bucket & Cape", "slug_title": "mop-bucket-cape", "date": "2015-12-01", "genre": "Fantastique / Action", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sogpGBBrLQO0j59WNDup6QbC5Ci.jpg", "actors": [], "comments": [], "recommandations_id": []}

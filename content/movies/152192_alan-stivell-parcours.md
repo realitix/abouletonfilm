@@ -1,1 +1,0 @@
-{"tmdb_id": 152192, "title": "Alan Stivell - Parcours", "original_title": "Alan Stivell - Parcours", "slug_title": "alan-stivell-parcours", "date": "2004-11-10", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t8RHXKKfJfrm6ultSZCxxYPz5De.jpg", "actors": ["Alan Stivell ()"], "comments": [], "recommandations_id": []}

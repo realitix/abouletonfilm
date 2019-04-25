@@ -1,1 +1,0 @@
-{"tmdb_id": 411978, "title": "Jackson", "original_title": "Jackson", "slug_title": "jackson", "date": "2016-08-27", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y8cW5UWMHzjV8QpSAi4K5l4nuFg.jpg", "actors": [], "comments": [], "recommandations_id": []}

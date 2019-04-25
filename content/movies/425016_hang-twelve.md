@@ -1,1 +1,0 @@
-{"tmdb_id": 425016, "title": "Hang Twelve", "original_title": "Hang Twelve", "slug_title": "hang-twelve", "date": "2014-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fE6VVnO5YZjI46n2x3AW6IqaD7w.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 499328, "title": "The Listener", "original_title": "The Listener", "slug_title": "the-listener", "date": "1991-01-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

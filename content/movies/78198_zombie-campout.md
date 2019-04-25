@@ -1,1 +1,0 @@
-{"tmdb_id": 78198, "title": "Zombie Campout", "original_title": "Zombie Campout", "slug_title": "zombie-campout", "date": "2002-05-06", "genre": "Horreur", "score": "3.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lOpsmHyrtjpVdAB72kFfiNWIXNH.jpg", "actors": [], "comments": [], "recommandations_id": [109230, 76621, 77885, 80837]}

@@ -1,1 +1,0 @@
-{"tmdb_id": 349400, "title": "Magic Dice", "original_title": "Les d\u00e9s magiques", "slug_title": "magic-dice", "date": "1908-09-25", "genre": "Fantastique", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Julienne Mathieu ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 295956, "title": "Lady Be Good: Instrumental Women In Jazz", "original_title": "Lady Be Good: Instrumental Women In Jazz", "slug_title": "lady-be-good-instrumental-women-in-jazz", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

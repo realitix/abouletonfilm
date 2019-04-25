@@ -1,1 +1,0 @@
-{"tmdb_id": 351076, "title": "I'm Not Patrick", "original_title": "I'm Not Patrick", "slug_title": "i-m-not-patrick", "date": "2015-07-21", "genre": "Drame / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z3bD62afjS4jEadz7HNvU8H92Z7.jpg", "actors": [], "comments": [], "recommandations_id": []}

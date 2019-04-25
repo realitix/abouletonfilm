@@ -1,1 +1,0 @@
-{"tmdb_id": 271383, "title": "Pongo Catches The Crossword Craze", "original_title": "Pongo Catches The Crossword Craze", "slug_title": "pongo-catches-the-crossword-craze", "date": "1923-05-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

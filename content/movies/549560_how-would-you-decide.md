@@ -1,1 +1,0 @@
-{"tmdb_id": 549560, "title": "How would you decide?", "original_title": "Wie w\u00fcrden Sie entscheiden?", "slug_title": "how-would-you-decide", "date": "1982-01-01", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1yVX3GOp3faKrfJdvNRv6ft7zYs.jpg", "actors": [], "comments": [], "recommandations_id": []}

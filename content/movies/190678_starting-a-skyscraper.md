@@ -1,1 +1,0 @@
-{"tmdb_id": 190678, "title": "Starting a Skyscraper", "original_title": "Starting a Skyscraper", "slug_title": "starting-a-skyscraper", "date": "1902-01-14", "genre": "", "score": "4.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/as58tAaSF7gEc2rGfGt0xQEA1Yf.jpg", "actors": [], "comments": [], "recommandations_id": [178720, 178703]}

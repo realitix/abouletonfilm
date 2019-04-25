@@ -1,1 +1,0 @@
-{"tmdb_id": 538706, "title": "Nuits de princes", "original_title": "Nuits de princes", "slug_title": "nuits-de-princes", "date": "1938-01-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4OfpyLkIfRyc7nSX0dcqpDgV5TZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

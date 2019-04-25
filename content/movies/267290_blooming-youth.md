@@ -1,1 +1,0 @@
-{"tmdb_id": 267290, "title": "Blooming Youth", "original_title": "\u82b1\u5f00\u4e0e\u4f60\u7684\u534a\u590f", "slug_title": "blooming-youth", "date": "2014-04-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/djIkQnxLEMp8yx6FhheGhbfCFy8.jpg", "actors": [], "comments": [], "recommandations_id": []}

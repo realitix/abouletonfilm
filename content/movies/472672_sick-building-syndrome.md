@@ -1,1 +1,0 @@
-{"tmdb_id": 472672, "title": "Sick Building Syndrome", "original_title": "Sick Building Syndrome", "slug_title": "sick-building-syndrome", "date": "2013-03-22", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Brooke Nevin (Amy)", "Zack Ward (Amy's boss)"], "comments": [], "recommandations_id": []}

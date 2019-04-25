@@ -1,1 +1,0 @@
-{"tmdb_id": 310676, "title": "Surviving the Rush", "original_title": "Surviving the Rush", "slug_title": "surviving-the-rush", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

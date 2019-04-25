@@ -1,1 +1,0 @@
-{"tmdb_id": 38863, "title": "Go to Hell!", "original_title": "Go to Hell!", "slug_title": "go-to-hell", "date": "1997-04-16", "genre": "Animation / Horreur", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lNjq1q3DoDEDWIdXUbybIjPKJgS.jpg", "actors": ["Keith Scott ()", "Helen Knight ()"], "comments": [], "recommandations_id": []}

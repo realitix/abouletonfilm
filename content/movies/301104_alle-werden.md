@@ -1,1 +1,0 @@
-{"tmdb_id": 301104, "title": "Alle Werden", "original_title": "Alle Werden", "slug_title": "alle-werden", "date": "2010-06-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3N6uAleW3Ics5vi1gVqXU2DMxTS.jpg", "actors": [], "comments": [], "recommandations_id": []}

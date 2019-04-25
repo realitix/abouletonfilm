@@ -1,1 +1,0 @@
-{"tmdb_id": 580244, "title": "Las aventuras del Topo Gigio", "original_title": "Las aventuras del Topo Gigio", "slug_title": "las-aventuras-del-topo-gigio", "date": "2019-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mario Ferr\u00e9 (Topo Gigio)"], "comments": [], "recommandations_id": []}

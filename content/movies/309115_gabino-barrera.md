@@ -1,1 +1,0 @@
-{"tmdb_id": 309115, "title": "Gabino Barrera", "original_title": "Gabino Barrera", "slug_title": "gabino-barrera", "date": "1965-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p1SPFyYT0hWJWtp0uH4PZIn1Gwg.jpg", "actors": [], "comments": [], "recommandations_id": []}

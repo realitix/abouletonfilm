@@ -1,1 +1,0 @@
-{"tmdb_id": 298963, "title": "Os Pequerruchos", "original_title": "Os Pequerruchos", "slug_title": "os-pequerruchos", "date": "2012-10-24", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/slzWAhwalEgz1LLtHzSSSGybLGK.jpg", "actors": [], "comments": [], "recommandations_id": []}

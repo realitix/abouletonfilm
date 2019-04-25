@@ -1,1 +1,0 @@
-{"tmdb_id": 562596, "title": "Gallery Guide", "original_title": "Gallery Guide", "slug_title": "gallery-guide", "date": "1999-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

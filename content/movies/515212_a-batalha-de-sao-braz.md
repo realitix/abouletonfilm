@@ -1,1 +1,0 @@
-{"tmdb_id": 515212, "title": "A Batalha de S\u00e3o Braz", "original_title": "A Batalha de S\u00e3o Braz", "slug_title": "a-batalha-de-sao-braz", "date": "2016-04-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wh027faffOQRXDX6T0TvdVYPROg.jpg", "actors": [], "comments": [], "recommandations_id": []}

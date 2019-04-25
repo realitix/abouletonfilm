@@ -1,1 +1,0 @@
-{"tmdb_id": 309263, "title": "Death, Taxes...and Chocolate!", "original_title": "Death, Taxes...and Chocolate!", "slug_title": "death-taxes-and-chocolate", "date": "2008-04-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

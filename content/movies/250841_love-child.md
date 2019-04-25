@@ -1,1 +1,0 @@
-{"tmdb_id": 250841, "title": "Love Child", "original_title": "Love Child", "slug_title": "love-child", "date": "2014-01-17", "genre": "Documentaire", "score": "5.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f1OTTRZi5BGKfiGs9UjgR4hXkpw.jpg", "actors": [], "comments": [], "recommandations_id": []}

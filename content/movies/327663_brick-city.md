@@ -1,1 +1,0 @@
-{"tmdb_id": 327663, "title": "Brick City", "original_title": "Brick City", "slug_title": "brick-city", "date": "2014-04-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

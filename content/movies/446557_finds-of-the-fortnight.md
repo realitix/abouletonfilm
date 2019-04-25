@@ -1,1 +1,0 @@
-{"tmdb_id": 446557, "title": "Finds of the Fortnight", "original_title": "Finds of the Fortnight", "slug_title": "finds-of-the-fortnight", "date": "1980-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

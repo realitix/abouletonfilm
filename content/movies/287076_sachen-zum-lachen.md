@@ -1,1 +1,0 @@
-{"tmdb_id": 287076, "title": "Sachen zum Lachen", "original_title": "Sachen zum Lachen", "slug_title": "sachen-zum-lachen", "date": "1992-11-11", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1Rm9d9X3rNTFAjy3mv6vyJzuesF.jpg", "actors": ["Otto Schenk ()"], "comments": [], "recommandations_id": []}

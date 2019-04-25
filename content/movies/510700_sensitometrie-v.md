@@ -1,1 +1,0 @@
-{"tmdb_id": 510700, "title": "Sensitom\u00e9trie V", "original_title": "Sensitom\u00e9trie V", "slug_title": "sensitometrie-v", "date": "1976-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

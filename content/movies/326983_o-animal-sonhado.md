@@ -1,1 +1,0 @@
-{"tmdb_id": 326983, "title": "O Animal Sonhado", "original_title": "O Animal Sonhado", "slug_title": "o-animal-sonhado", "date": "2015-01-23", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kMPBG4rtLAlB6pdlOwiWA5hS1YX.jpg", "actors": [], "comments": [], "recommandations_id": []}

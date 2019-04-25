@@ -1,1 +1,0 @@
-{"tmdb_id": 496713, "title": "Der Graf von Carabas", "original_title": "Der Graf von Carabas", "slug_title": "der-graf-von-carabas", "date": "1935-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 357484, "title": "Britain Can Make It, No. 1", "original_title": "Britain Can Make It, No. 1", "slug_title": "britain-can-make-it-no-1", "date": "1945-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

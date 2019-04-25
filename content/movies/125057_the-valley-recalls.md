@@ -1,1 +1,0 @@
-{"tmdb_id": 125057, "title": "The Valley Recalls", "original_title": "The Valley Recalls", "slug_title": "the-valley-recalls", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

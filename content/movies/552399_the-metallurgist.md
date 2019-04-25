@@ -1,1 +1,0 @@
-{"tmdb_id": 552399, "title": "The Metallurgist", "original_title": "\u0413\u043e\u0440\u043d\u043e\u0432\u043e\u0439", "slug_title": "the-metallurgist", "date": "2018-03-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/unnFrWA7UChxFRgNSlHPp74DGQn.jpg", "actors": [], "comments": [], "recommandations_id": []}

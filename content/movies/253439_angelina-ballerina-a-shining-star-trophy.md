@@ -1,1 +1,0 @@
-{"tmdb_id": 253439, "title": "Angelina Ballerina: A Shining Star Trophy", "original_title": "Angelina Ballerina: A Shining Star Trophy", "slug_title": "angelina-ballerina-a-shining-star-trophy", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 510217, "title": "Happiness At Work", "original_title": "Happiness At Work", "slug_title": "happiness-at-work", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nN9lkzoyJRZYEr8eXUUeQoh4tSs.jpg", "actors": [], "comments": [], "recommandations_id": []}

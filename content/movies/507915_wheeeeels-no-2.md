@@ -1,1 +1,0 @@
-{"tmdb_id": 507915, "title": "Wheeeeels No. 2", "original_title": "Wheeeeels No. 2", "slug_title": "wheeeeels-no-2", "date": "1959-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

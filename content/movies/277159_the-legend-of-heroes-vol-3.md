@@ -1,1 +1,0 @@
-{"tmdb_id": 277159, "title": "The Legend of Heroes Vol.3", "original_title": "The Legend of Heroes Vol.3", "slug_title": "the-legend-of-heroes-vol-3", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vWJrFPydInW21PHqeOzNRgywAqn.jpg", "actors": [], "comments": [], "recommandations_id": []}

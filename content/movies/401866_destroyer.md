@@ -1,1 +1,0 @@
-{"tmdb_id": 401866, "title": "Destroyer", "original_title": "Destroyer", "slug_title": "destroyer", "date": "2014-08-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6uN9TewhExUeEwRKWWTH0EjtBRv.jpg", "actors": ["Alan Ruck (Frank)", "Judith Hoag (Debbie)", "Matt Roy (Randy)"], "comments": [], "recommandations_id": []}

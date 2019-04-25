@@ -1,1 +1,0 @@
-{"tmdb_id": 305771, "title": "Faces do Malawi", "original_title": "Faces do Malawi", "slug_title": "faces-do-malawi", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

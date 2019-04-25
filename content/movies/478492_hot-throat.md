@@ -1,1 +1,0 @@
-{"tmdb_id": 478492, "title": "Hot Throat", "original_title": "\u017dhav\u00fd j\u00edcen", "slug_title": "hot-throat", "date": "1939-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

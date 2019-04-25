@@ -1,1 +1,0 @@
-{"tmdb_id": 271447, "title": "A Big Draw", "original_title": "A Big Draw", "slug_title": "a-big-draw", "date": "1928-05-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

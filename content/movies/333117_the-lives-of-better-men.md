@@ -1,1 +1,0 @@
-{"tmdb_id": 333117, "title": "The Lives of Better Men", "original_title": "The Lives of Better Men", "slug_title": "the-lives-of-better-men", "date": "2015-01-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

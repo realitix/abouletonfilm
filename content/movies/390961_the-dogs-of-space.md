@@ -1,1 +1,0 @@
-{"tmdb_id": 390961, "title": "The Dogs of Space", "original_title": "The Dogs of Space", "slug_title": "the-dogs-of-space", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

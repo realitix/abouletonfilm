@@ -1,1 +1,0 @@
-{"tmdb_id": 443853, "title": "Citizen Fish: Gaffer Tape", "original_title": "Citizen Fish: Gaffer Tape", "slug_title": "citizen-fish-gaffer-tape", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o8zw7VDTaf5R5bIssBv4hlgQvGk.jpg", "actors": [], "comments": [], "recommandations_id": []}

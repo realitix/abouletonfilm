@@ -1,1 +1,0 @@
-{"tmdb_id": 283891, "title": "Dir muss er ja nicht gefallen", "original_title": "Dir muss er ja nicht gefallen", "slug_title": "dir-muss-er-ja-nicht-gefallen", "date": "1979-01-01", "genre": "Familial / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Marion Kracht ()", "Andrea Schober ()"], "comments": [], "recommandations_id": []}

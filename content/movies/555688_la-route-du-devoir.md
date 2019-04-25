@@ -1,1 +1,0 @@
-{"tmdb_id": 555688, "title": "La route du devoir", "original_title": "La route du devoir", "slug_title": "la-route-du-devoir", "date": "1918-04-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

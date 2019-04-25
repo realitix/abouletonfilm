@@ -1,1 +1,0 @@
-{"tmdb_id": 353633, "title": "The Walking Fool", "original_title": "The Walking Fool", "slug_title": "the-walking-fool", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/van0ROsocmaKCCs19U4j2FcZFO8.jpg", "actors": ["Mark E. Phillips (Himself)"], "comments": [], "recommandations_id": []}

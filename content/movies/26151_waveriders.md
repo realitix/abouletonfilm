@@ -1,1 +1,0 @@
-{"tmdb_id": 26151, "title": "Waveriders", "original_title": "Waveriders", "slug_title": "waveriders", "date": "2008-01-01", "genre": "Thriller / Documentaire", "score": "5.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vGJICJRGfebKhiZvJepQkjuWwpa.jpg", "actors": ["Kelly Slater (Himself)"], "comments": [], "recommandations_id": []}

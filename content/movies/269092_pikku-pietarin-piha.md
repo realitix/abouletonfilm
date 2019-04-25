@@ -1,1 +1,0 @@
-{"tmdb_id": 269092, "title": "Pikku Pietarin piha", "original_title": "Pikku Pietarin piha", "slug_title": "pikku-pietarin-piha", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Ab2iMyw2xlaGmHkRrFn2TIffq5S.jpg", "actors": [], "comments": [], "recommandations_id": []}

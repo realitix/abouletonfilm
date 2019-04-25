@@ -1,1 +1,0 @@
-{"tmdb_id": 164423, "title": "Ghost of the Needle", "original_title": "Ghost of the Needle", "slug_title": "ghost-of-the-needle", "date": "2003-05-15", "genre": "", "score": "2.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/njmPxRpkqp85TPs20EAKCez8fxF.jpg", "actors": [], "comments": [], "recommandations_id": [27773]}

@@ -1,1 +1,0 @@
-{"tmdb_id": 236657, "title": "El\u00e4imi\u00e4 el\u00e4imille", "original_title": "El\u00e4imi\u00e4 el\u00e4imille", "slug_title": "elaimia-elaimille", "date": "2011-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

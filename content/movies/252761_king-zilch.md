@@ -1,1 +1,0 @@
-{"tmdb_id": 252761, "title": "King Zilch", "original_title": "King Zilch", "slug_title": "king-zilch", "date": "1933-06-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

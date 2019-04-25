@@ -1,1 +1,0 @@
-{"tmdb_id": 301377, "title": "Single Creek", "original_title": "Single Creek", "slug_title": "single-creek", "date": "2013-01-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 492921, "title": "The King's War", "original_title": "R\u0103zboiul Regelui", "slug_title": "the-king-s-war", "date": "2016-05-10", "genre": "Documentaire", "score": "8.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fqCUOZbFErednr36uRWlSVDCVoe.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 392699, "title": "I Was Watching", "original_title": "Biri beni g\u00f6zl\u00fcyor", "slug_title": "i-was-watching", "date": "1988-01-01", "genre": "Horreur / Thriller", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ftLOcAS5znd6OsS7qnqNKrk0hy7.jpg", "actors": [], "comments": [], "recommandations_id": []}

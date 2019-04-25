@@ -1,1 +1,0 @@
-{"tmdb_id": 280061, "title": "Poovilangu", "original_title": "Poovilangu", "slug_title": "poovilangu", "date": "1984-03-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Murali ()", "Kuyili ()", "Poovilangu Mohan ()", "Charle ()"], "comments": [], "recommandations_id": []}

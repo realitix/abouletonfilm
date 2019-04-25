@@ -1,1 +1,0 @@
-{"tmdb_id": 274524, "title": "Amma and Appa", "original_title": "Amma und Appa", "slug_title": "amma-and-appa", "date": "2014-09-04", "genre": "Com\u00e9die / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iCNEJ3XXITIdRvYgIDBC0C3KnPt.jpg", "actors": [], "comments": [], "recommandations_id": []}

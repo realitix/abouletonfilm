@@ -1,1 +1,0 @@
-{"tmdb_id": 596556, "title": "The Making of 'Winter's Bone'", "original_title": "The Making of 'Winter's Bone'", "slug_title": "the-making-of-winter-s-bone", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Debra Granik (Self)", "Jennifer Lawrence (Self)"], "comments": [], "recommandations_id": []}

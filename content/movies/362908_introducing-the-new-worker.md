@@ -1,1 +1,0 @@
-{"tmdb_id": 362908, "title": "Introducing the New Worker", "original_title": "Introducing the New Worker", "slug_title": "introducing-the-new-worker", "date": "1952-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

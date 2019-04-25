@@ -1,1 +1,0 @@
-{"tmdb_id": 567550, "title": "Soyalism", "original_title": "Soyalism", "slug_title": "soyalism", "date": "2018-11-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x368exfWJDxmvE338BMjnG5QJZ0.jpg", "actors": [], "comments": [], "recommandations_id": []}

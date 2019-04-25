@@ -1,1 +1,0 @@
-{"tmdb_id": 304871, "title": "Listen to London", "original_title": "Listen to London", "slug_title": "listen-to-london", "date": "1981-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

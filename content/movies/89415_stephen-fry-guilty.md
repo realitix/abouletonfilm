@@ -1,1 +1,0 @@
-{"tmdb_id": 89415, "title": "Stephen Fry: Guilty", "original_title": "Stephen Fry: Guilty", "slug_title": "stephen-fry-guilty", "date": "2007-08-18", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

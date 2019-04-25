@@ -1,1 +1,0 @@
-{"tmdb_id": 415656, "title": "Appointment by Telephone", "original_title": "Appointment by Telephone", "slug_title": "appointment-by-telephone", "date": "1902-05-01", "genre": "Com\u00e9die", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

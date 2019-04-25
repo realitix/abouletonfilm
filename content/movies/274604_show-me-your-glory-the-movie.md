@@ -1,1 +1,0 @@
-{"tmdb_id": 274604, "title": "Show Me Your Glory: The Movie", "original_title": "Show Me Your Glory: The Movie", "slug_title": "show-me-your-glory-the-movie", "date": "2012-04-01", "genre": "", "score": "8.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 395918, "title": "Bad days", "original_title": "Malos d\u00edas", "slug_title": "bad-days", "date": "2016-04-28", "genre": "Drame / Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lq47hN8eZispRiiJxaqPKLYTgvh.jpg", "actors": [], "comments": [], "recommandations_id": []}

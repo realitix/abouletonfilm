@@ -1,1 +1,0 @@
-{"tmdb_id": 525054, "title": "Botika Bituka", "original_title": "Botika Bituka", "slug_title": "botika-bituka", "date": "1987-08-05", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wZ9WpRqQ4aizqENzdw0we5uqYCZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

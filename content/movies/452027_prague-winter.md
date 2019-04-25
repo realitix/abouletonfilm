@@ -1,1 +1,0 @@
-{"tmdb_id": 452027, "title": "Prague Winter", "original_title": "Prague Winter", "slug_title": "prague-winter", "date": "2007-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mTVbtvFkVktKoDSA3krPq29pbTs.jpg", "actors": [], "comments": [], "recommandations_id": []}

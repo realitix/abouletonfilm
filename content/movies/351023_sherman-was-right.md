@@ -1,1 +1,0 @@
-{"tmdb_id": 351023, "title": "Sherman Was Right", "original_title": "Sherman Was Right", "slug_title": "sherman-was-right", "date": "1932-08-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

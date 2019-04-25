@@ -1,1 +1,0 @@
-{"tmdb_id": 81524, "title": "Foreign Parts", "original_title": "Foreign Parts", "slug_title": "foreign-parts", "date": "2010-08-09", "genre": "Documentaire", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/avrw9BLOLYTIjqESZFjyxqxG37W.jpg", "actors": [], "comments": [], "recommandations_id": []}

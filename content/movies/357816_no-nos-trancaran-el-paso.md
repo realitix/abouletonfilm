@@ -1,1 +1,0 @@
-{"tmdb_id": 357816, "title": "No nos Trancar\u00e1n el Paso", "original_title": "No nos Trancar\u00e1n el Paso", "slug_title": "no-nos-trancaran-el-paso", "date": "1972-05-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

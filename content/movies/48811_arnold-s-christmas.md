@@ -1,1 +1,0 @@
-{"tmdb_id": 48811, "title": "Arnold's Christmas", "original_title": "Arnold's Christmas", "slug_title": "arnold-s-christmas", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g8hkAWOxL10Qucs0osQePQhFXIl.jpg", "actors": [], "comments": [], "recommandations_id": []}

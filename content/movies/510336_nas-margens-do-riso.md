@@ -1,1 +1,0 @@
-{"tmdb_id": 510336, "title": "Nas Margens do Riso", "original_title": "Nas Margens do Riso", "slug_title": "nas-margens-do-riso", "date": "2015-08-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sWj7RaWhL0HDb7Q7eS5VPYYvRSo.jpg", "actors": [], "comments": [], "recommandations_id": []}

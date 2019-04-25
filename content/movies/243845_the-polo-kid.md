@@ -1,1 +1,0 @@
-{"tmdb_id": 243845, "title": "The Polo Kid", "original_title": "The Polo Kid", "slug_title": "the-polo-kid", "date": "2009-11-06", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/owd3igUa9hpQz8g7LHDW9pfaPy1.jpg", "actors": [], "comments": [], "recommandations_id": []}

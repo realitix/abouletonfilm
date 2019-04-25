@@ -1,1 +1,0 @@
-{"tmdb_id": 320245, "title": "George Harrison: A Beatle in Benton, IL", "original_title": "George Harrison: A Beatle in Benton, IL", "slug_title": "george-harrison-a-beatle-in-benton-il", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

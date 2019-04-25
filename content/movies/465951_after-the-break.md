@@ -1,1 +1,0 @@
-{"tmdb_id": 465951, "title": "After the Break", "original_title": "After the Break", "slug_title": "after-the-break", "date": "1994-03-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mary Guzm\u00e1n ()"], "comments": [], "recommandations_id": []}

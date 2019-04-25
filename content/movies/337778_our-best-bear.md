@@ -1,1 +1,0 @@
-{"tmdb_id": 337778, "title": "Our Best Bear", "original_title": "Our Best Bear", "slug_title": "our-best-bear", "date": "2015-03-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

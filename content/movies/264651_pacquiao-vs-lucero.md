@@ -1,1 +1,0 @@
-{"tmdb_id": 264651, "title": "Pacquiao vs. Lucero", "original_title": "Pacquiao vs. Lucero", "slug_title": "pacquiao-vs-lucero", "date": "2003-07-26", "genre": "Action", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gGzf3v6Ac40QLrRgK3aSFgG3GhE.jpg", "actors": ["Manny Pacquiao (himself)"], "comments": [], "recommandations_id": []}

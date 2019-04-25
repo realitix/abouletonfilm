@@ -1,1 +1,0 @@
-{"tmdb_id": 546478, "title": "BloodWork: The Ana Mendieta Story", "original_title": "BloodWork: The Ana Mendieta Story", "slug_title": "bloodwork-the-ana-mendieta-story", "date": "", "genre": "Documentaire / Crime", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dawn Dunning (Ana Mendieta)"], "comments": [], "recommandations_id": []}

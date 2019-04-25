@@ -1,1 +1,0 @@
-{"tmdb_id": 120099, "title": "Inside the Circle", "original_title": "Inside the Circle", "slug_title": "inside-the-circle", "date": "2009-01-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Romeo Navarro ()", "Omar Davila ()", "Joshua Lee Ayers ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 582891, "title": "A Fistful of Pasta", "original_title": "A Fistful of Pasta", "slug_title": "a-fistful-of-pasta", "date": "1974-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Donald Farmer ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 525585, "title": "Vertrauende Liebe \u2013 Gl\u00fchender Hass", "original_title": "Vertrauende Liebe \u2013 Gl\u00fchender Hass", "slug_title": "vertrauende-liebe-gluhender-hass", "date": "1970-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 507552, "title": "Dos patrias, Cuba y la noche", "original_title": "Dos patrias, Cuba y la noche", "slug_title": "dos-patrias-cuba-y-la-noche", "date": "2007-03-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gM5qqoJ5VXHiBTgfkX8s0Ayn1WE.jpg", "actors": [], "comments": [], "recommandations_id": []}

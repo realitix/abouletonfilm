@@ -1,1 +1,0 @@
-{"tmdb_id": 478824, "title": "Kayan Beauties", "original_title": "Kayan Ahla", "slug_title": "kayan-beauties", "date": "2013-03-15", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aI4tu3PtHoYVUHc253PuNBfClb0.jpg", "actors": ["Frances ()", "Hin Mai ()", "Khin Mar Win ()"], "comments": [], "recommandations_id": []}

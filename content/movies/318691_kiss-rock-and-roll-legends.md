@@ -1,1 +1,0 @@
-{"tmdb_id": 318691, "title": "KISS: Rock and Roll Legends", "original_title": "KISS: Rock and Roll Legends", "slug_title": "kiss-rock-and-roll-legends", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

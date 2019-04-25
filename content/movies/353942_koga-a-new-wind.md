@@ -1,1 +1,0 @@
-{"tmdb_id": 353942, "title": "Koga - A New Wind", "original_title": "Koga - A New Wind", "slug_title": "koga-a-new-wind", "date": "2011-11-25", "genre": "Documentaire", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/12IwKBouwTfEgGC5ZZiaWcDJHPe.jpg", "actors": ["Toshihiko Koga (himself)"], "comments": [], "recommandations_id": []}

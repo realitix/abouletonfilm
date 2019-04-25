@@ -1,1 +1,0 @@
-{"tmdb_id": 338506, "title": "Next Door", "original_title": "Next Door", "slug_title": "next-door", "date": "2010-04-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

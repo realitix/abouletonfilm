@@ -1,1 +1,0 @@
-{"tmdb_id": 232505, "title": "Autodaf\u00e8", "original_title": "Autodaf\u00e8", "slug_title": "autodafe", "date": "2010-03-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2OuBY9MtLEgmnNfU68IkY9jFgdE.jpg", "actors": [], "comments": [], "recommandations_id": []}

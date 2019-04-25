@@ -1,1 +1,0 @@
-{"tmdb_id": 271411, "title": "Como los muertos", "original_title": "Como los muertos", "slug_title": "como-los-muertos", "date": "1925-05-22", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Matilde Palau ()", "Joaqu\u00edn Sem ()"], "comments": [], "recommandations_id": []}

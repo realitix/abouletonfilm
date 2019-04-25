@@ -1,1 +1,0 @@
-{"tmdb_id": 589449, "title": "The Milky Way", "original_title": "The Milky Way", "slug_title": "the-milky-way", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/junW0Kgf5lSseCoWnNmIJSEGO2p.jpg", "actors": [], "comments": [], "recommandations_id": []}

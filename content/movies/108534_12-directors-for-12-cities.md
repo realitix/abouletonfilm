@@ -1,1 +1,0 @@
-{"tmdb_id": 108534, "title": "12 Directors for 12 Cities", "original_title": "12 registi per 12 citt\u00e0", "slug_title": "12-directors-for-12-cities", "date": "1989-05-22", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h8EjOF8g0X0qDRpwnhhOj7dDAOm.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 332501, "title": "Breaking Night", "original_title": "Breaking Night", "slug_title": "breaking-night", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

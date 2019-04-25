@@ -1,1 +1,1 @@
-{"tmdb_id": 372543, "title": "The delivery", "original_title": "The delivery", "slug_title": "the-delivery", "date": "2009-02-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 372543, "title": "The delivery", "original_title": "The delivery", "slug_title": "the-delivery", "date": "2009-02-22", "genre": [""], "score": "0.0/10", "synopsis": "Short movie", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

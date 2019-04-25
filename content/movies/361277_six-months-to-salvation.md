@@ -1,1 +1,0 @@
-{"tmdb_id": 361277, "title": "Six Months to Salvation", "original_title": "Six Months to Salvation", "slug_title": "six-months-to-salvation", "date": "2016-11-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9R0dLLZdLxsu9xz1RML9yNXmL8h.jpg", "actors": [], "comments": [], "recommandations_id": []}

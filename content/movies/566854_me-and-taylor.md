@@ -1,1 +1,0 @@
-{"tmdb_id": 566854, "title": "Me and Taylor", "original_title": "Me and Taylor", "slug_title": "me-and-taylor", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Taylor Mead (Himself)"], "comments": [], "recommandations_id": []}

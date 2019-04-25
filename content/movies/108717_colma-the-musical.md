@@ -1,1 +1,0 @@
-{"tmdb_id": 108717, "title": "Colma: The Musical", "original_title": "Colma: The Musical", "slug_title": "colma-the-musical", "date": "2006-01-01", "genre": "Com\u00e9die / Musique / Romance", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yfnL7IZKEKXCLfJt5uKTzZbNZS.jpg", "actors": [], "comments": [], "recommandations_id": []}

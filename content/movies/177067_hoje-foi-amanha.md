@@ -1,1 +1,0 @@
-{"tmdb_id": 177067, "title": "Hoje Foi Amanh\u00e3", "original_title": "Hoje Foi Amanh\u00e3", "slug_title": "hoje-foi-amanha", "date": "2003-03-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6AkSe1COsIL0FrZKdh7KHHREcZ0.jpg", "actors": ["Ant\u00f3nio Cardoso ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 556794, "title": "Ladr\u00f5es de Tuta e Meia", "original_title": "Ladr\u00f5es de Tuta e Meia", "slug_title": "ladroes-de-tuta-e-meia", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cpTxK16MVLpB9RgDOEAjGohcE12.jpg", "actors": [], "comments": [], "recommandations_id": []}

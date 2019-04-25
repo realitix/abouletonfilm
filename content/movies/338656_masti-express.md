@@ -1,1 +1,0 @@
-{"tmdb_id": 338656, "title": "Masti Express", "original_title": "Masti Express", "slug_title": "masti-express", "date": "2011-02-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bfIqRfx1XpjAwu0jGd6aAsJpQLR.jpg", "actors": ["Rajpal Yadav (Raju)", "Johnny Lever (Veeru Bhai)"], "comments": [], "recommandations_id": []}

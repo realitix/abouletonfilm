@@ -1,1 +1,0 @@
-{"tmdb_id": 404285, "title": "Pretty Guardian Sailor Moon Kirari Super Live", "original_title": "Pretty Guardian Sailor Moon Kirari Super Live", "slug_title": "pretty-guardian-sailor-moon-kirari-super-live", "date": "2004-08-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

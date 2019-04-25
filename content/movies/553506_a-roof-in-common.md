@@ -1,1 +1,0 @@
-{"tmdb_id": 553506, "title": "A Roof in Common", "original_title": "A Roof in Common", "slug_title": "a-roof-in-common", "date": "2018-10-09", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

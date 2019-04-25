@@ -1,1 +1,0 @@
-{"tmdb_id": 597004, "title": "Jimmer: The Lonely Master", "original_title": "Jimmer: The Lonely Master", "slug_title": "jimmer-the-lonely-master", "date": "2019-04-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

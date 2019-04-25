@@ -1,1 +1,0 @@
-{"tmdb_id": 471021, "title": "The Horse in Focus", "original_title": "H\u00e4sten i centrum", "slug_title": "the-horse-in-focus", "date": "1956-12-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xYzVvsQxZ9mhYqWNLaR0MseJnQu.jpg", "actors": [], "comments": [], "recommandations_id": []}

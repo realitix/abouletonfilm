@@ -1,1 +1,0 @@
-{"tmdb_id": 307620, "title": "Simha Baludu", "original_title": "Simha Baludu", "slug_title": "simha-baludu", "date": "1978-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

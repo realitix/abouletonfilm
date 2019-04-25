@@ -1,1 +1,0 @@
-{"tmdb_id": 179837, "title": "Manufractur", "original_title": "Manufraktur", "slug_title": "manufractur", "date": "1985-01-01", "genre": "", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h4FyeiVbZ487heEzdXAU3tzRgck.jpg", "actors": [], "comments": [], "recommandations_id": [144943, 126218, 126197, 146662]}

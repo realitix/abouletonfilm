@@ -1,1 +1,0 @@
-{"tmdb_id": 354014, "title": "The Laboured Party", "original_title": "The Laboured Party", "slug_title": "the-laboured-party", "date": "1975-08-11", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k6IJms4b1e3CNQO7gegu9WjVsuL.jpg", "actors": [], "comments": [], "recommandations_id": []}

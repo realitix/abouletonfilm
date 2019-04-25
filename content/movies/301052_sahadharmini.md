@@ -1,1 +1,0 @@
-{"tmdb_id": 301052, "title": "Sahadharmini", "original_title": "Sahadharmini", "slug_title": "sahadharmini", "date": "1967-12-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

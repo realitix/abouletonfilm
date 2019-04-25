@@ -1,1 +1,0 @@
-{"tmdb_id": 582729, "title": "Children Of Bodom - Needled 24/7", "original_title": "Children Of Bodom - Needled 24/7", "slug_title": "children-of-bodom-needled-24-7", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2LgspxlpQjWiMMdWDXWcvQtUY3e.jpg", "actors": [], "comments": [], "recommandations_id": []}

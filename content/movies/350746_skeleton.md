@@ -1,1 +1,0 @@
-{"tmdb_id": 350746, "title": "Skeleton", "original_title": "Skeleton", "slug_title": "skeleton", "date": "1988-02-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Eugene Levy (Bert Harris)"], "comments": [], "recommandations_id": []}

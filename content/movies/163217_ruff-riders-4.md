@@ -1,1 +1,0 @@
-{"tmdb_id": 163217, "title": "Ruff Riders 4", "original_title": "Ruff Riders 4", "slug_title": "ruff-riders-4", "date": "2008-09-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hJUG7HpnRwR1yVG5n0GEVjPUStC.jpg", "actors": ["Daniel Bodin ()"], "comments": [], "recommandations_id": []}

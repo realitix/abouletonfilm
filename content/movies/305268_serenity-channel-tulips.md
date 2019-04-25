@@ -1,1 +1,0 @@
-{"tmdb_id": 305268, "title": "Serenity Channel - Tulips", "original_title": "Serenity Channel - Tulips", "slug_title": "serenity-channel-tulips", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 50484, "title": "Fire & Rescue", "original_title": "Fire & Rescue", "slug_title": "fire-rescue", "date": "", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

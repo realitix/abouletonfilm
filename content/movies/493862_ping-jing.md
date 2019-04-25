@@ -1,1 +1,0 @@
-{"tmdb_id": 493862, "title": "\u5e73\u9759", "original_title": "\u5e73\u9759", "slug_title": "ping-jing", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Qi Xi ()"], "comments": [], "recommandations_id": []}

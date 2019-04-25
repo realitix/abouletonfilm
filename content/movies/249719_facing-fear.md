@@ -1,1 +1,0 @@
-{"tmdb_id": 249719, "title": "Facing Fear", "original_title": "Facing Fear", "slug_title": "facing-fear", "date": "2013-07-13", "genre": "Documentaire", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bcVYVp6rx7AAcwyqzyBJsrBsFxb.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 326462, "title": "The Price of Honor", "original_title": "The Price of Honor", "slug_title": "the-price-of-honor", "date": "2014-09-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

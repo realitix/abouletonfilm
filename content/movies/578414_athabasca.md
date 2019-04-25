@@ -1,1 +1,0 @@
-{"tmdb_id": 578414, "title": "Athabasca", "original_title": "Athabasca", "slug_title": "athabasca", "date": "2019-01-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zsVnDAeE0J83iBXwq2BTCo1f8g5.jpg", "actors": [], "comments": [], "recommandations_id": []}

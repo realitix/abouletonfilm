@@ -1,1 +1,0 @@
-{"tmdb_id": 456096, "title": "The Killers: Unstaged", "original_title": "The Killers: Unstaged", "slug_title": "the-killers-unstaged", "date": "2012-09-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dnqORlyT9FFu49N8L3WrAZICF3G.jpg", "actors": [], "comments": [], "recommandations_id": []}

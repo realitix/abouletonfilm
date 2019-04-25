@@ -1,1 +1,0 @@
-{"tmdb_id": 221345, "title": "Kiss Kiss Kiss", "original_title": "Kiss Kiss Kiss", "slug_title": "kiss-kiss-kiss", "date": "1964-01-01", "genre": "Animation", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9pjtcOhf8WL3veqvFbHAyUGqtj5.jpg", "actors": [], "comments": [], "recommandations_id": []}

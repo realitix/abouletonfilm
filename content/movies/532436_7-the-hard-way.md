@@ -1,1 +1,0 @@
-{"tmdb_id": 532436, "title": "7 the hard way", "original_title": "7 the hard way", "slug_title": "7-the-hard-way", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Luci Love ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 437642, "title": "Down the Hallways of the Congress", "original_title": "En los pasillos del congreso", "slug_title": "down-the-hallways-of-the-congress", "date": "1932-01-27", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

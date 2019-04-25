@@ -1,1 +1,0 @@
-{"tmdb_id": 423905, "title": "Interval", "original_title": "Interval", "slug_title": "interval", "date": "2011-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8p3uNNiObkya0QIpHVq9D92HGBZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

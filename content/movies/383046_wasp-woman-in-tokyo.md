@@ -1,1 +1,0 @@
-{"tmdb_id": 383046, "title": "Wasp Woman In Tokyo", "original_title": "\u5438\u8840! \u5973\u738b \u8702 !!", "slug_title": "wasp-woman-in-tokyo", "date": "2011-12-02", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7ZWrcwZhOme6HMxf66OnahvvwHX.jpg", "actors": [], "comments": [], "recommandations_id": []}

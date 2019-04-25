@@ -1,1 +1,0 @@
-{"tmdb_id": 571075, "title": "Awka Liwen", "original_title": "Awka Liwen", "slug_title": "awka-liwen", "date": "2010-09-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

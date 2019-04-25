@@ -1,1 +1,0 @@
-{"tmdb_id": 252502, "title": "\u00c5 vokte fjellet", "original_title": "\u00c5 vokte fjellet", "slug_title": "a-vokte-fjellet", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

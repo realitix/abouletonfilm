@@ -1,1 +1,0 @@
-{"tmdb_id": 340325, "title": "The Last Mango Before the Monsoon", "original_title": "The Last Mango Before the Monsoon", "slug_title": "the-last-mango-before-the-monsoon", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

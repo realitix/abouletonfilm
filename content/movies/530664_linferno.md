@@ -1,1 +1,0 @@
-{"tmdb_id": 530664, "title": "L\u2019Inferno", "original_title": "L\u2019Inferno", "slug_title": "linferno", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

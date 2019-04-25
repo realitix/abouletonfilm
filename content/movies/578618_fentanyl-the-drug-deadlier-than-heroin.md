@@ -1,1 +1,0 @@
-{"tmdb_id": 578618, "title": "Fentanyl: The Drug Deadlier Than Heroin", "original_title": "Fentanyl: The Drug Deadlier Than Heroin", "slug_title": "fentanyl-the-drug-deadlier-than-heroin", "date": "2016-07-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 566864, "title": "Rescuers: Stories of Courage \u2013 Two Couples", "original_title": "Rescuers: Stories of Courage \u2013 Two Couples", "slug_title": "rescuers-stories-of-courage-two-couples", "date": "1998-05-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

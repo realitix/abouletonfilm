@@ -1,1 +1,0 @@
-{"tmdb_id": 275188, "title": "El Chicano: In the Eye of the Storm", "original_title": "El Chicano: In the Eye of the Storm", "slug_title": "el-chicano-in-the-eye-of-the-storm", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

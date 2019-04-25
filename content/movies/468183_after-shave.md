@@ -1,1 +1,0 @@
-{"tmdb_id": 468183, "title": "After Shave", "original_title": "Beyrouth apr\u00e8s-rasage", "slug_title": "after-shave", "date": "2005-01-01", "genre": "Drame / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rkNwgvSFBmr9MKks2QviJAUr3s0.jpg", "actors": [], "comments": [], "recommandations_id": []}

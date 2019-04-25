@@ -1,1 +1,0 @@
-{"tmdb_id": 193651, "title": "Carousel: Animal Opera", "original_title": "Carousel: Animal Opera", "slug_title": "carousel-animal-opera", "date": "1938-01-01", "genre": "", "score": "5.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/38vvYA32FrOdvsN6YFXpElKoTMw.jpg", "actors": [], "comments": [], "recommandations_id": [159245]}

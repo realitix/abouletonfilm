@@ -1,1 +1,0 @@
-{"tmdb_id": 473951, "title": "BORIS GODOUNOV - OPERA DIRECTO", "original_title": "BORIS GODOUNOV - OPERA DIRECTO", "slug_title": "boris-godounov-opera-directo", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r4NfDN1I2A2kFH8lXZyBvnbdUZ2.jpg", "actors": [], "comments": [], "recommandations_id": []}

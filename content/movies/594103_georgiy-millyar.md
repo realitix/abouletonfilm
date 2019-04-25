@@ -1,1 +1,0 @@
-{"tmdb_id": 594103, "title": "Georgiy Millyar", "original_title": "Georgiy Millyar", "slug_title": "georgiy-millyar", "date": "1983-04-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Georgi Millyar ()", "Yuriy Sorokin ()", "Yelena Rou ()", "Mariya Millyar ()"], "comments": [], "recommandations_id": []}

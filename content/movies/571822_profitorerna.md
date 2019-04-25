@@ -1,1 +1,0 @@
-{"tmdb_id": 571822, "title": "Profit\u00f6rerna", "original_title": "Profit\u00f6rerna", "slug_title": "profitorerna", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

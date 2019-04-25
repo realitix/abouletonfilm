@@ -1,1 +1,0 @@
-{"tmdb_id": 505849, "title": "Destroy", "original_title": "Destroy", "slug_title": "destroy", "date": "", "genre": "Horreur / Com\u00e9die / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ksREPCy1MiV4Dfgy84dZ849712m.jpg", "actors": [], "comments": [], "recommandations_id": []}

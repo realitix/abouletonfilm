@@ -1,1 +1,0 @@
-{"tmdb_id": 519411, "title": "21 Seiki wa Minna ga Shuyaku", "original_title": "21\u4e16\u7d00\u306f\u307f\u3093\u306a\u304c\u4e3b\u5f79", "slug_title": "21-seiki-wa-minna-ga-shuyaku", "date": "2001-12-31", "genre": "Animation / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 522845, "title": "Depresion", "original_title": "Depresion", "slug_title": "depresion", "date": "2009-10-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ei7vee3vArnF19IhBYw5mVHhkck.jpg", "actors": ["Javier Coll ()", "Ra\u00fal Cano ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 421737, "title": "Zedd: True Colors", "original_title": "Zedd: True Colors", "slug_title": "zedd-true-colors", "date": "2016-06-02", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nRg66ryksEpVfov5ThPJ88pRtcL.jpg", "actors": ["Zedd (Himself)"], "comments": [], "recommandations_id": []}

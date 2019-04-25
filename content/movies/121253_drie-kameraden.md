@@ -1,1 +1,0 @@
-{"tmdb_id": 121253, "title": "Drie kameraden", "original_title": "Drie kameraden", "slug_title": "drie-kameraden", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

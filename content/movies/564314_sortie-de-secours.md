@@ -1,1 +1,0 @@
-{"tmdb_id": 564314, "title": "Sortie de secours", "original_title": "Sortie de secours", "slug_title": "sortie-de-secours", "date": "1970-09-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

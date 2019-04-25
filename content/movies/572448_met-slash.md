@@ -1,1 +1,0 @@
-{"tmdb_id": 572448, "title": "Met@slash", "original_title": "Met@slash", "slug_title": "met-slash", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

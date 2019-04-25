@@ -1,1 +1,0 @@
-{"tmdb_id": 520615, "title": "The Bottle and the Throttle", "original_title": "The Bottle and the Throttle", "slug_title": "the-bottle-and-the-throttle", "date": "1961-01-01", "genre": "Drame", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Timothy Farrell (Narrator (voice) (uncredited))"], "comments": [], "recommandations_id": []}

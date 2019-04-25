@@ -1,1 +1,0 @@
-{"tmdb_id": 77996, "title": "Street Stars: The Larry Davis Story", "original_title": "Street Stars: The Larry Davis Story", "slug_title": "street-stars-the-larry-davis-story", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

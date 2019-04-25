@@ -1,1 +1,0 @@
-{"tmdb_id": 368152, "title": "The saint and the brave goose", "original_title": "The saint and the brave goose", "slug_title": "the-saint-and-the-brave-goose", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

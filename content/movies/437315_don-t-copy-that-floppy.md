@@ -1,1 +1,0 @@
-{"tmdb_id": 437315, "title": "Don't Copy That Floppy", "original_title": "Don't Copy That Floppy", "slug_title": "don-t-copy-that-floppy", "date": "1992-01-01", "genre": "Musique / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Marja Allen (Jenny)", "M.E. Hart (DP)", "Jimmy Todd (Corey)"], "comments": [], "recommandations_id": []}

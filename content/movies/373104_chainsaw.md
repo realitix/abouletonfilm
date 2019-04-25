@@ -1,1 +1,0 @@
-{"tmdb_id": 373104, "title": "Chainsaw", "original_title": "Chainsaw", "slug_title": "chainsaw", "date": "2015-10-08", "genre": "Horreur", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/moycMgub0aYw9RZNu445YdH0XXa.jpg", "actors": [], "comments": [], "recommandations_id": []}

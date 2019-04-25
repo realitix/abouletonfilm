@@ -1,1 +1,0 @@
-{"tmdb_id": 322392, "title": "Sri Rama Bhaktha Hanuman", "original_title": "Sri Rama Bhaktha Hanuman", "slug_title": "sri-rama-bhaktha-hanuman", "date": "1958-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

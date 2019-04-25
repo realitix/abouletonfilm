@@ -1,1 +1,0 @@
-{"tmdb_id": 405092, "title": "Learn to Master the Internet", "original_title": "Learn to Master the Internet", "slug_title": "learn-to-master-the-internet", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5UxMIM4QoyBDhWWrqKEQ1TyxJdt.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 384290, "title": "Everything and More", "original_title": "Everything and More", "slug_title": "everything-and-more", "date": "2015-10-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wLLmkMcKIXRZTglmBCz53HtBsp2.jpg", "actors": ["Rachel Rose (Director)"], "comments": [], "recommandations_id": []}

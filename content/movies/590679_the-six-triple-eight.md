@@ -1,1 +1,0 @@
-{"tmdb_id": 590679, "title": "The Six Triple Eight", "original_title": "The Six Triple Eight", "slug_title": "the-six-triple-eight", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eG1x8lJl9Vs0mIZX4ZvCKAVI8Ef.jpg", "actors": [], "comments": [], "recommandations_id": []}

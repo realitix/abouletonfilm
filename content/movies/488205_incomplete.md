@@ -1,1 +1,0 @@
-{"tmdb_id": 488205, "title": "Incomplete", "original_title": "Incomplete", "slug_title": "incomplete", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

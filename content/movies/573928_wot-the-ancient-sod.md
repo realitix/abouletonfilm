@@ -1,1 +1,0 @@
-{"tmdb_id": 573928, "title": "Wot the Ancient Sod", "original_title": "Wot the Ancient Sod", "slug_title": "wot-the-ancient-sod", "date": "2001-01-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

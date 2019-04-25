@@ -1,1 +1,0 @@
-{"tmdb_id": 585622, "title": "Palladio", "original_title": "Palladio", "slug_title": "palladio", "date": "2019-05-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xi2dQfrwHaE4tHVxA2IXzolFL8j.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 549125, "title": "Sea/Shore", "original_title": "Sea/Shore", "slug_title": "sea-shore", "date": "1979-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9gPT9dXQReaiwpF24BqgpG3X02k.jpg", "actors": [], "comments": [], "recommandations_id": []}

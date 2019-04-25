@@ -1,1 +1,0 @@
-{"tmdb_id": 529602, "title": "Allahu Akbar", "original_title": "Allahu Akbar", "slug_title": "allahu-akbar", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/28x0KS2DUQMPRrvsMG1ClDJ63Jn.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 309741, "title": "Miss Patty Cake: God's Great Big World", "original_title": "Miss Patty Cake: God's Great Big World", "slug_title": "miss-patty-cake-god-s-great-big-world", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

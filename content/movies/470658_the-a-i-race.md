@@ -1,1 +1,0 @@
-{"tmdb_id": 470658, "title": "The A.I. Race", "original_title": "The A.I. Race", "slug_title": "the-a-i-race", "date": "2017-08-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kEIIsutXTLAIbQJHRplRcOXflzO.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 334169, "title": "Journey To Europa", "original_title": "Journey To Europa", "slug_title": "journey-to-europa", "date": "2012-08-09", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/muQyl827cmbZ5u6Wt0wEyvNJAbw.jpg", "actors": [], "comments": [], "recommandations_id": []}

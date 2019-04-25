@@ -1,1 +1,0 @@
-{"tmdb_id": 134779, "title": "F\u00e1bio Jr. & Elas", "original_title": "F\u00e1bio Jr. & Elas", "slug_title": "fabio-jr-elas", "date": "2004-04-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zYlPXsvRdhUZvpdwHcEhlWeQi3N.jpg", "actors": ["F\u00e1bio J\u00fanior ()"], "comments": [], "recommandations_id": []}

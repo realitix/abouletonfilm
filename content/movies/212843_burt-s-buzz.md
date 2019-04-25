@@ -1,1 +1,0 @@
-{"tmdb_id": 212843, "title": "Burt's Buzz", "original_title": "Burt's Buzz", "slug_title": "burt-s-buzz", "date": "2014-06-06", "genre": "Documentaire", "score": "6.6/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2h4ZhvCEkQ82aZJYYsro1bcf320.jpg", "actors": ["Burt Shavitz (Himself)"], "comments": [], "recommandations_id": [96574, 169760, 84327]}

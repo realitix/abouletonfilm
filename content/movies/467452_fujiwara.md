@@ -1,1 +1,0 @@
-{"tmdb_id": 467452, "title": "Fujiwara", "original_title": "Fujiwara", "slug_title": "fujiwara", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hjoDkzYBPIh1PMKzYOFY2tITJ1y.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 96915, "title": "Trash Dance", "original_title": "Trash Dance", "slug_title": "trash-dance", "date": "2012-03-10", "genre": "Documentaire / Com\u00e9die / Familial", "score": "6.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iaoYXVqfH2CnecrxgFjq6hQ3vqE.jpg", "actors": [], "comments": [], "recommandations_id": []}

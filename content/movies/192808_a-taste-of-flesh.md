@@ -1,1 +1,0 @@
-{"tmdb_id": 192808, "title": "A Taste of Flesh", "original_title": "A Taste of Flesh", "slug_title": "a-taste-of-flesh", "date": "1967-07-19", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ztKBDiuUkG4LyuhVF6JJMCo3HvD.jpg", "actors": [], "comments": [], "recommandations_id": []}

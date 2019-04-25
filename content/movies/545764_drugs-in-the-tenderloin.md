@@ -1,1 +1,0 @@
-{"tmdb_id": 545764, "title": "Drugs in the Tenderloin", "original_title": "Drugs in the Tenderloin", "slug_title": "drugs-in-the-tenderloin", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

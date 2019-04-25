@@ -1,1 +1,0 @@
-{"tmdb_id": 504989, "title": "Vacanze in Val Trebbia", "original_title": "Vacanze in Val Trebbia", "slug_title": "vacanze-in-val-trebbia", "date": "1980-08-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4zoUaJzYWnDTaO2eV5Xi78zOXMI.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 460254, "title": "Melbourne Sharpies", "original_title": "Melbourne Sharpies", "slug_title": "melbourne-sharpies", "date": "1974-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hoKFsGxVy2wZsBKsMBrsOADj8ud.jpg", "actors": [], "comments": [], "recommandations_id": []}

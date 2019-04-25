@@ -1,1 +1,0 @@
-{"tmdb_id": 90848, "title": "Le Peuple de l'eau", "original_title": "The Water People", "slug_title": "le-peuple-de-l-eau", "date": "1992-01-01", "genre": "Animation", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xUGFp6j8VfkyVM3s2QWx17hVPMw.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 504086, "title": "Para Julia", "original_title": "Para Julia", "slug_title": "para-julia", "date": "2004-02-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

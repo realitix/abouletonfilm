@@ -1,1 +1,0 @@
-{"tmdb_id": 98615, "title": "Carmelo's Way", "original_title": "Carmelo's Way", "slug_title": "carmelo-s-way", "date": "2010-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Carmelo Anthony (Himself)"], "comments": [], "recommandations_id": []}

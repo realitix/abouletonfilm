@@ -1,1 +1,0 @@
-{"tmdb_id": 380906, "title": "New York Cuts", "original_title": "New York Cuts", "slug_title": "new-york-cuts", "date": "2015-11-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/woNzK9g7YNckiiUdJ1pvoI0pgds.jpg", "actors": [], "comments": [], "recommandations_id": []}

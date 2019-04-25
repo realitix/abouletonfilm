@@ -1,1 +1,0 @@
-{"tmdb_id": 67326, "title": "Zeitgeist: Beyond The Pale", "original_title": "Zeitgeist: Beyond The Pale", "slug_title": "zeitgeist-beyond-the-pale", "date": "2012-12-19", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

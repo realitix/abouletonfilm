@@ -1,1 +1,0 @@
-{"tmdb_id": 422199, "title": "The Kind Wife", "original_title": "\ucc29\ud55c\uc544\ub0b4", "slug_title": "the-kind-wife", "date": "2016-09-06", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pnDSS6Bfbd0nLtVXD9WNWRhlG6t.jpg", "actors": [], "comments": [], "recommandations_id": []}

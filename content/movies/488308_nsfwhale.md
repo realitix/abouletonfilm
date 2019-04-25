@@ -1,1 +1,1 @@
-{"tmdb_id": 488308, "title": "NSFWHALE", "original_title": "NSFWHALE", "slug_title": "nsfwhale", "date": "2017-10-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 488308, "title": "NSFWHALE", "original_title": "NSFWHALE", "slug_title": "nsfwhale", "date": "2017-10-18", "genre": [""], "score": "0.0/10", "synopsis": "A whale destroys a ship.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

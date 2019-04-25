@@ -1,1 +1,0 @@
-{"tmdb_id": 266546, "title": "Darkthrone: Preparing for War", "original_title": "Darkthrone: Preparing for War", "slug_title": "darkthrone-preparing-for-war", "date": "2005-12-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3a8tzOZzIJw33ubeSYI00pSjnIr.jpg", "actors": [], "comments": [], "recommandations_id": []}

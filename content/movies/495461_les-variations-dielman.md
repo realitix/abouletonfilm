@@ -1,1 +1,0 @@
-{"tmdb_id": 495461, "title": "Les variations Dielman", "original_title": "Les variations Dielman", "slug_title": "les-variations-dielman", "date": "2010-05-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

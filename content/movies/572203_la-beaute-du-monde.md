@@ -1,1 +1,0 @@
-{"tmdb_id": 572203, "title": "La beaut\u00e9 du monde", "original_title": "La beaut\u00e9 du monde", "slug_title": "la-beaute-du-monde", "date": "1999-08-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/or7CuYC2WcZ2Zwm0xTXXDkgu6t5.jpg", "actors": [], "comments": [], "recommandations_id": []}

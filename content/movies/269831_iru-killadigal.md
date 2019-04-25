@@ -1,1 +1,0 @@
-{"tmdb_id": 269831, "title": "Iru Killadigal", "original_title": "Iru Killadigal", "slug_title": "iru-killadigal", "date": "2013-04-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iLFGxv4zvLiJF2YuYFVCRY8g5gx.jpg", "actors": [], "comments": [], "recommandations_id": []}

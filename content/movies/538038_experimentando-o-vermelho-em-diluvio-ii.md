@@ -1,1 +1,0 @@
-{"tmdb_id": 538038, "title": "Experimentando o Vermelho em Dil\u00favio II", "original_title": "Experimentando o Vermelho em Dil\u00favio II", "slug_title": "experimentando-o-vermelho-em-diluvio-ii", "date": "2017-09-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

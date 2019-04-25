@@ -1,1 +1,0 @@
-{"tmdb_id": 226666, "title": "Bandook", "original_title": "Bandook", "slug_title": "bandook", "date": "2013-01-19", "genre": "", "score": "9.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A1qpJ0z0zn4xzW5yEE7HvZ0aHYw.jpg", "actors": [], "comments": [], "recommandations_id": []}

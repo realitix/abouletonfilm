@@ -1,1 +1,0 @@
-{"tmdb_id": 404147, "title": "Signal to Noise", "original_title": "Signal to Noise", "slug_title": "signal-to-noise", "date": "1998-06-29", "genre": "Musique / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3PI8uDlxENlHfgH6x5Bemrc1iPp.jpg", "actors": ["Masami Akita (Himself)"], "comments": [], "recommandations_id": []}

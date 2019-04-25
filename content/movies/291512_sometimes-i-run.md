@@ -1,1 +1,0 @@
-{"tmdb_id": 291512, "title": "Sometimes I Run", "original_title": "Sometimes I Run", "slug_title": "sometimes-i-run", "date": "1973-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Stanley Maupin (Himself)"], "comments": [], "recommandations_id": []}

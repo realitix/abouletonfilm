@@ -1,1 +1,0 @@
-{"tmdb_id": 177377, "title": "Famalic\u00e3o", "original_title": "Famalic\u00e3o", "slug_title": "famalicao", "date": "1941-01-27", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h7JYOr2cayhoGZtsKuPaNIMLCCm.jpg", "actors": ["Vasco Santana (Narrador)"], "comments": [], "recommandations_id": []}

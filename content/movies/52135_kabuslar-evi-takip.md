@@ -1,1 +1,0 @@
-{"tmdb_id": 52135, "title": "Kabuslar Evi - Takip", "original_title": "Kabuslar Evi - Takip", "slug_title": "kabuslar-evi-takip", "date": "2006-01-01", "genre": "Horreur", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yOhhhq8Ji8vkP2yzB0YxpwmLfPg.jpg", "actors": ["Fikret Ku\u015fkan ()"], "comments": [], "recommandations_id": []}

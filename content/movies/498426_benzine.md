@@ -1,1 +1,0 @@
-{"tmdb_id": 498426, "title": "Benzine", "original_title": "Benzine", "slug_title": "benzine", "date": "2017-10-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cSWtQ5GDZwfcUgJ6pGpKiToezEL.jpg", "actors": ["Sondos Belhassen ()", "Ali Yahyaoui ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 465075, "title": "Victor Erice in Madrid", "original_title": "Victor Erice in Madrid", "slug_title": "victor-erice-in-madrid", "date": "2000-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["V\u00edctor Erice (Interviewee)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 553643, "title": "Untitled Experimental Project", "original_title": "Untitled Experimental Project", "slug_title": "untitled-experimental-project", "date": "2018-08-10", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dylan Schmid (Boy)", "Kaitlyn Bernard (Ocean)"], "comments": [], "recommandations_id": []}

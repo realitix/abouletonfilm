@@ -1,1 +1,0 @@
-{"tmdb_id": 314217, "title": "Miks mina?", "original_title": "Miks mina?", "slug_title": "miks-mina", "date": "2014-03-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lKQ3PhYg3at6n2vxK1TS7Wxg9Hc.jpg", "actors": ["Jan Uusp\u00f5ld (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 450734, "title": "Prado's Passion", "original_title": "La pasi\u00f3n del Prado", "slug_title": "prado-s-passion", "date": "2013-05-01", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8daeAbDACVLg753oB4nxnPmCSQh.jpg", "actors": [], "comments": [], "recommandations_id": []}

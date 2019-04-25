@@ -1,1 +1,0 @@
-{"tmdb_id": 524849, "title": "SPIRITWORLD", "original_title": "SPIRITWORLD", "slug_title": "spiritworld", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hz5xm68YbAsdQZWPFCBZjiMaltX.jpg", "actors": ["David Icke ()", "Chris Everard ()"], "comments": [], "recommandations_id": []}

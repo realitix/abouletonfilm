@@ -1,1 +1,0 @@
-{"tmdb_id": 472161, "title": "DIFFUSION", "original_title": "DIFFUSION", "slug_title": "diffusion", "date": "2015-11-10", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5QLESrx3AHdCIPKvunWWAGwRsSz.jpg", "actors": [], "comments": [], "recommandations_id": []}

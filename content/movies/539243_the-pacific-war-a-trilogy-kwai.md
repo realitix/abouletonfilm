@@ -1,1 +1,0 @@
-{"tmdb_id": 539243, "title": "The Pacific War: A Trilogy - Kwai", "original_title": "The Pacific War: A Trilogy - Kwai", "slug_title": "the-pacific-war-a-trilogy-kwai", "date": "", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

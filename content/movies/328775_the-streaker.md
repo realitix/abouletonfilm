@@ -1,1 +1,0 @@
-{"tmdb_id": 328775, "title": "The Streaker", "original_title": "The Streaker", "slug_title": "the-streaker", "date": "2015-03-04", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sjOx8ICrA1uNyBAilu5Is0NWZNo.jpg", "actors": [], "comments": [], "recommandations_id": []}

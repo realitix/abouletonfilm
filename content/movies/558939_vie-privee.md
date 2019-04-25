@@ -1,1 +1,0 @@
-{"tmdb_id": 558939, "title": "Vie priv\u00e9e", "original_title": "Vie priv\u00e9e", "slug_title": "vie-privee", "date": "1942-05-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

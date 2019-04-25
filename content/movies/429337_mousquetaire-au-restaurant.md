@@ -1,1 +1,0 @@
-{"tmdb_id": 429337, "title": "Mousquetaire au restaurant", "original_title": "Mousquetaire au restaurant", "slug_title": "mousquetaire-au-restaurant", "date": "1920-12-08", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rsVz5hn8AhVzDhzJqRJqJstxZOQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

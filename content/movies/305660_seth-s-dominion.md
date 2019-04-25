@@ -1,1 +1,0 @@
-{"tmdb_id": 305660, "title": "Seth's Dominion", "original_title": "Seth's Dominion", "slug_title": "seth-s-dominion", "date": "2014-09-19", "genre": "Animation / Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cfT3SRIRHL5LC94SweB4eoHlY1b.jpg", "actors": ["Seth ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,1 @@
-{"tmdb_id": 37796, "title": "La soluzione", "original_title": "La soluzione", "slug_title": "la-soluzione", "date": "", "genre": "", "score": "1.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 37796, "title": "La soluzione", "original_title": "La soluzione", "slug_title": "la-soluzione", "date": "", "genre": [""], "score": "1.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

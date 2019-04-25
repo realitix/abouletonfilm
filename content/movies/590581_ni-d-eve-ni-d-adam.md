@@ -1,1 +1,0 @@
-{"tmdb_id": 590581, "title": "Ni d'\u00c8ve ni d'Adam", "original_title": "Ni d'\u00c8ve ni d'Adam", "slug_title": "ni-d-eve-ni-d-adam", "date": "1968-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gLI3q2HbBrxNGcbwnrzEvR3w4Mt.jpg", "actors": [], "comments": [], "recommandations_id": []}

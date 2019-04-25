@@ -1,1 +1,0 @@
-{"tmdb_id": 312747, "title": "No Place to Hide", "original_title": "No Place to Hide", "slug_title": "no-place-to-hide", "date": "1959-06-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ddup4BWVc9qg8L8fHK4T2PngYtP.jpg", "actors": [], "comments": [], "recommandations_id": []}

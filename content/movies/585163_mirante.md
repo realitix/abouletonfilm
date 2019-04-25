@@ -1,1 +1,0 @@
-{"tmdb_id": 585163, "title": "Mirante", "original_title": "Mirante", "slug_title": "mirante", "date": "2019-02-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kCIT3tYY3l3uUnd1qVsE82c37Yk.jpg", "actors": [], "comments": [], "recommandations_id": []}

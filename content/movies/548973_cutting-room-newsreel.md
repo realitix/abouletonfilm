@@ -1,1 +1,0 @@
-{"tmdb_id": 548973, "title": "Cutting Room Newsreel", "original_title": "Cutting Room Newsreel", "slug_title": "cutting-room-newsreel", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Wheeler Dixon ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 570724, "title": "The Story of Harry Potter", "original_title": "The Story of Harry Potter", "slug_title": "the-story-of-harry-potter", "date": "2018-12-24", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s0FRUpp9nsM0N8F2S7hdIgeAkHy.jpg", "actors": [], "comments": [], "recommandations_id": []}

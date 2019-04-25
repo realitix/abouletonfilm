@@ -1,1 +1,0 @@
-{"tmdb_id": 530596, "title": "I Am Yours", "original_title": "I Am Yours", "slug_title": "i-am-yours", "date": "", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

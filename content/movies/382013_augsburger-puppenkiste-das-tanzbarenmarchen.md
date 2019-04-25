@@ -1,1 +1,0 @@
-{"tmdb_id": 382013, "title": "Augsburger Puppenkiste - Das Tanzb\u00e4renm\u00e4rchen", "original_title": "Augsburger Puppenkiste - Das Tanzb\u00e4renm\u00e4rchen", "slug_title": "augsburger-puppenkiste-das-tanzbarenmarchen", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

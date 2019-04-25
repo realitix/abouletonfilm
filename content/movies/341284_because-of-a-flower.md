@@ -1,1 +1,0 @@
-{"tmdb_id": 341284, "title": "Because of a Flower", "original_title": "Dahil sa isang bulaklak", "slug_title": "because-of-a-flower", "date": "1967-06-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eiemMDhimWgV9Gy6wG1pvY8fGfy.jpg", "actors": [], "comments": [], "recommandations_id": []}

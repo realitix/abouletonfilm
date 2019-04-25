@@ -1,1 +1,0 @@
-{"tmdb_id": 583855, "title": "Diversion", "original_title": "Diversion", "slug_title": "diversion", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fxVQhFOdFiPTTGuQfSm6BzOOKwH.jpg", "actors": [], "comments": [], "recommandations_id": []}

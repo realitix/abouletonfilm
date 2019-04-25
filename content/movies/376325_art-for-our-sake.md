@@ -1,1 +1,0 @@
-{"tmdb_id": 376325, "title": "Art For Our Sake", "original_title": "Art For Our Sake", "slug_title": "art-for-our-sake", "date": "2013-06-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/seMUpZNSlCLhRspfhpCoJyYs4tj.jpg", "actors": [], "comments": [], "recommandations_id": []}

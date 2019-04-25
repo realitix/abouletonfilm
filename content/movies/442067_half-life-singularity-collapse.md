@@ -1,1 +1,0 @@
-{"tmdb_id": 442067, "title": "Half-life: Singularity Collapse", "original_title": "Half-life: Singularity Collapse", "slug_title": "half-life-singularity-collapse", "date": "2011-07-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a5OO8Qfjq31BpcGMjjn7Tw6jTAX.jpg", "actors": [], "comments": [], "recommandations_id": []}

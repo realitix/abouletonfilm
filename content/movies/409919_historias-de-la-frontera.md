@@ -1,1 +1,0 @@
-{"tmdb_id": 409919, "title": "Historias de la frontera", "original_title": "Historias de la frontera", "slug_title": "historias-de-la-frontera", "date": "2006-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

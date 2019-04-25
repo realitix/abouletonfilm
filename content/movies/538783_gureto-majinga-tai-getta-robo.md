@@ -1,1 +1,0 @@
-{"tmdb_id": 538783, "title": "Gur\u0113to Majinga tai Getta Robo", "original_title": "Gur\u0113to Majinga tai Getta Robo", "slug_title": "gureto-majinga-tai-getta-robo", "date": "1975-03-21", "genre": "Animation / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

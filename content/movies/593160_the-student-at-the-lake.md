@@ -1,1 +1,0 @@
-{"tmdb_id": 593160, "title": "The student at the lake", "original_title": "O estudante no lago", "slug_title": "the-student-at-the-lake", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cU3OFUwciWpdGW1g62MA3nC1T9k.jpg", "actors": ["Greg\u00f3rio D'Almeida (Estudante)"], "comments": [], "recommandations_id": []}

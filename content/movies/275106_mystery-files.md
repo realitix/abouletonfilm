@@ -1,1 +1,0 @@
-{"tmdb_id": 275106, "title": "Mystery Files", "original_title": "Mystery Files", "slug_title": "mystery-files", "date": "1996-11-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yuzVaVijVFBderQEYn1Cmm2lWwh.jpg", "actors": [], "comments": [], "recommandations_id": []}

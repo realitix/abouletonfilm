@@ -1,1 +1,0 @@
-{"tmdb_id": 367793, "title": "Lithium Springs", "original_title": "Lithium Springs", "slug_title": "lithium-springs", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

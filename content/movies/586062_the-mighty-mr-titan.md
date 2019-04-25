@@ -1,1 +1,0 @@
-{"tmdb_id": 586062, "title": "The Mighty Mr. Titan", "original_title": "The Mighty Mr. Titan", "slug_title": "the-mighty-mr-titan", "date": "1965-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/895zK0aaX8iNw5EKMEQNc5RCjWU.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 287441, "title": "From Greece", "original_title": "Von Griechenland", "slug_title": "from-greece", "date": "1966-02-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b9mgadN8ep3zhPAYFXziVZ2KACS.jpg", "actors": [], "comments": [], "recommandations_id": []}

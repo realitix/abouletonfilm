@@ -1,1 +1,0 @@
-{"tmdb_id": 310254, "title": "Bollywood Toppers", "original_title": "Bollywood Toppers", "slug_title": "bollywood-toppers", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 596097, "title": "Colony of Artists", "original_title": "Colony of Artists", "slug_title": "colony-of-artists", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3RuzmRCHhMvBezBfMlUBSdN8pDj.jpg", "actors": [], "comments": [], "recommandations_id": []}

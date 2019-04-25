@@ -1,1 +1,0 @@
-{"tmdb_id": 537616, "title": "Interpreter", "original_title": "\u0418\u043d\u0442\u0435\u0440\u043f\u0440\u0435\u0442\u0430\u0442\u043e\u0440", "slug_title": "interpreter", "date": "2016-06-29", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

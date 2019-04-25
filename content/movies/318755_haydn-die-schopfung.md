@@ -1,1 +1,0 @@
-{"tmdb_id": 318755, "title": "Haydn: Die Schopfung", "original_title": "Haydn: Die Schopfung", "slug_title": "haydn-die-schopfung", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

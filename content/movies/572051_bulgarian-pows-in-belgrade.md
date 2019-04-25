@@ -1,1 +1,0 @@
-{"tmdb_id": 572051, "title": "Bulgarian POWs in Belgrade", "original_title": "Bugarski zarobljenici na Kalemegdanu", "slug_title": "bulgarian-pows-in-belgrade", "date": "1913-10-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

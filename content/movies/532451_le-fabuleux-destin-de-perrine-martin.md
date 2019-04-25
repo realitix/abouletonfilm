@@ -1,1 +1,0 @@
-{"tmdb_id": 532451, "title": "Le fabuleux destin de Perrine Martin", "original_title": "Le fabuleux destin de Perrine Martin", "slug_title": "le-fabuleux-destin-de-perrine-martin", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

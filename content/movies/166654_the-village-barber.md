@@ -1,1 +1,0 @@
-{"tmdb_id": 166654, "title": "The Village Barber", "original_title": "The Village Barber", "slug_title": "the-village-barber", "date": "1930-09-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xOAmvZbhQAzKv1xAcUqM44JaAWj.jpg", "actors": [], "comments": [], "recommandations_id": []}

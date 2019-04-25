@@ -1,1 +1,0 @@
-{"tmdb_id": 16612, "title": "Carmencita", "original_title": "Carmencita", "slug_title": "carmencita", "date": "1894-03-14", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6QJowxF4f2hrUtmrDXOqbRDMdDH.jpg", "actors": ["Carmencita (Herself)"], "comments": [], "recommandations_id": [32571, 33315, 33229, 96882]}

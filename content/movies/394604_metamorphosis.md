@@ -1,1 +1,0 @@
-{"tmdb_id": 394604, "title": "Metamorphosis", "original_title": "Metamorphosis", "slug_title": "metamorphosis", "date": "1974-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qKG8OT7uN3bT5DuO71ewytwjfxZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

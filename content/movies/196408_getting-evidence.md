@@ -1,1 +1,0 @@
-{"tmdb_id": 196408, "title": "Getting Evidence", "original_title": "Getting Evidence", "slug_title": "getting-evidence", "date": "1906-10-08", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/90vuCUxSpcGfb4UKtjwChrq076T.jpg", "actors": [], "comments": [], "recommandations_id": []}

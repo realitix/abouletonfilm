@@ -1,1 +1,0 @@
-{"tmdb_id": 424914, "title": "Il corridore della paura", "original_title": "Il corridore della paura", "slug_title": "il-corridore-della-paura", "date": "1992-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Samuel Fuller (himself)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 435876, "title": "The Brooklyn Tabernacle Choir - God Is Working", "original_title": "The Brooklyn Tabernacle Choir - God Is Working", "slug_title": "the-brooklyn-tabernacle-choir-god-is-working", "date": "2006-11-28", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

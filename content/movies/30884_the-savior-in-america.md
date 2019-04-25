@@ -1,1 +1,0 @@
-{"tmdb_id": 30884, "title": "The Savior in America", "original_title": "The Savior in America", "slug_title": "the-savior-in-america", "date": "1989-01-01", "genre": "Animation / Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hTyp5ij1SDT0NceBmxbpurMyhfd.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 274105, "title": "Stabbing at Leia's", "original_title": "Stabbing at Leia's", "slug_title": "stabbing-at-leia-s", "date": "2007-02-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/90smk8NueslkyKNAOb6VUB6ODQ8.jpg", "actors": [], "comments": [], "recommandations_id": []}

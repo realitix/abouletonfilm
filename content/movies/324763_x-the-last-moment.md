@@ -1,1 +1,0 @@
-{"tmdb_id": 324763, "title": "X- The Last Moment", "original_title": "X- The Last Moment", "slug_title": "x-the-last-moment", "date": "2011-12-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

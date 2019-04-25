@@ -1,1 +1,0 @@
-{"tmdb_id": 54595, "title": "Chronicles of an Exorcism", "original_title": "Chronicles of an Exorcism", "slug_title": "chronicles-of-an-exorcism", "date": "2008-01-01", "genre": "Horreur", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/68f8WgiWZU9GpUQFPJtot3j9v6i.jpg", "actors": [], "comments": [], "recommandations_id": []}

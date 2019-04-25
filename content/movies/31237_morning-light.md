@@ -1,1 +1,0 @@
-{"tmdb_id": 31237, "title": "Morning Light", "original_title": "Morning Light", "slug_title": "morning-light", "date": "2008-03-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cKimJDlY3stbI1REUxMxS1zuF8y.jpg", "actors": [], "comments": [], "recommandations_id": []}

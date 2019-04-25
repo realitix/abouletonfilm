@@ -1,1 +1,0 @@
-{"tmdb_id": 349759, "title": "\ub2aa\uc18d\uc758 \uc5ec\ucd0c\uc7a5", "original_title": "\ub2aa\uc18d\uc758 \uc5ec\ucd0c\uc7a5", "slug_title": "neupsogyi-yeoconjang", "date": "1990-04-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

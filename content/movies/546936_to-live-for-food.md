@@ -1,1 +1,0 @@
-{"tmdb_id": 546936, "title": "To Live For Food", "original_title": "To Live For Food", "slug_title": "to-live-for-food", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AcMkeAQ4KIhl2iIzGuGgjykrAz3.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 592462, "title": "The Incendiary", "original_title": "The Incendiary", "slug_title": "the-incendiary", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

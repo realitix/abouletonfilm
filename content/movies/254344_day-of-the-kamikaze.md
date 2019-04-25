@@ -1,1 +1,0 @@
-{"tmdb_id": 254344, "title": "Day of the Kamikaze", "original_title": "Day of the Kamikaze", "slug_title": "day-of-the-kamikaze", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2ePKKeZLScpaUCdWkarqX9E674O.jpg", "actors": [], "comments": [], "recommandations_id": []}

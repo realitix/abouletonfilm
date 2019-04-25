@@ -1,1 +1,0 @@
-{"tmdb_id": 335761, "title": "Secret Atelier", "original_title": "\ube44\ubc00\uc758 \ud654\ubc29", "slug_title": "secret-atelier", "date": "2013-12-11", "genre": "Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wM1wr5koVmL8MrrvE9z9TIj9aQy.jpg", "actors": [], "comments": [], "recommandations_id": []}

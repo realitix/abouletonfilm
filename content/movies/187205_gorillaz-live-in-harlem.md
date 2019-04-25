@@ -1,1 +1,0 @@
-{"tmdb_id": 187205, "title": "Gorillaz - Live in Harlem", "original_title": "Gorillaz - Live in Harlem", "slug_title": "gorillaz-live-in-harlem", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4MjNN7jUhabbFVXTJVMWMcwWzpk.jpg", "actors": [], "comments": [], "recommandations_id": []}

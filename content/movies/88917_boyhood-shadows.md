@@ -1,1 +1,0 @@
-{"tmdb_id": 88917, "title": "Boyhood Shadows", "original_title": "Boyhood Shadows", "slug_title": "boyhood-shadows", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lBP2ijfUvydE9gbC1qS8hk85GUC.jpg", "actors": [], "comments": [], "recommandations_id": []}

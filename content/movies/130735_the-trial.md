@@ -1,1 +1,0 @@
-{"tmdb_id": 130735, "title": "The Trial", "original_title": "Der Prozess", "slug_title": "the-trial", "date": "2011-08-27", "genre": "Drame", "score": "8.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pxJpqKJSvhLHxMN2bCGNI6eqqYO.jpg", "actors": [], "comments": [], "recommandations_id": []}

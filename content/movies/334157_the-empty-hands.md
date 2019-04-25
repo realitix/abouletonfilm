@@ -1,1 +1,0 @@
-{"tmdb_id": 334157, "title": "The Empty Hands", "original_title": "The Empty Hands", "slug_title": "the-empty-hands", "date": "2011-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

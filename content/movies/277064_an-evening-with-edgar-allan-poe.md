@@ -1,1 +1,0 @@
-{"tmdb_id": 277064, "title": "An Evening With Edgar Allan Poe", "original_title": "An Evening With Edgar Allan Poe", "slug_title": "an-evening-with-edgar-allan-poe", "date": "2000-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 566584, "title": "Cherry Girl", "original_title": "Cherry Girl", "slug_title": "cherry-girl", "date": "2006-12-20", "genre": "Action / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kumi Koda (Kumi)", "Megumi (Meg)", "Y\u00fbko It\u00f4 (Yu)"], "comments": [], "recommandations_id": []}

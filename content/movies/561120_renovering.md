@@ -1,1 +1,0 @@
-{"tmdb_id": 561120, "title": "Renovering", "original_title": "Renovering", "slug_title": "renovering", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jon Lange ()", "Paul Oakley Stovall ()", "Dan Billeskov ()"], "comments": [], "recommandations_id": []}

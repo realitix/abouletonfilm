@@ -1,1 +1,0 @@
-{"tmdb_id": 365982, "title": "Vakvagany", "original_title": "Vakvagany", "slug_title": "vakvagany", "date": "2002-03-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ciQylyjGH8GjH2riCb9W3iSdUjH.jpg", "actors": ["James Ellroy (Himself)", "Stan Brakhage (Himself)"], "comments": [], "recommandations_id": []}

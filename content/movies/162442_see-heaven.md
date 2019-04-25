@@ -1,1 +1,0 @@
-{"tmdb_id": 162442, "title": "See Heaven", "original_title": "Ten, mitake", "slug_title": "see-heaven", "date": "1995-06-06", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1urgRNHQwUMkpIAfWlCdrQi0hbu.jpg", "actors": [], "comments": [], "recommandations_id": []}

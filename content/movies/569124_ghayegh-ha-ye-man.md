@@ -1,1 +1,0 @@
-{"tmdb_id": 569124, "title": "Ghayegh-ha Ye Man", "original_title": "Ghayegh-ha Ye Man", "slug_title": "ghayegh-ha-ye-man", "date": "2005-10-26", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dNkQ0jvbN26FS5X6V4xbGrUvJz.jpg", "actors": ["Ali Mosaffa ()", "Leila Hatami ()"], "comments": [], "recommandations_id": []}

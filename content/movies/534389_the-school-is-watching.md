@@ -1,1 +1,0 @@
-{"tmdb_id": 534389, "title": "The School Is Watching", "original_title": "The School Is Watching", "slug_title": "the-school-is-watching", "date": "2015-06-21", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

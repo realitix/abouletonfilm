@@ -1,1 +1,0 @@
-{"tmdb_id": 536058, "title": "An Arcadian Elopement", "original_title": "An Arcadian Elopement", "slug_title": "an-arcadian-elopement", "date": "1907-09-16", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

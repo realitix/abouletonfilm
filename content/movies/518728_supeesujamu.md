@@ -1,1 +1,0 @@
-{"tmdb_id": 518728, "title": "SUPEESUJAMU", "original_title": "SUPEESUJAMU", "slug_title": "supeesujamu", "date": "2015-03-11", "genre": "Com\u00e9die / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t1azKv2vi3X1foEFzoqVizM4OqW.jpg", "actors": [], "comments": [], "recommandations_id": []}

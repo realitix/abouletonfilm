@@ -1,1 +1,0 @@
-{"tmdb_id": 260218, "title": "Trouble in the Image", "original_title": "Trouble in the Image", "slug_title": "trouble-in-the-image", "date": "1996-03-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Ew9T7U7xNU0Y4uVOijVcbvJ77d.jpg", "actors": [], "comments": [], "recommandations_id": []}

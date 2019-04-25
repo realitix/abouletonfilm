@@ -1,1 +1,0 @@
-{"tmdb_id": 422961, "title": "Forbidden People", "original_title": "Le Peuple Interdit", "slug_title": "forbidden-people", "date": "2016-10-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/edDQGuyN9KPoqNnMK0dAcXplfsG.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 560197, "title": "Ma femme, ma vache et moi", "original_title": "Ma femme, ma vache et moi", "slug_title": "ma-femme-ma-vache-et-moi", "date": "1952-05-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

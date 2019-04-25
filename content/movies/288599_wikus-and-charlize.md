@@ -1,1 +1,0 @@
-{"tmdb_id": 288599, "title": "Wikus and Charlize", "original_title": "Wikus and Charlize", "slug_title": "wikus-and-charlize", "date": "2010-04-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sharlto Copley (Wikus van der Merwe)", "Charlize Theron (Charlize Theron)"], "comments": [], "recommandations_id": []}

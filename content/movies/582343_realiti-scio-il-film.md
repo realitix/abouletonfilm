@@ -1,1 +1,0 @@
-{"tmdb_id": 582343, "title": "Realiti Scio': il film", "original_title": "Realiti Scio': il film", "slug_title": "realiti-scio-il-film", "date": "2019-02-18", "genre": "", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kvRrhhQoRtEqWSxa6vUb17HpIsI.jpg", "actors": ["Enrico Lucci ()"], "comments": [], "recommandations_id": []}

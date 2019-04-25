@@ -1,1 +1,0 @@
-{"tmdb_id": 514536, "title": "Die Partitur des Krieges - Leben zwischen den Fronten", "original_title": "Die Partitur des Krieges - Leben zwischen den Fronten", "slug_title": "die-partitur-des-krieges-leben-zwischen-den-fronten", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

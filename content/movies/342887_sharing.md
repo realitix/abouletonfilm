@@ -1,1 +1,0 @@
-{"tmdb_id": 342887, "title": "Sharing", "original_title": "Sharing", "slug_title": "sharing", "date": "2014-10-11", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7sDFoZ5uolg2f4RNyCwHuMcp34l.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 115614, "title": "Condenados al corredor", "original_title": "Condenados al corredor", "slug_title": "condenados-al-corredor", "date": "2003-11-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Thomas Miller-El (Himself)"], "comments": [], "recommandations_id": []}

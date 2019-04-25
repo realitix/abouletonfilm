@@ -1,1 +1,0 @@
-{"tmdb_id": 539269, "title": "Ciudad Grande", "original_title": "Ciudad Grande", "slug_title": "ciudad-grande", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uYJlqn0QfO5Zwdk1JRR8toNV68n.jpg", "actors": [], "comments": [], "recommandations_id": []}

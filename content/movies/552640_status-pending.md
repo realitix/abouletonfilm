@@ -1,1 +1,0 @@
-{"tmdb_id": 552640, "title": "Status Pending", "original_title": "Status Pending", "slug_title": "status-pending", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ben Zolno (Ryan Nevin)", "Ivana Palezevic (Lizzie Conley)"], "comments": [], "recommandations_id": []}

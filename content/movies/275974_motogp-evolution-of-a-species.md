@@ -1,1 +1,0 @@
-{"tmdb_id": 275974, "title": "MotoGP: Evolution of a Species", "original_title": "MotoGP: Evolution of a Species", "slug_title": "motogp-evolution-of-a-species", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

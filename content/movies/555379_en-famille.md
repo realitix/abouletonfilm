@@ -1,1 +1,1 @@
-{"tmdb_id": 555379, "title": "En famille", "original_title": "En famille", "slug_title": "en-famille", "date": "1915-04-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 555379, "title": "En famille", "original_title": "En famille", "slug_title": "en-famille", "date": "1915-04-30", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

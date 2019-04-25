@@ -1,1 +1,0 @@
-{"tmdb_id": 334011, "title": "El \u00c1rbol Sin Sombra", "original_title": "El \u00c1rbol Sin Sombra", "slug_title": "el-arbol-sin-sombra", "date": "2013-10-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

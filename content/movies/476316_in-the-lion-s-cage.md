@@ -1,1 +1,0 @@
-{"tmdb_id": 476316, "title": "In the Lion's Cage", "original_title": "U lavljem kavezu", "slug_title": "in-the-lion-s-cage", "date": "1919-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Milada Tana ()"], "comments": [], "recommandations_id": []}

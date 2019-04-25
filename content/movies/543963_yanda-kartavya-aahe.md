@@ -1,1 +1,0 @@
-{"tmdb_id": 543963, "title": "Yanda Kartavya Aahe", "original_title": "Yanda Kartavya Aahe", "slug_title": "yanda-kartavya-aahe", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

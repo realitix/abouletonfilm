@@ -1,1 +1,0 @@
-{"tmdb_id": 415037, "title": "pirates", "original_title": "pirates", "slug_title": "pirates", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

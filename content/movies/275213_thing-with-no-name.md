@@ -1,1 +1,0 @@
-{"tmdb_id": 275213, "title": "Thing with No Name", "original_title": "Thing with No Name", "slug_title": "thing-with-no-name", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

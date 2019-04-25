@@ -1,1 +1,0 @@
-{"tmdb_id": 291078, "title": "Movie FX  Masterclass Volume 1", "original_title": "Movie FX  Masterclass Volume 1", "slug_title": "movie-fx-masterclass-volume-1", "date": "2004-09-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jMV7BRofae0bcDUzgx3H5QHlOX.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 498910, "title": "The Great Guys", "original_title": "The Great Guys", "slug_title": "the-great-guys", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jAKnUPEoflfMRZ55kO4cB6cz5jC.jpg", "actors": [], "comments": [], "recommandations_id": []}

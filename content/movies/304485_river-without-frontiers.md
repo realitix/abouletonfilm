@@ -1,1 +1,0 @@
-{"tmdb_id": 304485, "title": "River Without Frontiers", "original_title": "River Without Frontiers", "slug_title": "river-without-frontiers", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

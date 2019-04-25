@@ -1,1 +1,0 @@
-{"tmdb_id": 245009, "title": "Sister Rose's Passion", "original_title": "Sister Rose's Passion", "slug_title": "sister-rose-s-passion", "date": "2004-05-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tnz9CVdHq0N3g2Fl6FKqySyFcnn.jpg", "actors": [], "comments": [], "recommandations_id": []}

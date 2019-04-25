@@ -1,1 +1,0 @@
-{"tmdb_id": 301094, "title": "Akarshan", "original_title": "Akarshan", "slug_title": "akarshan", "date": "1988-02-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

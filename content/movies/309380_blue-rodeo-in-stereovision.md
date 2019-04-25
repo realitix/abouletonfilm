@@ -1,1 +1,0 @@
-{"tmdb_id": 309380, "title": "Blue Rodeo: In Stereovision", "original_title": "Blue Rodeo: In Stereovision", "slug_title": "blue-rodeo-in-stereovision", "date": "2004-11-16", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cmrHvg1jcUEsHsOvi9oqW71ukAz.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 434066, "title": "Who is Arthur Chu?", "original_title": "Who is Arthur Chu?", "slug_title": "who-is-arthur-chu", "date": "2017-01-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rFJcuTBwEdJGVOk6Nn1pvjCiJry.jpg", "actors": [], "comments": [], "recommandations_id": []}

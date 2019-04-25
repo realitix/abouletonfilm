@@ -1,1 +1,0 @@
-{"tmdb_id": 331365, "title": "Falls Cabin", "original_title": "Falls Cabin", "slug_title": "falls-cabin", "date": "2013-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 558899, "title": "Refuge II: The Ice Path", "original_title": "Refuge II: The Ice Path", "slug_title": "refuge-ii-the-ice-path", "date": "", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6QYOKDYCLhsHvGSWMev9JAUu4Zl.jpg", "actors": [], "comments": [], "recommandations_id": []}

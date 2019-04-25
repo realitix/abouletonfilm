@@ -1,1 +1,0 @@
-{"tmdb_id": 562733, "title": "Bonzenkarren", "original_title": "Bonzenkarren", "slug_title": "bonzenkarren", "date": "2008-06-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Christian Bl\u00fcmel ()", "Pit Bukowski ()"], "comments": [], "recommandations_id": []}

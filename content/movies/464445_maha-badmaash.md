@@ -1,1 +1,0 @@
-{"tmdb_id": 464445, "title": "Maha Badmaash", "original_title": "Maha Badmaash", "slug_title": "maha-badmaash", "date": "1977-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5DiCEnxGuRrPZ9EEe20b3RuAryp.jpg", "actors": [], "comments": [], "recommandations_id": []}

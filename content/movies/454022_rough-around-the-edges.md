@@ -1,1 +1,0 @@
-{"tmdb_id": 454022, "title": "Rough Around the Edges", "original_title": "Rough Around the Edges", "slug_title": "rough-around-the-edges", "date": "2017-04-27", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8aEvGfbZKGxIA6DR1DkkFaMoQuB.jpg", "actors": [], "comments": [], "recommandations_id": []}

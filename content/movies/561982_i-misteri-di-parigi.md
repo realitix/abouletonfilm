@@ -1,1 +1,0 @@
-{"tmdb_id": 561982, "title": "I misteri di Parigi", "original_title": "I misteri di Parigi", "slug_title": "i-misteri-di-parigi", "date": "1957-08-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/njRaknDLYnAJjXO7WSTaBGIbBER.jpg", "actors": [], "comments": [], "recommandations_id": []}

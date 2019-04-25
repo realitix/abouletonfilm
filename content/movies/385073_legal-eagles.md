@@ -1,1 +1,0 @@
-{"tmdb_id": 385073, "title": "Legal Eagles", "original_title": "Legal Eagles", "slug_title": "legal-eagles", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 386657, "title": "Boggy Depot", "original_title": "Boggy Depot", "slug_title": "boggy-depot", "date": "1973-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7OwZWiUq0hB9AR0LVDW04dXsg12.jpg", "actors": ["George Kuchar ()"], "comments": [], "recommandations_id": []}

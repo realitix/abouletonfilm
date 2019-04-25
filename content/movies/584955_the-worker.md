@@ -1,1 +1,0 @@
-{"tmdb_id": 584955, "title": "The Worker", "original_title": "The Worker", "slug_title": "the-worker", "date": "1963-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2CKGCUXlmJK73qPh7NILFyUbghQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

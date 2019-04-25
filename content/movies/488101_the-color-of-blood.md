@@ -1,1 +1,0 @@
-{"tmdb_id": 488101, "title": "The Color of Blood", "original_title": "The Color of Blood", "slug_title": "the-color-of-blood", "date": "1973-05-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7vjVhylKHbS27DI8J3JxatgcNz.jpg", "actors": [], "comments": [], "recommandations_id": []}

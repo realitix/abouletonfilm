@@ -1,1 +1,0 @@
-{"tmdb_id": 48771, "title": "Les Doigts dans le Ventre", "original_title": "Les Doigts dans le Ventre", "slug_title": "les-doigts-dans-le-ventre", "date": "1988-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/59xp7hnOVpFnDBifahgRstzvF1s.jpg", "actors": [], "comments": [], "recommandations_id": []}

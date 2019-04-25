@@ -1,1 +1,0 @@
-{"tmdb_id": 211412, "title": "Sales Pitch", "original_title": "Sales Pitch", "slug_title": "sales-pitch", "date": "1983-10-31", "genre": "Drame / Animation / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/54b3TQ3JmcZHio6xOn3efkUoZHd.jpg", "actors": [], "comments": [], "recommandations_id": []}

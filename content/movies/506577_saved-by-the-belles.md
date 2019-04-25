@@ -1,1 +1,0 @@
-{"tmdb_id": 506577, "title": "Saved by the Belles", "original_title": "Saved by the Belles", "slug_title": "saved-by-the-belles", "date": "2003-04-24", "genre": "", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xnoMigjddgG3QIYNlWtYgDUyIgY.jpg", "actors": [], "comments": [], "recommandations_id": []}

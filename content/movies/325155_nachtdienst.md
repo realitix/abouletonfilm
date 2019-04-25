@@ -1,1 +1,0 @@
-{"tmdb_id": 325155, "title": "Nachtdienst", "original_title": "Nachtdienst", "slug_title": "nachtdienst", "date": "1975-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Elisabeth Bergner ()", "Jadwiga Jankowska-Cie\u015blak ()", "Elisabeth Goebel ()", "Sky du Mont ()"], "comments": [], "recommandations_id": []}

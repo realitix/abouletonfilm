@@ -1,1 +1,0 @@
-{"tmdb_id": 553658, "title": "Fuego Gris", "original_title": "Fuego Gris", "slug_title": "fuego-gris", "date": "1994-08-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hTlDz4t1jL8BxfOiqxAztcaPv7D.jpg", "actors": [], "comments": [], "recommandations_id": []}

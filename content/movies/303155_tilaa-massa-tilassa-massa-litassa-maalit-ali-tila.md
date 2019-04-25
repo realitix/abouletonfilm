@@ -1,1 +1,0 @@
-{"tmdb_id": 303155, "title": "Tilaa massa tilassa massa litassa maalit: ali tila", "original_title": "Tilaa massa tilassa massa litassa maalit: ali tila", "slug_title": "tilaa-massa-tilassa-massa-litassa-maalit-ali-tila", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

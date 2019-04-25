@@ -1,1 +1,0 @@
-{"tmdb_id": 456066, "title": "It Eats You Up", "original_title": "It Eats You Up", "slug_title": "it-eats-you-up", "date": "2016-02-05", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dWaoiWh6Bv8wDuKX5ZWX9H4Yjx3.jpg", "actors": ["Matthew Officer ()", "Ja'Taun Tiara ()"], "comments": [], "recommandations_id": []}

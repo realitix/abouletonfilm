@@ -1,1 +1,0 @@
-{"tmdb_id": 365724, "title": "A Royal Hangover", "original_title": "A Royal Hangover", "slug_title": "a-royal-hangover", "date": "2014-10-12", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xe1FernZQpyaIagih5rzkZH72y0.jpg", "actors": ["Russell Brand (Himself)"], "comments": [], "recommandations_id": []}

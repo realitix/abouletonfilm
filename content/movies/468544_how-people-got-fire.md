@@ -1,1 +1,0 @@
-{"tmdb_id": 468544, "title": "How People Got Fire", "original_title": "How People Got Fire", "slug_title": "how-people-got-fire", "date": "2009-02-12", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eFK1n2T7TtO6EgCcIs5ICbmRQPA.jpg", "actors": [], "comments": [], "recommandations_id": []}

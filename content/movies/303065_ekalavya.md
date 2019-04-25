@@ -1,1 +1,0 @@
-{"tmdb_id": 303065, "title": "Ekalavya", "original_title": "Ekalavya", "slug_title": "ekalavya", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

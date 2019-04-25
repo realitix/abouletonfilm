@@ -1,1 +1,0 @@
-{"tmdb_id": 43926, "title": "Woodshop", "original_title": "Woodshop", "slug_title": "woodshop", "date": "", "genre": "Com\u00e9die / Drame", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wBNvwIHr95lhUsrpvzgDN5ZiTtK.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 562667, "title": "Sohag Raat", "original_title": "Sohag Raat", "slug_title": "sohag-raat", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Begum Para ()", "Bharat Bhushan ()", "Geeta Bali ()"], "comments": [], "recommandations_id": []}

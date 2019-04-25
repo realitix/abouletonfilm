@@ -1,1 +1,0 @@
-{"tmdb_id": 334445, "title": "Colonel Heeza Liar's Forbidden Fruit", "original_title": "Colonel Heeza Liar's Forbidden Fruit", "slug_title": "colonel-heeza-liar-s-forbidden-fruit", "date": "1923-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Walter Lantz ()"], "comments": [], "recommandations_id": []}

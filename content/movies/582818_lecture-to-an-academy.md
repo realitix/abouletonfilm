@@ -1,1 +1,0 @@
-{"tmdb_id": 582818, "title": "Lecture to an Academy", "original_title": "Lecture to an Academy", "slug_title": "lecture-to-an-academy", "date": "2005-07-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zkr8GzvY1XSIqUiQWLTVJYJGNLA.jpg", "actors": [], "comments": [], "recommandations_id": []}

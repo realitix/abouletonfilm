@@ -1,1 +1,0 @@
-{"tmdb_id": 158525, "title": "Zizi Possi - Cantos e Contos", "original_title": "Zizi Possi - Cantos e Contos", "slug_title": "zizi-possi-cantos-e-contos", "date": "2016-02-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jvu323AgJscf1F6vJB48aDjPf6k.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 72360, "title": "Wu-Tang Saga", "original_title": "Wu-Tang Saga", "slug_title": "wu-tang-saga", "date": "2010-10-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jGbwEzxshBS9Iajuj9zheemjE83.jpg", "actors": [], "comments": [], "recommandations_id": []}

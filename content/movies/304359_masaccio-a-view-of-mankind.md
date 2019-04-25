@@ -1,1 +1,0 @@
-{"tmdb_id": 304359, "title": "Masaccio: A View of Mankind", "original_title": "Masaccio: A View of Mankind", "slug_title": "masaccio-a-view-of-mankind", "date": "1983-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sir Lawrence Gowing (Narrator)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 549345, "title": "Liberdade para Jos\u00e9 Diogo", "original_title": "Liberdade para Jos\u00e9 Diogo", "slug_title": "liberdade-para-jose-diogo", "date": "1976-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

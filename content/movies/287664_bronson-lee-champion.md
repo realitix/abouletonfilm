@@ -1,1 +1,0 @@
-{"tmdb_id": 287664, "title": "Bronson Lee, Champion", "original_title": "Za karate 3: Denk\u00f4 sekka", "slug_title": "bronson-lee-champion", "date": "1975-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sQvYIlDom1idlG6i1znFppYdJUJ.jpg", "actors": ["Tadashi Yamashita ()"], "comments": [], "recommandations_id": []}

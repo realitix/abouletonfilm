@@ -1,1 +1,0 @@
-{"tmdb_id": 578312, "title": "Difficult People", "original_title": "Neh\u00e9z emberek", "slug_title": "difficult-people", "date": "1964-11-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

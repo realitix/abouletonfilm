@@ -1,1 +1,0 @@
-{"tmdb_id": 493076, "title": "Good Hands", "original_title": "Head k\u00e4ed", "slug_title": "good-hands", "date": "2001-04-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lembit Ulfsak (Adolf)", "T\u00f5nu Kark (Dr. Lepik)", "Rezija Kalnina (Margita)", "Tiit Sukk (Arnold)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 420062, "title": "The Fisherman's Son", "original_title": "La estrategia del mero", "slug_title": "the-fisherman-s-son", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

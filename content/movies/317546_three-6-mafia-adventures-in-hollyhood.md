@@ -1,1 +1,0 @@
-{"tmdb_id": 317546, "title": "Three 6 Mafia: Adventures in Hollyhood", "original_title": "Three 6 Mafia: Adventures in Hollyhood", "slug_title": "three-6-mafia-adventures-in-hollyhood", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

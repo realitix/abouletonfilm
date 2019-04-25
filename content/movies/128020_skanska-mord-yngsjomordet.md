@@ -1,1 +1,0 @@
-{"tmdb_id": 128020, "title": "Sk\u00e5nska mord - Yngsj\u00f6mordet", "original_title": "Sk\u00e5nska mord - Yngsj\u00f6mordet", "slug_title": "skanska-mord-yngsjomordet", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ozDrWyWDMQ71Xv9fBcneOfErt80.jpg", "actors": [], "comments": [], "recommandations_id": []}

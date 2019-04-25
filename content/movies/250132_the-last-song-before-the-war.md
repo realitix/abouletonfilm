@@ -1,1 +1,0 @@
-{"tmdb_id": 250132, "title": "The Last Song Before the War", "original_title": "The Last Song Before the War", "slug_title": "the-last-song-before-the-war", "date": "2013-04-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/le4uDphxQZNmpvlil9IOj4f8S84.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 525723, "title": "Leila's Blues", "original_title": "\u0644\u064a\u0627\u0644\u064a \u0644\u064a\u0644\u0649", "slug_title": "leila-s-blues", "date": "2018-05-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Amen Allah Arbi ()", "Rym Ben Messaoud ()", "Walid Mouihbi ()"], "comments": [], "recommandations_id": []}

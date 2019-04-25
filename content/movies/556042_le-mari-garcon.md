@@ -1,1 +1,0 @@
-{"tmdb_id": 556042, "title": "Le mari gar\u00e7on", "original_title": "Le mari gar\u00e7on", "slug_title": "le-mari-garcon", "date": "1933-04-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

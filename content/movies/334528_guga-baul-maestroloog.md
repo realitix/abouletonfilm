@@ -1,1 +1,0 @@
-{"tmdb_id": 334528, "title": "Guga Ba\u00fal - Maestroloog", "original_title": "Guga Ba\u00fal - Maestroloog", "slug_title": "guga-baul-maestroloog", "date": "2014-11-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qL913LycgJRBbRx0AKFg0WOlLxU.jpg", "actors": ["Guga Baul ()"], "comments": [], "recommandations_id": []}

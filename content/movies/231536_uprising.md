@@ -1,1 +1,0 @@
-{"tmdb_id": 231536, "title": "Uprising", "original_title": "Uprising", "slug_title": "uprising", "date": "1998-10-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ho1QhfWJOz5ZbRR1ZRLXvGSOCQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 278407, "title": "Theraali", "original_title": "Theraali", "slug_title": "theraali", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

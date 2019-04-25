@@ -1,1 +1,0 @@
-{"tmdb_id": 585029, "title": "Days of Our Youth", "original_title": "Days of Our Youth", "slug_title": "days-of-our-youth", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eDpAC2ffZeBX6MrTgceZC3JRY5F.jpg", "actors": [], "comments": [], "recommandations_id": []}

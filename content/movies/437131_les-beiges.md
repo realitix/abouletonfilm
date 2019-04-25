@@ -1,1 +1,0 @@
-{"tmdb_id": 437131, "title": "Les Beiges", "original_title": "Les Beiges", "slug_title": "les-beiges", "date": "2017-01-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4agqJC6lBD1v5I7Y9GBNGIdASvp.jpg", "actors": [], "comments": [], "recommandations_id": []}

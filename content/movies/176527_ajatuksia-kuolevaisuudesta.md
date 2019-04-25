@@ -1,1 +1,0 @@
-{"tmdb_id": 176527, "title": "Ajatuksia kuolevaisuudesta", "original_title": "Ajatuksia kuolevaisuudesta", "slug_title": "ajatuksia-kuolevaisuudesta", "date": "2013-03-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

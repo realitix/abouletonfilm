@@ -1,1 +1,0 @@
-{"tmdb_id": 495816, "title": "Anjaan Raahen", "original_title": "Anjaan Raahen", "slug_title": "anjaan-raahen", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

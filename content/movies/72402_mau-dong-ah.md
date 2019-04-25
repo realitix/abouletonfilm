@@ -1,1 +1,0 @@
-{"tmdb_id": 72402, "title": "Mau dong... ah", "original_title": "Mau dong... ah", "slug_title": "mau-dong-ah", "date": "2009-07-30", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Komeng ()", "Julia Perez ()", "Damien Perez (Idola / Kekasih)", "Andi Soraya (Lia)"], "comments": [], "recommandations_id": []}

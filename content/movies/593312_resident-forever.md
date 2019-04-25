@@ -1,1 +1,0 @@
-{"tmdb_id": 593312, "title": "Resident Forever", "original_title": "Resident Forever", "slug_title": "resident-forever", "date": "2017-03-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6JjLUUQHn0ZisPsNQNwJWdic9XO.jpg", "actors": [], "comments": [], "recommandations_id": []}

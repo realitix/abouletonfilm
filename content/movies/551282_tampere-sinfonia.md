@@ -1,1 +1,0 @@
-{"tmdb_id": 551282, "title": "Tampere Sinfonia", "original_title": "Tampere Sinfonia", "slug_title": "tampere-sinfonia", "date": "2018-09-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

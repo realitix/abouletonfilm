@@ -1,1 +1,0 @@
-{"tmdb_id": 427497, "title": "Tramway Ride Through the Streets of Norwich", "original_title": "Tramway Ride Through the Streets of Norwich", "slug_title": "tramway-ride-through-the-streets-of-norwich", "date": "1901-11-24", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

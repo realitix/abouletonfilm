@@ -1,1 +1,0 @@
-{"tmdb_id": 480331, "title": "In a Nutshell", "original_title": "In a Nutshell", "slug_title": "in-a-nutshell", "date": "2017-09-28", "genre": "Animation", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hs0pbHHjGQn7zMtIYcXPHdrdRlC.jpg", "actors": [], "comments": [], "recommandations_id": []}

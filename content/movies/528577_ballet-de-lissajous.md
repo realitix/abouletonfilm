@@ -1,1 +1,0 @@
-{"tmdb_id": 528577, "title": "Ballet de Lissajous", "original_title": "Ballet de Lissajous", "slug_title": "ballet-de-lissajous", "date": "1973-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zmSaU64LmGuyb3vY9uwYpuIIr9n.jpg", "actors": [], "comments": [], "recommandations_id": []}

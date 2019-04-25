@@ -1,1 +1,0 @@
-{"tmdb_id": 313387, "title": "Broadway Theatre Archive: The First Breeze of Summer", "original_title": "Broadway Theatre Archive: The First Breeze of Summer", "slug_title": "broadway-theatre-archive-the-first-breeze-of-summer", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

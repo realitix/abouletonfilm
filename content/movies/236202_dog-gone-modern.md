@@ -1,1 +1,0 @@
-{"tmdb_id": 236202, "title": "Dog Gone Modern", "original_title": "Dog Gone Modern", "slug_title": "dog-gone-modern", "date": "1939-01-13", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6JzBIFMgiLsiJ9BSN6MipLnq5GN.jpg", "actors": [], "comments": [], "recommandations_id": []}

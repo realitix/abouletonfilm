@@ -1,1 +1,0 @@
-{"tmdb_id": 37332, "title": "Act of God", "original_title": "Act of God", "slug_title": "act-of-god", "date": "2009-08-02", "genre": "Documentaire", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pX2caWzrEq3nn0utj0j2i8FJgzn.jpg", "actors": ["Paul Auster (himself)"], "comments": [], "recommandations_id": []}

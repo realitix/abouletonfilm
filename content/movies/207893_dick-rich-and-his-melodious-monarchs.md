@@ -1,1 +1,0 @@
-{"tmdb_id": 207893, "title": "Dick Rich and His Melodious Monarchs", "original_title": "Dick Rich and His Melodious Monarchs", "slug_title": "dick-rich-and-his-melodious-monarchs", "date": "1928-08-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

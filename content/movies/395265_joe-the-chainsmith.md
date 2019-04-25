@@ -1,1 +1,0 @@
-{"tmdb_id": 395265, "title": "Joe the Chainsmith", "original_title": "Joe the Chainsmith", "slug_title": "joe-the-chainsmith", "date": "1958-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

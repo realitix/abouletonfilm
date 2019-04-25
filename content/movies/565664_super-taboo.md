@@ -1,1 +1,0 @@
-{"tmdb_id": 565664, "title": "Super Taboo", "original_title": "Super Taboo", "slug_title": "super-taboo", "date": "2017-01-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hXcmrKTZRaKb2diI4o6Kxomkl5e.jpg", "actors": [], "comments": [], "recommandations_id": []}

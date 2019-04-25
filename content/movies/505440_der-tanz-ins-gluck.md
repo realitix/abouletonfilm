@@ -1,1 +1,0 @@
-{"tmdb_id": 505440, "title": "Der Tanz ins Gl\u00fcck", "original_title": "Der Tanz ins Gl\u00fcck", "slug_title": "der-tanz-ins-gluck", "date": "1930-10-14", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ilse Stobrawa (Lotte H\u00fcbner)", "Alwin Neu\u00df (Richard Grothe)"], "comments": [], "recommandations_id": []}

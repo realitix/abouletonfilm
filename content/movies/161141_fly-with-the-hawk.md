@@ -1,1 +1,0 @@
-{"tmdb_id": 161141, "title": "Fly with the Hawk", "original_title": "Fly with the Hawk", "slug_title": "fly-with-the-hawk", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dUUuNIeXdO32y0qMHtwd2Uukoyj.jpg", "actors": [], "comments": [], "recommandations_id": []}

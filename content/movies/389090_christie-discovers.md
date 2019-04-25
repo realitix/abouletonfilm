@@ -1,1 +1,0 @@
-{"tmdb_id": 389090, "title": "Christie Discovers...", "original_title": "Christie Discovers...", "slug_title": "christie-discovers", "date": "2009-01-01", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/62838De9PG3un9DWE9Ca0Zm9K6u.jpg", "actors": [], "comments": [], "recommandations_id": []}

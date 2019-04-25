@@ -1,1 +1,0 @@
-{"tmdb_id": 550786, "title": "H\u00e4gringen", "original_title": "H\u00e4gringen", "slug_title": "hagringen", "date": "1981-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

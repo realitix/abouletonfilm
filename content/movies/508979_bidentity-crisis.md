@@ -1,1 +1,0 @@
-{"tmdb_id": 508979, "title": "BIdentity Crisis", "original_title": "BIdentity Crisis", "slug_title": "bidentity-crisis", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

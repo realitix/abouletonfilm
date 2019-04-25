@@ -1,1 +1,0 @@
-{"tmdb_id": 519476, "title": "Take This Tablet", "original_title": "Take This Tablet", "slug_title": "take-this-tablet", "date": "2004-04-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8yasFYFHGx4mkh0ggik39jWax8L.jpg", "actors": [], "comments": [], "recommandations_id": []}

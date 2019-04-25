@@ -1,1 +1,0 @@
-{"tmdb_id": 594033, "title": "Greedy Neighbors", "original_title": "\u60e1\u9130", "slug_title": "greedy-neighbors", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Wu Lai-chu (Guo-Fen)"], "comments": [], "recommandations_id": []}

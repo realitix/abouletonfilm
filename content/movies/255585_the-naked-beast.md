@@ -1,1 +1,0 @@
-{"tmdb_id": 255585, "title": "The Naked Beast", "original_title": "La bestia desnuda", "slug_title": "the-naked-beast", "date": "1971-03-25", "genre": "Horreur", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oNbPxRqSkYy8cot5Z15PhlmIZ1M.jpg", "actors": [], "comments": [], "recommandations_id": []}

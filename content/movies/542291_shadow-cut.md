@@ -1,1 +1,0 @@
-{"tmdb_id": 542291, "title": "Shadow Cut", "original_title": "Shadow Cut", "slug_title": "shadow-cut", "date": "2018-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Matenga Ashby (Boy)", "Kyla Moffat (Girl)", "Troy Kingi (Uncle)"], "comments": [], "recommandations_id": []}

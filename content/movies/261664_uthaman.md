@@ -1,1 +1,0 @@
-{"tmdb_id": 261664, "title": "Uthaman", "original_title": "\u0b89\u0ba4\u0bcd\u0ba4\u0bae\u0ba9\u0bcd", "slug_title": "uthaman", "date": "1976-05-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sivaji Ganesan ()", "Pandari Bai ()", "Manjula Vijayakumar ()", "V. K. Ramasamy ()"], "comments": [], "recommandations_id": []}

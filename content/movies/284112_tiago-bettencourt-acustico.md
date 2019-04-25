@@ -1,1 +1,0 @@
-{"tmdb_id": 284112, "title": "Tiago Bettencourt - Acustico", "original_title": "Tiago Bettencourt - Acustico", "slug_title": "tiago-bettencourt-acustico", "date": "2012-11-23", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

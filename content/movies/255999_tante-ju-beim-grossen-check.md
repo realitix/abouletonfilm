@@ -1,1 +1,0 @@
-{"tmdb_id": 255999, "title": "Tante Ju beim gro\u00dfen Check", "original_title": "Tante Ju beim gro\u00dfen Check", "slug_title": "tante-ju-beim-grossen-check", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

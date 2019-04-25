@@ -1,1 +1,0 @@
-{"tmdb_id": 189175, "title": "Amanti in Fuga", "original_title": "Amanti in Fuga", "slug_title": "amanti-in-fuga", "date": "1946-10-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9BvFfSYKpFD0Cjv4KbSWdXU0eQP.jpg", "actors": [], "comments": [], "recommandations_id": []}

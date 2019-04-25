@@ -1,1 +1,0 @@
-{"tmdb_id": 311574, "title": "Jennifer Berezan: Praises for the World", "original_title": "Jennifer Berezan: Praises for the World", "slug_title": "jennifer-berezan-praises-for-the-world", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

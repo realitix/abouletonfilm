@@ -1,1 +1,0 @@
-{"tmdb_id": 527437, "title": "Radiances VI", "original_title": "Radiances VI", "slug_title": "radiances-vi", "date": "2018-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4LLVQRMG4MQLvIFwSeassCMWLZA.jpg", "actors": [], "comments": [], "recommandations_id": []}

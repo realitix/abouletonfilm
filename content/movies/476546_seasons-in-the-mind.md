@@ -1,1 +1,0 @@
-{"tmdb_id": 476546, "title": "Seasons in the Mind", "original_title": "Seasons in the Mind", "slug_title": "seasons-in-the-mind", "date": "1971-05-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sCFhSzd0NNoSPryeK509IvVtmE2.jpg", "actors": [], "comments": [], "recommandations_id": []}

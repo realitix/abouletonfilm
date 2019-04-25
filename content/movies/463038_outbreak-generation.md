@@ -1,1 +1,0 @@
-{"tmdb_id": 463038, "title": "Outbreak Generation", "original_title": "Outbreak Generation", "slug_title": "outbreak-generation", "date": "2017-06-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Genevieve Hegney (Annie)"], "comments": [], "recommandations_id": []}

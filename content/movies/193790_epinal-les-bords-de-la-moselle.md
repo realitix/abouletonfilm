@@ -1,1 +1,0 @@
-{"tmdb_id": 193790, "title": "Epinal: Les bords de la Moselle", "original_title": "Epinal: Les bords de la Moselle", "slug_title": "epinal-les-bords-de-la-moselle", "date": "1900-01-01", "genre": "", "score": "5.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

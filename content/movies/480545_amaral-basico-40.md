@@ -1,1 +1,0 @@
-{"tmdb_id": 480545, "title": "Amaral - Basico 40", "original_title": "Amaral - Basico 40", "slug_title": "amaral-basico-40", "date": "2002-10-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cv2jJrR5xd45oj00kQfDhymZGei.jpg", "actors": ["Eva Amaral ()", "Juan Aguirre ()"], "comments": [], "recommandations_id": []}

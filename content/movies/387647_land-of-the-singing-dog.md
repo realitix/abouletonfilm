@@ -1,1 +1,0 @@
-{"tmdb_id": 387647, "title": "Land of the Singing Dog", "original_title": "Le Pays du chien qui chante", "slug_title": "land-of-the-singing-dog", "date": "2002-03-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5ir7cfFAxtkQjst0nh1B9u5F9CI.jpg", "actors": [], "comments": [], "recommandations_id": []}

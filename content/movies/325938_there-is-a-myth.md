@@ -1,1 +1,0 @@
-{"tmdb_id": 325938, "title": "There Is a Myth", "original_title": "There Is a Myth", "slug_title": "there-is-a-myth", "date": "1984-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

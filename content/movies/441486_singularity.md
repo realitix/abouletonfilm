@@ -1,1 +1,0 @@
-{"tmdb_id": 441486, "title": "Singularity", "original_title": "Singularity", "slug_title": "singularity", "date": "2015-07-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9z6ANz6vbd5UcxaTXw9oilL4HKz.jpg", "actors": [], "comments": [], "recommandations_id": []}

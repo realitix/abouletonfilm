@@ -1,1 +1,0 @@
-{"tmdb_id": 101205, "title": "AAF Report", "original_title": "AAF Report", "slug_title": "aaf-report", "date": "", "genre": "Action / Thriller / Documentaire / Science-Fiction / Guerre", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Qz8i94rhkpMfai7E7uVNxq1PfI.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 578221, "title": "Dancing Procession at Echternach", "original_title": "Echternacher Springprozession", "slug_title": "dancing-procession-at-echternach", "date": "1906-06-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

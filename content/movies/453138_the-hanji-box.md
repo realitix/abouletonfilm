@@ -1,1 +1,0 @@
-{"tmdb_id": 453138, "title": "The Hanji Box", "original_title": "The Hanji Box", "slug_title": "the-hanji-box", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Natalie Kim ()", "Suzanne Dudley ()", "Daniel Park ()"], "comments": [], "recommandations_id": []}

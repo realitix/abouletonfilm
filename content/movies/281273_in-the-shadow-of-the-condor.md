@@ -1,1 +1,0 @@
-{"tmdb_id": 281273, "title": "In the Shadow of the Condor", "original_title": "In the Shadow of the Condor", "slug_title": "in-the-shadow-of-the-condor", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

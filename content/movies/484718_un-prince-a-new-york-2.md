@@ -1,1 +1,0 @@
-{"tmdb_id": 484718, "title": "Un Prince \u00e0 New York 2", "original_title": "Coming 2 America", "slug_title": "un-prince-a-new-york-2", "date": "2020-08-07", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "Le prince Akeem est de retour...", "image": "/img/default-cover.png", "actors": ["Eddie Murphy (Prince Akeem)"], "comments": [], "recommandations_id": []}

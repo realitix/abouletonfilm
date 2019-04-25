@@ -1,1 +1,0 @@
-{"tmdb_id": 390083, "title": "Maze King", "original_title": "Maze King", "slug_title": "maze-king", "date": "2013-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bsGzB9AaotgVaJTDz7bOJuuBpxX.jpg", "actors": [], "comments": [], "recommandations_id": []}

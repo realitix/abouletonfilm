@@ -1,1 +1,0 @@
-{"tmdb_id": 504425, "title": "Humkadam", "original_title": "Humkadam", "slug_title": "humkadam", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tXentW5LyR3bvE6gzTdaFqK4tvo.jpg", "actors": [], "comments": [], "recommandations_id": []}

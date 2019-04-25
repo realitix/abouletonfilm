@@ -1,1 +1,0 @@
-{"tmdb_id": 298902, "title": "The Celtic Legacy", "original_title": "The Celtic Legacy", "slug_title": "the-celtic-legacy", "date": "2011-07-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4IDl3sBVXXHgnBeaEiBpiN2zcyf.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 427532, "title": "De Broers van Bommel", "original_title": "De Broers van Bommel", "slug_title": "de-broers-van-bommel", "date": "2015-12-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pdtZdJ0kuZEngqZgZARP87amCRz.jpg", "actors": [], "comments": [], "recommandations_id": []}

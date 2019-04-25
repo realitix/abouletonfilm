@@ -1,1 +1,0 @@
-{"tmdb_id": 278725, "title": "Sue\u00f1os de Hait\u00ed", "original_title": "Sue\u00f1os de Hait\u00ed", "slug_title": "suenos-de-haiti", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

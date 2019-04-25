@@ -1,1 +1,0 @@
-{"tmdb_id": 343022, "title": "Beautiful Births", "original_title": "Beautiful Births", "slug_title": "beautiful-births", "date": "2014-09-08", "genre": "Documentaire / Familial", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ae2HPXpTEKYDg4UINTCUIbuIXdc.jpg", "actors": [], "comments": [], "recommandations_id": []}

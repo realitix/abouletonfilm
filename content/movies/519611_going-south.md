@@ -1,1 +1,0 @@
-{"tmdb_id": 519611, "title": "Going South", "original_title": "Going South", "slug_title": "going-south", "date": "2018-04-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mu7eWxrCc7k5qnhszMj6Z1KjJ6b.jpg", "actors": [], "comments": [], "recommandations_id": []}

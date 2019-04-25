@@ -1,1 +1,0 @@
-{"tmdb_id": 200716, "title": "The Dark Sorcerer", "original_title": "The Dark Sorcerer", "slug_title": "the-dark-sorcerer", "date": "2013-06-10", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yVb7TfJAB4AQedlYJrIFaTVKayk.jpg", "actors": ["David Gant (The dark sorcerer)"], "comments": [], "recommandations_id": []}

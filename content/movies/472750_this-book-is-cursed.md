@@ -1,1 +1,0 @@
-{"tmdb_id": 472750, "title": "This Book Is Cursed", "original_title": "This Book Is Cursed", "slug_title": "this-book-is-cursed", "date": "2017-04-02", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xGzXYPXJY37HbSxiUQd7RQ1rHMV.jpg", "actors": [], "comments": [], "recommandations_id": []}

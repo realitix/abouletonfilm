@@ -1,1 +1,0 @@
-{"tmdb_id": 557850, "title": "Der Kampf um 11%", "original_title": "Der Kampf um 11%", "slug_title": "der-kampf-um-11", "date": "1972-06-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

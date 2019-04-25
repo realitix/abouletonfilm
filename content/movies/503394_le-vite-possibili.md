@@ -1,1 +1,0 @@
-{"tmdb_id": 503394, "title": "Le vite possibili", "original_title": "Le vite possibili", "slug_title": "le-vite-possibili", "date": "2009-12-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

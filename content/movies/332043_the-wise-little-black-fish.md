@@ -1,1 +1,0 @@
-{"tmdb_id": 332043, "title": "The Wise Little Black Fish", "original_title": "Mahi-ye Siah-e Kuchulu-ye Dana", "slug_title": "the-wise-little-black-fish", "date": "1980-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

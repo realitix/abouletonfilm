@@ -1,1 +1,0 @@
-{"tmdb_id": 328548, "title": "A Letter to a Terrorist", "original_title": "A Letter to a Terrorist", "slug_title": "a-letter-to-a-terrorist", "date": "2013-05-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 144125, "title": "Pappano's Essential Tosca", "original_title": "Pappano's Essential Tosca", "slug_title": "pappano-s-essential-tosca", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

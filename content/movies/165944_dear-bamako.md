@@ -1,1 +1,0 @@
-{"tmdb_id": 165944, "title": "Dear Bamako", "original_title": "Querida Bamako", "slug_title": "dear-bamako", "date": "2007-10-19", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x7BmDSZVa24R56d6fbLArrTE5cq.jpg", "actors": ["Dj\u00e9dj\u00e9 Apali ()", "Esther Vall\u00e9s ()"], "comments": [], "recommandations_id": []}

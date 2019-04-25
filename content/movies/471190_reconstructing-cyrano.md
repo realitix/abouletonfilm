@@ -1,1 +1,0 @@
-{"tmdb_id": 471190, "title": "Reconstructing Cyrano", "original_title": "Reconstructing Cyrano", "slug_title": "reconstructing-cyrano", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

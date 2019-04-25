@@ -1,1 +1,0 @@
-{"tmdb_id": 585607, "title": "Abel Gance, hier et demain", "original_title": "Abel Gance, hier et demain", "slug_title": "abel-gance-hier-et-demain", "date": "1963-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Abel Gance (himself)"], "comments": [], "recommandations_id": []}

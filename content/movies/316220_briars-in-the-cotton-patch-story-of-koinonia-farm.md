@@ -1,1 +1,0 @@
-{"tmdb_id": 316220, "title": "Briars in the Cotton Patch: Story of Koinonia Farm", "original_title": "Briars in the Cotton Patch: Story of Koinonia Farm", "slug_title": "briars-in-the-cotton-patch-story-of-koinonia-farm", "date": "2005-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

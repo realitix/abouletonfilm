@@ -1,1 +1,0 @@
-{"tmdb_id": 195238, "title": "Close View of the 'Brooklyn,' Naval Parade", "original_title": "Close View of the 'Brooklyn,' Naval Parade", "slug_title": "close-view-of-the-brooklyn-naval-parade", "date": "1898-09-20", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

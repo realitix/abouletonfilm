@@ -1,1 +1,0 @@
-{"tmdb_id": 552377, "title": "Todo un caballero", "original_title": "Todo un caballero", "slug_title": "todo-un-caballero", "date": "1947-07-17", "genre": "Drame / Myst\u00e8re", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Fernando Soler (Roberto Montes)", "Gustavo Rojo (Carlos Alcalde)"], "comments": [], "recommandations_id": []}

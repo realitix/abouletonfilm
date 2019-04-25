@@ -1,1 +1,0 @@
-{"tmdb_id": 389662, "title": "Fox Fears", "original_title": "\u304d\u3064\u306d\u6191\u304d", "slug_title": "fox-fears", "date": "2015-03-07", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fXqG4GdrljYrV5UtuK7IrkMxmEE.jpg", "actors": [], "comments": [], "recommandations_id": []}

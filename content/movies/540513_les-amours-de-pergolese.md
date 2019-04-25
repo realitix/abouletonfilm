@@ -1,1 +1,0 @@
-{"tmdb_id": 540513, "title": "Les amours de Pergolese", "original_title": "Les amours de Pergolese", "slug_title": "les-amours-de-pergolese", "date": "1933-02-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

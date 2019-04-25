@@ -1,1 +1,0 @@
-{"tmdb_id": 274290, "title": "Asylum Night", "original_title": "Asylum Night", "slug_title": "asylum-night", "date": "2006-03-28", "genre": "", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yyxmNRP8fOXEKBq0sr398qWfRcC.jpg", "actors": [], "comments": [], "recommandations_id": []}

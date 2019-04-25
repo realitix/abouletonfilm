@@ -1,1 +1,0 @@
-{"tmdb_id": 168304, "title": "T is for Teacher", "original_title": "T is for Teacher", "slug_title": "t-is-for-teacher", "date": "2009-03-27", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sSTJ1jIzCzyG3sW1tNg8WfmsO07.jpg", "actors": [], "comments": [], "recommandations_id": []}

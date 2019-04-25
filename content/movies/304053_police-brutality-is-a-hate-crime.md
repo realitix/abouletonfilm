@@ -1,1 +1,0 @@
-{"tmdb_id": 304053, "title": "Police Brutality Is A Hate Crime!", "original_title": "Police Brutality Is A Hate Crime!", "slug_title": "police-brutality-is-a-hate-crime", "date": "2012-11-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

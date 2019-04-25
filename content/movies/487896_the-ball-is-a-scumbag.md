@@ -1,1 +1,0 @@
-{"tmdb_id": 487896, "title": "The Ball is a Scumbag", "original_title": "Der Ball ist ein Sauhund", "slug_title": "the-ball-is-a-scumbag", "date": "2000-01-01", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rudi Gutendorf (himself)", "Werner Herzog (himself)"], "comments": [], "recommandations_id": []}

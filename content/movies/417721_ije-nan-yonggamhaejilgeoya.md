@@ -1,1 +1,0 @@
-{"tmdb_id": 417721, "title": "\uc774\uc81c \ub09c \uc6a9\uac10\ud574\uc9c8\uac70\uc57c", "original_title": "\uc774\uc81c \ub09c \uc6a9\uac10\ud574\uc9c8\uac70\uc57c", "slug_title": "ije-nan-yonggamhaejilgeoya", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

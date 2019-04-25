@@ -1,1 +1,0 @@
-{"tmdb_id": 279440, "title": "Photooxidation", "original_title": "Fotooxidaci\u00f3n", "slug_title": "photooxidation", "date": "2013-10-04", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n3dKRxlCcGcNOoGHlmRtO7AvNTy.jpg", "actors": [], "comments": [], "recommandations_id": []}

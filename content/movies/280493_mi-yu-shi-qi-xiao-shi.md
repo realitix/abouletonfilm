@@ -1,1 +1,0 @@
-{"tmdb_id": 280493, "title": "Mi yu shi qi xiao shi", "original_title": "Mi yu shi qi xiao shi", "slug_title": "mi-yu-shi-qi-xiao-shi", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/thVxXF79LlFUB3m7KEgLAjffeg5.jpg", "actors": [], "comments": [], "recommandations_id": []}

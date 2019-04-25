@@ -1,1 +1,0 @@
-{"tmdb_id": 275916, "title": "Hip Hop Poetry Jam: Vol. 1", "original_title": "Hip Hop Poetry Jam: Vol. 1", "slug_title": "hip-hop-poetry-jam-vol-1", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

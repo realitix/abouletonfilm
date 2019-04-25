@@ -1,1 +1,0 @@
-{"tmdb_id": 442707, "title": "San Francisco Chinese Funeral", "original_title": "San Francisco Chinese Funeral", "slug_title": "san-francisco-chinese-funeral", "date": "1904-01-01", "genre": "", "score": "3.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

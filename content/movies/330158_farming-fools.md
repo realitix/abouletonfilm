@@ -1,1 +1,0 @@
-{"tmdb_id": 330158, "title": "Farming Fools", "original_title": "Farming Fools", "slug_title": "farming-fools", "date": "1936-05-24", "genre": "Com\u00e9die / Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

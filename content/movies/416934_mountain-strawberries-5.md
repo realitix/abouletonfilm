@@ -1,1 +1,0 @@
-{"tmdb_id": 416934, "title": "Mountain Strawberries 5", "original_title": "\uc0b0\ub538\uae30 5", "slug_title": "mountain-strawberries-5", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

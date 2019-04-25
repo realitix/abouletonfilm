@@ -1,1 +1,0 @@
-{"tmdb_id": 325900, "title": "Driving Equality Across America", "original_title": "Driving Equality Across America", "slug_title": "driving-equality-across-america", "date": "2014-07-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

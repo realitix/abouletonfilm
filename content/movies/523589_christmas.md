@@ -1,1 +1,0 @@
-{"tmdb_id": 523589, "title": "Christmas", "original_title": "\u0420\u043e\u0436\u0434\u0435\u0441\u0442\u0432\u043e", "slug_title": "christmas", "date": "2014-04-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sM0DbRcCTAd46Q33cdNVfE2qxPu.jpg", "actors": [], "comments": [], "recommandations_id": []}

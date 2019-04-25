@@ -1,1 +1,0 @@
-{"tmdb_id": 538788, "title": "Southern Bar", "original_title": "Bar du sud", "slug_title": "southern-bar", "date": "1938-03-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h2ETuC6h6T4caWqy7d49H9daI68.jpg", "actors": [], "comments": [], "recommandations_id": []}

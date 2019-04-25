@@ -1,1 +1,0 @@
-{"tmdb_id": 401267, "title": "Aquela Estrada", "original_title": "Aquela Estrada", "slug_title": "aquela-estrada", "date": "2016-06-19", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zxkTqpla2003PQ76lKEGvnJFpoh.jpg", "actors": ["Danilo Reis (Omar)"], "comments": [], "recommandations_id": []}

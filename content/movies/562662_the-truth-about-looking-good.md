@@ -1,1 +1,0 @@
-{"tmdb_id": 562662, "title": "The Truth About Looking Good", "original_title": "The Truth About Looking Good", "slug_title": "the-truth-about-looking-good", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qMIX8NtEaMKHGFuRIaldEfuYZ3r.jpg", "actors": [], "comments": [], "recommandations_id": []}

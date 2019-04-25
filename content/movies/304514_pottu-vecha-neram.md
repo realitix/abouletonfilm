@@ -1,1 +1,0 @@
-{"tmdb_id": 304514, "title": "Pottu Vecha Neram", "original_title": "Pottu Vecha Neram", "slug_title": "pottu-vecha-neram", "date": "1985-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

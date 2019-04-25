@@ -1,1 +1,0 @@
-{"tmdb_id": 439030, "title": "Migjeni", "original_title": "Migjeni", "slug_title": "migjeni", "date": "1961-12-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1swOR0jry1cZ9mJxPyDwz0tl8yF.jpg", "actors": [], "comments": [], "recommandations_id": []}

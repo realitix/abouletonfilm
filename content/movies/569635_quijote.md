@@ -1,1 +1,0 @@
-{"tmdb_id": 569635, "title": "Quijote", "original_title": "Quijote", "slug_title": "quijote", "date": "2012-10-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/801YIipTip47fPBfCiVrsQ7eJ4Q.jpg", "actors": [], "comments": [], "recommandations_id": []}

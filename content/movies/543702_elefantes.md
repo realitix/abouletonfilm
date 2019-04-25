@@ -1,1 +1,0 @@
-{"tmdb_id": 543702, "title": "Elefantes", "original_title": "Elefantes", "slug_title": "elefantes", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

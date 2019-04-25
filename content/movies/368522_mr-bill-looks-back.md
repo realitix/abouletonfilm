@@ -1,1 +1,0 @@
-{"tmdb_id": 368522, "title": "Mr. Bill Looks Back", "original_title": "Mr. Bill Looks Back", "slug_title": "mr-bill-looks-back", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

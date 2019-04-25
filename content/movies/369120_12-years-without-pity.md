@@ -1,1 +1,0 @@
-{"tmdb_id": 369120, "title": "12 Years without Pity", "original_title": "12 Years without Pity", "slug_title": "12-years-without-pity", "date": "", "genre": "Histoire / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2B26ajlYjRy5zrnv8smpPUIdS5c.jpg", "actors": [], "comments": [], "recommandations_id": []}

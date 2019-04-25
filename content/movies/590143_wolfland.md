@@ -1,1 +1,0 @@
-{"tmdb_id": 590143, "title": "Wolfland", "original_title": "Ulveland", "slug_title": "wolfland", "date": "2019-03-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nDgJLqp11kGaWturG3V3VgP7AnK.jpg", "actors": [], "comments": [], "recommandations_id": []}

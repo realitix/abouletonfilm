@@ -1,1 +1,0 @@
-{"tmdb_id": 501722, "title": "Living in the World", "original_title": "Living in the World", "slug_title": "living-in-the-world", "date": "1985-01-01", "genre": "Com\u00e9die / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Joe Gibbons (Joe Gibbons)"], "comments": [], "recommandations_id": []}

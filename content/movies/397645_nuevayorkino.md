@@ -1,1 +1,0 @@
-{"tmdb_id": 397645, "title": "NuevaYorkino", "original_title": "NuevaYorkino", "slug_title": "nuevayorkino", "date": "2016-04-16", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9vAup2V5tO7C9dY90koKnYhLEbi.jpg", "actors": ["Fran Casillas ()"], "comments": [], "recommandations_id": []}

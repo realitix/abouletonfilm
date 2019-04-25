@@ -1,1 +1,0 @@
-{"tmdb_id": 190304, "title": "Hurdy Gurdy", "original_title": "Hurdy Gurdy", "slug_title": "hurdy-gurdy", "date": "1929-11-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wumr4wHFaBoEBIPG51doFAjjZPb.jpg", "actors": [], "comments": [], "recommandations_id": []}

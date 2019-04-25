@@ -1,1 +1,0 @@
-{"tmdb_id": 325429, "title": "The Terrible Troubador", "original_title": "The Terrible Troubador", "slug_title": "the-terrible-troubador", "date": "1933-01-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 380308, "title": "El \u00daltimo Golpe", "original_title": "El \u00daltimo Golpe", "slug_title": "el-ultimo-golpe", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a52mdLGCf0oHdRlOxXBauFf4qJl.jpg", "actors": [], "comments": [], "recommandations_id": []}

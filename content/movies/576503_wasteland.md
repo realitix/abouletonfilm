@@ -1,1 +1,0 @@
-{"tmdb_id": 576503, "title": "Wasteland", "original_title": "Wasteland", "slug_title": "wasteland", "date": "2019-02-02", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zIN7Nlgiu1THYqwYRUshVZuXUUD.jpg", "actors": ["David Digman ()", "Max Shore ()", "Hedvig Lannsj\u00f6 ()"], "comments": [], "recommandations_id": []}

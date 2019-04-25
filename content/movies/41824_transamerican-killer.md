@@ -1,1 +1,0 @@
-{"tmdb_id": 41824, "title": "Transamerican Killer", "original_title": "Transamerican Killer", "slug_title": "transamerican-killer", "date": "2005-01-25", "genre": "", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8XGjyQiIgyXmkaqhMvO7fHNYevS.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 508405, "title": "Les gar\u00e7ons du Lido", "original_title": "Les gar\u00e7ons du Lido", "slug_title": "les-garcons-du-lido", "date": "2010-10-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/piNCrnT53PEfYxumMjnWPJMyQNL.jpg", "actors": [], "comments": [], "recommandations_id": []}

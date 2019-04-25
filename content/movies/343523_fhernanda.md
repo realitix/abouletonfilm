@@ -1,1 +1,0 @@
-{"tmdb_id": 343523, "title": "Fhernanda", "original_title": "Fhernanda", "slug_title": "fhernanda", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rFdN7Yiooid1qGwJgYcQFV3QJtb.jpg", "actors": [], "comments": [], "recommandations_id": []}

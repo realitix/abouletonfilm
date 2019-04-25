@@ -1,1 +1,0 @@
-{"tmdb_id": 485014, "title": "Andy Paris: Bubblegum King", "original_title": "Andy Paris: Bubblegum King", "slug_title": "andy-paris-bubblegum-king", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i1bANpDapmMfqkeZUwdHejXqYYz.jpg", "actors": [], "comments": [], "recommandations_id": []}

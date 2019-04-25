@@ -1,1 +1,0 @@
-{"tmdb_id": 576181, "title": "The Trap Door", "original_title": "The Trap Door", "slug_title": "the-trap-door", "date": "1984-10-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o5L9PovP0Rv7MwnxMXxU2vs3xUo.jpg", "actors": ["William Rushton ()"], "comments": [], "recommandations_id": []}

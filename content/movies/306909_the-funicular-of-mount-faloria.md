@@ -1,1 +1,0 @@
-{"tmdb_id": 306909, "title": "The Funicular of Mount Faloria", "original_title": "La funivia del faloria", "slug_title": "the-funicular-of-mount-faloria", "date": "1950-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

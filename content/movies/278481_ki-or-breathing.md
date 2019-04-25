@@ -1,1 +1,0 @@
-{"tmdb_id": 278481, "title": "Ki or Breathing", "original_title": "\u6c17\u3000Breathing", "slug_title": "ki-or-breathing", "date": "1980-07-11", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2PgZOpndHECnEltm0wkW1M5jDu2.jpg", "actors": ["Hiroko Horiuchi ()"], "comments": [], "recommandations_id": []}

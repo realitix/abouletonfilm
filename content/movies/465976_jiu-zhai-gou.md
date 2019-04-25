@@ -1,1 +1,0 @@
-{"tmdb_id": 465976, "title": "JIU ZHAI GOU", "original_title": "JIU ZHAI GOU", "slug_title": "jiu-zhai-gou", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gsS18nKODa0JrnsUZwGSMGqXpJT.jpg", "actors": [], "comments": [], "recommandations_id": []}

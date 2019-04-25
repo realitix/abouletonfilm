@@ -1,1 +1,0 @@
-{"tmdb_id": 362184, "title": "Antiromantika", "original_title": "Antiromantika", "slug_title": "antiromantika", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 326405, "title": "Ye Stupid Pyar", "original_title": "Ye Stupid Pyar", "slug_title": "ye-stupid-pyar", "date": "2011-12-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

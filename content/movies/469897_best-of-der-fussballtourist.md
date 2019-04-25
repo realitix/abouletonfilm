@@ -1,1 +1,0 @@
-{"tmdb_id": 469897, "title": "Best of Der Fussballtourist", "original_title": "Best of Der Fussballtourist", "slug_title": "best-of-der-fussballtourist", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

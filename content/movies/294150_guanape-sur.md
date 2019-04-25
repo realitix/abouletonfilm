@@ -1,1 +1,0 @@
-{"tmdb_id": 294150, "title": "Gua\u00f1ape sur", "original_title": "Gua\u00f1ape sur", "slug_title": "guanape-sur", "date": "2011-09-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

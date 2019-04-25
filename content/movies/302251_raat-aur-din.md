@@ -1,1 +1,0 @@
-{"tmdb_id": 302251, "title": "Raat Aur Din", "original_title": "Raat Aur Din", "slug_title": "raat-aur-din", "date": "1967-01-01", "genre": "Thriller / Myst\u00e8re", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7ITrpUwVvX4crNGINmSTmc98TQn.jpg", "actors": [], "comments": [], "recommandations_id": []}

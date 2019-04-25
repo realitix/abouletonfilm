@@ -1,1 +1,0 @@
-{"tmdb_id": 12680, "title": "Surviving the Terror", "original_title": "Surviving the Terror", "slug_title": "surviving-the-terror", "date": "2005-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

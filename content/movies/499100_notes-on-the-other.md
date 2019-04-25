@@ -1,1 +1,0 @@
-{"tmdb_id": 499100, "title": "Notes on the Other", "original_title": "Apuntes sobre el otro", "slug_title": "notes-on-the-other", "date": "2009-11-01", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

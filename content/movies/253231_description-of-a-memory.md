@@ -1,1 +1,0 @@
-{"tmdb_id": 253231, "title": "Description of a Memory", "original_title": "Tza'ad Revi'i La'matbe'a", "slug_title": "description-of-a-memory", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5r02RibOV5QqJKU6iA73ELWWXfN.jpg", "actors": [], "comments": [], "recommandations_id": []}

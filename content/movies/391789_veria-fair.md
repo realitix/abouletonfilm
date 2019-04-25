@@ -1,1 +1,0 @@
-{"tmdb_id": 391789, "title": "Veria Fair", "original_title": "\u041f\u0430\u043d\u0430\u0453\u0443\u0440 \u0432\u043e \u0431\u0435\u0440", "slug_title": "veria-fair", "date": "1905-09-18", "genre": "Documentaire", "score": "4.6/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [251483, 160417, 166710, 163384]}

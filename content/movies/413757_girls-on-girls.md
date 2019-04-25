@@ -1,1 +1,0 @@
-{"tmdb_id": 413757, "title": "Girls On Girls", "original_title": "Girls On Girls", "slug_title": "girls-on-girls", "date": "1982-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

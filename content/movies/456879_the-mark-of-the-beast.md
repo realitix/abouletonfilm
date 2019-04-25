@@ -1,1 +1,0 @@
-{"tmdb_id": 456879, "title": "The Mark Of the Beast", "original_title": "The Mark Of the Beast", "slug_title": "the-mark-of-the-beast", "date": "1997-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ndNVZSqDCcVdQurqq9aNO8GXytb.jpg", "actors": [], "comments": [], "recommandations_id": []}

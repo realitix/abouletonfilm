@@ -1,1 +1,0 @@
-{"tmdb_id": 211266, "title": "Horror Brunch", "original_title": "Horror Brunch", "slug_title": "horror-brunch", "date": "1987-05-11", "genre": "Com\u00e9die / Horreur", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kYVUmY82oR6Ni5mv7o3TkXwbxMW.jpg", "actors": [], "comments": [], "recommandations_id": []}

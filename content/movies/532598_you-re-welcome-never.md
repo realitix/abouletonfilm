@@ -1,1 +1,0 @@
-{"tmdb_id": 532598, "title": "You're Welcome Never", "original_title": "You're Welcome Never", "slug_title": "you-re-welcome-never", "date": "2018-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

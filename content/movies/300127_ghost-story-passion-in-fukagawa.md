@@ -1,1 +1,0 @@
-{"tmdb_id": 300127, "title": "Ghost Story: Passion in Fukagawa", "original_title": "Kaidan Fukagawa jowa", "slug_title": "ghost-story-passion-in-fukagawa", "date": "1952-01-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7RbstJWgvCxASgW7JRmlAGiD5X8.jpg", "actors": [], "comments": [], "recommandations_id": []}

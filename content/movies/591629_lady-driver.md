@@ -1,1 +1,0 @@
-{"tmdb_id": 591629, "title": "Lady Driver", "original_title": "Lady Driver", "slug_title": "lady-driver", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

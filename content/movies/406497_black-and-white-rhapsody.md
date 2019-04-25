@@ -1,1 +1,0 @@
-{"tmdb_id": 406497, "title": "Black and White Rhapsody", "original_title": "\u010cernob\u00edl\u00e1 rapsodie", "slug_title": "black-and-white-rhapsody", "date": "1936-07-15", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 479754, "title": "Nuba Conversations", "original_title": "Nuba Conversations", "slug_title": "nuba-conversations", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

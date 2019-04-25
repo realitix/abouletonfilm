@@ -1,1 +1,0 @@
-{"tmdb_id": 523425, "title": "Tarkovsky", "original_title": "Tarkovsky", "slug_title": "tarkovsky", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 389852, "title": "Le casseur de pierres", "original_title": "Le casseur de pierres", "slug_title": "le-casseur-de-pierres", "date": "1989-03-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 450049, "title": "A Lump of Sugar", "original_title": "Kostka cukru", "slug_title": "a-lump-of-sugar", "date": "1987-04-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

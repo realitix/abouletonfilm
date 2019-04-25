@@ -1,1 +1,0 @@
-{"tmdb_id": 441314, "title": "\uac00\uc871\uc758 \uc7ac\uad6c\uc131", "original_title": "\uac00\uc871\uc758 \uc7ac\uad6c\uc131", "slug_title": "gajogyi-jaeguseong", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kTmSVdJD7SRx0F2TQNZoxG1lo2N.jpg", "actors": [], "comments": [], "recommandations_id": []}

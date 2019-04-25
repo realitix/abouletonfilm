@@ -1,1 +1,0 @@
-{"tmdb_id": 43762, "title": "Ahmad Shamlou: Master Poet of Liberty", "original_title": "Ahmad Shamlou: Master Poet of Liberty", "slug_title": "ahmad-shamlou-master-poet-of-liberty", "date": "1999-01-01", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

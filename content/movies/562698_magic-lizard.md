@@ -1,1 +1,0 @@
-{"tmdb_id": 562698, "title": "Magic Lizard", "original_title": "King-ka kay-a-sit", "slug_title": "magic-lizard", "date": "1985-01-01", "genre": "Fantastique / Action", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zeAcBLKS5lVFubUr2XAAAOzsv90.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 317620, "title": "Plumber's Helpers", "original_title": "Plumber's Helpers", "slug_title": "plumber-s-helpers", "date": "1953-03-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

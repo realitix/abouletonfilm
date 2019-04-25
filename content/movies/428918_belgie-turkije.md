@@ -1,1 +1,0 @@
-{"tmdb_id": 428918, "title": "Belgi\u00eb-Turkije", "original_title": "Belgi\u00eb-Turkije", "slug_title": "belgie-turkije", "date": "2001-11-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kU1ii4aLEwYCAGEr2av8yx5rby3.jpg", "actors": [], "comments": [], "recommandations_id": []}

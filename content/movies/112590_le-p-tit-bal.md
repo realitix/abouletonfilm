@@ -1,1 +1,0 @@
-{"tmdb_id": 112590, "title": "Le p'tit bal", "original_title": "Le p'tit bal", "slug_title": "le-p-tit-bal", "date": "1995-03-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

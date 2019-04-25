@@ -1,1 +1,0 @@
-{"tmdb_id": 296262, "title": "Making 'Cleaver'", "original_title": "Making 'Cleaver'", "slug_title": "making-cleaver", "date": "2007-10-05", "genre": "Documentaire / Drame / Com\u00e9die", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gOYofF7Go3JIrVtndsdiq6Cun92.jpg", "actors": [], "comments": [], "recommandations_id": []}

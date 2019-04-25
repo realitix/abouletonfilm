@@ -1,1 +1,0 @@
-{"tmdb_id": 568702, "title": "Weapons of War: Super Fighters", "original_title": "Weapons of War: Super Fighters", "slug_title": "weapons-of-war-super-fighters", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

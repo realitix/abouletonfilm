@@ -1,1 +1,0 @@
-{"tmdb_id": 379197, "title": "Pink Streaker", "original_title": "Pink Streaker", "slug_title": "pink-streaker", "date": "1975-06-27", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bkEicC4fhSt2H4lvXAwTdsljeam.jpg", "actors": [], "comments": [], "recommandations_id": []}

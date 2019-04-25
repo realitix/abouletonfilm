@@ -1,1 +1,0 @@
-{"tmdb_id": 575830, "title": "Off Season", "original_title": "Off Season", "slug_title": "off-season", "date": "2019-02-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wN1luef2WzdA2g660kQUBeE5otP.jpg", "actors": ["Franziska Petri (Judith)", "Godehard Giese (Gregor)"], "comments": [], "recommandations_id": []}

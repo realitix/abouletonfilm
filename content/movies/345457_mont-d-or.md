@@ -1,1 +1,0 @@
-{"tmdb_id": 345457, "title": "Mont d'Or", "original_title": "Mont d'Or", "slug_title": "mont-d-or", "date": "2014-06-01", "genre": "", "score": "8.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zEhr6yckjaHe3GQ9Wku46UOVKbw.jpg", "actors": [], "comments": [], "recommandations_id": []}

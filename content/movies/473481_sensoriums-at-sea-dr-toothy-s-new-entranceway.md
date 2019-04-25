@@ -1,1 +1,0 @@
-{"tmdb_id": 473481, "title": "Sensoriums at Sea: Dr. Toothy's New Entranceway", "original_title": "Sensoriums at Sea: Dr. Toothy's New Entranceway", "slug_title": "sensoriums-at-sea-dr-toothy-s-new-entranceway", "date": "2010-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

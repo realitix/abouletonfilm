@@ -1,1 +1,0 @@
-{"tmdb_id": 580450, "title": "Marie-Ad\u00e9la\u00efde at a Movie Theater", "original_title": "Marie-Adelheid im Kino", "slug_title": "marie-adelaide-at-a-movie-theater", "date": "1912-06-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

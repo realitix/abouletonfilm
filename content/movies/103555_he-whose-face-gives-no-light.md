@@ -1,1 +1,0 @@
-{"tmdb_id": 103555, "title": "He Whose Face Gives No Light", "original_title": "Aquel cuyo rostro no irradie luz", "slug_title": "he-whose-face-gives-no-light", "date": "2011-01-18", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jLS3c5agvZxr4YC5z4l3Q1DT6jw.jpg", "actors": [], "comments": [], "recommandations_id": []}

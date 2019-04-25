@@ -1,1 +1,0 @@
-{"tmdb_id": 189750, "title": "Germ Mania", "original_title": "Germ Mania", "slug_title": "germ-mania", "date": "1927-04-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

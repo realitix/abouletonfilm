@@ -1,1 +1,0 @@
-{"tmdb_id": 388898, "title": "The Talking Bird", "original_title": "Con s\u00e1o bi\u1ebft n\u00f3i", "slug_title": "the-talking-bird", "date": "1967-03-21", "genre": "Guerre / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9LZVGgWvIucrc34i067pgo2gnIJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

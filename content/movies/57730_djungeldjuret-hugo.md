@@ -1,1 +1,0 @@
-{"tmdb_id": 57730, "title": "Djungeldjuret Hugo", "original_title": "Djungeldjuret Hugo", "slug_title": "djungeldjuret-hugo", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1ctq43nfkOqcriiv7zmZzc9gx0C.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 348069, "title": "Capital C", "original_title": "Capital C", "slug_title": "capital-c", "date": "2015-09-24", "genre": "Documentaire", "score": "6.6/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pvCd4MEI4h7lAKaDtgm2e13MZkl.jpg", "actors": [], "comments": [], "recommandations_id": [257116, 396033, 216285, 204095]}

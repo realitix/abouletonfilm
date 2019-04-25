@@ -1,1 +1,0 @@
-{"tmdb_id": 342682, "title": "The Pilgrim's Progress", "original_title": "The Pilgrim's Progress", "slug_title": "the-pilgrim-s-progress", "date": "2005-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zBgULz8EE56Yjerwv5Q7AGUifHl.jpg", "actors": [], "comments": [], "recommandations_id": []}

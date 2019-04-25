@@ -1,1 +1,0 @@
-{"tmdb_id": 298364, "title": "Cutting Edge - The Human Spider", "original_title": "Cutting Edge - The Human Spider", "slug_title": "cutting-edge-the-human-spider", "date": "2008-04-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Alain Robert ()"], "comments": [], "recommandations_id": []}

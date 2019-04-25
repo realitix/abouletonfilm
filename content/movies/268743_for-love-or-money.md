@@ -1,1 +1,0 @@
-{"tmdb_id": 268743, "title": "For Love or Money", "original_title": "For Love or Money", "slug_title": "for-love-or-money", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

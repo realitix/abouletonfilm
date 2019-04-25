@@ -1,1 +1,0 @@
-{"tmdb_id": 506263, "title": "Le cin\u00e9phile et le village", "original_title": "Le cin\u00e9phile et le village", "slug_title": "le-cinephile-et-le-village", "date": "1993-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

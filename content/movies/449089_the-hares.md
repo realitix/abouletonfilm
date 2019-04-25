@@ -1,1 +1,0 @@
-{"tmdb_id": 449089, "title": "The Hares", "original_title": "Las Liebres", "slug_title": "the-hares", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

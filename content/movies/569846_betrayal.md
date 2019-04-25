@@ -1,1 +1,0 @@
-{"tmdb_id": 569846, "title": "Betrayal", "original_title": "Betrayal", "slug_title": "betrayal", "date": "1978-11-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

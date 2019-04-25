@@ -1,1 +1,0 @@
-{"tmdb_id": 335249, "title": "...Geist und ein wenig Gl\u00fcck", "original_title": "...Geist und ein wenig Gl\u00fcck", "slug_title": "geist-und-ein-wenig-gluck", "date": "1965-06-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

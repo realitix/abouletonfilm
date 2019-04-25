@@ -1,1 +1,0 @@
-{"tmdb_id": 385642, "title": "The Banksy Job", "original_title": "The Banksy Job", "slug_title": "the-banksy-job", "date": "2016-04-17", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qBk5DiNVzJ9HbDPNCAm3EzdjKDt.jpg", "actors": ["Daniel Nettleton (Policeman)"], "comments": [], "recommandations_id": []}

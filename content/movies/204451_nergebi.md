@@ -1,1 +1,0 @@
-{"tmdb_id": 204451, "title": "Nergebi", "original_title": "Nergebi", "slug_title": "nergebi", "date": "1972-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zT4V63gS3GhK8YM2zhaxzfIrz01.jpg", "actors": ["Ramaz Chkhikvadze ()", "Mishiko Meskhi ()"], "comments": [], "recommandations_id": []}

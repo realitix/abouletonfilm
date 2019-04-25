@@ -1,1 +1,0 @@
-{"tmdb_id": 277743, "title": "Wawd Ahp", "original_title": "Wawd Ahp", "slug_title": "wawd-ahp", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qPvlCCaKa0srzMue8x5N5FrkDTz.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 359571, "title": "Mist\u00e9ryos", "original_title": "Mist\u00e9ryos", "slug_title": "misteryos", "date": "2008-09-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5IYCq5DafdHYZoJUyO5Bl8U6UaJ.jpg", "actors": ["Sthefany Brito (Juc\u00e9lia Ramos)"], "comments": [], "recommandations_id": []}

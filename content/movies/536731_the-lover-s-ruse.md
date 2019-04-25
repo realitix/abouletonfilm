@@ -1,1 +1,0 @@
-{"tmdb_id": 536731, "title": "The Lover's Ruse", "original_title": "The Lover's Ruse", "slug_title": "the-lover-s-ruse", "date": "1904-11-28", "genre": "Com\u00e9die / Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 336446, "title": "Polarbearman", "original_title": "Polarbearman", "slug_title": "polarbearman", "date": "2008-02-27", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gQz1e3CZBDMXq4HpfE55a6FpQDv.jpg", "actors": ["Lee Pace ()"], "comments": [], "recommandations_id": []}

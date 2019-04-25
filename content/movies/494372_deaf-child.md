@@ -1,1 +1,0 @@
-{"tmdb_id": 494372, "title": "Deaf Child", "original_title": "Doof Kind", "slug_title": "deaf-child", "date": "2018-04-11", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8OCAXPo8GhPswqKJhlKS0KSknWi.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 373343, "title": "Jonny Quest", "original_title": "Jonny Quest", "slug_title": "jonny-quest", "date": "", "genre": "Aventure", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

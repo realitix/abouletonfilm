@@ -1,1 +1,0 @@
-{"tmdb_id": 237825, "title": "Parade of Mystic Shriners, Luna Park, Coney Island", "original_title": "Parade of Mystic Shriners, Luna Park, Coney Island", "slug_title": "parade-of-mystic-shriners-luna-park-coney-island", "date": "1904-11-17", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 365889, "title": "Sailor Moon - Un Nouveau Voyage", "original_title": "Sailor Moon - Un Nouveau Voyage", "slug_title": "sailor-moon-un-nouveau-voyage", "date": "2015-09-18", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/osrVpGtAkutFMVFYt30lW9lJNjU.jpg", "actors": [], "comments": [], "recommandations_id": []}

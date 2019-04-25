@@ -1,1 +1,0 @@
-{"tmdb_id": 289093, "title": "Thomas Berry: The Great Story", "original_title": "Thomas Berry: The Great Story", "slug_title": "thomas-berry-the-great-story", "date": "2014-08-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

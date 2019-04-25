@@ -1,1 +1,0 @@
-{"tmdb_id": 298672, "title": "Queercore", "original_title": "Queercore", "slug_title": "queercore", "date": "1997-03-01", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

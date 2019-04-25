@@ -1,1 +1,0 @@
-{"tmdb_id": 312284, "title": "Project XX: The Innocent Years", "original_title": "Project XX: The Innocent Years", "slug_title": "project-xx-the-innocent-years", "date": "1957-11-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 459359, "title": "X/78 Rheinhafen", "original_title": "X/78 Rheinhafen", "slug_title": "x-78-rheinhafen", "date": "1978-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

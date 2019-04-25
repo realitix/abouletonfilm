@@ -1,1 +1,0 @@
-{"tmdb_id": 188543, "title": "H\u00e4r kommer brandbilen", "original_title": "H\u00e4r kommer brandbilen", "slug_title": "har-kommer-brandbilen", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q5icsO1DcHRQawf8FrYIWoToJtb.jpg", "actors": [], "comments": [], "recommandations_id": []}

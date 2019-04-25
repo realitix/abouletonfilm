@@ -1,1 +1,0 @@
-{"tmdb_id": 588957, "title": "Spring Comes from the Ladies", "original_title": "Haru wa gofujin kara", "slug_title": "spring-comes-from-the-ladies", "date": "1932-01-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tatsuo Sait\u00f4 ()", "Takeshi Sakamoto ()"], "comments": [], "recommandations_id": []}

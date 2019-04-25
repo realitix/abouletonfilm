@@ -1,1 +1,0 @@
-{"tmdb_id": 303312, "title": "Sardukupodam Randi", "original_title": "Sardukupodam Randi", "slug_title": "sardukupodam-randi", "date": "2000-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dVOqMs4BvKTBsSAo68kKVkYZnyv.jpg", "actors": [], "comments": [], "recommandations_id": []}

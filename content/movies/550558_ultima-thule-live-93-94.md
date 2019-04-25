@@ -1,1 +1,0 @@
-{"tmdb_id": 550558, "title": "Ultima Thule - Live 93-94", "original_title": "Ultima Thule - Live 93-94", "slug_title": "ultima-thule-live-93-94", "date": "1994-06-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eKFhVNu27LE8wM93NrYEma2xAqq.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 296475, "title": "7 Colombian Kilos", "original_title": "7 Colombian Kilos", "slug_title": "7-colombian-kilos", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

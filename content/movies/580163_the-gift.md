@@ -1,1 +1,0 @@
-{"tmdb_id": 580163, "title": "The Gift", "original_title": "The Gift", "slug_title": "the-gift", "date": "2019-01-11", "genre": "Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sJthJy9r694Wy8aw6I6s5XfF4He.jpg", "actors": ["Nash Aguas ()", "Sharlene San Pedro ()"], "comments": [], "recommandations_id": []}

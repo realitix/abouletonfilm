@@ -1,1 +1,0 @@
-{"tmdb_id": 591615, "title": "Looking for Zion", "original_title": "Looking for Zion", "slug_title": "looking-for-zion", "date": "2018-05-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8iI0uMGXkq3dNucLZas557um7kr.jpg", "actors": [], "comments": [], "recommandations_id": []}

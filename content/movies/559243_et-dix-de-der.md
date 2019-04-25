@@ -1,1 +1,0 @@
-{"tmdb_id": 559243, "title": "Et dix de der", "original_title": "Et dix de der", "slug_title": "et-dix-de-der", "date": "1948-04-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mHNWgZsh5gJDIiIELQPUmz6P3ir.jpg", "actors": [], "comments": [], "recommandations_id": []}

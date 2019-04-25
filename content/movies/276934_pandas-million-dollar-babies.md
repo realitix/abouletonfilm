@@ -1,1 +1,0 @@
-{"tmdb_id": 276934, "title": "Pandas: Million Dollar Babies", "original_title": "Pandas: Million Dollar Babies", "slug_title": "pandas-million-dollar-babies", "date": "2014-06-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

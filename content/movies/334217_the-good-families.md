@@ -1,1 +1,0 @@
-{"tmdb_id": 334217, "title": "The Good Families", "original_title": "Les bonnes familles", "slug_title": "the-good-families", "date": "1973-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Djafar Damardji ()", "Hassan Hassani ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 494626, "title": "Verse texture", "original_title": "Dichtweefsel", "slug_title": "verse-texture", "date": "1998-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

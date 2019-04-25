@@ -1,1 +1,0 @@
-{"tmdb_id": 325297, "title": "The Singhampton Project", "original_title": "The Singhampton Project", "slug_title": "the-singhampton-project", "date": "2014-09-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

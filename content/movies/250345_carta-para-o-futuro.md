@@ -1,1 +1,0 @@
-{"tmdb_id": 250345, "title": "Carta Para o Futuro", "original_title": "Carta Para o Futuro", "slug_title": "carta-para-o-futuro", "date": "2011-10-09", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uC1vBV73gXFNHbeHftCWY5tUKAy.jpg", "actors": [], "comments": [], "recommandations_id": []}

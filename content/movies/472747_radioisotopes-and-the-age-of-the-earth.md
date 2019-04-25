@@ -1,1 +1,0 @@
-{"tmdb_id": 472747, "title": "Radioisotopes and the Age of the Earth", "original_title": "Radioisotopes and the Age of the Earth", "slug_title": "radioisotopes-and-the-age-of-the-earth", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dr. Steven Austin ()"], "comments": [], "recommandations_id": []}

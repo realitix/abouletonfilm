@@ -1,1 +1,0 @@
-{"tmdb_id": 467671, "title": "The Whisperer", "original_title": "The Whisperer", "slug_title": "the-whisperer", "date": "2016-03-28", "genre": "Horreur", "score": "3.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ypseuLU0XVDMHWqTOlZNCAQV1LJ.jpg", "actors": ["Casey Fichtner (The Girl)"], "comments": [], "recommandations_id": []}

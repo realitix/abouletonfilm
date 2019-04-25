@@ -1,1 +1,0 @@
-{"tmdb_id": 466095, "title": "Fish, Moon and Tides: The Grunion Story", "original_title": "Fish, Moon and Tides: The Grunion Story", "slug_title": "fish-moon-and-tides-the-grunion-story", "date": "1964-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

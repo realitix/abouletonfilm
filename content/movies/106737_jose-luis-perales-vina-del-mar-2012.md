@@ -1,1 +1,0 @@
-{"tmdb_id": 106737, "title": "Jose Luis Perales Vina del Mar 2012", "original_title": "Jose Luis Perales Vina del Mar 2012", "slug_title": "jose-luis-perales-vina-del-mar-2012", "date": "2012-02-23", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jose Luis Perales (Himself)"], "comments": [], "recommandations_id": []}

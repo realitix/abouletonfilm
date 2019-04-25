@@ -1,1 +1,0 @@
-{"tmdb_id": 454078, "title": "The Exiled Bird", "original_title": "The Exiled Bird", "slug_title": "the-exiled-bird", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zt2qV8rCE7onoGaksYSzrgm5jrF.jpg", "actors": [], "comments": [], "recommandations_id": []}

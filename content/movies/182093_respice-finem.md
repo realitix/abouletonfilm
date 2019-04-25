@@ -1,1 +1,0 @@
-{"tmdb_id": 182093, "title": "Respice finem", "original_title": "Respice finem", "slug_title": "respice-finem", "date": "1967-04-24", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vN8fO0jS6soNVp9v3g65K6zIFyp.jpg", "actors": ["Jan Ka\u010der (Narrator)"], "comments": [], "recommandations_id": []}

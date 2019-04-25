@@ -1,1 +1,0 @@
-{"tmdb_id": 508050, "title": "The Game of Juan's Life", "original_title": "Ang laro ng buhay ni Juan", "slug_title": "the-game-of-juan-s-life", "date": "2009-10-21", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gL1d8wXoBiUSp4F0gmfoK5jYei7.jpg", "actors": [], "comments": [], "recommandations_id": []}

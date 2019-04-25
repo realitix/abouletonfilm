@@ -1,1 +1,0 @@
-{"tmdb_id": 355194, "title": "Me llamo Margarita", "original_title": "Me llamo Margarita", "slug_title": "me-llamo-margarita", "date": "2016-03-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dP8XYaXPleuEBKwxiAqT80Uf1NT.jpg", "actors": [], "comments": [], "recommandations_id": []}

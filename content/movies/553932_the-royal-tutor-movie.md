@@ -1,1 +1,0 @@
-{"tmdb_id": 553932, "title": "The Royal Tutor Movie", "original_title": "Oushitsu Kyoushi Heine Movie", "slug_title": "the-royal-tutor-movie", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/96z2nt0c8agVjlfvDys5n1LeBfL.jpg", "actors": [], "comments": [], "recommandations_id": []}

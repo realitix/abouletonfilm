@@ -1,1 +1,0 @@
-{"tmdb_id": 378652, "title": "ali's boat", "original_title": "ali's boat", "slug_title": "ali-s-boat", "date": "2016-01-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k3T0XPVhaaKA3iuLjuqKqNKw6YM.jpg", "actors": [], "comments": [], "recommandations_id": []}

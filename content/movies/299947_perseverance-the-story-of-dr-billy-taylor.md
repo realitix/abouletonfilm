@@ -1,1 +1,0 @@
-{"tmdb_id": 299947, "title": "PERSEVERANCE: The Story of Dr. Billy Taylor", "original_title": "PERSEVERANCE: The Story of Dr. Billy Taylor", "slug_title": "perseverance-the-story-of-dr-billy-taylor", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

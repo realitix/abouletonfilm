@@ -1,1 +1,0 @@
-{"tmdb_id": 404288, "title": "A Sheep on the Roof", "original_title": "Quidam d\u00e9gomme", "slug_title": "a-sheep-on-the-roof", "date": "2007-10-20", "genre": "Animation", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 189563, "title": "The Devil Horse", "original_title": "The Devil Horse", "slug_title": "the-devil-horse", "date": "1926-09-11", "genre": "Western", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Yakima Canutt (Dave Carson)"], "comments": [], "recommandations_id": []}

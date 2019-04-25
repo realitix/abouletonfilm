@@ -1,1 +1,0 @@
-{"tmdb_id": 422375, "title": "Tiger Child", "original_title": "Tiger Child", "slug_title": "tiger-child", "date": "1970-05-15", "genre": "Fantastique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p2IcVfMJ3mI0qMF4rlXULJalDOI.jpg", "actors": [], "comments": [], "recommandations_id": []}

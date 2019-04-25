@@ -1,1 +1,0 @@
-{"tmdb_id": 568642, "title": "Palimpsest", "original_title": "Palimpsest", "slug_title": "palimpsest", "date": "2013-04-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7Phue5umwPVCwgiPFSwzKtIgpEj.jpg", "actors": ["Joel Nagle (Peter Lucian)", "Kathleen Wise (Ellen Chasen)"], "comments": [], "recommandations_id": []}

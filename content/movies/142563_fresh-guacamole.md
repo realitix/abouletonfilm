@@ -1,1 +1,0 @@
-{"tmdb_id": 142563, "title": "Fresh Guacamole", "original_title": "Fresh Guacamole", "slug_title": "fresh-guacamole", "date": "2012-03-02", "genre": "Animation", "score": "7.6/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zSxS8LQtZ6t4G6mH7uRyfRwQPmm.jpg", "actors": [], "comments": [], "recommandations_id": [167190, 157301, 157305, 148511]}

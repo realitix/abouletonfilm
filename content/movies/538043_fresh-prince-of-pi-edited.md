@@ -1,1 +1,0 @@
-{"tmdb_id": 538043, "title": "Fresh Prince of Pi (Edited)", "original_title": "Fresh Prince of Pi (Edited)", "slug_title": "fresh-prince-of-pi-edited", "date": "", "genre": "Musique / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xlqypEA5KxObdV2CqbJPIP087vS.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 586424, "title": "U kathe hero", "original_title": "U kathe hero", "slug_title": "u-kathe-hero", "date": "2018-12-28", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ijldEWnwNPdbskU4b20Pz2JCoku.jpg", "actors": [], "comments": [], "recommandations_id": []}

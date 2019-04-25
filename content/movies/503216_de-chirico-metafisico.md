@@ -1,1 +1,0 @@
-{"tmdb_id": 503216, "title": "De Chirico metafisico", "original_title": "De Chirico metafisico", "slug_title": "de-chirico-metafisico", "date": "1962-02-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

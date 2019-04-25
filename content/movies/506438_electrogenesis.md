@@ -1,1 +1,0 @@
-{"tmdb_id": 506438, "title": "Electrogenesis", "original_title": "Electrogenesis", "slug_title": "electrogenesis", "date": "2015-05-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sZuuFof8xi86kthIHGRB9ijZ4H4.jpg", "actors": [], "comments": [], "recommandations_id": []}

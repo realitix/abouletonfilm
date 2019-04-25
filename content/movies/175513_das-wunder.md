@@ -1,1 +1,0 @@
-{"tmdb_id": 175513, "title": "Das Wunder", "original_title": "Das Wunder", "slug_title": "das-wunder", "date": "1922-01-01", "genre": "Animation", "score": "6.4/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rJQylmttqdlPNwLTnsVAWfkwKRG.jpg", "actors": [], "comments": [], "recommandations_id": [186164, 161897, 196488, 291086]}

@@ -1,1 +1,0 @@
-{"tmdb_id": 483807, "title": "Task Manager", "original_title": "Task Manager", "slug_title": "task-manager", "date": "2016-01-01", "genre": "Com\u00e9die / Action / Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8Z68xB7ohdJqRiKsp0vAbHKrK27.jpg", "actors": [], "comments": [], "recommandations_id": []}

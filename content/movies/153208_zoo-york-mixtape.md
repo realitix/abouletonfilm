@@ -1,1 +1,0 @@
-{"tmdb_id": 153208, "title": "Zoo York Mixtape", "original_title": "Zoo York Mixtape", "slug_title": "zoo-york-mixtape", "date": "", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9bCV0l1dU78zV3hYBB7uxWFswJe.jpg", "actors": [], "comments": [], "recommandations_id": []}

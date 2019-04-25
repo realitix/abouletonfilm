@@ -1,1 +1,0 @@
-{"tmdb_id": 167701, "title": "From Dawn Til Dusk", "original_title": "From Dawn Til Dusk", "slug_title": "from-dawn-til-dusk", "date": "2013-02-12", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9aoZ7XnxkfOfkhguGxM8810UmLO.jpg", "actors": [], "comments": [], "recommandations_id": []}

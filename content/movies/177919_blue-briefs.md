@@ -1,1 +1,0 @@
-{"tmdb_id": 177919, "title": "Blue Briefs", "original_title": "Blue Briefs", "slug_title": "blue-briefs", "date": "2012-06-06", "genre": "Drame", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7Fbgm6ShlIzjj5237Qr0rVosO7C.jpg", "actors": ["Kyle Mac (Christian)"], "comments": [], "recommandations_id": [32728]}

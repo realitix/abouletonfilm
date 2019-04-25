@@ -1,1 +1,0 @@
-{"tmdb_id": 362411, "title": "Natural Bush 49", "original_title": "Natural Bush 49", "slug_title": "natural-bush-49", "date": "2010-01-20", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5DtLDufWJsIfqgA6aJUttoAAlfJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

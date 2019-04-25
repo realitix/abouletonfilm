@@ -1,1 +1,0 @@
-{"tmdb_id": 589996, "title": "The Lock Up", "original_title": "The Lock Up", "slug_title": "the-lock-up", "date": "", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pDhoE5xisRuatge2uBXwRUdG4bU.jpg", "actors": ["Lauren Garvey (Woman in the shop)"], "comments": [], "recommandations_id": []}

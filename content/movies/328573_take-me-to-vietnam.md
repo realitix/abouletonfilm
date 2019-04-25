@@ -1,1 +1,0 @@
-{"tmdb_id": 328573, "title": "Take Me to Vietnam", "original_title": "Bai qingting", "slug_title": "take-me-to-vietnam", "date": "2009-10-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t0UxbxlfkAuY9wH30PdZ56uOkoA.jpg", "actors": [], "comments": [], "recommandations_id": []}

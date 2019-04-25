@@ -1,1 +1,0 @@
-{"tmdb_id": 484629, "title": "Get Along Little Hubby", "original_title": "Get Along Little Hubby", "slug_title": "get-along-little-hubby", "date": "1934-06-15", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Walter Catlett (Elmer Tuttle)"], "comments": [], "recommandations_id": []}

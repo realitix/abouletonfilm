@@ -1,1 +1,0 @@
-{"tmdb_id": 497159, "title": "True Warriors", "original_title": "True Warriors", "slug_title": "true-warriors", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

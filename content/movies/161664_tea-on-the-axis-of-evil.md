@@ -1,1 +1,0 @@
-{"tmdb_id": 161664, "title": "Tea on the Axis of Evil", "original_title": "Tea on the Axis of Evil", "slug_title": "tea-on-the-axis-of-evil", "date": "2009-01-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/33pNy3KeZF4SOpVdAb3LOmiKUjG.jpg", "actors": [], "comments": [], "recommandations_id": []}

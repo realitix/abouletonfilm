@@ -1,1 +1,0 @@
-{"tmdb_id": 509287, "title": "Ballett-Film", "original_title": "Ballett-Film", "slug_title": "ballett-film", "date": "1968-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uJ24adlgf9QYwqH89rLfB2Eu0yV.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 527897, "title": "Die neuen Kinder von Golzow", "original_title": "Die neuen Kinder von Golzow", "slug_title": "die-neuen-kinder-von-golzow", "date": "2017-10-31", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4maDGWVJpimML9lmgYXERsp7cvr.jpg", "actors": [], "comments": [], "recommandations_id": []}

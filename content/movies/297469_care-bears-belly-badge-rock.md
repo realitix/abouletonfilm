@@ -1,1 +1,0 @@
-{"tmdb_id": 297469, "title": "Care Bears: Belly Badge Rock", "original_title": "Care Bears: Belly Badge Rock", "slug_title": "care-bears-belly-badge-rock", "date": "2003-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

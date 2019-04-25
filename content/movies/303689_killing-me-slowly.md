@@ -1,1 +1,0 @@
-{"tmdb_id": 303689, "title": "Killing Me Slowly", "original_title": "Killing Me Slowly", "slug_title": "killing-me-slowly", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

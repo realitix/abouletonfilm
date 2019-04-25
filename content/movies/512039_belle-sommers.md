@@ -1,1 +1,0 @@
-{"tmdb_id": 512039, "title": "Belle Sommers", "original_title": "Belle Sommers", "slug_title": "belle-sommers", "date": "1962-05-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["David Janssen ()", "Polly Bergen ()", "Jay Adler ()", "Carroll O'Connor ()"], "comments": [], "recommandations_id": []}

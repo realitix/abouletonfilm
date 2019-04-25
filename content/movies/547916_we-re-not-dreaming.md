@@ -1,1 +1,0 @@
-{"tmdb_id": 547916, "title": "We're Not Dreaming", "original_title": "N\u00e3o Estamos Sonhando", "slug_title": "we-re-not-dreaming", "date": "2012-08-25", "genre": "Drame", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jkDsK7I2MveFKo6y5ZNucLqSOPS.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 332926, "title": "Friends and Heroes - Horseplay", "original_title": "Friends and Heroes - Horseplay", "slug_title": "friends-and-heroes-horseplay", "date": "2000-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

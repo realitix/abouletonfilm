@@ -1,1 +1,0 @@
-{"tmdb_id": 305206, "title": "Bottoms Up", "original_title": "Bottoms Up", "slug_title": "bottoms-up", "date": "2014-07-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qsNvg4WdkD0VW33GgBplhX4Tugn.jpg", "actors": ["Luther Campbell (Himself)"], "comments": [], "recommandations_id": []}

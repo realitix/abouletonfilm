@@ -1,1 +1,0 @@
-{"tmdb_id": 304770, "title": "Window Licker", "original_title": "Window Licker", "slug_title": "window-licker", "date": "2014-06-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/leln8cN2nZas89ywbHQOD8rxO2e.jpg", "actors": [], "comments": [], "recommandations_id": []}

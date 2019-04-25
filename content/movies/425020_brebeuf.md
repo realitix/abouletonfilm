@@ -1,1 +1,0 @@
-{"tmdb_id": 425020, "title": "Br\u00e9beuf", "original_title": "Br\u00e9beuf", "slug_title": "brebeuf", "date": "2012-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lgoNNmtoVRvoavNIG6RVArtkxbd.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 260657, "title": "Barra Nexpa", "original_title": "Barra Nexpa", "slug_title": "barra-nexpa", "date": "2013-12-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6JOw1flUNxd1euUCqCBYglLSqYp.jpg", "actors": [], "comments": [], "recommandations_id": []}

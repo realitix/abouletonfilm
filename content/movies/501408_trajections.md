@@ -1,1 +1,0 @@
-{"tmdb_id": 501408, "title": "Trajections", "original_title": "Trajections", "slug_title": "trajections", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nzcgLvwnrO272QTEO5pmIaihgrY.jpg", "actors": [], "comments": [], "recommandations_id": []}

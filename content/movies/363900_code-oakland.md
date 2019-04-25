@@ -1,1 +1,0 @@
-{"tmdb_id": 363900, "title": "Code Oakland", "original_title": "Code Oakland", "slug_title": "code-oakland", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

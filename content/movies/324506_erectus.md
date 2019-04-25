@@ -1,1 +1,1 @@
-{"tmdb_id": 324506, "title": "Erectus", "original_title": "Erectus", "slug_title": "erectus", "date": "2012-10-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 324506, "title": "Erectus", "original_title": "Erectus", "slug_title": "erectus", "date": "2012-10-25", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Vincent Dubar", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

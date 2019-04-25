@@ -1,1 +1,0 @@
-{"tmdb_id": 216893, "title": "In an Old Neighborhood", "original_title": "En un barrio viejo", "slug_title": "in-an-old-neighborhood", "date": "1963-08-24", "genre": "Documentaire", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zMlVcFIKY8qLvRyh51z2tjl6wYZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

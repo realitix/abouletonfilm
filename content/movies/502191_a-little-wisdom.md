@@ -1,1 +1,0 @@
-{"tmdb_id": 502191, "title": "A Little Wisdom", "original_title": "A Little Wisdom", "slug_title": "a-little-wisdom", "date": "2018-04-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/X8afo6FYzPTjxF2irdxNYHfVe1.jpg", "actors": [], "comments": [], "recommandations_id": []}

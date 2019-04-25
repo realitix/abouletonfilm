@@ -1,1 +1,0 @@
-{"tmdb_id": 482173, "title": "Carnage in Clayton", "original_title": "Carnage in Clayton", "slug_title": "carnage-in-clayton", "date": "2003-08-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kZjjLr3vSTGofeMsYzJq063Do7t.jpg", "actors": [], "comments": [], "recommandations_id": []}

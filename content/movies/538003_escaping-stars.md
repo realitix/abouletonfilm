@@ -1,1 +1,0 @@
-{"tmdb_id": 538003, "title": "Escaping Stars", "original_title": "Les Etoiles Fuyantes", "slug_title": "escaping-stars", "date": "2017-12-01", "genre": "Musique / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A4vuxry7uv8TBnDmPbMm5fCGkFO.jpg", "actors": [], "comments": [], "recommandations_id": []}

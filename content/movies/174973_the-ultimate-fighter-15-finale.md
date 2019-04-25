@@ -1,1 +1,0 @@
-{"tmdb_id": 174973, "title": "The Ultimate Fighter 15 Finale", "original_title": "The Ultimate Fighter 15 Finale", "slug_title": "the-ultimate-fighter-15-finale", "date": "2012-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qvPPoG0U3URBmG2ecQRKJ3sIbUn.jpg", "actors": [], "comments": [], "recommandations_id": []}

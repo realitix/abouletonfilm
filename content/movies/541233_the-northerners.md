@@ -1,1 +1,0 @@
-{"tmdb_id": 541233, "title": "The Northerners", "original_title": "\u0421\u0435\u0432\u0435\u0440\u044f\u043d\u0435", "slug_title": "the-northerners", "date": "2018-09-17", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/shblnsT4JGICUQ964Uq27vaIGhj.jpg", "actors": [], "comments": [], "recommandations_id": []}

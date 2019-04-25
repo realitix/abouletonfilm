@@ -1,1 +1,0 @@
-{"tmdb_id": 271190, "title": "Radiant", "original_title": "Radiant", "slug_title": "radiant", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

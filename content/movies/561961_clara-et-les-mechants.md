@@ -1,1 +1,0 @@
-{"tmdb_id": 561961, "title": "Clara et les m\u00e9chants", "original_title": "Clara et les m\u00e9chants", "slug_title": "clara-et-les-mechants", "date": "1958-12-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tM4yv2u741BHXUTMF7G3vvfrAeG.jpg", "actors": [], "comments": [], "recommandations_id": []}

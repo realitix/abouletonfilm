@@ -1,1 +1,0 @@
-{"tmdb_id": 270093, "title": "Lancaster, Pa., High School", "original_title": "Lancaster, Pa., High School", "slug_title": "lancaster-pa-high-school", "date": "1900-05-15", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

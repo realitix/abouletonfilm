@@ -1,1 +1,0 @@
-{"tmdb_id": 402964, "title": "El Chiguito", "original_title": "El Chiguito", "slug_title": "el-chiguito", "date": "2016-06-24", "genre": "Com\u00e9die / Histoire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jlJ0RjRUqu2L7Qtw6fVKo7iIJOE.jpg", "actors": [], "comments": [], "recommandations_id": []}

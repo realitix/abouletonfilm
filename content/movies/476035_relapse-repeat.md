@@ -1,1 +1,0 @@
-{"tmdb_id": 476035, "title": "Relapse, Repeat", "original_title": "Relapse, Repeat", "slug_title": "relapse-repeat", "date": "2017-09-15", "genre": "Drame / Horreur / Myst\u00e8re", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

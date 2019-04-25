@@ -1,1 +1,0 @@
-{"tmdb_id": 463185, "title": "Bahuparak", "original_title": "Bahuparak", "slug_title": "bahuparak", "date": "2014-07-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hkldnLslC2D6GDLhkincwslxoyk.jpg", "actors": ["Srinagar Kitty ()", "Meghana Raj ()"], "comments": [], "recommandations_id": []}

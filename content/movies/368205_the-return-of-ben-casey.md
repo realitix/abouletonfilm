@@ -1,1 +1,0 @@
-{"tmdb_id": 368205, "title": "The Return of Ben Casey", "original_title": "The Return of Ben Casey", "slug_title": "the-return-of-ben-casey", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

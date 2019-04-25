@@ -1,1 +1,0 @@
-{"tmdb_id": 471952, "title": "Vicky This Side, Varun That Side", "original_title": "Vicky This Side, Varun That Side", "slug_title": "vicky-this-side-varun-that-side", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/klyqCuatcuANaRhZIhQidUb8VfJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

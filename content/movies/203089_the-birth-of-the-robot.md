@@ -1,1 +1,0 @@
-{"tmdb_id": 203089, "title": "The Birth of the Robot", "original_title": "The Birth of the Robot", "slug_title": "the-birth-of-the-robot", "date": "1936-01-01", "genre": "Animation", "score": "6.9/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [106569, 113989, 150958, 196488]}

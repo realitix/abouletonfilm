@@ -1,1 +1,0 @@
-{"tmdb_id": 425235, "title": "Tag f\u00fcr Tag", "original_title": "Tag f\u00fcr Tag", "slug_title": "tag-fur-tag", "date": "1979-11-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rYTHvLUBVQ7ZEiuadfMqnuNaDeh.jpg", "actors": [], "comments": [], "recommandations_id": []}

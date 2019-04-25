@@ -1,1 +1,0 @@
-{"tmdb_id": 44166, "title": "Eureka!", "original_title": "Eureka!", "slug_title": "eureka", "date": "2007-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Renee Jumper ()", "Sean Mchugh ()"], "comments": [], "recommandations_id": []}

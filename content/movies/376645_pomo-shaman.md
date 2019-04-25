@@ -1,1 +1,0 @@
-{"tmdb_id": 376645, "title": "Pomo Shaman", "original_title": "Pomo Shaman", "slug_title": "pomo-shaman", "date": "1964-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dbHuuvShAsCvjdhmqvQmEuqwYcV.jpg", "actors": [], "comments": [], "recommandations_id": []}

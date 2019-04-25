@@ -1,1 +1,0 @@
-{"tmdb_id": 493851, "title": "The Smacking Sea", "original_title": "Karge meri", "slug_title": "the-smacking-sea", "date": "1982-11-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["T\u00f5nu Kark (Matt Ruhve)"], "comments": [], "recommandations_id": []}

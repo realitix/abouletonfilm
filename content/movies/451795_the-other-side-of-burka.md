@@ -1,1 +1,0 @@
-{"tmdb_id": 451795, "title": "The Other Side of Burka", "original_title": "Az pase borghe", "slug_title": "the-other-side-of-burka", "date": "2004-11-01", "genre": "Drame / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

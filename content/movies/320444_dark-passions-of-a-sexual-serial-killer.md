@@ -1,1 +1,0 @@
-{"tmdb_id": 320444, "title": "Dark Passions of a Sexual Serial Killer", "original_title": "Dark Passions of a Sexual Serial Killer", "slug_title": "dark-passions-of-a-sexual-serial-killer", "date": "2013-04-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

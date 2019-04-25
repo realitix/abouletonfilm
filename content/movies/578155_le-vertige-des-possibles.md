@@ -1,1 +1,0 @@
-{"tmdb_id": 578155, "title": "Le vertige des possibles", "original_title": "Le vertige des possibles", "slug_title": "le-vertige-des-possibles", "date": "2014-03-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rvytCR4O3Gu46Of9w1umCwUBSeS.jpg", "actors": [], "comments": [], "recommandations_id": []}

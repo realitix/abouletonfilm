@@ -1,1 +1,0 @@
-{"tmdb_id": 400176, "title": "Drakkar", "original_title": "Drakkar", "slug_title": "drakkar", "date": "2016-01-11", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1VI20YlDxfFLABD7ay1fiOdXfW2.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 500108, "title": "\u00d6l\u00fcme Yaln\u0131z Gidilir", "original_title": "\u00d6l\u00fcme Yaln\u0131z Gidilir", "slug_title": "olume-yalniz-gidilir", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mDa9194N6RcsFaFPgK23QEfaQkh.jpg", "actors": [], "comments": [], "recommandations_id": []}

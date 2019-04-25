@@ -1,1 +1,0 @@
-{"tmdb_id": 242500, "title": "The Suicide Tourist", "original_title": "The Suicide Tourist", "slug_title": "the-suicide-tourist", "date": "2010-03-02", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z4FkIy40Gox9PRqEURFjsFFCRQY.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 523713, "title": "Screams For Tina: Live at The Cave, L.A.", "original_title": "Screams For Tina: Live at The Cave, L.A.", "slug_title": "screams-for-tina-live-at-the-cave-l-a", "date": "1986-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

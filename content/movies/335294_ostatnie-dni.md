@@ -1,1 +1,0 @@
-{"tmdb_id": 335294, "title": "Ostatnie dni", "original_title": "Ostatnie dni", "slug_title": "ostatnie-dni", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4yCuU0an8yPevUBA2NIcSzGyWMT.jpg", "actors": [], "comments": [], "recommandations_id": []}

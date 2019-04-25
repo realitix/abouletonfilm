@@ -1,1 +1,0 @@
-{"tmdb_id": 309374, "title": "Adam: Giselle: Teatro alla Scala", "original_title": "Adam: Giselle: Teatro alla Scala", "slug_title": "adam-giselle-teatro-alla-scala", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

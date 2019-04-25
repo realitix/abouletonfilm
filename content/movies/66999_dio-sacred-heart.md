@@ -1,1 +1,0 @@
-{"tmdb_id": 66999, "title": "Dio: Sacred Heart", "original_title": "Dio: Sacred Heart", "slug_title": "dio-sacred-heart", "date": "2004-01-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/58Lpojda96qOWOzXWIQ3QgmbcTN.jpg", "actors": [], "comments": [], "recommandations_id": []}

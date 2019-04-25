@@ -1,1 +1,0 @@
-{"tmdb_id": 532691, "title": "The Boondi War", "original_title": "The Boondi War", "slug_title": "the-boondi-war", "date": "", "genre": "", "score": "9.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 343106, "title": "Milos Forman Taking Off in America", "original_title": "Milos Forman, un outsider \u00e0 Hollywood", "slug_title": "milos-forman-taking-off-in-america", "date": "2012-06-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Milo\u0161 Forman (Milo\u0161 Forman)"], "comments": [], "recommandations_id": []}

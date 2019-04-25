@@ -1,1 +1,0 @@
-{"tmdb_id": 249172, "title": "Anne Truitt, Working", "original_title": "Anne Truitt, Working", "slug_title": "anne-truitt-working", "date": "2010-01-15", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9bymzYRXT6D20AAjgKaCO1YBUbi.jpg", "actors": ["Anne Truitt (Herself)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 188389, "title": "Spooking About Africa", "original_title": "Spooking About Africa", "slug_title": "spooking-about-africa", "date": "1957-01-03", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jzbTmNEWpHscj2e7cJP4Hehr39O.jpg", "actors": [], "comments": [], "recommandations_id": []}

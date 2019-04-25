@@ -1,1 +1,1 @@
-{"tmdb_id": 343571, "title": "Manos libres", "original_title": "Manos libres", "slug_title": "manos-libres", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 343571, "title": "Manos libres", "original_title": "Manos libres", "slug_title": "manos-libres", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Long take project.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

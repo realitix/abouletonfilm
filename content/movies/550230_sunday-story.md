@@ -1,1 +1,0 @@
-{"tmdb_id": 550230, "title": "Sunday Story", "original_title": "Kisah di Hari Minggu", "slug_title": "sunday-story", "date": "2017-12-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s8jcoYmYvzbXMCCdQBI1rl12Yhk.jpg", "actors": [], "comments": [], "recommandations_id": []}

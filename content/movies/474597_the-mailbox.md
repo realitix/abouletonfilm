@@ -1,1 +1,0 @@
-{"tmdb_id": 474597, "title": "The Mailbox", "original_title": "The Mailbox", "slug_title": "the-mailbox", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eTxCXYtFuGHwg8DwphPx5l2DOVj.jpg", "actors": [], "comments": [], "recommandations_id": []}

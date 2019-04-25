@@ -1,1 +1,0 @@
-{"tmdb_id": 394564, "title": "Travel Light", "original_title": "Travel Light", "slug_title": "travel-light", "date": "2016-04-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o2NsGJ6hnDiM0vDknGwtbjIGcTO.jpg", "actors": [], "comments": [], "recommandations_id": []}

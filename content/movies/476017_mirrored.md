@@ -1,1 +1,0 @@
-{"tmdb_id": 476017, "title": "Mirrored", "original_title": "Mirrored", "slug_title": "mirrored", "date": "", "genre": "Horreur", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5oaIbEfGukXFMVDPMGORMK6T5fL.jpg", "actors": [], "comments": [], "recommandations_id": []}

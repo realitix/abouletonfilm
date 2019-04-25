@@ -1,1 +1,0 @@
-{"tmdb_id": 396007, "title": "Les sables", "original_title": "Les sables", "slug_title": "les-sables", "date": "1965-01-01", "genre": "Myst\u00e8re / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yvaFLmdbE7Su6PqC5lDhYbJl3wB.jpg", "actors": [], "comments": [], "recommandations_id": []}

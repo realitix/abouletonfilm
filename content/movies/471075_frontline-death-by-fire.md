@@ -1,1 +1,0 @@
-{"tmdb_id": 471075, "title": "Frontline: Death by Fire", "original_title": "Frontline: Death by Fire", "slug_title": "frontline-death-by-fire", "date": "2010-10-19", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l05Y53T5GcuBqtbGuEJ2LyMBQK2.jpg", "actors": [], "comments": [], "recommandations_id": []}

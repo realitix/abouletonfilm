@@ -1,1 +1,0 @@
-{"tmdb_id": 66575, "title": "Poison: Video Hits", "original_title": "Poison: Video Hits", "slug_title": "poison-video-hits", "date": "2005-01-11", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eQwxnZ1leV3BRFnfKbSUZ2lcBfD.jpg", "actors": [], "comments": [], "recommandations_id": []}

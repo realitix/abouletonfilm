@@ -1,1 +1,0 @@
-{"tmdb_id": 576767, "title": "Aktor Pana Boga", "original_title": "Aktor Pana Boga", "slug_title": "aktor-pana-boga", "date": "2019-01-18", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/IeGaZAYL2A1Flm2sT7mVRdYxe4.jpg", "actors": ["Franciszek Pieczka ()"], "comments": [], "recommandations_id": []}

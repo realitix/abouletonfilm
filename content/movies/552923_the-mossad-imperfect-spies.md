@@ -1,1 +1,0 @@
-{"tmdb_id": 552923, "title": "The Mossad: Imperfect Spies", "original_title": "The Mossad: Imperfect Spies", "slug_title": "the-mossad-imperfect-spies", "date": "2018-10-31", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6RIH7fDYFikAmc88N5yzgrgKwLL.jpg", "actors": [], "comments": [], "recommandations_id": []}

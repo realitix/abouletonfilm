@@ -1,1 +1,0 @@
-{"tmdb_id": 567001, "title": "Volume 12: Harro & Big Barra", "original_title": "Volume 12: Harro & Big Barra", "slug_title": "volume-12-harro-big-barra", "date": "2004-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/c2b6SZUeoDZeTXA2Ol5RiVnJLq5.jpg", "actors": [], "comments": [], "recommandations_id": []}

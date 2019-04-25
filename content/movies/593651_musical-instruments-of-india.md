@@ -1,1 +1,0 @@
-{"tmdb_id": 593651, "title": "Musical Instruments of India", "original_title": "Musical Instruments of India", "slug_title": "musical-instruments-of-india", "date": "1944-04-08", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

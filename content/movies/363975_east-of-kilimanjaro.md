@@ -1,1 +1,0 @@
-{"tmdb_id": 363975, "title": "East of Kilimanjaro", "original_title": "La grande caccia", "slug_title": "east-of-kilimanjaro", "date": "1962-05-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gaby Andr\u00e9 (Dr. Marie Avedon)", "Marshall Thompson (Marsh Connors)"], "comments": [], "recommandations_id": []}

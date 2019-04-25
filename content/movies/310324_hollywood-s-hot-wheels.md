@@ -1,1 +1,0 @@
-{"tmdb_id": 310324, "title": "Hollywood's Hot Wheels", "original_title": "Hollywood's Hot Wheels", "slug_title": "hollywood-s-hot-wheels", "date": "1999-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 250852, "title": "The Notorious Mr. Bout", "original_title": "The Notorious Mr. Bout", "slug_title": "the-notorious-mr-bout", "date": "2014-01-17", "genre": "Documentaire", "score": "5.4/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jvGPsn8Xck5kEjtSgNgPaztchdZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

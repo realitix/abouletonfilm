@@ -1,1 +1,0 @@
-{"tmdb_id": 23406, "title": "Live at Last: A Wonder Summer's Night", "original_title": "Live at Last: A Wonder Summer's Night", "slug_title": "live-at-last-a-wonder-summer-s-night", "date": "2008-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

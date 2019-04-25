@@ -1,1 +1,0 @@
-{"tmdb_id": 350352, "title": "\ud558\ub298\uc774 \ubd80\ub97c \ub54c\uae4c\uc9c0", "original_title": "\ud558\ub298\uc774 \ubd80\ub97c \ub54c\uae4c\uc9c0", "slug_title": "haneuli-bureul-ddaeggaji", "date": "1980-09-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

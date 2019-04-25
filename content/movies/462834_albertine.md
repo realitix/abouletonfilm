@@ -1,1 +1,0 @@
-{"tmdb_id": 462834, "title": "Albertine", "original_title": "Albertine", "slug_title": "albertine", "date": "1988-12-30", "genre": "Drame / T\u00e9l\u00e9film", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8DUK6sFnImmXvWbwZAwOFOlHn6S.jpg", "actors": ["Sven Nordin (Student Helgesen)"], "comments": [], "recommandations_id": []}

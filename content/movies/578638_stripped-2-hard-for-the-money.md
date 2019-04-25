@@ -1,1 +1,0 @@
-{"tmdb_id": 578638, "title": "Stripped 2: Hard For The Money", "original_title": "Stripped 2: Hard For The Money", "slug_title": "stripped-2-hard-for-the-money", "date": "2018-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/46WsUb1a4DBOxFXtWaaCeU1WOaj.jpg", "actors": [], "comments": [], "recommandations_id": []}

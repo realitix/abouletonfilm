@@ -1,1 +1,0 @@
-{"tmdb_id": 166313, "title": "Chilly Con Carmen", "original_title": "Chilly Con Carmen", "slug_title": "chilly-con-carmen", "date": "1930-01-14", "genre": "", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

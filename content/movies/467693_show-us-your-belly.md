@@ -1,1 +1,0 @@
-{"tmdb_id": 467693, "title": "Show Us Your Belly", "original_title": "Show Us Your Belly", "slug_title": "show-us-your-belly", "date": "1988-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 585300, "title": "Ballot Boxes", "original_title": "\u0423\u0440\u043d\u044b", "slug_title": "ballot-boxes", "date": "2018-03-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vsjFwFVWlm9kD0ZrnkV5uTFArKj.jpg", "actors": [], "comments": [], "recommandations_id": []}

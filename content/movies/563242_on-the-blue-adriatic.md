@@ -1,1 +1,0 @@
-{"tmdb_id": 563242, "title": "On the Blue Adriatic", "original_title": "Na plavom Jadranu", "slug_title": "on-the-blue-adriatic", "date": "1932-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

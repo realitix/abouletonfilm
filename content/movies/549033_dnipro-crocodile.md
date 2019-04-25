@@ -1,1 +1,0 @@
-{"tmdb_id": 549033, "title": "Dnipro Crocodile", "original_title": "Le crocodile du Dniepr", "slug_title": "dnipro-crocodile", "date": "", "genre": "Drame", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lou Doillon ()"], "comments": [], "recommandations_id": []}

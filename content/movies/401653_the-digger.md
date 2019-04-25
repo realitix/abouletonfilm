@@ -1,1 +1,0 @@
-{"tmdb_id": 401653, "title": "The Digger", "original_title": "Al haffar", "slug_title": "the-digger", "date": "2015-11-10", "genre": "", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rDDBYtCd9GAYnZl5aSqBDTL1ZS7.jpg", "actors": [], "comments": [], "recommandations_id": []}

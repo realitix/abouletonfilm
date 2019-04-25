@@ -1,1 +1,0 @@
-{"tmdb_id": 274805, "title": "Our Curse", "original_title": "Nasza kl\u0105twa", "slug_title": "our-curse", "date": "2013-05-28", "genre": "Documentaire", "score": "6.4/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3SyK1mcRWjPVzCoDtn6UgtflSc4.jpg", "actors": [], "comments": [], "recommandations_id": [146892, 300176]}

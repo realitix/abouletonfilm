@@ -1,1 +1,0 @@
-{"tmdb_id": 275462, "title": "Mother Earth", "original_title": "Tierra Madre", "slug_title": "mother-earth", "date": "2010-03-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3AxhjI7p3WiNwA3CaXJ5efoMFh7.jpg", "actors": [], "comments": [], "recommandations_id": []}

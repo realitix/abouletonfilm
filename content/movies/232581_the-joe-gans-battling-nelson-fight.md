@@ -1,1 +1,0 @@
-{"tmdb_id": 232581, "title": "The Joe Gans-Battling Nelson Fight", "original_title": "The Joe Gans-Battling Nelson Fight", "slug_title": "the-joe-gans-battling-nelson-fight", "date": "1906-11-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 299735, "title": "Teenage Mutant Ninja Turtles: Pulverizer Power", "original_title": "Teenage Mutant Ninja Turtles: Pulverizer Power", "slug_title": "teenage-mutant-ninja-turtles-pulverizer-power", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

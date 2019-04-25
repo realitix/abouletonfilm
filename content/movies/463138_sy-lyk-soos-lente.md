@@ -1,1 +1,0 @@
-{"tmdb_id": 463138, "title": "Sy Lyk Soos Lente", "original_title": "Sy Lyk Soos Lente", "slug_title": "sy-lyk-soos-lente", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uPlHndOwea3f6q0zQTlwsXJhmme.jpg", "actors": ["Amalia Uys (Linda)", "Stiaan Smith (Ben)"], "comments": [], "recommandations_id": []}

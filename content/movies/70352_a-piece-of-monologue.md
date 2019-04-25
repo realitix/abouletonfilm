@@ -1,1 +1,0 @@
-{"tmdb_id": 70352, "title": "A Piece of Monologue", "original_title": "A Piece of Monologue", "slug_title": "a-piece-of-monologue", "date": "2001-07-14", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vwttELctcwyF88Zq8FT59MTNLH9.jpg", "actors": ["Stephen Brennan ()"], "comments": [], "recommandations_id": []}

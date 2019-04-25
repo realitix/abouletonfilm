@@ -1,1 +1,0 @@
-{"tmdb_id": 426817, "title": "Regarding Penelope's Wake", "original_title": "Regarding Penelope's Wake", "slug_title": "regarding-penelope-s-wake", "date": "2002-11-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

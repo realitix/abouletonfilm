@@ -1,1 +1,0 @@
-{"tmdb_id": 85813, "title": "Murari", "original_title": "Murari", "slug_title": "murari", "date": "2001-02-17", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8YZH6htiWNlYKuBKm1oveFOjtNp.jpg", "actors": ["Mahesh Babu ()", "Sonali Bendre ()"], "comments": [], "recommandations_id": [94965]}

@@ -1,1 +1,0 @@
-{"tmdb_id": 509905, "title": "Too Sensitive to Touch", "original_title": "Too Sensitive to Touch", "slug_title": "too-sensitive-to-touch", "date": "1981-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

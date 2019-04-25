@@ -1,1 +1,0 @@
-{"tmdb_id": 498112, "title": "A Light in the Darkness", "original_title": "A Light in the Darkness", "slug_title": "a-light-in-the-darkness", "date": "2012-08-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dIa6lI3kxcg7vZD6Plk7tUCZbfZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

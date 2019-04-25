@@ -1,1 +1,0 @@
-{"tmdb_id": 375958, "title": "Karczma na bagnach", "original_title": "Karczma na bagnach", "slug_title": "karczma-na-bagnach", "date": "1989-12-12", "genre": "Histoire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Eugeniusz Kujawski (Jerzy Stefan Giera\u0142towski)"], "comments": [], "recommandations_id": []}

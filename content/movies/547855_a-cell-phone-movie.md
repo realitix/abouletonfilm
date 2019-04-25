@@ -1,1 +1,0 @@
-{"tmdb_id": 547855, "title": "A Cell Phone Movie", "original_title": "A Cell Phone Movie", "slug_title": "a-cell-phone-movie", "date": "2011-07-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6Y4KOPgA2UJRlM7JCJ9ESVudyuy.jpg", "actors": [], "comments": [], "recommandations_id": []}

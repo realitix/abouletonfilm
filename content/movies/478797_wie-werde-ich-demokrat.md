@@ -1,1 +1,0 @@
-{"tmdb_id": 478797, "title": "Wie werde ich Demokrat?", "original_title": "Wie werde ich Demokrat?", "slug_title": "wie-werde-ich-demokrat", "date": "2002-06-27", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hcHLRf8dRjYaIVHJWUscxtql7l2.jpg", "actors": [], "comments": [], "recommandations_id": []}

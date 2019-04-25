@@ -1,1 +1,0 @@
-{"tmdb_id": 279910, "title": "UFO's Do Not Exist", "original_title": "UFO's Do Not Exist", "slug_title": "ufo-s-do-not-exist", "date": "2011-03-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

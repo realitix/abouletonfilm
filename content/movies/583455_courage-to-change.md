@@ -1,1 +1,0 @@
-{"tmdb_id": 583455, "title": "Courage to Change", "original_title": "Courage to Change", "slug_title": "courage-to-change", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

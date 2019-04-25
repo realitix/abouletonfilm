@@ -1,1 +1,0 @@
-{"tmdb_id": 417057, "title": "Cize - Livin In The 8s", "original_title": "Cize - Livin In The 8s", "slug_title": "cize-livin-in-the-8s", "date": "2015-07-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xNv3RJjdcGAWJf0aFuWbSehAga5.jpg", "actors": ["Shaun T. ()"], "comments": [], "recommandations_id": []}

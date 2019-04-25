@@ -1,1 +1,0 @@
-{"tmdb_id": 184375, "title": "Alice Picks the Champ", "original_title": "Alice Picks the Champ", "slug_title": "alice-picks-the-champ", "date": "1925-07-29", "genre": "", "score": "1.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4j904ec8JGsDJhSvTVg1N5LDvxa.jpg", "actors": ["Margie Gay (Alice)"], "comments": [], "recommandations_id": []}

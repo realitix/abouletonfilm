@@ -1,1 +1,0 @@
-{"tmdb_id": 313053, "title": "The Losers", "original_title": "The Losers", "slug_title": "the-losers", "date": "1963-01-15", "genre": "Drame / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pyrZCuvPzgmZZVzQQWGDt2nyIvQ.jpg", "actors": ["Lee Marvin ()", "Keenan Wynn ()"], "comments": [], "recommandations_id": []}

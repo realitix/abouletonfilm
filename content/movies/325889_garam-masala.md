@@ -1,1 +1,0 @@
-{"tmdb_id": 325889, "title": "Garam Masala", "original_title": "Garam Masala", "slug_title": "garam-masala", "date": "1972-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wRChXDXvTa5oGePQZK6KLkXzbGK.jpg", "actors": [], "comments": [], "recommandations_id": []}

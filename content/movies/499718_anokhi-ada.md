@@ -1,1 +1,0 @@
-{"tmdb_id": 499718, "title": "Anokhi Ada", "original_title": "Anokhi Ada", "slug_title": "anokhi-ada", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

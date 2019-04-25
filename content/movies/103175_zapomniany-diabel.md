@@ -1,1 +1,0 @@
-{"tmdb_id": 103175, "title": "Zapomniany Diabe\u0142", "original_title": "Zapomniany Diabe\u0142", "slug_title": "zapomniany-diabel", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

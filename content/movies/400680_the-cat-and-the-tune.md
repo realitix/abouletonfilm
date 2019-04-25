@@ -1,1 +1,0 @@
-{"tmdb_id": 400680, "title": "The Cat and the Tune", "original_title": "The Cat and the Tune", "slug_title": "the-cat-and-the-tune", "date": "1977-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

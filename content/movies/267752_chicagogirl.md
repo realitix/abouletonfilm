@@ -1,1 +1,0 @@
-{"tmdb_id": 267752, "title": "#chicagoGirl", "original_title": "#chicagoGirl", "slug_title": "chicagogirl", "date": "2013-11-21", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yokrKMyTx81PRkh8tnHUbzEDnIQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

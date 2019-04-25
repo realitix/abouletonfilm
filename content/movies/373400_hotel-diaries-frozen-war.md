@@ -1,1 +1,0 @@
-{"tmdb_id": 373400, "title": "Hotel Diaries: Frozen War", "original_title": "Hotel Diaries: Frozen War", "slug_title": "hotel-diaries-frozen-war", "date": "2001-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yYByBMQhcZJxCzVCjaOrzUklo96.jpg", "actors": [], "comments": [], "recommandations_id": []}

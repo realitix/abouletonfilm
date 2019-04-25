@@ -1,1 +1,0 @@
-{"tmdb_id": 179326, "title": "Dreaming of Tibet", "original_title": "Dreaming of Tibet", "slug_title": "dreaming-of-tibet", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

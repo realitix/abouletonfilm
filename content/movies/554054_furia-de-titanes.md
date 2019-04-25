@@ -1,1 +1,1 @@
-{"tmdb_id": 554054, "title": "Furia de Titanes", "original_title": "Furia de Titanes", "slug_title": "furia-de-titanes", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 554054, "title": "Furia de Titanes", "original_title": "Furia de Titanes", "slug_title": "furia-de-titanes", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

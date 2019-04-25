@@ -1,1 +1,0 @@
-{"tmdb_id": 3414, "title": "El \u00faltimo Frankenstein", "original_title": "El \u00faltimo Frankenstein", "slug_title": "el-ultimo-frankenstein", "date": "2004-01-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Al\u00ed Jos\u00e9 Garc\u00eda (o. A.)"], "comments": [], "recommandations_id": []}

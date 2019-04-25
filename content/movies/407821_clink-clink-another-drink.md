@@ -1,1 +1,0 @@
-{"tmdb_id": 407821, "title": "Clink! Clink! Another Drink", "original_title": "Clink! Clink! Another Drink", "slug_title": "clink-clink-another-drink", "date": "1942-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Spike Jones and His City Slickers ()"], "comments": [], "recommandations_id": []}

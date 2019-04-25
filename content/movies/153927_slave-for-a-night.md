@@ -1,1 +1,0 @@
-{"tmdb_id": 153927, "title": "Slave for a Night", "original_title": "Slave for a Night", "slug_title": "slave-for-a-night", "date": "2008-01-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pif0S9BKst8h0VE0yyKOSAr3IOt.jpg", "actors": [], "comments": [], "recommandations_id": []}

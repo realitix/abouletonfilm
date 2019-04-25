@@ -1,1 +1,0 @@
-{"tmdb_id": 562610, "title": "Dream Age", "original_title": "Dream Age", "slug_title": "dream-age", "date": "1979-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

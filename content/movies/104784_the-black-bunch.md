@@ -1,1 +1,0 @@
-{"tmdb_id": 104784, "title": "The Black Bunch", "original_title": "The Black Bunch", "slug_title": "the-black-bunch", "date": "1973-02-01", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/arLz1GcrDASaGBxrO2oXcP0vi1S.jpg", "actors": [], "comments": [], "recommandations_id": []}

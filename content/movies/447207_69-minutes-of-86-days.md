@@ -1,1 +1,0 @@
-{"tmdb_id": 447207, "title": "69 Minutes of 86 Days", "original_title": "69 Minutes of 86 Days", "slug_title": "69-minutes-of-86-days", "date": "2017-03-22", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jXvO9Rl3gQsog3EaGEaOjGvaqBP.jpg", "actors": [], "comments": [], "recommandations_id": []}

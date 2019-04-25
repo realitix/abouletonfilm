@@ -1,1 +1,0 @@
-{"tmdb_id": 496535, "title": "Christmas Day", "original_title": "Christmas Day", "slug_title": "christmas-day", "date": "1928-12-25", "genre": "Documentaire", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9eHhRmAlBuUeRnZ5kofKMhjpMD3.jpg", "actors": [], "comments": [], "recommandations_id": []}

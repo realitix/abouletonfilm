@@ -1,1 +1,0 @@
-{"tmdb_id": 428170, "title": "La batalla de Vieques", "original_title": "La batalla de Vieques", "slug_title": "la-batalla-de-vieques", "date": "1986-01-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

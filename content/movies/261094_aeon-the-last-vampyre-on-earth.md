@@ -1,1 +1,0 @@
-{"tmdb_id": 261094, "title": "Aeon: The Last Vampyre on Earth", "original_title": "Aeon: The Last Vampyre on Earth", "slug_title": "aeon-the-last-vampyre-on-earth", "date": "2013-02-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/16lgHBa6xsJ37Pm6odq6Fw8dLZc.jpg", "actors": [], "comments": [], "recommandations_id": []}

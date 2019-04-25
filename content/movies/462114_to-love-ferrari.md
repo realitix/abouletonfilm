@@ -1,1 +1,0 @@
-{"tmdb_id": 462114, "title": "To Love Ferrari", "original_title": "To Love Ferrari", "slug_title": "to-love-ferrari", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pK8fkjw6ZRg1fBsaHup2IBIizSq.jpg", "actors": ["Vivian Chow (Ferrari)", "David Siu ()", "Mark Kwok ()"], "comments": [], "recommandations_id": []}

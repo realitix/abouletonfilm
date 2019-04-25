@@ -1,1 +1,0 @@
-{"tmdb_id": 127292, "title": "Delivered Vacant", "original_title": "Delivered Vacant", "slug_title": "delivered-vacant", "date": "1992-10-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bTvRLfE7NDWpGSlsGJsxtcFIVjb.jpg", "actors": [], "comments": [], "recommandations_id": []}

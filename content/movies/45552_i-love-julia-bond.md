@@ -1,1 +1,0 @@
-{"tmdb_id": 45552, "title": "I Love Julia Bond", "original_title": "I Love Julia Bond", "slug_title": "i-love-julia-bond", "date": "", "genre": "", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/95hApv41lTMBsl6H8b2RDShX8zq.jpg", "actors": [], "comments": [], "recommandations_id": []}

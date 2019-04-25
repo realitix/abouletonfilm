@@ -1,1 +1,0 @@
-{"tmdb_id": 348885, "title": "Voices from the Waves - Shinchimachi", "original_title": "Voices from the Waves - Shinchimachi", "slug_title": "voices-from-the-waves-shinchimachi", "date": "2013-11-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

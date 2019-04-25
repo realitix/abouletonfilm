@@ -1,1 +1,0 @@
-{"tmdb_id": 390454, "title": "U-864: Hitler's Last Deadly Secret", "original_title": "U-864: Hitler's Last Deadly Secret", "slug_title": "u-864-hitler-s-last-deadly-secret", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vr4Xamu9TyF7IgcHgH6qR67k4WV.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 69959, "title": "Serengeti", "original_title": "Serengeti", "slug_title": "serengeti", "date": "2011-02-03", "genre": "Documentaire", "score": "5.6/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n5k4OhOyvIlQ2uk52VPwelOpprD.jpg", "actors": ["Hardy Kr\u00fcger Jr. (Narrator)"], "comments": [], "recommandations_id": []}

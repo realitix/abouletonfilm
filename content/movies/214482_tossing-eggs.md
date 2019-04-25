@@ -1,1 +1,0 @@
-{"tmdb_id": 214482, "title": "Tossing Eggs", "original_title": "Tossing Eggs", "slug_title": "tossing-eggs", "date": "1902-04-14", "genre": "", "score": "4.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

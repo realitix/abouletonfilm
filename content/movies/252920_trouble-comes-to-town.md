@@ -1,1 +1,0 @@
-{"tmdb_id": 252920, "title": "Trouble Comes to Town", "original_title": "Trouble Comes to Town", "slug_title": "trouble-comes-to-town", "date": "1973-01-11", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lloyd Bridges (Sheriff Porter Murdock)", "Pat Hingle (Cecil Tabor)"], "comments": [], "recommandations_id": []}

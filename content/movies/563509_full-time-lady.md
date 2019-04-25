@@ -1,1 +1,0 @@
-{"tmdb_id": 563509, "title": "Full Time Lady", "original_title": "Full Time Lady", "slug_title": "full-time-lady", "date": "2018-11-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uWshwC9ASUi70RGTOvSDEADbJDX.jpg", "actors": ["Sampo Marjomaa ()"], "comments": [], "recommandations_id": []}

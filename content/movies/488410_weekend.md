@@ -1,1 +1,0 @@
-{"tmdb_id": 488410, "title": "Weekend", "original_title": "Haftasonu", "slug_title": "weekend", "date": "2016-05-25", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v7TWdT9XMfqWvveg4usR0t3RDFR.jpg", "actors": ["Izel Seylani (Hasan)", "Oya Gurel (Mother)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 123247, "title": "Van Morrison: Under Review: 1964-1974", "original_title": "Van Morrison: Under Review: 1964-1974", "slug_title": "van-morrison-under-review-1964-1974", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Van Morrison ()"], "comments": [], "recommandations_id": []}

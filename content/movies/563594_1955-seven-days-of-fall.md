@@ -1,1 +1,0 @@
-{"tmdb_id": 563594, "title": "1955, Seven Days of Fall", "original_title": "1955, Seven Days of Fall", "slug_title": "1955-seven-days-of-fall", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

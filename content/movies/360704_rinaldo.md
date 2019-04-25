@@ -1,1 +1,0 @@
-{"tmdb_id": 360704, "title": "Rinaldo", "original_title": "Rinaldo", "slug_title": "rinaldo", "date": "2012-09-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t8obcIh4Nlg5DMlUpv5c3rC3kbS.jpg", "actors": [], "comments": [], "recommandations_id": []}

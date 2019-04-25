@@ -1,1 +1,0 @@
-{"tmdb_id": 518791, "title": "Blessed Avenue", "original_title": "Blessed Avenue", "slug_title": "blessed-avenue", "date": "2018-03-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dygNAc4drvpqRRhLx6NJgWGva1f.jpg", "actors": [], "comments": [], "recommandations_id": []}

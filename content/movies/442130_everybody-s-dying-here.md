@@ -1,1 +1,0 @@
-{"tmdb_id": 442130, "title": "Everybody's dying here", "original_title": "Todos est\u00e1n muriendo aqu\u00ed", "slug_title": "everybody-s-dying-here", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y14CevUvku43b4HMWfYbHMSGkIm.jpg", "actors": [], "comments": [], "recommandations_id": []}

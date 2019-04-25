@@ -1,1 +1,0 @@
-{"tmdb_id": 344422, "title": "Mixing in Mexico", "original_title": "Mixing in Mexico", "slug_title": "mixing-in-mexico", "date": "1925-11-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

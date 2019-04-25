@@ -1,1 +1,0 @@
-{"tmdb_id": 406915, "title": "Baraka (Blessing)", "original_title": "Baraka (Blessing)", "slug_title": "baraka-blessing", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 159027, "title": "Ruth Etting in Favorite Melodies", "original_title": "Ruth Etting in Favorite Melodies", "slug_title": "ruth-etting-in-favorite-melodies", "date": "1929-03-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ruth Etting (Herself)"], "comments": [], "recommandations_id": []}

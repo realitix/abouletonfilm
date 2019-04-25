@@ -1,1 +1,0 @@
-{"tmdb_id": 277464, "title": "The Spike Jones Story", "original_title": "The Spike Jones Story", "slug_title": "the-spike-jones-story", "date": "1988-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1mVgfC51mGDExJ2lFESNKVcQYiR.jpg", "actors": [], "comments": [], "recommandations_id": []}

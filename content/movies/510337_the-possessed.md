@@ -1,1 +1,0 @@
-{"tmdb_id": 510337, "title": "The Possessed", "original_title": "\u4e2d\u90aa", "slug_title": "the-possessed", "date": "2018-04-04", "genre": "Horreur", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ac90ATiK49izW2ASA0boLo77GuX.jpg", "actors": [], "comments": [], "recommandations_id": []}

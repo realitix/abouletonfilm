@@ -1,1 +1,0 @@
-{"tmdb_id": 280711, "title": "Knatte, Fnatte & Tjatte p\u00e5 \u00c4ventyr - Vol 1", "original_title": "Knatte, Fnatte & Tjatte p\u00e5 \u00c4ventyr - Vol 1", "slug_title": "knatte-fnatte-tjatte-pa-aventyr-vol-1", "date": "2007-07-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

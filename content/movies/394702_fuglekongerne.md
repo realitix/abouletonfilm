@@ -1,1 +1,0 @@
-{"tmdb_id": 394702, "title": "FugleKongerne", "original_title": "FugleKongerne", "slug_title": "fuglekongerne", "date": "2012-09-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

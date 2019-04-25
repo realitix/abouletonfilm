@@ -1,1 +1,0 @@
-{"tmdb_id": 317975, "title": "Bumba - Bumbalu", "original_title": "Bumba - Bumbalu", "slug_title": "bumba-bumbalu", "date": "2005-09-01", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/HZqycNlmGmgwfDsma2uqXvwEzk.jpg", "actors": [], "comments": [], "recommandations_id": []}

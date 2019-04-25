@@ -1,1 +1,0 @@
-{"tmdb_id": 563604, "title": "Dear Comrade", "original_title": "Dear Comrade", "slug_title": "dear-comrade", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fPIs56wemNMMzOFerEbx1g0K10d.jpg", "actors": ["Vijay Devarakonda ()", "Rashmika Mandanna ()"], "comments": [], "recommandations_id": []}

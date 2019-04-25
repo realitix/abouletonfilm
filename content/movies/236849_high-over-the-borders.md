@@ -1,1 +1,0 @@
-{"tmdb_id": 236849, "title": "High Over the Borders", "original_title": "High Over the Borders", "slug_title": "high-over-the-borders", "date": "1942-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ldSpwIAaahxFgFOZ43x7BOMaVnU.jpg", "actors": [], "comments": [], "recommandations_id": []}

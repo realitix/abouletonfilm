@@ -1,1 +1,0 @@
-{"tmdb_id": 509361, "title": "Billy Graham: An Extraordinary Journey", "original_title": "Billy Graham: An Extraordinary Journey", "slug_title": "billy-graham-an-extraordinary-journey", "date": "2018-03-05", "genre": "Documentaire", "score": "6.8/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

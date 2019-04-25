@@ -1,1 +1,0 @@
-{"tmdb_id": 511364, "title": "Who Am I to Stop it", "original_title": "Who Am I to Stop it", "slug_title": "who-am-i-to-stop-it", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Ra9JoQdK8j5DdnhWXw8fta93AA.jpg", "actors": [], "comments": [], "recommandations_id": []}

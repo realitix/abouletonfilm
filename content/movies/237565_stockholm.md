@@ -1,1 +1,0 @@
-{"tmdb_id": 237565, "title": "Stockholm", "original_title": "Stockholm", "slug_title": "stockholm", "date": "2012-09-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3CJJPLEmGB4zMLP7s9eW3mNFRij.jpg", "actors": ["Ton Kas (Ben)", "Kempi (Franklin)", "Lili Kooijman (Martha)"], "comments": [], "recommandations_id": []}

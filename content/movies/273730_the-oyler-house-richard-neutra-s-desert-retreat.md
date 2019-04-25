@@ -1,1 +1,0 @@
-{"tmdb_id": 273730, "title": "The Oyler House: Richard Neutra's Desert Retreat", "original_title": "The Oyler House: Richard Neutra's Desert Retreat", "slug_title": "the-oyler-house-richard-neutra-s-desert-retreat", "date": "2014-02-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 558627, "title": "Gdansk Queen", "original_title": "Gdansk Queen", "slug_title": "gdansk-queen", "date": "2006-10-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wcv4h90F1VUsfGpT5P6L8znQV6b.jpg", "actors": [], "comments": [], "recommandations_id": []}

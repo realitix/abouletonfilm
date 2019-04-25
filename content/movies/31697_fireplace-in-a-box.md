@@ -1,1 +1,0 @@
-{"tmdb_id": 31697, "title": "Fireplace in a Box", "original_title": "Fireplace in a Box", "slug_title": "fireplace-in-a-box", "date": "2007-08-07", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lOwAhI44l9DVOp2uOmumUFyqjxa.jpg", "actors": [], "comments": [], "recommandations_id": []}

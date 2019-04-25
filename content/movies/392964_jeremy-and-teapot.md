@@ -1,1 +1,0 @@
-{"tmdb_id": 392964, "title": "Jeremy and Teapot", "original_title": "Jeremy and Teapot", "slug_title": "jeremy-and-teapot", "date": "1976-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dLSSq5H6kNp7T41OEVTFKSGk5Cm.jpg", "actors": [], "comments": [], "recommandations_id": []}

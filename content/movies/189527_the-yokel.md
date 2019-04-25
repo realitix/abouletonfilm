@@ -1,1 +1,0 @@
-{"tmdb_id": 189527, "title": "The Yokel", "original_title": "The Yokel", "slug_title": "the-yokel", "date": "1926-10-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["'Snub' Pollard ()"], "comments": [], "recommandations_id": []}

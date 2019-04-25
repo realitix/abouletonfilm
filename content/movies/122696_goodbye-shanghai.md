@@ -1,1 +1,0 @@
-{"tmdb_id": 122696, "title": "Goodbye Shanghai", "original_title": "Goodbye Shanghai", "slug_title": "goodbye-shanghai", "date": "2010-06-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rr92ZFgfj2pBpFUNfB9vcuQ9Pm7.jpg", "actors": [], "comments": [], "recommandations_id": []}

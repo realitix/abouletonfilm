@@ -1,1 +1,0 @@
-{"tmdb_id": 537989, "title": "Why Is A Good Man So Hard to Find?", "original_title": "Why Is A Good Man So Hard to Find?", "slug_title": "why-is-a-good-man-so-hard-to-find", "date": "2018-01-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Linda Carone ()"], "comments": [], "recommandations_id": []}

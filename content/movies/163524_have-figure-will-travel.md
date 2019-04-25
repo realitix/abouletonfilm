@@ -1,1 +1,0 @@
-{"tmdb_id": 163524, "title": "Have Figure, Will Travel", "original_title": "Have Figure, Will Travel", "slug_title": "have-figure-will-travel", "date": "1963-03-13", "genre": "", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qTlaGTxRTjiM4iK8tSYuLyx91xO.jpg", "actors": [], "comments": [], "recommandations_id": []}

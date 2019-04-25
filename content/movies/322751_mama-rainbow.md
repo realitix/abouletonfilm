@@ -1,1 +1,0 @@
-{"tmdb_id": 322751, "title": "Mama Rainbow", "original_title": "\u5f69\u8679\u4f34\u6211\u5fc3", "slug_title": "mama-rainbow", "date": "2012-11-17", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3Uih2Jmyn8iA4PtMwRXcSYAQFHP.jpg", "actors": [], "comments": [], "recommandations_id": []}

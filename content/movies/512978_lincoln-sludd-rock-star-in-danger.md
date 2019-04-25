@@ -1,1 +1,0 @@
-{"tmdb_id": 512978, "title": "Lincoln Sludd - Rock Star in Danger", "original_title": "Lincoln Sludd - Rock Star in Danger", "slug_title": "lincoln-sludd-rock-star-in-danger", "date": "1979-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 285404, "title": "Alb\u00e9niz", "original_title": "Alb\u00e9niz", "slug_title": "albeniz", "date": "1947-08-05", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AwfMfyNSJVSZxb5C3lxmrkUBgsS.jpg", "actors": ["Pedro L\u00f3pez Lagar (Isaac Alb\u00e9niz)"], "comments": [], "recommandations_id": []}

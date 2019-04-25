@@ -1,1 +1,0 @@
-{"tmdb_id": 587466, "title": "The Drowning Room", "original_title": "The Drowning Room", "slug_title": "the-drowning-room", "date": "2000-01-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

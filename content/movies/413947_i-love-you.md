@@ -1,1 +1,0 @@
-{"tmdb_id": 413947, "title": "I Love You", "original_title": "I Love You", "slug_title": "i-love-you", "date": "2007-09-03", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Marilia Nuvunga ()", "Seane Jussefa ()", "Marilia Nuvunga (Josefina)", "Seane Jussefa (Madala)"], "comments": [], "recommandations_id": []}

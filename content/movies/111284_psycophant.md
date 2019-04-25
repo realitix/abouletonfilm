@@ -1,1 +1,0 @@
-{"tmdb_id": 111284, "title": "Psycophant", "original_title": "Psycophant", "slug_title": "psycophant", "date": "2012-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dd7HQFnDVHtG9FD86Ql9YXycuyK.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 325012, "title": "Feel the Bass of Bassjackers", "original_title": "Feel the Bass of Bassjackers", "slug_title": "feel-the-bass-of-bassjackers", "date": "2014-12-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

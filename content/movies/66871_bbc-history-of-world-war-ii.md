@@ -1,1 +1,0 @@
-{"tmdb_id": 66871, "title": "BBC History of World War II", "original_title": "BBC History of World War II", "slug_title": "bbc-history-of-world-war-ii", "date": "", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lQxXMls5AA7CeJAgCGkbGeZyrvn.jpg", "actors": [], "comments": [], "recommandations_id": []}

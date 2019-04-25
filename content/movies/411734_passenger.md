@@ -1,1 +1,0 @@
-{"tmdb_id": 411734, "title": "Passenger", "original_title": "Pasajera", "slug_title": "passenger", "date": "2016-06-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Estephania Bonnett Alonso ()", "Gustavo Fleitas ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 103892, "title": "Los caminos de Don Quijote", "original_title": "Los caminos de Don Quijote", "slug_title": "los-caminos-de-don-quijote", "date": "1961-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cxIxJxAGxdhLcJUMLbq3iEDJ73p.jpg", "actors": [], "comments": [], "recommandations_id": []}

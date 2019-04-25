@@ -1,1 +1,0 @@
-{"tmdb_id": 44757, "title": "Inheritance", "original_title": "Inheritance", "slug_title": "inheritance", "date": "2006-06-25", "genre": "Documentaire", "score": "6.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mlPZ9defKqjNAdkdWnghyyp7YA6.jpg", "actors": ["Monika Goeth Hertwig (self)"], "comments": [], "recommandations_id": [30068]}

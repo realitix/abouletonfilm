@@ -1,1 +1,0 @@
-{"tmdb_id": 249367, "title": "Monsters & Maniacs", "original_title": "Monsters & Maniacs", "slug_title": "monsters-maniacs", "date": "1988-01-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iIUbqDvVjlT5pvGxijZzzeAgKLP.jpg", "actors": [], "comments": [], "recommandations_id": []}

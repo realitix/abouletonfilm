@@ -1,1 +1,0 @@
-{"tmdb_id": 420651, "title": "The Bell", "original_title": "The Bell", "slug_title": "the-bell", "date": "1989-10-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Cordelia Gonz\u00e1lez ()", "Maria Esther Lasalle ()"], "comments": [], "recommandations_id": []}

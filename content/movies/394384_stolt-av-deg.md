@@ -1,1 +1,0 @@
-{"tmdb_id": 394384, "title": "Stolt av deg", "original_title": "Stolt av deg", "slug_title": "stolt-av-deg", "date": "2016-04-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

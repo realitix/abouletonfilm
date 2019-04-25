@@ -1,1 +1,0 @@
-{"tmdb_id": 437631, "title": "N\u00e5r naboens datter bliver muslim", "original_title": "N\u00e5r naboens datter bliver muslim", "slug_title": "nar-naboens-datter-bliver-muslim", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

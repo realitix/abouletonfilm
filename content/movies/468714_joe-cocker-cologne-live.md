@@ -1,1 +1,0 @@
-{"tmdb_id": 468714, "title": "Joe Cocker - Cologne Live", "original_title": "Joe Cocker - Cologne Live", "slug_title": "joe-cocker-cologne-live", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oJR63QxpFKZvDDtwYDeZ3W3u6Mv.jpg", "actors": [], "comments": [], "recommandations_id": []}

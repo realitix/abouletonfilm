@@ -1,1 +1,0 @@
-{"tmdb_id": 240959, "title": "Ass-Dur Live", "original_title": "Ass-Dur Live", "slug_title": "ass-dur-live", "date": "2010-04-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vPeWDjJIHs5u23WitGo0fLRLwVt.jpg", "actors": [], "comments": [], "recommandations_id": []}

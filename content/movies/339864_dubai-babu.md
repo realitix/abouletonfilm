@@ -1,1 +1,0 @@
-{"tmdb_id": 339864, "title": "Dubai Babu", "original_title": "Dubai Babu", "slug_title": "dubai-babu", "date": "2009-05-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nIfn8q3HFMm9vYQZkYdmUdYb9At.jpg", "actors": ["Upendra ()", "Nikita Thukral ()", "Saloni Aswani ()"], "comments": [], "recommandations_id": []}

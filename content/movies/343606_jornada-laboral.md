@@ -1,1 +1,0 @@
-{"tmdb_id": 343606, "title": "Jornada laboral", "original_title": "Jornada laboral", "slug_title": "jornada-laboral", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

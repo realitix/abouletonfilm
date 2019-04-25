@@ -1,1 +1,0 @@
-{"tmdb_id": 445616, "title": "Four Steps", "original_title": "Keturi zingsniai", "slug_title": "four-steps", "date": "2009-01-01", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tkL7ZbV24tYkR8jrJ8zdDsDVcEH.jpg", "actors": [], "comments": [], "recommandations_id": []}

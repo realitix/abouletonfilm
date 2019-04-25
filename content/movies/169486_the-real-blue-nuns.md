@@ -1,1 +1,0 @@
-{"tmdb_id": 169486, "title": "The Real Blue Nuns", "original_title": "The Real Blue Nuns", "slug_title": "the-real-blue-nuns", "date": "2006-10-16", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/97RVvbwahBdcHX2wesVR1hOIFdK.jpg", "actors": [], "comments": [], "recommandations_id": []}

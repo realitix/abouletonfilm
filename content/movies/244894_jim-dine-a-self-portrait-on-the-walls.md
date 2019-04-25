@@ -1,1 +1,0 @@
-{"tmdb_id": 244894, "title": "Jim Dine: A Self-Portrait on the Walls", "original_title": "Jim Dine: A Self-Portrait on the Walls", "slug_title": "jim-dine-a-self-portrait-on-the-walls", "date": "1995-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jim Dine (Himself)"], "comments": [], "recommandations_id": []}

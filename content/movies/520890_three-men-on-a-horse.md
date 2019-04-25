@@ -1,1 +1,0 @@
-{"tmdb_id": 520890, "title": "Three Men on a Horse", "original_title": "Trois hommes sur un cheval", "slug_title": "three-men-on-a-horse", "date": "1969-12-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i2cTbrTQ534tCqbwnl9ZndSADy7.jpg", "actors": [], "comments": [], "recommandations_id": []}

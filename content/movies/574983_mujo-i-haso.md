@@ -1,1 +1,0 @@
-{"tmdb_id": 574983, "title": "Mujo i Haso", "original_title": "Mujo i Haso", "slug_title": "mujo-i-haso", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p1PhEEqvjEnYl5wHGQVnv1SvKy7.jpg", "actors": [], "comments": [], "recommandations_id": []}

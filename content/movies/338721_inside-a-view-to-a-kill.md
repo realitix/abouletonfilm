@@ -1,1 +1,0 @@
-{"tmdb_id": 338721, "title": "Inside 'A View to a Kill'", "original_title": "Inside 'A View to a Kill'", "slug_title": "inside-a-view-to-a-kill", "date": "2000-01-01", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/22nv9XmGve3BseflBo9Ij0e3C2S.jpg", "actors": [], "comments": [], "recommandations_id": []}

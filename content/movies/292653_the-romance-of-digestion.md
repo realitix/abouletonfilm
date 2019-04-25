@@ -1,1 +1,0 @@
-{"tmdb_id": 292653, "title": "The Romance of Digestion", "original_title": "The Romance of Digestion", "slug_title": "the-romance-of-digestion", "date": "1937-03-13", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Robert Benchley (Joe Doakes)"], "comments": [], "recommandations_id": []}

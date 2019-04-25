@@ -1,1 +1,0 @@
-{"tmdb_id": 63427, "title": "Tracking Down Maggie", "original_title": "Tracking Down Maggie", "slug_title": "tracking-down-maggie", "date": "1994-01-01", "genre": "Documentaire", "score": "8.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jphfLuHH08CYpcuCxmmksGINp5I.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 175234, "title": "Money to Burn", "original_title": "Money to Burn", "slug_title": "money-to-burn", "date": "1920-08-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["'Snub' Pollard ()", "Marie Mosquini ()"], "comments": [], "recommandations_id": []}

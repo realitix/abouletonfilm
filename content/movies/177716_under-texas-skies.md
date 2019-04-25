@@ -1,1 +1,0 @@
-{"tmdb_id": 177716, "title": "Under Texas Skies", "original_title": "Under Texas Skies", "slug_title": "under-texas-skies", "date": "1930-11-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

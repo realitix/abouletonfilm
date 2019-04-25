@@ -1,1 +1,0 @@
-{"tmdb_id": 485418, "title": "Mission War Flames", "original_title": "Mission War Flames", "slug_title": "mission-war-flames", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3PKiJ5ZJBnupacSinEbCfkdqa4o.jpg", "actors": [], "comments": [], "recommandations_id": []}

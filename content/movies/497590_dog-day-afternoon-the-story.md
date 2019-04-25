@@ -1,1 +1,0 @@
-{"tmdb_id": 497590, "title": "'Dog Day Afternoon': The Story", "original_title": "'Dog Day Afternoon': The Story", "slug_title": "dog-day-afternoon-the-story", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

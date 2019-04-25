@@ -1,1 +1,0 @@
-{"tmdb_id": 66419, "title": "Sattam En Kayil", "original_title": "Sattam En Kayil", "slug_title": "sattam-en-kayil", "date": "1978-07-01", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kamal Haasan ()", "Sripriya ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 331857, "title": "Cordonia", "original_title": "Cordonia", "slug_title": "cordonia", "date": "1984-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Reuven Dayan ()", "Yehudit Millo ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 413867, "title": "Shot Open", "original_title": "Shot Open", "slug_title": "shot-open", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Maeve Dermody (Amelia Walsh)", "Aden Young (Dodek)", "William Zappa (Jack Walsh)"], "comments": [], "recommandations_id": []}

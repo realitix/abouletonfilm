@@ -1,1 +1,0 @@
-{"tmdb_id": 383509, "title": "Post Scriptum", "original_title": "Post Scriptum", "slug_title": "post-scriptum", "date": "2009-06-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wsDui1V8UaS4lzo0Gsdgu1equp1.jpg", "actors": [], "comments": [], "recommandations_id": []}

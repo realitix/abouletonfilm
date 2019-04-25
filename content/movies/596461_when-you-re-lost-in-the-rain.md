@@ -1,1 +1,0 @@
-{"tmdb_id": 596461, "title": "When You're Lost in the Rain", "original_title": "When You're Lost in the Rain", "slug_title": "when-you-re-lost-in-the-rain", "date": "2018-08-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

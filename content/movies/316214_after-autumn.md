@@ -1,1 +1,0 @@
-{"tmdb_id": 316214, "title": "After Autumn", "original_title": "After Autumn", "slug_title": "after-autumn", "date": "2007-11-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

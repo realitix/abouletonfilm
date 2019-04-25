@@ -1,1 +1,0 @@
-{"tmdb_id": 511518, "title": "Moon Man", "original_title": "Moon Man", "slug_title": "moon-man", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6hMKg0HMtZpDc6nM1a22NtvYjVU.jpg", "actors": [], "comments": [], "recommandations_id": []}

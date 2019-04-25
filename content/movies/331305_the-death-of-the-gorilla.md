@@ -1,1 +1,0 @@
-{"tmdb_id": 331305, "title": "The Death of the Gorilla", "original_title": "The Death of the Gorilla", "slug_title": "the-death-of-the-gorilla", "date": "1966-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5Ll2u79HB82THsR6mihIHyAgAhe.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 533748, "title": "Craig's Pathetic Freakout", "original_title": "Craig's Pathetic Freakout", "slug_title": "craig-s-pathetic-freakout", "date": "2018-06-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t8hBbFPuVm8xbDdCmr2ynMQ76k3.jpg", "actors": [], "comments": [], "recommandations_id": []}

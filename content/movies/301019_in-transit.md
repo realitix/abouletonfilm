@@ -1,1 +1,0 @@
-{"tmdb_id": 301019, "title": "In Transit", "original_title": "In Transit", "slug_title": "in-transit", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

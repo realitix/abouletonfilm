@@ -1,1 +1,0 @@
-{"tmdb_id": 304644, "title": "Yeh Kaisa Farz", "original_title": "Yeh Kaisa Farz", "slug_title": "yeh-kaisa-farz", "date": "1985-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

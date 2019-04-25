@@ -1,1 +1,0 @@
-{"tmdb_id": 326709, "title": "Black Girl in Suburbia", "original_title": "Black Girl in Suburbia", "slug_title": "black-girl-in-suburbia", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

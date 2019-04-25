@@ -1,1 +1,0 @@
-{"tmdb_id": 37116, "title": "Optimistic?", "original_title": "Optimistic?", "slug_title": "optimistic", "date": "2007-08-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nwPF8chtdAoq8M4HEuc4ebGlQfd.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 60697, "title": "Bellator 39", "original_title": "Bellator 39", "slug_title": "bellator-39", "date": "2011-04-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8oYZw4GTWk4Li1rGNrTVboxfGDi.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 387223, "title": "Mackinac Island", "original_title": "Mackinac Island", "slug_title": "mackinac-island", "date": "1944-03-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hXkZH46ps9C7cqV8cl6SLVqpmKp.jpg", "actors": ["James A. FitzPatrick ()"], "comments": [], "recommandations_id": []}

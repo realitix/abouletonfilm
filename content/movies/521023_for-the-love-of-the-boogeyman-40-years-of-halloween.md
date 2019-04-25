@@ -1,1 +1,0 @@
-{"tmdb_id": 521023, "title": "For the Love of the Boogeyman: 40 Years of Halloween", "original_title": "For the Love of the Boogeyman: 40 Years of Halloween", "slug_title": "for-the-love-of-the-boogeyman-40-years-of-halloween", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

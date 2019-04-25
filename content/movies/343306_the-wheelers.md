@@ -1,1 +1,0 @@
-{"tmdb_id": 343306, "title": "The Wheelers", "original_title": "The Wheelers", "slug_title": "the-wheelers", "date": "2014-06-06", "genre": "Action / Animation / Myst\u00e8re", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vnihmxFmM251aTbqdxFzfdzWxOZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

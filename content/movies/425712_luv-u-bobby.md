@@ -1,1 +1,1 @@
-{"tmdb_id": 425712, "title": "Luv U Bobby", "original_title": "Luv U Bobby", "slug_title": "luv-u-bobby", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 425712, "title": "Luv U Bobby", "original_title": "Luv U Bobby", "slug_title": "luv-u-bobby", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Luv U Bobby 2009 Movie", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

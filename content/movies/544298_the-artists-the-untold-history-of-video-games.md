@@ -1,1 +1,0 @@
-{"tmdb_id": 544298, "title": "The Artists: The Untold History of Video Games", "original_title": "The Artists: The Untold History of Video Games", "slug_title": "the-artists-the-untold-history-of-video-games", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

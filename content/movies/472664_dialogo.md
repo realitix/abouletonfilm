@@ -1,1 +1,0 @@
-{"tmdb_id": 472664, "title": "Di\u00e1logo", "original_title": "Di\u00e1logo", "slug_title": "dialogo", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dS0tJ39DlERi3NU5xSN6IGJ1ENB.jpg", "actors": ["Allan Souza Lima (Caio)", "Diogo Salles (Fernando)"], "comments": [], "recommandations_id": []}

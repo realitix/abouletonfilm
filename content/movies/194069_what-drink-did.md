@@ -1,1 +1,0 @@
-{"tmdb_id": 194069, "title": "What Drink Did", "original_title": "What Drink Did", "slug_title": "what-drink-did", "date": "1909-06-02", "genre": "", "score": "4.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gnUufcbtpKaRvNDl9bTDPpFwnSq.jpg", "actors": [], "comments": [], "recommandations_id": [189998, 188422]}

@@ -1,1 +1,0 @@
-{"tmdb_id": 507554, "title": "Drifter", "original_title": "Drifter", "slug_title": "drifter", "date": "2007-10-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nSh0G913MwFJA4CqM1yH7ITL6de.jpg", "actors": [], "comments": [], "recommandations_id": []}

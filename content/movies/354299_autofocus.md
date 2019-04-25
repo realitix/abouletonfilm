@@ -1,1 +1,0 @@
-{"tmdb_id": 354299, "title": "Autofocus", "original_title": "Autofokus", "slug_title": "autofocus", "date": "2013-08-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/18cp5Myqi0CKT6NehzkfYpRL7gW.jpg", "actors": [], "comments": [], "recommandations_id": []}

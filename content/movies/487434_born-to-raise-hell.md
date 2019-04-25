@@ -1,1 +1,0 @@
-{"tmdb_id": 487434, "title": "Born to Raise Hell", "original_title": "Born to Raise Hell", "slug_title": "born-to-raise-hell", "date": "1975-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AlV4aXmwC5ivgzdCYYP3vrDOY19.jpg", "actors": ["Val Martin (Sadist)"], "comments": [], "recommandations_id": []}

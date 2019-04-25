@@ -1,1 +1,0 @@
-{"tmdb_id": 421045, "title": "Contestant #4", "original_title": "Contestant #4", "slug_title": "contestant-4", "date": "2016-10-16", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rSJJukln68AdBhUUjInY1LvIpEB.jpg", "actors": ["Joel Saracho ()", "Elijah Canlas ()"], "comments": [], "recommandations_id": []}

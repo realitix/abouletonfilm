@@ -1,1 +1,0 @@
-{"tmdb_id": 476296, "title": "The Song is Love", "original_title": "The Song is Love", "slug_title": "the-song-is-love", "date": "1969-01-01", "genre": "Musique / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

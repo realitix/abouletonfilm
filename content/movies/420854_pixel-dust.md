@@ -1,1 +1,0 @@
-{"tmdb_id": 420854, "title": "Pixel Dust", "original_title": "Pixel Dust", "slug_title": "pixel-dust", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/24Gm1Z8dgOcArq7s5G8XidAiakq.jpg", "actors": [], "comments": [], "recommandations_id": []}

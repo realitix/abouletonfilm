@@ -1,1 +1,0 @@
-{"tmdb_id": 276119, "title": "Folia no Morro", "original_title": "Folia no Morro", "slug_title": "folia-no-morro", "date": "2008-11-17", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mestre Jos\u00e9 Diniz ()", "Ronaldo Silva ()", "Juninho ()"], "comments": [], "recommandations_id": []}

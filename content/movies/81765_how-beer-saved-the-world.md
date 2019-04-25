@@ -1,1 +1,0 @@
-{"tmdb_id": 81765, "title": "How Beer Saved the World", "original_title": "How Beer Saved the World", "slug_title": "how-beer-saved-the-world", "date": "2011-01-30", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t4Lf8xroxujJPhVTZHuXwRIvzxl.jpg", "actors": [], "comments": [], "recommandations_id": [13359]}

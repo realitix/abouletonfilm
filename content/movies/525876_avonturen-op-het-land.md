@@ -1,1 +1,0 @@
-{"tmdb_id": 525876, "title": "Avonturen op het land", "original_title": "Avonturen op het land", "slug_title": "avonturen-op-het-land", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 539023, "title": "Pantins d'amour", "original_title": "Pantins d'amour", "slug_title": "pantins-d-amour", "date": "1937-04-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

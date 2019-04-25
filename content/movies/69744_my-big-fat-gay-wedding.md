@@ -1,1 +1,0 @@
-{"tmdb_id": 69744, "title": "My Big Fat Gay Wedding", "original_title": "My Big Fat Gay Wedding", "slug_title": "my-big-fat-gay-wedding", "date": "2010-10-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tUhzu9gD3EaEHGEmQgqqxemSanh.jpg", "actors": [], "comments": [], "recommandations_id": []}

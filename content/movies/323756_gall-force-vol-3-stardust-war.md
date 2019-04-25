@@ -1,1 +1,0 @@
-{"tmdb_id": 323756, "title": "Gall Force: Vol. 3: Stardust War", "original_title": "Gall Force: Vol. 3: Stardust War", "slug_title": "gall-force-vol-3-stardust-war", "date": "1988-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

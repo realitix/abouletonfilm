@@ -1,1 +1,0 @@
-{"tmdb_id": 519554, "title": "Tungrus", "original_title": "Tungrus", "slug_title": "tungrus", "date": "2018-11-07", "genre": "Com\u00e9die / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vVtMgmnO8L3y7JAChN3yF7pZJyI.jpg", "actors": [], "comments": [], "recommandations_id": []}

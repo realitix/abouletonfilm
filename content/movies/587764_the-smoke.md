@@ -1,1 +1,0 @@
-{"tmdb_id": 587764, "title": "The Smoke", "original_title": "The Smoke", "slug_title": "the-smoke", "date": "2019-03-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 198438, "title": "Broken Highway", "original_title": "Broken Highway", "slug_title": "broken-highway", "date": "1993-06-02", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7TEKmMW4dbsaYhTA3X4qz8ucPO4.jpg", "actors": [], "comments": [], "recommandations_id": []}

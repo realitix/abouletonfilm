@@ -1,1 +1,0 @@
-{"tmdb_id": 272702, "title": "Sugar Mommas", "original_title": "Sugar Mommas", "slug_title": "sugar-mommas", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

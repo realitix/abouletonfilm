@@ -1,1 +1,0 @@
-{"tmdb_id": 271609, "title": "Rufus Reid: Live in Vienna", "original_title": "Rufus Reid: Live in Vienna", "slug_title": "rufus-reid-live-in-vienna", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

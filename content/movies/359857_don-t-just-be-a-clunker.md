@@ -1,1 +1,0 @@
-{"tmdb_id": 359857, "title": "Don't Just be a Clunker", "original_title": "Don't Just be a Clunker", "slug_title": "don-t-just-be-a-clunker", "date": "1975-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nD301anMvc0EnVPjDQwUUDSOe7Y.jpg", "actors": [], "comments": [], "recommandations_id": []}

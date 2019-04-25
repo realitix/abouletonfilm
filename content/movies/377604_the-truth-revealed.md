@@ -1,1 +1,0 @@
-{"tmdb_id": 377604, "title": "The Truth Revealed", "original_title": "The Truth Revealed", "slug_title": "the-truth-revealed", "date": "1910-01-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

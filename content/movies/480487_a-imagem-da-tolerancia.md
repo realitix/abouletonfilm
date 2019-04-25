@@ -1,1 +1,0 @@
-{"tmdb_id": 480487, "title": "A Imagem da Toler\u00e2ncia", "original_title": "A Imagem da Toler\u00e2ncia", "slug_title": "a-imagem-da-tolerancia", "date": "2017-10-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bHg4WQDMPvdocO6sPMlEj6oNmTs.jpg", "actors": [], "comments": [], "recommandations_id": []}

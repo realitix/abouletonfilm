@@ -1,1 +1,0 @@
-{"tmdb_id": 526756, "title": "Teddy Pendergrass: Live in '82", "original_title": "Teddy Pendergrass: Live in '82", "slug_title": "teddy-pendergrass-live-in-82", "date": "2011-03-29", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Teddy Pendergrass (Himself)"], "comments": [], "recommandations_id": []}

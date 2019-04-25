@@ -1,1 +1,0 @@
-{"tmdb_id": 368030, "title": "Chinese Procession", "original_title": "Chinese Procession", "slug_title": "chinese-procession", "date": "1898-02-12", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

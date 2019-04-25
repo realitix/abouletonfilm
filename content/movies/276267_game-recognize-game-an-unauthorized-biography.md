@@ -1,1 +1,0 @@
-{"tmdb_id": 276267, "title": "Game Recognize Game: An Unauthorized Biography", "original_title": "Game Recognize Game: An Unauthorized Biography", "slug_title": "game-recognize-game-an-unauthorized-biography", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

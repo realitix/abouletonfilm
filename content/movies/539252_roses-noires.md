@@ -1,1 +1,0 @@
-{"tmdb_id": 539252, "title": "Roses noires", "original_title": "Roses noires", "slug_title": "roses-noires", "date": "1936-02-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mji4bdRP0ZO2bZCwxfpDOqrhwCG.jpg", "actors": [], "comments": [], "recommandations_id": []}

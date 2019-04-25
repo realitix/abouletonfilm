@@ -1,1 +1,1 @@
-{"tmdb_id": 398835, "title": "Ambrosia", "original_title": "Ambrosia", "slug_title": "ambrosia", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 398835, "title": "Ambrosia", "original_title": "Ambrosia", "slug_title": "ambrosia", "date": "2014-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Short film by Lewis Klahr.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

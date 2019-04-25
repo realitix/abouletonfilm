@@ -1,1 +1,0 @@
-{"tmdb_id": 275884, "title": "The Last of the Gladiators", "original_title": "The Last of the Gladiators", "slug_title": "the-last-of-the-gladiators", "date": "1988-05-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

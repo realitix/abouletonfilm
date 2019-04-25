@@ -1,1 +1,0 @@
-{"tmdb_id": 351407, "title": "Bridge That Gap", "original_title": "Bridge That Gap", "slug_title": "bridge-that-gap", "date": "1965-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

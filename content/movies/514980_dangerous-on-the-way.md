@@ -1,1 +1,0 @@
-{"tmdb_id": 514980, "title": "Dangerous on the Way", "original_title": "Dangerous on the Way", "slug_title": "dangerous-on-the-way", "date": "2018-02-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vFvqoPrMEvn3OjawT1VX3XEdFq0.jpg", "actors": [], "comments": [], "recommandations_id": []}

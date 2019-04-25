@@ -1,1 +1,0 @@
-{"tmdb_id": 305084, "title": "Fragrance", "original_title": "Fragrance", "slug_title": "fragrance", "date": "1991-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

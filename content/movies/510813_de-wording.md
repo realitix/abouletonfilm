@@ -1,1 +1,0 @@
-{"tmdb_id": 510813, "title": "De wording", "original_title": "De wording", "slug_title": "de-wording", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 530918, "title": "Maxim Xul", "original_title": "Maxim Xul", "slug_title": "maxim-xul", "date": "1991-05-30", "genre": "Horreur / Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8nX3kZfzibyOrpclGNRLSbZHksh.jpg", "actors": ["Adam West ()"], "comments": [], "recommandations_id": []}

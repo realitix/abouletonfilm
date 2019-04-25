@@ -1,1 +1,0 @@
-{"tmdb_id": 447434, "title": "So You Want to Be Popular", "original_title": "So You Want to Be Popular", "slug_title": "so-you-want-to-be-popular", "date": "1949-03-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["George O'Hanlon ()"], "comments": [], "recommandations_id": []}

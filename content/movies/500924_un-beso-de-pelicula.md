@@ -1,1 +1,0 @@
-{"tmdb_id": 500924, "title": "Un beso de pel\u00edcula", "original_title": "Un beso de pel\u00edcula", "slug_title": "un-beso-de-pelicula", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pYfT4TrJwlmWM2VxxuNjcZn2ueA.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 575042, "title": "Moody Movie", "original_title": "Moody Movie", "slug_title": "moody-movie", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

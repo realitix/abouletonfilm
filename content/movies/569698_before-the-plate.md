@@ -1,1 +1,0 @@
-{"tmdb_id": 569698, "title": "Before the Plate", "original_title": "Before the Plate", "slug_title": "before-the-plate", "date": "2018-08-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iAsdCpPagJ6ym52hQm4CrM4gpdN.jpg", "actors": ["John Horne (Himself)"], "comments": [], "recommandations_id": []}

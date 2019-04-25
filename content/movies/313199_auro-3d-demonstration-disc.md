@@ -1,1 +1,0 @@
-{"tmdb_id": 313199, "title": "AURO 3D Demonstration Disc", "original_title": "AURO 3D Demonstration Disc", "slug_title": "auro-3d-demonstration-disc", "date": "2014-12-01", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vMnyWaxPMOuklLJ74cb6mCdUvhM.jpg", "actors": [], "comments": [], "recommandations_id": []}

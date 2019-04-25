@@ -1,1 +1,0 @@
-{"tmdb_id": 321364, "title": "The Mysteries of Egypt: IMAX", "original_title": "The Mysteries of Egypt: IMAX", "slug_title": "the-mysteries-of-egypt-imax", "date": "1999-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lSd1TuePY05koSQ4iqWyj7iw1oT.jpg", "actors": [], "comments": [], "recommandations_id": []}

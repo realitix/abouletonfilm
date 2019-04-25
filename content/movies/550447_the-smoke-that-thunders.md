@@ -1,1 +1,0 @@
-{"tmdb_id": 550447, "title": "The Smoke That Thunders", "original_title": "The Smoke That Thunders", "slug_title": "the-smoke-that-thunders", "date": "", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/c8wELJSaUQbqYUJ2WKf5Ox3sKwi.jpg", "actors": [], "comments": [], "recommandations_id": []}

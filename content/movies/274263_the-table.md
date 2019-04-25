@@ -1,1 +1,0 @@
-{"tmdb_id": 274263, "title": "The Table", "original_title": "The Table", "slug_title": "the-table", "date": "2011-09-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

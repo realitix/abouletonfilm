@@ -1,1 +1,0 @@
-{"tmdb_id": 548736, "title": "Escape of the Living Dead", "original_title": "Escape of the Living Dead", "slug_title": "escape-of-the-living-dead", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

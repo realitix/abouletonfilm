@@ -1,1 +1,0 @@
-{"tmdb_id": 473091, "title": "European Showerbath", "original_title": "European Showerbath", "slug_title": "european-showerbath", "date": "2004-08-29", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fqwBdmOM740BvRLTQViFSoJ9Ngg.jpg", "actors": [], "comments": [], "recommandations_id": []}

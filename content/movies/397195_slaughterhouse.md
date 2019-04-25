@@ -1,1 +1,0 @@
-{"tmdb_id": 397195, "title": "Slaughterhouse", "original_title": "Slaughterhouse", "slug_title": "slaughterhouse", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jk7LsB1u3Pl1XljtkJQrckM5y7U.jpg", "actors": [], "comments": [], "recommandations_id": []}

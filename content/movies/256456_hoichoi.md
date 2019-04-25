@@ -1,1 +1,0 @@
-{"tmdb_id": 256456, "title": "Hoichoi", "original_title": "Hoichoi", "slug_title": "hoichoi", "date": "2013-07-12", "genre": "Com\u00e9die", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rahul Banerjee ()", "Priyanka Sarkar ()", "Paoli Dam ()", "Vikram Chatterjee ()", "Sekhar Das ()"], "comments": [], "recommandations_id": []}

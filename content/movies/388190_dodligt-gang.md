@@ -1,1 +1,0 @@
-{"tmdb_id": 388190, "title": "d\u00f6dligt g\u00e4ng", "original_title": "d\u00f6dligt g\u00e4ng", "slug_title": "dodligt-gang", "date": "2008-01-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 377257, "title": "Ice Age Survivors", "original_title": "Ice Age Survivors", "slug_title": "ice-age-survivors", "date": "2001-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AgRccjwGuxAQgN3BKzUb3JhtFxO.jpg", "actors": ["Armand Assante (Narrator)"], "comments": [], "recommandations_id": []}

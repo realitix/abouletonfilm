@@ -1,1 +1,0 @@
-{"tmdb_id": 292027, "title": "Skin Eating Jungle Vampires", "original_title": "Skin Eating Jungle Vampires", "slug_title": "skin-eating-jungle-vampires", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eEVg28143gxcaRssbbIq2lvYVec.jpg", "actors": [], "comments": [], "recommandations_id": []}

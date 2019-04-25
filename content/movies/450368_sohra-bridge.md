@@ -1,1 +1,0 @@
-{"tmdb_id": 450368, "title": "Sohra Bridge", "original_title": "Sohra Bridge (2016)", "slug_title": "sohra-bridge", "date": "2016-02-02", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oe3uIZZyPkhNhBTR9kBl6lh2I5r.jpg", "actors": ["Barun Chanda ()", "Nishita Goswami ()"], "comments": [], "recommandations_id": []}

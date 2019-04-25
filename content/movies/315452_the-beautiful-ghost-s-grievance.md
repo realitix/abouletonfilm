@@ -1,1 +1,0 @@
-{"tmdb_id": 315452, "title": "The Beautiful Ghost's Grievance", "original_title": "Li gui yuan chou", "slug_title": "the-beautiful-ghost-s-grievance", "date": "1959-03-25", "genre": "Drame / Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Yanfen Fang ()", "Fung Fung ()", "Lee Ching ()"], "comments": [], "recommandations_id": []}

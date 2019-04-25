@@ -1,1 +1,0 @@
-{"tmdb_id": 389711, "title": "Solo Finale", "original_title": "Solo Finale", "slug_title": "solo-finale", "date": "2015-03-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nfsL56SFyNqoqdCofvLoF43X7eG.jpg", "actors": [], "comments": [], "recommandations_id": []}

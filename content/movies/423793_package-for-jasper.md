@@ -1,1 +1,0 @@
-{"tmdb_id": 423793, "title": "Package for Jasper", "original_title": "Package for Jasper", "slug_title": "package-for-jasper", "date": "1944-01-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Alvin Childress (Professor Scarecrow (voice))", "Glenn Leedy (Jasper (voice))"], "comments": [], "recommandations_id": []}

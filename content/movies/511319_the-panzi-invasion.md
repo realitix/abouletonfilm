@@ -1,1 +1,0 @@
-{"tmdb_id": 511319, "title": "The Panzi Invasion", "original_title": "The Panzi Invasion", "slug_title": "the-panzi-invasion", "date": "2016-07-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rZWZSe1eQAf89ML5qL3cGMuvIIw.jpg", "actors": [], "comments": [], "recommandations_id": []}

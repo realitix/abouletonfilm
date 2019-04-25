@@ -1,1 +1,0 @@
-{"tmdb_id": 142399, "title": "Who Shot My Brother?", "original_title": "Who Shot My Brother?", "slug_title": "who-shot-my-brother", "date": "2005-10-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

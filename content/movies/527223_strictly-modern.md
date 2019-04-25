@@ -1,1 +1,0 @@
-{"tmdb_id": 527223, "title": "Strictly Modern", "original_title": "Strictly Modern", "slug_title": "strictly-modern", "date": "1930-03-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qr4dU5DOhOJ3YTBdpdXpG6AUOyZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

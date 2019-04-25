@@ -1,1 +1,0 @@
-{"tmdb_id": 568435, "title": "El tesoro", "original_title": "El tesoro", "slug_title": "el-tesoro", "date": "2018-12-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/67k3ViGjYJ7GHLp27bTEVPaN49d.jpg", "actors": [], "comments": [], "recommandations_id": []}

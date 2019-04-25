@@ -1,1 +1,0 @@
-{"tmdb_id": 359929, "title": "Party Girl", "original_title": "Party Girl", "slug_title": "party-girl", "date": "2015-09-16", "genre": "", "score": "0.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t2uQB6pV4Qbtdaw9zudBmIonqvR.jpg", "actors": [], "comments": [], "recommandations_id": []}

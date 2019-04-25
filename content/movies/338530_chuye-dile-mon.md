@@ -1,1 +1,0 @@
-{"tmdb_id": 338530, "title": "Chuye Dile Mon", "original_title": "Chuye Dile Mon", "slug_title": "chuye-dile-mon", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/usTWLsdxagBEEikksANb4sZTRb3.jpg", "actors": [], "comments": [], "recommandations_id": []}

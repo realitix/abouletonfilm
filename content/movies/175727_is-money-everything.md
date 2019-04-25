@@ -1,1 +1,0 @@
-{"tmdb_id": 175727, "title": "Is Money Everything?", "original_title": "Is Money Everything?", "slug_title": "is-money-everything", "date": "1923-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/507ej84QK7hcjMixgc1hPnO0I6G.jpg", "actors": [], "comments": [], "recommandations_id": []}

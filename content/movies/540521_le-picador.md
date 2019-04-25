@@ -1,1 +1,0 @@
-{"tmdb_id": 540521, "title": "Le picador", "original_title": "Le picador", "slug_title": "le-picador", "date": "1932-09-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

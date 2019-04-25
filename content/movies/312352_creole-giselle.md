@@ -1,1 +1,0 @@
-{"tmdb_id": 312352, "title": "Creole Giselle", "original_title": "Creole Giselle", "slug_title": "creole-giselle", "date": "1987-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fTFM082Oya7TVnbjWcSMxm2lAPK.jpg", "actors": [], "comments": [], "recommandations_id": []}

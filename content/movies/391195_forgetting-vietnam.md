@@ -1,1 +1,0 @@
-{"tmdb_id": 391195, "title": "Forgetting Vietnam", "original_title": "Forgetting Vietnam", "slug_title": "forgetting-vietnam", "date": "2016-03-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uh9EoMzdOUkYKEuHycLZ1kZc80B.jpg", "actors": [], "comments": [], "recommandations_id": []}

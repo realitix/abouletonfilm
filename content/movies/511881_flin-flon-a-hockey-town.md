@@ -1,1 +1,0 @@
-{"tmdb_id": 511881, "title": "Flin Flon: A Hockey Town", "original_title": "Flin Flon: A Hockey Town", "slug_title": "flin-flon-a-hockey-town", "date": "", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vXW93THHkQnIE148Z7ShhoOio8n.jpg", "actors": [], "comments": [], "recommandations_id": []}

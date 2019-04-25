@@ -1,1 +1,0 @@
-{"tmdb_id": 533746, "title": "Cool Dad - Official Trailer", "original_title": "Cool Dad - Official Trailer", "slug_title": "cool-dad-official-trailer", "date": "2018-06-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jerry O'Connell ()"], "comments": [], "recommandations_id": []}

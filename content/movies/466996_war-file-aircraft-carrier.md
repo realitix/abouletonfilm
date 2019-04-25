@@ -1,1 +1,0 @@
-{"tmdb_id": 466996, "title": "War File: Aircraft Carrier", "original_title": "War File: Aircraft Carrier", "slug_title": "war-file-aircraft-carrier", "date": "2007-06-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kBxXMEQQc3BWuC3OllpVg5nRwl4.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 446434, "title": "Nightmare", "original_title": "Nightmare", "slug_title": "nightmare", "date": "1974-01-08", "genre": "", "score": "5.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["John Travolta (Man Outside Store (uncredited))"], "comments": [], "recommandations_id": []}

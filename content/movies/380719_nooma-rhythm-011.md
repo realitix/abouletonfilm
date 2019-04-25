@@ -1,1 +1,0 @@
-{"tmdb_id": 380719, "title": "Nooma Rhythm 011", "original_title": "Nooma Rhythm 011", "slug_title": "nooma-rhythm-011", "date": "2006-08-01", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rob Bell (Himself)"], "comments": [], "recommandations_id": []}

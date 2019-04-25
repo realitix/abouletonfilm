@@ -1,1 +1,0 @@
-{"tmdb_id": 250401, "title": "The Tale of Timmy Two Chins", "original_title": "The Tale of Timmy Two Chins", "slug_title": "the-tale-of-timmy-two-chins", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

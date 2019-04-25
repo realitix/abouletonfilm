@@ -1,1 +1,0 @@
-{"tmdb_id": 512076, "title": "That Night of November", "original_title": "Nove de Novembro", "slug_title": "that-night-of-november", "date": "2017-03-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2S4RvbsYkWi8GnSaXfj9lMF9pcT.jpg", "actors": [], "comments": [], "recommandations_id": []}

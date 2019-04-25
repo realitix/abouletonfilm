@@ -1,1 +1,0 @@
-{"tmdb_id": 492669, "title": "Dancing Barefoot", "original_title": "Dancing Barefoot", "slug_title": "dancing-barefoot", "date": "1995-12-14", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

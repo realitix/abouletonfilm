@@ -1,1 +1,0 @@
-{"tmdb_id": 563383, "title": "Ezhai Padum Padu", "original_title": "Ezhai Padum Padu", "slug_title": "ezhai-padum-padu", "date": "1950-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["T. S. Balaiah ()", "Lalitha ()", "Chittor V. Nagaiah ()", "Padmini ()", "M. N. Rajam ()"], "comments": [], "recommandations_id": []}

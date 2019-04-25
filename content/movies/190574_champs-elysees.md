@@ -1,1 +1,0 @@
-{"tmdb_id": 190574, "title": "Champs-\u00c9lys\u00e9es", "original_title": "Champs-\u00c9lys\u00e9es", "slug_title": "champs-elysees", "date": "1896-10-09", "genre": "", "score": "5.1/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7wLySjH2qw1LwwDsv7vhof5tOBx.jpg", "actors": [], "comments": [], "recommandations_id": [195114, 230951, 195092, 189578]}

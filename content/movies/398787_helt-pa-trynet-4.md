@@ -1,1 +1,0 @@
-{"tmdb_id": 398787, "title": "Helt P\u00e5 Trynet 4", "original_title": "Helt P\u00e5 Trynet 4", "slug_title": "helt-pa-trynet-4", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sBy6buqUvqXGEt1BXu4knQXPVH5.jpg", "actors": ["Eldar V\u00e5gan ()"], "comments": [], "recommandations_id": []}

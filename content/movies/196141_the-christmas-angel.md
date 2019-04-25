@@ -1,1 +1,0 @@
-{"tmdb_id": 196141, "title": "The Christmas Angel", "original_title": "L'ange de No\u00ebl", "slug_title": "the-christmas-angel", "date": "1904-01-01", "genre": "Drame", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qeAm6wrKXGKDtYtMYnxa2i77BOr.jpg", "actors": [], "comments": [], "recommandations_id": []}

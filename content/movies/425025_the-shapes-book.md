@@ -1,1 +1,0 @@
-{"tmdb_id": 425025, "title": "The Shapes Book", "original_title": "The Shapes Book", "slug_title": "the-shapes-book", "date": "2013-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vhhN4sgDhaf2W8LF0FCaPHuqmj9.jpg", "actors": [], "comments": [], "recommandations_id": []}

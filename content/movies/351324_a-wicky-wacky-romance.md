@@ -1,1 +1,0 @@
-{"tmdb_id": 351324, "title": "A Wicky, Wacky Romance", "original_title": "A Wicky, Wacky Romance", "slug_title": "a-wicky-wacky-romance", "date": "1939-11-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

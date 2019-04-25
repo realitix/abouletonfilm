@@ -1,1 +1,0 @@
-{"tmdb_id": 498748, "title": "Blood Dynasty", "original_title": "Blood Dynasty", "slug_title": "blood-dynasty", "date": "2017-10-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ylVPMZa74NTSIija8kDqSe17UUL.jpg", "actors": ["Shauna Henry (Irina)"], "comments": [], "recommandations_id": []}

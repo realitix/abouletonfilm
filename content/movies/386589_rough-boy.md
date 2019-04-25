@@ -1,1 +1,0 @@
-{"tmdb_id": 386589, "title": "Rough Boy", "original_title": "Rough Boy", "slug_title": "rough-boy", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

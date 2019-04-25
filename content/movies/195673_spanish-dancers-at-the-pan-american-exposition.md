@@ -1,1 +1,0 @@
-{"tmdb_id": 195673, "title": "Spanish Dancers at the Pan-American Exposition", "original_title": "Spanish Dancers at the Pan-American Exposition", "slug_title": "spanish-dancers-at-the-pan-american-exposition", "date": "1901-10-21", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

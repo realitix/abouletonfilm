@@ -1,1 +1,0 @@
-{"tmdb_id": 314721, "title": "Trip Along Exodus", "original_title": "Rihla Fee Al Raheel", "slug_title": "trip-along-exodus", "date": "2014-12-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vYqekYHT8vrD5TC8lRHX2b5thSF.jpg", "actors": [], "comments": [], "recommandations_id": []}

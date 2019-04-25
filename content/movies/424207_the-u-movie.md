@@ -1,1 +1,0 @@
-{"tmdb_id": 424207, "title": "The U Movie", "original_title": "The U Movie", "slug_title": "the-u-movie", "date": "2010-12-12", "genre": "Aventure / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7BuC9aZGhiQxyJmvrCpLfhTSdqU.jpg", "actors": [], "comments": [], "recommandations_id": []}

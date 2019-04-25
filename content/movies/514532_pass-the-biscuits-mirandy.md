@@ -1,1 +1,0 @@
-{"tmdb_id": 514532, "title": "Pass the Biscuits, Mirandy", "original_title": "Pass the Biscuits, Mirandy", "slug_title": "pass-the-biscuits-mirandy", "date": "1942-05-27", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Spike Jones and His City Slickers ()"], "comments": [], "recommandations_id": []}

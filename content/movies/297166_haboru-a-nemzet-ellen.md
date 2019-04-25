@@ -1,1 +1,0 @@
-{"tmdb_id": 297166, "title": "H\u00e1bor\u00fa a nemzet ellen", "original_title": "H\u00e1bor\u00fa a nemzet ellen", "slug_title": "haboru-a-nemzet-ellen", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sxBhgM9hzL6ndTs9zX04lCpJWsP.jpg", "actors": [], "comments": [], "recommandations_id": []}

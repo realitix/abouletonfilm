@@ -1,1 +1,0 @@
-{"tmdb_id": 319538, "title": "Puddles in the Sky", "original_title": "Puddles in the Sky", "slug_title": "puddles-in-the-sky", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

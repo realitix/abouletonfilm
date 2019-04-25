@@ -1,1 +1,0 @@
-{"tmdb_id": 317887, "title": "Gallhammer: Ruin of a Church", "original_title": "Gallhammer: Ruin of a Church", "slug_title": "gallhammer-ruin-of-a-church", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

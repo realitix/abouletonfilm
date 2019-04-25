@@ -1,1 +1,0 @@
-{"tmdb_id": 461877, "title": "Waterproof", "original_title": "Issaittuq", "slug_title": "waterproof", "date": "2007-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mY3DnQbINzLika7NdrtBChOHyYW.jpg", "actors": [], "comments": [], "recommandations_id": []}

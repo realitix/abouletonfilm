@@ -1,1 +1,0 @@
-{"tmdb_id": 159539, "title": "Stolen by Gypsies or Beer and Bicycles", "original_title": "Stolen by Gypsies or Beer and Bicycles", "slug_title": "stolen-by-gypsies-or-beer-and-bicycles", "date": "1933-07-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

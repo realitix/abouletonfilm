@@ -1,1 +1,0 @@
-{"tmdb_id": 453236, "title": "Corrente", "original_title": "Corrente", "slug_title": "corrente", "date": "2008-07-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["V\u00edtor Correia ()", "In\u00eas Mariana Moitas ()"], "comments": [], "recommandations_id": []}

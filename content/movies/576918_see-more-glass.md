@@ -1,1 +1,0 @@
-{"tmdb_id": 576918, "title": "See More Glass", "original_title": "See More Glass", "slug_title": "see-more-glass", "date": "2018-10-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rF9d7xmhuxW9qFzV1qa0lqGWEPd.jpg", "actors": [], "comments": [], "recommandations_id": []}

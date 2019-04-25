@@ -1,1 +1,0 @@
-{"tmdb_id": 278752, "title": "Snow de Colonge", "original_title": "Snow de Colonge", "slug_title": "snow-de-colonge", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

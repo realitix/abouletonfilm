@@ -1,1 +1,0 @@
-{"tmdb_id": 517198, "title": "C.O.D.: A Mellow Drama", "original_title": "C.O.D.: A Mellow Drama", "slug_title": "c-o-d-a-mellow-drama", "date": "1929-08-04", "genre": "Crime", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Desmond Dickens (Himself)"], "comments": [], "recommandations_id": []}

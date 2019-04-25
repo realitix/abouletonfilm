@@ -1,1 +1,0 @@
-{"tmdb_id": 155567, "title": "Hoselupf", "original_title": "Hoselupf", "slug_title": "hoselupf", "date": "2011-03-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sOJJq8tf9eXErLksOcgQgkut0QC.jpg", "actors": ["Beat Schlatter (Himself)"], "comments": [], "recommandations_id": []}

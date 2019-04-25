@@ -1,1 +1,0 @@
-{"tmdb_id": 467545, "title": "Praisecamp 16 - The Book", "original_title": "Praisecamp 16 - The Book", "slug_title": "praisecamp-16-the-book", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t0myRr2cdC3UXHdpPpXuche94HP.jpg", "actors": [], "comments": [], "recommandations_id": []}

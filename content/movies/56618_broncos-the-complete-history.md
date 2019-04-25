@@ -1,1 +1,0 @@
-{"tmdb_id": 56618, "title": "Broncos - The Complete History", "original_title": "Broncos - The Complete History", "slug_title": "broncos-the-complete-history", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kwjAhugdUg3b4ZT8m8NRAuzI75f.jpg", "actors": [], "comments": [], "recommandations_id": []}

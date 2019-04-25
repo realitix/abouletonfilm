@@ -1,1 +1,0 @@
-{"tmdb_id": 555424, "title": "L'hallali", "original_title": "L'hallali", "slug_title": "l-hallali", "date": "1917-10-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

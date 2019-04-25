@@ -1,1 +1,0 @@
-{"tmdb_id": 328922, "title": "Fields of Fear", "original_title": "Fields of Fear", "slug_title": "fields-of-fear", "date": "2014-09-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

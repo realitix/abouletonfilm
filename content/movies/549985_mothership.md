@@ -1,1 +1,0 @@
-{"tmdb_id": 549985, "title": "Mothership", "original_title": "Mothership", "slug_title": "mothership", "date": "2017-11-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

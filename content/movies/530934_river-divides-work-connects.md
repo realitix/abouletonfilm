@@ -1,1 +1,0 @@
-{"tmdb_id": 530934, "title": "River Divides, Work Connects", "original_title": "Reka lo\u010duje \u2013 delo povezuje", "slug_title": "river-divides-work-connects", "date": "2018-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

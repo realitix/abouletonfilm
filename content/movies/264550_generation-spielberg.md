@@ -1,1 +1,0 @@
-{"tmdb_id": 264550, "title": "Generation Spielberg", "original_title": "Generaci\u00f3n Spielberg", "slug_title": "generation-spielberg", "date": "2014-04-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1EkTg8UGCjZXpkyXeXE8p0IC8gh.jpg", "actors": [], "comments": [], "recommandations_id": []}

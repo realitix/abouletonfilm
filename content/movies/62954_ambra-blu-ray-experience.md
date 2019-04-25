@@ -1,1 +1,0 @@
-{"tmdb_id": 62954, "title": "Ambra Blu-Ray Experience", "original_title": "Ambra Blu-Ray Experience", "slug_title": "ambra-blu-ray-experience", "date": "2008-11-20", "genre": "Documentaire", "score": "1.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3Wm6vh3SxrTzmckdmH6DqtsRBta.jpg", "actors": [], "comments": [], "recommandations_id": []}

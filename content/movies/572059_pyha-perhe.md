@@ -1,1 +1,0 @@
-{"tmdb_id": 572059, "title": "Pyh\u00e4 perhe", "original_title": "Pyh\u00e4 perhe", "slug_title": "pyha-perhe", "date": "1976-10-29", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dn8pHmEN5j6NZ5qRMI1TTL0SLJR.jpg", "actors": [], "comments": [], "recommandations_id": []}

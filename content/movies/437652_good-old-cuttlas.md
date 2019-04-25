@@ -1,1 +1,0 @@
-{"tmdb_id": 437652, "title": "Good Old Cuttlas", "original_title": "El bueno de Cuttlas", "slug_title": "good-old-cuttlas", "date": "1991-01-27", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8BWghu9Am46NzMaXHU2k0BpC3P7.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 199257, "title": "Dance Dance Dragon", "original_title": "\u9f99\u4f17\u821e", "slug_title": "dance-dance-dragon", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u1V0ZF9UbC8UJU30Yp7fsteAwUX.jpg", "actors": [], "comments": [], "recommandations_id": []}

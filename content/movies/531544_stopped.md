@@ -1,1 +1,0 @@
-{"tmdb_id": 531544, "title": "Stopped", "original_title": "Stopped", "slug_title": "stopped", "date": "2017-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aJa1DmBJACqeGoPzsoihVhjs7OW.jpg", "actors": [], "comments": [], "recommandations_id": []}

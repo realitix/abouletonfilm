@@ -1,1 +1,0 @@
-{"tmdb_id": 37121, "title": "Cold World", "original_title": "Cold World", "slug_title": "cold-world", "date": "2007-04-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jR2ZRoW72m6yJKWCSxKEc5K1oK5.jpg", "actors": [], "comments": [], "recommandations_id": []}

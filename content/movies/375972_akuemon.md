@@ -1,1 +1,0 @@
-{"tmdb_id": 375972, "title": "Akuemon", "original_title": "\u60aa\u53f3\u885b\u9580", "slug_title": "akuemon", "date": "1993-07-16", "genre": "Romance / Animation / Fantastique", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nSGk6dGJ5rwtSdQNoovApPG7WPM.jpg", "actors": [], "comments": [], "recommandations_id": []}

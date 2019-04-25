@@ -1,1 +1,0 @@
-{"tmdb_id": 561133, "title": "The Slave", "original_title": "L'esclave", "slug_title": "the-slave", "date": "1953-09-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qOTFI2Yu6kO7dN4JaAANh375Ate.jpg", "actors": [], "comments": [], "recommandations_id": []}

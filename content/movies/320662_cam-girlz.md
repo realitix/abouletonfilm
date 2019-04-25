@@ -1,1 +1,0 @@
-{"tmdb_id": 320662, "title": "Cam Girlz", "original_title": "Cam Girlz", "slug_title": "cam-girlz", "date": "2015-02-14", "genre": "Documentaire", "score": "5.6/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vorp61MDPWenieiFfT0yAdyzCA6.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 555594, "title": "Stuttgart 21 - Denk mal!", "original_title": "Stuttgart 21 - Denk mal!", "slug_title": "stuttgart-21-denk-mal", "date": "2011-02-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

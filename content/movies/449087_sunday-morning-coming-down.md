@@ -1,1 +1,0 @@
-{"tmdb_id": 449087, "title": "Sunday Morning Coming Down", "original_title": "Sunday Morning Coming Down", "slug_title": "sunday-morning-coming-down", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pFsQvdY6altuKJnEIitTwPVrBwI.jpg", "actors": [], "comments": [], "recommandations_id": []}

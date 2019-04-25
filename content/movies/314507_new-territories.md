@@ -1,1 +1,0 @@
-{"tmdb_id": 314507, "title": "New Territories", "original_title": "New Territories", "slug_title": "new-territories", "date": "2014-05-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/61GScKQd4rJfyw9h5aW3IijiBcC.jpg", "actors": [], "comments": [], "recommandations_id": []}

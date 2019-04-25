@@ -1,1 +1,0 @@
-{"tmdb_id": 288111, "title": "Moral Tales, Filmic Issues", "original_title": "Moral Tales, Filmic Issues", "slug_title": "moral-tales-filmic-issues", "date": "2006-08-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["\u00c9ric Rohmer (Himself)", "Barbet Schroeder (Himself)"], "comments": [], "recommandations_id": []}

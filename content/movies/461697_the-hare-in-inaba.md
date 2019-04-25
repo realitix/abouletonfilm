@@ -1,1 +1,0 @@
-{"tmdb_id": 461697, "title": "The Hare in Inaba", "original_title": "Inaba no kuni no usagi-san", "slug_title": "the-hare-in-inaba", "date": "1935-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 358586, "title": "Just Like the Rest of Us", "original_title": "Just Like the Rest of Us", "slug_title": "just-like-the-rest-of-us", "date": "1983-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

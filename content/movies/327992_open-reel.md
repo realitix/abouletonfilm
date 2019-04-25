@@ -1,1 +1,0 @@
-{"tmdb_id": 327992, "title": "Open Reel", "original_title": "Open Reel", "slug_title": "open-reel", "date": "1976-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

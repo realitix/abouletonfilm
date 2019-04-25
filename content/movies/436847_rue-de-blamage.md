@@ -1,1 +1,0 @@
-{"tmdb_id": 436847, "title": "Rue de Blamage", "original_title": "Rue de Blamage", "slug_title": "rue-de-blamage", "date": "2017-01-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

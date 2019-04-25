@@ -1,1 +1,0 @@
-{"tmdb_id": 264354, "title": "Parasiten - Die Killer in uns", "original_title": "Parasiten - Die Killer in uns", "slug_title": "parasiten-die-killer-in-uns", "date": "2007-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

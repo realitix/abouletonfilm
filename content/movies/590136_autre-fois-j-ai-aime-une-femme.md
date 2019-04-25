@@ -1,1 +1,0 @@
-{"tmdb_id": 590136, "title": "Autre Fois J'ai Aime Une Femme", "original_title": "Autre Fois J'ai Aime Une Femme", "slug_title": "autre-fois-j-ai-aime-une-femme", "date": "1966-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q0GXh6ltSA2crCwTHWS2JqP5lA.jpg", "actors": [], "comments": [], "recommandations_id": []}

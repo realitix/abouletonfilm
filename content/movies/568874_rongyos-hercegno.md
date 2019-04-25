@@ -1,1 +1,0 @@
-{"tmdb_id": 568874, "title": "Rongyos hercegn\u0151", "original_title": "Rongyos hercegn\u0151", "slug_title": "rongyos-hercegno", "date": "1975-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

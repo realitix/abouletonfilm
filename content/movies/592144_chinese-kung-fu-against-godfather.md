@@ -1,1 +1,0 @@
-{"tmdb_id": 592144, "title": "Chinese Kung Fu Against Godfather", "original_title": "Fist of Fury in China", "slug_title": "chinese-kung-fu-against-godfather", "date": "1974-11-22", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Cliff Lok ()", "Jan Willem Stoker ()", "Ine Veen ()"], "comments": [], "recommandations_id": []}

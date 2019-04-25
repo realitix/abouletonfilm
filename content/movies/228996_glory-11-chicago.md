@@ -1,1 +1,0 @@
-{"tmdb_id": 228996, "title": "Glory 11: Chicago", "original_title": "Glory 11: Chicago", "slug_title": "glory-11-chicago", "date": "2013-10-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8Jnj2hMGC2XJaOYE2unkwWt83wL.jpg", "actors": [], "comments": [], "recommandations_id": []}

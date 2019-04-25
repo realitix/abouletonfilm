@@ -1,1 +1,0 @@
-{"tmdb_id": 554604, "title": "La mafia no perdona", "original_title": "La mafia no perdona", "slug_title": "la-mafia-no-perdona", "date": "1995-07-13", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lc6z1ZmWLrUEuIRjw809M5ElHuq.jpg", "actors": [], "comments": [], "recommandations_id": []}

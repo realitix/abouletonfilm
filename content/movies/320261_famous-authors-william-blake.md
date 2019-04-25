@@ -1,1 +1,0 @@
-{"tmdb_id": 320261, "title": "Famous Authors: William Blake", "original_title": "Famous Authors: William Blake", "slug_title": "famous-authors-william-blake", "date": "1996-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

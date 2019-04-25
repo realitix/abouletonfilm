@@ -1,1 +1,0 @@
-{"tmdb_id": 395657, "title": "Different Shades of Pink", "original_title": "Different Shades of Pink", "slug_title": "different-shades-of-pink", "date": "2001-09-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/akGqfM7um07m03rqEwJtnwQAdcG.jpg", "actors": [], "comments": [], "recommandations_id": []}

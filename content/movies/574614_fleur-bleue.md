@@ -1,1 +1,0 @@
-{"tmdb_id": 574614, "title": "Fleur Bleue", "original_title": "Fleur Bleue", "slug_title": "fleur-bleue", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "Un film de Jakobois", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

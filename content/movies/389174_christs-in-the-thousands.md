@@ -1,1 +1,0 @@
-{"tmdb_id": 389174, "title": "Christs in the Thousands", "original_title": "Des Christs par milliers", "slug_title": "christs-in-the-thousands", "date": "1969-03-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

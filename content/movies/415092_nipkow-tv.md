@@ -1,1 +1,0 @@
-{"tmdb_id": 415092, "title": "Nipkow TV", "original_title": "Nipkow TV", "slug_title": "nipkow-tv", "date": "1998-09-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

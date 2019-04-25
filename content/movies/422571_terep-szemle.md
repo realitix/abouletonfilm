@@ -1,1 +1,0 @@
-{"tmdb_id": 422571, "title": "(terep) SZEMLE", "original_title": "(terep) SZEMLE", "slug_title": "terep-szemle", "date": "", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Barnab\u00e1s T\u00f3th (Director)", "Bal\u00e1zs Simonyi (Director of Photography)"], "comments": [], "recommandations_id": []}

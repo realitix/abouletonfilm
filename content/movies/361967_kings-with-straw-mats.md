@@ -1,1 +1,0 @@
-{"tmdb_id": 361967, "title": "Kings With Straw Mats", "original_title": "Kings With Straw Mats", "slug_title": "kings-with-straw-mats", "date": "1986-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

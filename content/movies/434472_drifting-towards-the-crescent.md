@@ -1,1 +1,0 @@
-{"tmdb_id": 434472, "title": "Drifting Towards the Crescent", "original_title": "Drifting Towards the Crescent", "slug_title": "drifting-towards-the-crescent", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xxdcJbPjngzHuE2gfezQNcgaEC0.jpg", "actors": [], "comments": [], "recommandations_id": []}

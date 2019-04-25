@@ -1,1 +1,0 @@
-{"tmdb_id": 559004, "title": "Farandole", "original_title": "Farandole", "slug_title": "farandole", "date": "1945-02-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

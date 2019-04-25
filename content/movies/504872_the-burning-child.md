@@ -1,1 +1,0 @@
-{"tmdb_id": 504872, "title": "The Burning Child", "original_title": "The Burning Child", "slug_title": "the-burning-child", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nNeLswB2RgOtbwTteqiM6vwAM0H.jpg", "actors": [], "comments": [], "recommandations_id": []}

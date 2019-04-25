@@ -1,1 +1,0 @@
-{"tmdb_id": 270536, "title": "Cable Ship", "original_title": "Cable Ship", "slug_title": "cable-ship", "date": "1933-06-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ySv4Ktl69EkHYHoSj3TptzFXw21.jpg", "actors": [], "comments": [], "recommandations_id": []}

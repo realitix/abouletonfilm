@@ -1,1 +1,0 @@
-{"tmdb_id": 564180, "title": "The Lobotomy", "original_title": "The Lobotomy", "slug_title": "the-lobotomy", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Buddy Giovinazzo ()", "Lori Labar ()", "Michael Tierno ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,1 @@
-{"tmdb_id": 502820, "title": "Piccola mare", "original_title": "Piccola mare", "slug_title": "piccola-mare", "date": "2004-04-22", "genre": "", "score": "9.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 502820, "title": "Piccola mare", "original_title": "Piccola mare", "slug_title": "piccola-mare", "date": "2004-04-22", "genre": [""], "score": "9.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

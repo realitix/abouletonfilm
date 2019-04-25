@@ -1,1 +1,0 @@
-{"tmdb_id": 558975, "title": "Patricia", "original_title": "Patricia", "slug_title": "patricia", "date": "1942-10-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 329898, "title": "Angry Sky", "original_title": "Angry Sky", "slug_title": "angry-sky", "date": "2015-06-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sFaRnkOBeHS4UZ7DwVYSRfVDWee.jpg", "actors": [], "comments": [], "recommandations_id": []}

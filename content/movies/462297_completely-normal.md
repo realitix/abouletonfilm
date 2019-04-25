@@ -1,1 +1,0 @@
-{"tmdb_id": 462297, "title": "Completely Normal", "original_title": "Completely Normal", "slug_title": "completely-normal", "date": "2015-01-01", "genre": "Romance / Com\u00e9die / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zQou2FtJ38vdYymvcqb44rTKZgm.jpg", "actors": [], "comments": [], "recommandations_id": []}

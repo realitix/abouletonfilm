@@ -1,1 +1,0 @@
-{"tmdb_id": 417050, "title": "Cize - 8 Count Abs", "original_title": "Cize - 8 Count Abs", "slug_title": "cize-8-count-abs", "date": "2015-07-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gxdCzFXO2rZdKqAhhrgMk22R7wd.jpg", "actors": ["Shaun T. ()"], "comments": [], "recommandations_id": []}

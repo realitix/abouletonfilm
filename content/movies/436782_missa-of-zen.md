@@ -1,1 +1,0 @@
-{"tmdb_id": 436782, "title": "Missa of Zen", "original_title": "Missa of Zen", "slug_title": "missa-of-zen", "date": "1967-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

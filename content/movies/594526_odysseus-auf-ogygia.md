@@ -1,1 +1,0 @@
-{"tmdb_id": 594526, "title": "Odysseus auf Ogygia", "original_title": "Odysseus auf Ogygia", "slug_title": "odysseus-auf-ogygia", "date": "1968-05-31", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Alexander Kerst (Odysseus)", "Ralf Schermuly (Telemach)", "Edith Schneider (Athena)"], "comments": [], "recommandations_id": []}

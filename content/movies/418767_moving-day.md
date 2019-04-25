@@ -1,1 +1,0 @@
-{"tmdb_id": 418767, "title": "Moving Day", "original_title": "Moving Day", "slug_title": "moving-day", "date": "1929-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Frank Hunter ()", "Mae Percival ()", "Charles Wesson ()"], "comments": [], "recommandations_id": []}

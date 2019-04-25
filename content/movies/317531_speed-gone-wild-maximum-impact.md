@@ -1,1 +1,0 @@
-{"tmdb_id": 317531, "title": "Speed Gone Wild: Maximum Impact", "original_title": "Speed Gone Wild: Maximum Impact", "slug_title": "speed-gone-wild-maximum-impact", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

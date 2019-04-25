@@ -1,1 +1,0 @@
-{"tmdb_id": 587472, "title": "Eric Clapton Music in Review", "original_title": "Eric Clapton Music in Review", "slug_title": "eric-clapton-music-in-review", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dl0et7fNcAjidzgKFizeNwUnLQw.jpg", "actors": [], "comments": [], "recommandations_id": []}

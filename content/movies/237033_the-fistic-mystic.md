@@ -1,1 +1,0 @@
-{"tmdb_id": 237033, "title": "The Fistic Mystic", "original_title": "The Fistic Mystic", "slug_title": "the-fistic-mystic", "date": "1946-11-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

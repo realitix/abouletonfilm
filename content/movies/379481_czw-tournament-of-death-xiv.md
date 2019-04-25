@@ -1,1 +1,0 @@
-{"tmdb_id": 379481, "title": "CZW Tournament of Death XIV", "original_title": "CZW Tournament of Death XIV", "slug_title": "czw-tournament-of-death-xiv", "date": "2015-06-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mnlDLwPN6PO2R7prSTLrHQuVmya.jpg", "actors": [], "comments": [], "recommandations_id": []}

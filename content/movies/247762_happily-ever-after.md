@@ -1,1 +1,0 @@
-{"tmdb_id": 247762, "title": "Happily Ever After", "original_title": "Happily Ever After", "slug_title": "happily-ever-after", "date": "2014-01-23", "genre": "Drame / Documentaire / Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zNuwZUPDo1x4u48EY5duZ30xL8w.jpg", "actors": [], "comments": [], "recommandations_id": []}

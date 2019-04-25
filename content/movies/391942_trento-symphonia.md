@@ -1,1 +1,0 @@
-{"tmdb_id": 391942, "title": "Trento Symphonia", "original_title": "Trento Symphonia", "slug_title": "trento-symphonia", "date": "2014-01-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vIGk4lZ0GvnKDqQdTdxy93uANFd.jpg", "actors": [], "comments": [], "recommandations_id": []}

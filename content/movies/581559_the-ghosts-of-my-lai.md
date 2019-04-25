@@ -1,1 +1,0 @@
-{"tmdb_id": 581559, "title": "The Ghosts of My Lai", "original_title": "Les fant\u00f4mes de My Lai", "slug_title": "the-ghosts-of-my-lai", "date": "2009-04-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/taAWtKLVDT5pKZJ7SW5WsWrzZOS.jpg", "actors": [], "comments": [], "recommandations_id": []}

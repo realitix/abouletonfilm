@@ -1,1 +1,0 @@
-{"tmdb_id": 489635, "title": "Roy Chubby Brown: The Best Of", "original_title": "Roy Chubby Brown: The Best Of", "slug_title": "roy-chubby-brown-the-best-of", "date": "", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

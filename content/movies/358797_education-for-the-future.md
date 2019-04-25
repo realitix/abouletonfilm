@@ -1,1 +1,0 @@
-{"tmdb_id": 358797, "title": "Education for the Future", "original_title": "Education for the Future", "slug_title": "education-for-the-future", "date": "1967-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mjumdq4MHC5lhOswYeV0z0jb41d.jpg", "actors": [], "comments": [], "recommandations_id": []}

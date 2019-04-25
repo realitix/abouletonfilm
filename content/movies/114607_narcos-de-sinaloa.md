@@ -1,1 +1,0 @@
-{"tmdb_id": 114607, "title": "Narcos de Sinaloa", "original_title": "Narcos de Sinaloa", "slug_title": "narcos-de-sinaloa", "date": "2001-01-01", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Edna Bolkan ()", "Susana Contreras ()", "Juli\u00e1n Garza ()", "Luis Garza ()"], "comments": [], "recommandations_id": []}

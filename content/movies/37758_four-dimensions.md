@@ -1,1 +1,0 @@
-{"tmdb_id": 37758, "title": "Four Dimensions", "original_title": "Four Dimensions", "slug_title": "four-dimensions", "date": "2009-09-30", "genre": "Documentaire / Drame", "score": "4.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nSWBSfAqJIc31htpDxDTkA5UQ2e.jpg", "actors": [], "comments": [], "recommandations_id": []}

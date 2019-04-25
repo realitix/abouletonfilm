@@ -1,1 +1,0 @@
-{"tmdb_id": 565702, "title": "House Not Home", "original_title": "House Not Home", "slug_title": "house-not-home", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 263959, "title": "Lapse Communication", "original_title": "Lapse Communication", "slug_title": "lapse-communication", "date": "1980-04-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v20FY78qcaD9tWROYJSa3rlazHg.jpg", "actors": [], "comments": [], "recommandations_id": []}

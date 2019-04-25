@@ -1,1 +1,0 @@
-{"tmdb_id": 478390, "title": "Neapolitan Heart", "original_title": "Cuore napoletano", "slug_title": "neapolitan-heart", "date": "2002-09-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 591231, "title": "The Cable Car", "original_title": "Die Seilbahn", "slug_title": "the-cable-car", "date": "2008-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

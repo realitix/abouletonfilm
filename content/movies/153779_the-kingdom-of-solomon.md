@@ -1,1 +1,0 @@
-{"tmdb_id": 153779, "title": "The Kingdom of Solomon", "original_title": "The Kingdom of Solomon", "slug_title": "the-kingdom-of-solomon", "date": "2010-10-06", "genre": "Drame / Histoire", "score": "6.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j24feOqc1BINnVeT8yMPLosHJAJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

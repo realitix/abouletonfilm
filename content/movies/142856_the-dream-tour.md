@@ -1,1 +1,0 @@
-{"tmdb_id": 142856, "title": "The Dream Tour", "original_title": "The Dream Tour", "slug_title": "the-dream-tour", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

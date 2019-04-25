@@ -1,1 +1,0 @@
-{"tmdb_id": 133222, "title": "Prehistoric Poultry", "original_title": "Prehistoric Poultry", "slug_title": "prehistoric-poultry", "date": "1916-01-01", "genre": "Animation / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mLoF7p0xCDf2kRzA424qsyabFYr.jpg", "actors": [], "comments": [], "recommandations_id": []}

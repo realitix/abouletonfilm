@@ -1,1 +1,0 @@
-{"tmdb_id": 309790, "title": "Get passports, visa, id ect.", "original_title": "Get passports, visa, id ect.", "slug_title": "get-passports-visa-id-ect", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

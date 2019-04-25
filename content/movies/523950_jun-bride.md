@@ -1,1 +1,0 @@
-{"tmdb_id": 523950, "title": "Jun Bride", "original_title": "\u7d14\u30d6\u30e9\u30a4\u30c9", "slug_title": "jun-bride", "date": "2006-05-27", "genre": "Drame / Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Yu Shirota ()", "Aki Kawamura ()", "Hiroki Suzuki ()", "Hirofumi Araki ()"], "comments": [], "recommandations_id": []}

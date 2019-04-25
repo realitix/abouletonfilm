@@ -1,1 +1,0 @@
-{"tmdb_id": 503683, "title": "Kiss Me, Kill Me", "original_title": "Kiss Me, Kill Me", "slug_title": "kiss-me-kill-me", "date": "1976-05-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

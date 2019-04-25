@@ -1,1 +1,0 @@
-{"tmdb_id": 227657, "title": "Period Piece", "original_title": "Period Piece", "slug_title": "period-piece", "date": "2006-01-25", "genre": "Com\u00e9die / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lT7saUn5LvzlwktlK8BDGWh2flI.jpg", "actors": [], "comments": [], "recommandations_id": []}

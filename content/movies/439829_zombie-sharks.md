@@ -1,1 +1,0 @@
-{"tmdb_id": 439829, "title": "Zombie Sharks", "original_title": "Zombie Sharks", "slug_title": "zombie-sharks", "date": "2014-08-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yKteGj1XXDlg1rOArAKnM48qvUy.jpg", "actors": [], "comments": [], "recommandations_id": []}

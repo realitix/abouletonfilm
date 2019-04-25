@@ -1,1 +1,0 @@
-{"tmdb_id": 417119, "title": "The Reluctant Witch", "original_title": "The Reluctant Witch", "slug_title": "the-reluctant-witch", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

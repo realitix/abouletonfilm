@@ -1,1 +1,0 @@
-{"tmdb_id": 535607, "title": "The Iron Detective: Bitter Heart", "original_title": "The Iron Detective: Bitter Heart", "slug_title": "the-iron-detective-bitter-heart", "date": "2016-05-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jason Turner (The Iron Detective)"], "comments": [], "recommandations_id": []}

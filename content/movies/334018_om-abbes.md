@@ -1,1 +1,0 @@
-{"tmdb_id": 334018, "title": "Om Abbes", "original_title": "Um Abbas", "slug_title": "om-abbes", "date": "1970-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

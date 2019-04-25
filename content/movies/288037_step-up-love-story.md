@@ -1,1 +1,0 @@
-{"tmdb_id": 288037, "title": "Step Up Love Story", "original_title": "Futari Ecchi", "slug_title": "step-up-love-story", "date": "2000-01-01", "genre": "Animation", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lJ3Uzv7G7l1nnt598OpTFOUJJSb.jpg", "actors": [], "comments": [], "recommandations_id": []}

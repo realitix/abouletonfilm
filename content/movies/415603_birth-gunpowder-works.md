@@ -1,1 +1,0 @@
-{"tmdb_id": 415603, "title": "Birth (Gunpowder Works)", "original_title": "Birth (Gunpowder Works)", "slug_title": "birth-gunpowder-works", "date": "1981-09-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 522936, "title": "Cinevangelist: A Life in Revival Film", "original_title": "Cinevangelist: A Life in Revival Film", "slug_title": "cinevangelist-a-life-in-revival-film", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["George Figgs (Himself)"], "comments": [], "recommandations_id": []}

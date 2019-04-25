@@ -1,1 +1,0 @@
-{"tmdb_id": 376721, "title": "Atormentada", "original_title": "Atormentada", "slug_title": "atormentada", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Patricia Argueta (Mariana)", "Jackeline Hernandez (Eliza)"], "comments": [], "recommandations_id": []}

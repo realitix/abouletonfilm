@@ -1,1 +1,0 @@
-{"tmdb_id": 396522, "title": "Lonely Boy Richard", "original_title": "Lonely Boy Richard", "slug_title": "lonely-boy-richard", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lCGlWyWzKKHFNomR7GtIZnFQUbV.jpg", "actors": [], "comments": [], "recommandations_id": []}

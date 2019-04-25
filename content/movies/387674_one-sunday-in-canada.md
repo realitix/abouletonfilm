@@ -1,1 +1,0 @@
-{"tmdb_id": 387674, "title": "One Sunday in Canada", "original_title": "Dimanche d'Am\u00e9rique", "slug_title": "one-sunday-in-canada", "date": "1961-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b7pkbo7j39flwYmzvpo6Bv17WzW.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 346267, "title": "Scarecrow", "original_title": "Korkuluk", "slug_title": "scarecrow", "date": "2011-06-26", "genre": "Drame", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m9IPaDRx7E4ojWymg1p2OFZF3sW.jpg", "actors": ["Oner Ates (Husband)", "Damla S\u00f6nmez (Girl)"], "comments": [], "recommandations_id": []}

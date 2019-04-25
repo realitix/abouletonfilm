@@ -1,1 +1,0 @@
-{"tmdb_id": 136864, "title": "Already Famous", "original_title": "Already Famous", "slug_title": "already-famous", "date": "2012-01-15", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vzWkEHJBHtwo6WQyTXoPiZqLaXJ.jpg", "actors": ["Michelle Chong ()", "Alien Huang ()"], "comments": [], "recommandations_id": []}

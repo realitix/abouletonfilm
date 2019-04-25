@@ -1,1 +1,0 @@
-{"tmdb_id": 485748, "title": "Fiddling Around", "original_title": "Fiddling Around", "slug_title": "fiddling-around", "date": "1938-01-21", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Monte Collins (Monte Collins)", "Tom Kennedy (Tom Kennedy)"], "comments": [], "recommandations_id": []}

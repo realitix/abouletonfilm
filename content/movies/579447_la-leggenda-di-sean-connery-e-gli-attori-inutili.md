@@ -1,1 +1,0 @@
-{"tmdb_id": 579447, "title": "La Leggenda Di Sean Connery E Gli Attori Inutili", "original_title": "La Leggenda Di Sean Connery E Gli Attori Inutili", "slug_title": "la-leggenda-di-sean-connery-e-gli-attori-inutili", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

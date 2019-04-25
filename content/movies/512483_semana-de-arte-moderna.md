@@ -1,1 +1,0 @@
-{"tmdb_id": 512483, "title": "Semana de Arte Moderna", "original_title": "Semana de Arte Moderna", "slug_title": "semana-de-arte-moderna", "date": "2002-02-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8x2Z9QIEuFd53STSBf0YXacQeN.jpg", "actors": [], "comments": [], "recommandations_id": []}

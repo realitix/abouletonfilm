@@ -1,1 +1,0 @@
-{"tmdb_id": 561395, "title": "Rosarium", "original_title": "Rosarium", "slug_title": "rosarium", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

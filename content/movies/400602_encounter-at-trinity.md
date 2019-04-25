@@ -1,1 +1,0 @@
-{"tmdb_id": 400602, "title": "Encounter at Trinity", "original_title": "Encounter at Trinity", "slug_title": "encounter-at-trinity", "date": "1957-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ic3qnlqiuLskVOx2INFUbqaKbdk.jpg", "actors": ["Fred Davis ()"], "comments": [], "recommandations_id": []}

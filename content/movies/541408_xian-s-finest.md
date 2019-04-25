@@ -1,1 +1,0 @@
-{"tmdb_id": 541408, "title": "Xian's Finest", "original_title": "\u7761\u4e0d\u8457", "slug_title": "xian-s-finest", "date": "2000-09-21", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vfinW3oDSRwJeUHIA6aXIWml8H.jpg", "actors": ["Li Feng-Xu ()", "Sun Min ()"], "comments": [], "recommandations_id": []}

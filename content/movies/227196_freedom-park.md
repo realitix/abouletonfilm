@@ -1,1 +1,0 @@
-{"tmdb_id": 227196, "title": "Freedom Park", "original_title": "Freedom Park", "slug_title": "freedom-park", "date": "2004-09-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kjPeQ1NHTc4LOBNSJkNgZfq7nCd.jpg", "actors": [], "comments": [], "recommandations_id": []}

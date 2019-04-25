@@ -1,1 +1,0 @@
-{"tmdb_id": 454198, "title": "Kemtiyu, Cheikh Anta", "original_title": "Kemtiyu, Cheikh Anta", "slug_title": "kemtiyu-cheikh-anta", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/flJ8SfAaml0cIMhbNHBYmxceLsu.jpg", "actors": [], "comments": [], "recommandations_id": []}

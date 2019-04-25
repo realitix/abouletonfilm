@@ -1,1 +1,0 @@
-{"tmdb_id": 482084, "title": "Blues Triste", "original_title": "Blues Triste", "slug_title": "blues-triste", "date": "1962-03-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dagny Wallenborn ((as Dagmy Wallenborn))", "Georg Richard Wenkhaus ()", "Eva Maria Gebel ()"], "comments": [], "recommandations_id": []}

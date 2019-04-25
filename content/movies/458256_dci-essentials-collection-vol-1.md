@@ -1,1 +1,0 @@
-{"tmdb_id": 458256, "title": "DCI Essentials Collection Vol. 1", "original_title": "DCI Essentials Collection Vol. 1", "slug_title": "dci-essentials-collection-vol-1", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eBtaB6LXxkL7j1FSeyiCwIxj6bN.jpg", "actors": [], "comments": [], "recommandations_id": []}

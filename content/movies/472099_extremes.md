@@ -1,1 +1,0 @@
-{"tmdb_id": 472099, "title": "Extremes", "original_title": "Extremes", "slug_title": "extremes", "date": "2015-12-03", "genre": "Myst\u00e8re / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/66ntbvkzahrijZxdHk0k8L1nrjY.jpg", "actors": [], "comments": [], "recommandations_id": []}

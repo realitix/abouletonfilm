@@ -1,1 +1,0 @@
-{"tmdb_id": 578123, "title": "A Dream from the Bath", "original_title": "A Dream from the Bath", "slug_title": "a-dream-from-the-bath", "date": "1985-04-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

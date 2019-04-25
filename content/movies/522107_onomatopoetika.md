@@ -1,1 +1,0 @@
-{"tmdb_id": 522107, "title": "ONOMATOPOETIKA", "original_title": "ONOMATOPOETIKA", "slug_title": "onomatopoetika", "date": "2018-05-17", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vTP1CAgi947IvNL6bGnA7O4uFtb.jpg", "actors": ["Hanna R\u00e4biger (Protagonist)"], "comments": [], "recommandations_id": []}

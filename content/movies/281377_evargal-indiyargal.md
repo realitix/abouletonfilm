@@ -1,1 +1,0 @@
-{"tmdb_id": 281377, "title": "Evargal Indiyargal", "original_title": "Evargal Indiyargal", "slug_title": "evargal-indiyargal", "date": "1987-07-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ramarajan ()", "Madhuri ()", "Lakshmi ()"], "comments": [], "recommandations_id": []}

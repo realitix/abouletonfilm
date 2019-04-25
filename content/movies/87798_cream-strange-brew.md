@@ -1,1 +1,0 @@
-{"tmdb_id": 87798, "title": "Cream - Strange Brew", "original_title": "Cream - Strange Brew", "slug_title": "cream-strange-brew", "date": "1991-06-22", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jr69FsjBfDDgtYemnbAUoElmw9Q.jpg", "actors": [], "comments": [], "recommandations_id": []}

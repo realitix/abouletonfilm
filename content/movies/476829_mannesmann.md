@@ -1,1 +1,0 @@
-{"tmdb_id": 476829, "title": "Mannesmann", "original_title": "Mannesmann", "slug_title": "mannesmann", "date": "1938-04-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oI2LSY8aCLD4fGUm3MmUrZ18vXH.jpg", "actors": [], "comments": [], "recommandations_id": []}

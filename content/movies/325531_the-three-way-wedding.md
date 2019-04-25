@@ -1,1 +1,0 @@
-{"tmdb_id": 325531, "title": "The Three Way Wedding", "original_title": "The Three Way Wedding", "slug_title": "the-three-way-wedding", "date": "2010-05-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Louis Garrel ()", "Julie Depardieu ()", "Pascal Greggory ()"], "comments": [], "recommandations_id": []}

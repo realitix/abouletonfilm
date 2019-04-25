@@ -1,1 +1,1 @@
-{"tmdb_id": 416710, "title": "Bloody Shake", "original_title": "Bloody Shake", "slug_title": "bloody-shake", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 416710, "title": "Bloody Shake", "original_title": "Bloody Shake", "slug_title": "bloody-shake", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

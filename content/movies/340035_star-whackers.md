@@ -1,1 +1,0 @@
-{"tmdb_id": 340035, "title": "Star Whackers", "original_title": "Star Whackers", "slug_title": "star-whackers", "date": "2011-04-23", "genre": "Documentaire", "score": "9.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mBeIgnfnD1BosmtHqU5DsQnGcky.jpg", "actors": ["Randy Quaid (Randy Quaid)"], "comments": [], "recommandations_id": []}

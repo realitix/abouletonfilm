@@ -1,1 +1,0 @@
-{"tmdb_id": 509200, "title": "Place Mattes", "original_title": "Place Mattes", "slug_title": "place-mattes", "date": "1988-03-04", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hUR1eUb2dkysPpyJHnPY2AcxyRh.jpg", "actors": [], "comments": [], "recommandations_id": []}

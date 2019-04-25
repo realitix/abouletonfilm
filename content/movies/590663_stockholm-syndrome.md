@@ -1,1 +1,0 @@
-{"tmdb_id": 590663, "title": "Stockholm Syndrome", "original_title": "Stockholm Syndrome", "slug_title": "stockholm-syndrome", "date": "2008-11-08", "genre": "Horreur / Crime", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Eddie Benevich (Geno)"], "comments": [], "recommandations_id": []}

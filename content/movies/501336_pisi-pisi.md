@@ -1,1 +1,0 @@
-{"tmdb_id": 501336, "title": "Pisi Pisi", "original_title": "Pisi Pisi", "slug_title": "pisi-pisi", "date": "1975-01-01", "genre": "Romance / Drame", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["M\u00fcjde Ar ()", "Kadir \u0130nan\u0131r ()"], "comments": [], "recommandations_id": []}

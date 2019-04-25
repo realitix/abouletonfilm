@@ -1,1 +1,0 @@
-{"tmdb_id": 480969, "title": "EuroTrump", "original_title": "EuroTrump", "slug_title": "eurotrump", "date": "2017-10-11", "genre": "Documentaire", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ds3ThkxYhCJv12h0v7kwrE7T38Q.jpg", "actors": [], "comments": [], "recommandations_id": []}

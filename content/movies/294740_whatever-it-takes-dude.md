@@ -1,1 +1,0 @@
-{"tmdb_id": 294740, "title": "Whatever It Takes, Dude", "original_title": "Whatever It Takes, Dude", "slug_title": "whatever-it-takes-dude", "date": "1993-09-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tkTYYLA1HNE3FS2jxFzwIvFf6Hi.jpg", "actors": [], "comments": [], "recommandations_id": []}

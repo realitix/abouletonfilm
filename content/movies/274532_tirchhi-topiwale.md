@@ -1,1 +1,0 @@
-{"tmdb_id": 274532, "title": "Tirchhi Topiwale", "original_title": "Tirchhi Topiwale", "slug_title": "tirchhi-topiwale", "date": "1998-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

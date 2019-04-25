@@ -1,1 +1,0 @@
-{"tmdb_id": 576201, "title": "The Empire of Mid-South", "original_title": "L'empire du milieu du sud", "slug_title": "the-empire-of-mid-south", "date": "2010-11-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k7gKDDfK8vjAro2OAgszgK2iDAC.jpg", "actors": [], "comments": [], "recommandations_id": []}

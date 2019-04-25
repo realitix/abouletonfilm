@@ -1,1 +1,0 @@
-{"tmdb_id": 359933, "title": "Pendulum", "original_title": "Pendulum", "slug_title": "pendulum", "date": "2015-09-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 81578, "title": "Louder Than a Bomb", "original_title": "Louder Than a Bomb", "slug_title": "louder-than-a-bomb", "date": "2011-05-18", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zF9WnRHUQKc0F41psJMWcnvX5rv.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 591271, "title": "Peperina", "original_title": "Peperina", "slug_title": "peperina", "date": "1995-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Charly Garc\u00eda (Charly Garcia)", "Andrea Del Boca (Patricia Perea)", "Pedro Aznar (Pedro Aznar)"], "comments": [], "recommandations_id": []}

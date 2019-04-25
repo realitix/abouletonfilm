@@ -1,1 +1,0 @@
-{"tmdb_id": 503532, "title": "Surf Casting", "original_title": "Surf Casting", "slug_title": "surf-casting", "date": "1966-02-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

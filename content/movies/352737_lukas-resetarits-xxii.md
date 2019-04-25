@@ -1,1 +1,0 @@
-{"tmdb_id": 352737, "title": "Lukas Resetarits - XXII", "original_title": "Lukas Resetarits - XXII", "slug_title": "lukas-resetarits-xxii", "date": "2007-06-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zJWs4Ta08D7th5QYl2xlREvDAQL.jpg", "actors": ["Lukas Resetarits ()"], "comments": [], "recommandations_id": []}

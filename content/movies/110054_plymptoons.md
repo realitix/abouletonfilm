@@ -1,1 +1,0 @@
-{"tmdb_id": 110054, "title": "Plymptoons", "original_title": "Plymptoons", "slug_title": "plymptoons", "date": "1992-01-01", "genre": "", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cp30djNsi550lZnp7Je8jRwvhcD.jpg", "actors": [], "comments": [], "recommandations_id": [146523]}

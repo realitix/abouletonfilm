@@ -1,1 +1,0 @@
-{"tmdb_id": 413473, "title": "Explosions in the Heart", "original_title": "Eksplosjoner i Hjertet", "slug_title": "explosions-in-the-heart", "date": "2016-06-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Signe Dahl (Elide)", "Tora Dahl (Elise)"], "comments": [], "recommandations_id": []}

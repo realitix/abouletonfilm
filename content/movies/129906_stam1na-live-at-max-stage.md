@@ -1,1 +1,0 @@
-{"tmdb_id": 129906, "title": "Stam1na: Live at Max Stage", "original_title": "Stam1na: Live at Max Stage", "slug_title": "stam1na-live-at-max-stage", "date": "2007-10-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lRbCplUyy1muYBsYrWLcs2L10ca.jpg", "actors": [], "comments": [], "recommandations_id": []}

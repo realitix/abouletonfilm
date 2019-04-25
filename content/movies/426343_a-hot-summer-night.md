@@ -1,1 +1,0 @@
-{"tmdb_id": 426343, "title": "A Hot Summer Night", "original_title": "A Hot Summer Night", "slug_title": "a-hot-summer-night", "date": "1983-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vHGJIy1t7m4aZfkQwgiucz6rALk.jpg", "actors": ["Donna Summer ()"], "comments": [], "recommandations_id": []}

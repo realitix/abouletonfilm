@@ -1,1 +1,0 @@
-{"tmdb_id": 150724, "title": "Max And Ruby - Max's Feast", "original_title": "Max And Ruby - Max's Feast", "slug_title": "max-and-ruby-max-s-feast", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o2sbe7tuo7NZxaSpHrotQAP7Nsr.jpg", "actors": [], "comments": [], "recommandations_id": []}

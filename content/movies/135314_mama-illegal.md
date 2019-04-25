@@ -1,1 +1,0 @@
-{"tmdb_id": 135314, "title": "Mama Illegal", "original_title": "Mama Illegal", "slug_title": "mama-illegal", "date": "2012-09-28", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cEdshGwXq9hMpeQKk85vX7dBTjD.jpg", "actors": [], "comments": [], "recommandations_id": []}

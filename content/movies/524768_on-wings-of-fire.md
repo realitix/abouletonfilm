@@ -1,1 +1,0 @@
-{"tmdb_id": 524768, "title": "On Wings of Fire", "original_title": "On Wings of Fire", "slug_title": "on-wings-of-fire", "date": "1986-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3nfjg9ve3Ilsm55uFIaRMfwSmnE.jpg", "actors": [], "comments": [], "recommandations_id": []}

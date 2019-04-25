@@ -1,1 +1,0 @@
-{"tmdb_id": 292295, "title": "EXTREME REVENGE", "original_title": "EXTREME REVENGE", "slug_title": "extreme-revenge", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

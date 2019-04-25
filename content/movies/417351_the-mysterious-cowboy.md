@@ -1,1 +1,0 @@
-{"tmdb_id": 417351, "title": "The Mysterious Cowboy", "original_title": "The Mysterious Cowboy", "slug_title": "the-mysterious-cowboy", "date": "1952-07-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

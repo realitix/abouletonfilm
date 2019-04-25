@@ -1,1 +1,0 @@
-{"tmdb_id": 276994, "title": "Randy Travis: Worship & Faith", "original_title": "Randy Travis: Worship & Faith", "slug_title": "randy-travis-worship-faith", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

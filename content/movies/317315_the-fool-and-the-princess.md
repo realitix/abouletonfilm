@@ -1,1 +1,0 @@
-{"tmdb_id": 317315, "title": "The Fool and the Princess", "original_title": "The Fool and the Princess", "slug_title": "the-fool-and-the-princess", "date": "1948-01-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

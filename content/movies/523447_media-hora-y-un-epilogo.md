@@ -1,1 +1,0 @@
-{"tmdb_id": 523447, "title": "Media hora (y un ep\u00edlogo)", "original_title": "Media hora (y un ep\u00edlogo)", "slug_title": "media-hora-y-un-epilogo", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ajolLGOA9ngqy2NqhdgetuwLhOb.jpg", "actors": [], "comments": [], "recommandations_id": []}

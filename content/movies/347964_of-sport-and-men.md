@@ -1,1 +1,0 @@
-{"tmdb_id": 347964, "title": "Of Sport and Men", "original_title": "Of Sport and Men", "slug_title": "of-sport-and-men", "date": "1961-01-01", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Richard Gilbert (Narrator)"], "comments": [], "recommandations_id": []}

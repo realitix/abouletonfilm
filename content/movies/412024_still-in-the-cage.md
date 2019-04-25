@@ -1,1 +1,0 @@
-{"tmdb_id": 412024, "title": "Still In The Cage", "original_title": "Still In The Cage", "slug_title": "still-in-the-cage", "date": "2016-08-18", "genre": "", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/63C8euzhHdl853HhrSAOZQcNRrE.jpg", "actors": [], "comments": [], "recommandations_id": []}

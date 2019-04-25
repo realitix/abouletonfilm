@@ -1,1 +1,0 @@
-{"tmdb_id": 147296, "title": "Pride Hardcore Knockouts Vol.2", "original_title": "Pride Hardcore Knockouts Vol.2", "slug_title": "pride-hardcore-knockouts-vol-2", "date": "2006-12-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3bS3n2QUlk3SWZL5W45veGh3nvF.jpg", "actors": [], "comments": [], "recommandations_id": []}

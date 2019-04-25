@@ -1,1 +1,0 @@
-{"tmdb_id": 296469, "title": "Applause for Miss E", "original_title": "Applause for Miss E", "slug_title": "applause-for-miss-e", "date": "2009-07-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

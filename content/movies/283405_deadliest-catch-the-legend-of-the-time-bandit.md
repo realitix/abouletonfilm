@@ -1,1 +1,0 @@
-{"tmdb_id": 283405, "title": "Deadliest Catch: The Legend Of The Time Bandit", "original_title": "Deadliest Catch: The Legend Of The Time Bandit", "slug_title": "deadliest-catch-the-legend-of-the-time-bandit", "date": "2013-04-16", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

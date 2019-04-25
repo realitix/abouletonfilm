@@ -1,1 +1,0 @@
-{"tmdb_id": 496090, "title": "Team Desert Taxi", "original_title": "Team Desert Taxi", "slug_title": "team-desert-taxi", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

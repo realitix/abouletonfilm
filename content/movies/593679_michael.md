@@ -1,1 +1,0 @@
-{"tmdb_id": 593679, "title": "Michael", "original_title": "Michael", "slug_title": "michael", "date": "2018-05-06", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Swastika Mukherjee ()", "Mir ()", "Soumitra Chatterjee ()"], "comments": [], "recommandations_id": []}

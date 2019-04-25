@@ -1,1 +1,0 @@
-{"tmdb_id": 507970, "title": "Heavens to Betsy", "original_title": "Heavens to Betsy", "slug_title": "heavens-to-betsy", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vTzsRXVuDUZjWggrnyhbqwsupAW.jpg", "actors": [], "comments": [], "recommandations_id": []}

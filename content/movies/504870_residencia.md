@@ -1,1 +1,0 @@
-{"tmdb_id": 504870, "title": "Residencia", "original_title": "Residencia", "slug_title": "residencia", "date": "2004-11-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eionEYBkrzrcajLjAshbt9FSuT8.jpg", "actors": [], "comments": [], "recommandations_id": []}

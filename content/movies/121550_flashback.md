@@ -1,1 +1,0 @@
-{"tmdb_id": 121550, "title": "Flashback", "original_title": "Flashback", "slug_title": "flashback", "date": "1969-10-01", "genre": "Guerre / Drame", "score": "6.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4njFfj7uPqZVUUCsyC1b564I0RQ.jpg", "actors": ["Fred Robsahm (Heinz Pruller)", "Pilar Castel ()"], "comments": [], "recommandations_id": []}

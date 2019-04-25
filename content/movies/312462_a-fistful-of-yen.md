@@ -1,1 +1,0 @@
-{"tmdb_id": 312462, "title": "A Fistful of Yen", "original_title": "A Fistful of Yen", "slug_title": "a-fistful-of-yen", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

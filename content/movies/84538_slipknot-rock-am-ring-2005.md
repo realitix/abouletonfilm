@@ -1,1 +1,0 @@
-{"tmdb_id": 84538, "title": "Slipknot: Rock Am Ring 2005", "original_title": "Slipknot: Rock Am Ring 2005", "slug_title": "slipknot-rock-am-ring-2005", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ao3JdiVsU7VPGvhhEwWx81SF3Xj.jpg", "actors": [], "comments": [], "recommandations_id": []}

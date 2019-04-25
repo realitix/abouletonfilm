@@ -1,1 +1,0 @@
-{"tmdb_id": 340396, "title": "Double Lunar Dogs", "original_title": "Double Lunar Dogs", "slug_title": "double-lunar-dogs", "date": "1984-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Joan Jonas ()", "Spalding Gray ()"], "comments": [], "recommandations_id": []}

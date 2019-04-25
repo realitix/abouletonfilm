@@ -1,1 +1,0 @@
-{"tmdb_id": 392968, "title": "New Towns for Old", "original_title": "New Towns for Old", "slug_title": "new-towns-for-old", "date": "1942-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eDNo5K8fG935MN9ZxAh6NKBw89d.jpg", "actors": [], "comments": [], "recommandations_id": []}

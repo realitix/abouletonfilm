@@ -1,1 +1,0 @@
-{"tmdb_id": 411881, "title": "Una historia de Reyes Magos", "original_title": "Una historia de Reyes Magos", "slug_title": "una-historia-de-reyes-magos", "date": "1987-01-02", "genre": "Animation / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

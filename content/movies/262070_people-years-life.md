@@ -1,1 +1,0 @@
-{"tmdb_id": 262070, "title": "People, Years, Life", "original_title": "Uomini, anni, vita", "slug_title": "people-years-life", "date": "1990-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

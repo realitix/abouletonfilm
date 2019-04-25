@@ -1,1 +1,0 @@
-{"tmdb_id": 489912, "title": "Get Along Little Zombie", "original_title": "Get Along Little Zombie", "slug_title": "get-along-little-zombie", "date": "1946-05-09", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hugh Herbert (Hugh)"], "comments": [], "recommandations_id": []}

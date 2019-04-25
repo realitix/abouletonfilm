@@ -1,1 +1,0 @@
-{"tmdb_id": 309335, "title": "O Nascimento do Butoh", "original_title": "O Nascimento do Butoh", "slug_title": "o-nascimento-do-butoh", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

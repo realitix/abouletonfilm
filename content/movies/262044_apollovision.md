@@ -1,1 +1,0 @@
-{"tmdb_id": 262044, "title": "Apollovision", "original_title": "Apollovision", "slug_title": "apollovision", "date": "1969-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

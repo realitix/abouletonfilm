@@ -1,1 +1,0 @@
-{"tmdb_id": 292260, "title": "In God's Hands", "original_title": "In God's Hands", "slug_title": "in-god-s-hands", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

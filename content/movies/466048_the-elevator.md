@@ -1,1 +1,0 @@
-{"tmdb_id": 466048, "title": "The Elevator", "original_title": "The Elevator", "slug_title": "the-elevator", "date": "2010-01-26", "genre": "Com\u00e9die", "score": "8.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3nBCkEiHgt6QRvbHTReraRDplWY.jpg", "actors": [], "comments": [], "recommandations_id": []}

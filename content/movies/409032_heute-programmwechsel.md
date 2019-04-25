@@ -1,1 +1,0 @@
-{"tmdb_id": 409032, "title": "Heute Programmwechsel", "original_title": "Heute Programmwechsel", "slug_title": "heute-programmwechsel", "date": "1958-04-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

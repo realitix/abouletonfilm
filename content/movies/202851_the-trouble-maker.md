@@ -1,1 +1,0 @@
-{"tmdb_id": 202851, "title": "The Trouble Maker", "original_title": "The Trouble Maker", "slug_title": "the-trouble-maker", "date": "1959-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8gVUUoW0E7mTXvp2ah5Z8pRQzUZ.jpg", "actors": ["Bret Waller (Mel Stone)"], "comments": [], "recommandations_id": []}

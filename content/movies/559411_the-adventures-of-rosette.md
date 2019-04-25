@@ -1,1 +1,0 @@
-{"tmdb_id": 559411, "title": "The Adventures of Rosette", "original_title": "Les aventures de Rosette", "slug_title": "the-adventures-of-rosette", "date": "1983-04-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rosette (Rosette)"], "comments": [], "recommandations_id": []}

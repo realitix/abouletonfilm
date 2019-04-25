@@ -1,1 +1,0 @@
-{"tmdb_id": 425167, "title": "Black Metal", "original_title": "Black Metal", "slug_title": "black-metal", "date": "1998-03-10", "genre": "Musique / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uZzGnG86l8gQjS7zQ1BXCltpkw0.jpg", "actors": [], "comments": [], "recommandations_id": []}

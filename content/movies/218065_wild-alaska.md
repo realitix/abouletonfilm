@@ -1,1 +1,0 @@
-{"tmdb_id": 218065, "title": "Wild Alaska", "original_title": "Wild Alaska", "slug_title": "wild-alaska", "date": "2012-10-14", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8mMN7qHPm4EakbPAthD2Xm700Ve.jpg", "actors": [], "comments": [], "recommandations_id": []}

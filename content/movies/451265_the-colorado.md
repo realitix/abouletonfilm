@@ -1,1 +1,0 @@
-{"tmdb_id": 451265, "title": "The Colorado", "original_title": "The Colorado", "slug_title": "the-colorado", "date": "2016-05-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d7zvWpIknmsCMVqHiVXWl4EvuBV.jpg", "actors": [], "comments": [], "recommandations_id": []}

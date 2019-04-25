@@ -1,1 +1,0 @@
-{"tmdb_id": 382611, "title": "Days Without Light", "original_title": "D\u00edas sin luz", "slug_title": "days-without-light", "date": "1995-05-17", "genre": "", "score": "5.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3sKLEmGdQDieP397EFxGp7YBb5T.jpg", "actors": [], "comments": [], "recommandations_id": [101021, 119259, 43328, 4500]}

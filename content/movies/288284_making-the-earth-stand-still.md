@@ -1,1 +1,0 @@
-{"tmdb_id": 288284, "title": "Making the Earth Stand Still", "original_title": "Making the Earth Stand Still", "slug_title": "making-the-earth-stand-still", "date": "1995-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

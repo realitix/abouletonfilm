@@ -1,1 +1,0 @@
-{"tmdb_id": 520253, "title": "Pipe Down", "original_title": "Pipe Down", "slug_title": "pipe-down", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

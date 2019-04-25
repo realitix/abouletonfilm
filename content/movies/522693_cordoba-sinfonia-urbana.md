@@ -1,1 +1,0 @@
-{"tmdb_id": 522693, "title": "C\u00f3rdoba, s\u00ednfonia urbana", "original_title": "C\u00f3rdoba, s\u00ednfonia urbana", "slug_title": "cordoba-sinfonia-urbana", "date": "2017-11-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lYrcwMVdAkQ8fu1xhEDNvREeuxh.jpg", "actors": [], "comments": [], "recommandations_id": []}

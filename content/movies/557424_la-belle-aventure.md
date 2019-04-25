@@ -1,1 +1,0 @@
-{"tmdb_id": 557424, "title": "La belle aventure", "original_title": "La belle aventure", "slug_title": "la-belle-aventure", "date": "1932-12-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

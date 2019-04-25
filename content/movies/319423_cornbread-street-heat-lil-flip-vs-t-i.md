@@ -1,1 +1,0 @@
-{"tmdb_id": 319423, "title": "Cornbread: Street Heat: Lil' Flip vs. T.I.", "original_title": "Cornbread: Street Heat: Lil' Flip vs. T.I.", "slug_title": "cornbread-street-heat-lil-flip-vs-t-i", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 381930, "title": "I Am Yup'ik", "original_title": "I Am Yup'ik", "slug_title": "i-am-yup-ik", "date": "2016-01-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qTfnsP0BUA4S3fppXOH4GdgdfMO.jpg", "actors": [], "comments": [], "recommandations_id": []}

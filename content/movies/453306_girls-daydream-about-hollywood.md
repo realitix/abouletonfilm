@@ -1,1 +1,0 @@
-{"tmdb_id": 453306, "title": "Girls Daydream About Hollywood", "original_title": "Girls Daydream About Hollywood", "slug_title": "girls-daydream-about-hollywood", "date": "1992-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AjskOOjsgP4traRBMqq7Vl6lAmy.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 274028, "title": "Journey of the Giant", "original_title": "Journey of the Giant", "slug_title": "journey-of-the-giant", "date": "2000-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

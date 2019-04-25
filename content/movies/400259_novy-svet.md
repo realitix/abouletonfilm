@@ -1,1 +1,0 @@
-{"tmdb_id": 400259, "title": "Nov\u00fd svet", "original_title": "Nov\u00fd svet", "slug_title": "novy-svet", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

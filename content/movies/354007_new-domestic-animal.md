@@ -1,1 +1,0 @@
-{"tmdb_id": 354007, "title": "New Domestic Animal", "original_title": "Nova doma\u0107a \u017eivotinja", "slug_title": "new-domestic-animal", "date": "1964-08-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cMChBhm9swrtjSJiHVqvbZ23EeC.jpg", "actors": [], "comments": [], "recommandations_id": []}

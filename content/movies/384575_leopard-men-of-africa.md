@@ -1,1 +1,0 @@
-{"tmdb_id": 384575, "title": "Leopard Men of Africa", "original_title": "Leopard Men of Africa", "slug_title": "leopard-men-of-africa", "date": "1940-07-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8GFrFfvvk3OwhzHbTmGdVsjJGRo.jpg", "actors": [], "comments": [], "recommandations_id": []}

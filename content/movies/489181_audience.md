@@ -1,1 +1,0 @@
-{"tmdb_id": 489181, "title": "Audience", "original_title": "Audience", "slug_title": "audience", "date": "1981-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

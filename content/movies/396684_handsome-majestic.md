@@ -1,1 +1,0 @@
-{"tmdb_id": 396684, "title": "Handsome & Majestic", "original_title": "Handsome & Majestic", "slug_title": "handsome-majestic", "date": "2016-05-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/67rkSteWEqk0mGiQaSbJUT3P50G.jpg", "actors": [], "comments": [], "recommandations_id": []}

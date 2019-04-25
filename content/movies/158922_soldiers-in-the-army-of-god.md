@@ -1,1 +1,0 @@
-{"tmdb_id": 158922, "title": "Soldiers in the Army of God", "original_title": "Soldiers in the Army of God", "slug_title": "soldiers-in-the-army-of-god", "date": "2000-09-10", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3pEfI7vws9nGNMsC7mbew6GjwEU.jpg", "actors": [], "comments": [], "recommandations_id": []}

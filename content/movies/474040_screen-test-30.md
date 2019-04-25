@@ -1,1 +1,0 @@
-{"tmdb_id": 474040, "title": "Screen Test 30", "original_title": "Screen Test 30", "slug_title": "screen-test-30", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bradley Cook ()", "Jaro Vykvet ()", "Jeffrey Lloyd (Milos Ovcacek)"], "comments": [], "recommandations_id": []}

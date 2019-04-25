@@ -1,1 +1,0 @@
-{"tmdb_id": 548666, "title": "Blue Line Chicago", "original_title": "Blue Line Chicago", "slug_title": "blue-line-chicago", "date": "2014-06-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yiobSm9vqQMaz1635vWMVdmNqJO.jpg", "actors": [], "comments": [], "recommandations_id": []}

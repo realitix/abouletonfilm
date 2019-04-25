@@ -1,1 +1,0 @@
-{"tmdb_id": 590375, "title": "Return Trip", "original_title": "Return Trip", "slug_title": "return-trip", "date": "2001-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

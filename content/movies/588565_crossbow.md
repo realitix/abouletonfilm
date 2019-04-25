@@ -1,1 +1,0 @@
-{"tmdb_id": 588565, "title": "Crossbow", "original_title": "Kusza", "slug_title": "crossbow", "date": "1963-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2bu2hUYwlqDHzfG4UcxzzvI8enj.jpg", "actors": [], "comments": [], "recommandations_id": []}

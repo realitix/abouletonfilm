@@ -1,1 +1,0 @@
-{"tmdb_id": 570062, "title": "Essere donne", "original_title": "Essere donne", "slug_title": "essere-donne", "date": "1964-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3Yn1Zs1qt9Nf7jjXOvKmV4RrWK3.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 456432, "title": "Simplemente Manu NNa", "original_title": "Simplemente Manu NNa", "slug_title": "simplemente-manu-nna", "date": "2017-05-05", "genre": "Com\u00e9die", "score": "4.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7bL3jGiE6rk4dsyaugLaZkk5rkS.jpg", "actors": ["Manu NNa (Himself)"], "comments": [], "recommandations_id": []}

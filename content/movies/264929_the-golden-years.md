@@ -1,1 +1,0 @@
-{"tmdb_id": 264929, "title": "The Golden Years", "original_title": "The Golden Years", "slug_title": "the-golden-years", "date": "1992-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tony Osoba ()", "Ronald Pickup ()", "Robert Powell ()"], "comments": [], "recommandations_id": []}

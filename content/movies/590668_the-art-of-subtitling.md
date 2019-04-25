@@ -1,1 +1,0 @@
-{"tmdb_id": 590668, "title": "The Art of Subtitling", "original_title": "The Art of Subtitling", "slug_title": "the-art-of-subtitling", "date": "2018-12-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lhbsp9oMACcny1E4TMafFXtaOO2.jpg", "actors": ["Bruce Goldstein (Himself)"], "comments": [], "recommandations_id": []}

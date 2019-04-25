@@ -1,1 +1,0 @@
-{"tmdb_id": 297165, "title": "Hungarikum", "original_title": "Hungarikum", "slug_title": "hungarikum", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yfS0tTWFMwXzmauJuPgiuudJ615.jpg", "actors": ["L\u00e1szl\u00f3 J\u00e1ks\u00f3 (Narr\u00e1tor)"], "comments": [], "recommandations_id": []}

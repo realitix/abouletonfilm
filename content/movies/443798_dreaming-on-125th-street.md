@@ -1,1 +1,0 @@
-{"tmdb_id": 443798, "title": "Dreaming on 125th Street", "original_title": "Dreaming on 125th Street", "slug_title": "dreaming-on-125th-street", "date": "2008-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

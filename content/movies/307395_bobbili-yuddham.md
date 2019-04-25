@@ -1,1 +1,0 @@
-{"tmdb_id": 307395, "title": "Bobbili Yuddham", "original_title": "Bobbili Yuddham", "slug_title": "bobbili-yuddham", "date": "1964-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

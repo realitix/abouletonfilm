@@ -1,1 +1,0 @@
-{"tmdb_id": 382146, "title": "Who We Are", "original_title": "Wie wij zijn", "slug_title": "who-we-are", "date": "2015-09-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

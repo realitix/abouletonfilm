@@ -1,1 +1,0 @@
-{"tmdb_id": 62549, "title": "Concorde - British Airways", "original_title": "Concorde - British Airways", "slug_title": "concorde-british-airways", "date": "1996-09-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6EjPGcKF2si8bJL4prLljAkNa7m.jpg", "actors": [], "comments": [], "recommandations_id": []}

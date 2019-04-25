@@ -1,1 +1,0 @@
-{"tmdb_id": 231972, "title": "Panorama of Beach and Cliff House", "original_title": "Panorama of Beach and Cliff House", "slug_title": "panorama-of-beach-and-cliff-house", "date": "1903-09-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

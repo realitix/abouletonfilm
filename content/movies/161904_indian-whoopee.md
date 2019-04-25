@@ -1,1 +1,0 @@
-{"tmdb_id": 161904, "title": "Indian Whoopee", "original_title": "Indian Whoopee", "slug_title": "indian-whoopee", "date": "1933-07-06", "genre": "", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

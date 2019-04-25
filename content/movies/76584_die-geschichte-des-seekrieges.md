@@ -1,1 +1,0 @@
-{"tmdb_id": 76584, "title": "Die Geschichte des Seekrieges", "original_title": "Die Geschichte des Seekrieges", "slug_title": "die-geschichte-des-seekrieges", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zvsu8f2Sm6lQw9ijCpoDkBkQrRh.jpg", "actors": [], "comments": [], "recommandations_id": []}

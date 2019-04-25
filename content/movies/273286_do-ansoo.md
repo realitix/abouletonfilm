@@ -1,1 +1,0 @@
-{"tmdb_id": 273286, "title": "Do Ansoo", "original_title": "Do Ansoo", "slug_title": "do-ansoo", "date": "1950-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mohammad Afzal ()", "Ajmal ()", "Allauddin ()"], "comments": [], "recommandations_id": []}

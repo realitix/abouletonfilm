@@ -1,1 +1,0 @@
-{"tmdb_id": 72635, "title": "Fire Over Afghanistan", "original_title": "Fire Over Afghanistan", "slug_title": "fire-over-afghanistan", "date": "2003-01-01", "genre": "Drame / Action / Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9S6MIR6Qxc9glQ26IEXf4f2htcO.jpg", "actors": [], "comments": [], "recommandations_id": []}

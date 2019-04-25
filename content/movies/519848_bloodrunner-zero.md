@@ -1,1 +1,0 @@
-{"tmdb_id": 519848, "title": "Bloodrunner Zero", "original_title": "Bloodrunner Zero", "slug_title": "bloodrunner-zero", "date": "2018-04-29", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/obKsKKrDd7DZ2S88QKiNeyz8mTG.jpg", "actors": ["Zero Syoujyo ()"], "comments": [], "recommandations_id": []}

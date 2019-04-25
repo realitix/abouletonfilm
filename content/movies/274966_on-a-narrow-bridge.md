@@ -1,1 +1,0 @@
-{"tmdb_id": 274966, "title": "On a narrow bridge", "original_title": "Gesher Tzar Me'od", "slug_title": "on-a-narrow-bridge", "date": "1985-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Yussuf Abu-Warda ()", "Jacques Cohen ()", "Tuncel Curtiz ()"], "comments": [], "recommandations_id": []}

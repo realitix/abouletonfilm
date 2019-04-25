@@ -1,1 +1,0 @@
-{"tmdb_id": 464451, "title": "Excursion", "original_title": "Excursion", "slug_title": "excursion", "date": "2003-07-04", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["John Gaden (Narrator)", "Damian Hill (Nameless)"], "comments": [], "recommandations_id": []}

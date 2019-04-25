@@ -1,1 +1,0 @@
-{"tmdb_id": 77740, "title": "Bunny Play Date", "original_title": "Bunny Play Date", "slug_title": "bunny-play-date", "date": "2011-06-14", "genre": "Action / Com\u00e9die / Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dRcxek6oC29zucLqTa3265tMlp0.jpg", "actors": [], "comments": [], "recommandations_id": []}

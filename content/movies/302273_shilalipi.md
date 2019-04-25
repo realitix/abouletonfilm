@@ -1,1 +1,0 @@
-{"tmdb_id": 302273, "title": "Shilalipi", "original_title": "Shilalipi", "slug_title": "shilalipi", "date": "1956-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

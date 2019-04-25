@@ -1,1 +1,0 @@
-{"tmdb_id": 195876, "title": "Views of the Grand Parade, Cork", "original_title": "Views of the Grand Parade, Cork", "slug_title": "views-of-the-grand-parade-cork", "date": "1902-05-22", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

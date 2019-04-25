@@ -1,1 +1,0 @@
-{"tmdb_id": 355359, "title": "Sharon's Girls", "original_title": "Sharon's Girls", "slug_title": "sharon-s-girls", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

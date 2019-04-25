@@ -1,1 +1,0 @@
-{"tmdb_id": 579923, "title": "Dark Son: The Hunt for a Serial Killer", "original_title": "Dark Son: The Hunt for a Serial Killer", "slug_title": "dark-son-the-hunt-for-a-serial-killer", "date": "2019-01-12", "genre": "Documentaire / Crime", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 208709, "title": "Man, Myth and Titans", "original_title": "Man, Myth and Titans", "slug_title": "man-myth-and-titans", "date": "1981-07-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

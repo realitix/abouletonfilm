@@ -1,1 +1,0 @@
-{"tmdb_id": 286916, "title": "Devil's Island", "original_title": "Devil's Island", "slug_title": "devil-s-island", "date": "2001-08-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

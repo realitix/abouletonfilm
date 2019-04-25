@@ -1,1 +1,0 @@
-{"tmdb_id": 546335, "title": "The Doo Dah Man", "original_title": "The Doo Dah Man", "slug_title": "the-doo-dah-man", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Glenn Morshower (Smitty)"], "comments": [], "recommandations_id": []}

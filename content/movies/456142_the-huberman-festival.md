@@ -1,1 +1,0 @@
-{"tmdb_id": 456142, "title": "The Huberman Festival", "original_title": "The Huberman Festival", "slug_title": "the-huberman-festival", "date": "2007-06-26", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uynjBYnu9ZTzZCp7Ro6v3SpAdqY.jpg", "actors": [], "comments": [], "recommandations_id": []}

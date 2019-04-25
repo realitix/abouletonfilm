@@ -1,1 +1,0 @@
-{"tmdb_id": 431809, "title": "Highway Stars", "original_title": "\uc545\uc0ac\ub4e4", "slug_title": "highway-stars", "date": "2014-12-04", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qLc48nryzgOeXwhhDRvTBUsBqza.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 595396, "title": "Simple Sis", "original_title": "Simple Sis", "slug_title": "simple-sis", "date": "1927-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s0J2Tv2fcmGnyzwwEdOpBs8r4y2.jpg", "actors": [], "comments": [], "recommandations_id": []}

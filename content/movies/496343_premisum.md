@@ -1,1 +1,0 @@
-{"tmdb_id": 496343, "title": "Premisum", "original_title": "Premisum", "slug_title": "premisum", "date": "2010-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Amulya ()", "Chetan Chandra ()", "Ananth Nag ()", "Avinash ()"], "comments": [], "recommandations_id": []}

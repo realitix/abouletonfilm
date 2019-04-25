@@ -1,1 +1,0 @@
-{"tmdb_id": 501818, "title": "Self Portrait: Birth in 47 KM", "original_title": "Self Portrait: Birth in 47 KM", "slug_title": "self-portrait-birth-in-47-km", "date": "2017-10-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 48325, "title": "Ritterschlag", "original_title": "Ritterschlag", "slug_title": "ritterschlag", "date": "2003-01-01", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nw3Qbs2WIfhdtAjsXmeuiXMb3Yo.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 582875, "title": "Tainted Image", "original_title": "Tainted Image", "slug_title": "tainted-image", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 435578, "title": "The Final Hellride", "original_title": "The Final Hellride", "slug_title": "the-final-hellride", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8XOH9ianNJR5SFRnvhtYczzwy0Q.jpg", "actors": [], "comments": [], "recommandations_id": []}

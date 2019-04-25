@@ -1,1 +1,0 @@
-{"tmdb_id": 277067, "title": "Randy Brecker: Some Skunk Funk", "original_title": "Randy Brecker: Some Skunk Funk", "slug_title": "randy-brecker-some-skunk-funk", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

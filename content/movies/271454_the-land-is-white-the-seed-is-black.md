@@ -1,1 +1,0 @@
-{"tmdb_id": 271454, "title": "The Land Is White, the Seed Is Black", "original_title": "The Land Is White, the Seed Is Black", "slug_title": "the-land-is-white-the-seed-is-black", "date": "1998-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 330085, "title": "Roar: Lions of the Kalahari", "original_title": "Roar: Lions of the Kalahari", "slug_title": "roar-lions-of-the-kalahari", "date": "2007-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kkTV877W4BXHlXDWcyhTQTRxJNn.jpg", "actors": [], "comments": [], "recommandations_id": []}

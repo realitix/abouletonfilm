@@ -1,1 +1,0 @@
-{"tmdb_id": 559907, "title": "Green Knight", "original_title": "Green Knight", "slug_title": "green-knight", "date": "", "genre": "Drame / Fantastique / Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dev Patel (Sir Gawain)", "Ralph Ineson ()", "Barry Keoghan ()", "Alicia Vikander ()"], "comments": [], "recommandations_id": []}

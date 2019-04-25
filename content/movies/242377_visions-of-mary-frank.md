@@ -1,1 +1,0 @@
-{"tmdb_id": 242377, "title": "Visions of Mary Frank", "original_title": "Visions of Mary Frank", "slug_title": "visions-of-mary-frank", "date": "2014-04-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tNUngfjBeHgBz8R5SlLJNuO3rwL.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 102836, "title": "Wham! Bam! Islam!", "original_title": "Wham! Bam! Islam!", "slug_title": "wham-bam-islam", "date": "2011-10-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xL3lZt82YrtSxLLbk8asG4GZvkY.jpg", "actors": [], "comments": [], "recommandations_id": []}

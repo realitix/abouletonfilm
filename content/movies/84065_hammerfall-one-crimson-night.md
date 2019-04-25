@@ -1,1 +1,0 @@
-{"tmdb_id": 84065, "title": "Hammerfall: One Crimson Night", "original_title": "Hammerfall: One Crimson Night", "slug_title": "hammerfall-one-crimson-night", "date": "2004-07-28", "genre": "Musique", "score": "4.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7phSMHJcNDQI3B7pWJzgHTQjuGv.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 563735, "title": "Audiens", "original_title": "Audiens", "slug_title": "audiens", "date": "1981-11-08", "genre": "T\u00e9l\u00e9film", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Carl-Ivar Nilsson (Van\u00e9k)", "Ernst G\u00fcnther (Brewmaster)"], "comments": [], "recommandations_id": []}

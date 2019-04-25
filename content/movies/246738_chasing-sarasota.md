@@ -1,1 +1,0 @@
-{"tmdb_id": 246738, "title": "Chasing Sarasota", "original_title": "Chasing Sarasota", "slug_title": "chasing-sarasota", "date": "2012-11-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/80qVqHBvh751jQcDXAoAagu8UA6.jpg", "actors": [], "comments": [], "recommandations_id": []}

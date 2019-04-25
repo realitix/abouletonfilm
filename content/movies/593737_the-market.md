@@ -1,1 +1,0 @@
-{"tmdb_id": 593737, "title": "The Market", "original_title": "The Market", "slug_title": "the-market", "date": "2018-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

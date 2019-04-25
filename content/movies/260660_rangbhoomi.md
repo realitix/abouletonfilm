@@ -1,1 +1,0 @@
-{"tmdb_id": 260660, "title": "Rangbhoomi", "original_title": "Rangbhoomi", "slug_title": "rangbhoomi", "date": "2013-11-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/68GTDfwXikFx0spuHV1ydOUcQdo.jpg", "actors": [], "comments": [], "recommandations_id": []}

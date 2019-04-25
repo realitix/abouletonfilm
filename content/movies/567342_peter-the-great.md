@@ -1,1 +1,0 @@
-{"tmdb_id": 567342, "title": "Peter the Great", "original_title": "Pyotr Velikiy", "slug_title": "peter-the-great", "date": "1910-01-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

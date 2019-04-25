@@ -1,1 +1,0 @@
-{"tmdb_id": 186836, "title": "Leo Ku Amazing World Live 2011", "original_title": "Leo Ku Amazing World Live 2011", "slug_title": "leo-ku-amazing-world-live-2011", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

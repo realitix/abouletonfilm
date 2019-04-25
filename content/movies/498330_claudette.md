@@ -1,1 +1,0 @@
-{"tmdb_id": 498330, "title": "Claudette", "original_title": "Claudette", "slug_title": "claudette", "date": "2009-11-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

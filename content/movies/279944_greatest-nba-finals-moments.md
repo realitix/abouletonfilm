@@ -1,1 +1,0 @@
-{"tmdb_id": 279944, "title": "Greatest NBA Finals Moments", "original_title": "Greatest NBA Finals Moments", "slug_title": "greatest-nba-finals-moments", "date": "2000-10-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dQrwxkBK1sygVXerCruFG8sp7PZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

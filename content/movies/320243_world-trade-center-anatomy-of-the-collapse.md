@@ -1,1 +1,0 @@
-{"tmdb_id": 320243, "title": "World Trade Center: Anatomy of the Collapse", "original_title": "World Trade Center: Anatomy of the Collapse", "slug_title": "world-trade-center-anatomy-of-the-collapse", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

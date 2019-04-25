@@ -1,1 +1,0 @@
-{"tmdb_id": 392946, "title": "Wheels on Fire", "original_title": "Wheels on Fire", "slug_title": "wheels-on-fire", "date": "1973-12-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3NRiLNMEV5A6Zb2fWAdp7dU6xqH.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 518545, "title": "Planetary Nebula", "original_title": "Planetary Nebula", "slug_title": "planetary-nebula", "date": "2018-04-22", "genre": "Documentaire / Fantastique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lWhMxNAUYXPiKCweTcabnTDaxWW.jpg", "actors": [], "comments": [], "recommandations_id": []}

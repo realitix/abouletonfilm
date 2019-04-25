@@ -1,1 +1,0 @@
-{"tmdb_id": 570398, "title": "La Opera del Mondongo", "original_title": "La Opera del Mondongo", "slug_title": "la-opera-del-mondongo", "date": "1974-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

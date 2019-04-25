@@ -1,1 +1,0 @@
-{"tmdb_id": 581198, "title": "The Joy of Water at the Zoo", "original_title": "Wasserfreuden im Tierpark", "slug_title": "the-joy-of-water-at-the-zoo", "date": "1931-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

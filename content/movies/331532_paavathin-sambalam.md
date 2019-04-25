@@ -1,1 +1,0 @@
-{"tmdb_id": 331532, "title": "Paavathin Sambalam", "original_title": "Paavathin Sambalam", "slug_title": "paavathin-sambalam", "date": "1978-09-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rajinikanth ()"], "comments": [], "recommandations_id": []}

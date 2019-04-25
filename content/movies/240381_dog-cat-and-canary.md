@@ -1,1 +1,0 @@
-{"tmdb_id": 240381, "title": "Dog, Cat, and Canary", "original_title": "Dog, Cat, and Canary", "slug_title": "dog-cat-and-canary", "date": "1945-01-05", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6ZqoHdtSYNnrbmaddoowo0UIoEE.jpg", "actors": [], "comments": [], "recommandations_id": []}

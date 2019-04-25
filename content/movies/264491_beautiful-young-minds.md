@@ -1,1 +1,0 @@
-{"tmdb_id": 264491, "title": "Beautiful Young Minds", "original_title": "Beautiful Young Minds", "slug_title": "beautiful-young-minds", "date": "2009-10-01", "genre": "Documentaire", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iR32qSf0L6vkUtgDMbonVFrpjvN.jpg", "actors": [], "comments": [], "recommandations_id": []}

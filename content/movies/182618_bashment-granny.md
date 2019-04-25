@@ -1,1 +1,0 @@
-{"tmdb_id": 182618, "title": "Bashment Granny", "original_title": "Bashment Granny", "slug_title": "bashment-granny", "date": "2009-12-01", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zp9qPzknOMJdMLNAmMBxVbsEza9.jpg", "actors": [], "comments": [{"pseudo": "Lee", "content": "."}], "recommandations_id": []}

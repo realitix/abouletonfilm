@@ -1,1 +1,0 @@
-{"tmdb_id": 433664, "title": "Benjamin Bl\u00fcmchen Classics - als Koch", "original_title": "Benjamin Bl\u00fcmchen Classics - als Koch", "slug_title": "benjamin-blumchen-classics-als-koch", "date": "", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

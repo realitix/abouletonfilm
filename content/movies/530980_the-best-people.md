@@ -1,1 +1,0 @@
-{"tmdb_id": 530980, "title": "The Best People", "original_title": "The Best People", "slug_title": "the-best-people", "date": "", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 508907, "title": "Unwordly", "original_title": "Unwordly", "slug_title": "unwordly", "date": "2010-10-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iIO3oHYbv8F5aZ9OxOe8GqFAWAs.jpg", "actors": [], "comments": [], "recommandations_id": []}

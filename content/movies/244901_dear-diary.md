@@ -1,1 +1,0 @@
-{"tmdb_id": 244901, "title": "Dear Diary", "original_title": "Dear Diary", "slug_title": "dear-diary", "date": "1996-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 116363, "title": "The Struggle", "original_title": "K\u00fczd\u00f6k", "slug_title": "the-struggle", "date": "1977-01-01", "genre": "", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/snRO30LnDwyPOh2ecnYOQYKl9Tw.jpg", "actors": [], "comments": [], "recommandations_id": []}

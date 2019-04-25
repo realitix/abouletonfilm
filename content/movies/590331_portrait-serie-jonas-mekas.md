@@ -1,1 +1,0 @@
-{"tmdb_id": 590331, "title": "Portrait Serie - Jonas Mekas", "original_title": "Portrait Serie - Jonas Mekas", "slug_title": "portrait-serie-jonas-mekas", "date": "2010-10-14", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jonas Mekas (himself)"], "comments": [], "recommandations_id": []}

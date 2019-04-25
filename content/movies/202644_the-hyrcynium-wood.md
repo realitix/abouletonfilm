@@ -1,1 +1,0 @@
-{"tmdb_id": 202644, "title": "The Hyrcynium Wood", "original_title": "The Hyrcynium Wood", "slug_title": "the-hyrcynium-wood", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lielRqaMHROFeKhqnWFToZ5ovMi.jpg", "actors": [], "comments": [], "recommandations_id": []}

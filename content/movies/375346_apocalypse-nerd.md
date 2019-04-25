@@ -1,1 +1,0 @@
-{"tmdb_id": 375346, "title": "Apocalypse Nerd", "original_title": "Apocalypse Nerd", "slug_title": "apocalypse-nerd", "date": "", "genre": "", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

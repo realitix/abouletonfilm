@@ -1,1 +1,0 @@
-{"tmdb_id": 469521, "title": "Primrose", "original_title": "Primrose", "slug_title": "primrose", "date": "2015-03-14", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6xEyh3BIrwOwA03AQCbSs1AHFqo.jpg", "actors": ["Clara Aranovich (Woman)", "Nick Thurston (Ape)"], "comments": [], "recommandations_id": []}

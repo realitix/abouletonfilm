@@ -1,1 +1,0 @@
-{"tmdb_id": 230292, "title": "The Pig's Retribution", "original_title": "Buta no mukui", "slug_title": "the-pig-s-retribution", "date": "1999-07-09", "genre": "Drame", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o2BDbWUQkjEK8DR18f5nGAkaFMo.jpg", "actors": [], "comments": [], "recommandations_id": []}

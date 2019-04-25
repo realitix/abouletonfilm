@@ -1,1 +1,0 @@
-{"tmdb_id": 385439, "title": "\uc18c\ub140\uc640 \uc5ec\uc790", "original_title": "\uc18c\ub140\uc640 \uc5ec\uc790", "slug_title": "sonyeowa-yeoja", "date": "2016-06-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f9pxuuCJ8XVL6vdZQY9BDbwRnR8.jpg", "actors": [], "comments": [], "recommandations_id": []}

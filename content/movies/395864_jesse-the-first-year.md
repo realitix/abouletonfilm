@@ -1,1 +1,0 @@
-{"tmdb_id": 395864, "title": "Jesse: The First Year", "original_title": "Jesse: The First Year", "slug_title": "jesse-the-first-year", "date": "1979-05-03", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8qEpGqDcuDdevVk83jIuABmQRlU.jpg", "actors": [], "comments": [], "recommandations_id": []}

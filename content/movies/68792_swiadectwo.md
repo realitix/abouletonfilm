@@ -1,1 +1,0 @@
-{"tmdb_id": 68792, "title": "\u015awiadectwo", "original_title": "\u015awiadectwo", "slug_title": "swiadectwo", "date": "2008-10-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p2nR2g4zxcDtsQI3aASHvy4pzUh.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 590638, "title": "Briga de Galos", "original_title": "Briga de Galos", "slug_title": "briga-de-galos", "date": "1978-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

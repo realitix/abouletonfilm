@@ -1,1 +1,0 @@
-{"tmdb_id": 285719, "title": "Bosnia Diaries", "original_title": "Di\u00e1rios da B\u00f3snia", "slug_title": "bosnia-diaries", "date": "2006-07-13", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nT376Bpkd68lbbOmG7Y4vSIFM7y.jpg", "actors": [], "comments": [], "recommandations_id": []}

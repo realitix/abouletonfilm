@@ -1,1 +1,0 @@
-{"tmdb_id": 13175, "title": "Esoteric Agenda", "original_title": "Esoteric Agenda", "slug_title": "esoteric-agenda", "date": "2008-02-28", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5YsoV3HCF2c7sXOy7xnNo5RHp3n.jpg", "actors": ["Ben Stewart (Narrator)"], "comments": [], "recommandations_id": []}

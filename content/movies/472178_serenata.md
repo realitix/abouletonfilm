@@ -1,1 +1,0 @@
-{"tmdb_id": 472178, "title": "Serenata", "original_title": "Serenata", "slug_title": "serenata", "date": "2016-08-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sHuTrHcebxhpBsunf5uOEU6F9nU.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 428764, "title": "Le sexe des anges", "original_title": "Le sexe des anges", "slug_title": "le-sexe-des-anges", "date": "1977-01-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jRrMInVwmcZ6GVUYV1rySU6oU57.jpg", "actors": [], "comments": [], "recommandations_id": []}

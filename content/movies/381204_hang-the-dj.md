@@ -1,1 +1,0 @@
-{"tmdb_id": 381204, "title": "Hang the DJ", "original_title": "Hang the DJ", "slug_title": "hang-the-dj", "date": "1998-09-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

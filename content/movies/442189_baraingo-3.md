@@ -1,1 +1,0 @@
-{"tmdb_id": 442189, "title": "Baraingo 3", "original_title": "Baraingo 3", "slug_title": "baraingo-3", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7kBHVW4OeyRNzL3Ckx3FTetGIdF.jpg", "actors": [], "comments": [], "recommandations_id": []}

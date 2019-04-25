@@ -1,1 +1,0 @@
-{"tmdb_id": 464665, "title": "The Animal", "original_title": "The Animal", "slug_title": "the-animal", "date": "2007-12-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Chelsie Rae ()", "Audrey Hollander ()", "Otto Bauer ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 580362, "title": "eXposed: The Making of a Legend", "original_title": "eXposed: The Making of a Legend", "slug_title": "exposed-the-making-of-a-legend", "date": "2005-07-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mQQabbp0AEMYKoqtEaZw3O1xj0a.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 345091, "title": "Mimesis", "original_title": "Mimesis", "slug_title": "mimesis", "date": "2006-08-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

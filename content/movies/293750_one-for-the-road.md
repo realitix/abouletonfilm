@@ -1,1 +1,0 @@
-{"tmdb_id": 293750, "title": "One For the Road", "original_title": "One For the Road", "slug_title": "one-for-the-road", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

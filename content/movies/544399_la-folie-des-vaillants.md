@@ -1,1 +1,0 @@
-{"tmdb_id": 544399, "title": "La folie des vaillants", "original_title": "La folie des vaillants", "slug_title": "la-folie-des-vaillants", "date": "1926-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lia Loo (The bohemian)", "Rapha\u00ebl Lievin (The gypsy)", "Castelluci ()"], "comments": [], "recommandations_id": []}

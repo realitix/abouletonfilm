@@ -1,1 +1,0 @@
-{"tmdb_id": 417043, "title": "Elephants Shooting the Chutes at Luna Park", "original_title": "Elephants Shooting the Chutes at Luna Park", "slug_title": "elephants-shooting-the-chutes-at-luna-park", "date": "1904-06-19", "genre": "", "score": "5.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

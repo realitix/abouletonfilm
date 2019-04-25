@@ -1,1 +1,0 @@
-{"tmdb_id": 374063, "title": "Chanuka at Bubbe's", "original_title": "Chanuka at Bubbe's", "slug_title": "chanuka-at-bubbe-s", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2NostNBMtvaaaGRPJ12VPIGtSda.jpg", "actors": [], "comments": [], "recommandations_id": []}

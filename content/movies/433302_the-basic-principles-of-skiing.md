@@ -1,1 +1,0 @@
-{"tmdb_id": 433302, "title": "The Basic Principles of Skiing", "original_title": "The Basic Principles of Skiing", "slug_title": "the-basic-principles-of-skiing", "date": "1941-01-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kZh37K2eIqOU47Vj85YVkXQFXoS.jpg", "actors": [], "comments": [], "recommandations_id": []}

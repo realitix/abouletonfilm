@@ -1,1 +1,0 @@
-{"tmdb_id": 340956, "title": "Sincerity", "original_title": "Sinceridad", "slug_title": "sincerity", "date": "2010-07-19", "genre": "Drame / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ra\u00fal Ar\u00e9valo (Quim)", "Alicia Rubio (Yolanda)"], "comments": [], "recommandations_id": []}

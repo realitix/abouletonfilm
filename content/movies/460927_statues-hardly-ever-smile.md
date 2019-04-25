@@ -1,1 +1,0 @@
-{"tmdb_id": 460927, "title": "Statues Hardly Ever Smile", "original_title": "Statues Hardly Ever Smile", "slug_title": "statues-hardly-ever-smile", "date": "1971-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

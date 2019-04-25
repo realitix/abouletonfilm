@@ -1,1 +1,0 @@
-{"tmdb_id": 67995, "title": "Squid Invasion", "original_title": "Squid Invasion", "slug_title": "squid-invasion", "date": "", "genre": "Documentaire", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8pwUl5BQwfbhFuF52i70qeIlBwW.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 379171, "title": "Sugar Blues", "original_title": "Cukr-blog", "slug_title": "sugar-blues", "date": "2014-01-24", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qX6exczcR2v8u8L8X8LRBmkLdJx.jpg", "actors": [], "comments": [], "recommandations_id": []}

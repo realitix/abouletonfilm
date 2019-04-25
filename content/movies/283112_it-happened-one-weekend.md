@@ -1,1 +1,0 @@
-{"tmdb_id": 283112, "title": "It Happened One Weekend", "original_title": "It Happened One Weekend", "slug_title": "it-happened-one-weekend", "date": "1974-10-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bW0FMOisB7AOSSMdv69unm8sd6f.jpg", "actors": ["Palmer Rockey (Bruce)"], "comments": [], "recommandations_id": []}

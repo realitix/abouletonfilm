@@ -1,1 +1,0 @@
-{"tmdb_id": 560998, "title": "The Blonde Gypsy", "original_title": "La caraque blonde", "slug_title": "the-blonde-gypsy", "date": "1953-09-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

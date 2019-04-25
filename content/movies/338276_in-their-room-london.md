@@ -1,1 +1,0 @@
-{"tmdb_id": 338276, "title": "In Their Room: London", "original_title": "In Their Room: London", "slug_title": "in-their-room-london", "date": "2013-06-23", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dNrs87sJLhBDvietJVPq0d0XLLh.jpg", "actors": [], "comments": [], "recommandations_id": []}

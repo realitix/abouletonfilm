@@ -1,1 +1,0 @@
-{"tmdb_id": 169860, "title": "Hey Bartender", "original_title": "Hey Bartender", "slug_title": "hey-bartender", "date": "2013-06-07", "genre": "Documentaire", "score": "4.6/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m7jneeX9RhyNLKLqX3Ox0TJ9RTQ.jpg", "actors": [], "comments": [], "recommandations_id": [82622, 98644]}

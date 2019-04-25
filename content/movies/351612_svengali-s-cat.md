@@ -1,1 +1,0 @@
-{"tmdb_id": 351612, "title": "Svengali's Cat", "original_title": "Svengali's Cat", "slug_title": "svengali-s-cat", "date": "1946-01-08", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rMLsUOtQelTFCV5ebJwgJXpjiuH.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 335285, "title": "Waking the T. Rex: The Story of SUE", "original_title": "Waking the T. Rex: The Story of SUE", "slug_title": "waking-the-t-rex-the-story-of-sue", "date": "2010-05-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

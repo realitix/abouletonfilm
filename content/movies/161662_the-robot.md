@@ -1,1 +1,0 @@
-{"tmdb_id": 161662, "title": "The Robot", "original_title": "The Robot", "slug_title": "the-robot", "date": "1932-02-05", "genre": "Romance / Animation / Com\u00e9die", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nM8ISNmoyXq9Osj3YsCb8LSR14E.jpg", "actors": [], "comments": [], "recommandations_id": []}

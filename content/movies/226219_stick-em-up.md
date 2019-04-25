@@ -1,1 +1,0 @@
-{"tmdb_id": 226219, "title": "Stick 'Em Up!", "original_title": "Stick 'Em Up!", "slug_title": "stick-em-up", "date": "2011-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

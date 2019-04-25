@@ -1,1 +1,0 @@
-{"tmdb_id": 497113, "title": "Der Doppelbr\u00e4utigam", "original_title": "Der Doppelbr\u00e4utigam", "slug_title": "der-doppelbrautigam", "date": "1934-06-21", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

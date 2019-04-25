@@ -1,1 +1,0 @@
-{"tmdb_id": 284559, "title": "Bei guo Jiang Nan", "original_title": "Bei guo Jiang Nan", "slug_title": "bei-guo-jiang-nan", "date": "1963-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ji Ma ()", "Qin Yi ()", "Yongping Sun ()"], "comments": [], "recommandations_id": []}

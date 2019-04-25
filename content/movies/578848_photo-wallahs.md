@@ -1,1 +1,0 @@
-{"tmdb_id": 578848, "title": "Photo Wallahs", "original_title": "Photo Wallahs", "slug_title": "photo-wallahs", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mh1L0S2GYmUyFmfMquYRFR5su9J.jpg", "actors": [], "comments": [], "recommandations_id": []}

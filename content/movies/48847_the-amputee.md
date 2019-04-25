@@ -1,1 +1,0 @@
-{"tmdb_id": 48847, "title": "The Amputee", "original_title": "The Amputee", "slug_title": "the-amputee", "date": "1974-01-01", "genre": "Drame", "score": "5.4/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Catherine E. Coulson (Woman)", "David Lynch (Nurse)"], "comments": [], "recommandations_id": [48784, 44239, 44510, 173863]}

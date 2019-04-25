@@ -1,1 +1,0 @@
-{"tmdb_id": 219932, "title": "The Dollhouse Murders", "original_title": "The Dollhouse Murders", "slug_title": "the-dollhouse-murders", "date": "1992-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Amanda Rowse ()", "Lindsay Jackson ()", "Rebekah Baker ()"], "comments": [], "recommandations_id": []}

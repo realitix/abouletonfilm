@@ -1,1 +1,0 @@
-{"tmdb_id": 124267, "title": "Neil Young Trunk Show", "original_title": "Neil Young Trunk Show", "slug_title": "neil-young-trunk-show", "date": "2009-03-21", "genre": "Musique", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/daHNtQfouoq6TXSSM1BxRJOLdVy.jpg", "actors": ["Neil Young (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 566761, "title": "Le mannequin de Belleville", "original_title": "Le mannequin de Belleville", "slug_title": "le-mannequin-de-belleville", "date": "1962-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

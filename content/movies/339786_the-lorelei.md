@@ -1,1 +1,0 @@
-{"tmdb_id": 339786, "title": "The Lorelei", "original_title": "The Lorelei", "slug_title": "the-lorelei", "date": "1931-11-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

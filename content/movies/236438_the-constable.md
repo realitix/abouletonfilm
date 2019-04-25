@@ -1,1 +1,0 @@
-{"tmdb_id": 236438, "title": "The Constable", "original_title": "The Constable", "slug_title": "the-constable", "date": "1940-11-14", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zxPNGY6Bjq68aoOXUTH51aiwdEv.jpg", "actors": [], "comments": [], "recommandations_id": []}

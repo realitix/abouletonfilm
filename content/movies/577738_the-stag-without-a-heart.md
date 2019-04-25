@@ -1,1 +1,0 @@
-{"tmdb_id": 577738, "title": "The Stag Without a Heart", "original_title": "The Stag Without a Heart", "slug_title": "the-stag-without-a-heart", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AfilYon6V30oB0r6Po1x5nm72aY.jpg", "actors": [], "comments": [], "recommandations_id": []}

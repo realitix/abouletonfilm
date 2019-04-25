@@ -1,1 +1,0 @@
-{"tmdb_id": 312349, "title": "Carl Perkins: A Rock 'N' Roll Legend", "original_title": "Carl Perkins: A Rock 'N' Roll Legend", "slug_title": "carl-perkins-a-rock-n-roll-legend", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

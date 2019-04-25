@@ -1,1 +1,0 @@
-{"tmdb_id": 319260, "title": "Call of the West", "original_title": "Call of the West", "slug_title": "call-of-the-west", "date": "1930-05-09", "genre": "Western", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ccVYKi1JDAwj6vO8T9T3OLAITHn.jpg", "actors": ["Dorothy Revier (Violet La Tour)"], "comments": [], "recommandations_id": []}

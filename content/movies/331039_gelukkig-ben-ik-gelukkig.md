@@ -1,1 +1,0 @@
-{"tmdb_id": 331039, "title": "Gelukkig ben ik Gelukkig", "original_title": "Gelukkig ben ik Gelukkig", "slug_title": "gelukkig-ben-ik-gelukkig", "date": "2014-09-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z4XfZ1N9dx11hkWplsXwuhrossW.jpg", "actors": [], "comments": [], "recommandations_id": []}

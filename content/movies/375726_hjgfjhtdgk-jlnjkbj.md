@@ -1,1 +1,0 @@
-{"tmdb_id": 375726, "title": "hjgfjhtdgk,jlnjkbj,", "original_title": "hjgfjhtdgk,jlnjkbj,", "slug_title": "hjgfjhtdgk-jlnjkbj", "date": "2014-11-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9PKzy1o8Ek3b6sQQvuzCEZEJ2r1.jpg", "actors": [], "comments": [], "recommandations_id": []}

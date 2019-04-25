@@ -1,1 +1,0 @@
-{"tmdb_id": 516972, "title": "Shangku Shelter", "original_title": "Shangku Shelter", "slug_title": "shangku-shelter", "date": "2018-03-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mxx8dt6py0sM0s28RCPzMdo2etF.jpg", "actors": [], "comments": [], "recommandations_id": []}

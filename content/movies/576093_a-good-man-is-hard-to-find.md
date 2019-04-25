@@ -1,1 +1,0 @@
-{"tmdb_id": 576093, "title": "A Good Man Is Hard to Find", "original_title": "A Good Man Is Hard to Find", "slug_title": "a-good-man-is-hard-to-find", "date": "2012-08-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jYOuBVPtd2mooNXQ0VjgCfNYkbL.jpg", "actors": [], "comments": [], "recommandations_id": []}

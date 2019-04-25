@@ -1,1 +1,0 @@
-{"tmdb_id": 520818, "title": "A Day Out", "original_title": "A Day Out", "slug_title": "a-day-out", "date": "2001-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Liam Donovan (Jamie)"], "comments": [], "recommandations_id": []}

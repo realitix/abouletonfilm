@@ -1,1 +1,1 @@
-{"tmdb_id": 524542, "title": "Violator", "original_title": "Violator", "slug_title": "violator", "date": "2018-05-25", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 524542, "title": "Violator", "original_title": "Violator", "slug_title": "violator", "date": "2018-05-25", "genre": ["Action"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

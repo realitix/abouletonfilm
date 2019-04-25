@@ -1,1 +1,0 @@
-{"tmdb_id": 358731, "title": "Our Canteens", "original_title": "Our Canteens", "slug_title": "our-canteens", "date": "1951-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

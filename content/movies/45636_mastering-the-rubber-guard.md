@@ -1,1 +1,0 @@
-{"tmdb_id": 45636, "title": "Mastering the Rubber Guard", "original_title": "Mastering the Rubber Guard", "slug_title": "mastering-the-rubber-guard", "date": "", "genre": "", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m3mx4G7o4TIcvhAs5NdTUohSH6v.jpg", "actors": ["Eddie Bravo (Himself)"], "comments": [], "recommandations_id": []}

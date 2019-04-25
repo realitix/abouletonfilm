@@ -1,1 +1,0 @@
-{"tmdb_id": 325937, "title": "Colourge", "original_title": "Colourge", "slug_title": "colourge", "date": "1984-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

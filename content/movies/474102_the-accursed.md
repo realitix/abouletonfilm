@@ -1,1 +1,0 @@
-{"tmdb_id": 474102, "title": "The Accursed", "original_title": "The Accursed", "slug_title": "the-accursed", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

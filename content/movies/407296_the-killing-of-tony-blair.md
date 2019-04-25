@@ -1,1 +1,0 @@
-{"tmdb_id": 407296, "title": "The Killing$ of Tony Blair", "original_title": "The Killing$ of Tony Blair", "slug_title": "the-killing-of-tony-blair", "date": "2016-07-27", "genre": "Documentaire", "score": "7.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nozBjUqHvN2J5MA1T0Yv2hXjpXW.jpg", "actors": [], "comments": [], "recommandations_id": []}

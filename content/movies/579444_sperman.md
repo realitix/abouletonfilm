@@ -1,1 +1,0 @@
-{"tmdb_id": 579444, "title": "SPERMAN", "original_title": "SPERMAN", "slug_title": "sperman", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

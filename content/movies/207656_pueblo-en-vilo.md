@@ -1,1 +1,0 @@
-{"tmdb_id": 207656, "title": "Pueblo en Vilo", "original_title": "Pueblo en Vilo", "slug_title": "pueblo-en-vilo", "date": "1995-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

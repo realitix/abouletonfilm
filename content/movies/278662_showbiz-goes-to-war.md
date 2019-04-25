@@ -1,1 +1,0 @@
-{"tmdb_id": 278662, "title": "Showbiz Goes to War", "original_title": "Showbiz Goes to War", "slug_title": "showbiz-goes-to-war", "date": "1982-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

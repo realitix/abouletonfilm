@@ -1,1 +1,0 @@
-{"tmdb_id": 315687, "title": "VeggieTales: Happy Together", "original_title": "VeggieTales: Happy Together", "slug_title": "veggietales-happy-together", "date": "2011-01-01", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mPdQVKRnvGvpMiAlAPjU6BaV1Gb.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 415679, "title": "The Dragons of Jim Green", "original_title": "The Dragons of Jim Green", "slug_title": "the-dragons-of-jim-green", "date": "2012-04-17", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4iSoouOGmiYJlO4oPztHfqoHtLe.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 520759, "title": "This Mountain Life", "original_title": "This Mountain Life", "slug_title": "this-mountain-life", "date": "2018-04-30", "genre": "Documentaire / Aventure", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a06YERFLdv2Mu1T0cFDcOTmQqTP.jpg", "actors": [], "comments": [], "recommandations_id": []}

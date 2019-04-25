@@ -1,1 +1,0 @@
-{"tmdb_id": 567806, "title": "A Linha da Arte", "original_title": "A Linha da Arte", "slug_title": "a-linha-da-arte", "date": "2018-12-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mXjS3eQnAfOCm5NsSrgv9QEMYHp.jpg", "actors": [], "comments": [], "recommandations_id": []}

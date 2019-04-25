@@ -1,1 +1,0 @@
-{"tmdb_id": 412295, "title": "Simpson Street", "original_title": "Simpson Street", "slug_title": "simpson-street", "date": "1979-05-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9B5u045Z7ftOuxzC4CxU5eqF5ik.jpg", "actors": [], "comments": [], "recommandations_id": []}

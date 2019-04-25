@@ -1,1 +1,0 @@
-{"tmdb_id": 564714, "title": "re_making", "original_title": "re_making", "slug_title": "re-making", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

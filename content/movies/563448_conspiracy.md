@@ -1,1 +1,0 @@
-{"tmdb_id": 563448, "title": "Conspiracy", "original_title": "Sameswering", "slug_title": "conspiracy", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Johan Nel (Duiwel)"], "comments": [], "recommandations_id": []}

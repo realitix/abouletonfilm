@@ -1,1 +1,0 @@
-{"tmdb_id": 53191, "title": "Crazy Sexy Cancer", "original_title": "Crazy Sexy Cancer", "slug_title": "crazy-sexy-cancer", "date": "2007-03-11", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kBjDGv4B79mOdQjEVGKNbcMtb0U.jpg", "actors": [], "comments": [], "recommandations_id": []}

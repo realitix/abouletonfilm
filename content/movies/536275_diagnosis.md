@@ -1,1 +1,0 @@
-{"tmdb_id": 536275, "title": "Diagnosis", "original_title": "Diagnosis", "slug_title": "diagnosis", "date": "2017-04-19", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4AQfyJlvFf9CQtDKXREnj2T8Ech.jpg", "actors": ["Charlotte Spencer (Sally)", "Andrew Bridgmont (Gary)"], "comments": [], "recommandations_id": []}

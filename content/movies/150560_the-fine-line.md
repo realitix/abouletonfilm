@@ -1,1 +1,0 @@
-{"tmdb_id": 150560, "title": "The Fine Line", "original_title": "The Fine Line", "slug_title": "the-fine-line", "date": "2008-11-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s7Djqh8cqSvsQnJIXy7iwmeG48M.jpg", "actors": [], "comments": [], "recommandations_id": []}

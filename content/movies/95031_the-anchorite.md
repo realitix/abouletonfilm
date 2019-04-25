@@ -1,1 +1,0 @@
-{"tmdb_id": 95031, "title": "The Anchorite", "original_title": "El Anacoreta", "slug_title": "the-anchorite", "date": "1977-01-01", "genre": "", "score": "7.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4E4432WS0TdRNknpxAYOu8ESmip.jpg", "actors": [], "comments": [], "recommandations_id": []}

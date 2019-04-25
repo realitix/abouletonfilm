@@ -1,1 +1,0 @@
-{"tmdb_id": 419309, "title": "Club Dead", "original_title": "Club Dead", "slug_title": "club-dead", "date": "2000-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eKoJqrV48BvSnehBipUxflXKJdo.jpg", "actors": ["Tommy Kirk (Private Detective)"], "comments": [], "recommandations_id": []}

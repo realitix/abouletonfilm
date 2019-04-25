@@ -1,1 +1,0 @@
-{"tmdb_id": 360021, "title": "Delta Phase 1", "original_title": "Delta Phase 1", "slug_title": "delta-phase-1", "date": "1962-08-08", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/stFE2AwJ3u7sByMXrmH59zK5R5T.jpg", "actors": [], "comments": [], "recommandations_id": []}

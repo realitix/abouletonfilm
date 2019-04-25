@@ -1,1 +1,0 @@
-{"tmdb_id": 307919, "title": "Jeevana Chakra", "original_title": "Jeevana Chakra", "slug_title": "jeevana-chakra", "date": "1985-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

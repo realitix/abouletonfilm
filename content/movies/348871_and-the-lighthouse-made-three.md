@@ -1,1 +1,0 @@
-{"tmdb_id": 348871, "title": "And the Lighthouse Made Three", "original_title": "And the Lighthouse Made Three", "slug_title": "and-the-lighthouse-made-three", "date": "1986-07-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 385308, "title": "Duas Pessoas", "original_title": "Duas Pessoas", "slug_title": "duas-pessoas", "date": "2004-11-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rui Morrison (Client)", "Julie Sergeant (Prostitute)"], "comments": [], "recommandations_id": []}

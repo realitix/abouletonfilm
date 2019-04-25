@@ -1,1 +1,0 @@
-{"tmdb_id": 474148, "title": "Souvenirs/Paris", "original_title": "Souvenirs/Paris", "slug_title": "souvenirs-paris", "date": "1980-11-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2F4v0UatGXese0oOeQ78MApjh2M.jpg", "actors": [], "comments": [], "recommandations_id": []}

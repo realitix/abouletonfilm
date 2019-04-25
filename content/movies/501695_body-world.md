@@ -1,1 +1,0 @@
-{"tmdb_id": 501695, "title": "Body World", "original_title": "Body World", "slug_title": "body-world", "date": "2017-10-11", "genre": "Animation", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

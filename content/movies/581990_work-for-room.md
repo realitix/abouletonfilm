@@ -1,1 +1,0 @@
-{"tmdb_id": 581990, "title": "Work for Room", "original_title": "Work for Room", "slug_title": "work-for-room", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hAMKUwSmyVVqE7aMftSChykV1ip.jpg", "actors": [], "comments": [], "recommandations_id": []}

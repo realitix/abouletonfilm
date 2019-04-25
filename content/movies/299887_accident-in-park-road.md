@@ -1,1 +1,0 @@
-{"tmdb_id": 299887, "title": "Accident in Park Road", "original_title": "Accident in Park Road", "slug_title": "accident-in-park-road", "date": "1988-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v4w8Yax0hZEVnNen6s0CQzNlH6Y.jpg", "actors": [], "comments": [], "recommandations_id": []}

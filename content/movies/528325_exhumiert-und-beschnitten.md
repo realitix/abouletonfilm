@@ -1,1 +1,0 @@
-{"tmdb_id": 528325, "title": "Exhumiert und Beschnitten", "original_title": "Exhumiert und Beschnitten", "slug_title": "exhumiert-und-beschnitten", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zZOjVRqUgL48hqZEPu6pUBQex14.jpg", "actors": [], "comments": [], "recommandations_id": []}

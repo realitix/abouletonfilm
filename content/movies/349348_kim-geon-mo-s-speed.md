@@ -1,1 +1,0 @@
-{"tmdb_id": 349348, "title": "Kim Geon-mo's Speed", "original_title": "\uae40\uac74\ubaa8\uc758 \uc2a4\ud53c\ub4dc", "slug_title": "kim-geon-mo-s-speed", "date": "1997-11-11", "genre": "Com\u00e9die / Action", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

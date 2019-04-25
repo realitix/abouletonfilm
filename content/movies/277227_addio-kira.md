@@ -1,1 +1,0 @@
-{"tmdb_id": 277227, "title": "Addio Kira!", "original_title": "Addio Kira!", "slug_title": "addio-kira", "date": "1942-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Alida Valli ()", "Fosco Giachetti ()", "Rossano Brazzi ()"], "comments": [], "recommandations_id": []}

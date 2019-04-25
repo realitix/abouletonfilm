@@ -1,1 +1,0 @@
-{"tmdb_id": 193549, "title": "The Stage Hand", "original_title": "The Stage Hand", "slug_title": "the-stage-hand", "date": "1933-09-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Harry Langdon (Harry)"], "comments": [], "recommandations_id": []}

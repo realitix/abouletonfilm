@@ -1,1 +1,0 @@
-{"tmdb_id": 526582, "title": "American Muscle", "original_title": "American Muscle", "slug_title": "american-muscle", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7eK5vuAJ03BV2WN7spVYNTUryB2.jpg", "actors": [], "comments": [], "recommandations_id": []}

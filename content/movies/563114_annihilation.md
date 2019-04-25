@@ -1,1 +1,0 @@
-{"tmdb_id": 563114, "title": "Annihilation", "original_title": "Annihilation", "slug_title": "annihilation", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 323780, "title": "The Jingle Dress", "original_title": "The Jingle Dress", "slug_title": "the-jingle-dress", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

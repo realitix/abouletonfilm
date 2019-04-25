@@ -1,1 +1,0 @@
-{"tmdb_id": 474928, "title": "The Thinnest Line", "original_title": "The Thinnest Line", "slug_title": "the-thinnest-line", "date": "1988-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 511749, "title": "17 a mezzanotte", "original_title": "17 a mezzanotte", "slug_title": "17-a-mezzanotte", "date": "2015-01-17", "genre": "Horreur / Fantastique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pG6rd9MhpHp1ZuyBY7X3oxAWESG.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 303014, "title": "Killer Whale and Crocodile - Documentary", "original_title": "Killer Whale and Crocodile - Documentary", "slug_title": "killer-whale-and-crocodile-documentary", "date": "2007-08-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

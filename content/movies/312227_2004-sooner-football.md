@@ -1,1 +1,0 @@
-{"tmdb_id": 312227, "title": "2004 Sooner Football", "original_title": "2004 Sooner Football", "slug_title": "2004-sooner-football", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

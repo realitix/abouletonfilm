@@ -1,1 +1,0 @@
-{"tmdb_id": 493801, "title": "Nights of the Bumblebee", "original_title": "Nights of the Bumblebee", "slug_title": "nights-of-the-bumblebee", "date": "2017-12-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rv5SbjScx17iuyUSVRNL3xuwArb.jpg", "actors": [], "comments": [], "recommandations_id": []}

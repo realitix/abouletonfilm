@@ -1,1 +1,0 @@
-{"tmdb_id": 472514, "title": "J.G. Ballard: The Future Is Now", "original_title": "J.G. Ballard: The Future Is Now", "slug_title": "j-g-ballard-the-future-is-now", "date": "1998-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["J.G. Ballard ()"], "comments": [], "recommandations_id": []}

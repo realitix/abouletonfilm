@@ -1,1 +1,0 @@
-{"tmdb_id": 110056, "title": "Dirty Minded Wife 25", "original_title": "Dirty Minded Wife 25", "slug_title": "dirty-minded-wife-25", "date": "1950-07-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/30yVITMyvlRWAs9HFeW5RE0hG5.jpg", "actors": [], "comments": [], "recommandations_id": []}

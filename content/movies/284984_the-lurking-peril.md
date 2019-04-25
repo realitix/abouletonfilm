@@ -1,1 +1,0 @@
-{"tmdb_id": 284984, "title": "The Lurking Peril", "original_title": "The Lurking Peril", "slug_title": "the-lurking-peril", "date": "1916-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Marguerite Courtot ()", "Richard Purdon ()", "Arthur Albertson ()"], "comments": [], "recommandations_id": []}

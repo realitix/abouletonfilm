@@ -1,1 +1,1 @@
-{"tmdb_id": 429206, "title": "CineFlux", "original_title": "CineFlux", "slug_title": "cineflux", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 429206, "title": "CineFlux", "original_title": "CineFlux", "slug_title": "cineflux", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "oedhieude wdieid d ed eid eid die die diyg diey diey d", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

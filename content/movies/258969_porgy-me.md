@@ -1,1 +1,0 @@
-{"tmdb_id": 258969, "title": "Porgy & Me", "original_title": "Porgy & Me", "slug_title": "porgy-me", "date": "2010-01-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nqfl71JNhNQmLSypJXxjGO1gfxL.jpg", "actors": ["Jermaine Smith (Himself)"], "comments": [], "recommandations_id": []}

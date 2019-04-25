@@ -1,1 +1,0 @@
-{"tmdb_id": 336515, "title": "The Cure Acoustic Hits", "original_title": "The Cure Acoustic Hits", "slug_title": "the-cure-acoustic-hits", "date": "2001-12-11", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/soXEKipEl3K5DfKDrn6NBJMKpof.jpg", "actors": [], "comments": [], "recommandations_id": []}

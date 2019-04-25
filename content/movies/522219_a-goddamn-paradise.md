@@ -1,1 +1,0 @@
-{"tmdb_id": 522219, "title": "A Goddamn Paradise", "original_title": "Ett j\u00e4vla paradis", "slug_title": "a-goddamn-paradise", "date": "2018-05-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z2Tjtq93TtS3jd3dB2Zj6zcMIC9.jpg", "actors": [], "comments": [], "recommandations_id": []}

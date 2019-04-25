@@ -1,1 +1,0 @@
-{"tmdb_id": 217508, "title": "Sor Juana Inez de la cruz", "original_title": "Sor Juana Inez de la cruz", "slug_title": "sor-juana-inez-de-la-cruz", "date": "1988-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Isabel Benet ()", "Mar\u00eda Fern\u00e1ndez ()", "Martin LaSalle ()"], "comments": [], "recommandations_id": []}

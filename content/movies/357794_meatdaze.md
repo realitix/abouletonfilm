@@ -1,1 +1,0 @@
-{"tmdb_id": 357794, "title": "Meatdaze", "original_title": "Meatdaze", "slug_title": "meatdaze", "date": "1968-01-02", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t5JZiSMyw6Jl0goylURHNMIFhQV.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 509787, "title": "Phenomenon No. 1", "original_title": "Phenomenon No. 1", "slug_title": "phenomenon-no-1", "date": "1964-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mB1EM8tjdEWn3CcarKucVZetAEY.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 379664, "title": "Why Vandalism?", "original_title": "Why Vandalism?", "slug_title": "why-vandalism", "date": "1955-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3Jnbt0Mya96sM9mRCQLGqQHjq1J.jpg", "actors": [], "comments": [], "recommandations_id": []}

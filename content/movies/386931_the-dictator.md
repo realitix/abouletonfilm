@@ -1,1 +1,0 @@
-{"tmdb_id": 386931, "title": "The Dictator", "original_title": "The Dictator", "slug_title": "the-dictator", "date": "1978-01-01", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

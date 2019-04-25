@@ -1,1 +1,0 @@
-{"tmdb_id": 527074, "title": "Oh! Mammy Blue", "original_title": "Oh! Mammy Blue", "slug_title": "oh-mammy-blue", "date": "2018-05-29", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aGbwUqjcnvsOc4r8eJ9LD9VCf2Q.jpg", "actors": [], "comments": [], "recommandations_id": []}

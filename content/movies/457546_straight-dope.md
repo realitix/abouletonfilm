@@ -1,1 +1,0 @@
-{"tmdb_id": 457546, "title": "Straight Dope", "original_title": "Straight Dope", "slug_title": "straight-dope", "date": "1994-08-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wupKTNTNyGo8sOUulmNDpwnC9Nx.jpg", "actors": ["Kurt Loder (Himself (Host))"], "comments": [], "recommandations_id": []}

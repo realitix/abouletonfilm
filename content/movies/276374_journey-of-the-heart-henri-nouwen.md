@@ -1,1 +1,0 @@
-{"tmdb_id": 276374, "title": "Journey of the Heart: Henri Nouwen", "original_title": "Journey of the Heart: Henri Nouwen", "slug_title": "journey-of-the-heart-henri-nouwen", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

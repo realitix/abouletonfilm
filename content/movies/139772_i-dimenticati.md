@@ -1,1 +1,0 @@
-{"tmdb_id": 139772, "title": "I dimenticati", "original_title": "I dimenticati", "slug_title": "i-dimenticati", "date": "1959-06-01", "genre": "Documentaire", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j633BTwMZ0E1TJ1o0SpKreJHBcr.jpg", "actors": [], "comments": [], "recommandations_id": [239428, 147159, 148068, 148118]}

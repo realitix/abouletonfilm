@@ -1,1 +1,0 @@
-{"tmdb_id": 453227, "title": "The Reversible Divers", "original_title": "The Reversible Divers", "slug_title": "the-reversible-divers", "date": "1901-08-20", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

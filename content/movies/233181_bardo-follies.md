@@ -1,1 +1,0 @@
-{"tmdb_id": 233181, "title": "Bardo Follies", "original_title": "Bardo Follies", "slug_title": "bardo-follies", "date": "1967-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6pCu8HsKX95xiO1876LIH9nrs5S.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 347081, "title": "11 Paper Place", "original_title": "11 Paper Place", "slug_title": "11-paper-place", "date": "2014-06-23", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nLV1YaavSmgmNHHr6TUtU6gTTWt.jpg", "actors": [], "comments": [], "recommandations_id": []}

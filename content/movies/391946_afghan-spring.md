@@ -1,1 +1,0 @@
-{"tmdb_id": 391946, "title": "Afghan Spring", "original_title": "Yomigaere Kar\u00eazu", "slug_title": "afghan-spring", "date": "1989-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4aIgpbK8gb6SGYAx1ysNlATMIgU.jpg", "actors": [], "comments": [], "recommandations_id": []}

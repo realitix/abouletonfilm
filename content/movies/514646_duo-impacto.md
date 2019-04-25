@@ -1,1 +1,0 @@
-{"tmdb_id": 514646, "title": "Duo Impacto", "original_title": "Duo Impacto", "slug_title": "duo-impacto", "date": "2017-11-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eeucZinYu4450WGfeq4hYPE7Jkr.jpg", "actors": [], "comments": [], "recommandations_id": []}

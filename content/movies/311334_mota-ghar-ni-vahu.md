@@ -1,1 +1,0 @@
-{"tmdb_id": 311334, "title": "Mota Ghar Ni Vahu", "original_title": "Mota Ghar Ni Vahu", "slug_title": "mota-ghar-ni-vahu", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

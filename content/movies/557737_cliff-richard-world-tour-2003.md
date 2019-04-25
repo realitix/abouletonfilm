@@ -1,1 +1,0 @@
-{"tmdb_id": 557737, "title": "Cliff Richard. World Tour 2003", "original_title": "Cliff Richard. World Tour 2003", "slug_title": "cliff-richard-world-tour-2003", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sztPdGGpZsuFxZJGp4Yczl6KZfx.jpg", "actors": [], "comments": [], "recommandations_id": []}

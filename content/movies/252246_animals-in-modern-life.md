@@ -1,1 +1,0 @@
-{"tmdb_id": 252246, "title": "Animals in Modern Life", "original_title": "Animals in Modern Life", "slug_title": "animals-in-modern-life", "date": "1937-01-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

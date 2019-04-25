@@ -1,1 +1,0 @@
-{"tmdb_id": 533034, "title": "Romeo y Julieta", "original_title": "Romeo y Julieta", "slug_title": "romeo-y-julieta", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j6FBQAVDoWi3dnkHEy0pD6zhqXM.jpg", "actors": [], "comments": [], "recommandations_id": []}

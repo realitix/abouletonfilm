@@ -1,1 +1,0 @@
-{"tmdb_id": 533264, "title": "Du beurre dans les tartines", "original_title": "Du beurre dans les tartines", "slug_title": "du-beurre-dans-les-tartines", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

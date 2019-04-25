@@ -1,1 +1,0 @@
-{"tmdb_id": 359351, "title": "War Work: 8 Songs with Film", "original_title": "War Work: 8 Songs with Film", "slug_title": "war-work-8-songs-with-film", "date": "2014-11-28", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4SFz5djWt9UgF6hnTf09VdVX1G4.jpg", "actors": [], "comments": [], "recommandations_id": []}

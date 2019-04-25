@@ -1,1 +1,0 @@
-{"tmdb_id": 335169, "title": "Cristian Castro: En Primera Fila Dia 2", "original_title": "Cristian Castro: En Primera Fila Dia 2", "slug_title": "cristian-castro-en-primera-fila-dia-2", "date": "2014-04-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

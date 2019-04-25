@@ -1,1 +1,0 @@
-{"tmdb_id": 147338, "title": "Double Down", "original_title": "Double Down", "slug_title": "double-down", "date": "2001-06-14", "genre": "", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/79S24DyEhNpSbwOZdEy1USw8d9p.jpg", "actors": [], "comments": [], "recommandations_id": []}

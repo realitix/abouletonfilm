@@ -1,1 +1,0 @@
-{"tmdb_id": 245023, "title": "The Substitute", "original_title": "The Substitute", "slug_title": "the-substitute", "date": "2007-01-01", "genre": "", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aYv83rrJBwBjtpDlgP30yHYljhj.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 274042, "title": "The Devil Operation", "original_title": "The Devil Operation", "slug_title": "the-devil-operation", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

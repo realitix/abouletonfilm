@@ -1,1 +1,0 @@
-{"tmdb_id": 559423, "title": "Backcare Yoga", "original_title": "Backcare Yoga", "slug_title": "backcare-yoga", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

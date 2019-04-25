@@ -1,1 +1,0 @@
-{"tmdb_id": 199576, "title": "In Bob We Trust", "original_title": "In Bob We Trust", "slug_title": "in-bob-we-trust", "date": "2013-10-17", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cYmDawIqovoJzu6ag1Glbx0hfRH.jpg", "actors": ["Father Bob Maguire (himself)"], "comments": [], "recommandations_id": []}

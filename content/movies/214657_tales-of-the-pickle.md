@@ -1,1 +1,0 @@
-{"tmdb_id": 214657, "title": "Tales of the Pickle", "original_title": "Tales of the Pickle", "slug_title": "tales-of-the-pickle", "date": "2004-11-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

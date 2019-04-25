@@ -1,1 +1,0 @@
-{"tmdb_id": 453425, "title": "Blue moon", "original_title": "Blue moon", "slug_title": "blue-moon", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yVrN73DsWglpM5bTNTS8c5AEtY0.jpg", "actors": ["Sharon Lawrence (Cass Medieros)"], "comments": [], "recommandations_id": []}

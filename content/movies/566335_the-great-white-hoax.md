@@ -1,1 +1,0 @@
-{"tmdb_id": 566335, "title": "The Great White Hoax", "original_title": "The Great White Hoax", "slug_title": "the-great-white-hoax", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

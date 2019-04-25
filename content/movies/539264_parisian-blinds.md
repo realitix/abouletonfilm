@@ -1,1 +1,0 @@
-{"tmdb_id": 539264, "title": "Parisian Blinds", "original_title": "Parisian Blinds", "slug_title": "parisian-blinds", "date": "1984-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

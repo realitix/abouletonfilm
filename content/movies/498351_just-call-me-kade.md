@@ -1,1 +1,0 @@
-{"tmdb_id": 498351, "title": "Just Call Me Kade", "original_title": "Just Call Me Kade", "slug_title": "just-call-me-kade", "date": "2002-03-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

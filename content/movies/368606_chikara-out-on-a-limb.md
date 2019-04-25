@@ -1,1 +1,0 @@
-{"tmdb_id": 368606, "title": "CHIKARA: Out on a Limb", "original_title": "CHIKARA: Out on a Limb", "slug_title": "chikara-out-on-a-limb", "date": "2015-03-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zrxlIr9pjid810JEptOItweP6eE.jpg", "actors": [], "comments": [], "recommandations_id": []}

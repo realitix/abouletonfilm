@@ -1,1 +1,0 @@
-{"tmdb_id": 560448, "title": "Positive Negative Electronic Faces", "original_title": "Positive Negative Electronic Faces", "slug_title": "positive-negative-electronic-faces", "date": "1973-09-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

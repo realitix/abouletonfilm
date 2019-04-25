@@ -1,1 +1,0 @@
-{"tmdb_id": 227865, "title": "Extreme Dinosaurs", "original_title": "Extreme Dinosaurs", "slug_title": "extreme-dinosaurs", "date": "2013-03-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uLNFWnGPO9Ocln6ovhDw2V3AUJx.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 555616, "title": "BerlinSong", "original_title": "BerlinSong", "slug_title": "berlinsong", "date": "2007-02-13", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

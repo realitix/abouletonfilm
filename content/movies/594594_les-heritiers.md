@@ -1,1 +1,0 @@
-{"tmdb_id": 594594, "title": "Les h\u00e9ritiers", "original_title": "Les h\u00e9ritiers", "slug_title": "les-heritiers", "date": "2016-03-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a6ssUfGRGOW2k7L3TZvdRRGd7T4.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 576543, "title": "Goodbye Soviet Union", "original_title": "N\u00e4gemiseni NSVL", "slug_title": "goodbye-soviet-union", "date": "", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

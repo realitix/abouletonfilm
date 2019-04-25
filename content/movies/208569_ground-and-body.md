@@ -1,1 +1,0 @@
-{"tmdb_id": 208569, "title": "Ground and Body", "original_title": "Ground and Body", "slug_title": "ground-and-body", "date": "2012-07-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

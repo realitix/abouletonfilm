@@ -1,1 +1,0 @@
-{"tmdb_id": 148400, "title": "Everything and Everyone", "original_title": "Everything and Everyone", "slug_title": "everything-and-everyone", "date": "2011-12-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5u2uSY8IYMdGkB1VqCuIXzjMTFX.jpg", "actors": [], "comments": [], "recommandations_id": []}

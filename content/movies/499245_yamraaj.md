@@ -1,1 +1,0 @@
-{"tmdb_id": 499245, "title": "Yamraaj", "original_title": "Yamraaj", "slug_title": "yamraaj", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

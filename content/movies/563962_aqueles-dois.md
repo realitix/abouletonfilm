@@ -1,1 +1,0 @@
-{"tmdb_id": 563962, "title": "Aqueles Dois", "original_title": "Aqueles Dois", "slug_title": "aqueles-dois", "date": "2018-11-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7eqvrtvio1446mUXyobTA0ND7WK.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 495268, "title": "Activated Memory", "original_title": "Activated Memory", "slug_title": "activated-memory", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 243005, "title": "Herring Hunt", "original_title": "Herring Hunt", "slug_title": "herring-hunt", "date": "1953-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2aZ9eM0f5I1HJlDhvHW84VanPNk.jpg", "actors": [], "comments": [], "recommandations_id": []}

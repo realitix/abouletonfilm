@@ -1,1 +1,0 @@
-{"tmdb_id": 406246, "title": "Mil pesetas", "original_title": "Mil pesetas", "slug_title": "mil-pesetas", "date": "2010-07-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

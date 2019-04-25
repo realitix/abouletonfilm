@@ -1,1 +1,0 @@
-{"tmdb_id": 82721, "title": "Yamagola Malli Modalaindhi", "original_title": "Yamagola Malli Modalaindhi", "slug_title": "yamagola-malli-modalaindhi", "date": "2007-08-23", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x3MSTRACw0oQkC7c1HKeoYhEDie.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 337594, "title": "Sjaak Bral: Vaarwel 2012", "original_title": "Sjaak Bral: Vaarwel 2012", "slug_title": "sjaak-bral-vaarwel-2012", "date": "2012-12-31", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sjaak Bral (Comedian)"], "comments": [], "recommandations_id": []}

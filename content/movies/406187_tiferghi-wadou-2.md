@@ -1,1 +1,0 @@
-{"tmdb_id": 406187, "title": "Tiferghi Wadou 2", "original_title": "Tiferghi Wadou 2", "slug_title": "tiferghi-wadou-2", "date": "", "genre": "", "score": "0.0/10", "synopsis": "Hilal Vision", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aSHevEkXAbrUnLbNohx9LUeKUsg.jpg", "actors": [], "comments": [], "recommandations_id": []}

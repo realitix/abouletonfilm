@@ -1,1 +1,0 @@
-{"tmdb_id": 377109, "title": "Mit Annika am See", "original_title": "Mit Annika am See", "slug_title": "mit-annika-am-see", "date": "2015-05-04", "genre": "Com\u00e9die / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 596554, "title": "The Manufacturing of 'Fast Food Nation'", "original_title": "The Manufacturing of 'Fast Food Nation'", "slug_title": "the-manufacturing-of-fast-food-nation", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Richard Linklater (Self)"], "comments": [], "recommandations_id": []}

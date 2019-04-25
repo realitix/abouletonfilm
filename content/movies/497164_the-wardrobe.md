@@ -1,1 +1,0 @@
-{"tmdb_id": 497164, "title": "The Wardrobe", "original_title": "The Wardrobe", "slug_title": "the-wardrobe", "date": "1958-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h0uH6OF5l0V2Kzb2ZhsF4EYvPqb.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 190155, "title": "Fantasia 'e surdato", "original_title": "Fantasia 'e surdato", "slug_title": "fantasia-e-surdato", "date": "1927-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Geppino Jovine (Giggi)", "Eduardo Notari (Gennariello)", "Oreste Tesorone ()"], "comments": [], "recommandations_id": []}

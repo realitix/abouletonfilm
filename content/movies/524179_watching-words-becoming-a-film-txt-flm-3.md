@@ -1,1 +1,0 @@
-{"tmdb_id": 524179, "title": "Watching Words Becoming a Film (TXT.FLM #3)", "original_title": "Watching Words Becoming a Film (TXT.FLM #3)", "slug_title": "watching-words-becoming-a-film-txt-flm-3", "date": "2017-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

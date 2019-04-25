@@ -1,1 +1,0 @@
-{"tmdb_id": 450339, "title": "C. K. st\u0159elnice", "original_title": "C. K. st\u0159elnice", "slug_title": "c-k-strelnice", "date": "1969-01-01", "genre": "Animation", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

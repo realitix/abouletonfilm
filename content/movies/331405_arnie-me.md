@@ -1,1 +1,0 @@
-{"tmdb_id": 331405, "title": "Arnie & Me", "original_title": "Arnie & Me", "slug_title": "arnie-me", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

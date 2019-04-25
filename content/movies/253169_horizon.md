@@ -1,1 +1,0 @@
-{"tmdb_id": 253169, "title": "Horizon", "original_title": "Orizont", "slug_title": "horizon", "date": "2012-05-12", "genre": "", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/et7ciji0Yiqp78pio1eNE6Uzvqi.jpg", "actors": ["Mihai Cismaru (The Fisherman)"], "comments": [], "recommandations_id": []}

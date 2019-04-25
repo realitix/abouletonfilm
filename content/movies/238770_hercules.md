@@ -1,1 +1,0 @@
-{"tmdb_id": 238770, "title": "Hercules", "original_title": "Hercules", "slug_title": "hercules", "date": "1999-12-14", "genre": "Familial / Fantastique / Animation", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6LrhFNYkmxRe6kovyYPf7PZ53D0.jpg", "actors": [], "comments": [], "recommandations_id": []}

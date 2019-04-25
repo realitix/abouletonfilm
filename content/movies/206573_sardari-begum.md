@@ -1,1 +1,0 @@
-{"tmdb_id": 206573, "title": "Sardari Begum", "original_title": "Sardari Begum", "slug_title": "sardari-begum", "date": "1996-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AkJwDKHjK6DrGmdE9ILkpTMcTrm.jpg", "actors": ["Amrish Puri ()", "Rajit Kapoor ()", "Kirron Kher ()"], "comments": [], "recommandations_id": []}

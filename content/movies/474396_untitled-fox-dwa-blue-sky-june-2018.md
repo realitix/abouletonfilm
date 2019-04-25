@@ -1,1 +1,0 @@
-{"tmdb_id": 474396, "title": "Untitled Fox/DWA/Blue Sky (June 2018)", "original_title": "Untitled Fox/DWA/Blue Sky (June 2018)", "slug_title": "untitled-fox-dwa-blue-sky-june-2018", "date": "2018-06-29", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

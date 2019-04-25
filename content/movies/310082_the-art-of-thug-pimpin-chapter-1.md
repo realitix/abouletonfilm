@@ -1,1 +1,0 @@
-{"tmdb_id": 310082, "title": "The Art of Thug Pimpin': Chapter 1", "original_title": "The Art of Thug Pimpin': Chapter 1", "slug_title": "the-art-of-thug-pimpin-chapter-1", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

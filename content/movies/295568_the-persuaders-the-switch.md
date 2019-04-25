@@ -1,1 +1,0 @@
-{"tmdb_id": 295568, "title": "The Persuaders: The Switch", "original_title": "The Persuaders: The Switch", "slug_title": "the-persuaders-the-switch", "date": "1967-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

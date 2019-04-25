@@ -1,1 +1,0 @@
-{"tmdb_id": 375871, "title": "Fools Die Fast", "original_title": "Fools Die Fast", "slug_title": "fools-die-fast", "date": "1995-11-21", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

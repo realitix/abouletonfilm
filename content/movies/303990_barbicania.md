@@ -1,1 +1,0 @@
-{"tmdb_id": 303990, "title": "Barbicania", "original_title": "Barbicania", "slug_title": "barbicania", "date": "2014-10-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4GBVv7SIjfJDFMyv4wqraHXudl0.jpg", "actors": [], "comments": [], "recommandations_id": []}

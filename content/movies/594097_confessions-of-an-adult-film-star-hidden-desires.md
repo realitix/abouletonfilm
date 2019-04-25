@@ -1,1 +1,0 @@
-{"tmdb_id": 594097, "title": "Confessions Of An Adult Film Star: Hidden Desires", "original_title": "Confessions Of An Adult Film Star: Hidden Desires", "slug_title": "confessions-of-an-adult-film-star-hidden-desires", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

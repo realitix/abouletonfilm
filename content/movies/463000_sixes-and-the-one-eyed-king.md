@@ -1,1 +1,0 @@
-{"tmdb_id": 463000, "title": "Sixes and the One Eyed King", "original_title": "Sixes and the One Eyed King", "slug_title": "sixes-and-the-one-eyed-king", "date": "2006-07-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9tNaewauEA0G4REbxqwj8D8eixm.jpg", "actors": [], "comments": [], "recommandations_id": []}

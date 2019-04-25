@@ -1,1 +1,0 @@
-{"tmdb_id": 502861, "title": "Francesca... (\u201cViva la vita!\u201d)", "original_title": "Francesca... (\u201cViva la vita!\u201d)", "slug_title": "francesca-viva-la-vita", "date": "2009-02-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

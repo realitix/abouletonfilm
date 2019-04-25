@@ -1,1 +1,0 @@
-{"tmdb_id": 193634, "title": "Carnaval, [II]", "original_title": "Carnaval, [II]", "slug_title": "carnaval-ii", "date": "1897-03-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

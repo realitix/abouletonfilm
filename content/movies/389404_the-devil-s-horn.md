@@ -1,1 +1,0 @@
-{"tmdb_id": 389404, "title": "The Devil's Horn", "original_title": "The Devil's Horn", "slug_title": "the-devil-s-horn", "date": "2016-04-23", "genre": "Documentaire", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hsq0UeylvyVQ4Ej9vk9UW3p8XOD.jpg", "actors": [], "comments": [], "recommandations_id": []}

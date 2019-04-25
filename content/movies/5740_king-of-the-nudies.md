@@ -1,1 +1,0 @@
-{"tmdb_id": 5740, "title": "King of the Nudies", "original_title": "King of the Nudies", "slug_title": "king-of-the-nudies", "date": "", "genre": "Documentaire / Drame", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Russ Meyer (himself)"], "comments": [], "recommandations_id": []}

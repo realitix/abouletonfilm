@@ -1,1 +1,0 @@
-{"tmdb_id": 390453, "title": "High Hitler", "original_title": "High Hitler", "slug_title": "high-hitler", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e7wNwYD8zXAjtbCyYBqCV5Wjct6.jpg", "actors": [], "comments": [], "recommandations_id": []}

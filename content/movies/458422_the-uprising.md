@@ -1,1 +1,0 @@
-{"tmdb_id": 458422, "title": "The Uprising", "original_title": "The Uprising", "slug_title": "the-uprising", "date": "2012-08-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cY7dIuDqUlmoZIfTabzfMCs5VDj.jpg", "actors": [], "comments": [], "recommandations_id": []}

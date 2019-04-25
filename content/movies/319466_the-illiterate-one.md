@@ -1,1 +1,0 @@
-{"tmdb_id": 319466, "title": "The Illiterate One", "original_title": "The Illiterate One", "slug_title": "the-illiterate-one", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

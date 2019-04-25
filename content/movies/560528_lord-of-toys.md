@@ -1,1 +1,0 @@
-{"tmdb_id": 560528, "title": "Lord of Toys", "original_title": "Lord of Toys", "slug_title": "lord-of-toys", "date": "", "genre": "", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

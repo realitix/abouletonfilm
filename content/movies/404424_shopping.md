@@ -1,1 +1,0 @@
-{"tmdb_id": 404424, "title": "Shopping", "original_title": "Shopping", "slug_title": "shopping", "date": "2016-06-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hBK7eBtrCFp0Dw9Cdi0vqP9kNuf.jpg", "actors": ["Ricky Nixon (Edward)", "Bruce Payne (Nick)"], "comments": [], "recommandations_id": []}

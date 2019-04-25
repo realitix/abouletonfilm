@@ -1,1 +1,0 @@
-{"tmdb_id": 363589, "title": "The chosen ones", "original_title": "The chosen ones", "slug_title": "the-chosen-ones", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

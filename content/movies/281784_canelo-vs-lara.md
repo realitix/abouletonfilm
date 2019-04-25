@@ -1,1 +1,0 @@
-{"tmdb_id": 281784, "title": "Canelo vs. Lara", "original_title": "Canelo vs. Lara", "slug_title": "canelo-vs-lara", "date": "2014-07-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hwCte5XqMTkMrNDOBcfFCOpvmUM.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 368685, "title": "Rammstein: Live at SKK", "original_title": "Rammstein: Live at SKK", "slug_title": "rammstein-live-at-skk", "date": "2010-02-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

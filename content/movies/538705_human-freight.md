@@ -1,1 +1,0 @@
-{"tmdb_id": 538705, "title": "Human Freight", "original_title": "Passeurs d'hommes", "slug_title": "human-freight", "date": "1937-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nYb3ACzBMp16M3TV6RLe2tjme0y.jpg", "actors": [], "comments": [], "recommandations_id": []}

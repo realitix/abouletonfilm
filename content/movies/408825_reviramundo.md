@@ -1,1 +1,0 @@
-{"tmdb_id": 408825, "title": "Reviramundo", "original_title": "Reviramundo", "slug_title": "reviramundo", "date": "2014-10-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sZz5Nz4dTT6wz3MafLSqfTgD4RC.jpg", "actors": ["Geraldo Sarno (Ele mesmo)"], "comments": [], "recommandations_id": []}

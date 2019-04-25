@@ -1,1 +1,0 @@
-{"tmdb_id": 432983, "title": "Spiritual Teacher, Kyoko Odagiri", "original_title": "Spiritual Teacher, Kyoko Odagiri", "slug_title": "spiritual-teacher-kyoko-odagiri", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

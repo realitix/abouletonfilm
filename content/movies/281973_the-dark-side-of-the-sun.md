@@ -1,1 +1,0 @@
-{"tmdb_id": 281973, "title": "The Dark Side of the Sun", "original_title": "The Dark Side of the Sun", "slug_title": "the-dark-side-of-the-sun", "date": "1983-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Peter Egan (Raoul)", "Patrick Mower (Don)"], "comments": [], "recommandations_id": []}

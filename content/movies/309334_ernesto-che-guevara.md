@@ -1,1 +1,0 @@
-{"tmdb_id": 309334, "title": "Ernesto Che Guevara", "original_title": "Ernesto Che Guevara", "slug_title": "ernesto-che-guevara", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

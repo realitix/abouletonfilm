@@ -1,1 +1,0 @@
-{"tmdb_id": 447653, "title": "La bourse", "original_title": "La bourse", "slug_title": "la-bourse", "date": "1897-03-18", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 584739, "title": "Multiplication", "original_title": "Multiplication", "slug_title": "multiplication", "date": "1994-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oKA0xsOw5qSDE5Ur5sZUSRmJLIL.jpg", "actors": [], "comments": [], "recommandations_id": []}

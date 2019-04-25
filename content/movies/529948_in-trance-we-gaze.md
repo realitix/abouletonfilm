@@ -1,1 +1,0 @@
-{"tmdb_id": 529948, "title": "In Trance We Gaze", "original_title": "\u604d\u60da\u8207\u51dd\u8996\u7684\u7df4\u7fd2", "slug_title": "in-trance-we-gaze", "date": "2018-05-06", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

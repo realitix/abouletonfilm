@@ -1,1 +1,0 @@
-{"tmdb_id": 442190, "title": "Educating North Korea", "original_title": "Educating North Korea", "slug_title": "educating-north-korea", "date": "2014-02-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nYT9LPonxliwRGvJXHqLNELp1Fq.jpg", "actors": [], "comments": [], "recommandations_id": []}

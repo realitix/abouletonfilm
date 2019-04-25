@@ -1,1 +1,0 @@
-{"tmdb_id": 225821, "title": "And We All Shine On", "original_title": "And We All Shine On", "slug_title": "and-we-all-shine-on", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xxLvx7cWQmOXWxH2nA7O4xlcQTp.jpg", "actors": [], "comments": [], "recommandations_id": []}

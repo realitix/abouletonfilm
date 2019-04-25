@@ -1,1 +1,0 @@
-{"tmdb_id": 478495, "title": "Skiing with Per and Kari", "original_title": "Ski Med Per Og Kari", "slug_title": "skiing-with-per-and-kari", "date": "1948-01-01", "genre": "Aventure", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

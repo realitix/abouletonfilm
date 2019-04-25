@@ -1,1 +1,0 @@
-{"tmdb_id": 541999, "title": "In Search of the Dragon's Tale", "original_title": "In Search of the Dragon's Tale", "slug_title": "in-search-of-the-dragon-s-tale", "date": "1997-10-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

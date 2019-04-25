@@ -1,1 +1,0 @@
-{"tmdb_id": 336722, "title": "Burning Star", "original_title": "Burning Star", "slug_title": "burning-star", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

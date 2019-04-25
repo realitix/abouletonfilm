@@ -1,1 +1,0 @@
-{"tmdb_id": 209333, "title": "American Shopper", "original_title": "American Shopper", "slug_title": "american-shopper", "date": "2007-02-04", "genre": "Com\u00e9die / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lMmsJQVpZL5CHkeHPjI1h2Zo0YD.jpg", "actors": [], "comments": [], "recommandations_id": []}

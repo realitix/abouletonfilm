@@ -1,1 +1,0 @@
-{"tmdb_id": 318337, "title": "Confessions of a Sociopath", "original_title": "Confessions of a Sociopath", "slug_title": "confessions-of-a-sociopath", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

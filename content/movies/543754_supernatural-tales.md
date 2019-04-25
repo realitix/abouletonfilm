@@ -1,1 +1,0 @@
-{"tmdb_id": 543754, "title": "Supernatural Tales", "original_title": "Supernatural Tales", "slug_title": "supernatural-tales", "date": "2012-05-08", "genre": "Horreur / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iqmYSEVMpKqtxgKPqXe7mqJPNwD.jpg", "actors": [], "comments": [], "recommandations_id": []}

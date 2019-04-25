@@ -1,1 +1,0 @@
-{"tmdb_id": 331710, "title": "Smoking Laws", "original_title": "Smoking Laws", "slug_title": "smoking-laws", "date": "2011-10-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jlXWD3PcEBnqntvqVSXF2ykMxip.jpg", "actors": [], "comments": [], "recommandations_id": []}

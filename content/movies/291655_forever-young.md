@@ -1,1 +1,0 @@
-{"tmdb_id": 291655, "title": "Forever Young", "original_title": "Forever Young", "slug_title": "forever-young", "date": "1986-01-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

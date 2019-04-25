@@ -1,1 +1,0 @@
-{"tmdb_id": 464751, "title": "Invincible Force", "original_title": "Invincible Force", "slug_title": "invincible-force", "date": "2011-11-14", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Drew Ailes (Drew)", "Anissa Siobhan Brazill (Amber)"], "comments": [], "recommandations_id": []}

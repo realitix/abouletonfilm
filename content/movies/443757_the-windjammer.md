@@ -1,1 +1,0 @@
-{"tmdb_id": 443757, "title": "The Windjammer", "original_title": "The Windjammer", "slug_title": "the-windjammer", "date": "1945-11-13", "genre": "Musique / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bob Burns (Bob Burns)", "Gale Robbins (Bob's Daughter)"], "comments": [], "recommandations_id": []}

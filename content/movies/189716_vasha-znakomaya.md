@@ -1,1 +1,0 @@
-{"tmdb_id": 189716, "title": "Vasha znakomaya", "original_title": "\u0412\u0430\u0448\u0430 \u0437\u043d\u0430\u043a\u043e\u043c\u0430\u044f", "slug_title": "vasha-znakomaya", "date": "1927-10-24", "genre": "", "score": "6.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

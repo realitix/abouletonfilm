@@ -1,1 +1,0 @@
-{"tmdb_id": 385883, "title": "National Geographic Man v Lion", "original_title": "National Geographic Man v Lion", "slug_title": "national-geographic-man-v-lion", "date": "2015-02-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 252140, "title": "Colorful Bombay", "original_title": "Colorful Bombay", "slug_title": "colorful-bombay", "date": "1937-04-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hXkZH46ps9C7cqV8cl6SLVqpmKp.jpg", "actors": ["James A. FitzPatrick (Narrator (voice))"], "comments": [], "recommandations_id": []}

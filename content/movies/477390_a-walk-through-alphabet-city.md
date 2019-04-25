@@ -1,1 +1,0 @@
-{"tmdb_id": 477390, "title": "A Walk Through Alphabet City", "original_title": "A Walk Through Alphabet City", "slug_title": "a-walk-through-alphabet-city", "date": "2016-08-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

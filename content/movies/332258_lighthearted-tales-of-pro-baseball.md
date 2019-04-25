@@ -1,1 +1,0 @@
-{"tmdb_id": 332258, "title": "Lighthearted tales of pro baseball", "original_title": "Proyakyu o Jubai Tanoshiki Miru Hoho", "slug_title": "lighthearted-tales-of-pro-baseball", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

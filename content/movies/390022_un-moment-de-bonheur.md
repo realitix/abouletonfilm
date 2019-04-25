@@ -1,1 +1,0 @@
-{"tmdb_id": 390022, "title": "Un moment de bonheur", "original_title": "Un moment de bonheur", "slug_title": "un-moment-de-bonheur", "date": "1981-03-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

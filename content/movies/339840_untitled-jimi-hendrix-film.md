@@ -1,1 +1,0 @@
-{"tmdb_id": 339840, "title": "Untitled Jimi Hendrix Film", "original_title": "Untitled Jimi Hendrix Film", "slug_title": "untitled-jimi-hendrix-film", "date": "", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

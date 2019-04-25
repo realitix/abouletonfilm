@@ -1,1 +1,0 @@
-{"tmdb_id": 473321, "title": "The Climb", "original_title": "The Climb", "slug_title": "the-climb", "date": "2017-10-06", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

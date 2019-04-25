@@ -1,1 +1,0 @@
-{"tmdb_id": 120220, "title": "Lay Down Your Arms", "original_title": "Lay Down Your Arms", "slug_title": "lay-down-your-arms", "date": "1970-05-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lOWVqNFO254HSI8Y5rXCiBxJ60F.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 142510, "title": "The Adventures of Don Quixote", "original_title": "The Adventures of Don Quixote", "slug_title": "the-adventures-of-don-quixote", "date": "1994-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iB9gNUjG3Q5xiT9gfVBlBHdcYLA.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 429397, "title": "Bodo Bach live - 4tel nach Bach", "original_title": "Bodo Bach live - 4tel nach Bach", "slug_title": "bodo-bach-live-4tel-nach-bach", "date": "", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bodo Bach ()"], "comments": [], "recommandations_id": []}

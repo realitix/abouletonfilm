@@ -1,1 +1,0 @@
-{"tmdb_id": 540100, "title": "La merveilleuse trag\u00e9die de Lourdes", "original_title": "La merveilleuse trag\u00e9die de Lourdes", "slug_title": "la-merveilleuse-tragedie-de-lourdes", "date": "1933-10-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

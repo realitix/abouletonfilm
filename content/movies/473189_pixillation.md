@@ -1,1 +1,0 @@
-{"tmdb_id": 473189, "title": "Pixillation", "original_title": "Pixillation", "slug_title": "pixillation", "date": "2017-09-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bn6RgoIHEA8DRmAa1fDrhEcixV.jpg", "actors": ["Anne Charlotte Robertson (herself)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 245348, "title": "Party Crasher: My Bloody Birthday", "original_title": "Party Crasher: My Bloody Birthday", "slug_title": "party-crasher-my-bloody-birthday", "date": "2000-10-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

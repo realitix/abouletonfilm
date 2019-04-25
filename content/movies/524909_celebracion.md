@@ -1,1 +1,0 @@
-{"tmdb_id": 524909, "title": "Celebraci\u00f3n", "original_title": "Celebraci\u00f3n", "slug_title": "celebracion", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s2eD8sXYDrqLM4losWnT2o2kiDk.jpg", "actors": [], "comments": [], "recommandations_id": []}

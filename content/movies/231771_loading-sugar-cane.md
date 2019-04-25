@@ -1,1 +1,0 @@
-{"tmdb_id": 231771, "title": "Loading Sugar Cane", "original_title": "Loading Sugar Cane", "slug_title": "loading-sugar-cane", "date": "1901-08-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

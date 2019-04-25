@@ -1,1 +1,0 @@
-{"tmdb_id": 449436, "title": "A Bastard Child", "original_title": "Horungen", "slug_title": "a-bastard-child", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sXCeggEgQ2hWIj2tSbAYYzYnDfZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

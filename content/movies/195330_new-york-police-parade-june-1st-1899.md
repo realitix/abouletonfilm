@@ -1,1 +1,0 @@
-{"tmdb_id": 195330, "title": "New York Police Parade, June 1st, 1899", "original_title": "New York Police Parade, June 1st, 1899", "slug_title": "new-york-police-parade-june-1st-1899", "date": "1899-06-20", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

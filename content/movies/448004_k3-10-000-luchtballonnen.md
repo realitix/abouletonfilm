@@ -1,1 +1,0 @@
-{"tmdb_id": 448004, "title": "K3 - 10.000 Luchtballonnen", "original_title": "K3 - 10.000 Luchtballonnen", "slug_title": "k3-10-000-luchtballonnen", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r2ZwwgGVBU9aQ3h0h6xTxuuSbna.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 106331, "title": "Recycle", "original_title": "Ea'adat khalk", "slug_title": "recycle", "date": "2008-10-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oISzlpd4XLYjRUL0pNMD6CF3mO4.jpg", "actors": [], "comments": [], "recommandations_id": []}

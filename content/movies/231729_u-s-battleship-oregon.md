@@ -1,1 +1,0 @@
-{"tmdb_id": 231729, "title": "U.S. Battleship 'Oregon'", "original_title": "U.S. Battleship 'Oregon'", "slug_title": "u-s-battleship-oregon", "date": "1898-09-20", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

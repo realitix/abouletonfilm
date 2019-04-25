@@ -1,1 +1,0 @@
-{"tmdb_id": 361323, "title": "Period Stories", "original_title": "Period Stories", "slug_title": "period-stories", "date": "2015-09-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

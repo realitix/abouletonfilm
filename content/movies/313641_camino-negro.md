@@ -1,1 +1,0 @@
-{"tmdb_id": 313641, "title": "Camino Negro", "original_title": "Camino Negro", "slug_title": "camino-negro", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 416327, "title": "Sadness in Beauty", "original_title": "\uaf43\ube44", "slug_title": "sadness-in-beauty", "date": "2010-04-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pqPZwRjjZzh7JKvCYjL3pdvAXhw.jpg", "actors": ["Lee Seung-joo ()", "Ku Sung-hwan ()"], "comments": [], "recommandations_id": []}

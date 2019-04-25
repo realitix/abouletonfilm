@@ -1,1 +1,0 @@
-{"tmdb_id": 312064, "title": "Der Kreis", "original_title": "Der Kreis", "slug_title": "der-kreis", "date": "1964-05-09", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ernst Fritz F\u00fcrbringer ()", "Erika von Thellmann ()", "Loni von Friedl ()", "Siegfried Rauch ()"], "comments": [], "recommandations_id": []}

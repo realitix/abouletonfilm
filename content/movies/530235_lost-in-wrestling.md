@@ -1,1 +1,0 @@
-{"tmdb_id": 530235, "title": "Lost In Wrestling", "original_title": "\u640f\u51fb\u8ff7\u57ce", "slug_title": "lost-in-wrestling", "date": "2015-06-05", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gpLK8jlMISRuEMkfEsWRJ6vxD3U.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 268971, "title": "Dr. Lucille", "original_title": "Dr. Lucille", "slug_title": "dr-lucille", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9ByZIAnuZXaqpFPPsIHdIDeVII8.jpg", "actors": [], "comments": [], "recommandations_id": []}

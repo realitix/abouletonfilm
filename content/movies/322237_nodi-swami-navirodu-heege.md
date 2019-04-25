@@ -1,1 +1,0 @@
-{"tmdb_id": 322237, "title": "Nodi Swami Navirodu Heege", "original_title": "Nodi Swami Navirodu Heege", "slug_title": "nodi-swami-navirodu-heege", "date": "1983-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

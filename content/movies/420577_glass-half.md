@@ -1,1 +1,0 @@
-{"tmdb_id": 420577, "title": "Glass Half", "original_title": "Glass Half", "slug_title": "glass-half", "date": "2015-10-30", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hZoSWuv7GwEv7wahWjJ6iRKhKxy.jpg", "actors": ["Ryan Millar (Max (voice))", "Ryan Millar (Min (voice))"], "comments": [], "recommandations_id": []}

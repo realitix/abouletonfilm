@@ -1,1 +1,0 @@
-{"tmdb_id": 539796, "title": "Un coup de mistral", "original_title": "Un coup de mistral", "slug_title": "un-coup-de-mistral", "date": "1934-02-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

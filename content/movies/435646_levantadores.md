@@ -1,1 +1,0 @@
-{"tmdb_id": 435646, "title": "Levantadores", "original_title": "Levantadores", "slug_title": "levantadores", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jWE04TuIg6pJ2QsqVHl7jywesAo.jpg", "actors": [], "comments": [], "recommandations_id": []}

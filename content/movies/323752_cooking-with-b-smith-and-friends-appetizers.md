@@ -1,1 +1,0 @@
-{"tmdb_id": 323752, "title": "Cooking with B. Smith and Friends: Appetizers", "original_title": "Cooking with B. Smith and Friends: Appetizers", "slug_title": "cooking-with-b-smith-and-friends-appetizers", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

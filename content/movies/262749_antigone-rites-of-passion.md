@@ -1,1 +1,0 @@
-{"tmdb_id": 262749, "title": "Antigone/Rites of Passion", "original_title": "Antigone/Rites of Passion", "slug_title": "antigone-rites-of-passion", "date": "1990-10-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nAGomxtTEXUpDCXgcuqhfqwbu7Q.jpg", "actors": [], "comments": [], "recommandations_id": []}

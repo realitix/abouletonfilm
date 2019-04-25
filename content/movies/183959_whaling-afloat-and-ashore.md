@@ -1,1 +1,0 @@
-{"tmdb_id": 183959, "title": "Whaling Afloat and Ashore", "original_title": "Whaling Afloat and Ashore", "slug_title": "whaling-afloat-and-ashore", "date": "1908-01-01", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4GOkqI9nrxvhc4K0xnOJtQPv8uq.jpg", "actors": [], "comments": [], "recommandations_id": []}

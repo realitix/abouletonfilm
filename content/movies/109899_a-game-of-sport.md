@@ -1,1 +1,0 @@
-{"tmdb_id": 109899, "title": "A Game Of Sport", "original_title": "A Game Of Sport", "slug_title": "a-game-of-sport", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wq2GOH52mhGSVfGPLSkTpcxet7o.jpg", "actors": [], "comments": [], "recommandations_id": []}

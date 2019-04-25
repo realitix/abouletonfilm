@@ -1,1 +1,0 @@
-{"tmdb_id": 154350, "title": "DRI: Live At The Ritz", "original_title": "DRI: Live At The Ritz", "slug_title": "dri-live-at-the-ritz", "date": "1987-06-27", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wlXtpBFjMPwSUVfg38hOLHmS8bb.jpg", "actors": [], "comments": [], "recommandations_id": []}

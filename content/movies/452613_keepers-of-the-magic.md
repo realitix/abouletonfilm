@@ -1,1 +1,0 @@
-{"tmdb_id": 452613, "title": "Keepers of the Magic", "original_title": "Keepers of the Magic", "slug_title": "keepers-of-the-magic", "date": "", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/80fmAbZmqH3XrX7DUe4sfjGwIWK.jpg", "actors": [], "comments": [], "recommandations_id": []}

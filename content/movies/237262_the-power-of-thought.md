@@ -1,1 +1,0 @@
-{"tmdb_id": 237262, "title": "The Power of Thought", "original_title": "The Power of Thought", "slug_title": "the-power-of-thought", "date": "1948-12-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

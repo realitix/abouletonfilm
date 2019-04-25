@@ -1,1 +1,0 @@
-{"tmdb_id": 305289, "title": "A Sentence for Two", "original_title": "A Sentence for Two", "slug_title": "a-sentence-for-two", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

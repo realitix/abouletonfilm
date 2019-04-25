@@ -1,1 +1,0 @@
-{"tmdb_id": 288669, "title": "Wings of Freedom", "original_title": "Wings of Freedom", "slug_title": "wings-of-freedom", "date": "2008-02-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7SthMkqfDlxR9qWUah7GCqc2s7S.jpg", "actors": [], "comments": [], "recommandations_id": []}

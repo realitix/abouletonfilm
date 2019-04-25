@@ -1,1 +1,0 @@
-{"tmdb_id": 244748, "title": "Swan Song", "original_title": "Swan Song", "slug_title": "swan-song", "date": "1992-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p8poEUKI7dZa2Ao5SKDhFp7z0dK.jpg", "actors": ["John Gielgud ()", "Richard Briers ()"], "comments": [], "recommandations_id": []}

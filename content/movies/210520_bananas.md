@@ -1,1 +1,0 @@
-{"tmdb_id": 210520, "title": "Bananas", "original_title": "Bananas", "slug_title": "bananas", "date": "2006-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bPeAjhsGxKvYPVlH4oUHen7B3jo.jpg", "actors": [], "comments": [], "recommandations_id": []}

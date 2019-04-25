@@ -1,1 +1,1 @@
-{"tmdb_id": 538017, "title": "Rumours", "original_title": "Rumours", "slug_title": "rumours", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 538017, "title": "Rumours", "original_title": "Rumours", "slug_title": "rumours", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

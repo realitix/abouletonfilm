@@ -1,1 +1,0 @@
-{"tmdb_id": 579210, "title": "Crazy for Party Drugs", "original_title": "Crazy for Party Drugs", "slug_title": "crazy-for-party-drugs", "date": "2013-01-21", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

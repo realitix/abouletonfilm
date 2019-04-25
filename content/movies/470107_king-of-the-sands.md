@@ -1,1 +1,0 @@
-{"tmdb_id": 470107, "title": "King of the Sands", "original_title": "King of the Sands", "slug_title": "king-of-the-sands", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

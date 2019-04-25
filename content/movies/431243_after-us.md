@@ -1,1 +1,0 @@
-{"tmdb_id": 431243, "title": "After Us", "original_title": "After Us", "slug_title": "after-us", "date": "2014-08-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Victoria Park (Carly)", "Kevin Wu (Ex-BF)"], "comments": [], "recommandations_id": []}

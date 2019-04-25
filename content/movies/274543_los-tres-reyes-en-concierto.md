@@ -1,1 +1,0 @@
-{"tmdb_id": 274543, "title": "Los Tres Reyes en Concierto", "original_title": "Los Tres Reyes en Concierto", "slug_title": "los-tres-reyes-en-concierto", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

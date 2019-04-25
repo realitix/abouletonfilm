@@ -1,1 +1,0 @@
-{"tmdb_id": 432800, "title": "Burning Birds", "original_title": "Burning Birds", "slug_title": "burning-birds", "date": "2016-10-08", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/slmoyhj2q2HCQFjvJzDoJQLHbBP.jpg", "actors": [], "comments": [], "recommandations_id": []}

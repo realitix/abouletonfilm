@@ -1,1 +1,0 @@
-{"tmdb_id": 459171, "title": "Cruel and Unusual", "original_title": "Cruel and Unusual", "slug_title": "cruel-and-unusual", "date": "2017-05-26", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/61kBteLh1fotX6NVxgPRNIgqgFD.jpg", "actors": [], "comments": [], "recommandations_id": []}

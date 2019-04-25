@@ -1,1 +1,0 @@
-{"tmdb_id": 436767, "title": "Property", "original_title": "Property", "slug_title": "property", "date": "1979-02-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fYzkoRG2h7Q1r9qqOEzzq0OodSN.jpg", "actors": ["Walt Curtis ()", "Lola Desmond ()", "Cork Hubbert ()"], "comments": [], "recommandations_id": []}

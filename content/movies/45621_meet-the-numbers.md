@@ -1,1 +1,0 @@
-{"tmdb_id": 45621, "title": "Meet the Numbers", "original_title": "Meet the Numbers", "slug_title": "meet-the-numbers", "date": "2005-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k2eq7VCvxJFTGYkhBj9WeMQWphc.jpg", "actors": [], "comments": [], "recommandations_id": []}

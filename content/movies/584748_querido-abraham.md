@@ -1,1 +1,0 @@
-{"tmdb_id": 584748, "title": "Querido Abraham", "original_title": "Querido Abraham", "slug_title": "querido-abraham", "date": "1968-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Susana Olmo ()", "Carlos Elordi ()", "Vicente Molina Foix ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 349832, "title": "\uc0b0\ub538\uae30", "original_title": "\uc0b0\ub538\uae30", "slug_title": "sanddalgi", "date": "1982-09-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 511171, "title": "Sand or Peter and the Wolf", "original_title": "Sand or Peter and the Wolf", "slug_title": "sand-or-peter-and-the-wolf", "date": "1969-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

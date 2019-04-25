@@ -1,1 +1,0 @@
-{"tmdb_id": 165189, "title": "Robert Gustafsson - De' \u00e4 kanon", "original_title": "Robert Gustafsson - De' \u00e4 kanon", "slug_title": "robert-gustafsson-de-a-kanon", "date": "2009-09-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

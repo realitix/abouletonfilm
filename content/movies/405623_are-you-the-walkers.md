@@ -1,1 +1,0 @@
-{"tmdb_id": 405623, "title": "Are You the Walkers", "original_title": "Are You the Walkers", "slug_title": "are-you-the-walkers", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Michael Dix Thomas (Brian)", "Nicholas Schroeder (Kurt)"], "comments": [], "recommandations_id": []}

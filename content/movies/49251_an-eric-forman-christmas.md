@@ -1,1 +1,0 @@
-{"tmdb_id": 49251, "title": "An Eric Forman Christmas", "original_title": "An Eric Forman Christmas", "slug_title": "an-eric-forman-christmas", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1ltgW1wjtF0ZQA6QMNs9dStuiTe.jpg", "actors": [], "comments": [], "recommandations_id": []}

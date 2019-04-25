@@ -1,1 +1,0 @@
-{"tmdb_id": 390623, "title": "TNA Slammiversary IX", "original_title": "TNA Slammiversary IX", "slug_title": "tna-slammiversary-ix", "date": "2011-06-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bKUaJNOI8tEeLUjuJw7lRAL5ljP.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 108641, "title": "Blood Work", "original_title": "Blood Work", "slug_title": "blood-work", "date": "2009-02-01", "genre": "Com\u00e9die / Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jon Irving (Himself)", " Julie Orser (Herself)"], "comments": [], "recommandations_id": []}

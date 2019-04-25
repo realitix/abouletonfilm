@@ -1,1 +1,0 @@
-{"tmdb_id": 445169, "title": "Birthday Girl", "original_title": "Birthday Girl", "slug_title": "birthday-girl", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

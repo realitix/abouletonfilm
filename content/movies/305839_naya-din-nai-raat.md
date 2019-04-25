@@ -1,1 +1,0 @@
-{"tmdb_id": 305839, "title": "Naya Din Nai Raat", "original_title": "Naya Din Nai Raat", "slug_title": "naya-din-nai-raat", "date": "1974-05-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hzuMFBIwuuTb399GUsL8ISRYkVf.jpg", "actors": ["Sanjeev Kumar ()", "Jaya Bachchan ()"], "comments": [], "recommandations_id": []}

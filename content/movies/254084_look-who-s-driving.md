@@ -1,1 +1,0 @@
-{"tmdb_id": 254084, "title": "Look Who's Driving", "original_title": "Look Who's Driving", "slug_title": "look-who-s-driving", "date": "1954-02-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

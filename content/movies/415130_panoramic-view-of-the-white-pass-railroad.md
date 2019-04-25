@@ -1,1 +1,0 @@
-{"tmdb_id": 415130, "title": "Panoramic View of the White Pass Railroad", "original_title": "Panoramic View of the White Pass Railroad", "slug_title": "panoramic-view-of-the-white-pass-railroad", "date": "1901-05-09", "genre": "", "score": "5.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

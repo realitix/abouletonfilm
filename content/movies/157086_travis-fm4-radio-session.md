@@ -1,1 +1,0 @@
-{"tmdb_id": 157086, "title": "Travis: FM4 Radio Session", "original_title": "Travis: FM4 Radio Session", "slug_title": "travis-fm4-radio-session", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y5u5wTyoEoyiUxgeiK6T28Nvyti.jpg", "actors": [], "comments": [], "recommandations_id": []}

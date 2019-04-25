@@ -1,1 +1,1 @@
-{"tmdb_id": 173260, "title": "Paul der Fisch", "original_title": "Paul der Fisch", "slug_title": "paul-der-fisch", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 173260, "title": "Paul der Fisch", "original_title": "Paul der Fisch", "slug_title": "paul-der-fisch", "date": "2002-01-01", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

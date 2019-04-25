@@ -1,1 +1,0 @@
-{"tmdb_id": 392199, "title": "Angelus novus", "original_title": "Angelus novus", "slug_title": "angelus-novus", "date": "1987-04-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sO9v1C2Gvj3bTOZtAr56ZAGMUDE.jpg", "actors": [], "comments": [], "recommandations_id": []}

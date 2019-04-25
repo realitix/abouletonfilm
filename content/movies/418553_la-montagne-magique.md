@@ -1,1 +1,0 @@
-{"tmdb_id": 418553, "title": "La montagne magique", "original_title": "La montagne magique", "slug_title": "la-montagne-magique", "date": "2015-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rfP6ndo0IMECVZL5IFhZqzosmIe.jpg", "actors": [], "comments": [], "recommandations_id": []}

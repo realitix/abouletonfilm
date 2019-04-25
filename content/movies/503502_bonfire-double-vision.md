@@ -1,1 +1,0 @@
-{"tmdb_id": 503502, "title": "Bonfire: Double Vision", "original_title": "Bonfire: Double Vision", "slug_title": "bonfire-double-vision", "date": "2006-10-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

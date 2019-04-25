@@ -1,1 +1,0 @@
-{"tmdb_id": 594796, "title": "A Butcher's Heart", "original_title": "Slagershart", "slug_title": "a-butcher-s-heart", "date": "2017-10-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qzv5ckhg73EOgDw9sIFkSZI3kyX.jpg", "actors": [], "comments": [], "recommandations_id": []}

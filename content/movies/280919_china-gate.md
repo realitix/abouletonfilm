@@ -1,1 +1,0 @@
-{"tmdb_id": 280919, "title": "China Gate", "original_title": "China Gate", "slug_title": "china-gate", "date": "2011-07-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pP4s2ZpaCv9dRRSwQKTJfqacpje.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 499719, "title": "Ustica, the Diamond Years", "original_title": "Ustica, the Diamond Years", "slug_title": "ustica-the-diamond-years", "date": "2017-07-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uqxWWp7o8YfYWFYV3t9O2PvKtYX.jpg", "actors": [], "comments": [], "recommandations_id": []}

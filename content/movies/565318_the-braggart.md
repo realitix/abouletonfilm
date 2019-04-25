@@ -1,1 +1,0 @@
-{"tmdb_id": 565318, "title": "The Braggart", "original_title": "Le grand fanfaron", "slug_title": "the-braggart", "date": "1976-06-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vNVJ0DnDJ3JPCbwNZlip7mF6KwT.jpg", "actors": [], "comments": [], "recommandations_id": []}

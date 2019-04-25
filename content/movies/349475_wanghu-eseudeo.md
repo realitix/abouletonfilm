@@ -1,1 +1,0 @@
-{"tmdb_id": 349475, "title": "\uc655\ud6c4 \uc5d0\uc2a4\ub354", "original_title": "\uc655\ud6c4 \uc5d0\uc2a4\ub354", "slug_title": "wanghu-eseudeo", "date": "1996-07-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 312009, "title": "Atmospheres: Nature's Inspiration", "original_title": "Atmospheres: Nature's Inspiration", "slug_title": "atmospheres-nature-s-inspiration", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

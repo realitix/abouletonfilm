@@ -1,1 +1,0 @@
-{"tmdb_id": 90352, "title": "Gambling with Souls", "original_title": "Gambling with Souls", "slug_title": "gambling-with-souls", "date": "1936-09-01", "genre": "Drame", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fJvu0zahgaq0axlFbmOL0EcR6Ry.jpg", "actors": [], "comments": [], "recommandations_id": []}

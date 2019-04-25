@@ -1,1 +1,0 @@
-{"tmdb_id": 314562, "title": "A Revolu\u00e7\u00e3o do Ano", "original_title": "A Revolu\u00e7\u00e3o do Ano", "slug_title": "a-revolucao-do-ano", "date": "2014-09-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mhfvH6hFk7yhL5E9v6kulUxi6Ce.jpg", "actors": [], "comments": [], "recommandations_id": []}

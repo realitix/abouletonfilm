@@ -1,1 +1,0 @@
-{"tmdb_id": 109791, "title": "A piece of cheese", "original_title": "Gazta zati bat", "slug_title": "a-piece-of-cheese", "date": "2012-04-21", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wNnADk1JGdi5ZgW5fCdGAcQ9K95.jpg", "actors": [], "comments": [], "recommandations_id": []}

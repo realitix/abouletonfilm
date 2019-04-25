@@ -1,1 +1,0 @@
-{"tmdb_id": 312345, "title": "Ambrosia: Real Artists Working", "original_title": "Ambrosia: Real Artists Working", "slug_title": "ambrosia-real-artists-working", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

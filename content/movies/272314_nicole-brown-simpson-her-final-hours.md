@@ -1,1 +1,0 @@
-{"tmdb_id": 272314, "title": "Nicole Brown Simpson: Her Final Hours", "original_title": "Nicole Brown Simpson: Her Final Hours", "slug_title": "nicole-brown-simpson-her-final-hours", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

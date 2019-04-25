@@ -1,1 +1,0 @@
-{"tmdb_id": 224846, "title": "Remains Quiet", "original_title": "Die Ruhe bleibt", "slug_title": "remains-quiet", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

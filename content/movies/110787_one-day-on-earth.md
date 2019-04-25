@@ -1,1 +1,0 @@
-{"tmdb_id": 110787, "title": "One Day on Earth", "original_title": "One Day on Earth", "slug_title": "one-day-on-earth", "date": "2012-04-22", "genre": "Documentaire", "score": "7.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z9WjhB1Yti75RUErVVWuCNphHz.jpg", "actors": [], "comments": [], "recommandations_id": []}

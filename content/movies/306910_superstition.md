@@ -1,1 +1,0 @@
-{"tmdb_id": 306910, "title": "Superstition", "original_title": "Superstizione", "slug_title": "superstition", "date": "1949-01-01", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vwaYu3OCxMkXg3ZnrnVPeMj9c6N.jpg", "actors": ["Gerardo Guerrieri (Narrator (voice))"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 510268, "title": "Flesh, Board, and Nails", "original_title": "Flesh, Board, and Nails", "slug_title": "flesh-board-and-nails", "date": "", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

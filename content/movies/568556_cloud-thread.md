@@ -1,1 +1,0 @@
-{"tmdb_id": 568556, "title": "Cloud Thread", "original_title": "Cloud Thread", "slug_title": "cloud-thread", "date": "1976-05-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

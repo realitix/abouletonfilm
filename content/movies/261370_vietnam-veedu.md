@@ -1,1 +1,0 @@
-{"tmdb_id": 261370, "title": "Vietnam Veedu", "original_title": "Vietnam Veedu", "slug_title": "vietnam-veedu", "date": "1970-04-10", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sivaji Ganesan ()", "Padmini ()", "Bhanumathi ()", "Nagesh ()", "K. A. Thangavelu ()", "Sreekanth ()"], "comments": [], "recommandations_id": []}

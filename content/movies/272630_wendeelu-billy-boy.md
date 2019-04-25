@@ -1,1 +1,0 @@
-{"tmdb_id": 272630, "title": "Wendeelu Billy-boy", "original_title": "Wendeelu Billy-boy", "slug_title": "wendeelu-billy-boy", "date": "1990-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

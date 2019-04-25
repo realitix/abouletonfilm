@@ -1,1 +1,0 @@
-{"tmdb_id": 423482, "title": "Wraiths of the Broken Land", "original_title": "Wraiths of the Broken Land", "slug_title": "wraiths-of-the-broken-land", "date": "", "genre": "Western", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

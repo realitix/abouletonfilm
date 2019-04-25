@@ -1,1 +1,0 @@
-{"tmdb_id": 203846, "title": "The Back Nine", "original_title": "The Back Nine", "slug_title": "the-back-nine", "date": "2009-04-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ty8kjBHZhdJpHfVnLtaxaA0I9zc.jpg", "actors": [], "comments": [], "recommandations_id": []}

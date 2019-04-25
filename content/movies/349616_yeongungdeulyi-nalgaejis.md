@@ -1,1 +1,0 @@
-{"tmdb_id": 349616, "title": "\uc601\uc6c5\ub4e4\uc758 \ub0a0\uac1c\uc9d3", "original_title": "\uc601\uc6c5\ub4e4\uc758 \ub0a0\uac1c\uc9d3", "slug_title": "yeongungdeulyi-nalgaejis", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

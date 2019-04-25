@@ -1,1 +1,0 @@
-{"tmdb_id": 196566, "title": "St. Kilda, Its People and Birds", "original_title": "St. Kilda, Its People and Birds", "slug_title": "st-kilda-its-people-and-birds", "date": "1908-05-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

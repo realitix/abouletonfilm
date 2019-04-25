@@ -1,1 +1,0 @@
-{"tmdb_id": 594930, "title": "Summer Rain", "original_title": "Pluie d'\u00e9t\u00e9", "slug_title": "summer-rain", "date": "2015-12-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vMShj5n7j8iVwXvIGFpLAGjJIgB.jpg", "actors": [], "comments": [], "recommandations_id": []}

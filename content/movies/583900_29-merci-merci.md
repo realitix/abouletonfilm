@@ -1,1 +1,0 @@
-{"tmdb_id": 583900, "title": "29: Merci, Merci", "original_title": "29: Merci, Merci", "slug_title": "29-merci-merci", "date": "1966-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

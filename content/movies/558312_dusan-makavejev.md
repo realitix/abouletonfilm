@@ -1,1 +1,0 @@
-{"tmdb_id": 558312, "title": "Du\u0161an Makavejev", "original_title": "Du\u0161an Makavejev", "slug_title": "dusan-makavejev", "date": "1974-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Du\u0161an Makavejev (Interviewee)"], "comments": [], "recommandations_id": []}

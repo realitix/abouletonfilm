@@ -1,1 +1,0 @@
-{"tmdb_id": 390707, "title": "TNA One Night Only: Joker's Wild 3", "original_title": "TNA One Night Only: Joker's Wild 3", "slug_title": "tna-one-night-only-joker-s-wild-3", "date": "2015-03-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

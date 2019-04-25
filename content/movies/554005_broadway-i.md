@@ -1,1 +1,0 @@
-{"tmdb_id": 554005, "title": "Broadway I", "original_title": "Broadway I", "slug_title": "broadway-i", "date": "2018-01-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

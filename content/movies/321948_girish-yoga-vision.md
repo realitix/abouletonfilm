@@ -1,1 +1,0 @@
-{"tmdb_id": 321948, "title": "Girish: Yoga Vision", "original_title": "Girish: Yoga Vision", "slug_title": "girish-yoga-vision", "date": "2008-02-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

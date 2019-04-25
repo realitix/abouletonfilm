@@ -1,1 +1,0 @@
-{"tmdb_id": 371895, "title": "Moving Perspectives", "original_title": "Moving Perspectives", "slug_title": "moving-perspectives", "date": "1967-04-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jJZn0kHD6ZXF06YBDKCLRRD51LW.jpg", "actors": [], "comments": [], "recommandations_id": []}

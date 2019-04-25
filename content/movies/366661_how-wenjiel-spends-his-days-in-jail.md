@@ -1,1 +1,0 @@
-{"tmdb_id": 366661, "title": "How Wenjiel Spends His Days in Jail", "original_title": "How Wenjiel Spends His Days in Jail", "slug_title": "how-wenjiel-spends-his-days-in-jail", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

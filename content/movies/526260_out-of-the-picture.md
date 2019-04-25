@@ -1,1 +1,0 @@
-{"tmdb_id": 526260, "title": "Out of the Picture", "original_title": "Fuera de cuadro", "slug_title": "out-of-the-picture", "date": "2010-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

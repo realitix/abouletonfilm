@@ -1,1 +1,0 @@
-{"tmdb_id": 462690, "title": "Heavy Metal in Istanbul", "original_title": "Heavy Metal in Istanbul", "slug_title": "heavy-metal-in-istanbul", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9DGrJaCSKFCU4oSrSlkzSr5t1KT.jpg", "actors": [], "comments": [], "recommandations_id": []}

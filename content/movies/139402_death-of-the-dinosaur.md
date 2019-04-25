@@ -1,1 +1,0 @@
-{"tmdb_id": 139402, "title": "Death of the Dinosaur", "original_title": "Death of the Dinosaur", "slug_title": "death-of-the-dinosaur", "date": "1993-01-01", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9U9NxT83GNcA4BWA7cjhCOsQbBQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

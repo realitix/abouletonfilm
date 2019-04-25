@@ -1,1 +1,0 @@
-{"tmdb_id": 143712, "title": "In the Beginning: Prophets in the Desert", "original_title": "In the Beginning: Prophets in the Desert", "slug_title": "in-the-beginning-prophets-in-the-desert", "date": "1992-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

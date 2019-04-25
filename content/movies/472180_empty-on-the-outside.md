@@ -1,1 +1,0 @@
-{"tmdb_id": 472180, "title": "Empty on the Outside", "original_title": "Vazio do lado de fora", "slug_title": "empty-on-the-outside", "date": "2016-08-23", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jNvzvOtlS4GeQzunC0A3UmvmcbO.jpg", "actors": [], "comments": [], "recommandations_id": []}

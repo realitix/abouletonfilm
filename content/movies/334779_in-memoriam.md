@@ -1,1 +1,0 @@
-{"tmdb_id": 334779, "title": "In Memoriam", "original_title": "In Memoriam", "slug_title": "in-memoriam", "date": "", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

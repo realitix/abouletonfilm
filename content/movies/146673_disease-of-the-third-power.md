@@ -1,1 +1,0 @@
-{"tmdb_id": 146673, "title": "Disease Of The Third Power", "original_title": "Nemoc tretej moci", "slug_title": "disease-of-the-third-power", "date": "2011-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nayPSpsNlw3BYggnw60sesKMoIj.jpg", "actors": [], "comments": [], "recommandations_id": []}

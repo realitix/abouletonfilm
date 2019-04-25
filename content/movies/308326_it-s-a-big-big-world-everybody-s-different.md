@@ -1,1 +1,0 @@
-{"tmdb_id": 308326, "title": "It's a Big, Big World: Everybody's Different", "original_title": "It's a Big, Big World: Everybody's Different", "slug_title": "it-s-a-big-big-world-everybody-s-different", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

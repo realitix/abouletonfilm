@@ -1,1 +1,0 @@
-{"tmdb_id": 452812, "title": "Hunting the KGB Killers", "original_title": "Hunting the KGB Killers", "slug_title": "hunting-the-kgb-killers", "date": "2017-04-17", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6KuOpW7mUVmZHpuleiBZtTF8ui0.jpg", "actors": [], "comments": [], "recommandations_id": []}

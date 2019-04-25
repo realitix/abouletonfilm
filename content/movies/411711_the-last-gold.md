@@ -1,1 +1,0 @@
-{"tmdb_id": 411711, "title": "The Last Gold", "original_title": "The Last Gold", "slug_title": "the-last-gold", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

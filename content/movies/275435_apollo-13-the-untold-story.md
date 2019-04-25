@@ -1,1 +1,0 @@
-{"tmdb_id": 275435, "title": "Apollo 13: The Untold Story", "original_title": "Apollo 13: The Untold Story", "slug_title": "apollo-13-the-untold-story", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 384499, "title": "Manson: 40 Years Later", "original_title": "Manson: 40 Years Later", "slug_title": "manson-40-years-later", "date": "", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

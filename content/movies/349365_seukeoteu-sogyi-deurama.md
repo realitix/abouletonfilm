@@ -1,1 +1,0 @@
-{"tmdb_id": 349365, "title": "\uc2a4\ucee4\ud2b8 \uc18d\uc758 \ub4dc\ub77c\ub9c8", "original_title": "\uc2a4\ucee4\ud2b8 \uc18d\uc758 \ub4dc\ub77c\ub9c8", "slug_title": "seukeoteu-sogyi-deurama", "date": "1997-08-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 318889, "title": "Epileptic Seizure, No. 3", "original_title": "Epileptic Seizure, No. 3", "slug_title": "epileptic-seizure-no-3", "date": "1906-01-17", "genre": "", "score": "1.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

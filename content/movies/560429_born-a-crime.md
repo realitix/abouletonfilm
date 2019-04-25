@@ -1,1 +1,0 @@
-{"tmdb_id": 560429, "title": "Born a Crime", "original_title": "Born a Crime", "slug_title": "born-a-crime", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lupita Nyong'o (Patricia Nombuyiselo Noah)"], "comments": [], "recommandations_id": []}

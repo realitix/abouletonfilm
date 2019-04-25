@@ -1,1 +1,0 @@
-{"tmdb_id": 278699, "title": "Season Of A Lifetime", "original_title": "Season Of A Lifetime", "slug_title": "season-of-a-lifetime", "date": "2012-04-14", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/seRjanU8c4zyUpONxCIZUhkPiMO.jpg", "actors": [], "comments": [], "recommandations_id": []}

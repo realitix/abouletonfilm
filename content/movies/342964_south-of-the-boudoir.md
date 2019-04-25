@@ -1,1 +1,0 @@
-{"tmdb_id": 342964, "title": "South of the Boudoir", "original_title": "South of the Boudoir", "slug_title": "south-of-the-boudoir", "date": "1940-05-17", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Charley Chase (Charley Chase)"], "comments": [], "recommandations_id": []}

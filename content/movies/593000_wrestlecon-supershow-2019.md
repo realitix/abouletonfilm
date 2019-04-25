@@ -1,1 +1,0 @@
-{"tmdb_id": 593000, "title": "Wrestlecon Supershow 2019", "original_title": "Wrestlecon Supershow 2019", "slug_title": "wrestlecon-supershow-2019", "date": "2019-04-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

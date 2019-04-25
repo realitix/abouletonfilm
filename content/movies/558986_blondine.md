@@ -1,1 +1,0 @@
-{"tmdb_id": 558986, "title": "Blondine", "original_title": "Blondine", "slug_title": "blondine", "date": "1945-05-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hHi68AFNJqHIZgcPs1oif3wvfL7.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 294857, "title": "Freedom", "original_title": "Freedom", "slug_title": "freedom", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

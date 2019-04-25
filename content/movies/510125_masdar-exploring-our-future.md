@@ -1,1 +1,0 @@
-{"tmdb_id": 510125, "title": "Masdar: Exploring Our Future", "original_title": "Masdar: Exploring Our Future", "slug_title": "masdar-exploring-our-future", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A3yQQ1J1IFkldrO6FuaGEdmm2NW.jpg", "actors": [], "comments": [], "recommandations_id": []}

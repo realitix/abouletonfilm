@@ -1,1 +1,0 @@
-{"tmdb_id": 514425, "title": "Santu\u00e1rio", "original_title": "Santu\u00e1rio", "slug_title": "santuario", "date": "1951-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qjCaD21ednculHePBbSMdP52h6I.jpg", "actors": ["T\u00falio de Lemos (Narrador)"], "comments": [], "recommandations_id": []}

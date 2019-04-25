@@ -1,1 +1,0 @@
-{"tmdb_id": 283747, "title": "Power Half Hour - Arms Toner", "original_title": "Power Half Hour - Arms Toner", "slug_title": "power-half-hour-arms-toner", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4yAHR0uDJXHCVP1hCdI1eJyKUWP.jpg", "actors": [], "comments": [], "recommandations_id": []}

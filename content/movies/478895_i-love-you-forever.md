@@ -1,1 +1,0 @@
-{"tmdb_id": 478895, "title": "I Love You Forever", "original_title": "\u6211\u9084\u662f\u6c38\u9060\u7684\u611b\u7740\u4f60", "slug_title": "i-love-you-forever", "date": "1969-12-18", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tang Lan Hua ()", "Yueh Yang ()"], "comments": [], "recommandations_id": []}

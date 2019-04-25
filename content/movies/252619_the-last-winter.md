@@ -1,1 +1,0 @@
-{"tmdb_id": 252619, "title": "The Last Winter", "original_title": "The Last Winter", "slug_title": "the-last-winter", "date": "1984-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

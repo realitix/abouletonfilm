@@ -1,1 +1,0 @@
-{"tmdb_id": 454163, "title": "The Unwonted Sasquatch", "original_title": "The Unwonted Sasquatch", "slug_title": "the-unwonted-sasquatch", "date": "2016-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wMlqCEhL8UmHZoD0iQJrMhvy9u4.jpg", "actors": [], "comments": [], "recommandations_id": []}

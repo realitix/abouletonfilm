@@ -1,1 +1,0 @@
-{"tmdb_id": 231083, "title": "Liverpool, la rade", "original_title": "Liverpool, la rade", "slug_title": "liverpool-la-rade", "date": "1897-10-29", "genre": "", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r5IfaZ9tP8sdTGB8BijORcFwgqU.jpg", "actors": [], "comments": [], "recommandations_id": []}

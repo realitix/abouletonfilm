@@ -1,1 +1,0 @@
-{"tmdb_id": 566356, "title": "Blood of the Flamboyant Tree", "original_title": "Le sang du flamboyant", "slug_title": "blood-of-the-flamboyant-tree", "date": "1981-10-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hPhnEPFmbBjjdjxzhMQkbnBvYn5.jpg", "actors": [], "comments": [], "recommandations_id": []}

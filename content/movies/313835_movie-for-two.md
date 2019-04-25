@@ -1,1 +1,0 @@
-{"tmdb_id": 313835, "title": "Movie for Two", "original_title": "Film za dva", "slug_title": "movie-for-two", "date": "2014-12-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

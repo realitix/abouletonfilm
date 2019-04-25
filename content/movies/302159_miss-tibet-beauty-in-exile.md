@@ -1,1 +1,0 @@
-{"tmdb_id": 302159, "title": "Miss Tibet: Beauty in Exile", "original_title": "Miss Tibet: Beauty in Exile", "slug_title": "miss-tibet-beauty-in-exile", "date": "2014-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/67nzptGGlzPUtPr0lYzWANSJ5qh.jpg", "actors": [], "comments": [], "recommandations_id": []}

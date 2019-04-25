@@ -1,1 +1,0 @@
-{"tmdb_id": 573487, "title": "Look of Love", "original_title": "Look of Love", "slug_title": "look-of-love", "date": "2006-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Masahiro Toda ()", "Hotaru Hazuki ()", "Youichi Nukumizu ()", "Masako Nagai ()"], "comments": [], "recommandations_id": []}

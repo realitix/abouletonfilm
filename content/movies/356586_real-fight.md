@@ -1,1 +1,0 @@
-{"tmdb_id": 356586, "title": "Real Fight", "original_title": "Real Fight", "slug_title": "real-fight", "date": "2015-12-31", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Markus B\u00f6ker (Boss)", "Dieter Landuris ()", "Mina Tander (Lisa)", "Mathis Landwehr (Victor)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 522214, "title": "M.A.S.K.: Mobile Armed Strike Kommand", "original_title": "M.A.S.K.: Mobile Armed Strike Kommand", "slug_title": "m-a-s-k-mobile-armed-strike-kommand", "date": "", "genre": "Action / Science-Fiction", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 571463, "title": "Swan Lee Live At Vega", "original_title": "Swan Lee Live At Vega", "slug_title": "swan-lee-live-at-vega", "date": "", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l2Jty3HKAw9Haq7BluFWeKjKOhx.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 37750, "title": "Dinosaur Island", "original_title": "Dinosaur Island", "slug_title": "dinosaur-island", "date": "2002-01-01", "genre": "Familial / Animation / Fantastique", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jmFm53x07owVhFfANeTYOyDZOdF.jpg", "actors": [], "comments": [], "recommandations_id": []}

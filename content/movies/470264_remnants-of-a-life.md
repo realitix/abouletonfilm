@@ -1,1 +1,0 @@
-{"tmdb_id": 470264, "title": "Remnants of a Life", "original_title": "10 Guds siffror", "slug_title": "remnants-of-a-life", "date": "2013-01-26", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9HtA4PMlhvyeoLAnIpnZdD1Oaa3.jpg", "actors": [], "comments": [], "recommandations_id": []}

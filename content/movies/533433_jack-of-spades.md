@@ -1,1 +1,0 @@
-{"tmdb_id": 533433, "title": "Jack of Spades", "original_title": "Chien de pique", "slug_title": "jack-of-spades", "date": "1960-12-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ibizX6owwYgrFNAPdqWigY2txl7.jpg", "actors": [], "comments": [], "recommandations_id": []}

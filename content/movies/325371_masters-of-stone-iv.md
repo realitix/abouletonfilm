@@ -1,1 +1,0 @@
-{"tmdb_id": 325371, "title": "Masters of Stone IV", "original_title": "Masters of Stone IV", "slug_title": "masters-of-stone-iv", "date": "1997-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/epveqoQnQfZiCkbOxfpuKtcX71H.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 339634, "title": "Handa's Surprise", "original_title": "Handa's Surprise", "slug_title": "handa-s-surprise", "date": "2009-08-03", "genre": "Familial / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wRJvWjeIlD7gbwA40wcZNdso8aT.jpg", "actors": ["Adjoa Andoh (Narrator)"], "comments": [], "recommandations_id": []}

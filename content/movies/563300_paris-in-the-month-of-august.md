@@ -1,1 +1,0 @@
-{"tmdb_id": 563300, "title": "Paris in the Month of August", "original_title": "Paris au mois d'ao\u00fbt", "slug_title": "paris-in-the-month-of-august", "date": "1966-01-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AtZeIEPDqfB8hiiRtttOVauJDlv.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 294808, "title": "OBSESSION KILLS", "original_title": "OBSESSION KILLS", "slug_title": "obsession-kills", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

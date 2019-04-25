@@ -1,1 +1,0 @@
-{"tmdb_id": 377300, "title": "Who Was Moses", "original_title": "Who Was Moses", "slug_title": "who-was-moses", "date": "1998-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vZHYeC1Wjs6EnFfaP59DnYjT0ma.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 528829, "title": "De Dentro Para Fora", "original_title": "De Dentro Para Fora", "slug_title": "de-dentro-para-fora", "date": "2017-10-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

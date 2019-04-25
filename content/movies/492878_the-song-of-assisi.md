@@ -1,1 +1,0 @@
-{"tmdb_id": 492878, "title": "The Song of Assisi", "original_title": "The Song of Assisi", "slug_title": "the-song-of-assisi", "date": "1967-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bbqcZPGyChDojxjDT5RzClyjEJ1.jpg", "actors": [], "comments": [], "recommandations_id": []}

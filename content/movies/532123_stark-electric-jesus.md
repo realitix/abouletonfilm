@@ -1,1 +1,0 @@
-{"tmdb_id": 532123, "title": "Stark Electric Jesus", "original_title": "Stark Electric Jesus", "slug_title": "stark-electric-jesus", "date": "2014-09-22", "genre": "Fantastique", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xZrVVq3tyOx0CkrbVi0qwfVtI4l.jpg", "actors": [], "comments": [], "recommandations_id": []}

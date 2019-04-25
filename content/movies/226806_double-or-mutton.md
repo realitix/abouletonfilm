@@ -1,1 +1,0 @@
-{"tmdb_id": 226806, "title": "Double or Mutton", "original_title": "Double or Mutton", "slug_title": "double-or-mutton", "date": "1955-07-23", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/NIIaNGHuxproPaugHwIdsSgyqy.jpg", "actors": ["Mel Blanc (Ralph Wolf / Sam Sheepdog)"], "comments": [], "recommandations_id": []}

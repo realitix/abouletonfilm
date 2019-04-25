@@ -1,1 +1,0 @@
-{"tmdb_id": 546566, "title": "The Pioneer and the Bad Mark", "original_title": "Pionir i dvojka", "slug_title": "the-pioneer-and-the-bad-mark", "date": "1949-10-30", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

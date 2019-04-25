@@ -1,1 +1,0 @@
-{"tmdb_id": 339683, "title": "Divided", "original_title": "Divided", "slug_title": "divided", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dSSvynbUNiPhtwhXjf8etj8BPB.jpg", "actors": [], "comments": [], "recommandations_id": []}

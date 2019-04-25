@@ -1,1 +1,0 @@
-{"tmdb_id": 370556, "title": "Melodie conseil", "original_title": "Melodie conseil", "slug_title": "melodie-conseil", "date": "1978-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

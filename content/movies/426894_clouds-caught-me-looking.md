@@ -1,1 +1,0 @@
-{"tmdb_id": 426894, "title": "Clouds Caught Me Looking", "original_title": "Clouds Caught Me Looking", "slug_title": "clouds-caught-me-looking", "date": "2016-11-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wyx8c53MDYFrHIVs7qZ8VqCsNm4.jpg", "actors": [], "comments": [], "recommandations_id": []}

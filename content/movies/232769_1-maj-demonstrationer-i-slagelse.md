@@ -1,1 +1,0 @@
-{"tmdb_id": 232769, "title": "1. maj-demonstrationer i Slagelse", "original_title": "1. maj-demonstrationer i Slagelse", "slug_title": "1-maj-demonstrationer-i-slagelse", "date": "1906-05-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

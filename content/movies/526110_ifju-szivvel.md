@@ -1,1 +1,0 @@
-{"tmdb_id": 526110, "title": "Ifj\u00fa sz\u00edvvel", "original_title": "Ifj\u00fa sz\u00edvvel", "slug_title": "ifju-szivvel", "date": "1953-04-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 255833, "title": "KastleVania 4: Vanian Legenda", "original_title": "KastleVania 4: Vanian Legenda", "slug_title": "kastlevania-4-vanian-legenda", "date": "2012-11-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yxqSnqkHABbAVckEM2Us06d2n9Q.jpg", "actors": [], "comments": [], "recommandations_id": []}

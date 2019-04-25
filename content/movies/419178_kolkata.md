@@ -1,1 +1,0 @@
-{"tmdb_id": 419178, "title": "Kolkata", "original_title": "Kolkata", "slug_title": "kolkata", "date": "2005-07-15", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nfviOfKYxK04CoEqDUYuUbXsz8z.jpg", "actors": [], "comments": [], "recommandations_id": []}

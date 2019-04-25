@@ -1,1 +1,0 @@
-{"tmdb_id": 591083, "title": "I Ktiniatros Pini Margarites", "original_title": "I Ktiniatros Pini Margarites", "slug_title": "i-ktiniatros-pini-margarites", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vahdSrc2H5OZS4MOfAg7BNTqzna.jpg", "actors": [], "comments": [], "recommandations_id": []}

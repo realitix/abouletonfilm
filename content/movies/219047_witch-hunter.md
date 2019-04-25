@@ -1,1 +1,0 @@
-{"tmdb_id": 219047, "title": "Witch Hunter", "original_title": "Witch Hunter", "slug_title": "witch-hunter", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g3Fsc8yaKSsaOb0Belp6IPKMtFI.jpg", "actors": [], "comments": [], "recommandations_id": []}

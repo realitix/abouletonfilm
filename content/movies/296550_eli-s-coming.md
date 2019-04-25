@@ -1,1 +1,0 @@
-{"tmdb_id": 296550, "title": "Eli's Coming", "original_title": "Eli's Coming", "slug_title": "eli-s-coming", "date": "1996-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

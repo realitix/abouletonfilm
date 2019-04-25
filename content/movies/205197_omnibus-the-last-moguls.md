@@ -1,1 +1,0 @@
-{"tmdb_id": 205197, "title": "Omnibus: The Last Moguls", "original_title": "Omnibus: The Last Moguls", "slug_title": "omnibus-the-last-moguls", "date": "1986-05-23", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wBkFsEc9E94G9vIB5LrsEMXVGYc.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 217782, "title": "Sheherazade", "original_title": "Sheherazade", "slug_title": "sheherazade", "date": "2011-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eYc2qt2Av3vb4l5AZOjDaxMfhJN.jpg", "actors": [], "comments": [], "recommandations_id": []}

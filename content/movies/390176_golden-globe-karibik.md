@@ -1,1 +1,0 @@
-{"tmdb_id": 390176, "title": "Golden Globe - Karibik", "original_title": "Golden Globe - Karibik", "slug_title": "golden-globe-karibik", "date": "2009-09-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fWSCx6LMveKSnq2VAIstAl7CI6O.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 462913, "title": "\uf934\u4eba\u3068\u6d77", "original_title": "\uf934\u4eba\u3068\u6d77", "slug_title": "no-ren-tohai", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2zWo8MD14njxuAol6a804QyhGw7.jpg", "actors": [], "comments": [], "recommandations_id": []}

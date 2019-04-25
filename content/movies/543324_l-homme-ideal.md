@@ -1,1 +1,0 @@
-{"tmdb_id": 543324, "title": "L'homme id\u00e9al", "original_title": "L'homme id\u00e9al", "slug_title": "l-homme-ideal", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pascale Arbillot ()"], "comments": [], "recommandations_id": []}

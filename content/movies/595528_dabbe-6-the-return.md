@@ -1,1 +1,0 @@
-{"tmdb_id": 595528, "title": "Dabbe 6: The Return", "original_title": "Dabbe 6: The Return", "slug_title": "dabbe-6-the-return", "date": "2015-09-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

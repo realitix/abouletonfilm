@@ -1,1 +1,0 @@
-{"tmdb_id": 172774, "title": "Crazy Spirit", "original_title": "Crazy Spirit", "slug_title": "crazy-spirit", "date": "1987-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l392VKQnN1jKsWfmXm5tEpyBp8g.jpg", "actors": [], "comments": [], "recommandations_id": []}

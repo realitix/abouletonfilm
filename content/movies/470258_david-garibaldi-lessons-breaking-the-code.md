@@ -1,1 +1,0 @@
-{"tmdb_id": 470258, "title": "David Garibaldi - Lessons: Breaking the Code", "original_title": "David Garibaldi - Lessons: Breaking the Code", "slug_title": "david-garibaldi-lessons-breaking-the-code", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 322273, "title": "Pitamaha", "original_title": "Pitamaha", "slug_title": "pitamaha", "date": "1985-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 219485, "title": "Roamin' Holiday", "original_title": "Roamin' Holiday", "slug_title": "roamin-holiday", "date": "1937-06-11", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4HOZQU9b1STG0mhw858OLxZqufJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

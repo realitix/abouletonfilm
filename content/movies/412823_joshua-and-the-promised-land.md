@@ -1,1 +1,0 @@
-{"tmdb_id": 412823, "title": "Joshua and the Promised Land", "original_title": "Joshua and the Promised Land", "slug_title": "joshua-and-the-promised-land", "date": "2004-04-25", "genre": "", "score": "0.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y13C8A9Ln5yPCGeEvhKH44yCnXv.jpg", "actors": [], "comments": [], "recommandations_id": []}

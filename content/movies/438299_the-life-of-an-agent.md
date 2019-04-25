@@ -1,1 +1,0 @@
-{"tmdb_id": 438299, "title": "The Life of an Agent", "original_title": "The Life of an Agent", "slug_title": "the-life-of-an-agent", "date": "2004-12-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wL9mtbxQnFN5jka2FBNtoqv3ZRw.jpg", "actors": [], "comments": [], "recommandations_id": []}

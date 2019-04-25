@@ -1,1 +1,0 @@
-{"tmdb_id": 559008, "title": "The White Blackbird", "original_title": "Le merle blanc", "slug_title": "the-white-blackbird", "date": "1944-12-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qSbplo69Nu5R97kh8KLJttkyT7.jpg", "actors": [], "comments": [], "recommandations_id": []}

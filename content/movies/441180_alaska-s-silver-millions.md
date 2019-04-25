@@ -1,1 +1,0 @@
-{"tmdb_id": 441180, "title": "Alaska's Silver Millions", "original_title": "Alaska's Silver Millions", "slug_title": "alaska-s-silver-millions", "date": "1936-02-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bernard R. Hubbard (Narrator)"], "comments": [], "recommandations_id": []}

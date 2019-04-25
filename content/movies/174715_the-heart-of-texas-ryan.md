@@ -1,1 +1,0 @@
-{"tmdb_id": 174715, "title": "The Heart Of Texas Ryan", "original_title": "The Heart Of Texas Ryan", "slug_title": "the-heart-of-texas-ryan", "date": "1917-02-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lCMEHO1HGwFP8BsUXburk0AUHFQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

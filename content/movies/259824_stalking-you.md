@@ -1,1 +1,0 @@
-{"tmdb_id": 259824, "title": "Stalking You", "original_title": "Tras de ti", "slug_title": "stalking-you", "date": "2013-09-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5SZjFNGHwt7VaIYjNdD3NxJmKlD.jpg", "actors": ["Claudia Hern\u00e1ndez ()", "Francisco Serrano ()"], "comments": [], "recommandations_id": []}

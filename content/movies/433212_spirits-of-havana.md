@@ -1,1 +1,0 @@
-{"tmdb_id": 433212, "title": "Spirits of Havana", "original_title": "Spirits of Havana", "slug_title": "spirits-of-havana", "date": "2000-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pEsMrlAO6mWUqgXHJwGMxkCZuy2.jpg", "actors": [], "comments": [], "recommandations_id": []}

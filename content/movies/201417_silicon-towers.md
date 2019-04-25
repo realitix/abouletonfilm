@@ -1,1 +1,0 @@
-{"tmdb_id": 201417, "title": "Silicon Towers", "original_title": "Silicon Towers", "slug_title": "silicon-towers", "date": "1999-01-01", "genre": "Com\u00e9die / Action / Crime", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oWwBjIZfcTxGRaGbgZtsTlyfin4.jpg", "actors": [], "comments": [], "recommandations_id": []}

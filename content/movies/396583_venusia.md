@@ -1,1 +1,0 @@
-{"tmdb_id": 396583, "title": "Venusia", "original_title": "Venusia", "slug_title": "venusia", "date": "2015-01-01", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kebHIVdhS6OrSRlWFjt67lDpKWr.jpg", "actors": [], "comments": [], "recommandations_id": []}

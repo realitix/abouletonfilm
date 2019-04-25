@@ -1,1 +1,0 @@
-{"tmdb_id": 261762, "title": "Paavai Vilakku", "original_title": "Paavai Vilakku", "slug_title": "paavai-vilakku", "date": "1960-01-31", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sivaji Ganesan ()", "Devika ()", "Sowcar Janaki ()", "Pandari Bai ()"], "comments": [], "recommandations_id": []}

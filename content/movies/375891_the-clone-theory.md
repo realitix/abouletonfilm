@@ -1,1 +1,0 @@
-{"tmdb_id": 375891, "title": "The Clone Theory", "original_title": "The Clone Theory", "slug_title": "the-clone-theory", "date": "2015-07-16", "genre": "Thriller / Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["A.P. Stevens ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 418279, "title": "Akhtar Ragol Fi El Alam", "original_title": "Akhtar Ragol Fi El Alam", "slug_title": "akhtar-ragol-fi-el-alam", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vgxFJGWokgfDfbSIiYN5hffLbAc.jpg", "actors": [], "comments": [], "recommandations_id": []}

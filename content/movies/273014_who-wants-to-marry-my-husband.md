@@ -1,1 +1,0 @@
-{"tmdb_id": 273014, "title": "Who Wants to Marry My Husband", "original_title": "Who Wants to Marry My Husband", "slug_title": "who-wants-to-marry-my-husband", "date": "2002-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

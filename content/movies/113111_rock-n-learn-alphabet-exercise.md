@@ -1,1 +1,0 @@
-{"tmdb_id": 113111, "title": "Rock 'N Learn: Alphabet Exercise", "original_title": "Rock 'N Learn: Alphabet Exercise", "slug_title": "rock-n-learn-alphabet-exercise", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tWeNJHU3nFBkBkDZaVyHotW9CDh.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 475313, "title": "A Beacon in Havana", "original_title": "A Beacon in Havana", "slug_title": "a-beacon-in-havana", "date": "2015-10-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zBgSYeD81MNaWPwi9OrAHavNpzD.jpg", "actors": [], "comments": [], "recommandations_id": []}

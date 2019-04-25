@@ -1,1 +1,0 @@
-{"tmdb_id": 480188, "title": "Sparky the Firefly", "original_title": "Sparky the Firefly", "slug_title": "sparky-the-firefly", "date": "1953-06-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 333816, "title": "Project Achilles", "original_title": "Project Achilles", "slug_title": "project-achilles", "date": "2014-11-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 243379, "title": "One Day Pina Asked...", "original_title": "Un jour Pina a demand\u00e9...", "slug_title": "one-day-pina-asked", "date": "1983-12-04", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/50Ls3id8IzUqdQjCPSBG3M5cgNb.jpg", "actors": ["Pina Bausch ()"], "comments": [], "recommandations_id": []}

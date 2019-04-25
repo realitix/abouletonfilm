@@ -1,1 +1,0 @@
-{"tmdb_id": 522847, "title": "Los Pinkerton", "original_title": "Los Pinkerton", "slug_title": "los-pinkerton", "date": "2007-05-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/asUJwUsjPwbOkWTKZKHu7DY6rKz.jpg", "actors": [], "comments": [], "recommandations_id": []}

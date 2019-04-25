@@ -1,1 +1,0 @@
-{"tmdb_id": 592151, "title": "The Low End", "original_title": "The Low End", "slug_title": "the-low-end", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zP1A8sVXGdXf0OE4RE3x6txRaXH.jpg", "actors": [], "comments": [], "recommandations_id": []}

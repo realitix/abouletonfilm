@@ -1,1 +1,0 @@
-{"tmdb_id": 338658, "title": "Imagining a Better World", "original_title": "Imagining a Better World", "slug_title": "imagining-a-better-world", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cK8VQwxGrB52eYC8QxEnqXyFzhw.jpg", "actors": [], "comments": [], "recommandations_id": []}

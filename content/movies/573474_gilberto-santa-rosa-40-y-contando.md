@@ -1,1 +1,0 @@
-{"tmdb_id": 573474, "title": "Gilberto Santa Rosa: 40 y Contando", "original_title": "Gilberto Santa Rosa: 40 y Contando", "slug_title": "gilberto-santa-rosa-40-y-contando", "date": "2018-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

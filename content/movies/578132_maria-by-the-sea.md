@@ -1,1 +1,0 @@
-{"tmdb_id": 578132, "title": "Maria by the Sea", "original_title": "Maria by the Sea", "slug_title": "maria-by-the-sea", "date": "2019-01-27", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gIackZS3b5rYF1G0PHOEqniGr5u.jpg", "actors": [], "comments": [], "recommandations_id": []}

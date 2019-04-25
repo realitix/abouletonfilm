@@ -1,1 +1,0 @@
-{"tmdb_id": 403924, "title": "China's Wild West", "original_title": "China's Wild West", "slug_title": "china-s-wild-west", "date": "2009-01-18", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

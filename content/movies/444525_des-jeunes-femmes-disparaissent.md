@@ -1,1 +1,0 @@
-{"tmdb_id": 444525, "title": "Des jeunes femmes disparaissent", "original_title": "Des jeunes femmes disparaissent", "slug_title": "des-jeunes-femmes-disparaissent", "date": "1976-03-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 271262, "title": "Dolphin Adventures", "original_title": "Dolphin Adventures", "slug_title": "dolphin-adventures", "date": "1979-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

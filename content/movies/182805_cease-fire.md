@@ -1,1 +1,0 @@
-{"tmdb_id": 182805, "title": "Cease Fire!", "original_title": "Cease Fire!", "slug_title": "cease-fire", "date": "1953-11-24", "genre": "Documentaire / Guerre", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hM0I2PPomtzo0FvFGpCcTJGnD8X.jpg", "actors": [], "comments": [], "recommandations_id": []}

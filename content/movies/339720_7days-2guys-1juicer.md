@@ -1,1 +1,0 @@
-{"tmdb_id": 339720, "title": "7days 2guys 1juicer", "original_title": "7days 2guys 1juicer", "slug_title": "7days-2guys-1juicer", "date": "2014-12-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

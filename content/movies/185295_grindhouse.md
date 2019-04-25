@@ -1,1 +1,0 @@
-{"tmdb_id": 185295, "title": "Grindhouse", "original_title": "Grindhouse", "slug_title": "grindhouse", "date": "2003-01-01", "genre": "Horreur / Com\u00e9die", "score": "6.3/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jennifer Taher (Deborah Tennis)", "Joshua Grannell (Richard Hunter)"], "comments": [], "recommandations_id": []}

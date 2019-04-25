@@ -1,1 +1,0 @@
-{"tmdb_id": 152921, "title": "Removed", "original_title": "Removed", "slug_title": "removed", "date": "1999-12-17", "genre": "", "score": "6.4/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/agmej3jx6Rguot0tdhVfxzwd8Fi.jpg", "actors": [], "comments": [], "recommandations_id": [42265]}

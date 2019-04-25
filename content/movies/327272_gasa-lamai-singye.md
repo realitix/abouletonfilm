@@ -1,1 +1,0 @@
-{"tmdb_id": 327272, "title": "Gasa Lamai Singye", "original_title": "Gasa Lamai Singye", "slug_title": "gasa-lamai-singye", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

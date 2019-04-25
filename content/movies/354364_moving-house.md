@@ -1,1 +1,0 @@
-{"tmdb_id": 354364, "title": "Moving House", "original_title": "Moving House", "slug_title": "moving-house", "date": "1950-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Richard Massingham (Uncle Bob)", "Kynaston Reeves (Father)"], "comments": [], "recommandations_id": []}

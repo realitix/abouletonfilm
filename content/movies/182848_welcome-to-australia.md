@@ -1,1 +1,0 @@
-{"tmdb_id": 182848, "title": "Welcome to Australia", "original_title": "Welcome to Australia", "slug_title": "welcome-to-australia", "date": "1999-12-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sLspwXKO9JE6lzI5K991QI8z8pC.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 503518, "title": "Gaither Vocal Band - Israel Homecoming", "original_title": "Gaither Vocal Band - Israel Homecoming", "slug_title": "gaither-vocal-band-israel-homecoming", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

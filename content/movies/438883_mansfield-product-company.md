@@ -1,1 +1,0 @@
-{"tmdb_id": 438883, "title": "Mansfield Product Company", "original_title": "Mansfield Product Company", "slug_title": "mansfield-product-company", "date": "2014-02-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6K93XoCfPn8m0BwRDUelZuMw6Pn.jpg", "actors": [], "comments": [], "recommandations_id": []}

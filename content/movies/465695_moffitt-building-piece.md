@@ -1,1 +1,0 @@
-{"tmdb_id": 465695, "title": "Moffitt Building Piece", "original_title": "Moffitt Building Piece", "slug_title": "moffitt-building-piece", "date": "1973-12-21", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/om6czUMdmwsjUzR11bJvVoZjhmQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

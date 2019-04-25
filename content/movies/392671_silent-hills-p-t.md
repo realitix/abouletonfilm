@@ -1,1 +1,0 @@
-{"tmdb_id": 392671, "title": "Silent Hills P.T.", "original_title": "Silent Hills P.T.", "slug_title": "silent-hills-p-t", "date": "2016-02-10", "genre": "Horreur", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rLmgDwuXE0TZwhnyWtxc5La4SBF.jpg", "actors": [], "comments": [], "recommandations_id": []}

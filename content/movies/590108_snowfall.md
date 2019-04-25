@@ -1,1 +1,0 @@
-{"tmdb_id": 590108, "title": "Snowfall", "original_title": "\u96ea\u00b7\u846c", "slug_title": "snowfall", "date": "2018-04-27", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4lXeTXDrTIfzWsgCBbRf76brBGM.jpg", "actors": [], "comments": [], "recommandations_id": []}

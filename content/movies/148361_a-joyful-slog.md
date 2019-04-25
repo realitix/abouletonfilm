@@ -1,1 +1,0 @@
-{"tmdb_id": 148361, "title": "A Joyful Slog", "original_title": "A Joyful Slog", "slug_title": "a-joyful-slog", "date": "2012-05-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wdJmK51rI9aVTaDuSrXzYZ0KAOF.jpg", "actors": [], "comments": [], "recommandations_id": []}

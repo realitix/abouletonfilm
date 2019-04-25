@@ -1,1 +1,0 @@
-{"tmdb_id": 304946, "title": "Friends in Fairyland", "original_title": "Friends in Fairyland", "slug_title": "friends-in-fairyland", "date": "2014-05-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

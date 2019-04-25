@@ -1,1 +1,0 @@
-{"tmdb_id": 585349, "title": "S.C. Recortes de prensa", "original_title": "S.C. Recortes de prensa", "slug_title": "s-c-recortes-de-prensa", "date": "2014-09-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/na6nom0dzEWcyAfgBRnu2X8xxP7.jpg", "actors": [], "comments": [], "recommandations_id": []}

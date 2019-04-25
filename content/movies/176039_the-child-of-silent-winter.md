@@ -1,1 +1,0 @@
-{"tmdb_id": 176039, "title": "The Child of Silent Winter", "original_title": "Hiljaisen talven lapsi", "slug_title": "the-child-of-silent-winter", "date": "2012-09-01", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/caraqTmuMIxSXUY2uadXkISwTbQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

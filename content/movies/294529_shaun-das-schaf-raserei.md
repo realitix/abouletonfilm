@@ -1,1 +1,0 @@
-{"tmdb_id": 294529, "title": "Shaun das Schaf - Raserei", "original_title": "Shaun das Schaf - Raserei", "slug_title": "shaun-das-schaf-raserei", "date": "2010-10-07", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4bBsZybfs80gwZYB4vFtwpE9Ihz.jpg", "actors": [], "comments": [], "recommandations_id": []}

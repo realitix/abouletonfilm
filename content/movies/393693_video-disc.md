@@ -1,1 +1,0 @@
-{"tmdb_id": 393693, "title": "Video-Disc", "original_title": "Video-Disc", "slug_title": "video-disc", "date": "1986-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/c1Y5z1vrzR7NqRvkFUZlTS6DhTr.jpg", "actors": [], "comments": [], "recommandations_id": []}

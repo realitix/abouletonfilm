@@ -1,1 +1,1 @@
-{"tmdb_id": 323652, "title": "Gal\u00e1xias", "original_title": "Gal\u00e1xias", "slug_title": "galaxias", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 323652, "title": "Gal\u00e1xias", "original_title": "Gal\u00e1xias", "slug_title": "galaxias", "date": "2014-01-01", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

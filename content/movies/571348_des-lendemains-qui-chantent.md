@@ -1,1 +1,0 @@
-{"tmdb_id": 571348, "title": "Des lendemains qui chantent", "original_title": "Des lendemains qui chantent", "slug_title": "des-lendemains-qui-chantent", "date": "1996-05-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

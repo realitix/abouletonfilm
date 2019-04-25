@@ -1,1 +1,0 @@
-{"tmdb_id": 224830, "title": "Hitching the A1", "original_title": "Hitching the A1", "slug_title": "hitching-the-a1", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

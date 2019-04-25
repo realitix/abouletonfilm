@@ -1,1 +1,0 @@
-{"tmdb_id": 521533, "title": "Evanescence The Open Door Tour Live 2007", "original_title": "Evanescence The Open Door Tour Live 2007", "slug_title": "evanescence-the-open-door-tour-live-2007", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

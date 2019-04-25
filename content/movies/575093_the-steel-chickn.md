@@ -1,1 +1,0 @@
-{"tmdb_id": 575093, "title": "The Steel Chickn", "original_title": "The Steel Chickn", "slug_title": "the-steel-chickn", "date": "1970-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

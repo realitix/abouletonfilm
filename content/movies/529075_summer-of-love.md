@@ -1,1 +1,0 @@
-{"tmdb_id": 529075, "title": "Summer of Love", "original_title": "Summer of Love", "slug_title": "summer-of-love", "date": "1990-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7rDfUbe4pk2mceZ5S5wdNtUXj8v.jpg", "actors": [], "comments": [], "recommandations_id": []}

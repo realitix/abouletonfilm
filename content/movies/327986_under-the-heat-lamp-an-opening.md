@@ -1,1 +1,0 @@
-{"tmdb_id": 327986, "title": "Under the Heat Lamp an Opening", "original_title": "Under the Heat Lamp an Opening", "slug_title": "under-the-heat-lamp-an-opening", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 317774, "title": "Marathon Beirut: For the Love of Lebanon", "original_title": "Marathon Beirut: For the Love of Lebanon", "slug_title": "marathon-beirut-for-the-love-of-lebanon", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

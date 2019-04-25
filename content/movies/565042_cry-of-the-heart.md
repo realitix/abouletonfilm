@@ -1,1 +1,0 @@
-{"tmdb_id": 565042, "title": "Cry of the Heart", "original_title": "Le cri du coeur", "slug_title": "cry-of-the-heart", "date": "1974-09-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tXb4ygQlC5CT7M0DIUijOZ2qgRo.jpg", "actors": [], "comments": [], "recommandations_id": []}

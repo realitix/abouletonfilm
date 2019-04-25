@@ -1,1 +1,0 @@
-{"tmdb_id": 587339, "title": "Trip of Compassion", "original_title": "Trip of Compassion", "slug_title": "trip-of-compassion", "date": "2019-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

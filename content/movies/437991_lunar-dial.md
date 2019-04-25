@@ -1,1 +1,0 @@
-{"tmdb_id": 437991, "title": "Lunar Dial", "original_title": "Lunar Dial", "slug_title": "lunar-dial", "date": "2016-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6RUTGZjUuPmpWLfh5zMbTe8hbp4.jpg", "actors": [], "comments": [], "recommandations_id": []}

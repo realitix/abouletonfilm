@@ -1,1 +1,0 @@
-{"tmdb_id": 284786, "title": "Labirintus", "original_title": "Labirintus", "slug_title": "labirintus", "date": "1976-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

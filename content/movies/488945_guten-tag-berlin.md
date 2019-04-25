@@ -1,1 +1,0 @@
-{"tmdb_id": 488945, "title": "Guten Tag, Berlin", "original_title": "Guten Tag, Berlin", "slug_title": "guten-tag-berlin", "date": "1987-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7tJCWXNcpEmCkpos4vBr9N8EJms.jpg", "actors": [], "comments": [], "recommandations_id": []}

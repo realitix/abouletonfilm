@@ -1,1 +1,0 @@
-{"tmdb_id": 490957, "title": "Diamond Safari", "original_title": "Diamond Safari", "slug_title": "diamond-safari", "date": "1958-02-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gQQMBn97TaahX9k04U3901uziWA.jpg", "actors": [], "comments": [], "recommandations_id": []}

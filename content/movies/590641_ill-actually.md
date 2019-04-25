@@ -1,1 +1,0 @@
-{"tmdb_id": 590641, "title": "ill, actually", "original_title": "ill, actually", "slug_title": "ill-actually", "date": "2019-03-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cpmS72stokwXa7oYoav8Fjt5WSC.jpg", "actors": [], "comments": [], "recommandations_id": []}

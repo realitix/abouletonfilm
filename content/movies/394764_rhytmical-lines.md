@@ -1,1 +1,0 @@
-{"tmdb_id": 394764, "title": "Rhytmical Lines", "original_title": "Linie rytmiczne", "slug_title": "rhytmical-lines", "date": "1986-01-01", "genre": "Documentaire", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uUfsgdSqvbalaPnDh6Cy5TBBXY0.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 368946, "title": "And We Were Young", "original_title": "And We Were Young", "slug_title": "and-we-were-young", "date": "2015-02-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

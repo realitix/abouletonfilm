@@ -1,1 +1,0 @@
-{"tmdb_id": 210903, "title": "Without the King", "original_title": "Without the King", "slug_title": "without-the-king", "date": "2007-04-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1QxEYSS4F0Umf0HESZ2xoD15hVb.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 306230, "title": "Dying to Be Heard", "original_title": "Dying to Be Heard", "slug_title": "dying-to-be-heard", "date": "2014-09-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

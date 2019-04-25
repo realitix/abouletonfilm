@@ -1,1 +1,0 @@
-{"tmdb_id": 343229, "title": "Amargos", "original_title": "Amargos", "slug_title": "amargos", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5r9kydE3OxiQXfYpHFbyYbsi6Ye.jpg", "actors": [], "comments": [], "recommandations_id": []}

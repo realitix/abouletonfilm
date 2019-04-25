@@ -1,1 +1,0 @@
-{"tmdb_id": 499434, "title": "the groove is not trivial", "original_title": "the groove is not trivial", "slug_title": "the-groove-is-not-trivial", "date": "2016-10-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cZprSgm0LUyvJmrKNw6rFUIJyUO.jpg", "actors": [], "comments": [], "recommandations_id": []}

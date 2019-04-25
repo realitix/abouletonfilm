@@ -1,1 +1,0 @@
-{"tmdb_id": 595958, "title": "El Pueblo Soy Yo: Venezuela en Populismo", "original_title": "El Pueblo Soy Yo: Venezuela en Populismo", "slug_title": "el-pueblo-soy-yo-venezuela-en-populismo", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 552416, "title": "Trans Canada Summer", "original_title": "Trans Canada Summer", "slug_title": "trans-canada-summer", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pierre Berton (Narrator)"], "comments": [], "recommandations_id": []}

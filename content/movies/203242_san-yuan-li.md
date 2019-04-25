@@ -1,1 +1,0 @@
-{"tmdb_id": 203242, "title": "San Yuan Li", "original_title": "San Yuan Li", "slug_title": "san-yuan-li", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lRV4T70elRYkmHaVd8VZ4ocQE8r.jpg", "actors": [], "comments": [], "recommandations_id": []}

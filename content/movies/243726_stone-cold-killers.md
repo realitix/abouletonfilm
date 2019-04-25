@@ -1,1 +1,0 @@
-{"tmdb_id": 243726, "title": "Stone Cold Killers", "original_title": "Stone Cold Killers", "slug_title": "stone-cold-killers", "date": "2004-02-09", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jKi1wvkFP5IPGsVxgIgKZOpQAke.jpg", "actors": [], "comments": [], "recommandations_id": []}

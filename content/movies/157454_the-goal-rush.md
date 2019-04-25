@@ -1,1 +1,0 @@
-{"tmdb_id": 157454, "title": "The Goal Rush", "original_title": "The Goal Rush", "slug_title": "the-goal-rush", "date": "1932-10-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

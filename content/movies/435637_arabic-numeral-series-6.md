@@ -1,1 +1,0 @@
-{"tmdb_id": 435637, "title": "Arabic Numeral Series 6", "original_title": "Arabic Numeral Series 6", "slug_title": "arabic-numeral-series-6", "date": "1981-01-17", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qUaonP3slHiTGmhepyLC9BBjM20.jpg", "actors": [], "comments": [], "recommandations_id": []}

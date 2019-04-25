@@ -1,1 +1,0 @@
-{"tmdb_id": 391386, "title": "Lessons in Courtship", "original_title": "Lessons in Courtship", "slug_title": "lessons-in-courtship", "date": "1912-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

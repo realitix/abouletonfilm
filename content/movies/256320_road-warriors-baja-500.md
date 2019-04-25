@@ -1,1 +1,0 @@
-{"tmdb_id": 256320, "title": "Road Warriors: Baja 500", "original_title": "Road Warriors: Baja 500", "slug_title": "road-warriors-baja-500", "date": "2011-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

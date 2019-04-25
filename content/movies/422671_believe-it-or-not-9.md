@@ -1,1 +1,0 @@
-{"tmdb_id": 422671, "title": "Believe It or Not #9", "original_title": "Believe It or Not #9", "slug_title": "believe-it-or-not-9", "date": "1931-05-24", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Robert L. Ripley ()"], "comments": [], "recommandations_id": []}

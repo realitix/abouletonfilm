@@ -1,1 +1,0 @@
-{"tmdb_id": 491313, "title": "Fundo de Garrafa", "original_title": "Fundo de Garrafa", "slug_title": "fundo-de-garrafa", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

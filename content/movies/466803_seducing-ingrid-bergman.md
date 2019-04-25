@@ -1,1 +1,0 @@
-{"tmdb_id": 466803, "title": "Seducing Ingrid Bergman", "original_title": "Seducing Ingrid Bergman", "slug_title": "seducing-ingrid-bergman", "date": "", "genre": "Drame / Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jessica Chastain (Ingrid Bergman)"], "comments": [], "recommandations_id": []}

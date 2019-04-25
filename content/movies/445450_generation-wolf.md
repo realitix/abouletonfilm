@@ -1,1 +1,0 @@
-{"tmdb_id": 445450, "title": "Generation Wolf", "original_title": "Generation Wolf", "slug_title": "generation-wolf", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uvaIk8BnCncAllnZPplL84xWGT.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 164572, "title": "La verg\u00fcenza", "original_title": "La verg\u00fcenza", "slug_title": "la-verguenza", "date": "2009-04-28", "genre": "Drame", "score": "7.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4AnrqXqQcGeLjYfa70jsDeWfl7x.jpg", "actors": ["Alberto San Juan ()"], "comments": [], "recommandations_id": []}

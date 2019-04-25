@@ -1,1 +1,0 @@
-{"tmdb_id": 473115, "title": "Fishura", "original_title": "Fishura", "slug_title": "fishura", "date": "2015-02-19", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["B\u00e1rbara Rivas (Irene)"], "comments": [], "recommandations_id": []}

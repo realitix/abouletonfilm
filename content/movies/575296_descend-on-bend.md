@@ -1,1 +1,0 @@
-{"tmdb_id": 575296, "title": "Descend on Bend", "original_title": "Descend on Bend", "slug_title": "descend-on-bend", "date": "2018-12-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

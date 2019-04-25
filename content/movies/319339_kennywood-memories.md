@@ -1,1 +1,0 @@
-{"tmdb_id": 319339, "title": "Kennywood Memories", "original_title": "Kennywood Memories", "slug_title": "kennywood-memories", "date": "1988-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uyEeX5U78hpipo995uCsOBEga9K.jpg", "actors": ["Rick Sebak (Narrator)"], "comments": [], "recommandations_id": []}

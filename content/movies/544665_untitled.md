@@ -1,1 +1,0 @@
-{"tmdb_id": 544665, "title": "Untitled", "original_title": "Untitled", "slug_title": "untitled", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

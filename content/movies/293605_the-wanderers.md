@@ -1,1 +1,0 @@
-{"tmdb_id": 293605, "title": "The Wanderers", "original_title": "The Wanderers", "slug_title": "the-wanderers", "date": "2013-04-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

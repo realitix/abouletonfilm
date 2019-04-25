@@ -1,1 +1,0 @@
-{"tmdb_id": 142657, "title": "Une catastrophe", "original_title": "Une catastrophe", "slug_title": "une-catastrophe", "date": "2008-10-17", "genre": "", "score": "4.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6ebidEIsxwEpcDSDbnKbTTVSnmi.jpg", "actors": [], "comments": [], "recommandations_id": [239550, 175916, 256651, 117975]}

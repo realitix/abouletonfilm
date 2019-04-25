@@ -1,1 +1,0 @@
-{"tmdb_id": 405730, "title": "Candy Girl", "original_title": "Candy Girl", "slug_title": "candy-girl", "date": "1984-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

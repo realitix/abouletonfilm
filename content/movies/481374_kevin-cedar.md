@@ -1,1 +1,0 @@
-{"tmdb_id": 481374, "title": "Kevin & Cedar", "original_title": "Kevin & Cedar", "slug_title": "kevin-cedar", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kevin Killian (Himself)", "Cedar Sigo (Himself)"], "comments": [], "recommandations_id": []}

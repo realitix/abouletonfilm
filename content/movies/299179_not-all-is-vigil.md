@@ -1,1 +1,0 @@
-{"tmdb_id": 299179, "title": "Not All Is Vigil", "original_title": "No todo es vigilia", "slug_title": "not-all-is-vigil", "date": "2014-10-05", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rYKsKtWgDZo9H8k6FOrFlRpWxAE.jpg", "actors": ["Felisa Lou ()", "Antonio Paralluelo ()"], "comments": [], "recommandations_id": []}

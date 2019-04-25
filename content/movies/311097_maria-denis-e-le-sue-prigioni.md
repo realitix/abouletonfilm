@@ -1,1 +1,0 @@
-{"tmdb_id": 311097, "title": "Maria Denis e le sue prigioni", "original_title": "Maria Denis e le sue prigioni", "slug_title": "maria-denis-e-le-sue-prigioni", "date": "1948-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mar\u00eda Denis (herself)", "Giorgio Bianchi (himself)"], "comments": [], "recommandations_id": []}

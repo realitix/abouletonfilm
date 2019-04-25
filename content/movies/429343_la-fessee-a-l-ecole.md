@@ -1,1 +1,0 @@
-{"tmdb_id": 429343, "title": "La fess\u00e9e \u00e0 l'\u00e9cole", "original_title": "La fess\u00e9e \u00e0 l'\u00e9cole", "slug_title": "la-fessee-a-l-ecole", "date": "1925-12-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zmXJQsX0HzUkQQsSvGTRLaSt2HT.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 255173, "title": "Skinnay Ennis and His Orchestra", "original_title": "Skinnay Ennis and His Orchestra", "slug_title": "skinnay-ennis-and-his-orchestra", "date": "1941-01-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

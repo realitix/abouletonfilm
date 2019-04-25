@@ -1,1 +1,0 @@
-{"tmdb_id": 282003, "title": "Territories", "original_title": "Territories", "slug_title": "territories", "date": "2007-09-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Larry Towell (Himself)"], "comments": [], "recommandations_id": []}

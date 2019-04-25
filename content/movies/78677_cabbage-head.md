@@ -1,1 +1,0 @@
-{"tmdb_id": 78677, "title": "Cabbage Head", "original_title": "Kapsapea", "slug_title": "cabbage-head", "date": "1993-09-27", "genre": "Animation", "score": "6.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pFpZcaMjHciPUV4WUOAJJ4tpgWD.jpg", "actors": [], "comments": [], "recommandations_id": []}

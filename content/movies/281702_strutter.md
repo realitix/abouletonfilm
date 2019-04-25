@@ -1,1 +1,0 @@
-{"tmdb_id": 281702, "title": "Strutter", "original_title": "Strutter", "slug_title": "strutter", "date": "2013-04-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/trSmFkZH9mO4n8IFEJlrvWx8quZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

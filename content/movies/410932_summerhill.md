@@ -1,1 +1,0 @@
-{"tmdb_id": 410932, "title": "Summerhill", "original_title": "Summerhill", "slug_title": "summerhill", "date": "2008-01-01", "genre": "", "score": "7.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e4oDyofTJI7SH1zh6YjM2kkWOzG.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 565963, "title": "I Am Katya Golubeva", "original_title": "I Am Katya Golubeva", "slug_title": "i-am-katya-golubeva", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 213774, "title": "The Miners Strike", "original_title": "The Miners Strike", "slug_title": "the-miners-strike", "date": "2004-01-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2ZXe4sSpfVFS4Vmzuf1pKVeHh7m.jpg", "actors": [], "comments": [], "recommandations_id": []}

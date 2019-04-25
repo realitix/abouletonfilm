@@ -1,1 +1,0 @@
-{"tmdb_id": 353521, "title": "Roberto Carlos Ao Vivo em Las Vegas 2015", "original_title": "Roberto Carlos Ao Vivo em Las Vegas 2015", "slug_title": "roberto-carlos-ao-vivo-em-las-vegas-2015", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,1 @@
-{"tmdb_id": 296582, "title": "Faustina", "original_title": "Faustyna", "slug_title": "faustina", "date": "1994-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 296582, "title": "Faustina", "original_title": "Faustyna", "slug_title": "faustina", "date": "1994-10-01", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

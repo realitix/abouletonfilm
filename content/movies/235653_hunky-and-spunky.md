@@ -1,1 +1,0 @@
-{"tmdb_id": 235653, "title": "Hunky and Spunky", "original_title": "Hunky and Spunky", "slug_title": "hunky-and-spunky", "date": "1938-06-24", "genre": "", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4YIakVDlnHkXXDnK0xwkFWBdsIm.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 122447, "title": "Dreaming of Fish", "original_title": "Sonhos de Peixe", "slug_title": "dreaming-of-fish", "date": "2006-05-26", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r0FADjEGIEhFfxdefJyvWN3jB2W.jpg", "actors": [], "comments": [], "recommandations_id": []}

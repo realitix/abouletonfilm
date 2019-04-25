@@ -1,1 +1,0 @@
-{"tmdb_id": 303532, "title": "Teenage Trap", "original_title": "\u9752\u84ee\u9752\u5e74", "slug_title": "teenage-trap", "date": "1984-09-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tommy Chung ()", "Yik Gon-Ha ()", "Kar-Man Wai ()", "Mang Ding-Goh ()"], "comments": [], "recommandations_id": []}

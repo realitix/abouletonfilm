@@ -1,1 +1,0 @@
-{"tmdb_id": 179316, "title": "Dholi Taaro Dhol Waage", "original_title": "Dholi Taaro Dhol Waage", "slug_title": "dholi-taaro-dhol-waage", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

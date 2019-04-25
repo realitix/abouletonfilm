@@ -1,1 +1,0 @@
-{"tmdb_id": 342175, "title": "Pink Floyd \u200e\u2013 KQED", "original_title": "Pink Floyd \u200e\u2013 KQED", "slug_title": "pink-floyd-kqed", "date": "1970-06-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ehmoB5SPt2qu9rhGNwa2YWto9Ut.jpg", "actors": [], "comments": [], "recommandations_id": []}

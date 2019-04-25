@@ -1,1 +1,0 @@
-{"tmdb_id": 302896, "title": "Gumbys Christmas Capers", "original_title": "Gumbys Christmas Capers", "slug_title": "gumbys-christmas-capers", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

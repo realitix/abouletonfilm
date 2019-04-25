@@ -1,1 +1,0 @@
-{"tmdb_id": 390614, "title": "TNA Turning Point 2010", "original_title": "TNA Turning Point 2010", "slug_title": "tna-turning-point-2010", "date": "2010-11-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jRgfs5ULTeC6Qua9gRoGs6qyPaQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

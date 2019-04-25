@@ -1,1 +1,0 @@
-{"tmdb_id": 274673, "title": "7th Octave: The Seventh Degree", "original_title": "7th Octave: The Seventh Degree", "slug_title": "7th-octave-the-seventh-degree", "date": "2004-06-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

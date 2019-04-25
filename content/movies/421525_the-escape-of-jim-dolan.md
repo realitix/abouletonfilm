@@ -1,1 +1,0 @@
-{"tmdb_id": 421525, "title": "The Escape of Jim Dolan", "original_title": "The Escape of Jim Dolan", "slug_title": "the-escape-of-jim-dolan", "date": "1913-10-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

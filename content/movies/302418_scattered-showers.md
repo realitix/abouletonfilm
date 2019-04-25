@@ -1,1 +1,0 @@
-{"tmdb_id": 302418, "title": "Scattered Showers", "original_title": "Scattered Showers", "slug_title": "scattered-showers", "date": "1999-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/374tlsQmYEieUts4TerSO6S3X7E.jpg", "actors": [], "comments": [], "recommandations_id": []}

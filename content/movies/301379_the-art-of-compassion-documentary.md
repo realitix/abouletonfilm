@@ -1,1 +1,0 @@
-{"tmdb_id": 301379, "title": "The Art of Compassion: Documentary", "original_title": "The Art of Compassion: Documentary", "slug_title": "the-art-of-compassion-documentary", "date": "1995-09-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

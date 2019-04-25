@@ -1,1 +1,0 @@
-{"tmdb_id": 580356, "title": "Beurs appart', le film", "original_title": "Beurs appart', le film", "slug_title": "beurs-appart-le-film", "date": "2009-11-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/clyeTyXubr2D6xnkXDWNLWSoidW.jpg", "actors": [], "comments": [], "recommandations_id": []}

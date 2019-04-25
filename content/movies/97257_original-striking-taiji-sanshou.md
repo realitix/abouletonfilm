@@ -1,1 +1,0 @@
-{"tmdb_id": 97257, "title": "Original Striking Taiji Sanshou", "original_title": "Original Striking Taiji Sanshou", "slug_title": "original-striking-taiji-sanshou", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bYA10CF1qJzpGf1u37bMRbswcKB.jpg", "actors": [], "comments": [], "recommandations_id": []}

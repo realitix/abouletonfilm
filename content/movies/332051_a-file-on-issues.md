@@ -1,1 +1,0 @@
-{"tmdb_id": 332051, "title": "A File on Issues", "original_title": "Malaf Qadiyya", "slug_title": "a-file-on-issues", "date": "1984-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

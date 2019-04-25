@@ -1,1 +1,0 @@
-{"tmdb_id": 318978, "title": "Max tor\u00e9ador", "original_title": "Max tor\u00e9ador", "slug_title": "max-toreador", "date": "1913-09-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Max Linder ()", "Stacia Napierkowska ()"], "comments": [], "recommandations_id": []}

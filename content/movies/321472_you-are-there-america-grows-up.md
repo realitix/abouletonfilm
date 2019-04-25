@@ -1,1 +1,0 @@
-{"tmdb_id": 321472, "title": "You Are There: America Grows Up", "original_title": "You Are There: America Grows Up", "slug_title": "you-are-there-america-grows-up", "date": "2004-12-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 511080, "title": "The Beautiful Escape", "original_title": "The Beautiful Escape", "slug_title": "the-beautiful-escape", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Terry Notary (Oleg)"], "comments": [], "recommandations_id": []}

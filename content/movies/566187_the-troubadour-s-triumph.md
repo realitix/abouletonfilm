@@ -1,1 +1,0 @@
-{"tmdb_id": 566187, "title": "The Troubadour's Triumph", "original_title": "The Troubadour's Triumph", "slug_title": "the-troubadour-s-triumph", "date": "1912-08-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

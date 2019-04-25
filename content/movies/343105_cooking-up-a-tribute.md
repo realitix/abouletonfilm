@@ -1,1 +1,0 @@
-{"tmdb_id": 343105, "title": "Cooking up a Tribute", "original_title": "Cooking up a Tribute", "slug_title": "cooking-up-a-tribute", "date": "2015-06-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gxutb3XYcqX4Y07TmAD8QAjXzhd.jpg", "actors": [], "comments": [], "recommandations_id": []}

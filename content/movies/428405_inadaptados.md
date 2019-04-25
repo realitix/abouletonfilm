@@ -1,1 +1,0 @@
-{"tmdb_id": 428405, "title": "Inadaptados", "original_title": "Inadaptados", "slug_title": "inadaptados", "date": "2015-11-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

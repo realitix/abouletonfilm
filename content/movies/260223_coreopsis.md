@@ -1,1 +1,0 @@
-{"tmdb_id": 260223, "title": "Coreopsis", "original_title": "Coreopsis", "slug_title": "coreopsis", "date": "1998-03-20", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/CgKDPzB49wEOx5rHDkc9Cngeaa.jpg", "actors": [], "comments": [], "recommandations_id": []}

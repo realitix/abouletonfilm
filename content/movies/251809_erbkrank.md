@@ -1,1 +1,0 @@
-{"tmdb_id": 251809, "title": "Erbkrank", "original_title": "Erbkrank", "slug_title": "erbkrank", "date": "1936-01-21", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3nQVFZkubvD5azOxk7OOcGyODdL.jpg", "actors": [], "comments": [], "recommandations_id": []}

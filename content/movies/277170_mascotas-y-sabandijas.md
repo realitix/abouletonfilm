@@ -1,1 +1,0 @@
-{"tmdb_id": 277170, "title": "Mascotas y sabandijas", "original_title": "Mascotas y sabandijas", "slug_title": "mascotas-y-sabandijas", "date": "", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

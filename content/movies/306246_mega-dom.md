@@ -1,1 +1,0 @@
-{"tmdb_id": 306246, "title": "Mega Dom", "original_title": "Mega Dom", "slug_title": "mega-dom", "date": "", "genre": "", "score": "0.0/10", "synopsis": "Mon disque dur", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s9jjaoZAM9oBMgG25PDjGyPvdJU.jpg", "actors": [], "comments": [], "recommandations_id": []}

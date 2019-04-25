@@ -1,1 +1,0 @@
-{"tmdb_id": 473689, "title": "Father of Rami", "original_title": "Abu Rami", "slug_title": "father-of-rami", "date": "2012-08-28", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Elie Adabachi (Abu Rami)", "Sihame Haddad (Mona)"], "comments": [], "recommandations_id": []}

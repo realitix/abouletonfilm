@@ -1,1 +1,0 @@
-{"tmdb_id": 549031, "title": "Emaki/Light", "original_title": "\u5149\u306e\u7d75\u5dfb", "slug_title": "emaki-light", "date": "2011-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5jtMMul6w6ksL0HAV9n2vtb8lAZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

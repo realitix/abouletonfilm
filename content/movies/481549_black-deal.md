@@ -1,1 +1,0 @@
-{"tmdb_id": 481549, "title": "Black Deal", "original_title": "\ube14\ub799\ub51c", "slug_title": "black-deal", "date": "2014-07-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tG5OkMf1YvMWxhD8mfprmb8bffx.jpg", "actors": ["Park Geun-hye (Herself (archive footage))"], "comments": [], "recommandations_id": []}

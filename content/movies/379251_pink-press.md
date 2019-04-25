@@ -1,1 +1,0 @@
-{"tmdb_id": 379251, "title": "Pink Press", "original_title": "Pink Press", "slug_title": "pink-press", "date": "1978-12-09", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jK8aoVfJiLBvO0sDWYlBmRUFmQO.jpg", "actors": [], "comments": [], "recommandations_id": []}

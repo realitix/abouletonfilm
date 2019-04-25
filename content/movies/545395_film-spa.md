@@ -1,1 +1,0 @@
-{"tmdb_id": 545395, "title": "Film Spa", "original_title": "Filmov\u00e1 l\u00e1ze\u0148", "slug_title": "film-spa", "date": "2015-07-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vvKNmdZEkVTJ7Gjmwf5M5iyxGYe.jpg", "actors": [], "comments": [], "recommandations_id": []}

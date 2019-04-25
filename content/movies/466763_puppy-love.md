@@ -1,1 +1,0 @@
-{"tmdb_id": 466763, "title": "Puppy Love", "original_title": "\u5c0f\u60c5\u4e66", "slug_title": "puppy-love", "date": "2017-05-19", "genre": "Drame / Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1nodNzD5IBe47ijnMdHQIwfZCaa.jpg", "actors": [], "comments": [], "recommandations_id": []}

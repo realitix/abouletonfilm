@@ -1,1 +1,0 @@
-{"tmdb_id": 189987, "title": "Eskimotive", "original_title": "Eskimotive", "slug_title": "eskimotive", "date": "1928-04-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

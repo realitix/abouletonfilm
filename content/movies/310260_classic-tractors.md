@@ -1,1 +1,0 @@
-{"tmdb_id": 310260, "title": "Classic Tractors", "original_title": "Classic Tractors", "slug_title": "classic-tractors", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

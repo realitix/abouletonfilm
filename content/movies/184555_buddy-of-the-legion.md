@@ -1,1 +1,0 @@
-{"tmdb_id": 184555, "title": "Buddy of the Legion", "original_title": "Buddy of the Legion", "slug_title": "buddy-of-the-legion", "date": "1935-04-05", "genre": "", "score": "2.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dz1bqhQF5iKQvmLzGSlXJcw4pCY.jpg", "actors": [], "comments": [], "recommandations_id": []}

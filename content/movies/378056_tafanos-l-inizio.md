@@ -1,1 +1,0 @@
-{"tmdb_id": 378056, "title": "Tafanos - L'inizio", "original_title": "Tafanos - L'inizio", "slug_title": "tafanos-l-inizio", "date": "2002-08-26", "genre": "", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Altwum99IPIkjtuQ0MAxBPBDfr4.jpg", "actors": [], "comments": [], "recommandations_id": []}

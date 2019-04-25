@@ -1,1 +1,0 @@
-{"tmdb_id": 594094, "title": "Death O Lantern: The Remake", "original_title": "Death O Lantern: The Remake", "slug_title": "death-o-lantern-the-remake", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

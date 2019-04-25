@@ -1,1 +1,0 @@
-{"tmdb_id": 388281, "title": "From the Snow", "original_title": "Ap' to hioni", "slug_title": "from-the-snow", "date": "1993-03-16", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/msnvMNUCO0iONo5v9ILrWSGS4cw.jpg", "actors": [], "comments": [], "recommandations_id": []}

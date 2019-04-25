@@ -1,1 +1,0 @@
-{"tmdb_id": 374722, "title": "Jack's Apocalypse", "original_title": "Jack's Apocalypse", "slug_title": "jack-s-apocalypse", "date": "2015-10-30", "genre": "", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aYkjNoqpYhRt0QJEKHbv3rCFXsf.jpg", "actors": [], "comments": [], "recommandations_id": []}

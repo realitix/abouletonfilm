@@ -1,1 +1,0 @@
-{"tmdb_id": 543347, "title": "Xavante: Mem\u00f3ria, Cultura e Resist\u00eancia", "original_title": "Xavante: Mem\u00f3ria, Cultura e Resist\u00eancia", "slug_title": "xavante-memoria-cultura-e-resistencia", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

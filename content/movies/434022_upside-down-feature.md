@@ -1,1 +1,0 @@
-{"tmdb_id": 434022, "title": "Upside Down Feature", "original_title": "Upside Down Feature", "slug_title": "upside-down-feature", "date": "1972-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cBMTLycQaulNE2OzVt1u8WCbFxT.jpg", "actors": [], "comments": [], "recommandations_id": []}

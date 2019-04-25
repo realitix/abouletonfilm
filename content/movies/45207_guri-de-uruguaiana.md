@@ -1,1 +1,0 @@
-{"tmdb_id": 45207, "title": "Guri de Uruguaiana", "original_title": "Guri de Uruguaiana", "slug_title": "guri-de-uruguaiana", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nu4sogjm29qQ9IxMZ1CKtOQFwQR.jpg", "actors": ["Jair Kobe ()"], "comments": [], "recommandations_id": []}

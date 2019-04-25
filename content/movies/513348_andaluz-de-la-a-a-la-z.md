@@ -1,1 +1,0 @@
-{"tmdb_id": 513348, "title": "Andaluz De La A a La Z", "original_title": "Andaluz De La A a La Z", "slug_title": "andaluz-de-la-a-a-la-z", "date": "2016-02-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Manu S\u00e1nchez ()"], "comments": [], "recommandations_id": []}

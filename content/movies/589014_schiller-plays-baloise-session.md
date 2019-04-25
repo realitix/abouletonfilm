@@ -1,1 +1,0 @@
-{"tmdb_id": 589014, "title": "Schiller Plays Baloise Session", "original_title": "Schiller Plays Baloise Session", "slug_title": "schiller-plays-baloise-session", "date": "", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xhuHZX4qxuuVU6rVQu8Z7wtdaz2.jpg", "actors": [], "comments": [], "recommandations_id": []}

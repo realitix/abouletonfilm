@@ -1,1 +1,0 @@
-{"tmdb_id": 266640, "title": "The Moon is Not Ours", "original_title": "Hindi sa atin ang buwan", "slug_title": "the-moon-is-not-ours", "date": "2011-09-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/W9gY6ZiufzuubwPmJIfOwH0vqq.jpg", "actors": [], "comments": [], "recommandations_id": []}

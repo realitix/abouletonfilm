@@ -1,1 +1,0 @@
-{"tmdb_id": 580758, "title": "Beurs appart'", "original_title": "Beurs appart'", "slug_title": "beurs-appart", "date": "2007-11-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ottNCTudQGme99qvM7G2SCBbHHO.jpg", "actors": [], "comments": [], "recommandations_id": []}

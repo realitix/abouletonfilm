@@ -1,1 +1,0 @@
-{"tmdb_id": 429015, "title": "Pocket Boxers", "original_title": "Pocket Boxers", "slug_title": "pocket-boxers", "date": "1903-03-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

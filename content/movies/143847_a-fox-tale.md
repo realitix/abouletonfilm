@@ -1,1 +1,0 @@
-{"tmdb_id": 143847, "title": "A Fox Tale", "original_title": "A Fox Tale", "slug_title": "a-fox-tale", "date": "2011-10-31", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ecZGzOwnyPO0llVkTZpJzbvsx9B.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 147221, "title": "Disturbing shorts by Jerooom", "original_title": "Degoutante Filmpjes Van Jeroom", "slug_title": "disturbing-shorts-by-jerooom", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/57aYANhQB7xc4L8gMHudJnc0bdb.jpg", "actors": [], "comments": [], "recommandations_id": []}

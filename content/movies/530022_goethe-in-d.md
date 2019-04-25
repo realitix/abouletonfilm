@@ -1,1 +1,0 @@
-{"tmdb_id": 530022, "title": "Goethe in D.", "original_title": "Goethe in D.", "slug_title": "goethe-in-d", "date": "1985-10-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

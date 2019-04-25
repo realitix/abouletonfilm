@@ -1,1 +1,0 @@
-{"tmdb_id": 202794, "title": "Laura's Party", "original_title": "Laura's Party", "slug_title": "laura-s-party", "date": "", "genre": "Drame / Familial", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pBc3TJDoSMlCw3ZLCfrKsqlZulp.jpg", "actors": ["Bruno Cathomas ()", "Joelle Witschi ()"], "comments": [], "recommandations_id": []}

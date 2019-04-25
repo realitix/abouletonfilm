@@ -1,1 +1,0 @@
-{"tmdb_id": 86596, "title": "Stompin'", "original_title": "Stompin'", "slug_title": "stompin", "date": "2007-06-10", "genre": "Drame", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kBTmvYXwYqpNdzEargbEk2sFEyE.jpg", "actors": ["Sinbad ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 428706, "title": "Epidemia de Cores", "original_title": "Epidemia de Cores", "slug_title": "epidemia-de-cores", "date": "2016-12-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oshcm86GhWTh4euBrPP5mfGNw8v.jpg", "actors": [], "comments": [], "recommandations_id": []}

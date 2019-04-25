@@ -1,1 +1,0 @@
-{"tmdb_id": 345640, "title": "Revenge of Rendezvous", "original_title": "Revenge of Rendezvous", "slug_title": "revenge-of-rendezvous", "date": "1975-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

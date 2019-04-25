@@ -1,1 +1,0 @@
-{"tmdb_id": 404671, "title": "Odv\u00e1\u017eny kraj\u010d\u00edrik", "original_title": "Odv\u00e1\u017eny kraj\u010d\u00edrik", "slug_title": "odvazny-krajcirik", "date": "2002-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nwdc20fa3Y5920sQVJJxJfzYr73.jpg", "actors": [], "comments": [], "recommandations_id": []}

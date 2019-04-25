@@ -1,1 +1,0 @@
-{"tmdb_id": 476971, "title": "25\ubd88\uc758 \uc778\uac04", "original_title": "25\ubd88\uc758 \uc778\uac04", "slug_title": "25bulyi-ingan", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

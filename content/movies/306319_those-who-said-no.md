@@ -1,1 +1,0 @@
-{"tmdb_id": 306319, "title": "Those Who Said No", "original_title": "Those Who Said No", "slug_title": "those-who-said-no", "date": "2014-11-21", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hwEs7EtfV4AZtbioYZ9alDMqCDk.jpg", "actors": [], "comments": [], "recommandations_id": []}

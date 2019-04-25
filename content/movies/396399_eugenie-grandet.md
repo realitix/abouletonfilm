@@ -1,1 +1,0 @@
-{"tmdb_id": 396399, "title": "Eug\u00e9nie Grandet", "original_title": "Evgeniya Grande", "slug_title": "eugenie-grandet", "date": "1960-05-25", "genre": "Drame", "score": "4.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/94f5LkjHtCkhylwnsb5vBVYqajc.jpg", "actors": [], "comments": [], "recommandations_id": []}

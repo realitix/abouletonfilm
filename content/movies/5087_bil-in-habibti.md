@@ -1,1 +1,0 @@
-{"tmdb_id": 5087, "title": "Bil'in Habibti", "original_title": "Bil'in Habibti", "slug_title": "bil-in-habibti", "date": "2006-01-01", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xnvfjktcTRM9w6nMZ66sJmT9LhY.jpg", "actors": ["Shai Carmeli-Pollak (Shai)"], "comments": [], "recommandations_id": []}

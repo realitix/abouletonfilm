@@ -1,1 +1,0 @@
-{"tmdb_id": 457359, "title": "Saltair: Return to the Salt Queen", "original_title": "Saltair: Return to the Salt Queen", "slug_title": "saltair-return-to-the-salt-queen", "date": "1966-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

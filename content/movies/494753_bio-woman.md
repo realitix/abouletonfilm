@@ -1,1 +1,0 @@
-{"tmdb_id": 494753, "title": "Bio Woman", "original_title": "Bio Woman", "slug_title": "bio-woman", "date": "1980-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 182942, "title": "Africa: The Greatest Show On Earth", "original_title": "Africa: The Greatest Show On Earth", "slug_title": "africa-the-greatest-show-on-earth", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

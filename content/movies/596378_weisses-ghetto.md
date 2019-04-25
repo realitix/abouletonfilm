@@ -1,1 +1,0 @@
-{"tmdb_id": 596378, "title": "Wei\u00dfes Ghetto", "original_title": "Wei\u00dfes Ghetto", "slug_title": "weisses-ghetto", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

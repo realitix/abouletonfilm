@@ -1,1 +1,0 @@
-{"tmdb_id": 345278, "title": "Magic Kingdom", "original_title": "Magic Kingdom", "slug_title": "magic-kingdom", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

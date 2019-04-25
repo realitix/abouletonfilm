@@ -1,1 +1,0 @@
-{"tmdb_id": 337927, "title": "Living Legend: The King of Rock and Roll", "original_title": "Living Legend: The King of Rock and Roll", "slug_title": "living-legend-the-king-of-rock-and-roll", "date": "1980-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 278262, "title": "Life, Autumn", "original_title": "Zhizn, osin", "slug_title": "life-autumn", "date": "1999-12-20", "genre": "Documentaire", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aSz0YRYjnSfXD3U8ussjhpOHKa8.jpg", "actors": [], "comments": [], "recommandations_id": []}

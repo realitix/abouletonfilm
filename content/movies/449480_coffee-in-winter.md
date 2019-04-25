@@ -1,1 +1,0 @@
-{"tmdb_id": 449480, "title": "Coffee in winter", "original_title": "Coffee in winter", "slug_title": "coffee-in-winter", "date": "", "genre": "Drame / Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

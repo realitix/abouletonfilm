@@ -1,1 +1,0 @@
-{"tmdb_id": 475057, "title": "Between Sun and Shade", "original_title": "Entre Sol y Sombra", "slug_title": "between-sun-and-shade", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qmfA8mpCs6uIHxvTDaLQxB2Phk5.jpg", "actors": [], "comments": [], "recommandations_id": []}

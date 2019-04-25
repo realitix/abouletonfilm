@@ -1,1 +1,0 @@
-{"tmdb_id": 390685, "title": "Freddy VS Dylan", "original_title": "Freddy VS Dylan", "slug_title": "freddy-vs-dylan", "date": "2015-06-13", "genre": "Thriller / Horreur / Action", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Denis Frison (Dylan Dog)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 396822, "title": "Gutter Punk Massacre", "original_title": "Gutter Punk Massacre", "slug_title": "gutter-punk-massacre", "date": "2014-03-14", "genre": "Horreur / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3DROKAo00nd2ZgqUWmAbRTfofIu.jpg", "actors": [], "comments": [], "recommandations_id": []}

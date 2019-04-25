@@ -1,1 +1,0 @@
-{"tmdb_id": 292945, "title": "Willets Point", "original_title": "Willets Point", "slug_title": "willets-point", "date": "2010-11-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ramfis Myrthil (Reggie)"], "comments": [], "recommandations_id": []}

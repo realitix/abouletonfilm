@@ -1,1 +1,0 @@
-{"tmdb_id": 262054, "title": "The Vanished World of Gloves", "original_title": "Zanikl\u00fd sv\u011bt rukavic", "slug_title": "the-vanished-world-of-gloves", "date": "1982-08-27", "genre": "Animation", "score": "7.1/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [280003, 104342, 246663, 254268]}

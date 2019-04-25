@@ -1,1 +1,0 @@
-{"tmdb_id": 532508, "title": "Dog and Wolf", "original_title": "Chiens et loups", "slug_title": "dog-and-wolf", "date": "1911-02-09", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Edmond Duquesne ()", "Olga Demidoff ()", "Henri Gouget ()", "Georges Saillard ()"], "comments": [], "recommandations_id": []}

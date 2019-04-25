@@ -1,1 +1,0 @@
-{"tmdb_id": 376089, "title": "Motel Mist", "original_title": "Motel Mist", "slug_title": "motel-mist", "date": "2016-01-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gkTepkfynCrmQjDFxxwHmWzW6rA.jpg", "actors": [], "comments": [], "recommandations_id": []}

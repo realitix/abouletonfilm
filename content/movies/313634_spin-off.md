@@ -1,1 +1,0 @@
-{"tmdb_id": 313634, "title": "Spin Off", "original_title": "Spin Off", "slug_title": "spin-off", "date": "2014-08-09", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2ZHWnSd4RcCIA6nclv4uNoJhm0o.jpg", "actors": ["Florence Guenaut (Himself)"], "comments": [], "recommandations_id": []}

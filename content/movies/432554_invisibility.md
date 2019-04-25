@@ -1,1 +1,0 @@
-{"tmdb_id": 432554, "title": "Invisibility", "original_title": "Invisibility", "slug_title": "invisibility", "date": "2016-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m3niT3Fsngxq3F6rvjqt251CsYZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

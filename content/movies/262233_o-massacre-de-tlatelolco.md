@@ -1,1 +1,0 @@
-{"tmdb_id": 262233, "title": "O Massacre de Tlatelolco", "original_title": "O Massacre de Tlatelolco", "slug_title": "o-massacre-de-tlatelolco", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

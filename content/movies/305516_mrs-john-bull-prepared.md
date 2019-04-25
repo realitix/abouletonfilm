@@ -1,1 +1,0 @@
-{"tmdb_id": 305516, "title": "Mrs. John Bull Prepared", "original_title": "Mrs. John Bull Prepared", "slug_title": "mrs-john-bull-prepared", "date": "1918-10-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 140454, "title": "Wavumba", "original_title": "Wavumba", "slug_title": "wavumba", "date": "2012-02-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/PaSYZHxjkNCHM6b67b0sFxHT2M.jpg", "actors": [], "comments": [], "recommandations_id": []}

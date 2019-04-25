@@ -1,1 +1,0 @@
-{"tmdb_id": 390993, "title": "Prison Dogs", "original_title": "Prison Dogs", "slug_title": "prison-dogs", "date": "2016-04-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3hVgSEIzQxt9nX8zTXsvoI4Fi7u.jpg", "actors": [], "comments": [], "recommandations_id": []}

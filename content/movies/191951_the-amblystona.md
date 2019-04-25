@@ -1,1 +1,0 @@
-{"tmdb_id": 191951, "title": "The Amblystona", "original_title": "L'Amblystome", "slug_title": "the-amblystona", "date": "1913-07-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qq2sTDen1xHzruhVcJiLpzwQYFp.jpg", "actors": [], "comments": [], "recommandations_id": []}

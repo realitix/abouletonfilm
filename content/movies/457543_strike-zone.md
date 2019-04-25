@@ -1,1 +1,0 @@
-{"tmdb_id": 457543, "title": "Strike Zone", "original_title": "Strike Zone", "slug_title": "strike-zone", "date": "2003-05-13", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6cMqSinnKGiLElFbMH1zRtkY7A9.jpg", "actors": ["Cameron Duncan (Coach)"], "comments": [], "recommandations_id": []}

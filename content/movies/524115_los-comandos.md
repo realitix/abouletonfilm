@@ -1,1 +1,0 @@
-{"tmdb_id": 524115, "title": "Los Comandos", "original_title": "Los Comandos", "slug_title": "los-comandos", "date": "2017-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eFfYuYSBDWSHJxpfnPwSOJlgMSi.jpg", "actors": [], "comments": [], "recommandations_id": []}

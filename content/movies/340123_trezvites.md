@@ -1,1 +1,0 @@
-{"tmdb_id": 340123, "title": "Trezvites", "original_title": "Trezvites", "slug_title": "trezvites", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

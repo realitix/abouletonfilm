@@ -1,1 +1,0 @@
-{"tmdb_id": 323437, "title": "Poor Papa", "original_title": "Poor Papa", "slug_title": "poor-papa", "date": "1928-08-05", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1XujH5AmfFyLx3TpyqCgxpmCJDW.jpg", "actors": [], "comments": [], "recommandations_id": []}

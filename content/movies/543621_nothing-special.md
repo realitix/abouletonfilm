@@ -1,1 +1,0 @@
-{"tmdb_id": 543621, "title": "Nothing Special", "original_title": "Rien d'extraordinaire", "slug_title": "nothing-special", "date": "2010-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xbIWcxXlVIGE3o3W1WBUv00l03K.jpg", "actors": ["Paulina Alemparte ()"], "comments": [], "recommandations_id": []}

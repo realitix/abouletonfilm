@@ -1,1 +1,0 @@
-{"tmdb_id": 535277, "title": "Immagini Popolari Siciliane Sacri", "original_title": "Immagini Popolari Siciliane Sacri", "slug_title": "immagini-popolari-siciliane-sacri", "date": "1954-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

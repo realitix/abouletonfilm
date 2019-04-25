@@ -1,1 +1,0 @@
-{"tmdb_id": 450528, "title": "The T-Rexmas Specials", "original_title": "The T-Rexmas Specials", "slug_title": "the-t-rexmas-specials", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x0qQEaigVNh88Jvn8jlFiJHMpwW.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 41835, "title": "Very Young Girls", "original_title": "Very Young Girls", "slug_title": "very-young-girls", "date": "2007-09-11", "genre": "Documentaire", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eQrKCQSVi0zfMPDq1F3ZoM3dJTB.jpg", "actors": [], "comments": [], "recommandations_id": [90748, 45576, 18152, 41116]}

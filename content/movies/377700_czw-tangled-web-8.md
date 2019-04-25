@@ -1,1 +1,0 @@
-{"tmdb_id": 377700, "title": "CZW Tangled Web 8", "original_title": "CZW Tangled Web 8", "slug_title": "czw-tangled-web-8", "date": "2015-10-10", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xJ6EfJR2GWGTi0avTvXcU7zNtL8.jpg", "actors": [], "comments": [], "recommandations_id": []}

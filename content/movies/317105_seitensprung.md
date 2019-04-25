@@ -1,1 +1,0 @@
-{"tmdb_id": 317105, "title": "Seitensprung", "original_title": "Seitensprung", "slug_title": "seitensprung", "date": "2005-10-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ronny Tekal ()", "Norbert Peter ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 192224, "title": "The Strong Arm Squad of the Future", "original_title": "The Strong Arm Squad of the Future", "slug_title": "the-strong-arm-squad-of-the-future", "date": "1912-05-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

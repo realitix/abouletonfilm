@@ -1,1 +1,0 @@
-{"tmdb_id": 538977, "title": "Photomat\u00f3n", "original_title": "Photomat\u00f3n", "slug_title": "photomaton", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/17jkW3lLpjxoSQMESxTf1ORuKBC.jpg", "actors": ["Kristyan Ferrer ()", "Enrique Medina ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 549435, "title": "Bumperkleef", "original_title": "Bumperkleef", "slug_title": "bumperkleef", "date": "", "genre": "Action / Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jeroen Spitzenberger ()", "Anniek  Pheifer ()", "Willem de Wolf ()"], "comments": [], "recommandations_id": []}

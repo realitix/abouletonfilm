@@ -1,1 +1,0 @@
-{"tmdb_id": 397826, "title": "The Tentmakers of Cairo", "original_title": "Sunaa' al-kheyam fi al-Qahira", "slug_title": "the-tentmakers-of-cairo", "date": "2015-04-21", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oYK49ogU1pf2WWZ1Yjlb7aqMZVZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 295951, "title": "Why They Love Cavemen", "original_title": "Why They Love Cavemen", "slug_title": "why-they-love-cavemen", "date": "1921-07-02", "genre": "Com\u00e9die / Animation", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k6EoSO7Ac1ZPfPhKPTycroSTmKH.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 107606, "title": "Lang Lang: Liszt Now", "original_title": "Lang Lang: Liszt Now", "slug_title": "lang-lang-liszt-now", "date": "2011-12-20", "genre": "Musique", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/stbesO1V6g9Y2Z4mdkxzB8lt0tN.jpg", "actors": ["Lang Lang (Himself)"], "comments": [], "recommandations_id": []}

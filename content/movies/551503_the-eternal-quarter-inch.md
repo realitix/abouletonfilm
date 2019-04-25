@@ -1,1 +1,0 @@
-{"tmdb_id": 551503, "title": "The Eternal Quarter Inch", "original_title": "The Eternal Quarter Inch", "slug_title": "the-eternal-quarter-inch", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2V9G6ls0UV7MnJd8Htf1MP1wYaM.jpg", "actors": [], "comments": [], "recommandations_id": []}

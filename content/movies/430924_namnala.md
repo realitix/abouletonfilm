@@ -1,1 +1,0 @@
-{"tmdb_id": 430924, "title": "Namnala", "original_title": "Namnala", "slug_title": "namnala", "date": "2014-03-11", "genre": "Drame", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eI6c41GPcIesYtTWnevBmR1WCUx.jpg", "actors": ["Alex Angulo (Jos\u00e9)", "Babou Cham (Customer)"], "comments": [], "recommandations_id": []}

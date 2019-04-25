@@ -1,1 +1,0 @@
-{"tmdb_id": 594945, "title": "In Mansourah You Separated Us", "original_title": "\u00c0 Mansourah, tu nous as s\u00e9par\u00e9s", "slug_title": "in-mansourah-you-separated-us", "date": "2019-04-06", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

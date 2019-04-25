@@ -1,1 +1,0 @@
-{"tmdb_id": 194276, "title": "Cuirassiers \u00e0 cheval", "original_title": "Cuirassiers \u00e0 cheval", "slug_title": "cuirassiers-a-cheval", "date": "1896-05-17", "genre": "Documentaire / Guerre", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jV8ojIjQkchyV6ajbv34fk3BoXv.jpg", "actors": [], "comments": [], "recommandations_id": []}

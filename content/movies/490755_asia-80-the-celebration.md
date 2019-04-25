@@ -1,1 +1,0 @@
-{"tmdb_id": 490755, "title": "Asia 80 The Celebration", "original_title": "Asia 80 The Celebration", "slug_title": "asia-80-the-celebration", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d9rOqvdihXCEHu8MjqN4vRw1vL6.jpg", "actors": [], "comments": [], "recommandations_id": []}

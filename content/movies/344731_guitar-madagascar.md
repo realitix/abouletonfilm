@@ -1,1 +1,0 @@
-{"tmdb_id": 344731, "title": "Guitar Madagascar", "original_title": "Guitar Madagascar", "slug_title": "guitar-madagascar", "date": "2015-06-20", "genre": "Musique / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

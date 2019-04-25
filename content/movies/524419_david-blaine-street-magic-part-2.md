@@ -1,1 +1,0 @@
-{"tmdb_id": 524419, "title": "David Blaine Street Magic Part 2", "original_title": "David Blaine Street Magic Part 2", "slug_title": "david-blaine-street-magic-part-2", "date": "", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

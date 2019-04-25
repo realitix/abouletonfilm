@@ -1,1 +1,0 @@
-{"tmdb_id": 453267, "title": "Uma vida documentando a vida", "original_title": "Uma vida documentando a vida", "slug_title": "uma-vida-documentando-a-vida", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 481398, "title": "Go!! Karate Club", "original_title": "Osu!! Karate-bu", "slug_title": "go-karate-club", "date": "1992-06-25", "genre": "Animation / Action", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e3PA875d5fYKcc1i4rMz6Fas014.jpg", "actors": [], "comments": [], "recommandations_id": []}

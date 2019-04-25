@@ -1,1 +1,0 @@
-{"tmdb_id": 489638, "title": "The Other Side", "original_title": "The Other Side", "slug_title": "the-other-side", "date": "2017-11-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wBBzxiR0UlLUioZMROM8b9hpegz.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 566256, "title": "Burger Boss", "original_title": "Burger Boss", "slug_title": "burger-boss", "date": "2018-04-26", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ppSK2MVvIGQiIkh74OZhGf8Jp2k.jpg", "actors": [], "comments": [], "recommandations_id": []}

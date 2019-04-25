@@ -1,1 +1,0 @@
-{"tmdb_id": 362664, "title": "Peas and Cues", "original_title": "Peas and Cues", "slug_title": "peas-and-cues", "date": "1930-01-02", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jf8cjzBpd6PrNzXAh6DNVbIoCZO.jpg", "actors": [], "comments": [], "recommandations_id": []}

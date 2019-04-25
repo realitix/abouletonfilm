@@ -1,1 +1,0 @@
-{"tmdb_id": 528122, "title": "Diastole", "original_title": "Diastole", "slug_title": "diastole", "date": "1994-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e3gpQWypqlIwbx4skzTUbeqNoFF.jpg", "actors": [], "comments": [], "recommandations_id": []}

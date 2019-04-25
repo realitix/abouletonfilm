@@ -1,1 +1,0 @@
-{"tmdb_id": 491332, "title": "Nostradamus IV", "original_title": "Nostradamus IV", "slug_title": "nostradamus-iv", "date": "1944-01-02", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Carey Wilson (Narrator (voice))", "Kay Williams (Herself (uncredited))"], "comments": [], "recommandations_id": []}

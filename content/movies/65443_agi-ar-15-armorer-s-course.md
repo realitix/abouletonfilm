@@ -1,1 +1,0 @@
-{"tmdb_id": 65443, "title": "AGI - AR-15 Armorer's Course", "original_title": "AGI - AR-15 Armorer's Course", "slug_title": "agi-ar-15-armorer-s-course", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fh2ZVTxtUVOGQ9fn6KWtsIwasx0.jpg", "actors": [], "comments": [], "recommandations_id": []}

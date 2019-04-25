@@ -1,1 +1,0 @@
-{"tmdb_id": 305704, "title": "And So Angels Die", "original_title": "Ainsi Meurent Les Anges", "slug_title": "and-so-angels-die", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Moussa Sene Absa (Mory)"], "comments": [], "recommandations_id": []}

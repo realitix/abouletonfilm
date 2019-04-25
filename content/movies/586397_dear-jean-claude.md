@@ -1,1 +1,0 @@
-{"tmdb_id": 586397, "title": "Dear Jean-Claude", "original_title": "Dear Jean-Claude", "slug_title": "dear-jean-claude", "date": "1998-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Daniel van Avermaet ()", "Nadia Abdelouafi (aunt)"], "comments": [], "recommandations_id": []}

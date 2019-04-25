@@ -1,1 +1,0 @@
-{"tmdb_id": 278585, "title": "Free Tibet", "original_title": "Free Tibet", "slug_title": "free-tibet", "date": "1998-09-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["John Frusciante (Himself - Red Hot Chili Peppers)"], "comments": [], "recommandations_id": []}

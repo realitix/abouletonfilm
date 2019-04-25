@@ -1,1 +1,0 @@
-{"tmdb_id": 304865, "title": "Blood And Ink", "original_title": "Blood And Ink", "slug_title": "blood-and-ink", "date": "2014-09-10", "genre": "Histoire / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AmYR9fOhwnGZqkfFCfKielojKqN.jpg", "actors": [], "comments": [], "recommandations_id": []}

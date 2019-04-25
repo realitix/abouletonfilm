@@ -1,1 +1,0 @@
-{"tmdb_id": 475059, "title": "My Place", "original_title": "Moje miejsce", "slug_title": "my-place", "date": "1986-01-03", "genre": "Documentaire", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jKbvtlsR3waHoFQD4MrtIZxhxod.jpg", "actors": [], "comments": [], "recommandations_id": []}

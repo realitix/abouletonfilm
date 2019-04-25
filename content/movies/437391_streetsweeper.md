@@ -1,1 +1,0 @@
-{"tmdb_id": 437391, "title": "Streetsweeper", "original_title": "Streetsweeper", "slug_title": "streetsweeper", "date": "2010-03-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3eG30CPTxKTSN9xrk8TZQZxsQkj.jpg", "actors": ["Marin Mimica (The Streetsweeper)"], "comments": [], "recommandations_id": []}

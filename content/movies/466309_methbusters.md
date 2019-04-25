@@ -1,1 +1,0 @@
-{"tmdb_id": 466309, "title": "Methbusters", "original_title": "Methbusters", "slug_title": "methbusters", "date": "", "genre": "Crime / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Det. Sgt. Jason Grellner (self)"], "comments": [], "recommandations_id": []}

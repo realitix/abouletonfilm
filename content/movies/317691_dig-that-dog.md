@@ -1,1 +1,0 @@
-{"tmdb_id": 317691, "title": "Dig That Dog", "original_title": "Dig That Dog", "slug_title": "dig-that-dog", "date": "1954-04-11", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rHQu3mt36J7A3lp9StYLl7JfCBe.jpg", "actors": ["Frank Nelson (Narrator (voice))"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 432710, "title": "Head Hunter", "original_title": "Head Hunter", "slug_title": "head-hunter", "date": "", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

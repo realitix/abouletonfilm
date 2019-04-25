@@ -1,1 +1,0 @@
-{"tmdb_id": 175106, "title": "Recording The Producers", "original_title": "Recording The Producers", "slug_title": "recording-the-producers", "date": "2001-10-01", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lr8t0jdln1snaIivJDeAWxeCUz1.jpg", "actors": [], "comments": [], "recommandations_id": []}

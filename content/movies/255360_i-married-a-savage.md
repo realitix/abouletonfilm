@@ -1,1 +1,0 @@
-{"tmdb_id": 255360, "title": "I Married a Savage", "original_title": "I Married a Savage", "slug_title": "i-married-a-savage", "date": "1949-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ujzBGY7g9xTW7eYtAQGM7GCesJx.jpg", "actors": ["Zorita (Zorita)"], "comments": [], "recommandations_id": []}

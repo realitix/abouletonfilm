@@ -1,1 +1,0 @@
-{"tmdb_id": 86160, "title": "Lennox Lewis vs. Mike Tyson", "original_title": "Lennox Lewis vs. Mike Tyson", "slug_title": "lennox-lewis-vs-mike-tyson", "date": "2002-06-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8ph1zKDIj2Yi9HuTqDWaUz2zy3l.jpg", "actors": [], "comments": [], "recommandations_id": []}

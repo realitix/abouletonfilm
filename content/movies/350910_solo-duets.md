@@ -1,1 +1,0 @@
-{"tmdb_id": 350910, "title": "Solo Duets", "original_title": "Solo Duets", "slug_title": "solo-duets", "date": "2005-08-26", "genre": "Drame / Animation", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

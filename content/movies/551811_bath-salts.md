@@ -1,1 +1,0 @@
-{"tmdb_id": 551811, "title": "Bath Salts", "original_title": "Bath Salts", "slug_title": "bath-salts", "date": "2012-07-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Vanessa Smythe ()", "Torren Sylvain ()"], "comments": [], "recommandations_id": []}

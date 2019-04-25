@@ -1,1 +1,0 @@
-{"tmdb_id": 388143, "title": "Now You Know", "original_title": "Now You Know", "slug_title": "now-you-know", "date": "2013-10-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

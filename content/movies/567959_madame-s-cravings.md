@@ -1,1 +1,0 @@
-{"tmdb_id": 567959, "title": "Madame's Cravings", "original_title": "Madame's Cravings", "slug_title": "madame-s-cravings", "date": "1906-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

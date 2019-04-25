@@ -1,1 +1,0 @@
-{"tmdb_id": 501407, "title": "Other States", "original_title": "Other States", "slug_title": "other-states", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d2jnh7IvZ3I5eksy4aNW2tho5Hq.jpg", "actors": [], "comments": [], "recommandations_id": []}

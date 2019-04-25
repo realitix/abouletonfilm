@@ -1,1 +1,0 @@
-{"tmdb_id": 212338, "title": "Crazy House", "original_title": "Crazy House", "slug_title": "crazy-house", "date": "1928-06-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

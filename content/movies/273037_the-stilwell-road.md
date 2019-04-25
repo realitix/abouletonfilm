@@ -1,1 +1,0 @@
-{"tmdb_id": 273037, "title": "The Stilwell Road", "original_title": "The Stilwell Road", "slug_title": "the-stilwell-road", "date": "1945-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sWHrqlIZdUKJho13TOWh4SGQk5L.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 406222, "title": "Cosplayer Nation", "original_title": "Cosplayer Nation", "slug_title": "cosplayer-nation", "date": "2014-07-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v3V1sIqQoK6r4RfQyIIrTsKSBMl.jpg", "actors": ["Yaya Han ()"], "comments": [], "recommandations_id": []}

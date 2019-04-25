@@ -1,1 +1,0 @@
-{"tmdb_id": 236169, "title": "The Penguin Parade", "original_title": "The Penguin Parade", "slug_title": "the-penguin-parade", "date": "1938-08-10", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/we0PK5Q8oQ99LBGv946v93135i.jpg", "actors": [], "comments": [], "recommandations_id": []}

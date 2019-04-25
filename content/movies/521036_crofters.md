@@ -1,1 +1,0 @@
-{"tmdb_id": 521036, "title": "Crofters", "original_title": "Crofters", "slug_title": "crofters", "date": "1944-12-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

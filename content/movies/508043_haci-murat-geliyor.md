@@ -1,1 +1,0 @@
-{"tmdb_id": 508043, "title": "Haci Murat geliyor", "original_title": "Haci Murat geliyor", "slug_title": "haci-murat-geliyor", "date": "1968-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["C\u00fcneyt Ark\u0131n ()"], "comments": [], "recommandations_id": []}

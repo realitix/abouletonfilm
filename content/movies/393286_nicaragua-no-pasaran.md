@@ -1,1 +1,0 @@
-{"tmdb_id": 393286, "title": "Nicaragua: No Pasaran", "original_title": "Nicaragua: No Pasaran", "slug_title": "nicaragua-no-pasaran", "date": "1984-08-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/49jT5Px0S8Jso1cP9aiiVDfqlJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

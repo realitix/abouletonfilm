@@ -1,1 +1,0 @@
-{"tmdb_id": 539751, "title": "L'amour en cage", "original_title": "L'amour en cage", "slug_title": "l-amour-en-cage", "date": "1934-06-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

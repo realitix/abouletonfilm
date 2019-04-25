@@ -1,1 +1,0 @@
-{"tmdb_id": 227001, "title": "BUMRUSH! Boulder, Colorado", "original_title": "BUMRUSH! Boulder, Colorado", "slug_title": "bumrush-boulder-colorado", "date": "", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qeijza0VTMn75i8lhLxe4Vtoz3a.jpg", "actors": [], "comments": [], "recommandations_id": []}

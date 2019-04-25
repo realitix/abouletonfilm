@@ -1,1 +1,0 @@
-{"tmdb_id": 453958, "title": "The Koro of Bakoro, the Survivors", "original_title": "Le Koro du bakoro, naufrag\u00e9s du Faso", "slug_title": "the-koro-of-bakoro-the-survivors", "date": "2017-04-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 93481, "title": "Pi\u00e8ce touch\u00e9e", "original_title": "Pi\u00e8ce touch\u00e9e", "slug_title": "piece-touchee", "date": "1989-01-01", "genre": "", "score": "6.1/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/c7BIl7oSzqpQVJYgAkqWLfnJrUG.jpg", "actors": [], "comments": [], "recommandations_id": [93480, 410025, 213735, 161405]}

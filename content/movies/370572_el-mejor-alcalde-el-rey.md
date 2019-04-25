@@ -1,1 +1,0 @@
-{"tmdb_id": 370572, "title": "El mejor alcalde, el Rey", "original_title": "El mejor alcalde, el Rey", "slug_title": "el-mejor-alcalde-el-rey", "date": "1974-11-30", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Anal\u00eda Gad\u00e9 ()", "Simonetta Stefanelli ()", "Ray Lovelock ()"], "comments": [], "recommandations_id": []}

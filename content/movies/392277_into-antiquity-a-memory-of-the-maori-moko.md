@@ -1,1 +1,0 @@
-{"tmdb_id": 392277, "title": "Into Antiquity: A Memory of the M\u0101ori Moko", "original_title": "Into Antiquity: A Memory of the M\u0101ori Moko", "slug_title": "into-antiquity-a-memory-of-the-maori-moko", "date": "1972-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

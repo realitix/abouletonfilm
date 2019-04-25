@@ -1,1 +1,0 @@
-{"tmdb_id": 275359, "title": "Sports Illustrated: Swimsuit At Play 2005", "original_title": "Sports Illustrated: Swimsuit At Play 2005", "slug_title": "sports-illustrated-swimsuit-at-play-2005", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

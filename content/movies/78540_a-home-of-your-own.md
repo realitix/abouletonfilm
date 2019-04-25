@@ -1,1 +1,0 @@
-{"tmdb_id": 78540, "title": "A Home of Your Own", "original_title": "A Home of Your Own", "slug_title": "a-home-of-your-own", "date": "1964-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dPgplmN9UydNKe3LwSrB3bFtaeP.jpg", "actors": [], "comments": [], "recommandations_id": []}

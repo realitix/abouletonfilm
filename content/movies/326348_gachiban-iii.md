@@ -1,1 +1,0 @@
-{"tmdb_id": 326348, "title": "Gachiban III", "original_title": "Gachiban III", "slug_title": "gachiban-iii", "date": "2009-04-17", "genre": "Drame / Action", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kazuma Sano (Mori)", "Toru Kazama ()", "Nasaki Okamoto ()"], "comments": [], "recommandations_id": []}

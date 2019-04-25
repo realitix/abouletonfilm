@@ -1,1 +1,0 @@
-{"tmdb_id": 386192, "title": "Home Clavilux 'Junior' #91", "original_title": "Home Clavilux 'Junior' #91", "slug_title": "home-clavilux-junior-91", "date": "1930-03-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

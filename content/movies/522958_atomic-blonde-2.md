@@ -1,1 +1,0 @@
-{"tmdb_id": 522958, "title": "Atomic Blonde 2", "original_title": "Atomic Blonde 2", "slug_title": "atomic-blonde-2", "date": "", "genre": "Action / Myst\u00e8re / Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Charlize Theron (Lorraine Broughton)"], "comments": [], "recommandations_id": []}

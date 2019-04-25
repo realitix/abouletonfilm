@@ -1,1 +1,0 @@
-{"tmdb_id": 314739, "title": "Bangaada Manushya", "original_title": "Bangaada Manushya", "slug_title": "bangaada-manushya", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

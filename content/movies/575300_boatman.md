@@ -1,1 +1,0 @@
-{"tmdb_id": 575300, "title": "Boatman", "original_title": "Barqueiro", "slug_title": "boatman", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 533841, "title": "Yellow Smile", "original_title": "Yellow Smile", "slug_title": "yellow-smile", "date": "1992-07-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7T0hbZHRqz7AozVKtlq0hnDMi8E.jpg", "actors": [], "comments": [], "recommandations_id": []}

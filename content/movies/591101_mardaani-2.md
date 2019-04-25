@@ -1,1 +1,0 @@
-{"tmdb_id": 591101, "title": "Mardaani 2", "original_title": "Mardaani 2", "slug_title": "mardaani-2", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rani Mukerji ()"], "comments": [], "recommandations_id": []}

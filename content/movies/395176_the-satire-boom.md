@@ -1,1 +1,0 @@
-{"tmdb_id": 395176, "title": "The Satire Boom", "original_title": "The Satire Boom", "slug_title": "the-satire-boom", "date": "1963-12-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

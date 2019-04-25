@@ -1,1 +1,0 @@
-{"tmdb_id": 255909, "title": "Believe", "original_title": "Believe", "slug_title": "believe", "date": "2009-06-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kate Dickie (Janice)", "Paul Thomas Hickey (Kenny)", "Michael Smiley (Lewis)"], "comments": [], "recommandations_id": []}

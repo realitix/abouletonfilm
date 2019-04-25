@@ -1,1 +1,0 @@
-{"tmdb_id": 348110, "title": "Voices from the Gasfields", "original_title": "Voices from the Gasfields", "slug_title": "voices-from-the-gasfields", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

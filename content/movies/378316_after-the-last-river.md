@@ -1,1 +1,0 @@
-{"tmdb_id": 378316, "title": "After the Last River", "original_title": "After the Last River", "slug_title": "after-the-last-river", "date": "2015-05-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j7gL4iNEcDaKYCDVHDk8UnBMQo3.jpg", "actors": [], "comments": [], "recommandations_id": []}

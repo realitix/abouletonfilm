@@ -1,1 +1,0 @@
-{"tmdb_id": 308091, "title": "Gala from Berlin 2002: Bernstein - Wonderful Town", "original_title": "Gala from Berlin 2002: Bernstein - Wonderful Town", "slug_title": "gala-from-berlin-2002-bernstein-wonderful-town", "date": "2014-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

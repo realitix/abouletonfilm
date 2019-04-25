@@ -1,1 +1,0 @@
-{"tmdb_id": 539609, "title": "Le myst\u00e8re Imberger", "original_title": "Le myst\u00e8re Imberger", "slug_title": "le-mystere-imberger", "date": "1935-04-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

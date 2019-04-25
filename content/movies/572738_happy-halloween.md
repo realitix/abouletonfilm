@@ -1,1 +1,0 @@
-{"tmdb_id": 572738, "title": "Happy Halloween", "original_title": "Happy Halloween", "slug_title": "happy-halloween", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Amy Barnes (Jessica)"], "comments": [], "recommandations_id": []}

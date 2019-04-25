@@ -1,1 +1,0 @@
-{"tmdb_id": 195729, "title": "Femmes \u00e9mancip\u00e9es", "original_title": "Femmes \u00e9mancip\u00e9es", "slug_title": "femmes-emancipees", "date": "1901-05-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

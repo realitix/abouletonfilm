@@ -1,1 +1,0 @@
-{"tmdb_id": 189518, "title": "Westward Whoa", "original_title": "Westward Whoa", "slug_title": "westward-whoa", "date": "1926-08-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ulPPXNc8drBOIyf3pMozhTmaZSq.jpg", "actors": [], "comments": [], "recommandations_id": []}

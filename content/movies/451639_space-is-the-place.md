@@ -1,1 +1,0 @@
-{"tmdb_id": 451639, "title": "Space Is the Place", "original_title": "Space Is the Place", "slug_title": "space-is-the-place", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

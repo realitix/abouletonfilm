@@ -1,1 +1,0 @@
-{"tmdb_id": 472677, "title": "The Course of Empire", "original_title": "The Course of Empire", "slug_title": "the-course-of-empire", "date": "2017-06-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 428887, "title": "Die Kinder", "original_title": "Die Kinder", "slug_title": "die-kinder", "date": "1967-03-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nzvHaqVSpBxQ6N8u7HvOd1xI8nK.jpg", "actors": ["Christian Reitz ()", "Johanna Usener ()"], "comments": [], "recommandations_id": []}

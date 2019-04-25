@@ -1,1 +1,0 @@
-{"tmdb_id": 386412, "title": "Literature", "original_title": "Literature", "slug_title": "literature", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 420177, "title": "Blood Earth", "original_title": "Blood Earth", "slug_title": "blood-earth", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

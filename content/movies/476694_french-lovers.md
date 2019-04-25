@@ -1,1 +1,0 @@
-{"tmdb_id": 476694, "title": "French Lovers", "original_title": "French Lovers", "slug_title": "french-lovers", "date": "1985-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hippolyte Girardot ()", "Sandra Montaigu ()"], "comments": [], "recommandations_id": []}

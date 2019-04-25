@@ -1,1 +1,0 @@
-{"tmdb_id": 163220, "title": "Trileros", "original_title": "Trileros", "slug_title": "trileros", "date": "2003-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/c7FkEKsfeu51d2z62k8NrDAbWjY.jpg", "actors": [], "comments": [], "recommandations_id": []}

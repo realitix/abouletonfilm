@@ -1,1 +1,0 @@
-{"tmdb_id": 489903, "title": "His Hotel Sweet", "original_title": "His Hotel Sweet", "slug_title": "his-hotel-sweet", "date": "1944-07-09", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hugh Herbert (Hugh 'Hughie' Herbert)"], "comments": [], "recommandations_id": []}

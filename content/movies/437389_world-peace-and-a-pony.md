@@ -1,1 +1,0 @@
-{"tmdb_id": 437389, "title": "World Peace and a Pony", "original_title": "World Peace and a Pony", "slug_title": "world-peace-and-a-pony", "date": "2015-04-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/krHuNdwQoB6da8qCn6YrT1cRhbs.jpg", "actors": [], "comments": [], "recommandations_id": []}

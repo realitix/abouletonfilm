@@ -1,1 +1,0 @@
-{"tmdb_id": 502640, "title": "Moanologue", "original_title": "Moanologue", "slug_title": "moanologue", "date": "1990-01-01", "genre": "Com\u00e9die / Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sarah Ann Kennedy ()", "Matthew Dennis ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 328837, "title": "The League Of Nations At Work", "original_title": "The League Of Nations At Work", "slug_title": "the-league-of-nations-at-work", "date": "1937-01-01", "genre": "Histoire / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

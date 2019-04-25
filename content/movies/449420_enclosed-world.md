@@ -1,1 +1,0 @@
-{"tmdb_id": 449420, "title": "Enclosed World", "original_title": "\u56f2\u307e\u308c\u305f\u4e16\u754c", "slug_title": "enclosed-world", "date": "1998-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

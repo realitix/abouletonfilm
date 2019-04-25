@@ -1,1 +1,0 @@
-{"tmdb_id": 90472, "title": "Authority Zero: Less Rhythm More Booze", "original_title": "Authority Zero: Less Rhythm More Booze", "slug_title": "authority-zero-less-rhythm-more-booze", "date": "2012-01-31", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Authority Zero (Band)"], "comments": [], "recommandations_id": []}

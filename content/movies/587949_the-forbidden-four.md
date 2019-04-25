@@ -1,1 +1,0 @@
-{"tmdb_id": 587949, "title": "The Forbidden Four", "original_title": "The Forbidden Four", "slug_title": "the-forbidden-four", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

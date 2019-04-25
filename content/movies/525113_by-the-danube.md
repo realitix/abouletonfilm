@@ -1,1 +1,0 @@
-{"tmdb_id": 525113, "title": "By the Danube", "original_title": "A Dun\u00e1n\u00e1l", "slug_title": "by-the-danube", "date": "1988-03-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n87e8jZORzFDBTzZ59DhrVuJ9ak.jpg", "actors": [], "comments": [], "recommandations_id": []}

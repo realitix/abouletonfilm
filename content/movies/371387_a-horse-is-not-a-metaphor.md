@@ -1,1 +1,0 @@
-{"tmdb_id": 371387, "title": "A Horse Is Not a Metaphor", "original_title": "A Horse Is Not a Metaphor", "slug_title": "a-horse-is-not-a-metaphor", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8Fu5omGlkBSQOdcyzs4E1uq919i.jpg", "actors": [], "comments": [], "recommandations_id": []}

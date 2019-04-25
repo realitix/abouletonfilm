@@ -1,1 +1,0 @@
-{"tmdb_id": 410577, "title": "The Prince", "original_title": "The Prince", "slug_title": "the-prince", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

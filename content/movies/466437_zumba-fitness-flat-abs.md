@@ -1,1 +1,0 @@
-{"tmdb_id": 466437, "title": "Zumba Fitness Flat Abs", "original_title": "Zumba Fitness Flat Abs", "slug_title": "zumba-fitness-flat-abs", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tQ7xRYV4OIIY1lCv8AmsiNJPTWX.jpg", "actors": [], "comments": [], "recommandations_id": []}

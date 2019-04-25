@@ -1,1 +1,0 @@
-{"tmdb_id": 594612, "title": "Darling", "original_title": "Liebling", "slug_title": "darling", "date": "2013-04-11", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

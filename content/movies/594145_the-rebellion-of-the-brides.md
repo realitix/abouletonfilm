@@ -1,1 +1,0 @@
-{"tmdb_id": 594145, "title": "The Rebellion of the Brides", "original_title": "The Rebellion of the Brides", "slug_title": "the-rebellion-of-the-brides", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hfesGcT8GnAopcjVyhuOLUVAr9G.jpg", "actors": [], "comments": [], "recommandations_id": []}

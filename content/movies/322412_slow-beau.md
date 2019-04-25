@@ -1,1 +1,0 @@
-{"tmdb_id": 322412, "title": "Slow Beau", "original_title": "Slow Beau", "slug_title": "slow-beau", "date": "1930-02-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

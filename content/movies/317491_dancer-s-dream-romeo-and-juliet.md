@@ -1,1 +1,0 @@
-{"tmdb_id": 317491, "title": "Dancer's Dream: Romeo and Juliet", "original_title": "Dancer's Dream: Romeo and Juliet", "slug_title": "dancer-s-dream-romeo-and-juliet", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

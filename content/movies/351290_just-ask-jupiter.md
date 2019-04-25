@@ -1,1 +1,0 @@
-{"tmdb_id": 351290, "title": "Just Ask Jupiter", "original_title": "Just Ask Jupiter", "slug_title": "just-ask-jupiter", "date": "1938-02-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 590073, "title": "The Love Pirate", "original_title": "The Love Pirate", "slug_title": "the-love-pirate", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x0W0uFjQ0Y5a4jod0CgTos0hshJ.jpg", "actors": ["Brad F. Grinter (Capt. Fu)"], "comments": [], "recommandations_id": []}

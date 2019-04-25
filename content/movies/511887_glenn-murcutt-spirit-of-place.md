@@ -1,1 +1,0 @@
-{"tmdb_id": 511887, "title": "Glenn Murcutt: Spirit of Place", "original_title": "Glenn Murcutt: Spirit of Place", "slug_title": "glenn-murcutt-spirit-of-place", "date": "2017-10-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s5lYzDLkSpHyhY0DJw7jeEd83W0.jpg", "actors": [], "comments": [], "recommandations_id": []}

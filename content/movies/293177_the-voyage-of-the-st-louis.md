@@ -1,1 +1,0 @@
-{"tmdb_id": 293177, "title": "The Voyage of the St. Louis", "original_title": "The Voyage of the St. Louis", "slug_title": "the-voyage-of-the-st-louis", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

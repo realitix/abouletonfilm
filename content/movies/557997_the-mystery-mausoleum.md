@@ -1,1 +1,0 @@
-{"tmdb_id": 557997, "title": "The Mystery Mausoleum", "original_title": "The Mystery Mausoleum", "slug_title": "the-mystery-mausoleum", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8uf7JAajN8mpW1W6vWqXZl1zOo4.jpg", "actors": [], "comments": [], "recommandations_id": []}

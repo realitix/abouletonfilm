@@ -1,1 +1,0 @@
-{"tmdb_id": 148316, "title": "ScaredSacred", "original_title": "ScaredSacred", "slug_title": "scaredsacred", "date": "2004-09-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aVEya5kk0ExmBQuDorvLptIfjOC.jpg", "actors": [], "comments": [], "recommandations_id": []}

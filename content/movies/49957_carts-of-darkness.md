@@ -1,1 +1,0 @@
-{"tmdb_id": 49957, "title": "Carts of Darkness", "original_title": "Carts of Darkness", "slug_title": "carts-of-darkness", "date": "2008-01-01", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/idpLEKPGoTvyIsIk14PINV8QgF.jpg", "actors": [], "comments": [], "recommandations_id": []}

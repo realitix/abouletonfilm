@@ -1,1 +1,0 @@
-{"tmdb_id": 336922, "title": "Never A Neverland", "original_title": "Never A Neverland", "slug_title": "never-a-neverland", "date": "2014-02-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9X7UuTKaohd7Rv08XWE82DUdJfb.jpg", "actors": [], "comments": [], "recommandations_id": []}

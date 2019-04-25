@@ -1,1 +1,0 @@
-{"tmdb_id": 138891, "title": "Unfinished Spaces", "original_title": "Unfinished Spaces", "slug_title": "unfinished-spaces", "date": "2011-06-09", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yYjXPiS8sSf7kqahqMHRPvLClcE.jpg", "actors": [], "comments": [], "recommandations_id": []}

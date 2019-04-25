@@ -1,1 +1,0 @@
-{"tmdb_id": 484631, "title": "Weavers of Imagination", "original_title": "\u0628\u0627\u0641\u0646\u062f\u06af\u0627\u0646 \u062e\u06cc\u0627\u0644\u202c\u200e", "slug_title": "weavers-of-imagination", "date": "2017-12-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

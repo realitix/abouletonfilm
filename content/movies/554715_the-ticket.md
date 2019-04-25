@@ -1,1 +1,0 @@
-{"tmdb_id": 554715, "title": "The Ticket", "original_title": "The Ticket", "slug_title": "the-ticket", "date": "2018-10-11", "genre": "Science-Fiction / Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jeff Lillico (Jules)", "Brendan Murray ()", "Ewa Placzynska ()"], "comments": [], "recommandations_id": []}

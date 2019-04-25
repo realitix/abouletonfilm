@@ -1,1 +1,0 @@
-{"tmdb_id": 414729, "title": "X-Girl Movie", "original_title": "X-Girl Movie", "slug_title": "x-girl-movie", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Chlo\u00eb Sevigny ()", "Kim Gordon ()", "Marc Jacobs ()"], "comments": [], "recommandations_id": []}

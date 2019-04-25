@@ -1,1 +1,0 @@
-{"tmdb_id": 417784, "title": "Circus Drawings", "original_title": "Circus Drawings", "slug_title": "circus-drawings", "date": "2010-10-01", "genre": "Animation", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

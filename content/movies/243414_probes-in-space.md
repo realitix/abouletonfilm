@@ -1,1 +1,0 @@
-{"tmdb_id": 243414, "title": "Probes in Space", "original_title": "Probes in Space", "slug_title": "probes-in-space", "date": "1975-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

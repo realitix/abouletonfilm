@@ -1,1 +1,0 @@
-{"tmdb_id": 175383, "title": "The Man Who Lived in a Shoe", "original_title": "El Hombre Que Vivi\u00f3 En Un Zapato", "slug_title": "the-man-who-lived-in-a-shoe", "date": "2011-10-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A3jKTEc6pALhu6Kh1d0QeMrhoEF.jpg", "actors": [], "comments": [], "recommandations_id": []}

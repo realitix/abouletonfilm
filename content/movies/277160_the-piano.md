@@ -1,1 +1,0 @@
-{"tmdb_id": 277160, "title": "The Piano", "original_title": "The Piano", "slug_title": "the-piano", "date": "2007-06-17", "genre": "Musique / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jd93gdnxHg6JtuBPS07uAsMoJNh.jpg", "actors": [], "comments": [], "recommandations_id": []}

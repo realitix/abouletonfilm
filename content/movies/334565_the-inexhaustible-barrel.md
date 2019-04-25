@@ -1,1 +1,0 @@
-{"tmdb_id": 334565, "title": "The Inexhaustible Barrel", "original_title": "Le tonneau in\u00e9puisable", "slug_title": "the-inexhaustible-barrel", "date": "1907-04-05", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

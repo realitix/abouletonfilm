@@ -1,1 +1,0 @@
-{"tmdb_id": 245369, "title": "Piranha: Wolf in the Water", "original_title": "Piranha: Wolf in the Water", "slug_title": "piranha-wolf-in-the-water", "date": "1999-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o7012wU5UAN8y3TtSLfibipjls7.jpg", "actors": [], "comments": [], "recommandations_id": []}

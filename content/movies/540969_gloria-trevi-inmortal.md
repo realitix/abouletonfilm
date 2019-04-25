@@ -1,1 +1,0 @@
-{"tmdb_id": 540969, "title": "Gloria Trevi: Inmortal", "original_title": "Gloria Trevi: Inmortal", "slug_title": "gloria-trevi-inmortal", "date": "2016-06-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5eADOb9FdpHnEnAptHzh4BLk7Ek.jpg", "actors": [], "comments": [], "recommandations_id": []}

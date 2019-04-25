@@ -1,1 +1,0 @@
-{"tmdb_id": 366311, "title": "Belgrade Follies", "original_title": "Poludeli ljudi", "slug_title": "belgrade-follies", "date": "1997-11-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p0Wf4CLAPb3awNrIgoMDgBMlnCh.jpg", "actors": [], "comments": [], "recommandations_id": []}

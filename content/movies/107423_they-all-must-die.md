@@ -1,1 +1,0 @@
-{"tmdb_id": 107423, "title": "They All Must Die!", "original_title": "They All Must Die!", "slug_title": "they-all-must-die", "date": "1998-01-01", "genre": "", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/huZ35r4WZXEjPMpzqyrv2zwQaW9.jpg", "actors": [], "comments": [], "recommandations_id": []}

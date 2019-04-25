@@ -1,1 +1,0 @@
-{"tmdb_id": 139574, "title": "Romeo Romeo", "original_title": "Romeo Romeo", "slug_title": "romeo-romeo", "date": "2012-10-05", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ovTK1NgoyYcGKiBq8euY0r2boXT.jpg", "actors": [], "comments": [], "recommandations_id": []}

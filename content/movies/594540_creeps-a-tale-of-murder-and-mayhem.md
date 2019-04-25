@@ -1,1 +1,0 @@
-{"tmdb_id": 594540, "title": "Creeps: A Tale of Murder and Mayhem", "original_title": "Creeps: A Tale of Murder and Mayhem", "slug_title": "creeps-a-tale-of-murder-and-mayhem", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jack Mulvanerty (Jack)", "Johnny Dickie (Johnny)"], "comments": [], "recommandations_id": []}

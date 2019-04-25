@@ -1,1 +1,0 @@
-{"tmdb_id": 34032, "title": "Golden Sandals", "original_title": "Golden Sandals", "slug_title": "golden-sandals", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Reg Mombasssa (Himself)"], "comments": [], "recommandations_id": []}

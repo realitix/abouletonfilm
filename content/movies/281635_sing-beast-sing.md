@@ -1,1 +1,0 @@
-{"tmdb_id": 281635, "title": "Sing Beast Sing", "original_title": "Sing Beast Sing", "slug_title": "sing-beast-sing", "date": "1980-01-01", "genre": "Animation", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2jiA1jjsjWwyceMYkD5cnakUQo4.jpg", "actors": [], "comments": [], "recommandations_id": []}

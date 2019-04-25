@@ -1,1 +1,0 @@
-{"tmdb_id": 465127, "title": "Square Inch Field", "original_title": "Square Inch Field", "slug_title": "square-inch-field", "date": "1968-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s9SiimAARMGGlKQzoszxNnNCS5P.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 477969, "title": "Silent Cry", "original_title": "Silent Cry", "slug_title": "silent-cry", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

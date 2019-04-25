@@ -1,1 +1,0 @@
-{"tmdb_id": 173180, "title": "One Nation Under God", "original_title": "One Nation Under God", "slug_title": "one-nation-under-god", "date": "2009-04-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qnyzoLeOTBJiC5afbdlfXBdiUeg.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 404079, "title": "The Writer", "original_title": "The Writer", "slug_title": "the-writer", "date": "", "genre": "Animation", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mmxrtHfH5XlEt00M3P7kl9YlIqJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

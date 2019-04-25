@@ -1,1 +1,0 @@
-{"tmdb_id": 418989, "title": "Day Dreamer", "original_title": "Day Dreamer", "slug_title": "day-dreamer", "date": "1975-10-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xNLzU8u4sPCvtrRSjoIpsm8odL.jpg", "actors": [], "comments": [], "recommandations_id": []}

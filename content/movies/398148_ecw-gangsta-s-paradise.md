@@ -1,1 +1,0 @@
-{"tmdb_id": 398148, "title": "ECW Gangsta's Paradise", "original_title": "ECW Gangsta's Paradise", "slug_title": "ecw-gangsta-s-paradise", "date": "1995-09-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2lwdoSvGxZkIYbLhGVYHjj31lGR.jpg", "actors": [], "comments": [], "recommandations_id": []}

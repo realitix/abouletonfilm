@@ -1,1 +1,0 @@
-{"tmdb_id": 367187, "title": "Etiudas", "original_title": "Etiudas", "slug_title": "etiudas", "date": "2013-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kyBUvu0xCwwWnoLGyh7rlJzKpFG.jpg", "actors": ["Clotilde Rigaud (Matilda)", "Simonas Storpir\u0161tis (Dainius)"], "comments": [], "recommandations_id": []}

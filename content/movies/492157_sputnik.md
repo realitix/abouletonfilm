@@ -1,1 +1,0 @@
-{"tmdb_id": 492157, "title": "Sputnik", "original_title": "Sputnik", "slug_title": "sputnik", "date": "2015-03-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/diwpUCYBWzYQHdU75mQ8NK5kPKO.jpg", "actors": [], "comments": [], "recommandations_id": []}

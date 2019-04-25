@@ -1,1 +1,0 @@
-{"tmdb_id": 397271, "title": "Kula Deivam", "original_title": "Kula Deivam", "slug_title": "kula-deivam", "date": "1956-09-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eatkgUhZJBO3QQFBRwqpKR75MEO.jpg", "actors": ["S. V. Sahasranamam ()", "Pandari Bai ()"], "comments": [], "recommandations_id": []}

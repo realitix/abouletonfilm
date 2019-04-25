@@ -1,1 +1,0 @@
-{"tmdb_id": 350265, "title": "My Friend, Je-Je", "original_title": "\ub0b4\uce5c\uad6c \uc81c\uc81c", "slug_title": "my-friend-je-je", "date": "1989-07-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Shin Goo ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 307886, "title": "Ee Bandha Anubanda", "original_title": "Ee Bandha Anubanda", "slug_title": "ee-bandha-anubanda", "date": "1987-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 277536, "title": "The Power Principle", "original_title": "The Power Principle", "slug_title": "the-power-principle", "date": "2012-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dDAIbv6BF72deP8oUfS0UHWGARK.jpg", "actors": [], "comments": [], "recommandations_id": []}

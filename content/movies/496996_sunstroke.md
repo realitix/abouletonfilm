@@ -1,1 +1,0 @@
-{"tmdb_id": 496996, "title": "Sunstroke", "original_title": "Sunstroke", "slug_title": "sunstroke", "date": "1992-09-23", "genre": "", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jane Seymour (Teresa Winters)"], "comments": [], "recommandations_id": []}

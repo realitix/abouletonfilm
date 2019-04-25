@@ -1,1 +1,0 @@
-{"tmdb_id": 267904, "title": "White Man's Country", "original_title": "White Man's Country", "slug_title": "white-man-s-country", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

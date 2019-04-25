@@ -1,1 +1,0 @@
-{"tmdb_id": 271529, "title": "Beelden van Brugge", "original_title": "Beelden van Brugge", "slug_title": "beelden-van-brugge", "date": "1930-05-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

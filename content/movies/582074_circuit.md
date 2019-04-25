@@ -1,1 +1,0 @@
-{"tmdb_id": 582074, "title": "Circuit", "original_title": "Circuit", "slug_title": "circuit", "date": "2018-08-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/acjYNt3jCnKbHXrcrbe1XyzVj3N.jpg", "actors": [], "comments": [], "recommandations_id": []}

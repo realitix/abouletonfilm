@@ -1,1 +1,0 @@
-{"tmdb_id": 360436, "title": "Director of Devils", "original_title": "Director of Devils", "slug_title": "director-of-devils", "date": "1971-01-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ken Russell (Himself)", "Peter Maxwell Davies (Himself)"], "comments": [], "recommandations_id": []}

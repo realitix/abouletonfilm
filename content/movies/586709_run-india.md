@@ -1,1 +1,0 @@
-{"tmdb_id": 586709, "title": "Run India", "original_title": "Run India", "slug_title": "run-india", "date": "2019-02-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

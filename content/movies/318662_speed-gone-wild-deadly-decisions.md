@@ -1,1 +1,0 @@
-{"tmdb_id": 318662, "title": "Speed Gone Wild: Deadly Decisions", "original_title": "Speed Gone Wild: Deadly Decisions", "slug_title": "speed-gone-wild-deadly-decisions", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

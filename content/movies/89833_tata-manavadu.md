@@ -1,1 +1,0 @@
-{"tmdb_id": 89833, "title": "Tata Manavadu", "original_title": "Tata Manavadu", "slug_title": "tata-manavadu", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2tKWcuyfPla5stDStURvqNrN6V8.jpg", "actors": [], "comments": [], "recommandations_id": []}

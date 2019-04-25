@@ -1,1 +1,0 @@
-{"tmdb_id": 513831, "title": "R\u00e4tsel einer Nacht", "original_title": "R\u00e4tsel einer Nacht", "slug_title": "ratsel-einer-nacht", "date": "1927-10-12", "genre": "Aventure", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Harry Piel (Herry Debus)", "Josef Peterhans (Graf Egar von Almen)"], "comments": [], "recommandations_id": []}

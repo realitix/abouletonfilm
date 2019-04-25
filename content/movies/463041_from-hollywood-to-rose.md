@@ -1,1 +1,0 @@
-{"tmdb_id": 463041, "title": "From Hollywood to Rose", "original_title": "From Hollywood to Rose", "slug_title": "from-hollywood-to-rose", "date": "2017-06-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zHtvUeYWCkTS81eCIhXjt6OzMKi.jpg", "actors": [], "comments": [], "recommandations_id": []}

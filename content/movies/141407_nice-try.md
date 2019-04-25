@@ -1,1 +1,0 @@
-{"tmdb_id": 141407, "title": "Nice Try", "original_title": "Nice Try", "slug_title": "nice-try", "date": "2009-10-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/haFKx7fiFhRTtcgrE1Zt6SPFmTL.jpg", "actors": [], "comments": [], "recommandations_id": []}

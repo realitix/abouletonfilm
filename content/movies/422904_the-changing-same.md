@@ -1,1 +1,0 @@
-{"tmdb_id": 422904, "title": "The Changing Same", "original_title": "The Changing Same", "slug_title": "the-changing-same", "date": "2001-10-10", "genre": "Drame / Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b26zflOf3E9SrbeSTrxN6RGIyax.jpg", "actors": [], "comments": [], "recommandations_id": []}

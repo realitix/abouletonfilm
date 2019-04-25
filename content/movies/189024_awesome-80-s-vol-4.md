@@ -1,1 +1,0 @@
-{"tmdb_id": 189024, "title": "Awesome 80's Vol.4", "original_title": "Awesome 80's Vol.4", "slug_title": "awesome-80-s-vol-4", "date": "", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3jc3jGL60A3rlS2Nd2STTvIVRxo.jpg", "actors": [], "comments": [], "recommandations_id": []}

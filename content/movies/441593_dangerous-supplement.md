@@ -1,1 +1,0 @@
-{"tmdb_id": 441593, "title": "Dangerous Supplement", "original_title": "Dangerous Supplement", "slug_title": "dangerous-supplement", "date": "2005-02-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w8kCrY7bOGRWEqUxIANlSrnNHUe.jpg", "actors": [], "comments": [], "recommandations_id": []}

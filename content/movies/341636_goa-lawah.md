@@ -1,1 +1,0 @@
-{"tmdb_id": 341636, "title": "Goa Lawah", "original_title": "Goa Lawah", "slug_title": "goa-lawah", "date": "1991-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oFdcWMQ30vJraCF2GjhQJDtSjb3.jpg", "actors": [], "comments": [], "recommandations_id": []}

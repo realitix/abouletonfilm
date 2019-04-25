@@ -1,1 +1,0 @@
-{"tmdb_id": 365642, "title": "Nature: River of No Return", "original_title": "Nature: River of No Return", "slug_title": "nature-river-of-no-return", "date": "2012-05-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/350E1ZpFAxG9Q0WUoGSKr0FRx29.jpg", "actors": [], "comments": [], "recommandations_id": []}

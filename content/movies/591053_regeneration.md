@@ -1,1 +1,0 @@
-{"tmdb_id": 591053, "title": "R\u00e9g\u00e9n\u00e9ration", "original_title": "R\u00e9g\u00e9n\u00e9ration", "slug_title": "regeneration", "date": "2018-11-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oHFCKPzopJfCYU9VJY51EbN0IGs.jpg", "actors": [], "comments": [], "recommandations_id": []}

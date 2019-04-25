@@ -1,1 +1,0 @@
-{"tmdb_id": 117475, "title": "Together", "original_title": "Together", "slug_title": "together", "date": "1956-02-05", "genre": "Drame", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uSZVXRfUiJLvB1EZIDNM5Wza1u.jpg", "actors": [], "comments": [], "recommandations_id": []}

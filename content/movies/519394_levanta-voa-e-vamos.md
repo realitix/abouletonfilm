@@ -1,1 +1,0 @@
-{"tmdb_id": 519394, "title": "Levanta Voa e Vamos", "original_title": "Levanta Voa e Vamos", "slug_title": "levanta-voa-e-vamos", "date": "1986-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

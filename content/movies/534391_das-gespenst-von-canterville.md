@@ -1,1 +1,0 @@
-{"tmdb_id": 534391, "title": "Das Gespenst von Canterville", "original_title": "Das Gespenst von Canterville", "slug_title": "das-gespenst-von-canterville", "date": "1964-09-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

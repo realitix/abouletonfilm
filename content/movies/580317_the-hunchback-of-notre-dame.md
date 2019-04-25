@@ -1,1 +1,0 @@
-{"tmdb_id": 580317, "title": "The Hunchback of Notre Dame", "original_title": "The Hunchback of Notre Dame", "slug_title": "the-hunchback-of-notre-dame", "date": "1996-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ujrAMzgHI9TO4g3CosjZQ5Ai41j.jpg", "actors": [], "comments": [], "recommandations_id": []}

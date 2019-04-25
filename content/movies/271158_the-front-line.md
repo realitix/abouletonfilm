@@ -1,1 +1,0 @@
-{"tmdb_id": 271158, "title": "The Front Line", "original_title": "The Front Line", "slug_title": "the-front-line", "date": "1940-01-01", "genre": "Documentaire / Guerre", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

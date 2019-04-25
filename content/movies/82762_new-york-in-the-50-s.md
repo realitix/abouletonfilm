@@ -1,1 +1,0 @@
-{"tmdb_id": 82762, "title": "New York in the 50's", "original_title": "New York in the 50's", "slug_title": "new-york-in-the-50-s", "date": "2001-02-09", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7ibDr8SGpElHnH51qZhlNha1han.jpg", "actors": [], "comments": [], "recommandations_id": []}

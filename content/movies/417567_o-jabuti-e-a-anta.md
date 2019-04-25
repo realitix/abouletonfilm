@@ -1,1 +1,0 @@
-{"tmdb_id": 417567, "title": "O Jabuti e a Anta", "original_title": "O Jabuti e a Anta", "slug_title": "o-jabuti-e-a-anta", "date": "2016-09-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pijsyrCy6tbqyaf6wJWTgUVJbAK.jpg", "actors": [], "comments": [], "recommandations_id": []}

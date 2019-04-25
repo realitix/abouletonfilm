@@ -1,1 +1,0 @@
-{"tmdb_id": 417454, "title": "\uc5b4\uba38\ub2c8\uc758 \ubc31 \ubc88\uc9f8 \uac00\uc744\ub0a0", "original_title": "\uc5b4\uba38\ub2c8\uc758 \ubc31 \ubc88\uc9f8 \uac00\uc744\ub0a0", "slug_title": "eomeoniyi-baeg-beonjjae-gaeulnal", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

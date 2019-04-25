@@ -1,1 +1,0 @@
-{"tmdb_id": 560121, "title": "Missing Boy (the Path)", "original_title": "Missing Boy (the Path)", "slug_title": "missing-boy-the-path", "date": "2012-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

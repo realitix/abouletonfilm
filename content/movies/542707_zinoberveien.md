@@ -1,1 +1,0 @@
-{"tmdb_id": 542707, "title": "Zinoberveien", "original_title": "Zinoberveien", "slug_title": "zinoberveien", "date": "1987-01-31", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Liv Hel\u00f8e (The woman)", "Arild Kristo (The hitchhiker)"], "comments": [], "recommandations_id": []}

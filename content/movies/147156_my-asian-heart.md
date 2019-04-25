@@ -1,1 +1,0 @@
-{"tmdb_id": 147156, "title": "My Asian Heart", "original_title": "My Asian Heart", "slug_title": "my-asian-heart", "date": "2009-08-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/79JxzjA9WlDXrkXKf85zxAtOFlo.jpg", "actors": [], "comments": [], "recommandations_id": []}

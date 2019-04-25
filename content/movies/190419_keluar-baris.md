@@ -1,1 +1,0 @@
-{"tmdb_id": 190419, "title": "Keluar Baris", "original_title": "Keluar Baris", "slug_title": "keluar-baris", "date": "2008-05-11", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/c0mYJvbDjBYYjRi5BH5cYmR9uRH.jpg", "actors": [], "comments": [], "recommandations_id": []}

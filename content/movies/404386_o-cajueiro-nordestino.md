@@ -1,1 +1,0 @@
-{"tmdb_id": 404386, "title": "O Cajueiro Nordestino", "original_title": "O Cajueiro Nordestino", "slug_title": "o-cajueiro-nordestino", "date": "1962-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v2XOXbFIH6h6rKX3Lqhri5BCCc6.jpg", "actors": [], "comments": [], "recommandations_id": []}

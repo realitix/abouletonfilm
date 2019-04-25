@@ -1,1 +1,0 @@
-{"tmdb_id": 203997, "title": "Por Qu\u00e9?! Una Crisis End\u00e9mica", "original_title": "Por Qu\u00e9?! Una Crisis End\u00e9mica", "slug_title": "por-que-una-crisis-endemica", "date": "2013-06-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 247013, "title": "Heaven Shall Burn: Live at Summerbreeze", "original_title": "Heaven Shall Burn: Live at Summerbreeze", "slug_title": "heaven-shall-burn-live-at-summerbreeze", "date": "2009-08-25", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 292087, "title": "Wesley Cash", "original_title": "Wesley Cash", "slug_title": "wesley-cash", "date": "2004-12-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

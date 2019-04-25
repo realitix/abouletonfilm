@@ -1,1 +1,0 @@
-{"tmdb_id": 431725, "title": "Rushes for \u2018The Illiac Passion\u2019", "original_title": "Rushes for \u2018The Illiac Passion\u2019", "slug_title": "rushes-for-the-illiac-passion", "date": "1964-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

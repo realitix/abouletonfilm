@@ -1,1 +1,0 @@
-{"tmdb_id": 414848, "title": "Noodles", "original_title": "Noodles", "slug_title": "noodles", "date": "", "genre": "", "score": "4.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

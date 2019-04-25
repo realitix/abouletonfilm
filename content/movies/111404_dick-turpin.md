@@ -1,1 +1,0 @@
-{"tmdb_id": 111404, "title": "Dick Turpin", "original_title": "Dick Turpin", "slug_title": "dick-turpin", "date": "1925-02-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bqjgQfMUQZBBxOFdWyDU0NwcczD.jpg", "actors": ["Tom Mix (Dick Turpin)", "Alan Hale (Tom King)"], "comments": [], "recommandations_id": []}

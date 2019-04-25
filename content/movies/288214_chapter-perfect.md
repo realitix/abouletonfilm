@@ -1,1 +1,0 @@
-{"tmdb_id": 288214, "title": "CHAPTER PERFECT", "original_title": "CHAPTER PERFECT", "slug_title": "chapter-perfect", "date": "1998-04-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rSasqR9VZ4kqNkcCuH41r6f8ZZB.jpg", "actors": [], "comments": [], "recommandations_id": []}

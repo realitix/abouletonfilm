@@ -1,1 +1,0 @@
-{"tmdb_id": 310401, "title": "The Rivalry: Red v. Blue", "original_title": "The Rivalry: Red v. Blue", "slug_title": "the-rivalry-red-v-blue", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

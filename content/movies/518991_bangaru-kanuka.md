@@ -1,1 +1,0 @@
-{"tmdb_id": 518991, "title": "Bangaru Kanuka", "original_title": "Bangaru Kanuka", "slug_title": "bangaru-kanuka", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hrCHy9UmmUBYq4uHr1UTQJRsB3C.jpg", "actors": [], "comments": [], "recommandations_id": []}

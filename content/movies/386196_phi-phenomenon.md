@@ -1,1 +1,0 @@
-{"tmdb_id": 386196, "title": "Phi Phenomenon", "original_title": "Phi Phenomenon", "slug_title": "phi-phenomenon", "date": "1968-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fGzcVI3fFgtOKdexpLDo9w7BaYm.jpg", "actors": [], "comments": [], "recommandations_id": []}

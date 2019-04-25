@@ -1,1 +1,0 @@
-{"tmdb_id": 339996, "title": "Six and Seven-Eighths", "original_title": "Six and Seven-Eighths", "slug_title": "six-and-seven-eighths", "date": "2003-01-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4F6S86dtdxnr4MIythYYF3OursA.jpg", "actors": ["Grant Munro (Dancer)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 579581, "title": "The Jew in the Lotus", "original_title": "The Jew in the Lotus", "slug_title": "the-jew-in-the-lotus", "date": "1998-09-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xnIfXyztw77egYyTGxhvTkYe5M6.jpg", "actors": [], "comments": [], "recommandations_id": []}

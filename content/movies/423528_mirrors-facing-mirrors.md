@@ -1,1 +1,0 @@
-{"tmdb_id": 423528, "title": "Mirrors Facing Mirrors", "original_title": "Mirrors Facing Mirrors", "slug_title": "mirrors-facing-mirrors", "date": "2010-01-01", "genre": "", "score": "1.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

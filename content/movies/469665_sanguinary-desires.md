@@ -1,1 +1,0 @@
-{"tmdb_id": 469665, "title": "Sanguinary Desires", "original_title": "Sanguinary Desires", "slug_title": "sanguinary-desires", "date": "1988-03-21", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jMwNXQuTUrVwHm3U7vS9O4fD6cp.jpg", "actors": [], "comments": [], "recommandations_id": []}

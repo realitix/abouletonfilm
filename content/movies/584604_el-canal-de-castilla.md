@@ -1,1 +1,0 @@
-{"tmdb_id": 584604, "title": "El canal de Castilla", "original_title": "El canal de Castilla", "slug_title": "el-canal-de-castilla", "date": "1931-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

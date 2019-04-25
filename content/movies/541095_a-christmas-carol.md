@@ -1,1 +1,0 @@
-{"tmdb_id": 541095, "title": "A Christmas Carol", "original_title": "A Christmas Carol", "slug_title": "a-christmas-carol", "date": "2018-12-11", "genre": "Drame", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5wmCkJLVUT0lYDsaEACJV1z9D0J.jpg", "actors": ["Simon Callow ()"], "comments": [], "recommandations_id": []}

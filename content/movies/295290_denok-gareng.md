@@ -1,1 +1,0 @@
-{"tmdb_id": 295290, "title": "Denok & Gareng", "original_title": "Denok & Gareng", "slug_title": "denok-gareng", "date": "2012-12-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jge03UVfsn93pF0G5YFksieytQ4.jpg", "actors": [], "comments": [], "recommandations_id": []}

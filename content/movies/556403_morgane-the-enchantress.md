@@ -1,1 +1,0 @@
-{"tmdb_id": 556403, "title": "Morgane, the Enchantress", "original_title": "Morgane la sir\u00e8ne", "slug_title": "morgane-the-enchantress", "date": "1928-03-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

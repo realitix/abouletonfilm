@@ -1,1 +1,0 @@
-{"tmdb_id": 377032, "title": "Incident", "original_title": "Incident", "slug_title": "incident", "date": "2007-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hEN6yKGy7zND6pkZxjn4L9IHNa.jpg", "actors": [], "comments": [], "recommandations_id": []}

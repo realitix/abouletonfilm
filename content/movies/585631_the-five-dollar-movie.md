@@ -1,1 +1,0 @@
-{"tmdb_id": 585631, "title": "The Five Dollar Movie", "original_title": "The Five Dollar Movie", "slug_title": "the-five-dollar-movie", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

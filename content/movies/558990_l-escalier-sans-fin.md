@@ -1,1 +1,0 @@
-{"tmdb_id": 558990, "title": "L'escalier sans fin", "original_title": "L'escalier sans fin", "slug_title": "l-escalier-sans-fin", "date": "1943-08-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aTVT135YpBfY343IclLq7Lzl5wm.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 137578, "title": "The 9th Circle", "original_title": "The 9th Circle", "slug_title": "the-9th-circle", "date": "2008-01-01", "genre": "", "score": "4.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oA0uaQvIKGDLfDnyN9Kz80pTi3R.jpg", "actors": [], "comments": [], "recommandations_id": []}

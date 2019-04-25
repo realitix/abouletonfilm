@@ -1,1 +1,0 @@
-{"tmdb_id": 552642, "title": "Mommy's Lover", "original_title": "\uc5c4\ub9c8\uc758 \uc5f0\uc560", "slug_title": "mommy-s-lover", "date": "2018-05-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5SW1OX0ohy4hMi0jFuKZ4QboT58.jpg", "actors": [], "comments": [], "recommandations_id": []}

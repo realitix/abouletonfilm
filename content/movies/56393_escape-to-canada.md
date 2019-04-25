@@ -1,1 +1,0 @@
-{"tmdb_id": 56393, "title": "Escape To Canada", "original_title": "Escape To Canada", "slug_title": "escape-to-canada", "date": "2005-06-05", "genre": "Documentaire", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aK9zo3fpI4dmhS01y5iRTmWjMhn.jpg", "actors": [], "comments": [], "recommandations_id": [54120, 41850, 176974, 37789]}

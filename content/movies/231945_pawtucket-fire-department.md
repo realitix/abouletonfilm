@@ -1,1 +1,0 @@
-{"tmdb_id": 231945, "title": "Pawtucket Fire Department", "original_title": "Pawtucket Fire Department", "slug_title": "pawtucket-fire-department", "date": "1903-05-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

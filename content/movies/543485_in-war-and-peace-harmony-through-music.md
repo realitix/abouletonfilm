@@ -1,1 +1,0 @@
-{"tmdb_id": 543485, "title": "In War and Peace - Harmony Through Music", "original_title": "In War and Peace - Harmony Through Music", "slug_title": "in-war-and-peace-harmony-through-music", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Joyce DiDonato ()"], "comments": [], "recommandations_id": []}

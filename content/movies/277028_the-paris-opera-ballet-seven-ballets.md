@@ -1,1 +1,0 @@
-{"tmdb_id": 277028, "title": "The Paris Opera Ballet: Seven Ballets", "original_title": "The Paris Opera Ballet: Seven Ballets", "slug_title": "the-paris-opera-ballet-seven-ballets", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

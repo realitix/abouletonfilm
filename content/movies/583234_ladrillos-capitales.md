@@ -1,1 +1,0 @@
-{"tmdb_id": 583234, "title": "Ladrillos capitales", "original_title": "Ladrillos capitales", "slug_title": "ladrillos-capitales", "date": "2019-02-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dpOjIz6pjfJc9vnJlz5gVHVdb9d.jpg", "actors": [], "comments": [], "recommandations_id": []}

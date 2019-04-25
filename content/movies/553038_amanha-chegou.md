@@ -1,1 +1,0 @@
-{"tmdb_id": 553038, "title": "Amanh\u00e3 Chegou", "original_title": "Amanh\u00e3 Chegou", "slug_title": "amanha-chegou", "date": "2018-10-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bd1ALqZo8yoeBWAnucHjg4zn7cn.jpg", "actors": [], "comments": [], "recommandations_id": []}

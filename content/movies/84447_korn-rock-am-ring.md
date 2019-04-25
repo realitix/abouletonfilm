@@ -1,1 +1,0 @@
-{"tmdb_id": 84447, "title": "Korn: Rock Am Ring", "original_title": "Korn: Rock Am Ring", "slug_title": "korn-rock-am-ring", "date": "2009-12-09", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oDn9oq0edFKf8od5eFuFYQiOSa5.jpg", "actors": ["Jonathan Davis (Himself)", "Korn ()"], "comments": [], "recommandations_id": []}

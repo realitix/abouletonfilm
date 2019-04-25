@@ -1,1 +1,0 @@
-{"tmdb_id": 510214, "title": "Dawn Of The Ocean", "original_title": "Dawn Of The Ocean", "slug_title": "dawn-of-the-ocean", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3FIVgjdIhNcYqZKWCw27joO0vQ9.jpg", "actors": [], "comments": [], "recommandations_id": []}

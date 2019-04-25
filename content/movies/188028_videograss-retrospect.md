@@ -1,1 +1,0 @@
-{"tmdb_id": 188028, "title": "Videograss: Retrospect", "original_title": "Videograss: Retrospect", "slug_title": "videograss-retrospect", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ryl3gR6IB5NWzPs65mzPkpZ8pmb.jpg", "actors": [], "comments": [], "recommandations_id": []}

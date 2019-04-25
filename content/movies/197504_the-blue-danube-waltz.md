@@ -1,1 +1,0 @@
-{"tmdb_id": 197504, "title": "The Blue Danube Waltz", "original_title": "K\u00e9k Duna kering\u00f6", "slug_title": "the-blue-danube-waltz", "date": "1992-05-30", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

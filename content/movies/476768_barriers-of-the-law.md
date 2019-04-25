@@ -1,1 +1,0 @@
-{"tmdb_id": 476768, "title": "Barriers of the Law", "original_title": "Barriers of the Law", "slug_title": "barriers-of-the-law", "date": "1925-03-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

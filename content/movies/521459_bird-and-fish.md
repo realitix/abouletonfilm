@@ -1,1 +1,0 @@
-{"tmdb_id": 521459, "title": "Bird and Fish", "original_title": "Bird and Fish", "slug_title": "bird-and-fish", "date": "2013-06-03", "genre": "Fantastique / Animation / Romance", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2jOvbpdcokP4UZUZ3ABFkD2I9cy.jpg", "actors": [], "comments": [], "recommandations_id": []}

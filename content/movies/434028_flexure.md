@@ -1,1 +1,0 @@
-{"tmdb_id": 434028, "title": "Flexure", "original_title": "Flexure", "slug_title": "flexure", "date": "2016-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wqFUv9Oh9UQOZxXbvIAU45Xv5xf.jpg", "actors": [], "comments": [], "recommandations_id": []}

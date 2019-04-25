@@ -1,1 +1,0 @@
-{"tmdb_id": 179681, "title": "Chub Chaser", "original_title": "Chub Chaser", "slug_title": "chub-chaser", "date": "2010-01-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nHAGFpP2thlMYT8Bl3vM3ZkGc7P.jpg", "actors": [], "comments": [], "recommandations_id": []}

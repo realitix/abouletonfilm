@@ -1,1 +1,0 @@
-{"tmdb_id": 47411, "title": "Citizen Boilesen", "original_title": "Cidad\u00e3o Boilesen", "slug_title": "citizen-boilesen", "date": "2009-11-27", "genre": "Documentaire", "score": "7.1/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4ePOEawWT3ivLIfaFlk1NlftcYS.jpg", "actors": [], "comments": [], "recommandations_id": []}

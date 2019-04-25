@@ -1,1 +1,0 @@
-{"tmdb_id": 582306, "title": "Assassin 33 A.D.", "original_title": "Assassin 33 A.D.", "slug_title": "assassin-33-a-d", "date": "", "genre": "Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

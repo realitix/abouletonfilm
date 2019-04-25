@@ -1,1 +1,0 @@
-{"tmdb_id": 435888, "title": "In the Land of Giants and Pygmies", "original_title": "In the Land of Giants and Pygmies", "slug_title": "in-the-land-of-giants-and-pygmies", "date": "1925-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 358716, "title": "Spaghetti Aza", "original_title": "Spaghetti Aza", "slug_title": "spaghetti-aza", "date": "1976-09-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t85s0RboVHTTP9h3cupiNM51xG3.jpg", "actors": ["Azazel Jacobs ()"], "comments": [], "recommandations_id": []}

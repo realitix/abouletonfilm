@@ -1,1 +1,0 @@
-{"tmdb_id": 435493, "title": "When She Was Bad...", "original_title": "When She Was Bad...", "slug_title": "when-she-was-bad", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

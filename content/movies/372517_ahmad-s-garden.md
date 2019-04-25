@@ -1,1 +1,0 @@
-{"tmdb_id": 372517, "title": "Ahmad's Garden", "original_title": "Ahmad's Garden", "slug_title": "ahmad-s-garden", "date": "2008-07-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Steve Mouzakis (Ahmad)"], "comments": [], "recommandations_id": []}

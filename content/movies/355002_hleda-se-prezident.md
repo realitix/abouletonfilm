@@ -1,1 +1,0 @@
-{"tmdb_id": 355002, "title": "Hled\u00e1 se prezident", "original_title": "Hled\u00e1 se prezident", "slug_title": "hleda-se-prezident", "date": "2013-03-21", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e4ge2IE1m9ZtNiSpKN1Im3jAzPs.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 555608, "title": "Among the Wild: The Arrowhead 135", "original_title": "Among the Wild: The Arrowhead 135", "slug_title": "among-the-wild-the-arrowhead-135", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iaXzZfbjMYFr5WJrniqkFeADnYt.jpg", "actors": [], "comments": [], "recommandations_id": []}

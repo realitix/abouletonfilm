@@ -1,1 +1,0 @@
-{"tmdb_id": 199778, "title": "Robert Mugabe... What Happened?", "original_title": "Robert Mugabe... What Happened?", "slug_title": "robert-mugabe-what-happened", "date": "2011-05-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gNeKZ9sZIzxBKeAFUtwQgtsSH4o.jpg", "actors": [], "comments": [], "recommandations_id": []}

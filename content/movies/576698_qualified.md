@@ -1,1 +1,0 @@
-{"tmdb_id": 576698, "title": "Qualified", "original_title": "Qualified", "slug_title": "qualified", "date": "2019-03-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Janet Guthrie (Herself)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 429454, "title": "My Cat gets an Aura Reading", "original_title": "My Cat gets an Aura Reading", "slug_title": "my-cat-gets-an-aura-reading", "date": "2011-08-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/llTshspDcTIzjNjeYT09RvVJ6Gu.jpg", "actors": [], "comments": [], "recommandations_id": []}

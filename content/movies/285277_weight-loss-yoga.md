@@ -1,1 +1,0 @@
-{"tmdb_id": 285277, "title": "Weight Loss Yoga", "original_title": "Weight Loss Yoga", "slug_title": "weight-loss-yoga", "date": "2011-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m96ZKxoTb8p3VeObr8AO7zg9P7p.jpg", "actors": ["Trudie Styler (Herself)"], "comments": [], "recommandations_id": []}

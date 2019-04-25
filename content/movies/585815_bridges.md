@@ -1,1 +1,0 @@
-{"tmdb_id": 585815, "title": "Bridges", "original_title": "Tiltai", "slug_title": "bridges", "date": "2015-11-13", "genre": "Drame / Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kEqV1Sug9MBZcsx4U9tKRRM2Edw.jpg", "actors": ["Clotilde Rigaud (Olivija)", "Gediminas Rimeika (Matas)"], "comments": [], "recommandations_id": []}

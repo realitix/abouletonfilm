@@ -1,1 +1,0 @@
-{"tmdb_id": 501402, "title": "The Death Train", "original_title": "The Death Train", "slug_title": "the-death-train", "date": "1998-11-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

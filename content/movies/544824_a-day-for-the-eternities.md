@@ -1,1 +1,0 @@
-{"tmdb_id": 544824, "title": "A Day for the Eternities", "original_title": "A Day for the Eternities", "slug_title": "a-day-for-the-eternities", "date": "2017-04-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/72oYlekk1iBivBHIQBmxueJ2en7.jpg", "actors": [], "comments": [], "recommandations_id": []}

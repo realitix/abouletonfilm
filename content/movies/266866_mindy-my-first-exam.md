@@ -1,1 +1,0 @@
-{"tmdb_id": 266866, "title": "Mindy - My First Exam", "original_title": "Mindy - My First Exam", "slug_title": "mindy-my-first-exam", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

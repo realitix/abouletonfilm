@@ -1,1 +1,0 @@
-{"tmdb_id": 367100, "title": "The Free Speech Apocalypse", "original_title": "The Free Speech Apocalypse", "slug_title": "the-free-speech-apocalypse", "date": "2015-11-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wqwVBHakwlbEtB0cBehpVwBeTUk.jpg", "actors": [], "comments": [], "recommandations_id": []}

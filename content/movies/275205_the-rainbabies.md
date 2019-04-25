@@ -1,1 +1,0 @@
-{"tmdb_id": 275205, "title": "The Rainbabies", "original_title": "The Rainbabies", "slug_title": "the-rainbabies", "date": "1998-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

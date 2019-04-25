@@ -1,1 +1,0 @@
-{"tmdb_id": 52059, "title": "The Gate of Heavenly Peace", "original_title": "The Gate of Heavenly Peace", "slug_title": "the-gate-of-heavenly-peace", "date": "1995-01-01", "genre": "Documentaire", "score": "7.4/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h5pKvDcSJSTGBV83uk3yhWjX23X.jpg", "actors": [], "comments": [], "recommandations_id": []}

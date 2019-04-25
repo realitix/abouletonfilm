@@ -1,1 +1,0 @@
-{"tmdb_id": 577734, "title": "Drive In", "original_title": "Drive In", "slug_title": "drive-in", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r8DGJzaKjEYiyrb0eRLhnc6z6bE.jpg", "actors": [], "comments": [], "recommandations_id": []}

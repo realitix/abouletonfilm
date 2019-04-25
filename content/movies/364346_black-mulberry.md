@@ -1,1 +1,0 @@
-{"tmdb_id": 364346, "title": "Black Mulberry", "original_title": "Shavi Tuta", "slug_title": "black-mulberry", "date": "2012-03-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7shIejQjugBmyOJ1jVXja9YxzR0.jpg", "actors": ["Maxime Machaidze ()", "Nata Beradze ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 293808, "title": "Reception", "original_title": "Reception", "slug_title": "reception", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

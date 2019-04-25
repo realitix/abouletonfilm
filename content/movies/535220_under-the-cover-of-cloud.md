@@ -1,1 +1,0 @@
-{"tmdb_id": 535220, "title": "Under the Cover of Cloud", "original_title": "Under the Cover of Cloud", "slug_title": "under-the-cover-of-cloud", "date": "2018-08-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7SJq0L7SOWk2tDPrwy7VH1YhNQP.jpg", "actors": [], "comments": [], "recommandations_id": []}

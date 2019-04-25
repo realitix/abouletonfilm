@@ -1,1 +1,0 @@
-{"tmdb_id": 354270, "title": "Backwards Birth of a Nation", "original_title": "Backwards Birth of a Nation", "slug_title": "backwards-birth-of-a-nation", "date": "2000-08-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

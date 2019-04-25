@@ -1,1 +1,0 @@
-{"tmdb_id": 272199, "title": "Edvard Munch: Special Edition (Part 1)", "original_title": "Edvard Munch: Special Edition (Part 1)", "slug_title": "edvard-munch-special-edition-part-1", "date": "1976-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

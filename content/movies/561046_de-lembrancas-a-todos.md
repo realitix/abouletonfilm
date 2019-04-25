@@ -1,1 +1,0 @@
-{"tmdb_id": 561046, "title": "D\u00ea Lembran\u00e7as a Todos", "original_title": "D\u00ea Lembran\u00e7as a Todos", "slug_title": "de-lembrancas-a-todos", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

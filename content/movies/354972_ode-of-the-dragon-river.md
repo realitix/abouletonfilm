@@ -1,1 +1,0 @@
-{"tmdb_id": 354972, "title": "Ode of the Dragon River", "original_title": "Longjiang", "slug_title": "ode-of-the-dragon-river", "date": "1972-01-01", "genre": "Musique", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kJIA8BJ87jZtBsQgkrOgUwS2tXh.jpg", "actors": [], "comments": [], "recommandations_id": []}

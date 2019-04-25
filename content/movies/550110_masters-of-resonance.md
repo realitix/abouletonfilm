@@ -1,1 +1,0 @@
-{"tmdb_id": 550110, "title": "Masters of Resonance", "original_title": "Masters of Resonance", "slug_title": "masters-of-resonance", "date": "2018-08-08", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e15dqF0uiILAUMxSfdjMp3WnFB0.jpg", "actors": [], "comments": [], "recommandations_id": []}

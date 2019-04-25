@@ -1,1 +1,0 @@
-{"tmdb_id": 325370, "title": "Masters of Stone III", "original_title": "Masters of Stone III", "slug_title": "masters-of-stone-iii", "date": "1994-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/epveqoQnQfZiCkbOxfpuKtcX71H.jpg", "actors": [], "comments": [], "recommandations_id": []}

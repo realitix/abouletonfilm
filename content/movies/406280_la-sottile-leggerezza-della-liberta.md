@@ -1,1 +1,0 @@
-{"tmdb_id": 406280, "title": "La sottile leggerezza della liberta", "original_title": "La sottile leggerezza della liberta", "slug_title": "la-sottile-leggerezza-della-liberta", "date": "1998-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

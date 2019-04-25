@@ -1,1 +1,0 @@
-{"tmdb_id": 310169, "title": "John & Faith Hubley: Art and Jazz in Animation", "original_title": "John & Faith Hubley: Art and Jazz in Animation", "slug_title": "john-faith-hubley-art-and-jazz-in-animation", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

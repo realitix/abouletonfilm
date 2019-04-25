@@ -1,1 +1,0 @@
-{"tmdb_id": 343785, "title": "Lost Paradise", "original_title": "Poteryannyy ray", "slug_title": "lost-paradise", "date": "2000-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

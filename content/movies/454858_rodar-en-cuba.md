@@ -1,1 +1,0 @@
-{"tmdb_id": 454858, "title": "Rodar en Cuba", "original_title": "Rodar en Cuba", "slug_title": "rodar-en-cuba", "date": "2003-01-01", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fbmqTNH9wrrnlAXK0sFJg0aPN13.jpg", "actors": ["Fernando P\u00e9rez ()"], "comments": [], "recommandations_id": []}

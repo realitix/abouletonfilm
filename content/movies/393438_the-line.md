@@ -1,1 +1,0 @@
-{"tmdb_id": 393438, "title": "The Line", "original_title": "Linia", "slug_title": "the-line", "date": "1981-01-01", "genre": "Myst\u00e8re", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fYMHOI1wQlixjnRtBr2lVHk7nIw.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 339098, "title": "Bloodsport", "original_title": "Bloodsport", "slug_title": "bloodsport", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

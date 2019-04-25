@@ -1,1 +1,0 @@
-{"tmdb_id": 322449, "title": "An Algorithm", "original_title": "An Algorithm", "slug_title": "an-algorithm", "date": "1977-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oPS3A8tCurulDwFa7KocWMOKywL.jpg", "actors": [], "comments": [], "recommandations_id": []}

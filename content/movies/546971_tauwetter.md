@@ -1,1 +1,0 @@
-{"tmdb_id": 546971, "title": "Tauwetter", "original_title": "Tauwetter", "slug_title": "tauwetter", "date": "1987-09-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

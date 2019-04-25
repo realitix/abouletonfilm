@@ -1,1 +1,0 @@
-{"tmdb_id": 542892, "title": "Twelve Pianos", "original_title": "Twelve Pianos", "slug_title": "twelve-pianos", "date": "2018-08-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2Ej7YVrhuDUKqJdy5BXGLwI4jZI.jpg", "actors": [], "comments": [], "recommandations_id": []}

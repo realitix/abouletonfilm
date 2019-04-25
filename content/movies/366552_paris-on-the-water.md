@@ -1,1 +1,0 @@
-{"tmdb_id": 366552, "title": "Paris on the Water", "original_title": "Paris on the Water", "slug_title": "paris-on-the-water", "date": "2014-05-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n0ENq2ucc8ijzSJtP63wP5GnHPu.jpg", "actors": ["Miryam Zohar ()", "Ilan Dar ()"], "comments": [], "recommandations_id": []}

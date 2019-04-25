@@ -1,1 +1,0 @@
-{"tmdb_id": 192222, "title": "L'Antique Tolede", "original_title": "L'Antique Tolede", "slug_title": "l-antique-tolede", "date": "1912-03-01", "genre": "", "score": "4.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

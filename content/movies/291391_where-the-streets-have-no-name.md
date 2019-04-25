@@ -1,1 +1,0 @@
-{"tmdb_id": 291391, "title": "Where the Streets Have No Name", "original_title": "Where the Streets Have No Name", "slug_title": "where-the-streets-have-no-name", "date": "2010-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 485154, "title": "KCBR - Live Life Like", "original_title": "KCBR - Live Life Like", "slug_title": "kcbr-live-life-like", "date": "2012-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

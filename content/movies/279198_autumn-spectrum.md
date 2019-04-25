@@ -1,1 +1,0 @@
-{"tmdb_id": 279198, "title": "Autumn Spectrum", "original_title": "Autumn Spectrum", "slug_title": "autumn-spectrum", "date": "1958-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

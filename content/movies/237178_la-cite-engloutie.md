@@ -1,1 +1,0 @@
-{"tmdb_id": 237178, "title": "La cit\u00e9 engloutie", "original_title": "La cit\u00e9 engloutie", "slug_title": "la-cite-engloutie", "date": "1947-11-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

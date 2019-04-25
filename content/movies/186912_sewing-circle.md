@@ -1,1 +1,0 @@
-{"tmdb_id": 186912, "title": "Sewing Circle", "original_title": "Sewing Circle", "slug_title": "sewing-circle", "date": "1992-01-01", "genre": "", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3B07IqnZMpIQVf7ZbpypF7RVfIE.jpg", "actors": ["Kembra Pfahler ()"], "comments": [], "recommandations_id": []}

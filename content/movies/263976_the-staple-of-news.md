@@ -1,1 +1,0 @@
-{"tmdb_id": 263976, "title": "The Staple of News", "original_title": "O Mercado de Not\u00edcias", "slug_title": "the-staple-of-news", "date": "2014-04-09", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fzEODW8eFF81oWIg8E6UQUgZLql.jpg", "actors": [], "comments": [], "recommandations_id": []}

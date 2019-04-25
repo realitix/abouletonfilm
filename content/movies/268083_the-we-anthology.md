@@ -1,1 +1,0 @@
-{"tmdb_id": 268083, "title": "The W\u00ea Anthology", "original_title": "The W\u00ea Anthology", "slug_title": "the-we-anthology", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

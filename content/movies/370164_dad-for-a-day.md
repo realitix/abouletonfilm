@@ -1,1 +1,0 @@
-{"tmdb_id": 370164, "title": "Dad for a Day", "original_title": "Dad for a Day", "slug_title": "dad-for-a-day", "date": "1939-10-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["George McFarland ()", "Carl Switzer ()", "Robert Blake ()", "Leonard 'Percy' Landy ()", "Billie Thomas ()"], "comments": [], "recommandations_id": []}

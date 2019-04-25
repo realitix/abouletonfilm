@@ -1,1 +1,0 @@
-{"tmdb_id": 250146, "title": "Calling E.T.", "original_title": "Calling E.T.", "slug_title": "calling-e-t", "date": "2008-11-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tWrvDD6sevlWvIWMHzt9kbhTtUH.jpg", "actors": [], "comments": [], "recommandations_id": []}

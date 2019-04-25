@@ -1,1 +1,0 @@
-{"tmdb_id": 382747, "title": "Commodity Traders", "original_title": "Traders: le march\u00e9 secret des mati\u00e8res premi\u00e8res", "slug_title": "commodity-traders", "date": "2014-01-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

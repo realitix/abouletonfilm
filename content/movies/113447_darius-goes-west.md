@@ -1,1 +1,0 @@
-{"tmdb_id": 113447, "title": "Darius Goes West", "original_title": "Darius Goes West", "slug_title": "darius-goes-west", "date": "2007-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1E5SunsLXef7lGux9UVvqTwVp8O.jpg", "actors": ["Michael Jackson (Himself)"], "comments": [], "recommandations_id": []}

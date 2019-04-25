@@ -1,1 +1,0 @@
-{"tmdb_id": 368428, "title": "Kvinnen og den svarte fuglen", "original_title": "Kvinnen og den svarte fuglen", "slug_title": "kvinnen-og-den-svarte-fuglen", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

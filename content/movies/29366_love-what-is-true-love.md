@@ -1,1 +1,0 @@
-{"tmdb_id": 29366, "title": "Love: What Is True Love", "original_title": "Love: What Is True Love", "slug_title": "love-what-is-true-love", "date": "2003-01-01", "genre": "Drame / Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

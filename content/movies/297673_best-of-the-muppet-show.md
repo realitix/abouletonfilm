@@ -1,1 +1,0 @@
-{"tmdb_id": 297673, "title": "Best of the Muppet Show", "original_title": "Best of the Muppet Show", "slug_title": "best-of-the-muppet-show", "date": "2002-09-03", "genre": "Familial", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5jz77jagkV8Rz3N03GJNWgFGFA5.jpg", "actors": [], "comments": [], "recommandations_id": []}

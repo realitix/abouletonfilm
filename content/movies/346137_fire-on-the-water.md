@@ -1,1 +1,0 @@
-{"tmdb_id": 346137, "title": "Fire on the Water", "original_title": "Fire on the Water", "slug_title": "fire-on-the-water", "date": "1982-09-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

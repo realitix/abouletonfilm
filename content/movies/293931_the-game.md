@@ -1,1 +1,0 @@
-{"tmdb_id": 293931, "title": "The Game", "original_title": "Le jeu", "slug_title": "the-game", "date": "1991-01-01", "genre": "Drame / Guerre", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g1fIYNPBUMypQaeS3OoP30BnSv4.jpg", "actors": [], "comments": [], "recommandations_id": []}

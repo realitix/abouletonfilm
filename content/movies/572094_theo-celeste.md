@@ -1,1 +1,0 @@
-{"tmdb_id": 572094, "title": "Theo & Celeste", "original_title": "Theo & Celeste", "slug_title": "theo-celeste", "date": "2018-06-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oPCzNQQwhxZU5xJlMzSewpm7nny.jpg", "actors": [], "comments": [], "recommandations_id": []}

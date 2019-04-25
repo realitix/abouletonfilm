@@ -1,1 +1,0 @@
-{"tmdb_id": 373863, "title": "P!nk: Live in Europe", "original_title": "P!nk: Live in Europe", "slug_title": "p-nk-live-in-europe", "date": "2006-06-07", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6tOtZxLn5Fw73rQIvy3kKRAYLYY.jpg", "actors": ["Pink ()"], "comments": [], "recommandations_id": []}

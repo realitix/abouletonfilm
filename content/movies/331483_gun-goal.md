@@ -1,1 +1,0 @@
-{"tmdb_id": 331483, "title": "Gun & Goal", "original_title": "Gun & Goal", "slug_title": "gun-goal", "date": "2015-04-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vcLuXmZ3EjU9b4F0ywijDZAsan2.jpg", "actors": [], "comments": [], "recommandations_id": []}

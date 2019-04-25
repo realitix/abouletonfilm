@@ -1,1 +1,0 @@
-{"tmdb_id": 86646, "title": "Thumbelina", "original_title": "Sekai Meisaku Douwa: Oyayubi Hime", "slug_title": "thumbelina", "date": "1978-03-18", "genre": "Familial / Animation", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8xQLFRasCFRuFQJxd7hpng97LEK.jpg", "actors": [], "comments": [], "recommandations_id": []}

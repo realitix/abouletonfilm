@@ -1,1 +1,0 @@
-{"tmdb_id": 561123, "title": "Tr\u00eas no Tri", "original_title": "Tr\u00eas no Tri", "slug_title": "tres-no-tri", "date": "2013-04-29", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

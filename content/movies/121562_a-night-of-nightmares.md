@@ -1,1 +1,0 @@
-{"tmdb_id": 121562, "title": "A Night of Nightmares", "original_title": "A Night of Nightmares", "slug_title": "a-night-of-nightmares", "date": "2012-07-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vPaC0WuyGZN1HZ77t4nMvOoFJ27.jpg", "actors": [], "comments": [], "recommandations_id": []}

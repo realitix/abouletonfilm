@@ -1,1 +1,0 @@
-{"tmdb_id": 55126, "title": "The Bittersweet Temptation", "original_title": "The Bittersweet Temptation", "slug_title": "the-bittersweet-temptation", "date": "2007-03-24", "genre": "Documentaire", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aZ3RSvUR6RFpGPW35fKyRfjS0j7.jpg", "actors": [], "comments": [], "recommandations_id": []}

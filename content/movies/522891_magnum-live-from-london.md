@@ -1,1 +1,0 @@
-{"tmdb_id": 522891, "title": "Magnum - Live from London", "original_title": "Magnum - Live from London", "slug_title": "magnum-live-from-london", "date": "1985-05-31", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vMKYisVk6LC2wdGADefetisdnZj.jpg", "actors": [], "comments": [], "recommandations_id": []}

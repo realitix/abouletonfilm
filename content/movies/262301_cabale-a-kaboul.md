@@ -1,1 +1,0 @@
-{"tmdb_id": 262301, "title": "Cabale \u00e0 Kaboul", "original_title": "Cabale \u00e0 Kaboul", "slug_title": "cabale-a-kaboul", "date": "2006-11-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yaM46ItabfWk19iLrdLSUqhLoXb.jpg", "actors": [], "comments": [], "recommandations_id": []}

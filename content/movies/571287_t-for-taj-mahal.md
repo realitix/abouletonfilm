@@ -1,1 +1,0 @@
-{"tmdb_id": 571287, "title": "T for Taj Mahal", "original_title": "T for Taj Mahal", "slug_title": "t-for-taj-mahal", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z6lCtIxBzWjAEzfPl9ZoVZyMj7T.jpg", "actors": [], "comments": [], "recommandations_id": []}

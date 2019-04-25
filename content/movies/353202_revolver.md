@@ -1,1 +1,0 @@
-{"tmdb_id": 353202, "title": "Revolver", "original_title": "H\u00e4r \u00e4r karusellen", "slug_title": "revolver", "date": "1993-01-01", "genre": "Animation", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9OoX3HBMlvaNamcQYuvJlQV0Bze.jpg", "actors": [], "comments": [], "recommandations_id": [174579, 94664]}

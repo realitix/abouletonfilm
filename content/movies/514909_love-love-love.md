@@ -1,1 +1,0 @@
-{"tmdb_id": 514909, "title": "Love. Love. Love.", "original_title": "Love. Love. Love.", "slug_title": "love-love-love", "date": "2013-07-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q9gYa7wL3ZPUOX32AH5jgXHKCoa.jpg", "actors": [], "comments": [], "recommandations_id": []}

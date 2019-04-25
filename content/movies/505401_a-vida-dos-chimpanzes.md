@@ -1,1 +1,0 @@
-{"tmdb_id": 505401, "title": "A Vida dos Chimpanz\u00e9s", "original_title": "A Vida dos Chimpanz\u00e9s", "slug_title": "a-vida-dos-chimpanzes", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

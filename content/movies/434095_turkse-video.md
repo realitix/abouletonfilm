@@ -1,1 +1,0 @@
-{"tmdb_id": 434095, "title": "Turkse Video", "original_title": "Turkse Video", "slug_title": "turkse-video", "date": "1984-10-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jZrFqxUaDPjTL9qD0CNRl1wVtXQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 586427, "title": "Destiny Pass", "original_title": "Unmei Toge", "slug_title": "destiny-pass", "date": "1993-01-01", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ken Matsudaira ()", "Isao Natsuyagi ()", "Ken Nishida ()", "Katsuhiko Watabiki ()"], "comments": [], "recommandations_id": []}

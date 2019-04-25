@@ -1,1 +1,0 @@
-{"tmdb_id": 301184, "title": "This African Life", "original_title": "This African Life", "slug_title": "this-african-life", "date": "2008-02-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 543543, "title": "The Diary", "original_title": "The Diary", "slug_title": "the-diary", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jaycee Chan (Fan)", "Andy Lau ()", "Kevin Kline ()", "Martina Stoessel ()", "Noah Centineo ()"], "comments": [], "recommandations_id": []}

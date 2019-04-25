@@ -1,1 +1,0 @@
-{"tmdb_id": 584952, "title": "The Construction", "original_title": "The Construction", "slug_title": "the-construction", "date": "1962-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3GqOjsaltKdeVM7A7H1naav8L1E.jpg", "actors": [], "comments": [], "recommandations_id": []}

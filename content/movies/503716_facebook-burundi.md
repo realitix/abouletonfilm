@@ -1,1 +1,0 @@
-{"tmdb_id": 503716, "title": "Facebook Burundi", "original_title": "Facebook Burundi", "slug_title": "facebook-burundi", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vUOKt94ELxStkHwar178RTFzEmu.jpg", "actors": [], "comments": [], "recommandations_id": []}

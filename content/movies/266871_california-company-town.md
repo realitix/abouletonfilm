@@ -1,1 +1,0 @@
-{"tmdb_id": 266871, "title": "California Company Town", "original_title": "California Company Town", "slug_title": "california-company-town", "date": "2008-09-22", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nSLGjzvl8HMbkGEnIXSxJ5ju96C.jpg", "actors": [], "comments": [], "recommandations_id": []}

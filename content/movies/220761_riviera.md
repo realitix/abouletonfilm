@@ -1,1 +1,0 @@
-{"tmdb_id": 220761, "title": "Riviera", "original_title": "Riviera", "slug_title": "riviera", "date": "1987-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Patrick Bauchau ()", "Elyssa Davalos ()", "Daniel Emilfork ()"], "comments": [], "recommandations_id": []}

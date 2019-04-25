@@ -1,1 +1,0 @@
-{"tmdb_id": 38888, "title": "Razorlight - This Is Razorlight", "original_title": "Razorlight - This Is Razorlight", "slug_title": "razorlight-this-is-razorlight", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

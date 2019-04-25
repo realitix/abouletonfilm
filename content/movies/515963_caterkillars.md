@@ -1,1 +1,0 @@
-{"tmdb_id": 515963, "title": "Caterkillars", "original_title": "Caterkillars", "slug_title": "caterkillars", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x1mo70frYxmYkvARgYCVUzZWNT5.jpg", "actors": [], "comments": [], "recommandations_id": []}

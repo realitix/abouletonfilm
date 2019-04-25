@@ -1,1 +1,0 @@
-{"tmdb_id": 173129, "title": "Golden Lotus: Love and Desire", "original_title": "Golden Lotus: Love and Desire", "slug_title": "golden-lotus-love-and-desire", "date": "1991-05-09", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/svqWJb8L2SajVXk3EyOPQ1csIqJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

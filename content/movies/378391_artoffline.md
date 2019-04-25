@@ -1,1 +1,0 @@
-{"tmdb_id": 378391, "title": "#artoffline", "original_title": "#artoffline", "slug_title": "artoffline", "date": "2015-09-23", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rVQRqHizGHMyIr1gVrNMq5korvW.jpg", "actors": [], "comments": [], "recommandations_id": []}

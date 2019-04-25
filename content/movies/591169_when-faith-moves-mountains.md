@@ -1,1 +1,0 @@
-{"tmdb_id": 591169, "title": "When Faith Moves Mountains", "original_title": "When Faith Moves Mountains", "slug_title": "when-faith-moves-mountains", "date": "2002-04-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 264018, "title": "St\u00f6rt-Knutte", "original_title": "St\u00f6rt-Knutte", "slug_title": "stort-knutte", "date": "1993-12-31", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

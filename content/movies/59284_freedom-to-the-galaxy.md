@@ -1,1 +1,0 @@
-{"tmdb_id": 59284, "title": "Freedom to the Galaxy", "original_title": "Freedom to the Galaxy", "slug_title": "freedom-to-the-galaxy", "date": "2010-09-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

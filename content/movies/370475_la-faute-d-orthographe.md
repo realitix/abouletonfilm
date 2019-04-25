@@ -1,1 +1,0 @@
-{"tmdb_id": 370475, "title": "La faute d'orthographe", "original_title": "La faute d'orthographe", "slug_title": "la-faute-d-orthographe", "date": "1918-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Charles Barrois ()", "Georges Mauloy ()", "Charles Dechamps ()"], "comments": [], "recommandations_id": []}

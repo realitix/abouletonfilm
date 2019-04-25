@@ -1,1 +1,0 @@
-{"tmdb_id": 325372, "title": "Rated R for Nudity", "original_title": "Rated R for Nudity", "slug_title": "rated-r-for-nudity", "date": "2011-01-01", "genre": "", "score": "5.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mZyVei0mede26YCCGT3PqyDBCvH.jpg", "actors": ["Macha Grenon ((voice))"], "comments": [], "recommandations_id": []}

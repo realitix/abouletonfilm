@@ -1,1 +1,0 @@
-{"tmdb_id": 377035, "title": "Messages, Messages", "original_title": "Messages, Messages", "slug_title": "messages-messages", "date": "1968-03-15", "genre": "Fantastique", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yDV7YIGsiW7BSkUAXE18mMUwxDd.jpg", "actors": [], "comments": [], "recommandations_id": []}

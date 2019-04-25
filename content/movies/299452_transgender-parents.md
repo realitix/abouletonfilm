@@ -1,1 +1,0 @@
-{"tmdb_id": 299452, "title": "Transgender Parents", "original_title": "Transgender Parents", "slug_title": "transgender-parents", "date": "2014-08-27", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3do0Xo1jJVt9NRHWbTzr3Zar7u9.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 375131, "title": "Petra: Farewell", "original_title": "Petra: Farewell", "slug_title": "petra-farewell", "date": "2006-03-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aMIcJLCHQTO8t8f7LtXtFi6ehui.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 527759, "title": "Kabir Azab\u0131", "original_title": "Kabir Azab\u0131", "slug_title": "kabir-azabi", "date": "2018-07-27", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vSPoarrbwSbxRqQzaym3CR1248f.jpg", "actors": [], "comments": [], "recommandations_id": []}

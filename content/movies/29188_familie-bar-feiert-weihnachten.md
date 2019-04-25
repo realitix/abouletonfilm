@@ -1,1 +1,0 @@
-{"tmdb_id": 29188, "title": "Familie B\u00e4r feiert Weihnachten", "original_title": "Familie B\u00e4r feiert Weihnachten", "slug_title": "familie-bar-feiert-weihnachten", "date": "2006-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

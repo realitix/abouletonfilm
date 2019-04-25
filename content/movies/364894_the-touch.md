@@ -1,1 +1,0 @@
-{"tmdb_id": 364894, "title": "The Touch", "original_title": "Dotkni\u0119cie", "slug_title": "the-touch", "date": "1978-01-01", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yhjc0xcc7PS912xuidLq9RyFw3m.jpg", "actors": ["Clive Harris (Himself)"], "comments": [], "recommandations_id": []}

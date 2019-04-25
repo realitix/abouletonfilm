@@ -1,1 +1,0 @@
-{"tmdb_id": 283528, "title": "Stealing Beauty", "original_title": "Stealing Beauty", "slug_title": "stealing-beauty", "date": "2007-07-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7tu7s2ZRDB9ljd8RL7iEJ2VBVvL.jpg", "actors": [], "comments": [], "recommandations_id": []}

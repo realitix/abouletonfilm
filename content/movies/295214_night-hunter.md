@@ -1,1 +1,0 @@
-{"tmdb_id": 295214, "title": "Night Hunter", "original_title": "Night Hunter", "slug_title": "night-hunter", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8FW444D4hprxCbwCdiboKTKnC8s.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 184347, "title": "Ecstatic Peace Archives", "original_title": "Ecstatic Peace Archives", "slug_title": "ecstatic-peace-archives", "date": "2010-04-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hNkee1DxzRfB4UVIbzDVMDrrA9w.jpg", "actors": ["Thurston Moore ()"], "comments": [], "recommandations_id": []}

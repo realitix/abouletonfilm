@@ -1,1 +1,0 @@
-{"tmdb_id": 593047, "title": "Alexander and Aishe", "original_title": "Alexander and Aishe", "slug_title": "alexander-and-aishe", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6fpcxuzZ2COPNTTKqSP7Wj7FDuW.jpg", "actors": [], "comments": [], "recommandations_id": []}

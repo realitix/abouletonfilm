@@ -1,1 +1,0 @@
-{"tmdb_id": 471129, "title": "Seduction of a Cyborg", "original_title": "Seduction of a Cyborg", "slug_title": "seduction-of-a-cyborg", "date": "1994-12-31", "genre": "Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Joanne Green Levine (Cyborg)"], "comments": [], "recommandations_id": []}

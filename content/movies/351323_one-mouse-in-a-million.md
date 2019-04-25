@@ -1,1 +1,0 @@
-{"tmdb_id": 351323, "title": "One Mouse in a Million", "original_title": "One Mouse in a Million", "slug_title": "one-mouse-in-a-million", "date": "1939-11-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

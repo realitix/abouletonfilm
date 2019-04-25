@@ -1,1 +1,0 @@
-{"tmdb_id": 550179, "title": "Bee Sting 2: Bear Sting", "original_title": "Bee Sting 2: Bear Sting", "slug_title": "bee-sting-2-bear-sting", "date": "", "genre": "", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b67XBhsUHUozV6co94O5xLC6PxM.jpg", "actors": [], "comments": [], "recommandations_id": []}

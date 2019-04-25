@@ -1,1 +1,0 @@
-{"tmdb_id": 254107, "title": "Les Mis\u00e9rables", "original_title": "Les Mis\u00e9rables", "slug_title": "les-miserables", "date": "1909-09-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

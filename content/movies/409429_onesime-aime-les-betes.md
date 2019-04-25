@@ -1,1 +1,0 @@
-{"tmdb_id": 409429, "title": "On\u00e9sime aime les b\u00eates", "original_title": "On\u00e9sime aime les b\u00eates", "slug_title": "onesime-aime-les-betes", "date": "1913-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ernest Bourbon (On\u00e9sime)", "Gaston Modot ()"], "comments": [], "recommandations_id": []}

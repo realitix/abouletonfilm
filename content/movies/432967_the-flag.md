@@ -1,1 +1,0 @@
-{"tmdb_id": 432967, "title": "The Flag", "original_title": "The Flag", "slug_title": "the-flag", "date": "2007-09-11", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fkqTc5ubaB3RNWCKXfNNYm4vvPt.jpg", "actors": [], "comments": [], "recommandations_id": []}

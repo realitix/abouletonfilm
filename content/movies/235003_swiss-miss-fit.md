@@ -1,1 +1,0 @@
-{"tmdb_id": 235003, "title": "Swiss Miss-Fit", "original_title": "Swiss Miss-Fit", "slug_title": "swiss-miss-fit", "date": "1957-12-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dh2wIce1bHZmKFGhvdPvCdCRyw7.jpg", "actors": ["Dal McKennon ((voices))"], "comments": [], "recommandations_id": []}

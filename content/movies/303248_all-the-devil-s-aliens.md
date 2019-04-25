@@ -1,1 +1,0 @@
-{"tmdb_id": 303248, "title": "All the Devil's Aliens", "original_title": "All the Devil's Aliens", "slug_title": "all-the-devil-s-aliens", "date": "2013-10-25", "genre": "", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

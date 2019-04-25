@@ -1,1 +1,0 @@
-{"tmdb_id": 366786, "title": "Peque\u00f1a revancha", "original_title": "Peque\u00f1a revancha", "slug_title": "pequena-revancha", "date": "1986-09-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ouuDNuvPeXLwgvaJNB70qTgulga.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 383054, "title": "The Puzzle of Human Skin", "original_title": "\u4eba\u76ae\u62fc\u56fe", "slug_title": "the-puzzle-of-human-skin", "date": "2015-09-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vcjXWlGgSOC6PSEwIL5L5vIlfTm.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 192298, "title": "The Public and Private Care of Infants", "original_title": "The Public and Private Care of Infants", "slug_title": "the-public-and-private-care-of-infants", "date": "1912-12-25", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 357696, "title": "50/96 Snapshots (For Bruce)", "original_title": "50/96 Snapshots (For Bruce)", "slug_title": "50-96-snapshots-for-bruce", "date": "1996-09-03", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yGVmXQGs2EE5apRxxDOt7OYchhl.jpg", "actors": [], "comments": [], "recommandations_id": []}

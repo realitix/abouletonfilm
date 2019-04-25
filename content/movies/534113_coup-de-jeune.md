@@ -1,1 +1,0 @@
-{"tmdb_id": 534113, "title": "Coup de jeune", "original_title": "Coup de jeune", "slug_title": "coup-de-jeune", "date": "1993-04-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fszQuDtbiMI0v5PUjyEFkPWV3FR.jpg", "actors": [], "comments": [], "recommandations_id": []}

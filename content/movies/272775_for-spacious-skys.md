@@ -1,1 +1,0 @@
-{"tmdb_id": 272775, "title": "For Spacious Skys", "original_title": "For Spacious Skys", "slug_title": "for-spacious-skys", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

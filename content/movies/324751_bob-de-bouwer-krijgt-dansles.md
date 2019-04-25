@@ -1,1 +1,0 @@
-{"tmdb_id": 324751, "title": "Bob De Bouwer Krijgt Dansles", "original_title": "Bob De Bouwer Krijgt Dansles", "slug_title": "bob-de-bouwer-krijgt-dansles", "date": "2005-01-19", "genre": "", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wSQYAdUBYLiVUwYk0jGgzzlIEyc.jpg", "actors": [], "comments": [], "recommandations_id": []}

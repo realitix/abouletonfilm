@@ -1,1 +1,0 @@
-{"tmdb_id": 154295, "title": "AC/DC: The Bon Scott Years", "original_title": "AC/DC: The Bon Scott Years", "slug_title": "ac-dc-the-bon-scott-years", "date": "2005-12-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aAq6mScj488zSAuBbR94pzYBWu4.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 56350, "title": "Jesus, You Know", "original_title": "Jesus, Du weisst", "slug_title": "jesus-you-know", "date": "2003-07-05", "genre": "Documentaire", "score": "7.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xSVj55zylvkGjOzEtIMgshdSBIw.jpg", "actors": [], "comments": [], "recommandations_id": []}

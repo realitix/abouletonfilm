@@ -1,1 +1,0 @@
-{"tmdb_id": 549421, "title": "Paradogma", "original_title": "Paradogma", "slug_title": "paradogma", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x2Iuowc92GIvgCLlMpxYPJXzmzP.jpg", "actors": [], "comments": [], "recommandations_id": []}

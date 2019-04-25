@@ -1,1 +1,0 @@
-{"tmdb_id": 94717, "title": "Meishi Street", "original_title": "Meishi Street", "slug_title": "meishi-street", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7l47b1gyDB6LdK7SpjzSbCwygrP.jpg", "actors": [], "comments": [], "recommandations_id": []}

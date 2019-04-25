@@ -1,1 +1,0 @@
-{"tmdb_id": 537910, "title": "Corners: Pepper Sauce", "original_title": "Corners: Pepper Sauce", "slug_title": "corners-pepper-sauce", "date": "2017-03-24", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Beit Nun ()", "Deeflux ()", "Benny Diction ()"], "comments": [], "recommandations_id": []}

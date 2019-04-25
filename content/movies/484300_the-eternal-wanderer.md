@@ -1,1 +1,0 @@
-{"tmdb_id": 484300, "title": "The Eternal Wanderer", "original_title": "Wieczny tu\u0142acz", "slug_title": "the-eternal-wanderer", "date": "2012-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

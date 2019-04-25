@@ -1,1 +1,0 @@
-{"tmdb_id": 478239, "title": "Ton Koopman plays Bach", "original_title": "Ton Koopman plays Bach", "slug_title": "ton-koopman-plays-bach", "date": "2004-06-28", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3aq3NKN5JJeDi9Fl9fW0Ln7gFec.jpg", "actors": ["Ton Koopman ()"], "comments": [], "recommandations_id": []}

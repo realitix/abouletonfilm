@@ -1,1 +1,0 @@
-{"tmdb_id": 542111, "title": "Hospital Nurse", "original_title": "Hospital Nurse", "slug_title": "hospital-nurse", "date": "1941-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

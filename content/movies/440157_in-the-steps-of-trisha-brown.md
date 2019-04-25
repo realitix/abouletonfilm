@@ -1,1 +1,0 @@
-{"tmdb_id": 440157, "title": "In the Steps of Trisha Brown", "original_title": "Dans les pas de Trisha Brown", "slug_title": "in-the-steps-of-trisha-brown", "date": "2016-07-13", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/57HaMHBhHuYZYLwlyMiXXmSbHX.jpg", "actors": [], "comments": [], "recommandations_id": []}

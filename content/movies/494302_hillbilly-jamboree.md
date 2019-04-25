@@ -1,1 +1,0 @@
-{"tmdb_id": 494302, "title": "Hillbilly Jamboree", "original_title": "Hillbilly Jamboree", "slug_title": "hillbilly-jamboree", "date": "1960-01-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Judy Canova ()", "Billy Strange ()", "Claire Brennan ()"], "comments": [], "recommandations_id": []}

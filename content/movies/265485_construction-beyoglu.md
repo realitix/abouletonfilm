@@ -1,1 +1,0 @@
-{"tmdb_id": 265485, "title": "Construction Beyo\u011flu", "original_title": "\u015eantiye Beyo\u011flu", "slug_title": "construction-beyoglu", "date": "2014-04-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

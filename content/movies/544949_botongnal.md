@@ -1,1 +1,0 @@
-{"tmdb_id": 544949, "title": "\ubcf4\ud1b5\ub0a0", "original_title": "\ubcf4\ud1b5\ub0a0", "slug_title": "botongnal", "date": "2011-12-28", "genre": "Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

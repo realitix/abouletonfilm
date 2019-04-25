@@ -1,1 +1,0 @@
-{"tmdb_id": 284568, "title": "Closure", "original_title": "Closure", "slug_title": "closure", "date": "2013-12-01", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xULl8qJ3aMe8P7MTZMCWYdzBmwr.jpg", "actors": ["Angela Tucker (as herself)"], "comments": [], "recommandations_id": []}

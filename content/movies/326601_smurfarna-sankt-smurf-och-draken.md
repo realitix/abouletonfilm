@@ -1,1 +1,0 @@
-{"tmdb_id": 326601, "title": "Smurfarna - Sankt smurf och draken", "original_title": "Smurfarna - Sankt smurf och draken", "slug_title": "smurfarna-sankt-smurf-och-draken", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

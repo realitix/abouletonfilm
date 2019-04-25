@@ -1,1 +1,0 @@
-{"tmdb_id": 48592, "title": "The Making of 'The Passion of the Christ'", "original_title": "The Making of 'The Passion of the Christ'", "slug_title": "the-making-of-the-passion-of-the-christ", "date": "2004-02-22", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

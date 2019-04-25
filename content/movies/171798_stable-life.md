@@ -1,1 +1,0 @@
-{"tmdb_id": 171798, "title": "Stable Life", "original_title": "Stable Life", "slug_title": "stable-life", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 504508, "title": "The 26th Annual 2018 Bounce Trumpet Awards", "original_title": "The 26th Annual 2018 Bounce Trumpet Awards", "slug_title": "the-26th-annual-2018-bounce-trumpet-awards", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

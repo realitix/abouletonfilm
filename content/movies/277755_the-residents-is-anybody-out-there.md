@@ -1,1 +1,0 @@
-{"tmdb_id": 277755, "title": "The Residents: Is Anybody Out There?", "original_title": "The Residents: Is Anybody Out There?", "slug_title": "the-residents-is-anybody-out-there", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

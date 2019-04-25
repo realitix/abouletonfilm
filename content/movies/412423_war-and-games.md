@@ -1,1 +1,0 @@
-{"tmdb_id": 412423, "title": "War and Games", "original_title": "Krieg und Spiele", "slug_title": "war-and-games", "date": "2016-08-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qAaPM5eHZ4N7V9hnBNlfjIltRXG.jpg", "actors": [], "comments": [], "recommandations_id": []}

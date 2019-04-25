@@ -1,1 +1,0 @@
-{"tmdb_id": 565206, "title": "Texture of Decay", "original_title": "Texture of Decay", "slug_title": "texture-of-decay", "date": "1957-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

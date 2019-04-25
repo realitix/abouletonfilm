@@ -1,1 +1,0 @@
-{"tmdb_id": 502326, "title": "The Twenty-First", "original_title": "Dwudziesta pierwsza", "slug_title": "the-twenty-first", "date": "1964-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

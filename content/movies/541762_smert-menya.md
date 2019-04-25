@@ -1,1 +1,0 @@
-{"tmdb_id": 541762, "title": "Smert Menya", "original_title": "Smert Menya", "slug_title": "smert-menya", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

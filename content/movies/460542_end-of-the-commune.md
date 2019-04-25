@@ -1,1 +1,0 @@
-{"tmdb_id": 460542, "title": "End of the Commune", "original_title": "End of the Commune", "slug_title": "end-of-the-commune", "date": "1970-06-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

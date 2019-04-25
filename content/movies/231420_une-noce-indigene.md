@@ -1,1 +1,0 @@
-{"tmdb_id": 231420, "title": "Une noce indig\u00e8ne", "original_title": "Une noce indig\u00e8ne", "slug_title": "une-noce-indigene", "date": "1904-10-30", "genre": "", "score": "5.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

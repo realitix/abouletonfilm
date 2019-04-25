@@ -1,1 +1,0 @@
-{"tmdb_id": 459597, "title": "Baby Bible Bashers", "original_title": "Baby Bible Bashers", "slug_title": "baby-bible-bashers", "date": "2008-02-14", "genre": "Documentaire", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lM0Lxlo2Cio6iLQp9jZcOObtF7Z.jpg", "actors": ["Steven Cree (Narrator)"], "comments": [], "recommandations_id": []}

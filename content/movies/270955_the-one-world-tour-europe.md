@@ -1,1 +1,0 @@
-{"tmdb_id": 270955, "title": "The One World Tour: Europe!", "original_title": "The One World Tour: Europe!", "slug_title": "the-one-world-tour-europe", "date": "2010-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/34bkbfwX5lUgaaQtPKO5JLcF6ic.jpg", "actors": [], "comments": [], "recommandations_id": []}

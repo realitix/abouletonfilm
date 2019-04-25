@@ -1,1 +1,0 @@
-{"tmdb_id": 264631, "title": "King of the Gypsies", "original_title": "King of the Gypsies", "slug_title": "king-of-the-gypsies", "date": "1995-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8DXPvGNQIobwx964GxfbIyqdKbJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

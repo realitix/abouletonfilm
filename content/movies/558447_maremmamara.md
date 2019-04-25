@@ -1,1 +1,0 @@
-{"tmdb_id": 558447, "title": "Maremmamara", "original_title": "Maremmamara", "slug_title": "maremmamara", "date": "2016-10-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Graziella Andreucci (Sara's mum)", "Romano Andreucci (Sara's dad)", "Andrea Bacarelli (Pharmacist)"], "comments": [], "recommandations_id": []}

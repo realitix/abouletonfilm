@@ -1,1 +1,0 @@
-{"tmdb_id": 412089, "title": "Love Affair: A Secret Affair", "original_title": "Love Affair: A Secret Affair", "slug_title": "love-affair-a-secret-affair", "date": "2016-08-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9bEiHFJ5Py3qKTHFUcj2Dhg6Xbe.jpg", "actors": [], "comments": [], "recommandations_id": []}

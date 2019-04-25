@@ -1,1 +1,0 @@
-{"tmdb_id": 277015, "title": "Bharat Bhagya Vidhata", "original_title": "Bharat Bhagya Vidhata", "slug_title": "bharat-bhagya-vidhata", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

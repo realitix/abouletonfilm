@@ -1,1 +1,0 @@
-{"tmdb_id": 153238, "title": "Battle Sounds", "original_title": "Battle Sounds", "slug_title": "battle-sounds", "date": "1997-03-01", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/okEOrJfIH5UTToLHzgMNhkiVQZk.jpg", "actors": [], "comments": [], "recommandations_id": []}

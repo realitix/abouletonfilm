@@ -1,1 +1,0 @@
-{"tmdb_id": 509793, "title": "Brokeback Mountain", "original_title": "Brokeback Mountain", "slug_title": "brokeback-mountain", "date": "2014-02-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vs6jpGlygMAAnifyEmst9S90mQe.jpg", "actors": [], "comments": [], "recommandations_id": []}

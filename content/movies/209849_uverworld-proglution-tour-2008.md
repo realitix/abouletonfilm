@@ -1,1 +1,0 @@
-{"tmdb_id": 209849, "title": "UVERworld Proglution Tour 2008", "original_title": "UVERworld Proglution Tour 2008", "slug_title": "uverworld-proglution-tour-2008", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

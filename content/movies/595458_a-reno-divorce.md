@@ -1,1 +1,0 @@
-{"tmdb_id": 595458, "title": "A Reno Divorce", "original_title": "A Reno Divorce", "slug_title": "a-reno-divorce", "date": "1927-10-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2D8jkWn8rpnsepwmRA1sZeGR5J.jpg", "actors": [], "comments": [], "recommandations_id": []}

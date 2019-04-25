@@ -1,1 +1,0 @@
-{"tmdb_id": 389807, "title": "Nadie Canta Sobre Viejas", "original_title": "Nadie Canta Sobre Viejas", "slug_title": "nadie-canta-sobre-viejas", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

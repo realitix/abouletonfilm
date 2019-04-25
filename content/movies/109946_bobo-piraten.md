@@ -1,1 +1,0 @@
-{"tmdb_id": 109946, "title": "Bobo - Piraten", "original_title": "Bobo - Piraten", "slug_title": "bobo-piraten", "date": "2005-01-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2Owdo9LZg0elaQ1lPc3xWzyj4Rh.jpg", "actors": [], "comments": [], "recommandations_id": []}

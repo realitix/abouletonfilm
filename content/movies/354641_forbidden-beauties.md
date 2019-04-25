@@ -1,1 +1,0 @@
-{"tmdb_id": 354641, "title": "Forbidden Beauties", "original_title": "Veneri proibite", "slug_title": "forbidden-beauties", "date": "1964-05-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 202602, "title": "Unfinished Comedy", "original_title": "Wiewnacheng de xiju", "slug_title": "unfinished-comedy", "date": "1957-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1kN9g15jE0yTjeqb0UvnPApjTvD.jpg", "actors": ["Hua Fang ()"], "comments": [], "recommandations_id": []}

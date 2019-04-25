@@ -1,1 +1,0 @@
-{"tmdb_id": 302989, "title": "Moonrockers", "original_title": "Moonrockers", "slug_title": "moonrockers", "date": "2013-12-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

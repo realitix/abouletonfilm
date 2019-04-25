@@ -1,1 +1,0 @@
-{"tmdb_id": 556896, "title": "Princesa Morta do Jacu\u00ed", "original_title": "Princesa Morta do Jacu\u00ed", "slug_title": "princesa-morta-do-jacui", "date": "2018-11-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ibKqScZhRgLRvfy5eF1wQLTljNa.jpg", "actors": [], "comments": [], "recommandations_id": []}

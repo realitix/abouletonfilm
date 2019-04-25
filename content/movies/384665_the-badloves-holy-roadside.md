@@ -1,1 +1,0 @@
-{"tmdb_id": 384665, "title": "The Badloves: Holy Roadside", "original_title": "The Badloves: Holy Roadside", "slug_title": "the-badloves-holy-roadside", "date": "1995-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wf01lmLqtbZ9XelYkyKIR0jVELu.jpg", "actors": [], "comments": [], "recommandations_id": []}

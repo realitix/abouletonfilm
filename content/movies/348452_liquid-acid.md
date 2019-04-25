@@ -1,1 +1,0 @@
-{"tmdb_id": 348452, "title": "Liquid Acid", "original_title": "Liquid Acid", "slug_title": "liquid-acid", "date": "2000-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 564101, "title": "Et qu'\u00e7a saute!", "original_title": "Et qu'\u00e7a saute!", "slug_title": "et-qu-ca-saute", "date": "1970-09-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bLPHraIS6VIhzUDl135SVox4X4Y.jpg", "actors": [], "comments": [], "recommandations_id": []}

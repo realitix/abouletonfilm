@@ -1,1 +1,0 @@
-{"tmdb_id": 564454, "title": "Tarzan Comes to Delhi", "original_title": "Tarzan Comes to Delhi", "slug_title": "tarzan-comes-to-delhi", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

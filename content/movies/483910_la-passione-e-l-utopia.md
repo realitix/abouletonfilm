@@ -1,1 +1,0 @@
-{"tmdb_id": 483910, "title": "La passione e l'utopia", "original_title": "La passione e l'utopia", "slug_title": "la-passione-e-l-utopia", "date": "2015-10-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bFNhUckQNmHGtUqrYl4oAPP4fz3.jpg", "actors": [], "comments": [], "recommandations_id": []}

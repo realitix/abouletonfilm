@@ -1,1 +1,0 @@
-{"tmdb_id": 346157, "title": "We were Rebels", "original_title": "We were Rebels", "slug_title": "we-were-rebels", "date": "2014-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wYIL4gyXGe8PV7KtmPHTIq83Hp2.jpg", "actors": [], "comments": [], "recommandations_id": []}

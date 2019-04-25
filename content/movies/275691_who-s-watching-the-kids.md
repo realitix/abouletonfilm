@@ -1,1 +1,0 @@
-{"tmdb_id": 275691, "title": "Who's Watching the Kids?", "original_title": "Who's Watching the Kids?", "slug_title": "who-s-watching-the-kids", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

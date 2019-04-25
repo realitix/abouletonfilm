@@ -1,1 +1,0 @@
-{"tmdb_id": 307139, "title": "Jonas: The Quest", "original_title": "Jonas: The Quest", "slug_title": "jonas-the-quest", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1y8LbuMoZDL5sJu37BDAz8mlAqw.jpg", "actors": [], "comments": [], "recommandations_id": []}

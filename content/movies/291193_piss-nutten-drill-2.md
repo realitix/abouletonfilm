@@ -1,1 +1,0 @@
-{"tmdb_id": 291193, "title": "Piss-Nutten Drill 2", "original_title": "Piss-Nutten Drill 2", "slug_title": "piss-nutten-drill-2", "date": "2009-12-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jana Bach ()", "Gundula ()", "Dani Sun ()", "Markus Waxenegger ()"], "comments": [], "recommandations_id": []}

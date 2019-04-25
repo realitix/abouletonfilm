@@ -1,1 +1,0 @@
-{"tmdb_id": 426988, "title": "Interlude", "original_title": "Interlude", "slug_title": "interlude", "date": "2005-02-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8tOfjQwygIkzL1peizCR58jDoY9.jpg", "actors": [], "comments": [], "recommandations_id": []}

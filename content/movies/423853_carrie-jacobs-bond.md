@@ -1,1 +1,0 @@
-{"tmdb_id": 423853, "title": "Carrie Jacobs-Bond", "original_title": "Carrie Jacobs-Bond", "slug_title": "carrie-jacobs-bond", "date": "1933-11-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Edwin C. Hill (Narrator)", "Carrie Jacobs Bond (Carrie Jacobs Bond)", "Ralph Kirbery (Singer)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 592882, "title": "Little Figures", "original_title": "Little Figures", "slug_title": "little-figures", "date": "2003-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

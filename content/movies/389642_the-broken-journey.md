@@ -1,1 +1,0 @@
-{"tmdb_id": 389642, "title": "The Broken Journey", "original_title": "Uttoran", "slug_title": "the-broken-journey", "date": "1994-03-24", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fpRthvXjO0HU9JOfbzJJOAFuYnT.jpg", "actors": [], "comments": [], "recommandations_id": []}

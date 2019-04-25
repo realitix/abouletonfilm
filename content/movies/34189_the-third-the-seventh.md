@@ -1,1 +1,0 @@
-{"tmdb_id": 34189, "title": "The Third & The Seventh", "original_title": "The Third & The Seventh", "slug_title": "the-third-the-seventh", "date": "2009-11-29", "genre": "", "score": "9.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/snPaDiOh9NaaHgV6AF5h6EFhCPM.png", "actors": [], "comments": [], "recommandations_id": []}

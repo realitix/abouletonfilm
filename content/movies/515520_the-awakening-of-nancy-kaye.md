@@ -1,1 +1,0 @@
-{"tmdb_id": 515520, "title": "The Awakening of Nancy Kaye", "original_title": "The Awakening of Nancy Kaye", "slug_title": "the-awakening-of-nancy-kaye", "date": "1986-03-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Nancy Kaye (Herself)"], "comments": [], "recommandations_id": []}

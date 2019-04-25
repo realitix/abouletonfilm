@@ -1,1 +1,0 @@
-{"tmdb_id": 291538, "title": "Pride of Place", "original_title": "Pride of Place", "slug_title": "pride-of-place", "date": "1976-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4Bi1ONsTJb8FvRWsi6837wGLQM3.jpg", "actors": [], "comments": [], "recommandations_id": []}

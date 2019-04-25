@@ -1,1 +1,0 @@
-{"tmdb_id": 196770, "title": "The Shadow of My Father", "original_title": "The Shadow of My Father", "slug_title": "the-shadow-of-my-father", "date": "2006-11-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 421067, "title": "Antechamber", "original_title": "Antechamber", "slug_title": "antechamber", "date": "2008-10-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5eGzDF0RRjJjprVmuPpVmgFyrJ8.jpg", "actors": [], "comments": [], "recommandations_id": []}

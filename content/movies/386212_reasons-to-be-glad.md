@@ -1,1 +1,0 @@
-{"tmdb_id": 386212, "title": "Reasons to Be Glad", "original_title": "Reasons to Be Glad", "slug_title": "reasons-to-be-glad", "date": "1980-01-01", "genre": "Animation", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vprYwBA3UOcabk89VzLPFJI64H4.jpg", "actors": [], "comments": [], "recommandations_id": []}

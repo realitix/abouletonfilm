@@ -1,1 +1,0 @@
-{"tmdb_id": 503454, "title": "Ville nouvelle: La forme de la ville", "original_title": "Ville nouvelle: La forme de la ville", "slug_title": "ville-nouvelle-la-forme-de-la-ville", "date": "1975-02-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 575956, "title": "Amalfi Way", "original_title": "Amalfi Way", "slug_title": "amalfi-way", "date": "1955-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["John P. Costello (Narrator (voice))"], "comments": [], "recommandations_id": []}

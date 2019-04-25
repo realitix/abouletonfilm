@@ -1,1 +1,0 @@
-{"tmdb_id": 442967, "title": "Last Days of Leningrad", "original_title": "Last Days of Leningrad", "slug_title": "last-days-of-leningrad", "date": "2017-01-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

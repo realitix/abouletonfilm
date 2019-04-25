@@ -1,1 +1,0 @@
-{"tmdb_id": 311995, "title": "Tupac: So Many Years, So Many Tears", "original_title": "Tupac: So Many Years, So Many Tears", "slug_title": "tupac-so-many-years-so-many-tears", "date": "2006-06-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tupac Amaru Shakur (2Pac)"], "comments": [], "recommandations_id": []}

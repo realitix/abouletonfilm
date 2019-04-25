@@ -1,1 +1,0 @@
-{"tmdb_id": 571010, "title": "Blind Spot", "original_title": "La poudre aux yeux", "slug_title": "blind-spot", "date": "1995-01-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vkyf2GqGgHCjj7br5p536hJC710.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 122584, "title": "Chass\u00e9-crois\u00e9", "original_title": "Chass\u00e9-crois\u00e9", "slug_title": "chasse-croise", "date": "2002-06-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Guy Tran ()", "Quang Luciardi ()", "\u00c9lodie Chanut ()", "Xavier St\u00e9vignon ()"], "comments": [], "recommandations_id": []}

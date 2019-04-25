@@ -1,1 +1,0 @@
-{"tmdb_id": 344814, "title": "Gjensyn med jungelfolket", "original_title": "Gjensyn med jungelfolket", "slug_title": "gjensyn-med-jungelfolket", "date": "1950-11-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 461504, "title": "Seasons", "original_title": "Seasons", "slug_title": "seasons", "date": "1987-06-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/40L4sqFmAKGxensc8F0Nv5aiTG9.jpg", "actors": ["William Shatner (Narrator (voice))"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 332993, "title": "Demolition", "original_title": "Demolition", "slug_title": "demolition", "date": "2008-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2dUX1J5OHe0hNL1NqoearckGmEc.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 537906, "title": "Nature, Morte.", "original_title": "Nature, Morte.", "slug_title": "nature-morte", "date": "2018-07-22", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jean-Simon Leduc (Eric)", "Sandrine Quynh (Emma)"], "comments": [], "recommandations_id": []}

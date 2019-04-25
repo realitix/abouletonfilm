@@ -1,1 +1,0 @@
-{"tmdb_id": 81238, "title": "Pellaina Kothalo", "original_title": "Pellaina Kothalo", "slug_title": "pellaina-kothalo", "date": "2006-12-08", "genre": "Drame / Romance / Familial", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5kZBszdbccrkHGCLHLrreJfDv3f.jpg", "actors": [], "comments": [], "recommandations_id": []}

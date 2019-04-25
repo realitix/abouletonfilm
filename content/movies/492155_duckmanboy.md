@@ -1,1 +1,0 @@
-{"tmdb_id": 492155, "title": "DuckManBoy", "original_title": "DuckManBoy", "slug_title": "duckmanboy", "date": "2015-12-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xSObiIJOrjQQjairKLgMEzt8SNM.jpg", "actors": [], "comments": [], "recommandations_id": []}

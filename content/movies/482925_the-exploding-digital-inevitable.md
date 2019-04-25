@@ -1,1 +1,0 @@
-{"tmdb_id": 482925, "title": "The Exploding Digital Inevitable", "original_title": "The Exploding Digital Inevitable", "slug_title": "the-exploding-digital-inevitable", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

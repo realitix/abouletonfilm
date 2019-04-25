@@ -1,1 +1,0 @@
-{"tmdb_id": 301688, "title": "Le Moulin Rouge: The Cabaret of Life", "original_title": "Le Moulin Rouge: The Cabaret of Life", "slug_title": "le-moulin-rouge-the-cabaret-of-life", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

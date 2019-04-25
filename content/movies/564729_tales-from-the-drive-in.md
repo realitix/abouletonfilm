@@ -1,1 +1,0 @@
-{"tmdb_id": 564729, "title": "Tales from the Drive-In", "original_title": "Tales from the Drive-In", "slug_title": "tales-from-the-drive-in", "date": "2018-11-20", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p7ZLBZEYqBZnhHVAkVHppNwNMhp.jpg", "actors": [], "comments": [], "recommandations_id": []}

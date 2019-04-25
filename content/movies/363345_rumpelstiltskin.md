@@ -1,1 +1,0 @@
-{"tmdb_id": 363345, "title": "Rumpelstiltskin", "original_title": "Rumpelstiltskin", "slug_title": "rumpelstiltskin", "date": "1985-12-14", "genre": "", "score": "1.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

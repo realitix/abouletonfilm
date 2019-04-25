@@ -1,1 +1,0 @@
-{"tmdb_id": 234475, "title": "Gesicht des Bahnhofs", "original_title": "Gesicht des Bahnhofs", "slug_title": "gesicht-des-bahnhofs", "date": "1962-11-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

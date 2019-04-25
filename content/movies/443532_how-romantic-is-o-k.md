@@ -1,1 +1,0 @@
-{"tmdb_id": 443532, "title": "How Romantic Is O.K.", "original_title": "How Romantic Is O.K.", "slug_title": "how-romantic-is-o-k", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

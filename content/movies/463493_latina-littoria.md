@@ -1,1 +1,0 @@
-{"tmdb_id": 463493, "title": "Latina/Littoria", "original_title": "Latina/Littoria", "slug_title": "latina-littoria", "date": "2001-11-21", "genre": "Documentaire", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

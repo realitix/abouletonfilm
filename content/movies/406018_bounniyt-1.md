@@ -1,1 +1,0 @@
-{"tmdb_id": 406018, "title": "Bounniyt 1", "original_title": "Bounniyt 1", "slug_title": "bounniyt-1", "date": "", "genre": "", "score": "0.0/10", "synopsis": "Disco Vision", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zjVrnUWGOT2IOU8QvM5W0nfYFsi.jpg", "actors": [], "comments": [], "recommandations_id": []}

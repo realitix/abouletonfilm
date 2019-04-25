@@ -1,1 +1,0 @@
-{"tmdb_id": 565761, "title": "The Paper Roses", "original_title": "The Paper Roses", "slug_title": "the-paper-roses", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

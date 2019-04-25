@@ -1,1 +1,0 @@
-{"tmdb_id": 476822, "title": "Du und die Drei", "original_title": "Du und die Drei", "slug_title": "du-und-die-drei", "date": "1942-01-02", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jcazhqasbLCtDWdXuQd93iRiWE7.jpg", "actors": [], "comments": [], "recommandations_id": []}

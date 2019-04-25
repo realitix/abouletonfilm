@@ -1,1 +1,0 @@
-{"tmdb_id": 496095, "title": "The Mission of Raoul Wallenberg", "original_title": "The Mission of Raoul Wallenberg", "slug_title": "the-mission-of-raoul-wallenberg", "date": "1990-01-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

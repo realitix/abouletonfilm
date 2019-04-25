@@ -1,1 +1,0 @@
-{"tmdb_id": 511066, "title": "The Photographer", "original_title": "The Photographer", "slug_title": "the-photographer", "date": "2017-05-13", "genre": "Drame / Myst\u00e8re", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 357468, "title": "Je vous salue Marielle", "original_title": "Je vous salue Marielle", "slug_title": "je-vous-salue-marielle", "date": "2013-10-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jean-Pierre Marielle (Himself)"], "comments": [], "recommandations_id": []}

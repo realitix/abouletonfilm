@@ -1,1 +1,0 @@
-{"tmdb_id": 161606, "title": "Time on My Hands", "original_title": "Time on My Hands", "slug_title": "time-on-my-hands", "date": "1932-12-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

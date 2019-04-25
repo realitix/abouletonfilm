@@ -1,1 +1,0 @@
-{"tmdb_id": 139181, "title": "Beekeeper's Scrapbook", "original_title": "Ko\u0161nice pune smeha", "slug_title": "beekeeper-s-scrapbook", "date": "1958-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

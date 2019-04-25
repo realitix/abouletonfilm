@@ -1,1 +1,0 @@
-{"tmdb_id": 458711, "title": "The Provider", "original_title": "The Provider", "slug_title": "the-provider", "date": "2015-01-01", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8Knhb4LKtReAowz2BM0rRv6w2aq.jpg", "actors": [], "comments": [], "recommandations_id": []}

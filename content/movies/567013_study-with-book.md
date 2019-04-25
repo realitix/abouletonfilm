@@ -1,1 +1,0 @@
-{"tmdb_id": 567013, "title": "Study with book", "original_title": "Study with book", "slug_title": "study-with-book", "date": "2017-07-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

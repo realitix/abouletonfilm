@@ -1,1 +1,0 @@
-{"tmdb_id": 312496, "title": "The Paul Mesner Puppets: Wiley and the Hairy Man", "original_title": "The Paul Mesner Puppets: Wiley and the Hairy Man", "slug_title": "the-paul-mesner-puppets-wiley-and-the-hairy-man", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 93485, "title": "Kunstraum Remise", "original_title": "Remise", "slug_title": "kunstraum-remise", "date": "1993-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qylxRCJkQOLXZVcL5eLo9kmDrLk.jpg", "actors": [], "comments": [], "recommandations_id": []}

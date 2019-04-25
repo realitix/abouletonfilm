@@ -1,1 +1,0 @@
-{"tmdb_id": 556994, "title": "The Champion Cook", "original_title": "Le cordon bleu", "slug_title": "the-champion-cook", "date": "1932-01-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

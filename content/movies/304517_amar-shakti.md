@@ -1,1 +1,0 @@
-{"tmdb_id": 304517, "title": "Amar Shakti", "original_title": "Amar Shakti", "slug_title": "amar-shakti", "date": "1978-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Shashi Kapoor ()", "Shatrughan Sinha ()", "Jeevan ()", "Om Shivpuri ()", "Pradeep Kumar ()", "Ranjeet ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 410339, "title": "Bombai ka babu", "original_title": "Bombai ka babu", "slug_title": "bombai-ka-babu", "date": "1960-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5L6yBvGwL9Fa0NJq1jw1wg63A55.jpg", "actors": ["Dev Anand ()", "Suchitra Sen ()", "Jeevan ()"], "comments": [], "recommandations_id": []}

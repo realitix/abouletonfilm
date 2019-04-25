@@ -1,1 +1,0 @@
-{"tmdb_id": 377071, "title": "Te amo y morite", "original_title": "Te amo y morite", "slug_title": "te-amo-y-morite", "date": "2009-01-11", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aJcQS4eIVUvARWLlLecFKwVa5Lk.jpg", "actors": ["Ignacio Rogers ()"], "comments": [], "recommandations_id": []}

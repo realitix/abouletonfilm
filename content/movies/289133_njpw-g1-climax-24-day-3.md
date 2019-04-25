@@ -1,1 +1,0 @@
-{"tmdb_id": 289133, "title": "NJPW G1 Climax 24 - Day 3", "original_title": "NJPW G1 Climax 24 - Day 3", "slug_title": "njpw-g1-climax-24-day-3", "date": "2014-07-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/67tnsTPkAqovZ7BYlnMV0fFv9e2.jpg", "actors": [], "comments": [], "recommandations_id": []}

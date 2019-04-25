@@ -1,1 +1,0 @@
-{"tmdb_id": 383271, "title": "Channo Kamli Yaar Di", "original_title": "Channo Kamli Yaar Di", "slug_title": "channo-kamli-yaar-di", "date": "2016-02-19", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eZLEf6i5DDUN1klDrFNaADTG2Sj.jpg", "actors": [], "comments": [], "recommandations_id": []}

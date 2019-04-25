@@ -1,1 +1,0 @@
-{"tmdb_id": 143700, "title": "In the Beginning: Moses and Pharaoh", "original_title": "In the Beginning: Moses and Pharaoh", "slug_title": "in-the-beginning-moses-and-pharaoh", "date": "1992-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

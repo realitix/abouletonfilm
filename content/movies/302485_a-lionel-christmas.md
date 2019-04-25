@@ -1,1 +1,0 @@
-{"tmdb_id": 302485, "title": "A Lionel Christmas", "original_title": "A Lionel Christmas", "slug_title": "a-lionel-christmas", "date": "2014-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

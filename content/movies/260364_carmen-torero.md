@@ -1,1 +1,0 @@
-{"tmdb_id": 260364, "title": "Carmen torero", "original_title": "Carmen torero", "slug_title": "carmen-torero", "date": "1990-03-21", "genre": "", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9hsQK5w5eUGeKkIojOMuQiti2G1.jpg", "actors": [], "comments": [], "recommandations_id": [162691, 146670, 147819, 164127]}

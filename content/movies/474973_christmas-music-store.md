@@ -1,1 +1,0 @@
-{"tmdb_id": 474973, "title": "Christmas music store", "original_title": "Christmas music store", "slug_title": "christmas-music-store", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

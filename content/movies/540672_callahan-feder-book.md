@@ -1,1 +1,0 @@
-{"tmdb_id": 540672, "title": "callahan:feder book", "original_title": "callahan:feder book", "slug_title": "callahan-feder-book", "date": "2013-01-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

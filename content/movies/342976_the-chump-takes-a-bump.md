@@ -1,1 +1,0 @@
-{"tmdb_id": 342976, "title": "The Chump Takes a Bump", "original_title": "The Chump Takes a Bump", "slug_title": "the-chump-takes-a-bump", "date": "1939-05-05", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Charley Chase (Charley Chase)"], "comments": [], "recommandations_id": []}

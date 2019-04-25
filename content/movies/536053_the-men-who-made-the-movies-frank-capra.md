@@ -1,1 +1,0 @@
-{"tmdb_id": 536053, "title": "The Men who Made the Movies: Frank Capra", "original_title": "The Men who Made the Movies: Frank Capra", "slug_title": "the-men-who-made-the-movies-frank-capra", "date": "1973-01-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

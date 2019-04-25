@@ -1,1 +1,0 @@
-{"tmdb_id": 554931, "title": "I Love Your Fucking Name", "original_title": "I Love Your Fucking Name", "slug_title": "i-love-your-fucking-name", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

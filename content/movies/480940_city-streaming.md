@@ -1,1 +1,0 @@
-{"tmdb_id": 480940, "title": "City Streaming", "original_title": "City Streaming", "slug_title": "city-streaming", "date": "1990-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1tsFUknjImnAaMoJnDzYDGUNNu9.jpg", "actors": [], "comments": [], "recommandations_id": []}

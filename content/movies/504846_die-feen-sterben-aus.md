@@ -1,1 +1,0 @@
-{"tmdb_id": 504846, "title": "Die Feen sterben aus", "original_title": "Die Feen sterben aus", "slug_title": "die-feen-sterben-aus", "date": "1981-09-29", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Marianne Nentwich (Gerlinde)", "Erwin Steinhauer (Herr Nimmervoll)"], "comments": [], "recommandations_id": []}

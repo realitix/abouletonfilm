@@ -1,1 +1,0 @@
-{"tmdb_id": 85164, "title": "Signs of the Times", "original_title": "Signs of the Times", "slug_title": "signs-of-the-times", "date": "2005-01-01", "genre": "Familial / Animation", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rnMJW29pQffKvreIlztfX1d5DDn.jpg", "actors": [], "comments": [], "recommandations_id": []}

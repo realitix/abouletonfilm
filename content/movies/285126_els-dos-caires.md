@@ -1,1 +1,0 @@
-{"tmdb_id": 285126, "title": "Els Dos Caires", "original_title": "Els Dos Caires", "slug_title": "els-dos-caires", "date": "2010-08-04", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pYILtdI7ZnsjkIhDcfoxQm4Ziqi.jpg", "actors": [], "comments": [], "recommandations_id": []}

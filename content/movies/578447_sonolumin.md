@@ -1,1 +1,0 @@
-{"tmdb_id": 578447, "title": "SONOLUMIN", "original_title": "SONOLUMIN", "slug_title": "sonolumin", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nRdimyA1UhQd0HASlPMw4xxXLx7.jpg", "actors": [], "comments": [], "recommandations_id": []}

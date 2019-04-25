@@ -1,1 +1,0 @@
-{"tmdb_id": 398505, "title": "The Dancing Class", "original_title": "The Dancing Class", "slug_title": "the-dancing-class", "date": "1964-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ttVcg3boxHGF0vEtBzcompgkzrM.jpg", "actors": [], "comments": [], "recommandations_id": []}

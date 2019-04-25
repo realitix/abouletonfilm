@@ -1,1 +1,0 @@
-{"tmdb_id": 234730, "title": "Two-Ton Baby Sitter", "original_title": "Two-Ton Baby Sitter", "slug_title": "two-ton-baby-sitter", "date": "1960-09-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

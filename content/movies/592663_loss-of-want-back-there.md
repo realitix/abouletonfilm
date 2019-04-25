@@ -1,1 +1,0 @@
-{"tmdb_id": 592663, "title": "Loss of want back there", "original_title": "Loss of want back there", "slug_title": "loss-of-want-back-there", "date": "2019-03-16", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rJhtp8zqGJuCFQDRtsrw6pUy0EC.jpg", "actors": [], "comments": [], "recommandations_id": []}

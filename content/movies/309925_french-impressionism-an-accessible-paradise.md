@@ -1,1 +1,0 @@
-{"tmdb_id": 309925, "title": "French Impressionism: An Accessible Paradise", "original_title": "French Impressionism: An Accessible Paradise", "slug_title": "french-impressionism-an-accessible-paradise", "date": "1995-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

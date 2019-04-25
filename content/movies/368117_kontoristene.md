@@ -1,1 +1,1 @@
-{"tmdb_id": 368117, "title": "Kontoristene", "original_title": "Kontoristene", "slug_title": "kontoristene", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 368117, "title": "Kontoristene", "original_title": "Kontoristene", "slug_title": "kontoristene", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Norwegian made TV-drama", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,1 +1,0 @@
-{"tmdb_id": 450937, "title": "10cc - BBC Live in Concert 1974", "original_title": "10cc - BBC Live in Concert 1974", "slug_title": "10cc-bbc-live-in-concert-1974", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9HsF8uIRFxFqQLZTGJnfvMysKUa.jpg", "actors": [], "comments": [], "recommandations_id": []}

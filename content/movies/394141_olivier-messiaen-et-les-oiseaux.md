@@ -1,1 +1,0 @@
-{"tmdb_id": 394141, "title": "Olivier Messiaen et les oiseaux", "original_title": "Olivier Messiaen et les oiseaux", "slug_title": "olivier-messiaen-et-les-oiseaux", "date": "1973-04-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

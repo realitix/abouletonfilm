@@ -1,1 +1,0 @@
-{"tmdb_id": 193977, "title": "Birth of a Flower", "original_title": "Birth of a Flower", "slug_title": "birth-of-a-flower", "date": "1910-11-16", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cKJ9qRxvmffIvgCixMpUzHfl5G5.jpg", "actors": [], "comments": [], "recommandations_id": [119959, 119961]}

@@ -1,1 +1,0 @@
-{"tmdb_id": 396165, "title": "Escape from Midwich Valley", "original_title": "Escape from Midwich Valley", "slug_title": "escape-from-midwich-valley", "date": "2014-09-05", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vNDFeItaN9MAWN89luA3WXnPhkO.jpg", "actors": [], "comments": [], "recommandations_id": []}

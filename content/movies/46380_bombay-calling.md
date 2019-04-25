@@ -1,1 +1,0 @@
-{"tmdb_id": 46380, "title": "Bombay Calling", "original_title": "Bombay Calling", "slug_title": "bombay-calling", "date": "2006-08-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lTQao8ccdVu066E5RJrHnRj2Gxy.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 318517, "title": "South Park: The Chef Experience", "original_title": "South Park: The Chef Experience", "slug_title": "south-park-the-chef-experience", "date": "2000-11-07", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

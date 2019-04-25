@@ -1,1 +1,0 @@
-{"tmdb_id": 271170, "title": "Smile Now, Cry Later", "original_title": "Smile Now, Cry Later", "slug_title": "smile-now-cry-later", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 580968, "title": "\u3055\u3089\u3070\u53cb\u3088", "original_title": "\u3055\u3089\u3070\u53cb\u3088", "slug_title": "sarabayou-yo", "date": "1986-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kH63KTgxlO8ESI56JsYonqMEVJS.jpg", "actors": [], "comments": [], "recommandations_id": []}

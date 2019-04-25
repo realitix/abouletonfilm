@@ -1,1 +1,0 @@
-{"tmdb_id": 200200, "title": "George Stevens World War II Footage", "original_title": "George Stevens World War II Footage", "slug_title": "george-stevens-world-war-ii-footage", "date": "1946-06-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

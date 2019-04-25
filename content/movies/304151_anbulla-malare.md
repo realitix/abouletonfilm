@@ -1,1 +1,0 @@
-{"tmdb_id": 304151, "title": "Anbulla Malare", "original_title": "Anbulla Malare", "slug_title": "anbulla-malare", "date": "1984-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

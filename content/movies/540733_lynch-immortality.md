@@ -1,1 +1,0 @@
-{"tmdb_id": 540733, "title": "Lynch. - Immortality", "original_title": "Lynch. - Immortality", "slug_title": "lynch-immortality", "date": "2016-06-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q1ex86CEpga5if7mNp0B2b2hlcE.jpg", "actors": [], "comments": [], "recommandations_id": []}

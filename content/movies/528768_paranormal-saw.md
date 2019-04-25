@@ -1,1 +1,0 @@
-{"tmdb_id": 528768, "title": "Paranormal Saw", "original_title": "Paranormal Saw", "slug_title": "paranormal-saw", "date": "2010-01-01", "genre": "Com\u00e9die / Horreur", "score": "1.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Erin McGathy (Woman)", "Scott J. Davis (Man)"], "comments": [], "recommandations_id": []}

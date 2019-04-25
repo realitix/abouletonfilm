@@ -1,1 +1,0 @@
-{"tmdb_id": 265160, "title": "Dire Straits - St James stadium", "original_title": "Dire Straits - St James stadium", "slug_title": "dire-straits-st-james-stadium", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

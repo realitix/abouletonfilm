@@ -1,1 +1,0 @@
-{"tmdb_id": 360696, "title": "Bellator 142: Dynamite 1", "original_title": "Bellator 142: Dynamite 1", "slug_title": "bellator-142-dynamite-1", "date": "2015-09-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xke8Bu20ppFc97UcjXZ1sKMMUNm.jpg", "actors": [], "comments": [], "recommandations_id": []}

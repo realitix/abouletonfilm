@@ -1,1 +1,0 @@
-{"tmdb_id": 386265, "title": "La Divine Com\u00e9die", "original_title": "La Divine Com\u00e9die", "slug_title": "la-divine-comedie", "date": "2014-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d5025PLW0X8hJnhNw4gVO0OVZM3.jpg", "actors": [], "comments": [], "recommandations_id": []}

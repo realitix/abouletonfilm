@@ -1,1 +1,0 @@
-{"tmdb_id": 302655, "title": "Max Anderson, Private Eye", "original_title": "Max Anderson, Private Eye", "slug_title": "max-anderson-private-eye", "date": "2013-07-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

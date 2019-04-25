@@ -1,1 +1,0 @@
-{"tmdb_id": 325928, "title": "Three Hearts - Trzy Serca", "original_title": "Three Hearts - Trzy Serca", "slug_title": "three-hearts-trzy-serca", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

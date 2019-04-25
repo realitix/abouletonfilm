@@ -1,1 +1,0 @@
-{"tmdb_id": 506782, "title": "\u0424\u0440\u0443\u0437\u0430 (Fruza)", "original_title": "\u0424\u0440\u0443\u0437\u0430 (Fruza)", "slug_title": "fruza-fruza", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 367203, "title": "Three on the Road", "original_title": "San Ren Xing", "slug_title": "three-on-the-road", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4T4UGYpwcXDbdPP5sCetRpqUSiZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

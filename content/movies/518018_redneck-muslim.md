@@ -1,1 +1,0 @@
-{"tmdb_id": 518018, "title": "Redneck Muslim", "original_title": "Redneck Muslim", "slug_title": "redneck-muslim", "date": "2017-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 251661, "title": "Hills Green", "original_title": "Hills Green", "slug_title": "hills-green", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8biK8ivK8jI2h1QJliMzLIgwlCC.jpg", "actors": [], "comments": [], "recommandations_id": []}

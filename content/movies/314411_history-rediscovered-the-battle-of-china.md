@@ -1,1 +1,0 @@
-{"tmdb_id": 314411, "title": "History Rediscovered: The Battle of China", "original_title": "History Rediscovered: The Battle of China", "slug_title": "history-rediscovered-the-battle-of-china", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 516256, "title": "Old Timer", "original_title": "Old Timer", "slug_title": "old-timer", "date": "2015-02-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jule Johnson (Boy)", "Ned Hosford (Old Timer)", "Rachael Sonnenberg (Waitress)"], "comments": [], "recommandations_id": []}

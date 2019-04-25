@@ -1,1 +1,0 @@
-{"tmdb_id": 272958, "title": "The Video Yearmix 2011", "original_title": "The Video Yearmix 2011", "slug_title": "the-video-yearmix-2011", "date": "2011-12-22", "genre": "Musique", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rV0JoBvIaZn2Ilrr6zTnSAeTWZW.jpg", "actors": [], "comments": [], "recommandations_id": []}

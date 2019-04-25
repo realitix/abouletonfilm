@@ -1,1 +1,0 @@
-{"tmdb_id": 538785, "title": "Boulot aviateur", "original_title": "Boulot aviateur", "slug_title": "boulot-aviateur", "date": "1937-07-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ay3dftiGWX9CvlMtESoRtVXq2Ud.jpg", "actors": [], "comments": [], "recommandations_id": []}

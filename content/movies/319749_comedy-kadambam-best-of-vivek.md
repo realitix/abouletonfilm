@@ -1,1 +1,0 @@
-{"tmdb_id": 319749, "title": "Comedy Kadambam: Best of Vivek", "original_title": "Comedy Kadambam: Best of Vivek", "slug_title": "comedy-kadambam-best-of-vivek", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

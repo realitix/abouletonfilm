@@ -1,1 +1,0 @@
-{"tmdb_id": 324833, "title": "The Rescue Squad", "original_title": "The Rescue Squad", "slug_title": "the-rescue-squad", "date": "1963-01-01", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ren\u00e9e Houston ()", "Peter Butterworth ()", "Bill Shine ()", "Leslie French ()"], "comments": [], "recommandations_id": []}

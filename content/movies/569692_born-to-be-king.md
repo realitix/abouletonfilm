@@ -1,1 +1,0 @@
-{"tmdb_id": 569692, "title": "Born to Be King", "original_title": "Born to Be King", "slug_title": "born-to-be-king", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

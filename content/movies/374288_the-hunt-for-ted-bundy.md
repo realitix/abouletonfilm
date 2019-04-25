@@ -1,1 +1,0 @@
-{"tmdb_id": 374288, "title": "The Hunt for Ted Bundy", "original_title": "The Hunt for Ted Bundy", "slug_title": "the-hunt-for-ted-bundy", "date": "2015-06-14", "genre": "Documentaire", "score": "6.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kathleen Garrett (Narrator (voice))"], "comments": [], "recommandations_id": []}

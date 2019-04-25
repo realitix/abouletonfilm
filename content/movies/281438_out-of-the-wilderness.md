@@ -1,1 +1,0 @@
-{"tmdb_id": 281438, "title": "Out of the Wilderness", "original_title": "Out of the Wilderness", "slug_title": "out-of-the-wilderness", "date": "2001-01-10", "genre": "", "score": "2.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

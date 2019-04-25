@@ -1,1 +1,0 @@
-{"tmdb_id": 531582, "title": "Ceux qui peuvent mourir", "original_title": "Ceux qui peuvent mourir", "slug_title": "ceux-qui-peuvent-mourir", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

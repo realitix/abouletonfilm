@@ -1,1 +1,0 @@
-{"tmdb_id": 421258, "title": "The Arc of Methul", "original_title": "The Arc of Methul", "slug_title": "the-arc-of-methul", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3XrjQfq6XWSudopMFfvCiy5risL.jpg", "actors": [], "comments": [], "recommandations_id": []}

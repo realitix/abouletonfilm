@@ -1,1 +1,0 @@
-{"tmdb_id": 510711, "title": "El Trompetista", "original_title": "El Trompetista", "slug_title": "el-trompetista", "date": "2014-11-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hLnvmVawmvBW78gD6cm5ozXllub.jpg", "actors": [], "comments": [], "recommandations_id": []}

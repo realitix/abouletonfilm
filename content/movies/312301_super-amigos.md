@@ -1,1 +1,0 @@
-{"tmdb_id": 312301, "title": "Super Amigos", "original_title": "Super Amigos", "slug_title": "super-amigos", "date": "2007-07-30", "genre": "Documentaire", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lGQrMNJT3M5U1Kd4PHjhXV4QdYc.jpg", "actors": [], "comments": [], "recommandations_id": []}

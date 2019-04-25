@@ -1,1 +1,0 @@
-{"tmdb_id": 222579, "title": "So Does an Automobile", "original_title": "So Does an Automobile", "slug_title": "so-does-an-automobile", "date": "1939-03-29", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2NsXKOPC2yst1HFMIh9CrsW6b2x.jpg", "actors": [], "comments": [], "recommandations_id": []}

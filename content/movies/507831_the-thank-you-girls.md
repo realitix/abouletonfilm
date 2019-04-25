@@ -1,1 +1,0 @@
-{"tmdb_id": 507831, "title": "The Thank You Girls", "original_title": "The Thank You Girls", "slug_title": "the-thank-you-girls", "date": "2008-08-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hOeboPNQH7wJrQgYegQOS7SRWBb.jpg", "actors": [], "comments": [], "recommandations_id": []}

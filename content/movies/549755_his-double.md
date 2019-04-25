@@ -1,1 +1,0 @@
-{"tmdb_id": 549755, "title": "His Double", "original_title": "His Double", "slug_title": "his-double", "date": "1911-02-22", "genre": "Crime", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Blanche Cornwall ()", "Darwin Karr ()", "Lee Beggs ()"], "comments": [], "recommandations_id": []}

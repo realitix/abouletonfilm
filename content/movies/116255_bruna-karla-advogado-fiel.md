@@ -1,1 +1,0 @@
-{"tmdb_id": 116255, "title": "Bruna Karla - Advogado Fiel", "original_title": "Bruna Karla - Advogado Fiel", "slug_title": "bruna-karla-advogado-fiel", "date": "2011-03-01", "genre": "Musique", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n7fUxNIqcgKR8WnE7wvBjiUaZmL.jpg", "actors": [], "comments": [], "recommandations_id": []}

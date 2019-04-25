@@ -1,1 +1,1 @@
-{"tmdb_id": 593626, "title": "Ohne Titel", "original_title": "Ohne Titel", "slug_title": "ohne-titel", "date": "2000-04-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 593626, "title": "Ohne Titel", "original_title": "Ohne Titel", "slug_title": "ohne-titel", "date": "2000-04-10", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

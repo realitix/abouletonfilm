@@ -1,1 +1,0 @@
-{"tmdb_id": 565658, "title": "Prostitute Killer", "original_title": "Prostitute Killer", "slug_title": "prostitute-killer", "date": "2005-03-11", "genre": "Crime", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/84LaaIHpi5yZOlzawA7o9zIznM0.jpg", "actors": [], "comments": [], "recommandations_id": []}

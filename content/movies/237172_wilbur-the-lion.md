@@ -1,1 +1,0 @@
-{"tmdb_id": 237172, "title": "Wilbur the Lion", "original_title": "Wilbur the Lion", "slug_title": "wilbur-the-lion", "date": "1947-04-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

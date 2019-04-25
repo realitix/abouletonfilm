@@ -1,1 +1,0 @@
-{"tmdb_id": 459156, "title": "Gitanos sin romancero", "original_title": "Gitanos sin romancero", "slug_title": "gitanos-sin-romancero", "date": "1976-05-25", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

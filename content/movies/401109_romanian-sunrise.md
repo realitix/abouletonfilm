@@ -1,1 +1,0 @@
-{"tmdb_id": 401109, "title": "Romanian Sunrise", "original_title": "Romanian Sunrise", "slug_title": "romanian-sunrise", "date": "2016-06-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

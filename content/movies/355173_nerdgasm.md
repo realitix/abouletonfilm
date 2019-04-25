@@ -1,1 +1,0 @@
-{"tmdb_id": 355173, "title": "Nerdgasm", "original_title": "Nerdgasm", "slug_title": "nerdgasm", "date": "2015-08-18", "genre": "Documentaire / Com\u00e9die", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jQUonKHE1pTZP0DquvmVQsSuA0c.jpg", "actors": ["Tom Lenk (Tom Lenk)"], "comments": [], "recommandations_id": []}

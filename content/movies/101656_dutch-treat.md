@@ -1,1 +1,0 @@
-{"tmdb_id": 101656, "title": "Dutch Treat", "original_title": "Dutch Treat", "slug_title": "dutch-treat", "date": "1987-01-01", "genre": "", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ufm1Wsd5wFW9GnBWEmlFPDxtzcD.jpg", "actors": [], "comments": [], "recommandations_id": []}

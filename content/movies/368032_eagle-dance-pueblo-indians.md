@@ -1,1 +1,0 @@
-{"tmdb_id": 368032, "title": "Eagle Dance, Pueblo Indians", "original_title": "Eagle Dance, Pueblo Indians", "slug_title": "eagle-dance-pueblo-indians", "date": "1898-02-12", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

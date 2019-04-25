@@ -1,1 +1,0 @@
-{"tmdb_id": 464683, "title": "Creating a Monster", "original_title": "Creating a Monster", "slug_title": "creating-a-monster", "date": "2016-12-17", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

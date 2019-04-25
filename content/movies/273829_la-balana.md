@@ -1,1 +1,0 @@
-{"tmdb_id": 273829, "title": "La Balana", "original_title": "La Balana", "slug_title": "la-balana", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7tXwXW3tlfB9W0ob3FtCBJCoGOw.jpg", "actors": ["Raquel de la Paz ()", "Leah Hael Nava ()"], "comments": [], "recommandations_id": []}

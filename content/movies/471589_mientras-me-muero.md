@@ -1,1 +1,0 @@
-{"tmdb_id": 471589, "title": "Mientras me muero", "original_title": "Mientras me muero", "slug_title": "mientras-me-muero", "date": "2003-03-19", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Blanca Guerra ()", "Zaide Silvia Guti\u00e9rrez ()"], "comments": [], "recommandations_id": []}

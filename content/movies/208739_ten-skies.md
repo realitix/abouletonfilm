@@ -1,1 +1,0 @@
-{"tmdb_id": 208739, "title": "Ten Skies", "original_title": "Ten Skies", "slug_title": "ten-skies", "date": "2012-07-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

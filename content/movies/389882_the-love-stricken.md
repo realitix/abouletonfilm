@@ -1,1 +1,0 @@
-{"tmdb_id": 389882, "title": "The Love-stricken", "original_title": "\u062f\u0644\u200c\u0634\u062f\u06af\u0627\u0646", "slug_title": "the-love-stricken", "date": "1992-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tmbRXk99pL9K7VuU8CY22WF9m1i.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 236598, "title": "Aloha Hooey", "original_title": "Aloha Hooey", "slug_title": "aloha-hooey", "date": "1942-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/byum7axl7M3hknynmOEoGz4wK7S.jpg", "actors": [], "comments": [], "recommandations_id": []}

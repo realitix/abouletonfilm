@@ -1,1 +1,0 @@
-{"tmdb_id": 204437, "title": "Stroheim in Vienna", "original_title": "Stroheim in Vienna", "slug_title": "stroheim-in-vienna", "date": "1948-07-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Erich von Stroheim (Himself)"], "comments": [], "recommandations_id": []}

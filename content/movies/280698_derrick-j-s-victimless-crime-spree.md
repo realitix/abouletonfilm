@@ -1,1 +1,0 @@
-{"tmdb_id": 280698, "title": "Derrick J's Victimless Crime Spree", "original_title": "Derrick J's Victimless Crime Spree", "slug_title": "derrick-j-s-victimless-crime-spree", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 288986, "title": "La gemella erotica", "original_title": "La gemella erotica", "slug_title": "la-gemella-erotica", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

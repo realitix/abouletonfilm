@@ -1,1 +1,0 @@
-{"tmdb_id": 556586, "title": "Crossing", "original_title": "Crossing", "slug_title": "crossing", "date": "2016-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

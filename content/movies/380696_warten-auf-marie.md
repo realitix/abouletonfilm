@@ -1,1 +1,0 @@
-{"tmdb_id": 380696, "title": "Warten auf Marie", "original_title": "Warten auf Marie", "slug_title": "warten-auf-marie", "date": "1987-02-12", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Eva-Maria Hagen (Frau M.)", "Hermann Lause (Alfons)", "Harry Baer (Konrad)"], "comments": [], "recommandations_id": []}

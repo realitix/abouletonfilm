@@ -1,1 +1,0 @@
-{"tmdb_id": 406388, "title": "The Story of a Blooming Flower", "original_title": "Kkoche kittun sayon", "slug_title": "the-story-of-a-blooming-flower", "date": "1992-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lIya2uLmc9kLiv0prspvEDKO5Ab.jpg", "actors": [], "comments": [], "recommandations_id": []}

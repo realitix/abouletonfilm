@@ -1,1 +1,0 @@
-{"tmdb_id": 414393, "title": "My Home - Your War", "original_title": "My Home - Your War", "slug_title": "my-home-your-war", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gnuRAmflAeHLPxF8thNzEDXFLsg.jpg", "actors": [], "comments": [], "recommandations_id": []}

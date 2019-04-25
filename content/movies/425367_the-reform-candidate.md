@@ -1,1 +1,0 @@
-{"tmdb_id": 425367, "title": "The Reform Candidate", "original_title": "The Reform Candidate", "slug_title": "the-reform-candidate", "date": "1915-12-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

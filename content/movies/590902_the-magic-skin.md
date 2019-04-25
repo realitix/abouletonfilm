@@ -1,1 +1,0 @@
-{"tmdb_id": 590902, "title": "The Magic Skin", "original_title": "The Magic Skin", "slug_title": "the-magic-skin", "date": "2011-06-06", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eO1NiHzxe3uqo9y7tpAai5kQtuW.jpg", "actors": [], "comments": [], "recommandations_id": []}

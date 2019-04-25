@@ -1,1 +1,0 @@
-{"tmdb_id": 414355, "title": "The Talented Mr. Ripley: Making the Soundtrack", "original_title": "The Talented Mr. Ripley: Making the Soundtrack", "slug_title": "the-talented-mr-ripley-making-the-soundtrack", "date": "1999-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 119265, "title": "Pasi\u00f3n Frente al Mar II", "original_title": "Pasi\u00f3n Frente al Mar II", "slug_title": "pasion-frente-al-mar-ii", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gerardo Albarr\u00e1n ()", "Alexandra Castillo ()"], "comments": [], "recommandations_id": []}

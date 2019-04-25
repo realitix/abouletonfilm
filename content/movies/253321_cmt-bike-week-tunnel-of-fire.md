@@ -1,1 +1,0 @@
-{"tmdb_id": 253321, "title": "CMT Bike Week: Tunnel of Fire", "original_title": "CMT Bike Week: Tunnel of Fire", "slug_title": "cmt-bike-week-tunnel-of-fire", "date": "2013-08-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 458262, "title": "DCI Essentials Collection Vol. 3", "original_title": "DCI Essentials Collection Vol. 3", "slug_title": "dci-essentials-collection-vol-3", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aFSFinprgVH75bdMFnUD7fgRfrF.jpg", "actors": [], "comments": [], "recommandations_id": []}

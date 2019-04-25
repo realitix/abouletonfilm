@@ -1,1 +1,1 @@
-{"tmdb_id": 305250, "title": "Jazbaat", "original_title": "Jazbaat", "slug_title": "jazbaat", "date": "1994-07-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 305250, "title": "Jazbaat", "original_title": "Jazbaat", "slug_title": "jazbaat", "date": "1994-07-08", "genre": [""], "score": "0.0/10", "synopsis": "Bollywood 1994", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

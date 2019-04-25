@@ -1,1 +1,0 @@
-{"tmdb_id": 47532, "title": "VW-Audi Club Norwegen Treff 2007 Sesongen", "original_title": "VW-Audi Club Norwegen Treff 2007 Sesongen", "slug_title": "vw-audi-club-norwegen-treff-2007-sesongen", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

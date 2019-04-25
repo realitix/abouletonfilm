@@ -1,1 +1,0 @@
-{"tmdb_id": 321332, "title": "Know Limits: Extreme Sport Highlights", "original_title": "Know Limits: Extreme Sport Highlights", "slug_title": "know-limits-extreme-sport-highlights", "date": "1992-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

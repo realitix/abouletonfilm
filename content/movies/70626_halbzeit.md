@@ -1,1 +1,1 @@
-{"tmdb_id": 70626, "title": "HalbZeit", "original_title": "HalbZeit", "slug_title": "halbzeit", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 70626, "title": "HalbZeit", "original_title": "HalbZeit", "slug_title": "halbzeit", "date": "", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

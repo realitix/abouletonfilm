@@ -1,1 +1,0 @@
-{"tmdb_id": 195870, "title": "Champion Athletes at Birmingham", "original_title": "Champion Athletes at Birmingham", "slug_title": "champion-athletes-at-birmingham", "date": "1902-05-22", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

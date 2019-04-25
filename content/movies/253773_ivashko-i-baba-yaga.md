@@ -1,1 +1,0 @@
-{"tmdb_id": 253773, "title": "Ivashko i Baba-Yaga", "original_title": "Ivashko i Baba-Yaga", "slug_title": "ivashko-i-baba-yaga", "date": "1938-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Osip Abdulov (Baba-Yaga)", "Klavdiya Koreneva (Ivashko)"], "comments": [], "recommandations_id": []}

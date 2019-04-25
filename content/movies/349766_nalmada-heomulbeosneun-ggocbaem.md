@@ -1,1 +1,0 @@
-{"tmdb_id": 349766, "title": "\ub0a0\ub9c8\ub2e4 \ud5c8\ubb3c\ubc97\ub294 \uaf43\ubc40", "original_title": "\ub0a0\ub9c8\ub2e4 \ud5c8\ubb3c\ubc97\ub294 \uaf43\ubc40", "slug_title": "nalmada-heomulbeosneun-ggocbaem", "date": "1982-04-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

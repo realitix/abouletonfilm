@@ -1,1 +1,0 @@
-{"tmdb_id": 221782, "title": "Hell Glades", "original_title": "Hell Glades", "slug_title": "hell-glades", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cwJ1NcQ6bKfGFird3TVCQ0MVunx.jpg", "actors": [], "comments": [], "recommandations_id": []}

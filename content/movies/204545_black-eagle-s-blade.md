@@ -1,1 +1,0 @@
-{"tmdb_id": 204545, "title": "Black Eagle's Blade", "original_title": "Black Eagle's Blade", "slug_title": "black-eagle-s-blade", "date": "1981-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wiiE2tFF666XuN8RpICo6mDek5A.jpg", "actors": ["Tien Peng ()"], "comments": [], "recommandations_id": []}

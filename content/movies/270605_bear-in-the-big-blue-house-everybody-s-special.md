@@ -1,1 +1,0 @@
-{"tmdb_id": 270605, "title": "Bear in the Big Blue House: Everybody's Special", "original_title": "Bear in the Big Blue House: Everybody's Special", "slug_title": "bear-in-the-big-blue-house-everybody-s-special", "date": "2002-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

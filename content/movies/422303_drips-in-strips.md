@@ -1,1 +1,0 @@
-{"tmdb_id": 422303, "title": "drips in strips", "original_title": "drips in strips", "slug_title": "drips-in-strips", "date": "1961-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

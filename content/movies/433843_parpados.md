@@ -1,1 +1,0 @@
-{"tmdb_id": 433843, "title": "P\u00e1rpados", "original_title": "P\u00e1rpados", "slug_title": "parpados", "date": "1989-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8CPV0Ma7NKYJ5qAieriP5TMBM1N.jpg", "actors": [], "comments": [], "recommandations_id": []}

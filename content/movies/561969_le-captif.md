@@ -1,1 +1,0 @@
-{"tmdb_id": 561969, "title": "Le captif", "original_title": "Le captif", "slug_title": "le-captif", "date": "1963-08-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kStIdt9NlOIzbx2YeJW13VT8m1O.jpg", "actors": [], "comments": [], "recommandations_id": []}

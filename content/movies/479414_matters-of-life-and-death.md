@@ -1,1 +1,0 @@
-{"tmdb_id": 479414, "title": "Matters of Life and Death", "original_title": "Matters of Life and Death", "slug_title": "matters-of-life-and-death", "date": "2017-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dWlTGwsAWVEnanwDVQXsHKWtE1w.jpg", "actors": [], "comments": [], "recommandations_id": []}

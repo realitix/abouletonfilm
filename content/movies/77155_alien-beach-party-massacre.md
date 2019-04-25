@@ -1,1 +1,0 @@
-{"tmdb_id": 77155, "title": "Alien Beach Party Massacre", "original_title": "Alien Beach Party Massacre", "slug_title": "alien-beach-party-massacre", "date": "1996-07-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mmesrih30OovqXjfjQRsnQWP5EU.jpg", "actors": [], "comments": [], "recommandations_id": []}

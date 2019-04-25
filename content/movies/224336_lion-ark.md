@@ -1,1 +1,0 @@
-{"tmdb_id": 224336, "title": "Lion Ark", "original_title": "Lion Ark", "slug_title": "lion-ark", "date": "2013-10-12", "genre": "Documentaire / Action / Aventure", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/UR4H8TSG0EqMymdarGtTXHdIJQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

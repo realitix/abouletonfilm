@@ -1,1 +1,0 @@
-{"tmdb_id": 367013, "title": "Get Lost", "original_title": "Get Lost", "slug_title": "get-lost", "date": "2015-12-01", "genre": "", "score": "1.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zYM6nPgtY7aDlqrpx5GVY99FNdT.jpg", "actors": ["Rory Sullivan (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,1 @@
-{"tmdb_id": 309137, "title": "Gehra Zakhm", "original_title": "Gehra Zakhm", "slug_title": "gehra-zakhm", "date": "1981-11-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 309137, "title": "Gehra Zakhm", "original_title": "Gehra Zakhm", "slug_title": "gehra-zakhm", "date": "1981-11-20", "genre": [""], "score": "0.0/10", "synopsis": "Bollywood 1981", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

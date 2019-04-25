@@ -1,1 +1,0 @@
-{"tmdb_id": 220867, "title": "Badgered", "original_title": "Badgered", "slug_title": "badgered", "date": "2005-02-23", "genre": "Animation", "score": "6.6/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ohO0Jng1yvIxhRDTcQBMzf8qKAT.jpg", "actors": ["Rupert Degas ()"], "comments": [], "recommandations_id": []}

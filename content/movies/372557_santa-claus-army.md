@@ -1,1 +1,0 @@
-{"tmdb_id": 372557, "title": "Santa Claus Army", "original_title": "Julemandsh\u00e6ren", "slug_title": "santa-claus-army", "date": "1975-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x7LJ4sd5veYhVoS8H5WxZYaBuSK.jpg", "actors": ["Solvognen ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 576414, "title": "Without Sun", "original_title": "\u0411\u0435\u0437 \u0441\u043e\u043b\u043d\u0446\u0430", "slug_title": "without-sun", "date": "1987-09-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f5kAqXOuYdYCmkRsJf3lyW8rKMa.jpg", "actors": [], "comments": [], "recommandations_id": []}

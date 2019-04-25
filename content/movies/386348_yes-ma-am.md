@@ -1,1 +1,0 @@
-{"tmdb_id": 386348, "title": "Yes, Ma'am", "original_title": "Yes, Ma'am", "slug_title": "yes-ma-am", "date": "1982-03-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

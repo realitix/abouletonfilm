@@ -1,1 +1,0 @@
-{"tmdb_id": 263589, "title": "Marigolds in August", "original_title": "Marigolds in August", "slug_title": "marigolds-in-august", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ddSLWemQ2jKA2GZOOnds0ABXHwV.jpg", "actors": [], "comments": [], "recommandations_id": []}

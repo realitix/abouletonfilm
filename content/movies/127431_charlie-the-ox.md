@@ -1,1 +1,0 @@
-{"tmdb_id": 127431, "title": "Charlie the Ox", "original_title": "Charlie the Ox", "slug_title": "charlie-the-ox", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

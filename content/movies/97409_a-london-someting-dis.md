@@ -1,1 +1,0 @@
-{"tmdb_id": 97409, "title": "A London Someting Dis", "original_title": "A London Someting Dis", "slug_title": "a-london-someting-dis", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

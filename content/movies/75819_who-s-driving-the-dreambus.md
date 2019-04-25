@@ -1,1 +1,0 @@
-{"tmdb_id": 75819, "title": "Who's Driving the Dreambus?", "original_title": "Who's Driving the Dreambus?", "slug_title": "who-s-driving-the-dreambus", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yOcVO9c3jyppRlmEy82hMapZpsw.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 307758, "title": "Evare Athagadu", "original_title": "Evare Athagadu", "slug_title": "evare-athagadu", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

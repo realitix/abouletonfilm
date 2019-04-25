@@ -1,1 +1,0 @@
-{"tmdb_id": 555777, "title": "Nine ou la jeune fille au masque", "original_title": "Nine ou la jeune fille au masque", "slug_title": "nine-ou-la-jeune-fille-au-masque", "date": "1920-08-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 246076, "title": "Cicero March", "original_title": "Cicero March", "slug_title": "cicero-march", "date": "1966-01-01", "genre": "Documentaire", "score": "5.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/grm5w8NwQCogUs4aTquEkmgAEHB.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 256498, "title": "Earth Ride", "original_title": "Earth Ride", "slug_title": "earth-ride", "date": "2003-08-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1qSOQMeStxZqwM65l8yvQiWEw8R.jpg", "actors": [], "comments": [], "recommandations_id": []}

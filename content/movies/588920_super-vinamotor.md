@@ -1,1 +1,0 @@
-{"tmdb_id": 588920, "title": "Super Vinamotor", "original_title": "Super Vinamotor", "slug_title": "super-vinamotor", "date": "", "genre": "Animation / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/891YY3AJx20IDUv0tW0eY8MjA2r.jpg", "actors": [], "comments": [], "recommandations_id": []}

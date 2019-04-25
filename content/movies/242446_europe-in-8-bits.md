@@ -1,1 +1,0 @@
-{"tmdb_id": 242446, "title": "Europe in 8 Bits", "original_title": "Europe in 8 Bits", "slug_title": "europe-in-8-bits", "date": "2013-12-01", "genre": "Documentaire", "score": "5.9/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AhCQNdYbT1Pu97NhcEvaDMh0dHv.jpg", "actors": [], "comments": [], "recommandations_id": [393561]}

@@ -1,1 +1,0 @@
-{"tmdb_id": 533031, "title": "Twin Days", "original_title": "Twin Days", "slug_title": "twin-days", "date": "2016-01-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sjH5HCkk73qQ04LpOXcXWbH64ZO.jpg", "actors": [], "comments": [], "recommandations_id": []}

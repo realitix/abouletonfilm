@@ -1,1 +1,0 @@
-{"tmdb_id": 483154, "title": "Entr'acte", "original_title": "Entr'acte", "slug_title": "entr-acte", "date": "2007-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dsRWYEVw0aMeFNlFzfItxSQsgNP.jpg", "actors": [], "comments": [], "recommandations_id": []}

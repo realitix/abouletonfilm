@@ -1,1 +1,0 @@
-{"tmdb_id": 587533, "title": "Jumping the Gun", "original_title": "Jumping the Gun", "slug_title": "jumping-the-gun", "date": "1993-06-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vck4y8ORZwO2JyIKor9ofRbOXZr.jpg", "actors": ["Georgia Troy Barnes ()", "Jenny Vuletic ()"], "comments": [], "recommandations_id": []}

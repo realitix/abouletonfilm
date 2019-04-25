@@ -1,1 +1,0 @@
-{"tmdb_id": 312967, "title": "Rumours", "original_title": "Rumeurs", "slug_title": "rumours", "date": "2011-03-11", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3mvRUc4mKDupSHIEp0lA7xcXLTD.jpg", "actors": [], "comments": [], "recommandations_id": []}

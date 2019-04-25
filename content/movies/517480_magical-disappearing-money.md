@@ -1,1 +1,0 @@
-{"tmdb_id": 517480, "title": "Magical Disappearing Money", "original_title": "Magical Disappearing Money", "slug_title": "magical-disappearing-money", "date": "1972-01-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xCqMX9o5OZkBuLESYD6YndPeCo6.jpg", "actors": [], "comments": [], "recommandations_id": []}

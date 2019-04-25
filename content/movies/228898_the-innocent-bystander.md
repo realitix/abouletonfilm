@@ -1,1 +1,0 @@
-{"tmdb_id": 228898, "title": "The Innocent Bystander", "original_title": "The Innocent Bystander", "slug_title": "the-innocent-bystander", "date": "1998-11-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

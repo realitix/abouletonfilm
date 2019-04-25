@@ -1,1 +1,0 @@
-{"tmdb_id": 321913, "title": "Three Worlds, Three Voices, One Vision", "original_title": "Three Worlds, Three Voices, One Vision", "slug_title": "three-worlds-three-voices-one-vision", "date": "1988-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

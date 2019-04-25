@@ -1,1 +1,0 @@
-{"tmdb_id": 561007, "title": "Le club des 400 coups", "original_title": "Le club des 400 coups", "slug_title": "le-club-des-400-coups", "date": "1953-07-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

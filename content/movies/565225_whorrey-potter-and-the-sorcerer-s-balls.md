@@ -1,1 +1,0 @@
-{"tmdb_id": 565225, "title": "Whorrey Potter and the sorcerer's balls", "original_title": "Whorrey Potter and the sorcerer's balls", "slug_title": "whorrey-potter-and-the-sorcerer-s-balls", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

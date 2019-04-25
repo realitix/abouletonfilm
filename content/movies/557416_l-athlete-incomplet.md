@@ -1,1 +1,0 @@
-{"tmdb_id": 557416, "title": "L'athl\u00e8te incomplet", "original_title": "L'athl\u00e8te incomplet", "slug_title": "l-athlete-incomplet", "date": "1932-06-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

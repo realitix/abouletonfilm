@@ -1,1 +1,0 @@
-{"tmdb_id": 305103, "title": "La samaritana", "original_title": "La samaritana", "slug_title": "la-samaritana", "date": "1915-09-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Delia Bicchi ()", "Leo Cavallari ()", "Vittorina Moneta ()"], "comments": [], "recommandations_id": []}

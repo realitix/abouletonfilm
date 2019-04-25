@@ -1,1 +1,0 @@
-{"tmdb_id": 253160, "title": "Kitsune no homerun-\u00f4", "original_title": "Kitsune no homerun-\u00f4", "slug_title": "kitsune-no-homerun-o", "date": "1949-01-29", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 182614, "title": "O Capacete Dourado", "original_title": "O Capacete Dourado", "slug_title": "o-capacete-dourado", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

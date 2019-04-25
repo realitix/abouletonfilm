@@ -1,1 +1,0 @@
-{"tmdb_id": 37918, "title": "The Agronomist", "original_title": "The Agronomist", "slug_title": "the-agronomist", "date": "2004-04-23", "genre": "Documentaire", "score": "6.6/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gPmThVzl3DPhnziKYbqnJkUB4G6.jpg", "actors": [], "comments": [], "recommandations_id": []}

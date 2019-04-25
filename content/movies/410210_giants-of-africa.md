@@ -1,1 +1,0 @@
-{"tmdb_id": 410210, "title": "Giants of Africa", "original_title": "Giants of Africa", "slug_title": "giants-of-africa", "date": "2016-09-09", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4URFKAhpMeNxhkcalzYTjCJl7Hd.jpg", "actors": [], "comments": [], "recommandations_id": []}

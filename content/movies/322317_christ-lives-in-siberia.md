@@ -1,1 +1,0 @@
-{"tmdb_id": 322317, "title": "Christ lives in Siberia", "original_title": "Kristus elab Siberis", "slug_title": "christ-lives-in-siberia", "date": "2015-01-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q0FlVrWajiD9X0hL0UQVh2OLd0q.jpg", "actors": [], "comments": [], "recommandations_id": []}

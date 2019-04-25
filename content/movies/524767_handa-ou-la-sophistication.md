@@ -1,1 +1,0 @@
-{"tmdb_id": 524767, "title": "Handa ou la sophistication", "original_title": "Handa ou la sophistication", "slug_title": "handa-ou-la-sophistication", "date": "1967-06-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

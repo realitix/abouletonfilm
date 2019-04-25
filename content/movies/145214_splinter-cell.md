@@ -1,1 +1,0 @@
-{"tmdb_id": 145214, "title": "Splinter Cell", "original_title": "Splinter Cell", "slug_title": "splinter-cell", "date": "", "genre": "Action / Aventure / Crime", "score": "6.6/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tom Hardy (Sam Fisher)"], "comments": [], "recommandations_id": [457232, 424853, 201082, 451048]}

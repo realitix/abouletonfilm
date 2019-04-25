@@ -1,1 +1,0 @@
-{"tmdb_id": 307166, "title": "Plastic Flowers", "original_title": "\u6625\u82b1\u5f00", "slug_title": "plastic-flowers", "date": "2004-09-15", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8SuFDi9ib8GOfQdpixZcIQhlP57.jpg", "actors": ["Liu Xiaoqing ()", "Yin Zhi ()"], "comments": [], "recommandations_id": []}

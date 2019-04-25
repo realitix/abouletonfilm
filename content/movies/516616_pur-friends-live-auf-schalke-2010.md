@@ -1,1 +1,0 @@
-{"tmdb_id": 516616, "title": "PUR & Friends - Live auf Schalke 2010", "original_title": "PUR & Friends - Live auf Schalke 2010", "slug_title": "pur-friends-live-auf-schalke-2010", "date": "", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

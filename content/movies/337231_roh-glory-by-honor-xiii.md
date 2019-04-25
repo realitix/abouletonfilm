@@ -1,1 +1,0 @@
-{"tmdb_id": 337231, "title": "ROH Glory By Honor XIII", "original_title": "ROH Glory By Honor XIII", "slug_title": "roh-glory-by-honor-xiii", "date": "2014-11-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y9yPYgmfv8awnF4yGCdhjg9rk7I.jpg", "actors": [], "comments": [], "recommandations_id": []}

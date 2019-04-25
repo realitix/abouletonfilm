@@ -1,1 +1,0 @@
-{"tmdb_id": 91775, "title": "Rivals", "original_title": "\u0421\u043e\u043f\u0435\u0440\u043d\u0438\u043a\u0438", "slug_title": "rivals", "date": "1968-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jv2yK25I0wtJtNgAUfTGDR9Mo9l.jpg", "actors": [], "comments": [], "recommandations_id": []}

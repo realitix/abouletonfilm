@@ -1,1 +1,0 @@
-{"tmdb_id": 67983, "title": "Snow Monkeys of Japan", "original_title": "Snow Monkeys of Japan", "slug_title": "snow-monkeys-of-japan", "date": "2009-02-13", "genre": "Documentaire", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sOnYw2hOrkEnenH5XIGbrIJMIar.jpg", "actors": [], "comments": [], "recommandations_id": []}

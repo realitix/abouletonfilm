@@ -1,1 +1,0 @@
-{"tmdb_id": 357557, "title": "Princess of Power", "original_title": "Princess of Power", "slug_title": "princess-of-power", "date": "1985-09-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m5IOXQ7qiv8sTIE126dOC2q6AHv.jpg", "actors": [], "comments": [], "recommandations_id": []}

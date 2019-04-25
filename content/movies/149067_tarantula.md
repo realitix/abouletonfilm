@@ -1,1 +1,0 @@
-{"tmdb_id": 149067, "title": "Tarantula", "original_title": "Tarantula", "slug_title": "tarantula", "date": "1962-12-31", "genre": "", "score": "5.4/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r4blyCymnIuPEw6fcdWh52P0not.jpg", "actors": [], "comments": [], "recommandations_id": [289849, 255223, 179724, 255217]}

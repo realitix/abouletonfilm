@@ -1,1 +1,0 @@
-{"tmdb_id": 530188, "title": "Little Miss Red", "original_title": "Little Miss Red", "slug_title": "little-miss-red", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Peter Anderson (Gangster)", "Marie Anderson (Gangster)"], "comments": [], "recommandations_id": []}

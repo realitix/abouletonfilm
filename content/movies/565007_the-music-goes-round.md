@@ -1,1 +1,0 @@
-{"tmdb_id": 565007, "title": "The Music Goes 'Round", "original_title": "The Music Goes 'Round", "slug_title": "the-music-goes-round", "date": "1936-02-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Harry Richman (Harry Wallace)", "Rochelle Hudson (Susanna Courtney)"], "comments": [], "recommandations_id": []}

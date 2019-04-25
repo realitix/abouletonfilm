@@ -1,1 +1,0 @@
-{"tmdb_id": 388817, "title": "Scattered Remains", "original_title": "Scattered Remains", "slug_title": "scattered-remains", "date": "1988-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1wGNj4m7pF671gtTAxKxjUVqKq6.jpg", "actors": [], "comments": [], "recommandations_id": []}

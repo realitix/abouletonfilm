@@ -1,1 +1,0 @@
-{"tmdb_id": 258624, "title": "Metropolis II", "original_title": "Metropolis II", "slug_title": "metropolis-ii", "date": "2014-02-27", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Chris Burden (Himself)"], "comments": [], "recommandations_id": []}

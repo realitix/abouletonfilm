@@ -1,1 +1,0 @@
-{"tmdb_id": 425800, "title": "Shmateh III", "original_title": "Shmateh III", "slug_title": "shmateh-iii", "date": "1984-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7M7XJrs7sgjQkW42zhiyRvLSqPy.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 237022, "title": "My Old Kentucky Home", "original_title": "My Old Kentucky Home", "slug_title": "my-old-kentucky-home", "date": "1946-03-28", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fm7Ltl5ntVjFIUHaD7iN6TIlrSz.jpg", "actors": [], "comments": [], "recommandations_id": []}

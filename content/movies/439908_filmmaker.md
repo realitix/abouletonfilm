@@ -1,1 +1,0 @@
-{"tmdb_id": 439908, "title": "Filmmaker", "original_title": "Filmmaker", "slug_title": "filmmaker", "date": "1986-02-05", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z2loEvAkvJK4wCk5p5a8ihBf4El.jpg", "actors": [], "comments": [], "recommandations_id": []}

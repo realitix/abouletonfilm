@@ -1,1 +1,0 @@
-{"tmdb_id": 593733, "title": "The Melody of Decomposition", "original_title": "The Melody of Decomposition", "slug_title": "the-melody-of-decomposition", "date": "2018-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

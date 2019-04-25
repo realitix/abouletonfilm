@@ -1,1 +1,0 @@
-{"tmdb_id": 560010, "title": "Geister, die ich rief", "original_title": "Geister, die ich rief", "slug_title": "geister-die-ich-rief", "date": "2012-11-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uzFJ415zrcRzt7v1K1632pT0LXq.jpg", "actors": [], "comments": [], "recommandations_id": []}

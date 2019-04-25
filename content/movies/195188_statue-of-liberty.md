@@ -1,1 +1,0 @@
-{"tmdb_id": 195188, "title": "Statue of Liberty", "original_title": "Statue of Liberty", "slug_title": "statue-of-liberty", "date": "1898-09-20", "genre": "Documentaire", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fChF4xqBqF3tdlHAL18nT1lzrBi.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 237127, "title": "Happy Go Lucky", "original_title": "Happy Go Lucky", "slug_title": "happy-go-lucky", "date": "1947-02-27", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3wzknVUwBzQNCaU9grdwmgP5ImY.jpg", "actors": [], "comments": [], "recommandations_id": []}

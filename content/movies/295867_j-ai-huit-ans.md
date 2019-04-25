@@ -1,1 +1,0 @@
-{"tmdb_id": 295867, "title": "J'ai huit ans", "original_title": "J'ai huit ans", "slug_title": "j-ai-huit-ans", "date": "1961-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

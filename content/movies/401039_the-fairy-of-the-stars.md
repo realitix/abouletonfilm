@@ -1,1 +1,0 @@
-{"tmdb_id": 401039, "title": "The Fairy of the Stars", "original_title": "The Fairy of the Stars", "slug_title": "the-fairy-of-the-stars", "date": "1902-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

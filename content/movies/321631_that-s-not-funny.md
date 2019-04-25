@@ -1,1 +1,0 @@
-{"tmdb_id": 321631, "title": "That's Not Funny", "original_title": "That's Not Funny", "slug_title": "that-s-not-funny", "date": "2014-06-18", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b05aF6vonnVMsxjkbHRusFOY3ck.jpg", "actors": [], "comments": [], "recommandations_id": []}

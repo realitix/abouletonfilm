@@ -1,1 +1,0 @@
-{"tmdb_id": 195591, "title": "Battle of Mafeking", "original_title": "Battle of Mafeking", "slug_title": "battle-of-mafeking", "date": "1900-05-21", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

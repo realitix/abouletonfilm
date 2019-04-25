@@ -1,1 +1,0 @@
-{"tmdb_id": 355244, "title": "Choque de Civiliza\u00e7\u00f5es", "original_title": "Choque de Civiliza\u00e7\u00f5es", "slug_title": "choque-de-civilizacoes", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

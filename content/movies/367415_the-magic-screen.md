@@ -1,1 +1,0 @@
-{"tmdb_id": 367415, "title": "The Magic Screen", "original_title": "La vela incantata", "slug_title": "the-magic-screen", "date": "1982-05-15", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fbzpIHbVp1vIGVx5OwfIF7wlIQs.jpg", "actors": [], "comments": [], "recommandations_id": []}

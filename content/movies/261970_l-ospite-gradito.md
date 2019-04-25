@@ -1,1 +1,0 @@
-{"tmdb_id": 261970, "title": "L'ospite gradito", "original_title": "L'ospite gradito", "slug_title": "l-ospite-gradito", "date": "1963-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uS0AYMri5g4WDsChAttWx6Fevy1.jpg", "actors": ["Peppino De Filippo ()"], "comments": [], "recommandations_id": []}

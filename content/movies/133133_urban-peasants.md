@@ -1,1 +1,0 @@
-{"tmdb_id": 133133, "title": "Urban Peasants", "original_title": "Urban Peasants", "slug_title": "urban-peasants", "date": "1975-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ex3NKDSEdex9r5sHj2h6DC0mT2D.jpg", "actors": [], "comments": [], "recommandations_id": []}

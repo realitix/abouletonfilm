@@ -1,1 +1,0 @@
-{"tmdb_id": 310392, "title": "LFO: Live from Orlando & More", "original_title": "LFO: Live from Orlando & More", "slug_title": "lfo-live-from-orlando-more", "date": "1999-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

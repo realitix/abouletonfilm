@@ -1,1 +1,0 @@
-{"tmdb_id": 395029, "title": "Talon: An Eagle\u2019s Story", "original_title": "Talon: An Eagle\u2019s Story", "slug_title": "talon-an-eagles-story", "date": "1999-04-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zDdWp3jWzJteZRDkRTE1xL0VQf1.jpg", "actors": [], "comments": [], "recommandations_id": []}

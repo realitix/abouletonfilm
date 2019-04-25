@@ -1,1 +1,0 @@
-{"tmdb_id": 232705, "title": "AMV Hell 6.66: This Is (Not) the End", "original_title": "AMV Hell 6.66: This Is (Not) the End", "slug_title": "amv-hell-6-66-this-is-not-the-end", "date": "2013-03-30", "genre": "Animation / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

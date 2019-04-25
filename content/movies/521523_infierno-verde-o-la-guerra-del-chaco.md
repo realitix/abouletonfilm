@@ -1,1 +1,0 @@
-{"tmdb_id": 521523, "title": "Infierno Verde o La Guerra del Chaco", "original_title": "Infierno Verde o La Guerra del Chaco", "slug_title": "infierno-verde-o-la-guerra-del-chaco", "date": "1936-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 551875, "title": "Abhadra", "original_title": "Abhadra", "slug_title": "abhadra", "date": "2014-05-09", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2lLKIKHKmA46im9kUKv6zx11J8i.jpg", "actors": ["Chiranjeet Borah ()", "FairyPriya Ahmed ()"], "comments": [], "recommandations_id": []}

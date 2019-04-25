@@ -1,1 +1,0 @@
-{"tmdb_id": 341375, "title": "Redshift", "original_title": "Redshift", "slug_title": "redshift", "date": "2001-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rWB1hX4EHb4mlHre0ZGbhHApQDm.jpg", "actors": [], "comments": [], "recommandations_id": []}

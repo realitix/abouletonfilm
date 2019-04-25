@@ -1,1 +1,0 @@
-{"tmdb_id": 558697, "title": "Aquaculture", "original_title": "Aquaculture", "slug_title": "aquaculture", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Josephine Decker (Charlotte)", "Abigail Wahl ()"], "comments": [], "recommandations_id": []}

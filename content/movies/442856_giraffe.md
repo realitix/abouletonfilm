@@ -1,1 +1,0 @@
-{"tmdb_id": 442856, "title": "Giraffe", "original_title": "Giraffe", "slug_title": "giraffe", "date": "2016-11-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9oxk0PYW7bDeFCmn3wg1oZc2sv5.jpg", "actors": [], "comments": [], "recommandations_id": []}

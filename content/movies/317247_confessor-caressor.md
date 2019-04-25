@@ -1,1 +1,0 @@
-{"tmdb_id": 317247, "title": "Confessor Caressor", "original_title": "Confessor Caressor", "slug_title": "confessor-caressor", "date": "1989-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Nicholas Hope (Michael Freely)"], "comments": [], "recommandations_id": []}

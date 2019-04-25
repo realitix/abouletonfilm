@@ -1,1 +1,0 @@
-{"tmdb_id": 263147, "title": "Douaumont - The Hell of Verdun", "original_title": "Douaumont", "slug_title": "douaumont-the-hell-of-verdun", "date": "1931-08-12", "genre": "Guerre / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bqa48WzdvtdSj8P5iy14zAEZZiX.jpg", "actors": [], "comments": [], "recommandations_id": []}

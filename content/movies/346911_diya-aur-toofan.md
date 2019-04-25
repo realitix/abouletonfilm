@@ -1,1 +1,0 @@
-{"tmdb_id": 346911, "title": "Diya Aur Toofan", "original_title": "Diya Aur Toofan", "slug_title": "diya-aur-toofan", "date": "1995-10-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k9asorUNg2fSR87J8x12Doo0PIY.jpg", "actors": [], "comments": [], "recommandations_id": []}

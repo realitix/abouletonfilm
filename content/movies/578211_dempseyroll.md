@@ -1,1 +1,0 @@
-{"tmdb_id": 578211, "title": "Dempseyroll", "original_title": "\ub380\ud504\uc2dc\ub864", "slug_title": "dempseyroll", "date": "2019-12-31", "genre": "Com\u00e9die / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Um Tae-goo ()", "Lee Hye-ri ()", "Kim Hee-won ()", "Choi Jun-young ()"], "comments": [], "recommandations_id": []}

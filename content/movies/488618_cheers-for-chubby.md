@@ -1,1 +1,0 @@
-{"tmdb_id": 488618, "title": "Cheers for Chubby", "original_title": "Cheers for Chubby", "slug_title": "cheers-for-chubby", "date": "1951-06-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2QFIFcYRwB6XntOSVRgcYhBOuOz.jpg", "actors": ["Ken Carpenter (Narrator)"], "comments": [], "recommandations_id": []}

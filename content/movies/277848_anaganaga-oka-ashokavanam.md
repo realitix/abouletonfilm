@@ -1,1 +1,0 @@
-{"tmdb_id": 277848, "title": "Anaganaga Oka Ashokavanam", "original_title": "Anaganaga Oka Ashokavanam", "slug_title": "anaganaga-oka-ashokavanam", "date": "2016-06-25", "genre": "Thriller", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mohan ()", "Tejaswini Prakash ()", "Brahmanandam ()"], "comments": [], "recommandations_id": []}

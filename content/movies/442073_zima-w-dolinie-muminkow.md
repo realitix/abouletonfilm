@@ -1,1 +1,0 @@
-{"tmdb_id": 442073, "title": "Zima w dolinie Muminkow", "original_title": "Zima w dolinie Muminkow", "slug_title": "zima-w-dolinie-muminkow", "date": "1987-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A0Qwypd2JE1eEJMAR6rizmSLBJv.jpg", "actors": [], "comments": [], "recommandations_id": []}

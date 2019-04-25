@@ -1,1 +1,0 @@
-{"tmdb_id": 324784, "title": "Fuck You G.I.", "original_title": "Fuck You G.I.", "slug_title": "fuck-you-g-i", "date": "1984-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

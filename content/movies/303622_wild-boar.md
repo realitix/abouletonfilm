@@ -1,1 +1,0 @@
-{"tmdb_id": 303622, "title": "Wild Boar", "original_title": "Wild Zwijn", "slug_title": "wild-boar", "date": "2013-10-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6iSIMYdXnTScIHcUsKTfPR63zMr.jpg", "actors": [], "comments": [], "recommandations_id": []}

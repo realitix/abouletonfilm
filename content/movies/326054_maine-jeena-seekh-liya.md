@@ -1,1 +1,0 @@
-{"tmdb_id": 326054, "title": "Maine Jeena Seekh Liya", "original_title": "Maine Jeena Seekh Liya", "slug_title": "maine-jeena-seekh-liya", "date": "1982-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

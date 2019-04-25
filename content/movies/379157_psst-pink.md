@@ -1,1 +1,0 @@
-{"tmdb_id": 379157, "title": "Psst Pink", "original_title": "Psst Pink", "slug_title": "psst-pink", "date": "1971-09-15", "genre": "Animation", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7uYCaflsGr2u5JdCaQ52nyAhVrV.jpg", "actors": [], "comments": [], "recommandations_id": []}

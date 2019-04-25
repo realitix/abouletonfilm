@@ -1,1 +1,0 @@
-{"tmdb_id": 369686, "title": "The Chechen", "original_title": "\u0427\u0435\u0447\u0435\u043d", "slug_title": "the-chechen", "date": "2015-11-21", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eBc2WyKXSCAOQstUS6eQr6xxWeM.jpg", "actors": [], "comments": [], "recommandations_id": []}

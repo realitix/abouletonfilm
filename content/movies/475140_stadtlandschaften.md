@@ -1,1 +1,0 @@
-{"tmdb_id": 475140, "title": "Stadtlandschaften", "original_title": "Stadtlandschaften", "slug_title": "stadtlandschaften", "date": "1981-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

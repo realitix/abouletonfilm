@@ -1,1 +1,0 @@
-{"tmdb_id": 528684, "title": "K-1 GP '95 Opening Battle", "original_title": "K-1 GP '95 Opening Battle", "slug_title": "k-1-gp-95-opening-battle", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

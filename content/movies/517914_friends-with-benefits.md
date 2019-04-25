@@ -1,1 +1,0 @@
-{"tmdb_id": 517914, "title": "Friends with benefits", "original_title": "Friends with benefits", "slug_title": "friends-with-benefits", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

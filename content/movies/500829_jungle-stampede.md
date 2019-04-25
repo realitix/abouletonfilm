@@ -1,1 +1,0 @@
-{"tmdb_id": 500829, "title": "Jungle Stampede", "original_title": "Jungle Stampede", "slug_title": "jungle-stampede", "date": "1950-07-28", "genre": "Action / Aventure", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/io99xFmh9T12U4L4ZftSId0Arbr.jpg", "actors": [], "comments": [], "recommandations_id": []}

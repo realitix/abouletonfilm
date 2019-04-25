@@ -1,1 +1,0 @@
-{"tmdb_id": 349678, "title": "\ud30c\ud2b8\ub108", "original_title": "\ud30c\ud2b8\ub108", "slug_title": "pateuneo", "date": "1997-05-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

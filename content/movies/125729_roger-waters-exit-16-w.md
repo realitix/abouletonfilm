@@ -1,1 +1,0 @@
-{"tmdb_id": 125729, "title": "Roger Waters - Exit 16 W", "original_title": "Roger Waters - Exit 16 W", "slug_title": "roger-waters-exit-16-w", "date": "1984-07-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lEwMuxfWCiIvxoqMQCAl2rydnBs.jpg", "actors": [], "comments": [], "recommandations_id": []}

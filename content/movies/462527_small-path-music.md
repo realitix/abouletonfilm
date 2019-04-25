@@ -1,1 +1,0 @@
-{"tmdb_id": 462527, "title": "Small Path Music", "original_title": "Small Path Music", "slug_title": "small-path-music", "date": "2013-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nzY802lBZQ5xTaP9FMYEZMHLLCr.jpg", "actors": ["Laurent Jeanneau (Himself)"], "comments": [], "recommandations_id": []}

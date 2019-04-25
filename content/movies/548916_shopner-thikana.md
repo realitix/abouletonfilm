@@ -1,1 +1,0 @@
-{"tmdb_id": 548916, "title": "Shopner Thikana", "original_title": "\u09b8\u09cd\u09ac\u09aa\u09cd\u09a8\u09c7\u09b0 \u09a0\u09bf\u0995\u09be\u09a8\u09be", "slug_title": "shopner-thikana", "date": "1995-05-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

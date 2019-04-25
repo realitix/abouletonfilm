@@ -1,1 +1,0 @@
-{"tmdb_id": 328926, "title": "Jean Lewis", "original_title": "Jean Lewis", "slug_title": "jean-lewis", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

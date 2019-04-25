@@ -1,1 +1,0 @@
-{"tmdb_id": 189550, "title": "Dinky Doodle's Bed Time Story", "original_title": "Dinky Doodle's Bed Time Story", "slug_title": "dinky-doodle-s-bed-time-story", "date": "1926-06-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nQkK9bCgwo4ut2zPMoBDSPRnf9O.jpg", "actors": [], "comments": [], "recommandations_id": []}

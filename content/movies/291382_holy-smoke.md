@@ -1,1 +1,0 @@
-{"tmdb_id": 291382, "title": "Holy Smoke!", "original_title": "Holy Smoke!", "slug_title": "holy-smoke", "date": "1963-01-01", "genre": "Animation", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i8CUr8YcM1V2u1rV2Orv7CiHWSI.jpg", "actors": [], "comments": [], "recommandations_id": []}

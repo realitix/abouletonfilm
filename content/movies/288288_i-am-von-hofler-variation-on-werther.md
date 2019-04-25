@@ -1,1 +1,0 @@
-{"tmdb_id": 288288, "title": "I am Von H\u00f6fler Variation on Werther", "original_title": "I am Von H\u00f6fler Variation on Werther", "slug_title": "i-am-von-hofler-variation-on-werther", "date": "2008-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

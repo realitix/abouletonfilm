@@ -1,1 +1,0 @@
-{"tmdb_id": 291313, "title": "Legend of Loch Lomond", "original_title": "Legend of Loch Lomond", "slug_title": "legend-of-loch-lomond", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

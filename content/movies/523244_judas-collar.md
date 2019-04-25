@@ -1,1 +1,0 @@
-{"tmdb_id": 523244, "title": "Judas Collar", "original_title": "Judas Collar", "slug_title": "judas-collar", "date": "2018-06-10", "genre": "Drame / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jx1E1g3SWwPVNqPH1yPlFiDDvkq.jpg", "actors": [], "comments": [], "recommandations_id": []}

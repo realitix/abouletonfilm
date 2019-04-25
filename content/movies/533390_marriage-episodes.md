@@ -1,1 +1,0 @@
-{"tmdb_id": 533390, "title": "Marriage Episodes", "original_title": "Sc\u00e8nes de m\u00e9nage", "slug_title": "marriage-episodes", "date": "1954-09-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/73x6YMk6PGjetzLUM42WeNYoDNx.jpg", "actors": [], "comments": [], "recommandations_id": []}

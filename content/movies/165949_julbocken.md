@@ -1,1 +1,0 @@
-{"tmdb_id": 165949, "title": "Julbocken", "original_title": "Julbocken", "slug_title": "julbocken", "date": "2012-12-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

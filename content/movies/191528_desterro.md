@@ -1,1 +1,0 @@
-{"tmdb_id": 191528, "title": "Desterro", "original_title": "Desterro", "slug_title": "desterro", "date": "2012-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3AajLFuug0htSJcTYhoFSIGRTJT.jpg", "actors": [], "comments": [], "recommandations_id": []}

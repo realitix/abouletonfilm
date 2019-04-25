@@ -1,1 +1,0 @@
-{"tmdb_id": 531568, "title": "The Outlaw's Wife", "original_title": "Zbojn\u00edkova \u017eena", "slug_title": "the-outlaw-s-wife", "date": "1981-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

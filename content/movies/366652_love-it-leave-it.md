@@ -1,1 +1,0 @@
-{"tmdb_id": 366652, "title": "Love It, Leave It", "original_title": "Love It, Leave It", "slug_title": "love-it-leave-it", "date": "1973-11-04", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pRxgZ2ZIzYKUzKCgvJ0iFO23K1o.jpg", "actors": [], "comments": [], "recommandations_id": []}

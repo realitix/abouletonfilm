@@ -1,1 +1,0 @@
-{"tmdb_id": 188278, "title": "Murky Papers", "original_title": "Murky Papers", "slug_title": "murky-papers", "date": "2011-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

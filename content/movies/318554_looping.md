@@ -1,1 +1,0 @@
-{"tmdb_id": 318554, "title": "Looping", "original_title": "Looping", "slug_title": "looping", "date": "2014-11-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jean-Pierre Mocky ()", "Jean-Pierre Mocky (archival material)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 543400, "title": "The Male GaYze", "original_title": "The Male GaYze", "slug_title": "the-male-gayze", "date": "1990-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

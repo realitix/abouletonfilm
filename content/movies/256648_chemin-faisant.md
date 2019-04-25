@@ -1,1 +1,0 @@
-{"tmdb_id": 256648, "title": "Chemin faisant", "original_title": "Chemin faisant", "slug_title": "chemin-faisant", "date": "2012-08-04", "genre": "Animation / Musique", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/96LXjt1qymUQQuhLB7etzMRL97M.jpg", "actors": [], "comments": [], "recommandations_id": [256574, 234467, 256581, 256650]}

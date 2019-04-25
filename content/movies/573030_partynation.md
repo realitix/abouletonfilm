@@ -1,1 +1,0 @@
-{"tmdb_id": 573030, "title": "Partynation", "original_title": "Partynation", "slug_title": "partynation", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Alexander Fehling (King)", "Andr\u00e9 Hennicke (Loosi)", "Uwe Preuss (Mekki)", "Anne Ratte-Polle (Alexandra)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 274913, "title": "In Spring One Plants Alone", "original_title": "In Spring One Plants Alone", "slug_title": "in-spring-one-plants-alone", "date": "1980-07-31", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zHdGVQhoRk9yoBzP2fhN7tJmg7l.jpg", "actors": [], "comments": [], "recommandations_id": []}

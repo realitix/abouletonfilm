@@ -1,1 +1,0 @@
-{"tmdb_id": 564472, "title": "La Umbr\u00eda", "original_title": "La Umbr\u00eda", "slug_title": "la-umbria", "date": "1975-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iRaBzN4bKC34zLuSa0ZifUcedjY.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 561792, "title": "My Darned Father", "original_title": "Mon coquin de p\u00e8re", "slug_title": "my-darned-father", "date": "1958-06-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ePtsd7blNZaSULfqapQID9L3kiB.jpg", "actors": [], "comments": [], "recommandations_id": []}

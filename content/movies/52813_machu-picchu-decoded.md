@@ -1,1 +1,0 @@
-{"tmdb_id": 52813, "title": "Machu Picchu Decoded", "original_title": "Machu Picchu Decoded", "slug_title": "machu-picchu-decoded", "date": "2010-07-05", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sKZfB0Qu90NBAOi958F4iIIsWqF.jpg", "actors": [], "comments": [], "recommandations_id": []}

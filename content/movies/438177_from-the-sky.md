@@ -1,1 +1,0 @@
-{"tmdb_id": 438177, "title": "From the Sky", "original_title": "From the Sky", "slug_title": "from-the-sky", "date": "2014-04-30", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9qjvbYVYiognLTtHTLfWg3v6B8T.jpg", "actors": [], "comments": [], "recommandations_id": []}

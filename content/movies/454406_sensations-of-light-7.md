@@ -1,1 +1,0 @@
-{"tmdb_id": 454406, "title": "Sensations of Light, #7", "original_title": "Sensations of Light, #7", "slug_title": "sensations-of-light-7", "date": "2016-06-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dgEVM0QdxeQGNfjWHOzn9Cp1Tq0.jpg", "actors": [], "comments": [], "recommandations_id": []}

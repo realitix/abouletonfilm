@@ -1,1 +1,0 @@
-{"tmdb_id": 310247, "title": "Amphibious Assault", "original_title": "Amphibious Assault", "slug_title": "amphibious-assault", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

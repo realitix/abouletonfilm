@@ -1,1 +1,0 @@
-{"tmdb_id": 587686, "title": "Broken Record", "original_title": "Broken Record", "slug_title": "broken-record", "date": "2013-10-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

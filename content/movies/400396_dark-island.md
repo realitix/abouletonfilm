@@ -1,1 +1,0 @@
-{"tmdb_id": 400396, "title": "Dark Island", "original_title": "Dark Island", "slug_title": "dark-island", "date": "2009-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/umN8H8hlChFsCr4sR5MdPrhapFo.jpg", "actors": [], "comments": [], "recommandations_id": []}

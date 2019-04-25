@@ -1,1 +1,0 @@
-{"tmdb_id": 529888, "title": "Vis \u00e0 Vis", "original_title": "Vis \u00e0 Vis", "slug_title": "vis-a-vis", "date": "2015-07-07", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dan Connolly (Martin)", "David Harrison (Ricky)", "Amy Lehpamer (Cindy)", "Belinda Misevski (Lara)"], "comments": [], "recommandations_id": []}

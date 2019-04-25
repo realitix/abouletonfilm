@@ -1,1 +1,0 @@
-{"tmdb_id": 358147, "title": "Come Saturday", "original_title": "Come Saturday", "slug_title": "come-saturday", "date": "1949-01-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tLoq6Nt7qOBFh8VZuLt94GmlZ5Z.jpg", "actors": ["Ralph Richardson (Narrator)"], "comments": [], "recommandations_id": []}

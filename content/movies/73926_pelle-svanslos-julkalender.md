@@ -1,1 +1,0 @@
-{"tmdb_id": 73926, "title": "Pelle Svansl\u00f6s - Julkalender", "original_title": "Pelle Svansl\u00f6s - Julkalender", "slug_title": "pelle-svanslos-julkalender", "date": "1997-12-24", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4Z8zVrl4S9gM8ODuqFuSuKyqV0N.jpg", "actors": [], "comments": [], "recommandations_id": []}

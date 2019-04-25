@@ -1,1 +1,0 @@
-{"tmdb_id": 556096, "title": "The Ghost Behind", "original_title": "The Ghost Behind", "slug_title": "the-ghost-behind", "date": "2018-10-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7KJUf3oNs5SY8dU6B59gKkL93mP.jpg", "actors": [], "comments": [], "recommandations_id": []}

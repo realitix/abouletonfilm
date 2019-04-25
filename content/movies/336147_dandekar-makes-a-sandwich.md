@@ -1,1 +1,0 @@
-{"tmdb_id": 336147, "title": "Dandekar Makes a Sandwich", "original_title": "Dandekar Makes a Sandwich", "slug_title": "dandekar-makes-a-sandwich", "date": "2015-03-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

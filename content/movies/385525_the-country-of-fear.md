@@ -1,1 +1,0 @@
-{"tmdb_id": 385525, "title": "The Country of Fear", "original_title": "The Country of Fear", "slug_title": "the-country-of-fear", "date": "2015-04-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

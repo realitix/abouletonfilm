@@ -1,1 +1,0 @@
-{"tmdb_id": 304586, "title": "Rabbit Over the Void", "original_title": "Rabbit Over the Void", "slug_title": "rabbit-over-the-void", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

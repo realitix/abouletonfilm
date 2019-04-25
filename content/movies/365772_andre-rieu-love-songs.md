@@ -1,1 +1,0 @@
-{"tmdb_id": 365772, "title": "Andre Rieu - Love Songs", "original_title": "Andre Rieu - Love Songs", "slug_title": "andre-rieu-love-songs", "date": "2005-10-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/91BV8rw0B94kHA7KtSObaZuFMJR.jpg", "actors": ["Andr\u00e9 Rieu ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 384233, "title": "The Life and Times of Thomas Thumb Jr.", "original_title": "The Life and Times of Thomas Thumb Jr.", "slug_title": "the-life-and-times-of-thomas-thumb-jr", "date": "2016-02-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

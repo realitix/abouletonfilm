@@ -1,1 +1,0 @@
-{"tmdb_id": 446186, "title": "These Wild Things", "original_title": "These Wild Things", "slug_title": "these-wild-things", "date": "2016-10-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jamie Neumann (Norma)", "Joshua Sienkiewicz (Daniel)"], "comments": [], "recommandations_id": []}

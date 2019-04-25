@@ -1,1 +1,0 @@
-{"tmdb_id": 565481, "title": "The Decayed", "original_title": "The Decayed", "slug_title": "the-decayed", "date": "2017-08-27", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fhbWieHqggsLR0oX34vBopXBoqo.jpg", "actors": [], "comments": [], "recommandations_id": []}

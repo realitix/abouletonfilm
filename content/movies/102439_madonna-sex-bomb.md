@@ -1,1 +1,0 @@
-{"tmdb_id": 102439, "title": "Madonna: Sex Bomb", "original_title": "Madonna: Sex Bomb", "slug_title": "madonna-sex-bomb", "date": "2009-02-19", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wfRMR79nECBxHgOCfs7KvXTBJfa.jpg", "actors": [], "comments": [], "recommandations_id": []}

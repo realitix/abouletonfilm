@@ -1,1 +1,0 @@
-{"tmdb_id": 376486, "title": "The Illusionists", "original_title": "The Illusionists", "slug_title": "the-illusionists", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

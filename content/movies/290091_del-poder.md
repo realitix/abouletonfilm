@@ -1,1 +1,0 @@
-{"tmdb_id": 290091, "title": "Del poder", "original_title": "Del poder", "slug_title": "del-poder", "date": "2011-07-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3HVivZtsnCQgCTvDvFEp36ZlIId.jpg", "actors": [], "comments": [], "recommandations_id": []}

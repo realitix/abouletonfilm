@@ -1,1 +1,0 @@
-{"tmdb_id": 582935, "title": "Tokimeki Memorial: Only Love - Tokimeki no Yuuki", "original_title": "Tokimeki Memorial: Only Love - Tokimeki no Yuuki", "slug_title": "tokimeki-memorial-only-love-tokimeki-no-yuuki", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

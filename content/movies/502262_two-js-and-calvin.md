@@ -1,1 +1,0 @@
-{"tmdb_id": 502262, "title": "Two Js and Calvin", "original_title": "Two Js and Calvin", "slug_title": "two-js-and-calvin", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Daniel Whitehouse (The Moist Boy)"], "comments": [], "recommandations_id": []}

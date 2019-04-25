@@ -1,1 +1,0 @@
-{"tmdb_id": 334143, "title": "Curse of the Insect Woman", "original_title": "Curse of the Insect Woman", "slug_title": "curse-of-the-insect-woman", "date": "2011-06-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

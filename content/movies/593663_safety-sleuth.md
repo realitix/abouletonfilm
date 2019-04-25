@@ -1,1 +1,0 @@
-{"tmdb_id": 593663, "title": "Safety Sleuth", "original_title": "Safety Sleuth", "slug_title": "safety-sleuth", "date": "1944-11-25", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pete Smith (Pete Smith - Narrator)", "Dave O'Brien (Careless Man)"], "comments": [], "recommandations_id": []}

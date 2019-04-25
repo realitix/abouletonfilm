@@ -1,1 +1,0 @@
-{"tmdb_id": 322950, "title": "Our Magazine No. 4", "original_title": "Our Magazine No. 4", "slug_title": "our-magazine-no-4", "date": "1952-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 175230, "title": "Lights and Shadows in a City of a Million", "original_title": "Lights and Shadows in a City of a Million", "slug_title": "lights-and-shadows-in-a-city-of-a-million", "date": "1920-03-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

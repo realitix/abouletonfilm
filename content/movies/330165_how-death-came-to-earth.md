@@ -1,1 +1,0 @@
-{"tmdb_id": 330165, "title": "How Death Came to Earth", "original_title": "How Death Came to Earth", "slug_title": "how-death-came-to-earth", "date": "1971-03-04", "genre": "Animation / Fantastique", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vCFehx4lRqHqfU99z7Fe4cTqRk4.jpg", "actors": [], "comments": [], "recommandations_id": []}

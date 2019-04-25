@@ -1,1 +1,0 @@
-{"tmdb_id": 520592, "title": "The Misfortunes of Some", "original_title": "Massa\u2019ibu Qawmen", "slug_title": "the-misfortunes-of-some", "date": "1981-04-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

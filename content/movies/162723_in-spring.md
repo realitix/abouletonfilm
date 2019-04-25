@@ -1,1 +1,0 @@
-{"tmdb_id": 162723, "title": "In Spring", "original_title": "\u0412\u0435\u0441\u043d\u043e\u0439", "slug_title": "in-spring", "date": "1929-04-14", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xvdVNZMTzuET8tlvids8v0CYoAy.jpg", "actors": [], "comments": [], "recommandations_id": []}

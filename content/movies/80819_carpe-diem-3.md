@@ -1,1 +1,0 @@
-{"tmdb_id": 80819, "title": "Carpe Diem 3", "original_title": "Carpe Diem 3", "slug_title": "carpe-diem-3", "date": "2006-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sEWbWPEIHs3rJI4tHsDnuNTG7xA.jpg", "actors": [], "comments": [], "recommandations_id": []}

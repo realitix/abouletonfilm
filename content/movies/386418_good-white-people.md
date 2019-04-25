@@ -1,1 +1,0 @@
-{"tmdb_id": 386418, "title": "Good White People", "original_title": "Good White People", "slug_title": "good-white-people", "date": "2016-11-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bTZ2gLE8TtDA5Uieh7zzZlbbbFp.jpg", "actors": [], "comments": [], "recommandations_id": []}

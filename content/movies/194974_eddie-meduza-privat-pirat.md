@@ -1,1 +1,0 @@
-{"tmdb_id": 194974, "title": "Eddie Meduza - Privat Pirat", "original_title": "Eddie Meduza - Privat Pirat", "slug_title": "eddie-meduza-privat-pirat", "date": "", "genre": "", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3ybhGaC1XsEZBlZzJjKji3Pqft4.jpg", "actors": [], "comments": [], "recommandations_id": []}

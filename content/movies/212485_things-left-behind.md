@@ -1,1 +1,0 @@
-{"tmdb_id": 212485, "title": "Things Left Behind", "original_title": "Things Left Behind", "slug_title": "things-left-behind", "date": "2012-09-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3sBlnQjW9cvc5ZPr1nYNcsthOk7.jpg", "actors": [], "comments": [], "recommandations_id": []}

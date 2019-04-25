@@ -1,1 +1,0 @@
-{"tmdb_id": 48966, "title": "The Luckiest Man", "original_title": "The Luckiest Man", "slug_title": "the-luckiest-man", "date": "2009-08-21", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yCcDjrMdCc1u3hjGORu1HCwXYZZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

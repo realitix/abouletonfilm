@@ -1,1 +1,0 @@
-{"tmdb_id": 184365, "title": "Horace Greeley, Jr.", "original_title": "Horace Greeley, Jr.", "slug_title": "horace-greeley-jr", "date": "1925-06-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Harry Langdon ()"], "comments": [], "recommandations_id": []}

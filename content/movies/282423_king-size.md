@@ -1,1 +1,0 @@
-{"tmdb_id": 282423, "title": "King Size", "original_title": "King Size", "slug_title": "king-size", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q3iL4PB7rtmpJtzkukWUvy2Yq8i.jpg", "actors": [], "comments": [], "recommandations_id": []}

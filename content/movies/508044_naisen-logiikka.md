@@ -1,1 +1,0 @@
-{"tmdb_id": 508044, "title": "Naisen logiikka", "original_title": "Naisen logiikka", "slug_title": "naisen-logiikka", "date": "1999-05-21", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

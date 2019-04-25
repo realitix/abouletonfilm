@@ -1,1 +1,0 @@
-{"tmdb_id": 529698, "title": "False Fiend", "original_title": "False Fiend", "slug_title": "false-fiend", "date": "", "genre": "Com\u00e9die / Drame / Myst\u00e8re", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Daniel Doheny (Joel)", "Kane Stewart (Romley)", "Rodney Howdle (Lone Man)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 309758, "title": "Rocketbook: The Crucible", "original_title": "Rocketbook: The Crucible", "slug_title": "rocketbook-the-crucible", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

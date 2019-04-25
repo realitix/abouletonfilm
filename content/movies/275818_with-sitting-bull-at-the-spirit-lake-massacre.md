@@ -1,1 +1,0 @@
-{"tmdb_id": 275818, "title": "With Sitting Bull at the Spirit Lake Massacre", "original_title": "With Sitting Bull at the Spirit Lake Massacre", "slug_title": "with-sitting-bull-at-the-spirit-lake-massacre", "date": "1927-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

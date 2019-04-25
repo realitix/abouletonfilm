@@ -1,1 +1,0 @@
-{"tmdb_id": 583576, "title": "Dulce Venganza 4", "original_title": "Dulce Venganza 4", "slug_title": "dulce-venganza-4", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

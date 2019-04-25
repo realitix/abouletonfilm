@@ -1,1 +1,0 @@
-{"tmdb_id": 368225, "title": "The Gap in the Curtain", "original_title": "The Gap in the Curtain", "slug_title": "the-gap-in-the-curtain", "date": "1989-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kG59sWgsQ3rLgwiMh2Pr77UJCQe.jpg", "actors": [], "comments": [], "recommandations_id": []}

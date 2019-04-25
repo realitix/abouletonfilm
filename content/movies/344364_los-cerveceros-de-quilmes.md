@@ -1,1 +1,0 @@
-{"tmdb_id": 344364, "title": "Los cerveceros de Quilmes", "original_title": "Los cerveceros de Quilmes", "slug_title": "los-cerveceros-de-quilmes", "date": "2012-03-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eQ4euduYpJFbXY5mTEWoJNVY6vD.jpg", "actors": [], "comments": [], "recommandations_id": []}

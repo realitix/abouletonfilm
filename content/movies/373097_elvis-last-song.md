@@ -1,1 +1,0 @@
-{"tmdb_id": 373097, "title": "Elvis Last Song", "original_title": "Elvis Last Song", "slug_title": "elvis-last-song", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 402624, "title": "Intango yo Gusara", "original_title": "Intango yo Gusara", "slug_title": "intango-yo-gusara", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/37CipKrdGOLSNgT6Py1kuAkBhQY.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 283190, "title": "The Film Peddler", "original_title": "The Film Peddler", "slug_title": "the-film-peddler", "date": "2011-07-29", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9M1guJWu51ZoUa49X1nUzVqoRiD.jpg", "actors": [], "comments": [], "recommandations_id": []}

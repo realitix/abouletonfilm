@@ -1,1 +1,0 @@
-{"tmdb_id": 216926, "title": "The Cramp", "original_title": "El calambre", "slug_title": "the-cramp", "date": "2009-09-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xYDnMz8vpGUXaDFZMHVjKlrtPaK.jpg", "actors": [], "comments": [], "recommandations_id": []}

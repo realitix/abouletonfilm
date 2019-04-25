@@ -1,1 +1,0 @@
-{"tmdb_id": 285007, "title": "The Magicians of Wanzerb\u00e9", "original_title": "Les magiciens de Wanzerb\u00e9", "slug_title": "the-magicians-of-wanzerbe", "date": "1948-01-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

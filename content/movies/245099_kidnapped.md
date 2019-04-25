@@ -1,1 +1,0 @@
-{"tmdb_id": 245099, "title": "Kidnapped", "original_title": "Kidnapped", "slug_title": "kidnapped", "date": "2008-04-29", "genre": "Animation / Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zV9KE4zEqP1vafnVTQi8N39uPpd.jpg", "actors": [], "comments": [], "recommandations_id": []}

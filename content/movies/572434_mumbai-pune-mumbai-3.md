@@ -1,1 +1,0 @@
-{"tmdb_id": 572434, "title": "Mumbai Pune Mumbai 3", "original_title": "Mumbai Pune Mumbai 3", "slug_title": "mumbai-pune-mumbai-3", "date": "2018-12-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tbmm3oLFukPzcFsjDmxrdaHXfFR.jpg", "actors": [], "comments": [], "recommandations_id": []}

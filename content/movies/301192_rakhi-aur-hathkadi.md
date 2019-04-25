@@ -1,1 +1,0 @@
-{"tmdb_id": 301192, "title": "Rakhi Aur Hathkadi", "original_title": "Rakhi Aur Hathkadi", "slug_title": "rakhi-aur-hathkadi", "date": "1972-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

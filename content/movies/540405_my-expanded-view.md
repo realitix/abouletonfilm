@@ -1,1 +1,0 @@
-{"tmdb_id": 540405, "title": "My Expanded View", "original_title": "My Expanded View", "slug_title": "my-expanded-view", "date": "2018-09-19", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

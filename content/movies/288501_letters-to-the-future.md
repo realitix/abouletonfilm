@@ -1,1 +1,0 @@
-{"tmdb_id": 288501, "title": "Letters to the Future", "original_title": "Letters to the Future", "slug_title": "letters-to-the-future", "date": "2014-07-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dbmjlUl14jCXoCI1raLR1IGRC4m.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 319849, "title": "An Evening with Pl\u00e1cido Domingo", "original_title": "An Evening with Pl\u00e1cido Domingo", "slug_title": "an-evening-with-placido-domingo", "date": "1987-02-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

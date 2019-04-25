@@ -1,1 +1,0 @@
-{"tmdb_id": 569695, "title": "Drug Wars: The camarena story", "original_title": "Drug Wars: The camarena story", "slug_title": "drug-wars-the-camarena-story", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

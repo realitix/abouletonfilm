@@ -1,1 +1,0 @@
-{"tmdb_id": 282824, "title": "Sacagawea", "original_title": "Sacagawea", "slug_title": "sacagawea", "date": "2003-07-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

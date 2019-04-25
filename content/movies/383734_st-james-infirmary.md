@@ -1,1 +1,0 @@
-{"tmdb_id": 383734, "title": "St. James Infirmary", "original_title": "St. James Infirmary", "slug_title": "st-james-infirmary", "date": "2010-06-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9vEgCft5HYfN7ISp6FdUuatEY8d.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 396388, "title": "The Big One", "original_title": "The Big One", "slug_title": "the-big-one", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rick Armstrong ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 302298, "title": "Dal Puri Diaspora", "original_title": "Dal Puri Diaspora", "slug_title": "dal-puri-diaspora", "date": "2012-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u5cs8e1k1ltC9bAj13enUdpb0WP.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 308785, "title": "Mensen van morgen", "original_title": "Mensen van morgen", "slug_title": "mensen-van-morgen", "date": "1964-10-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 276420, "title": "Minister", "original_title": "Minister", "slug_title": "minister", "date": "2002-02-16", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

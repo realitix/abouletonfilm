@@ -1,1 +1,0 @@
-{"tmdb_id": 576169, "title": "The Last of the Polish Jews", "original_title": "The Last of the Polish Jews", "slug_title": "the-last-of-the-polish-jews", "date": "2019-01-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

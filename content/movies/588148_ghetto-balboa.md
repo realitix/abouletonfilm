@@ -1,1 +1,0 @@
-{"tmdb_id": 588148, "title": "Ghetto Balboa", "original_title": "Ghetto Balboa", "slug_title": "ghetto-balboa", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ydTPfZVCYnxBtZ5EAYjRtWAYTaU.jpg", "actors": [], "comments": [], "recommandations_id": []}

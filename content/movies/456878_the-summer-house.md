@@ -1,1 +1,0 @@
-{"tmdb_id": 456878, "title": "The Summer House", "original_title": "The Summer House", "slug_title": "the-summer-house", "date": "2009-10-11", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a2EF56ZuZcWO2NXQ8kF2ec5qLzr.jpg", "actors": [], "comments": [], "recommandations_id": []}

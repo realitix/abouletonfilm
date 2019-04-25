@@ -1,1 +1,0 @@
-{"tmdb_id": 311332, "title": "Kasam Suhag Ki", "original_title": "Kasam Suhag Ki", "slug_title": "kasam-suhag-ki", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

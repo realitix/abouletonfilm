@@ -1,1 +1,0 @@
-{"tmdb_id": 273601, "title": "Secrets of the Scammers", "original_title": "Secrets of the Scammers", "slug_title": "secrets-of-the-scammers", "date": "2014-01-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7V87pkeq56F3pnn9yCNgro7WNsG.jpg", "actors": [], "comments": [], "recommandations_id": []}

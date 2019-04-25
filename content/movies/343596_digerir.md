@@ -1,1 +1,0 @@
-{"tmdb_id": 343596, "title": "Digerir", "original_title": "Digerir", "slug_title": "digerir", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

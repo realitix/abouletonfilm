@@ -1,1 +1,0 @@
-{"tmdb_id": 479452, "title": "Ken Davis Live, Good News", "original_title": "Ken Davis Live, Good News", "slug_title": "ken-davis-live-good-news", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2lIanhoEbFbOFHlMawMTlFVwHi3.jpg", "actors": [], "comments": [], "recommandations_id": []}

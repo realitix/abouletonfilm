@@ -1,1 +1,0 @@
-{"tmdb_id": 399943, "title": "Lampedusa", "original_title": "Lampedusa", "slug_title": "lampedusa", "date": "2015-03-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ARLi6mQWT3rrRMHBEMebHWFVIh.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 302246, "title": "Honey Glaze", "original_title": "Honey Glaze", "slug_title": "honey-glaze", "date": "2003-11-20", "genre": "", "score": "2.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8pg9HnrNagxaiSaImSBOYhqrcmx.jpg", "actors": [], "comments": [], "recommandations_id": []}

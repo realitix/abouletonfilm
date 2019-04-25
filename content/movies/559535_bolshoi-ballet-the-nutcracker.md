@@ -1,1 +1,0 @@
-{"tmdb_id": 559535, "title": "Bolshoi Ballet: The Nutcracker", "original_title": "Bolshoi Ballet: The Nutcracker", "slug_title": "bolshoi-ballet-the-nutcracker", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nXnOTMZXGtH3JlOoYH5lm7irvxO.jpg", "actors": [], "comments": [], "recommandations_id": []}

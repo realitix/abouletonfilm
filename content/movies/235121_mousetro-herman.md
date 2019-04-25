@@ -1,1 +1,0 @@
-{"tmdb_id": 235121, "title": "Mousetro Herman", "original_title": "Mousetro Herman", "slug_title": "mousetro-herman", "date": "1956-08-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

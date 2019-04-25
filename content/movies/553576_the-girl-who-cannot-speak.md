@@ -1,1 +1,0 @@
-{"tmdb_id": 553576, "title": "The Girl Who Cannot Speak", "original_title": "The Girl Who Cannot Speak", "slug_title": "the-girl-who-cannot-speak", "date": "2018-10-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Holly Cinnamon (Charlotte)"], "comments": [], "recommandations_id": []}

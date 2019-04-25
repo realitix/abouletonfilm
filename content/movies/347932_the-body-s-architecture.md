@@ -1,1 +1,0 @@
-{"tmdb_id": 347932, "title": "The Body's Architecture", "original_title": "A arquitetura do corpo", "slug_title": "the-body-s-architecture", "date": "2008-11-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kBASaqB2LKaNUSanaF5WXLUfSXc.jpg", "actors": [], "comments": [], "recommandations_id": []}

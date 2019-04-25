@@ -1,1 +1,0 @@
-{"tmdb_id": 452387, "title": "The Blackdyer", "original_title": "The Blackdyer", "slug_title": "the-blackdyer", "date": "2016-10-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l5uWsK2DkbN05OejSNn9sK5THkZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

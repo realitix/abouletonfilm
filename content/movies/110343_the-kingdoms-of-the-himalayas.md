@@ -1,1 +1,0 @@
-{"tmdb_id": 110343, "title": "The Kingdoms of the Himalayas", "original_title": "Los reinos del Himalaya", "slug_title": "the-kingdoms-of-the-himalayas", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6iVhTONNz1sBOE4NjTHkbTb9FiA.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 572965, "title": "Yuxiang and Mark", "original_title": "Yuxiang and Mark", "slug_title": "yuxiang-and-mark", "date": "2016-07-16", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kD6vqCqUoKt0PANZ93DlkyyS7p2.jpg", "actors": [], "comments": [], "recommandations_id": []}

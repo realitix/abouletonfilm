@@ -1,1 +1,0 @@
-{"tmdb_id": 382243, "title": "The Meat Puppet", "original_title": "The Meat Puppet", "slug_title": "the-meat-puppet", "date": "2015-07-21", "genre": "Thriller / Horreur", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wZxIFOUnieKBFd6OUgHQMGLs8I2.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 576256, "title": "MindCandy Volume 3: PC Demos", "original_title": "MindCandy Volume 3: PC Demos", "slug_title": "mindcandy-volume-3-pc-demos", "date": "", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ljKUohhW8juqSqCLBt60b0d3yyG.jpg", "actors": [], "comments": [], "recommandations_id": []}

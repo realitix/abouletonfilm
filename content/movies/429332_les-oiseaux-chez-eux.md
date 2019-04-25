@@ -1,1 +1,0 @@
-{"tmdb_id": 429332, "title": "Les oiseaux chez eux", "original_title": "Les oiseaux chez eux", "slug_title": "les-oiseaux-chez-eux", "date": "1909-12-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

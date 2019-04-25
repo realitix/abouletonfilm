@@ -1,1 +1,0 @@
-{"tmdb_id": 340324, "title": "Of Stains, Scrap & Tires", "original_title": "Of Stains, Scrap & Tires", "slug_title": "of-stains-scrap-tires", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

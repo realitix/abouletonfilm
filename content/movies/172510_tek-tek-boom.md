@@ -1,1 +1,0 @@
-{"tmdb_id": 172510, "title": "Tek Tek Boom", "original_title": "Tek Tek Boom", "slug_title": "tek-tek-boom", "date": "2011-08-30", "genre": "", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h2umCpPEvf9knJoXgnIaU9GhMTu.jpg", "actors": ["Mohammad Saad (Teka)"], "comments": [], "recommandations_id": []}

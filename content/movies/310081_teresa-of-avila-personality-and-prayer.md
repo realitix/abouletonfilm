@@ -1,1 +1,0 @@
-{"tmdb_id": 310081, "title": "Teresa of Avila: Personality and Prayer", "original_title": "Teresa of Avila: Personality and Prayer", "slug_title": "teresa-of-avila-personality-and-prayer", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

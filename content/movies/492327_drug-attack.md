@@ -1,1 +1,0 @@
-{"tmdb_id": 492327, "title": "Drug Attack", "original_title": "Drug Attack", "slug_title": "drug-attack", "date": "1969-06-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 53511, "title": "Thomas, Percy and the Dragon", "original_title": "Thomas, Percy and the Dragon", "slug_title": "thomas-percy-and-the-dragon", "date": "2006-08-15", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m23Ev0WlpXhQUkewwpHPuPONoWH.jpg", "actors": [], "comments": [], "recommandations_id": []}

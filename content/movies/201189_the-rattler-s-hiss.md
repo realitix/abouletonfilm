@@ -1,1 +1,0 @@
-{"tmdb_id": 201189, "title": "The Rattler's Hiss", "original_title": "The Rattler's Hiss", "slug_title": "the-rattler-s-hiss", "date": "1920-03-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hoot Gibson ()", "Mildred Moore ()", "Tote Du Crow ()", "George Field ()"], "comments": [], "recommandations_id": []}

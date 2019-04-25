@@ -1,1 +1,0 @@
-{"tmdb_id": 517414, "title": "The Hangman", "original_title": "The Hangman", "slug_title": "the-hangman", "date": "2018-04-15", "genre": "Horreur", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ubG7Q4ZQmfT0Ooi0YaBRMpkOYD.jpg", "actors": [], "comments": [], "recommandations_id": []}

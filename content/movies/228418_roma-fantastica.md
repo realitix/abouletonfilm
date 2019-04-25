@@ -1,1 +1,0 @@
-{"tmdb_id": 228418, "title": "Roma Fant\u00e1stica", "original_title": "Roma Fant\u00e1stica", "slug_title": "roma-fantastica", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Luigi Cozzi ()"], "comments": [], "recommandations_id": []}

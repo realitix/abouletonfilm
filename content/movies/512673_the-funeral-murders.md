@@ -1,1 +1,0 @@
-{"tmdb_id": 512673, "title": "The Funeral Murders", "original_title": "The Funeral Murders", "slug_title": "the-funeral-murders", "date": "2018-03-19", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gerry Adams (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 558611, "title": "My_Never_Ending_Burial_Plot", "original_title": "My_Never_Ending_Burial_Plot", "slug_title": "my-never-ending-burial-plot", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,1 @@
-{"tmdb_id": 536300, "title": "Fireloop", "original_title": "Fireloop", "slug_title": "fireloop", "date": "1986-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 536300, "title": "Fireloop", "original_title": "Fireloop", "slug_title": "fireloop", "date": "1986-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Part two of the Caswallon Trilogy", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

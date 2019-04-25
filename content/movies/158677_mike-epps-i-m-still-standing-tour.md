@@ -1,1 +1,0 @@
-{"tmdb_id": 158677, "title": "Mike Epps: I'm Still Standing Tour", "original_title": "Mike Epps: I'm Still Standing Tour", "slug_title": "mike-epps-i-m-still-standing-tour", "date": "", "genre": "", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ONJL3rip6tVyISawlrRE61TJbX.jpg", "actors": [], "comments": [], "recommandations_id": []}

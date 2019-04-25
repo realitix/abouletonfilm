@@ -1,1 +1,0 @@
-{"tmdb_id": 590302, "title": "Dieorama", "original_title": "Dieorama", "slug_title": "dieorama", "date": "2019-03-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 382678, "title": "True Friends", "original_title": "True Friends", "slug_title": "true-friends", "date": "2004-06-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uqWl6xLxuL6EtdTLfbHWiehH2ZC.jpg", "actors": [], "comments": [], "recommandations_id": []}

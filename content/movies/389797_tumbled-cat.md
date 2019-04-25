@@ -1,1 +1,0 @@
-{"tmdb_id": 389797, "title": "Tumbled Cat", "original_title": "Tumbled Cat", "slug_title": "tumbled-cat", "date": "2015-03-07", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tvrwKzwbfH7wkOSbhgzWhMDjmKA.jpg", "actors": [], "comments": [], "recommandations_id": []}

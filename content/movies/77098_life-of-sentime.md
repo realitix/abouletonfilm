@@ -1,1 +1,0 @@
-{"tmdb_id": 77098, "title": "Life of Sentime", "original_title": "Life of Sentime", "slug_title": "life-of-sentime", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hbg26JrBQmRc5hIiO5w7CtHsEdV.jpg", "actors": [], "comments": [], "recommandations_id": []}

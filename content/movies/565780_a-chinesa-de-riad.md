@@ -1,1 +1,0 @@
-{"tmdb_id": 565780, "title": "A Chinesa de Riad", "original_title": "A Chinesa de Riad", "slug_title": "a-chinesa-de-riad", "date": "2018-08-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/199Wv5oeJjcmoXwlPUzILfyjJBG.jpg", "actors": [], "comments": [], "recommandations_id": []}

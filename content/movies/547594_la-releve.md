@@ -1,1 +1,0 @@
-{"tmdb_id": 547594, "title": "La Rel\u00e8ve", "original_title": "La Rel\u00e8ve", "slug_title": "la-releve", "date": "1986-01-01", "genre": "", "score": "0.0/10", "synopsis": "La Rel\u00e8ve de Jean-Christophe Bouvet", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

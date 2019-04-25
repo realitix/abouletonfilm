@@ -1,1 +1,0 @@
-{"tmdb_id": 455471, "title": "Recruiting for Jihad", "original_title": "Recruiting for Jihad", "slug_title": "recruiting-for-jihad", "date": "2017-04-06", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hZr4ccsS6dwLG9souk0qi9hOeWe.jpg", "actors": [], "comments": [], "recommandations_id": []}

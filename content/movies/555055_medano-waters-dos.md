@@ -1,1 +1,0 @@
-{"tmdb_id": 555055, "title": "Medano Waters Dos", "original_title": "Medano Waters Dos", "slug_title": "medano-waters-dos", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9oaW0keAy9GVfTrevf1qCJDU23N.jpg", "actors": [], "comments": [], "recommandations_id": []}

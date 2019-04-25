@@ -1,1 +1,0 @@
-{"tmdb_id": 548175, "title": "Pa' las que sea pap\u00e1", "original_title": "Pa' las que sea pap\u00e1", "slug_title": "pa-las-que-sea-papa", "date": "2018-09-20", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

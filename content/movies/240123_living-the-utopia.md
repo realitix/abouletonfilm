@@ -1,1 +1,0 @@
-{"tmdb_id": 240123, "title": "Living the utopia", "original_title": "Vivir la utop\u00eda", "slug_title": "living-the-utopia", "date": "1997-06-01", "genre": "Documentaire", "score": "7.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ka2FyaEBEKedz2Ky5yjXkugxrdz.jpg", "actors": [], "comments": [], "recommandations_id": []}

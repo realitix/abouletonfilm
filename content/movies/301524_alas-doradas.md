@@ -1,1 +1,0 @@
-{"tmdb_id": 301524, "title": "Alas doradas", "original_title": "Alas doradas", "slug_title": "alas-doradas", "date": "1976-03-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Valent\u00edn Trujillo ()", "Rebeca Silva ()", "Arsenio Campos ()", "Yolanda Ochoa ()"], "comments": [], "recommandations_id": []}

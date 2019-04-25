@@ -1,1 +1,0 @@
-{"tmdb_id": 274953, "title": "Fat Pizza Uncensored", "original_title": "Fat Pizza Uncensored", "slug_title": "fat-pizza-uncensored", "date": "2010-06-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ktkY2zPYvyiVrCHZq3fiD3mD2EN.jpg", "actors": [], "comments": [], "recommandations_id": []}

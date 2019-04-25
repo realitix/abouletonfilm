@@ -1,1 +1,0 @@
-{"tmdb_id": 567900, "title": "The Seduction of Miss Leona", "original_title": "The Seduction of Miss Leona", "slug_title": "the-seduction-of-miss-leona", "date": "1980-08-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

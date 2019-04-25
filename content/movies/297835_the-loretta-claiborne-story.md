@@ -1,1 +1,0 @@
-{"tmdb_id": 297835, "title": "The Loretta Claiborne Story", "original_title": "The Loretta Claiborne Story", "slug_title": "the-loretta-claiborne-story", "date": "2000-01-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

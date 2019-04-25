@@ -1,1 +1,0 @@
-{"tmdb_id": 585619, "title": "A Good Day", "original_title": "En god dag", "slug_title": "a-good-day", "date": "2005-03-10", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eUyCNASzIhAnk25Pa2ZNHF0ljOT.jpg", "actors": ["Roland Hedlund (G\u00f6sta)", "Lasse Pettersson (Nils)"], "comments": [], "recommandations_id": []}

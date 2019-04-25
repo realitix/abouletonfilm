@@ -1,1 +1,0 @@
-{"tmdb_id": 173687, "title": "The Rocking Horse", "original_title": "The Rocking Horse", "slug_title": "the-rocking-horse", "date": "1962-11-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1znHgkI8eVfAhOFAMo8zstsxOtB.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 374135, "title": "Alice Wins the Derby", "original_title": "Alice Wins the Derby", "slug_title": "alice-wins-the-derby", "date": "1925-07-11", "genre": "Animation", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p1YtNoZD3mlTgP1qIFutzIvMZr.jpg", "actors": ["Margie Gay (Alice)"], "comments": [], "recommandations_id": []}

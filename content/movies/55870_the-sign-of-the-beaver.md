@@ -1,1 +1,0 @@
-{"tmdb_id": 55870, "title": "The Sign Of The Beaver", "original_title": "The Sign Of The Beaver", "slug_title": "the-sign-of-the-beaver", "date": "1987-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bECjeaqzrkrKbwW1W5KIdYuGUif.jpg", "actors": [], "comments": [], "recommandations_id": []}

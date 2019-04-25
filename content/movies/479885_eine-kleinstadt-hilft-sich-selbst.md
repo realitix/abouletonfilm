@@ -1,1 +1,0 @@
-{"tmdb_id": 479885, "title": "Eine Kleinstadt hilft sich selbst", "original_title": "Eine Kleinstadt hilft sich selbst", "slug_title": "eine-kleinstadt-hilft-sich-selbst", "date": "1950-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Willy Reichert (Narrator)"], "comments": [], "recommandations_id": []}

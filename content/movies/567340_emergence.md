@@ -1,1 +1,0 @@
-{"tmdb_id": 567340, "title": "Emergence", "original_title": "Emergence", "slug_title": "emergence", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bCw3Bx6JeLa03HiPOOmpzIAbbL5.jpg", "actors": [], "comments": [], "recommandations_id": []}

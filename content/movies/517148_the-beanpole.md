@@ -1,1 +1,0 @@
-{"tmdb_id": 517148, "title": "The Beanpole", "original_title": "\u0414\u044b\u043b\u0434\u0430", "slug_title": "the-beanpole", "date": "", "genre": "Drame / Guerre", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 595429, "title": "Library of God", "original_title": "Library of God", "slug_title": "library-of-god", "date": "2019-04-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zWZEuZ1SqRWs3efIFPCf7lxXfUK.jpg", "actors": [], "comments": [], "recommandations_id": []}

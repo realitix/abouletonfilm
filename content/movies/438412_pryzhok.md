@@ -1,1 +1,0 @@
-{"tmdb_id": 438412, "title": "\u041f\u0440\u044b\u0436\u043e\u043a", "original_title": "\u041f\u0440\u044b\u0436\u043e\u043a", "slug_title": "pryzhok", "date": "1980-01-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kwD0E7b4XNvlnPEBiFPjGNHYP6M.jpg", "actors": [], "comments": [], "recommandations_id": []}

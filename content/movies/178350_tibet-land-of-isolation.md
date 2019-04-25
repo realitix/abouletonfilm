@@ -1,1 +1,0 @@
-{"tmdb_id": 178350, "title": "Tibet, Land of Isolation", "original_title": "Tibet, Land of Isolation", "slug_title": "tibet-land-of-isolation", "date": "1934-03-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["James A. FitzPatrick ()"], "comments": [], "recommandations_id": []}

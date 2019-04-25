@@ -1,1 +1,0 @@
-{"tmdb_id": 499886, "title": "It Still Rotates", "original_title": "It Still Rotates", "slug_title": "it-still-rotates", "date": "1978-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

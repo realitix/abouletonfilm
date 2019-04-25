@@ -1,1 +1,0 @@
-{"tmdb_id": 274320, "title": "It Was a Wonderful Life", "original_title": "It Was a Wonderful Life", "slug_title": "it-was-a-wonderful-life", "date": "1993-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

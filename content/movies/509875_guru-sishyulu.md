@@ -1,1 +1,0 @@
-{"tmdb_id": 509875, "title": "Guru Sishyulu", "original_title": "Guru Sishyulu", "slug_title": "guru-sishyulu", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nhcjseluKgheaJs6mOG9bptHSCz.jpg", "actors": [], "comments": [], "recommandations_id": []}

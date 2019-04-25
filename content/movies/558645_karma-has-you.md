@@ -1,1 +1,0 @@
-{"tmdb_id": 558645, "title": "Karma Has You", "original_title": "Karma Has You", "slug_title": "karma-has-you", "date": "2018-11-03", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hRwqUUAoEBZCImoLYn93gWncgpL.jpg", "actors": [], "comments": [], "recommandations_id": []}

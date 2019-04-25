@@ -1,1 +1,0 @@
-{"tmdb_id": 466785, "title": "Psykodelisk", "original_title": "Psykodelisk", "slug_title": "psykodelisk", "date": "2016-05-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wQ9F9v4TDfMQpwvLV1GgZyBDqRM.jpg", "actors": [], "comments": [], "recommandations_id": []}

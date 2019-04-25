@@ -1,1 +1,0 @@
-{"tmdb_id": 577083, "title": "Coed Dorm", "original_title": "Coed Dorm", "slug_title": "coed-dorm", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ray Dannis (Dr. Maurice De Sade)", "Bob Guthrie (Graham Williams)", "Diane Patton (Virgie Summers)", "Uschi Digard (Miss Melons)"], "comments": [], "recommandations_id": []}

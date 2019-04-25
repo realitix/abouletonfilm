@@ -1,1 +1,0 @@
-{"tmdb_id": 206006, "title": "Devil's Hill", "original_title": "Devil's Hill", "slug_title": "devil-s-hill", "date": "1988-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d0sOAS7kumH7MheS6RLOkl9incl.jpg", "actors": [], "comments": [], "recommandations_id": []}

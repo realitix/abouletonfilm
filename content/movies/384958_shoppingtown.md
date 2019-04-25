@@ -1,1 +1,0 @@
-{"tmdb_id": 384958, "title": "Shoppingtown", "original_title": "Shoppingtown", "slug_title": "shoppingtown", "date": "1986-10-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nron4axgAwIgQoy0uYmFCNVhtDb.jpg", "actors": [], "comments": [], "recommandations_id": []}

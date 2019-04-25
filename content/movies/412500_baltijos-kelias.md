@@ -1,1 +1,0 @@
-{"tmdb_id": 412500, "title": "Baltijos kelias", "original_title": "Baltijos kelias", "slug_title": "baltijos-kelias", "date": "1990-01-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1u8C3lbgCb9PCZiqKHBsuSGPePi.jpg", "actors": [], "comments": [], "recommandations_id": []}

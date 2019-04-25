@@ -1,1 +1,0 @@
-{"tmdb_id": 329543, "title": "Never Ashamed", "original_title": "Never Ashamed", "slug_title": "never-ashamed", "date": "1984-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5cscq6OdjW9Ax0FdaXqKmNMdW3h.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 100640, "title": "How to Fly the P-47: Pilot Familiarization", "original_title": "How to Fly the P-47: Pilot Familiarization", "slug_title": "how-to-fly-the-p-47-pilot-familiarization", "date": "1943-01-01", "genre": "Documentaire / Histoire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

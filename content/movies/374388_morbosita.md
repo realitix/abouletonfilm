@@ -1,1 +1,0 @@
-{"tmdb_id": 374388, "title": "Morbosit\u00e0", "original_title": "Morbosit\u00e0", "slug_title": "morbosita", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/em5Khga0OulEIhFy6VsaLpfLbCJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

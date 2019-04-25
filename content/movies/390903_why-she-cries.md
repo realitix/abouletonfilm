@@ -1,1 +1,0 @@
-{"tmdb_id": 390903, "title": "Why She Cries", "original_title": "Why She Cries", "slug_title": "why-she-cries", "date": "2015-06-16", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1Xcwrttk6vpZitk6cYGmmxZ8wND.jpg", "actors": [], "comments": [], "recommandations_id": []}

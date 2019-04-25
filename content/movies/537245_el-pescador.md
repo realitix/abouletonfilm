@@ -1,1 +1,0 @@
-{"tmdb_id": 537245, "title": "El Pescador", "original_title": "El Pescador", "slug_title": "el-pescador", "date": "2012-05-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pOOabahFFsee0ojSr3nBnUIfgD0.jpg", "actors": ["Rub\u00e9n Pablos (Fisherman)"], "comments": [], "recommandations_id": []}

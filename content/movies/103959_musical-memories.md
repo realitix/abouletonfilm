@@ -1,1 +1,0 @@
-{"tmdb_id": 103959, "title": "Musical Memories", "original_title": "Musical Memories", "slug_title": "musical-memories", "date": "1935-11-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

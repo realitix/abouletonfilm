@@ -1,1 +1,0 @@
-{"tmdb_id": 193627, "title": "Garde descendante du Palais Saint James", "original_title": "Garde descendante du Palais Saint James", "slug_title": "garde-descendante-du-palais-saint-james", "date": "1897-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

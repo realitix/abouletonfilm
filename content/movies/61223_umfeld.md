@@ -1,1 +1,0 @@
-{"tmdb_id": 61223, "title": "Umfeld", "original_title": "Umfeld", "slug_title": "umfeld", "date": "2007-01-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ejpC29bOlefQkTO47eRNMdJl0IN.jpg", "actors": [], "comments": [], "recommandations_id": []}

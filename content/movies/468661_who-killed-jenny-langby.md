@@ -1,1 +1,0 @@
-{"tmdb_id": 468661, "title": "Who Killed Jenny Langby?", "original_title": "Who Killed Jenny Langby?", "slug_title": "who-killed-jenny-langby", "date": "1975-02-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Julie Dawson (Jenny Langby)", "Peter Cummins (Frank Langby)"], "comments": [], "recommandations_id": []}

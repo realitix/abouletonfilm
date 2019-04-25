@@ -1,1 +1,0 @@
-{"tmdb_id": 570450, "title": "Winter Sun", "original_title": "Zimsko sunce", "slug_title": "winter-sun", "date": "2017-08-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p7bk0h7qCKrcb9Dc57vlXbD5o7g.jpg", "actors": [], "comments": [], "recommandations_id": []}

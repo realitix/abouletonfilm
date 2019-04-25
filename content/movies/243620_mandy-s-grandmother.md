@@ -1,1 +1,0 @@
-{"tmdb_id": 243620, "title": "Mandy's Grandmother", "original_title": "Mandy's Grandmother", "slug_title": "mandy-s-grandmother", "date": "1978-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2kxzy0o421iegi2osqr8aHanarq.jpg", "actors": ["Maureen O'Sullivan ()"], "comments": [], "recommandations_id": []}

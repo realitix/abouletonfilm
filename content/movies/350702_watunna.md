@@ -1,1 +1,0 @@
-{"tmdb_id": 350702, "title": "Watunna", "original_title": "Watunna", "slug_title": "watunna", "date": "1989-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uoQVdnmdFMETQNpbcKqucv0MZNw.jpg", "actors": ["Stan Brakhage (Narrator)"], "comments": [], "recommandations_id": []}

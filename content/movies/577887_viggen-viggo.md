@@ -1,1 +1,0 @@
-{"tmdb_id": 577887, "title": "Viggen Viggo", "original_title": "Viggen Viggo", "slug_title": "viggen-viggo", "date": "1955-12-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bertil Danielsson ()", "Tora Danielsson ()"], "comments": [], "recommandations_id": []}

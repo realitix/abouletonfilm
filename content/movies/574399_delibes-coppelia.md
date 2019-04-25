@@ -1,1 +1,0 @@
-{"tmdb_id": 574399, "title": "Delibes: Coppelia", "original_title": "Delibes: Coppelia", "slug_title": "delibes-coppelia", "date": "2014-04-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1Miw21KNxKvIjvZt0Ue4QeGt8hn.jpg", "actors": [], "comments": [], "recommandations_id": []}

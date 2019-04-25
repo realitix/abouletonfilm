@@ -1,1 +1,0 @@
-{"tmdb_id": 369506, "title": "Thea & Leopard", "original_title": "Thea och Leoparden", "slug_title": "thea-leopard", "date": "2009-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5vz8vssxAnivJBr6iqHr4Gq7lwy.jpg", "actors": [], "comments": [], "recommandations_id": []}

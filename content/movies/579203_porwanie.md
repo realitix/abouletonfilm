@@ -1,1 +1,0 @@
-{"tmdb_id": 579203, "title": "Porwanie", "original_title": "Porwanie", "slug_title": "porwanie", "date": "1985-01-09", "genre": "Aventure", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bzoKkJIGeanj8EEMdOPWGG3oqyS.jpg", "actors": ["Janusz Bukowski ()"], "comments": [], "recommandations_id": []}

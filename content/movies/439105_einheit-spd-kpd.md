@@ -1,1 +1,0 @@
-{"tmdb_id": 439105, "title": "Einheit SPD - KPD", "original_title": "Einheit SPD - KPD", "slug_title": "einheit-spd-kpd", "date": "1946-05-01", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t5gB02F8NhGaPpFGwmWiFkwOAU9.jpg", "actors": [], "comments": [], "recommandations_id": []}

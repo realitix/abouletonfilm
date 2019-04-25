@@ -1,1 +1,0 @@
-{"tmdb_id": 518556, "title": "A Rolling Stone", "original_title": "A Rolling Stone", "slug_title": "a-rolling-stone", "date": "2013-11-09", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zu9cJDbfhrz17XAgTZwrIjWvXcs.jpg", "actors": [], "comments": [], "recommandations_id": []}

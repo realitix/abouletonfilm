@@ -1,1 +1,0 @@
-{"tmdb_id": 267106, "title": "Rakshak: The Protector", "original_title": "Rakshak: The Protector", "slug_title": "rakshak-the-protector", "date": "2004-01-01", "genre": "Action / Aventure / Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

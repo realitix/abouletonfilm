@@ -1,1 +1,0 @@
-{"tmdb_id": 376152, "title": "Michelangelo, Restored", "original_title": "Michelangelo, Restored", "slug_title": "michelangelo-restored", "date": "1997-10-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

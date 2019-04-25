@@ -1,1 +1,0 @@
-{"tmdb_id": 524364, "title": "Um Diamante e Cinco Balas", "original_title": "Um Diamante e Cinco Balas", "slug_title": "um-diamante-e-cinco-balas", "date": "1966-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nxfaMjH3G1YdwQna9HwL9eR5WoH.jpg", "actors": [], "comments": [], "recommandations_id": []}

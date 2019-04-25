@@ -1,1 +1,0 @@
-{"tmdb_id": 244678, "title": "Love Struck", "original_title": "Love Struck", "slug_title": "love-struck", "date": "1986-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["John Simon Jones ()", "Judge Reinhold ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 143104, "title": "Klucht - Goeie Buren", "original_title": "Klucht - Goeie Buren", "slug_title": "klucht-goeie-buren", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/11t1D5Zfoxz3P2CfmGoFXw3Fwet.jpg", "actors": [], "comments": [], "recommandations_id": []}

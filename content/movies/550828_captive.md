@@ -1,1 +1,0 @@
-{"tmdb_id": 550828, "title": "Captive", "original_title": "Ko nkanga", "slug_title": "captive", "date": "2018-10-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

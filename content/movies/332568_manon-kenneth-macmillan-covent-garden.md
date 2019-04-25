@@ -1,1 +1,0 @@
-{"tmdb_id": 332568, "title": "Manon - Kenneth MacMillan, Covent Garden", "original_title": "Manon - Kenneth MacMillan, Covent Garden", "slug_title": "manon-kenneth-macmillan-covent-garden", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

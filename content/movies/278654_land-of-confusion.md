@@ -1,1 +1,0 @@
-{"tmdb_id": 278654, "title": "Land of Confusion", "original_title": "Land of Confusion", "slug_title": "land-of-confusion", "date": "2008-03-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

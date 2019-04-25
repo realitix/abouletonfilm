@@ -1,1 +1,0 @@
-{"tmdb_id": 345766, "title": "The Wall", "original_title": "The Wall", "slug_title": "the-wall", "date": "2012-06-15", "genre": "", "score": "8.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e7huQjTuG09kkCuQ7kleDtn4Cqi.jpg", "actors": ["Kristian Smedhaugen (Boy)"], "comments": [], "recommandations_id": []}

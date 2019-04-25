@@ -1,1 +1,0 @@
-{"tmdb_id": 562572, "title": "Dreamscape", "original_title": "Dreamscape", "slug_title": "dreamscape", "date": "2007-10-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2zsSgyEvnC7a6wdafXDtSrRKkmL.jpg", "actors": ["Maria Taljeg\u00e5rd ()"], "comments": [], "recommandations_id": []}

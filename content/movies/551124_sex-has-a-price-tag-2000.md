@@ -1,1 +1,0 @@
-{"tmdb_id": 551124, "title": "Sex Has a Price Tag 2000", "original_title": "Sex Has a Price Tag 2000", "slug_title": "sex-has-a-price-tag-2000", "date": "2000-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/enFv13kvAacqDjdnsA7WpIjXuBG.jpg", "actors": ["Pam Stenzel ()"], "comments": [], "recommandations_id": []}

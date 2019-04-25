@@ -1,1 +1,0 @@
-{"tmdb_id": 84121, "title": "Detective, Doctor, Felon, Mystery Woman", "original_title": "Detective, Doctor, Felon, Mystery Woman", "slug_title": "detective-doctor-felon-mystery-woman", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Janna Cachola (Scarlet)"], "comments": [], "recommandations_id": []}

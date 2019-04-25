@@ -1,1 +1,0 @@
-{"tmdb_id": 581558, "title": "The Country Side of Care", "original_title": "The Country Side of Care", "slug_title": "the-country-side-of-care", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

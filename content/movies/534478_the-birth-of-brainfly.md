@@ -1,1 +1,0 @@
-{"tmdb_id": 534478, "title": "tHE bIRTh of bRAiNFly", "original_title": "tHE bIRTh of bRAiNFly", "slug_title": "the-birth-of-brainfly", "date": "2008-10-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k4YS4cSOSFHGHxhGUQ1d42hFY3X.jpg", "actors": [], "comments": [], "recommandations_id": []}

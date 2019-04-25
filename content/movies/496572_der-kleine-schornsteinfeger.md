@@ -1,1 +1,0 @@
-{"tmdb_id": 496572, "title": "Der kleine Schornsteinfeger", "original_title": "Der kleine Schornsteinfeger", "slug_title": "der-kleine-schornsteinfeger", "date": "1934-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

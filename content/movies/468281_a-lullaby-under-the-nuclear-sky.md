@@ -1,1 +1,0 @@
-{"tmdb_id": 468281, "title": "A Lullaby Under the Nuclear Sky", "original_title": "\u62b1\u304f{HUG}", "slug_title": "a-lullaby-under-the-nuclear-sky", "date": "2016-03-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/atJbYfq6wWBLYRjc03utlJKZ61w.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 309155, "title": "Latt Saheb", "original_title": "Latt Saheb", "slug_title": "latt-saheb", "date": "1967-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

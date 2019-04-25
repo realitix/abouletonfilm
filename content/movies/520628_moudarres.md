@@ -1,1 +1,0 @@
-{"tmdb_id": 520628, "title": "Moudarres", "original_title": "Moudarres", "slug_title": "moudarres", "date": "1995-04-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

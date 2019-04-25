@@ -1,1 +1,0 @@
-{"tmdb_id": 304710, "title": "Mera Vachan Geeta Ki Kasam", "original_title": "Mera Vachan Geeta Ki Kasam", "slug_title": "mera-vachan-geeta-ki-kasam", "date": "1977-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

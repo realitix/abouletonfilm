@@ -1,1 +1,0 @@
-{"tmdb_id": 492947, "title": "Today They Took My Son", "original_title": "Today They Took My Son", "slug_title": "today-they-took-my-son", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

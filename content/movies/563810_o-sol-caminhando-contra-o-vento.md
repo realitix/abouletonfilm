@@ -1,1 +1,0 @@
-{"tmdb_id": 563810, "title": "O sol: caminhando contra o vento", "original_title": "O sol: caminhando contra o vento", "slug_title": "o-sol-caminhando-contra-o-vento", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

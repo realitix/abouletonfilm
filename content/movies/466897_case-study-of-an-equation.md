@@ -1,1 +1,0 @@
-{"tmdb_id": 466897, "title": "Case Study of An Equation", "original_title": "Case Study of An Equation", "slug_title": "case-study-of-an-equation", "date": "2017-07-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bqNeXLJqhlQbhT0FkR18HSVKvXk.jpg", "actors": [], "comments": [], "recommandations_id": []}

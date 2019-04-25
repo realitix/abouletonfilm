@@ -1,1 +1,0 @@
-{"tmdb_id": 333200, "title": "Aikapoika ja mono", "original_title": "Aikapoika ja mono", "slug_title": "aikapoika-ja-mono", "date": "1976-10-22", "genre": "Fantastique / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

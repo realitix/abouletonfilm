@@ -1,1 +1,0 @@
-{"tmdb_id": 191262, "title": "Tsunami 2004: Wave That Shook the World", "original_title": "Tsunami 2004: Wave That Shook the World", "slug_title": "tsunami-2004-wave-that-shook-the-world", "date": "2005-03-28", "genre": "Documentaire", "score": "7.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

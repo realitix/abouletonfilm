@@ -1,1 +1,0 @@
-{"tmdb_id": 594937, "title": "In My Blood It Runs", "original_title": "In My Blood It Runs", "slug_title": "in-my-blood-it-runs", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

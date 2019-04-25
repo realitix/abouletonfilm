@@ -1,1 +1,0 @@
-{"tmdb_id": 589780, "title": "Luontosinfonia", "original_title": "Luontosinfonia", "slug_title": "luontosinfonia", "date": "2019-03-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 582232, "title": "El Duende", "original_title": "El Duende", "slug_title": "el-duende", "date": "2019-02-14", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

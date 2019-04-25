@@ -1,1 +1,0 @@
-{"tmdb_id": 498742, "title": "Ghosts Behind the Screen", "original_title": "Ghosts Behind the Screen", "slug_title": "ghosts-behind-the-screen", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l8BFt9gaqPUyQQ7MqXxenWnBCLC.jpg", "actors": [], "comments": [], "recommandations_id": []}

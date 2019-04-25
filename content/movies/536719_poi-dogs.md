@@ -1,1 +1,0 @@
-{"tmdb_id": 536719, "title": "Poi Dogs", "original_title": "Poi Dogs", "slug_title": "poi-dogs", "date": "2010-02-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rECAT8OGrn3sQPDOtMedvSsIsDH.jpg", "actors": [], "comments": [], "recommandations_id": []}

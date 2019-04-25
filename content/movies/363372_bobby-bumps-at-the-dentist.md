@@ -1,1 +1,0 @@
-{"tmdb_id": 363372, "title": "Bobby Bumps at the Dentist", "original_title": "Bobby Bumps at the Dentist", "slug_title": "bobby-bumps-at-the-dentist", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

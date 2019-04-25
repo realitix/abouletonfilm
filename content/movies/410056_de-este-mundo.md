@@ -1,1 +1,0 @@
-{"tmdb_id": 410056, "title": "De este mundo", "original_title": "De este mundo", "slug_title": "de-este-mundo", "date": "2010-01-01", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7HxUO4kxzpm3OpV52SQtovTCd2l.jpg", "actors": [], "comments": [], "recommandations_id": []}

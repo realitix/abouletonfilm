@@ -1,1 +1,0 @@
-{"tmdb_id": 331189, "title": "Antares Incident", "original_title": "Incidente em Antares", "slug_title": "antares-incident", "date": "1994-01-01", "genre": "", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lWKbrSeaZiyhs2ickDVPiuFw7pH.jpg", "actors": ["Luciana Migliaccio (Actress)"], "comments": [], "recommandations_id": []}

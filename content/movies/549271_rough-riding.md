@@ -1,1 +1,0 @@
-{"tmdb_id": 549271, "title": "Rough Riding", "original_title": "Rough Riding", "slug_title": "rough-riding", "date": "1954-12-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pete Smith (Narrator)"], "comments": [], "recommandations_id": []}

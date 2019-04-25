@@ -1,1 +1,0 @@
-{"tmdb_id": 319536, "title": "The History of Warfare: The Battle of Flodden", "original_title": "The History of Warfare: The Battle of Flodden", "slug_title": "the-history-of-warfare-the-battle-of-flodden", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

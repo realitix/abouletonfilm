@@ -1,1 +1,0 @@
-{"tmdb_id": 424376, "title": "Cadfael: The Pilgrim of Hate", "original_title": "Cadfael: The Pilgrim of Hate", "slug_title": "cadfael-the-pilgrim-of-hate", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i6minHt9iBpj30NrekzRxahYEVg.jpg", "actors": [], "comments": [], "recommandations_id": []}

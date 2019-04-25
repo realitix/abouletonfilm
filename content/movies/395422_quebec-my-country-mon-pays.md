@@ -1,1 +1,0 @@
-{"tmdb_id": 395422, "title": "Quebec My Country Mon Pays", "original_title": "Quebec My Country Mon Pays", "slug_title": "quebec-my-country-mon-pays", "date": "2016-04-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1YyKPFkEI34F6NToeh6eSIAwVia.jpg", "actors": [], "comments": [], "recommandations_id": []}

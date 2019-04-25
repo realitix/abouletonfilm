@@ -1,1 +1,0 @@
-{"tmdb_id": 479370, "title": "South Pole", "original_title": "South Pole", "slug_title": "south-pole", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ayberk Atilla (Muhsin)"], "comments": [], "recommandations_id": []}

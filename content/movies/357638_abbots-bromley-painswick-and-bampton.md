@@ -1,1 +1,0 @@
-{"tmdb_id": 357638, "title": "Abbots Bromley, Painswick and Bampton", "original_title": "Abbots Bromley, Painswick and Bampton", "slug_title": "abbots-bromley-painswick-and-bampton", "date": "1936-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

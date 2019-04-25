@@ -1,1 +1,0 @@
-{"tmdb_id": 278193, "title": "The Real Players", "original_title": "The Real Players", "slug_title": "the-real-players", "date": "", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Suresh Gopi ()", "Master Sanoop ()", "Joy Mathew ()"], "comments": [], "recommandations_id": []}

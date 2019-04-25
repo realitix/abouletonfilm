@@ -1,1 +1,0 @@
-{"tmdb_id": 587984, "title": "Bitirimler Sosyetede", "original_title": "Bitirimler Sosyetede", "slug_title": "bitirimler-sosyetede", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bwSCjlVuqi20bh6g0NDcOXPxVVo.jpg", "actors": [], "comments": [], "recommandations_id": []}

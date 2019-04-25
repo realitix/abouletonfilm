@@ -1,1 +1,0 @@
-{"tmdb_id": 255926, "title": "Amazonas, Amazonas", "original_title": "Amazonas, Amazonas", "slug_title": "amazonas-amazonas", "date": "1966-01-01", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uYfuaG7VAi5tzx8hT7DCACzynRk.jpg", "actors": [], "comments": [], "recommandations_id": []}

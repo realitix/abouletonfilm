@@ -1,1 +1,0 @@
-{"tmdb_id": 532956, "title": "Aquarium", "original_title": "Aquarium", "slug_title": "aquarium", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Katja Sacher Ofir ()", "Merav Sheffer ()", "Bassey Aka Stanislas ()", "Seva Alexandrov ()"], "comments": [], "recommandations_id": []}

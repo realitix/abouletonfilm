@@ -1,1 +1,0 @@
-{"tmdb_id": 547701, "title": "Aos Meus P\u00e9s", "original_title": "Aos Meus P\u00e9s", "slug_title": "aos-meus-pes", "date": "2018-08-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

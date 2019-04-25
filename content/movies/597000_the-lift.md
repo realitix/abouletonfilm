@@ -1,1 +1,0 @@
-{"tmdb_id": 597000, "title": "The Lift", "original_title": "The Lift", "slug_title": "the-lift", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

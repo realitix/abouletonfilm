@@ -1,1 +1,0 @@
-{"tmdb_id": 547576, "title": "Manas Kill", "original_title": "Manas Kill", "slug_title": "manas-kill", "date": "2017-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/axf99jGljy1bPdce1caaZHyP35U.jpg", "actors": [], "comments": [], "recommandations_id": []}

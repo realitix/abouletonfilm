@@ -1,1 +1,0 @@
-{"tmdb_id": 495791, "title": "Blue Permanence / Swan Blood", "original_title": "Blue Permanence / Swan Blood", "slug_title": "blue-permanence-swan-blood", "date": "2015-11-08", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n3IXipB6VjkCbqYd1baLAqWTMrY.jpg", "actors": [], "comments": [], "recommandations_id": []}

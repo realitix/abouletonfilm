@@ -1,1 +1,0 @@
-{"tmdb_id": 578484, "title": "Rollerblade", "original_title": "\ub864\ub7ec \ube14\ub808\uc774\ub4dc", "slug_title": "rollerblade", "date": "2014-05-02", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eXt9YSpELcfWhMhS3B47Jyl4qok.jpg", "actors": [], "comments": [], "recommandations_id": []}

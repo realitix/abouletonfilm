@@ -1,1 +1,0 @@
-{"tmdb_id": 419191, "title": "Dumpling", "original_title": "Dumpling", "slug_title": "dumpling", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qATfYQQ4EmUd9I8OoBiF4E7TEdA.jpg", "actors": [], "comments": [], "recommandations_id": []}

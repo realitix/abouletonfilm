@@ -1,1 +1,0 @@
-{"tmdb_id": 386779, "title": "Comic Pictures in High Street, West Bromwich", "original_title": "Comic Pictures in High Street, West Bromwich", "slug_title": "comic-pictures-in-high-street-west-bromwich", "date": "1902-03-10", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 576128, "title": "System Error", "original_title": "System Error", "slug_title": "system-error", "date": "2003-01-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

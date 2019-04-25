@@ -1,1 +1,0 @@
-{"tmdb_id": 392440, "title": "Highly Strung", "original_title": "Highly Strung", "slug_title": "highly-strung", "date": "2016-05-16", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aOkF5bQEDqiD8qKV2K2OQz2qdDc.jpg", "actors": [], "comments": [], "recommandations_id": []}

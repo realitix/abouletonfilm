@@ -1,1 +1,0 @@
-{"tmdb_id": 322170, "title": "Beneath a Dead Moon", "original_title": "Beneath a Dead Moon", "slug_title": "beneath-a-dead-moon", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

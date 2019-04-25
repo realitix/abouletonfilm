@@ -1,1 +1,0 @@
-{"tmdb_id": 349537, "title": "\ud574\uc801", "original_title": "\ud574\uc801", "slug_title": "haejeog", "date": "1994-11-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

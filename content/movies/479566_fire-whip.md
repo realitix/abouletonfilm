@@ -1,1 +1,0 @@
-{"tmdb_id": 479566, "title": "Fire Whip", "original_title": "Ilmu Cambuk Api", "slug_title": "fire-whip", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

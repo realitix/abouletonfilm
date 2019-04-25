@@ -1,1 +1,0 @@
-{"tmdb_id": 202457, "title": "The Raft", "original_title": "Das Flo\u00df", "slug_title": "the-raft", "date": "2004-06-30", "genre": "Animation", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/psLOQRxSmSKSDZze0L6NqN74jXS.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 442108, "title": "Half Empty", "original_title": "Half Empty", "slug_title": "half-empty", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/puYR0GOYYgJj9QTjnY6x6ccUJje.jpg", "actors": [], "comments": [], "recommandations_id": []}

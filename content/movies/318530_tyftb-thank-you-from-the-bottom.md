@@ -1,1 +1,0 @@
-{"tmdb_id": 318530, "title": "TYFTB (Thank You from the Bottom)", "original_title": "TYFTB (Thank You from the Bottom)", "slug_title": "tyftb-thank-you-from-the-bottom", "date": "2014-07-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

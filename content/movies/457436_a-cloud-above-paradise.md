@@ -1,1 +1,0 @@
-{"tmdb_id": 457436, "title": "A Cloud Above Paradise", "original_title": "Oblako nad rayem", "slug_title": "a-cloud-above-paradise", "date": "1999-04-15", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gcPKVOg6Vl3mrUzvv6Kgz9NryjV.jpg", "actors": [], "comments": [], "recommandations_id": []}

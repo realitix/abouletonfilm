@@ -1,1 +1,0 @@
-{"tmdb_id": 515666, "title": "Aamne-Saamne", "original_title": "Aamne-Saamne", "slug_title": "aamne-saamne", "date": "1967-01-01", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Shashi Kapoor ()", "Sharmila Tagore ()", "Prem Chopra ()", "Madan Puri ()"], "comments": [], "recommandations_id": []}

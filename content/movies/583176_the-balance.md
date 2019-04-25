@@ -1,1 +1,0 @@
-{"tmdb_id": 583176, "title": "The Balance", "original_title": "The Balance", "slug_title": "the-balance", "date": "2019-02-18", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

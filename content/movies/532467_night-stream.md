@@ -1,1 +1,0 @@
-{"tmdb_id": 532467, "title": "Night Stream", "original_title": "Night Stream", "slug_title": "night-stream", "date": "1996-03-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5lBK7AVZ6cip5czJUHhrnUovycj.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 429419, "title": "In the Qing Dynasty", "original_title": "In the Qing Dynasty", "slug_title": "in-the-qing-dynasty", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 564504, "title": "Bed and Table", "original_title": "Bed and Table", "slug_title": "bed-and-table", "date": "2016-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 481626, "title": "Ocean in a Drop", "original_title": "Ocean in a Drop", "slug_title": "ocean-in-a-drop", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

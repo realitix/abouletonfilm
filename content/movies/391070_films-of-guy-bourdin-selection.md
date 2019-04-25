@@ -1,1 +1,0 @@
-{"tmdb_id": 391070, "title": "Films of Guy Bourdin (Selection)", "original_title": "Films of Guy Bourdin (Selection)", "slug_title": "films-of-guy-bourdin-selection", "date": "1970-04-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

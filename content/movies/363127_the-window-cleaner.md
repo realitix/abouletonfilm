@@ -1,1 +1,0 @@
-{"tmdb_id": 363127, "title": "The Window-Cleaner", "original_title": "The Window-Cleaner", "slug_title": "the-window-cleaner", "date": "1993-10-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["George Inci ()", "Diana Abu Samra ()", "Utz Krause ()"], "comments": [], "recommandations_id": []}

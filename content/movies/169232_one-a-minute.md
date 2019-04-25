@@ -1,1 +1,0 @@
-{"tmdb_id": 169232, "title": "One a minute", "original_title": "One a minute", "slug_title": "one-a-minute", "date": "1921-06-19", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Douglas MacLean (Jimmy Knight)", "Marian De Beck (Miriam Rogers)", "Victor Potel (Jingo Pitts)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 461437, "title": "Ubezhdeniya", "original_title": "Ubezhdeniya", "slug_title": "ubezhdeniya", "date": "2017-06-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5AEOqyTNRceJrjFC744T26J9ZxL.jpg", "actors": [], "comments": [], "recommandations_id": []}

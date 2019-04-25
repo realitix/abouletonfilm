@@ -1,1 +1,0 @@
-{"tmdb_id": 271017, "title": "Mal d'Africa", "original_title": "Mal d'Africa", "slug_title": "mal-d-africa", "date": "1968-05-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g2m7FzT1M80dIwsqu026WYE1HPc.jpg", "actors": [], "comments": [], "recommandations_id": []}

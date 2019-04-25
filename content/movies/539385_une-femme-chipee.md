@@ -1,1 +1,0 @@
-{"tmdb_id": 539385, "title": "Une femme chip\u00e9e", "original_title": "Une femme chip\u00e9e", "slug_title": "une-femme-chipee", "date": "1934-10-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

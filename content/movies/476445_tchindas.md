@@ -1,1 +1,0 @@
-{"tmdb_id": 476445, "title": "Tchindas", "original_title": "Tchindas", "slug_title": "tchindas", "date": "2015-11-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eZnUY2l0fxUghVHYWZ10eTbRXD8.jpg", "actors": ["Edinha Pitanga (Edinha Tchinda)"], "comments": [], "recommandations_id": []}

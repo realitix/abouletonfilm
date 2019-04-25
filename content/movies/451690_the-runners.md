@@ -1,1 +1,0 @@
-{"tmdb_id": 451690, "title": "The Runners", "original_title": "The Runners", "slug_title": "the-runners", "date": "2013-11-15", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1uCaV3NAb4EaBs7YabTQsK66eh6.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 53679, "title": "Bakhalt", "original_title": "Bakhalt", "slug_title": "bakhalt", "date": "1990-01-02", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zETDMnOzxCnbdYlOFvb3hmj2cWg.jpg", "actors": [], "comments": [], "recommandations_id": []}

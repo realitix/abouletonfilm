@@ -1,1 +1,0 @@
-{"tmdb_id": 309325, "title": "The Rat-Catcher", "original_title": "Szczuro\u0142ap", "slug_title": "the-rat-catcher", "date": "1986-05-01", "genre": "Documentaire", "score": "8.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/35EzUbhHXtXhcvtnPAfLz3862Ss.jpg", "actors": [], "comments": [], "recommandations_id": []}

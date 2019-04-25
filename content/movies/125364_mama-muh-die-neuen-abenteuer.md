@@ -1,1 +1,0 @@
-{"tmdb_id": 125364, "title": "Mama Muh - Die neuen Abenteuer", "original_title": "Mama Muh - Die neuen Abenteuer", "slug_title": "mama-muh-die-neuen-abenteuer", "date": "2011-03-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k3AZz63LLzMkyra6fn9HSqtY73C.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 165942, "title": "The Village Festival", "original_title": "\u6751\u796d", "slug_title": "the-village-festival", "date": "1930-01-31", "genre": "Musique / Animation", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ucdEcnSC6YrUB0w5gVvRXL2Jdbv.jpg", "actors": [], "comments": [], "recommandations_id": []}

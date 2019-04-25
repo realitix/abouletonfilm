@@ -1,1 +1,0 @@
-{"tmdb_id": 247635, "title": "La sombra del iceberg", "original_title": "La sombra del iceberg", "slug_title": "la-sombra-del-iceberg", "date": "2007-07-04", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wKSh9pCVPuj7TllNSUkXMzSq8DE.jpg", "actors": [], "comments": [], "recommandations_id": []}

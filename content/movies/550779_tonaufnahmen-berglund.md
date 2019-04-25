@@ -1,1 +1,0 @@
-{"tmdb_id": 550779, "title": "Tonaufnahmen Berglund", "original_title": "Tonaufnahmen Berglund", "slug_title": "tonaufnahmen-berglund", "date": "1922-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

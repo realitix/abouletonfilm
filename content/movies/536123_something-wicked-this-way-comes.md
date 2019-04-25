@@ -1,1 +1,0 @@
-{"tmdb_id": 536123, "title": "Something Wicked This Way Comes", "original_title": "Something Wicked This Way Comes", "slug_title": "something-wicked-this-way-comes", "date": "2018-03-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 524342, "title": "Paangshu", "original_title": "\u0db4\u0dcf\u0d82\u0dc1\u0dd4", "slug_title": "paangshu", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7XoW8HuDB6qur9BH2MQIOLfakjy.jpg", "actors": [], "comments": [], "recommandations_id": []}

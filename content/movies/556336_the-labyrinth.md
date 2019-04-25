@@ -1,1 +1,0 @@
-{"tmdb_id": 556336, "title": "The Labyrinth", "original_title": "Le d\u00e9dale", "slug_title": "the-labyrinth", "date": "1927-10-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

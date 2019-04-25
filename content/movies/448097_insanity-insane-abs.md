@@ -1,1 +1,0 @@
-{"tmdb_id": 448097, "title": "Insanity: Insane Abs", "original_title": "Insanity: Insane Abs", "slug_title": "insanity-insane-abs", "date": "2009-03-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8KxAun6uQNyYr7d7IEuYeImUc4w.jpg", "actors": ["Shaun T. (Himself)"], "comments": [], "recommandations_id": []}

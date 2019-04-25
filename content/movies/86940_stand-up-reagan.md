@@ -1,1 +1,0 @@
-{"tmdb_id": 86940, "title": "Stand-up Reagan", "original_title": "Stand-up Reagan", "slug_title": "stand-up-reagan", "date": "1989-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/12qfcn1FE21XVpXvhwLmKrzKUQH.jpg", "actors": ["Ronald Reagan (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 128119, "title": "The Land of Eb", "original_title": "The Land of Eb", "slug_title": "the-land-of-eb", "date": "2012-09-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kNNXpRXmgOEI24Zka5CqC2fgAYn.jpg", "actors": [], "comments": [], "recommandations_id": []}

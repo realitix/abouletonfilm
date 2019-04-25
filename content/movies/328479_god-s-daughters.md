@@ -1,1 +1,0 @@
-{"tmdb_id": 328479, "title": "God's Daughters", "original_title": "God's Daughters", "slug_title": "god-s-daughters", "date": "2014-10-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

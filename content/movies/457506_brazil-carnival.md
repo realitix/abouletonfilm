@@ -1,1 +1,0 @@
-{"tmdb_id": 457506, "title": "Brazil Carnival", "original_title": "Brazil Carnival", "slug_title": "brazil-carnival", "date": "2016-02-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jzKxWjgGUA9EsuTvXQIAo6duoOQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

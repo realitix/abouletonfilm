@@ -1,1 +1,0 @@
-{"tmdb_id": 428548, "title": "Laughing at the Moon", "original_title": "Laughing at the Moon", "slug_title": "laughing-at-the-moon", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 255163, "title": "Le Champion du trombone", "original_title": "Le Champion du trombone", "slug_title": "le-champion-du-trombone", "date": "1913-08-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

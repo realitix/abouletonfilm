@@ -1,1 +1,0 @@
-{"tmdb_id": 344829, "title": "It Takes a Village", "original_title": "It Takes a Village", "slug_title": "it-takes-a-village", "date": "2008-10-08", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

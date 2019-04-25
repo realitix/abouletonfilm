@@ -1,1 +1,0 @@
-{"tmdb_id": 215529, "title": "When I Die: Lessons from the Death Zone", "original_title": "When I Die: Lessons from the Death Zone", "slug_title": "when-i-die-lessons-from-the-death-zone", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

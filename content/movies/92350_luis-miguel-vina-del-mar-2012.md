@@ -1,1 +1,0 @@
-{"tmdb_id": 92350, "title": "Luis Miguel Vina del Mar 2012", "original_title": "Luis Miguel Vina del Mar 2012", "slug_title": "luis-miguel-vina-del-mar-2012", "date": "2012-02-22", "genre": "Musique", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Luis Miguel (Himself)"], "comments": [], "recommandations_id": []}

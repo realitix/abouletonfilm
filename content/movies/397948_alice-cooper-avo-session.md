@@ -1,1 +1,0 @@
-{"tmdb_id": 397948, "title": "Alice Cooper - AVO Session", "original_title": "Alice Cooper - AVO Session", "slug_title": "alice-cooper-avo-session", "date": "2012-11-04", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3Ux0tGRHBmxzcFQPsddDrgOefbf.jpg", "actors": [], "comments": [], "recommandations_id": []}

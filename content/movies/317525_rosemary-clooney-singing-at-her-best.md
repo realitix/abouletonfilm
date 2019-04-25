@@ -1,1 +1,0 @@
-{"tmdb_id": 317525, "title": "Rosemary Clooney Singing at Her Best", "original_title": "Rosemary Clooney Singing at Her Best", "slug_title": "rosemary-clooney-singing-at-her-best", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

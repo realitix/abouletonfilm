@@ -1,1 +1,0 @@
-{"tmdb_id": 298441, "title": "Rib Gets in the Way (Final Thoughts, series three)", "original_title": "Rib Gets in the Way (Final Thoughts, series three)", "slug_title": "rib-gets-in-the-way-final-thoughts-series-three", "date": "2014-10-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

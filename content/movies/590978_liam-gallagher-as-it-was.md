@@ -1,1 +1,0 @@
-{"tmdb_id": 590978, "title": "Liam Gallagher: As It Was", "original_title": "Liam Gallagher: As It Was", "slug_title": "liam-gallagher-as-it-was", "date": "2019-06-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Liam Gallagher (Himself)"], "comments": [], "recommandations_id": []}

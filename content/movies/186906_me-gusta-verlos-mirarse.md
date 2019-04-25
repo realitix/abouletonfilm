@@ -1,1 +1,0 @@
-{"tmdb_id": 186906, "title": "Me gusta verlos mirarse", "original_title": "Me gusta verlos mirarse", "slug_title": "me-gusta-verlos-mirarse", "date": "1998-05-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Laia Marull ()", "Ernesto Collado ()"], "comments": [], "recommandations_id": []}

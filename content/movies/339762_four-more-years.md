@@ -1,1 +1,0 @@
-{"tmdb_id": 339762, "title": "Four More Years", "original_title": "Four More Years", "slug_title": "four-more-years", "date": "1972-09-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jvIuWq7Yt2tkLpBQQx4JFpunjj3.jpg", "actors": [], "comments": [], "recommandations_id": []}

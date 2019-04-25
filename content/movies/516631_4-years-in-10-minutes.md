@@ -1,1 +1,0 @@
-{"tmdb_id": 516631, "title": "4 Years in 10 Minutes", "original_title": "4 Years in 10 Minutes", "slug_title": "4-years-in-10-minutes", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tTbXzBjPZEN5tkHW6hv6MqOBX0Z.jpg", "actors": [], "comments": [], "recommandations_id": []}

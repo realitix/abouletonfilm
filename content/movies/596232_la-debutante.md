@@ -1,1 +1,0 @@
-{"tmdb_id": 596232, "title": "La d\u00e9butante", "original_title": "La d\u00e9butante", "slug_title": "la-debutante", "date": "2017-11-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wafKgyBtS2gAZ4fDq6tNdrUqft7.jpg", "actors": [], "comments": [], "recommandations_id": []}

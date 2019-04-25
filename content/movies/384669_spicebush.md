@@ -1,1 +1,0 @@
-{"tmdb_id": 384669, "title": "Spicebush", "original_title": "Spicebush", "slug_title": "spicebush", "date": "2005-01-01", "genre": "Documentaire", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iiRkYVFMQpRlKS9NXCKP3xDyqDV.jpg", "actors": [], "comments": [], "recommandations_id": []}

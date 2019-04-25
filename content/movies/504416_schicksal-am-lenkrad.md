@@ -1,1 +1,0 @@
-{"tmdb_id": 504416, "title": "Schicksal am Lenkrad", "original_title": "Schicksal am Lenkrad", "slug_title": "schicksal-am-lenkrad", "date": "1955-05-02", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dorothea Neff (Frau Fiedler)", "Bert Fortell (Sepp Springer)"], "comments": [], "recommandations_id": []}

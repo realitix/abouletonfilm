@@ -1,1 +1,0 @@
-{"tmdb_id": 520518, "title": "Dear God Please Save Me", "original_title": "Dear God Please Save Me", "slug_title": "dear-god-please-save-me", "date": "2006-06-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

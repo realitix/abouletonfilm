@@ -1,1 +1,0 @@
-{"tmdb_id": 108145, "title": "The Band Beautiful", "original_title": "The Band Beautiful", "slug_title": "the-band-beautiful", "date": "1928-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["The Ingenues (Themselves)"], "comments": [], "recommandations_id": []}

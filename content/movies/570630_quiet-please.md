@@ -1,1 +1,0 @@
-{"tmdb_id": 570630, "title": "Quiet Please", "original_title": "Quiet Please", "slug_title": "quiet-please", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

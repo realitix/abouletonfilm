@@ -1,1 +1,0 @@
-{"tmdb_id": 478488, "title": "The Eternal Lesson", "original_title": "The Eternal Lesson", "slug_title": "the-eternal-lesson", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 261934, "title": "Time in the Sun", "original_title": "Time in the Sun", "slug_title": "time-in-the-sun", "date": "1940-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

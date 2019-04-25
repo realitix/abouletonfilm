@@ -1,1 +1,0 @@
-{"tmdb_id": 293016, "title": "Panchromes I, II, III", "original_title": "Panchromes I, II, III", "slug_title": "panchromes-i-ii-iii", "date": "2014-09-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

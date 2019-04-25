@@ -1,1 +1,0 @@
-{"tmdb_id": 259376, "title": "Baby of the Fisher", "original_title": "Bum-bum Doch' Rybaka", "slug_title": "baby-of-the-fisher", "date": "2013-01-01", "genre": "Animation", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bBUk9CazcMNAcNk0iZlKxhie6qI.jpg", "actors": [], "comments": [], "recommandations_id": []}

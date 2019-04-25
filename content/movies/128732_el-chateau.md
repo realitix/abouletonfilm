@@ -1,1 +1,0 @@
-{"tmdb_id": 128732, "title": "El Chateau", "original_title": "El Chateau", "slug_title": "el-chateau", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 326417, "title": "California Forever", "original_title": "California Forever", "slug_title": "california-forever", "date": "2011-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

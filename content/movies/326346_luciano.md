@@ -1,1 +1,0 @@
-{"tmdb_id": 326346, "title": "Luciano", "original_title": "Luciano", "slug_title": "luciano", "date": "2010-02-20", "genre": "Aventure / Drame", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yX0CgDlvihzS79TQR19qXNbU4lj.jpg", "actors": [], "comments": [], "recommandations_id": []}

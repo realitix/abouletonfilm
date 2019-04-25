@@ -1,1 +1,0 @@
-{"tmdb_id": 365106, "title": "A Fist Full of Fuku", "original_title": "Combat Beauty", "slug_title": "a-fist-full-of-fuku", "date": "2005-01-01", "genre": "Com\u00e9die / Action", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/awV1E04z8kb6NyHADCee9RURaD5.jpg", "actors": [], "comments": [], "recommandations_id": []}

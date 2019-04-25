@@ -1,1 +1,0 @@
-{"tmdb_id": 289397, "title": "Amarrados", "original_title": "Amarrados", "slug_title": "amarrados", "date": "2002-10-31", "genre": "", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eYNGbKod0Fkf9ProqhaGQCkD64n.jpg", "actors": [], "comments": [], "recommandations_id": []}

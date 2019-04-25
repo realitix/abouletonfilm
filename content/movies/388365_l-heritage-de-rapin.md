@@ -1,1 +1,0 @@
-{"tmdb_id": 388365, "title": "L'h\u00e9ritage de rapin", "original_title": "L'h\u00e9ritage de rapin", "slug_title": "l-heritage-de-rapin", "date": "1908-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ppjhqXRaHbUxIyThEN7Qd8KkK8N.jpg", "actors": [], "comments": [], "recommandations_id": []}

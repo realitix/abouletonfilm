@@ -1,1 +1,0 @@
-{"tmdb_id": 365736, "title": "Golden Globe - Island", "original_title": "Golden Globe - Island", "slug_title": "golden-globe-island", "date": "2009-11-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dX6xDUrjLGEdYW6NXQltIpB5o78.jpg", "actors": [], "comments": [], "recommandations_id": []}

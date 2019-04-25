@@ -1,1 +1,0 @@
-{"tmdb_id": 595037, "title": "True Stories by Joe", "original_title": "True Stories by Joe", "slug_title": "true-stories-by-joe", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

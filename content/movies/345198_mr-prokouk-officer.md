@@ -1,1 +1,0 @@
-{"tmdb_id": 345198, "title": "Mr. Prokouk Officer", "original_title": "Pan Prokouk ou\u0159aduje", "slug_title": "mr-prokouk-officer", "date": "1947-06-17", "genre": "Animation / Com\u00e9die", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bfPtRG4F5Pz98BjBWFXmfpfDXa4.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 553800, "title": "From Sabina, Italy", "original_title": "Fra Sabina, Italia", "slug_title": "from-sabina-italy", "date": "1909-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

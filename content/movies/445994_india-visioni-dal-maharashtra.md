@@ -1,1 +1,0 @@
-{"tmdb_id": 445994, "title": "India, visioni dal Maharashtra", "original_title": "India, visioni dal Maharashtra", "slug_title": "india-visioni-dal-maharashtra", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

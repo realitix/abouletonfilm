@@ -1,1 +1,0 @@
-{"tmdb_id": 178168, "title": "Pat The Bunny Playdates", "original_title": "Pat The Bunny Playdates", "slug_title": "pat-the-bunny-playdates", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6w0sLTcDa2QSVEDUDsvCBEHIlNh.jpg", "actors": [], "comments": [], "recommandations_id": []}

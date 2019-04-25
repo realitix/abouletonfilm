@@ -1,1 +1,0 @@
-{"tmdb_id": 417979, "title": "Wish You Here", "original_title": "Wish You Here", "slug_title": "wish-you-here", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qpxXPQo191E23DmsaeoTxZqFQ0T.jpg", "actors": [], "comments": [], "recommandations_id": []}

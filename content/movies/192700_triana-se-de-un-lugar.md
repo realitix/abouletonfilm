@@ -1,1 +1,0 @@
-{"tmdb_id": 192700, "title": "Triana - S\u00e9 De Un Lugar", "original_title": "Triana - S\u00e9 De Un Lugar", "slug_title": "triana-se-de-un-lugar", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

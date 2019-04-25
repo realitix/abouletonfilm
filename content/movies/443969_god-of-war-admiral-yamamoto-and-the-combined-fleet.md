@@ -1,1 +1,0 @@
-{"tmdb_id": 443969, "title": "God of War Admiral Yamamoto and the Combined Fleet", "original_title": "Gunshin Yamamoto Gensui to Rengo Kantai", "slug_title": "god-of-war-admiral-yamamoto-and-the-combined-fleet", "date": "1956-07-21", "genre": "Guerre", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 395344, "title": "Take Five", "original_title": "Take Five", "slug_title": "take-five", "date": "1972-04-28", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wTy1VOBsbCOTnHJt83vd6h4OGL8.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 584128, "title": "Elixir d'Anvers", "original_title": "Elixir d'Anvers", "slug_title": "elixir-d-anvers", "date": "1996-09-27", "genre": "Drame / Histoire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["G\u00e8ne Bervoets (Tanchelijn)", "Herbert Flack (Balthasar De Groote)"], "comments": [], "recommandations_id": []}

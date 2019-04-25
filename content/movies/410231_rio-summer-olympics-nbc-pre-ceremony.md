@@ -1,1 +1,0 @@
-{"tmdb_id": 410231, "title": "Rio Summer Olympics NBC Pre Ceremony", "original_title": "Rio Summer Olympics NBC Pre Ceremony", "slug_title": "rio-summer-olympics-nbc-pre-ceremony", "date": "2016-08-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

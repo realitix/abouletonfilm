@@ -1,1 +1,0 @@
-{"tmdb_id": 561534, "title": "Z\u00f6glinge", "original_title": "Z\u00f6glinge", "slug_title": "zoglinge", "date": "1974-12-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tWJLjlTVCVEeSgmxHXaXG31gQvm.jpg", "actors": [], "comments": [], "recommandations_id": []}

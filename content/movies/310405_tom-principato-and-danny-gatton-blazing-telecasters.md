@@ -1,1 +1,0 @@
-{"tmdb_id": 310405, "title": "Tom Principato and Danny Gatton: Blazing Telecasters", "original_title": "Tom Principato and Danny Gatton: Blazing Telecasters", "slug_title": "tom-principato-and-danny-gatton-blazing-telecasters", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

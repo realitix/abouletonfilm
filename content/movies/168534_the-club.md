@@ -1,1 +1,0 @@
-{"tmdb_id": 168534, "title": "The Club", "original_title": "The Club", "slug_title": "the-club", "date": "2007-08-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

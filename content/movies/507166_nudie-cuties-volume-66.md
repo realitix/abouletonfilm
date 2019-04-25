@@ -1,1 +1,0 @@
-{"tmdb_id": 507166, "title": "Nudie Cuties: Volume 66", "original_title": "Nudie Cuties: Volume 66", "slug_title": "nudie-cuties-volume-66", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

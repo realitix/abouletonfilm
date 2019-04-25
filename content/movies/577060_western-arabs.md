@@ -1,1 +1,0 @@
-{"tmdb_id": 577060, "title": "Western Arabs", "original_title": "Western Arabs", "slug_title": "western-arabs", "date": "2019-12-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/roDJ7VXwijUJOeYWf2MKqur4R0G.jpg", "actors": [], "comments": [], "recommandations_id": []}

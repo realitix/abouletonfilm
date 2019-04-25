@@ -1,1 +1,0 @@
-{"tmdb_id": 137474, "title": "An Affair of the Heart", "original_title": "An Affair of the Heart", "slug_title": "an-affair-of-the-heart", "date": "2012-04-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8Q3f0p4bO3VtC4h25p1DjkJLztH.jpg", "actors": ["Rick Springfield ()"], "comments": [], "recommandations_id": []}

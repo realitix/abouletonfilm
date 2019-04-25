@@ -1,1 +1,0 @@
-{"tmdb_id": 475411, "title": "Natural Features", "original_title": "Natural Features", "slug_title": "natural-features", "date": "1990-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6KYRKl0RzM7a88vU2Hv1wyeE4o0.jpg", "actors": [], "comments": [], "recommandations_id": []}

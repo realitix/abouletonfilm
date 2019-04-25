@@ -1,1 +1,1 @@
-{"tmdb_id": 472718, "title": "Reminisce", "original_title": "Reminisce", "slug_title": "reminisce", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 472718, "title": "Reminisce", "original_title": "Reminisce", "slug_title": "reminisce", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "An experimental film about a group of friends.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

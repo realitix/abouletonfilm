@@ -1,1 +1,0 @@
-{"tmdb_id": 406171, "title": "El Houkm n Rbbi 3", "original_title": "El Houkm n Rbbi 3", "slug_title": "el-houkm-n-rbbi-3", "date": "", "genre": "", "score": "0.0/10", "synopsis": "Tiznit Vision", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l3RXWUIKHQrvqw4uh7rKeoRtA2j.jpg", "actors": [], "comments": [], "recommandations_id": []}

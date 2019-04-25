@@ -1,1 +1,0 @@
-{"tmdb_id": 515309, "title": "Wasteland Tales", "original_title": "Wasteland Tales", "slug_title": "wasteland-tales", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

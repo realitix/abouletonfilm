@@ -1,1 +1,0 @@
-{"tmdb_id": 595325, "title": "The Third Degree", "original_title": "The Third Degree", "slug_title": "the-third-degree", "date": "1926-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w3p5n6k4tmh12KdhG9KgNiKxC6G.jpg", "actors": [], "comments": [], "recommandations_id": []}

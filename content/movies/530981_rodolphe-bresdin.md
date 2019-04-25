@@ -1,1 +1,0 @@
-{"tmdb_id": 530981, "title": "Rodolphe Bresdin", "original_title": "Rodolphe Bresdin", "slug_title": "rodolphe-bresdin", "date": "1962-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 450506, "title": "Anatomy", "original_title": "Anatomi", "slug_title": "anatomy", "date": "2016-01-01", "genre": "Animation", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k5tueTHqFUp8i7aI5akbmCOS73S.jpg", "actors": [], "comments": [], "recommandations_id": []}

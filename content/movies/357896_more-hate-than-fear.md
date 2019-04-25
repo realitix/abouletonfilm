@@ -1,1 +1,0 @@
-{"tmdb_id": 357896, "title": "More Hate Than Fear", "original_title": "More Hate Than Fear", "slug_title": "more-hate-than-fear", "date": "2015-07-10", "genre": "Documentaire / Crime / Drame", "score": "8.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kB2Nyp3NOej7cYkyHtrtGcxieMG.jpg", "actors": [], "comments": [], "recommandations_id": []}

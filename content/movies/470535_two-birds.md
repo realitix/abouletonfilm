@@ -1,1 +1,0 @@
-{"tmdb_id": 470535, "title": "Two Birds", "original_title": "Two Birds", "slug_title": "two-birds", "date": "2017-02-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Avital Ash (Flynn)", "Nea Dune (Creature)", "Sarah Greyson (Eve)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 333898, "title": "Under the Rubble", "original_title": "Taht al-Anqad", "slug_title": "under-the-rubble", "date": "1983-01-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n31dubUndSBzPZzQrGEnOawz89y.jpg", "actors": [], "comments": [], "recommandations_id": []}

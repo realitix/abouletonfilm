@@ -1,1 +1,0 @@
-{"tmdb_id": 161928, "title": "Galloping Fanny", "original_title": "Galloping Fanny", "slug_title": "galloping-fanny", "date": "1933-12-01", "genre": "", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

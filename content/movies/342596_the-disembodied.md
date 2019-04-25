@@ -1,1 +1,0 @@
-{"tmdb_id": 342596, "title": "The Disembodied", "original_title": "The Disembodied", "slug_title": "the-disembodied", "date": "2011-04-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

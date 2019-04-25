@@ -1,1 +1,0 @@
-{"tmdb_id": 476393, "title": "Underground Odyssee", "original_title": "Underground Odyssee", "slug_title": "underground-odyssee", "date": "2010-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

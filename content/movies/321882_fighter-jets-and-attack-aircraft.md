@@ -1,1 +1,0 @@
-{"tmdb_id": 321882, "title": "Fighter Jets and Attack Aircraft", "original_title": "Fighter Jets and Attack Aircraft", "slug_title": "fighter-jets-and-attack-aircraft", "date": "1998-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

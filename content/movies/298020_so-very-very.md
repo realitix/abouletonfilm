@@ -1,1 +1,0 @@
-{"tmdb_id": 298020, "title": "So Very Very", "original_title": "\ucc21\ucc21 \ub9c9\ub9c9", "slug_title": "so-very-very", "date": "2014-10-04", "genre": "Drame", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AwysFGOA85sYfXOFuC2kLuAhgox.jpg", "actors": ["Oh Chang-kyung ()", "Cho Ha-young ()"], "comments": [], "recommandations_id": []}

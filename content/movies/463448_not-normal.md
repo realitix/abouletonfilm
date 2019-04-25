@@ -1,1 +1,0 @@
-{"tmdb_id": 463448, "title": "Not Normal", "original_title": "Not Normal", "slug_title": "not-normal", "date": "2017-06-19", "genre": "Drame / Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gMBBjLsHM9Bz1WftGUF4H7TwadS.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 509179, "title": "Deontay Wilder vs Luis Ortiz", "original_title": "Deontay Wilder vs Luis Ortiz", "slug_title": "deontay-wilder-vs-luis-ortiz", "date": "2018-03-04", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

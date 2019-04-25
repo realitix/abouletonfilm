@@ -1,1 +1,0 @@
-{"tmdb_id": 131058, "title": "The Flute Player", "original_title": "The Flute Player", "slug_title": "the-flute-player", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

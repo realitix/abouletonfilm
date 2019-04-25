@@ -1,1 +1,0 @@
-{"tmdb_id": 518950, "title": "Moodu Mulla Bandham", "original_title": "Moodu Mulla Bandham", "slug_title": "moodu-mulla-bandham", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kVfn3acqbMmDODjRlBTKVxuCqg3.jpg", "actors": [], "comments": [], "recommandations_id": []}

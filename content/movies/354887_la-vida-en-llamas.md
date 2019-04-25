@@ -1,1 +1,0 @@
-{"tmdb_id": 354887, "title": "La vida en llamas", "original_title": "La vida en llamas", "slug_title": "la-vida-en-llamas", "date": "2015-09-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qQg1ySM3tNe4t5m3QZOyZnNrv3t.jpg", "actors": [], "comments": [], "recommandations_id": []}

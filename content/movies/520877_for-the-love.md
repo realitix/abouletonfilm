@@ -1,1 +1,0 @@
-{"tmdb_id": 520877, "title": "For the Love", "original_title": "For the Love", "slug_title": "for-the-love", "date": "2012-11-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

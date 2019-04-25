@@ -1,1 +1,0 @@
-{"tmdb_id": 551507, "title": "Goddess", "original_title": "Goddess", "slug_title": "goddess", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

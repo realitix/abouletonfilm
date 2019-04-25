@@ -1,1 +1,0 @@
-{"tmdb_id": 566919, "title": "Hunters of the Deep", "original_title": "Hunters of the Deep", "slug_title": "hunters-of-the-deep", "date": "1955-05-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dan O'Herlihy (Narrator)"], "comments": [], "recommandations_id": []}

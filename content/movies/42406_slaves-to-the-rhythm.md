@@ -1,1 +1,0 @@
-{"tmdb_id": 42406, "title": "Slaves to the Rhythm", "original_title": "Slaves to the Rhythm", "slug_title": "slaves-to-the-rhythm", "date": "2008-06-02", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oMNKCWbrm3SuGgkjRC34eesdKjC.jpg", "actors": [], "comments": [], "recommandations_id": []}

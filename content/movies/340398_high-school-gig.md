@@ -1,1 +1,0 @@
-{"tmdb_id": 340398, "title": "High School Gig", "original_title": "High School Gig", "slug_title": "high-school-gig", "date": "2010-03-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 463907, "title": "Dangerous Curves", "original_title": "Dangerous Curves", "slug_title": "dangerous-curves", "date": "2017-06-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qDkLOe5BaCLAXSgUEyOumwv90Cy.jpg", "actors": [], "comments": [], "recommandations_id": []}

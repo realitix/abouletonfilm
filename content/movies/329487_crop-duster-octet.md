@@ -1,1 +1,0 @@
-{"tmdb_id": 329487, "title": "Crop Duster Octet", "original_title": "Crop Duster Octet", "slug_title": "crop-duster-octet", "date": "2011-03-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2WZfMmXW97RyqzbeXjFps1hxNLl.jpg", "actors": [], "comments": [], "recommandations_id": []}

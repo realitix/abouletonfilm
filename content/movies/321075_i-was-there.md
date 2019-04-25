@@ -1,1 +1,0 @@
-{"tmdb_id": 321075, "title": "I Was There", "original_title": "I Was There", "slug_title": "i-was-there", "date": "1992-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

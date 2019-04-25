@@ -1,1 +1,0 @@
-{"tmdb_id": 163931, "title": "Upending", "original_title": "Upending", "slug_title": "upending", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

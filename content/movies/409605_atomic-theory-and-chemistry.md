@@ -1,1 +1,0 @@
-{"tmdb_id": 409605, "title": "Atomic Theory and Chemistry", "original_title": "Atomic Theory and Chemistry", "slug_title": "atomic-theory-and-chemistry", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

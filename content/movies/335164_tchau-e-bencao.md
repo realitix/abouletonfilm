@@ -1,1 +1,0 @@
-{"tmdb_id": 335164, "title": "Tchau e B\u00ean\u00e7\u00e3o", "original_title": "Tchau e B\u00ean\u00e7\u00e3o", "slug_title": "tchau-e-bencao", "date": "2010-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gUq7DdnAqfxiaIn3AsYWuTUELrf.jpg", "actors": [], "comments": [], "recommandations_id": []}

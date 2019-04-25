@@ -1,1 +1,0 @@
-{"tmdb_id": 310462, "title": "The Making of an Army", "original_title": "The Making of an Army", "slug_title": "the-making-of-an-army", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

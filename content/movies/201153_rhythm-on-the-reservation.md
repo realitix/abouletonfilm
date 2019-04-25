@@ -1,1 +1,0 @@
-{"tmdb_id": 201153, "title": "Rhythm on the Reservation", "original_title": "Rhythm on the Reservation", "slug_title": "rhythm-on-the-reservation", "date": "1939-07-07", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fSyDqUmeCJxuJKbGcz0TpEfFCAt.jpg", "actors": [], "comments": [], "recommandations_id": []}

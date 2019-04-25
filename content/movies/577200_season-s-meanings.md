@@ -1,1 +1,0 @@
-{"tmdb_id": 577200, "title": "Season's Meanings", "original_title": "Season's Meanings", "slug_title": "season-s-meanings", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kULSJvTmHbHOVryBNzUrQ9f0HUb.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 504568, "title": "Marala Telupana Priya", "original_title": "Marala Telupana Priya", "slug_title": "marala-telupana-priya", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 232951, "title": "La le\u00e7on de musique", "original_title": "La le\u00e7on de musique", "slug_title": "la-lecon-de-musique", "date": "1909-10-08", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

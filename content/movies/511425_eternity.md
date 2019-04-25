@@ -1,1 +1,0 @@
-{"tmdb_id": 511425, "title": "Eternity", "original_title": "Wi\u00f1aypacha", "slug_title": "eternity", "date": "2018-04-19", "genre": "Drame", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ceYrImnaGNr4hv6srr5silgfYHz.jpg", "actors": ["Vicente Catacora (Willka)", "Rosa Nina (Phaxsi)"], "comments": [], "recommandations_id": []}

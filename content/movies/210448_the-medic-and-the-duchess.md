@@ -1,1 +1,0 @@
-{"tmdb_id": 210448, "title": "The Medic and the Duchess", "original_title": "O M\u00e9dico e a Duquesa", "slug_title": "the-medic-and-the-duchess", "date": "1984-10-18", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vluYK6WFtLkWQEZTuwy4Ar9qbZB.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 337928, "title": "Lock Up Your Daughters", "original_title": "Lock Up Your Daughters", "slug_title": "lock-up-your-daughters", "date": "1956-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rRJ9uKdNtFaTiB0WuzHyIU71VAy.jpg", "actors": [], "comments": [], "recommandations_id": []}

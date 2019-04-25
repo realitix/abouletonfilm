@@ -1,1 +1,0 @@
-{"tmdb_id": 263758, "title": "Dakshayagnam", "original_title": "Dakshayagnam", "slug_title": "dakshayagnam", "date": "1938-05-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ojnLJkv9JYjGaIGQnaxpqRKGqWD.jpg", "actors": ["M. G. Ramachandran ()", "N. S. Krishnan ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 169108, "title": "Lomax the Songhunter", "original_title": "Lomax the Songhunter", "slug_title": "lomax-the-songhunter", "date": "2004-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ds1ivOP5zb4AI3zN3cvJLR930wF.jpg", "actors": [], "comments": [], "recommandations_id": []}

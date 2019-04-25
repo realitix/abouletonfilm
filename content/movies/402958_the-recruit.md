@@ -1,1 +1,0 @@
-{"tmdb_id": 402958, "title": "The Recruit", "original_title": "The Recruit", "slug_title": "the-recruit", "date": "2015-01-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mri1F6mrHQ6XOvwQMiUz0ZOzef0.jpg", "actors": [], "comments": [], "recommandations_id": []}

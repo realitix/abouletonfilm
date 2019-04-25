@@ -1,1 +1,0 @@
-{"tmdb_id": 166544, "title": "The Haunted Ship", "original_title": "The Haunted Ship", "slug_title": "the-haunted-ship", "date": "1930-04-26", "genre": "", "score": "4.3/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

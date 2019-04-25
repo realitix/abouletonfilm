@@ -1,1 +1,0 @@
-{"tmdb_id": 311439, "title": "Bob Hope: Hollywood's Brightest Star", "original_title": "Bob Hope: Hollywood's Brightest Star", "slug_title": "bob-hope-hollywood-s-brightest-star", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

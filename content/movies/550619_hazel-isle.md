@@ -1,1 +1,0 @@
-{"tmdb_id": 550619, "title": "Hazel Isle", "original_title": "Hazel Isle", "slug_title": "hazel-isle", "date": "2019-01-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kirsty MacFarlane ()", "Robert McGhee ()", "Victoria McGhee ()"], "comments": [], "recommandations_id": []}

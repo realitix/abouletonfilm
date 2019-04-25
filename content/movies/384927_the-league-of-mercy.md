@@ -1,1 +1,0 @@
-{"tmdb_id": 384927, "title": "The League of Mercy", "original_title": "The League of Mercy", "slug_title": "the-league-of-mercy", "date": "1911-02-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Edwin R. Phillips (Martin)", "Grace Lewis (Helen Bertram)", "Leo Delaney ()"], "comments": [], "recommandations_id": []}

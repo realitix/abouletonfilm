@@ -1,1 +1,0 @@
-{"tmdb_id": 485661, "title": "Lettres du train fant\u00f4me", "original_title": "Lettres du train fant\u00f4me", "slug_title": "lettres-du-train-fantome", "date": "", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

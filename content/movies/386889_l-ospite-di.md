@@ -1,1 +1,0 @@
-{"tmdb_id": 386889, "title": "L'Ospite di", "original_title": "L'Ospite di", "slug_title": "l-ospite-di", "date": "2014-08-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6vvjJ6AnN1CELYPXcRhPYvQscLF.jpg", "actors": [], "comments": [], "recommandations_id": []}

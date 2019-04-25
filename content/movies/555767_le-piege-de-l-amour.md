@@ -1,1 +1,0 @@
-{"tmdb_id": 555767, "title": "Le pi\u00e8ge de l'amour", "original_title": "Le pi\u00e8ge de l'amour", "slug_title": "le-piege-de-l-amour", "date": "1920-12-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

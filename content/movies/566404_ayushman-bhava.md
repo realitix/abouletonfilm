@@ -1,1 +1,0 @@
-{"tmdb_id": 566404, "title": "Ayushman Bhava", "original_title": "Ayushman Bhava", "slug_title": "ayushman-bhava", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/obeHF3B2TR02Iuc6m84kbAryMXT.jpg", "actors": ["Amala Paul ()", "Charan Tej ()", "Andrea Jeremiah ()"], "comments": [], "recommandations_id": []}

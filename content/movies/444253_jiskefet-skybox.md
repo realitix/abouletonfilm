@@ -1,1 +1,0 @@
-{"tmdb_id": 444253, "title": "Jiskefet - Skybox", "original_title": "Jiskefet - Skybox", "slug_title": "jiskefet-skybox", "date": "2008-05-15", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tsn3kDs5Q9qveOBBhE8Cqiplwqz.jpg", "actors": [], "comments": [], "recommandations_id": []}

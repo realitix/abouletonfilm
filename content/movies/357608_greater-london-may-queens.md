@@ -1,1 +1,0 @@
-{"tmdb_id": 357608, "title": "Greater London May Queens", "original_title": "Greater London May Queens", "slug_title": "greater-london-may-queens", "date": "1930-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

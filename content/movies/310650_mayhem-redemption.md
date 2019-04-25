@@ -1,1 +1,0 @@
-{"tmdb_id": 310650, "title": "Mayhem: Redemption", "original_title": "Mayhem: Redemption", "slug_title": "mayhem-redemption", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

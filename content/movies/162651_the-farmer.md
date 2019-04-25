@@ -1,1 +1,0 @@
-{"tmdb_id": 162651, "title": "The Farmer", "original_title": "The Farmer", "slug_title": "the-farmer", "date": "1931-03-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

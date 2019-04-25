@@ -1,1 +1,0 @@
-{"tmdb_id": 566513, "title": "Les p\u2019tites t\u00eates", "original_title": "Les p\u2019tites t\u00eates", "slug_title": "les-ptites-tetes", "date": "1982-06-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o4fHabLCYl9JywMHE897EcdderR.jpg", "actors": [], "comments": [], "recommandations_id": []}

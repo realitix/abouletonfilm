@@ -1,1 +1,0 @@
-{"tmdb_id": 162720, "title": "The Antique Shop", "original_title": "The Antique Shop", "slug_title": "the-antique-shop", "date": "1931-03-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["George Burns ()", "Gracie Allen ()"], "comments": [], "recommandations_id": []}

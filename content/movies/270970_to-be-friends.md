@@ -1,1 +1,0 @@
-{"tmdb_id": 270970, "title": "To Be Friends", "original_title": "To Be Friends", "slug_title": "to-be-friends", "date": "2010-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Joelle Carter (Her)", "Todd Stashwick (Him)"], "comments": [], "recommandations_id": []}

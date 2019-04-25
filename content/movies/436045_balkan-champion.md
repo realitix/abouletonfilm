@@ -1,1 +1,0 @@
-{"tmdb_id": 436045, "title": "Balkan Champion", "original_title": "Balkan Champion", "slug_title": "balkan-champion", "date": "2006-04-09", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

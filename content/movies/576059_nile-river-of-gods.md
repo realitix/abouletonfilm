@@ -1,1 +1,0 @@
-{"tmdb_id": 576059, "title": "Nile: River of Gods", "original_title": "Nile: River of Gods", "slug_title": "nile-river-of-gods", "date": "1995-05-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5c9XfHpYnKExKCicIkKiShTFVnh.jpg", "actors": [], "comments": [], "recommandations_id": []}

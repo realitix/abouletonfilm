@@ -1,1 +1,0 @@
-{"tmdb_id": 534390, "title": "Rebel Women: The Great Art Fight Back", "original_title": "Rebel Women: The Great Art Fight Back", "slug_title": "rebel-women-the-great-art-fight-back", "date": "2018-06-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

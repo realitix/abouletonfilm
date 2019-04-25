@@ -1,1 +1,0 @@
-{"tmdb_id": 148355, "title": "La Villa Santo Sospir", "original_title": "La villa Santo Sospir", "slug_title": "la-villa-santo-sospir", "date": "1952-12-05", "genre": "", "score": "7.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6N0S9UaImu6lvFvxM35MczWXWJF.jpg", "actors": ["Jean Cocteau (himself)"], "comments": [], "recommandations_id": []}

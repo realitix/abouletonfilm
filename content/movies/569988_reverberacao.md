@@ -1,1 +1,0 @@
-{"tmdb_id": 569988, "title": "Reverbera\u00e7\u00e3o", "original_title": "Reverbera\u00e7\u00e3o", "slug_title": "reverberacao", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7Ef8D9ykOXWOnUZQfv2yj9rrfyY.jpg", "actors": [], "comments": [], "recommandations_id": []}

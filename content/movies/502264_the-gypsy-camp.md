@@ -1,1 +1,0 @@
-{"tmdb_id": 502264, "title": "The Gypsy Camp", "original_title": "Jedzie tabor", "slug_title": "the-gypsy-camp", "date": "1954-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 529818, "title": "Erz\u00e4hlung f\u00fcr Sandra", "original_title": "Erz\u00e4hlung f\u00fcr Sandra", "slug_title": "erzahlung-fur-sandra", "date": "1988-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 384191, "title": "2016 Essence Black Women in Hollywood Awards", "original_title": "2016 Essence Black Women in Hollywood Awards", "slug_title": "2016-essence-black-women-in-hollywood-awards", "date": "2016-02-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

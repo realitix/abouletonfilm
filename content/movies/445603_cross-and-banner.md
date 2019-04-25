@@ -1,1 +1,0 @@
-{"tmdb_id": 445603, "title": "Cross and Banner", "original_title": "Cross and Banner", "slug_title": "cross-and-banner", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

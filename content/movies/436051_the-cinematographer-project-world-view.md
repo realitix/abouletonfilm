@@ -1,1 +1,0 @@
-{"tmdb_id": 436051, "title": "The Cinematographer Project - World View", "original_title": "The Cinematographer Project - World View", "slug_title": "the-cinematographer-project-world-view", "date": "2017-01-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

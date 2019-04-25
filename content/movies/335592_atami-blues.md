@@ -1,1 +1,0 @@
-{"tmdb_id": 335592, "title": "Atami Blues", "original_title": "Atami Blues", "slug_title": "atami-blues", "date": "1962-01-01", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5GwmcTKFo5k9FH4iQ327V5MnYyB.jpg", "actors": ["Chieko Wada ()", "Tomosuke Suzuki ()"], "comments": [], "recommandations_id": []}

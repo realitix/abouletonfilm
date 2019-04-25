@@ -1,1 +1,0 @@
-{"tmdb_id": 582605, "title": "As You Dreamt It", "original_title": "As You Dreamt It", "slug_title": "as-you-dreamt-it", "date": "2015-01-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 457241, "title": "The Family", "original_title": "Rodzina", "slug_title": "the-family", "date": "1971-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

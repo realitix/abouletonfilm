@@ -1,1 +1,0 @@
-{"tmdb_id": 339863, "title": "Gowramma", "original_title": "Gowramma", "slug_title": "gowramma", "date": "2005-06-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hBIb55lG7Gr1JnHvKiYVHxOjqPv.jpg", "actors": ["Upendra ()"], "comments": [], "recommandations_id": []}

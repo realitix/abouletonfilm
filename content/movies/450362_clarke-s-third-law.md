@@ -1,1 +1,0 @@
-{"tmdb_id": 450362, "title": "Clarke's Third Law", "original_title": "Clarke's Third Law", "slug_title": "clarke-s-third-law", "date": "", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y6mqRiRsYcAQCNDZs8p9HYhyz3k.jpg", "actors": [], "comments": [], "recommandations_id": []}

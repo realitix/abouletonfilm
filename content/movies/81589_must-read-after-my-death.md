@@ -1,1 +1,0 @@
-{"tmdb_id": 81589, "title": "Must Read After My Death", "original_title": "Must Read After My Death", "slug_title": "must-read-after-my-death", "date": "2007-12-15", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yxnqY2z9bCWF7vYPkq7CBnGbG1L.jpg", "actors": [], "comments": [], "recommandations_id": []}

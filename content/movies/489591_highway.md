@@ -1,1 +1,1 @@
-{"tmdb_id": 489591, "title": "Highway", "original_title": "Highway", "slug_title": "highway", "date": "2017-11-25", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 489591, "title": "Highway", "original_title": "Highway", "slug_title": "highway", "date": "2017-11-25", "genre": ["Horreur"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

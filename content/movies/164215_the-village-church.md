@@ -1,1 +1,0 @@
-{"tmdb_id": 164215, "title": "The Village Church", "original_title": "Landsbykirken", "slug_title": "the-village-church", "date": "1947-12-15", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wQGTngftHECuOhmEOYAPpdNy8Gw.jpg", "actors": [], "comments": [], "recommandations_id": []}

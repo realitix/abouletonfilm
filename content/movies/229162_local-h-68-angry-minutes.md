@@ -1,1 +1,0 @@
-{"tmdb_id": 229162, "title": "Local H: 68 Angry Minutes", "original_title": "Local H: 68 Angry Minutes", "slug_title": "local-h-68-angry-minutes", "date": "2010-02-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pVOCv1xWJ0Mi8bxYeTkPQqM4LYE.jpg", "actors": [], "comments": [], "recommandations_id": []}

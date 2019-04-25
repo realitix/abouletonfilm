@@ -1,1 +1,0 @@
-{"tmdb_id": 530853, "title": "The Case of Colonel Redl", "original_title": "Der Fall des Generalstabs-Oberst Redl", "slug_title": "the-case-of-colonel-redl", "date": "1931-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

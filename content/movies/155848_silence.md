@@ -1,1 +1,0 @@
-{"tmdb_id": 155848, "title": "Silence", "original_title": "Cisza", "slug_title": "silence", "date": "2001-10-26", "genre": "", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fe1nuff4vPhcviAKFFrGSWUnFSn.jpg", "actors": ["Kinga Preis (Magdalena \"Mimi\")", "Jolanta Fraszy\u0144ska (Jaga)"], "comments": [], "recommandations_id": []}

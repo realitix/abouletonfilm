@@ -1,1 +1,0 @@
-{"tmdb_id": 276682, "title": "The Tree of Life", "original_title": "Geedka nolosha", "slug_title": "the-tree-of-life", "date": "1988-09-30", "genre": "Drame", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oH6FfPM7Tl1Qs5LEow02ykz9RaX.jpg", "actors": [], "comments": [], "recommandations_id": []}

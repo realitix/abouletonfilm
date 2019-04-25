@@ -1,1 +1,0 @@
-{"tmdb_id": 292333, "title": "Lagniappe", "original_title": "Lagniappe", "slug_title": "lagniappe", "date": "2006-01-01", "genre": "Documentaire / Musique", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Henry 'Professor Longhair' Byrd ()", "The Neville Brothers ()", "The Wild Tchoupitoulas ()"], "comments": [], "recommandations_id": []}

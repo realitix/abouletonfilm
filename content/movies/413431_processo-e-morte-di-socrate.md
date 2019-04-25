@@ -1,1 +1,0 @@
-{"tmdb_id": 413431, "title": "Processo e morte di Socrate", "original_title": "Processo e morte di Socrate", "slug_title": "processo-e-morte-di-socrate", "date": "1939-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nDJmuWDxkz4XXnp2sm416QNqGSX.jpg", "actors": [], "comments": [], "recommandations_id": []}

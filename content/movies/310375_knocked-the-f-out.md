@@ -1,1 +1,0 @@
-{"tmdb_id": 310375, "title": "Knocked the F Out", "original_title": "Knocked the F Out", "slug_title": "knocked-the-f-out", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

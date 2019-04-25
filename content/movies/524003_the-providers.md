@@ -1,1 +1,0 @@
-{"tmdb_id": 524003, "title": "The Providers", "original_title": "The Providers", "slug_title": "the-providers", "date": "2018-04-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9fgtgtmwmLIjohgOmViuOsqeAGz.jpg", "actors": [], "comments": [], "recommandations_id": []}

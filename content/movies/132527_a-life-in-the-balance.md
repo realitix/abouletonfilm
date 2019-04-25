@@ -1,1 +1,0 @@
-{"tmdb_id": 132527, "title": "A Life in the Balance", "original_title": "A Life in the Balance", "slug_title": "a-life-in-the-balance", "date": "1913-04-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 376059, "title": "La Fuga - En directo", "original_title": "La Fuga - En directo", "slug_title": "la-fuga-en-directo", "date": "2006-12-05", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aBmaEHbFsBKALQcWQxJissuP1QW.jpg", "actors": [], "comments": [], "recommandations_id": []}

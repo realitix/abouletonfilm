@@ -1,1 +1,0 @@
-{"tmdb_id": 539413, "title": "Distant Harmony", "original_title": "Distant Harmony", "slug_title": "distant-harmony", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

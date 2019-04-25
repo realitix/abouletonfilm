@@ -1,1 +1,0 @@
-{"tmdb_id": 302743, "title": "Warren Miller: No Turning Back", "original_title": "Warren Miller: No Turning Back", "slug_title": "warren-miller-no-turning-back", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

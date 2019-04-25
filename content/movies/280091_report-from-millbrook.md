@@ -1,1 +1,0 @@
-{"tmdb_id": 280091, "title": "Report from Millbrook", "original_title": "Report from Millbrook", "slug_title": "report-from-millbrook", "date": "1966-07-03", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4zymbpIIKNtnPn73Y8bLWe4uyM2.jpg", "actors": [], "comments": [], "recommandations_id": []}

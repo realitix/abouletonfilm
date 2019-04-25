@@ -1,1 +1,0 @@
-{"tmdb_id": 228334, "title": "The Slow Mo Guys", "original_title": "The Slow Mo Guys", "slug_title": "the-slow-mo-guys", "date": "2013-01-01", "genre": "Com\u00e9die", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jODHt7fJfUnUkT8pIvHgXNWRLn4.jpg", "actors": ["Gavin Free ()", "Dan Gruchy ()"], "comments": [], "recommandations_id": []}

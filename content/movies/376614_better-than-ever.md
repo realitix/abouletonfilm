@@ -1,1 +1,0 @@
-{"tmdb_id": 376614, "title": "Better than Ever", "original_title": "Better than Ever", "slug_title": "better-than-ever", "date": "2015-11-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

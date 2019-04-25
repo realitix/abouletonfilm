@@ -1,1 +1,0 @@
-{"tmdb_id": 426491, "title": "Pearl Harbor: The Truth", "original_title": "Pearl Harbor: The Truth", "slug_title": "pearl-harbor-the-truth", "date": "2016-12-04", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 533576, "title": "Everything Happens to Me", "original_title": "Everything Happens to Me", "slug_title": "everything-happens-to-me", "date": "2018-04-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zEwayWQ8JwqAuPKqFXOyirAc4h.jpg", "actors": [], "comments": [], "recommandations_id": []}

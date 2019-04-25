@@ -1,1 +1,0 @@
-{"tmdb_id": 282957, "title": "The Other Victory", "original_title": "L'autre victoire", "slug_title": "the-other-victory", "date": "1914-01-01", "genre": "Familial / Drame / Guerre", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1rrrQIEkCbCWQfDwybgSCSxTDlA.jpg", "actors": ["Musidora ()"], "comments": [], "recommandations_id": []}

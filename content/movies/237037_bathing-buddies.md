@@ -1,1 +1,0 @@
-{"tmdb_id": 237037, "title": "Bathing Buddies", "original_title": "Bathing Buddies", "slug_title": "bathing-buddies", "date": "1946-07-01", "genre": "Animation", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A2aH0JlklH0cp8LZuct9wS41i3C.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 333862, "title": "Bee Sting", "original_title": "Bee Sting", "slug_title": "bee-sting", "date": "2014-10-10", "genre": "", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rF6hpIG3Q5u2UNEGfQUKvNGembj.jpg", "actors": [], "comments": [], "recommandations_id": []}

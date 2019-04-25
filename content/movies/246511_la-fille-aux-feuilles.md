@@ -1,1 +1,0 @@
-{"tmdb_id": 246511, "title": "La fille aux feuilles", "original_title": "La fille aux feuilles", "slug_title": "la-fille-aux-feuilles", "date": "2013-08-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

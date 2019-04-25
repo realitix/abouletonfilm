@@ -1,1 +1,0 @@
-{"tmdb_id": 208043, "title": "The First World War 1914-1918", "original_title": "The First World War 1914-1918", "slug_title": "the-first-world-war-1914-1918", "date": "2008-04-29", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

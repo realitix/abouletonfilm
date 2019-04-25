@@ -1,1 +1,0 @@
-{"tmdb_id": 261911, "title": "The Fairytale of the Three Bears", "original_title": "The Fairytale of the Three Bears", "slug_title": "the-fairytale-of-the-three-bears", "date": "2013-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

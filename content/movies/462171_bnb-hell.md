@@ -1,1 +1,0 @@
-{"tmdb_id": 462171, "title": "BnB HELL", "original_title": "BnB HELL", "slug_title": "bnb-hell", "date": "2017-06-16", "genre": "Horreur", "score": "4.9/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fXTENLwGJmBnTGr6iwBlXakjLEv.jpg", "actors": ["Kimberly Woods ()", "Rudy Dobrev ()", "Carol Stanzione ()"], "comments": [], "recommandations_id": []}

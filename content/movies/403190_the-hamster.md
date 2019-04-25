@@ -1,1 +1,0 @@
-{"tmdb_id": 403190, "title": "The Hamster", "original_title": "The Hamster", "slug_title": "the-hamster", "date": "2015-11-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pjt88TKXb12NZ0GWXL7jYxAukUQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

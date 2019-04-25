@@ -1,1 +1,0 @@
-{"tmdb_id": 321850, "title": "Rap: Hawaii's Comic Genius", "original_title": "Rap: Hawaii's Comic Genius", "slug_title": "rap-hawaii-s-comic-genius", "date": "2011-11-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

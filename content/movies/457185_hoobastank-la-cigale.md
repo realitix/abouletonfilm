@@ -1,1 +1,0 @@
-{"tmdb_id": 457185, "title": "Hoobastank \u200e\u2013 La Cigale", "original_title": "Hoobastank \u200e\u2013 La Cigale", "slug_title": "hoobastank-la-cigale", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uNA3xMDw940L1BdPtcXYk7NFMOq.jpg", "actors": [], "comments": [], "recommandations_id": []}

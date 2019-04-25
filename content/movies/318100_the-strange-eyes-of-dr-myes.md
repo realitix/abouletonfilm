@@ -1,1 +1,0 @@
-{"tmdb_id": 318100, "title": "The Strange Eyes of Dr. Myes", "original_title": "The Strange Eyes of Dr. Myes", "slug_title": "the-strange-eyes-of-dr-myes", "date": "2015-01-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 432078, "title": "Inferno", "original_title": "Inferno", "slug_title": "inferno", "date": "2014-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/valpBcftssbbJxhREpq2fMExERB.jpg", "actors": [], "comments": [], "recommandations_id": []}

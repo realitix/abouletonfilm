@@ -1,1 +1,0 @@
-{"tmdb_id": 439031, "title": "Daniel Sosa: Sosafado", "original_title": "Daniel Sosa: Sosafado", "slug_title": "daniel-sosa-sosafado", "date": "2017-02-03", "genre": "Com\u00e9die", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wOM37EaAGw181rBySnjNmAQXVqq.jpg", "actors": [], "comments": [], "recommandations_id": []}

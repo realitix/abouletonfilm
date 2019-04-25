@@ -1,1 +1,0 @@
-{"tmdb_id": 284557, "title": "Office Space", "original_title": "Office Space", "slug_title": "office-space", "date": "1991-01-01", "genre": "Animation / Com\u00e9die", "score": "6.4/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z46KRSKLCPFJu9yTlZ3MXi3iNol.jpg", "actors": ["Mike Judge (Milton)"], "comments": [], "recommandations_id": []}

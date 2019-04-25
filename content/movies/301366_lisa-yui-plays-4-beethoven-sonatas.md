@@ -1,1 +1,0 @@
-{"tmdb_id": 301366, "title": "Lisa Yui Plays 4 Beethoven Sonatas", "original_title": "Lisa Yui Plays 4 Beethoven Sonatas", "slug_title": "lisa-yui-plays-4-beethoven-sonatas", "date": "2014-03-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

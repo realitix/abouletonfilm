@@ -1,1 +1,0 @@
-{"tmdb_id": 353524, "title": "Renato Russo uma Celebracao", "original_title": "Renato Russo uma Celebracao", "slug_title": "renato-russo-uma-celebracao", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

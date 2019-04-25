@@ -1,1 +1,0 @@
-{"tmdb_id": 277304, "title": "Bob The Builder: Building Buddies", "original_title": "Bob The Builder: Building Buddies", "slug_title": "bob-the-builder-building-buddies", "date": "2013-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

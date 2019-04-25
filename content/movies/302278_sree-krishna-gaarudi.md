@@ -1,1 +1,0 @@
-{"tmdb_id": 302278, "title": "Sree Krishna Gaarudi", "original_title": "Sree Krishna Gaarudi", "slug_title": "sree-krishna-gaarudi", "date": "1958-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

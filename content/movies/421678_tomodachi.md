@@ -1,1 +1,0 @@
-{"tmdb_id": 421678, "title": "Tomodachi", "original_title": "Tomodachi", "slug_title": "tomodachi", "date": "2016-10-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jackie Wu ()", "Bela Paderia ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 501564, "title": "Filet of Soul", "original_title": "Filet of Soul", "slug_title": "filet-of-soul", "date": "1972-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

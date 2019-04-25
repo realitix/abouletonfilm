@@ -1,1 +1,0 @@
-{"tmdb_id": 507615, "title": "The 'Yeah Whatever' Girl", "original_title": "The 'Yeah Whatever' Girl", "slug_title": "the-yeah-whatever-girl", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AqbrZznWQJjgCQjFqph32aapJfL.jpg", "actors": [], "comments": [], "recommandations_id": []}

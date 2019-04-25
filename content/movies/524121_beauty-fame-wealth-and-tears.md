@@ -1,1 +1,0 @@
-{"tmdb_id": 524121, "title": "Beauty, Fame, Wealth, and Tears", "original_title": "Beauty, Fame, Wealth, and Tears", "slug_title": "beauty-fame-wealth-and-tears", "date": "1983-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 229153, "title": "La dolorosa", "original_title": "La dolorosa", "slug_title": "la-dolorosa", "date": "1934-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7qYEBAbIJ2Ez2ltOlxglAYbiGMZ.jpg", "actors": ["Rosita D\u00edaz Gimeno (Dolores)"], "comments": [], "recommandations_id": []}

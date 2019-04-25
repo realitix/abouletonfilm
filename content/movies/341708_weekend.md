@@ -1,1 +1,0 @@
-{"tmdb_id": 341708, "title": "Weekend", "original_title": "Weekend", "slug_title": "weekend", "date": "2012-11-02", "genre": "Thriller", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1PIMmpzqSMSlZGztme9e0tuXBEk.jpg", "actors": ["Miyuki Yokoyama ()", "Hiroaki Kawatsure ()"], "comments": [], "recommandations_id": []}

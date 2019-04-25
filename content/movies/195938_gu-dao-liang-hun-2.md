@@ -1,1 +1,0 @@
-{"tmdb_id": 195938, "title": "\u5b64\u5c9b\u60ca\u9b422", "original_title": "\u5b64\u5c9b\u60ca\u9b422", "slug_title": "gu-dao-liang-hun-2", "date": "2013-01-26", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8tSHGoZwy7HLsBh8iRBeRvWPrM0.jpg", "actors": [], "comments": [], "recommandations_id": []}

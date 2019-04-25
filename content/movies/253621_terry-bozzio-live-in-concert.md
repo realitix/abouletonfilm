@@ -1,1 +1,0 @@
-{"tmdb_id": 253621, "title": "Terry Bozzio: Live in Concert", "original_title": "Terry Bozzio: Live in Concert", "slug_title": "terry-bozzio-live-in-concert", "date": "1998-01-01", "genre": "", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7Kh4Sp8GoV3t5e5HgtRXrq7kYwb.jpg", "actors": [], "comments": [], "recommandations_id": []}

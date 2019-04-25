@@ -1,1 +1,0 @@
-{"tmdb_id": 404032, "title": "The Marquee", "original_title": "The Marquee", "slug_title": "the-marquee", "date": "2010-09-15", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Clara Mamet (The Girl)"], "comments": [], "recommandations_id": []}

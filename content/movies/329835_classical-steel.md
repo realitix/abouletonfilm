@@ -1,1 +1,0 @@
-{"tmdb_id": 329835, "title": "Classical Steel", "original_title": "Classical Steel", "slug_title": "classical-steel", "date": "2013-02-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 94207, "title": "So This Is Washington", "original_title": "So This Is Washington", "slug_title": "so-this-is-washington", "date": "1943-08-01", "genre": "Com\u00e9die", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dyFlSTEUDikwfMH57mWdXN4v5dN.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 181766, "title": "Hero of Tomorrow", "original_title": "Hero of Tomorrow", "slug_title": "hero-of-tomorrow", "date": "1988-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zcsj1rEAwQCebh6IkdZRALBsdEv.jpg", "actors": [], "comments": [], "recommandations_id": []}

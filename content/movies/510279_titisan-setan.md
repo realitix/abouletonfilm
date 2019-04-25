@@ -1,1 +1,0 @@
-{"tmdb_id": 510279, "title": "Titisan Setan", "original_title": "Titisan Setan", "slug_title": "titisan-setan", "date": "2018-03-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8VYyiIOKqth7yPvaAjrssIdDAY6.jpg", "actors": [], "comments": [], "recommandations_id": []}

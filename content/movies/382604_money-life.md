@@ -1,1 +1,0 @@
-{"tmdb_id": 382604, "title": "Money & Life", "original_title": "Money & Life", "slug_title": "money-life", "date": "2013-05-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zXGJUSPU38TUKRqmKVIbBloWqOA.jpg", "actors": [], "comments": [], "recommandations_id": []}

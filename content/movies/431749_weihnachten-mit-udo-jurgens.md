@@ -1,1 +1,0 @@
-{"tmdb_id": 431749, "title": "Weihnachten mit Udo J\u00fcrgens", "original_title": "Weihnachten mit Udo J\u00fcrgens", "slug_title": "weihnachten-mit-udo-jurgens", "date": "2016-12-24", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Udo J\u00fcrgens ()"], "comments": [], "recommandations_id": []}

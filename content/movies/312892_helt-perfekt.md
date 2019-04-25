@@ -1,1 +1,0 @@
-{"tmdb_id": 312892, "title": "Helt Perfekt", "original_title": "Helt Perfekt", "slug_title": "helt-perfekt", "date": "2014-12-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yR6QYc8wLgN0LhUUOcMIg2enAeq.jpg", "actors": ["Elias Ehlers (Himself)"], "comments": [], "recommandations_id": []}

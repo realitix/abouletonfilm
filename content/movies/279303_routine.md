@@ -1,1 +1,0 @@
-{"tmdb_id": 279303, "title": "Routine", "original_title": "Routine", "slug_title": "routine", "date": "2013-04-10", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pWU93kpFgj2XsizvOMMOAWzlnew.jpg", "actors": ["Ala Mezher ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 516117, "title": "David Crowe: White Bread", "original_title": "David Crowe: White Bread", "slug_title": "david-crowe-white-bread", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

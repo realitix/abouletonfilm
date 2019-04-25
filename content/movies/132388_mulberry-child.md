@@ -1,1 +1,0 @@
-{"tmdb_id": 132388, "title": "Mulberry Child", "original_title": "Mulberry Child", "slug_title": "mulberry-child", "date": "2012-09-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qfT3uY6btCUXhVmUOuScVdCkNm7.jpg", "actors": ["Jacqueline Bisset (Narrator)"], "comments": [], "recommandations_id": []}

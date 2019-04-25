@@ -1,1 +1,0 @@
-{"tmdb_id": 568289, "title": "I Hate Christmas", "original_title": "I Hate Christmas", "slug_title": "i-hate-christmas", "date": "2008-12-19", "genre": "Animation / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 375748, "title": "Karaiyorum", "original_title": "Karaiyorum", "slug_title": "karaiyorum", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

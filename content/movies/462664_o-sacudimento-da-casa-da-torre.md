@@ -1,1 +1,0 @@
-{"tmdb_id": 462664, "title": "O Sacudimento da Casa da Torre", "original_title": "O Sacudimento da Casa da Torre", "slug_title": "o-sacudimento-da-casa-da-torre", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

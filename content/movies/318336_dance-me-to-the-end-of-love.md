@@ -1,1 +1,0 @@
-{"tmdb_id": 318336, "title": "Dance Me To The End of Love", "original_title": "Dance Me To The End of Love", "slug_title": "dance-me-to-the-end-of-love", "date": "2004-01-02", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xqiSaNg8Efh2jLUQuCwBtClrBi1.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 567435, "title": "Zip-Tone-Cat-Tune", "original_title": "Zip-Tone-Cat-Tune", "slug_title": "zip-tone-cat-tune", "date": "1972-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rNM0EbfviEUXjpwnQB8QlDwlsIT.jpg", "actors": [], "comments": [], "recommandations_id": []}

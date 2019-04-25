@@ -1,1 +1,0 @@
-{"tmdb_id": 67688, "title": "Powell Peralta: Propaganda", "original_title": "Powell Peralta: Propaganda", "slug_title": "powell-peralta-propaganda", "date": "1990-01-01", "genre": "", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bATffbSJKY3cfW2PSx2mPyEiTpi.jpg", "actors": [], "comments": [], "recommandations_id": []}

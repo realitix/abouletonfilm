@@ -1,1 +1,0 @@
-{"tmdb_id": 535192, "title": "Roger Leenhardt ou Le dernier humaniste", "original_title": "Roger Leenhardt ou Le dernier humaniste", "slug_title": "roger-leenhardt-ou-le-dernier-humaniste", "date": "1965-11-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

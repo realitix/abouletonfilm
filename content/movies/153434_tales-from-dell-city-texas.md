@@ -1,1 +1,0 @@
-{"tmdb_id": 153434, "title": "Tales From Dell City, Texas", "original_title": "Tales From Dell City, Texas", "slug_title": "tales-from-dell-city-texas", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

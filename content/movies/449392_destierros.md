@@ -1,1 +1,0 @@
-{"tmdb_id": 449392, "title": "Destierros", "original_title": "Destierros", "slug_title": "destierros", "date": "2017-04-26", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j9OykUins2FQCC70ESAhxd0FxgE.jpg", "actors": [], "comments": [], "recommandations_id": []}

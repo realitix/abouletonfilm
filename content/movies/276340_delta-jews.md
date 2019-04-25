@@ -1,1 +1,0 @@
-{"tmdb_id": 276340, "title": "Delta Jews", "original_title": "Delta Jews", "slug_title": "delta-jews", "date": "1998-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

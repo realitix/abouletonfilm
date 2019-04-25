@@ -1,1 +1,0 @@
-{"tmdb_id": 516311, "title": "Saturday Night Light: 25 Years of Music Vol. 2", "original_title": "Saturday Night Light: 25 Years of Music Vol. 2", "slug_title": "saturday-night-light-25-years-of-music-vol-2", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

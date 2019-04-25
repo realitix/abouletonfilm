@@ -1,1 +1,0 @@
-{"tmdb_id": 185121, "title": "Musical Movieland", "original_title": "Musical Movieland", "slug_title": "musical-movieland", "date": "1944-09-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

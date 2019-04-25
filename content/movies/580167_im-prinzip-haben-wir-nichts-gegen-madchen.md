@@ -1,1 +1,0 @@
-{"tmdb_id": 580167, "title": "Im Prinzip haben wir nichts gegen M\u00e4dchen", "original_title": "Im Prinzip haben wir nichts gegen M\u00e4dchen", "slug_title": "im-prinzip-haben-wir-nichts-gegen-madchen", "date": "1976-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

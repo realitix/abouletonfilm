@@ -1,1 +1,0 @@
-{"tmdb_id": 389430, "title": "Madagascar", "original_title": "Madagascar", "slug_title": "madagascar", "date": "1995-03-01", "genre": "", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jryPBqUSEwm4edJQaF6Xcoy6KBL.jpg", "actors": [], "comments": [], "recommandations_id": []}

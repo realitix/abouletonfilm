@@ -1,1 +1,0 @@
-{"tmdb_id": 351121, "title": "The Black Sheep", "original_title": "The Black Sheep", "slug_title": "the-black-sheep", "date": "1934-10-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 351299, "title": "Milk for Baby", "original_title": "Milk for Baby", "slug_title": "milk-for-baby", "date": "1938-07-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

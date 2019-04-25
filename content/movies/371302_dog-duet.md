@@ -1,1 +1,0 @@
-{"tmdb_id": 371302, "title": "Dog Duet", "original_title": "Dog Duet", "slug_title": "dog-duet", "date": "1975-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vBRfDGzfEWUpQGbwMe1N4VCs8R6.jpg", "actors": ["William Wegman ()", "Man Ray ()"], "comments": [], "recommandations_id": []}

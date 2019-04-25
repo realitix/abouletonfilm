@@ -1,1 +1,1 @@
-{"tmdb_id": 560879, "title": "El arpista", "original_title": "El arpista", "slug_title": "el-arpista", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 560879, "title": "El arpista", "original_title": "El arpista", "slug_title": "el-arpista", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

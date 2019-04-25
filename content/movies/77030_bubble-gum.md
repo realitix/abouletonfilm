@@ -1,1 +1,0 @@
-{"tmdb_id": 77030, "title": "Bubble Gum", "original_title": "Bubble Gum", "slug_title": "bubble-gum", "date": "2011-07-28", "genre": "Drame", "score": "4.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uiA5Vb2sHvw0LAFvvZt1RrhTMvB.jpg", "actors": [], "comments": [], "recommandations_id": []}

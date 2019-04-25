@@ -1,1 +1,0 @@
-{"tmdb_id": 184568, "title": "Chi ga vinto?", "original_title": "Chi ga vinto?", "slug_title": "chi-ga-vinto", "date": "2008-01-01", "genre": "Documentaire", "score": "4.3/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Marco Paolini (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 589020, "title": "Palmdale", "original_title": "Palmdale", "slug_title": "palmdale", "date": "2014-09-09", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nRgIo5TZs0SvHorlZtkKTbovZGz.jpg", "actors": [], "comments": [], "recommandations_id": []}

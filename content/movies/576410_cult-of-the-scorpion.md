@@ -1,1 +1,0 @@
-{"tmdb_id": 576410, "title": "Cult of the Scorpion", "original_title": "Cult of the Scorpion", "slug_title": "cult-of-the-scorpion", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

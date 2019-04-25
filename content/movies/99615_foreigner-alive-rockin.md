@@ -1,1 +1,0 @@
-{"tmdb_id": 99615, "title": "Foreigner: Alive & Rockin", "original_title": "Foreigner: Alive & Rockin", "slug_title": "foreigner-alive-rockin", "date": "2007-10-15", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kdHNiGBgmWISVBeOUnC7t4haBQ1.jpg", "actors": [], "comments": [], "recommandations_id": []}

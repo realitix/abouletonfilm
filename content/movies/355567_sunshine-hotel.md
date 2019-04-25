@@ -1,1 +1,0 @@
-{"tmdb_id": 355567, "title": "Sunshine Hotel", "original_title": "Sunshine Hotel", "slug_title": "sunshine-hotel", "date": "2001-02-10", "genre": "Documentaire", "score": "9.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tsCUey8zDlzZhHsWQLGQiZKL1pR.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 469845, "title": "Playgiarism", "original_title": "Playgiarism", "slug_title": "playgiarism", "date": "", "genre": "Drame / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jose Prendes ()"], "comments": [], "recommandations_id": []}

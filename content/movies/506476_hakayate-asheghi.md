@@ -1,1 +1,0 @@
-{"tmdb_id": 506476, "title": "Hakayate Asheghi", "original_title": "Hakayate Asheghi", "slug_title": "hakayate-asheghi", "date": "2016-01-15", "genre": "Romance / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nPgU3A3RgHXdCpjU06wKjV1QoYy.jpg", "actors": ["Bahram Radan (Boy)"], "comments": [], "recommandations_id": []}

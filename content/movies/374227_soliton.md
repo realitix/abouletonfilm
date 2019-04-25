@@ -1,1 +1,0 @@
-{"tmdb_id": 374227, "title": "SOLITON", "original_title": "SOLITON", "slug_title": "soliton", "date": "2014-02-10", "genre": "Drame", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pjbDWIRqE7oIQGz1i0htcnQ1Mmm.jpg", "actors": ["Saoto Tomioka (Child)", "Miki Ogawa (Soldier)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 397706, "title": "$5 at the Door", "original_title": "$5 at the Door", "slug_title": "5-at-the-door", "date": "2016-05-10", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/opuVyR7JMFMacLVaSYdXlBBdDRH.jpg", "actors": [], "comments": [], "recommandations_id": []}

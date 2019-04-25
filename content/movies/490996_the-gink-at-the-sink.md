@@ -1,1 +1,0 @@
-{"tmdb_id": 490996, "title": "The Gink at the Sink", "original_title": "The Gink at the Sink", "slug_title": "the-gink-at-the-sink", "date": "1952-06-12", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hugh Herbert (Hugh)"], "comments": [], "recommandations_id": []}

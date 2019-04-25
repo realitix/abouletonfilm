@@ -1,1 +1,0 @@
-{"tmdb_id": 375579, "title": "Nobody Told Us Anything", "original_title": "Nobody Told Us Anything", "slug_title": "nobody-told-us-anything", "date": "2014-05-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wVmZQXfud2gQKQNR119uRzM5HBQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

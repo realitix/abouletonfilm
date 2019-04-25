@@ -1,1 +1,0 @@
-{"tmdb_id": 510570, "title": "Strings", "original_title": "Strings", "slug_title": "strings", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1KLjEfpceuuNhI2xFXRMtgUc0BA.jpg", "actors": ["Peter Eriks (Adrian)", "Thomas Scott (Thomas)"], "comments": [], "recommandations_id": []}

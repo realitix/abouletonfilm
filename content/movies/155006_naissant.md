@@ -1,1 +1,0 @@
-{"tmdb_id": 155006, "title": "Naissant", "original_title": "Naissant", "slug_title": "naissant", "date": "1964-12-31", "genre": "Drame", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1scBBfF5jmB4SFTcPuD8rXoBP6a.jpg", "actors": ["Beverly Grant (Girl)"], "comments": [], "recommandations_id": [90041, 150707, 199177, 306216]}

@@ -1,1 +1,0 @@
-{"tmdb_id": 114397, "title": "High School II", "original_title": "High School II", "slug_title": "high-school-ii", "date": "1994-06-06", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xuc12VtunZb4eknYcKBkf0B7AWW.jpg", "actors": [], "comments": [], "recommandations_id": []}

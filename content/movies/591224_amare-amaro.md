@@ -1,1 +1,0 @@
-{"tmdb_id": 591224, "title": "Amare Amaro", "original_title": "Amare Amaro", "slug_title": "amare-amaro", "date": "2018-10-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a6pyxPlTOMwkZtNTjGEWu2ztfIA.jpg", "actors": [], "comments": [], "recommandations_id": []}

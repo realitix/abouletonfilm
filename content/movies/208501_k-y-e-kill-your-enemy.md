@@ -1,1 +1,0 @@
-{"tmdb_id": 208501, "title": "K.Y.E.: Kill Your Enemy", "original_title": "K.Y.E.: Kill Your Enemy", "slug_title": "k-y-e-kill-your-enemy", "date": "2007-03-13", "genre": "", "score": "2.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tedro Witfield (Remy)", "Rod B. Gutta (Rod B. Gutta)", "George Montgomery (Tim)"], "comments": [], "recommandations_id": []}

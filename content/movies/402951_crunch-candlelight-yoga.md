@@ -1,1 +1,0 @@
-{"tmdb_id": 402951, "title": "Crunch: Candlelight Yoga", "original_title": "Crunch: Candlelight Yoga", "slug_title": "crunch-candlelight-yoga", "date": "2002-09-24", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bvXfpPaKxsWuKL66lCvrg0Nj3Mv.jpg", "actors": ["Sara Ivanhoe ()"], "comments": [], "recommandations_id": []}

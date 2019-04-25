@@ -1,1 +1,0 @@
-{"tmdb_id": 570969, "title": "All You Need Is Love", "original_title": "All You Need Is Love", "slug_title": "all-you-need-is-love", "date": "1967-07-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["John Lennon ()", "Paul McCartney ()", "George Harrison ()", "Ringo Starr ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 303010, "title": "Mena Gurjari", "original_title": "Mena Gurjari", "slug_title": "mena-gurjari", "date": "1975-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

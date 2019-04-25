@@ -1,1 +1,0 @@
-{"tmdb_id": 312344, "title": "Amazing Earth Collection", "original_title": "Amazing Earth Collection", "slug_title": "amazing-earth-collection", "date": "1998-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

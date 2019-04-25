@@ -1,1 +1,0 @@
-{"tmdb_id": 383413, "title": "1987 NSWRL Grand Final: Sea Eagles vs Raiders", "original_title": "1987 NSWRL Grand Final: Sea Eagles vs Raiders", "slug_title": "1987-nswrl-grand-final-sea-eagles-vs-raiders", "date": "1987-09-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

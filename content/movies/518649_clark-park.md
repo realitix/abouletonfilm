@@ -1,1 +1,0 @@
-{"tmdb_id": 518649, "title": "Clark Park", "original_title": "Clark Park", "slug_title": "clark-park", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bJRaqkQWxoMSZNPIrs1CIZ0Rtlq.jpg", "actors": [], "comments": [], "recommandations_id": []}

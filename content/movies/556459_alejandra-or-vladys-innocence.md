@@ -1,1 +1,0 @@
-{"tmdb_id": 556459, "title": "Alejandra or Vlady\u2019s Innocence", "original_title": "Alejandra o la inocencia de Vlady", "slug_title": "alejandra-or-vladys-innocence", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

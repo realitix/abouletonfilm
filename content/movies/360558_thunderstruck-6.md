@@ -1,1 +1,0 @@
-{"tmdb_id": 360558, "title": "Thunderstruck 6", "original_title": "Thunderstruck 6", "slug_title": "thunderstruck-6", "date": "2007-01-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pLG2MWTeKwoq7Lu5G4xqzSGmcVF.jpg", "actors": [], "comments": [], "recommandations_id": []}

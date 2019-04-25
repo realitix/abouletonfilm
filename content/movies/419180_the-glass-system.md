@@ -1,1 +1,0 @@
-{"tmdb_id": 419180, "title": "The Glass System", "original_title": "The Glass System", "slug_title": "the-glass-system", "date": "2000-05-09", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i6aqThmW6yi7A041LtmWLIfFEbr.jpg", "actors": [], "comments": [], "recommandations_id": []}

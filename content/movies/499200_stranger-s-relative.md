@@ -1,1 +1,0 @@
-{"tmdb_id": 499200, "title": "Stranger's Relative", "original_title": "Stranger's Relative", "slug_title": "stranger-s-relative", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lovzN5XYXOWSLN2qqAv7UZZr84s.jpg", "actors": [], "comments": [], "recommandations_id": []}

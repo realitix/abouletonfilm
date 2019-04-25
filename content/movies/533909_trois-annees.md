@@ -1,1 +1,0 @@
-{"tmdb_id": 533909, "title": "Trois ann\u00e9es", "original_title": "Trois ann\u00e9es", "slug_title": "trois-annees", "date": "1990-08-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ydoGYE6yGl9dv6SzdA89LehXExh.jpg", "actors": [], "comments": [], "recommandations_id": []}

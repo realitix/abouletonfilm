@@ -1,1 +1,0 @@
-{"tmdb_id": 288091, "title": "Sathima's Windsong", "original_title": "Sathima's Windsong", "slug_title": "sathima-s-windsong", "date": "2010-01-01", "genre": "Histoire / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7JHNg9DgSF90IN3cqJhxPSIXSxx.jpg", "actors": [], "comments": [], "recommandations_id": []}

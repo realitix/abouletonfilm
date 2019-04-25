@@ -1,1 +1,0 @@
-{"tmdb_id": 587635, "title": "Monsieur Abel", "original_title": "Monsieur Abel", "slug_title": "monsieur-abel", "date": "1983-10-20", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pierre Dux (Monsieur Abel)", "Zouc (Gervaise)", "Jacques Denis (The commissioner)"], "comments": [], "recommandations_id": []}

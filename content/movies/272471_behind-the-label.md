@@ -1,1 +1,0 @@
-{"tmdb_id": 272471, "title": "Behind The Label", "original_title": "Behind The Label", "slug_title": "behind-the-label", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

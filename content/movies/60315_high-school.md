@@ -1,1 +1,0 @@
-{"tmdb_id": 60315, "title": "High School", "original_title": "High School", "slug_title": "high-school", "date": "1968-05-01", "genre": "Documentaire", "score": "7.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6aFqM55kuVVZ1WihfoWPaTzhMrB.jpg", "actors": [], "comments": [], "recommandations_id": [143810, 104366, 125795, 209690]}

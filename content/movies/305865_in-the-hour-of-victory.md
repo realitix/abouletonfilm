@@ -1,1 +1,0 @@
-{"tmdb_id": 305865, "title": "In the Hour of Victory", "original_title": "In the Hour of Victory", "slug_title": "in-the-hour-of-victory", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xPpiCxfkWvrbv4kEdaxY7uXHrAd.jpg", "actors": [], "comments": [], "recommandations_id": []}

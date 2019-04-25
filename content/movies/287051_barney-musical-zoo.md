@@ -1,1 +1,0 @@
-{"tmdb_id": 287051, "title": "Barney: Musical Zoo", "original_title": "Barney: Musical Zoo", "slug_title": "barney-musical-zoo", "date": "2011-08-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i7PehMOIcAhuQHOjZLUDdXVOVAf.jpg", "actors": [], "comments": [], "recommandations_id": []}

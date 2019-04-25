@@ -1,1 +1,0 @@
-{"tmdb_id": 379105, "title": "A golpe de tac\u00f3n (S)", "original_title": "A golpe de tac\u00f3n (S)", "slug_title": "a-golpe-de-tacon-s", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oTqHEuoiJCtN2Gp34jN3jj7bkcM.jpg", "actors": [], "comments": [], "recommandations_id": []}

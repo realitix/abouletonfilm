@@ -1,1 +1,0 @@
-{"tmdb_id": 306114, "title": "The Art of Chopin", "original_title": "The Art of Chopin", "slug_title": "the-art-of-chopin", "date": "2010-08-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

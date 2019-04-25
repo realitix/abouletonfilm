@@ -1,1 +1,0 @@
-{"tmdb_id": 145480, "title": "La cigarra", "original_title": "La cigarra", "slug_title": "la-cigarra", "date": "1948-11-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9MXL5u3H8QVafGtSYI67cLl3hae.jpg", "actors": [], "comments": [], "recommandations_id": []}

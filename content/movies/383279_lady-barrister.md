@@ -1,1 +1,0 @@
-{"tmdb_id": 383279, "title": "Lady Barrister", "original_title": "Madame l'avocate", "slug_title": "lady-barrister", "date": "1908-01-01", "genre": "Com\u00e9die", "score": "1.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

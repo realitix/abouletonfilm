@@ -1,1 +1,0 @@
-{"tmdb_id": 442990, "title": "Chuggington", "original_title": "Chuggington", "slug_title": "chuggington", "date": "2012-11-09", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dhCoBBPcHwFtApqqQAi0eWXq3AU.jpg", "actors": [], "comments": [], "recommandations_id": []}

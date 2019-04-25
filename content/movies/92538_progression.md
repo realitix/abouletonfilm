@@ -1,1 +1,0 @@
-{"tmdb_id": 92538, "title": "Progression", "original_title": "Progression", "slug_title": "progression", "date": "", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5GRTw0JXk8OtXj0howgSMUm56Q1.jpg", "actors": [], "comments": [], "recommandations_id": []}

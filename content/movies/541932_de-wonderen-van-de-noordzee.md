@@ -1,1 +1,0 @@
-{"tmdb_id": 541932, "title": "De wonderen van de Noordzee", "original_title": "De wonderen van de Noordzee", "slug_title": "de-wonderen-van-de-noordzee", "date": "2013-12-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rvkHC8BV8WaLn6df4BPkwqBrMPr.jpg", "actors": [], "comments": [], "recommandations_id": []}

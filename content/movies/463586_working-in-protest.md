@@ -1,1 +1,0 @@
-{"tmdb_id": 463586, "title": "Working in Protest", "original_title": "Working in Protest", "slug_title": "working-in-protest", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

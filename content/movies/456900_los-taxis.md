@@ -1,1 +1,0 @@
-{"tmdb_id": 456900, "title": "Los taxis", "original_title": "Los taxis", "slug_title": "los-taxis", "date": "1970-05-04", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cxA62SiOWSxV1ROz0fj8togqXNX.jpg", "actors": ["Virginia Mor\u00e1n ()"], "comments": [], "recommandations_id": []}

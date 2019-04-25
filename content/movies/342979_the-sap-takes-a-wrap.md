@@ -1,1 +1,0 @@
-{"tmdb_id": 342979, "title": "The Sap Takes a Wrap", "original_title": "The Sap Takes a Wrap", "slug_title": "the-sap-takes-a-wrap", "date": "1939-03-10", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Charley Chase (Charley)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 320372, "title": "Hugglers: Adventure 1: A Friend in Need", "original_title": "Hugglers: Adventure 1: A Friend in Need", "slug_title": "hugglers-adventure-1-a-friend-in-need", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

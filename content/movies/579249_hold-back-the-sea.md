@@ -1,1 +1,0 @@
-{"tmdb_id": 579249, "title": "Hold Back the Sea", "original_title": "De lage landen", "slug_title": "hold-back-the-sea", "date": "1961-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

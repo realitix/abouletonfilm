@@ -1,1 +1,0 @@
-{"tmdb_id": 306605, "title": "Humanoid", "original_title": "Humanoid", "slug_title": "humanoid", "date": "2014-11-28", "genre": "Science-Fiction / Myst\u00e8re", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

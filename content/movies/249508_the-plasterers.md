@@ -1,1 +1,0 @@
-{"tmdb_id": 249508, "title": "The Plasterers", "original_title": "The Plasterers", "slug_title": "the-plasterers", "date": "1929-12-28", "genre": "Com\u00e9die", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Charles O'Donnell (Himself)", "Jack Blair (Himself)"], "comments": [], "recommandations_id": []}

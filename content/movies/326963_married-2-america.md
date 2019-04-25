@@ -1,1 +1,0 @@
-{"tmdb_id": 326963, "title": "Married 2 America", "original_title": "Married 2 America", "slug_title": "married-2-america", "date": "2012-02-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

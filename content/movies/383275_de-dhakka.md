@@ -1,1 +1,0 @@
-{"tmdb_id": 383275, "title": "De Dhakka", "original_title": "De Dhakka", "slug_title": "de-dhakka", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

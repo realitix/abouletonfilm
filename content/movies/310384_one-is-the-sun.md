@@ -1,1 +1,0 @@
-{"tmdb_id": 310384, "title": "One Is the Sun", "original_title": "One Is the Sun", "slug_title": "one-is-the-sun", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 294032, "title": "The Sid Saga Part II", "original_title": "The Sid Saga Part II", "slug_title": "the-sid-saga-part-ii", "date": "1987-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sid Laverents (himself)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 346777, "title": "Camera Rolling!", "original_title": "Kamera g\u00e5r!", "slug_title": "camera-rolling", "date": "1983-08-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dM7SNog6cGKcVRDOvvzsdB7EKgR.jpg", "actors": [], "comments": [], "recommandations_id": []}

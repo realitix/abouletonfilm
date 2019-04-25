@@ -1,1 +1,0 @@
-{"tmdb_id": 555611, "title": "Wir sind schon mittendrin", "original_title": "Wir sind schon mittendrin", "slug_title": "wir-sind-schon-mittendrin", "date": "2008-10-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 419533, "title": "The Days of Genesis", "original_title": "The Days of Genesis", "slug_title": "the-days-of-genesis", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fPhNrjk7x2AAyF0Lr1xXl9gVdmG.jpg", "actors": [], "comments": [], "recommandations_id": []}

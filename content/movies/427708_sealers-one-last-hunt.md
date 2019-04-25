@@ -1,1 +1,0 @@
-{"tmdb_id": 427708, "title": "Sealers - One Last Hunt", "original_title": "Ishavsblod - De siste selfangerne", "slug_title": "sealers-one-last-hunt", "date": "2016-11-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pdE9RVLGsCjMXh4HNjCiJRTtwQO.jpg", "actors": [], "comments": [], "recommandations_id": []}

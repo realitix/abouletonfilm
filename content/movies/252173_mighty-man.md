@@ -1,1 +1,0 @@
-{"tmdb_id": 252173, "title": "Mighty Man", "original_title": "Mighty Man", "slug_title": "mighty-man", "date": "1978-01-01", "genre": "Action / Fantastique / Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vgIFCU4hoVUmfzGfjo14nybwMAX.jpg", "actors": [], "comments": [], "recommandations_id": []}

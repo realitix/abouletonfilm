@@ -1,1 +1,0 @@
-{"tmdb_id": 155326, "title": "ABC milosci", "original_title": "ABC milosci", "slug_title": "abc-milosci", "date": "1935-02-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1Ti7jefCKi4MgaSqynUFwEn0NQg.jpg", "actors": [], "comments": [], "recommandations_id": []}

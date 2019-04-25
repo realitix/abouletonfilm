@@ -1,1 +1,0 @@
-{"tmdb_id": 539627, "title": "The Maid\u2019s Comfort Food", "original_title": "Kaj\u014fngbu\u016di sonmat kamdokp\u2019an", "slug_title": "the-maids-comfort-food", "date": "2017-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

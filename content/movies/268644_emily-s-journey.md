@@ -1,1 +1,0 @@
-{"tmdb_id": 268644, "title": "Emily's Journey", "original_title": "Emily's Journey", "slug_title": "emily-s-journey", "date": "1995-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

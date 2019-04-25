@@ -1,1 +1,0 @@
-{"tmdb_id": 538577, "title": "Le veau gras", "original_title": "Le veau gras", "slug_title": "le-veau-gras", "date": "1939-04-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1kDEzgpBf2b8wJpg42NLz7wqyoY.jpg", "actors": [], "comments": [], "recommandations_id": []}

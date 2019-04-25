@@ -1,1 +1,0 @@
-{"tmdb_id": 395672, "title": "I am Into You", "original_title": "Aku Padamu", "slug_title": "i-am-into-you", "date": "2013-05-02", "genre": "Drame", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5tFqy5pYpd9XnEzJMzdW8EgLYTE.jpg", "actors": [], "comments": [], "recommandations_id": []}

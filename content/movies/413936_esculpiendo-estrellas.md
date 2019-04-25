@@ -1,1 +1,0 @@
-{"tmdb_id": 413936, "title": "Esculpiendo estrellas", "original_title": "Esculpiendo estrellas", "slug_title": "esculpiendo-estrellas", "date": "2012-01-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

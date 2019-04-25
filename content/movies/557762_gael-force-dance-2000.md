@@ -1,1 +1,0 @@
-{"tmdb_id": 557762, "title": "Gael Force Dance 2000", "original_title": "Gael Force Dance 2000", "slug_title": "gael-force-dance-2000", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/86RqOKCKV85QwrXY4mmkGWy27pu.jpg", "actors": [], "comments": [], "recommandations_id": []}

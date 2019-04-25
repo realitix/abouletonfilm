@@ -1,1 +1,0 @@
-{"tmdb_id": 583779, "title": "Slow Dance", "original_title": "Slow Dance", "slug_title": "slow-dance", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mNsmyrqO03jAOu36VqwEIulGPUe.jpg", "actors": [], "comments": [], "recommandations_id": []}

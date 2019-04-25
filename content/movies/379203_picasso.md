@@ -1,1 +1,0 @@
-{"tmdb_id": 379203, "title": "Picasso", "original_title": "Picasso", "slug_title": "picasso", "date": "1954-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pablo Picasso (Himself)", "Jean Davy (Narrator)"], "comments": [], "recommandations_id": []}

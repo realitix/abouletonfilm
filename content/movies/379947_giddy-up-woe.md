@@ -1,1 +1,0 @@
-{"tmdb_id": 379947, "title": "Giddy Up Woe", "original_title": "Giddy Up Woe", "slug_title": "giddy-up-woe", "date": "1974-01-10", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bob Holt (Hoot Kloot / Fester / Robber / Alf Willett (voice))"], "comments": [], "recommandations_id": []}

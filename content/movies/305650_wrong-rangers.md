@@ -1,1 +1,0 @@
-{"tmdb_id": 305650, "title": "Wrong Rangers", "original_title": "Wrong Rangers", "slug_title": "wrong-rangers", "date": "1984-02-23", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Redford White ()", "Cachupoy ()", "Pia Moran ()", "Tatlong Itlog ()", "Vilma Vitug ()"], "comments": [], "recommandations_id": []}

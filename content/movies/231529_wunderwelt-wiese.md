@@ -1,1 +1,0 @@
-{"tmdb_id": 231529, "title": "Wunderwelt Wiese", "original_title": "Wunderwelt Wiese", "slug_title": "wunderwelt-wiese", "date": "2003-09-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lA0H0zj1Pw72T6UMSuZOZftVhAB.jpg", "actors": [], "comments": [], "recommandations_id": []}

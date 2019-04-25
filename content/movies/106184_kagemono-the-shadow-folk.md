@@ -1,1 +1,0 @@
-{"tmdb_id": 106184, "title": "Kagemono: The Shadow Folk", "original_title": "Kagemono: The Shadow Folk", "slug_title": "kagemono-the-shadow-folk", "date": "2012-04-28", "genre": "Animation", "score": "4.8/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

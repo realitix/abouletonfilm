@@ -1,1 +1,0 @@
-{"tmdb_id": 186887, "title": "Dayo Wong Talk Show II 2012", "original_title": "Dayo Wong Talk Show II 2012", "slug_title": "dayo-wong-talk-show-ii-2012", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g7iVefahGXO7jooG1nKyAzKl1LL.jpg", "actors": [], "comments": [], "recommandations_id": []}

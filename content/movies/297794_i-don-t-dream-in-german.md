@@ -1,1 +1,0 @@
-{"tmdb_id": 297794, "title": "I don't dream in German", "original_title": "I don't dream in German", "slug_title": "i-don-t-dream-in-german", "date": "2008-10-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eLpIanmrs3hn0LB60HZEP4VK6OC.jpg", "actors": [], "comments": [], "recommandations_id": []}

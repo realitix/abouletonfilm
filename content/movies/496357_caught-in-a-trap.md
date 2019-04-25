@@ -1,1 +1,0 @@
-{"tmdb_id": 496357, "title": "Caught in a Trap", "original_title": "Caught in a Trap", "slug_title": "caught-in-a-trap", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Molly Hewitt ()"], "comments": [], "recommandations_id": []}

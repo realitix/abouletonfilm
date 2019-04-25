@@ -1,1 +1,0 @@
-{"tmdb_id": 442525, "title": "Mistletoes", "original_title": "Fagy\u00f6ngy\u00f6k", "slug_title": "mistletoes", "date": "1977-02-19", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/74cvNxVPyZXfruhoewULG94syNS.jpg", "actors": ["N\u00f3ra Szab\u00f3 ()", "Jen\u0151 Sipos ()"], "comments": [], "recommandations_id": []}

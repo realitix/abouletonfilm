@@ -1,1 +1,0 @@
-{"tmdb_id": 414817, "title": "Hot Stuff", "original_title": "Hot Stuff", "slug_title": "hot-stuff", "date": "1971-01-01", "genre": "Animation", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wbVvLwsdT2zXrY9uGtzvnR65aDj.jpg", "actors": [], "comments": [], "recommandations_id": []}

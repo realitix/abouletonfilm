@@ -1,1 +1,0 @@
-{"tmdb_id": 432344, "title": "Risky Drinking", "original_title": "Risky Drinking", "slug_title": "risky-drinking", "date": "2016-12-19", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gN0at7t27BorexY3XdLYa5B76bv.jpg", "actors": [], "comments": [], "recommandations_id": []}

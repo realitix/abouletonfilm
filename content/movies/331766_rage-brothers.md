@@ -1,1 +1,0 @@
-{"tmdb_id": 331766, "title": "Rage Brothers", "original_title": "Rage Brothers", "slug_title": "rage-brothers", "date": "2009-07-26", "genre": "Com\u00e9die / Action / Aventure", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ogTCUdI1jIWhq6nBJzkCz0voDUh.jpg", "actors": [], "comments": [], "recommandations_id": []}

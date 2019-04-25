@@ -1,1 +1,0 @@
-{"tmdb_id": 458532, "title": "Igraszki", "original_title": "Igraszki", "slug_title": "igraszki", "date": "1962-07-15", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tcQpZPz2TbmNRBEkjUJOcC5FHtZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 581037, "title": "The Continental Spy", "original_title": "\ub300\ub959\uc758 \ubc00\uc0ac", "slug_title": "the-continental-spy", "date": "1964-05-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Shin Seong-il ()", "Um Aing-ran ()", "Lee Su-ryeon ()"], "comments": [], "recommandations_id": []}

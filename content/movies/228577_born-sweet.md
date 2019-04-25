@@ -1,1 +1,0 @@
-{"tmdb_id": 228577, "title": "Born Sweet", "original_title": "Born Sweet", "slug_title": "born-sweet", "date": "2010-01-21", "genre": "Documentaire", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1bOgu4f8u0AIU0uJGIMa0zrnWsq.jpg", "actors": [], "comments": [], "recommandations_id": []}

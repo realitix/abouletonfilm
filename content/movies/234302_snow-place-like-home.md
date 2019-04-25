@@ -1,1 +1,0 @@
-{"tmdb_id": 234302, "title": "Snow Place Like Home", "original_title": "Snow Place Like Home", "slug_title": "snow-place-like-home", "date": "1966-02-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2Tgc1daNER5ZfXDskNPoDhsWP5B.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 534991, "title": "Zumba Slimdown Party", "original_title": "Zumba Slimdown Party", "slug_title": "zumba-slimdown-party", "date": "", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/61tRGct2KhYsMcfPhR0GTRhqSYI.jpg", "actors": [], "comments": [], "recommandations_id": []}

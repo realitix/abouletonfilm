@@ -1,1 +1,0 @@
-{"tmdb_id": 567234, "title": "Steve Martin's The Winds of Whoopie", "original_title": "Steve Martin's The Winds of Whoopie", "slug_title": "steve-martin-s-the-winds-of-whoopie", "date": "1983-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

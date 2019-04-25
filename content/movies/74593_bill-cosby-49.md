@@ -1,1 +1,0 @@
-{"tmdb_id": 74593, "title": "Bill Cosby: 49", "original_title": "Bill Cosby: 49", "slug_title": "bill-cosby-49", "date": "1987-04-01", "genre": "Com\u00e9die", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oO6feWBVFtVVQs614CWAscKAJUw.jpg", "actors": ["Bill Cosby (Himself)"], "comments": [], "recommandations_id": []}

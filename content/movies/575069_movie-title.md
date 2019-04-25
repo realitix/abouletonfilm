@@ -1,1 +1,0 @@
-{"tmdb_id": 575069, "title": "movie title", "original_title": "movie title", "slug_title": "movie-title", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

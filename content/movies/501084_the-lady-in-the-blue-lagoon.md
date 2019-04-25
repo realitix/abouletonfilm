@@ -1,1 +1,0 @@
-{"tmdb_id": 501084, "title": "The Lady in the Blue Lagoon", "original_title": "\u85cd\u6e56\u78a7\u7389", "slug_title": "the-lady-in-the-blue-lagoon", "date": "1946-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

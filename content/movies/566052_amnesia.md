@@ -1,1 +1,0 @@
-{"tmdb_id": 566052, "title": "AMNESIA", "original_title": "AMNESIA", "slug_title": "amnesia", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hmxd1PfyP0CTfULGO4wkx7OCLUf.jpg", "actors": [], "comments": [], "recommandations_id": []}

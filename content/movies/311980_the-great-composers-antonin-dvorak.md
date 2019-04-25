@@ -1,1 +1,0 @@
-{"tmdb_id": 311980, "title": "The Great Composers: Antonin Dvorak", "original_title": "The Great Composers: Antonin Dvorak", "slug_title": "the-great-composers-antonin-dvorak", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

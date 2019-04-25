@@ -1,1 +1,0 @@
-{"tmdb_id": 492225, "title": "Fireside", "original_title": "Fireside", "slug_title": "fireside", "date": "1983-12-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

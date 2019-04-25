@@ -1,1 +1,0 @@
-{"tmdb_id": 84139, "title": "Neil Young: Rock Am Ring 2002", "original_title": "Neil Young: Rock Am Ring 2002", "slug_title": "neil-young-rock-am-ring-2002", "date": "2002-05-18", "genre": "Musique", "score": "4.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cuZ55PewV4cvlGMx4spYd6JyP77.jpg", "actors": [], "comments": [], "recommandations_id": []}

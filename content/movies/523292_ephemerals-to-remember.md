@@ -1,1 +1,0 @@
-{"tmdb_id": 523292, "title": "Ephemerals to Remember", "original_title": "\uae30\uc5b5\ud560 \ub9cc\ud55c \uc9c0\ub098\uce68", "slug_title": "ephemerals-to-remember", "date": "2018-05-06", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mongdol ()", "Lee Hunjoo ()", "Kimjung Minwoo ()"], "comments": [], "recommandations_id": []}

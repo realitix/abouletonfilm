@@ -1,1 +1,0 @@
-{"tmdb_id": 545061, "title": "Waffles", "original_title": "Waffles", "slug_title": "waffles", "date": "2017-05-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m3RgWfP1cdi5qXY5m4Qw6BP3emT.jpg", "actors": ["Jeanine Mason (Gina)", "Leslie Stevens (Wendy)"], "comments": [], "recommandations_id": []}

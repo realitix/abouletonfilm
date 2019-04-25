@@ -1,1 +1,0 @@
-{"tmdb_id": 522431, "title": "Invisible City", "original_title": "Invisible City", "slug_title": "invisible-city", "date": "2007-07-19", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iaqkRhoo9l3uCxViWS3idPoASna.jpg", "actors": [], "comments": [], "recommandations_id": []}

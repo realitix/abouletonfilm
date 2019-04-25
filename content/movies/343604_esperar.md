@@ -1,1 +1,0 @@
-{"tmdb_id": 343604, "title": "Esperar", "original_title": "Esperar", "slug_title": "esperar", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

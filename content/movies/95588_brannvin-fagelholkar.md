@@ -1,1 +1,0 @@
-{"tmdb_id": 95588, "title": "Br\u00e4nnvin & F\u00e5gelholkar", "original_title": "Br\u00e4nnvin & F\u00e5gelholkar", "slug_title": "brannvin-fagelholkar", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

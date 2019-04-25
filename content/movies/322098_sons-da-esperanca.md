@@ -1,1 +1,0 @@
-{"tmdb_id": 322098, "title": "Sons da Esperan\u00e7a", "original_title": "Sons da Esperan\u00e7a", "slug_title": "sons-da-esperanca", "date": "2012-05-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jo\u00e3o Jos\u00e9 Rocha Targino ()"], "comments": [], "recommandations_id": []}

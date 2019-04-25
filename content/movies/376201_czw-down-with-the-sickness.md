@@ -1,1 +1,0 @@
-{"tmdb_id": 376201, "title": "CZW Down With the Sickness", "original_title": "CZW Down With the Sickness", "slug_title": "czw-down-with-the-sickness", "date": "2015-09-12", "genre": "", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fn9B9EWpfLCf3x1ui1nt5xHZ423.jpg", "actors": [], "comments": [], "recommandations_id": []}

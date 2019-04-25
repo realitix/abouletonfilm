@@ -1,1 +1,0 @@
-{"tmdb_id": 511828, "title": "The Ladies Almanack", "original_title": "The Ladies Almanack", "slug_title": "the-ladies-almanack", "date": "2017-07-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l7SqgUyi3FLmgihxY4ZMT0yfwqi.jpg", "actors": [], "comments": [], "recommandations_id": []}

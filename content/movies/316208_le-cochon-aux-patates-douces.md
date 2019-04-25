@@ -1,1 +1,0 @@
-{"tmdb_id": 316208, "title": "Le cochon aux patates douces", "original_title": "Le cochon aux patates douces", "slug_title": "le-cochon-aux-patates-douces", "date": "1971-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

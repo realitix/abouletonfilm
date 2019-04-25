@@ -1,1 +1,0 @@
-{"tmdb_id": 255773, "title": "Letters of Service", "original_title": "Letters of Service", "slug_title": "letters-of-service", "date": "2004-11-18", "genre": "Drame", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Morris Perry (Billy)", "Chloe Bale (Nurse Snow)", "Miranda French (Ward Sister)"], "comments": [], "recommandations_id": []}

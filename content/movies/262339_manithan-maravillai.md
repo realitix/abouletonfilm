@@ -1,1 +1,0 @@
-{"tmdb_id": 262339, "title": "Manithan Maravillai", "original_title": "Manithan Maravillai", "slug_title": "manithan-maravillai", "date": "1961-12-31", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gemini Ganesan ()", "Savitri ()", "Jamuna ()", "Nageshwara Rao Akkineni ()"], "comments": [], "recommandations_id": []}

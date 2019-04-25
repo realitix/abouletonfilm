@@ -1,1 +1,0 @@
-{"tmdb_id": 139750, "title": "Lawrence of Belgravia", "original_title": "Lawrence of Belgravia", "slug_title": "lawrence-of-belgravia", "date": "2012-05-02", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5G3Nd1HjePM1J5A5cyKHBiCCZ0C.jpg", "actors": ["Lawrence (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 347124, "title": "The J2 Project", "original_title": "The J2 Project", "slug_title": "the-j2-project", "date": "2002-05-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

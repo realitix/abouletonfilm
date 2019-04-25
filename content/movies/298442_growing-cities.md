@@ -1,1 +1,0 @@
-{"tmdb_id": 298442, "title": "Growing Cities", "original_title": "Growing Cities", "slug_title": "growing-cities", "date": "2013-01-22", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

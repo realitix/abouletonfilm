@@ -1,1 +1,0 @@
-{"tmdb_id": 366628, "title": "Khuddar", "original_title": "Khuddar", "slug_title": "khuddar", "date": "1994-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mDeQ4DgOMxxDxQekqwEkdirWW6t.jpg", "actors": [], "comments": [], "recommandations_id": []}

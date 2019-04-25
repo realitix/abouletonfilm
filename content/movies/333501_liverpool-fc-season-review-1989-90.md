@@ -1,1 +1,0 @@
-{"tmdb_id": 333501, "title": "Liverpool FC Season Review 1989-90", "original_title": "Liverpool FC Season Review 1989-90", "slug_title": "liverpool-fc-season-review-1989-90", "date": "1990-06-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

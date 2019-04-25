@@ -1,1 +1,0 @@
-{"tmdb_id": 313495, "title": "Chill Out to the Music of Pink Floyd", "original_title": "Chill Out to the Music of Pink Floyd", "slug_title": "chill-out-to-the-music-of-pink-floyd", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

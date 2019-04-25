@@ -1,1 +1,0 @@
-{"tmdb_id": 68234, "title": "O Resgate de Um Campe\u00e3o", "original_title": "O Resgate de Um Campe\u00e3o", "slug_title": "o-resgate-de-um-campeao", "date": "", "genre": "", "score": "6.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5vRwbc8R0Jl3l5YL512S0yrkz3I.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 50778, "title": "The Assistants", "original_title": "The Assistants", "slug_title": "the-assistants", "date": "2009-06-24", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oHbu8H9feHinln3LXGQINRkiBdL.jpg", "actors": ["Aaron Himelstein ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 249650, "title": "Nero's Guests", "original_title": "Nero's Guests", "slug_title": "nero-s-guests", "date": "2009-11-01", "genre": "Documentaire", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h8FHfsUdxpbr5oZZ944f1tN2uQy.jpg", "actors": [], "comments": [], "recommandations_id": []}

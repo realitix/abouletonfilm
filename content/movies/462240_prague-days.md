@@ -1,1 +1,0 @@
-{"tmdb_id": 462240, "title": "Prague Days", "original_title": "Prague Days", "slug_title": "prague-days", "date": "2004-10-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/taKvpMzQQTPhRDE6vPe84uD1KKs.jpg", "actors": ["Alena Novotna ()", "Lenka Stara ()"], "comments": [], "recommandations_id": []}

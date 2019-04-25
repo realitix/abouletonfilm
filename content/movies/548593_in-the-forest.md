@@ -1,1 +1,0 @@
-{"tmdb_id": 548593, "title": "In the Forest", "original_title": "In the Forest", "slug_title": "in-the-forest", "date": "1978-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

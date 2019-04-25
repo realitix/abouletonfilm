@@ -1,1 +1,0 @@
-{"tmdb_id": 450194, "title": "The Great Sketch Experiment", "original_title": "The Great Sketch Experiment", "slug_title": "the-great-sketch-experiment", "date": "2006-10-20", "genre": "Com\u00e9die", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

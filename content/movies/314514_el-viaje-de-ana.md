@@ -1,1 +1,0 @@
-{"tmdb_id": 314514, "title": "El Viaje de Ana", "original_title": "El Viaje de Ana", "slug_title": "el-viaje-de-ana", "date": "2014-06-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/34JqDQaRKhqUkNcvsiSSCGQeLwZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

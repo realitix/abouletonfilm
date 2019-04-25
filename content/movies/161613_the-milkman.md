@@ -1,1 +1,0 @@
-{"tmdb_id": 161613, "title": "The Milkman", "original_title": "The Milkman", "slug_title": "the-milkman", "date": "1932-02-19", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

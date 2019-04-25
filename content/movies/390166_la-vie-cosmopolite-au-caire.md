@@ -1,1 +1,0 @@
-{"tmdb_id": 390166, "title": "La vie cosmopolite au Caire", "original_title": "La vie cosmopolite au Caire", "slug_title": "la-vie-cosmopolite-au-caire", "date": "1913-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

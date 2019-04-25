@@ -1,1 +1,0 @@
-{"tmdb_id": 521572, "title": "Destroyer", "original_title": "Destroyer", "slug_title": "destroyer", "date": "", "genre": "Drame / Guerre", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mark Wahlberg ()"], "comments": [], "recommandations_id": []}

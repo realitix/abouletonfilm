@@ -1,1 +1,0 @@
-{"tmdb_id": 300861, "title": "Jambo Jumbo", "original_title": "Jambo Jumbo", "slug_title": "jambo-jumbo", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

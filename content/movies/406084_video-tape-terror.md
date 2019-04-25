@@ -1,1 +1,0 @@
-{"tmdb_id": 406084, "title": "Video Tape Terror", "original_title": "Video Tape Terror", "slug_title": "video-tape-terror", "date": "2013-01-22", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/92kCpes7rHm67KYI1iPeTLAWTeO.jpg", "actors": ["Bill Ross (Lt. Mark Schroeder)"], "comments": [], "recommandations_id": []}

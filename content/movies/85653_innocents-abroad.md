@@ -1,1 +1,0 @@
-{"tmdb_id": 85653, "title": "Innocents Abroad", "original_title": "Innocents Abroad", "slug_title": "innocents-abroad", "date": "1991-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sYluer5ybiezHAMaxmFJZ19ZhXE.jpg", "actors": [], "comments": [], "recommandations_id": []}

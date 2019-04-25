@@ -1,1 +1,0 @@
-{"tmdb_id": 270812, "title": "My Life as a Turkey", "original_title": "My Life as a Turkey", "slug_title": "my-life-as-a-turkey", "date": "2011-08-01", "genre": "Documentaire / Familial", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6n45aCusimiZcilvrCy2VoAAKsh.jpg", "actors": [], "comments": [], "recommandations_id": []}

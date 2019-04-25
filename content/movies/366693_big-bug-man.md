@@ -1,1 +1,0 @@
-{"tmdb_id": 366693, "title": "Big Bug Man", "original_title": "Big Bug Man", "slug_title": "big-bug-man", "date": "", "genre": "Animation", "score": "7.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

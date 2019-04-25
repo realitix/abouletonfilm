@@ -1,1 +1,0 @@
-{"tmdb_id": 465953, "title": "After the Game", "original_title": "After the Game", "slug_title": "after-the-game", "date": "1979-07-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

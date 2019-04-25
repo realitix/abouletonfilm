@@ -1,1 +1,0 @@
-{"tmdb_id": 357056, "title": "The King and Queen's Visit to Berlin", "original_title": "The King and Queen's Visit to Berlin", "slug_title": "the-king-and-queen-s-visit-to-berlin", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["King Edward VII ()", "Queen Alexandra ()"], "comments": [], "recommandations_id": []}

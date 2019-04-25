@@ -1,1 +1,0 @@
-{"tmdb_id": 577772, "title": "Les tout-petits de la ferme", "original_title": "Les tout-petits de la ferme", "slug_title": "les-tout-petits-de-la-ferme", "date": "1943-01-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

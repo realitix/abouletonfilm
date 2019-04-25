@@ -1,1 +1,0 @@
-{"tmdb_id": 355660, "title": "Silencio", "original_title": "Silencio", "slug_title": "silencio", "date": "2007-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4B0ddcHwlnGEQNfdicZjegQwx7b.jpg", "actors": ["Yuthana Kalambaheti ()"], "comments": [], "recommandations_id": []}

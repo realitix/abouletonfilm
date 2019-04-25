@@ -1,1 +1,0 @@
-{"tmdb_id": 302225, "title": "The Heiress", "original_title": "Die Erbin", "slug_title": "the-heiress", "date": "2013-01-27", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ryu3miE65IDtOlNg1zHpvdMAm6V.jpg", "actors": ["Mina Sadic (Hlya)", "Oktay \u00c7agla (Kenan)"], "comments": [], "recommandations_id": []}

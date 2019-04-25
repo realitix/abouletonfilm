@@ -1,1 +1,0 @@
-{"tmdb_id": 329115, "title": "Pig Girl", "original_title": "Pig Girl", "slug_title": "pig-girl", "date": "2014-01-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/51X28NR77hXL3M6Vg2P6DL5Z0cz.jpg", "actors": [], "comments": [], "recommandations_id": []}

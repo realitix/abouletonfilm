@@ -1,1 +1,0 @@
-{"tmdb_id": 156716, "title": "Gotan Project Live Lunatico", "original_title": "Gotan Project Live Lunatico", "slug_title": "gotan-project-live-lunatico", "date": "2010-08-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hnf3Ds01j1CAWjM98wv9llZJnYR.jpg", "actors": [], "comments": [], "recommandations_id": []}

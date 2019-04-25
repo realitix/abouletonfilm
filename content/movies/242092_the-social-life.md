@@ -1,1 +1,0 @@
-{"tmdb_id": 242092, "title": "The Social Life", "original_title": "The Social Life", "slug_title": "the-social-life", "date": "", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Amanda Seyfried ()", "Rebel Wilson ()"], "comments": [], "recommandations_id": []}

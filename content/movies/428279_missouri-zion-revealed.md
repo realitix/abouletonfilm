@@ -1,1 +1,0 @@
-{"tmdb_id": 428279, "title": "Missouri: Zion Revealed", "original_title": "Missouri: Zion Revealed", "slug_title": "missouri-zion-revealed", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wKh93K9JsqTgmYfjojHyxBFhRJA.jpg", "actors": [], "comments": [], "recommandations_id": []}

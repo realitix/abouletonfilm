@@ -1,1 +1,0 @@
-{"tmdb_id": 319478, "title": "Welcome to Amish America", "original_title": "Welcome to Amish America", "slug_title": "welcome-to-amish-america", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

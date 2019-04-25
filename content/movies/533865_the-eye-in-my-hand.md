@@ -1,1 +1,0 @@
-{"tmdb_id": 533865, "title": "The Eye In My Hand", "original_title": "Oko Na Roki", "slug_title": "the-eye-in-my-hand", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7Tm8EcYiDzXDDP1PvpuGJzi7iDT.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 276204, "title": "Seethanam", "original_title": "Seethanam", "slug_title": "seethanam", "date": "1992-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

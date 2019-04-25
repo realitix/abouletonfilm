@@ -1,1 +1,0 @@
-{"tmdb_id": 376432, "title": "10 Minute Trainer: Total Body 2", "original_title": "10 Minute Trainer: Total Body 2", "slug_title": "10-minute-trainer-total-body-2", "date": "2007-07-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mW1dxlqRm8oS6a94RZnMt6keHgp.jpg", "actors": [], "comments": [], "recommandations_id": []}

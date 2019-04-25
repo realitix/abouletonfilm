@@ -1,1 +1,0 @@
-{"tmdb_id": 371776, "title": "The Mothers", "original_title": "The Mothers", "slug_title": "the-mothers", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

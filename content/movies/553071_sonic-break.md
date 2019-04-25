@@ -1,1 +1,0 @@
-{"tmdb_id": 553071, "title": "Sonic Break", "original_title": "Sonic Break", "slug_title": "sonic-break", "date": "2018-09-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Felix Baumgartner (Himself)"], "comments": [], "recommandations_id": []}

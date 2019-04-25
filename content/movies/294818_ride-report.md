@@ -1,1 +1,0 @@
-{"tmdb_id": 294818, "title": "Ride Report", "original_title": "Ride Report", "slug_title": "ride-report", "date": "2014-06-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hDpTgVYMQbvaNNk9TKSe9YCr37d.jpg", "actors": [], "comments": [], "recommandations_id": []}

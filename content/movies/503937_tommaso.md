@@ -1,1 +1,0 @@
-{"tmdb_id": 503937, "title": "Tommaso", "original_title": "Tommaso", "slug_title": "tommaso", "date": "2014-03-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/95Ca69UADZ1cTsD7RivFfutJ4MT.jpg", "actors": ["Tiziano Ferrari ()"], "comments": [], "recommandations_id": []}

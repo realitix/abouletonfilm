@@ -1,1 +1,0 @@
-{"tmdb_id": 475852, "title": "The New Rabbi", "original_title": "The New Rabbi", "slug_title": "the-new-rabbi", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

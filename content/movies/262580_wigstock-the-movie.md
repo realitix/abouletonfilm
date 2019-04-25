@@ -1,1 +1,0 @@
-{"tmdb_id": 262580, "title": "Wigstock: The Movie", "original_title": "Wigstock: The Movie", "slug_title": "wigstock-the-movie", "date": "1987-01-01", "genre": "Documentaire", "score": "7.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aMYIU8fLNAHoIUskTZ28lHGFE2k.jpg", "actors": [], "comments": [], "recommandations_id": []}

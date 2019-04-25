@@ -1,1 +1,0 @@
-{"tmdb_id": 350223, "title": "Nos Passos de Marie Curie", "original_title": "Nos Passos de Marie Curie", "slug_title": "nos-passos-de-marie-curie", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

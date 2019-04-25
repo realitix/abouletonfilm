@@ -1,1 +1,0 @@
-{"tmdb_id": 302752, "title": "Florida Crackers", "original_title": "Florida Crackers", "slug_title": "florida-crackers", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

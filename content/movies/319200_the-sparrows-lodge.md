@@ -1,1 +1,0 @@
-{"tmdb_id": 319200, "title": "The Sparrows' Lodge", "original_title": "Suzume no oyado", "slug_title": "the-sparrows-lodge", "date": "1936-01-18", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/203nK5Ijeo4PHthhqFtHLe0pWaq.jpg", "actors": [], "comments": [], "recommandations_id": []}

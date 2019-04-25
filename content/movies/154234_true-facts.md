@@ -1,1 +1,0 @@
-{"tmdb_id": 154234, "title": "True Facts", "original_title": "True Facts", "slug_title": "true-facts", "date": "1992-02-16", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Honey Lauren (Night Pump Girl)", "James Coburn ()", "Billy Gallo (Bobby Massey)", "Dale E. Turner (Bob)"], "comments": [], "recommandations_id": []}

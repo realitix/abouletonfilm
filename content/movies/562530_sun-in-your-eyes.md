@@ -1,1 +1,0 @@
-{"tmdb_id": 562530, "title": "Sun in Your Eyes", "original_title": "Le soleil dans l\u2019\u0153il", "slug_title": "sun-in-your-eyes", "date": "1962-06-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ieuN8hvjV7VCMYDYvxHrqWV2Fv.jpg", "actors": [], "comments": [], "recommandations_id": []}

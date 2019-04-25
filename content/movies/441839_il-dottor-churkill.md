@@ -1,1 +1,0 @@
-{"tmdb_id": 441839, "title": "Il dottor Churkill", "original_title": "Il dottor Churkill", "slug_title": "il-dottor-churkill", "date": "1941-02-15", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oqiPYycLugyzBGDh39AHTz5rzut.jpg", "actors": [], "comments": [], "recommandations_id": []}

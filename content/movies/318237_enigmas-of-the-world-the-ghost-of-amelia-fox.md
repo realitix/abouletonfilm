@@ -1,1 +1,0 @@
-{"tmdb_id": 318237, "title": "Enigmas of the World: The Ghost of Amelia Fox", "original_title": "Enigmas of the World: The Ghost of Amelia Fox", "slug_title": "enigmas-of-the-world-the-ghost-of-amelia-fox", "date": "2004-12-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

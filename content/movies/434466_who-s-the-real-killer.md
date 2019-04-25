@@ -1,1 +1,0 @@
-{"tmdb_id": 434466, "title": "Who's The Real Killer", "original_title": "Koroshita no wa dare da", "slug_title": "who-s-the-real-killer", "date": "1957-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

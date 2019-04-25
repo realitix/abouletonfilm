@@ -1,1 +1,0 @@
-{"tmdb_id": 62020, "title": "Piss World", "original_title": "Piss World", "slug_title": "piss-world", "date": "2009-10-27", "genre": "", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gdoNLqX2mipphnleEvB8MhKQUso.jpg", "actors": [], "comments": [], "recommandations_id": []}

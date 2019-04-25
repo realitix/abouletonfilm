@@ -1,1 +1,0 @@
-{"tmdb_id": 16046, "title": "The Take", "original_title": "The Take", "slug_title": "the-take", "date": "2004-09-03", "genre": "Documentaire", "score": "7.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sXLNfOzGcrD305ZKTtQiLR9m3SN.jpg", "actors": ["Matilde Adorno (Herself - Worker)"], "comments": [], "recommandations_id": [27093]}

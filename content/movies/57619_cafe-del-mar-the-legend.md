@@ -1,1 +1,0 @@
-{"tmdb_id": 57619, "title": "Cafe del Mar: The Legend", "original_title": "Cafe del Mar: The Legend", "slug_title": "cafe-del-mar-the-legend", "date": "2008-07-06", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wLqCivo5hXkG5U2R6eB1030MLab.jpg", "actors": [], "comments": [], "recommandations_id": []}

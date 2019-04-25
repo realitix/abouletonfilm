@@ -1,1 +1,0 @@
-{"tmdb_id": 187621, "title": "John McLaughlin & Billy Cobham Live in Montreux 2010", "original_title": "John McLaughlin & Billy Cobham Live in Montreux 2010", "slug_title": "john-mclaughlin-billy-cobham-live-in-montreux-2010", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

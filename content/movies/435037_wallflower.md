@@ -1,1 +1,0 @@
-{"tmdb_id": 435037, "title": "Wallflower", "original_title": "Wallflower", "slug_title": "wallflower", "date": "", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

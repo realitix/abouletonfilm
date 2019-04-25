@@ -1,1 +1,0 @@
-{"tmdb_id": 177707, "title": "When I Rise", "original_title": "When I Rise", "slug_title": "when-i-rise", "date": "2010-03-14", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pWgvYcwmVeJllBZgGCiodC24pyr.jpg", "actors": [], "comments": [], "recommandations_id": []}

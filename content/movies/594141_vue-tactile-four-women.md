@@ -1,1 +1,0 @@
-{"tmdb_id": 594141, "title": "Vue tactile (Four Women)", "original_title": "Vue tactile (Four Women)", "slug_title": "vue-tactile-four-women", "date": "2006-04-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

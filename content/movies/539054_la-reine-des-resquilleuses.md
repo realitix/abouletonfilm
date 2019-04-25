@@ -1,1 +1,0 @@
-{"tmdb_id": 539054, "title": "La reine des resquilleuses", "original_title": "La reine des resquilleuses", "slug_title": "la-reine-des-resquilleuses", "date": "1937-03-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m9bH0Kl2FIStXAUGiUA1pqjHBhf.jpg", "actors": [], "comments": [], "recommandations_id": []}

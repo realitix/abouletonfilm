@@ -1,1 +1,0 @@
-{"tmdb_id": 397638, "title": "Nudes On Credit", "original_title": "Nudes On Credit", "slug_title": "nudes-on-credit", "date": "1963-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

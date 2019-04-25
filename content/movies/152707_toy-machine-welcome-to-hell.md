@@ -1,1 +1,0 @@
-{"tmdb_id": 152707, "title": "Toy Machine - Welcome To Hell", "original_title": "Toy Machine - Welcome To Hell", "slug_title": "toy-machine-welcome-to-hell", "date": "1996-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q5BpmQ7agp29x7dBRM5ZHEomWe3.jpg", "actors": [], "comments": [], "recommandations_id": []}

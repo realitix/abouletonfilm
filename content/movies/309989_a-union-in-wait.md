@@ -1,1 +1,0 @@
-{"tmdb_id": 309989, "title": "A Union in Wait", "original_title": "A Union in Wait", "slug_title": "a-union-in-wait", "date": "2001-05-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bH0hPfaarGjG1FwcTeqFsen2jis.jpg", "actors": [], "comments": [], "recommandations_id": []}

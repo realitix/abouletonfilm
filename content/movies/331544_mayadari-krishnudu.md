@@ -1,1 +1,0 @@
-{"tmdb_id": 331544, "title": "Mayadari Krishnudu", "original_title": "Mayadari Krishnudu", "slug_title": "mayadari-krishnudu", "date": "1980-07-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rajinikanth ()"], "comments": [], "recommandations_id": []}

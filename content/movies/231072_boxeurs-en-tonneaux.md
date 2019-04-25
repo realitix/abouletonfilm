@@ -1,1 +1,0 @@
-{"tmdb_id": 231072, "title": "Boxeurs en tonneaux", "original_title": "Boxeurs en tonneaux", "slug_title": "boxeurs-en-tonneaux", "date": "1897-04-04", "genre": "Com\u00e9die", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jharlAAd4nclevd1zOhfif38jxy.jpg", "actors": [], "comments": [], "recommandations_id": []}

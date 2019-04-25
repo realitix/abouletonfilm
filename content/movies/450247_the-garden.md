@@ -1,1 +1,0 @@
-{"tmdb_id": 450247, "title": "The Garden", "original_title": "Le jardin", "slug_title": "the-garden", "date": "2003-02-01", "genre": "Animation", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

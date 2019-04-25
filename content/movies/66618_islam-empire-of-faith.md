@@ -1,1 +1,0 @@
-{"tmdb_id": 66618, "title": "Islam: Empire of Faith", "original_title": "Islam: Empire of Faith", "slug_title": "islam-empire-of-faith", "date": "2001-05-08", "genre": "Documentaire", "score": "8.8/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ben Kingsley (Himself - Narrator)"], "comments": [], "recommandations_id": []}

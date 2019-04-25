@@ -1,1 +1,0 @@
-{"tmdb_id": 574989, "title": "Pieter Derks: Spot", "original_title": "Pieter Derks: Spot", "slug_title": "pieter-derks-spot", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

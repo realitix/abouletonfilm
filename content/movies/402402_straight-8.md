@@ -1,1 +1,0 @@
-{"tmdb_id": 402402, "title": "Straight 8", "original_title": "Straight 8", "slug_title": "straight-8", "date": "2004-11-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qQFrMPFpGJltctQT96SzJJwrYu.jpg", "actors": [], "comments": [], "recommandations_id": []}

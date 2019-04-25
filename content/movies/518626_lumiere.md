@@ -1,1 +1,0 @@
-{"tmdb_id": 518626, "title": "Lumiere", "original_title": "Lumiere", "slug_title": "lumiere", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

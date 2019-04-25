@@ -1,1 +1,0 @@
-{"tmdb_id": 253872, "title": "Playtime with Pingu", "original_title": "Playtime with Pingu", "slug_title": "playtime-with-pingu", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

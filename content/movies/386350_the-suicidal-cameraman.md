@@ -1,1 +1,0 @@
-{"tmdb_id": 386350, "title": "The Suicidal Cameraman", "original_title": "The Suicidal Cameraman", "slug_title": "the-suicidal-cameraman", "date": "2011-03-07", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yOpajKUZt09bmxxuYOfNF85yfEj.jpg", "actors": [], "comments": [], "recommandations_id": []}

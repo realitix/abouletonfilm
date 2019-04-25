@@ -1,1 +1,0 @@
-{"tmdb_id": 252325, "title": "Mana - Acceso Total", "original_title": "Mana - Acceso Total", "slug_title": "mana-acceso-total", "date": "2004-12-07", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xEP2oWiZO4HwJYQEb99WGRMP043.jpg", "actors": [], "comments": [], "recommandations_id": []}

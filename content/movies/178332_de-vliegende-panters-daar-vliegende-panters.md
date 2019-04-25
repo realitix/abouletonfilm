@@ -1,1 +1,0 @@
-{"tmdb_id": 178332, "title": "De Vliegende Panters - Daar Vliegende Panters", "original_title": "De Vliegende Panters - Daar Vliegende Panters", "slug_title": "de-vliegende-panters-daar-vliegende-panters", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Remco Vrijdag ()"], "comments": [], "recommandations_id": []}

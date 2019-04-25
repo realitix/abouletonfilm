@@ -1,1 +1,0 @@
-{"tmdb_id": 534706, "title": "Doc's Guitar", "original_title": "Doc's Guitar", "slug_title": "doc-s-guitar", "date": "2002-06-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Doc Watson (Doc Watson)"], "comments": [], "recommandations_id": []}

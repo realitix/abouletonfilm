@@ -1,1 +1,0 @@
-{"tmdb_id": 333889, "title": "Co-operation", "original_title": "al-Ta'awun", "slug_title": "co-operation", "date": "1931-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

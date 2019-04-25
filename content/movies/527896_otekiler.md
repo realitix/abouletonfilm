@@ -1,1 +1,0 @@
-{"tmdb_id": 527896, "title": "\u00d6tekiler", "original_title": "\u00d6tekiler", "slug_title": "otekiler", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vTWAPeycpXqOfzugC29kAUU4H2s.jpg", "actors": [], "comments": [], "recommandations_id": []}

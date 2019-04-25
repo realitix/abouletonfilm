@@ -1,1 +1,0 @@
-{"tmdb_id": 277434, "title": "Fuerza Maldita", "original_title": "Fuerza Maldita", "slug_title": "fuerza-maldita", "date": "1995-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 68185, "title": "CiViLiZATiON: The First Steps", "original_title": "CiViLiZATiON: The First Steps", "slug_title": "civilization-the-first-steps", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

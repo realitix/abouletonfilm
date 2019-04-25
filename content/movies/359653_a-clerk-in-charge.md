@@ -1,1 +1,0 @@
-{"tmdb_id": 359653, "title": "A Clerk in Charge", "original_title": "Kakari", "slug_title": "a-clerk-in-charge", "date": "2004-01-01", "genre": "Animation", "score": "4.8/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 592198, "title": "Decade Of Fire", "original_title": "Decade Of Fire", "slug_title": "decade-of-fire", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

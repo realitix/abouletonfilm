@@ -1,1 +1,0 @@
-{"tmdb_id": 148908, "title": "In the Street", "original_title": "In the Street", "slug_title": "in-the-street", "date": "1948-12-31", "genre": "", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qegJ2ax7YkEkpxaAgy7p8lJpN7D.jpg", "actors": [], "comments": [], "recommandations_id": [147396, 148664, 189644, 49176]}

@@ -1,1 +1,0 @@
-{"tmdb_id": 269675, "title": "Barack Obama: The Power of Hope", "original_title": "Barack Obama: The Power of Hope", "slug_title": "barack-obama-the-power-of-hope", "date": "2009-01-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7O8DVG8kd7A1GQS0befSaf2jfbu.jpg", "actors": [], "comments": [], "recommandations_id": []}

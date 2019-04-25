@@ -1,1 +1,0 @@
-{"tmdb_id": 102611, "title": "Risk/Reward", "original_title": "Risk/Reward", "slug_title": "risk-reward", "date": "2004-02-27", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8iURDmDYUIcFiCfWkhJz71S4R8K.jpg", "actors": [], "comments": [], "recommandations_id": []}

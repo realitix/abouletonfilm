@@ -1,1 +1,0 @@
-{"tmdb_id": 499514, "title": "Space & Time", "original_title": "Space & Time", "slug_title": "space-time", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

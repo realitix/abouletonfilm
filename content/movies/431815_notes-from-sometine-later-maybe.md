@@ -1,1 +1,0 @@
-{"tmdb_id": 431815, "title": "Notes from sometine, later, maybe", "original_title": "Notes from sometine, later, maybe", "slug_title": "notes-from-sometine-later-maybe", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qlLTorP3tSmwQk9VYwMOV3XC95R.jpg", "actors": [], "comments": [], "recommandations_id": []}

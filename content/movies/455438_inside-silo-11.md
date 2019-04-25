@@ -1,1 +1,0 @@
-{"tmdb_id": 455438, "title": "Inside Silo 11", "original_title": "Inside Silo 11", "slug_title": "inside-silo-11", "date": "1969-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4APuGqiU9O7o3WNyeq4RfWXMK2C.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 448479, "title": "Das Fr\u00fchst\u00fcck", "original_title": "Das Fr\u00fchst\u00fcck", "slug_title": "das-fruhstuck", "date": "1987-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

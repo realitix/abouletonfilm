@@ -1,1 +1,0 @@
-{"tmdb_id": 389241, "title": "A Man Called Man", "original_title": "A Man Called Man", "slug_title": "a-man-called-man", "date": "2015-04-27", "genre": "Com\u00e9die / Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

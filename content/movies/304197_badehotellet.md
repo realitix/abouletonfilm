@@ -1,1 +1,0 @@
-{"tmdb_id": 304197, "title": "Badehotellet", "original_title": "Badehotellet", "slug_title": "badehotellet", "date": "2013-12-30", "genre": "Drame", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mFgTyG6B9jS9z5LaL8JN5uTLsiX.jpg", "actors": ["Bodil J\u00f8rgensen ()"], "comments": [], "recommandations_id": []}

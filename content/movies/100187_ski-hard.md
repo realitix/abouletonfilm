@@ -1,1 +1,0 @@
-{"tmdb_id": 100187, "title": "Ski Hard", "original_title": "Ski Hard", "slug_title": "ski-hard", "date": "1996-11-15", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7GpE8Sl2G7I34DiubScsULifCx5.jpg", "actors": [], "comments": [], "recommandations_id": []}

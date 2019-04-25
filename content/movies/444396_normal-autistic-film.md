@@ -1,1 +1,0 @@
-{"tmdb_id": 444396, "title": "Normal Autistic Film", "original_title": "Norm\u00e1ln\u00ed autistick\u00fd film", "slug_title": "normal-autistic-film", "date": "2016-07-02", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lc07aAOhE5QL9SAAPA6wGsa2InA.jpg", "actors": [], "comments": [], "recommandations_id": []}

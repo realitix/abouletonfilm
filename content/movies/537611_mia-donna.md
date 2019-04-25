@@ -1,1 +1,0 @@
-{"tmdb_id": 537611, "title": "Mia donna", "original_title": "Mia donna", "slug_title": "mia-donna", "date": "2018-07-18", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fSporgVqRM02ktjQJpYOum7hDJN.jpg", "actors": [], "comments": [], "recommandations_id": []}

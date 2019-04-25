@@ -1,1 +1,0 @@
-{"tmdb_id": 569306, "title": "Juillet en septembre", "original_title": "Juillet en septembre", "slug_title": "juillet-en-septembre", "date": "1988-06-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pp0iKWHDEarYb9I1lM9urqDleha.jpg", "actors": [], "comments": [], "recommandations_id": []}

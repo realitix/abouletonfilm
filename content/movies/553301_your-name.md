@@ -1,1 +1,0 @@
-{"tmdb_id": 553301, "title": "Your Name", "original_title": "Your Name", "slug_title": "your-name", "date": "", "genre": "", "score": "0.0/10", "synopsis": "Remake am\u00e9ricain en live action de Your Name de Makoto Shinkai.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

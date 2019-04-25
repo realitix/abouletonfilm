@@ -1,1 +1,0 @@
-{"tmdb_id": 535841, "title": "Cada D\u00eda", "original_title": "Cada D\u00eda", "slug_title": "cada-dia", "date": "2014-08-05", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gaby Mornhinweg (Pilar)", "Carlos Javier Colina (Carlos)"], "comments": [], "recommandations_id": []}

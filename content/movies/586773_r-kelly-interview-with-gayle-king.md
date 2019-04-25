@@ -1,1 +1,0 @@
-{"tmdb_id": 586773, "title": "R. Kelly Interview with Gayle King", "original_title": "R. Kelly Interview with Gayle King", "slug_title": "r-kelly-interview-with-gayle-king", "date": "2019-01-12", "genre": "Histoire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gayle King ()", "R. Kelly ()"], "comments": [], "recommandations_id": []}

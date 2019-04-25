@@ -1,1 +1,0 @@
-{"tmdb_id": 393556, "title": "Near, Far the Morning", "original_title": "Lumapit, Lumayo Ang Umaga", "slug_title": "near-far-the-morning", "date": "1975-10-17", "genre": "Drame", "score": "9.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dante Rivero (Vic)", "Elizabeth Oropesa (Amy)", "George Estregan (Yap)"], "comments": [], "recommandations_id": []}

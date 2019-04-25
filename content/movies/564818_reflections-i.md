@@ -1,1 +1,0 @@
-{"tmdb_id": 564818, "title": "Reflections I", "original_title": "Reflections I", "slug_title": "reflections-i", "date": "2016-07-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

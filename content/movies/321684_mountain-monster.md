@@ -1,1 +1,0 @@
-{"tmdb_id": 321684, "title": "Mountain Monster", "original_title": "\uc0b0\uad34\ub839", "slug_title": "mountain-monster", "date": "1931-11-18", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jin Jang ()"], "comments": [], "recommandations_id": []}

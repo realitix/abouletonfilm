@@ -1,1 +1,0 @@
-{"tmdb_id": 231426, "title": "Feu de bois", "original_title": "Feu de bois", "slug_title": "feu-de-bois", "date": "1897-10-30", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 444055, "title": "Billion Dollar Bully", "original_title": "Billion Dollar Bully", "slug_title": "billion-dollar-bully", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uscVIr4dxAHEMz97HPPpZ1EG1rf.jpg", "actors": [], "comments": [], "recommandations_id": []}

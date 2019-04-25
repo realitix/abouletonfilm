@@ -1,1 +1,0 @@
-{"tmdb_id": 25366, "title": "Methadonia", "original_title": "Methadonia", "slug_title": "methadonia", "date": "2005-10-06", "genre": "Documentaire", "score": "4.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t9YhVsYCObdLtx3HEu1GpuiEmVw.jpg", "actors": [], "comments": [], "recommandations_id": [303742]}

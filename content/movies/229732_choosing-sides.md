@@ -1,1 +1,0 @@
-{"tmdb_id": 229732, "title": "Choosing Sides", "original_title": "Choosing Sides", "slug_title": "choosing-sides", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Timothy J. Cox (Peter)", "Rachel Lynn Jackson (Ellen)", "Max Abe Plush (Mikey)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 504775, "title": "Bigger than T. Rex", "original_title": "Bigger than T. Rex", "slug_title": "bigger-than-t-rex", "date": "2014-02-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fEHkC69c9WNWcIyns2tgd1sFEj5.jpg", "actors": [], "comments": [], "recommandations_id": []}

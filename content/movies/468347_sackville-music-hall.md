@@ -1,1 +1,0 @@
-{"tmdb_id": 468347, "title": "Sackville Music Hall", "original_title": "Sackville Music Hall", "slug_title": "sackville-music-hall", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 387014, "title": "Pantera: [2000] Live in Tokyo", "original_title": "Pantera: [2000] Live in Tokyo", "slug_title": "pantera-2000-live-in-tokyo", "date": "2000-06-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tTJ44kHaHTAofllILYepj08kuNx.jpg", "actors": [], "comments": [], "recommandations_id": []}

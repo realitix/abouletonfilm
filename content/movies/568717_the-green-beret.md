@@ -1,1 +1,0 @@
-{"tmdb_id": 568717, "title": "The Green Beret", "original_title": "The Green Beret", "slug_title": "the-green-beret", "date": "1992-07-15", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ySxseOaNxLLfGPLmOtqWqi6h4Ju.jpg", "actors": [], "comments": [], "recommandations_id": []}

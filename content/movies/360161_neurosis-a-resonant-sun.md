@@ -1,1 +1,0 @@
-{"tmdb_id": 360161, "title": "Neurosis: A Resonant Sun", "original_title": "Neurosis: A Resonant Sun", "slug_title": "neurosis-a-resonant-sun", "date": "2003-03-17", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lSTBLlK3DvuGAeblc5742jQFuMR.jpg", "actors": [], "comments": [], "recommandations_id": []}

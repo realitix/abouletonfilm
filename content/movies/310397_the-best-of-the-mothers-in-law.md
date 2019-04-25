@@ -1,1 +1,0 @@
-{"tmdb_id": 310397, "title": "The Best of The Mothers-in-Law", "original_title": "The Best of The Mothers-in-Law", "slug_title": "the-best-of-the-mothers-in-law", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 573051, "title": "Lokarri", "original_title": "Lokarri", "slug_title": "lokarri", "date": "2001-07-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

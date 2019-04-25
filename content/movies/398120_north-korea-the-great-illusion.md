@@ -1,1 +1,0 @@
-{"tmdb_id": 398120, "title": "North Korea: The Great Illusion", "original_title": "North Korea: The Great Illusion", "slug_title": "north-korea-the-great-illusion", "date": "2015-05-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2UkF0WMY8m2Ba91Eupn6PFGw9gj.jpg", "actors": [], "comments": [], "recommandations_id": []}

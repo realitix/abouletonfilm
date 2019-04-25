@@ -1,1 +1,0 @@
-{"tmdb_id": 566135, "title": "Barbara", "original_title": "\u3070\u308b\u307c\u3089", "slug_title": "barbara", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5hoxJEAOzprHchh2EmMi51cgLoN.jpg", "actors": ["Gor\u00f4 Inagaki (Yosuke Mikura)", "Fumi Nikaido (Barbara)"], "comments": [], "recommandations_id": []}

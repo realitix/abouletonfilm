@@ -1,1 +1,0 @@
-{"tmdb_id": 379705, "title": "Mari\u0173 Kat\u0117s", "original_title": "Mari\u0173 Kat\u0117s", "slug_title": "mariu-kates", "date": "2015-02-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1Ss7Jyqo7bwy5ZLxOS1PtyVZkSD.jpg", "actors": [], "comments": [], "recommandations_id": []}

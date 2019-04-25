@@ -1,1 +1,0 @@
-{"tmdb_id": 202293, "title": "Boom Boom", "original_title": "Boom Boom", "slug_title": "boom-boom", "date": "1936-02-28", "genre": "", "score": "7.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fJC0o2dLgSorAuC4pGVlqFvO2fv.jpg", "actors": [], "comments": [], "recommandations_id": [202000, 201978, 201997]}

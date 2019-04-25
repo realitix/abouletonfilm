@@ -1,1 +1,1 @@
-{"tmdb_id": 569171, "title": "Picadeiro Urbano", "original_title": "Picadeiro Urbano", "slug_title": "picadeiro-urbano", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 569171, "title": "Picadeiro Urbano", "original_title": "Picadeiro Urbano", "slug_title": "picadeiro-urbano", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

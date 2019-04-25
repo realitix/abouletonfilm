@@ -1,1 +1,0 @@
-{"tmdb_id": 316580, "title": "Sick Transit", "original_title": "Sick Transit", "slug_title": "sick-transit", "date": "1966-01-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

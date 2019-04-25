@@ -1,1 +1,0 @@
-{"tmdb_id": 240930, "title": "Anos 80 - Multishow ao Vivo", "original_title": "Anos 80 - Multishow ao Vivo", "slug_title": "anos-80-multishow-ao-vivo", "date": "2005-06-13", "genre": "Musique", "score": "3.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/85nbYQUjfdDzFDnXNXzA7HKOBaf.jpg", "actors": [], "comments": [], "recommandations_id": []}

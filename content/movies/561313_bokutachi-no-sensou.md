@@ -1,1 +1,0 @@
-{"tmdb_id": 561313, "title": "Bokutachi no Sensou", "original_title": "Bokutachi no Sensou", "slug_title": "bokutachi-no-sensou", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Juri Ueno (Kamoshida Minami)", "Mirai Moriyama (Oojima Kenta)", "Rina Uchiyama (Sawamura Fumiko)"], "comments": [], "recommandations_id": []}

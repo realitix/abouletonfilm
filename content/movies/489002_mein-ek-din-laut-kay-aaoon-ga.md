@@ -1,1 +1,0 @@
-{"tmdb_id": 489002, "title": "Mein Ek Din Laut Kay Aaoon Ga", "original_title": "Mein Ek Din Laut Kay Aaoon Ga", "slug_title": "mein-ek-din-laut-kay-aaoon-ga", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

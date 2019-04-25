@@ -1,1 +1,0 @@
-{"tmdb_id": 359630, "title": "Dinosaur Hunters", "original_title": "Dinosaur Hunters", "slug_title": "dinosaur-hunters", "date": "2001-01-01", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wRuyHJ2Pf096WhUYpBcOjlyiX2p.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 506276, "title": "Cupid\u2019s Infirmary", "original_title": "Cupid\u2019s Infirmary", "slug_title": "cupids-infirmary", "date": "1995-08-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xkS4KDpkaOeV6xJl7TgeAgskwZ6.jpg", "actors": [], "comments": [], "recommandations_id": []}

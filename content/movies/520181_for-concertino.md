@@ -1,1 +1,0 @@
-{"tmdb_id": 520181, "title": "For Concertino", "original_title": "Pour Concertino", "slug_title": "for-concertino", "date": "1990-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lS4xiXGDtaMiHyUFj9jOedbQNK2.jpg", "actors": ["Sara Jim\u00e8nez Olivares ()", "Vita Boeno ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 176886, "title": "Our Irish Cousins", "original_title": "Our Irish Cousins", "slug_title": "our-irish-cousins", "date": "2013-03-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

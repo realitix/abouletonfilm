@@ -1,1 +1,1 @@
-{"tmdb_id": 544410, "title": "Vagrant Womb", "original_title": "Vagrant Womb", "slug_title": "vagrant-womb", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 544410, "title": "Vagrant Womb", "original_title": "Vagrant Womb", "slug_title": "vagrant-womb", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "A film by Giuseppe Andrews.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,1 +1,0 @@
-{"tmdb_id": 433661, "title": "Benjamin Bl\u00fcmchen Classics - und Bibi Blocksberg", "original_title": "Benjamin Bl\u00fcmchen Classics - und Bibi Blocksberg", "slug_title": "benjamin-blumchen-classics-und-bibi-blocksberg", "date": "", "genre": "", "score": "9.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 418996, "title": "A Stop on the Way", "original_title": "Arr\u00eat sur marche", "slug_title": "a-stop-on-the-way", "date": "1979-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2z3iksI35jyY7l14Fd3hTV8qUEi.jpg", "actors": [], "comments": [], "recommandations_id": []}

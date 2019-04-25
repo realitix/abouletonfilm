@@ -1,1 +1,0 @@
-{"tmdb_id": 386500, "title": "Big Bug Attack", "original_title": "Big Bug Attack", "slug_title": "big-bug-attack", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

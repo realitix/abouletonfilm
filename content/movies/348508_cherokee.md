@@ -1,1 +1,0 @@
-{"tmdb_id": 348508, "title": "Cherokee", "original_title": "Cherokee", "slug_title": "cherokee", "date": "2014-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vvDXQTSTm6310KsV0xI2enCCFaA.jpg", "actors": ["Matthew Coote (Hans)"], "comments": [], "recommandations_id": []}

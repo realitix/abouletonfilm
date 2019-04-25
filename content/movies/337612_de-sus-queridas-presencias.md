@@ -1,1 +1,0 @@
-{"tmdb_id": 337612, "title": "De Sus Queridas Presencias", "original_title": "De Sus Queridas Presencias", "slug_title": "de-sus-queridas-presencias", "date": "2014-09-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jrr3ZA8nofpSopq3vKbYAG14h7w.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 322089, "title": "A Rag Doll Romance", "original_title": "A Rag Doll Romance", "slug_title": "a-rag-doll-romance", "date": "1922-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 218654, "title": "The Pennsylvania Miners' Story", "original_title": "The Pennsylvania Miners' Story", "slug_title": "the-pennsylvania-miners-story", "date": "2002-04-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jEISQRVU9m1QAv0CmbBdaUPtEZ2.jpg", "actors": [], "comments": [], "recommandations_id": []}

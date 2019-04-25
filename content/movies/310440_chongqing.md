@@ -1,1 +1,0 @@
-{"tmdb_id": 310440, "title": "Chongqing", "original_title": "\uc911\uacbd", "slug_title": "chongqing", "date": "2008-11-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r2cDSAdlZxLZZwy0uPlYWy32Jjv.jpg", "actors": ["Ke-Yu Guo ()", "He Guofeng ()"], "comments": [], "recommandations_id": []}

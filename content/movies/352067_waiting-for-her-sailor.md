@@ -1,1 +1,0 @@
-{"tmdb_id": 352067, "title": "Waiting for Her Sailor", "original_title": "Waiting for Her Sailor", "slug_title": "waiting-for-her-sailor", "date": "2012-07-28", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/emL4sXC0lzSE9XfPshI3038D26l.jpg", "actors": [], "comments": [], "recommandations_id": []}

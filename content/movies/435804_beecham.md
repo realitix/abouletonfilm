@@ -1,1 +1,0 @@
-{"tmdb_id": 435804, "title": "Beecham", "original_title": "Beecham", "slug_title": "beecham", "date": "1990-01-01", "genre": "Documentaire / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Timothy West (Sir Thomas Beecham)"], "comments": [], "recommandations_id": []}

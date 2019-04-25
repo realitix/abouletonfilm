@@ -1,1 +1,0 @@
-{"tmdb_id": 303222, "title": "The Maine: Anthem for a Dying Breed", "original_title": "The Maine: Anthem for a Dying Breed", "slug_title": "the-maine-anthem-for-a-dying-breed", "date": "2012-12-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

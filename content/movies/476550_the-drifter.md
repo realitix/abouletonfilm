@@ -1,1 +1,0 @@
-{"tmdb_id": 476550, "title": "The Drifter", "original_title": "The Drifter", "slug_title": "the-drifter", "date": "2017-06-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/te1goZO3g9rHJG3MX7KJPNsfObf.jpg", "actors": [], "comments": [], "recommandations_id": []}

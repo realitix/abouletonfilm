@@ -1,1 +1,0 @@
-{"tmdb_id": 570792, "title": "Szerelem jut\u00e1nyos \u00e1ron", "original_title": "Szerelem jut\u00e1nyos \u00e1ron", "slug_title": "szerelem-jutanyos-aron", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 325501, "title": "Mother's Day: What a Horror!", "original_title": "Mother's Day: What a Horror!", "slug_title": "mother-s-day-what-a-horror", "date": "1995-06-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wmCUE2Z65cIaiONcYJM0akXC2sI.jpg", "actors": [], "comments": [], "recommandations_id": []}

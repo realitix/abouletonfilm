@@ -1,1 +1,0 @@
-{"tmdb_id": 443376, "title": "The Savages", "original_title": "The Savages", "slug_title": "the-savages", "date": "1967-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bAq62IUs0b1o8WSubb6QaQeRWPV.jpg", "actors": [], "comments": [], "recommandations_id": []}

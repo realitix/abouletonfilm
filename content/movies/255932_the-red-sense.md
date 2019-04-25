@@ -1,1 +1,0 @@
-{"tmdb_id": 255932, "title": "The Red Sense", "original_title": "The Red Sense", "slug_title": "the-red-sense", "date": "2008-08-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 272334, "title": "Zamaane ko Dikhana hai", "original_title": "Zamaane ko Dikhana hai", "slug_title": "zamaane-ko-dikhana-hai", "date": "1981-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

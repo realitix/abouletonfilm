@@ -1,1 +1,0 @@
-{"tmdb_id": 258675, "title": "A Separation", "original_title": "Att skiljas", "slug_title": "a-separation", "date": "2014-03-07", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xZHxyjQXLZiUajvBrnGtoOYX874.jpg", "actors": [], "comments": [], "recommandations_id": []}

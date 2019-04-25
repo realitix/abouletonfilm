@@ -1,1 +1,0 @@
-{"tmdb_id": 327345, "title": "Thank You, Cabbage", "original_title": "Thank You, Cabbage", "slug_title": "thank-you-cabbage", "date": "2014-04-08", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/GxaLfNfV9iZTEc7TiaBW1hpmdo.jpg", "actors": [], "comments": [], "recommandations_id": []}

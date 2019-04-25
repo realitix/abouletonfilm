@@ -1,1 +1,0 @@
-{"tmdb_id": 28837, "title": "\u041a\u0430\u043c\u0435\u043d\u0441\u043a\u0430\u044f", "original_title": "\u041a\u0430\u043c\u0435\u043d\u0441\u043a\u0430\u044f", "slug_title": "kamenskaia", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

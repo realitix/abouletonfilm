@@ -1,1 +1,0 @@
-{"tmdb_id": 512244, "title": "Chronophobie", "original_title": "Chronophobie", "slug_title": "chronophobie", "date": "2018-03-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

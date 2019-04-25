@@ -1,1 +1,0 @@
-{"tmdb_id": 71702, "title": "King of Chinatown", "original_title": "King of Chinatown", "slug_title": "king-of-chinatown", "date": "2010-06-04", "genre": "Drame / Thriller", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2exfD5dNq7HHNZRXIGP8L2HeOUH.jpg", "actors": [], "comments": [], "recommandations_id": []}

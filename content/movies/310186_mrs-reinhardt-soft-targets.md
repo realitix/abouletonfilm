@@ -1,1 +1,0 @@
-{"tmdb_id": 310186, "title": "Mrs. Reinhardt / Soft Targets", "original_title": "Mrs. Reinhardt / Soft Targets", "slug_title": "mrs-reinhardt-soft-targets", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

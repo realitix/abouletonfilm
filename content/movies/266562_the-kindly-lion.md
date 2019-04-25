@@ -1,1 +1,0 @@
-{"tmdb_id": 266562, "title": "The Kindly Lion", "original_title": "Yasashii Lion", "slug_title": "the-kindly-lion", "date": "1970-03-21", "genre": "Animation / Familial / Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u4i5FgTmstS0jA4wDH45QGpUABd.jpg", "actors": [], "comments": [], "recommandations_id": []}

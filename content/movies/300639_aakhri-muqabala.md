@@ -1,1 +1,0 @@
-{"tmdb_id": 300639, "title": "Aakhri Muqabala", "original_title": "Aakhri Muqabala", "slug_title": "aakhri-muqabala", "date": "1977-11-04", "genre": "Aventure / Action", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sultan Rahi ()", "Khalid Salim Mota ()"], "comments": [], "recommandations_id": []}

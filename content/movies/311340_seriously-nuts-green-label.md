@@ -1,1 +1,0 @@
-{"tmdb_id": 311340, "title": "Seriously Nuts: Green Label", "original_title": "Seriously Nuts: Green Label", "slug_title": "seriously-nuts-green-label", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

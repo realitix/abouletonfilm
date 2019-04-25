@@ -1,1 +1,0 @@
-{"tmdb_id": 466409, "title": "Computer Animation Marvels", "original_title": "Computer Animation Marvels", "slug_title": "computer-animation-marvels", "date": "1999-10-19", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i776d9IAXgo4aRv4wlejCtcCuBe.jpg", "actors": [], "comments": [], "recommandations_id": []}

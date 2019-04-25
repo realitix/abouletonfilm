@@ -1,1 +1,0 @@
-{"tmdb_id": 309505, "title": "Punk Drunk Love: The Images of Mick Rock", "original_title": "Punk Drunk Love: The Images of Mick Rock", "slug_title": "punk-drunk-love-the-images-of-mick-rock", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

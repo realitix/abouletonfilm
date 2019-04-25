@@ -1,1 +1,0 @@
-{"tmdb_id": 584338, "title": "Robert Aickman: Author of Strange Tales", "original_title": "Robert Aickman: Author of Strange Tales", "slug_title": "robert-aickman-author-of-strange-tales", "date": "2015-05-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

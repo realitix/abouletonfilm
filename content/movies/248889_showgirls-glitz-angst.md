@@ -1,1 +1,0 @@
-{"tmdb_id": 248889, "title": "Showgirls: Glitz & Angst", "original_title": "Showgirls: Glitz & Angst", "slug_title": "showgirls-glitz-angst", "date": "2003-09-06", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

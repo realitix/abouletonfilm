@@ -1,1 +1,0 @@
-{"tmdb_id": 465804, "title": "Adventure Time: The Wand", "original_title": "Adventure Time: The Wand", "slug_title": "adventure-time-the-wand", "date": "2012-07-10", "genre": "", "score": "9.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

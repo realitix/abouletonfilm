@@ -1,1 +1,0 @@
-{"tmdb_id": 94411, "title": "The Warfare of Landmine", "original_title": "\u5730\u96f7\u6218", "slug_title": "the-warfare-of-landmine", "date": "1962-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mWVUeaIus4yd45Y1Nhf8ovrr7wm.jpg", "actors": [], "comments": [], "recommandations_id": []}

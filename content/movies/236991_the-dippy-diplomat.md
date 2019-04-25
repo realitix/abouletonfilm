@@ -1,1 +1,0 @@
-{"tmdb_id": 236991, "title": "The Dippy Diplomat", "original_title": "The Dippy Diplomat", "slug_title": "the-dippy-diplomat", "date": "1945-08-26", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n3kV6OV0PrpdxXuk7XkCIqJRHfC.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 564513, "title": "Arkadian Fragment", "original_title": "Arkadian Fragment", "slug_title": "arkadian-fragment", "date": "2016-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

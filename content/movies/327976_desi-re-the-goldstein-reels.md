@@ -1,1 +1,0 @@
-{"tmdb_id": 327976, "title": "[desi're] - The Goldstein Reels", "original_title": "[desi're] - The Goldstein Reels", "slug_title": "desi-re-the-goldstein-reels", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

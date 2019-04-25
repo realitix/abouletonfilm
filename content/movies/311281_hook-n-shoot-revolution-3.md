@@ -1,1 +1,0 @@
-{"tmdb_id": 311281, "title": "Hook N Shoot: Revolution 3", "original_title": "Hook N Shoot: Revolution 3", "slug_title": "hook-n-shoot-revolution-3", "date": "2007-08-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4nRmKlmcU31dnAm5cf70vu8Xkkk.jpg", "actors": [], "comments": [], "recommandations_id": []}

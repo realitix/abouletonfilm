@@ -1,1 +1,0 @@
-{"tmdb_id": 570402, "title": "Along with the Gods 4", "original_title": "\uc2e0\uacfc\ud568\uaed8 4", "slug_title": "along-with-the-gods-4", "date": "", "genre": "Action / Drame / Fantastique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

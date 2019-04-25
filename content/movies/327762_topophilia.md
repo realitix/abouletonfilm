@@ -1,1 +1,0 @@
-{"tmdb_id": 327762, "title": "Topophilia", "original_title": "Topophilia", "slug_title": "topophilia", "date": "2015-02-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kESiqI1iAInnt5OQbgwxUXvN1jB.jpg", "actors": [], "comments": [], "recommandations_id": []}

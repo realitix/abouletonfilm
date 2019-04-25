@@ -1,1 +1,0 @@
-{"tmdb_id": 277295, "title": "A Decent Factory", "original_title": "A Decent Factory", "slug_title": "a-decent-factory", "date": "2005-06-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qoPkBenChzcqvrD6Ktf9dGFvPh3.jpg", "actors": [], "comments": [], "recommandations_id": []}

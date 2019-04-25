@@ -1,1 +1,0 @@
-{"tmdb_id": 129364, "title": "Europa 2005 - 27 octobre", "original_title": "Europa 2005 - 27 octobre", "slug_title": "europa-2005-27-octobre", "date": "2006-10-13", "genre": "Documentaire", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u24rzp5Oy5QfoyqvP1g799v9avU.jpg", "actors": [], "comments": [], "recommandations_id": []}

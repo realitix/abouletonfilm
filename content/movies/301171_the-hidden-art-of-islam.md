@@ -1,1 +1,0 @@
-{"tmdb_id": 301171, "title": "The Hidden Art of Islam", "original_title": "The Hidden Art of Islam", "slug_title": "the-hidden-art-of-islam", "date": "2014-04-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

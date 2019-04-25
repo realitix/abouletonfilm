@@ -1,1 +1,0 @@
-{"tmdb_id": 334213, "title": "Philippines, My Philippines", "original_title": "Philippines, My Philippines", "slug_title": "philippines-my-philippines", "date": "1989-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

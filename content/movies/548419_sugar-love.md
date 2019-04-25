@@ -1,1 +1,1 @@
-{"tmdb_id": 548419, "title": "Sugar Love", "original_title": "Sugar Love", "slug_title": "sugar-love", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 548419, "title": "Sugar Love", "original_title": "Sugar Love", "slug_title": "sugar-love", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

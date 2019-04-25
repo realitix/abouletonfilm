@@ -1,1 +1,0 @@
-{"tmdb_id": 437305, "title": "Gangsta Walking the Movie\u00a0", "original_title": "Gangsta Walking the Movie\u00a0", "slug_title": "gangsta-walking-the-movie", "date": "2015-09-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i4a4vNCkJI7MT7dEzEZRPdn09nf.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 442889, "title": "Princess of the Ursinos", "original_title": "La princesa de los ursinos", "slug_title": "princess-of-the-ursinos", "date": "1947-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8CyiymuiAfvEg07DBPDf5zmbAB1.jpg", "actors": [], "comments": [], "recommandations_id": []}

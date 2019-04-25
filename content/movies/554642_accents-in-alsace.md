@@ -1,1 +1,0 @@
-{"tmdb_id": 554642, "title": "Accents in Alsace", "original_title": "Accents in Alsace", "slug_title": "accents-in-alsace", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dZdrUtMzWovxaTyx1spfClr8YiM.jpg", "actors": [], "comments": [], "recommandations_id": []}

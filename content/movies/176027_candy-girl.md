@@ -1,1 +1,0 @@
-{"tmdb_id": 176027, "title": "Candy Girl", "original_title": "Candy Girl", "slug_title": "candy-girl", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

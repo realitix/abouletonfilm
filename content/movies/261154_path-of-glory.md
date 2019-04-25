@@ -1,1 +1,0 @@
-{"tmdb_id": 261154, "title": "Path of Glory", "original_title": "Chung tin siu ji", "slug_title": "path-of-glory", "date": "1989-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ctoZU8IMPHsI4RluklVbZ7RG51U.jpg", "actors": [], "comments": [], "recommandations_id": []}

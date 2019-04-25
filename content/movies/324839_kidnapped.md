@@ -1,1 +1,0 @@
-{"tmdb_id": 324839, "title": "Kidnapped", "original_title": "Kidnapped", "slug_title": "kidnapped", "date": "1963-01-01", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

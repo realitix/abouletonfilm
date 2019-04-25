@@ -1,1 +1,0 @@
-{"tmdb_id": 364074, "title": "Fists of Fire", "original_title": "Fists of Fire", "slug_title": "fists-of-fire", "date": "1975-01-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sw7z1v1aH629X2MBR8E22MRRv2c.jpg", "actors": [], "comments": [], "recommandations_id": []}

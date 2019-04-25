@@ -1,1 +1,0 @@
-{"tmdb_id": 370600, "title": "Legends of Jazz Guitar Vol. 3", "original_title": "Legends of Jazz Guitar Vol. 3", "slug_title": "legends-of-jazz-guitar-vol-3", "date": "2001-11-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mvY4RXn1L8IxhE1zBYC11stN6Fw.jpg", "actors": [], "comments": [], "recommandations_id": []}

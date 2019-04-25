@@ -1,1 +1,0 @@
-{"tmdb_id": 56782, "title": "Paul Zerdin Live", "original_title": "Paul Zerdin Live", "slug_title": "paul-zerdin-live", "date": "2012-11-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vijCRexv9DQ2P7qZKkujvEOqeiV.jpg", "actors": ["Paul Zerdin (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 465318, "title": "The Ace Hotel - A Film Poem By Hieu Gray", "original_title": "The Ace Hotel - A Film Poem By Hieu Gray", "slug_title": "the-ace-hotel-a-film-poem-by-hieu-gray", "date": "2017-07-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

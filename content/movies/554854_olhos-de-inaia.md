@@ -1,1 +1,0 @@
-{"tmdb_id": 554854, "title": "Olhos de Inai\u00e1", "original_title": "Olhos de Inai\u00e1", "slug_title": "olhos-de-inaia", "date": "2017-12-15", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5CflLEvQFFd8XCg4OAdmjbW46AE.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 219558, "title": "Little Lamby", "original_title": "Little Lamby", "slug_title": "little-lamby", "date": "1937-12-30", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

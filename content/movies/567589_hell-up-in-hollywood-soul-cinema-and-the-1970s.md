@@ -1,1 +1,0 @@
-{"tmdb_id": 567589, "title": "Hell Up in Hollywood: Soul Cinema and the 1970s", "original_title": "Hell Up in Hollywood: Soul Cinema and the 1970s", "slug_title": "hell-up-in-hollywood-soul-cinema-and-the-1970s", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

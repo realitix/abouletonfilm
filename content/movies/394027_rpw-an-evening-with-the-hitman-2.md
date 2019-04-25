@@ -1,1 +1,0 @@
-{"tmdb_id": 394027, "title": "RPW: An Evening With The Hitman 2", "original_title": "RPW: An Evening With The Hitman 2", "slug_title": "rpw-an-evening-with-the-hitman-2", "date": "2015-09-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

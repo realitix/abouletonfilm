@@ -1,1 +1,0 @@
-{"tmdb_id": 550194, "title": "Un d\u00eda en el parque", "original_title": "Un d\u00eda en el parque", "slug_title": "un-dia-en-el-parque", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sergio Fern\u00e1ndez-Sastr\u00f3n (Grandfather)"], "comments": [], "recommandations_id": []}

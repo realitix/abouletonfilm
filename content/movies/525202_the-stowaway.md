@@ -1,1 +1,0 @@
-{"tmdb_id": 525202, "title": "The Stowaway", "original_title": "The Stowaway", "slug_title": "the-stowaway", "date": "2014-01-01", "genre": "Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r8CZw82biJYHFVNtTEmPx4CAhG6.jpg", "actors": [], "comments": [], "recommandations_id": []}

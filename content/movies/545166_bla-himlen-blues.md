@@ -1,1 +1,0 @@
-{"tmdb_id": 545166, "title": "Bl\u00e5 himlen blues", "original_title": "Bl\u00e5 himlen blues", "slug_title": "bla-himlen-blues", "date": "2005-01-31", "genre": "Animation / Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3q7FEDwfkJM9YZaG7zEaSvRwEs2.jpg", "actors": [], "comments": [], "recommandations_id": []}

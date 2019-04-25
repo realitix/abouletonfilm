@@ -1,1 +1,0 @@
-{"tmdb_id": 423863, "title": "Sing, Babies, Sing!", "original_title": "Sing, Babies, Sing!", "slug_title": "sing-babies-sing", "date": "1933-12-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rose Marie (Herself)"], "comments": [], "recommandations_id": []}

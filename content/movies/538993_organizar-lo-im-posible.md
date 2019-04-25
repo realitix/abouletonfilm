@@ -1,1 +1,0 @@
-{"tmdb_id": 538993, "title": "Organizar lo (Im)posible", "original_title": "Organizar lo (Im)posible", "slug_title": "organizar-lo-im-posible", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x1lSuMutnGxm4DhRb7XNs9JRwee.jpg", "actors": [], "comments": [], "recommandations_id": []}

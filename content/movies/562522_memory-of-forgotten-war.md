@@ -1,1 +1,0 @@
-{"tmdb_id": 562522, "title": "Memory of Forgotten War", "original_title": "Memory of Forgotten War", "slug_title": "memory-of-forgotten-war", "date": "2013-01-01", "genre": "Documentaire / Histoire / Guerre", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

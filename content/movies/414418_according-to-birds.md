@@ -1,1 +1,0 @@
-{"tmdb_id": 414418, "title": "According to Birds", "original_title": "Volgens de vogels", "slug_title": "according-to-birds", "date": "2008-06-24", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7nqybguSgeVkXbzFVK6twKb8OXr.jpg", "actors": [], "comments": [], "recommandations_id": []}

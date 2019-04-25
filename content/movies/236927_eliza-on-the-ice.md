@@ -1,1 +1,0 @@
-{"tmdb_id": 236927, "title": "Eliza on the Ice", "original_title": "Eliza on the Ice", "slug_title": "eliza-on-the-ice", "date": "1944-06-15", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8ZfTMbwnnbJh0TWgbuus1b2sVUK.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 470580, "title": "Who Will Fuck Daddy?", "original_title": "Vem Ska Knulla Pappa?", "slug_title": "who-will-fuck-daddy", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wRxjziwLK7j6TYYFdVUnugJGCRS.jpg", "actors": ["Alexi Carpentieri (Majorna)"], "comments": [], "recommandations_id": []}

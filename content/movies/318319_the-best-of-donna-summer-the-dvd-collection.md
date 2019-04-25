@@ -1,1 +1,0 @@
-{"tmdb_id": 318319, "title": "The Best of Donna Summer: The DVD Collection", "original_title": "The Best of Donna Summer: The DVD Collection", "slug_title": "the-best-of-donna-summer-the-dvd-collection", "date": "2004-02-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 495804, "title": "Aga Bai Arechyaa 2", "original_title": "Aga Bai Arechyaa 2", "slug_title": "aga-bai-arechyaa-2", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

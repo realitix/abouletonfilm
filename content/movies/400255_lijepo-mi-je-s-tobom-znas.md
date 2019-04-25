@@ -1,1 +1,0 @@
-{"tmdb_id": 400255, "title": "Lijepo mi je s tobom, zna\u0161", "original_title": "Lijepo mi je s tobom, zna\u0161", "slug_title": "lijepo-mi-je-s-tobom-znas", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sT7omulCizGcF7pNB30wuX35K8R.jpg", "actors": [], "comments": [], "recommandations_id": []}

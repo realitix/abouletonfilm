@@ -1,1 +1,0 @@
-{"tmdb_id": 336373, "title": "Raisakotkad", "original_title": "Raisakotkad", "slug_title": "raisakotkad", "date": "2003-10-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

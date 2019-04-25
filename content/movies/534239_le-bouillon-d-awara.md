@@ -1,1 +1,0 @@
-{"tmdb_id": 534239, "title": "Le bouillon d'awara", "original_title": "Le bouillon d'awara", "slug_title": "le-bouillon-d-awara", "date": "1996-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

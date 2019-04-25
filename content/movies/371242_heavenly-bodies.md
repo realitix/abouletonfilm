@@ -1,1 +1,0 @@
-{"tmdb_id": 371242, "title": "Heavenly Bodies", "original_title": "Heavenly Bodies", "slug_title": "heavenly-bodies", "date": "2015-12-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/79YGJz3v5E76Yd4bE9tYAcG63gw.jpg", "actors": [], "comments": [], "recommandations_id": []}

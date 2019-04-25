@@ -1,1 +1,0 @@
-{"tmdb_id": 548180, "title": "Fragmentos do Tempo", "original_title": "Fragmentos do Tempo", "slug_title": "fragmentos-do-tempo", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

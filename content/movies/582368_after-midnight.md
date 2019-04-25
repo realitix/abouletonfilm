@@ -1,1 +1,0 @@
-{"tmdb_id": 582368, "title": "After Midnight", "original_title": "After Midnight", "slug_title": "after-midnight", "date": "2018-01-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/45y5qYmXo85g3h6vxWrBMyGPfHR.jpg", "actors": [], "comments": [], "recommandations_id": []}

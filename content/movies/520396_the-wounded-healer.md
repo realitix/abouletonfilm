@@ -1,1 +1,0 @@
-{"tmdb_id": 520396, "title": "The Wounded Healer", "original_title": "The Wounded Healer", "slug_title": "the-wounded-healer", "date": "2018-04-27", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ie35o8k9f2zKnan99RrAaPStgAM.jpg", "actors": ["Josh Knight (Man)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 429963, "title": "Soapy the Germ Fighter", "original_title": "Soapy the Germ Fighter", "slug_title": "soapy-the-germ-fighter", "date": "1951-01-01", "genre": "", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m3JlnkQ99titrJvu1ZzHi2oWVVx.jpg", "actors": [], "comments": [], "recommandations_id": []}

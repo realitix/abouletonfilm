@@ -1,1 +1,0 @@
-{"tmdb_id": 535224, "title": "Zweik\u00e4mpfer", "original_title": "Zweik\u00e4mpfer", "slug_title": "zweikampfer", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

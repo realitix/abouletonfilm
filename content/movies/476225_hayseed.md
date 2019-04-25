@@ -1,1 +1,0 @@
-{"tmdb_id": 476225, "title": "Hayseed", "original_title": "Hayseed", "slug_title": "hayseed", "date": "1997-09-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6y86SwsFrp7MqSWeS4pHghpDaDP.jpg", "actors": [], "comments": [], "recommandations_id": []}

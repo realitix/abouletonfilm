@@ -1,1 +1,0 @@
-{"tmdb_id": 440595, "title": "Exit: Music", "original_title": "Exit: Music", "slug_title": "exit-music", "date": "2017-02-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

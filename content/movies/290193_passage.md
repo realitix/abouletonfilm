@@ -1,1 +1,0 @@
-{"tmdb_id": 290193, "title": "Passage", "original_title": "Passage", "slug_title": "passage", "date": "2007-09-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Duro Toomato ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 349982, "title": "Workers At Pilkington Glass Works, St Helens", "original_title": "Workers At Pilkington Glass Works, St Helens", "slug_title": "workers-at-pilkington-glass-works-st-helens", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

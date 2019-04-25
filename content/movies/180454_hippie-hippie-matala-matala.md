@@ -1,1 +1,0 @@
-{"tmdb_id": 180454, "title": "Hippie-Hippie Matala! Matala!", "original_title": "Hippie-Hippie Matala! Matala!", "slug_title": "hippie-hippie-matala-matala", "date": "2013-03-17", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dOnMJ44PCVn7EsEn9IUHP69ud5x.jpg", "actors": [], "comments": [], "recommandations_id": []}

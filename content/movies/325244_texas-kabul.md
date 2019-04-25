@@ -1,1 +1,0 @@
-{"tmdb_id": 325244, "title": "Texas - Kabul", "original_title": "Texas - Kabul", "slug_title": "texas-kabul", "date": "2004-02-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

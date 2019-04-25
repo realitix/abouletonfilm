@@ -1,1 +1,0 @@
-{"tmdb_id": 455388, "title": "Act of Faith", "original_title": "Act of Faith", "slug_title": "act-of-faith", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

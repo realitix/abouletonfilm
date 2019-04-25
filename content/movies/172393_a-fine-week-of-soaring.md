@@ -1,1 +1,0 @@
-{"tmdb_id": 172393, "title": "A Fine Week of Soaring", "original_title": "A Fine Week of Soaring", "slug_title": "a-fine-week-of-soaring", "date": "", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3FgjkRJxM8jTb9QuLY8G9cF0VCu.jpg", "actors": [], "comments": [], "recommandations_id": []}

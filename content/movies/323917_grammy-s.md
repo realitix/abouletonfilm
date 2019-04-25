@@ -1,1 +1,0 @@
-{"tmdb_id": 323917, "title": "Grammy's", "original_title": "Grammy's", "slug_title": "grammy-s", "date": "2007-03-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Joe Swanberg (Clarence)"], "comments": [], "recommandations_id": []}

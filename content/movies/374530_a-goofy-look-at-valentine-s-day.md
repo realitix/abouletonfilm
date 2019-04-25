@@ -1,1 +1,0 @@
-{"tmdb_id": 374530, "title": "A Goofy Look at Valentine's Day", "original_title": "A Goofy Look at Valentine's Day", "slug_title": "a-goofy-look-at-valentine-s-day", "date": "1983-02-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

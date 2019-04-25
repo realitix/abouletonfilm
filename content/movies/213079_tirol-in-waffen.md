@@ -1,1 +1,0 @@
-{"tmdb_id": 213079, "title": "Tirol in Waffen", "original_title": "Tirol in Waffen", "slug_title": "tirol-in-waffen", "date": "1914-08-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rudolf Biebrach ()"], "comments": [], "recommandations_id": []}

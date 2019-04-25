@@ -1,1 +1,0 @@
-{"tmdb_id": 516942, "title": "A Metaphor for the End of Just About Everything", "original_title": "A Metaphor for the End of Just About Everything", "slug_title": "a-metaphor-for-the-end-of-just-about-everything", "date": "2016-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

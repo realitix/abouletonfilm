@@ -1,1 +1,0 @@
-{"tmdb_id": 593462, "title": "Detroit Blood City", "original_title": "Detroit Blood City", "slug_title": "detroit-blood-city", "date": "2005-11-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

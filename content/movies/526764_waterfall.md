@@ -1,1 +1,0 @@
-{"tmdb_id": 526764, "title": "Waterfall", "original_title": "Waterfall", "slug_title": "waterfall", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dhqiULKIVYB867feGcl4zSqmh33.jpg", "actors": [], "comments": [], "recommandations_id": []}

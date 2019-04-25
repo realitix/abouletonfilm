@@ -1,1 +1,0 @@
-{"tmdb_id": 450341, "title": "Prog Rock At The BBC", "original_title": "Prog Rock At The BBC", "slug_title": "prog-rock-at-the-bbc", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w2hmWqfYSlpK0OQ4tiCJVa5NjGW.jpg", "actors": [], "comments": [], "recommandations_id": []}

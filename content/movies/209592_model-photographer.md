@@ -1,1 +1,0 @@
-{"tmdb_id": 209592, "title": "Model/Photographer", "original_title": "Model/Photographer", "slug_title": "model-photographer", "date": "2009-01-01", "genre": "Drame / Romance", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mary Elise Hayden (Nicolette)", "John T. Woods (Will)"], "comments": [], "recommandations_id": []}

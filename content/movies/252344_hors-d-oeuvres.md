@@ -1,1 +1,0 @@
-{"tmdb_id": 252344, "title": "Hors d'oeuvres", "original_title": "Hors d'oeuvres", "slug_title": "hors-d-oeuvres", "date": "1971-12-03", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/du5q6VQjunpHydEEWio27MnJVWq.jpg", "actors": [], "comments": [], "recommandations_id": []}

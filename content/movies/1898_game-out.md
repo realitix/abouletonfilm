@@ -1,1 +1,0 @@
-{"tmdb_id": 1898, "title": "Game Out", "original_title": "Game Out", "slug_title": "game-out", "date": "1988-05-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Eddie Constantine (Mike Parker)", "Myl\u00e8ne Demongeot (Baronin)", "Jean-Louis Richard (Inspektor Balmain)"], "comments": [], "recommandations_id": []}

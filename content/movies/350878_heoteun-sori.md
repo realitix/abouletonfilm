@@ -1,1 +1,0 @@
-{"tmdb_id": 350878, "title": "\ud5c8\ud2bc \uc18c\ub9ac", "original_title": "\ud5c8\ud2bc \uc18c\ub9ac", "slug_title": "heoteun-sori", "date": "1986-10-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

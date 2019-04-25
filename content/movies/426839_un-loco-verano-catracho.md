@@ -1,1 +1,0 @@
-{"tmdb_id": 426839, "title": "Un loco verano catracho", "original_title": "Un loco verano catracho", "slug_title": "un-loco-verano-catracho", "date": "2015-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xEM71tW8qXa85DCBxT7yz1os2vq.jpg", "actors": [], "comments": [], "recommandations_id": []}

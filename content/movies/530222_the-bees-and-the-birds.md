@@ -1,1 +1,0 @@
-{"tmdb_id": 530222, "title": "The Bees and the Birds", "original_title": "Von Bienen und Blumen", "slug_title": "the-bees-and-the-birds", "date": "2018-06-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qeue15AlQQODOGy4qJctfetnjl3.jpg", "actors": [], "comments": [], "recommandations_id": []}

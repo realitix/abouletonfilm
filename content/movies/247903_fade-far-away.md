@@ -1,1 +1,0 @@
-{"tmdb_id": 247903, "title": "Fade Far Away", "original_title": "L'escale", "slug_title": "fade-far-away", "date": "2008-06-23", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rebecca Convenant ()", "St\u00e9phane Mir ()"], "comments": [], "recommandations_id": []}

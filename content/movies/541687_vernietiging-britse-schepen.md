@@ -1,1 +1,0 @@
-{"tmdb_id": 541687, "title": "Vernietiging Britse schepen", "original_title": "Vernietiging Britse schepen", "slug_title": "vernietiging-britse-schepen", "date": "1916-06-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2PovR0Nc1nXP9r0mb9GnpeoPPBe.jpg", "actors": [], "comments": [], "recommandations_id": []}

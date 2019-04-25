@@ -1,1 +1,0 @@
-{"tmdb_id": 572022, "title": "Threshold", "original_title": "Threshold", "slug_title": "threshold", "date": "2017-12-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

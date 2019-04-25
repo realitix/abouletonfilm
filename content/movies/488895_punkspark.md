@@ -1,1 +1,0 @@
-{"tmdb_id": 488895, "title": "Punkspark", "original_title": "Punkspark", "slug_title": "punkspark", "date": "2007-01-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8hhtjWe48xADdYNy3JasLHTVsRk.jpg", "actors": [], "comments": [], "recommandations_id": []}

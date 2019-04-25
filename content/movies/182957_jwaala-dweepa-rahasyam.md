@@ -1,1 +1,0 @@
-{"tmdb_id": 182957, "title": "Jwaala Dweepa Rahasyam", "original_title": "Jwaala Dweepa Rahasyam", "slug_title": "jwaala-dweepa-rahasyam", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

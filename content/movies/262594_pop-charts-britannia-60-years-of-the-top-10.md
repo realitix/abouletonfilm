@@ -1,1 +1,0 @@
-{"tmdb_id": 262594, "title": "Pop Charts Britannia: 60 Years of the Top 10", "original_title": "Pop Charts Britannia: 60 Years of the Top 10", "slug_title": "pop-charts-britannia-60-years-of-the-top-10", "date": "2012-11-16", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

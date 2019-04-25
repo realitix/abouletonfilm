@@ -1,1 +1,0 @@
-{"tmdb_id": 58948, "title": "The Vibrating Maid", "original_title": "The Vibrating Maid", "slug_title": "the-vibrating-maid", "date": "2000-01-02", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Erin Brown (The Lady)", "Lily Tiger (The Maid)"], "comments": [], "recommandations_id": []}

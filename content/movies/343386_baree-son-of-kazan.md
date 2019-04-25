@@ -1,1 +1,0 @@
-{"tmdb_id": 343386, "title": "Baree, Son of Kazan", "original_title": "Baree, Son of Kazan", "slug_title": "baree-son-of-kazan", "date": "1918-05-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

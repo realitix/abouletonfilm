@@ -1,1 +1,0 @@
-{"tmdb_id": 235978, "title": "Let's Stalk Spinach", "original_title": "Let's Stalk Spinach", "slug_title": "let-s-stalk-spinach", "date": "1951-10-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 362833, "title": "On the Eve of Publication", "original_title": "On the Eve of Publication", "slug_title": "on-the-eve-of-publication", "date": "1968-11-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

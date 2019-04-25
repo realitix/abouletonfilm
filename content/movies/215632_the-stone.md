@@ -1,1 +1,0 @@
-{"tmdb_id": 215632, "title": "The Stone", "original_title": "The Stone", "slug_title": "the-stone", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 235139, "title": "Tree Cornered Tweety", "original_title": "Tree Cornered Tweety", "slug_title": "tree-cornered-tweety", "date": "1956-05-18", "genre": "Animation", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uaF9ZOHsKe4wApCEQHPk1c72qlr.jpg", "actors": [], "comments": [], "recommandations_id": []}

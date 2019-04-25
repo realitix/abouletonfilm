@@ -1,1 +1,0 @@
-{"tmdb_id": 474149, "title": "Tables d'hiver", "original_title": "Tables d'hiver", "slug_title": "tables-d-hiver", "date": "1979-12-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vj2A8axjw4UxU8ZkeXeBwlz1JRV.jpg", "actors": ["Teo Hern\u00e1ndez ()", "Ga\u00ebl Badaud ()"], "comments": [], "recommandations_id": []}

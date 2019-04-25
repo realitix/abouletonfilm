@@ -1,1 +1,0 @@
-{"tmdb_id": 568019, "title": "Minas do Futebol", "original_title": "Minas do Futebol", "slug_title": "minas-do-futebol", "date": "2018-12-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8nZad9L6lm8p7Hy16yz2KjUWVWc.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 263103, "title": "Zombie Hood", "original_title": "Zombie Hood", "slug_title": "zombie-hood", "date": "2013-06-08", "genre": "Action / Horreur / Science-Fiction", "score": "3.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2JMe3UFhUTN56P34C3fNTOM8YQ8.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 577198, "title": "Anxiety", "original_title": "Anxiety", "slug_title": "anxiety", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2MZ1fmZyiz4lTHpLb5FkcE0TRtj.jpg", "actors": ["Mackenzie Long (Sofia)", "Ahnas Curley (friendly guy)"], "comments": [], "recommandations_id": []}

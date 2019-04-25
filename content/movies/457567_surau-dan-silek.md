@@ -1,1 +1,0 @@
-{"tmdb_id": 457567, "title": "Surau dan Silek", "original_title": "Surau dan Silek", "slug_title": "surau-dan-silek", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yteRiDcmHaPwZrB2OHjnFRNipCF.jpg", "actors": [], "comments": [], "recommandations_id": []}

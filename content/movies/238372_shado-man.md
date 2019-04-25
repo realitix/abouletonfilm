@@ -1,1 +1,0 @@
-{"tmdb_id": 238372, "title": "Shado'man", "original_title": "Shado'man", "slug_title": "shado-man", "date": "2013-11-22", "genre": "Documentaire", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jucHDw6TDP6hQSIMdHfOSON66XM.jpg", "actors": [], "comments": [], "recommandations_id": []}

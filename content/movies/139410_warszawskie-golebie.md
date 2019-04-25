@@ -1,1 +1,0 @@
-{"tmdb_id": 139410, "title": "Warszawskie go\u0142\u0119bie", "original_title": "Warszawskie go\u0142\u0119bie", "slug_title": "warszawskie-golebie", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

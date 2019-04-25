@@ -1,1 +1,0 @@
-{"tmdb_id": 523575, "title": "Know What Is Above You", "original_title": "Know What Is Above You", "slug_title": "know-what-is-above-you", "date": "2018-05-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

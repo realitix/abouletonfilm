@@ -1,1 +1,0 @@
-{"tmdb_id": 571536, "title": "Mother is God", "original_title": "Mother is God", "slug_title": "mother-is-god", "date": "2014-01-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oQAKhGYUHoU1veSCZC6osRpxNWh.jpg", "actors": [], "comments": [], "recommandations_id": []}

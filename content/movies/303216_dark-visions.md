@@ -1,1 +1,0 @@
-{"tmdb_id": 303216, "title": "Dark Visions", "original_title": "Dark Visions", "slug_title": "dark-visions", "date": "2014-05-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

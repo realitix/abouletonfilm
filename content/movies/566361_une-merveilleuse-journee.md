@@ -1,1 +1,0 @@
-{"tmdb_id": 566361, "title": "Une merveilleuse journ\u00e9e", "original_title": "Une merveilleuse journ\u00e9e", "slug_title": "une-merveilleuse-journee", "date": "1980-11-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2oSreVZ1JMdyns48IERNzjfSadY.jpg", "actors": [], "comments": [], "recommandations_id": []}

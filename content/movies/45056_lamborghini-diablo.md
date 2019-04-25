@@ -1,1 +1,0 @@
-{"tmdb_id": 45056, "title": "Lamborghini Diablo", "original_title": "Lamborghini Diablo", "slug_title": "lamborghini-diablo", "date": "", "genre": "Documentaire", "score": "4.8/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

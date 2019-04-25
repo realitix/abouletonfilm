@@ -1,1 +1,0 @@
-{"tmdb_id": 205604, "title": "The Misfits", "original_title": "Los Inadaptados", "slug_title": "the-misfits", "date": "2011-03-28", "genre": "", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7MCJ6LIrKsQXYQt3XwhVk3xvtuQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

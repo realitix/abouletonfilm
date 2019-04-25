@@ -1,1 +1,0 @@
-{"tmdb_id": 283746, "title": "Migrating Forms", "original_title": "Migrating Forms", "slug_title": "migrating-forms", "date": "2000-03-03", "genre": "Drame / Horreur", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fJRHR1gfiB37HAy17SUggzBySM2.jpg", "actors": [], "comments": [], "recommandations_id": []}

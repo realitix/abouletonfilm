@@ -1,1 +1,1 @@
-{"tmdb_id": 579031, "title": "Avenue Louise", "original_title": "Avenue Louise", "slug_title": "avenue-louise", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 579031, "title": "Avenue Louise", "original_title": "Avenue Louise", "slug_title": "avenue-louise", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

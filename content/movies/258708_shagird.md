@@ -1,1 +1,0 @@
-{"tmdb_id": 258708, "title": "Shagird", "original_title": "Shagird", "slug_title": "shagird", "date": "1967-06-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 349215, "title": "Habitual Sadness", "original_title": "\ub0ae\uc740\ubaa9\uc18c\ub9ac 2", "slug_title": "habitual-sadness", "date": "1997-08-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xi6zEK2li0C9JqMF54RBo0KIOeK.jpg", "actors": [], "comments": [], "recommandations_id": []}

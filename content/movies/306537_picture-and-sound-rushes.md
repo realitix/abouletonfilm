@@ -1,1 +1,0 @@
-{"tmdb_id": 306537, "title": "Picture and Sound Rushes", "original_title": "Picture and Sound Rushes", "slug_title": "picture-and-sound-rushes", "date": "1973-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h9LwC3ELWkVhqjpQs9cGOWi6WCL.jpg", "actors": ["Morgan Fisher ()"], "comments": [], "recommandations_id": []}

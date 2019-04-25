@@ -1,1 +1,0 @@
-{"tmdb_id": 546701, "title": "Candy Girl: Fiona Barnett", "original_title": "Candy Girl: Fiona Barnett", "slug_title": "candy-girl-fiona-barnett", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 120126, "title": "The Vinyl Frontier", "original_title": "The Vinyl Frontier", "slug_title": "the-vinyl-frontier", "date": "2010-05-08", "genre": "Documentaire", "score": "5.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uRkqTttDEGFMGhqcny27JsW2KXd.jpg", "actors": [], "comments": [], "recommandations_id": []}

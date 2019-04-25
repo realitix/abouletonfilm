@@ -1,1 +1,0 @@
-{"tmdb_id": 374297, "title": "Pachamama", "original_title": "Pachamama", "slug_title": "pachamama", "date": "2010-02-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lfA6PKUsQgbrJwVPdJpjl0PBAgm.jpg", "actors": [], "comments": [], "recommandations_id": []}

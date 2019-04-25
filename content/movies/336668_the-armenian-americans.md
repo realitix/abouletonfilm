@@ -1,1 +1,0 @@
-{"tmdb_id": 336668, "title": "The Armenian Americans", "original_title": "The Armenian Americans", "slug_title": "the-armenian-americans", "date": "2000-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4roaLWk68AtZ1Uf99x3QkcaPczX.jpg", "actors": [], "comments": [], "recommandations_id": []}

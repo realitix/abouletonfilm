@@ -1,1 +1,0 @@
-{"tmdb_id": 418355, "title": "What Is Real", "original_title": "What Is Real", "slug_title": "what-is-real", "date": "1990-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/soV9OvYeYHlUvQpDBkopG1vVtVX.jpg", "actors": [], "comments": [], "recommandations_id": []}

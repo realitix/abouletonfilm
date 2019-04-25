@@ -1,1 +1,0 @@
-{"tmdb_id": 277580, "title": "The Road Ended at the Beach", "original_title": "The Road Ended at the Beach", "slug_title": "the-road-ended-at-the-beach", "date": "1983-06-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jFzBBB8xGvabdgRKznCfosEz2ae.jpg", "actors": [], "comments": [], "recommandations_id": []}

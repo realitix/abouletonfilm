@@ -1,1 +1,0 @@
-{"tmdb_id": 78893, "title": "Kudumbam", "original_title": "Kudumbam", "slug_title": "kudumbam", "date": "1984-11-22", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Vijayakanth ()", "Sujatha ()", "Jaishankar ()", "Sripriya ()", "Y. G. Mahendran ()", "Jayamalini ()"], "comments": [], "recommandations_id": []}

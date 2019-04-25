@@ -1,1 +1,0 @@
-{"tmdb_id": 318264, "title": "Holly's Story: A Journey to Freedom and Hope", "original_title": "Holly's Story: A Journey to Freedom and Hope", "slug_title": "holly-s-story-a-journey-to-freedom-and-hope", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 491373, "title": "Vargas Blues Band - Heavy City Blues", "original_title": "Vargas Blues Band - Heavy City Blues", "slug_title": "vargas-blues-band-heavy-city-blues", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

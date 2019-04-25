@@ -1,1 +1,0 @@
-{"tmdb_id": 177071, "title": "A Esta\u00e7\u00e3o", "original_title": "A Esta\u00e7\u00e3o", "slug_title": "a-estacao", "date": "2006-03-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wfQ1pdXev8rWWkFvTO94YwXITzY.jpg", "actors": [], "comments": [], "recommandations_id": []}

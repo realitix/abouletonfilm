@@ -1,1 +1,0 @@
-{"tmdb_id": 340694, "title": "Cabeza de Buda", "original_title": "Cabeza de Buda", "slug_title": "cabeza-de-buda", "date": "2009-05-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7leoT9lDIvOXrCZ5B9tugu04WCI.jpg", "actors": [], "comments": [], "recommandations_id": []}

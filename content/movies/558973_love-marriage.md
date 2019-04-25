@@ -1,1 +1,0 @@
-{"tmdb_id": 558973, "title": "Love Marriage", "original_title": "Mariage d'amour", "slug_title": "love-marriage", "date": "1942-12-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/thd4FmDFIr4pOFmHr3wXrCKBgYW.jpg", "actors": [], "comments": [], "recommandations_id": []}

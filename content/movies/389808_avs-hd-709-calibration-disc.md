@@ -1,1 +1,0 @@
-{"tmdb_id": 389808, "title": "AVS HD 709 Calibration Disc", "original_title": "AVS HD 709 Calibration Disc", "slug_title": "avs-hd-709-calibration-disc", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kgSvLBIO9ixPfdXs2QG7OJDOkqb.jpg", "actors": [], "comments": [], "recommandations_id": []}

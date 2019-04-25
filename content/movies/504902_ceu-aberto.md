@@ -1,1 +1,0 @@
-{"tmdb_id": 504902, "title": "C\u00e9u Aberto", "original_title": "C\u00e9u Aberto", "slug_title": "ceu-aberto", "date": "1985-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zILNBaYjfSvq2ZQlxDUUe7ICkh1.jpg", "actors": ["Tancredo Neves ()"], "comments": [], "recommandations_id": []}

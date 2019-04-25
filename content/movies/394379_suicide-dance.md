@@ -1,1 +1,0 @@
-{"tmdb_id": 394379, "title": "Suicide Dance", "original_title": "Suicide Dance", "slug_title": "suicide-dance", "date": "2010-04-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/c3iYk4BDD4lhm1TmEjyzwrwIxD1.jpg", "actors": [], "comments": [], "recommandations_id": []}

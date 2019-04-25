@@ -1,1 +1,0 @@
-{"tmdb_id": 129297, "title": "50 Cent - Live in Concert", "original_title": "50 Cent - Live in Concert", "slug_title": "50-cent-live-in-concert", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rDZUvzxCntypTusp0xJ009jYMmE.jpg", "actors": [], "comments": [], "recommandations_id": []}

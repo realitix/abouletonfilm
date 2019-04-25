@@ -1,1 +1,0 @@
-{"tmdb_id": 331557, "title": "Wafadaar", "original_title": "Wafadaar", "slug_title": "wafadaar", "date": "1985-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rajinikanth ()", "Shakti Kapoor ()"], "comments": [], "recommandations_id": []}

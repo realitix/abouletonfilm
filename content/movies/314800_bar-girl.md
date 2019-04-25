@@ -1,1 +1,0 @@
-{"tmdb_id": 314800, "title": "Bar Girl", "original_title": "Bar Girl", "slug_title": "bar-girl", "date": "2008-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1c0JDnUVM8bpvXjzPIXZkkuvWFo.jpg", "actors": ["Y\u00f4ko Azusa ()", "Nobutaka Masutomi ()", "Aoi Nakajima ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 443161, "title": "Wolfram, a Saliva do Lobo", "original_title": "Wolfram, a Saliva do Lobo", "slug_title": "wolfram-a-saliva-do-lobo", "date": "2010-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tq0eUdTRLQyYQlEtEVqS9IE98eh.jpg", "actors": [], "comments": [], "recommandations_id": []}

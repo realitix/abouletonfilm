@@ -1,1 +1,0 @@
-{"tmdb_id": 483911, "title": "Deliquium", "original_title": "Deliquium", "slug_title": "deliquium", "date": "2003-10-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

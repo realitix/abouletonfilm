@@ -1,1 +1,0 @@
-{"tmdb_id": 325313, "title": "Warren Miller's Born to Ski", "original_title": "Warren Miller's Born to Ski", "slug_title": "warren-miller-s-born-to-ski", "date": "2014-02-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

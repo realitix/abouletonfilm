@@ -1,1 +1,0 @@
-{"tmdb_id": 296381, "title": "Time As Money", "original_title": "Time As Money", "slug_title": "time-as-money", "date": "2014-10-04", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/c63SMLYvBh1hzDQSpd81jyU7V4C.jpg", "actors": ["Edgar Cahn (Himself)"], "comments": [], "recommandations_id": []}

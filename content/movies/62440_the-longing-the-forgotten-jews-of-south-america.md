@@ -1,1 +1,0 @@
-{"tmdb_id": 62440, "title": "The Longing: The Forgotten Jews of South America", "original_title": "The Longing: The Forgotten Jews of South America", "slug_title": "the-longing-the-forgotten-jews-of-south-america", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

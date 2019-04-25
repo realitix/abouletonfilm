@@ -1,1 +1,0 @@
-{"tmdb_id": 349370, "title": "Terrorist 2", "original_title": "\ud14c\ub7ec\ub9ac\uc2a4\ud2b8 2", "slug_title": "terrorist-2", "date": "1997-08-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

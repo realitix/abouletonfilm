@@ -1,1 +1,0 @@
-{"tmdb_id": 249992, "title": "The Real Boonie and Clyde", "original_title": "The Real Boonie and Clyde", "slug_title": "the-real-boonie-and-clyde", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/czEGNQn2U8K5kUWtgAgNURJG82A.jpg", "actors": [], "comments": [], "recommandations_id": []}

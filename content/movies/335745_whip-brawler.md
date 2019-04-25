@@ -1,1 +1,0 @@
-{"tmdb_id": 335745, "title": "Whip Brawler", "original_title": "Whip Brawler", "slug_title": "whip-brawler", "date": "2013-09-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 383878, "title": "La Flor al Culo", "original_title": "La Flor al Culo", "slug_title": "la-flor-al-culo", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

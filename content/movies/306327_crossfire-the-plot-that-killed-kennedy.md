@@ -1,1 +1,0 @@
-{"tmdb_id": 306327, "title": "Crossfire: The Plot that Killed Kennedy", "original_title": "Crossfire: The Plot that Killed Kennedy", "slug_title": "crossfire-the-plot-that-killed-kennedy", "date": "2014-10-14", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

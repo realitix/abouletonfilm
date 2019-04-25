@@ -1,1 +1,0 @@
-{"tmdb_id": 426196, "title": "My Life With a Robot", "original_title": "My Life With a Robot", "slug_title": "my-life-with-a-robot", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/quWwl2G0laTnxuJDIlV66Q6DwQd.jpg", "actors": ["Angelica Lim (Angelica Lim)"], "comments": [], "recommandations_id": []}

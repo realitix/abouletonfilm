@@ -1,1 +1,0 @@
-{"tmdb_id": 421828, "title": "Cockroach", "original_title": "Gikaburi", "slug_title": "cockroach", "date": "2001-07-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

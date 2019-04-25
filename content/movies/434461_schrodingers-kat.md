@@ -1,1 +1,0 @@
-{"tmdb_id": 434461, "title": "Schr\u00f6dingers Kat", "original_title": "Schr\u00f6dingers Kat", "slug_title": "schrodingers-kat", "date": "1990-07-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9dINKgsqxYdBLUQEwMfjD2gugAF.jpg", "actors": [], "comments": [], "recommandations_id": []}

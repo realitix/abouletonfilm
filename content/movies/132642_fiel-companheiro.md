@@ -1,1 +1,1 @@
-{"tmdb_id": 132642, "title": "Fiel Companheiro", "original_title": "Fiel Companheiro", "slug_title": "fiel-companheiro", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 132642, "title": "Fiel Companheiro", "original_title": "Fiel Companheiro", "slug_title": "fiel-companheiro", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

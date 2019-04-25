@@ -1,1 +1,0 @@
-{"tmdb_id": 276011, "title": "The Story of Amy Carmichael", "original_title": "The Story of Amy Carmichael", "slug_title": "the-story-of-amy-carmichael", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

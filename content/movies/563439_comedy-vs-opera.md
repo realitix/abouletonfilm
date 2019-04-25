@@ -1,1 +1,0 @@
-{"tmdb_id": 563439, "title": "Comedy vs Opera", "original_title": "Comedy vs Opera", "slug_title": "comedy-vs-opera", "date": "2016-12-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3gS57Rh6sqEeMjCUgtEQ1v5vErA.jpg", "actors": ["Amin Jensen (Himself)"], "comments": [], "recommandations_id": []}

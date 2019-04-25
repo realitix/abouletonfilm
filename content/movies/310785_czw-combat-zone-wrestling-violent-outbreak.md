@@ -1,1 +1,0 @@
-{"tmdb_id": 310785, "title": "CZW: Combat Zone Wrestling: Violent Outbreak", "original_title": "CZW: Combat Zone Wrestling: Violent Outbreak", "slug_title": "czw-combat-zone-wrestling-violent-outbreak", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

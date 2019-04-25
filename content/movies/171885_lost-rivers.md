@@ -1,1 +1,0 @@
-{"tmdb_id": 171885, "title": "Lost Rivers", "original_title": "Lost Rivers", "slug_title": "lost-rivers", "date": "2013-03-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5hJtjzZssYCkKs2s0D5gSERee66.jpg", "actors": [], "comments": [], "recommandations_id": []}

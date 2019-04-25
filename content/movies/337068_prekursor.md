@@ -1,1 +1,0 @@
-{"tmdb_id": 337068, "title": "Prekursor", "original_title": "Prekursor", "slug_title": "prekursor", "date": "1988-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/53hHK8MxQf5fQ4ot1PDjckyKK1W.jpg", "actors": [], "comments": [], "recommandations_id": []}

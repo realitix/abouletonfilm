@@ -1,1 +1,0 @@
-{"tmdb_id": 162551, "title": "Composition in Blue", "original_title": "Komposition in Blau", "slug_title": "composition-in-blue", "date": "1935-05-02", "genre": "", "score": "7.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dG8p1oW9UMeOF7oHu7FDqYsjSXH.jpg", "actors": [], "comments": [], "recommandations_id": [104806, 190081, 145619, 162512]}

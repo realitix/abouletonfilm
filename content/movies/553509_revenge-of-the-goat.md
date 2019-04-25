@@ -1,1 +1,0 @@
-{"tmdb_id": 553509, "title": "Revenge of the Goat", "original_title": "\u5c0f\u6587\u7a7a\u4ed4\u8207\u90a3\u96bb\u7f8a", "slug_title": "revenge-of-the-goat", "date": "2017-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8GUS8aqPlLTmvKzD82xfNw1VwNU.jpg", "actors": [], "comments": [], "recommandations_id": []}

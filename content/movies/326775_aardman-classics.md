@@ -1,1 +1,0 @@
-{"tmdb_id": 326775, "title": "Aardman Classics", "original_title": "Aardman Classics", "slug_title": "aardman-classics", "date": "2000-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q9eMKpEiRvlP9Fjji5JDeo7hIhC.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 511375, "title": "Anathema", "original_title": "Anathema", "slug_title": "anathema", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/keoEjEPsxc84dR4aLG7BEFo9R6s.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 281513, "title": "Dear John", "original_title": "Dear John", "slug_title": "dear-john", "date": "1988-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oats8rekHdPMzRVs1HGYNc6oFeS.jpg", "actors": ["Valerie Buhagiar (Janet)"], "comments": [], "recommandations_id": []}

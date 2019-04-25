@@ -1,1 +1,0 @@
-{"tmdb_id": 374127, "title": "Avengers Kang Dynasty", "original_title": "Avengers Kang Dynasty", "slug_title": "avengers-kang-dynasty", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

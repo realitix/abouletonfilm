@@ -1,1 +1,0 @@
-{"tmdb_id": 310302, "title": "Hair: Let the Sun Shine In", "original_title": "Hair: Let the Sun Shine In", "slug_title": "hair-let-the-sun-shine-in", "date": "2007-01-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1DszN5nA9zFz2V6SpmwBKD8SyKx.jpg", "actors": [], "comments": [], "recommandations_id": []}

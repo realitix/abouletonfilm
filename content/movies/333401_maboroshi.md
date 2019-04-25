@@ -1,1 +1,0 @@
-{"tmdb_id": 333401, "title": "Maboroshi", "original_title": "Maboroshi", "slug_title": "maboroshi", "date": "2014-03-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 506934, "title": "Kyounyuu Gibo", "original_title": "Kyounyuu Gibo", "slug_title": "kyounyuu-gibo", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,1 @@
-{"tmdb_id": 488163, "title": "Spacedogs", "original_title": "Spacedogs", "slug_title": "spacedogs", "date": "2017-10-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 488163, "title": "Spacedogs", "original_title": "Spacedogs", "slug_title": "spacedogs", "date": "2017-10-18", "genre": [""], "score": "0.0/10", "synopsis": "Superhero dogs", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

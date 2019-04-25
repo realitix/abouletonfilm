@@ -1,1 +1,0 @@
-{"tmdb_id": 328502, "title": "Wheat Harvest", "original_title": "\u9ea6\u6536", "slug_title": "wheat-harvest", "date": "2008-03-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cQ7YKROAa4nNmUDeZTOnRkE1oQX.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 588578, "title": "WWE WrestleMania", "original_title": "WWE WrestleMania", "slug_title": "wwe-wrestlemania", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

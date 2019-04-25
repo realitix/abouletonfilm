@@ -1,1 +1,0 @@
-{"tmdb_id": 402293, "title": "Kidney Thieves", "original_title": "Kidney Thieves", "slug_title": "kidney-thieves", "date": "2006-10-20", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ethan Embry (Guy)", "Paget Brewster (Melinda)", "Paul F. Tompkins (Dr. Fong)"], "comments": [], "recommandations_id": []}

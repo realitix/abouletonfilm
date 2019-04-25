@@ -1,1 +1,0 @@
-{"tmdb_id": 130421, "title": "Hanukkah", "original_title": "Hanukkah", "slug_title": "hanukkah", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lFxI1fSA964P9znbZhWzaNjt0CL.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 345717, "title": "Act of Kindness", "original_title": "Act of Kindness", "slug_title": "act-of-kindness", "date": "2015-07-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pvLLK5YynklXpEzqkiMNmHXrCBZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

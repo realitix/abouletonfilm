@@ -1,1 +1,0 @@
-{"tmdb_id": 568032, "title": "Merry Creepy Christmas", "original_title": "Merry Creepy Christmas", "slug_title": "merry-creepy-christmas", "date": "2018-12-12", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9qTrOBE29sjdk8QcuRIVZ84D7gR.jpg", "actors": [], "comments": [], "recommandations_id": []}

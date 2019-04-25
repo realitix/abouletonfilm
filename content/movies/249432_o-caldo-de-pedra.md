@@ -1,1 +1,0 @@
-{"tmdb_id": 249432, "title": "O Caldo de Pedra", "original_title": "O Caldo de Pedra", "slug_title": "o-caldo-de-pedra", "date": "1976-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ant\u00f3nio Assun\u00e7\u00e3o (Narrator)"], "comments": [], "recommandations_id": []}

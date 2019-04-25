@@ -1,1 +1,0 @@
-{"tmdb_id": 511669, "title": "Skinflick", "original_title": "Hautnah", "slug_title": "skinflick", "date": "2002-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9taxNzTKgjIhXILGcI66NnbRdRo.jpg", "actors": [], "comments": [], "recommandations_id": []}

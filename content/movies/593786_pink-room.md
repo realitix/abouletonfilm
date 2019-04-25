@@ -1,1 +1,0 @@
-{"tmdb_id": 593786, "title": "Pink Room", "original_title": "Cuarto Rosa", "slug_title": "pink-room", "date": "2018-06-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Andre Leon (Pablo)", "Enrique Rama (Alexis)"], "comments": [], "recommandations_id": []}

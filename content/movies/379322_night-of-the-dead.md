@@ -1,1 +1,0 @@
-{"tmdb_id": 379322, "title": "Night of the Dead", "original_title": "Night of the Dead", "slug_title": "night-of-the-dead", "date": "2012-01-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ctY00mLDy8x4sOFaijejPNfKB1Q.jpg", "actors": ["Shevaun Kastl (Leah)"], "comments": [], "recommandations_id": []}

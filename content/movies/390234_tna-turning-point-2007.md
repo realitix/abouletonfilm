@@ -1,1 +1,0 @@
-{"tmdb_id": 390234, "title": "TNA Turning Point 2007", "original_title": "TNA Turning Point 2007", "slug_title": "tna-turning-point-2007", "date": "2007-12-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aOYmbrDnzXxtNo1JmPE6s4oihHt.jpg", "actors": [], "comments": [], "recommandations_id": []}

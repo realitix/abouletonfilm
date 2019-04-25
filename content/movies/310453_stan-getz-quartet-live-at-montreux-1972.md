@@ -1,1 +1,0 @@
-{"tmdb_id": 310453, "title": "Stan Getz Quartet: Live at Montreux 1972", "original_title": "Stan Getz Quartet: Live at Montreux 1972", "slug_title": "stan-getz-quartet-live-at-montreux-1972", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

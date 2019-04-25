@@ -1,1 +1,0 @@
-{"tmdb_id": 506051, "title": "Mr. Bill's Magical Wetlands Tour", "original_title": "Mr. Bill's Magical Wetlands Tour", "slug_title": "mr-bill-s-magical-wetlands-tour", "date": "2009-08-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Walter Williams (Mr. Bill)", "Jonathan Henderson ()"], "comments": [], "recommandations_id": []}

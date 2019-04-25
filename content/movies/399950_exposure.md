@@ -1,1 +1,0 @@
-{"tmdb_id": 399950, "title": "Exposure", "original_title": "Exposure", "slug_title": "exposure", "date": "2015-10-17", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8jyyGO10bkhHL5swHTE52yCBMxQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

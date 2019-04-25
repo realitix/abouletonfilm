@@ -1,1 +1,0 @@
-{"tmdb_id": 452182, "title": "Extraction", "original_title": "Extraction", "slug_title": "extraction", "date": "2015-11-03", "genre": "Drame / Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mG0gUWYB1wDq2x5Gtn8UEd2ZsBL.jpg", "actors": [], "comments": [], "recommandations_id": []}

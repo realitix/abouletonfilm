@@ -1,1 +1,0 @@
-{"tmdb_id": 57208, "title": "Analog", "original_title": "Analog", "slug_title": "analog", "date": "", "genre": "Com\u00e9die / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Wentworth Miller ()"], "comments": [], "recommandations_id": []}

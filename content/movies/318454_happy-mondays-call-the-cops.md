@@ -1,1 +1,0 @@
-{"tmdb_id": 318454, "title": "Happy Mondays: Call the Cops", "original_title": "Happy Mondays: Call the Cops", "slug_title": "happy-mondays-call-the-cops", "date": "2008-10-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

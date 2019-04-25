@@ -1,1 +1,0 @@
-{"tmdb_id": 554727, "title": "The Dinner Party", "original_title": "The Dinner Party", "slug_title": "the-dinner-party", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 392182, "title": "Front Collision", "original_title": "Zderzenie czolowe", "slug_title": "front-collision", "date": "1975-01-01", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

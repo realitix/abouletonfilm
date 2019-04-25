@@ -1,1 +1,0 @@
-{"tmdb_id": 162715, "title": "Twenty Legs Under the Sea", "original_title": "Twenty Legs Under the Sea", "slug_title": "twenty-legs-under-the-sea", "date": "1931-06-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

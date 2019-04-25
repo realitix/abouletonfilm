@@ -1,1 +1,0 @@
-{"tmdb_id": 322251, "title": "One Way Out", "original_title": "One Way Out", "slug_title": "one-way-out", "date": "1988-10-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

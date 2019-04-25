@@ -1,1 +1,0 @@
-{"tmdb_id": 507774, "title": "Let's Be Together", "original_title": "Let's Be Together", "slug_title": "let-s-be-together", "date": "2008-11-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yO2gRcQWOM3bhs9cgVq7DI3Qdba.jpg", "actors": [], "comments": [], "recommandations_id": []}

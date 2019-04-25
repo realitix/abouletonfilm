@@ -1,1 +1,0 @@
-{"tmdb_id": 588742, "title": "Touching", "original_title": "Touching", "slug_title": "touching", "date": "1972-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

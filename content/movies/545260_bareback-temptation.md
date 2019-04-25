@@ -1,1 +1,0 @@
-{"tmdb_id": 545260, "title": "Bareback Temptation", "original_title": "Bareback Temptation", "slug_title": "bareback-temptation", "date": "2012-04-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fiKhOnLP7SieOWJY1nhbXPS6x6w.jpg", "actors": [], "comments": [], "recommandations_id": []}

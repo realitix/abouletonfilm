@@ -1,1 +1,0 @@
-{"tmdb_id": 192043, "title": "Il matrimonio di Figaro", "original_title": "Il matrimonio di Figaro", "slug_title": "il-matrimonio-di-figaro", "date": "1913-12-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

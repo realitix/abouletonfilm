@@ -1,1 +1,0 @@
-{"tmdb_id": 490442, "title": "Copacabana Beach", "original_title": "Copacabana Beach", "slug_title": "copacabana-beach", "date": "1983-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3wa7JGUB4JP8Bv0NDgbQ4byNkgH.jpg", "actors": [], "comments": [], "recommandations_id": []}

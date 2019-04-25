@@ -1,1 +1,0 @@
-{"tmdb_id": 253301, "title": "Beyond Clueless", "original_title": "Beyond Clueless", "slug_title": "beyond-clueless", "date": "2014-03-10", "genre": "Documentaire", "score": "6.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vp6aOmqXRQSNsbkW0u1fjtoy1Dt.jpg", "actors": ["Fairuza Balk (Narrator)"], "comments": [], "recommandations_id": [44885]}

@@ -1,1 +1,0 @@
-{"tmdb_id": 71621, "title": "Plug & Pray", "original_title": "Plug & Pray", "slug_title": "plug-pray", "date": "2010-11-11", "genre": "Documentaire", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ppsCgxTS1pSO95Kf2L3P5LAOaZY.jpg", "actors": [], "comments": [], "recommandations_id": []}

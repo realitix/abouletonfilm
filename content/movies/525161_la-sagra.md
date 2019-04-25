@@ -1,1 +1,0 @@
-{"tmdb_id": 525161, "title": "La Sagra", "original_title": "La Sagra", "slug_title": "la-sagra", "date": "1999-06-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

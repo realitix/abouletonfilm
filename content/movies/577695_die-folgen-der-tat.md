@@ -1,1 +1,0 @@
-{"tmdb_id": 577695, "title": "Die Folgen der Tat", "original_title": "Die Folgen der Tat", "slug_title": "die-folgen-der-tat", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Julia Albrecht (Herself)", "Christa Albrecht (Herself)"], "comments": [], "recommandations_id": []}

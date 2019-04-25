@@ -1,1 +1,0 @@
-{"tmdb_id": 556325, "title": "La lueur dans les t\u00e9n\u00e8bres", "original_title": "La lueur dans les t\u00e9n\u00e8bres", "slug_title": "la-lueur-dans-les-tenebres", "date": "1928-01-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

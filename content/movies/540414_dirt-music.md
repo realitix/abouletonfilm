@@ -1,1 +1,0 @@
-{"tmdb_id": 540414, "title": "Dirt Music", "original_title": "Dirt Music", "slug_title": "dirt-music", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kelly Macdonald (Georgie)", "Garrett Hedlund (Luther)"], "comments": [], "recommandations_id": []}

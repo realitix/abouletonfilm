@@ -1,1 +1,0 @@
-{"tmdb_id": 476836, "title": "The Earth", "original_title": "Zemlja", "slug_title": "the-earth", "date": "1961-12-27", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pzAlHNWiaZWW1L1LwkWxrlTjD6H.jpg", "actors": [], "comments": [], "recommandations_id": []}

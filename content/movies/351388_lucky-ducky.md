@@ -1,1 +1,0 @@
-{"tmdb_id": 351388, "title": "Lucky Ducky", "original_title": "Lucky Ducky", "slug_title": "lucky-ducky", "date": "1940-09-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

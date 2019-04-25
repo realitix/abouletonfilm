@@ -1,1 +1,0 @@
-{"tmdb_id": 584352, "title": "27th Annual Movieguide Awards", "original_title": "27th Annual Movieguide Awards", "slug_title": "27th-annual-movieguide-awards", "date": "2019-02-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

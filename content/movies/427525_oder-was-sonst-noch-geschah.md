@@ -1,1 +1,0 @@
-{"tmdb_id": 427525, "title": "Oder was sonst noch geschah", "original_title": "Oder was sonst noch geschah", "slug_title": "oder-was-sonst-noch-geschah", "date": "1982-02-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Irina Hoppe ()"], "comments": [], "recommandations_id": []}

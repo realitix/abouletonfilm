@@ -1,1 +1,0 @@
-{"tmdb_id": 402305, "title": "Sacrifice at Pearl Harbor", "original_title": "Sacrifice at Pearl Harbor", "slug_title": "sacrifice-at-pearl-harbor", "date": "1989-12-01", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aqzaWednN8eOuPwKXa4eUPKRzz4.jpg", "actors": [], "comments": [], "recommandations_id": []}

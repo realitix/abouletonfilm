@@ -1,1 +1,0 @@
-{"tmdb_id": 484669, "title": "Una herencia de Par\u00eds", "original_title": "Una herencia de Par\u00eds", "slug_title": "una-herencia-de-paris", "date": "1944-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

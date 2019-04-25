@@ -1,1 +1,0 @@
-{"tmdb_id": 585873, "title": "The Lead Actor", "original_title": "El Actor Principal", "slug_title": "the-lead-actor", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sof\u00eda Espinosa ()", "Marcelo Cer\u00f3n ()", "Antonio Vega ()"], "comments": [], "recommandations_id": []}

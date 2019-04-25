@@ -1,1 +1,0 @@
-{"tmdb_id": 301605, "title": "Playing For Change - Live", "original_title": "Playing For Change - Live", "slug_title": "playing-for-change-live", "date": "2010-06-15", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ofVh8eaCTKcMG8cA5kKC6I1wvCF.jpg", "actors": [], "comments": [], "recommandations_id": []}

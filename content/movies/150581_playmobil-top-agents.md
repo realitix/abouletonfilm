@@ -1,1 +1,0 @@
-{"tmdb_id": 150581, "title": "Playmobil: Top Agents", "original_title": "Playmobil: Top Agents", "slug_title": "playmobil-top-agents", "date": "2011-12-31", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jgXpWGK2W81YHjLBNc4pAmXj6Yb.jpg", "actors": [], "comments": [], "recommandations_id": []}

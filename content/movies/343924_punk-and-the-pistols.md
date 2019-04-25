@@ -1,1 +1,0 @@
-{"tmdb_id": 343924, "title": "Punk and the Pistols", "original_title": "Punk and the Pistols", "slug_title": "punk-and-the-pistols", "date": "", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

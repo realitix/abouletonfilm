@@ -1,1 +1,0 @@
-{"tmdb_id": 358931, "title": "Induction", "original_title": "Induction", "slug_title": "induction", "date": "2006-09-09", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

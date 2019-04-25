@@ -1,1 +1,0 @@
-{"tmdb_id": 469958, "title": "North Timan", "original_title": "North Timan", "slug_title": "north-timan", "date": "1976-08-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iLfxnWa5qDtUzwF5pTAov1rJi3Y.jpg", "actors": [], "comments": [], "recommandations_id": []}

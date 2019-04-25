@@ -1,1 +1,0 @@
-{"tmdb_id": 308523, "title": "Rendu Rellu Naluge", "original_title": "Rendu Rellu Naluge", "slug_title": "rendu-rellu-naluge", "date": "2014-12-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

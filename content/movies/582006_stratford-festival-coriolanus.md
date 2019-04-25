@@ -1,1 +1,0 @@
-{"tmdb_id": 582006, "title": "Stratford Festival: Coriolanus", "original_title": "Stratford Festival: Coriolanus", "slug_title": "stratford-festival-coriolanus", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gxfIytcF9L2cAtV2OakUMHed3aC.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,1 @@
-{"tmdb_id": 322347, "title": "Keechurallu", "original_title": "Keechurallu", "slug_title": "keechurallu", "date": "1991-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 322347, "title": "Keechurallu", "original_title": "Keechurallu", "slug_title": "keechurallu", "date": "1991-01-01", "genre": [""], "score": "0.0/10", "synopsis": "1991 Indian Film", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

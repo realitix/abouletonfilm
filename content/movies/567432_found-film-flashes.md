@@ -1,1 +1,0 @@
-{"tmdb_id": 567432, "title": "Found Film Flashes", "original_title": "Found Film Flashes", "slug_title": "found-film-flashes", "date": "1973-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

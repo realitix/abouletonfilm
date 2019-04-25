@@ -1,1 +1,0 @@
-{"tmdb_id": 517850, "title": "schau ins land", "original_title": "schau ins land", "slug_title": "schau-ins-land", "date": "", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3xVHMrCyDHNcMulckhGRBgJOFYF.jpg", "actors": [], "comments": [], "recommandations_id": []}

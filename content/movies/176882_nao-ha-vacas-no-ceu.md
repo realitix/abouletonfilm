@@ -1,1 +1,0 @@
-{"tmdb_id": 176882, "title": "N\u00e3o h\u00e1 Vacas no C\u00e9u", "original_title": "N\u00e3o h\u00e1 Vacas no C\u00e9u", "slug_title": "nao-ha-vacas-no-ceu", "date": "2012-03-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/953GUyTubP0Ge07wg2CjrYbPjZl.jpg", "actors": [], "comments": [], "recommandations_id": []}

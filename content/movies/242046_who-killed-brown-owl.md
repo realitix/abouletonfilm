@@ -1,1 +1,0 @@
-{"tmdb_id": 242046, "title": "Who Killed Brown Owl?", "original_title": "Who Killed Brown Owl?", "slug_title": "who-killed-brown-owl", "date": "2004-01-01", "genre": "Com\u00e9die / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

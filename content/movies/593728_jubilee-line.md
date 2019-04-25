@@ -1,1 +1,0 @@
-{"tmdb_id": 593728, "title": "Jubilee Line", "original_title": "Jubilee Line", "slug_title": "jubilee-line", "date": "2007-04-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tbtxSfLxMhuv51Y9AibbctY1JLj.jpg", "actors": [], "comments": [], "recommandations_id": []}

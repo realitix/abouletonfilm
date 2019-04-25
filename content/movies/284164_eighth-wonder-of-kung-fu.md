@@ -1,1 +1,0 @@
-{"tmdb_id": 284164, "title": "Eighth Wonder of Kung Fu", "original_title": "Fei qin zou shou shi san xing", "slug_title": "eighth-wonder-of-kung-fu", "date": "1979-10-19", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5YXSRfyKvo9eScJYEVm1kPb5r7i.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 589237, "title": "Too Pretty to Live", "original_title": "Too Pretty to Live", "slug_title": "too-pretty-to-live", "date": "2016-02-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xFL71q43Bt1JtZim5Y7uwshbkQb.jpg", "actors": [], "comments": [], "recommandations_id": []}

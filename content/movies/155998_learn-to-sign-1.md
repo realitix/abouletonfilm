@@ -1,1 +1,0 @@
-{"tmdb_id": 155998, "title": "Learn to Sign 1", "original_title": "Learn to Sign 1", "slug_title": "learn-to-sign-1", "date": "2012-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8VoXb9zmfgWWiy6PKZF61FwA9Pm.jpg", "actors": ["Rachel Coleman (Herself)"], "comments": [], "recommandations_id": []}

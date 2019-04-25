@@ -1,1 +1,0 @@
-{"tmdb_id": 507108, "title": "Inside Out", "original_title": "Inside Out", "slug_title": "inside-out", "date": "", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

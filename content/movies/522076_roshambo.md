@@ -1,1 +1,0 @@
-{"tmdb_id": 522076, "title": "Roshambo", "original_title": "Roshambo", "slug_title": "roshambo", "date": "2013-02-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6CZOZ2huuxTPQIKiKX97I2ITLuF.jpg", "actors": ["Christopher Abbott (Chris)", "Sheila M\u00e1rquez (Sheila)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 429720, "title": "Pubescence", "original_title": "\u9752\u6625\u671f", "slug_title": "pubescence", "date": "2011-07-20", "genre": "Com\u00e9die / Drame", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9TM63ZtlQyLI0Mv3ojAqHf3KvAk.jpg", "actors": ["Zhao YiHuan (Cheng Xiaoyu)"], "comments": [], "recommandations_id": []}

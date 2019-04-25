@@ -1,1 +1,0 @@
-{"tmdb_id": 505022, "title": "SAGENHAFT - DIE WACHAU", "original_title": "SAGENHAFT - DIE WACHAU", "slug_title": "sagenhaft-die-wachau", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 565099, "title": "Valemon", "original_title": "\u0412\u0430\u043b\u0435\u043c\u043e\u043d", "slug_title": "valemon", "date": "2017-03-17", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mZAcZdsO2wykWlwAiSymf3JKwmT.jpg", "actors": [], "comments": [], "recommandations_id": []}

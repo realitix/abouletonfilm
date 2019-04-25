@@ -1,1 +1,0 @@
-{"tmdb_id": 303410, "title": "Kadal Pura", "original_title": "Kadal Pura", "slug_title": "kadal-pura", "date": "1993-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Babu Ganesh ()"], "comments": [], "recommandations_id": []}

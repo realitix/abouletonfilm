@@ -1,1 +1,0 @@
-{"tmdb_id": 346077, "title": "Glorious", "original_title": "Glorious", "slug_title": "glorious", "date": "2008-11-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v9pmkfFIAmTUfIeBSvzCxuPkCRW.jpg", "actors": [], "comments": [], "recommandations_id": []}

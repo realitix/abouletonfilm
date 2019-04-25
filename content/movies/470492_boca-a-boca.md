@@ -1,1 +1,0 @@
-{"tmdb_id": 470492, "title": "Boca a Boca", "original_title": "Boca a Boca", "slug_title": "boca-a-boca", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

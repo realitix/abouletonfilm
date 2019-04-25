@@ -1,1 +1,0 @@
-{"tmdb_id": 290315, "title": "Johnny Wadd", "original_title": "Johnny Wadd", "slug_title": "johnny-wadd", "date": "1971-10-05", "genre": "Myst\u00e8re", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iWXv5TFWt5EPejbBrzHheTU4o5I.jpg", "actors": ["John Holmes (Johnny Wadd)"], "comments": [], "recommandations_id": []}

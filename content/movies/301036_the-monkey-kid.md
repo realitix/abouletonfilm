@@ -1,1 +1,0 @@
-{"tmdb_id": 301036, "title": "The Monkey Kid", "original_title": "The Monkey Kid", "slug_title": "the-monkey-kid", "date": "1995-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cbWM4ldxWV7gzdQ19fLWbCq2r4x.jpg", "actors": [], "comments": [], "recommandations_id": []}

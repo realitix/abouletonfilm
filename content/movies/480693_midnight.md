@@ -1,1 +1,0 @@
-{"tmdb_id": 480693, "title": "Midnight", "original_title": "P\u016flnoc", "slug_title": "midnight", "date": "2010-10-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

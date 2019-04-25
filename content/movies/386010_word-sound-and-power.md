@@ -1,1 +1,0 @@
-{"tmdb_id": 386010, "title": "Word, Sound and Power", "original_title": "Word, Sound and Power", "slug_title": "word-sound-and-power", "date": "1980-01-01", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9bJTjoeqGz8lAyvbx09FJTHsQmz.jpg", "actors": [], "comments": [], "recommandations_id": []}

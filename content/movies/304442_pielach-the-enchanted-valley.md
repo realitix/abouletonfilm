@@ -1,1 +1,0 @@
-{"tmdb_id": 304442, "title": "Pielach - The Enchanted Valley", "original_title": "Pielach - The Enchanted Valley", "slug_title": "pielach-the-enchanted-valley", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 493072, "title": "Neighborhood Tokyo", "original_title": "Neighborhood Tokyo", "slug_title": "neighborhood-tokyo", "date": "1992-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

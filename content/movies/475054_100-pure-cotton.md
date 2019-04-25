@@ -1,1 +1,0 @@
-{"tmdb_id": 475054, "title": "100% Pure Cotton", "original_title": "100% Puro algod\u00f3n", "slug_title": "100-pure-cotton", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fVenZ3X4EDu7c1hmZvlRstLldnv.jpg", "actors": [], "comments": [], "recommandations_id": []}

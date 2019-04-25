@@ -1,1 +1,0 @@
-{"tmdb_id": 280647, "title": "Kung Pingu", "original_title": "Kung Pingu", "slug_title": "kung-pingu", "date": "1998-07-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

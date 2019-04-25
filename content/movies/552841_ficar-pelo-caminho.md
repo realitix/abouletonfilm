@@ -1,1 +1,0 @@
-{"tmdb_id": 552841, "title": "Ficar pelo Caminho", "original_title": "Ficar pelo Caminho", "slug_title": "ficar-pelo-caminho", "date": "2018-10-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

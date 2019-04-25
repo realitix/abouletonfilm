@@ -1,1 +1,0 @@
-{"tmdb_id": 174894, "title": "Bobby Bumps Puts a Beanery on the Bum", "original_title": "Bobby Bumps Puts a Beanery on the Bum", "slug_title": "bobby-bumps-puts-a-beanery-on-the-bum", "date": "1918-12-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

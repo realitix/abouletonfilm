@@ -1,1 +1,0 @@
-{"tmdb_id": 534183, "title": "O Ladr\u00e3o do P\u00e3o", "original_title": "O Ladr\u00e3o do P\u00e3o", "slug_title": "o-ladrao-do-pao", "date": "1979-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yrmKqu2tRVKlhDVN4WGss6Dc7AF.jpg", "actors": [], "comments": [], "recommandations_id": []}

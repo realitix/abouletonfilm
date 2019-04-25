@@ -1,1 +1,0 @@
-{"tmdb_id": 479561, "title": "Lieselotte", "original_title": "Lieselotte", "slug_title": "lieselotte", "date": "1998-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Alexander Lutz (Nico)", "Sonsee Neu (Susanne)", "Nicole Beutler ()", "Nicholas Ofczarek (Manfred)"], "comments": [], "recommandations_id": []}

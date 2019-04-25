@@ -1,1 +1,0 @@
-{"tmdb_id": 550119, "title": "I'VE in BUDOKAN 2009~Departed to the future~", "original_title": "I'VE in BUDOKAN 2009~Departed to the future~", "slug_title": "i-ve-in-budokan-2009-departed-to-the-future", "date": "2009-08-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

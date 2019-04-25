@@ -1,1 +1,0 @@
-{"tmdb_id": 326059, "title": "Sea Without Shore", "original_title": "Sea Without Shore", "slug_title": "sea-without-shore", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mMawYlT6TDHN8MFmz5Q39rsie7G.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 552454, "title": "Bye Bye Acropolis", "original_title": "Bye Bye Acropolis", "slug_title": "bye-bye-acropolis", "date": "2018-10-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

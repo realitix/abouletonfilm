@@ -1,1 +1,0 @@
-{"tmdb_id": 362568, "title": "The World of Dong Kingman", "original_title": "The World of Dong Kingman", "slug_title": "the-world-of-dong-kingman", "date": "1953-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dong Kingman (Himself)"], "comments": [], "recommandations_id": []}

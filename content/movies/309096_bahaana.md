@@ -1,1 +1,0 @@
-{"tmdb_id": 309096, "title": "Bahaana", "original_title": "Bahaana", "slug_title": "bahaana", "date": "1960-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

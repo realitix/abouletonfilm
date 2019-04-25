@@ -1,1 +1,0 @@
-{"tmdb_id": 154879, "title": "Neecha Nagar", "original_title": "\u0928\u0940\u091a\u093e \u0928\u0917\u0930", "slug_title": "neecha-nagar", "date": "1946-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AvqVuC1UhpWgsX9yi0SkcbAWvpb.jpg", "actors": ["Rafiq Anwar (Balraj)"], "comments": [], "recommandations_id": []}

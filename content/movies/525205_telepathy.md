@@ -1,1 +1,0 @@
-{"tmdb_id": 525205, "title": "Telepathy", "original_title": "Telepathy", "slug_title": "telepathy", "date": "2015-01-01", "genre": "Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vIgnlAEOtxOohiHGLWTFkQhIiwr.jpg", "actors": [], "comments": [], "recommandations_id": []}

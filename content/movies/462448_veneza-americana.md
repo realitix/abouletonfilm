@@ -1,1 +1,0 @@
-{"tmdb_id": 462448, "title": "Veneza Americana", "original_title": "Veneza Americana", "slug_title": "veneza-americana", "date": "1925-01-18", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rQIuShNHA3jWqomcVPXymhyU7Lf.jpg", "actors": [], "comments": [], "recommandations_id": []}

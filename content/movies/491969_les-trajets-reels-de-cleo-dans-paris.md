@@ -1,1 +1,0 @@
-{"tmdb_id": 491969, "title": "Les trajets r\u00e9els de Cl\u00e9o dans Paris", "original_title": "Les trajets r\u00e9els de Cl\u00e9o dans Paris", "slug_title": "les-trajets-reels-de-cleo-dans-paris", "date": "2005-01-01", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

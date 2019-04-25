@@ -1,1 +1,0 @@
-{"tmdb_id": 512767, "title": "La sequenza del fiore di carta", "original_title": "La sequenza del fiore di carta", "slug_title": "la-sequenza-del-fiore-di-carta", "date": "1969-05-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ninetto Davoli (Riccetto)"], "comments": [], "recommandations_id": []}

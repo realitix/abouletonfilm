@@ -1,1 +1,0 @@
-{"tmdb_id": 589959, "title": "I.M.A Gujju", "original_title": "I.M.A Gujju", "slug_title": "i-m-a-gujju", "date": "2018-11-16", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rohit Roy (Siddhraj Zala)", "Manoj Joshi (Ramesh Shah)", "Sunny Pancholi (Jay Shah)"], "comments": [], "recommandations_id": []}

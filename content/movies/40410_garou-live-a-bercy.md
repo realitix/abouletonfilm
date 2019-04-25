@@ -1,1 +1,0 @@
-{"tmdb_id": 40410, "title": "Garou - Live \u00e0 Bercy", "original_title": "Garou - Live \u00e0 Bercy", "slug_title": "garou-live-a-bercy", "date": "2002-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b5QpPYVCyY3Jqo5BFQvnlo4ybGe.jpg", "actors": [], "comments": [], "recommandations_id": []}

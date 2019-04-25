@@ -1,1 +1,0 @@
-{"tmdb_id": 220256, "title": "Jo\u00e3o Saldanha", "original_title": "Jo\u00e3o Saldanha", "slug_title": "joao-saldanha", "date": "2012-10-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/td6ijWTKdrmHpHxiFreSEM3ellD.jpg", "actors": ["Jo\u00e3o Saldanha ()"], "comments": [], "recommandations_id": []}

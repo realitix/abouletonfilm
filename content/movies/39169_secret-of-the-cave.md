@@ -1,1 +1,0 @@
-{"tmdb_id": 39169, "title": "Secret of the Cave", "original_title": "Secret of the Cave", "slug_title": "secret-of-the-cave", "date": "2006-09-01", "genre": "Drame / Familial", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oIGqC8koEf1wkfHCAAWsF4vZ9Sb.jpg", "actors": [], "comments": [], "recommandations_id": []}

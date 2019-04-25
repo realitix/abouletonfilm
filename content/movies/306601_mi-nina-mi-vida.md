@@ -1,1 +1,0 @@
-{"tmdb_id": 306601, "title": "Mi ni\u00f1a mi vida", "original_title": "Mi ni\u00f1a mi vida", "slug_title": "mi-nina-mi-vida", "date": "2014-01-17", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 47999, "title": "Kiss My Blood", "original_title": "Kiss My Blood", "slug_title": "kiss-my-blood", "date": "1991-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uqQa9HWd5tyghxE4SnfLvxI0ubV.jpg", "actors": ["Iggy Pop ()"], "comments": [], "recommandations_id": []}

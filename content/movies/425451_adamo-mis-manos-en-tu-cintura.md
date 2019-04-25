@@ -1,1 +1,0 @@
-{"tmdb_id": 425451, "title": "Adamo: Mis Manos en Tu Cintura", "original_title": "Adamo: Mis Manos en Tu Cintura", "slug_title": "adamo-mis-manos-en-tu-cintura", "date": "2005-04-24", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Salvatore Adamo ()"], "comments": [], "recommandations_id": []}

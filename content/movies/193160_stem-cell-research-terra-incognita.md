@@ -1,1 +1,0 @@
-{"tmdb_id": 193160, "title": "Stem Cell Research: Terra Incognita", "original_title": "Stem Cell Research: Terra Incognita", "slug_title": "stem-cell-research-terra-incognita", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

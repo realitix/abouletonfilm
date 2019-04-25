@@ -1,1 +1,0 @@
-{"tmdb_id": 392110, "title": "Taking Moses for a Ride", "original_title": "Kyyti\u00e4 Moosekselle", "slug_title": "taking-moses-for-a-ride", "date": "2001-09-21", "genre": "Com\u00e9die / Drame / Familial", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

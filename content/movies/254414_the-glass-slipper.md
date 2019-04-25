@@ -1,1 +1,0 @@
-{"tmdb_id": 254414, "title": "The Glass Slipper", "original_title": "The Glass Slipper", "slug_title": "the-glass-slipper", "date": "1938-10-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

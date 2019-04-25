@@ -1,1 +1,0 @@
-{"tmdb_id": 501961, "title": "In A League Of Their Own", "original_title": "In A League Of Their Own", "slug_title": "in-a-league-of-their-own", "date": "2004-06-21", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Margot McCuaig (Herself)", "Neil Lennon (Himself)"], "comments": [], "recommandations_id": []}

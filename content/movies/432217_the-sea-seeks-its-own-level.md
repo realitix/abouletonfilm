@@ -1,1 +1,0 @@
-{"tmdb_id": 432217, "title": "The Sea Seeks Its Own Level", "original_title": "The Sea Seeks Its Own Level", "slug_title": "the-sea-seeks-its-own-level", "date": "2013-08-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sPxBSflB9QoL7jFJOZnV0r0gaCi.jpg", "actors": [], "comments": [], "recommandations_id": []}

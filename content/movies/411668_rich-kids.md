@@ -1,1 +1,0 @@
-{"tmdb_id": 411668, "title": "Rich Kids", "original_title": "Rich Kids", "slug_title": "rich-kids", "date": "2018-04-06", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7BrCllrhm1vxW2zmCFPY205vK6k.jpg", "actors": ["Kenneth Wayne Bradley (Daryl)", "Ricky Catter (Ernesto)"], "comments": [], "recommandations_id": []}

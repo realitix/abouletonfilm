@@ -1,1 +1,0 @@
-{"tmdb_id": 395866, "title": "Skeletons", "original_title": "Skeletons", "slug_title": "skeletons", "date": "1979-05-03", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uCASVdJCw39Mmqao02dFk3FXbL2.jpg", "actors": [], "comments": [], "recommandations_id": []}

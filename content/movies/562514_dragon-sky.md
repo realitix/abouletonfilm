@@ -1,1 +1,0 @@
-{"tmdb_id": 562514, "title": "Dragon Sky", "original_title": "L'oiseau de paradis", "slug_title": "dragon-sky", "date": "1962-10-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zw48iXtSSjJW8JMg51QpuC1zrxE.jpg", "actors": [], "comments": [], "recommandations_id": []}

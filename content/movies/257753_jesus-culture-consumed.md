@@ -1,1 +1,0 @@
-{"tmdb_id": 257753, "title": "Jesus Culture - CONSUMED", "original_title": "Jesus Culture - CONSUMED", "slug_title": "jesus-culture-consumed", "date": "2009-03-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2eHQxT3UodCqUVVHa3s91AwGZeK.jpg", "actors": [], "comments": [], "recommandations_id": []}

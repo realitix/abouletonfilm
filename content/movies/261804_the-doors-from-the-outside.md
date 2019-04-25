@@ -1,1 +1,0 @@
-{"tmdb_id": 261804, "title": "The Doors: From The Outside", "original_title": "The Doors: From The Outside", "slug_title": "the-doors-from-the-outside", "date": "2009-07-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g2M5AiN10gEVYMpez1I84VdJdR2.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 594014, "title": "The Age of Awakening", "original_title": "\u524d\u9032", "slug_title": "the-age-of-awakening", "date": "2018-05-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 310674, "title": "Lights, Action, Music", "original_title": "Lights, Action, Music", "slug_title": "lights-action-music", "date": "2007-08-06", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aMtRpOj6L8LHuYp9tV4cf22Htv6.jpg", "actors": [], "comments": [], "recommandations_id": []}

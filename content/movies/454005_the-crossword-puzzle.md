@@ -1,1 +1,0 @@
-{"tmdb_id": 454005, "title": "The Crossword Puzzle", "original_title": "K\u0159\u00ed\u017eovka", "slug_title": "the-crossword-puzzle", "date": "2006-11-11", "genre": "Animation", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

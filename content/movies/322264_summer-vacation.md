@@ -1,1 +1,0 @@
-{"tmdb_id": 322264, "title": "Summer Vacation", "original_title": "Summer Vacation", "slug_title": "summer-vacation", "date": "2013-01-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

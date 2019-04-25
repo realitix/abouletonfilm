@@ -1,1 +1,0 @@
-{"tmdb_id": 278321, "title": "Ambition Without Honor 2", "original_title": "Jingi naki yab\u00f4 2", "slug_title": "ambition-without-honor-2", "date": "1997-06-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gRR6Zlrqgbcs4FcSteB252au42a.jpg", "actors": [], "comments": [], "recommandations_id": []}

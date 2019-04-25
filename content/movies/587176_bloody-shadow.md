@@ -1,1 +1,0 @@
-{"tmdb_id": 587176, "title": "Bloody Shadow", "original_title": "Bloody Shadow", "slug_title": "bloody-shadow", "date": "2019-03-05", "genre": "Horreur", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Nikolai Selikovsky ()", "Daniela Zacherl ()", "David White ()"], "comments": [], "recommandations_id": []}

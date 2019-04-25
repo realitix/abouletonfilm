@@ -1,1 +1,0 @@
-{"tmdb_id": 436562, "title": "Nouakchott Rocks", "original_title": "Nouakchott Rocks", "slug_title": "nouakchott-rocks", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/snEaSfUYFeA91LkIseHPOqI32uc.jpg", "actors": [], "comments": [], "recommandations_id": []}

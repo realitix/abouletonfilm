@@ -1,1 +1,0 @@
-{"tmdb_id": 592883, "title": "Zapatos Magn\u00e9ticos", "original_title": "Zapatos Magn\u00e9ticos", "slug_title": "zapatos-magneticos", "date": "1994-01-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 314766, "title": "Gods & Goddesses of India: Divine Stories for Children", "original_title": "Gods & Goddesses of India: Divine Stories for Children", "slug_title": "gods-goddesses-of-india-divine-stories-for-children", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 341703, "title": "Suiciders Beware!", "original_title": "Samomorilci, pozor!", "slug_title": "suiciders-beware", "date": "1967-05-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dRsAwFa29wi6iX9jFkRp8MUEaqY.jpg", "actors": [], "comments": [], "recommandations_id": []}

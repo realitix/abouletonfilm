@@ -1,1 +1,0 @@
-{"tmdb_id": 357770, "title": "Artwar Loop 1", "original_title": "Artwar Loop 1", "slug_title": "artwar-loop-1", "date": "1990-01-02", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3n7VskQaSR3s3iCF3LUkOi9AaFe.jpg", "actors": [], "comments": [], "recommandations_id": []}

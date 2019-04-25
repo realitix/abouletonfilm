@@ -1,1 +1,0 @@
-{"tmdb_id": 449791, "title": "Consolation", "original_title": "Consolation", "slug_title": "consolation", "date": "2015-09-06", "genre": "Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uJ1JPfSehfQLIZBbS9LJar2iraJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

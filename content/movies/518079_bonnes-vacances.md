@@ -1,1 +1,0 @@
-{"tmdb_id": 518079, "title": "Bonnes vacances", "original_title": "Bonnes vacances", "slug_title": "bonnes-vacances", "date": "1998-03-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rosy Varte ()", "Gaspard Ulliel (Jo\u00ebl)", "G\u00e9rard Hernandez ()"], "comments": [], "recommandations_id": []}

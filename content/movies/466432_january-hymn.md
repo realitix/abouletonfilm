@@ -1,1 +1,0 @@
-{"tmdb_id": 466432, "title": "January Hymn", "original_title": "January Hymn", "slug_title": "january-hymn", "date": "2015-07-01", "genre": "Drame", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

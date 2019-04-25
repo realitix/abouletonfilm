@@ -1,1 +1,0 @@
-{"tmdb_id": 357703, "title": "No Danube - Kurt Kren and His Films", "original_title": "Keine Donau - Kurt Kren und seine Filme", "slug_title": "no-danube-kurt-kren-and-his-films", "date": "1988-11-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

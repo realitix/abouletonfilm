@@ -1,1 +1,0 @@
-{"tmdb_id": 539093, "title": "A Man to Kill", "original_title": "L'homme \u00e0 abattre", "slug_title": "a-man-to-kill", "date": "1937-02-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9iwpxutkBMjOAijgGLfBmoDmfrr.jpg", "actors": [], "comments": [], "recommandations_id": []}

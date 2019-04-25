@@ -1,1 +1,0 @@
-{"tmdb_id": 488465, "title": "Gdansk: Part One", "original_title": "Gdansk: Part One", "slug_title": "gdansk-part-one", "date": "2017-11-21", "genre": "Fantastique / Guerre / Animation", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bPuToDnKlQDGoODLAFgWbMHuro1.jpg", "actors": [], "comments": [], "recommandations_id": []}

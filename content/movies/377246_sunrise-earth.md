@@ -1,1 +1,0 @@
-{"tmdb_id": 377246, "title": "Sunrise Earth", "original_title": "Sunrise Earth", "slug_title": "sunrise-earth", "date": "2004-01-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/psszSdd5CNxmlnVBFeAfY1MI6Jg.jpg", "actors": [], "comments": [], "recommandations_id": []}

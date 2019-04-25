@@ -1,1 +1,0 @@
-{"tmdb_id": 154648, "title": "Jojo - The Violet Mystery", "original_title": "Jojo, le myst\u00e8re violaine", "slug_title": "jojo-the-violet-mystery", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3Vmh5LB9fL6lIVr2cjHB87u9phN.jpg", "actors": [], "comments": [], "recommandations_id": []}

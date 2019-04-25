@@ -1,1 +1,0 @@
-{"tmdb_id": 331768, "title": "Fratpad Fratmen Ultimate Tribute", "original_title": "Fratpad Fratmen Ultimate Tribute", "slug_title": "fratpad-fratmen-ultimate-tribute", "date": "2015-03-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

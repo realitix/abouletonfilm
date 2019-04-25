@@ -1,1 +1,0 @@
-{"tmdb_id": 294739, "title": "Walang Rape sa Bontok", "original_title": "Walang Rape sa Bontok", "slug_title": "walang-rape-sa-bontok", "date": "2014-09-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4ZTyg4gyYCrHeATEmkrgkAr7KQx.jpg", "actors": [], "comments": [], "recommandations_id": []}

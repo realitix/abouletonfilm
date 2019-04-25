@@ -1,1 +1,0 @@
-{"tmdb_id": 303082, "title": "The Virgin of Pessac", "original_title": "La rosi\u00e8re de Pessac", "slug_title": "the-virgin-of-pessac", "date": "1969-05-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qbmYL609IWhW2BnOXlZEp7jrx7o.jpg", "actors": [], "comments": [], "recommandations_id": []}

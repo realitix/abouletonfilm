@@ -1,1 +1,0 @@
-{"tmdb_id": 475989, "title": "Sisters in the Life: First Love", "original_title": "Sisters in the Life: First Love", "slug_title": "sisters-in-the-life-first-love", "date": "1993-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

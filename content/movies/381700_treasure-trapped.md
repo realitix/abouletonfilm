@@ -1,1 +1,0 @@
-{"tmdb_id": 381700, "title": "Treasure Trapped", "original_title": "Treasure Trapped", "slug_title": "treasure-trapped", "date": "2014-12-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jcsht8AUcxwwb8URjqI9AkvfbZZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

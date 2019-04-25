@@ -1,1 +1,0 @@
-{"tmdb_id": 268596, "title": "Affitti Gray Vol. 1", "original_title": "Affitti Gray Vol. 1", "slug_title": "affitti-gray-vol-1", "date": "2007-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7Sd93fFynOK4JYPNHoOlXNbdhHC.jpg", "actors": [], "comments": [], "recommandations_id": []}

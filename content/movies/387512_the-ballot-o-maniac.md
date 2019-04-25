@@ -1,1 +1,0 @@
-{"tmdb_id": 387512, "title": "The Ballot-o-Maniac", "original_title": "The Ballot-o-Maniac", "slug_title": "the-ballot-o-maniac", "date": "1953-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Grant Munro (The Willing Worker)"], "comments": [], "recommandations_id": []}

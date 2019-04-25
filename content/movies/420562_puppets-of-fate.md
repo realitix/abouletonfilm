@@ -1,1 +1,0 @@
-{"tmdb_id": 420562, "title": "Puppets of Fate", "original_title": "Puppets of Fate", "slug_title": "puppets-of-fate", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

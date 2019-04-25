@@ -1,1 +1,0 @@
-{"tmdb_id": 188397, "title": "Versenkt und Vergessen", "original_title": "Versenkt und Vergessen", "slug_title": "versenkt-und-vergessen", "date": "2013-04-24", "genre": "Documentaire", "score": "8.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

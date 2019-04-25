@@ -1,1 +1,0 @@
-{"tmdb_id": 89441, "title": "V\u00e4ckelsem\u00f6te", "original_title": "V\u00e4ckelsem\u00f6te", "slug_title": "vackelsemote", "date": "2006-11-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p937JQfyLCEWdY2FS05KyLZdejH.jpg", "actors": ["Jonas Gardell (Himself)"], "comments": [], "recommandations_id": []}

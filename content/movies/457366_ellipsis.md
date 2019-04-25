@@ -1,1 +1,0 @@
-{"tmdb_id": 457366, "title": "Ellipsis", "original_title": "Ellipsis", "slug_title": "ellipsis", "date": "2018-02-15", "genre": "Romance / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e3S3UIOYYv76KxR9RS2O4oN9J5e.jpg", "actors": ["Emily Barclay (Viv)", "Benedict Samuel (Jasper)"], "comments": [], "recommandations_id": []}

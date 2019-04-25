@@ -1,1 +1,0 @@
-{"tmdb_id": 511686, "title": "The Staging Post", "original_title": "The Staging Post", "slug_title": "the-staging-post", "date": "2017-07-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aCFGHptNW30Cq8sCEovQVuqUTkw.jpg", "actors": [], "comments": [], "recommandations_id": []}

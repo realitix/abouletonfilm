@@ -1,1 +1,0 @@
-{"tmdb_id": 431219, "title": "The 12 Days of Krampus", "original_title": "The 12 Days of Krampus", "slug_title": "the-12-days-of-krampus", "date": "2015-12-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tINdM3Yg4MKtKuvS66xzMRhNqNS.jpg", "actors": [], "comments": [], "recommandations_id": []}

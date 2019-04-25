@@ -1,1 +1,0 @@
-{"tmdb_id": 244608, "title": "Beyond Me", "original_title": "Beyond Me", "slug_title": "beyond-me", "date": "2010-12-27", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bruce H. Lipton (himself)"], "comments": [], "recommandations_id": []}

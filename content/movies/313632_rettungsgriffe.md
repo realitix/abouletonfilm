@@ -1,1 +1,0 @@
-{"tmdb_id": 313632, "title": "Rettungsgriffe", "original_title": "Rettungsgriffe", "slug_title": "rettungsgriffe", "date": "2014-11-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

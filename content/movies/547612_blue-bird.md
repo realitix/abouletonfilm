@@ -1,1 +1,1 @@
-{"tmdb_id": 547612, "title": "Blue Bird", "original_title": "Blue Bird", "slug_title": "blue-bird", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 547612, "title": "Blue Bird", "original_title": "Blue Bird", "slug_title": "blue-bird", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "The scars of the heart tell a lifetime of stories.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

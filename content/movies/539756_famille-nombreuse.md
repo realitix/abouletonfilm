@@ -1,1 +1,0 @@
-{"tmdb_id": 539756, "title": "Famille nombreuse", "original_title": "Famille nombreuse", "slug_title": "famille-nombreuse", "date": "1934-10-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 311347, "title": "Chinese Travel: Shanghai", "original_title": "Chinese Travel: Shanghai", "slug_title": "chinese-travel-shanghai", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 84294, "title": "Dangerfreaks", "original_title": "Dangerfreaks", "slug_title": "dangerfreaks", "date": "1989-01-01", "genre": "Documentaire / Action", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/167bECCh1rQ9WIVRxKtmAjhz6eD.jpg", "actors": ["Grant Page ()", "Nick Tate ()"], "comments": [], "recommandations_id": []}

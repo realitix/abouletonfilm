@@ -1,1 +1,0 @@
-{"tmdb_id": 332717, "title": "The Bible on Trial", "original_title": "The Bible on Trial", "slug_title": "the-bible-on-trial", "date": "2011-07-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h8pRRWrHXrE6R8W4cEBjNFiAjQa.jpg", "actors": [], "comments": [], "recommandations_id": []}

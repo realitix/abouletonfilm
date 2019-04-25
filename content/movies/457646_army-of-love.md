@@ -1,1 +1,0 @@
-{"tmdb_id": 457646, "title": "Army of Love", "original_title": "Army of Love", "slug_title": "army-of-love", "date": "2016-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

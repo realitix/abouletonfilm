@@ -1,1 +1,0 @@
-{"tmdb_id": 578673, "title": "Bayiri, la patrie", "original_title": "Bayiri, la patrie", "slug_title": "bayiri-la-patrie", "date": "2017-06-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uPR4lvfRp3ZBlsRCtwGLVn5rzvy.jpg", "actors": [], "comments": [], "recommandations_id": []}

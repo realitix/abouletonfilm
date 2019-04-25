@@ -1,1 +1,0 @@
-{"tmdb_id": 537549, "title": "Footsteps of Gandhi: Home of God's Children", "original_title": "Footsteps of Gandhi: Home of God's Children", "slug_title": "footsteps-of-gandhi-home-of-god-s-children", "date": "2018-06-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

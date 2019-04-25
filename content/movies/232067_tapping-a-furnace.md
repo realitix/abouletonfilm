@@ -1,1 +1,0 @@
-{"tmdb_id": 232067, "title": "Tapping a Furnace", "original_title": "Tapping a Furnace", "slug_title": "tapping-a-furnace", "date": "1904-05-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

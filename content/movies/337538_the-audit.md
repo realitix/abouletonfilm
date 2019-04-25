@@ -1,1 +1,0 @@
-{"tmdb_id": 337538, "title": "The Audit", "original_title": "The Audit", "slug_title": "the-audit", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

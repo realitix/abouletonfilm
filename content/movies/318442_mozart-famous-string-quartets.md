@@ -1,1 +1,0 @@
-{"tmdb_id": 318442, "title": "Mozart: Famous String Quartets", "original_title": "Mozart: Famous String Quartets", "slug_title": "mozart-famous-string-quartets", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

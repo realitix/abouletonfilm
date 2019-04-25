@@ -1,1 +1,0 @@
-{"tmdb_id": 502646, "title": "Carceri d'invenzione. Piranesi", "original_title": "Carceri d'invenzione. Piranesi", "slug_title": "carceri-d-invenzione-piranesi", "date": "2009-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

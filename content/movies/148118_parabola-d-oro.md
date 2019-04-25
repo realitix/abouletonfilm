@@ -1,1 +1,0 @@
-{"tmdb_id": 148118, "title": "Parabola d'oro", "original_title": "Parabola d'oro", "slug_title": "parabola-d-oro", "date": "1955-12-21", "genre": "Documentaire", "score": "5.9/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hd5ylfICCbGYJqDN9BWgpzn3C3Q.jpg", "actors": [], "comments": [], "recommandations_id": [147312, 147159, 227289, 174298]}

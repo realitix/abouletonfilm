@@ -1,1 +1,0 @@
-{"tmdb_id": 547200, "title": "Tarzan and King Kong", "original_title": "Tarzan and King Kong", "slug_title": "tarzan-and-king-kong", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xE8beoJOKu1ffKC7685lXkQq4hL.jpg", "actors": [], "comments": [], "recommandations_id": []}

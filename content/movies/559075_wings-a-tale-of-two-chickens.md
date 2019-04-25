@@ -1,1 +1,0 @@
-{"tmdb_id": 559075, "title": "Wings: A Tale of Two Chickens", "original_title": "Wings: A Tale of Two Chickens", "slug_title": "wings-a-tale-of-two-chickens", "date": "1991-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vv8PFsX4xhoUVt3H1Y0zxsOJtEO.jpg", "actors": [], "comments": [], "recommandations_id": []}

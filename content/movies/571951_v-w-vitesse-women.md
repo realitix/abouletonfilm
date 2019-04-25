@@ -1,1 +1,0 @@
-{"tmdb_id": 571951, "title": "V.W. Vitesse Women", "original_title": "V.W. Vitesse Women", "slug_title": "v-w-vitesse-women", "date": "1974-01-01", "genre": "", "score": "0.0/10", "synopsis": "Un film de Claudine Eizykman", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mf401PeBXQpAzoWHe7PyDWpDuh1.jpg", "actors": [], "comments": [], "recommandations_id": []}

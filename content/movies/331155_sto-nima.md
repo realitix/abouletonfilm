@@ -1,1 +1,0 @@
-{"tmdb_id": 331155, "title": "Sto nima", "original_title": "Sto nima", "slug_title": "sto-nima", "date": "2014-05-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sXoKu5jKhAPdcVyD2npw2J1W54d.jpg", "actors": ["Alexis Tsipras (Himself)"], "comments": [], "recommandations_id": []}

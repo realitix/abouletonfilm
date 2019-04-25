@@ -1,1 +1,0 @@
-{"tmdb_id": 521529, "title": "Charlie's Place", "original_title": "Charlie's Place", "slug_title": "charlie-s-place", "date": "2018-04-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Phylicia Rash\u0101d (Narrator)"], "comments": [], "recommandations_id": []}

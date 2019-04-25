@@ -1,1 +1,0 @@
-{"tmdb_id": 561959, "title": "It's Adam's Fault", "original_title": "C'est la faute d'Adam", "slug_title": "it-s-adam-s-fault", "date": "1958-02-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dN5TqmbYvhhMKws3zwZgX3rfqHe.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 318408, "title": "Directors: Adrian Lyne", "original_title": "Directors: Adrian Lyne", "slug_title": "directors-adrian-lyne", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

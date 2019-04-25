@@ -1,1 +1,1 @@
-{"tmdb_id": 548566, "title": "\u642c\u8fc1", "original_title": "\u642c\u8fc1", "slug_title": "ban-qian", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 548566, "title": "\u642c\u8fc1", "original_title": "\u642c\u8fc1", "slug_title": "ban-qian", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

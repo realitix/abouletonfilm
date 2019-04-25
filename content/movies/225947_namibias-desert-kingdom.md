@@ -1,1 +1,0 @@
-{"tmdb_id": 225947, "title": "Namibia\u2019s Desert Kingdom", "original_title": "Namibia\u2019s Desert Kingdom", "slug_title": "namibias-desert-kingdom", "date": "2013-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hmWaSkkUZm8cFSQiSEqOjgZxSH9.jpg", "actors": [], "comments": [], "recommandations_id": []}

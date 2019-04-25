@@ -1,1 +1,0 @@
-{"tmdb_id": 429306, "title": "Behind the Spaceman", "original_title": "Behind the Spaceman", "slug_title": "behind-the-spaceman", "date": "1967-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

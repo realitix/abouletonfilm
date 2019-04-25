@@ -1,1 +1,0 @@
-{"tmdb_id": 302892, "title": "Kamaal Dhamaal", "original_title": "Kamaal Dhamaal", "slug_title": "kamaal-dhamaal", "date": "2004-04-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

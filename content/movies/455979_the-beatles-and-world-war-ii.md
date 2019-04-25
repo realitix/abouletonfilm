@@ -1,1 +1,0 @@
-{"tmdb_id": 455979, "title": "The Beatles And World War II", "original_title": "The Beatles And World War II", "slug_title": "the-beatles-and-world-war-ii", "date": "2017-05-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w0JrPLsHFmCmj2rFifQb188lzRN.jpg", "actors": [], "comments": [], "recommandations_id": []}

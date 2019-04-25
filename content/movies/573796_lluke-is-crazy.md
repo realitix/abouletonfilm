@@ -1,1 +1,0 @@
-{"tmdb_id": 573796, "title": "Lluke is crazy", "original_title": "Lluke is crazy", "slug_title": "lluke-is-crazy", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dwaI4z36LQY2qzNUU6wCFUuk21k.jpg", "actors": [], "comments": [], "recommandations_id": []}

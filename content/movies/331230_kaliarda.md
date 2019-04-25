@@ -1,1 +1,0 @@
-{"tmdb_id": 331230, "title": "Kaliarda", "original_title": "\u039a\u03b1\u03bb\u03b9\u03b1\u03c1\u03bd\u03c4\u03ac", "slug_title": "kaliarda", "date": "2015-03-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

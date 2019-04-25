@@ -1,1 +1,0 @@
-{"tmdb_id": 539745, "title": "Animal Farm", "original_title": "Animal Farm", "slug_title": "animal-farm", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

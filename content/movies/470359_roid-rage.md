@@ -1,1 +1,0 @@
-{"tmdb_id": 470359, "title": "Roid Rage", "original_title": "Roid Rage", "slug_title": "roid-rage", "date": "2011-02-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8tQQKb2wStBObFUD5NennU1ou0j.jpg", "actors": [], "comments": [], "recommandations_id": []}

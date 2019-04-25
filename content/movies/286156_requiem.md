@@ -1,1 +1,0 @@
-{"tmdb_id": 286156, "title": "Requiem", "original_title": "Requiem", "slug_title": "requiem", "date": "1989-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

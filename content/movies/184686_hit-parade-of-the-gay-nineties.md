@@ -1,1 +1,0 @@
-{"tmdb_id": 184686, "title": "Hit Parade of the Gay Nineties", "original_title": "Hit Parade of the Gay Nineties", "slug_title": "hit-parade-of-the-gay-nineties", "date": "1943-09-18", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

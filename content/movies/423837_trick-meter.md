@@ -1,1 +1,0 @@
-{"tmdb_id": 423837, "title": "Trick Meter", "original_title": "Trick Meter", "slug_title": "trick-meter", "date": "", "genre": "Science-Fiction", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 590943, "title": "Part 20: Second Year Slump", "original_title": "Part 20: Second Year Slump", "slug_title": "part-20-second-year-slump", "date": "2018-05-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vuq2M4INjSa1BjOpc81aj5Grqci.jpg", "actors": [], "comments": [], "recommandations_id": []}

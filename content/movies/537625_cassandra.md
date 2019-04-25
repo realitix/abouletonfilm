@@ -1,1 +1,0 @@
-{"tmdb_id": 537625, "title": "Cassandra", "original_title": "Cassandra", "slug_title": "cassandra", "date": "1989-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/epXaAfxXagTIJwLofhM2H2M9Ake.jpg", "actors": [], "comments": [], "recommandations_id": []}

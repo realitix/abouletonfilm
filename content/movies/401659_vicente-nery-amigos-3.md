@@ -1,1 +1,0 @@
-{"tmdb_id": 401659, "title": "Vicente Nery & Amigos 3", "original_title": "Vicente Nery & Amigos 3", "slug_title": "vicente-nery-amigos-3", "date": "2014-10-16", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lHkF5EpCC3JCIwscsxNDYz4M2lJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

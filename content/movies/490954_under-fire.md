@@ -1,1 +1,0 @@
-{"tmdb_id": 490954, "title": "Under Fire", "original_title": "Under Fire", "slug_title": "under-fire", "date": "1957-09-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/acJCcxkhaEx0vtBqslM8xpXQuaW.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 412128, "title": "Holding On To Jah", "original_title": "Holding On To Jah", "slug_title": "holding-on-to-jah", "date": "2011-07-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8FOKqlR3zUQ7vOfomdpMRWcsRhA.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 240365, "title": "To the People of the United States", "original_title": "To the People of the United States", "slug_title": "to-the-people-of-the-united-states", "date": "1943-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jean Hersholt ()"], "comments": [], "recommandations_id": []}

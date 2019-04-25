@@ -1,1 +1,0 @@
-{"tmdb_id": 313564, "title": "Paisa Yaar N Panga", "original_title": "Paisa Yaar N Panga", "slug_title": "paisa-yaar-n-panga", "date": "2014-08-01", "genre": "", "score": "8.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wnT5vgZ6bdRaL5GPyIFBg3fDeit.jpg", "actors": ["Flora Saini (Meera)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,1 @@
-{"tmdb_id": 538007, "title": "Pure White", "original_title": "Pure White", "slug_title": "pure-white", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 538007, "title": "Pure White", "original_title": "Pure White", "slug_title": "pure-white", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

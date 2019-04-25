@@ -1,1 +1,0 @@
-{"tmdb_id": 214034, "title": "As the Poet Said", "original_title": "As the Poet Said", "slug_title": "as-the-poet-said", "date": "2009-12-04", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zJRFc5qrmmfe1n5rUjRzQ5I0Ref.jpg", "actors": [], "comments": [], "recommandations_id": []}

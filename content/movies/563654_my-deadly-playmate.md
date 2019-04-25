@@ -1,1 +1,0 @@
-{"tmdb_id": 563654, "title": "My Deadly Playmate", "original_title": "My Deadly Playmate", "slug_title": "my-deadly-playmate", "date": "2018-09-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/16O1YCVBosG7HMjPNrY33ZonlDx.jpg", "actors": [], "comments": [], "recommandations_id": []}

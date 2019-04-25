@@ -1,1 +1,0 @@
-{"tmdb_id": 93420, "title": "Cunnamulla", "original_title": "Cunnamulla", "slug_title": "cunnamulla", "date": "2000-12-14", "genre": "Documentaire", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eyXXz9CgfrS0MWp91FVJVaHcPNd.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 270867, "title": "Riff Raff", "original_title": "Riff Raff", "slug_title": "riff-raff", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

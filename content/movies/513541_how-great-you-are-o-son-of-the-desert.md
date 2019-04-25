@@ -1,1 +1,0 @@
-{"tmdb_id": 513541, "title": "How Great You Are O Son of the Desert!", "original_title": "How Great You Are O Son of the Desert!", "slug_title": "how-great-you-are-o-son-of-the-desert", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

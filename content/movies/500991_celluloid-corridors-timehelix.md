@@ -1,1 +1,0 @@
-{"tmdb_id": 500991, "title": "Celluloid Corridors: Timehelix", "original_title": "Celluloid Corridors: Timehelix", "slug_title": "celluloid-corridors-timehelix", "date": "2018-02-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

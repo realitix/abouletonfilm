@@ -1,1 +1,0 @@
-{"tmdb_id": 163117, "title": "Mario Banana I", "original_title": "Mario Banana I", "slug_title": "mario-banana-i", "date": "1964-01-01", "genre": "Documentaire", "score": "4.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5jtefwUKC9eJeV5YDxkz7gC1ivm.jpg", "actors": ["Mario Montez (Mario)"], "comments": [], "recommandations_id": [187973, 168391]}

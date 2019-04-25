@@ -1,1 +1,0 @@
-{"tmdb_id": 186979, "title": "7enty 5ive - Pray for Mercy", "original_title": "7enty 5ive - Pray for Mercy", "slug_title": "7enty-5ive-pray-for-mercy", "date": "2007-08-23", "genre": "Horreur / Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Austin Basis (Crazy Call)"], "comments": [], "recommandations_id": []}

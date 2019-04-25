@@ -1,1 +1,0 @@
-{"tmdb_id": 411435, "title": "Committed", "original_title": "Committed", "slug_title": "committed", "date": "2014-02-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g8eeVrqT83iRtfi7ktnZXa67lCZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

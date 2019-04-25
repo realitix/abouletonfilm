@@ -1,1 +1,0 @@
-{"tmdb_id": 576502, "title": "Midnight Sun Film Festival", "original_title": "Sodankyl\u00e4n elokuvajuhlat", "slug_title": "midnight-sun-film-festival", "date": "1987-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Samuel Fuller ()", "Jonathan Demme ()"], "comments": [], "recommandations_id": []}

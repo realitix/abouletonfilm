@@ -1,1 +1,0 @@
-{"tmdb_id": 472080, "title": "European Diaries", "original_title": "European Diaries", "slug_title": "european-diaries", "date": "1967-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

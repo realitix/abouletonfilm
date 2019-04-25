@@ -1,1 +1,0 @@
-{"tmdb_id": 236643, "title": "Scrap the Japs", "original_title": "Scrap the Japs", "slug_title": "scrap-the-japs", "date": "1942-11-19", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3gcXghQucWwNdM8uXcULDV3jvD4.jpg", "actors": ["Jack Mercer (Popeye (voice))"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 433531, "title": "Surviving Indie", "original_title": "Surviving Indie", "slug_title": "surviving-indie", "date": "2016-12-19", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b4hRS2Td6yB1TocHdu2YNwHNgR2.jpg", "actors": [], "comments": [], "recommandations_id": []}

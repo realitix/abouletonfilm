@@ -1,1 +1,0 @@
-{"tmdb_id": 236492, "title": "Pest Pilot", "original_title": "Pest Pilot", "slug_title": "pest-pilot", "date": "1941-08-07", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qgDmsOeO4LQ9m488LZYDjcCntMx.jpg", "actors": ["Jack Mercer (Popeye, Pappy)"], "comments": [], "recommandations_id": []}

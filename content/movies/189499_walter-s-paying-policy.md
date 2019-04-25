@@ -1,1 +1,0 @@
-{"tmdb_id": 189499, "title": "Walter's Paying Policy", "original_title": "Walter's Paying Policy", "slug_title": "walter-s-paying-policy", "date": "1926-04-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Walter Forde ()"], "comments": [], "recommandations_id": []}

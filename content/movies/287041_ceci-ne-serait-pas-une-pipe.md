@@ -1,1 +1,0 @@
-{"tmdb_id": 287041, "title": "Ceci Ne Serait Pas Une Pipe", "original_title": "Ceci Ne Serait Pas Une Pipe", "slug_title": "ceci-ne-serait-pas-une-pipe", "date": "1970-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5xx1ALv91dF2crUO0xJLKUfWyZH.jpg", "actors": [], "comments": [], "recommandations_id": []}

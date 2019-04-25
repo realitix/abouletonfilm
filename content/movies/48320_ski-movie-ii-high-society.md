@@ -1,1 +1,0 @@
-{"tmdb_id": 48320, "title": "Ski Movie II: High Society", "original_title": "Ski Movie II: High Society", "slug_title": "ski-movie-ii-high-society", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qUprcPB2T3aXhpmh677ug7q3ul1.jpg", "actors": [], "comments": [], "recommandations_id": []}

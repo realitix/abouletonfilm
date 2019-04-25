@@ -1,1 +1,0 @@
-{"tmdb_id": 444871, "title": "Ready Steady Go! Vol. 3", "original_title": "Ready Steady Go! Vol. 3", "slug_title": "ready-steady-go-vol-3", "date": "", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iNF9TIBgKj33OHXAyEs9YO7STLr.jpg", "actors": [], "comments": [], "recommandations_id": []}

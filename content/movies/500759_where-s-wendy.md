@@ -1,1 +1,0 @@
-{"tmdb_id": 500759, "title": "Where's Wendy", "original_title": "Where's Wendy", "slug_title": "where-s-wendy", "date": "", "genre": "", "score": "3.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jpl2M0VzQvP2jTYV94wKukKJEbl.jpg", "actors": [], "comments": [], "recommandations_id": []}

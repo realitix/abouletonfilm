@@ -1,1 +1,0 @@
-{"tmdb_id": 507134, "title": "Nudie Cuties: Volume 63", "original_title": "Nudie Cuties: Volume 63", "slug_title": "nudie-cuties-volume-63", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

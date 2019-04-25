@@ -1,1 +1,0 @@
-{"tmdb_id": 368074, "title": "Beyond Titanic", "original_title": "Beyond Titanic", "slug_title": "beyond-titanic", "date": "1998-09-06", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Victor Garber (Narrator)"], "comments": [], "recommandations_id": []}

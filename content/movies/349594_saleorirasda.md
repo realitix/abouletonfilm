@@ -1,1 +1,0 @@
-{"tmdb_id": 349594, "title": "\uc0b4\uc5b4\ub9ac\ub78f\ub2e4", "original_title": "\uc0b4\uc5b4\ub9ac\ub78f\ub2e4", "slug_title": "saleorirasda", "date": "1993-08-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

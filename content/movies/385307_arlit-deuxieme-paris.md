@@ -1,1 +1,0 @@
-{"tmdb_id": 385307, "title": "Arlit, deuxi\u00e8me Paris", "original_title": "Arlit, deuxi\u00e8me Paris", "slug_title": "arlit-deuxieme-paris", "date": "2008-12-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9lmWmJ34QsMOMvkgAMLK3GEv9Ok.jpg", "actors": [], "comments": [], "recommandations_id": []}

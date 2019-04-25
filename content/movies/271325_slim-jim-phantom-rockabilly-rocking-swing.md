@@ -1,1 +1,0 @@
-{"tmdb_id": 271325, "title": "Slim Jim Phantom: Rockabilly Rocking Swing", "original_title": "Slim Jim Phantom: Rockabilly Rocking Swing", "slug_title": "slim-jim-phantom-rockabilly-rocking-swing", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

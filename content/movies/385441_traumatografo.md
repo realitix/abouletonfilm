@@ -1,1 +1,0 @@
-{"tmdb_id": 385441, "title": "Traumatografo", "original_title": "Traumatografo", "slug_title": "traumatografo", "date": "1973-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uuDlRyZgeoTCtrDB6s2wOovUV5P.jpg", "actors": [], "comments": [], "recommandations_id": []}

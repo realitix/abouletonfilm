@@ -1,1 +1,0 @@
-{"tmdb_id": 593438, "title": "The Yellow Wallpaper", "original_title": "The Yellow Wallpaper", "slug_title": "the-yellow-wallpaper", "date": "2013-01-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jane Merrow ()", "Mark Perison ()"], "comments": [], "recommandations_id": []}

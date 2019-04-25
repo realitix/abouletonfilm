@@ -1,1 +1,0 @@
-{"tmdb_id": 323918, "title": "Pleasureland", "original_title": "Pleasureland", "slug_title": "pleasureland", "date": "2001-03-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

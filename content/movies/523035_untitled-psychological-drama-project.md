@@ -1,1 +1,0 @@
-{"tmdb_id": 523035, "title": "untitled psychological drama project", "original_title": "untitled psychological drama project", "slug_title": "untitled-psychological-drama-project", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

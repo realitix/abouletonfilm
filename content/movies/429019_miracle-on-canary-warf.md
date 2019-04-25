@@ -1,1 +1,0 @@
-{"tmdb_id": 429019, "title": "Miracle on Canary Warf", "original_title": "Miracle on Canary Warf", "slug_title": "miracle-on-canary-warf", "date": "2016-06-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nI80mthmUdKTvBNrJyj7wj9dmnl.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 398502, "title": "Fighting the Red Baron", "original_title": "Fighting the Red Baron", "slug_title": "fighting-the-red-baron", "date": "", "genre": "Documentaire / Histoire / Guerre", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yNGuAqQOcgzUnBZOCw3kaKjf6El.jpg", "actors": [], "comments": [], "recommandations_id": []}

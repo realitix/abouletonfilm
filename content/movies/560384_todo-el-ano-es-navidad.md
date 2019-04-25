@@ -1,1 +1,0 @@
-{"tmdb_id": 560384, "title": "Todo el a\u00f1o es navidad", "original_title": "Todo el a\u00f1o es navidad", "slug_title": "todo-el-ano-es-navidad", "date": "2018-11-01", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eSwmuyPiaTerhEGQB1TBY4hU5Ga.jpg", "actors": [], "comments": [], "recommandations_id": []}

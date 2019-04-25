@@ -1,1 +1,0 @@
-{"tmdb_id": 232106, "title": "Testing a Rotary", "original_title": "Testing a Rotary", "slug_title": "testing-a-rotary", "date": "1904-05-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

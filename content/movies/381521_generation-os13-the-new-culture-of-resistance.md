@@ -1,1 +1,0 @@
-{"tmdb_id": 381521, "title": "Generation OS13: The New Culture of Resistance", "original_title": "Generation OS13: The New Culture of Resistance", "slug_title": "generation-os13-the-new-culture-of-resistance", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 512395, "title": "Sangre Seca", "original_title": "Sangre Seca", "slug_title": "sangre-seca", "date": "2017-03-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8y170viMqvjpvvuBgwMWPFZEUkq.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 508866, "title": "Monkey Farm", "original_title": "Monkey Farm", "slug_title": "monkey-farm", "date": "2017-10-10", "genre": "", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vKOFCC078ZCfjft4GcEhavxYsdp.jpg", "actors": [], "comments": [], "recommandations_id": []}

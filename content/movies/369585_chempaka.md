@@ -1,1 +1,0 @@
-{"tmdb_id": 369585, "title": "Chempaka", "original_title": "Chempaka", "slug_title": "chempaka", "date": "1947-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kasma Booty ()", "Maroety ()", "Suhara Effendi ()"], "comments": [], "recommandations_id": []}

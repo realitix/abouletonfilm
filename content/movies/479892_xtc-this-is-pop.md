@@ -1,1 +1,0 @@
-{"tmdb_id": 479892, "title": "XTC: This Is Pop", "original_title": "XTC: This Is Pop", "slug_title": "xtc-this-is-pop", "date": "2017-10-07", "genre": "Documentaire / Musique", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oct5uZ6I7X5cjeZlJbIiXpXFYos.jpg", "actors": ["XTC (Themselves)"], "comments": [], "recommandations_id": []}

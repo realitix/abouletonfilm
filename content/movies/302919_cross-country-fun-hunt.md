@@ -1,1 +1,0 @@
-{"tmdb_id": 302919, "title": "Cross Country Fun Hunt", "original_title": "Cross Country Fun Hunt", "slug_title": "cross-country-fun-hunt", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

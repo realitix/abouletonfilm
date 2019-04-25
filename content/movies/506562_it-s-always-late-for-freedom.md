@@ -1,1 +1,0 @@
-{"tmdb_id": 506562, "title": "It's Always Late for Freedom", "original_title": "Hamishe Baraye Azadi Dir Ast", "slug_title": "it-s-always-late-for-freedom", "date": "2007-03-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

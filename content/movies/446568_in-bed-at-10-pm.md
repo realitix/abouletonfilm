@@ -1,1 +1,0 @@
-{"tmdb_id": 446568, "title": "In Bed at 10 PM", "original_title": "Bamita Be 10 Balayla", "slug_title": "in-bed-at-10-pm", "date": "2010-03-13", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2toAyg3uSARqxHCjIykNsSnnksh.jpg", "actors": [], "comments": [], "recommandations_id": []}

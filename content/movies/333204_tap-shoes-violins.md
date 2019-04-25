@@ -1,1 +1,0 @@
-{"tmdb_id": 333204, "title": "Tap Shoes & Violins", "original_title": "Tap Shoes & Violins", "slug_title": "tap-shoes-violins", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lSPOBO1SGYlvxSuJDe0WcQFpKMb.jpg", "actors": [], "comments": [], "recommandations_id": []}

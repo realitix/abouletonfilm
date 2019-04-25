@@ -1,1 +1,0 @@
-{"tmdb_id": 82791, "title": "13 (Padamudu)", "original_title": "13 (Padamudu)", "slug_title": "13-padamudu", "date": "2009-07-13", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5xq7JqN8yQ2zCj2omXFwEvc9KzW.jpg", "actors": [], "comments": [], "recommandations_id": []}

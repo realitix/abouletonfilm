@@ -1,1 +1,0 @@
-{"tmdb_id": 320614, "title": "The Nightman Cometh", "original_title": "Yejiang", "slug_title": "the-nightman-cometh", "date": "2011-02-16", "genre": "Histoire / Documentaire / Drame / Myst\u00e8re", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

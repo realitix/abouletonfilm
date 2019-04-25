@@ -1,1 +1,0 @@
-{"tmdb_id": 518552, "title": "A Wedding Day", "original_title": "Un jour de mariage", "slug_title": "a-wedding-day", "date": "2018-05-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Aj8nJRMYWALEixPxz4NMlxPD3gb.jpg", "actors": ["Milou Berra ()", "Said Belhamra ()"], "comments": [], "recommandations_id": []}

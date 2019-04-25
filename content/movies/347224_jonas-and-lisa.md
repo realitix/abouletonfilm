@@ -1,1 +1,0 @@
-{"tmdb_id": 347224, "title": "Jonas and Lisa", "original_title": "Jonas and Lisa", "slug_title": "jonas-and-lisa", "date": "1995-07-01", "genre": "Drame / Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eU5WdQiOSz9aEXMTZyx6FHilZJB.jpg", "actors": [], "comments": [], "recommandations_id": []}

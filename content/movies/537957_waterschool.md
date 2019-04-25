@@ -1,1 +1,0 @@
-{"tmdb_id": 537957, "title": "Waterschool", "original_title": "Waterschool", "slug_title": "waterschool", "date": "2018-01-20", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aY0FyCl2aD4IBeJ1o0NatRKJ972.jpg", "actors": [], "comments": [], "recommandations_id": []}

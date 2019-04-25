@@ -1,1 +1,0 @@
-{"tmdb_id": 594661, "title": "Koukou ~ Dazzle of Surface", "original_title": "\u6d38\u6d38", "slug_title": "koukou-dazzle-of-surface", "date": "1986-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kYBis4iP8fdOm2ByyZkLG5sIima.jpg", "actors": [], "comments": [], "recommandations_id": []}

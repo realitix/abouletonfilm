@@ -1,1 +1,0 @@
-{"tmdb_id": 47469, "title": "Detained", "original_title": "Detained", "slug_title": "detained", "date": "2004-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6I5FXCEggxKvQss5wkS1yQHpDk0.jpg", "actors": [], "comments": [], "recommandations_id": []}

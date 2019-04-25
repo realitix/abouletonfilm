@@ -1,1 +1,0 @@
-{"tmdb_id": 519136, "title": "Axolotl", "original_title": "Axolotl", "slug_title": "axolotl", "date": "2018-06-11", "genre": "Drame / Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6Ch0v9MFyPXKc1ABv2SLX450DVe.jpg", "actors": ["Pierre Lekeux ()", "Marie Lecomte ()"], "comments": [], "recommandations_id": []}

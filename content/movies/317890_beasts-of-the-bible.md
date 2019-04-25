@@ -1,1 +1,0 @@
-{"tmdb_id": 317890, "title": "Beasts Of The Bible", "original_title": "Beasts Of The Bible", "slug_title": "beasts-of-the-bible", "date": "2013-04-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 337071, "title": "Just Business", "original_title": "Just Business", "slug_title": "just-business", "date": "2013-04-17", "genre": "Action / Crime / Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hL4gc2NboA0OXBAtHXnYAmBKPAi.jpg", "actors": [], "comments": [], "recommandations_id": []}

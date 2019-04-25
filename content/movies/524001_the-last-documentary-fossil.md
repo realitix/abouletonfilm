@@ -1,1 +1,0 @@
-{"tmdb_id": 524001, "title": "The Last Documentary Fossil", "original_title": "\u6700\u5f8c\u7684\u5f71\u50cf\u5316\u77f3", "slug_title": "the-last-documentary-fossil", "date": "2018-05-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

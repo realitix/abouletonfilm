@@ -1,1 +1,0 @@
-{"tmdb_id": 448350, "title": "The Prince's Trust Rock Gala 1990", "original_title": "The Prince's Trust Rock Gala 1990", "slug_title": "the-prince-s-trust-rock-gala-1990", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yGuN0oN6RqeC2SRAZZyqJkw1sc8.jpg", "actors": [], "comments": [], "recommandations_id": []}

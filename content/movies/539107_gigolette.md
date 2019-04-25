@@ -1,1 +1,0 @@
-{"tmdb_id": 539107, "title": "Gigolette", "original_title": "Gigolette", "slug_title": "gigolette", "date": "1937-02-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AfYSwKNtGqhSmDDlLN1woajXIWF.jpg", "actors": [], "comments": [], "recommandations_id": []}

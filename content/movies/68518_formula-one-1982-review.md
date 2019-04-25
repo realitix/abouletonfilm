@@ -1,1 +1,0 @@
-{"tmdb_id": 68518, "title": "Formula One 1982 Review", "original_title": "Formula One 1982 Review", "slug_title": "formula-one-1982-review", "date": "", "genre": "Documentaire", "score": "4.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/c6Q8CbrPfxbWd9SFHkxSIr6D3cQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

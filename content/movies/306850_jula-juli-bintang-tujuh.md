@@ -1,1 +1,0 @@
-{"tmdb_id": 306850, "title": "Jula Juli Bintang Tujuh", "original_title": "Jula Juli Bintang Tujuh", "slug_title": "jula-juli-bintang-tujuh", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

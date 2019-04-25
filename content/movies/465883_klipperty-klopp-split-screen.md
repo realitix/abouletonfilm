@@ -1,1 +1,0 @@
-{"tmdb_id": 465883, "title": "Klipperty Kl\u00f6pp Split Screen", "original_title": "Klipperty Kl\u00f6pp Split Screen", "slug_title": "klipperty-klopp-split-screen", "date": "2017-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

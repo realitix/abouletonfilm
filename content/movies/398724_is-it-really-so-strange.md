@@ -1,1 +1,0 @@
-{"tmdb_id": 398724, "title": "Is It Really So Strange?", "original_title": "Is It Really So Strange?", "slug_title": "is-it-really-so-strange", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

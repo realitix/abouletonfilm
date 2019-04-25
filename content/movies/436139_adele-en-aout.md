@@ -1,1 +1,0 @@
-{"tmdb_id": 436139, "title": "Ad\u00e8le en ao\u00fbt", "original_title": "Ad\u00e8le en ao\u00fbt", "slug_title": "adele-en-aout", "date": "2016-11-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e5gCpp7B5ojpAZkB922pYl1E3c.jpg", "actors": [], "comments": [], "recommandations_id": []}

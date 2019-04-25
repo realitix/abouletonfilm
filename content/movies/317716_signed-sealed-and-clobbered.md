@@ -1,1 +1,0 @@
-{"tmdb_id": 317716, "title": "Signed, Sealed, and Clobbered", "original_title": "Signed, Sealed, and Clobbered", "slug_title": "signed-sealed-and-clobbered", "date": "1958-11-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

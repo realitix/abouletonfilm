@@ -1,1 +1,0 @@
-{"tmdb_id": 433143, "title": "Alarm im Aquarium", "original_title": "Alarm im Aquarium", "slug_title": "alarm-im-aquarium", "date": "1964-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Renate Ewert ()", "Hans Putz ()", "Christian Wolff ()"], "comments": [], "recommandations_id": []}

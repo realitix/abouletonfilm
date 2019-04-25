@@ -1,1 +1,0 @@
-{"tmdb_id": 286413, "title": "Velvet Terrorists", "original_title": "Zamatov\u00ed teroristi", "slug_title": "velvet-terrorists", "date": "2013-10-04", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/krZMSbH8NUVu6L2rswDUvOK6UFv.jpg", "actors": [], "comments": [], "recommandations_id": []}

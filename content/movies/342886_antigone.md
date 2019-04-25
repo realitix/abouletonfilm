@@ -1,1 +1,0 @@
-{"tmdb_id": 342886, "title": "Antigone", "original_title": "Antigone", "slug_title": "antigone", "date": "1964-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Robert Roeschke (Kreon)"], "comments": [], "recommandations_id": []}

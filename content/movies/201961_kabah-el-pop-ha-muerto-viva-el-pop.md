@@ -1,1 +1,0 @@
-{"tmdb_id": 201961, "title": "Kabah - El pop ha muerto, viva el pop!", "original_title": "Kabah - El pop ha muerto, viva el pop!", "slug_title": "kabah-el-pop-ha-muerto-viva-el-pop", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 561968, "title": "La blonde des tropiques", "original_title": "La blonde des tropiques", "slug_title": "la-blonde-des-tropiques", "date": "1957-07-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

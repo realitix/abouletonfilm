@@ -1,1 +1,0 @@
-{"tmdb_id": 55896, "title": "Hitoya Ni Saku Hana", "original_title": "Hitoya Ni Saku Hana", "slug_title": "hitoya-ni-saku-hana", "date": "", "genre": "", "score": "8.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o5Nq8fqsJzwaG1ytDSq0u7SzVBE.jpg", "actors": [], "comments": [], "recommandations_id": []}

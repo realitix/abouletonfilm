@@ -1,1 +1,0 @@
-{"tmdb_id": 582983, "title": "meanwhile the waves", "original_title": "Mientras las olas", "slug_title": "meanwhile-the-waves", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Guillermina Broens ()"], "comments": [], "recommandations_id": []}

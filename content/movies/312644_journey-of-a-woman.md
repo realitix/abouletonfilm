@@ -1,1 +1,0 @@
-{"tmdb_id": 312644, "title": "Journey of a Woman", "original_title": "Journey of a Woman", "slug_title": "journey-of-a-woman", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

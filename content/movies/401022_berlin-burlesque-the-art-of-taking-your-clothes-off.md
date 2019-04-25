@@ -1,1 +1,0 @@
-{"tmdb_id": 401022, "title": "Berlin Burlesque: The Art Of Taking Your Clothes Off", "original_title": "Berlin Burlesque: The Art Of Taking Your Clothes Off", "slug_title": "berlin-burlesque-the-art-of-taking-your-clothes-off", "date": "", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

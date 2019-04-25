@@ -1,1 +1,0 @@
-{"tmdb_id": 140952, "title": "Elektro", "original_title": "Elektro", "slug_title": "elektro", "date": "2009-06-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5mHtalRfux1Zwz8ExQzFG6r38Kt.jpg", "actors": [], "comments": [], "recommandations_id": []}

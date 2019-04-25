@@ -1,1 +1,1 @@
-{"tmdb_id": 491297, "title": "Aruk the movie", "original_title": "Aruk the movie", "slug_title": "aruk-the-movie", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 491297, "title": "Aruk the movie", "original_title": "Aruk the movie", "slug_title": "aruk-the-movie", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "aruk's story", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,1 +1,0 @@
-{"tmdb_id": 505180, "title": "Sex/Less", "original_title": "Sex/Less", "slug_title": "sex-less", "date": "2010-01-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 272274, "title": "The Meaning of Food: Food for Life", "original_title": "The Meaning of Food: Food for Life", "slug_title": "the-meaning-of-food-food-for-life", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

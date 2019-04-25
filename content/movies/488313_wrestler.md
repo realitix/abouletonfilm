@@ -1,1 +1,0 @@
-{"tmdb_id": 488313, "title": "Wrestler", "original_title": "Wrestler", "slug_title": "wrestler", "date": "2017-10-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

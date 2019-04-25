@@ -1,1 +1,0 @@
-{"tmdb_id": 530153, "title": "WWE Network Collection: Goldberg - Who's Next?", "original_title": "WWE Network Collection: Goldberg - Who's Next?", "slug_title": "wwe-network-collection-goldberg-who-s-next", "date": "2016-06-06", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

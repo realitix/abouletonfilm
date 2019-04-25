@@ -1,1 +1,0 @@
-{"tmdb_id": 549646, "title": "Diggerz: Black Lung Rises", "original_title": "Diggerz: Black Lung Rises", "slug_title": "diggerz-black-lung-rises", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nb9UxBTLWXkl41BufCUwWUSk7oH.jpg", "actors": [], "comments": [], "recommandations_id": []}

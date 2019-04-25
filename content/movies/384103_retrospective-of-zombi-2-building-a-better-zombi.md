@@ -1,1 +1,0 @@
-{"tmdb_id": 384103, "title": "Retrospective Of Zombi 2(Building A Better Zombi)", "original_title": "Retrospective Of Zombi 2(Building A Better Zombi)", "slug_title": "retrospective-of-zombi-2-building-a-better-zombi", "date": "1979-07-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

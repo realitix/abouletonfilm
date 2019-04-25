@@ -1,1 +1,0 @@
-{"tmdb_id": 578867, "title": "The Evil and the Good Fairy", "original_title": "The Evil and the Good Fairy", "slug_title": "the-evil-and-the-good-fairy", "date": "2016-02-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Muneera Alshaibi ()"], "comments": [], "recommandations_id": []}

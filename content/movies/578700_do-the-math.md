@@ -1,1 +1,0 @@
-{"tmdb_id": 578700, "title": "Do The Math", "original_title": "Do The Math", "slug_title": "do-the-math", "date": "", "genre": "Com\u00e9die / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Luke Tumblin (Connor)", "Gus Sanchez (Teacher)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 390223, "title": "TNA Destination X 2007", "original_title": "TNA Destination X 2007", "slug_title": "tna-destination-x-2007", "date": "2007-03-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gaXpgFJ5VlTFnHwcyyxparEXSeT.jpg", "actors": [], "comments": [], "recommandations_id": []}

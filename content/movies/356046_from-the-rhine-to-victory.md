@@ -1,1 +1,0 @@
-{"tmdb_id": 356046, "title": "From the Rhine to Victory", "original_title": "From the Rhine to Victory", "slug_title": "from-the-rhine-to-victory", "date": "1946-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 152356, "title": "Rathrimazha", "original_title": "Rathrimazha", "slug_title": "rathrimazha", "date": "2007-02-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

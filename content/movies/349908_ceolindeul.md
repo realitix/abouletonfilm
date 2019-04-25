@@ -1,1 +1,0 @@
-{"tmdb_id": 349908, "title": "\ucca0\uc778\ub4e4", "original_title": "\ucca0\uc778\ub4e4", "slug_title": "ceolindeul", "date": "1983-09-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

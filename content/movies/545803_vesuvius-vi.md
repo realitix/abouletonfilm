@@ -1,1 +1,0 @@
-{"tmdb_id": 545803, "title": "Vesuvius VI", "original_title": "Vesuvius VI", "slug_title": "vesuvius-vi", "date": "1959-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9XLK005HvPNFX4OqZ6pO3TTuioD.jpg", "actors": [], "comments": [], "recommandations_id": []}

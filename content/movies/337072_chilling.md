@@ -1,1 +1,0 @@
-{"tmdb_id": 337072, "title": "Chilling", "original_title": "Chilling", "slug_title": "chilling", "date": "1974-01-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kevin O'Neill ()", "David Bunt ()", "Guy Doleman ()"], "comments": [], "recommandations_id": []}

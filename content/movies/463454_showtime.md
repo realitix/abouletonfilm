@@ -1,1 +1,0 @@
-{"tmdb_id": 463454, "title": "Showtime", "original_title": "Showtime", "slug_title": "showtime", "date": "2017-06-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gQUpwZzKQ1SvbUfpovUVPtMtiyR.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 485527, "title": "Sappy Pappy", "original_title": "Sappy Pappy", "slug_title": "sappy-pappy", "date": "1942-10-30", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Andy Clyde (Andy)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 302872, "title": "Aau Piya Hamar Nagari", "original_title": "Aau Piya Hamar Nagari", "slug_title": "aau-piya-hamar-nagari", "date": "2001-06-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

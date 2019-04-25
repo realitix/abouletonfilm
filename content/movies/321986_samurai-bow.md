@@ -1,1 +1,0 @@
-{"tmdb_id": 321986, "title": "Samurai Bow", "original_title": "Samurai Bow", "slug_title": "samurai-bow", "date": "2013-09-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

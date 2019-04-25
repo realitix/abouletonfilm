@@ -1,1 +1,0 @@
-{"tmdb_id": 513713, "title": "Hallo k3 Deel 6", "original_title": "Hallo k3 Deel 6", "slug_title": "hallo-k3-deel-6", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/us5kk28wbvQgA3agYbWEexv0Ipe.jpg", "actors": [], "comments": [], "recommandations_id": []}

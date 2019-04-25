@@ -1,1 +1,0 @@
-{"tmdb_id": 470847, "title": "Let's Animate!", "original_title": "Let's Animate!", "slug_title": "let-s-animate", "date": "2017-07-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9AQyOOe9eZwzfA2d6oqectiz5z8.jpg", "actors": [], "comments": [], "recommandations_id": []}

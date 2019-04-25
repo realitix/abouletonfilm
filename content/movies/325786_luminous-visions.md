@@ -1,1 +1,0 @@
-{"tmdb_id": 325786, "title": "Luminous Visions", "original_title": "Luminous Visions", "slug_title": "luminous-visions", "date": "1998-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kCrVP8vUptUnMEHYBTAt5LSoywy.jpg", "actors": [], "comments": [], "recommandations_id": []}

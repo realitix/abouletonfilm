@@ -1,1 +1,0 @@
-{"tmdb_id": 559853, "title": "Zuguleai\u00f1: Hablaremos", "original_title": "Zuguleai\u00f1: Hablaremos", "slug_title": "zuguleain-hablaremos", "date": "2018-11-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eNZHr4YG0fCc7bANjwT3EGHrV8q.jpg", "actors": [], "comments": [], "recommandations_id": []}

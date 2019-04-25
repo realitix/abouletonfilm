@@ -1,1 +1,0 @@
-{"tmdb_id": 454955, "title": "Mario, Kike y David", "original_title": "Mario, Kike y David", "slug_title": "mario-kike-y-david", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

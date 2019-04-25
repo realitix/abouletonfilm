@@ -1,1 +1,0 @@
-{"tmdb_id": 568674, "title": "Ozoners", "original_title": "Ozoners", "slug_title": "ozoners", "date": "2015-04-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

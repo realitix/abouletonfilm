@@ -1,1 +1,0 @@
-{"tmdb_id": 30912, "title": "Alma the Younger", "original_title": "Alma the Younger", "slug_title": "alma-the-younger", "date": "1989-01-01", "genre": "Animation / Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sVgMkcbhnXzdZHrQCyv1FUD21Dt.jpg", "actors": [], "comments": [], "recommandations_id": []}

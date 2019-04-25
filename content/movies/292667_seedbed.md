@@ -1,1 +1,0 @@
-{"tmdb_id": 292667, "title": "Seedbed", "original_title": "Seedbed", "slug_title": "seedbed", "date": "1972-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4z3bGo9GlSHwrnrQcBNsWALSGXY.jpg", "actors": ["Vito Acconci ()"], "comments": [], "recommandations_id": []}

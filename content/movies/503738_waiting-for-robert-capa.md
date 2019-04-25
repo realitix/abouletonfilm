@@ -1,1 +1,0 @@
-{"tmdb_id": 503738, "title": "Waiting for Robert Capa", "original_title": "Waiting for Robert Capa", "slug_title": "waiting-for-robert-capa", "date": "", "genre": "Guerre / Drame / Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

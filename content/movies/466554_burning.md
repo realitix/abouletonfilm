@@ -1,1 +1,0 @@
-{"tmdb_id": 466554, "title": "Burning", "original_title": "Burning", "slug_title": "burning", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xLv1hexo448XkFooOhgeiDgT0IS.jpg", "actors": ["Barbara Sternberg (Director)"], "comments": [], "recommandations_id": []}

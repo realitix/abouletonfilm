@@ -1,1 +1,0 @@
-{"tmdb_id": 477716, "title": "Fahrt nach Kairo", "original_title": "Fahrt nach Kairo", "slug_title": "fahrt-nach-kairo", "date": "1991-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

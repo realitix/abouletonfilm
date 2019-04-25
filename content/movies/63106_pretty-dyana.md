@@ -1,1 +1,0 @@
-{"tmdb_id": 63106, "title": "Pretty Dyana", "original_title": "Lijepa Dyana", "slug_title": "pretty-dyana", "date": "2003-01-01", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y3x0npix24POlIu5zwOLFS6cPLu.jpg", "actors": [], "comments": [], "recommandations_id": []}

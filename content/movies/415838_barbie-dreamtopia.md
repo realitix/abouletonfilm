@@ -1,1 +1,0 @@
-{"tmdb_id": 415838, "title": "Barbie Dreamtopia", "original_title": "Barbie Dreamtopia", "slug_title": "barbie-dreamtopia", "date": "2016-06-26", "genre": "Animation", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hgqv7lU4JogJ7GamDfVuzr5Dy28.jpg", "actors": [], "comments": [], "recommandations_id": [417047, 415749, 434757]}

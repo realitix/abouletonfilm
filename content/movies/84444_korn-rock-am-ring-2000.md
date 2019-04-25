@@ -1,1 +1,0 @@
-{"tmdb_id": 84444, "title": "Korn: Rock Am Ring 2000", "original_title": "Korn: Rock Am Ring 2000", "slug_title": "korn-rock-am-ring-2000", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iijuQE46XGiTF3orWlRYxvUi4aH.jpg", "actors": [], "comments": [], "recommandations_id": []}

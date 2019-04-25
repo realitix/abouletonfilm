@@ -1,1 +1,0 @@
-{"tmdb_id": 579167, "title": "Mama Africa", "original_title": "Mama Africa", "slug_title": "mama-africa", "date": "2002-06-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jxdhQ1QreAXJJSJqBQqL3W3VaXh.jpg", "actors": [], "comments": [], "recommandations_id": []}

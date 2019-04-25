@@ -1,1 +1,0 @@
-{"tmdb_id": 534792, "title": "The Lady from 406", "original_title": "\uc544\ub7ab\uc9d1", "slug_title": "the-lady-from-406", "date": "2017-12-17", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lee Young-ae (Hee-ji)", "Jeong Do-won (man from 306)"], "comments": [], "recommandations_id": []}

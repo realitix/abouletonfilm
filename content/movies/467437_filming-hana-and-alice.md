@@ -1,1 +1,0 @@
-{"tmdb_id": 467437, "title": "Filming Hana and Alice", "original_title": "Filming Hana and Alice", "slug_title": "filming-hana-and-alice", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e97aJX6WI2pIbVAZNNk8di7JlRA.jpg", "actors": [], "comments": [], "recommandations_id": []}

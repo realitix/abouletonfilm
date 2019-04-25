@@ -1,1 +1,0 @@
-{"tmdb_id": 477780, "title": "Hit Team", "original_title": "Hit Team", "slug_title": "hit-team", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/voQH2HIimpOrCvuttxwaWwL2Lkx.jpg", "actors": [], "comments": [], "recommandations_id": []}

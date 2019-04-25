@@ -1,1 +1,0 @@
-{"tmdb_id": 195542, "title": "Bird's-Eye View of Dock Front, Galveston", "original_title": "Bird's-Eye View of Dock Front, Galveston", "slug_title": "bird-s-eye-view-of-dock-front-galveston", "date": "1900-09-21", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

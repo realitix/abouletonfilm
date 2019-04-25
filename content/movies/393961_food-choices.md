@@ -1,1 +1,0 @@
-{"tmdb_id": 393961, "title": "Food Choices", "original_title": "Food Choices", "slug_title": "food-choices", "date": "2016-04-21", "genre": "Documentaire", "score": "7.6/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/veaZGd9H7s75oaoMb7vURQRSX7G.jpg", "actors": [], "comments": [], "recommandations_id": [172539, 471155, 499802, 345661]}

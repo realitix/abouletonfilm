@@ -1,1 +1,0 @@
-{"tmdb_id": 530454, "title": "American Chaos", "original_title": "American Chaos", "slug_title": "american-chaos", "date": "2018-09-14", "genre": "Documentaire", "score": "6.1/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ye6xgueO5LaMVZaReT6jXMwFSYq.jpg", "actors": [], "comments": [], "recommandations_id": [459224, 395119, 460100, 422027]}

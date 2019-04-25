@@ -1,1 +1,0 @@
-{"tmdb_id": 86032, "title": "Vazquez vs Marquez II", "original_title": "Vazquez vs Marquez II", "slug_title": "vazquez-vs-marquez-ii", "date": "2007-08-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b1qLrEesv23lToB7udxv4onkhvT.jpg", "actors": [], "comments": [], "recommandations_id": []}

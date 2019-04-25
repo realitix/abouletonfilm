@@ -1,1 +1,0 @@
-{"tmdb_id": 293821, "title": "Aleister Crowley: Legend of the Beast", "original_title": "Aleister Crowley: Legend of the Beast", "slug_title": "aleister-crowley-legend-of-the-beast", "date": "2013-01-01", "genre": "Drame", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

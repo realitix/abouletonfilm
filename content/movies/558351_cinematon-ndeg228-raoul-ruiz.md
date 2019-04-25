@@ -1,1 +1,0 @@
-{"tmdb_id": 558351, "title": "Cin\u00e9maton n\u00b0228: Raoul Ruiz", "original_title": "Cin\u00e9maton n\u00b0228: Raoul Ruiz", "slug_title": "cinematon-ndeg228-raoul-ruiz", "date": "1982-06-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ra\u00fal Ruiz ()"], "comments": [], "recommandations_id": []}

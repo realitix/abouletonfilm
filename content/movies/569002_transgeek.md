@@ -1,1 +1,0 @@
-{"tmdb_id": 569002, "title": "TransGeek", "original_title": "TransGeek", "slug_title": "transgeek", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bOdajJ0HPlQzxpRsDasMk0axmBV.jpg", "actors": [], "comments": [], "recommandations_id": []}

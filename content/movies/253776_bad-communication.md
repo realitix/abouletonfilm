@@ -1,1 +1,0 @@
-{"tmdb_id": 253776, "title": "Bad Communication", "original_title": "BAD\u30b3\u30df\u30e5\u30cb\u30b1\u30fc\u30b7\u30e7\u30f3", "slug_title": "bad-communication", "date": "2013-03-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pQ3jXXNI9eJ7Gf6v7sdQkBKWk9.jpg", "actors": [], "comments": [], "recommandations_id": []}

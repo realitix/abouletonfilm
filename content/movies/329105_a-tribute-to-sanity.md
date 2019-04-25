@@ -1,1 +1,0 @@
-{"tmdb_id": 329105, "title": "A Tribute To Sanity", "original_title": "A Tribute To Sanity", "slug_title": "a-tribute-to-sanity", "date": "2002-01-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tgzOOEAojfZ8CRuiEQl2T15ZSL0.jpg", "actors": [], "comments": [], "recommandations_id": []}

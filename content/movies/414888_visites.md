@@ -1,1 +1,0 @@
-{"tmdb_id": 414888, "title": "VISIT\u00c9S", "original_title": "VISIT\u00c9S", "slug_title": "visites", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Cl\u00e9ment Cogitore ()"], "comments": [], "recommandations_id": []}

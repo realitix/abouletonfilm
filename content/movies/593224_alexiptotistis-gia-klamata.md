@@ -1,1 +1,0 @@
-{"tmdb_id": 593224, "title": "Alexiptotistis gia... klamata", "original_title": "Alexiptotistis gia... klamata", "slug_title": "alexiptotistis-gia-klamata", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/blwcAKUEUlAsSQFjsqeH1dpCjwy.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 330619, "title": "Traces in the Rock of Elsewhere", "original_title": "Traces dans le rocher du lointain", "slug_title": "traces-in-the-rock-of-elsewhere", "date": "2000-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 594757, "title": "The 70th Primetime Emmy Awards", "original_title": "The 70th Primetime Emmy Awards", "slug_title": "the-70th-primetime-emmy-awards", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/brQe0QQnWNRrwUFrK7V5tzbmyYY.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 435867, "title": "Prepared Playstation 2", "original_title": "Prepared Playstation 2", "slug_title": "prepared-playstation-2", "date": "2003-01-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

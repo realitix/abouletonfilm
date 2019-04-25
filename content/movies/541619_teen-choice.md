@@ -1,1 +1,0 @@
-{"tmdb_id": 541619, "title": "Teen Choice", "original_title": "Teen Choice", "slug_title": "teen-choice", "date": "2018-08-12", "genre": "Musique / Com\u00e9die / T\u00e9l\u00e9film", "score": "8.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1olbjwbjgMd5dhlRLpHrWSDZ0kf.jpg", "actors": [], "comments": [], "recommandations_id": []}

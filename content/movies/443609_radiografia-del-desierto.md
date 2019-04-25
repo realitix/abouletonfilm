@@ -1,1 +1,0 @@
-{"tmdb_id": 443609, "title": "Radiograf\u00eda del desierto", "original_title": "Radiograf\u00eda del desierto", "slug_title": "radiografia-del-desierto", "date": "2013-11-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xF0vbZVeQR1gDmS33b7mY4A63Ag.jpg", "actors": [], "comments": [], "recommandations_id": []}

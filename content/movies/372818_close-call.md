@@ -1,1 +1,0 @@
-{"tmdb_id": 372818, "title": "Close Call", "original_title": "Close Call", "slug_title": "close-call", "date": "2004-04-16", "genre": "Drame / Action / Crime", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4Slv2vYyMJGUk1JiuczHyIYhXtN.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 331318, "title": "Suffering Cassandra", "original_title": "Suffering Cassandra", "slug_title": "suffering-cassandra", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

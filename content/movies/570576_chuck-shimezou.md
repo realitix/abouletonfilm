@@ -1,1 +1,0 @@
-{"tmdb_id": 570576, "title": "Chuck Shimezou", "original_title": "\u30c1\u30e3\u30c3\u30af\u30b7\u30e1\u30be\u30a6", "slug_title": "chuck-shimezou", "date": "2019-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a6iAA19hnYrlI6lZhfjjfiOBzsU.jpg", "actors": [], "comments": [], "recommandations_id": []}

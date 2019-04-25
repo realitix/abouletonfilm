@@ -1,1 +1,0 @@
-{"tmdb_id": 254125, "title": "Three on a Rope", "original_title": "Three on a Rope", "slug_title": "three-on-a-rope", "date": "1938-02-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pete Smith (Narrator)", "Arthur Johnson ()", "William Rice ()", "James Smith ()"], "comments": [], "recommandations_id": []}

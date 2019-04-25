@@ -1,1 +1,0 @@
-{"tmdb_id": 348755, "title": "Tales Of The Past 3", "original_title": "Tales Of The Past 3", "slug_title": "tales-of-the-past-3", "date": "2007-12-12", "genre": "", "score": "8.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pLpNeOc5GlDAuJIvT4UKFQvVWLg.jpg", "actors": [], "comments": [], "recommandations_id": []}

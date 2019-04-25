@@ -1,1 +1,0 @@
-{"tmdb_id": 566297, "title": "Covered", "original_title": "Covered", "slug_title": "covered", "date": "2009-09-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

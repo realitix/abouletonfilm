@@ -1,1 +1,0 @@
-{"tmdb_id": 254977, "title": "Teddy: In His Own Words", "original_title": "Teddy: In His Own Words", "slug_title": "teddy-in-his-own-words", "date": "2009-07-13", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 274247, "title": "Punk Rock Holocaust 2", "original_title": "Punk Rock Holocaust 2", "slug_title": "punk-rock-holocaust-2", "date": "2008-01-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9khUJwjJU7du1Ywg3kUNrW3Vav4.jpg", "actors": [], "comments": [], "recommandations_id": []}

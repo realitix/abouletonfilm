@@ -1,1 +1,0 @@
-{"tmdb_id": 332404, "title": "For the Cause", "original_title": "For the Cause", "slug_title": "for-the-cause", "date": "2013-08-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

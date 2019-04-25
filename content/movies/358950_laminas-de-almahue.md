@@ -1,1 +1,0 @@
-{"tmdb_id": 358950, "title": "L\u00e1minas de Almahue", "original_title": "L\u00e1minas de Almahue", "slug_title": "laminas-de-almahue", "date": "1962-06-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

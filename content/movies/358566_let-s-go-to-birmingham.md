@@ -1,1 +1,0 @@
-{"tmdb_id": 358566, "title": "Let's Go to Birmingham", "original_title": "Let's Go to Birmingham", "slug_title": "let-s-go-to-birmingham", "date": "1962-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ijz2Tr6SVXk3QfLfMsVEif2LF0r.jpg", "actors": [], "comments": [], "recommandations_id": []}

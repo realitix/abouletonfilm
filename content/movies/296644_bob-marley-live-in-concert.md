@@ -1,1 +1,0 @@
-{"tmdb_id": 296644, "title": "Bob Marley - Live In Concert", "original_title": "Bob Marley Live in Concert", "slug_title": "bob-marley-live-in-concert", "date": "2012-10-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i4SSJq64nWNAkbNtzJ9S5qBDsIg.jpg", "actors": [], "comments": [], "recommandations_id": []}

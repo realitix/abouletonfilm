@@ -1,1 +1,0 @@
-{"tmdb_id": 502492, "title": "Mare chiuso", "original_title": "Mare chiuso", "slug_title": "mare-chiuso", "date": "2012-03-15", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ejEEiMN1dsyw7VTsYFcam1lHree.jpg", "actors": [], "comments": [], "recommandations_id": []}

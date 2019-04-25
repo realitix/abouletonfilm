@@ -1,1 +1,0 @@
-{"tmdb_id": 84186, "title": "China Heavyweight", "original_title": "China Heavyweight", "slug_title": "china-heavyweight", "date": "2012-07-06", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kzPoRTH6JsmVlbmDVbxh19oUGHz.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 494714, "title": "Witch Hunt", "original_title": "Witch Hunt", "slug_title": "witch-hunt", "date": "2004-10-31", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lisa Wolfinger (Narrator)"], "comments": [], "recommandations_id": []}

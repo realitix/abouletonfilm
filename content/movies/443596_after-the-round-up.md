@@ -1,1 +1,0 @@
-{"tmdb_id": 443596, "title": "After the Round-Up", "original_title": "After the Round-Up", "slug_title": "after-the-round-up", "date": "1929-01-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fJyduaLV6IVAweDGw4OHwfkTL8V.jpg", "actors": ["The Rangers ()"], "comments": [], "recommandations_id": []}

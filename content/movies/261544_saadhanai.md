@@ -1,1 +1,0 @@
-{"tmdb_id": 261544, "title": "Saadhanai", "original_title": "Saadhanai", "slug_title": "saadhanai", "date": "1986-01-09", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sivaji Ganesan ()", "K R Vijaya ()", "Prabhu Ganesan ()", "Nalini ()", "Senthil ()"], "comments": [], "recommandations_id": []}

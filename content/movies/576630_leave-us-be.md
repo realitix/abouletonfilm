@@ -1,1 +1,0 @@
-{"tmdb_id": 576630, "title": "Leave Us Be", "original_title": "Leave Us Be", "slug_title": "leave-us-be", "date": "2016-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

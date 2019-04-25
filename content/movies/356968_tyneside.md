@@ -1,1 +1,0 @@
-{"tmdb_id": 356968, "title": "Tyneside", "original_title": "Tyneside", "slug_title": "tyneside", "date": "1941-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Neal Arden ()"], "comments": [], "recommandations_id": []}

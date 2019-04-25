@@ -1,1 +1,0 @@
-{"tmdb_id": 334441, "title": "Palestinian Diary", "original_title": "Yawmiyat Filastiniyya", "slug_title": "palestinian-diary", "date": "1992-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

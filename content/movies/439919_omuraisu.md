@@ -1,1 +1,0 @@
-{"tmdb_id": 439919, "title": "Omuraisu", "original_title": "Omuraisu", "slug_title": "omuraisu", "date": "2012-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g5ZF1ZFSGZ6kyZkjzwl6EnSxFRM.jpg", "actors": [], "comments": [], "recommandations_id": []}

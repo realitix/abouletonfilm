@@ -1,1 +1,0 @@
-{"tmdb_id": 318736, "title": "Arthur's School of Hard Knocks", "original_title": "Arthur's School of Hard Knocks", "slug_title": "arthur-s-school-of-hard-knocks", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

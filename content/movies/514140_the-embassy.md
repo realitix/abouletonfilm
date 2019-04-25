@@ -1,1 +1,0 @@
-{"tmdb_id": 514140, "title": "The Embassy", "original_title": "The Embassy", "slug_title": "the-embassy", "date": "2011-03-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vekDedwwfx13a11wYYHRGaX3Gb5.jpg", "actors": [], "comments": [], "recommandations_id": []}

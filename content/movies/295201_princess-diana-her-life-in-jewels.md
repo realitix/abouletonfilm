@@ -1,1 +1,0 @@
-{"tmdb_id": 295201, "title": "Princess Diana: Her Life in Jewels", "original_title": "Princess Diana: Her Life in Jewels", "slug_title": "princess-diana-her-life-in-jewels", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

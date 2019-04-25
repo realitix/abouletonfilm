@@ -1,1 +1,0 @@
-{"tmdb_id": 523517, "title": "Getting Ready for the Festival", "original_title": "\u904e\u7bc0", "slug_title": "getting-ready-for-the-festival", "date": "1967-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

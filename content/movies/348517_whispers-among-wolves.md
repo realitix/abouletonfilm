@@ -1,1 +1,0 @@
-{"tmdb_id": 348517, "title": "Whispers Among Wolves", "original_title": "Whispers Among Wolves", "slug_title": "whispers-among-wolves", "date": "2014-08-05", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3xAUIdbH6D4SS7Vf2S2iMqZOo5s.jpg", "actors": [], "comments": [], "recommandations_id": []}

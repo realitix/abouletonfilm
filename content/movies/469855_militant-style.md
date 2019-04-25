@@ -1,1 +1,0 @@
-{"tmdb_id": 469855, "title": "Militant Style", "original_title": "Militant Style", "slug_title": "militant-style", "date": "", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rqbmKxWOUpLyeADTcRMEdMF3kq4.jpg", "actors": [], "comments": [], "recommandations_id": []}

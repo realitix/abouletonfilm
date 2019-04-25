@@ -1,1 +1,0 @@
-{"tmdb_id": 380868, "title": "Menudo At Pandesal", "original_title": "Menudo At Pandesal", "slug_title": "menudo-at-pandesal", "date": "1985-12-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aLYeGEcwL85j8Gs5d5GaymeppTJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

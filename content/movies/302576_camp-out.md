@@ -1,1 +1,0 @@
-{"tmdb_id": 302576, "title": "Camp Out", "original_title": "Camp Out", "slug_title": "camp-out", "date": "2006-06-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/owxacSMtkIY0tv7n3dYChfXvoRc.jpg", "actors": [], "comments": [], "recommandations_id": []}

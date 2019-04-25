@@ -1,1 +1,0 @@
-{"tmdb_id": 503303, "title": "Gilberto Gil, the Power of Music", "original_title": "Gilberto Gil, the Power of Music", "slug_title": "gilberto-gil-the-power-of-music", "date": "2010-02-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gilberto Gil (Himself)"], "comments": [], "recommandations_id": []}

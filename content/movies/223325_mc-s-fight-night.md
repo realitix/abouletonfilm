@@ -1,1 +1,0 @@
-{"tmdb_id": 223325, "title": "MC's Fight Night", "original_title": "MC's Fight Night", "slug_title": "mc-s-fight-night", "date": "2013-09-21", "genre": "", "score": "9.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gsMF3RLAyekks2mEi1RbCvqIiM5.jpg", "actors": [], "comments": [], "recommandations_id": []}

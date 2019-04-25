@@ -1,1 +1,0 @@
-{"tmdb_id": 440980, "title": "We don't want to stay", "original_title": "Mir w\u00ebllen net bleiwen", "slug_title": "we-don-t-want-to-stay", "date": "2010-06-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4nH4QqMhHbreGDHKs9mvmFsrMPm.jpg", "actors": [], "comments": [], "recommandations_id": []}

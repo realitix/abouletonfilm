@@ -1,1 +1,0 @@
-{"tmdb_id": 564148, "title": "Work It Out", "original_title": "Work It Out", "slug_title": "work-it-out", "date": "2001-12-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1EcqvLRYEE6INJwy99KpIabxCQg.jpg", "actors": ["Aaron J. March ()"], "comments": [], "recommandations_id": []}

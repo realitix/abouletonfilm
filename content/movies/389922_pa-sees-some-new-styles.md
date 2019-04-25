@@ -1,1 +1,0 @@
-{"tmdb_id": 389922, "title": "Pa Sees Some New Styles", "original_title": "Pa Sees Some New Styles", "slug_title": "pa-sees-some-new-styles", "date": "1915-12-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/puj4hKTFNrjLiAuQIcvTOwdtEUU.jpg", "actors": [], "comments": [], "recommandations_id": []}

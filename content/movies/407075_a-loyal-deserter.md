@@ -1,1 +1,0 @@
-{"tmdb_id": 407075, "title": "A Loyal Deserter", "original_title": "A Loyal Deserter", "slug_title": "a-loyal-deserter", "date": "1913-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jack Nelson (Paul Worthington)", "Lafe McKee (Col. Colfax)"], "comments": [], "recommandations_id": []}

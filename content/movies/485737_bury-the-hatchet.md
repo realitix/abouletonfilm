@@ -1,1 +1,0 @@
-{"tmdb_id": 485737, "title": "Bury the Hatchet", "original_title": "Bury the Hatchet", "slug_title": "bury-the-hatchet", "date": "1937-08-06", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tom Kennedy (Tom)", "Monte Collins (Monte (as Monty Collins))"], "comments": [], "recommandations_id": []}

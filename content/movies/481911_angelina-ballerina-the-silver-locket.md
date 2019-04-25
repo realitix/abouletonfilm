@@ -1,1 +1,0 @@
-{"tmdb_id": 481911, "title": "Angelina Ballerina: The Silver Locket", "original_title": "Angelina Ballerina: The Silver Locket", "slug_title": "angelina-ballerina-the-silver-locket", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 285477, "title": "The Slim Dusty Movie", "original_title": "The Slim Dusty Movie", "slug_title": "the-slim-dusty-movie", "date": "1984-10-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/alDu2hkxzoWePkhe0x7yaAo4vG5.jpg", "actors": [], "comments": [], "recommandations_id": []}

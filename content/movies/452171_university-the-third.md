@@ -1,1 +1,0 @@
-{"tmdb_id": 452171, "title": "University: The Third", "original_title": "University: The Third", "slug_title": "university-the-third", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 545402, "title": "Friendly Sport Meeting", "original_title": "P\u0159\u00e1telsk\u00e9 setk\u00e1n\u00ed nad sportem", "slug_title": "friendly-sport-meeting", "date": "2017-01-01", "genre": "Com\u00e9die / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

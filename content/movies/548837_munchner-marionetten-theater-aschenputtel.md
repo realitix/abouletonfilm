@@ -1,1 +1,0 @@
-{"tmdb_id": 548837, "title": "M\u00fcnchner Marionetten Theater - Aschenputtel", "original_title": "M\u00fcnchner Marionetten Theater - Aschenputtel", "slug_title": "munchner-marionetten-theater-aschenputtel", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

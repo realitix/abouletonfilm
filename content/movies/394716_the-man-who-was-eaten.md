@@ -1,1 +1,0 @@
-{"tmdb_id": 394716, "title": "The Man Who Was Eaten", "original_title": "\u98df\u3079\u3089\u308c\u308b\u7537", "slug_title": "the-man-who-was-eaten", "date": "2016-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hJP6JyEZGXsFXGbkf6XDza5dJBC.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 279077, "title": "Canada Vignettes: Newfoundland", "original_title": "Canada Vignettes: Newfoundland", "slug_title": "canada-vignettes-newfoundland", "date": "1978-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/46IO07rho0pcCXmyBquNBl42eea.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 259175, "title": "Amphetamine", "original_title": "Amphetamine", "slug_title": "amphetamine", "date": "1966-03-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pJm3QK9bKeMRhIJEj7Esuawociq.jpg", "actors": [], "comments": [], "recommandations_id": []}

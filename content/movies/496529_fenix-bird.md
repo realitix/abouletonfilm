@@ -1,1 +1,0 @@
-{"tmdb_id": 496529, "title": "Fenix Bird", "original_title": "F\u00e5gel Fenix", "slug_title": "fenix-bird", "date": "2013-11-07", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Adam P\u00e5lsson ()", "Mylaine Hedreul ()", "Emma Mehonic ()", "Emelie Jonsson ()"], "comments": [], "recommandations_id": []}

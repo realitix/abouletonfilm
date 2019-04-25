@@ -1,1 +1,0 @@
-{"tmdb_id": 80369, "title": "One for the Road", "original_title": "One for the Road", "slug_title": "one-for-the-road", "date": "2011-03-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gH9Jw4vQ13V2MgUFJIaT2kdM0L2.jpg", "actors": [], "comments": [], "recommandations_id": []}

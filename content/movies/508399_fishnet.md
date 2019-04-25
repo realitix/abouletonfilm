@@ -1,1 +1,0 @@
-{"tmdb_id": 508399, "title": "Fishnet", "original_title": "Fishnet", "slug_title": "fishnet", "date": "2010-10-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/frohiS3gvjNdsaZ4gja2AWIfSWV.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 326053, "title": "Madhu Malti", "original_title": "Madhu Malti", "slug_title": "madhu-malti", "date": "1978-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

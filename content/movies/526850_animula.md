@@ -1,1 +1,0 @@
-{"tmdb_id": 526850, "title": "Animula", "original_title": "Animula", "slug_title": "animula", "date": "2009-11-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h4fgLYxJr4NfF7OcFYKcmOzrEEw.jpg", "actors": [], "comments": [], "recommandations_id": []}

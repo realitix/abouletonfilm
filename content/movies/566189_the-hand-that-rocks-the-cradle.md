@@ -1,1 +1,0 @@
-{"tmdb_id": 566189, "title": "The Hand That Rocks the Cradle", "original_title": "The Hand That Rocks the Cradle", "slug_title": "the-hand-that-rocks-the-cradle", "date": "1917-05-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

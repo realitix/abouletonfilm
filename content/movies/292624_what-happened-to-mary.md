@@ -1,1 +1,0 @@
-{"tmdb_id": 292624, "title": "What Happened to Mary", "original_title": "What Happened to Mary", "slug_title": "what-happened-to-mary", "date": "1912-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

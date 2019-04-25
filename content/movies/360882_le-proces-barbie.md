@@ -1,1 +1,0 @@
-{"tmdb_id": 360882, "title": "Le Proc\u00e8s Barbie", "original_title": "Le Proc\u00e8s Barbie", "slug_title": "le-proces-barbie", "date": "1987-05-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k8cy5pn39dhl5YLf3fiUjGmG4zX.jpg", "actors": [], "comments": [], "recommandations_id": []}

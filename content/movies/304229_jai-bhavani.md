@@ -1,1 +1,0 @@
-{"tmdb_id": 304229, "title": "Jai Bhavani", "original_title": "Jai Bhavani", "slug_title": "jai-bhavani", "date": "1928-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

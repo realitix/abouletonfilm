@@ -1,1 +1,0 @@
-{"tmdb_id": 544818, "title": "Sweet Marie: In Studio With Erin Costelo", "original_title": "Sweet Marie: In Studio With Erin Costelo", "slug_title": "sweet-marie-in-studio-with-erin-costelo", "date": "2018-09-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Erin Costelo ()"], "comments": [], "recommandations_id": []}

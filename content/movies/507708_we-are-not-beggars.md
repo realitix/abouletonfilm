@@ -1,1 +1,0 @@
-{"tmdb_id": 507708, "title": "We Are Not Beggars", "original_title": "We Are Not Beggars", "slug_title": "we-are-not-beggars", "date": "1997-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9wtNHK1ZsO06j1FNdx7gGk07N05.jpg", "actors": [], "comments": [], "recommandations_id": []}

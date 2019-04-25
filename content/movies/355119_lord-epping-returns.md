@@ -1,1 +1,0 @@
-{"tmdb_id": 355119, "title": "Lord Epping Returns", "original_title": "Lord Epping Returns", "slug_title": "lord-epping-returns", "date": "1951-09-21", "genre": "Com\u00e9die", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Leon Errol (Leon Errol / Lord Epping)"], "comments": [], "recommandations_id": []}

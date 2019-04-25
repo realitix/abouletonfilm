@@ -1,1 +1,0 @@
-{"tmdb_id": 43946, "title": "Kilowatt Ours", "original_title": "Kilowatt Ours", "slug_title": "kilowatt-ours", "date": "2005-12-01", "genre": "Drame / Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fKURcDmKJaHgRV2zhOd2b0PoThZ.jpg", "actors": ["Jeff Barrie (Himself)"], "comments": [], "recommandations_id": []}

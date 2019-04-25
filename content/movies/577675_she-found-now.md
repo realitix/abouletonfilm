@@ -1,1 +1,0 @@
-{"tmdb_id": 577675, "title": "She Found Now", "original_title": "She Found Now", "slug_title": "she-found-now", "date": "2018-04-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/63y5jPyFn0TVLwAOcyaVf0y03Xe.jpg", "actors": [], "comments": [], "recommandations_id": []}

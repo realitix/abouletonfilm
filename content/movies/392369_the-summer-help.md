@@ -1,1 +1,0 @@
-{"tmdb_id": 392369, "title": "The Summer Help", "original_title": "The Summer Help", "slug_title": "the-summer-help", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

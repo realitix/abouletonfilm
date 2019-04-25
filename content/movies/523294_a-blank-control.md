@@ -1,1 +1,0 @@
-{"tmdb_id": 523294, "title": "A Blank Control", "original_title": "A Blank Control", "slug_title": "a-blank-control", "date": "2017-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d8CSzurTd4wecsQKuFTc4lPPlWF.jpg", "actors": [], "comments": [], "recommandations_id": []}

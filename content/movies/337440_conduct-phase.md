@@ -1,1 +1,0 @@
-{"tmdb_id": 337440, "title": "Conduct Phase", "original_title": "Conduct Phase", "slug_title": "conduct-phase", "date": "2010-05-01", "genre": "", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nLMTMjSBIpOJSAEvlAvsb3VqFuw.jpg", "actors": [], "comments": [], "recommandations_id": []}

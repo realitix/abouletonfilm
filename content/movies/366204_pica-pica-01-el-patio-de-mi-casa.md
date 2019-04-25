@@ -1,1 +1,0 @@
-{"tmdb_id": 366204, "title": "Pica-Pica 01 El patio de mi casa", "original_title": "Pica-Pica 01 El patio de mi casa", "slug_title": "pica-pica-01-el-patio-de-mi-casa", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jWSXod3EvoJQYW915N37d77VBtE.jpg", "actors": [], "comments": [], "recommandations_id": []}

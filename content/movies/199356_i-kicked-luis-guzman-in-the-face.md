@@ -1,1 +1,0 @@
-{"tmdb_id": 199356, "title": "I Kicked Luis Guzman in the Face", "original_title": "I Kicked Luis Guzman in the Face", "slug_title": "i-kicked-luis-guzman-in-the-face", "date": "", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

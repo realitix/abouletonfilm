@@ -1,1 +1,0 @@
-{"tmdb_id": 393858, "title": "De Statusmakers", "original_title": "De Statusmakers", "slug_title": "de-statusmakers", "date": "2015-09-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dOmo7gEvSxYIIpt9KZwoxvCEDmj.jpg", "actors": [], "comments": [], "recommandations_id": []}

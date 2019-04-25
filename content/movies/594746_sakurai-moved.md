@@ -1,1 +1,0 @@
-{"tmdb_id": 594746, "title": "Sakurai moved", "original_title": "\u6afb\u4e95\u306e\u5f15\u8d8a", "slug_title": "sakurai-moved", "date": "1998-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nuf3gcbg3UU4ENoo9SqZPJkG7r8.jpg", "actors": [], "comments": [], "recommandations_id": []}

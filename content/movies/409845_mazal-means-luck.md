@@ -1,1 +1,0 @@
-{"tmdb_id": 409845, "title": "Mazal Means Luck", "original_title": "Mazal Means Luck", "slug_title": "mazal-means-luck", "date": "2015-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xFm4n86dgYvoB3j9ogIP8SsBAwj.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 320756, "title": "Tennessee Ernie Ford: His Life and Times", "original_title": "Tennessee Ernie Ford: His Life and Times", "slug_title": "tennessee-ernie-ford-his-life-and-times", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

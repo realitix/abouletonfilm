@@ -1,1 +1,0 @@
-{"tmdb_id": 306157, "title": "Hamrahi", "original_title": "Hamrahi", "slug_title": "hamrahi", "date": "1944-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

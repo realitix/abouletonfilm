@@ -1,1 +1,0 @@
-{"tmdb_id": 304898, "title": "The Y2K File", "original_title": "The Y2K File", "slug_title": "the-y2k-file", "date": "2009-07-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

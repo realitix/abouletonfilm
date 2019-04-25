@@ -1,1 +1,0 @@
-{"tmdb_id": 73231, "title": "Black XXX-Mas", "original_title": "Black XXX-Mas", "slug_title": "black-xxx-mas", "date": "1999-12-03", "genre": "Crime", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qLDvCbLw9BXwZFk6dLpAGtE2jwD.jpg", "actors": [], "comments": [], "recommandations_id": []}

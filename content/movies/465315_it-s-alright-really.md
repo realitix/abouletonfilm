@@ -1,1 +1,0 @@
-{"tmdb_id": 465315, "title": "It's Alright, Really?", "original_title": "\uad1c\ucc2e\uc544! \uc815\ub9d0?", "slug_title": "it-s-alright-really", "date": "2017-07-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

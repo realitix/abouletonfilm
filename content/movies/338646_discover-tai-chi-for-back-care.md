@@ -1,1 +1,0 @@
-{"tmdb_id": 338646, "title": "Discover Tai Chi for Back Care", "original_title": "Discover Tai Chi for Back Care", "slug_title": "discover-tai-chi-for-back-care", "date": "2009-03-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/c7ft8SQy9fahrpqeBUAQrTMfAhY.jpg", "actors": [], "comments": [], "recommandations_id": []}

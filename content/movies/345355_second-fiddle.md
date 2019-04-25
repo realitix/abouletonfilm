@@ -1,1 +1,0 @@
-{"tmdb_id": 345355, "title": "Second fiddle", "original_title": "Zweite Geige", "slug_title": "second-fiddle", "date": "1991-08-23", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Klaus Wildbolz ()", "Brigitte Grothum ()", "Ezard Hau\u00dfmann ()", "Edith Hancke ()"], "comments": [], "recommandations_id": []}

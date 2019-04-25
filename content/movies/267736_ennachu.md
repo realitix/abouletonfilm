@@ -1,1 +1,0 @@
-{"tmdb_id": 267736, "title": "Ennachu", "original_title": "Ennachu", "slug_title": "ennachu", "date": "2013-11-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sBgFo07oZtI9ft4AEJGeLfHxYNy.jpg", "actors": [], "comments": [], "recommandations_id": []}

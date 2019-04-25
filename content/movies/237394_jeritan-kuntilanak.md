@@ -1,1 +1,0 @@
-{"tmdb_id": 237394, "title": "Jeritan Kuntilanak", "original_title": "Jeritan Kuntilanak", "slug_title": "jeritan-kuntilanak", "date": "2009-11-04", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8l2cC3GtUHJcuE4vHDanZ5oyjhw.jpg", "actors": [], "comments": [], "recommandations_id": []}

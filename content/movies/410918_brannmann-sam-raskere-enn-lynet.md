@@ -1,1 +1,0 @@
-{"tmdb_id": 410918, "title": "Brannmann Sam - Raskere enn lynet", "original_title": "Brannmann Sam - Raskere enn lynet", "slug_title": "brannmann-sam-raskere-enn-lynet", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vH45dsjHUygyLAtnfhZwd9fmf24.jpg", "actors": [], "comments": [], "recommandations_id": []}

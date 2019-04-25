@@ -1,1 +1,0 @@
-{"tmdb_id": 406905, "title": "Town Hall", "original_title": "Town Hall", "slug_title": "town-hall", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

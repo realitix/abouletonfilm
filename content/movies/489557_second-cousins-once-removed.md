@@ -1,1 +1,0 @@
-{"tmdb_id": 489557, "title": "Second Cousins Once Removed", "original_title": "Second Cousins Once Removed", "slug_title": "second-cousins-once-removed", "date": "2010-05-03", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hal Alpert (Grandpa)", "Christopher Soren Kelly (Dave)"], "comments": [], "recommandations_id": []}

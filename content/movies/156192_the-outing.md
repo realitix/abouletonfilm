@@ -1,1 +1,0 @@
-{"tmdb_id": 156192, "title": "The Outing", "original_title": "Der Ausflug", "slug_title": "the-outing", "date": "2012-04-21", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xqkckKBodYfjQwg5lCondeKrh0T.jpg", "actors": [], "comments": [], "recommandations_id": []}

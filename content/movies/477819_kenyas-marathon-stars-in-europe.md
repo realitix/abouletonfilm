@@ -1,1 +1,0 @@
-{"tmdb_id": 477819, "title": "Kenya\u2019s marathon stars in Europe", "original_title": "Kenya\u2019s marathon stars in Europe", "slug_title": "kenyas-marathon-stars-in-europe", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

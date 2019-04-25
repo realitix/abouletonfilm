@@ -1,1 +1,0 @@
-{"tmdb_id": 527297, "title": "En Defensa Propia", "original_title": "En Defensa Propia", "slug_title": "en-defensa-propia", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/14vWFVnG3DiQ4Mp2rvS3hEypRdW.jpg", "actors": [], "comments": [], "recommandations_id": []}

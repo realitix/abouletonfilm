@@ -1,1 +1,0 @@
-{"tmdb_id": 243209, "title": "Project Hope", "original_title": "Project Hope", "slug_title": "project-hope", "date": "1961-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

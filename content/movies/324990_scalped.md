@@ -1,1 +1,0 @@
-{"tmdb_id": 324990, "title": "Scalped", "original_title": "Scalped", "slug_title": "scalped", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

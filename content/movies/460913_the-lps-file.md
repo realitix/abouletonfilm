@@ -1,1 +1,0 @@
-{"tmdb_id": 460913, "title": "The LPS File", "original_title": "The LPS File", "slug_title": "the-lps-file", "date": "1985-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

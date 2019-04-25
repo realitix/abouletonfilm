@@ -1,1 +1,0 @@
-{"tmdb_id": 487860, "title": "Green Dolphin", "original_title": "Green Dolphin", "slug_title": "green-dolphin", "date": "2008-06-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Azman Hassan ()", "Carmencita Hill ()"], "comments": [], "recommandations_id": []}

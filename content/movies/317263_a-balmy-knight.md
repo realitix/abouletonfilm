@@ -1,1 +1,0 @@
-{"tmdb_id": 317263, "title": "A Balmy Knight", "original_title": "A Balmy Knight", "slug_title": "a-balmy-knight", "date": "1966-06-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 309934, "title": "Hula and Natan", "original_title": "Hula and Natan", "slug_title": "hula-and-natan", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

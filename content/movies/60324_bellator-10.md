@@ -1,1 +1,0 @@
-{"tmdb_id": 60324, "title": "Bellator 10", "original_title": "Bellator 10", "slug_title": "bellator-10", "date": "2009-06-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dUfdFzGs0kQozHzR4VexuL1jeBd.jpg", "actors": [], "comments": [], "recommandations_id": []}

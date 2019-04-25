@@ -1,1 +1,0 @@
-{"tmdb_id": 510875, "title": "Una cueca en Cavancha", "original_title": "Una cueca en Cavancha", "slug_title": "una-cueca-en-cavancha", "date": "1897-05-19", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

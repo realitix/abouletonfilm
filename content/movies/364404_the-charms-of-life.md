@@ -1,1 +1,0 @@
-{"tmdb_id": 364404, "title": "The Charms of Life", "original_title": "Les charmes de l'existence", "slug_title": "the-charms-of-life", "date": "1950-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jean Gr\u00e9millon (Narrator)"], "comments": [], "recommandations_id": []}

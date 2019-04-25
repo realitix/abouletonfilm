@@ -1,1 +1,0 @@
-{"tmdb_id": 129932, "title": "Mokoma: Live at Max Stage", "original_title": "Mokoma: Live at Max Stage", "slug_title": "mokoma-live-at-max-stage", "date": "2007-10-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k0kv6oL6GAIr7NmrifTt2e6qI7V.jpg", "actors": [], "comments": [], "recommandations_id": []}

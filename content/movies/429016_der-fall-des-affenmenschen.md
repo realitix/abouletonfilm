@@ -1,1 +1,0 @@
-{"tmdb_id": 429016, "title": "Der Fall des Affenmenschen", "original_title": "Der Fall des Affenmenschen", "slug_title": "der-fall-des-affenmenschen", "date": "2004-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r1UoDMhIyAdfXTuLX3ZPzOHqlM.jpg", "actors": [], "comments": [], "recommandations_id": []}

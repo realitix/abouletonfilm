@@ -1,1 +1,0 @@
-{"tmdb_id": 565446, "title": "The Teenage Frankenstein", "original_title": "The Teenage Frankenstein", "slug_title": "the-teenage-frankenstein", "date": "1959-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s5SZfE3bgJsupbpc6X639u5Wxhr.jpg", "actors": [], "comments": [], "recommandations_id": []}

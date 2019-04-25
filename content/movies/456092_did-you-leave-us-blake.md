@@ -1,1 +1,0 @@
-{"tmdb_id": 456092, "title": "Did you leave us, Blake?", "original_title": "Did you leave us, Blake?", "slug_title": "did-you-leave-us-blake", "date": "2002-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kDybVfyIDhbn8PyTVSHnOodgW9n.jpg", "actors": ["Liv Ullmann ()"], "comments": [], "recommandations_id": []}

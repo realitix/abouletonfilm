@@ -1,1 +1,0 @@
-{"tmdb_id": 236017, "title": "A Hound for Trouble", "original_title": "A Hound for Trouble", "slug_title": "a-hound-for-trouble", "date": "1951-04-27", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/63yzwyg0hKb8CSQIDDeuS9ihcbC.jpg", "actors": [], "comments": [], "recommandations_id": []}

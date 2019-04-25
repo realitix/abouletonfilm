@@ -1,1 +1,0 @@
-{"tmdb_id": 552815, "title": "Reading: Who Needs It?", "original_title": "Reading: Who Needs It?", "slug_title": "reading-who-needs-it", "date": "1981-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

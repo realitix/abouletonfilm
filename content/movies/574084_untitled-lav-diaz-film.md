@@ -1,1 +1,0 @@
-{"tmdb_id": 574084, "title": "Untitled Lav Diaz Film", "original_title": "Untitled Lav Diaz Film", "slug_title": "untitled-lav-diaz-film", "date": "", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

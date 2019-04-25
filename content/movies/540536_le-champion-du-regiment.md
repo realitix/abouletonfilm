@@ -1,1 +1,0 @@
-{"tmdb_id": 540536, "title": "Le champion du r\u00e9giment", "original_title": "Le champion du r\u00e9giment", "slug_title": "le-champion-du-regiment", "date": "1932-09-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

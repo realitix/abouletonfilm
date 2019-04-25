@@ -1,1 +1,0 @@
-{"tmdb_id": 153119, "title": "Dojoji Temple", "original_title": "D\u00f4j\u00f4ji", "slug_title": "dojoji-temple", "date": "1976-12-31", "genre": "Animation", "score": "6.6/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p3wslgK6J0YOUP0AMy4T7sl6ICV.jpg", "actors": [], "comments": [], "recommandations_id": [315647, 148514, 260793, 113989]}

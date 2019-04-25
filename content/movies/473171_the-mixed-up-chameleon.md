@@ -1,1 +1,0 @@
-{"tmdb_id": 473171, "title": "The Mixed-Up Chameleon", "original_title": "The Mixed-Up Chameleon", "slug_title": "the-mixed-up-chameleon", "date": "1993-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r3oYNeAXmOcNFKL4VH1EFRYeCxV.jpg", "actors": [], "comments": [], "recommandations_id": []}

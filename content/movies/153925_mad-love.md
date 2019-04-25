@@ -1,1 +1,0 @@
-{"tmdb_id": 153925, "title": "Mad Love", "original_title": "Mad Love", "slug_title": "mad-love", "date": "2010-03-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/slq23pbaELNvII4PqRlK7vBkkWx.jpg", "actors": ["Rocco Reed (Curtis)"], "comments": [], "recommandations_id": []}

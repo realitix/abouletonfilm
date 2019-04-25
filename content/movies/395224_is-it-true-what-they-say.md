@@ -1,1 +1,0 @@
-{"tmdb_id": 395224, "title": "Is it true what they say", "original_title": "Is it true what they say", "slug_title": "is-it-true-what-they-say", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w799e1zICYiAb08tX0pGfaVjnbo.jpg", "actors": [], "comments": [], "recommandations_id": []}

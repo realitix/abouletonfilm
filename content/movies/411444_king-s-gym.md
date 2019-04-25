@@ -1,1 +1,0 @@
-{"tmdb_id": 411444, "title": "King's Gym", "original_title": "King's Gym", "slug_title": "king-s-gym", "date": "2013-08-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/20Zfq7uEnySiu8FD1zry2qoPR6p.jpg", "actors": [], "comments": [], "recommandations_id": []}

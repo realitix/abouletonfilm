@@ -1,1 +1,0 @@
-{"tmdb_id": 348995, "title": "She Lives Her Life", "original_title": "She Lives Her Life", "slug_title": "she-lives-her-life", "date": "2015-08-25", "genre": "Romance / Com\u00e9die / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p5PXfub4gCX7tBTaWCkHuNiGNW1.jpg", "actors": [], "comments": [], "recommandations_id": []}

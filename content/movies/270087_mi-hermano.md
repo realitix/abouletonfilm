@@ -1,1 +1,0 @@
-{"tmdb_id": 270087, "title": "Mi hermano", "original_title": "Mi hermano", "slug_title": "mi-hermano", "date": "2006-09-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jose Maria Benitez ()", "David Dur\u00e1n ()", "Pedro Pablo Isla ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 452241, "title": "Richard III: The King in the Car Park", "original_title": "Richard III: The King in the Car Park", "slug_title": "richard-iii-the-king-in-the-car-park", "date": "2013-02-04", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

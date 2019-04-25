@@ -1,1 +1,0 @@
-{"tmdb_id": 341551, "title": "Think of Me", "original_title": "Pon tu pensamiento en m\u00ed", "slug_title": "think-of-me", "date": "1996-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9BN5lzRYWlmCXRocqv6aocjCSDy.jpg", "actors": [], "comments": [], "recommandations_id": []}

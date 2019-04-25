@@ -1,1 +1,0 @@
-{"tmdb_id": 333554, "title": "Ares vs Atlas", "original_title": "Ar\u00e8s contre Atlas", "slug_title": "ares-vs-atlas", "date": "1967-03-31", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3Vcpiq0SvcsAPyJsygskL2ifCUi.jpg", "actors": [], "comments": [], "recommandations_id": []}

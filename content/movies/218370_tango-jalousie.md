@@ -1,1 +1,0 @@
-{"tmdb_id": 218370, "title": "Tango Jalousie", "original_title": "Tango Jalousie", "slug_title": "tango-jalousie", "date": "1996-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

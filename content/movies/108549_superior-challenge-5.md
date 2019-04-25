@@ -1,1 +1,0 @@
-{"tmdb_id": 108549, "title": "Superior Challenge 5", "original_title": "Superior Challenge 5", "slug_title": "superior-challenge-5", "date": "2010-04-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9G182IgzAfMFSFxeJ8xODeKuLUQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

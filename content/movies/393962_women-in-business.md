@@ -1,1 +1,0 @@
-{"tmdb_id": 393962, "title": "Women in Business", "original_title": "Women in Business", "slug_title": "women-in-business", "date": "", "genre": "Com\u00e9die", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kate McKinnon ()", "Emma Stone ()", "Jillian Bell ()"], "comments": [], "recommandations_id": []}

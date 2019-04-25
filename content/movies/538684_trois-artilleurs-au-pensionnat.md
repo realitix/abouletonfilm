@@ -1,1 +1,0 @@
-{"tmdb_id": 538684, "title": "Trois artilleurs au pensionnat", "original_title": "Trois artilleurs au pensionnat", "slug_title": "trois-artilleurs-au-pensionnat", "date": "1937-03-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/suFwmcH4ptsit7JGjs50b5HJBz1.jpg", "actors": [], "comments": [], "recommandations_id": []}

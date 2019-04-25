@@ -1,1 +1,0 @@
-{"tmdb_id": 517568, "title": "Let My People Vote", "original_title": "Let My People Vote", "slug_title": "let-my-people-vote", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

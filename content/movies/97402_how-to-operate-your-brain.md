@@ -1,1 +1,0 @@
-{"tmdb_id": 97402, "title": "How To Operate Your Brain", "original_title": "How To Operate Your Brain", "slug_title": "how-to-operate-your-brain", "date": "1994-11-04", "genre": "Documentaire", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ji4UUZOdipNeDk74ND2we4oVktC.jpg", "actors": [], "comments": [], "recommandations_id": []}

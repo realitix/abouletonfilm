@@ -1,1 +1,0 @@
-{"tmdb_id": 530696, "title": "Uralt und Blut Jung", "original_title": "Uralt und Blut Jung", "slug_title": "uralt-und-blut-jung", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nkCSowFQZgub3CScpOVnluX5UQT.jpg", "actors": [], "comments": [], "recommandations_id": []}

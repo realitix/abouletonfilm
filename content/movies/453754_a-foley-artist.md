@@ -1,1 +1,0 @@
-{"tmdb_id": 453754, "title": "A Foley Artist", "original_title": "\u64ec\u97f3", "slug_title": "a-foley-artist", "date": "2017-04-14", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fnVW86aoBI1ZWKdVJXAPDq9VejF.jpg", "actors": ["Hu Ding-Yi (Hu Ding-Yi)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 62130, "title": "Big Bang in Tunguska", "original_title": "El Big Bang de Tunguska", "slug_title": "big-bang-in-tunguska", "date": "2008-06-01", "genre": "Documentaire", "score": "8.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xEY4CO6F0OPC3Ni6tpzG8qc6KBv.jpg", "actors": [], "comments": [], "recommandations_id": []}

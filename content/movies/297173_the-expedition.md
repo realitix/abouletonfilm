@@ -1,1 +1,0 @@
-{"tmdb_id": 297173, "title": "The Expedition", "original_title": "The Expedition", "slug_title": "the-expedition", "date": "", "genre": "", "score": "2.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

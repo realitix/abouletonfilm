@@ -1,1 +1,0 @@
-{"tmdb_id": 314651, "title": "Scenario", "original_title": "Szenario", "slug_title": "scenario", "date": "2014-02-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oRvVBKkYm7OfSY9eJ8sjekY2Xwr.jpg", "actors": [], "comments": [], "recommandations_id": []}

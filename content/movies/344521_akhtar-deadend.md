@@ -1,1 +1,0 @@
-{"tmdb_id": 344521, "title": "Akhtar Deadend", "original_title": "Bonbaste Akhtar", "slug_title": "akhtar-deadend", "date": "2015-06-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bGoumv4gmUNSJ5nkyHviCIjMwcu.jpg", "actors": ["Mirhossein Mousavi (Him-self)"], "comments": [], "recommandations_id": []}

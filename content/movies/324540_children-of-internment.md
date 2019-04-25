@@ -1,1 +1,0 @@
-{"tmdb_id": 324540, "title": "Children of Internment", "original_title": "Children of Internment", "slug_title": "children-of-internment", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

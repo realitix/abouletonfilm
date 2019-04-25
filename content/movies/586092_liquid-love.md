@@ -1,1 +1,0 @@
-{"tmdb_id": 586092, "title": "Liquid Love", "original_title": "Liquid Love", "slug_title": "liquid-love", "date": "2013-03-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

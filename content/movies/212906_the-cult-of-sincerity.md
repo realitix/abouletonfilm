@@ -1,1 +1,0 @@
-{"tmdb_id": 212906, "title": "The Cult of Sincerity", "original_title": "The Cult of Sincerity", "slug_title": "the-cult-of-sincerity", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

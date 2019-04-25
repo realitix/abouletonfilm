@@ -1,1 +1,0 @@
-{"tmdb_id": 354009, "title": "Making of Dyn Amo", "original_title": "Making of Dyn Amo", "slug_title": "making-of-dyn-amo", "date": "2006-08-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

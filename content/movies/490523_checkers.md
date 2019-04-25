@@ -1,1 +1,0 @@
-{"tmdb_id": 490523, "title": "Checkers", "original_title": "Checkers", "slug_title": "checkers", "date": "1937-12-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iAIJyzfSwpHREza3mO1ParjzdHA.jpg", "actors": ["Jane Withers ()", "Stuart Erwin ()", "Una Merkel ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 279870, "title": "Antebios", "original_title": "Antebios", "slug_title": "antebios", "date": "1998-07-02", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7DanOOxrWaJWmLg33Vwx02x4EB6.jpg", "actors": ["Yves Soucasse ()", "Jean-Paul Zehnacker ()"], "comments": [], "recommandations_id": []}

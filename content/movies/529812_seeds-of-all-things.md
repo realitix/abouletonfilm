@@ -1,1 +1,0 @@
-{"tmdb_id": 529812, "title": "Seeds of All Things", "original_title": "Seeds of All Things", "slug_title": "seeds-of-all-things", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4Vo8CHBuKkBf0BBksB0dkQ9ay9H.jpg", "actors": [], "comments": [], "recommandations_id": []}

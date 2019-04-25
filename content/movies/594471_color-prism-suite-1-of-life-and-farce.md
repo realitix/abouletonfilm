@@ -1,1 +1,0 @@
-{"tmdb_id": 594471, "title": "Color Prism Suite #1: Of Life and Farce", "original_title": "Color Prism Suite #1: Of Life and Farce", "slug_title": "color-prism-suite-1-of-life-and-farce", "date": "2016-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

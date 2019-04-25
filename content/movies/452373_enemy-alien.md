@@ -1,1 +1,0 @@
-{"tmdb_id": 452373, "title": "Enemy Alien", "original_title": "Enemy Alien", "slug_title": "enemy-alien", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5tqfPOc6kdU9ysfa5IBUcglfJwS.jpg", "actors": [], "comments": [], "recommandations_id": []}

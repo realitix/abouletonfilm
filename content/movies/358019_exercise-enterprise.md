@@ -1,1 +1,0 @@
-{"tmdb_id": 358019, "title": "Exercise Enterprise", "original_title": "Exercise Enterprise", "slug_title": "exercise-enterprise", "date": "1968-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i99Jj1PWUu075KAxr282hzwhSsx.jpg", "actors": [], "comments": [], "recommandations_id": []}

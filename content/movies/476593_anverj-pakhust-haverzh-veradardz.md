@@ -1,1 +1,0 @@
-{"tmdb_id": 476593, "title": "Anverj pakhust, haverzh veradardz", "original_title": "Anverj pakhust, haverzh veradardz", "slug_title": "anverj-pakhust-haverzh-veradardz", "date": "", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

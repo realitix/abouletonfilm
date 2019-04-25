@@ -1,1 +1,0 @@
-{"tmdb_id": 198073, "title": "Rhythms", "original_title": "Rhythms", "slug_title": "rhythms", "date": "1929-06-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4Agghc1okQSBbrY6u3v8Mllbzls.jpg", "actors": [], "comments": [], "recommandations_id": []}

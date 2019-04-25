@@ -1,1 +1,0 @@
-{"tmdb_id": 481081, "title": "What Makes a Fine Watch Fine?", "original_title": "What Makes a Fine Watch Fine?", "slug_title": "what-makes-a-fine-watch-fine", "date": "1947-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

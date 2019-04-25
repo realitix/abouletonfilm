@@ -1,1 +1,0 @@
-{"tmdb_id": 264557, "title": "The Bad Habit", "original_title": "La mala costumbre", "slug_title": "the-bad-habit", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Luis Gerardo M\u00e9ndez ()", "Paola Izquierdo ()", "Mariana Trevi\u00f1o ()"], "comments": [], "recommandations_id": []}

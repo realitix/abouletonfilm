@@ -1,1 +1,0 @@
-{"tmdb_id": 202360, "title": "Coo Coo Nuts", "original_title": "Coo Coo Nuts", "slug_title": "coo-coo-nuts", "date": "1970-07-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zPU68WVk6YKYENBcdsN9Pcnd62z.jpg", "actors": [], "comments": [], "recommandations_id": []}

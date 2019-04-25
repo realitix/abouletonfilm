@@ -1,1 +1,0 @@
-{"tmdb_id": 343531, "title": "Queso-Piment\u00f3n", "original_title": "Queso-Piment\u00f3n", "slug_title": "queso-pimenton", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

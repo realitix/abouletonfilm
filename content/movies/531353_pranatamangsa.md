@@ -1,1 +1,0 @@
-{"tmdb_id": 531353, "title": "Pranatamangsa", "original_title": "Pranatamangsa", "slug_title": "pranatamangsa", "date": "2017-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wn6i0oeg404PRvgO11TTlcj1hwP.jpg", "actors": [], "comments": [], "recommandations_id": []}

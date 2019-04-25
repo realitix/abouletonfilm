@@ -1,1 +1,0 @@
-{"tmdb_id": 383067, "title": "Sumpah (ini) Pocong", "original_title": "Sumpah (ini) Pocong", "slug_title": "sumpah-ini-pocong", "date": "2009-02-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6oJHQuDrNYYvNUD1BbVK4bsbgJ2.jpg", "actors": [], "comments": [], "recommandations_id": []}

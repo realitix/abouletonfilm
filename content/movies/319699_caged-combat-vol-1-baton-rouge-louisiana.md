@@ -1,1 +1,0 @@
-{"tmdb_id": 319699, "title": "Caged Combat: Vol. 1: Baton Rouge, Louisiana", "original_title": "Caged Combat: Vol. 1: Baton Rouge, Louisiana", "slug_title": "caged-combat-vol-1-baton-rouge-louisiana", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

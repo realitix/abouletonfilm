@@ -1,1 +1,0 @@
-{"tmdb_id": 65655, "title": "The Hives: Tussles in Brussels", "original_title": "The Hives: Tussles in Brussels", "slug_title": "the-hives-tussles-in-brussels", "date": "2004-03-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dQSILlHUVR1Jejp9J9SelulC8K4.jpg", "actors": [], "comments": [], "recommandations_id": []}

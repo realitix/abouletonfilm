@@ -1,1 +1,0 @@
-{"tmdb_id": 305808, "title": "Karpov Kasparov - Two Kings for a Crown", "original_title": "Karpov Kasparov - Two Kings for a Crown", "slug_title": "karpov-kasparov-two-kings-for-a-crown", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

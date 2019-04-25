@@ -1,1 +1,0 @@
-{"tmdb_id": 289492, "title": "The Unemployed Photographer", "original_title": "Der stellungslose Photograph", "slug_title": "the-unemployed-photographer", "date": "1912-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hanni Weisse ()"], "comments": [], "recommandations_id": []}

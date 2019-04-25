@@ -1,1 +1,0 @@
-{"tmdb_id": 239779, "title": "Natural Glasses", "original_title": "Naturlige briller", "slug_title": "natural-glasses", "date": "2001-09-14", "genre": "Drame", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ijY8xaukLGR7811smieBg5y4bB.jpg", "actors": ["Per Christian Veberg (Main)"], "comments": [], "recommandations_id": []}

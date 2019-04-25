@@ -1,1 +1,0 @@
-{"tmdb_id": 322263, "title": "Pattanakke Banda Patniyaru", "original_title": "Pattanakke Banda Patniyaru", "slug_title": "pattanakke-banda-patniyaru", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

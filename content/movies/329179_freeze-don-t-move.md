@@ -1,1 +1,0 @@
-{"tmdb_id": 329179, "title": "Freeze, Don't Move", "original_title": "Bi Harekat, Tekun Nakhor", "slug_title": "freeze-don-t-move", "date": "1950-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

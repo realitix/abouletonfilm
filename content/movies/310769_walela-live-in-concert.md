@@ -1,1 +1,0 @@
-{"tmdb_id": 310769, "title": "Walela: Live in Concert", "original_title": "Walela: Live in Concert", "slug_title": "walela-live-in-concert", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

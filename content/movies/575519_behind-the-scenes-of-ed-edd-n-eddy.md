@@ -1,1 +1,0 @@
-{"tmdb_id": 575519, "title": "Behind the Scenes of Ed, Edd, n Eddy", "original_title": "Behind the Scenes of Ed, Edd, n Eddy", "slug_title": "behind-the-scenes-of-ed-edd-n-eddy", "date": "2005-05-09", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

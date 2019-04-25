@@ -1,1 +1,0 @@
-{"tmdb_id": 389242, "title": "Ghost: [2015] Leeds Festival", "original_title": "Ghost: [2015] Leeds Festival", "slug_title": "ghost-2015-leeds-festival", "date": "2015-08-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mLsp9orz8frqxHU467UcckUIe9Z.jpg", "actors": [], "comments": [], "recommandations_id": []}

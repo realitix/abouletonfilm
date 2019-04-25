@@ -1,1 +1,0 @@
-{"tmdb_id": 467626, "title": "A testimony about her", "original_title": "Vittnesb\u00f6rd om henne", "slug_title": "a-testimony-about-her", "date": "1963-04-21", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Monica Zetterlund (herself)", "Vilgot Sj\u00f6man (the reporter)"], "comments": [], "recommandations_id": []}

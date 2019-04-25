@@ -1,1 +1,0 @@
-{"tmdb_id": 561613, "title": "Lil B - New World Basnam", "original_title": "Lil B - New World Basnam", "slug_title": "lil-b-new-world-basnam", "date": "2012-11-01", "genre": "Animation / Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

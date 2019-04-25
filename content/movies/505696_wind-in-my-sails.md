@@ -1,1 +1,0 @@
-{"tmdb_id": 505696, "title": "Wind in My Sails", "original_title": "Wind in My Sails", "slug_title": "wind-in-my-sails", "date": "2002-01-01", "genre": "Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

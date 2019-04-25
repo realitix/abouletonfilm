@@ -1,1 +1,0 @@
-{"tmdb_id": 44240, "title": "The Sleeping Beauty", "original_title": "The Sleeping Beauty", "slug_title": "the-sleeping-beauty", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

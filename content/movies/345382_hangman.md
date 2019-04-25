@@ -1,1 +1,0 @@
-{"tmdb_id": 345382, "title": "Hangman", "original_title": "Hangman", "slug_title": "hangman", "date": "2007-06-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Thea Ringen (Miriam)", "Tor Nordstrand (St\u00e5le)", "Anne Marit Jacobsen (L\u00e6rer)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 250789, "title": "Love During Wartime", "original_title": "Love During Wartime", "slug_title": "love-during-wartime", "date": "2010-11-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1au4iDGPmA24f19iRcFS8V8SVDQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

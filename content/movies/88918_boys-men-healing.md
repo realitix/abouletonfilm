@@ -1,1 +1,0 @@
-{"tmdb_id": 88918, "title": "Boys & Men Healing", "original_title": "Boys & Men Healing", "slug_title": "boys-men-healing", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bk2aeSaKVJ5shZuDVVhkpauUWOs.jpg", "actors": [], "comments": [], "recommandations_id": []}

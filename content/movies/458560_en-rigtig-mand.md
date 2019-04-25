@@ -1,1 +1,0 @@
-{"tmdb_id": 458560, "title": "En Rigtig Mand", "original_title": "En Rigtig Mand", "slug_title": "en-rigtig-mand", "date": "2012-07-04", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yLsYCjIalK5paukp9hTSD1eVp9V.jpg", "actors": [], "comments": [], "recommandations_id": []}

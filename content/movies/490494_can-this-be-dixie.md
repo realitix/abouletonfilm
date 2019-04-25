@@ -1,1 +1,0 @@
-{"tmdb_id": 490494, "title": "Can This Be Dixie?", "original_title": "Can This Be Dixie?", "slug_title": "can-this-be-dixie", "date": "1936-11-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oOPe0NH8wMguOHNygnWKTNon12K.jpg", "actors": [], "comments": [], "recommandations_id": []}

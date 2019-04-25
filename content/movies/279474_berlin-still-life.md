@@ -1,1 +1,0 @@
-{"tmdb_id": 279474, "title": "Berlin Still-Life", "original_title": "Berliner Stilleben", "slug_title": "berlin-still-life", "date": "1926-01-02", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5ZYwAeK4gUsUh6rdV85H4Enw3Cp.jpg", "actors": [], "comments": [], "recommandations_id": []}

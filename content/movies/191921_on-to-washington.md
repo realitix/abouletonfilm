@@ -1,1 +1,0 @@
-{"tmdb_id": 191921, "title": "On to Washington", "original_title": "On to Washington", "slug_title": "on-to-washington", "date": "1913-05-07", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Elisabeth Freeman (Herself)", "Rosalie Jones (Herself)"], "comments": [], "recommandations_id": []}

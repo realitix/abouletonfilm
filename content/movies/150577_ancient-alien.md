@@ -1,1 +1,0 @@
-{"tmdb_id": 150577, "title": "Ancient Alien", "original_title": "Ancient Alien", "slug_title": "ancient-alien", "date": "1998-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Ro00CHGw5nF5Gz8moywtIGbvq7.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 65995, "title": "Dripped", "original_title": "Dripped", "slug_title": "dripped", "date": "2011-06-14", "genre": "Animation", "score": "5.9/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7Ojm8tl7gp9bfarspPVpBhqY7l9.jpg", "actors": [], "comments": [], "recommandations_id": []}

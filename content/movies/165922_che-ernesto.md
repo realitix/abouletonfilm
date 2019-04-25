@@ -1,1 +1,0 @@
-{"tmdb_id": 165922, "title": "Che... Ernesto", "original_title": "Che... Ernesto", "slug_title": "che-ernesto", "date": "1998-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6dNrxTpScltAgsW0fQWHKnIeSAz.jpg", "actors": [], "comments": [], "recommandations_id": []}

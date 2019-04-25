@@ -1,1 +1,0 @@
-{"tmdb_id": 526395, "title": "Victory Quiz", "original_title": "Victory Quiz", "slug_title": "victory-quiz", "date": "1942-05-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pete Smith ()", "Alan Hale Jr. ()", "Dave O'Brien ()"], "comments": [], "recommandations_id": []}

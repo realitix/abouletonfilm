@@ -1,1 +1,0 @@
-{"tmdb_id": 150105, "title": "Alien Investigations", "original_title": "Alien Investigations", "slug_title": "alien-investigations", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4FdQdvgs0f5hzct2SRmwMzvgiD7.jpg", "actors": [], "comments": [], "recommandations_id": []}

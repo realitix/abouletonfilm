@@ -1,1 +1,0 @@
-{"tmdb_id": 359210, "title": "What Is True Love?", "original_title": "What Is True Love?", "slug_title": "what-is-true-love", "date": "2015-07-01", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k46m8jsGOPG6qhCpnyvPxy0XbqC.jpg", "actors": [], "comments": [], "recommandations_id": []}

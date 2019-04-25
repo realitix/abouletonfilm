@@ -1,1 +1,0 @@
-{"tmdb_id": 309297, "title": "Nude Vampires", "original_title": "Nude Vampires", "slug_title": "nude-vampires", "date": "1994-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Felicia Danay ()", "Donni Richards ()", "Cathleen Raye ()", "Mike Malfitano ()", "Brian Andrews ()"], "comments": [], "recommandations_id": []}

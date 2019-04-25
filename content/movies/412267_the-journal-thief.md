@@ -1,1 +1,0 @@
-{"tmdb_id": 412267, "title": "The Journal Thief", "original_title": "The Journal Thief", "slug_title": "the-journal-thief", "date": "2014-07-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4AUlYrCITW5mPKE0PgnfuUmPO02.jpg", "actors": [], "comments": [], "recommandations_id": []}

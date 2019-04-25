@@ -1,1 +1,0 @@
-{"tmdb_id": 423987, "title": "Mark Tobey Abroad", "original_title": "Mark Tobey Abroad", "slug_title": "mark-tobey-abroad", "date": "1973-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yRXhLQWY1Q9oOzJJYZFuewIRF3Q.jpg", "actors": ["Mark Tobey (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 110047, "title": "The Ghost and Master Boh", "original_title": "The Ghost and Master Boh", "slug_title": "the-ghost-and-master-boh", "date": "2008-04-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jSC1b5niXiG52Ydr1CLnazpWOWi.jpg", "actors": [], "comments": [], "recommandations_id": []}

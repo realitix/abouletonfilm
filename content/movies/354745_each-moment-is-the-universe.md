@@ -1,1 +1,0 @@
-{"tmdb_id": 354745, "title": "Each Moment Is The Universe", "original_title": "Each Moment Is The Universe", "slug_title": "each-moment-is-the-universe", "date": "2010-06-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

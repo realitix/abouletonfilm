@@ -1,1 +1,0 @@
-{"tmdb_id": 169764, "title": "Collectors Obsessions", "original_title": "Collectors Obsessions", "slug_title": "collectors-obsessions", "date": "2008-02-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/omatpGnOxGlJzlSCmassdI3WfMM.jpg", "actors": ["Andy Muirhead ()"], "comments": [], "recommandations_id": []}

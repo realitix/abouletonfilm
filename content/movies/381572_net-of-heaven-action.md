@@ -1,1 +1,0 @@
-{"tmdb_id": 381572, "title": "Net of Heaven Action", "original_title": "Net of Heaven Action", "slug_title": "net-of-heaven-action", "date": "1994-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pNx8KzKtJxiCBNXmrCIPVtq5bGg.jpg", "actors": [], "comments": [], "recommandations_id": []}

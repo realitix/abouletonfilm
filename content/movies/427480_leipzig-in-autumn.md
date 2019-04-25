@@ -1,1 +1,0 @@
-{"tmdb_id": 427480, "title": "Leipzig in Autumn", "original_title": "Leipzig im Herbst", "slug_title": "leipzig-in-autumn", "date": "1989-11-24", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wQLeHzZO4l31pvhDV5RgjuzY45e.jpg", "actors": [], "comments": [], "recommandations_id": []}

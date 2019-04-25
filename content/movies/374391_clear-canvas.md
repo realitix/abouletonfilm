@@ -1,1 +1,0 @@
-{"tmdb_id": 374391, "title": "Clear Canvas", "original_title": "Clear Canvas", "slug_title": "clear-canvas", "date": "1984-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4t7Dri10dItBTJLvUWtLrlDMkYF.jpg", "actors": ["James Williams ()"], "comments": [], "recommandations_id": []}

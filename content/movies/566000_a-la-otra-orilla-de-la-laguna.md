@@ -1,1 +1,0 @@
-{"tmdb_id": 566000, "title": "A la otra orilla de la laguna", "original_title": "A la otra orilla de la laguna", "slug_title": "a-la-otra-orilla-de-la-laguna", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

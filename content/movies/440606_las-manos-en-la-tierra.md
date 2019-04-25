@@ -1,1 +1,0 @@
-{"tmdb_id": 440606, "title": "Las manos en la tierra", "original_title": "Las manos en la tierra", "slug_title": "las-manos-en-la-tierra", "date": "2010-09-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ispFgDS8fdrazZ18GKy1IGFZGs2.jpg", "actors": [], "comments": [], "recommandations_id": []}

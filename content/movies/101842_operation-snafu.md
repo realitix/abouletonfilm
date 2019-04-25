@@ -1,1 +1,0 @@
-{"tmdb_id": 101842, "title": "Operation Snafu", "original_title": "Operation Snafu", "slug_title": "operation-snafu", "date": "1945-10-15", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bt3jVBZYIr5MTShNv2CSl8voli8.jpg", "actors": ["Mel Blanc (Pvt. Snafu)"], "comments": [], "recommandations_id": []}

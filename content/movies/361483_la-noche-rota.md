@@ -1,1 +1,0 @@
-{"tmdb_id": 361483, "title": "La Noche Rota", "original_title": "La Noche Rota", "slug_title": "la-noche-rota", "date": "2011-05-15", "genre": "Drame", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gonzalo Ramos (Pablo)", "Andrea Ros (Clara)", "Carla Antonelli (Mother)", "Paola Bontempi (Liuvana)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 572376, "title": "Monkey\u2019s Birthday", "original_title": "Monkey\u2019s Birthday", "slug_title": "monkeys-birthday", "date": "1976-05-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

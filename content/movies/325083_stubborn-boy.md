@@ -1,1 +1,0 @@
-{"tmdb_id": 325083, "title": "Stubborn Boy", "original_title": "Bube Stur", "slug_title": "stubborn-boy", "date": "2015-02-09", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gwJQQsF6dB2YP5JZftHSw3wPH1O.jpg", "actors": ["Ceci Chuh ()", "J\u00fcrgen Lehmann ()"], "comments": [], "recommandations_id": []}

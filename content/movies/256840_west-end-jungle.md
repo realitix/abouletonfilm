@@ -1,1 +1,0 @@
-{"tmdb_id": 256840, "title": "West End Jungle", "original_title": "West End Jungle", "slug_title": "west-end-jungle", "date": "1961-12-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n7Zq36LKarVL3HUb7HTMsG8i4Bo.jpg", "actors": [], "comments": [], "recommandations_id": []}

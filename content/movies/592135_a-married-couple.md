@@ -1,1 +1,0 @@
-{"tmdb_id": 592135, "title": "A Married Couple", "original_title": "Et \u00e6gte par", "slug_title": "a-married-couple", "date": "2019-03-21", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

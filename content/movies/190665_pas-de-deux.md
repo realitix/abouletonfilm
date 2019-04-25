@@ -1,1 +1,0 @@
-{"tmdb_id": 190665, "title": "Pas de deux", "original_title": "Pas de deux", "slug_title": "pas-de-deux", "date": "1902-10-11", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m5IH66aRIjxnc0bDG4CaSVBWt4b.jpg", "actors": ["Margrethe Andersen ()", "Clara Rasmussen ()"], "comments": [], "recommandations_id": []}

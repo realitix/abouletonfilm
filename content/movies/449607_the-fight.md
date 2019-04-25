@@ -1,1 +1,0 @@
-{"tmdb_id": 449607, "title": "The Fight", "original_title": "The Fight", "slug_title": "the-fight", "date": "2017-03-29", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 386428, "title": "Megadeth: Set Essen on Fire", "original_title": "Megadeth: Set Essen on Fire", "slug_title": "megadeth-set-essen-on-fire", "date": "1988-05-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ghNUrKkdyE42GMvOsRZwHMDlG07.jpg", "actors": [], "comments": [], "recommandations_id": []}

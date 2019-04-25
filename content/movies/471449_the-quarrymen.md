@@ -1,1 +1,0 @@
-{"tmdb_id": 471449, "title": "The Quarrymen", "original_title": "Y Chwarelwr", "slug_title": "the-quarrymen", "date": "1935-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nwFy6CmgdwSWtH34lsAZfIvuCKt.jpg", "actors": ["Robert Jones ()"], "comments": [], "recommandations_id": []}

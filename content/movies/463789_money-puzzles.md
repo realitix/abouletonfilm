@@ -1,1 +1,0 @@
-{"tmdb_id": 463789, "title": "Money Puzzles", "original_title": "Money Puzzles", "slug_title": "money-puzzles", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tariq Ali ()"], "comments": [], "recommandations_id": []}

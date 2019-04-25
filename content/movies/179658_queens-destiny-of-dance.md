@@ -1,1 +1,0 @@
-{"tmdb_id": 179658, "title": "Queens! Destiny of Dance", "original_title": "Queens! Destiny of Dance", "slug_title": "queens-destiny-of-dance", "date": "2011-04-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yy72teZiX5KboR1EM6Fu1jSFkip.jpg", "actors": [], "comments": [], "recommandations_id": []}

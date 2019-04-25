@@ -1,1 +1,0 @@
-{"tmdb_id": 353467, "title": "The Truck Farmer", "original_title": "The Truck Farmer", "slug_title": "the-truck-farmer", "date": "1954-01-01", "genre": "Documentaire", "score": "1.7/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["James Brill ()"], "comments": [], "recommandations_id": [353493, 321129, 81937, 31282]}

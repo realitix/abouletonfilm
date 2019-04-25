@@ -1,1 +1,0 @@
-{"tmdb_id": 477995, "title": "Searching for Yellow", "original_title": "Searching for Yellow", "slug_title": "searching-for-yellow", "date": "2012-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

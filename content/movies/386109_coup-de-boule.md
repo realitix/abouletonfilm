@@ -1,1 +1,0 @@
-{"tmdb_id": 386109, "title": "Coup de boule", "original_title": "Coup de boule", "slug_title": "coup-de-boule", "date": "1988-02-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

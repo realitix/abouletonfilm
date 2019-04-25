@@ -1,1 +1,0 @@
-{"tmdb_id": 546929, "title": "El Ruido Son Las Casas", "original_title": "El Ruido Son Las Casas", "slug_title": "el-ruido-son-las-casas", "date": "2018-03-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m5Bbvb6LzXRz9fX9hSm4lt8uktk.jpg", "actors": [], "comments": [], "recommandations_id": []}

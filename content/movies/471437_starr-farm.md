@@ -1,1 +1,0 @@
-{"tmdb_id": 471437, "title": "Starr Farm", "original_title": "Starr Farm", "slug_title": "starr-farm", "date": "2016-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

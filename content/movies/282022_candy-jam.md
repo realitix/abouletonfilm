@@ -1,1 +1,0 @@
-{"tmdb_id": 282022, "title": "Candy Jam", "original_title": "Candy Jam", "slug_title": "candy-jam", "date": "1988-01-02", "genre": "", "score": "1.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

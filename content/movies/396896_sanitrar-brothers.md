@@ -1,1 +1,0 @@
-{"tmdb_id": 396896, "title": "Sanitrar Brothers", "original_title": "Sanitr\u00e1rovci", "slug_title": "sanitrar-brothers", "date": "1980-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qDxCT3EZOHfUKoe0MXmr1akCKIS.jpg", "actors": [], "comments": [], "recommandations_id": []}

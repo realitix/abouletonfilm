@@ -1,1 +1,0 @@
-{"tmdb_id": 152183, "title": "TheEYE: Julian Opie", "original_title": "TheEYE: Julian Opie", "slug_title": "theeye-julian-opie", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vLou3VHO5qhiucc0xG49iXGWSvT.jpg", "actors": [], "comments": [], "recommandations_id": []}

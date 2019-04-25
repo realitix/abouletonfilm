@@ -1,1 +1,0 @@
-{"tmdb_id": 372671, "title": "A Bear Escape", "original_title": "A Bear Escape", "slug_title": "a-bear-escape", "date": "1912-11-25", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Fred Mace (Sleuth)", "Ford Sterling (Bandit)", "Mack Sennett (Sleuth)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 319421, "title": "Cheap Trick: Every Trick in the Book", "original_title": "Cheap Trick: Every Trick in the Book", "slug_title": "cheap-trick-every-trick-in-the-book", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

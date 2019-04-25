@@ -1,1 +1,0 @@
-{"tmdb_id": 250503, "title": "Bad Chicken", "original_title": "Bad Chicken", "slug_title": "bad-chicken", "date": "2013-03-12", "genre": "", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/btxaHWvcUMzX5FeqBNgYzlvwf12.jpg", "actors": [], "comments": [], "recommandations_id": []}

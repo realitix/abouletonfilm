@@ -1,1 +1,0 @@
-{"tmdb_id": 31155, "title": "The Seahawk", "original_title": "The Seahawk", "slug_title": "the-seahawk", "date": "1900-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

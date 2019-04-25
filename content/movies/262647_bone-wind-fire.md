@@ -1,1 +1,0 @@
-{"tmdb_id": 262647, "title": "Bone Wind Fire", "original_title": "Bone Wind Fire", "slug_title": "bone-wind-fire", "date": "2011-10-09", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

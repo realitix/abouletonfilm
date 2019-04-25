@@ -1,1 +1,0 @@
-{"tmdb_id": 396310, "title": "Pandrogeny manifesto", "original_title": "Pandrogeny manifesto", "slug_title": "pandrogeny-manifesto", "date": "2006-10-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Genesis P-Orridge (H/erself)", "Lady Jaye Breyer P'Orridge (Herself)"], "comments": [], "recommandations_id": []}

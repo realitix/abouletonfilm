@@ -1,1 +1,0 @@
-{"tmdb_id": 400559, "title": "Spinnennetz", "original_title": "Spinnennetz", "slug_title": "spinnennetz", "date": "2016-12-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Friedrich von Thun ()", "Julia Koschitz ()", "David Rott ()"], "comments": [], "recommandations_id": []}

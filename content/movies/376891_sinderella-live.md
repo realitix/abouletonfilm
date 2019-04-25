@@ -1,1 +1,0 @@
-{"tmdb_id": 376891, "title": "Sinderella Live", "original_title": "Sinderella Live", "slug_title": "sinderella-live", "date": "1995-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hY4jx5uBtR0p6X8oLHqS4StTiOj.jpg", "actors": [], "comments": [], "recommandations_id": []}

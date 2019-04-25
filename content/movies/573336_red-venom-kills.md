@@ -1,1 +1,0 @@
-{"tmdb_id": 573336, "title": "Red Venom Kills", "original_title": "Red Venom Kills", "slug_title": "red-venom-kills", "date": "2018-12-04", "genre": "Fantastique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jxtV9aqxBLWD55PUP7xv5Qu7uTL.jpg", "actors": [], "comments": [], "recommandations_id": []}

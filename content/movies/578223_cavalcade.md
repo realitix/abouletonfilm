@@ -1,1 +1,0 @@
-{"tmdb_id": 578223, "title": "Cavalcade", "original_title": "Cavalcade", "slug_title": "cavalcade", "date": "1905-07-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

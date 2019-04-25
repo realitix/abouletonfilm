@@ -1,1 +1,0 @@
-{"tmdb_id": 533032, "title": "Valmiki", "original_title": "\u0c35\u0c3e\u0c32\u0c4d\u0c2e\u0c40\u0c15\u0c3f", "slug_title": "valmiki", "date": "1945-07-14", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/c9sn9t9jel4N3ilJbiDnkEbMZmP.jpg", "actors": ["Narasimharao ()"], "comments": [], "recommandations_id": []}

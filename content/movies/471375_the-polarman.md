@@ -1,1 +1,0 @@
-{"tmdb_id": 471375, "title": "The Polarman", "original_title": "Pol\u00e1rnik", "slug_title": "the-polarman", "date": "2014-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b6Wq7nIAZoEuh0oZ9I7BuePSNaq.jpg", "actors": ["Peter Valusiak ()"], "comments": [], "recommandations_id": []}

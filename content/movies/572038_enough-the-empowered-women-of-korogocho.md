@@ -1,1 +1,0 @@
-{"tmdb_id": 572038, "title": "Enough: The Empowered Women Of Korogocho", "original_title": "Enough: The Empowered Women Of Korogocho", "slug_title": "enough-the-empowered-women-of-korogocho", "date": "2018-11-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

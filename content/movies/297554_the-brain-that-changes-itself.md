@@ -1,1 +1,0 @@
-{"tmdb_id": 297554, "title": "The Brain That Changes Itself", "original_title": "The Brain That Changes Itself", "slug_title": "the-brain-that-changes-itself", "date": "", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9tf704zqblURIzfiPjsw27tIjez.jpg", "actors": [], "comments": [], "recommandations_id": []}

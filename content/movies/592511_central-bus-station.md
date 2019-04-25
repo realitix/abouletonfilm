@@ -1,1 +1,0 @@
-{"tmdb_id": 592511, "title": "Central Bus Station", "original_title": "Central Bus Station", "slug_title": "central-bus-station", "date": "2019-03-21", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oPJa6fEiyo1jspV5fMblQihsovy.jpg", "actors": [], "comments": [], "recommandations_id": []}

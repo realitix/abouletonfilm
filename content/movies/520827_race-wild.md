@@ -1,1 +1,0 @@
-{"tmdb_id": 520827, "title": "Race Wild", "original_title": "Race Wild", "slug_title": "race-wild", "date": "1927-05-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

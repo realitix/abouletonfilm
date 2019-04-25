@@ -1,1 +1,0 @@
-{"tmdb_id": 401493, "title": "Status Quo - Anniversary Waltz", "original_title": "Status Quo - Anniversary Waltz", "slug_title": "status-quo-anniversary-waltz", "date": "2003-03-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pVKVOgQPTCB123R9gEcGmykCcGv.jpg", "actors": [], "comments": [], "recommandations_id": []}

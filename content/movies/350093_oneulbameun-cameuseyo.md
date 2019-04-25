@@ -1,1 +1,0 @@
-{"tmdb_id": 350093, "title": "\uc624\ub298\ubc24\uc740 \ucc38\uc73c\uc138\uc694", "original_title": "\uc624\ub298\ubc24\uc740 \ucc38\uc73c\uc138\uc694", "slug_title": "oneulbameun-cameuseyo", "date": "1981-08-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

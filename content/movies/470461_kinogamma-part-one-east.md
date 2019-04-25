@@ -1,1 +1,0 @@
-{"tmdb_id": 470461, "title": "Kinogamma Part One: East", "original_title": "Kinogamma Part One: East", "slug_title": "kinogamma-part-one-east", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

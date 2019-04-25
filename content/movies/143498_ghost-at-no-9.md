@@ -1,1 +1,0 @@
-{"tmdb_id": 143498, "title": "Ghost at No. 9", "original_title": "Ghost at No. 9", "slug_title": "ghost-at-no-9", "date": "1982-01-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bdbm54kPpca7JKkWVJq2MDZDIhT.jpg", "actors": ["William S. Burroughs ()", "Brion Gysin ()"], "comments": [], "recommandations_id": []}

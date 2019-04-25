@@ -1,1 +1,0 @@
-{"tmdb_id": 439876, "title": "Borand\u00e1", "original_title": "Borand\u00e1", "slug_title": "boranda", "date": "2017-02-05", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mirthes Nogueira ()", "Aiman Hammoud ()", "Carlos Mira ()", "F\u00e1bio Takeo. ()"], "comments": [], "recommandations_id": []}

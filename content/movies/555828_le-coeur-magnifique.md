@@ -1,1 +1,0 @@
-{"tmdb_id": 555828, "title": "Le coeur magnifique", "original_title": "Le coeur magnifique", "slug_title": "le-coeur-magnifique", "date": "1921-11-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

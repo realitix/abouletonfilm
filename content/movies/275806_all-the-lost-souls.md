@@ -1,1 +1,0 @@
-{"tmdb_id": 275806, "title": "All the Lost Souls", "original_title": "All the Lost Souls", "slug_title": "all-the-lost-souls", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 519493, "title": "Trag\u00f6die", "original_title": "Trag\u00f6die", "slug_title": "tragodie", "date": "1925-11-30", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Walter Janssen (Graf Tamar)", "Henny Porten (Gr\u00e4fin Maria Tamar)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 281970, "title": "cathcing fire", "original_title": "cathcing fire", "slug_title": "cathcing-fire", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

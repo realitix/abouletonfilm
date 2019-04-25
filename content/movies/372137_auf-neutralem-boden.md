@@ -1,1 +1,0 @@
-{"tmdb_id": 372137, "title": "Auf neutralem Boden", "original_title": "Auf neutralem Boden", "slug_title": "auf-neutralem-boden", "date": "1971-07-08", "genre": "Aventure", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Siegfried Lowitz (Philo)", "Uwe Friedrichsen (Archerson)", "Walter Rilla (Otis)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 535511, "title": "Canada Day", "original_title": "Canada Day", "slug_title": "canada-day", "date": "", "genre": "Com\u00e9die / Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1vrUyznQOM7LeR8og9Y5SyzLe2e.jpg", "actors": [], "comments": [], "recommandations_id": []}

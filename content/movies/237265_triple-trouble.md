@@ -1,1 +1,0 @@
-{"tmdb_id": 237265, "title": "Triple Trouble", "original_title": "Triple Trouble", "slug_title": "triple-trouble", "date": "1948-09-29", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vNPkATl6KkHwNaqccb6R7krNZVH.jpg", "actors": [], "comments": [], "recommandations_id": []}

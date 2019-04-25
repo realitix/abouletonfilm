@@ -1,1 +1,0 @@
-{"tmdb_id": 220753, "title": "Moonlight", "original_title": "Moonlight", "slug_title": "moonlight", "date": "1982-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["William Bassett ()", "Hank Brandt ()", "J.P. Bumstead ()"], "comments": [], "recommandations_id": []}

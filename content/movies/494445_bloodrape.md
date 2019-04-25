@@ -1,1 +1,0 @@
-{"tmdb_id": 494445, "title": "Bloodrape", "original_title": "Bloodrape", "slug_title": "bloodrape", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7R2zvzAFNm3CScNc3E5mzBD5oqK.jpg", "actors": [], "comments": [], "recommandations_id": []}

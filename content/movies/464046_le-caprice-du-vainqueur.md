@@ -1,1 +1,0 @@
-{"tmdb_id": 464046, "title": "Le caprice du vainqueur", "original_title": "Le caprice du vainqueur", "slug_title": "le-caprice-du-vainqueur", "date": "1910-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

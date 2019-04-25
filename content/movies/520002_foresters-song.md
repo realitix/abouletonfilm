@@ -1,1 +1,0 @@
-{"tmdb_id": 520002, "title": "Forester\u2019s Song", "original_title": "Do les\u00ed\u010dka na \u010dekanou", "slug_title": "foresters-song", "date": "1966-12-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

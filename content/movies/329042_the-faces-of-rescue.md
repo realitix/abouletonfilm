@@ -1,1 +1,0 @@
-{"tmdb_id": 329042, "title": "The Faces Of Rescue", "original_title": "The Faces Of Rescue", "slug_title": "the-faces-of-rescue", "date": "1971-01-01", "genre": "Histoire / Guerre / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

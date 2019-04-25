@@ -1,1 +1,0 @@
-{"tmdb_id": 311782, "title": "Equator: Challenge of Change", "original_title": "Equator: Challenge of Change", "slug_title": "equator-challenge-of-change", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

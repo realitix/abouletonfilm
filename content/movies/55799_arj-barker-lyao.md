@@ -1,1 +1,0 @@
-{"tmdb_id": 55799, "title": "Arj Barker: LYAO", "original_title": "Arj Barker: LYAO", "slug_title": "arj-barker-lyao", "date": "2010-01-26", "genre": "Com\u00e9die", "score": "4.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nBzkdq3WUtntJhTW5wa3S6PB7xB.jpg", "actors": ["Arj Barker (Himself)"], "comments": [], "recommandations_id": []}

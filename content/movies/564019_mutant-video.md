@@ -1,1 +1,0 @@
-{"tmdb_id": 564019, "title": "Mutant Video", "original_title": "Mutant Video", "slug_title": "mutant-video", "date": "1986-04-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8H2dXb7xiumZP4FywA5asUuWvq0.jpg", "actors": ["James Belushi (Bobby)"], "comments": [], "recommandations_id": []}

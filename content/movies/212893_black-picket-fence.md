@@ -1,1 +1,0 @@
-{"tmdb_id": 212893, "title": "Black Picket Fence", "original_title": "Black Picket Fence", "slug_title": "black-picket-fence", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

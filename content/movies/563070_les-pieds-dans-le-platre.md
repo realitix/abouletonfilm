@@ -1,1 +1,0 @@
-{"tmdb_id": 563070, "title": "Les pieds dans le pl\u00e2tre", "original_title": "Les pieds dans le pl\u00e2tre", "slug_title": "les-pieds-dans-le-platre", "date": "1965-02-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3Lg3ee40PaoCs0OOyVN8B3kz8Hp.jpg", "actors": [], "comments": [], "recommandations_id": []}

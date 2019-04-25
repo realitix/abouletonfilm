@@ -1,1 +1,0 @@
-{"tmdb_id": 586048, "title": "82\ub144\uc0dd \uae40\uc9c0\uc601", "original_title": "82\ub144\uc0dd \uae40\uc9c0\uc601", "slug_title": "82nyeonsaeng-gimjiyeong", "date": "2019-12-31", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jung Yu-mi ()", "Gong Yoo ()", "Jeon Guk-hyang ()"], "comments": [], "recommandations_id": []}

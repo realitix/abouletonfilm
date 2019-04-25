@@ -1,1 +1,0 @@
-{"tmdb_id": 588922, "title": "Secrets Of Burlesque", "original_title": "Secrets Of Burlesque", "slug_title": "secrets-of-burlesque", "date": "2014-04-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uCZXzb5HcyMCPn0iiWVBk0TZu8k.jpg", "actors": ["Anna Fur Laxis ()"], "comments": [], "recommandations_id": []}

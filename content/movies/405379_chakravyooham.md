@@ -1,1 +1,0 @@
-{"tmdb_id": 405379, "title": "Chakravyooham", "original_title": "Chakravyooham", "slug_title": "chakravyooham", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 583822, "title": "How a Kite Flies", "original_title": "How a Kite Flies", "slug_title": "how-a-kite-flies", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tk7vVx6ST6kcrZfUvTWuBy0Qfd7.jpg", "actors": ["Ian McKellen (Kite)"], "comments": [], "recommandations_id": []}

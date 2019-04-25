@@ -1,1 +1,0 @@
-{"tmdb_id": 421239, "title": "Les films r\u00eav\u00e9s", "original_title": "Les films r\u00eav\u00e9s", "slug_title": "les-films-reves", "date": "2010-03-18", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8qY7zNXq9rKpGED86gmXbEF0E2H.jpg", "actors": [], "comments": [], "recommandations_id": []}

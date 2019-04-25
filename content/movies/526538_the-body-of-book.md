@@ -1,1 +1,0 @@
-{"tmdb_id": 526538, "title": "The Body of Book", "original_title": "The Body of Book", "slug_title": "the-body-of-book", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

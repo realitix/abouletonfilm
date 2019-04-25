@@ -1,1 +1,0 @@
-{"tmdb_id": 403179, "title": "Sa majest\u00e9 carnaval", "original_title": "Sa majest\u00e9 carnaval", "slug_title": "sa-majeste-carnaval", "date": "1935-06-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

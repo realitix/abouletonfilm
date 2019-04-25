@@ -1,1 +1,0 @@
-{"tmdb_id": 506559, "title": "Ghosthunter", "original_title": "Ghosthunter", "slug_title": "ghosthunter", "date": "2018-06-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1bSuJpLZtpygp7hbAYyUXgRHMn1.jpg", "actors": [], "comments": [], "recommandations_id": []}

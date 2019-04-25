@@ -1,1 +1,0 @@
-{"tmdb_id": 595667, "title": "Atlantic Avenue", "original_title": "Atlantic Avenue", "slug_title": "atlantic-avenue", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Brady Corbet (Jeremiah)", "Leopoldine Huyghues-Despointes (Celeste)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 412086, "title": "Dad's Friend", "original_title": "Dad's Friend", "slug_title": "dad-s-friend", "date": "2016-08-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lswY2WF5Uj3ZMuEJ0It3jRqcI7h.jpg", "actors": [], "comments": [], "recommandations_id": []}

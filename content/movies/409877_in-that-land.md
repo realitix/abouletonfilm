@@ -1,1 +1,0 @@
-{"tmdb_id": 409877, "title": "In That Land", "original_title": "\u0412 \u0442\u043e\u0439 \u0441\u0442\u0440\u0430\u043d\u0435", "slug_title": "in-that-land", "date": "1998-02-14", "genre": "", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/izgQISnq3b3f8qbM60JC5ekGgxj.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 129005, "title": "Can Tunis", "original_title": "Can Tunis", "slug_title": "can-tunis", "date": "2007-12-05", "genre": "Documentaire", "score": "9.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i8UiY4aOh2YLmJ2AJN7dF2oBGIj.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 209659, "title": "Electric Holiday", "original_title": "Electric Holiday", "slug_title": "electric-holiday", "date": "2012-11-14", "genre": "Animation", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sK64DQKMPh8NeBk2oSvJDmQp6dt.jpg", "actors": [], "comments": [], "recommandations_id": []}

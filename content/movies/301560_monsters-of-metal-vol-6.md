@@ -1,1 +1,0 @@
-{"tmdb_id": 301560, "title": "Monsters of Metal Vol. 6", "original_title": "Monsters of Metal Vol. 6", "slug_title": "monsters-of-metal-vol-6", "date": "2009-02-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mCHIXUxsrogE1WBP4L9alRjaFGw.jpg", "actors": [], "comments": [], "recommandations_id": []}

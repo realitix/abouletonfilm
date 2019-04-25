@@ -1,1 +1,0 @@
-{"tmdb_id": 528307, "title": "3 Ways To Go", "original_title": "3 Ways To Go", "slug_title": "3-ways-to-go", "date": "1997-09-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3X85ME088Y63NqJxBjjF9XNmfpm.jpg", "actors": [], "comments": [], "recommandations_id": []}

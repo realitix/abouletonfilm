@@ -1,1 +1,0 @@
-{"tmdb_id": 138512, "title": "Nuyorican Dream", "original_title": "Nuyorican Dream", "slug_title": "nuyorican-dream", "date": "2000-01-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fpUQmt8VUTdT5I8EUhUUYhY8NEz.jpg", "actors": [], "comments": [], "recommandations_id": []}

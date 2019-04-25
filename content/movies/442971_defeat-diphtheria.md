@@ -1,1 +1,0 @@
-{"tmdb_id": 442971, "title": "Defeat Diphtheria", "original_title": "Defeat Diphtheria", "slug_title": "defeat-diphtheria", "date": "1941-02-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["John Hilton (Himself - Commentator)"], "comments": [], "recommandations_id": []}

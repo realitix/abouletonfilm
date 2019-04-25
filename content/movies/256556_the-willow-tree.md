@@ -1,1 +1,0 @@
-{"tmdb_id": 256556, "title": "The Willow Tree", "original_title": "Der Weidenbaum", "slug_title": "the-willow-tree", "date": "1984-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Josef Stehl\u00edk ()", "Peter Stan\u00edk ()", "Milan Drot\u00e1r ()"], "comments": [], "recommandations_id": []}

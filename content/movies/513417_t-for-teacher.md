@@ -1,1 +1,0 @@
-{"tmdb_id": 513417, "title": "T for Teacher", "original_title": "T for Teacher", "slug_title": "t-for-teacher", "date": "1947-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vwsXXWALIp8MCpu9ehkT4f629G.jpg", "actors": [], "comments": [], "recommandations_id": []}

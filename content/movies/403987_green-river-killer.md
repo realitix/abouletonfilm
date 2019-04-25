@@ -1,1 +1,0 @@
-{"tmdb_id": 403987, "title": "Green River Killer", "original_title": "Green River Killer", "slug_title": "green-river-killer", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Michael Sheen (Gary Ridgway)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 101404, "title": "Going Home", "original_title": "Going Home", "slug_title": "going-home", "date": "1944-01-01", "genre": "Animation / Drame / Guerre", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mel Blanc (Pvt. Snafu)", "Frank Graham (Narrator)"], "comments": [], "recommandations_id": []}

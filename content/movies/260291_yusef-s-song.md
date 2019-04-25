@@ -1,1 +1,0 @@
-{"tmdb_id": 260291, "title": "Yusef's Song", "original_title": "Yusef's Song", "slug_title": "yusef-s-song", "date": "2014-03-18", "genre": "Documentaire", "score": "4.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aHj5Q8VfiUiHSWu1ynSbI1Ybf8e.jpg", "actors": [], "comments": [], "recommandations_id": []}

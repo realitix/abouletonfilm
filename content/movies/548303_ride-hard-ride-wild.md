@@ -1,1 +1,0 @@
-{"tmdb_id": 548303, "title": "Ride Hard, Ride Wild", "original_title": "Ride Hard, Ride Wild", "slug_title": "ride-hard-ride-wild", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

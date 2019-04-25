@@ -1,1 +1,0 @@
-{"tmdb_id": 530293, "title": "Zone Out", "original_title": "Zone Out", "slug_title": "zone-out", "date": "2018-06-11", "genre": "Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Thomas Middleditch ()", "Elisabeth Gray ()", "Humphrey Ker ()"], "comments": [], "recommandations_id": []}

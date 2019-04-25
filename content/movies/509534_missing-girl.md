@@ -1,1 +1,0 @@
-{"tmdb_id": 509534, "title": "Missing Girl", "original_title": "Missing Girl", "slug_title": "missing-girl", "date": "2017-04-10", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

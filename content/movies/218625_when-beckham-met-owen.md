@@ -1,1 +1,0 @@
-{"tmdb_id": 218625, "title": "When Beckham Met Owen", "original_title": "Dong Pek Ham yu sheung O Wan", "slug_title": "when-beckham-met-owen", "date": "2004-09-30", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ml3LAWLDGxqgDpWHIqu9eqWAgCt.jpg", "actors": [], "comments": [], "recommandations_id": []}

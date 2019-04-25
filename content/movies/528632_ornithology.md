@@ -1,1 +1,0 @@
-{"tmdb_id": 528632, "title": "Ornithology", "original_title": "Ornitologija", "slug_title": "ornithology", "date": "1970-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6vl73JBpvvilN3QJkNMSvghugl5.jpg", "actors": [], "comments": [], "recommandations_id": []}

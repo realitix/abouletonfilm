@@ -1,1 +1,0 @@
-{"tmdb_id": 534469, "title": "ESCO(BRRR)ILLA", "original_title": "ESCO(BRRR)ILLA", "slug_title": "esco-brrr-illa", "date": "2018-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pVCXwoTaKzQQCfe60UelHckeLVB.jpg", "actors": [], "comments": [], "recommandations_id": []}

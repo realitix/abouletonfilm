@@ -1,1 +1,0 @@
-{"tmdb_id": 135856, "title": "Mississippi Blues", "original_title": "Mississippi Blues", "slug_title": "mississippi-blues", "date": "1984-06-20", "genre": "", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3sbSnJFDsrSJNvmPTY9LSkzWsgC.jpg", "actors": [], "comments": [], "recommandations_id": []}

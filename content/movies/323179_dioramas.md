@@ -1,1 +1,0 @@
-{"tmdb_id": 323179, "title": "Dioramas", "original_title": "Dioramas", "slug_title": "dioramas", "date": "2012-04-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zYra9eKgrUb8AGQXchIQr8qCJQy.jpg", "actors": [], "comments": [], "recommandations_id": []}

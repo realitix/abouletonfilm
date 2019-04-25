@@ -1,1 +1,0 @@
-{"tmdb_id": 513484, "title": "Premayanam", "original_title": "\u0c2a\u0c4d\u0c30\u0c47\u0c2e\u0c2f\u0c23\u0c02", "slug_title": "premayanam", "date": "1988-01-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2VblniPuWL3fxzti56np9X9d3I6.jpg", "actors": ["Naresh ()"], "comments": [], "recommandations_id": []}

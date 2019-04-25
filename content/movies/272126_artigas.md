@@ -1,1 +1,0 @@
-{"tmdb_id": 272126, "title": "Artigas", "original_title": "Artigas", "slug_title": "artigas", "date": "2006-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Frederic Amat ()", "Joan Gardy Artigas ()", "Joana Artigas ()", "Mariette Llorens Gardy ()", "Pierrette Angera Gargallo ()"], "comments": [], "recommandations_id": []}

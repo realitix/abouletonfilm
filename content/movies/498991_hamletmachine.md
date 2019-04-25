@@ -1,1 +1,0 @@
-{"tmdb_id": 498991, "title": "Hamletmachine", "original_title": "Hamletmachine", "slug_title": "hamletmachine", "date": "2000-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

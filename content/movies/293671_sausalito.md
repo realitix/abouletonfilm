@@ -1,1 +1,0 @@
-{"tmdb_id": 293671, "title": "Sausalito", "original_title": "Sausalito", "slug_title": "sausalito", "date": "1967-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Nico (Herself)"], "comments": [], "recommandations_id": []}

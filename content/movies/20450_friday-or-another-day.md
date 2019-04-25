@@ -1,1 +1,0 @@
-{"tmdb_id": 20450, "title": "Friday or Another Day", "original_title": "Vendredi ou un autre jour", "slug_title": "friday-or-another-day", "date": "2005-10-15", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/svXebHAKb3HzkZfJcCjoZYUmjND.jpg", "actors": [], "comments": [], "recommandations_id": []}

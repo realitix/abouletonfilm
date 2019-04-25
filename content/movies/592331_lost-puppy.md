@@ -1,1 +1,0 @@
-{"tmdb_id": 592331, "title": "Lost Puppy", "original_title": "Lost Puppy", "slug_title": "lost-puppy", "date": "1969-06-01", "genre": "Drame / Familial", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

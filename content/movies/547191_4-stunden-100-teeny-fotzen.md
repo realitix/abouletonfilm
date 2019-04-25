@@ -1,1 +1,0 @@
-{"tmdb_id": 547191, "title": "4 Stunden 100 Teeny-Fotzen", "original_title": "4 Stunden 100 Teeny-Fotzen", "slug_title": "4-stunden-100-teeny-fotzen", "date": "2004-05-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e3byKiM43C6gH8ZL0DqWiWWLHvj.jpg", "actors": [], "comments": [], "recommandations_id": []}

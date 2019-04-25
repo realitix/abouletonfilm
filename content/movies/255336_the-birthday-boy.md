@@ -1,1 +1,0 @@
-{"tmdb_id": 255336, "title": "The Birthday Boy", "original_title": "The Birthday Boy", "slug_title": "the-birthday-boy", "date": "1986-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["James Belushi ()", "Dennis Farina ()"], "comments": [], "recommandations_id": []}

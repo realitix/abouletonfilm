@@ -1,1 +1,0 @@
-{"tmdb_id": 557650, "title": "Separation, Vivid Dreams", "original_title": "Separation, Vivid Dreams", "slug_title": "separation-vivid-dreams", "date": "2018-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mq8N5u3ii80Z5n7zU56zijj5iwT.jpg", "actors": [], "comments": [], "recommandations_id": []}

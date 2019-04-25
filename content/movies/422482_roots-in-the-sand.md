@@ -1,1 +1,0 @@
-{"tmdb_id": 422482, "title": "Roots In The Sand", "original_title": "Roots In The Sand", "slug_title": "roots-in-the-sand", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

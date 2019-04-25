@@ -1,1 +1,0 @@
-{"tmdb_id": 473271, "title": "For the Wounded", "original_title": "For the Wounded", "slug_title": "for-the-wounded", "date": "", "genre": "", "score": "9.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 81056, "title": "Deshoddharakudu", "original_title": "Deshoddharakudu", "slug_title": "deshoddharakudu", "date": "1986-03-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/orbfL7iQqEnhSjbA1cpLyCthrSm.jpg", "actors": [], "comments": [], "recommandations_id": []}

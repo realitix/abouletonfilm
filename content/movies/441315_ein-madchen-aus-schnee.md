@@ -1,1 +1,0 @@
-{"tmdb_id": 441315, "title": "Ein M\u00e4dchen aus Schnee", "original_title": "Ein M\u00e4dchen aus Schnee", "slug_title": "ein-madchen-aus-schnee", "date": "1979-02-06", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s6pZ4OvmYZvw0RISZpxZg3SqicF.jpg", "actors": [], "comments": [], "recommandations_id": []}

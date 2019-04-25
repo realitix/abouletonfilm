@@ -1,1 +1,0 @@
-{"tmdb_id": 128059, "title": "The Creation of John Wayne", "original_title": "The Creation of John Wayne", "slug_title": "the-creation-of-john-wayne", "date": "2008-05-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g0h8KA35IUyXyo7XZUF0kOyRWgb.jpg", "actors": [], "comments": [], "recommandations_id": []}

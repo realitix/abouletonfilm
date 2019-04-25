@@ -1,1 +1,0 @@
-{"tmdb_id": 97629, "title": "Last of the Duanes", "original_title": "Last of the Duanes", "slug_title": "last-of-the-duanes", "date": "1941-09-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8ui29X8ktmb82O5VrACb27GW3nk.jpg", "actors": [], "comments": [], "recommandations_id": []}

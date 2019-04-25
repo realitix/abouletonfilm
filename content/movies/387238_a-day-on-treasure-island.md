@@ -1,1 +1,0 @@
-{"tmdb_id": 387238, "title": "A Day on Treasure Island", "original_title": "A Day on Treasure Island", "slug_title": "a-day-on-treasure-island", "date": "1939-09-02", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["James A. FitzPatrick ()"], "comments": [], "recommandations_id": []}

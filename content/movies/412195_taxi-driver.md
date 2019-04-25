@@ -1,1 +1,0 @@
-{"tmdb_id": 412195, "title": "Taxi Driver", "original_title": "Oko Ashewo", "slug_title": "taxi-driver", "date": "2015-11-13", "genre": "", "score": "6.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iuucif924rdCK20BSIHw5GZfAfq.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 119293, "title": "The Ride", "original_title": "Phil Rides Across America", "slug_title": "the-ride", "date": "2011-02-03", "genre": "Documentaire / Aventure", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/thjucJVeg9Fk62Gn6S5HW5y2N8u.jpg", "actors": ["Philip Keoghan ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 575509, "title": "Le cam\u00e9scope", "original_title": "Le cam\u00e9scope", "slug_title": "le-camescope", "date": "1999-10-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pehoZTe3QR9rQepFLU0kYnne8zW.jpg", "actors": [], "comments": [], "recommandations_id": []}

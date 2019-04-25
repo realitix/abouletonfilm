@@ -1,1 +1,0 @@
-{"tmdb_id": 63633, "title": "Srebrenica: Never Again?", "original_title": "Srebrenica: Never Again?", "slug_title": "srebrenica-never-again", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

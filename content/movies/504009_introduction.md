@@ -1,1 +1,0 @@
-{"tmdb_id": 504009, "title": "Introduction", "original_title": "Introduction", "slug_title": "introduction", "date": "2018-02-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6N588Yn3l85wAOjEleo8l6pDgoH.jpg", "actors": [], "comments": [], "recommandations_id": []}

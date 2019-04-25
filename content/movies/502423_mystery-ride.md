@@ -1,1 +1,0 @@
-{"tmdb_id": 502423, "title": "Mystery Ride", "original_title": "Mystery Ride", "slug_title": "mystery-ride", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sam Neill (Duncan Connelly)", "Peter Mullan (Callum Macfarlane)", "Frances O'Connor (Kate Summers)"], "comments": [], "recommandations_id": []}

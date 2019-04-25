@@ -1,1 +1,0 @@
-{"tmdb_id": 316722, "title": "Wanted: No Master", "original_title": "Wanted: No Master", "slug_title": "wanted-no-master", "date": "1939-01-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jER1i9DpAA57KWcdlYNoW2PStNl.jpg", "actors": ["Mel Blanc (Count Screwloose (voice))"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 593927, "title": "Singularity Stories Vol. I", "original_title": "Singularity Stories Vol. I", "slug_title": "singularity-stories-vol-i", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Colleen Madden (Colleen)", "Carey Cannon (Alex)"], "comments": [], "recommandations_id": []}

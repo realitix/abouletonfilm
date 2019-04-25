@@ -1,1 +1,0 @@
-{"tmdb_id": 362901, "title": "Post Haste", "original_title": "Post Haste", "slug_title": "post-haste", "date": "1943-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

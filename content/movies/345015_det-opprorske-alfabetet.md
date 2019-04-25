@@ -1,1 +1,0 @@
-{"tmdb_id": 345015, "title": "Det oppr\u00f8rske alfabetet", "original_title": "Det oppr\u00f8rske alfabetet", "slug_title": "det-opprorske-alfabetet", "date": "1994-06-18", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Odd B\u00f8rretzen (Narrator (voice))"], "comments": [], "recommandations_id": []}

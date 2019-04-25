@@ -1,1 +1,0 @@
-{"tmdb_id": 75586, "title": "Between 2 Worlds", "original_title": "Between 2 Worlds", "slug_title": "between-2-worlds", "date": "2010-06-06", "genre": "Drame / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3T84w14Rg9VjBXiTqtk2xGNmwuP.jpg", "actors": [], "comments": [], "recommandations_id": []}

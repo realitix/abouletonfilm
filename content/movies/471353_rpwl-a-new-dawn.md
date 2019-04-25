@@ -1,1 +1,0 @@
-{"tmdb_id": 471353, "title": "RPWL - A New Dawn", "original_title": "RPWL - A New Dawn", "slug_title": "rpwl-a-new-dawn", "date": "2017-07-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cNrgBpf65SdGgq0NeM85NfL8rVY.jpg", "actors": [], "comments": [], "recommandations_id": []}

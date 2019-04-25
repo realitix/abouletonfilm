@@ -1,1 +1,0 @@
-{"tmdb_id": 306782, "title": "$2 Tuesdays The Movie", "original_title": "$2 Tuesdays The Movie", "slug_title": "2-tuesdays-the-movie", "date": "2015-04-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Delivery Bamm (Pacman)", "Boy Genius (College Boy)", "GrandaddySouthSide (Meatloaf)"], "comments": [], "recommandations_id": []}

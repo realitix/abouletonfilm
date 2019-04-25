@@ -1,1 +1,0 @@
-{"tmdb_id": 365231, "title": "A trav\u00e9s de tus ojos", "original_title": "A trav\u00e9s de tus ojos", "slug_title": "a-traves-de-tus-ojos", "date": "2006-09-07", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4CvcBmImff9AMwzgQtb4zPg6ELV.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 154016, "title": "Every Good Thing to Rust", "original_title": "Every Good Thing to Rust", "slug_title": "every-good-thing-to-rust", "date": "", "genre": "", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kIo3KbhdeaxYQwPnAZ9gZLp0y0n.jpg", "actors": [], "comments": [], "recommandations_id": []}

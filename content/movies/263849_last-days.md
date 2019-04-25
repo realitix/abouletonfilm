@@ -1,1 +1,0 @@
-{"tmdb_id": 263849, "title": "Last Days", "original_title": "Last Days", "slug_title": "last-days", "date": "2004-01-01", "genre": "", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zmTXEXX1qRZXG6AvzpllMyhX0pU.jpg", "actors": [], "comments": [], "recommandations_id": []}

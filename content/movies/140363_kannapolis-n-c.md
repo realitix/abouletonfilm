@@ -1,1 +1,0 @@
-{"tmdb_id": 140363, "title": "Kannapolis, N.C.", "original_title": "Kannapolis, N.C.", "slug_title": "kannapolis-n-c", "date": "1941-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1g5Umu8w89Fz6Bh3FgNLpCjEIHK.jpg", "actors": [], "comments": [], "recommandations_id": []}

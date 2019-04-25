@@ -1,1 +1,0 @@
-{"tmdb_id": 428560, "title": "The Art of McCartney", "original_title": "The Art of McCartney", "slug_title": "the-art-of-mccartney", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

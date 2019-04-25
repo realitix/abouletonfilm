@@ -1,1 +1,0 @@
-{"tmdb_id": 436892, "title": "Giganten der Gotik", "original_title": "Giganten der Gotik", "slug_title": "giganten-der-gotik", "date": "2011-01-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xgMcSTYSWq8MdiecH4Du6DBvPFx.jpg", "actors": [], "comments": [], "recommandations_id": []}

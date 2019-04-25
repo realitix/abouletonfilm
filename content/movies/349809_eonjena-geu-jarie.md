@@ -1,1 +1,0 @@
-{"tmdb_id": 349809, "title": "\uc5b8\uc81c\ub098 \uadf8 \uc790\ub9ac\uc5d0", "original_title": "\uc5b8\uc81c\ub098 \uadf8 \uc790\ub9ac\uc5d0", "slug_title": "eonjena-geu-jarie", "date": "1990-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 582020, "title": "Waivelength", "original_title": "Waivelength", "slug_title": "waivelength", "date": "2019-02-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7AwiOuhTzf6qEIg59DBhxeSQ6jw.jpg", "actors": [], "comments": [], "recommandations_id": []}

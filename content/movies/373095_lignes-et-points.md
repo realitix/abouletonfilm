@@ -1,1 +1,0 @@
-{"tmdb_id": 373095, "title": "Lignes et points", "original_title": "Lignes et points", "slug_title": "lignes-et-points", "date": "1961-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gbuteKeHbm0mEigkfEtMDeKde3l.jpg", "actors": [], "comments": [], "recommandations_id": []}

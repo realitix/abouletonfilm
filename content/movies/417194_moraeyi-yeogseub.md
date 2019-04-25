@@ -1,1 +1,0 @@
-{"tmdb_id": 417194, "title": "\ubaa8\ub798\uc758 \uc5ed\uc2b5", "original_title": "\ubaa8\ub798\uc758 \uc5ed\uc2b5", "slug_title": "moraeyi-yeogseub", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

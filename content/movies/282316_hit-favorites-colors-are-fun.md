@@ -1,1 +1,0 @@
-{"tmdb_id": 282316, "title": "Hit Favorites: Colors are Fun", "original_title": "Hit Favorites: Colors are Fun", "slug_title": "hit-favorites-colors-are-fun", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

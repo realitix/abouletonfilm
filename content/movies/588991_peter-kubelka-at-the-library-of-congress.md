@@ -1,1 +1,0 @@
-{"tmdb_id": 588991, "title": "Peter Kubelka at the Library of Congress", "original_title": "Peter Kubelka at the Library of Congress", "slug_title": "peter-kubelka-at-the-library-of-congress", "date": "1993-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Peter Kubelka ()"], "comments": [], "recommandations_id": []}

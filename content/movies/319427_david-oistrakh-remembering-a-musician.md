@@ -1,1 +1,0 @@
-{"tmdb_id": 319427, "title": "David Oistrakh: Remembering a Musician", "original_title": "David Oistrakh: Remembering a Musician", "slug_title": "david-oistrakh-remembering-a-musician", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

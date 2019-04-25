@@ -1,1 +1,0 @@
-{"tmdb_id": 519405, "title": "Shang' Ajia", "original_title": "\u4e0a\u963f\u7532", "slug_title": "shang-ajia", "date": "2017-04-19", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dasvW7taBVlCa9ptYFoS4hzCLd2.jpg", "actors": [], "comments": [], "recommandations_id": []}

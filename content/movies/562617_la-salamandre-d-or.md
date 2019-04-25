@@ -1,1 +1,0 @@
-{"tmdb_id": 562617, "title": "La salamandre d'or", "original_title": "La salamandre d'or", "slug_title": "la-salamandre-d-or", "date": "1962-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8UhHDVG8VWbnUJweebDJqxPhT5u.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 244622, "title": "West Virginia, the State Beautiful", "original_title": "West Virginia, the State Beautiful", "slug_title": "west-virginia-the-state-beautiful", "date": "1929-12-21", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

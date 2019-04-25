@@ -1,1 +1,0 @@
-{"tmdb_id": 473860, "title": "Jagadeka Veerudu", "original_title": "Jagadeka Veerudu", "slug_title": "jagadeka-veerudu", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vI4FMAfr8iqVzrMQPH0NP4o7QrC.jpg", "actors": [], "comments": [], "recommandations_id": []}

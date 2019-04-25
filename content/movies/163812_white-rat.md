@@ -1,1 +1,0 @@
-{"tmdb_id": 163812, "title": "White Rat", "original_title": "White Rat", "slug_title": "white-rat", "date": "1971-01-01", "genre": "", "score": "0.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vkFuX8DVL37VKQ2cAdwY596Fa5Z.jpg", "actors": ["Hal Sherman (Mike Capone)", "Alisha Fontaine (Alice Leasen)"], "comments": [], "recommandations_id": []}

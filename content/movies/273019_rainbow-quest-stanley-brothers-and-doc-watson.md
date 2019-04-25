@@ -1,1 +1,0 @@
-{"tmdb_id": 273019, "title": "Rainbow Quest: Stanley Brothers and Doc Watson", "original_title": "Rainbow Quest: Stanley Brothers and Doc Watson", "slug_title": "rainbow-quest-stanley-brothers-and-doc-watson", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

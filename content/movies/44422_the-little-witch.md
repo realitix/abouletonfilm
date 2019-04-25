@@ -1,1 +1,0 @@
-{"tmdb_id": 44422, "title": "The Little Witch", "original_title": "Die kleine Hexe", "slug_title": "the-little-witch", "date": "1983-02-04", "genre": "Animation", "score": "7.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sdJchh58wmfDVGyh9ybXx6B9FwN.jpg", "actors": [], "comments": [], "recommandations_id": []}

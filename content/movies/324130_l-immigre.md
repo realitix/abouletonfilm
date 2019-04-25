@@ -1,1 +1,0 @@
-{"tmdb_id": 324130, "title": "L'Immigr\u00e9", "original_title": "L'Immigr\u00e9", "slug_title": "l-immigre", "date": "2005-02-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

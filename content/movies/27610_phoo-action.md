@@ -1,1 +1,0 @@
-{"tmdb_id": 27610, "title": "Phoo Action", "original_title": "Phoo Action", "slug_title": "phoo-action", "date": "2008-02-11", "genre": "", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eK6I8Iy4wsmXZskd1ov7QV3S0uv.jpg", "actors": [], "comments": [], "recommandations_id": []}

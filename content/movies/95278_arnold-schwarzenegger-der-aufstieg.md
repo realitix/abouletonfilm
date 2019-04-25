@@ -1,1 +1,0 @@
-{"tmdb_id": 95278, "title": "Arnold Schwarzenegger Der Aufstieg", "original_title": "Arnold Schwarzenegger Der Aufstieg", "slug_title": "arnold-schwarzenegger-der-aufstieg", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

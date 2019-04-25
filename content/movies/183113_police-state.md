@@ -1,1 +1,0 @@
-{"tmdb_id": 183113, "title": "Police State", "original_title": "Police State", "slug_title": "police-state", "date": "1987-01-01", "genre": "", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xWubF5E06D47BvkxIOr5qyhKTbt.jpg", "actors": ["Nick Zedd (Kid)", "Rockets Redglare (Detective)"], "comments": [], "recommandations_id": []}

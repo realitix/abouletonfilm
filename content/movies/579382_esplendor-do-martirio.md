@@ -1,1 +1,0 @@
-{"tmdb_id": 579382, "title": "Esplendor do mart\u00edrio", "original_title": "Esplendor do mart\u00edrio", "slug_title": "esplendor-do-martirio", "date": "1974-12-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

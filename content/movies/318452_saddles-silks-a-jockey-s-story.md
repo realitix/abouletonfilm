@@ -1,1 +1,0 @@
-{"tmdb_id": 318452, "title": "Saddles & Silks: A Jockey's Story", "original_title": "Saddles & Silks: A Jockey's Story", "slug_title": "saddles-silks-a-jockey-s-story", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

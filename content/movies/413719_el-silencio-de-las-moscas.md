@@ -1,1 +1,0 @@
-{"tmdb_id": 413719, "title": "El silencio de las moscas", "original_title": "El silencio de las moscas", "slug_title": "el-silencio-de-las-moscas", "date": "2013-11-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6dOxW2vBR7nXTWK3tHiqN8ITGNm.jpg", "actors": [], "comments": [], "recommandations_id": []}

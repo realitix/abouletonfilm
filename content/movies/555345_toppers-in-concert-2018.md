@@ -1,1 +1,0 @@
-{"tmdb_id": 555345, "title": "Toppers in concert 2018", "original_title": "Toppers in concert 2018", "slug_title": "toppers-in-concert-2018", "date": "2018-09-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/68MGitQxn129SEC8qXGJ6kjn9jS.jpg", "actors": [], "comments": [], "recommandations_id": []}

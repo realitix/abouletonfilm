@@ -1,1 +1,1 @@
-{"tmdb_id": 307733, "title": "Abhan Laxmi", "original_title": "Abhan Laxmi", "slug_title": "abhan-laxmi", "date": "1988-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 307733, "title": "Abhan Laxmi", "original_title": "Abhan Laxmi", "slug_title": "abhan-laxmi", "date": "1988-12-01", "genre": [""], "score": "0.0/10", "synopsis": "Film from Radhakant", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

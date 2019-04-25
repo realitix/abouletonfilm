@@ -1,1 +1,0 @@
-{"tmdb_id": 231766, "title": "Birth of the Pearl", "original_title": "Birth of the Pearl", "slug_title": "birth-of-the-pearl", "date": "1901-06-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1idIipPwrdepqdVA7fTobhh484D.jpg", "actors": [], "comments": [], "recommandations_id": []}

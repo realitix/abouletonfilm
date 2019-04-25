@@ -1,1 +1,0 @@
-{"tmdb_id": 355480, "title": "Le cours de natation", "original_title": "Le cours de natation", "slug_title": "le-cours-de-natation", "date": "2015-09-10", "genre": "Familial / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Marilyn Castonguay (Monitrice)", "Jasmine Lem\u00e9e (Jeune Fille)"], "comments": [], "recommandations_id": []}

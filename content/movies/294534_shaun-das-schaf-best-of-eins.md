@@ -1,1 +1,0 @@
-{"tmdb_id": 294534, "title": "Shaun das Schaf - Best of Eins", "original_title": "Shaun das Schaf - Best of Eins", "slug_title": "shaun-das-schaf-best-of-eins", "date": "2011-10-06", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bPA7PumHnpp0LbG44lhRfzuaT6u.jpg", "actors": [], "comments": [], "recommandations_id": []}

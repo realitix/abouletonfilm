@@ -1,1 +1,0 @@
-{"tmdb_id": 324923, "title": "I'm Only There...", "original_title": "I'm Only There...", "slug_title": "i-m-only-there", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

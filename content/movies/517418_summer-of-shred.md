@@ -1,1 +1,0 @@
-{"tmdb_id": 517418, "title": "Summer of Shred", "original_title": "Summer of Shred", "slug_title": "summer-of-shred", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

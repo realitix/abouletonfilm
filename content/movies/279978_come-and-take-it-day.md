@@ -1,1 +1,0 @@
-{"tmdb_id": 279978, "title": "Come and Take It Day", "original_title": "Come and Take It Day", "slug_title": "come-and-take-it-day", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 386588, "title": "Lands Close to Paterson", "original_title": "Lands Close to Paterson", "slug_title": "lands-close-to-paterson", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/am75BtPAHmgPB5w3Wr281pbTmOF.jpg", "actors": [], "comments": [], "recommandations_id": []}

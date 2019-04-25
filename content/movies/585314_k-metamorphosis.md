@@ -1,1 +1,0 @@
-{"tmdb_id": 585314, "title": "K (Metamorphosis)", "original_title": "K (Metamorphosis)", "slug_title": "k-metamorphosis", "date": "1954-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Michael Andrews (Gregor Samsa)"], "comments": [], "recommandations_id": []}

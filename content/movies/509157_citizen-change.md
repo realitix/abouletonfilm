@@ -1,1 +1,0 @@
-{"tmdb_id": 509157, "title": "Citizen Change", "original_title": "Citizen Change", "slug_title": "citizen-change", "date": "2012-03-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nLdAQWqkd2ivJ57XN9EvAJVQQhS.jpg", "actors": [], "comments": [], "recommandations_id": []}

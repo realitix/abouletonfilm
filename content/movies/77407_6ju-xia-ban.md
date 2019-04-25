@@ -1,1 +1,0 @@
-{"tmdb_id": 77407, "title": "6\u5c40\u4e0b\u534a", "original_title": "6\u5c40\u4e0b\u534a", "slug_title": "6ju-xia-ban", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

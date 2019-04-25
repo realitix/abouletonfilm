@@ -1,1 +1,0 @@
-{"tmdb_id": 275832, "title": "Dennis Brown: Live at Montreux", "original_title": "Dennis Brown: Live at Montreux", "slug_title": "dennis-brown-live-at-montreux", "date": "1979-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e2slZgy0v3VM8FYOXkeF9rnpDPq.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 584880, "title": "Isabella", "original_title": "Isabella", "slug_title": "isabella", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

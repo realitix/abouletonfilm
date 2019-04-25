@@ -1,1 +1,0 @@
-{"tmdb_id": 276676, "title": "Dandanko", "original_title": "Dandanko", "slug_title": "dandanko", "date": "1960-01-01", "genre": "Drame", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ymN15L15BBRSVtPrG84JJPI88iW.jpg", "actors": [], "comments": [], "recommandations_id": []}

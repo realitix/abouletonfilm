@@ -1,1 +1,0 @@
-{"tmdb_id": 67690, "title": "Chiller Theatre", "original_title": "Chiller Theatre", "slug_title": "chiller-theatre", "date": "", "genre": "Horreur / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3Tw4uX4Ny7SpuFuW82PZ79nSvWS.jpg", "actors": [], "comments": [], "recommandations_id": []}

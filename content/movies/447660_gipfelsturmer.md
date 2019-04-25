@@ -1,1 +1,0 @@
-{"tmdb_id": 447660, "title": "Gipfelst\u00fcrmer", "original_title": "Gipfelst\u00fcrmer", "slug_title": "gipfelsturmer", "date": "2007-03-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iOTdpqlBxDslzDSury3KPMers1K.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 539204, "title": "Family of Man", "original_title": "Rodzina cz\u0142owiecza", "slug_title": "family-of-man", "date": "1966-04-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/alT1PKuyMswVjv42xrTp6iVEPL3.jpg", "actors": [], "comments": [], "recommandations_id": []}

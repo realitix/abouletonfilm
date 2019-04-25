@@ -1,1 +1,0 @@
-{"tmdb_id": 337811, "title": "Un amico", "original_title": "Un amico", "slug_title": "un-amico", "date": "1967-12-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

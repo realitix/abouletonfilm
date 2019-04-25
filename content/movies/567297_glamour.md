@@ -1,1 +1,0 @@
-{"tmdb_id": 567297, "title": "Glamour", "original_title": "Glamour", "slug_title": "glamour", "date": "1985-01-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

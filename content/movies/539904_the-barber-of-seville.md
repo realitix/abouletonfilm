@@ -1,1 +1,0 @@
-{"tmdb_id": 539904, "title": "The Barber of Seville", "original_title": "Le barbier de S\u00e9ville", "slug_title": "the-barber-of-seville", "date": "1933-12-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

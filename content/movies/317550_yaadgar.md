@@ -1,1 +1,0 @@
-{"tmdb_id": 317550, "title": "Yaadgar", "original_title": "Yaadgar", "slug_title": "yaadgar", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rd5Z6CBVuUKPq4A5pwogqLvEa7a.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 233419, "title": "The Fade", "original_title": "The Fade", "slug_title": "the-fade", "date": "2012-10-19", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bzm2eBZ4mYD756y1VUt8eX7DjA1.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 310398, "title": "The Incas Remembered", "original_title": "The Incas Remembered", "slug_title": "the-incas-remembered", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

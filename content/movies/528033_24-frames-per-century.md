@@ -1,1 +1,0 @@
-{"tmdb_id": 528033, "title": "24 Frames per Century", "original_title": "24 Frames per Century", "slug_title": "24-frames-per-century", "date": "2013-08-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5XpVIkkQH1pNd9LEZeAbadqGH4r.jpg", "actors": [], "comments": [], "recommandations_id": []}

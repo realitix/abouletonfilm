@@ -1,1 +1,0 @@
-{"tmdb_id": 165687, "title": "Yilan Yuvasi", "original_title": "Yilan Yuvasi", "slug_title": "yilan-yuvasi", "date": "1974-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

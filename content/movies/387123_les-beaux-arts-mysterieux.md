@@ -1,1 +1,0 @@
-{"tmdb_id": 387123, "title": "Les beaux-arts myst\u00e9rieux", "original_title": "Les beaux-arts myst\u00e9rieux", "slug_title": "les-beaux-arts-mysterieux", "date": "1910-03-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fzUDcluwrmfXO3Itkhw4VQQjbNp.jpg", "actors": [], "comments": [], "recommandations_id": []}

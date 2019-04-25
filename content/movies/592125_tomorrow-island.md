@@ -1,1 +1,0 @@
-{"tmdb_id": 592125, "title": "Tomorrow Island", "original_title": "Tomorrow Island", "slug_title": "tomorrow-island", "date": "2018-11-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

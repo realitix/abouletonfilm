@@ -1,1 +1,0 @@
-{"tmdb_id": 553879, "title": "The City that Sold America", "original_title": "The City that Sold America", "slug_title": "the-city-that-sold-america", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

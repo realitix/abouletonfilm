@@ -1,1 +1,0 @@
-{"tmdb_id": 279073, "title": "Canada Vignettes: Toronto", "original_title": "Canada Vignettes: Toronto", "slug_title": "canada-vignettes-toronto", "date": "1978-01-01", "genre": "", "score": "4.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

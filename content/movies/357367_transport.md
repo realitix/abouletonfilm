@@ -1,1 +1,1 @@
-{"tmdb_id": 357367, "title": "Transport", "original_title": "Transport", "slug_title": "transport", "date": "1950-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 357367, "title": "Transport", "original_title": "Transport", "slug_title": "transport", "date": "1950-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Peter Bradford.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

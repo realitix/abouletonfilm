@@ -1,1 +1,0 @@
-{"tmdb_id": 302075, "title": "Le dormeur", "original_title": "Le dormeur", "slug_title": "le-dormeur", "date": "1974-01-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

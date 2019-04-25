@@ -1,1 +1,0 @@
-{"tmdb_id": 461177, "title": "La veuve rus\u00e9e", "original_title": "La veuve rus\u00e9e", "slug_title": "la-veuve-rusee", "date": "1969-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Nicole Calfan ()", "Marthe Keller ()"], "comments": [], "recommandations_id": []}

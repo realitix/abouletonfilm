@@ -1,1 +1,0 @@
-{"tmdb_id": 311727, "title": "Panic! At the Disco: The Theatre of Imagination", "original_title": "Panic! At the Disco: The Theatre of Imagination", "slug_title": "panic-at-the-disco-the-theatre-of-imagination", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

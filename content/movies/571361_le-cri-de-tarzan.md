@@ -1,1 +1,0 @@
-{"tmdb_id": 571361, "title": "Le cri de Tarzan", "original_title": "Le cri de Tarzan", "slug_title": "le-cri-de-tarzan", "date": "1996-03-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xbrWfw1oTFWWOEpMZebEFRf24YK.jpg", "actors": [], "comments": [], "recommandations_id": []}

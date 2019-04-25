@@ -1,1 +1,0 @@
-{"tmdb_id": 78469, "title": "Kuberan", "original_title": "Kuberan", "slug_title": "kuberan", "date": "2000-09-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Karthik Muthuraman ()", "Kausalya ()", "Raasi ()", "Manivannan ()", "Thiyagu ()", "Anju Prabhakar ()"], "comments": [], "recommandations_id": []}

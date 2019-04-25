@@ -1,1 +1,0 @@
-{"tmdb_id": 547870, "title": "Fotzen-Klinik", "original_title": "Fotzen-Klinik", "slug_title": "fotzen-klinik", "date": "2012-05-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v0stCXYHhYqcgZiu5IdApJeX8ly.jpg", "actors": [], "comments": [], "recommandations_id": []}

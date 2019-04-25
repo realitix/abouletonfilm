@@ -1,1 +1,0 @@
-{"tmdb_id": 29623, "title": "Final Appointment", "original_title": "Final Appointment", "slug_title": "final-appointment", "date": "2003-01-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Brinke Stevens (Dr. Steiner)", "Grant Axton (Mr. Talbot)"], "comments": [], "recommandations_id": []}

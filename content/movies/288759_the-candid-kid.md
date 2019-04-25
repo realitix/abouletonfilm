@@ -1,1 +1,0 @@
-{"tmdb_id": 288759, "title": "The Candid Kid", "original_title": "The Candid Kid", "slug_title": "the-candid-kid", "date": "1938-02-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Josephine Huston ()", "Phil Silvers ()"], "comments": [], "recommandations_id": []}

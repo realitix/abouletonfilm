@@ -1,1 +1,0 @@
-{"tmdb_id": 450651, "title": "The Divine Miracle", "original_title": "The Divine Miracle", "slug_title": "the-divine-miracle", "date": "1973-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oNb28u1qiJaWMCs4ZPGZV33d6Vb.jpg", "actors": [], "comments": [], "recommandations_id": []}

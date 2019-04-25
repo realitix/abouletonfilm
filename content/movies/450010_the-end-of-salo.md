@@ -1,1 +1,0 @@
-{"tmdb_id": 450010, "title": "The End of Sal\u00f2", "original_title": "La fine di Sal\u00f2", "slug_title": "the-end-of-salo", "date": "2008-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4YT10fQWUa2txFZYPQmnigWKKf9.jpg", "actors": [], "comments": [], "recommandations_id": []}

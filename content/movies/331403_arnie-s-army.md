@@ -1,1 +1,0 @@
-{"tmdb_id": 331403, "title": "Arnie's Army", "original_title": "Arnie's Army", "slug_title": "arnie-s-army", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

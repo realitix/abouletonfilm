@@ -1,1 +1,0 @@
-{"tmdb_id": 504192, "title": "Darkoob", "original_title": "Darkoob", "slug_title": "darkoob", "date": "2018-02-20", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/igi1VnupyTxYkji4ugqY32oEvnx.jpg", "actors": ["Sara Bahrami ()", "Mahnaz Afshar ()", "Amin Hayai ()"], "comments": [], "recommandations_id": []}

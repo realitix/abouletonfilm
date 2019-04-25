@@ -1,1 +1,0 @@
-{"tmdb_id": 300267, "title": "A Sense of Wonder", "original_title": "A Sense of Wonder", "slug_title": "a-sense-of-wonder", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

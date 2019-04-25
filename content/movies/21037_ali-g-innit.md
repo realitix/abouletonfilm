@@ -1,1 +1,0 @@
-{"tmdb_id": 21037, "title": "Ali G, Innit", "original_title": "Ali G, Innit", "slug_title": "ali-g-innit", "date": "1999-11-15", "genre": "Com\u00e9die", "score": "6.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3h9ekJFFVsTDFiO0q68WHqnhdlx.jpg", "actors": ["Sacha Baron Cohen (Ali G)"], "comments": [], "recommandations_id": [17272, 17856, 82687]}

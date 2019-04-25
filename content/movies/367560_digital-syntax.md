@@ -1,1 +1,0 @@
-{"tmdb_id": 367560, "title": "Digital Syntax", "original_title": "Digital Syntax", "slug_title": "digital-syntax", "date": "2015-11-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2zYqKhV1kdsoWB8TOsnisYkctLx.jpg", "actors": ["Christina Pouagare (Dancer)"], "comments": [], "recommandations_id": []}

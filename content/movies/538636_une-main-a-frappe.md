@@ -1,1 +1,0 @@
-{"tmdb_id": 538636, "title": "Une main a frapp\u00e9", "original_title": "Une main a frapp\u00e9", "slug_title": "une-main-a-frappe", "date": "1939-07-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/889hoNfMet4C27okvguqfmjVFF4.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 353535, "title": "The Struma", "original_title": "The Struma", "slug_title": "the-struma", "date": "2002-02-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7bL0PC1Izs2I7yiO685vyxasJ9t.jpg", "actors": [], "comments": [], "recommandations_id": []}

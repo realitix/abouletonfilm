@@ -1,1 +1,0 @@
-{"tmdb_id": 548221, "title": "The Dark Room", "original_title": "Otaghe Tarik", "slug_title": "the-dark-room", "date": "2018-02-03", "genre": "Drame", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1OibdAvoonD16sRp4vTLcT7xcIx.jpg", "actors": ["Saed Soheili ()", "Sareh Bayat ()"], "comments": [], "recommandations_id": []}

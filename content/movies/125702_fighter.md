@@ -1,1 +1,0 @@
-{"tmdb_id": 125702, "title": "Fighter", "original_title": "Fighter", "slug_title": "fighter", "date": "2000-04-12", "genre": "Documentaire", "score": "6.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zeXBYTP7XHpONgfSyJyPg5PJEHt.jpg", "actors": ["Arno\u0161t Lustig (Himself)", "Jan Wiener (Himself)"], "comments": [], "recommandations_id": [60994]}

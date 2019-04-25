@@ -1,1 +1,0 @@
-{"tmdb_id": 325530, "title": "Jerry Mcgill: Very Extremely Dangerous", "original_title": "Jerry Mcgill: Very Extremely Dangerous", "slug_title": "jerry-mcgill-very-extremely-dangerous", "date": "2015-02-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

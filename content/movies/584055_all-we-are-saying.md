@@ -1,1 +1,0 @@
-{"tmdb_id": 584055, "title": "All We Are Saying", "original_title": "All We Are Saying", "slug_title": "all-we-are-saying", "date": "2005-04-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t3PKnV8YbLmGM57a4N4EXX0j7uy.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 383467, "title": "The 14th Morning", "original_title": "The 14th Morning", "slug_title": "the-14th-morning", "date": "2004-09-18", "genre": "Drame", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Zach McGowan (Tony)", "Marisa Miller (Tony's Girlfriend)", "Deirdre Kingsbury (Tony's Mother)"], "comments": [], "recommandations_id": []}

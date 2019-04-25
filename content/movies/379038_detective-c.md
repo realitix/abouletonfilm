@@ -1,1 +1,0 @@
-{"tmdb_id": 379038, "title": "Detective C", "original_title": "Detective C", "slug_title": "detective-c", "date": "2015-04-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

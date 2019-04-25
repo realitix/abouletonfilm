@@ -1,1 +1,1 @@
-{"tmdb_id": 306153, "title": "Thi Reeta", "original_title": "Thi Reeta", "slug_title": "thi-reeta", "date": "1971-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 306153, "title": "Thi Reeta", "original_title": "Thi Reeta", "slug_title": "thi-reeta", "date": "1971-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Bollywood 1971", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

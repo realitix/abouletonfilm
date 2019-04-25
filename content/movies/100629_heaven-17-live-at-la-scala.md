@@ -1,1 +1,0 @@
-{"tmdb_id": 100629, "title": "Heaven 17 - Live at La Scala", "original_title": "Heaven 17 - Live at La Scala", "slug_title": "heaven-17-live-at-la-scala", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

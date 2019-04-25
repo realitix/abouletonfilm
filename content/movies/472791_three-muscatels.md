@@ -1,1 +1,0 @@
-{"tmdb_id": 472791, "title": "Three Muscatels", "original_title": "Three Muscatels", "slug_title": "three-muscatels", "date": "1991-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rjUbHawL0DI406zGznpTiWdn8iS.jpg", "actors": [], "comments": [], "recommandations_id": []}

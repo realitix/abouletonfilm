@@ -1,1 +1,0 @@
-{"tmdb_id": 237036, "title": "Service with a Guile", "original_title": "Service with a Guile", "slug_title": "service-with-a-guile", "date": "1946-04-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

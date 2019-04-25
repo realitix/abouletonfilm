@@ -1,1 +1,0 @@
-{"tmdb_id": 334285, "title": "Der W - Von A nach W", "original_title": "Der W - Von A nach W", "slug_title": "der-w-von-a-nach-w", "date": "2009-11-13", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9puH6QCK4jraaLSylw0ft5shFiO.jpg", "actors": ["Stephan Weidner ()"], "comments": [], "recommandations_id": []}

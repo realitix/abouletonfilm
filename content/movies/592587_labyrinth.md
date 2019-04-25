@@ -1,1 +1,0 @@
-{"tmdb_id": 592587, "title": "Labyrinth", "original_title": "Labyrinth", "slug_title": "labyrinth", "date": "2007-04-08", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mnFeZtYrVKhwhnlrHh8cnKL7DB9.jpg", "actors": [], "comments": [], "recommandations_id": []}

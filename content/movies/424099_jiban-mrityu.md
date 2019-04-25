@@ -1,1 +1,0 @@
-{"tmdb_id": 424099, "title": "Jiban mrityu", "original_title": "Jiban mrityu", "slug_title": "jiban-mrityu", "date": "1967-04-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mH9vdTuKHnQiW1RF99Ff81Lezbm.jpg", "actors": ["Uttam Kumar ()", "Supriya Choudhury ()"], "comments": [], "recommandations_id": []}

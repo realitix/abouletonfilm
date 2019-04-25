@@ -1,1 +1,0 @@
-{"tmdb_id": 588292, "title": "Eclipses", "original_title": "Eclipses", "slug_title": "eclipses", "date": "2011-09-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

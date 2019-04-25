@@ -1,1 +1,0 @@
-{"tmdb_id": 505977, "title": "Hotel Nachtclub", "original_title": "Hotel Nachtclub", "slug_title": "hotel-nachtclub", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

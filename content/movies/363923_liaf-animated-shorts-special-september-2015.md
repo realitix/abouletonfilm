@@ -1,1 +1,0 @@
-{"tmdb_id": 363923, "title": "LIAF Animated Shorts Special - September 2015", "original_title": "LIAF Animated Shorts Special - September 2015", "slug_title": "liaf-animated-shorts-special-september-2015", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

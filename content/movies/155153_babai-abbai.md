@@ -1,1 +1,0 @@
-{"tmdb_id": 155153, "title": "Babai Abbai", "original_title": "Babai Abbai", "slug_title": "babai-abbai", "date": "1984-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 247167, "title": "The Snail on the Slope", "original_title": "The Snail on the Slope", "slug_title": "the-snail-on-the-slope", "date": "2009-01-01", "genre": "Animation", "score": "1.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nETK7EdOPHBiDP2s8IkFYmyL6IN.jpg", "actors": [], "comments": [], "recommandations_id": []}

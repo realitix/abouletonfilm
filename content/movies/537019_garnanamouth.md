@@ -1,1 +1,0 @@
-{"tmdb_id": 537019, "title": "Garnanamouth", "original_title": "Garnanamouth", "slug_title": "garnanamouth", "date": "1987-07-21", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

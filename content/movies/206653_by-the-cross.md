@@ -1,1 +1,0 @@
-{"tmdb_id": 206653, "title": "By the Cross", "original_title": "In hoc signo vinces (In questo segno vincerai)", "slug_title": "by-the-cross", "date": "1913-12-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wgEQxto5plQ1s575kQQGXf44sZL.jpg", "actors": [], "comments": [], "recommandations_id": []}

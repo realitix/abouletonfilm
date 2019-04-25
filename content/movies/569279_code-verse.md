@@ -1,1 +1,0 @@
-{"tmdb_id": 569279, "title": "code-verse", "original_title": "code-verse", "slug_title": "code-verse", "date": "2018-07-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jE05v3JhP8eWYLvducIcSkKfOPR.jpg", "actors": [], "comments": [], "recommandations_id": []}

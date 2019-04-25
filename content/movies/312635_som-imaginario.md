@@ -1,1 +1,0 @@
-{"tmdb_id": 312635, "title": "Som Imaginario", "original_title": "Som Imaginario", "slug_title": "som-imaginario", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

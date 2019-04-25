@@ -1,1 +1,0 @@
-{"tmdb_id": 245002, "title": "Reaping for Dummies", "original_title": "Reaping for Dummies", "slug_title": "reaping-for-dummies", "date": "2013-12-08", "genre": "Animation / Com\u00e9die", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wtSfvgWhtFxZWgez09YUI2Aup3e.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 191233, "title": "The Concrete Revolution", "original_title": "The Concrete Revolution", "slug_title": "the-concrete-revolution", "date": "2004-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/139m6ncoiWoKcuXDt0BQNlTRJts.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 567040, "title": "History Remembers George H.W. Bush", "original_title": "History Remembers George H.W. Bush", "slug_title": "history-remembers-george-h-w-bush", "date": "2018-12-06", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

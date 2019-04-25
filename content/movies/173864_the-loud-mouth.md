@@ -1,1 +1,0 @@
-{"tmdb_id": 173864, "title": "The Loud Mouth", "original_title": "The Loud Mouth", "slug_title": "the-loud-mouth", "date": "1932-06-16", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Matt McHugh ()", "Marjorie Kane ()", "Franklin Pangborn ()", "Ray Cooke ()"], "comments": [], "recommandations_id": []}

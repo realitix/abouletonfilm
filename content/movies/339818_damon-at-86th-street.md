@@ -1,1 +1,0 @@
-{"tmdb_id": 339818, "title": "Damon at 86th Street", "original_title": "Damon at 86th Street", "slug_title": "damon-at-86th-street", "date": "2015-05-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Damon C. Scott (Documentary Subject)"], "comments": [], "recommandations_id": []}

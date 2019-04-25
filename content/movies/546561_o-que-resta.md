@@ -1,1 +1,0 @@
-{"tmdb_id": 546561, "title": "O Que Resta", "original_title": "O Que Resta", "slug_title": "o-que-resta", "date": "2018-11-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7dczCNQNR2W9nM1Tnc7WqDdKMo.jpg", "actors": [], "comments": [], "recommandations_id": []}

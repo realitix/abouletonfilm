@@ -1,1 +1,0 @@
-{"tmdb_id": 374545, "title": "The Will", "original_title": "\u0412\u043e\u043b\u044f", "slug_title": "the-will", "date": "1994-06-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hBucWv4ke9fsgzCWhtWs6ap4MuE.jpg", "actors": [], "comments": [], "recommandations_id": []}

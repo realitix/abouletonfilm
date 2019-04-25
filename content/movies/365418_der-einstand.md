@@ -1,1 +1,0 @@
-{"tmdb_id": 365418, "title": "Der Einstand", "original_title": "Der Einstand", "slug_title": "der-einstand", "date": "1977-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gerhard Dorfer (Georg)", "Christoph Waltz ()", "Elisabeth Orth ()", "Erwin Leder ()"], "comments": [], "recommandations_id": []}

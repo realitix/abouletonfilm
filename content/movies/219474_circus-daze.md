@@ -1,1 +1,0 @@
-{"tmdb_id": 219474, "title": "Circus Daze", "original_title": "Circus Daze", "slug_title": "circus-daze", "date": "1937-01-16", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rochelle Hudson (Honey (voice))", "Carman Maxwell (Bosko (voice))"], "comments": [], "recommandations_id": []}

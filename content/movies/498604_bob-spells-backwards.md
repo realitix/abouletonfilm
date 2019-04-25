@@ -1,1 +1,0 @@
-{"tmdb_id": 498604, "title": "Bob Spells Backwards", "original_title": "Bob Spells Backwards", "slug_title": "bob-spells-backwards", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bJTo1tWdiUxQB55mEW22nqhXbiH.jpg", "actors": [], "comments": [], "recommandations_id": []}

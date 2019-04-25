@@ -1,1 +1,0 @@
-{"tmdb_id": 342158, "title": "The Anti-Mascot", "original_title": "The Anti-Mascot", "slug_title": "the-anti-mascot", "date": "2015-05-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kK9VDxPYNXCfDLdh0oh6wNtNu6K.jpg", "actors": [], "comments": [], "recommandations_id": []}

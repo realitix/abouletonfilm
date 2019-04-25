@@ -1,1 +1,0 @@
-{"tmdb_id": 317836, "title": "Streets Talk: Omar Broadway Edition", "original_title": "Streets Talk: Omar Broadway Edition", "slug_title": "streets-talk-omar-broadway-edition", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

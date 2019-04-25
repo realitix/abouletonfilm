@@ -1,1 +1,0 @@
-{"tmdb_id": 441373, "title": "The Lady in Ermine", "original_title": "The Lady in Ermine", "slug_title": "the-lady-in-ermine", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Corinne Griffith ()", "Einar Hanson ()", "Ward Crane ()"], "comments": [], "recommandations_id": []}

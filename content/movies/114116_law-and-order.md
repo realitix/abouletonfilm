@@ -1,1 +1,0 @@
-{"tmdb_id": 114116, "title": "Law and Order", "original_title": "Law and Order", "slug_title": "law-and-order", "date": "1969-03-02", "genre": "Documentaire", "score": "6.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w0kyuALWxSQkBHUt1i19PtM6LHg.jpg", "actors": ["Richard Nixon (Himself)"], "comments": [], "recommandations_id": []}

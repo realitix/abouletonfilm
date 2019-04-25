@@ -1,1 +1,0 @@
-{"tmdb_id": 532885, "title": "My So-Called Enemy", "original_title": "My So-Called Enemy", "slug_title": "my-so-called-enemy", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

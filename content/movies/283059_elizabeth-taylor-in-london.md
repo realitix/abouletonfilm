@@ -1,1 +1,0 @@
-{"tmdb_id": 283059, "title": "Elizabeth Taylor in London", "original_title": "Elizabeth Taylor in London", "slug_title": "elizabeth-taylor-in-london", "date": "1963-10-06", "genre": "T\u00e9l\u00e9film / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Elizabeth Taylor (Herself)"], "comments": [], "recommandations_id": []}

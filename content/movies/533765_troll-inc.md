@@ -1,1 +1,0 @@
-{"tmdb_id": 533765, "title": "Troll Inc.", "original_title": "Troll Inc.", "slug_title": "troll-inc", "date": "2018-04-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sSrAkLvCb2hBwI7TJBc80vxFoYJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

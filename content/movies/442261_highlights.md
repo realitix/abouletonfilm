@@ -1,1 +1,0 @@
-{"tmdb_id": 442261, "title": "Highlights", "original_title": "Highlights", "slug_title": "highlights", "date": "2017-02-17", "genre": "Musique", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4vDE4ZyEeb2PQ44kbqKLNEd2P7Q.jpg", "actors": [], "comments": [], "recommandations_id": []}

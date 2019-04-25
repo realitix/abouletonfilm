@@ -1,1 +1,0 @@
-{"tmdb_id": 288088, "title": "Schaupl\u00e4tze", "original_title": "Schaupl\u00e4tze", "slug_title": "schauplatze", "date": "1967-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

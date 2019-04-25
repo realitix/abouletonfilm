@@ -1,1 +1,0 @@
-{"tmdb_id": 420372, "title": "Hollywood in Deliblatska Pescara", "original_title": "Hollywood in Deliblatska Pescara", "slug_title": "hollywood-in-deliblatska-pescara", "date": "1965-02-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Henry Levin (Self)"], "comments": [], "recommandations_id": []}

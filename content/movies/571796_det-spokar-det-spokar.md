@@ -1,1 +1,0 @@
-{"tmdb_id": 571796, "title": "Det sp\u00f6kar - det sp\u00f6kar...", "original_title": "Det sp\u00f6kar - det sp\u00f6kar...", "slug_title": "det-spokar-det-spokar", "date": "1943-09-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

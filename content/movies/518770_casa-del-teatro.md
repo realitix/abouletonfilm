@@ -1,1 +1,0 @@
-{"tmdb_id": 518770, "title": "Casa del Teatro", "original_title": "Casa del Teatro", "slug_title": "casa-del-teatro", "date": "2018-04-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m1xRCmPRB4TH23xNAMcfLZU9F6O.jpg", "actors": [], "comments": [], "recommandations_id": []}

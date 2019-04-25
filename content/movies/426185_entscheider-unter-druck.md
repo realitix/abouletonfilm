@@ -1,1 +1,0 @@
-{"tmdb_id": 426185, "title": "Entscheider unter Druck", "original_title": "Entscheider unter Druck", "slug_title": "entscheider-unter-druck", "date": "2016-08-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

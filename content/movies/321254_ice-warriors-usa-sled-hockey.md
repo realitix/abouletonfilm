@@ -1,1 +1,0 @@
-{"tmdb_id": 321254, "title": "Ice Warriors: USA Sled Hockey", "original_title": "Ice Warriors: USA Sled Hockey", "slug_title": "ice-warriors-usa-sled-hockey", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 529674, "title": "El Viaje: M\u00e1rama y Rombai", "original_title": "El Viaje: M\u00e1rama y Rombai", "slug_title": "el-viaje-marama-y-rombai", "date": "2016-08-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n5SL5g7EsUKq1nZgX0TUo9027lL.jpg", "actors": [], "comments": [], "recommandations_id": []}

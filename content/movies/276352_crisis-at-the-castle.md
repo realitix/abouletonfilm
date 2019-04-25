@@ -1,1 +1,0 @@
-{"tmdb_id": 276352, "title": "Crisis at the Castle", "original_title": "Crisis at the Castle", "slug_title": "crisis-at-the-castle", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

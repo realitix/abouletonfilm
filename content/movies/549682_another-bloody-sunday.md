@@ -1,1 +1,0 @@
-{"tmdb_id": 549682, "title": "Another Bloody Sunday", "original_title": "Another Bloody Sunday", "slug_title": "another-bloody-sunday", "date": "1981-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

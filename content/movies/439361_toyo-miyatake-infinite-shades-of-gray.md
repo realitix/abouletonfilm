@@ -1,1 +1,0 @@
-{"tmdb_id": 439361, "title": "Toyo Miyatake: Infinite Shades of Gray", "original_title": "Toyo Miyatake: Infinite Shades of Gray", "slug_title": "toyo-miyatake-infinite-shades-of-gray", "date": "2002-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Toyo Miyatake ()"], "comments": [], "recommandations_id": []}

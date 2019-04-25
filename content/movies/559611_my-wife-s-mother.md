@@ -1,1 +1,0 @@
-{"tmdb_id": 559611, "title": "My Wife's Mother", "original_title": "My Wife's Mother", "slug_title": "my-wife-s-mother", "date": "2018-05-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gJJ1ic529vmZgixtoeXbM7HFFAG.jpg", "actors": [], "comments": [], "recommandations_id": []}

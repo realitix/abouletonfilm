@@ -1,1 +1,0 @@
-{"tmdb_id": 227215, "title": "Dinosaur Revolution", "original_title": "Dinosaur Revolution", "slug_title": "dinosaur-revolution", "date": "2011-09-13", "genre": "Documentaire / Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ymXpWWkbif6Ti8o23bY83WYu4Ro.jpg", "actors": [], "comments": [], "recommandations_id": []}

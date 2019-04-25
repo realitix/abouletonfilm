@@ -1,1 +1,0 @@
-{"tmdb_id": 502205, "title": "Destin\u00e9e", "original_title": "Destin\u00e9e", "slug_title": "destinee", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iv2iXZwIggFPcVfwAycVtTDvm6H.jpg", "actors": ["Michelle Chen (Claire)", "Oliver Jackson-Cohen (Nick)"], "comments": [], "recommandations_id": []}

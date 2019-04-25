@@ -1,1 +1,0 @@
-{"tmdb_id": 327422, "title": "Inventing to Nowhere", "original_title": "Inventing to Nowhere", "slug_title": "inventing-to-nowhere", "date": "2015-02-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

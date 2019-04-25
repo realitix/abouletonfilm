@@ -1,1 +1,0 @@
-{"tmdb_id": 489410, "title": "Taivalu", "original_title": "\u6c88\u6c92\u4e4b\u5cf6", "slug_title": "taivalu", "date": "2010-11-28", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mzDbriKiB3J1eoR015p0gh9ldaQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

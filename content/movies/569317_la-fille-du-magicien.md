@@ -1,1 +1,0 @@
-{"tmdb_id": 569317, "title": "La fille du magicien", "original_title": "La fille du magicien", "slug_title": "la-fille-du-magicien", "date": "1990-11-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

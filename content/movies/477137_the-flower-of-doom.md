@@ -1,1 +1,0 @@
-{"tmdb_id": 477137, "title": "The Flower of Doom", "original_title": "The Flower of Doom", "slug_title": "the-flower-of-doom", "date": "1917-04-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

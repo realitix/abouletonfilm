@@ -1,1 +1,0 @@
-{"tmdb_id": 114044, "title": "Interkosmos", "original_title": "Interkosmos", "slug_title": "interkosmos", "date": "2006-01-06", "genre": "Drame / Science-Fiction", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ArmKky7m68wFfuNegGXmadua5Gk.jpg", "actors": [], "comments": [], "recommandations_id": []}

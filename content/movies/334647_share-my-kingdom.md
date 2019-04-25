@@ -1,1 +1,0 @@
-{"tmdb_id": 334647, "title": "Share My Kingdom", "original_title": "Share My Kingdom", "slug_title": "share-my-kingdom", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

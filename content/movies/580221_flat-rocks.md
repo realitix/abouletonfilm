@@ -1,1 +1,0 @@
-{"tmdb_id": 580221, "title": "Flat Rocks", "original_title": "Flat Rocks", "slug_title": "flat-rocks", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

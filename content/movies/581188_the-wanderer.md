@@ -1,1 +1,0 @@
-{"tmdb_id": 581188, "title": "The Wanderer", "original_title": "\ubb34\uc219\uc790", "slug_title": "the-wanderer", "date": "1968-06-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Shin Young-kyun ()", "Choi Eun-hee ()", "Choi Seong-ho ()", "Kim Jeong-hun ()"], "comments": [], "recommandations_id": []}

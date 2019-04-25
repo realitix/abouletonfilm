@@ -1,1 +1,1 @@
-{"tmdb_id": 308215, "title": "Maruppacha", "original_title": "Maruppacha", "slug_title": "maruppacha", "date": "1982-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 308215, "title": "Maruppacha", "original_title": "Maruppacha", "slug_title": "maruppacha", "date": "1982-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Bollywood 1982", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

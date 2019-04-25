@@ -1,1 +1,0 @@
-{"tmdb_id": 290014, "title": "Tupac - Breaking The Oath", "original_title": "Tupac - Breaking The Oath", "slug_title": "tupac-breaking-the-oath", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

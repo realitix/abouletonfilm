@@ -1,1 +1,0 @@
-{"tmdb_id": 339696, "title": "CKT The Documentary", "original_title": "CKT The Documentary", "slug_title": "ckt-the-documentary", "date": "2015-02-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

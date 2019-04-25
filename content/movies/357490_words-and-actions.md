@@ -1,1 +1,0 @@
-{"tmdb_id": 357490, "title": "Words and Actions", "original_title": "Words and Actions", "slug_title": "words-and-actions", "date": "1943-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

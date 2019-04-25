@@ -1,1 +1,0 @@
-{"tmdb_id": 449694, "title": "Generation Divide I", "original_title": "Generation Divide I", "slug_title": "generation-divide-i", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

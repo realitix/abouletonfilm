@@ -1,1 +1,0 @@
-{"tmdb_id": 162022, "title": "Guests of the Ayatollah", "original_title": "Guests of the Ayatollah", "slug_title": "guests-of-the-ayatollah", "date": "2005-06-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yHo2eLO6uqV1jDfHkyAZBhRh6wD.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 211110, "title": "A People Uncounted", "original_title": "A People Uncounted", "slug_title": "a-people-uncounted", "date": "2013-08-02", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aBQu6L3s080vekOiGi7RP9kvnMO.jpg", "actors": [], "comments": [], "recommandations_id": []}

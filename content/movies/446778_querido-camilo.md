@@ -1,1 +1,0 @@
-{"tmdb_id": 446778, "title": "Querido Camilo", "original_title": "Querido Camilo", "slug_title": "querido-camilo", "date": "2007-01-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

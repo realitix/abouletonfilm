@@ -1,1 +1,0 @@
-{"tmdb_id": 49011, "title": "The True Glory", "original_title": "The True Glory", "slug_title": "the-true-glory", "date": "1945-10-04", "genre": "Documentaire", "score": "5.6/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/84m8ywR36LtIczjAxDbApeeqS8X.jpg", "actors": [], "comments": [], "recommandations_id": [48894, 28892]}

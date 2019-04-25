@@ -1,1 +1,0 @@
-{"tmdb_id": 52945, "title": "Cannibal Capers", "original_title": "Cannibal Capers", "slug_title": "cannibal-capers", "date": "1930-03-13", "genre": "Animation", "score": "5.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5AEZsYj65JXwJEcJfNxzJsNZAGR.jpg", "actors": [], "comments": [], "recommandations_id": [68408, 57639, 56009, 39092]}

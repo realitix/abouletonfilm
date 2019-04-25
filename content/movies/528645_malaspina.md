@@ -1,1 +1,0 @@
-{"tmdb_id": 528645, "title": "Malaspina", "original_title": "Malaspina", "slug_title": "malaspina", "date": "1947-05-01", "genre": "Romance / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cbeUCKcFz9ojTsKYMEr4hb5uw9V.jpg", "actors": ["Vera Rol (Maria)", "Aldo Bufi Landi (Andrea)"], "comments": [], "recommandations_id": []}

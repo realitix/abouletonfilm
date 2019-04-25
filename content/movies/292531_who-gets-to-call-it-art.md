@@ -1,1 +1,0 @@
-{"tmdb_id": 292531, "title": "Who Gets to Call It Art?", "original_title": "Who Gets to Call It Art?", "slug_title": "who-gets-to-call-it-art", "date": "2006-02-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tVAQJh2jBqA13RjAviRuUW04q8c.jpg", "actors": [], "comments": [], "recommandations_id": []}

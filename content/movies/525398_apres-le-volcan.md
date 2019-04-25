@@ -1,1 +1,0 @@
-{"tmdb_id": 525398, "title": "Apr\u00e8s le volcan", "original_title": "Apr\u00e8s le volcan", "slug_title": "apres-le-volcan", "date": "2016-05-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f6Cb8DomKti7fU27Qnk0fMygLZJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

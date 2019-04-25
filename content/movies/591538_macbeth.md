@@ -1,1 +1,0 @@
-{"tmdb_id": 591538, "title": "Macbeth", "original_title": "Macbeth", "slug_title": "macbeth", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Denzel Washington ()", "Frances McDormand ()"], "comments": [], "recommandations_id": []}

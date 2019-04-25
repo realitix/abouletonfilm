@@ -1,1 +1,0 @@
-{"tmdb_id": 454027, "title": "She-Wolf", "original_title": "Volchitsa", "slug_title": "she-wolf", "date": "1990-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

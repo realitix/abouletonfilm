@@ -1,1 +1,0 @@
-{"tmdb_id": 459033, "title": "Three Stories from New York: Walt Bogdanich", "original_title": "Three Stories from New York: Walt Bogdanich", "slug_title": "three-stories-from-new-york-walt-bogdanich", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

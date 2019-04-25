@@ -1,1 +1,0 @@
-{"tmdb_id": 467759, "title": "Willkommen in der Schweiz", "original_title": "Willkommen in der Schweiz", "slug_title": "willkommen-in-der-schweiz", "date": "2017-08-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4TL00H8VZTMEmoApPmfdCibpGYH.jpg", "actors": [], "comments": [], "recommandations_id": []}

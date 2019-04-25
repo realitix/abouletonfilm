@@ -1,1 +1,0 @@
-{"tmdb_id": 343768, "title": "The Blind Man's Dog", "original_title": "The Blind Man's Dog", "slug_title": "the-blind-man-s-dog", "date": "1912-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

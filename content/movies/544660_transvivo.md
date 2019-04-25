@@ -1,1 +1,0 @@
-{"tmdb_id": 544660, "title": "Transvivo", "original_title": "Transvivo", "slug_title": "transvivo", "date": "2018-09-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yeokVSRgQCaISsrL7FYxBkLY5gz.jpg", "actors": [], "comments": [], "recommandations_id": []}

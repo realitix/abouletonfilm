@@ -1,1 +1,0 @@
-{"tmdb_id": 440787, "title": "Era Of Dance", "original_title": "Era Of Dance", "slug_title": "era-of-dance", "date": "2017-03-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uuTaQTkyWS05RoRZ8pyiJHASCTN.jpg", "actors": [], "comments": [], "recommandations_id": []}

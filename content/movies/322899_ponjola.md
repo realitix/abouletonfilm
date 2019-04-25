@@ -1,1 +1,0 @@
-{"tmdb_id": 322899, "title": "Ponjola", "original_title": "Ponjola", "slug_title": "ponjola", "date": "1923-10-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wzCWlYaMdVxuhjs5jnsmAG1rWU8.jpg", "actors": ["Anna Q. Nilsson ()"], "comments": [], "recommandations_id": []}

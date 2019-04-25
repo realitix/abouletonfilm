@@ -1,1 +1,0 @@
-{"tmdb_id": 460260, "title": "The Affairs of Aphrodite", "original_title": "The Affairs of Aphrodite", "slug_title": "the-affairs-of-aphrodite", "date": "1970-04-29", "genre": "Fantastique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tTtbEbMBGmXaljWWGxgjFDpziDb.jpg", "actors": [], "comments": [], "recommandations_id": []}

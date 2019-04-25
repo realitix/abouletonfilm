@@ -1,1 +1,0 @@
-{"tmdb_id": 334964, "title": "Cold Soldiers", "original_title": "Cold Soldiers", "slug_title": "cold-soldiers", "date": "2011-12-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h9j5T4htCNoQ0AYjNJpmBhGJr8D.jpg", "actors": [], "comments": [], "recommandations_id": []}

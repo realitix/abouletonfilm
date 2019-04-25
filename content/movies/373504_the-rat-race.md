@@ -1,1 +1,0 @@
-{"tmdb_id": 373504, "title": "The Rat Race", "original_title": "The Rat Race", "slug_title": "the-rat-race", "date": "2012-04-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rMP2Fth3IztLWSNSOMWyb5I66mr.jpg", "actors": [], "comments": [], "recommandations_id": []}

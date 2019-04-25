@@ -1,1 +1,0 @@
-{"tmdb_id": 576645, "title": "Everyday Zombie", "original_title": "Everyday Zombie", "slug_title": "everyday-zombie", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

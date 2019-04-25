@@ -1,1 +1,0 @@
-{"tmdb_id": 148936, "title": "Study of a River", "original_title": "Study of a River", "slug_title": "study-of-a-river", "date": "1997-12-31", "genre": "", "score": "6.6/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bTxm3CT1GOic1FjHclobNbRAp1C.jpg", "actors": [], "comments": [], "recommandations_id": [257141, 258870, 148661, 152304]}

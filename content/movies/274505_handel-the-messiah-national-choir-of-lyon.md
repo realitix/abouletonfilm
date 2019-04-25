@@ -1,1 +1,0 @@
-{"tmdb_id": 274505, "title": "Handel: The Messiah: National Choir of Lyon", "original_title": "Handel: The Messiah: National Choir of Lyon", "slug_title": "handel-the-messiah-national-choir-of-lyon", "date": "2002-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

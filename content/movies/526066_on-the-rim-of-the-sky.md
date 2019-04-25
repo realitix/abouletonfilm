@@ -1,1 +1,0 @@
-{"tmdb_id": 526066, "title": "On the Rim of the Sky", "original_title": "Ming Tian Hui Geng Hao", "slug_title": "on-the-rim-of-the-sky", "date": "2014-08-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lerbCcTmvaMsjI6tCgkLUFZbNaX.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 371049, "title": "State of Flux - Wave#3", "original_title": "State of Flux - Wave#3", "slug_title": "state-of-flux-wave-3", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 543351, "title": "\u05d4\u05ea\u05e2\u05d5\u05e8\u05e8\u05d5\u05ea", "original_title": "\u05d4\u05ea\u05e2\u05d5\u05e8\u05e8\u05d5\u05ea", "slug_title": "ht-vrrvt", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

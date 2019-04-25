@@ -1,1 +1,0 @@
-{"tmdb_id": 439486, "title": "A Woman and a Man", "original_title": "A Woman and a Man", "slug_title": "a-woman-and-a-man", "date": "1992-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tEh52Wvg3JwrFiQBcMYpZsSREeO.jpg", "actors": [], "comments": [], "recommandations_id": []}

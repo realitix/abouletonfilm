@@ -1,1 +1,0 @@
-{"tmdb_id": 415239, "title": "Power Of Wind", "original_title": "Power Of Wind", "slug_title": "power-of-wind", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

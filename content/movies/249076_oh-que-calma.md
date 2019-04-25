@@ -1,1 +1,0 @@
-{"tmdb_id": 249076, "title": "Oh Que Calma", "original_title": "Oh Que Calma", "slug_title": "oh-que-calma", "date": "1986-02-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 404635, "title": "Krossfire", "original_title": "Krossfire", "slug_title": "krossfire", "date": "2015-05-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Colton Grey ()", "Dorian Ferro ()", "Nick Sterling ()", "Ryan Rose ()", "Sean Zevran ()", "Sebastian Kross ()"], "comments": [], "recommandations_id": []}

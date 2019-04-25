@@ -1,1 +1,0 @@
-{"tmdb_id": 287902, "title": "Project K-9", "original_title": "Project K-9", "slug_title": "project-k-9", "date": "2013-09-28", "genre": "Com\u00e9die / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/akXJSoC34qVic6TLIeNmKy2ZXpS.jpg", "actors": [], "comments": [], "recommandations_id": []}

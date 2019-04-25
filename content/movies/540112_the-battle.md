@@ -1,1 +1,1 @@
-{"tmdb_id": 540112, "title": "The Battle", "original_title": "La bataille", "slug_title": "the-battle", "date": "1934-01-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 540112, "title": "The Battle", "original_title": "La bataille", "slug_title": "the-battle", "date": "1934-01-05", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

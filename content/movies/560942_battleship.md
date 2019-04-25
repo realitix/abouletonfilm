@@ -1,1 +1,0 @@
-{"tmdb_id": 560942, "title": "Battleship", "original_title": "Battleship", "slug_title": "battleship", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

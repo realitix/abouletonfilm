@@ -1,1 +1,0 @@
-{"tmdb_id": 517866, "title": "The Tanti Man", "original_title": "The Tanti Man", "slug_title": "the-tanti-man", "date": "1999-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/70XZk49xNJgTrpVdzy18zlSkqj9.jpg", "actors": ["Chad Cooper ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 187693, "title": "The Responsive Eye", "original_title": "The Responsive Eye", "slug_title": "the-responsive-eye", "date": "1966-01-01", "genre": "Documentaire", "score": "5.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aTnurJD9Hx9krPVFgen5o3l3t8i.jpg", "actors": ["David Hockney (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 233260, "title": "Shojo Henreki", "original_title": "Shojo Henreki", "slug_title": "shojo-henreki", "date": "1966-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cwm82SRYaPQjpJTtk3dXl7BOv4n.jpg", "actors": ["Ako Takehara ()", "Akemi Nishi ()", "Kimiko Naka ()"], "comments": [], "recommandations_id": []}

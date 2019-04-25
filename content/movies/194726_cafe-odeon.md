@@ -1,1 +1,0 @@
-{"tmdb_id": 194726, "title": "Caf\u00e9 Odeon", "original_title": "Caf\u00e9 Odeon", "slug_title": "cafe-odeon", "date": "1959-06-05", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wEGrZKXym5wV3HQqmJChpBo3JUz.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 577039, "title": "The Breath", "original_title": "Der Atem", "slug_title": "the-breath", "date": "2019-02-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cDLednoZUHFemxSLyhyaLHa96fY.jpg", "actors": [], "comments": [], "recommandations_id": []}

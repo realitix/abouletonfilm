@@ -1,1 +1,0 @@
-{"tmdb_id": 231592, "title": "Feira de Gado na Corujeira", "original_title": "Feira de Gado na Corujeira", "slug_title": "feira-de-gado-na-corujeira", "date": "1896-10-30", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

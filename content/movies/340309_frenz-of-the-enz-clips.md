@@ -1,1 +1,0 @@
-{"tmdb_id": 340309, "title": "Frenz Of the Enz: Clips", "original_title": "Frenz Of the Enz: Clips", "slug_title": "frenz-of-the-enz-clips", "date": "2005-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mitw8e8oZIt5pyO4g7pwIJVMxB9.jpg", "actors": [], "comments": [], "recommandations_id": []}

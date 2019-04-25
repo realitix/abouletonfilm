@@ -1,1 +1,0 @@
-{"tmdb_id": 497856, "title": "Glamour", "original_title": "Glamour", "slug_title": "glamour", "date": "2015-02-06", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i1ZM6Suux6gFKO2vEKmyvL9PUR5.jpg", "actors": [], "comments": [], "recommandations_id": []}

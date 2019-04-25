@@ -1,1 +1,0 @@
-{"tmdb_id": 345927, "title": "Girlfriends", "original_title": "Dhalinyaro", "slug_title": "girlfriends", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ktfK41s22nbWnL9fH2J1ADXYJhX.jpg", "actors": [], "comments": [], "recommandations_id": []}

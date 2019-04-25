@@ -1,1 +1,0 @@
-{"tmdb_id": 592121, "title": "Borodin", "original_title": "Borodin", "slug_title": "borodin", "date": "2018-12-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Joyjit Banerjee ()", "Suprabhat Banerjee ()", "Moon Moon Sen ()", "Anjan Dutt ()"], "comments": [], "recommandations_id": []}

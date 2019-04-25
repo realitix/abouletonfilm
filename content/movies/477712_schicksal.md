@@ -1,1 +1,0 @@
-{"tmdb_id": 477712, "title": "Schicksal", "original_title": "Schicksal", "slug_title": "schicksal", "date": "1968-04-04", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Robert Werner (Wilhelm Schr\u00f6der)", "Gretl L\u00f6winger (Marianne)", "Sissy L\u00f6winger (Barbara)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 424879, "title": "Der Killerwal", "original_title": "Der Killerwal", "slug_title": "der-killerwal", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

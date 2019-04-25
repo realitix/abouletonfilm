@@ -1,1 +1,0 @@
-{"tmdb_id": 519367, "title": "Peau contre peau (les risques inutiles)", "original_title": "Peau contre peau (les risques inutiles)", "slug_title": "peau-contre-peau-les-risques-inutiles", "date": "1991-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

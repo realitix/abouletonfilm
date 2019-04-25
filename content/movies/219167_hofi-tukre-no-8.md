@@ -1,1 +1,0 @@
-{"tmdb_id": 219167, "title": "Hofi t\u00fckre No.8", "original_title": "Hofi t\u00fckre No.8", "slug_title": "hofi-tukre-no-8", "date": "2009-01-01", "genre": "", "score": "9.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oVo20EIrl5OIrLCfgVKOYJIMKWu.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 555986, "title": "Sans fortune", "original_title": "Sans fortune", "slug_title": "sans-fortune", "date": "1922-08-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

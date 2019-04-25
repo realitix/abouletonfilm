@@ -1,1 +1,0 @@
-{"tmdb_id": 495230, "title": "Built-in Views", "original_title": "Built-in Views", "slug_title": "built-in-views", "date": "2016-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zGCsPGxln6Xnar1akxKC0CGQLsp.jpg", "actors": [], "comments": [], "recommandations_id": []}

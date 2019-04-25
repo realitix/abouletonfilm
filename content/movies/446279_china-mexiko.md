@@ -1,1 +1,0 @@
-{"tmdb_id": 446279, "title": "China, Mexiko", "original_title": "China, Mexiko", "slug_title": "china-mexiko", "date": "1997-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

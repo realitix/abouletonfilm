@@ -1,1 +1,0 @@
-{"tmdb_id": 124221, "title": "Carambola", "original_title": "Carambola", "slug_title": "carambola", "date": "2005-11-11", "genre": "Drame", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m4wDgfPS1YJvo0oujGXuCBDm87a.jpg", "actors": ["Diego Luna (El Perro)", "Jes\u00fas Ochoa (El Mexicano)"], "comments": [], "recommandations_id": []}

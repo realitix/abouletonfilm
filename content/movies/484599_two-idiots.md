@@ -1,1 +1,0 @@
-{"tmdb_id": 484599, "title": "Two Idiots", "original_title": "\u50bb\u74dc\u5411\u9322\u885d", "slug_title": "two-idiots", "date": "2016-05-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jsfgo0aZTthVnCiiVQNksy1iS75.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 315802, "title": "Carike in Kinderland 1", "original_title": "Carike in Kinderland 1", "slug_title": "carike-in-kinderland-1", "date": "2004-11-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b8K2gvsHSuqDeXWbnoyZp5yP0YW.jpg", "actors": [], "comments": [], "recommandations_id": []}

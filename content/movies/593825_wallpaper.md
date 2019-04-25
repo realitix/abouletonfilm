@@ -1,1 +1,0 @@
-{"tmdb_id": 593825, "title": "Wallpaper", "original_title": "Wallpaper", "slug_title": "wallpaper", "date": "2018-05-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

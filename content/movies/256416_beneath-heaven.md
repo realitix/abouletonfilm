@@ -1,1 +1,0 @@
-{"tmdb_id": 256416, "title": "Beneath Heaven", "original_title": "Debaixo do c\u00e9u", "slug_title": "beneath-heaven", "date": "2014-02-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

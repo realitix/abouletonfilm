@@ -1,1 +1,0 @@
-{"tmdb_id": 175922, "title": "The Banquet", "original_title": "Bankiet", "slug_title": "the-banquet", "date": "1976-01-01", "genre": "", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7EyoztIxMTTqzeGhZpEiiaKjIyN.jpg", "actors": [], "comments": [], "recommandations_id": []}

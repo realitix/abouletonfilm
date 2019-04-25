@@ -1,1 +1,0 @@
-{"tmdb_id": 314353, "title": "Yearbook", "original_title": "Yearbook", "slug_title": "yearbook", "date": "2014-01-17", "genre": "Com\u00e9die / Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lVDwy4grifXFbcnqKENRaswoXT8.jpg", "actors": [], "comments": [], "recommandations_id": [431711, 353051, 262713, 188724]}

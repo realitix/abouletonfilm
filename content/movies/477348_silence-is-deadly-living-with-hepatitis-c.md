@@ -1,1 +1,0 @@
-{"tmdb_id": 477348, "title": "Silence Is Deadly: Living With Hepatitis C", "original_title": "Silence Is Deadly: Living With Hepatitis C", "slug_title": "silence-is-deadly-living-with-hepatitis-c", "date": "2007-12-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 381350, "title": "Rose Street", "original_title": "Rose Street", "slug_title": "rose-street", "date": "1956-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wvei8fwu6lQew2d8dkMA26grOZQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

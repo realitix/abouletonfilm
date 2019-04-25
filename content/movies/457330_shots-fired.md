@@ -1,1 +1,0 @@
-{"tmdb_id": 457330, "title": "Shots Fired", "original_title": "Shots Fired", "slug_title": "shots-fired", "date": "2012-05-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lmyWAakjrpvHAEeX3FqCN4n3ix3.jpg", "actors": ["Jay Davis ()"], "comments": [], "recommandations_id": []}

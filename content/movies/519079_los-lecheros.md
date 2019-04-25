@@ -1,1 +1,0 @@
-{"tmdb_id": 519079, "title": "Los Lecheros", "original_title": "Los Lecheros", "slug_title": "los-lecheros", "date": "2017-11-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 361825, "title": "Fireman Sam - the Big Freeze", "original_title": "Fireman Sam - the Big Freeze", "slug_title": "fireman-sam-the-big-freeze", "date": "2006-09-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/js7zISkDaeBrpEZ1axvxdIpQzbu.jpg", "actors": [], "comments": [], "recommandations_id": []}

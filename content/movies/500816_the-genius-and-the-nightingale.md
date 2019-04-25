@@ -1,1 +1,0 @@
-{"tmdb_id": 500816, "title": "The Genius and the Nightingale", "original_title": "Maria Malibran", "slug_title": "the-genius-and-the-nightingale", "date": "1943-01-20", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2AbS8gocwNJufsjU9DH5grpuT3o.jpg", "actors": [], "comments": [], "recommandations_id": []}

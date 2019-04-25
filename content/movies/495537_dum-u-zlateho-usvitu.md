@@ -1,1 +1,0 @@
-{"tmdb_id": 495537, "title": "Dum U Zlateho usvitu", "original_title": "Dum U Zlateho usvitu", "slug_title": "dum-u-zlateho-usvitu", "date": "2009-01-01", "genre": "T\u00e9l\u00e9film / Fantastique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 479638, "title": "My Bodies", "original_title": "My Bodies", "slug_title": "my-bodies", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

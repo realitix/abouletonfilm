@@ -1,1 +1,0 @@
-{"tmdb_id": 399350, "title": "Schlusschor", "original_title": "Schlusschor", "slug_title": "schlusschor", "date": "1993-02-16", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Uwe Kockisch ()", "Otto Sander ()", "Imogen Kogge ()", "Jutta Lampe ()", "Carola Regnier ()"], "comments": [], "recommandations_id": []}

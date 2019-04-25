@@ -1,1 +1,0 @@
-{"tmdb_id": 413582, "title": "Pink Floyd: Hangar Rehearsals", "original_title": "Pink Floyd: Hangar Rehearsals", "slug_title": "pink-floyd-hangar-rehearsals", "date": "1987-08-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jNkHcUYo293HmebrlTd9guvAaNQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

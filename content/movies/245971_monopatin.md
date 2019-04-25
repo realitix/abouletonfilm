@@ -1,1 +1,0 @@
-{"tmdb_id": 245971, "title": "Monopat\u00edn", "original_title": "Monopat\u00edn", "slug_title": "monopatin", "date": "2013-11-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

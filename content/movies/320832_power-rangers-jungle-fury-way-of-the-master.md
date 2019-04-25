@@ -1,1 +1,0 @@
-{"tmdb_id": 320832, "title": "Power Rangers: Jungle Fury: Way of the Master", "original_title": "Power Rangers: Jungle Fury: Way of the Master", "slug_title": "power-rangers-jungle-fury-way-of-the-master", "date": "2008-01-01", "genre": "", "score": "4.4/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [201300]}

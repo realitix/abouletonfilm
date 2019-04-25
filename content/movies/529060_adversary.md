@@ -1,1 +1,0 @@
-{"tmdb_id": 529060, "title": "Adversary", "original_title": "Adversary", "slug_title": "adversary", "date": "2018-03-19", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

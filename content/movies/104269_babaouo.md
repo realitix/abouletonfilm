@@ -1,1 +1,0 @@
-{"tmdb_id": 104269, "title": "Babaouo", "original_title": "Babaouo", "slug_title": "babaouo", "date": "2000-02-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bSXqifuPOm7DAizPxaqFIVurlfS.jpg", "actors": [], "comments": [], "recommandations_id": []}

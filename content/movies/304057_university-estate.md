@@ -1,1 +1,0 @@
-{"tmdb_id": 304057, "title": "University Estate", "original_title": "University Estate", "slug_title": "university-estate", "date": "2013-03-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 161751, "title": "Mammy Water", "original_title": "Mammy Water", "slug_title": "mammy-water", "date": "1953-01-01", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oN79iUSoMEwvm4kgXHMMGGn72fO.jpg", "actors": [], "comments": [], "recommandations_id": []}

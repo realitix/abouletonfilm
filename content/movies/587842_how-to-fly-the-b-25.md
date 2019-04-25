@@ -1,1 +1,0 @@
-{"tmdb_id": 587842, "title": "How to Fly the B-25", "original_title": "How to Fly the B-25", "slug_title": "how-to-fly-the-b-25", "date": "1944-03-13", "genre": "Documentaire / Guerre", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

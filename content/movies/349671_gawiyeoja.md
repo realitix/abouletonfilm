@@ -1,1 +1,0 @@
-{"tmdb_id": 349671, "title": "\uac00\uc704\uc5ec\uc790", "original_title": "\uac00\uc704\uc5ec\uc790", "slug_title": "gawiyeoja", "date": "1993-07-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

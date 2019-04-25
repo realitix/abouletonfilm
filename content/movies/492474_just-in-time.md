@@ -1,1 +1,0 @@
-{"tmdb_id": 492474, "title": "Just in Time", "original_title": "Just in Time", "slug_title": "just-in-time", "date": "2017-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 194513, "title": "Baby Police", "original_title": "Baby Police", "slug_title": "baby-police", "date": "2003-06-10", "genre": "", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m416KZ0inejnvGhztCyRf2JwOiN.jpg", "actors": ["Osita Iheme (Dada)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 310930, "title": "And the Children Shall Lead", "original_title": "And the Children Shall Lead", "slug_title": "and-the-children-shall-lead", "date": "1985-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

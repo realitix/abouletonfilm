@@ -1,1 +1,0 @@
-{"tmdb_id": 415821, "title": "The Tramp's Dream", "original_title": "The Tramp's Dream", "slug_title": "the-tramp-s-dream", "date": "1899-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

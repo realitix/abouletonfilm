@@ -1,1 +1,0 @@
-{"tmdb_id": 560218, "title": "Monsieur Octave", "original_title": "Monsieur Octave", "slug_title": "monsieur-octave", "date": "1951-11-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

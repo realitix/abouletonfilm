@@ -1,1 +1,0 @@
-{"tmdb_id": 67201, "title": "Lottie Dottie Chicken 2", "original_title": "Galinha Pintadinha 2", "slug_title": "lottie-dottie-chicken-2", "date": "2010-01-01", "genre": "Animation", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u80NHFRBUOUXvgs3pHqAfzIdPdM.jpg", "actors": [], "comments": [], "recommandations_id": []}

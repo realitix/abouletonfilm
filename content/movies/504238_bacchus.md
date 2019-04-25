@@ -1,1 +1,0 @@
-{"tmdb_id": 504238, "title": "Bacchus", "original_title": "Bacchus", "slug_title": "bacchus", "date": "2018-02-04", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nkSi8zkUFQrmaw4jgRVQuTkUXSy.jpg", "actors": [], "comments": [], "recommandations_id": []}

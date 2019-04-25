@@ -1,1 +1,0 @@
-{"tmdb_id": 512969, "title": "Sin alma", "original_title": "Sin alma", "slug_title": "sin-alma", "date": "", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

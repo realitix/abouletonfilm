@@ -1,1 +1,0 @@
-{"tmdb_id": 539002, "title": "Soy \u00c1lex", "original_title": "Soy \u00c1lex", "slug_title": "soy-alex", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/CTg2vKh7mRnSF3Er93I1Vv957b.jpg", "actors": ["Alejandro P.E (\u00c9l mismo)"], "comments": [], "recommandations_id": []}

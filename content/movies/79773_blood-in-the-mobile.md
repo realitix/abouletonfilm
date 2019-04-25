@@ -1,1 +1,0 @@
-{"tmdb_id": 79773, "title": "Blood in the Mobile", "original_title": "Blood in the Mobile", "slug_title": "blood-in-the-mobile", "date": "2010-11-29", "genre": "Documentaire", "score": "8.1/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/64VXQh14IOiA3fTSGeJaXWnYkIH.jpg", "actors": [], "comments": [], "recommandations_id": [48894]}

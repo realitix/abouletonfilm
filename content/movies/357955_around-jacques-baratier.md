@@ -1,1 +1,0 @@
-{"tmdb_id": 357955, "title": "Around Jacques Baratier", "original_title": "Autour de Jacques Baratier", "slug_title": "around-jacques-baratier", "date": "2003-09-04", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

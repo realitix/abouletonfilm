@@ -1,1 +1,0 @@
-{"tmdb_id": 319718, "title": "Kung Fu Theater: Ninja Connection", "original_title": "Kung Fu Theater: Ninja Connection", "slug_title": "kung-fu-theater-ninja-connection", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AagUgKLlJwuPPMpNKRBmqUgaEWL.jpg", "actors": [], "comments": [], "recommandations_id": []}

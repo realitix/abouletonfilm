@@ -1,1 +1,0 @@
-{"tmdb_id": 333750, "title": "'66 Was a Good Year for Tourism", "original_title": "Shnat Shishim Ve'Shesh Hayetah Tovah LeTayarut", "slug_title": "66-was-a-good-year-for-tourism", "date": "1992-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 225622, "title": "Ryang-kang-do: Merry Christmas, North!", "original_title": "Ryang-kang-do a-i-deul", "slug_title": "ryang-kang-do-merry-christmas-north", "date": "2011-11-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

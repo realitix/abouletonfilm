@@ -1,1 +1,0 @@
-{"tmdb_id": 441303, "title": "Piraten auf der Pferdeinsel", "original_title": "Piraten auf der Pferdeinsel", "slug_title": "piraten-auf-der-pferdeinsel", "date": "1963-08-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

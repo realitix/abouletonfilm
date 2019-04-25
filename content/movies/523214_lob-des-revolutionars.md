@@ -1,1 +1,0 @@
-{"tmdb_id": 523214, "title": "Lob des Revolution\u00e4rs", "original_title": "Lob des Revolution\u00e4rs", "slug_title": "lob-des-revolutionars", "date": "1971-06-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 473112, "title": "Dinner with A", "original_title": "Dinner with A", "slug_title": "dinner-with-a", "date": "2017-08-28", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ahmed A. el Haik (Ahmed)", "Alex Teplitzky (Alex)"], "comments": [], "recommandations_id": []}

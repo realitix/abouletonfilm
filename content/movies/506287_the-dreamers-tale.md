@@ -1,1 +1,0 @@
-{"tmdb_id": 506287, "title": "The Dreamer\u2019s Tale", "original_title": "The Dreamer\u2019s Tale", "slug_title": "the-dreamers-tale", "date": "2010-08-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4LshaETmK8tLCRHRVO5D0pz2wT7.jpg", "actors": [], "comments": [], "recommandations_id": []}

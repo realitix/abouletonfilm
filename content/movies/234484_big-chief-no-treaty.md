@@ -1,1 +1,0 @@
-{"tmdb_id": 234484, "title": "Big Chief No Treaty", "original_title": "Big Chief No Treaty", "slug_title": "big-chief-no-treaty", "date": "1962-11-08", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

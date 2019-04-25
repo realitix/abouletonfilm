@@ -1,1 +1,0 @@
-{"tmdb_id": 131687, "title": "Cartoon Sing-Along", "original_title": "Cartoon Sing-Along", "slug_title": "cartoon-sing-along", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

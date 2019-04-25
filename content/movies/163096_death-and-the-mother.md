@@ -1,1 +1,0 @@
-{"tmdb_id": 163096, "title": "Death and the Mother", "original_title": "Death and the Mother", "slug_title": "death-and-the-mother", "date": "1988-10-17", "genre": "", "score": "6.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2sHv6GVhY118cPRCId3VXyyNLyJ.jpg", "actors": [], "comments": [], "recommandations_id": [340279, 249987, 251954, 251946]}

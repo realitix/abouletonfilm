@@ -1,1 +1,0 @@
-{"tmdb_id": 313891, "title": "Les souvenirs", "original_title": "Les souvenirs", "slug_title": "les-souvenirs", "date": "2013-02-14", "genre": "Animation", "score": "9.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/im5H2G5Pc0KJjdopqoygC9UJ0Na.jpg", "actors": [], "comments": [], "recommandations_id": []}

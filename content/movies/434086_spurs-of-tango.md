@@ -1,1 +1,0 @@
-{"tmdb_id": 434086, "title": "Spurs of Tango", "original_title": "Spurs of Tango", "slug_title": "spurs-of-tango", "date": "1980-09-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zWFjnl9nRh5im1sbdFIhCNMovMH.jpg", "actors": [], "comments": [], "recommandations_id": []}

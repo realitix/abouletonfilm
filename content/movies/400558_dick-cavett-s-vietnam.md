@@ -1,1 +1,0 @@
-{"tmdb_id": 400558, "title": "Dick Cavett's Vietnam", "original_title": "Dick Cavett's Vietnam", "slug_title": "dick-cavett-s-vietnam", "date": "2015-04-27", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5s9q8pl2fwMWaTJlwaIaWeeDNq1.jpg", "actors": [], "comments": [], "recommandations_id": []}

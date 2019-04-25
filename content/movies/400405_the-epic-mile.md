@@ -1,1 +1,0 @@
-{"tmdb_id": 400405, "title": "The Epic Mile", "original_title": "The Epic Mile", "slug_title": "the-epic-mile", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eFfPVeimkSBqSdVVyXdwwgVYKCV.jpg", "actors": [], "comments": [], "recommandations_id": []}

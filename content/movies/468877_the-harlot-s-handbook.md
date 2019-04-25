@@ -1,1 +1,0 @@
-{"tmdb_id": 468877, "title": "The Harlot's Handbook", "original_title": "The Harlot's Handbook", "slug_title": "the-harlot-s-handbook", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

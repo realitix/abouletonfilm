@@ -1,1 +1,0 @@
-{"tmdb_id": 577764, "title": "\"An Extra Wander: For Chick...\"", "original_title": "\"An Extra Wander: For Chick...\"", "slug_title": "an-extra-wander-for-chick", "date": "2019-01-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1T1DXWwvW2XZTF1yOuhDS9PQ9I.jpg", "actors": [], "comments": [], "recommandations_id": []}

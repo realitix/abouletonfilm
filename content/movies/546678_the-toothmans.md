@@ -1,1 +1,0 @@
-{"tmdb_id": 546678, "title": "The Toothmans", "original_title": "The Toothmans", "slug_title": "the-toothmans", "date": "2018-06-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3CZkQ0y9gHmfvksdY9YkngrtWhD.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 336132, "title": "The Hit Producer", "original_title": "The Hit Producer", "slug_title": "the-hit-producer", "date": "2015-04-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qDeako7kE5FMgqON6zatbKtT9ll.jpg", "actors": [], "comments": [], "recommandations_id": []}

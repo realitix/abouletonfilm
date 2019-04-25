@@ -1,1 +1,0 @@
-{"tmdb_id": 584142, "title": "Uncle Yim", "original_title": "T\u00edo Yim", "slug_title": "uncle-yim", "date": "2019-02-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qKXayzccaCXFAUzs3Vk7R6szGgk.jpg", "actors": [], "comments": [], "recommandations_id": []}

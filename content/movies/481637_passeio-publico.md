@@ -1,1 +1,0 @@
-{"tmdb_id": 481637, "title": "Passeio P\u00fablico", "original_title": "Passeio P\u00fablico", "slug_title": "passeio-publico", "date": "2017-10-17", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/28B7TywlKrWThYjANZYeHeKcgYW.jpg", "actors": [], "comments": [], "recommandations_id": []}

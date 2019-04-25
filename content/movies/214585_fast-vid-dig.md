@@ -1,1 +1,0 @@
-{"tmdb_id": 214585, "title": "F\u00e4st vid dig", "original_title": "F\u00e4st vid dig", "slug_title": "fast-vid-dig", "date": "2009-08-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cwVMMH57x3EZR8LcVnsEx0GV1ZU.jpg", "actors": [], "comments": [], "recommandations_id": []}

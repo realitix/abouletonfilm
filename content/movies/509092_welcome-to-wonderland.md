@@ -1,1 +1,0 @@
-{"tmdb_id": 509092, "title": "Welcome To Wonderland", "original_title": "Welcome To Wonderland", "slug_title": "welcome-to-wonderland", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 553072, "title": "One Act Play", "original_title": "One Act Play", "slug_title": "one-act-play", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eSVIf9Q3D5Wv3bE7gVPdrazyA4R.jpg", "actors": [], "comments": [], "recommandations_id": []}

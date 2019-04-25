@@ -1,1 +1,0 @@
-{"tmdb_id": 492875, "title": "Damascus", "original_title": "Damascus", "slug_title": "damascus", "date": "2017-08-19", "genre": "Science-Fiction", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lyKCi91SmPgOEx03kaTobhEJWI9.jpg", "actors": ["Nigel Huckle (Reuben)", "Emily Burton (Alice)"], "comments": [], "recommandations_id": []}

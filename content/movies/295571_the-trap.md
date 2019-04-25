@@ -1,1 +1,0 @@
-{"tmdb_id": 295571, "title": "The Trap", "original_title": "The Trap", "slug_title": "the-trap", "date": "2010-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

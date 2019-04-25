@@ -1,1 +1,0 @@
-{"tmdb_id": 122092, "title": "Spaceship Agga Ruter", "original_title": "Spaceship Agga Ruter", "slug_title": "spaceship-agga-ruter", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mRwefHiVDNrHO75eIZ3teMFUptR.jpg", "actors": [], "comments": [], "recommandations_id": []}

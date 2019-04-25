@@ -1,1 +1,0 @@
-{"tmdb_id": 25558, "title": "Scratch", "original_title": "Rysa", "slug_title": "scratch", "date": "2008-09-19", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aotg1czT55TH4t6wm2NbQOwFbEI.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 417102, "title": "\uc544\ubb34\ub3c4 \uc5c6\uc5c8\ub358 \uc5ec\ub984", "original_title": "\uc544\ubb34\ub3c4 \uc5c6\uc5c8\ub358 \uc5ec\ub984", "slug_title": "amudo-eobseossdeon-yeoreum", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

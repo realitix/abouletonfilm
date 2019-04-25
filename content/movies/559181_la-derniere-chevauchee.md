@@ -1,1 +1,0 @@
-{"tmdb_id": 559181, "title": "La derni\u00e8re chevauch\u00e9e", "original_title": "La derni\u00e8re chevauch\u00e9e", "slug_title": "la-derniere-chevauchee", "date": "1947-03-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wom3FMrm5roidKMgp8hDgx6Yocd.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 508900, "title": "The Great Milk Bottle Mystery", "original_title": "The Great Milk Bottle Mystery", "slug_title": "the-great-milk-bottle-mystery", "date": "1954-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 209827, "title": "Tottenham Hotspur 2004/2005 Season Review", "original_title": "Tottenham Hotspur 2004/2005 Season Review", "slug_title": "tottenham-hotspur-2004-2005-season-review", "date": "2005-06-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 592388, "title": "The very new movie", "original_title": "The very new movie", "slug_title": "the-very-new-movie", "date": "", "genre": "Action / Aventure", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

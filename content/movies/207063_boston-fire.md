@@ -1,1 +1,0 @@
-{"tmdb_id": 207063, "title": "Boston Fire", "original_title": "Boston Fire", "slug_title": "boston-fire", "date": "1979-04-30", "genre": "", "score": "7.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hD0Z9sCE1wrq8G3mMymV6oMesYq.jpg", "actors": [], "comments": [], "recommandations_id": [121359, 189995, 190280, 189448]}

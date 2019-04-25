@@ -1,1 +1,0 @@
-{"tmdb_id": 346419, "title": "Pink Coffins", "original_title": "Ata\u00fades rosas", "slug_title": "pink-coffins", "date": "2010-02-09", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/83VU0ZOOp8yb3ibOjmPAT59q3PX.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 374972, "title": "The War File D-Day", "original_title": "The War File D-Day", "slug_title": "the-war-file-d-day", "date": "2008-03-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oeyL4dju5afMpuL9m47V3llJQ2p.jpg", "actors": [], "comments": [], "recommandations_id": []}

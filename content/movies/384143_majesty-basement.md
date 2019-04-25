@@ -1,1 +1,0 @@
-{"tmdb_id": 384143, "title": "Majesty: Basement", "original_title": "Majesty: Basement", "slug_title": "majesty-basement", "date": "1987-08-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lzVPRqtMyd7bIVkITzHBGb8bm4t.jpg", "actors": [], "comments": [], "recommandations_id": []}

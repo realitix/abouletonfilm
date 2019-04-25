@@ -1,1 +1,0 @@
-{"tmdb_id": 307026, "title": "Balablok", "original_title": "Balablok", "slug_title": "balablok", "date": "1972-01-01", "genre": "Animation", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4mAeAhNc6vlZmhHEaWSazOwWrJV.jpg", "actors": [], "comments": [], "recommandations_id": []}

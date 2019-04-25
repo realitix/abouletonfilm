@@ -1,1 +1,0 @@
-{"tmdb_id": 283428, "title": "The Pier", "original_title": "\u78bc\u982d", "slug_title": "the-pier", "date": "1983-03-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j1lTD7ugGW5IlF5TddlD2Os0FyR.jpg", "actors": [], "comments": [], "recommandations_id": []}

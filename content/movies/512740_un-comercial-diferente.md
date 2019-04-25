@@ -1,1 +1,0 @@
-{"tmdb_id": 512740, "title": "Un Comercial Diferente", "original_title": "Un Comercial Diferente", "slug_title": "un-comercial-diferente", "date": "", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

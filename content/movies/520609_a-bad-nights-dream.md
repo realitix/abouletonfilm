@@ -1,1 +1,0 @@
-{"tmdb_id": 520609, "title": "A Bad Nights Dream", "original_title": "A Bad Nights Dream", "slug_title": "a-bad-nights-dream", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jo Smith ()"], "comments": [], "recommandations_id": []}

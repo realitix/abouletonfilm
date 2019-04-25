@@ -1,1 +1,0 @@
-{"tmdb_id": 390896, "title": "And the Sun Flowers", "original_title": "And the Sun Flowers", "slug_title": "and-the-sun-flowers", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2axqTo6B8IJzQpxR5XHbhz7nSSm.jpg", "actors": [], "comments": [], "recommandations_id": []}

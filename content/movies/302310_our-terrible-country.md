@@ -1,1 +1,0 @@
-{"tmdb_id": 302310, "title": "Our Terrible Country", "original_title": "Baladna Alraheeb", "slug_title": "our-terrible-country", "date": "2014-10-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zD25jl4fwbyzLRlZg0tNKCyazwY.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 125430, "title": "Proceed and Be Bold!", "original_title": "Proceed and Be Bold!", "slug_title": "proceed-and-be-bold", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2Ns8OphGgDUC2CX1z7kFkrtRmR5.jpg", "actors": [], "comments": [], "recommandations_id": []}

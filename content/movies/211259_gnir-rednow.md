@@ -1,1 +1,0 @@
-{"tmdb_id": 211259, "title": "Gnir Rednow", "original_title": "Gnir Rednow", "slug_title": "gnir-rednow", "date": "1956-07-30", "genre": "", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/szZVp4YPncGTIhDZqEGiEMrrIa9.jpg", "actors": [], "comments": [], "recommandations_id": []}

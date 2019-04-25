@@ -1,1 +1,0 @@
-{"tmdb_id": 499184, "title": "Prisoners and Pups", "original_title": "Prisoners and Pups", "slug_title": "prisoners-and-pups", "date": "2017-10-12", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5Y1G30iR5SFUP4n6Vt6lIulDcQe.jpg", "actors": [], "comments": [], "recommandations_id": []}

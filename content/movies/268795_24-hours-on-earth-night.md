@@ -1,1 +1,0 @@
-{"tmdb_id": 268795, "title": "24 Hours on Earth: Night", "original_title": "24 Hours on Earth: Night", "slug_title": "24-hours-on-earth-night", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 504795, "title": "Na koncu ulicy", "original_title": "Na koncu ulicy", "slug_title": "na-koncu-ulicy", "date": "2008-02-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9DmsNo9408tugyWSJP7rdtLYyUs.jpg", "actors": [], "comments": [], "recommandations_id": []}

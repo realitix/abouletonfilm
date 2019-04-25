@@ -1,1 +1,0 @@
-{"tmdb_id": 467826, "title": "The Waves", "original_title": "The Waves", "slug_title": "the-waves", "date": "2016-12-02", "genre": "Drame / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1sHP18Bk4NaJ0cC2U54XIih06yY.jpg", "actors": ["Tony Fish ()"], "comments": [], "recommandations_id": []}

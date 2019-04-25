@@ -1,1 +1,0 @@
-{"tmdb_id": 429224, "title": "Buscando a Am\u00e9rica", "original_title": "Buscando a Am\u00e9rica", "slug_title": "buscando-a-america", "date": "2002-01-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

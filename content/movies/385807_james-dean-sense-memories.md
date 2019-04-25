@@ -1,1 +1,0 @@
-{"tmdb_id": 385807, "title": "James Dean: Sense Memories", "original_title": "James Dean: Sense Memories", "slug_title": "james-dean-sense-memories", "date": "2005-05-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ltHBhOPMHTYKmPgafqh9ZKlsfAp.jpg", "actors": [], "comments": [], "recommandations_id": []}

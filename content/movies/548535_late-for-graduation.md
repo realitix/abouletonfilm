@@ -1,1 +1,0 @@
-{"tmdb_id": 548535, "title": "Late for Graduation", "original_title": "Late for Graduation", "slug_title": "late-for-graduation", "date": "", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/arhqbgueceVPYnwVfd0ME5iWJOs.jpg", "actors": ["Adam Harris (Late student)"], "comments": [], "recommandations_id": []}

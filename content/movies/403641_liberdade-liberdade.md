@@ -1,1 +1,0 @@
-{"tmdb_id": 403641, "title": "Liberdade, Liberdade", "original_title": "Liberdade, Liberdade", "slug_title": "liberdade-liberdade", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fOR0FBbDkgtz1asvQLpu5dDSVdt.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 289020, "title": "The Day Hollywood Died", "original_title": "The Day Hollywood Died", "slug_title": "the-day-hollywood-died", "date": "2012-05-01", "genre": "Drame / Action / Crime", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aUYWfAhrutTLoxBfIB3IFtWNruX.jpg", "actors": [], "comments": [], "recommandations_id": []}

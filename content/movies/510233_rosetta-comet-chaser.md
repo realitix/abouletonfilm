@@ -1,1 +1,0 @@
-{"tmdb_id": 510233, "title": "Rosetta, Comet Chaser", "original_title": "Rosetta, Comet Chaser", "slug_title": "rosetta-comet-chaser", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fAh4Z0j8e9DYxIXJvMemfaEGujg.jpg", "actors": [], "comments": [], "recommandations_id": []}

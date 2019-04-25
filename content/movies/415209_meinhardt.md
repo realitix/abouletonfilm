@@ -1,1 +1,0 @@
-{"tmdb_id": 415209, "title": "Meinhardt", "original_title": "Meinhardt", "slug_title": "meinhardt", "date": "2015-09-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y5yDdfH8P5cy6DK9sS8rmzd9Xpm.jpg", "actors": [], "comments": [], "recommandations_id": []}

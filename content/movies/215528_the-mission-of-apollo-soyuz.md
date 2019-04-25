@@ -1,1 +1,0 @@
-{"tmdb_id": 215528, "title": "The Mission of Apollo / Soyuz", "original_title": "The Mission of Apollo / Soyuz", "slug_title": "the-mission-of-apollo-soyuz", "date": "2016-11-09", "genre": "Documentaire / Histoire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

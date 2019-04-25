@@ -1,1 +1,0 @@
-{"tmdb_id": 563806, "title": "From Darkness His Name", "original_title": "From Darkness His Name", "slug_title": "from-darkness-his-name", "date": "2016-06-01", "genre": "Fantastique / Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Noah Crawford (Tulak)", "Hayley Ogas (Girl)"], "comments": [], "recommandations_id": []}

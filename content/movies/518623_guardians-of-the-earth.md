@@ -1,1 +1,0 @@
-{"tmdb_id": 518623, "title": "Guardians of the Earth", "original_title": "Guardians of the Earth", "slug_title": "guardians-of-the-earth", "date": "2017-03-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6CX4H1bFK2MjjirYcRwPUHRtQYN.jpg", "actors": [], "comments": [], "recommandations_id": []}

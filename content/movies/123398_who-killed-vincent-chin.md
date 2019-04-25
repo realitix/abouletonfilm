@@ -1,1 +1,0 @@
-{"tmdb_id": 123398, "title": "Who Killed Vincent Chin?", "original_title": "Who Killed Vincent Chin?", "slug_title": "who-killed-vincent-chin", "date": "1987-03-11", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tZcnNgeHoBti6EAe4HEEgwTw5Kd.jpg", "actors": [], "comments": [], "recommandations_id": []}

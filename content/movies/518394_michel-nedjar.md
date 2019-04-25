@@ -1,1 +1,0 @@
-{"tmdb_id": 518394, "title": "Michel Nedjar", "original_title": "Michel Nedjar", "slug_title": "michel-nedjar", "date": "1978-07-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qCIgfQaPQk0GjMplpKmXTV2Rvzg.jpg", "actors": ["Michel Nedjar (Self)"], "comments": [], "recommandations_id": []}

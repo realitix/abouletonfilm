@@ -1,1 +1,0 @@
-{"tmdb_id": 504206, "title": "Balance", "original_title": "De Balans", "slug_title": "balance", "date": "2012-06-01", "genre": "Action / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Cas Jansen (Henderson)", "Waldemar Torenstra (Morris)"], "comments": [], "recommandations_id": []}

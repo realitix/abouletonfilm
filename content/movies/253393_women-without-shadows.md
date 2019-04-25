@@ -1,1 +1,0 @@
-{"tmdb_id": 253393, "title": "Women Without Shadows", "original_title": "Women Without Shadows", "slug_title": "women-without-shadows", "date": "2005-05-27", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zP1Hgozj6raHEApUhsXqkzGF8FI.jpg", "actors": [], "comments": [], "recommandations_id": []}

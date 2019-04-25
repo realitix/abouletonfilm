@@ -1,1 +1,0 @@
-{"tmdb_id": 511524, "title": "Animated Genesis", "original_title": "Animated Genesis", "slug_title": "animated-genesis", "date": "1952-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sfp8XNhJOMPnXHewDNI67BK8N2z.jpg", "actors": ["Edric Connor (sung narration)"], "comments": [], "recommandations_id": []}

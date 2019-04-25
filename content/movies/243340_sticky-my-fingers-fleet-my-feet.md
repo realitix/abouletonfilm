@@ -1,1 +1,0 @@
-{"tmdb_id": 243340, "title": "Sticky My Fingers... Fleet My Feet", "original_title": "Sticky My Fingers... Fleet My Feet", "slug_title": "sticky-my-fingers-fleet-my-feet", "date": "1970-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

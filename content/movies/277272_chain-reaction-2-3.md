@@ -1,1 +1,0 @@
-{"tmdb_id": 277272, "title": "Chain Reaction 2/3", "original_title": "Chain Reaction 2/3", "slug_title": "chain-reaction-2-3", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

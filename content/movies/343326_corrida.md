@@ -1,1 +1,0 @@
-{"tmdb_id": 343326, "title": "Corrida", "original_title": "Corrida", "slug_title": "corrida", "date": "1929-06-05", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/auD0Lkcqr87y7OQJPEJa2QhYYol.jpg", "actors": [], "comments": [], "recommandations_id": []}

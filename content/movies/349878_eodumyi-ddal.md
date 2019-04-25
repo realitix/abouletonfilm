@@ -1,1 +1,0 @@
-{"tmdb_id": 349878, "title": "\uc5b4\ub460\uc758 \ub538", "original_title": "\uc5b4\ub460\uc758 \ub538", "slug_title": "eodumyi-ddal", "date": "1990-06-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

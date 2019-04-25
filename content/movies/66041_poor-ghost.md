@@ -1,1 +1,0 @@
-{"tmdb_id": 66041, "title": "Poor Ghost", "original_title": "\u6108\u7a77\u6108\u89c1\u9b3c", "slug_title": "poor-ghost", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gaRnIIIVinGjrmbMYJI2KkQyAEJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

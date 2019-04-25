@@ -1,1 +1,0 @@
-{"tmdb_id": 244179, "title": "The Mechanicals", "original_title": "The Mechanicals", "slug_title": "the-mechanicals", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bDYBBO9fB1FMF82CoEFZ11YhNXM.jpg", "actors": [], "comments": [], "recommandations_id": []}

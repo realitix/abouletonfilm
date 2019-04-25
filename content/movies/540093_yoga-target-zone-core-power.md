@@ -1,1 +1,0 @@
-{"tmdb_id": 540093, "title": "Yoga Target Zone - Core Power", "original_title": "Yoga Target Zone - Core Power", "slug_title": "yoga-target-zone-core-power", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6zubGGC2K5dzbPOmk20YHc1XhGN.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 562671, "title": "Fierce Gods", "original_title": "Nuo\u017em\u016bs dievai", "slug_title": "fierce-gods", "date": "2018-11-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 184696, "title": "Finland At War - Summer 1944", "original_title": "Finland At War - Summer 1944", "slug_title": "finland-at-war-summer-1944", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

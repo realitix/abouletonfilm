@@ -1,1 +1,0 @@
-{"tmdb_id": 561735, "title": "Maid in Paris", "original_title": "Paris canaille", "slug_title": "maid-in-paris", "date": "1956-03-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xsVXz7Ol35N9ur3URh757i0xitp.jpg", "actors": [], "comments": [], "recommandations_id": []}

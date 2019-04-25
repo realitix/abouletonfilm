@@ -1,1 +1,0 @@
-{"tmdb_id": 64190, "title": "The Wooden Camera", "original_title": "The Wooden Camera", "slug_title": "the-wooden-camera", "date": "2004-07-28", "genre": "Drame / Familial", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3X7kq2bOORyRwWodxJqMeyaHjzI.jpg", "actors": [], "comments": [], "recommandations_id": []}

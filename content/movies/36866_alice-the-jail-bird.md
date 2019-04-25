@@ -1,1 +1,0 @@
-{"tmdb_id": 36866, "title": "Alice the Jail Bird", "original_title": "Alice the Jail Bird", "slug_title": "alice-the-jail-bird", "date": "1925-01-01", "genre": "Animation", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bK2BXNXd7vzZoXsF9LQ8EsvcVV.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 447871, "title": "Mijndert", "original_title": "Mijndert", "slug_title": "mijndert", "date": "2016-03-17", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

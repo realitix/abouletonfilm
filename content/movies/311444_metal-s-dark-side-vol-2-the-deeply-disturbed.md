@@ -1,1 +1,0 @@
-{"tmdb_id": 311444, "title": "Metal's Dark Side, Vol. 2: The Deeply Disturbed", "original_title": "Metal's Dark Side, Vol. 2: The Deeply Disturbed", "slug_title": "metal-s-dark-side-vol-2-the-deeply-disturbed", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

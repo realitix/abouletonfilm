@@ -1,1 +1,0 @@
-{"tmdb_id": 227436, "title": "The Gun Is Loaded", "original_title": "The Gun Is Loaded", "slug_title": "the-gun-is-loaded", "date": "1989-12-16", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2bsN1vb8a6RwAVOusB4UOEB3osp.jpg", "actors": ["Lydia Lunch ()"], "comments": [], "recommandations_id": []}

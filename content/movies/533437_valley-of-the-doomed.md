@@ -1,1 +1,0 @@
-{"tmdb_id": 533437, "title": "Valley of the Doomed", "original_title": "La strada dei giganti", "slug_title": "valley-of-the-doomed", "date": "1960-04-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fqif63ZcnYfSP2YUtMXk7hO4yjj.jpg", "actors": [], "comments": [], "recommandations_id": []}

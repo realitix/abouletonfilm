@@ -1,1 +1,0 @@
-{"tmdb_id": 565281, "title": "Verdi: Un Ballo in Maschera", "original_title": "Verdi: Un Ballo in Maschera", "slug_title": "verdi-un-ballo-in-maschera", "date": "2017-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hDh3w5juJkdByXrisQuLPIR9tTL.jpg", "actors": [], "comments": [], "recommandations_id": []}

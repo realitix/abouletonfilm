@@ -1,1 +1,0 @@
-{"tmdb_id": 478969, "title": "Schwarz - Wei\u00df - Gelb", "original_title": "Schwarz - Wei\u00df - Gelb", "slug_title": "schwarz-weiss-gelb", "date": "1949-06-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

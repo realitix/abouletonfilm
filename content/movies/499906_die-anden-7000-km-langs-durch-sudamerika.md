@@ -1,1 +1,0 @@
-{"tmdb_id": 499906, "title": "Die Anden- 7000 km l\u00e4ngs durch S\u00fcdamerika", "original_title": "Die Anden- 7000 km l\u00e4ngs durch S\u00fcdamerika", "slug_title": "die-anden-7000-km-langs-durch-sudamerika", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

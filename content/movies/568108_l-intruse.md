@@ -1,1 +1,0 @@
-{"tmdb_id": 568108, "title": "L'intruse", "original_title": "L'intruse", "slug_title": "l-intruse", "date": "1986-06-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2yLndbmTxYFAxCk8suNy8sysYji.jpg", "actors": [], "comments": [], "recommandations_id": []}

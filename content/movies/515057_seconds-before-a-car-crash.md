@@ -1,1 +1,0 @@
-{"tmdb_id": 515057, "title": "Seconds Before a Car Crash", "original_title": "Seconds Before a Car Crash", "slug_title": "seconds-before-a-car-crash", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5qFv71k4AWsihfoklmBFC5a9uEf.jpg", "actors": [], "comments": [], "recommandations_id": []}

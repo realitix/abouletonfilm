@@ -1,1 +1,0 @@
-{"tmdb_id": 394544, "title": "Glass Prison", "original_title": "Glass Prison", "slug_title": "glass-prison", "date": "2016-08-05", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gIFMzMpzs3PNgvbro1tggmGJRmx.jpg", "actors": ["Wes Ball ()", "Andrew Marczewski ()"], "comments": [], "recommandations_id": []}

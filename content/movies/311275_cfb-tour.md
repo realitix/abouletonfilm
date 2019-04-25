@@ -1,1 +1,0 @@
-{"tmdb_id": 311275, "title": "CFB Tour", "original_title": "CFB Tour", "slug_title": "cfb-tour", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

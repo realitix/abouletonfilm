@@ -1,1 +1,0 @@
-{"tmdb_id": 556898, "title": "Invas\u00e3o Drag", "original_title": "Invas\u00e3o Drag", "slug_title": "invasao-drag", "date": "2018-03-25", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

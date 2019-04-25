@@ -1,1 +1,0 @@
-{"tmdb_id": 473371, "title": "Hile Yolu", "original_title": "Hile Yolu", "slug_title": "hile-yolu", "date": "2013-04-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xcU2sQVOYP4Fp6YciY1LxPbjJyM.jpg", "actors": [], "comments": [], "recommandations_id": []}

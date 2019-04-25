@@ -1,1 +1,0 @@
-{"tmdb_id": 487797, "title": "Scopique", "original_title": "Scopique", "slug_title": "scopique", "date": "2017-05-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aFrybofyoNy5PJpE5zgPYGyOJUC.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 328342, "title": "Soldiers of Music", "original_title": "Soldiers of Music", "slug_title": "soldiers-of-music", "date": "1991-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mstislav Rostropovich ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 549217, "title": "Pivotal", "original_title": "Pivotal", "slug_title": "pivotal", "date": "", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

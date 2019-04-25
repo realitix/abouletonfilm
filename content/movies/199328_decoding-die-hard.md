@@ -1,1 +1,0 @@
-{"tmdb_id": 199328, "title": "Decoding Die Hard", "original_title": "Decoding Die Hard", "slug_title": "decoding-die-hard", "date": "2013-01-29", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qRW5pJ1Mv7bKkSqfjpKUe840aqC.jpg", "actors": [], "comments": [], "recommandations_id": []}

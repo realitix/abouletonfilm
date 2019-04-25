@@ -1,1 +1,0 @@
-{"tmdb_id": 301132, "title": "Kc66: Kurt Caselli", "original_title": "Kc66: Kurt Caselli", "slug_title": "kc66-kurt-caselli", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

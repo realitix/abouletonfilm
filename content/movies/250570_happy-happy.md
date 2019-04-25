@@ -1,1 +1,0 @@
-{"tmdb_id": 250570, "title": "Happy Happy", "original_title": "Happy Happy", "slug_title": "happy-happy", "date": "2004-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wDq39bOPgVBsiJKYVF49fuTkA4K.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 502330, "title": "Le cinque stagioni", "original_title": "Le cinque stagioni", "slug_title": "le-cinque-stagioni", "date": "1976-12-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

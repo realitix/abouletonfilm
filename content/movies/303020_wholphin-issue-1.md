@@ -1,1 +1,0 @@
-{"tmdb_id": 303020, "title": "Wholphin: Issue 1", "original_title": "Wholphin: Issue 1", "slug_title": "wholphin-issue-1", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

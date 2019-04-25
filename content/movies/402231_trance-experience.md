@@ -1,1 +1,0 @@
-{"tmdb_id": 402231, "title": "Trance Experience", "original_title": "Trance Experience", "slug_title": "trance-experience", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d0pW2Wzvm6WFIB48OZCox5zj6Jv.jpg", "actors": [], "comments": [], "recommandations_id": []}

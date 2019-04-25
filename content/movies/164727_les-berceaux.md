@@ -1,1 +1,0 @@
-{"tmdb_id": 164727, "title": "Les berceaux", "original_title": "Les berceaux", "slug_title": "les-berceaux", "date": "1931-01-31", "genre": "Drame", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eO1I4jzyRkxuSz8VurCmNB1Cemy.jpg", "actors": [], "comments": [], "recommandations_id": []}

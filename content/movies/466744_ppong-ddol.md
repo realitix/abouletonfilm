@@ -1,1 +1,0 @@
-{"tmdb_id": 466744, "title": "Ppong ddol", "original_title": "\ubf55\ub618", "slug_title": "ppong-ddol", "date": "2011-08-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/631UJEKsR0bEte3NkHCLkGO4gwQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

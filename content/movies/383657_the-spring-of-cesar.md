@@ -1,1 +1,0 @@
-{"tmdb_id": 383657, "title": "The Spring of C\u00e9sar", "original_title": "De Veer van C\u00e9sar", "slug_title": "the-spring-of-cesar", "date": "2011-05-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fHNRqbvU9wLuFDi1Vwa5AqNOhXc.jpg", "actors": ["Jan Decleir (Buyer)"], "comments": [], "recommandations_id": []}

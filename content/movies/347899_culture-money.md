@@ -1,1 +1,0 @@
-{"tmdb_id": 347899, "title": "Culture Money", "original_title": "Kulturpengar", "slug_title": "culture-money", "date": "2015-03-05", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

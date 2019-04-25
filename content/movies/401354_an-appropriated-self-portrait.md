@@ -1,1 +1,0 @@
-{"tmdb_id": 401354, "title": "An Appropriated Self-Portrait", "original_title": "Autorretrato Apropiado", "slug_title": "an-appropriated-self-portrait", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mDc8ukkiymf09tQid6YRrgZ24Db.jpg", "actors": [], "comments": [], "recommandations_id": []}

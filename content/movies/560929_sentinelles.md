@@ -1,1 +1,0 @@
-{"tmdb_id": 560929, "title": "Sentinelles", "original_title": "Sentinelles", "slug_title": "sentinelles", "date": "2000-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dbNDgw14NeD0qKDD192YnHnlacr.jpg", "actors": [], "comments": [], "recommandations_id": []}

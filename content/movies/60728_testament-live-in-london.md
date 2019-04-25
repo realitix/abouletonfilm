@@ -1,1 +1,0 @@
-{"tmdb_id": 60728, "title": "Testament: Live in London", "original_title": "Testament: Live in London", "slug_title": "testament-live-in-london", "date": "2005-11-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k1fv399kB58Ybjl7T1wvoDfZfel.jpg", "actors": [], "comments": [], "recommandations_id": []}

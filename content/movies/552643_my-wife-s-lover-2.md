@@ -1,1 +1,0 @@
-{"tmdb_id": 552643, "title": "My Wife's Lover 2", "original_title": "\uc544\ub0b4\uc758 \uc560\uc7782", "slug_title": "my-wife-s-lover-2", "date": "2018-06-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wZxEUrvJvrmc1zrOK3gM3UM20A0.jpg", "actors": [], "comments": [], "recommandations_id": []}

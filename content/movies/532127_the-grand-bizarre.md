@@ -1,1 +1,0 @@
-{"tmdb_id": 532127, "title": "The Grand Bizarre", "original_title": "The Grand Bizarre", "slug_title": "the-grand-bizarre", "date": "2018-08-03", "genre": "Documentaire / Animation / Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pckAqghhi89kgdWkTAGKsCpd8oQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

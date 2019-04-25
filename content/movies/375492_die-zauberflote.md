@@ -1,1 +1,0 @@
-{"tmdb_id": 375492, "title": "Die Zauberfl\u00f6te", "original_title": "Die Zauberfl\u00f6te", "slug_title": "die-zauberflote", "date": "1978-05-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Felicity Lott (Pamina)", "Leo Goeke (Tamino)", "Thomas Thomaschke (Sarastro)"], "comments": [], "recommandations_id": []}

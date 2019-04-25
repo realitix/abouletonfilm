@@ -1,1 +1,0 @@
-{"tmdb_id": 459102, "title": "O cita a las nueve", "original_title": "O cita a las nueve", "slug_title": "o-cita-a-las-nueve", "date": "1997-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

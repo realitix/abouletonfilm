@@ -1,1 +1,0 @@
-{"tmdb_id": 523844, "title": "In Goth Daze 2: Dark Obsessions", "original_title": "In Goth Daze 2: Dark Obsessions", "slug_title": "in-goth-daze-2-dark-obsessions", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

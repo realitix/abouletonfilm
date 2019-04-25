@@ -1,1 +1,0 @@
-{"tmdb_id": 316371, "title": "The Truth About You", "original_title": "The Truth About You", "slug_title": "the-truth-about-you", "date": "2015-01-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kkz9ZweJh3FkEV54aIaU1cjyZRr.jpg", "actors": [], "comments": [], "recommandations_id": []}

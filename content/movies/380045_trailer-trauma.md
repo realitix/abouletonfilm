@@ -1,1 +1,0 @@
-{"tmdb_id": 380045, "title": "Trailer Trauma", "original_title": "Trailer Trauma", "slug_title": "trailer-trauma", "date": "2016-01-05", "genre": "Action / Horreur", "score": "8.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9yn4Q6IRamONAfSI2qUP5i81i54.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 341592, "title": "The Underground Man", "original_title": "El hombre del subsuelo", "slug_title": "the-underground-man", "date": "1981-09-03", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vG7WbSyN08F97iNfxGW9Y1hZ2ZD.jpg", "actors": [], "comments": [], "recommandations_id": []}

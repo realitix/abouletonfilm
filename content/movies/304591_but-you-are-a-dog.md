@@ -1,1 +1,0 @@
-{"tmdb_id": 304591, "title": "But You Are a Dog", "original_title": "But You Are a Dog", "slug_title": "but-you-are-a-dog", "date": "2014-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9qfAjOWcSVzhrpOVEkBVSQbJJoa.jpg", "actors": [], "comments": [], "recommandations_id": []}

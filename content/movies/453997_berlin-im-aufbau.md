@@ -1,1 +1,0 @@
-{"tmdb_id": 453997, "title": "Berlin im Aufbau", "original_title": "Berlin im Aufbau", "slug_title": "berlin-im-aufbau", "date": "1946-12-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vVstOQsHtkmYnD75YUeZTAcTKR3.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 319862, "title": "Heavy Gear: The Dragon's Shadow", "original_title": "Heavy Gear: The Dragon's Shadow", "slug_title": "heavy-gear-the-dragon-s-shadow", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

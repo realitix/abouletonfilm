@@ -1,1 +1,0 @@
-{"tmdb_id": 553653, "title": "Daytime Tiger", "original_title": "Daytime Tiger", "slug_title": "daytime-tiger", "date": "2011-07-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/erJ7AdyNybFWwjLHqOp85drIp0o.jpg", "actors": [], "comments": [], "recommandations_id": []}

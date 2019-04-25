@@ -1,1 +1,0 @@
-{"tmdb_id": 511521, "title": "A Curious Girl", "original_title": "Jaalgedi", "slug_title": "a-curious-girl", "date": "2017-10-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wP3lekGpfxIWsKPSTZ3VIqocC9y.jpg", "actors": [], "comments": [], "recommandations_id": []}

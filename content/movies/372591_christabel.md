@@ -1,1 +1,0 @@
-{"tmdb_id": 372591, "title": "Christabel", "original_title": "Christabel", "slug_title": "christabel", "date": "2001-06-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xoYheVEz7VmSqzQKrj3hSgcTU8.jpg", "actors": [], "comments": [], "recommandations_id": []}

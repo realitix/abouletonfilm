@@ -1,1 +1,0 @@
-{"tmdb_id": 303380, "title": "Solomon Grundy", "original_title": "Solomon Grundy", "slug_title": "solomon-grundy", "date": "2013-09-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

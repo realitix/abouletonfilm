@@ -1,1 +1,0 @@
-{"tmdb_id": 571946, "title": "Maine Montparnasse", "original_title": "Maine Montparnasse", "slug_title": "maine-montparnasse", "date": "1972-01-01", "genre": "", "score": "0.0/10", "synopsis": "Un court film de Guy Fihman", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/skYjvDeqS31FZWYgwHMO0liLwyx.jpg", "actors": [], "comments": [], "recommandations_id": []}

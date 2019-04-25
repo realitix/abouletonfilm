@@ -1,1 +1,0 @@
-{"tmdb_id": 319711, "title": "F**k the Disabled Please", "original_title": "F**k the Disabled Please", "slug_title": "f-k-the-disabled-please", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

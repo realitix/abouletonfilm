@@ -1,1 +1,0 @@
-{"tmdb_id": 481757, "title": "Le peuple des forets", "original_title": "Le peuple des forets", "slug_title": "le-peuple-des-forets", "date": "", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

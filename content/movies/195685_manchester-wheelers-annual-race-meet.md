@@ -1,1 +1,0 @@
-{"tmdb_id": 195685, "title": "Manchester Wheelers' Annual Race Meet", "original_title": "Manchester Wheelers' Annual Race Meet", "slug_title": "manchester-wheelers-annual-race-meet", "date": "1901-05-21", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

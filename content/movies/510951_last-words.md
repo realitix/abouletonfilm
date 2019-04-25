@@ -1,1 +1,0 @@
-{"tmdb_id": 510951, "title": "Last Words", "original_title": "Last Words", "slug_title": "last-words", "date": "2018-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9k7RY6NZSQFHGZFPAcPUbtskNTy.jpg", "actors": [], "comments": [], "recommandations_id": []}

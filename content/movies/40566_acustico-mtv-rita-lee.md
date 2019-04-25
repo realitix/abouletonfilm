@@ -1,1 +1,0 @@
-{"tmdb_id": 40566, "title": "Ac\u00fastico MTV - Rita Lee", "original_title": "Ac\u00fastico MTV - Rita Lee", "slug_title": "acustico-mtv-rita-lee", "date": "1998-06-04", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wYC5gASJS95YYM9ZsK1BX5xWMkD.jpg", "actors": [], "comments": [], "recommandations_id": []}

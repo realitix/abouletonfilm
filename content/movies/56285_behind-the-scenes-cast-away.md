@@ -1,1 +1,0 @@
-{"tmdb_id": 56285, "title": "Behind the Scenes: Cast Away", "original_title": "Behind the Scenes: Cast Away", "slug_title": "behind-the-scenes-cast-away", "date": "2000-01-01", "genre": "", "score": "1.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

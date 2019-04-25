@@ -1,1 +1,0 @@
-{"tmdb_id": 320784, "title": "Carol Burnett: Just to Have a Laugh", "original_title": "Carol Burnett: Just to Have a Laugh", "slug_title": "carol-burnett-just-to-have-a-laugh", "date": "1996-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

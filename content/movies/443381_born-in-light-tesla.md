@@ -1,1 +1,0 @@
-{"tmdb_id": 443381, "title": "Born in Light: Tesla", "original_title": "Born in Light: Tesla", "slug_title": "born-in-light-tesla", "date": "2017-03-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["O.H. Krill ()", "Charles Thompsen ()", "Robert Pitt ()"], "comments": [], "recommandations_id": []}

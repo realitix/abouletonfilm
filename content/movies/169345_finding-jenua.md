@@ -1,1 +1,0 @@
-{"tmdb_id": 169345, "title": "Finding Jenua", "original_title": "Finding Jenua", "slug_title": "finding-jenua", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

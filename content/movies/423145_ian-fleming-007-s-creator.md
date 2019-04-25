@@ -1,1 +1,0 @@
-{"tmdb_id": 423145, "title": "Ian Fleming: 007's Creator", "original_title": "Ian Fleming: 007's Creator", "slug_title": "ian-fleming-007-s-creator", "date": "2000-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

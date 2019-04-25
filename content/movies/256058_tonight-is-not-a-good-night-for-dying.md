@@ -1,1 +1,0 @@
-{"tmdb_id": 256058, "title": "Tonight Is Not a Good Night for Dying", "original_title": "Tonight Is Not a Good Night for Dying", "slug_title": "tonight-is-not-a-good-night-for-dying", "date": "2011-05-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

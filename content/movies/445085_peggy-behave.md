@@ -1,1 +1,0 @@
-{"tmdb_id": 445085, "title": "Peggy, Behave!", "original_title": "Peggy, Behave!", "slug_title": "peggy-behave", "date": "1922-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Baby Peggy (Baby Peggy)"], "comments": [], "recommandations_id": []}

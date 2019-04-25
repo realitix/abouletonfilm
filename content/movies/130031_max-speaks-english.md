@@ -1,1 +1,0 @@
-{"tmdb_id": 130031, "title": "Max speaks English", "original_title": "L'anglais tel que Max le parle", "slug_title": "max-speaks-english", "date": "1914-03-06", "genre": "", "score": "1.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Max Linder (Max)", "C\u00e9cile Guyon ()"], "comments": [], "recommandations_id": []}

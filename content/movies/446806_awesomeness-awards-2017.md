@@ -1,1 +1,0 @@
-{"tmdb_id": 446806, "title": "Awesomeness Awards 2017", "original_title": "Awesomeness Awards 2017", "slug_title": "awesomeness-awards-2017", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mjY79uK7YxD8fDsL2NQe2ymhtS9.jpg", "actors": [], "comments": [], "recommandations_id": []}

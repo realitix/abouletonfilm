@@ -1,1 +1,0 @@
-{"tmdb_id": 496460, "title": "The Brink", "original_title": "The Brink", "slug_title": "the-brink", "date": "2016-05-18", "genre": "Musique / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pXGKSE1xQWlD0In3KmeZCnHUFJP.jpg", "actors": ["Connor Scott ()", "Connor Scott (Dancer)"], "comments": [], "recommandations_id": []}

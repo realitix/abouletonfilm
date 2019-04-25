@@ -1,1 +1,0 @@
-{"tmdb_id": 305416, "title": "In Bed With Tyra", "original_title": "In Bed With Tyra", "slug_title": "in-bed-with-tyra", "date": "2008-09-05", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1CT5CCty2SmHcRLY9IaTFiGucht.jpg", "actors": ["Tyra Misoux ()", "Carlo Minaldi ()"], "comments": [], "recommandations_id": []}

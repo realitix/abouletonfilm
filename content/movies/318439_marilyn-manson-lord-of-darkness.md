@@ -1,1 +1,0 @@
-{"tmdb_id": 318439, "title": "Marilyn Manson: Lord of Darkness", "original_title": "Marilyn Manson: Lord of Darkness", "slug_title": "marilyn-manson-lord-of-darkness", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 291723, "title": "Robert Blecker Wants Me Dead", "original_title": "Robert Blecker Wants Me Dead", "slug_title": "robert-blecker-wants-me-dead", "date": "2009-02-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

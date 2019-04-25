@@ -1,1 +1,0 @@
-{"tmdb_id": 255186, "title": "Hal Kemp and His Orchestra", "original_title": "Hal Kemp and His Orchestra", "slug_title": "hal-kemp-and-his-orchestra", "date": "1941-06-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

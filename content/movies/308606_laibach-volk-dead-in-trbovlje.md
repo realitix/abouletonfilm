@@ -1,1 +1,0 @@
-{"tmdb_id": 308606, "title": "Laibach: Volk Dead in Trbovlje", "original_title": "Laibach: Volk Dead in Trbovlje", "slug_title": "laibach-volk-dead-in-trbovlje", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

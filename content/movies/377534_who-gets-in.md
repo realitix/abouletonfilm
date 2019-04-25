@@ -1,1 +1,0 @@
-{"tmdb_id": 377534, "title": "Who Gets In?", "original_title": "Who Gets In?", "slug_title": "who-gets-in", "date": "1989-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eARPr75tOvJTcPs8HcfVklmYT0o.jpg", "actors": ["Ann Medina (Narrator)"], "comments": [], "recommandations_id": []}

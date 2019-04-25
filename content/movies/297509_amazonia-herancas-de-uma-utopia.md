@@ -1,1 +1,0 @@
-{"tmdb_id": 297509, "title": "Amaz\u00f4nia - Heran\u00e7as de uma utopia", "original_title": "Amaz\u00f4nia - Heran\u00e7as de uma utopia", "slug_title": "amazonia-herancas-de-uma-utopia", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

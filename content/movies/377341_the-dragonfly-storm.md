@@ -1,1 +1,0 @@
-{"tmdb_id": 377341, "title": "The Dragonfly Storm", "original_title": "Toofan-e Sanjaghak", "slug_title": "the-dragonfly-storm", "date": "2002-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hGY7UeOi0JJyLNciCRQNfiNeLLS.jpg", "actors": [], "comments": [], "recommandations_id": []}

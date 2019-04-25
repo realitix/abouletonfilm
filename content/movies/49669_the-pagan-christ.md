@@ -1,1 +1,0 @@
-{"tmdb_id": 49669, "title": "The Pagan Christ", "original_title": "The Pagan Christ", "slug_title": "the-pagan-christ", "date": "2007-12-06", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n5ZCQAUv0EZwt6oklt0W7GXjyeM.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 347082, "title": "Conquerors", "original_title": "Conquistadores", "slug_title": "conquerors", "date": "2004-07-01", "genre": "Com\u00e9die / Animation / Science-Fiction", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

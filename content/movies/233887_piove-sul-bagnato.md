@@ -1,1 +1,0 @@
-{"tmdb_id": 233887, "title": "Piove sul bagnato", "original_title": "Piove sul bagnato", "slug_title": "piove-sul-bagnato", "date": "2009-09-04", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ozRBCVP18IykfdxWtO9HVp4s383.jpg", "actors": [], "comments": [], "recommandations_id": []}

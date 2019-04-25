@@ -1,1 +1,0 @@
-{"tmdb_id": 563552, "title": "Projections", "original_title": "Projections", "slug_title": "projections", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

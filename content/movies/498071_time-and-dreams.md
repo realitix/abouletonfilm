@@ -1,1 +1,0 @@
-{"tmdb_id": 498071, "title": "Time and Dreams", "original_title": "Time and Dreams", "slug_title": "time-and-dreams", "date": "1976-01-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nkbs2URkWIMs2iPljbaemtZHYOs.jpg", "actors": [], "comments": [], "recommandations_id": []}

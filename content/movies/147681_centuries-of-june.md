@@ -1,1 +1,0 @@
-{"tmdb_id": 147681, "title": "Centuries of June", "original_title": "Centuries of June", "slug_title": "centuries-of-june", "date": "1956-12-07", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ld8vtSGpKKHEU6nK6IvtVnuvLEv.jpg", "actors": [], "comments": [], "recommandations_id": [162186, 144678, 246193, 157091]}

@@ -1,1 +1,0 @@
-{"tmdb_id": 163114, "title": "America Is Waiting", "original_title": "America Is Waiting", "slug_title": "america-is-waiting", "date": "1981-01-01", "genre": "Musique", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/c5W9R0RmesbjeRulxHBNU6jOEwp.jpg", "actors": [], "comments": [], "recommandations_id": []}

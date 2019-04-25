@@ -1,1 +1,0 @@
-{"tmdb_id": 473306, "title": "Motion Pictures", "original_title": "Motion Pictures", "slug_title": "motion-pictures", "date": "2017-08-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v25m30A7EAIRauwuiiVh5SXqnfE.jpg", "actors": [], "comments": [], "recommandations_id": []}

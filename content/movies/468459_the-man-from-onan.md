@@ -1,1 +1,0 @@
-{"tmdb_id": 468459, "title": "The Man from Onan", "original_title": "The Man from Onan", "slug_title": "the-man-from-onan", "date": "1971-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 298950, "title": "Gay Lives of Straight Guys", "original_title": "Gay Lives of Straight Guys", "slug_title": "gay-lives-of-straight-guys", "date": "2014-03-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9s7YRrmkYfjSL3fX05wbP5m2QMj.jpg", "actors": [], "comments": [], "recommandations_id": []}

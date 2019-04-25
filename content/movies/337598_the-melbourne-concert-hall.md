@@ -1,1 +1,0 @@
-{"tmdb_id": 337598, "title": "The Melbourne Concert Hall", "original_title": "The Melbourne Concert Hall", "slug_title": "the-melbourne-concert-hall", "date": "1982-04-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 555163, "title": "The Cake", "original_title": "Tort", "slug_title": "the-cake", "date": "2018-06-20", "genre": "Documentaire / Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g8D2KyxIcaAU3DLBRGeiLoIwTVS.jpg", "actors": [], "comments": [], "recommandations_id": []}

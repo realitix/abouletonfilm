@@ -1,1 +1,0 @@
-{"tmdb_id": 294465, "title": "Sidewalk", "original_title": "Sidewalk", "slug_title": "sidewalk", "date": "2013-01-01", "genre": "Com\u00e9die / Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 70875, "title": "The Harvest (La Cosecha)", "original_title": "The Harvest (La Cosecha)", "slug_title": "the-harvest-la-cosecha", "date": "2011-07-29", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6btGmzZzHJm4nS7cafJDKjBX8GN.jpg", "actors": [], "comments": [], "recommandations_id": []}

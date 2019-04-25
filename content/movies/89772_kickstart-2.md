@@ -1,1 +1,0 @@
-{"tmdb_id": 89772, "title": "Kickstart 2", "original_title": "Kickstart 2", "slug_title": "kickstart-2", "date": "2010-11-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oqwJCylfYOked56FhN5bC4x2vEx.jpg", "actors": [], "comments": [], "recommandations_id": []}

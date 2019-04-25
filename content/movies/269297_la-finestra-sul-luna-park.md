@@ -1,1 +1,0 @@
-{"tmdb_id": 269297, "title": "La finestra sul Luna Park", "original_title": "La finestra sul Luna Park", "slug_title": "la-finestra-sul-luna-park", "date": "1957-06-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1lNVnJDTaXBls7uEJCKpBIj0n2m.jpg", "actors": [], "comments": [], "recommandations_id": []}

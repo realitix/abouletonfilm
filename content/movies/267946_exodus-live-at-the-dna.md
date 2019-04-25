@@ -1,1 +1,0 @@
-{"tmdb_id": 267946, "title": "Exodus: Live at the DNA", "original_title": "Exodus: Live at the DNA", "slug_title": "exodus-live-at-the-dna", "date": "2004-03-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1IcWzAPJkfU29saDR1l9jAEzoda.jpg", "actors": [], "comments": [], "recommandations_id": []}

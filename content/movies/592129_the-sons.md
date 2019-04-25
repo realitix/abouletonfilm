@@ -1,1 +1,0 @@
-{"tmdb_id": 592129, "title": "The Sons", "original_title": "Anak Lanang", "slug_title": "the-sons", "date": "2017-12-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tLEREGWt23y7Pb5tu7boyrPqlI3.jpg", "actors": [], "comments": [], "recommandations_id": []}

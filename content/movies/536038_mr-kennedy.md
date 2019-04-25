@@ -1,1 +1,0 @@
-{"tmdb_id": 536038, "title": "Mr Kennedy", "original_title": "Mr Kennedy", "slug_title": "mr-kennedy", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Finlay Wilson (Leo Keenan)", "Kieran Murphy (Lux)"], "comments": [], "recommandations_id": []}

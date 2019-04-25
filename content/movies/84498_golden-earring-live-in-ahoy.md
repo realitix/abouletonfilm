@@ -1,1 +1,0 @@
-{"tmdb_id": 84498, "title": "Golden Earring: Live in Ahoy", "original_title": "Golden Earring: Live in Ahoy", "slug_title": "golden-earring-live-in-ahoy", "date": "2006-11-24", "genre": "Musique", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8YiGdWci2BCndqGwFA8x8btYE01.jpg", "actors": [], "comments": [], "recommandations_id": []}

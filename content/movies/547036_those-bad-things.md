@@ -1,1 +1,0 @@
-{"tmdb_id": 547036, "title": "Those Bad Things", "original_title": "Quelle brutte cose", "slug_title": "those-bad-things", "date": "2018-08-29", "genre": "Drame", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gvYxiRv1SteL3tnYXqw6BcoxbjU.jpg", "actors": [], "comments": [], "recommandations_id": []}

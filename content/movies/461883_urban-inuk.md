@@ -1,1 +1,0 @@
-{"tmdb_id": 461883, "title": "Urban Inuk", "original_title": "Qallunajatut", "slug_title": "urban-inuk", "date": "2005-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cA1NvNjEux1IM7vtZDncygRg8c5.jpg", "actors": [], "comments": [], "recommandations_id": []}

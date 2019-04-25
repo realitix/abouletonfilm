@@ -1,1 +1,0 @@
-{"tmdb_id": 452747, "title": "Portraiture", "original_title": "Portraiture", "slug_title": "portraiture", "date": "1993-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

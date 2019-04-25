@@ -1,1 +1,0 @@
-{"tmdb_id": 455216, "title": "The Miracle of Todd-AO", "original_title": "The Miracle of Todd-AO", "slug_title": "the-miracle-of-todd-ao", "date": "1956-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/byNLVei8WosmIBs5pvIlw0NJfqG.jpg", "actors": [], "comments": [], "recommandations_id": []}

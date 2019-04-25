@@ -1,1 +1,0 @@
-{"tmdb_id": 342402, "title": "Almadrabas", "original_title": "Almadrabas", "slug_title": "almadrabas", "date": "1934-12-03", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

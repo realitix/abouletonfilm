@@ -1,1 +1,0 @@
-{"tmdb_id": 595752, "title": "The Ringer", "original_title": "The Ringer", "slug_title": "the-ringer", "date": "2013-04-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9zp1uCw13EUBJiHfVc25wnZUXRb.jpg", "actors": [], "comments": [], "recommandations_id": []}

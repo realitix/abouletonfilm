@@ -1,1 +1,0 @@
-{"tmdb_id": 110277, "title": "From Nine to Five", "original_title": "Das 9 \u00c0s 5", "slug_title": "from-nine-to-five", "date": "2012-01-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sKJ46TLjHzYs34kmmAYYGnVSCov.jpg", "actors": [], "comments": [], "recommandations_id": []}

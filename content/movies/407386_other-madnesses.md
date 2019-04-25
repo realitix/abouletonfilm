@@ -1,1 +1,0 @@
-{"tmdb_id": 407386, "title": "Other Madnesses", "original_title": "Other Madnesses", "slug_title": "other-madnesses", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hJUJ1HpuAFIBaeQqqvo1JbRk0Za.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 438441, "title": "I Am Another You", "original_title": "I Am Another You", "slug_title": "i-am-another-you", "date": "2017-03-12", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8nyKgIr3fdoTFWPfG9dG2HWXkBu.jpg", "actors": [], "comments": [], "recommandations_id": []}

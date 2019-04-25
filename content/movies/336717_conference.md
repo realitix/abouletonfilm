@@ -1,1 +1,0 @@
-{"tmdb_id": 336717, "title": "Conference", "original_title": "Conference", "slug_title": "conference", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

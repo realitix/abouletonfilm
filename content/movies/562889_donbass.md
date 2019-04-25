@@ -1,1 +1,0 @@
-{"tmdb_id": 562889, "title": "Donbass", "original_title": "Donbass", "slug_title": "donbass", "date": "2016-03-09", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gSAw4wtVw4258CGbWdbDNewWywK.jpg", "actors": ["Anne-Laure Bonnel ()"], "comments": [], "recommandations_id": []}

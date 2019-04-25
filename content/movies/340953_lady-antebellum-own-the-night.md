@@ -1,1 +1,0 @@
-{"tmdb_id": 340953, "title": "Lady Antebellum Own the Night", "original_title": "Lady Antebellum Own the Night", "slug_title": "lady-antebellum-own-the-night", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

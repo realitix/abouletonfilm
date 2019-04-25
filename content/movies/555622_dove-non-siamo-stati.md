@@ -1,1 +1,0 @@
-{"tmdb_id": 555622, "title": "Dove non siamo stati", "original_title": "Dove non siamo stati", "slug_title": "dove-non-siamo-stati", "date": "2011-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

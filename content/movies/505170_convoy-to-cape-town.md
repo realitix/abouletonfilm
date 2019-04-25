@@ -1,1 +1,0 @@
-{"tmdb_id": 505170, "title": "Convoy to Cape Town", "original_title": "Convoy to Cape Town", "slug_title": "convoy-to-cape-town", "date": "2009-02-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

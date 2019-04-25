@@ -1,1 +1,0 @@
-{"tmdb_id": 358914, "title": "Price of Love", "original_title": "Price of Love", "slug_title": "price-of-love", "date": "2015-09-13", "genre": "Drame", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q8l3awlCpu6EgTxc61kNRw4Yfos.jpg", "actors": [], "comments": [], "recommandations_id": []}

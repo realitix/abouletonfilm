@@ -1,1 +1,0 @@
-{"tmdb_id": 84573, "title": "The Great Serengeti", "original_title": "The Great Serengeti", "slug_title": "the-great-serengeti", "date": "", "genre": "Documentaire", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vRfo5UyCB5urdrjRlI5y1bj9arm.jpg", "actors": [], "comments": [], "recommandations_id": []}

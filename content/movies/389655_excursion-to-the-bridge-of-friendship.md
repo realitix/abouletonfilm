@@ -1,1 +1,0 @@
-{"tmdb_id": 389655, "title": "Excursion to the Bridge of Friendship", "original_title": "Excursion to the Bridge of Friendship", "slug_title": "excursion-to-the-bridge-of-friendship", "date": "1993-03-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

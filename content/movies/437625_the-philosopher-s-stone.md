@@ -1,1 +1,0 @@
-{"tmdb_id": 437625, "title": "The Philosopher's Stone", "original_title": "The Philosopher's Stone", "slug_title": "the-philosopher-s-stone", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jacob Andrew Myers (Jacob Fausstman)"], "comments": [], "recommandations_id": []}

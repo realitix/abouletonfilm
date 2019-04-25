@@ -1,1 +1,0 @@
-{"tmdb_id": 357496, "title": "Summer on the Farm", "original_title": "Summer on the Farm", "slug_title": "summer-on-the-farm", "date": "1943-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

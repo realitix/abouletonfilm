@@ -1,1 +1,0 @@
-{"tmdb_id": 506202, "title": "A Yokohama Yankee", "original_title": "A Yokohama Yankee", "slug_title": "a-yokohama-yankee", "date": "1955-01-19", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

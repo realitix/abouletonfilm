@@ -1,1 +1,0 @@
-{"tmdb_id": 471282, "title": "The Kingdom", "original_title": "O Reino", "slug_title": "the-kingdom", "date": "2012-09-15", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zrndeWQnHZJfupkQyUkibpecEGh.jpg", "actors": ["Lee Fuzeta (Guarda 1)", "J\u00falio Alves (Guarda 2)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 407182, "title": "Shoddy Work", "original_title": "Chapucer\u00edas", "slug_title": "shoddy-work", "date": "1987-07-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hDq513Bipr0l5rRwqajETDWD66p.jpg", "actors": [], "comments": [], "recommandations_id": []}

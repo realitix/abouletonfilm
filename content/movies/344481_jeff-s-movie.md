@@ -1,1 +1,0 @@
-{"tmdb_id": 344481, "title": "Jeff''s Movie", "original_title": "Jeff''s Movie", "slug_title": "jeff-s-movie", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 458586, "title": "Le bulbe tragique", "original_title": "Le bulbe tragique", "slug_title": "le-bulbe-tragique", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gdMBu2U3M6KDQyFXtbB6g4iJTtH.jpg", "actors": [], "comments": [], "recommandations_id": []}

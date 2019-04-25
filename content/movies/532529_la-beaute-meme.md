@@ -1,1 +1,0 @@
-{"tmdb_id": 532529, "title": "La beaut\u00e9 m\u00eame", "original_title": "La beaut\u00e9 m\u00eame", "slug_title": "la-beaute-meme", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Monique Miller ()"], "comments": [], "recommandations_id": []}

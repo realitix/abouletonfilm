@@ -1,1 +1,0 @@
-{"tmdb_id": 313470, "title": "The True Story of the Nativity", "original_title": "The True Story of the Nativity", "slug_title": "the-true-story-of-the-nativity", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9xZLpwXhAaTavzXJYjdcLlp7Dv5.jpg", "actors": [], "comments": [], "recommandations_id": []}

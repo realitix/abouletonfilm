@@ -1,1 +1,0 @@
-{"tmdb_id": 189728, "title": "I'm A Big Shot Now", "original_title": "I'm A Big Shot Now", "slug_title": "i-m-a-big-shot-now", "date": "1936-04-10", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rM7sSFO0utKPjyRCD1aUmLcvkmU.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 539763, "title": "Cartouche", "original_title": "Cartouche", "slug_title": "cartouche", "date": "1934-09-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

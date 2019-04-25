@@ -1,1 +1,0 @@
-{"tmdb_id": 398350, "title": "Snorting Coke with the BBC", "original_title": "Snorting Coke with the BBC", "slug_title": "snorting-coke-with-the-bbc", "date": "2003-08-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/paspiRMeEyLXLBQYsvhzjdBVj96.jpg", "actors": [], "comments": [], "recommandations_id": []}

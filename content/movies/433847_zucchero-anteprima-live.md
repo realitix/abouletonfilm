@@ -1,1 +1,0 @@
-{"tmdb_id": 433847, "title": "Zucchero - Anteprima Live", "original_title": "Zucchero - Anteprima Live", "slug_title": "zucchero-anteprima-live", "date": "", "genre": "Musique", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

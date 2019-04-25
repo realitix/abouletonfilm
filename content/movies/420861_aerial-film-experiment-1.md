@@ -1,1 +1,0 @@
-{"tmdb_id": 420861, "title": "Aerial Film Experiment #1", "original_title": "Aerial Film Experiment #1", "slug_title": "aerial-film-experiment-1", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9fQ0LOIChyIZrWcVUfROTdfuUjz.jpg", "actors": [], "comments": [], "recommandations_id": []}

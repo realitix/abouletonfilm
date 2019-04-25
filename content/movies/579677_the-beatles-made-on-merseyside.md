@@ -1,1 +1,0 @@
-{"tmdb_id": 579677, "title": "The Beatles: Made on Merseyside", "original_title": "The Beatles: Made on Merseyside", "slug_title": "the-beatles-made-on-merseyside", "date": "2018-09-07", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dT6JWv0rcKupEvdnsorfXGNDwkE.jpg", "actors": [], "comments": [], "recommandations_id": []}

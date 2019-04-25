@@ -1,1 +1,0 @@
-{"tmdb_id": 150017, "title": "Mountain Man", "original_title": "Mountain Man", "slug_title": "mountain-man", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z2rqYnHK3TB7RKJdR85FPmctWPm.jpg", "actors": [], "comments": [], "recommandations_id": []}

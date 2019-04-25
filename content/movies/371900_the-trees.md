@@ -1,1 +1,0 @@
-{"tmdb_id": 371900, "title": "The Trees", "original_title": "The Trees", "slug_title": "the-trees", "date": "1991-01-02", "genre": "Animation", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zSG4IXF55QlDj3ILTfaW98573ac.jpg", "actors": [], "comments": [], "recommandations_id": []}

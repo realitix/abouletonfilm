@@ -1,1 +1,0 @@
-{"tmdb_id": 560467, "title": "Eternal Flame", "original_title": "\u7121\u9650\u306e\u706b", "slug_title": "eternal-flame", "date": "", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

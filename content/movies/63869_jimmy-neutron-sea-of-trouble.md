@@ -1,1 +1,0 @@
-{"tmdb_id": 63869, "title": "Jimmy Neutron Sea of Trouble", "original_title": "Jimmy Neutron Sea of Trouble", "slug_title": "jimmy-neutron-sea-of-trouble", "date": "2003-10-07", "genre": "Animation", "score": "6.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ywbl9DPHi9erY4Y5n4m6yYEWPaq.jpg", "actors": [], "comments": [], "recommandations_id": []}

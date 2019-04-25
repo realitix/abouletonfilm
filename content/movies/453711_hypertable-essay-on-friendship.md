@@ -1,1 +1,0 @@
-{"tmdb_id": 453711, "title": "Hypertable \u2013 Essay on Friendship", "original_title": "Hypertable - Essai sur l\u2019amiti\u00e9", "slug_title": "hypertable-essay-on-friendship", "date": "2017-04-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

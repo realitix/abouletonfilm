@@ -1,1 +1,0 @@
-{"tmdb_id": 549819, "title": "The Magic Drum", "original_title": "Media Magica VI - Wundertrommel", "slug_title": "the-magic-drum", "date": "1996-01-01", "genre": "Documentaire / T\u00e9l\u00e9film", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mRJMkO6cswHKplytxXVyI1hlerx.jpg", "actors": [], "comments": [], "recommandations_id": []}

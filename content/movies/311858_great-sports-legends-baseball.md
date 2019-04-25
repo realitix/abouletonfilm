@@ -1,1 +1,0 @@
-{"tmdb_id": 311858, "title": "Great Sports Legends: Baseball", "original_title": "Great Sports Legends: Baseball", "slug_title": "great-sports-legends-baseball", "date": "2000-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

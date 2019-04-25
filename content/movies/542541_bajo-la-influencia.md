@@ -1,1 +1,0 @@
-{"tmdb_id": 542541, "title": "Bajo la Influencia", "original_title": "Bajo la Influencia", "slug_title": "bajo-la-influencia", "date": "2016-12-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/buyQSgAjAFeodYtVncMhvgxRwiK.jpg", "actors": [], "comments": [], "recommandations_id": []}

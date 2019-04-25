@@ -1,1 +1,0 @@
-{"tmdb_id": 473627, "title": "Ahmad Jamal Live", "original_title": "Ahmad Jamal Live", "slug_title": "ahmad-jamal-live", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7dRwD6pCQImkSJ55p7s3oU5t0O4.jpg", "actors": [], "comments": [], "recommandations_id": []}

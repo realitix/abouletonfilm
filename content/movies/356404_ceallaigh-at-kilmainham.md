@@ -1,1 +1,0 @@
-{"tmdb_id": 356404, "title": "Ceallaigh at Kilmainham", "original_title": "Ceallaigh at Kilmainham", "slug_title": "ceallaigh-at-kilmainham", "date": "2013-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/98nJNxhWq5mLR0zOkxNO92gHT6z.jpg", "actors": [], "comments": [], "recommandations_id": []}

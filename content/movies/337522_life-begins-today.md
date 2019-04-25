@@ -1,1 +1,0 @@
-{"tmdb_id": 337522, "title": "Life Begins Today", "original_title": "Life Begins Today", "slug_title": "life-begins-today", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

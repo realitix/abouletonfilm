@@ -1,1 +1,0 @@
-{"tmdb_id": 47689, "title": "Get Lamp", "original_title": "Get Lamp", "slug_title": "get-lamp", "date": "2010-03-26", "genre": "Documentaire", "score": "6.4/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eRSu6LvMm6xWKDtlD1xZt8ohm75.jpg", "actors": [], "comments": [], "recommandations_id": [116569, 82259, 91921, 53442]}

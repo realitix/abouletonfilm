@@ -1,1 +1,0 @@
-{"tmdb_id": 313455, "title": "Linkin Park: Breaking the Rabbit", "original_title": "Linkin Park: Breaking the Rabbit", "slug_title": "linkin-park-breaking-the-rabbit", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

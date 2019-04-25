@@ -1,1 +1,0 @@
-{"tmdb_id": 222144, "title": "Book of Songs", "original_title": "Book of Songs", "slug_title": "book-of-songs", "date": "2010-01-11", "genre": "", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hFokj7tSqyFW4YgLDCIUc70XSVQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 367787, "title": "Chris and the Dragon", "original_title": "Chris and the Dragon", "slug_title": "chris-and-the-dragon", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

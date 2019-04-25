@@ -1,1 +1,0 @@
-{"tmdb_id": 413360, "title": "Enfin ... Redde M'r Nimm Devun", "original_title": "Enfin ... Redde M'r Nimm Devun", "slug_title": "enfin-redde-m-r-nimm-devun", "date": "1974-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j2Utq5gTFIeSQHP08gVEVeHNoCP.jpg", "actors": [], "comments": [], "recommandations_id": []}

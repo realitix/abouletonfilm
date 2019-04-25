@@ -1,1 +1,0 @@
-{"tmdb_id": 359782, "title": "Improvisations in Black and White", "original_title": "Improvisations in Black and White", "slug_title": "improvisations-in-black-and-white", "date": "1952-09-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

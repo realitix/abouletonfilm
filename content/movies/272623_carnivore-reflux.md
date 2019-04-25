@@ -1,1 +1,0 @@
-{"tmdb_id": 272623, "title": "Carnivore Reflux", "original_title": "Carnivore Reflux", "slug_title": "carnivore-reflux", "date": "2006-02-15", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["John Waters (Narrator)"], "comments": [], "recommandations_id": []}

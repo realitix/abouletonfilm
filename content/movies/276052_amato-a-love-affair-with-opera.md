@@ -1,1 +1,0 @@
-{"tmdb_id": 276052, "title": "Amato: A Love Affair with Opera", "original_title": "Amato: A Love Affair with Opera", "slug_title": "amato-a-love-affair-with-opera", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

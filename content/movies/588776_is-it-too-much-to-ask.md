@@ -1,1 +1,0 @@
-{"tmdb_id": 588776, "title": "Is It Too Much to Ask?", "original_title": "\u00c4r det f\u00f6r mycket beg\u00e4rt", "slug_title": "is-it-too-much-to-ask", "date": "2017-01-01", "genre": "Com\u00e9die / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 383508, "title": "Siemiany", "original_title": "Siemiany", "slug_title": "siemiany", "date": "2009-11-11", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iylG5CQaa6ndsXyQN3zWuhBVcVE.jpg", "actors": [], "comments": [], "recommandations_id": []}

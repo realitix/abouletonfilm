@@ -1,1 +1,0 @@
-{"tmdb_id": 480137, "title": "Red Star Line", "original_title": "Red Star Line", "slug_title": "red-star-line", "date": "2013-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yP8qIZaBT7eAJpOIrlq62fz7xMo.jpg", "actors": [], "comments": [], "recommandations_id": []}

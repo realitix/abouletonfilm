@@ -1,1 +1,0 @@
-{"tmdb_id": 220656, "title": "The Greatest Man in Siam", "original_title": "The Greatest Man in Siam", "slug_title": "the-greatest-man-in-siam", "date": "1944-03-27", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wrhPagsSOm4FfB2NTlKyHXjWnGm.jpg", "actors": [], "comments": [], "recommandations_id": []}

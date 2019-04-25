@@ -1,1 +1,0 @@
-{"tmdb_id": 536267, "title": "Dancing to New Orleans", "original_title": "Dancing to New Orleans", "slug_title": "dancing-to-new-orleans", "date": "2003-09-30", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

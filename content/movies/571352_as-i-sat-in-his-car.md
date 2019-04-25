@@ -1,1 +1,0 @@
-{"tmdb_id": 571352, "title": "As I Sat in His Car...", "original_title": "As I Sat in His Car...", "slug_title": "as-i-sat-in-his-car", "date": "2018-11-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rsy1CROQxKPXm6ELCRYHXWRNddn.jpg", "actors": [], "comments": [], "recommandations_id": []}

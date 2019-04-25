@@ -1,1 +1,0 @@
-{"tmdb_id": 446895, "title": "Pro Kopf", "original_title": "Pro Kopf", "slug_title": "pro-kopf", "date": "2012-03-07", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dpnXiUynMBz5MqZWNpiPlwRnMVm.jpg", "actors": ["Fiana de Guzman (Anita)", "Ray Strachan (Martin)"], "comments": [], "recommandations_id": []}

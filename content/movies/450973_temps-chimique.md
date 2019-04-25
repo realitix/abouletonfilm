@@ -1,1 +1,0 @@
-{"tmdb_id": 450973, "title": "Temps chimique", "original_title": "Temps chimique", "slug_title": "temps-chimique", "date": "2009-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

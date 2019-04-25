@@ -1,1 +1,0 @@
-{"tmdb_id": 385127, "title": "Go Fuck Yourself Oliver", "original_title": "Go Fuck Yourself Oliver", "slug_title": "go-fuck-yourself-oliver", "date": "2015-07-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r803DW0UeZbryUgzMzE5Wkb9D2J.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 531279, "title": "Potomanto", "original_title": "Potomanto", "slug_title": "potomanto", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xFDdejt1BpovLbtNBv2LhlG8Zam.jpg", "actors": ["Mikki Ossei ()", "Yvonne Okoro ()", "Olu Jacobs ()", "Christabel Ekeh ()"], "comments": [], "recommandations_id": []}

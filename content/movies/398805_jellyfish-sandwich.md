@@ -1,1 +1,0 @@
-{"tmdb_id": 398805, "title": "Jellyfish Sandwich", "original_title": "Jellyfish Sandwich", "slug_title": "jellyfish-sandwich", "date": "1994-05-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

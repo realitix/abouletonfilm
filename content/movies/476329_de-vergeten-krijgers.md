@@ -1,1 +1,0 @@
-{"tmdb_id": 476329, "title": "De vergeten krijgers", "original_title": "De vergeten krijgers", "slug_title": "de-vergeten-krijgers", "date": "2017-09-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4Sooen19fRJzHEjBJ4gQRFQKNAJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

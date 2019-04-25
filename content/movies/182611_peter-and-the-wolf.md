@@ -1,1 +1,0 @@
-{"tmdb_id": 182611, "title": "Peter and the Wolf", "original_title": "Peter and the Wolf", "slug_title": "peter-and-the-wolf", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oEtoRbh31uu4NTNvA5sr2T4O0et.jpg", "actors": [], "comments": [], "recommandations_id": []}

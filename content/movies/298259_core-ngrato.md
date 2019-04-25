@@ -1,1 +1,0 @@
-{"tmdb_id": 298259, "title": "Core 'ngrato", "original_title": "Core 'ngrato", "slug_title": "core-ngrato", "date": "1951-10-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jsWOfpdw4W4b1TgtCU4Q3ZeLqUN.jpg", "actors": [], "comments": [], "recommandations_id": []}

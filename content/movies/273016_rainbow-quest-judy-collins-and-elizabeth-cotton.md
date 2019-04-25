@@ -1,1 +1,0 @@
-{"tmdb_id": 273016, "title": "Rainbow Quest: Judy Collins and Elizabeth Cotton", "original_title": "Rainbow Quest: Judy Collins and Elizabeth Cotton", "slug_title": "rainbow-quest-judy-collins-and-elizabeth-cotton", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 488554, "title": "T-Bone's World of Clowning", "original_title": "T-Bone's World of Clowning", "slug_title": "t-bone-s-world-of-clowning", "date": "1991-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/74ZesvG4zB3c6TwYutY5Jls86Ds.jpg", "actors": [], "comments": [], "recommandations_id": []}

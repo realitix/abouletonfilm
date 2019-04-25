@@ -1,1 +1,0 @@
-{"tmdb_id": 463648, "title": "Last Stop", "original_title": "Last Stop", "slug_title": "last-stop", "date": "", "genre": "", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rhhFDTKCaEYRX9QPk3eQTmnZwbA.jpg", "actors": [], "comments": [], "recommandations_id": []}

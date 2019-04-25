@@ -1,1 +1,0 @@
-{"tmdb_id": 114112, "title": "Pallas - The Blinding Darkness", "original_title": "Pallas - The Blinding Darkness", "slug_title": "pallas-the-blinding-darkness", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9Urph4E9KZ3x54yhKekKdXidiGy.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 214906, "title": "TomChris: Ao Vivo", "original_title": "TomChris: Ao Vivo", "slug_title": "tomchris-ao-vivo", "date": "2008-05-31", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nQtjCXr92ZkWtRlET1SSySKOunY.jpg", "actors": ["TomChris (Musico)"], "comments": [], "recommandations_id": []}

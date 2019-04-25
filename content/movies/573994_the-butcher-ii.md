@@ -1,1 +1,0 @@
-{"tmdb_id": 573994, "title": "The Butcher II", "original_title": "The Butcher II", "slug_title": "the-butcher-ii", "date": "2001-01-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fxFr7XnrEq4iEzlxOdVvf5wmDn7.jpg", "actors": ["Maik Ude (The Butcher)"], "comments": [], "recommandations_id": []}

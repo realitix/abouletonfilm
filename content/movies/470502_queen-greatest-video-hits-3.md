@@ -1,1 +1,0 @@
-{"tmdb_id": 470502, "title": "Queen: Greatest Video Hits 3", "original_title": "Queen: Greatest Video Hits 3", "slug_title": "queen-greatest-video-hits-3", "date": "2017-08-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e8KtDzOSEVhcAoMxeqBrhAhukiD.jpg", "actors": [], "comments": [], "recommandations_id": []}

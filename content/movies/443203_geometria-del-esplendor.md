@@ -1,1 +1,0 @@
-{"tmdb_id": 443203, "title": "Geometr\u00eda del esplendor", "original_title": "Geometr\u00eda del esplendor", "slug_title": "geometria-del-esplendor", "date": "2016-04-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7XhCZoPZXHvHcijiHeLUrv1YJd0.jpg", "actors": [], "comments": [], "recommandations_id": []}

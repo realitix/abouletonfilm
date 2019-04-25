@@ -1,1 +1,0 @@
-{"tmdb_id": 309535, "title": "Darkroom", "original_title": "Darkroom", "slug_title": "darkroom", "date": "2014-06-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7qiuVsXGBG8HP2NeLHhNdlQjy3H.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 270361, "title": "Romeo & Julius", "original_title": "Romeo & Julius", "slug_title": "romeo-julius", "date": "2009-09-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Nicolai Nyholm (Himself)", "Alexander Vedel Ottensten (Himself)"], "comments": [], "recommandations_id": []}

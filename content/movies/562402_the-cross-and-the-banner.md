@@ -1,1 +1,0 @@
-{"tmdb_id": 562402, "title": "The Cross and the Banner", "original_title": "La croix et la banni\u00e8re", "slug_title": "the-cross-and-the-banner", "date": "1962-03-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u6uKGH5vh5AzpwqGFmzg3iMBnIj.jpg", "actors": [], "comments": [], "recommandations_id": []}

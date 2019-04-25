@@ -1,1 +1,0 @@
-{"tmdb_id": 534995, "title": "Kym Marsh Body Sculpt", "original_title": "Kym Marsh Body Sculpt", "slug_title": "kym-marsh-body-sculpt", "date": "", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/seY2JECvvPBnhlR2vkD221pHrLC.jpg", "actors": [], "comments": [], "recommandations_id": []}

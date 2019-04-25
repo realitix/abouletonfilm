@@ -1,1 +1,0 @@
-{"tmdb_id": 468244, "title": "Linen from the Lausitz", "original_title": "Leinen der Lausitz", "slug_title": "linen-from-the-lausitz", "date": "2013-09-27", "genre": "Animation / Fantastique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iurP3gbneBZi4BKYbop6FJEp15h.jpg", "actors": [], "comments": [], "recommandations_id": []}

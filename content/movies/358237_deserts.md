@@ -1,1 +1,0 @@
-{"tmdb_id": 358237, "title": "Deserts", "original_title": "Deserts", "slug_title": "deserts", "date": "1994-09-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6bSvXR9lhrn1RbFwQum7O6TzEOh.jpg", "actors": [], "comments": [], "recommandations_id": []}

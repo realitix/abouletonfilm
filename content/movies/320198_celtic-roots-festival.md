@@ -1,1 +1,0 @@
-{"tmdb_id": 320198, "title": "Celtic Roots Festival", "original_title": "Celtic Roots Festival", "slug_title": "celtic-roots-festival", "date": "1993-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

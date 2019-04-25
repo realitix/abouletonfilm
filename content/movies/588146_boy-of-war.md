@@ -1,1 +1,0 @@
-{"tmdb_id": 588146, "title": "Boy of War", "original_title": "Boy of War", "slug_title": "boy-of-war", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nnzIBeBAdATnJjkP2LCZeqchXUf.jpg", "actors": [], "comments": [], "recommandations_id": []}

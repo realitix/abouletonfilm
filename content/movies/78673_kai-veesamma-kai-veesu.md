@@ -1,1 +1,0 @@
-{"tmdb_id": 78673, "title": "Kai Veesamma Kai Veesu", "original_title": "Kai Veesamma Kai Veesu", "slug_title": "kai-veesamma-kai-veesu", "date": "1989-07-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Radhika Sarathkumar ()", "Nirosha ()", "Murali ()"], "comments": [], "recommandations_id": []}

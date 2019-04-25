@@ -1,1 +1,0 @@
-{"tmdb_id": 439506, "title": "Riding Shotgun", "original_title": "Riding Shotgun", "slug_title": "riding-shotgun", "date": "", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Yuri Lowenthal (Doyle)", "Jessy Schram (Abby)"], "comments": [], "recommandations_id": []}

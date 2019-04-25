@@ -1,1 +1,0 @@
-{"tmdb_id": 528209, "title": "Zengin K\u0131smet", "original_title": "Zengin K\u0131smet", "slug_title": "zengin-kismet", "date": "2016-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aRALCQuqVkinbTeksMsuyvTKtvh.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 86043, "title": "Grandma's Pet", "original_title": "Grandma's Pet", "slug_title": "grandma-s-pet", "date": "1932-01-17", "genre": "Animation", "score": "5.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

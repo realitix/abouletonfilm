@@ -1,1 +1,0 @@
-{"tmdb_id": 445423, "title": "Film and Reality", "original_title": "Film and Reality", "slug_title": "film-and-reality", "date": "1942-03-06", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

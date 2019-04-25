@@ -1,1 +1,0 @@
-{"tmdb_id": 526739, "title": "Portraits", "original_title": "Portraits", "slug_title": "portraits", "date": "2016-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yZX3m3aPqfa5NCCKlg6GEuyMrrw.jpg", "actors": ["David Hockney (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 447722, "title": "Bloody Demon", "original_title": "\u6d41\u8840\u9b3c", "slug_title": "bloody-demon", "date": "1983-01-10", "genre": "Fantastique / Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lDiprOb6421Ue9Dpk9LT0gaAfkp.jpg", "actors": [], "comments": [], "recommandations_id": []}

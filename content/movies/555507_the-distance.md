@@ -1,1 +1,1 @@
-{"tmdb_id": 555507, "title": "The Distance", "original_title": "La distance", "slug_title": "the-distance", "date": "1918-10-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 555507, "title": "The Distance", "original_title": "La distance", "slug_title": "the-distance", "date": "1918-10-21", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

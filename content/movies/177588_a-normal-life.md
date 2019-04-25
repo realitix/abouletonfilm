@@ -1,1 +1,0 @@
-{"tmdb_id": 177588, "title": "A Normal Life", "original_title": "A Normal Life", "slug_title": "a-normal-life", "date": "2012-03-18", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A7I2VpAU4jHcLUaT6NxM0cKsdqs.jpg", "actors": [], "comments": [], "recommandations_id": []}

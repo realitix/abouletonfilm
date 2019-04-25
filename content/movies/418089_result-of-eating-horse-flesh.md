@@ -1,1 +1,0 @@
-{"tmdb_id": 418089, "title": "Result of Eating Horse Flesh", "original_title": "Calino a mang\u00e9 du cheval", "slug_title": "result-of-eating-horse-flesh", "date": "1908-11-01", "genre": "Com\u00e9die", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Paul Bertho (Calino)"], "comments": [], "recommandations_id": []}

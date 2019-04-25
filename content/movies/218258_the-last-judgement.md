@@ -1,1 +1,0 @@
-{"tmdb_id": 218258, "title": "The Last Judgement", "original_title": "Augst\u0101k\u0101 Tiesa", "slug_title": "the-last-judgement", "date": "1988-01-04", "genre": "Documentaire", "score": "8.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zKNSi4MX7oErnBKRuaV2x4nitIo.jpg", "actors": [], "comments": [], "recommandations_id": []}

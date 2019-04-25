@@ -1,1 +1,0 @@
-{"tmdb_id": 409933, "title": "Eyes of the Holocaust", "original_title": "A Holocaust szemei", "slug_title": "eyes-of-the-holocaust", "date": "2000-01-01", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gQw5dPHVydXnxPztyh4d3r2QgAn.jpg", "actors": [], "comments": [], "recommandations_id": []}

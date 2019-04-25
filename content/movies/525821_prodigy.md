@@ -1,1 +1,0 @@
-{"tmdb_id": 525821, "title": "Prodigy", "original_title": "Prodigy", "slug_title": "prodigy", "date": "", "genre": "Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nTsI1LISIyUfrP3TQGm0xfRClyL.jpg", "actors": ["Cory Kays (Erik)", "Embry Johnson (Caleb)", "Hailey Henry (Maya)"], "comments": [], "recommandations_id": []}

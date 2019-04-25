@@ -1,1 +1,1 @@
-{"tmdb_id": 494252, "title": "Une instituut", "original_title": "Une instituut", "slug_title": "une-instituut", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 494252, "title": "Une instituut", "original_title": "Une instituut", "slug_title": "une-instituut", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

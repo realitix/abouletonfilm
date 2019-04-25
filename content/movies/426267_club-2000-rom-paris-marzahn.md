@@ -1,1 +1,0 @@
-{"tmdb_id": 426267, "title": "Club 2000, Rom, Paris, Marzahn", "original_title": "Club 2000, Rom, Paris, Marzahn", "slug_title": "club-2000-rom-paris-marzahn", "date": "1997-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mario Mentrup ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 480260, "title": "House of Cosbys", "original_title": "House of Cosbys", "slug_title": "house-of-cosbys", "date": "", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

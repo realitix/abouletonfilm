@@ -1,1 +1,0 @@
-{"tmdb_id": 163862, "title": "Karaoke", "original_title": "Karaoke", "slug_title": "karaoke", "date": "2009-09-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pF9IJz9r9Md4ZUYy5o9FLc6Z03i.jpg", "actors": [], "comments": [], "recommandations_id": []}

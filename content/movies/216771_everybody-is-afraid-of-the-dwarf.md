@@ -1,1 +1,0 @@
-{"tmdb_id": 216771, "title": "Everybody is Afraid of the Dwarf", "original_title": "Mindenki f\u00e9l a t\u00f6rp\u00e9t\u00f6l", "slug_title": "everybody-is-afraid-of-the-dwarf", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

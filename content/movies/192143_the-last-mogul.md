@@ -1,1 +1,0 @@
-{"tmdb_id": 192143, "title": "The Last Mogul", "original_title": "The Last Mogul", "slug_title": "the-last-mogul", "date": "2005-06-24", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rMf041UlfzvUEw2abaXjucDk29r.jpg", "actors": ["Larry King ()", "Robert Evans ()"], "comments": [], "recommandations_id": []}

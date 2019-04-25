@@ -1,1 +1,0 @@
-{"tmdb_id": 350262, "title": "\uac04\ud1b5", "original_title": "\uac04\ud1b5", "slug_title": "gantong", "date": "1989-06-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 455443, "title": "Mein Vater und ich", "original_title": "Mein Vater und ich", "slug_title": "mein-vater-und-ich", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 69221, "title": "X-Ray Men from Mars", "original_title": "X-Ray Men from Mars", "slug_title": "x-ray-men-from-mars", "date": "1978-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5KAqOzmIgRGIMbU6ihsXbPGOHbB.jpg", "actors": [], "comments": [], "recommandations_id": []}

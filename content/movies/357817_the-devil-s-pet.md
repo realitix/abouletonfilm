@@ -1,1 +1,0 @@
-{"tmdb_id": 357817, "title": "The Devil's Pet", "original_title": "The Devil's Pet", "slug_title": "the-devil-s-pet", "date": "1994-01-01", "genre": "Horreur", "score": "2.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jeff Conaway ()", "Gini Dante ()", "Julie Strain ()", "Neil Delama ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 536447, "title": "Playpals", "original_title": "Playpals", "slug_title": "playpals", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Shane Gregory Gardiner (Shaun)", "Peter Flaherty (Frank)"], "comments": [], "recommandations_id": []}

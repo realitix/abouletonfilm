@@ -1,1 +1,0 @@
-{"tmdb_id": 550606, "title": "Tumi Sudhu Amar", "original_title": "Tumi Sudhu Amar", "slug_title": "tumi-sudhu-amar", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9Gtv7RWDZ3wLXbTyxBYpdy1Ptc4.jpg", "actors": [], "comments": [], "recommandations_id": []}

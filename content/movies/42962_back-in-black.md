@@ -1,1 +1,0 @@
-{"tmdb_id": 42962, "title": "Back in Black", "original_title": "Back in Black", "slug_title": "back-in-black", "date": "2003-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oS9HhZDAHlLAfN3nVnuROBXK2YB.jpg", "actors": [], "comments": [], "recommandations_id": []}

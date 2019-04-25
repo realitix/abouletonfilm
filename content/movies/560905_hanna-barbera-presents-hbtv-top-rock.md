@@ -1,1 +1,0 @@
-{"tmdb_id": 560905, "title": "Hanna-Barbera Presents HBTV: Top Rock", "original_title": "Hanna-Barbera Presents HBTV: Top Rock", "slug_title": "hanna-barbera-presents-hbtv-top-rock", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

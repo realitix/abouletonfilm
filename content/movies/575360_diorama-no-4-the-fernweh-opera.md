@@ -1,1 +1,0 @@
-{"tmdb_id": 575360, "title": "Diorama No.4: The Fernweh Opera", "original_title": "Diorama No.4: The Fernweh Opera", "slug_title": "diorama-no-4-the-fernweh-opera", "date": "2016-10-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

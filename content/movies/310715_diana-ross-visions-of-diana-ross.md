@@ -1,1 +1,0 @@
-{"tmdb_id": 310715, "title": "Diana Ross: Visions of Diana Ross", "original_title": "Diana Ross: Visions of Diana Ross", "slug_title": "diana-ross-visions-of-diana-ross", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

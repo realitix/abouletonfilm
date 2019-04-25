@@ -1,1 +1,0 @@
-{"tmdb_id": 425055, "title": "Ded Moroz i seryy volk. Novogodnyaya skazka.", "original_title": "Ded Moroz i seryy volk. Novogodnyaya skazka.", "slug_title": "ded-moroz-i-seryy-volk-novogodnyaya-skazka", "date": "1937-11-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

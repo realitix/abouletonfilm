@@ -1,1 +1,0 @@
-{"tmdb_id": 149333, "title": "Walls of Fire", "original_title": "Walls of Fire", "slug_title": "walls-of-fire", "date": "1971-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jhttH0h0Vxq4XINbgB9Xo7TT8k1.jpg", "actors": [], "comments": [], "recommandations_id": []}

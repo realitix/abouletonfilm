@@ -1,1 +1,0 @@
-{"tmdb_id": 310812, "title": "Luciano Pavarotti: A Legend Says Goodbye", "original_title": "Luciano Pavarotti: A Legend Says Goodbye", "slug_title": "luciano-pavarotti-a-legend-says-goodbye", "date": "2008-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 317062, "title": "Of Clouds And Hands", "original_title": "Nuvole, Mani", "slug_title": "of-clouds-and-hands", "date": "2009-01-11", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aNub6a4P9HVPvYaowDS99JTkERL.jpg", "actors": [], "comments": [], "recommandations_id": []}

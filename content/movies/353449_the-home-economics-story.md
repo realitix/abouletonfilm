@@ -1,1 +1,0 @@
-{"tmdb_id": 353449, "title": "The Home Economics Story", "original_title": "The Home Economics Story", "slug_title": "the-home-economics-story", "date": "1951-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

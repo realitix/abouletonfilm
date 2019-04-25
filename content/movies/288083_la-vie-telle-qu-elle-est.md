@@ -1,1 +1,0 @@
-{"tmdb_id": 288083, "title": "La vie telle qu'elle est", "original_title": "La vie telle qu'elle est", "slug_title": "la-vie-telle-qu-elle-est", "date": "1911-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ren\u00e9e Carl ()", "Suzanne Erandis ()", "Ren\u00e9 Navarre ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 508034, "title": "film fragments", "original_title": "film fragments", "slug_title": "film-fragments", "date": "2015-11-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tHE4aDgqdY23jFqCGk8XoDsukOJ.jpg", "actors": ["Trix Zwartjes ()"], "comments": [], "recommandations_id": []}

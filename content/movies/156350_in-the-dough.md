@@ -1,1 +1,0 @@
-{"tmdb_id": 156350, "title": "In the Dough", "original_title": "In the Dough", "slug_title": "in-the-dough", "date": "1932-11-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Roscoe 'Fatty' Arbuckle (Slim)", "Shemp Howard ()", "Lionel Stander (Toots (uncredited))"], "comments": [], "recommandations_id": []}

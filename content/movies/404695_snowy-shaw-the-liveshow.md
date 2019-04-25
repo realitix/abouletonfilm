@@ -1,1 +1,0 @@
-{"tmdb_id": 404695, "title": "Snowy Shaw: The Liveshow", "original_title": "Snowy Shaw: The Liveshow", "slug_title": "snowy-shaw-the-liveshow", "date": "", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7M4GtZKHj1QNKjmjcmo5DYcl4Ll.jpg", "actors": ["Snowy Shaw ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 341008, "title": "Project XX", "original_title": "Project XX", "slug_title": "project-xx", "date": "", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Martin Klebba (Angry Little Person)"], "comments": [], "recommandations_id": []}

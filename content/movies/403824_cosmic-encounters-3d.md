@@ -1,1 +1,0 @@
-{"tmdb_id": 403824, "title": "Cosmic Encounters 3D", "original_title": "Cosmic Encounters", "slug_title": "cosmic-encounters-3d", "date": "2014-10-24", "genre": "Documentaire / Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/okYE92ax6MHCfuMMWvJrCmCer9.jpg", "actors": [], "comments": [], "recommandations_id": []}

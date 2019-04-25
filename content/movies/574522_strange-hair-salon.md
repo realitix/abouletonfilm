@@ -1,1 +1,0 @@
-{"tmdb_id": 574522, "title": "Strange Hair Salon", "original_title": "Strange Hair Salon", "slug_title": "strange-hair-salon", "date": "2015-10-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yxK6PeqG8XRxFg1JK45VNDKiS41.jpg", "actors": [], "comments": [], "recommandations_id": []}

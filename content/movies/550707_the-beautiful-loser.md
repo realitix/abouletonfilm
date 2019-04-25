@@ -1,1 +1,0 @@
-{"tmdb_id": 550707, "title": "The Beautiful Loser", "original_title": "\u7f8e\u4e3d\u7684\u5931\u8d25\u8005", "slug_title": "the-beautiful-loser", "date": "2015-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bT0HltsSzeL1YETpwzTjybhKs1i.jpg", "actors": [], "comments": [], "recommandations_id": []}

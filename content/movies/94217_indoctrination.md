@@ -1,1 +1,0 @@
-{"tmdb_id": 94217, "title": "IndoctriNation", "original_title": "IndoctriNation", "slug_title": "indoctrination", "date": "2011-10-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rV18MLIcnw3C0oNnGzsqo6MQdVC.jpg", "actors": [], "comments": [], "recommandations_id": []}

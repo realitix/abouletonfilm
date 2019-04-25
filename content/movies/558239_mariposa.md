@@ -1,1 +1,0 @@
-{"tmdb_id": 558239, "title": "Mariposa", "original_title": "The Mariposas", "slug_title": "mariposa", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

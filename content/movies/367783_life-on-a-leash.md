@@ -1,1 +1,0 @@
-{"tmdb_id": 367783, "title": "Life on a Leash", "original_title": "Life on a Leash", "slug_title": "life-on-a-leash", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

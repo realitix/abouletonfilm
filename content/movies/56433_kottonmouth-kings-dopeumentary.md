@@ -1,1 +1,0 @@
-{"tmdb_id": 56433, "title": "KottonMouth Kings: Dopeumentary", "original_title": "KottonMouth Kings: Dopeumentary", "slug_title": "kottonmouth-kings-dopeumentary", "date": "2001-05-08", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7zhEIKbUjgWcnCJFZ8a1hYQ7TCK.jpg", "actors": [], "comments": [], "recommandations_id": []}

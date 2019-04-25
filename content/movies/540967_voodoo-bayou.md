@@ -1,1 +1,0 @@
-{"tmdb_id": 540967, "title": "Voodoo Bayou", "original_title": "Voodoo Bayou", "slug_title": "voodoo-bayou", "date": "2007-10-12", "genre": "Horreur / Science-Fiction / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/507asID7BrXkMWfFNnEG0yJAz7m.jpg", "actors": [], "comments": [], "recommandations_id": []}

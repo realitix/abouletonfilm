@@ -1,1 +1,0 @@
-{"tmdb_id": 387422, "title": "Paddle Pop Magilika", "original_title": "Paddle Pop Magilika", "slug_title": "paddle-pop-magilika", "date": "2015-03-01", "genre": "Aventure / Familial / Fantastique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Ps5LuFOPQnvczqEJImTjwPiyOg.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 147562, "title": "Maszyna", "original_title": "Maszyna", "slug_title": "maszyna", "date": "1961-12-31", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/deuVv9GqtJZBMejPCa5hdhoBJbF.jpg", "actors": [], "comments": [], "recommandations_id": [383841, 285768, 327274, 154525]}

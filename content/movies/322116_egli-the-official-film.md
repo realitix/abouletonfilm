@@ -1,1 +1,0 @@
-{"tmdb_id": 322116, "title": "Egli - The Official Film", "original_title": "Egli - The Official Film", "slug_title": "egli-the-official-film", "date": "2007-11-02", "genre": "Documentaire", "score": "8.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m0wjd0KAQ68QbVC28uwtT97cOce.jpg", "actors": [], "comments": [], "recommandations_id": []}

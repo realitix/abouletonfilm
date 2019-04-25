@@ -1,1 +1,0 @@
-{"tmdb_id": 515113, "title": "Instinct", "original_title": "Instinkt", "slug_title": "instinct", "date": "2003-05-29", "genre": "Animation", "score": "2.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

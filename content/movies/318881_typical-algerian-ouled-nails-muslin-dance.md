@@ -1,1 +1,0 @@
-{"tmdb_id": 318881, "title": "Typical Algerian 'Ouled Nails' Muslin Dance", "original_title": "Typical Algerian 'Ouled Nails' Muslin Dance", "slug_title": "typical-algerian-ouled-nails-muslin-dance", "date": "1904-05-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 359153, "title": "A Ca\u00e7ada do Malhadeiro", "original_title": "A Ca\u00e7ada do Malhadeiro", "slug_title": "a-cacada-do-malhadeiro", "date": "1969-01-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/77ubapbodQI8AJWtqfiQLoiJQCk.jpg", "actors": [], "comments": [], "recommandations_id": []}

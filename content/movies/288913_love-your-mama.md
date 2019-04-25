@@ -1,1 +1,0 @@
-{"tmdb_id": 288913, "title": "LOVE YOUR MAMA", "original_title": "LOVE YOUR MAMA", "slug_title": "love-your-mama", "date": "1990-09-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

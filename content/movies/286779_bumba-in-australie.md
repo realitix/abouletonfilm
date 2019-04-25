@@ -1,1 +1,0 @@
-{"tmdb_id": 286779, "title": "Bumba in Australi\u00eb", "original_title": "Bumba in Australi\u00eb", "slug_title": "bumba-in-australie", "date": "2012-03-01", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tjg2sswhD0guqRYWJYlqpTFft6b.jpg", "actors": [], "comments": [], "recommandations_id": []}

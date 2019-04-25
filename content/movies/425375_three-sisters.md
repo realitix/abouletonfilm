@@ -1,1 +1,0 @@
-{"tmdb_id": 425375, "title": "Three Sisters", "original_title": "Shalosh Achayot", "slug_title": "three-sisters", "date": "1998-02-21", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/njmqzRuAfvr0QpLYSZoZNDgypHK.jpg", "actors": [], "comments": [], "recommandations_id": []}

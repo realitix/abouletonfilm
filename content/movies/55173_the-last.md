@@ -1,1 +1,0 @@
-{"tmdb_id": 55173, "title": "The Last", "original_title": "The Last", "slug_title": "the-last", "date": "2007-05-30", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

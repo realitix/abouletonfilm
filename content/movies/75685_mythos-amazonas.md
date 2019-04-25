@@ -1,1 +1,0 @@
-{"tmdb_id": 75685, "title": "Mythos Amazonas", "original_title": "Mythos Amazonas", "slug_title": "mythos-amazonas", "date": "2011-01-01", "genre": "", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jeITPQaCoLktl9zky1wd0Gu7wnp.jpg", "actors": [], "comments": [], "recommandations_id": []}

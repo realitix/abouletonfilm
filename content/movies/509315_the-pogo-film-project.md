@@ -1,1 +1,0 @@
-{"tmdb_id": 509315, "title": "The Pogo Film Project", "original_title": "The Pogo Film Project", "slug_title": "the-pogo-film-project", "date": "2012-03-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gf00Y9h06QEWIS8sx0C0d8cRDtO.jpg", "actors": [], "comments": [], "recommandations_id": []}

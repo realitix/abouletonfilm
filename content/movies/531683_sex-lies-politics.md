@@ -1,1 +1,0 @@
-{"tmdb_id": 531683, "title": "Sex, Lies & Politics", "original_title": "Sex, Lies & Politics", "slug_title": "sex-lies-politics", "date": "1997-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r9zJGfE2Oa7b5cU7pcq5AXIPSuF.jpg", "actors": ["Jacqueline Lovell ()"], "comments": [], "recommandations_id": []}

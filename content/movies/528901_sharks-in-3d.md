@@ -1,1 +1,0 @@
-{"tmdb_id": 528901, "title": "Sharks (in 3D)", "original_title": "Sharks (in 3D)", "slug_title": "sharks-in-3d", "date": "2012-03-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/12Q2eL2M8PK3oiQKF1bXKO7gY7X.jpg", "actors": [], "comments": [], "recommandations_id": []}

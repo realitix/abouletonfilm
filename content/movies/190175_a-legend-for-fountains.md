@@ -1,1 +1,0 @@
-{"tmdb_id": 190175, "title": "A Legend for Fountains", "original_title": "A Legend for Fountains", "slug_title": "a-legend-for-fountains", "date": "1957-01-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3HUCWPFgamCoBkYKzRX5EO922Nd.jpg", "actors": [], "comments": [], "recommandations_id": []}

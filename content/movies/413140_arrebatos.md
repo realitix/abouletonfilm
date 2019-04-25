@@ -1,1 +1,0 @@
-{"tmdb_id": 413140, "title": "Arrebatos", "original_title": "Arrebatos", "slug_title": "arrebatos", "date": "1998-06-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yA3uzghRcf4qyWeDqQweDMyjSoI.jpg", "actors": [], "comments": [], "recommandations_id": []}

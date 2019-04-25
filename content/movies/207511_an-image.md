@@ -1,1 +1,0 @@
-{"tmdb_id": 207511, "title": "An Image", "original_title": "Ein Bild", "slug_title": "an-image", "date": "1983-09-12", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sQ8A74BjJiP14KVUQlRpjgmkMCT.jpg", "actors": [], "comments": [], "recommandations_id": []}

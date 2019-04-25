@@ -1,1 +1,0 @@
-{"tmdb_id": 580218, "title": "Little Hard Knox", "original_title": "Little Hard Knox", "slug_title": "little-hard-knox", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

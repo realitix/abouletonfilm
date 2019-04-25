@@ -1,1 +1,0 @@
-{"tmdb_id": 581324, "title": "The Way Out", "original_title": "The Way Out", "slug_title": "the-way-out", "date": "2018-01-21", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mqHjOusXTYa0lEE02naY7d1tmLA.jpg", "actors": [], "comments": [], "recommandations_id": []}

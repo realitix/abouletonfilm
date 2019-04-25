@@ -1,1 +1,0 @@
-{"tmdb_id": 159524, "title": "GWAR: Blood drive 2002", "original_title": "GWAR: Blood drive 2002", "slug_title": "gwar-blood-drive-2002", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5MKM2NXaoU8CI0DFp5p1afBtMat.jpg", "actors": ["GWAR ()"], "comments": [], "recommandations_id": []}

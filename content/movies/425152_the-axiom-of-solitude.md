@@ -1,1 +1,0 @@
-{"tmdb_id": 425152, "title": "The Axiom of Solitude", "original_title": "The Axiom of Solitude", "slug_title": "the-axiom-of-solitude", "date": "2016-09-01", "genre": "Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yjJUUtmctdFTUxuNhvzB5fOpHJ4.jpg", "actors": [], "comments": [], "recommandations_id": []}

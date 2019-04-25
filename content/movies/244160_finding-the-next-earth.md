@@ -1,1 +1,0 @@
-{"tmdb_id": 244160, "title": "Finding the Next Earth", "original_title": "Finding the Next Earth", "slug_title": "finding-the-next-earth", "date": "2011-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3xN26EWSedoOuVd1POnXDFK6n8N.jpg", "actors": [], "comments": [], "recommandations_id": []}

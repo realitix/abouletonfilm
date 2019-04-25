@@ -1,1 +1,0 @@
-{"tmdb_id": 447391, "title": "Daisetsuzan No Yuusha Kibaou", "original_title": "Daisetsuzan No Yuusha Kibaou", "slug_title": "daisetsuzan-no-yuusha-kibaou", "date": "1987-09-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

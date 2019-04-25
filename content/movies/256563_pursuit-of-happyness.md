@@ -1,1 +1,0 @@
-{"tmdb_id": 256563, "title": "Pursuit of Happyness", "original_title": "Pursuit of Happyness", "slug_title": "pursuit-of-happyness", "date": "2005-07-16", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4c0G3dL6FHK0GmArhHPwKHSirpm.jpg", "actors": [], "comments": [], "recommandations_id": []}

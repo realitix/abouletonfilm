@@ -1,1 +1,0 @@
-{"tmdb_id": 482836, "title": "Untitled Slasher Project", "original_title": "Untitled Slasher Project", "slug_title": "untitled-slasher-project", "date": "2017-12-31", "genre": "Horreur / Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tjENaPuZRswCE9H6xtR8fROgu2m.jpg", "actors": [], "comments": [], "recommandations_id": []}

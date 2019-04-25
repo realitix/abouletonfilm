@@ -1,1 +1,0 @@
-{"tmdb_id": 339409, "title": "Untitled Paul Feig Project", "original_title": "Untitled Paul Feig Project", "slug_title": "untitled-paul-feig-project", "date": "", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

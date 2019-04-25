@@ -1,1 +1,0 @@
-{"tmdb_id": 210268, "title": "Bizarre Dinosaurs", "original_title": "Bizarre Dinosaurs", "slug_title": "bizarre-dinosaurs", "date": "2010-02-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1z9dr6R6nJuukde3pvlveeXDlke.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 471422, "title": "Le Silence", "original_title": "Le Silence", "slug_title": "le-silence", "date": "", "genre": "Fantastique / Drame / Myst\u00e8re", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

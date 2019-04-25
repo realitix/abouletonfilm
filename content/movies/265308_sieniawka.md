@@ -1,1 +1,0 @@
-{"tmdb_id": 265308, "title": "Sieniawka", "original_title": "Sieniawka", "slug_title": "sieniawka", "date": "2013-02-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fg1qnf2dTB2kLxO88lSygqVhw9c.jpg", "actors": [], "comments": [], "recommandations_id": []}

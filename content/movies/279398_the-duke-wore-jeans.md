@@ -1,1 +1,0 @@
-{"tmdb_id": 279398, "title": "The Duke Wore Jeans", "original_title": "The Duke Wore Jeans", "slug_title": "the-duke-wore-jeans", "date": "1958-03-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6dTjK9nCKZ8NjdIgFQsQUSr0puq.jpg", "actors": ["Tommy Steele ()"], "comments": [], "recommandations_id": []}

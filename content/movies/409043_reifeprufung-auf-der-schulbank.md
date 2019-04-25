@@ -1,1 +1,0 @@
-{"tmdb_id": 409043, "title": "Reifepr\u00fcfung auf der Schulbank", "original_title": "Reifepr\u00fcfung auf der Schulbank", "slug_title": "reifeprufung-auf-der-schulbank", "date": "1982-06-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

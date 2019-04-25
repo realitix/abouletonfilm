@@ -1,1 +1,0 @@
-{"tmdb_id": 349764, "title": "\uafc0\ub9db", "original_title": "\uafc0\ub9db", "slug_title": "ggulmas", "date": "1982-11-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 493544, "title": "Jazz Bar Hiroshima", "original_title": "\uc9f8\uc988\ube60 \ud788\ub85c\uc2dc\ub9c8", "slug_title": "jazz-bar-hiroshima", "date": "1992-11-14", "genre": "Romance / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kang Seok-woo (Gun-woo)", "Yum Jung-ah (Sayuri)"], "comments": [], "recommandations_id": []}

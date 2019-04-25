@@ -1,1 +1,0 @@
-{"tmdb_id": 187192, "title": "Aerosmith: Lightning Strikes", "original_title": "Aerosmith: Lightning Strikes", "slug_title": "aerosmith-lightning-strikes", "date": "1988-04-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9D1IDR68F52S4tkwtzSzfjfXIgk.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 163254, "title": "Bardsongs", "original_title": "Bardsongs", "slug_title": "bardsongs", "date": "2010-07-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4N9pravX0YjHTX99pj0LkXmdum8.jpg", "actors": [], "comments": [], "recommandations_id": []}

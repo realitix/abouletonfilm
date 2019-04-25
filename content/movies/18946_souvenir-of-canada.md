@@ -1,1 +1,0 @@
-{"tmdb_id": 18946, "title": "Souvenir of Canada", "original_title": "Souvenir of Canada", "slug_title": "souvenir-of-canada", "date": "2005-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8UJ6vvl5WqHcDkx0DjtUDfk3NSt.jpg", "actors": [], "comments": [], "recommandations_id": []}

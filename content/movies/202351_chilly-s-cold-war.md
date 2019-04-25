@@ -1,1 +1,0 @@
-{"tmdb_id": 202351, "title": "Chilly's Cold War", "original_title": "Chilly's Cold War", "slug_title": "chilly-s-cold-war", "date": "1970-11-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kjwxIQX9woIcEXDiPSCIcb2ddY1.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 475672, "title": "Schule, Schule", "original_title": "Schule, Schule", "slug_title": "schule-schule", "date": "2017-09-21", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qyiWyanfKanncpw1U2a44XlIZfW.jpg", "actors": [], "comments": [], "recommandations_id": []}

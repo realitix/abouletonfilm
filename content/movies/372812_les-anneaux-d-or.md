@@ -1,1 +1,0 @@
-{"tmdb_id": 372812, "title": "Les anneaux d'or", "original_title": "Les anneaux d'or", "slug_title": "les-anneaux-d-or", "date": "1956-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pyk2x6Q3JVHHOlp0ETeR7ZPgU6F.jpg", "actors": [], "comments": [], "recommandations_id": []}

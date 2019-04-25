@@ -1,1 +1,0 @@
-{"tmdb_id": 534260, "title": "Echo Never Goes Out", "original_title": "Echo Never Goes Out", "slug_title": "echo-never-goes-out", "date": "2011-09-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k8B3JmT3FbdULqfC3QiitVmTJK3.jpg", "actors": [], "comments": [], "recommandations_id": []}

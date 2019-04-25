@@ -1,1 +1,0 @@
-{"tmdb_id": 339130, "title": "El sexo en la antiguedad: Grecia y Roma", "original_title": "El sexo en la antiguedad: Grecia y Roma", "slug_title": "el-sexo-en-la-antiguedad-grecia-y-roma", "date": "2009-03-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

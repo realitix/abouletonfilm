@@ -1,1 +1,0 @@
-{"tmdb_id": 165803, "title": "The Warrior Within", "original_title": "The Warrior Within", "slug_title": "the-warrior-within", "date": "1976-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jKGdKwP0CwxJPhWVuLB3iUOcl8H.jpg", "actors": [], "comments": [], "recommandations_id": []}

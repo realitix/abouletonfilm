@@ -1,1 +1,0 @@
-{"tmdb_id": 546259, "title": "Nonnas on the Run", "original_title": "Niente di Serio", "slug_title": "nonnas-on-the-run", "date": "2017-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1b4uilm24ZRmEUH2sv8qHvhB9sR.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 579362, "title": "Dublin Trip", "original_title": "Dublin Trip", "slug_title": "dublin-trip", "date": "2018-05-29", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zN3I9DwpBSKNQlT351RYzlrhtEJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

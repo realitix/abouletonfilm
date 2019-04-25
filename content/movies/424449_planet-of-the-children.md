@@ -1,1 +1,0 @@
-{"tmdb_id": 424449, "title": "Planet of the Children", "original_title": "El planeta de los ni\u00f1os", "slug_title": "planet-of-the-children", "date": "1992-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

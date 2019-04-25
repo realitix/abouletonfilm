@@ -1,1 +1,0 @@
-{"tmdb_id": 316637, "title": "Atrocity", "original_title": "Atrocity", "slug_title": "atrocity", "date": "2014-01-01", "genre": "Horreur", "score": "3.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q0HOHTDGxaL9KuFuBt8aAT12e0R.jpg", "actors": [], "comments": [], "recommandations_id": [14472, 274001, 49960]}

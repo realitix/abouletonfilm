@@ -1,1 +1,0 @@
-{"tmdb_id": 402375, "title": "Deutschland - Terminus Ost", "original_title": "Deutschland - Terminus Ost", "slug_title": "deutschland-terminus-ost", "date": "1965-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 557855, "title": "CamperForce", "original_title": "CamperForce", "slug_title": "camperforce", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

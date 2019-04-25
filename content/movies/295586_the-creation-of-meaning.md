@@ -1,1 +1,0 @@
-{"tmdb_id": 295586, "title": "The Creation of Meaning", "original_title": "La creazione di significato", "slug_title": "the-creation-of-meaning", "date": "2014-09-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/BByuQ90Cba24MNOovR2WHqOgST.jpg", "actors": [], "comments": [], "recommandations_id": []}

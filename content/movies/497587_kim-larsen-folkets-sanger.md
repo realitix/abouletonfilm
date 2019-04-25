@@ -1,1 +1,0 @@
-{"tmdb_id": 497587, "title": "Kim Larsen - folkets sanger", "original_title": "Kim Larsen - folkets sanger", "slug_title": "kim-larsen-folkets-sanger", "date": "2015-10-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uKZG10xBQoRRDCw8NIUdxquGir9.jpg", "actors": [], "comments": [], "recommandations_id": []}

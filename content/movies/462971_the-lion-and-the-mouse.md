@@ -1,1 +1,0 @@
-{"tmdb_id": 462971, "title": "The Lion and the Mouse", "original_title": "The Lion and the Mouse", "slug_title": "the-lion-and-the-mouse", "date": "1976-06-21", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5D4CNmG5w2MJs1EIAvWcaHUI5y.jpg", "actors": [], "comments": [], "recommandations_id": []}

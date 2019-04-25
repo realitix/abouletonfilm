@@ -1,1 +1,0 @@
-{"tmdb_id": 434512, "title": "Betty Boop: Her Wildest Adventures", "original_title": "Betty Boop: Her Wildest Adventures", "slug_title": "betty-boop-her-wildest-adventures", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 565435, "title": "The Fire Monsters", "original_title": "The Fire Monsters", "slug_title": "the-fire-monsters", "date": "1959-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/trGYJOd2Abt5jfS7jxNYuV5pgHU.jpg", "actors": [], "comments": [], "recommandations_id": []}

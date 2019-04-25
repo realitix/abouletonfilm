@@ -1,1 +1,0 @@
-{"tmdb_id": 140149, "title": "Season's Greetings", "original_title": "Season's Greetings", "slug_title": "season-s-greetings", "date": "1996-10-31", "genre": "Horreur", "score": "6.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xux3RSFiYnKmJNszGPFvSAk2wYB.jpg", "actors": [], "comments": [], "recommandations_id": [236972, 48875, 146734, 57220]}

@@ -1,1 +1,0 @@
-{"tmdb_id": 67256, "title": "L'Etranger - 85 days in Font", "original_title": "L'Etranger - 85 days in Font", "slug_title": "l-etranger-85-days-in-font", "date": "2008-07-15", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kbz4I3ppcXUjQxPuGMweGufraBp.jpg", "actors": [], "comments": [], "recommandations_id": []}

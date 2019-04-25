@@ -1,1 +1,0 @@
-{"tmdb_id": 408847, "title": "Dadadada Seventeen", "original_title": "Dadadada Seventeen", "slug_title": "dadadada-seventeen", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

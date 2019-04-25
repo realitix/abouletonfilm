@@ -1,1 +1,0 @@
-{"tmdb_id": 273804, "title": "The Night Shift", "original_title": "The Night Shift", "slug_title": "the-night-shift", "date": "2011-10-25", "genre": "", "score": "1.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 385984, "title": "The Bandit Chaser", "original_title": "The Bandit Chaser", "slug_title": "the-bandit-chaser", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w21nQoG2J8qH09W6QmmeLBm3KCd.jpg", "actors": [], "comments": [], "recommandations_id": []}

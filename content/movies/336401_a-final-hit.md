@@ -1,1 +1,0 @@
-{"tmdb_id": 336401, "title": "A Final Hit", "original_title": "A Final Hit", "slug_title": "a-final-hit", "date": "2015-04-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

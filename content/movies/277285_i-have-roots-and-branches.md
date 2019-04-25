@@ -1,1 +1,0 @@
-{"tmdb_id": 277285, "title": "I Have Roots and Branches", "original_title": "I Have Roots and Branches", "slug_title": "i-have-roots-and-branches", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

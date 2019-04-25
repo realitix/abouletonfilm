@@ -1,1 +1,0 @@
-{"tmdb_id": 120538, "title": "The Wild Duck", "original_title": "The Wild Duck", "slug_title": "the-wild-duck", "date": "1971-03-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f14u2Xr9otmLoXOlC8CmNCikQev.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 243314, "title": "The Redwoods", "original_title": "The Redwoods", "slug_title": "the-redwoods", "date": "1967-01-01", "genre": "Documentaire", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bc0ZAOqEgWkLvxjkcTUDvbs23th.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 289044, "title": "The Troubles of a Merchant and How to Stop Them", "original_title": "The Troubles of a Merchant and How to Stop Them", "slug_title": "the-troubles-of-a-merchant-and-how-to-stop-them", "date": "1917-08-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

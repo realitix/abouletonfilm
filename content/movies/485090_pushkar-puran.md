@@ -1,1 +1,0 @@
-{"tmdb_id": 485090, "title": "Pushkar Puran", "original_title": "Pushkar Puran", "slug_title": "pushkar-puran", "date": "2017-10-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/90pJ8UYw5V0j2SXoHO2JsxeGuoy.jpg", "actors": [], "comments": [], "recommandations_id": []}

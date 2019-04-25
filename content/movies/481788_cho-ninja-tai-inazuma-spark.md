@@ -1,1 +1,0 @@
-{"tmdb_id": 481788, "title": "Cho Ninja Tai Inazuma!! SPARK", "original_title": "Cho Ninja Tai Inazuma!! SPARK", "slug_title": "cho-ninja-tai-inazuma-spark", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

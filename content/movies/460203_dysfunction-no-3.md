@@ -1,1 +1,0 @@
-{"tmdb_id": 460203, "title": "Dysfunction No. 3", "original_title": "Dysfunction No. 3", "slug_title": "dysfunction-no-3", "date": "1983-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 578630, "title": "The Body", "original_title": "The Body", "slug_title": "the-body", "date": "1962-11-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pre3e0cofLLZzLWvbGBApEayxwp.jpg", "actors": ["Michiko Saga (Sakiko)"], "comments": [], "recommandations_id": []}

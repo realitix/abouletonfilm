@@ -1,1 +1,0 @@
-{"tmdb_id": 316649, "title": "Live to Ride: Rolling Thunder", "original_title": "Live to Ride: Rolling Thunder", "slug_title": "live-to-ride-rolling-thunder", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

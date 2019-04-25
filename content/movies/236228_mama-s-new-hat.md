@@ -1,1 +1,0 @@
-{"tmdb_id": 236228, "title": "Mama's New Hat", "original_title": "Mama's New Hat", "slug_title": "mama-s-new-hat", "date": "1939-02-10", "genre": "", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5hWhRUZuGPGHNYg3LTEnLFIa0Fs.jpg", "actors": ["Billy Bletcher (Captain)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 283981, "title": "En pizza i Jordbro", "original_title": "En pizza i Jordbro", "slug_title": "en-pizza-i-jordbro", "date": "1994-09-02", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sX1NggFJrOWX9DCiBBaeLlnNNDa.jpg", "actors": [], "comments": [], "recommandations_id": []}

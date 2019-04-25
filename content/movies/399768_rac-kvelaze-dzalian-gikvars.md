@@ -1,1 +1,0 @@
-{"tmdb_id": 399768, "title": "Rac kvelaze dzalian gikvars", "original_title": "Rac kvelaze dzalian gikvars", "slug_title": "rac-kvelaze-dzalian-gikvars", "date": "2008-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

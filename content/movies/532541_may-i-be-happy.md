@@ -1,1 +1,0 @@
-{"tmdb_id": 532541, "title": "May I Be Happy", "original_title": "May I Be Happy", "slug_title": "may-i-be-happy", "date": "2017-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

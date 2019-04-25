@@ -1,1 +1,0 @@
-{"tmdb_id": 318878, "title": "88 Antop Hill", "original_title": "88 Antop Hill", "slug_title": "88-antop-hill", "date": "2003-06-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

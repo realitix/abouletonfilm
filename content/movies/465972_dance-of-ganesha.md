@@ -1,1 +1,0 @@
-{"tmdb_id": 465972, "title": "Dance of Ganesha", "original_title": "\u0928\u093e\u091a \u0917\u0923\u0947\u0936", "slug_title": "dance-of-ganesha", "date": "2011-08-10", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2VSfrYIdlBBvvy5fRB1TEYdqMiv.jpg", "actors": [], "comments": [], "recommandations_id": []}

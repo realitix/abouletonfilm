@@ -1,1 +1,0 @@
-{"tmdb_id": 290387, "title": "The Lasts", "original_title": "Ukanasknelni", "slug_title": "the-lasts", "date": "2006-04-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pzRfNi5uTWNSfI6jMbVlM8u0C7P.jpg", "actors": [], "comments": [], "recommandations_id": []}

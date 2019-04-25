@@ -1,1 +1,0 @@
-{"tmdb_id": 384976, "title": "Dixon-Chester Leon Contest", "original_title": "Dixon-Chester Leon Contest", "slug_title": "dixon-chester-leon-contest", "date": "1906-04-24", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

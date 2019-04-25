@@ -1,1 +1,0 @@
-{"tmdb_id": 521519, "title": "Gangsta Grrlz", "original_title": "Gangsta Grrlz", "slug_title": "gangsta-grrlz", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kPSFPtpo2QB3dCQNGxJYTOPwvxp.jpg", "actors": [], "comments": [], "recommandations_id": []}

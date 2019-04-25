@@ -1,1 +1,0 @@
-{"tmdb_id": 232607, "title": "Life in the Universe", "original_title": "Life in the Universe", "slug_title": "life-in-the-universe", "date": "2013-11-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

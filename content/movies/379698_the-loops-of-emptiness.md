@@ -1,1 +1,0 @@
-{"tmdb_id": 379698, "title": "The Loops of Emptiness", "original_title": "The Loops of Emptiness", "slug_title": "the-loops-of-emptiness", "date": "2015-01-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cZ6KQOQ9fJpKf8sW8aWKHeQiTa5.jpg", "actors": [], "comments": [], "recommandations_id": []}

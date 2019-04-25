@@ -1,1 +1,0 @@
-{"tmdb_id": 230658, "title": "Scalp Trouble", "original_title": "Scalp Trouble", "slug_title": "scalp-trouble", "date": "1939-06-23", "genre": "Animation / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xJK2TYDq2qIqz99JyzTkVSYWZjj.jpg", "actors": [], "comments": [], "recommandations_id": []}

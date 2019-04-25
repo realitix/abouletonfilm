@@ -1,1 +1,0 @@
-{"tmdb_id": 284369, "title": "Homes Apart: Korea", "original_title": "Homes Apart: Korea", "slug_title": "homes-apart-korea", "date": "1991-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

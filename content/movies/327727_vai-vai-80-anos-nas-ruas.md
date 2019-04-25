@@ -1,1 +1,0 @@
-{"tmdb_id": 327727, "title": "Vai Vai - 80 Anos nas Ruas", "original_title": "Vai Vai - 80 Anos nas Ruas", "slug_title": "vai-vai-80-anos-nas-ruas", "date": "2015-02-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/79zWDMlFU72pGJnl8QV1v3g3Xou.jpg", "actors": [], "comments": [], "recommandations_id": []}

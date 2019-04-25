@@ -1,1 +1,0 @@
-{"tmdb_id": 107187, "title": "Nightman", "original_title": "Nightman", "slug_title": "nightman", "date": "1997-11-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6DdYpI9NKFdnrW8W6VPKMsIYtq4.jpg", "actors": [], "comments": [], "recommandations_id": []}

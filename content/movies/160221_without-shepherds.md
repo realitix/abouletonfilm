@@ -1,1 +1,0 @@
-{"tmdb_id": 160221, "title": "Without Shepherds", "original_title": "Without Shepherds", "slug_title": "without-shepherds", "date": "2013-01-20", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rzv6XUyisBxHxBT9HQLCnFnzpO.jpg", "actors": [], "comments": [], "recommandations_id": []}

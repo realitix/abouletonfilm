@@ -1,1 +1,0 @@
-{"tmdb_id": 184601, "title": "Baby Be Good", "original_title": "Baby Be Good", "slug_title": "baby-be-good", "date": "1935-01-17", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7UGiEJYYmo4i0kUfjL6Zek3KlOo.jpg", "actors": [], "comments": [], "recommandations_id": [62937, 40457]}

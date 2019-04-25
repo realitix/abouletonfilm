@@ -1,1 +1,0 @@
-{"tmdb_id": 136519, "title": "Chile: Hasta Cuando?", "original_title": "Chile: Hasta Cuando?", "slug_title": "chile-hasta-cuando", "date": "1986-12-31", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lfZ1M1fmltSRUhlGZsFtkJlyNnS.jpg", "actors": [], "comments": [], "recommandations_id": []}

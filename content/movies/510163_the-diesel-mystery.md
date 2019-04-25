@@ -1,1 +1,0 @@
-{"tmdb_id": 510163, "title": "The Diesel Mystery", "original_title": "The Diesel Mystery", "slug_title": "the-diesel-mystery", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mQogD5ksjI61WdR4SNnMXfGUxX1.jpg", "actors": [], "comments": [], "recommandations_id": []}

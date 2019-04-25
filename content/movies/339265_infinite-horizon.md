@@ -1,1 +1,0 @@
-{"tmdb_id": 339265, "title": "Infinite Horizon", "original_title": "Infinite Horizon", "slug_title": "infinite-horizon", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

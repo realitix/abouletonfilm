@@ -1,1 +1,0 @@
-{"tmdb_id": 585524, "title": "Cena plastike", "original_title": "Cena plastike", "slug_title": "cena-plastike", "date": "2019-02-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

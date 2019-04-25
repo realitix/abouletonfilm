@@ -1,1 +1,0 @@
-{"tmdb_id": 312495, "title": "The Flaming Lips: Christmas On Mars", "original_title": "The Flaming Lips: Christmas On Mars", "slug_title": "the-flaming-lips-christmas-on-mars", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 39685, "title": "Ana Carolina - Estampado", "original_title": "Ana Carolina - Estampado", "slug_title": "ana-carolina-estampado", "date": "2003-01-01", "genre": "Musique", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uA1F05TWZMKNQsWdZo4w7LAsfFM.jpg", "actors": [], "comments": [], "recommandations_id": []}

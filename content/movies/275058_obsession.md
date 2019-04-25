@@ -1,1 +1,0 @@
-{"tmdb_id": 275058, "title": "Obsession", "original_title": "Obsession", "slug_title": "obsession", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8CR6MDbJsR2cyfeJ2hcAIdW4YaA.jpg", "actors": ["Mohamed Ali Nahdi (Hedi)"], "comments": [], "recommandations_id": []}

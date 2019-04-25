@@ -1,1 +1,0 @@
-{"tmdb_id": 589441, "title": "Saddle Sores", "original_title": "Saddle Sores", "slug_title": "saddle-sores", "date": "1998-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

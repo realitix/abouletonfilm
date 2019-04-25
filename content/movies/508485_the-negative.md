@@ -1,1 +1,0 @@
-{"tmdb_id": 508485, "title": "The Negative", "original_title": "The Negative", "slug_title": "the-negative", "date": "", "genre": "Horreur", "score": "2.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

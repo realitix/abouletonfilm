@@ -1,1 +1,0 @@
-{"tmdb_id": 311519, "title": "The Beautiful Century", "original_title": "The Beautiful Century", "slug_title": "the-beautiful-century", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

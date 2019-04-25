@@ -1,1 +1,0 @@
-{"tmdb_id": 584143, "title": "Rebellion for Love", "original_title": "Un Amor en Rebeld\u00eda", "slug_title": "rebellion-for-love", "date": "2019-02-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/97472kdt4TtQRkzjyCPEWj5sUeu.jpg", "actors": [], "comments": [], "recommandations_id": []}

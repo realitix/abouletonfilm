@@ -1,1 +1,0 @@
-{"tmdb_id": 362211, "title": "Smiling Girl", "original_title": "Smiling Girl", "slug_title": "smiling-girl", "date": "2013-08-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

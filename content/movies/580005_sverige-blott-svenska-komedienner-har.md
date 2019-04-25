@@ -1,1 +1,0 @@
-{"tmdb_id": 580005, "title": "Sverige blott svenska komedienner har", "original_title": "Sverige blott svenska komedienner har", "slug_title": "sverige-blott-svenska-komedienner-har", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

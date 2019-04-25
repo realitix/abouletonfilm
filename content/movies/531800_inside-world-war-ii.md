@@ -1,1 +1,0 @@
-{"tmdb_id": 531800, "title": "Inside World War II", "original_title": "Inside World War II", "slug_title": "inside-world-war-ii", "date": "2012-08-12", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u334yoFfsZ3uq8VN2oEHC37pGRr.jpg", "actors": [], "comments": [], "recommandations_id": []}

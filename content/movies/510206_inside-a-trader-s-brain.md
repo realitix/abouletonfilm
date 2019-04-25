@@ -1,1 +1,0 @@
-{"tmdb_id": 510206, "title": "Inside A Trader's Brain", "original_title": "Inside A Trader's Brain", "slug_title": "inside-a-trader-s-brain", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zmybcMKZtFGM8ne1ZjpRXRIz3LC.jpg", "actors": [], "comments": [], "recommandations_id": []}

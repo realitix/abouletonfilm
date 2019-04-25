@@ -1,1 +1,0 @@
-{"tmdb_id": 564008, "title": "MTV Pilates Mix", "original_title": "MTV Pilates Mix", "slug_title": "mtv-pilates-mix", "date": "2004-12-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8Iq9HxYzWChQjw1dEhSN7iKd2hP.jpg", "actors": ["Kristin McGee (Kristin McGee)"], "comments": [], "recommandations_id": []}

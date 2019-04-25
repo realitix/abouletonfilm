@@ -1,1 +1,0 @@
-{"tmdb_id": 565693, "title": "Goran the Camel Man", "original_title": "Goran the Camel Man", "slug_title": "goran-the-camel-man", "date": "2016-10-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

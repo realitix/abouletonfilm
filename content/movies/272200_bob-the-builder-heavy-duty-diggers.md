@@ -1,1 +1,0 @@
-{"tmdb_id": 272200, "title": "Bob the Builder: Heavy Duty Diggers", "original_title": "Bob the Builder: Heavy Duty Diggers", "slug_title": "bob-the-builder-heavy-duty-diggers", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

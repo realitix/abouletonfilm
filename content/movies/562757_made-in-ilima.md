@@ -1,1 +1,0 @@
-{"tmdb_id": 562757, "title": "Made in Ilima", "original_title": "Made in Ilima", "slug_title": "made-in-ilima", "date": "2017-11-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

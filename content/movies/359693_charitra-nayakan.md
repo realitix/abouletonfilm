@@ -1,1 +1,0 @@
-{"tmdb_id": 359693, "title": "Charitra Nayakan", "original_title": "Charitra Nayakan", "slug_title": "charitra-nayakan", "date": "", "genre": "", "score": "9.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sivaji Ganesan ()", "Prabhu Ganesan ()", "M. N. Nambiar ()", "Radha ()"], "comments": [], "recommandations_id": []}

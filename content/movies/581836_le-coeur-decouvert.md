@@ -1,1 +1,0 @@
-{"tmdb_id": 581836, "title": "Le coeur d\u00e9couvert", "original_title": "Le coeur d\u00e9couvert", "slug_title": "le-coeur-decouvert", "date": "1986-09-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 304658, "title": "Avishkaar", "original_title": "Avishkaar", "slug_title": "avishkaar", "date": "1974-09-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yT0CpekWZep2EzO5L9uAT7Pnpc3.jpg", "actors": ["Rajesh Khanna ()", "Sharmila Tagore ()", "Dina Pathak ()"], "comments": [], "recommandations_id": []}

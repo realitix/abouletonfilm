@@ -1,1 +1,0 @@
-{"tmdb_id": 458952, "title": "UEFA Europa League Final : Ajax Vs Man UTD", "original_title": "UEFA Europa League Final : Ajax Vs Man UTD", "slug_title": "uefa-europa-league-final-ajax-vs-man-utd", "date": "2017-05-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

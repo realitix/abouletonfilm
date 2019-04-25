@@ -1,1 +1,0 @@
-{"tmdb_id": 316162, "title": "Kachcha Chor", "original_title": "Kachcha Chor", "slug_title": "kachcha-chor", "date": "1977-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

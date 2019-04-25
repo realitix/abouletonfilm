@@ -1,1 +1,0 @@
-{"tmdb_id": 409658, "title": "Monstre", "original_title": "Monstre", "slug_title": "monstre", "date": "2014-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oyM8S95n2uwVw7RSQKq3nG66JBm.jpg", "actors": [], "comments": [], "recommandations_id": []}

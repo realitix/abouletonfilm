@@ -1,1 +1,0 @@
-{"tmdb_id": 527949, "title": "Gypsy and Death", "original_title": "Gypsy and Death", "slug_title": "gypsy-and-death", "date": "2009-01-28", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ioIlrqjelqkyBBMmvGaSmfOj7Pn.jpg", "actors": [], "comments": [], "recommandations_id": []}

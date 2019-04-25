@@ -1,1 +1,0 @@
-{"tmdb_id": 558917, "title": "Velk\u00fd p\u0159\u00edpad", "original_title": "Velk\u00fd p\u0159\u00edpad", "slug_title": "velky-pripad", "date": "2000-01-02", "genre": "Drame / Crime / T\u00e9l\u00e9film", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

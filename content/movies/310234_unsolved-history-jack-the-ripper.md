@@ -1,1 +1,0 @@
-{"tmdb_id": 310234, "title": "Unsolved History: Jack the Ripper", "original_title": "Unsolved History: Jack the Ripper", "slug_title": "unsolved-history-jack-the-ripper", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 293512, "title": "Reverberation", "original_title": "Reverberation", "slug_title": "reverberation", "date": "1969-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hG2iHHV40eo7iae1ZUPKDBzpEw6.jpg", "actors": ["Andrew Noren ()"], "comments": [], "recommandations_id": []}

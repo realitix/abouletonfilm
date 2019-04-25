@@ -1,1 +1,0 @@
-{"tmdb_id": 153863, "title": "Opeth: Still Life", "original_title": "Opeth: Still Life", "slug_title": "opeth-still-life", "date": "1999-10-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2IU3MyqeCp6iggTX8vFHRfEfP71.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 317743, "title": "La La La Human Sex Duo No. 1", "original_title": "La La La Human Sex Duo No. 1", "slug_title": "la-la-la-human-sex-duo-no-1", "date": "1987-01-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

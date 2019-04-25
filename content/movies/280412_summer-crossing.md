@@ -1,1 +1,0 @@
-{"tmdb_id": 280412, "title": "Summer Crossing", "original_title": "Summer Crossing", "slug_title": "summer-crossing", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [457232, 424853, 76545]}

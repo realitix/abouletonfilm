@@ -1,1 +1,0 @@
-{"tmdb_id": 370183, "title": "A Man's World", "original_title": "A Man's World", "slug_title": "a-man-s-world", "date": "2020-12-31", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

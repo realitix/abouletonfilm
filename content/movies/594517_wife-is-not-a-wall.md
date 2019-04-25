@@ -1,1 +1,0 @@
-{"tmdb_id": 594517, "title": "Wife is Not A Wall", "original_title": "Wife is Not A Wall", "slug_title": "wife-is-not-a-wall", "date": "2018-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

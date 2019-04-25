@@ -1,1 +1,0 @@
-{"tmdb_id": 520886, "title": "The Dark Horse", "original_title": "The Dark Horse", "slug_title": "the-dark-horse", "date": "2008-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

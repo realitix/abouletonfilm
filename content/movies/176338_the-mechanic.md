@@ -1,1 +1,0 @@
-{"tmdb_id": 176338, "title": "The Mechanic", "original_title": "The Mechanic", "slug_title": "the-mechanic", "date": "1924-04-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jimmy Aubrey ()"], "comments": [], "recommandations_id": []}

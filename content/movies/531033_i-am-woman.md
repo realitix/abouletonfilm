@@ -1,1 +1,0 @@
-{"tmdb_id": 531033, "title": "I Am Woman", "original_title": "I Am Woman", "slug_title": "i-am-woman", "date": "", "genre": "Drame / Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tilda Cobham-Hervey (Helen Reddy)", "Danielle Macdonald (Lillian Roxon)", "Evan Peters (Jeff Wald)"], "comments": [], "recommandations_id": []}

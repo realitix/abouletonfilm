@@ -1,1 +1,0 @@
-{"tmdb_id": 282256, "title": "Goldfish", "original_title": "Goldfish", "slug_title": "goldfish", "date": "2008-04-01", "genre": "", "score": "6.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2AHiGfPgZUuDr17EYSrkWdgBJDy.jpg", "actors": ["Michael Fassbender (Christian)", "Caroline Carver (Claire)"], "comments": [], "recommandations_id": []}

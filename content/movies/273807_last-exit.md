@@ -1,1 +1,0 @@
-{"tmdb_id": 273807, "title": "Last Exit", "original_title": "Last Exit", "slug_title": "last-exit", "date": "2003-10-11", "genre": "Crime / Drame / Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aT9Cvozk1aWhnCfnJT7bD8RApqT.jpg", "actors": [], "comments": [], "recommandations_id": []}

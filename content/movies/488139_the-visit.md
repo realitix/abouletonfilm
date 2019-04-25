@@ -1,1 +1,0 @@
-{"tmdb_id": 488139, "title": "The Visit", "original_title": "The Visit", "slug_title": "the-visit", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 195734, "title": "Kansas Saloon Smashers", "original_title": "Kansas Saloon Smashers", "slug_title": "kansas-saloon-smashers", "date": "1901-03-16", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5xS7Z2muNtDzfDiwZU2NshO3CTc.jpg", "actors": [], "comments": [], "recommandations_id": []}

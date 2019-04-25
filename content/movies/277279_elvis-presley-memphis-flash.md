@@ -1,1 +1,0 @@
-{"tmdb_id": 277279, "title": "Elvis Presley: Memphis Flash", "original_title": "Elvis Presley: Memphis Flash", "slug_title": "elvis-presley-memphis-flash", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

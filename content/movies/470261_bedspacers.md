@@ -1,1 +1,0 @@
-{"tmdb_id": 470261, "title": "Bedspacers", "original_title": "Bedspacers", "slug_title": "bedspacers", "date": "1979-11-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

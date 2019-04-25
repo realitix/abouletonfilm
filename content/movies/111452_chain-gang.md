@@ -1,1 +1,0 @@
-{"tmdb_id": 111452, "title": "Chain Gang", "original_title": "Chain Gang", "slug_title": "chain-gang", "date": "1984-06-01", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nMjmOJEQ75nO5Y6XDwvQcNP0BOP.jpg", "actors": ["Earl Owensby (Mac McPherson)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 253646, "title": "Saeed & Palash: Miami", "original_title": "Saeed & Palash: Miami", "slug_title": "saeed-palash-miami", "date": "2001-03-25", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hlxEk0yxL0REcb9Hpo3yoIEdusR.jpg", "actors": [], "comments": [], "recommandations_id": []}

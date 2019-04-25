@@ -1,1 +1,0 @@
-{"tmdb_id": 344139, "title": "Ford Nation Folk Speak", "original_title": "Ford Nation Folk Speak", "slug_title": "ford-nation-folk-speak", "date": "2014-10-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

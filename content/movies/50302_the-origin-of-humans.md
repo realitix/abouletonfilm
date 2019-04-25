@@ -1,1 +1,0 @@
-{"tmdb_id": 50302, "title": "The Origin of Humans", "original_title": "The Origin of Humans", "slug_title": "the-origin-of-humans", "date": "2004-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bUgTsNwsUi4Lb5lkAeIH9YjdpiN.jpg", "actors": [], "comments": [], "recommandations_id": []}

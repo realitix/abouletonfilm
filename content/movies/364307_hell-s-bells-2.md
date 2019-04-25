@@ -1,1 +1,0 @@
-{"tmdb_id": 364307, "title": "Hell's Bells 2", "original_title": "Hell's Bells 2", "slug_title": "hell-s-bells-2", "date": "2004-06-27", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oB46XghxA7S8mzCM5ZBSpa6e0UX.jpg", "actors": ["Eric Holmberg ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 372264, "title": "Bob James: Live at Montreux", "original_title": "Bob James: Live at Montreux", "slug_title": "bob-james-live-at-montreux", "date": "2005-12-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cqwJuLVVQNc9S7lbg0nhY4leyTQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

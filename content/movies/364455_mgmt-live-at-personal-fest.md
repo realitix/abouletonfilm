@@ -1,1 +1,0 @@
-{"tmdb_id": 364455, "title": "MGMT Live at Personal Fest", "original_title": "MGMT Live at Personal Fest", "slug_title": "mgmt-live-at-personal-fest", "date": "2014-11-09", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eICEf4TFT5lQjZy3dEqikE7Svdh.jpg", "actors": [], "comments": [], "recommandations_id": []}

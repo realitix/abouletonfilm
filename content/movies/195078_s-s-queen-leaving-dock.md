@@ -1,1 +1,0 @@
-{"tmdb_id": 195078, "title": "S.S. 'Queen' Leaving Dock", "original_title": "S.S. 'Queen' Leaving Dock", "slug_title": "s-s-queen-leaving-dock", "date": "1897-10-20", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

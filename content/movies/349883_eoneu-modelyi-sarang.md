@@ -1,1 +1,0 @@
-{"tmdb_id": 349883, "title": "\uc5b4\ub290 \ubaa8\ub378\uc758 \uc0ac\ub791", "original_title": "\uc5b4\ub290 \ubaa8\ub378\uc758 \uc0ac\ub791", "slug_title": "eoneu-modelyi-sarang", "date": "1990-07-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

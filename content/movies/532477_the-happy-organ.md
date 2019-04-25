@@ -1,1 +1,0 @@
-{"tmdb_id": 532477, "title": "The Happy Organ", "original_title": "The Happy Organ", "slug_title": "the-happy-organ", "date": "1971-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

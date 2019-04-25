@@ -1,1 +1,0 @@
-{"tmdb_id": 575308, "title": "L'\u00e9trang\u00e8re", "original_title": "L'\u00e9trang\u00e8re", "slug_title": "l-etrangere", "date": "2007-01-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oKqqcHoGC0qKfLw1rvz6kn90Yy6.jpg", "actors": [], "comments": [], "recommandations_id": []}

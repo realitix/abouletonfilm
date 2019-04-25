@@ -1,1 +1,0 @@
-{"tmdb_id": 393054, "title": "The Inheritance of War", "original_title": "The Inheritance of War", "slug_title": "the-inheritance-of-war", "date": "2009-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tbauhPqy4M0H5JVoGXPvsEL93ni.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 342308, "title": "Het Zoemende Ei", "original_title": "Het Zoemende Ei", "slug_title": "het-zoemende-ei", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zA5xCefK6KTb6kyvkTn0pSXKGNF.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 514884, "title": "Heldensage", "original_title": "Heldensage", "slug_title": "heldensage", "date": "1985-11-29", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6fjHyAXn1AwD5ijYbdvKijfzZFu.jpg", "actors": [], "comments": [], "recommandations_id": []}

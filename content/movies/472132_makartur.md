@@ -1,1 +1,0 @@
-{"tmdb_id": 472132, "title": "Makartur", "original_title": "Makartur", "slug_title": "makartur", "date": "2017-08-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sLyvJfc2hCd7fSPPfdBGuRlumwa.jpg", "actors": ["TJ Zabala-Antipolo ()", "Jaynie Shell Valenzuela ()"], "comments": [], "recommandations_id": []}

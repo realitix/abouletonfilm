@@ -1,1 +1,0 @@
-{"tmdb_id": 476109, "title": "Starvation Blues", "original_title": "Starvation Blues", "slug_title": "starvation-blues", "date": "1925-12-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Clyde Cook ()"], "comments": [], "recommandations_id": []}

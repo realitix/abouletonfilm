@@ -1,1 +1,0 @@
-{"tmdb_id": 499829, "title": "My Only Idol is Reality", "original_title": "My Only Idol is Reality", "slug_title": "my-only-idol-is-reality", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

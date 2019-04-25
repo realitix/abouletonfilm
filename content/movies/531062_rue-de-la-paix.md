@@ -1,1 +1,0 @@
-{"tmdb_id": 531062, "title": "Rue de la Paix", "original_title": "Rue de la Paix", "slug_title": "rue-de-la-paix", "date": "1927-10-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Andr\u00e9e Lafayette (Th\u00e9r\u00e8se)", "Suzy Pierson (Mady)", "Malcolm Tod (Laurent Baudry)"], "comments": [], "recommandations_id": []}

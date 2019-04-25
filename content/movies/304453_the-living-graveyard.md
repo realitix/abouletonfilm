@@ -1,1 +1,0 @@
-{"tmdb_id": 304453, "title": "The Living Graveyard", "original_title": "The Living Graveyard", "slug_title": "the-living-graveyard", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

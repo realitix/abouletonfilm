@@ -1,1 +1,0 @@
-{"tmdb_id": 488032, "title": "The Black Box Murders", "original_title": "The Black Box Murders", "slug_title": "the-black-box-murders", "date": "1975-01-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

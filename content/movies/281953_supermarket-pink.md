@@ -1,1 +1,0 @@
-{"tmdb_id": 281953, "title": "Supermarket Pink", "original_title": "Supermarket Pink", "slug_title": "supermarket-pink", "date": "1980-02-01", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6qfbbLolfFpVkX3u3VrcfNmEOiG.jpg", "actors": [], "comments": [], "recommandations_id": []}

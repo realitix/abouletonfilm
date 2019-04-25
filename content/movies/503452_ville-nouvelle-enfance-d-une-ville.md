@@ -1,1 +1,0 @@
-{"tmdb_id": 503452, "title": "Ville nouvelle: Enfance d'une ville", "original_title": "Ville nouvelle: Enfance d'une ville", "slug_title": "ville-nouvelle-enfance-d-une-ville", "date": "1975-02-06", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

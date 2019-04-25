@@ -1,1 +1,0 @@
-{"tmdb_id": 525936, "title": "The Crude Oasis", "original_title": "The Crude Oasis", "slug_title": "the-crude-oasis", "date": "1995-07-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

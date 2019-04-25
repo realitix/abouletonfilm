@@ -1,1 +1,0 @@
-{"tmdb_id": 302924, "title": "Chicks, Man", "original_title": "Chicks, Man", "slug_title": "chicks-man", "date": "2014-03-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

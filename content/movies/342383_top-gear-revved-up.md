@@ -1,1 +1,0 @@
-{"tmdb_id": 342383, "title": "Top Gear: Revved Up", "original_title": "Top Gear: Revved Up", "slug_title": "top-gear-revved-up", "date": "2005-06-06", "genre": "", "score": "9.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2HrGmOnlUvaQ4LCuPcXJ3mLGrJx.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 378150, "title": "Transformers: The Premake", "original_title": "TR@N$F0RM3R$: The Premake", "slug_title": "transformers-the-premake", "date": "2014-06-16", "genre": "", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/34jQdK2XUJtWMcyo4XcIqbloUHC.jpg", "actors": [], "comments": [], "recommandations_id": []}

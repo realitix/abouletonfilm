@@ -1,1 +1,0 @@
-{"tmdb_id": 316424, "title": "Zumba Fitness: Sculpt and Tone", "original_title": "Zumba Fitness: Sculpt and Tone", "slug_title": "zumba-fitness-sculpt-and-tone", "date": "2008-03-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/89AbLlxCxyxpF1WManoTFF8agjG.jpg", "actors": [], "comments": [], "recommandations_id": []}

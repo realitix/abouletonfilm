@@ -1,1 +1,0 @@
-{"tmdb_id": 196211, "title": "The Hairdresser", "original_title": "La coiffeuse", "slug_title": "the-hairdresser", "date": "1905-05-22", "genre": "", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w937j9td00J9sQGisQY7enXU5xH.jpg", "actors": [], "comments": [], "recommandations_id": []}

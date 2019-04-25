@@ -1,1 +1,0 @@
-{"tmdb_id": 251984, "title": "Stockholm: Pride of Sweden", "original_title": "Stockholm: Pride of Sweden", "slug_title": "stockholm-pride-of-sweden", "date": "1937-10-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["James A. FitzPatrick (Narrator (voice))"], "comments": [], "recommandations_id": []}

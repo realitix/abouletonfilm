@@ -1,1 +1,0 @@
-{"tmdb_id": 503387, "title": "Voci d'Europa", "original_title": "Voci d'Europa", "slug_title": "voci-d-europa", "date": "1989-02-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

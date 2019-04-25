@@ -1,1 +1,0 @@
-{"tmdb_id": 310245, "title": "All Tropical Hits", "original_title": "All Tropical Hits", "slug_title": "all-tropical-hits", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jos\u00e9 Feliciano (Himself)", "Monchy (Himself)", "Alexandra Cabrera (Herself)"], "comments": [], "recommandations_id": []}

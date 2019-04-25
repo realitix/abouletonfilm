@@ -1,1 +1,0 @@
-{"tmdb_id": 399748, "title": "A Thing Called Love", "original_title": "A Thing Called Love", "slug_title": "a-thing-called-love", "date": "2015-10-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aQDOIHp2V4eG2CuZ5Bxula6KStP.jpg", "actors": [], "comments": [], "recommandations_id": []}

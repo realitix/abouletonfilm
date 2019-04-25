@@ -1,1 +1,0 @@
-{"tmdb_id": 424247, "title": "Benson Henderson: Rising Up", "original_title": "Benson Henderson: Rising Up", "slug_title": "benson-henderson-rising-up", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lP7HFRt7l5hmWaU9hKlKmXAdqcU.jpg", "actors": [], "comments": [], "recommandations_id": []}

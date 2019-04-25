@@ -1,1 +1,0 @@
-{"tmdb_id": 189309, "title": "To er mundo \u00e9... mejo!", "original_title": "To er mundo \u00e9... mejo!", "slug_title": "to-er-mundo-e-mejo", "date": "1982-06-03", "genre": "", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xVVwYzXXoBMqP5DhiLnABWMnw4Z.jpg", "actors": [], "comments": [], "recommandations_id": []}

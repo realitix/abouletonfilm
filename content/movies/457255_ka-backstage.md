@@ -1,1 +1,0 @@
-{"tmdb_id": 457255, "title": "K\u00c0 Backstage", "original_title": "K\u00c0 Backstage", "slug_title": "ka-backstage", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

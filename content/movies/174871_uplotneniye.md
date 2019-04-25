@@ -1,1 +1,0 @@
-{"tmdb_id": 174871, "title": "Uplotneniye", "original_title": "\u0423\u043f\u043b\u043e\u0442\u043d\u0435\u043d\u0438\u0435", "slug_title": "uplotneniye", "date": "1918-11-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v22aXzwX15wx1rwhuzBk3Vam1ZT.jpg", "actors": [], "comments": [], "recommandations_id": []}

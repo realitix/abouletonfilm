@@ -1,1 +1,0 @@
-{"tmdb_id": 62539, "title": "Panda vai \u00e0 escola 3", "original_title": "Panda vai \u00e0 escola 3", "slug_title": "panda-vai-a-escola-3", "date": "2010-11-26", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1Ceuv30N6EsQMGQ39nHNxN2Rq7U.jpg", "actors": [], "comments": [], "recommandations_id": []}

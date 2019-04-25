@@ -1,1 +1,0 @@
-{"tmdb_id": 313854, "title": "Platinum Comedy Series: Vol. 5: Drew Carey", "original_title": "Platinum Comedy Series: Vol. 5: Drew Carey", "slug_title": "platinum-comedy-series-vol-5-drew-carey", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

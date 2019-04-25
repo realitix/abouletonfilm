@@ -1,1 +1,0 @@
-{"tmdb_id": 326412, "title": "The Substance: Albert Hoffman's LSD", "original_title": "The Substance: Albert Hoffman's LSD", "slug_title": "the-substance-albert-hoffman-s-lsd", "date": "2013-08-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

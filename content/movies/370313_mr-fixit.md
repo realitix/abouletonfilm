@@ -1,1 +1,0 @@
-{"tmdb_id": 370313, "title": "Mr. Fixit", "original_title": "Mr. Fixit", "slug_title": "mr-fixit", "date": "1912-11-18", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mack Sennett (suitor)", "Mabel Normand (Mabel)", "Fred Mace (friend)", "Ford Sterling ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 62443, "title": "Talking Cock the Movie", "original_title": "Talking Cock the Movie", "slug_title": "talking-cock-the-movie", "date": "2002-05-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j0zWI1lq8prV6HuwZfZwR6VD8wa.jpg", "actors": [], "comments": [], "recommandations_id": []}

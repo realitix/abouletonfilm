@@ -1,1 +1,0 @@
-{"tmdb_id": 474909, "title": "A Cosmic Demonstration of Sexuality", "original_title": "A Cosmic Demonstration of Sexuality", "slug_title": "a-cosmic-demonstration-of-sexuality", "date": "1992-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

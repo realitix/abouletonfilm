@@ -1,1 +1,0 @@
-{"tmdb_id": 429689, "title": "Reproductions", "original_title": "Reproductions", "slug_title": "reproductions", "date": "1968-12-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2tPctFc9Ob6cl2XlkQBvn19KSmY.jpg", "actors": [], "comments": [], "recommandations_id": []}

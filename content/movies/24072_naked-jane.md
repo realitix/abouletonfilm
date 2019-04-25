@@ -1,1 +1,0 @@
-{"tmdb_id": 24072, "title": "Naked Jane", "original_title": "Naked Jane", "slug_title": "naked-jane", "date": "1995-01-01", "genre": "Drame / Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lYgvC99nMSFIbgT89Bd8jqnRKnI.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 444621, "title": "Glenn Wakes Up", "original_title": "Glenn Wakes Up", "slug_title": "glenn-wakes-up", "date": "1950-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Arden Booth (Narrator)"], "comments": [], "recommandations_id": []}

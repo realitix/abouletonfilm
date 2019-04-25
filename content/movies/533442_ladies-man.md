@@ -1,1 +1,0 @@
-{"tmdb_id": 533442, "title": "Ladies Man", "original_title": "L'homme \u00e0 femmes", "slug_title": "ladies-man", "date": "1960-11-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hnyyTq2d0o1MTEW6cLsxde7cmV7.jpg", "actors": [], "comments": [], "recommandations_id": []}

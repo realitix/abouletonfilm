@@ -1,1 +1,0 @@
-{"tmdb_id": 569935, "title": "The Taxi Bus", "original_title": "\u041c\u0430\u0440\u0448\u0440\u0443\u0442\u043a\u0430", "slug_title": "the-taxi-bus", "date": "2018-03-15", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8FJ0kIZD9rL7ACDiGlxEyE60wyi.jpg", "actors": [], "comments": [], "recommandations_id": []}

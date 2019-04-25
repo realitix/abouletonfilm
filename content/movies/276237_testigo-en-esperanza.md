@@ -1,1 +1,0 @@
-{"tmdb_id": 276237, "title": "Testigo en Esperanza", "original_title": "Testigo en Esperanza", "slug_title": "testigo-en-esperanza", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

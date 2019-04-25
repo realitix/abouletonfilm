@@ -1,1 +1,0 @@
-{"tmdb_id": 236932, "title": "Lulu Gets the Birdie", "original_title": "Lulu Gets the Birdie", "slug_title": "lulu-gets-the-birdie", "date": "1944-03-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

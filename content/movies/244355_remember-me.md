@@ -1,1 +1,0 @@
-{"tmdb_id": 244355, "title": "Remember Me", "original_title": "Remember Me", "slug_title": "remember-me", "date": "1979-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dick Cavett (Narrator)"], "comments": [], "recommandations_id": []}

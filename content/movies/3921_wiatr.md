@@ -1,1 +1,0 @@
-{"tmdb_id": 3921, "title": "Wiatr", "original_title": "Wiatr", "slug_title": "wiatr", "date": "1987-10-05", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ma\u0142gorzata Potocka (Mother)", "Jan Hencz (Housband)", "Piotr Rudzi\u0144ski (Yung man)"], "comments": [], "recommandations_id": []}

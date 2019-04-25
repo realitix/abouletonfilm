@@ -1,1 +1,0 @@
-{"tmdb_id": 344436, "title": "What! No Spinach?", "original_title": "What! No Spinach?", "slug_title": "what-no-spinach", "date": "1926-08-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Alyce Ardell ()", "Marjorie Beebe ()", "Gale Henry ()", "Harry Martell ()", "Harry Sweet ()"], "comments": [], "recommandations_id": []}

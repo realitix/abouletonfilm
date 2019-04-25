@@ -1,1 +1,0 @@
-{"tmdb_id": 350401, "title": "\ub0b4\uc77c \ub610 \ub0b4\uc77c", "original_title": "\ub0b4\uc77c \ub610 \ub0b4\uc77c", "slug_title": "naeil-ddo-naeil", "date": "1979-03-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

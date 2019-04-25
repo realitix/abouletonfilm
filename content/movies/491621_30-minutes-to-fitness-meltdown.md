@@ -1,1 +1,0 @@
-{"tmdb_id": 491621, "title": "30 Minutes to Fitness Meltdown", "original_title": "30 Minutes to Fitness Meltdown", "slug_title": "30-minutes-to-fitness-meltdown", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/c5HPKRfX4jlkMpVpW8cy710Rtst.jpg", "actors": [], "comments": [], "recommandations_id": []}

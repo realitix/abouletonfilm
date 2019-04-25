@@ -1,1 +1,0 @@
-{"tmdb_id": 363624, "title": "Self Song/Death Song", "original_title": "Self Song/Death Song", "slug_title": "self-song-death-song", "date": "1997-10-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

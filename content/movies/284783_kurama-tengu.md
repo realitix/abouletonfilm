@@ -1,1 +1,0 @@
-{"tmdb_id": 284783, "title": "Kurama Tengu", "original_title": "\u978d\u99ac\u5929\u72d7", "slug_title": "kurama-tengu", "date": "1942-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kanj\u00fbr\u00f4 Arashi ()", "Matsunosuke Fukui ()", "Kensaku Hara ()"], "comments": [], "recommandations_id": []}

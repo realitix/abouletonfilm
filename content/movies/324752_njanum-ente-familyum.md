@@ -1,1 +1,0 @@
-{"tmdb_id": 324752, "title": "Njanum Ente Familyum", "original_title": "Njanum Ente Familyum", "slug_title": "njanum-ente-familyum", "date": "2012-02-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

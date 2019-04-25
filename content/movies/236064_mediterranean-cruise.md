@@ -1,1 +1,0 @@
-{"tmdb_id": 236064, "title": "Mediterranean Cruise", "original_title": "Croisi\u00e8re en M\u00e9diterran\u00e9e", "slug_title": "mediterranean-cruise", "date": "1950-11-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

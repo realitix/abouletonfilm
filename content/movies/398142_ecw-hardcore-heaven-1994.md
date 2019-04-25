@@ -1,1 +1,0 @@
-{"tmdb_id": 398142, "title": "ECW Hardcore Heaven 1994", "original_title": "ECW Hardcore Heaven 1994", "slug_title": "ecw-hardcore-heaven-1994", "date": "1994-08-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yGRA8s1VvGADPz1Kh054sFlZ7YN.jpg", "actors": [], "comments": [], "recommandations_id": []}

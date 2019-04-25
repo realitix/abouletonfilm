@@ -1,1 +1,0 @@
-{"tmdb_id": 576540, "title": "What a Trip", "original_title": "What a Trip", "slug_title": "what-a-trip", "date": "1929-01-13", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Vernon Dent ()", "John J. Richardson ()"], "comments": [], "recommandations_id": []}

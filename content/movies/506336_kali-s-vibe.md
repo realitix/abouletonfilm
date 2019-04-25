@@ -1,1 +1,0 @@
-{"tmdb_id": 506336, "title": "Kali's Vibe", "original_title": "Kali's Vibe", "slug_title": "kali-s-vibe", "date": "2002-02-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hHk7HeW5mTf6FrPt8dLhAaLGwTe.jpg", "actors": [], "comments": [], "recommandations_id": []}

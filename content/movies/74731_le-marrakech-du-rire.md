@@ -1,1 +1,0 @@
-{"tmdb_id": 74731, "title": "Le Marrakech Du Rire", "original_title": "Le Marrakech Du Rire", "slug_title": "le-marrakech-du-rire", "date": "2011-06-12", "genre": "Drame / Action / Com\u00e9die", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8HqloFlH5OedFgJzeakPcHkmvd.jpg", "actors": [], "comments": [], "recommandations_id": []}

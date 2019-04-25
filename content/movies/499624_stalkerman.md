@@ -1,1 +1,1 @@
-{"tmdb_id": 499624, "title": "Stalkerman", "original_title": "Stalkerman", "slug_title": "stalkerman", "date": "2017-05-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 499624, "title": "Stalkerman", "original_title": "Stalkerman", "slug_title": "stalkerman", "date": "2017-05-18", "genre": [""], "score": "0.0/10", "synopsis": "The story of Stalkerman", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

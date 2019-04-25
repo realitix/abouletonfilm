@@ -1,1 +1,0 @@
-{"tmdb_id": 388280, "title": "\u00c9rase una vez", "original_title": "\u00c9rase una vez", "slug_title": "erase-una-vez", "date": "", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

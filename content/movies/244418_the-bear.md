@@ -1,1 +1,0 @@
-{"tmdb_id": 244418, "title": "The Bear", "original_title": "The Bear", "slug_title": "the-bear", "date": "1984-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tVTwqZ5jNteLDIxZZKHbfmggg3j.jpg", "actors": ["Gary Busey ()", "Harry Dean Stanton ()", "Cynthia Leake ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 269604, "title": "Fiz, puro marat\u00f3n", "original_title": "Fiz, puro marat\u00f3n", "slug_title": "fiz-puro-maraton", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 290093, "title": "Y el cine marcha", "original_title": "Y el cine marcha", "slug_title": "y-el-cine-marcha", "date": "2008-12-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Antonio Banderas ()"], "comments": [], "recommandations_id": []}

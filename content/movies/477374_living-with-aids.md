@@ -1,1 +1,0 @@
-{"tmdb_id": 477374, "title": "Living with AIDS", "original_title": "Living with AIDS", "slug_title": "living-with-aids", "date": "1988-07-19", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/im9Tv0XBFAsA9Td0P0qkKYVFbEh.jpg", "actors": [], "comments": [], "recommandations_id": []}

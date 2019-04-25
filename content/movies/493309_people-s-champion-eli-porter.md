@@ -1,1 +1,0 @@
-{"tmdb_id": 493309, "title": "People's Champion: Eli Porter", "original_title": "People's Champion: Eli Porter", "slug_title": "people-s-champion-eli-porter", "date": "2012-07-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Eli Porter (himself)"], "comments": [], "recommandations_id": []}

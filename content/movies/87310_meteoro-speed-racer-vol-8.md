@@ -1,1 +1,0 @@
-{"tmdb_id": 87310, "title": "Meteoro Speed Racer Vol.8", "original_title": "Meteoro Speed Racer Vol.8", "slug_title": "meteoro-speed-racer-vol-8", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nEnkWal86FLZPt3H0wqibWkf2Ad.jpg", "actors": [], "comments": [], "recommandations_id": []}

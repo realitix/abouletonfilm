@@ -1,1 +1,0 @@
-{"tmdb_id": 83941, "title": "Escandalo en la prision", "original_title": "Escandalo en la prision", "slug_title": "escandalo-en-la-prision", "date": "1901-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ryDP9Xo0yUmC0i3AKWUwmRQD5vf.jpg", "actors": [], "comments": [], "recommandations_id": []}

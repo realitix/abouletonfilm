@@ -1,1 +1,0 @@
-{"tmdb_id": 511494, "title": "M.C. Escher: Sky and Water 1", "original_title": "M.C. Escher: Sky and Water 1", "slug_title": "m-c-escher-sky-and-water-1", "date": "1997-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

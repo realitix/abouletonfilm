@@ -1,1 +1,0 @@
-{"tmdb_id": 253640, "title": "Love in Time of Fires", "original_title": "El amor en tiempo de incendios", "slug_title": "love-in-time-of-fires", "date": "2013-10-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8FG7KD3V4NEetPHw3ejbDwjME2y.jpg", "actors": [], "comments": [], "recommandations_id": []}

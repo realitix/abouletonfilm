@@ -1,1 +1,0 @@
-{"tmdb_id": 576885, "title": "See Know Evil", "original_title": "See Know Evil", "slug_title": "see-know-evil", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z0RxzNfI36OsVEtNXkmEgFNvHZj.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 488403, "title": "Minus-Plus", "original_title": "Minus-Plus", "slug_title": "minus-plus", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Shahar Cohen ()", "Yael Tzucker ()"], "comments": [], "recommandations_id": []}

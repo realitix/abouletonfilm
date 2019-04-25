@@ -1,1 +1,0 @@
-{"tmdb_id": 313837, "title": "Hidden Agenda: Vol. 3: The Truth About Communism", "original_title": "Hidden Agenda: Vol. 3: The Truth About Communism", "slug_title": "hidden-agenda-vol-3-the-truth-about-communism", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

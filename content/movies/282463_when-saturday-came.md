@@ -1,1 +1,0 @@
-{"tmdb_id": 282463, "title": "When Saturday Came", "original_title": "When Saturday Came", "slug_title": "when-saturday-came", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qqD3WMKMTx43qkFjUMj7oP0XSHl.jpg", "actors": [], "comments": [], "recommandations_id": []}

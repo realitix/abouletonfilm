@@ -1,1 +1,0 @@
-{"tmdb_id": 560007, "title": "Green Jello Suxx Live", "original_title": "Green Jello Suxx Live", "slug_title": "green-jello-suxx-live", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

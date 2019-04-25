@@ -1,1 +1,0 @@
-{"tmdb_id": 186131, "title": "Fujian Blue", "original_title": "\u91d1\u58c1\u8f89\u714c", "slug_title": "fujian-blue", "date": "2007-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/csxZQRuxj2512Y37A0ee6RcWNna.jpg", "actors": ["Luo Jin ()"], "comments": [], "recommandations_id": []}

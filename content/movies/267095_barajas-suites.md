@@ -1,1 +1,0 @@
-{"tmdb_id": 267095, "title": "Barajas Suites", "original_title": "Barajas Suites", "slug_title": "barajas-suites", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

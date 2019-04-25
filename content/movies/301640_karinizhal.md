@@ -1,1 +1,1 @@
-{"tmdb_id": 301640, "title": "Karinizhal", "original_title": "Karinizhal", "slug_title": "karinizhal", "date": "1971-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 301640, "title": "Karinizhal", "original_title": "Karinizhal", "slug_title": "karinizhal", "date": "1971-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Bollywood 1971", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

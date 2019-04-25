@@ -1,1 +1,0 @@
-{"tmdb_id": 408608, "title": "Lhilt touf Laar 2", "original_title": "Lhilt touf Laar 2", "slug_title": "lhilt-touf-laar-2", "date": "", "genre": "", "score": "0.0/10", "synopsis": "Ayouz Vision", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d7Gt2fhZhwjn3zoZFppaQTcjunp.jpg", "actors": [], "comments": [], "recommandations_id": []}

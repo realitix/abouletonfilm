@@ -1,1 +1,0 @@
-{"tmdb_id": 325437, "title": "Alice's Monkey Business", "original_title": "Alice's Monkey Business", "slug_title": "alice-s-monkey-business", "date": "1926-09-20", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Margie Gay (Alice)"], "comments": [], "recommandations_id": []}

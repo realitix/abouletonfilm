@@ -1,1 +1,0 @@
-{"tmdb_id": 196038, "title": "Pity the Blind, No. 2", "original_title": "Pity the Blind, No. 2", "slug_title": "pity-the-blind-no-2", "date": "1904-02-22", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 70739, "title": "Aboriginal Architecture, Living Architecture", "original_title": "Aboriginal Architecture, Living Architecture", "slug_title": "aboriginal-architecture-living-architecture", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

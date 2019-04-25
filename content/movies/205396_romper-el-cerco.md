@@ -1,1 +1,0 @@
-{"tmdb_id": 205396, "title": "Romper el cerco", "original_title": "Romper el cerco", "slug_title": "romper-el-cerco", "date": "2007-02-23", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ascjgDaEVwx1s5olE0xhw0ySypT.jpg", "actors": [], "comments": [], "recommandations_id": []}

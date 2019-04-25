@@ -1,1 +1,0 @@
-{"tmdb_id": 532744, "title": "The Invaders", "original_title": "The Invaders", "slug_title": "the-invaders", "date": "2017-08-24", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/doDqmCUIRCdL8ADVLCLOa88X6jR.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 86034, "title": "Vazquez vs Marquez IV", "original_title": "Vazquez vs Marquez IV", "slug_title": "vazquez-vs-marquez-iv", "date": "2010-05-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8EYCZMgI1YgzjM8VGYX6Ni8AwcQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

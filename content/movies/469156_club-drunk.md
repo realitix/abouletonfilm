@@ -1,1 +1,0 @@
-{"tmdb_id": 469156, "title": "Club Drunk", "original_title": "Club Drunk", "slug_title": "club-drunk", "date": "2014-11-22", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uXecv566M8zF8lC7TZbB3yRilcL.jpg", "actors": [], "comments": [], "recommandations_id": []}

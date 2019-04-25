@@ -1,1 +1,0 @@
-{"tmdb_id": 410063, "title": "The Embargo", "original_title": "La requisa", "slug_title": "the-embargo", "date": "2004-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tHF8CFcnBhsUjK1cp5zgdEvo2jb.jpg", "actors": [], "comments": [], "recommandations_id": []}

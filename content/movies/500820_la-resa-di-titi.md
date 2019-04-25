@@ -1,1 +1,0 @@
-{"tmdb_id": 500820, "title": "La resa di Tit\u00ec", "original_title": "La resa di Tit\u00ec", "slug_title": "la-resa-di-titi", "date": "1945-09-14", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kXV0ZiQltsto7FdDzbjEvGUFsb6.jpg", "actors": [], "comments": [], "recommandations_id": []}

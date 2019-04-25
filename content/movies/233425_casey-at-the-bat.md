@@ -1,1 +1,0 @@
-{"tmdb_id": 233425, "title": "Casey at the Bat", "original_title": "Casey at the Bat", "slug_title": "casey-at-the-bat", "date": "1922-11-05", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["DeWolf Hopper Sr. ()"], "comments": [], "recommandations_id": []}

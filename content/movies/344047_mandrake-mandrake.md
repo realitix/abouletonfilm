@@ -1,1 +1,0 @@
-{"tmdb_id": 344047, "title": "Mandrake! Mandrake!", "original_title": "Mandrake! Mandrake!", "slug_title": "mandrake-mandrake", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

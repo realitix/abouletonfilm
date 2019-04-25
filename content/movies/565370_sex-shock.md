@@ -1,1 +1,0 @@
-{"tmdb_id": 565370, "title": "Sex Shock", "original_title": "Perversions", "slug_title": "sex-shock", "date": "1976-04-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

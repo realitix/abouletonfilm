@@ -1,1 +1,0 @@
-{"tmdb_id": 323909, "title": "\"Det\" Means Girl", "original_title": "Det Yani Dokhtar", "slug_title": "det-means-girl", "date": "1994-02-05", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tJLp9WWGd4k2TIcNZKYjnIiUOQQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

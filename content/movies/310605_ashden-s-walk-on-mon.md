@@ -1,1 +1,0 @@
-{"tmdb_id": 310605, "title": "Ashden's Walk on M\u00f8n", "original_title": "Ashden's Walk on M\u00f8n", "slug_title": "ashden-s-walk-on-mon", "date": "1973-01-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aiv84GA7uLzAYcK6TSASIKpQSIG.jpg", "actors": [], "comments": [], "recommandations_id": []}

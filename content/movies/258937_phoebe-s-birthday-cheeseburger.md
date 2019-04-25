@@ -1,1 +1,0 @@
-{"tmdb_id": 258937, "title": "Phoebe's Birthday Cheeseburger", "original_title": "Phoebe's Birthday Cheeseburger", "slug_title": "phoebe-s-birthday-cheeseburger", "date": "2014-03-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

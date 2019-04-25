@@ -1,1 +1,0 @@
-{"tmdb_id": 557288, "title": "Muse Video Collection dvd2", "original_title": "Muse Video Collection dvd2", "slug_title": "muse-video-collection-dvd2", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kIu5LtNyHNv4srfuKbXDNgOq7UO.jpg", "actors": [], "comments": [], "recommandations_id": []}

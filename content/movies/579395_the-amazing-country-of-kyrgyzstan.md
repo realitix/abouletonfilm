@@ -1,1 +1,0 @@
-{"tmdb_id": 579395, "title": "The Amazing Country of Kyrgyzstan", "original_title": "The Amazing Country of Kyrgyzstan", "slug_title": "the-amazing-country-of-kyrgyzstan", "date": "2008-02-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

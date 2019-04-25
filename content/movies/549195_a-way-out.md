@@ -1,1 +1,0 @@
-{"tmdb_id": 549195, "title": "A Way Out", "original_title": "\u51fa\u00b7\u8def", "slug_title": "a-way-out", "date": "2016-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kDtKEyQr7S9QlEXMYA5xdnZTSPR.jpg", "actors": [], "comments": [], "recommandations_id": []}

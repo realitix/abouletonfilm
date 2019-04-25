@@ -1,1 +1,0 @@
-{"tmdb_id": 342884, "title": "barre3 Ballet Fit", "original_title": "barre3 Ballet Fit", "slug_title": "barre3-ballet-fit", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Candace Ofcacek ()"], "comments": [], "recommandations_id": []}

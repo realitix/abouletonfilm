@@ -1,1 +1,0 @@
-{"tmdb_id": 333485, "title": "The Leviathan", "original_title": "The Leviathan", "slug_title": "the-leviathan", "date": "", "genre": "Action / Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aXKziDHHrYYUJ0HPo57xOBmS0WR.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 372024, "title": "Country Threshing", "original_title": "Country Threshing", "slug_title": "country-threshing", "date": "1958-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x6dDf4VNV7MFRUopAazGaUbM33r.jpg", "actors": [], "comments": [], "recommandations_id": []}

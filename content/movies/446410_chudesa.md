@@ -1,1 +1,0 @@
-{"tmdb_id": 446410, "title": "\u0427\u0443\u0434\u0435\u0441\u0430", "original_title": "\u0427\u0443\u0434\u0435\u0441\u0430", "slug_title": "chudesa", "date": "1980-03-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sKb2Dzr0XvwvUwdrd7oMqgsyRQ5.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 525895, "title": "Mairi Mhor", "original_title": "Mairi Mhor", "slug_title": "mairi-mhor", "date": "1994-11-09", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

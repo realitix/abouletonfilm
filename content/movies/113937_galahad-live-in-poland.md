@@ -1,1 +1,0 @@
-{"tmdb_id": 113937, "title": "Galahad Live in Poland", "original_title": "Galahad Live in Poland", "slug_title": "galahad-live-in-poland", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/stCQayUYsyGn64zZLFx84gMvOos.jpg", "actors": [], "comments": [], "recommandations_id": []}

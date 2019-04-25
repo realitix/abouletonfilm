@@ -1,1 +1,0 @@
-{"tmdb_id": 570590, "title": "Deadly Video", "original_title": "Video Maut", "slug_title": "deadly-video", "date": "2016-07-06", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5alZ1HHEAL9OTifejP1vCCBopVi.jpg", "actors": ["DJ rizuka ()", "Arick Pramana ()"], "comments": [], "recommandations_id": []}

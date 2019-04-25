@@ -1,1 +1,0 @@
-{"tmdb_id": 251033, "title": "Pio XI e Marconi", "original_title": "Pio XI e Marconi", "slug_title": "pio-xi-e-marconi", "date": "1933-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cVLXHW3vbozdzoFzhXR1Sbkz9Rn.jpg", "actors": [], "comments": [], "recommandations_id": []}

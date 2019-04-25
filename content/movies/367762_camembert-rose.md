@@ -1,1 +1,0 @@
-{"tmdb_id": 367762, "title": "Camembert Rose", "original_title": "R\u00f3zsasz\u00edn sajt", "slug_title": "camembert-rose", "date": "2009-09-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bbNjN1AidPpo9yJZzcOpCLBaxIl.jpg", "actors": [], "comments": [], "recommandations_id": []}

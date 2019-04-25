@@ -1,1 +1,0 @@
-{"tmdb_id": 245909, "title": "Mumblecore", "original_title": "Mumblecore", "slug_title": "mumblecore", "date": "2011-06-19", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4XMIR3A60ryzJ8vH27ZSvnv1zhG.jpg", "actors": ["Tao Lin (Himself)", "Megan Boyle (Herself)"], "comments": [], "recommandations_id": []}

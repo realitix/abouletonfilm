@@ -1,1 +1,0 @@
-{"tmdb_id": 188377, "title": "Gold Rush Daze", "original_title": "Gold Rush Daze", "slug_title": "gold-rush-daze", "date": "1939-02-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2GNj7Ge3yG3ZT7f286qYfRMcMTY.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 386403, "title": "Symphony of the Planets", "original_title": "Symphony of the Planets", "slug_title": "symphony-of-the-planets", "date": "1968-03-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

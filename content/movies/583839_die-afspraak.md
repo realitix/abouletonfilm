@@ -1,1 +1,0 @@
-{"tmdb_id": 583839, "title": "Die Afspraak", "original_title": "Die Afspraak", "slug_title": "die-afspraak", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

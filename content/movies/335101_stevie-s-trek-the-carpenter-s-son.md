@@ -1,1 +1,0 @@
-{"tmdb_id": 335101, "title": "Stevie's Trek - The Carpenter's Son", "original_title": "Stevie's Trek - The Carpenter's Son", "slug_title": "stevie-s-trek-the-carpenter-s-son", "date": "2015-01-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

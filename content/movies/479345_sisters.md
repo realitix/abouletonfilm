@@ -1,1 +1,0 @@
-{"tmdb_id": 479345, "title": "Sisters", "original_title": "Sisters", "slug_title": "sisters", "date": "1988-01-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i6467Yoasxby2lgOdK5zW2vfKz8.jpg", "actors": ["Clancey McCauley ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 549969, "title": "Measure Metric, Vol. 2: Doc Cranshaw And The Kid", "original_title": "Measure Metric, Vol. 2: Doc Cranshaw And The Kid", "slug_title": "measure-metric-vol-2-doc-cranshaw-and-the-kid", "date": "1976-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

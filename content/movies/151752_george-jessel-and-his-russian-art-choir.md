@@ -1,1 +1,0 @@
-{"tmdb_id": 151752, "title": "George Jessel and His Russian Art Choir", "original_title": "George Jessel and His Russian Art Choir", "slug_title": "george-jessel-and-his-russian-art-choir", "date": "1931-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["George Jessel ()"], "comments": [], "recommandations_id": []}

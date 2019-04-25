@@ -1,1 +1,0 @@
-{"tmdb_id": 578865, "title": "Looking at Clouds", "original_title": "Looking at Clouds", "slug_title": "looking-at-clouds", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

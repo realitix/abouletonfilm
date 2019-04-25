@@ -1,1 +1,0 @@
-{"tmdb_id": 271689, "title": "Le m\u00e9decin de Gafire", "original_title": "Le m\u00e9decin de Gafire", "slug_title": "le-medecin-de-gafire", "date": "1983-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sidiki Bakaba ()", "Merlin N'Diagne ()", "Fifi-Dalla Kouyate ()"], "comments": [], "recommandations_id": []}

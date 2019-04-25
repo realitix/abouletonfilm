@@ -1,1 +1,0 @@
-{"tmdb_id": 439283, "title": "Nat\u00fcrlich die Nelli!", "original_title": "Nat\u00fcrlich die Nelli!", "slug_title": "naturlich-die-nelli", "date": "1959-02-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/myLBmBuuqtbjKniCLzQi0SXz4ix.jpg", "actors": [], "comments": [], "recommandations_id": []}

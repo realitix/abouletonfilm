@@ -1,1 +1,0 @@
-{"tmdb_id": 564785, "title": "Ras le bol", "original_title": "Ras le bol", "slug_title": "ras-le-bol", "date": "1973-04-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eFpRj6o2LvLJlJeiTNpSVKJ9nZb.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 457413, "title": "The Second Coming", "original_title": "The Second Coming", "slug_title": "the-second-coming", "date": "1995-11-11", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f5dNDN61Ntob0lWWLN2bEJ6959H.jpg", "actors": [], "comments": [], "recommandations_id": []}

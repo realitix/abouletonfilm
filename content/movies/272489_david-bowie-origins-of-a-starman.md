@@ -1,1 +1,0 @@
-{"tmdb_id": 272489, "title": "David Bowie: Origins of a Starman", "original_title": "David Bowie: Origins of a Starman", "slug_title": "david-bowie-origins-of-a-starman", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 353928, "title": "Los tambores de Fu-Aguarr\u00e1s", "original_title": "Los tambores de Fu-Aguarr\u00e1s", "slug_title": "los-tambores-de-fu-aguarras", "date": "1945-08-09", "genre": "Animation", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

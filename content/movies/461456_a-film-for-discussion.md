@@ -1,1 +1,0 @@
-{"tmdb_id": 461456, "title": "A Film for Discussion", "original_title": "A Film for Discussion", "slug_title": "a-film-for-discussion", "date": "1973-01-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

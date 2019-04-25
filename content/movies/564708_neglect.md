@@ -1,1 +1,1 @@
-{"tmdb_id": 564708, "title": "neglect", "original_title": "\u8986\u5de2", "slug_title": "neglect", "date": "2018-11-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 564708, "title": "neglect", "original_title": "\u8986\u5de2", "slug_title": "neglect", "date": "2018-11-22", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

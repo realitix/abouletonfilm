@@ -1,1 +1,0 @@
-{"tmdb_id": 552154, "title": "Chicken Is Barefoot", "original_title": "Chicken Is Barefoot", "slug_title": "chicken-is-barefoot", "date": "2004-11-13", "genre": "Com\u00e9die / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sYJtbxSeY3Hj4LlnXaNWQ1PeK4s.jpg", "actors": [], "comments": [], "recommandations_id": []}

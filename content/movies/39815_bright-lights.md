@@ -1,1 +1,0 @@
-{"tmdb_id": 39815, "title": "Bright Lights", "original_title": "Bright Lights", "slug_title": "bright-lights", "date": "1928-03-05", "genre": "Animation", "score": "5.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fy3jU0afvGzamUaHPavbrqEiCjC.jpg", "actors": [], "comments": [], "recommandations_id": [39822, 39821, 189977, 39823]}

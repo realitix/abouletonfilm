@@ -1,1 +1,0 @@
-{"tmdb_id": 535478, "title": "Deducked", "original_title": "Deducked", "slug_title": "deducked", "date": "2018-06-25", "genre": "Animation / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

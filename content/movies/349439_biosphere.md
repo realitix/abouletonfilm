@@ -1,1 +1,0 @@
-{"tmdb_id": 349439, "title": "Biosphere", "original_title": "Biosphere", "slug_title": "biosphere", "date": "2014-09-27", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lE4y5Gm6qwBlgnlOMvde2uSuHec.jpg", "actors": [], "comments": [], "recommandations_id": []}

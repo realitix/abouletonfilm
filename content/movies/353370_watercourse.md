@@ -1,1 +1,0 @@
-{"tmdb_id": 353370, "title": "Watercourse", "original_title": "Watercourse", "slug_title": "watercourse", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2z3NSBo9Vpw5CYHH1NC1WhIQjrT.jpg", "actors": [], "comments": [], "recommandations_id": []}

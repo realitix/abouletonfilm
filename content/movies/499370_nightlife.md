@@ -1,1 +1,0 @@
-{"tmdb_id": 499370, "title": "Nightlife", "original_title": "Nightlife", "slug_title": "nightlife", "date": "1973-03-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

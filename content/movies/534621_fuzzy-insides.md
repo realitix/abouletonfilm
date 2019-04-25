@@ -1,1 +1,0 @@
-{"tmdb_id": 534621, "title": "Fuzzy Insides", "original_title": "Fuzzy Insides", "slug_title": "fuzzy-insides", "date": "2009-10-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t112JilVSEgWdEbeOiAV0ywK8uc.jpg", "actors": [], "comments": [], "recommandations_id": []}

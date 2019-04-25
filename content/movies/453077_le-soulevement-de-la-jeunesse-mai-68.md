@@ -1,1 +1,0 @@
-{"tmdb_id": 453077, "title": "Le Soul\u00e8vement de la jeunesse Mai 68", "original_title": "Le Soul\u00e8vement de la jeunesse Mai 68", "slug_title": "le-soulevement-de-la-jeunesse-mai-68", "date": "1968-12-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

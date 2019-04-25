@@ -1,1 +1,0 @@
-{"tmdb_id": 421597, "title": "An Old-Fashioned Woman", "original_title": "An Old-Fashioned Woman", "slug_title": "an-old-fashioned-woman", "date": "1974-10-04", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

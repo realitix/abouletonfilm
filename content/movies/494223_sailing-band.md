@@ -1,1 +1,0 @@
-{"tmdb_id": 494223, "title": "Sailing Band", "original_title": "Sailing Band", "slug_title": "sailing-band", "date": "2018-01-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pA6PT30dDhpoxfRwSUWNEf8qM0f.jpg", "actors": [], "comments": [], "recommandations_id": []}

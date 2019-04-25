@@ -1,1 +1,0 @@
-{"tmdb_id": 558775, "title": "Mit Bubi heim ins Reich", "original_title": "Mit Bubi heim ins Reich", "slug_title": "mit-bubi-heim-ins-reich", "date": "2000-02-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rCMfM3V3bNafeq5MYmBJQr3D8U2.jpg", "actors": [], "comments": [], "recommandations_id": []}

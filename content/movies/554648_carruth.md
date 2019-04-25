@@ -1,1 +1,0 @@
-{"tmdb_id": 554648, "title": "Carruth", "original_title": "Carruth", "slug_title": "carruth", "date": "2018-10-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p3YYOYImfGycIutQvSCTcgpjYV4.jpg", "actors": [], "comments": [], "recommandations_id": []}

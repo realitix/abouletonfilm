@@ -1,1 +1,0 @@
-{"tmdb_id": 449469, "title": "Drifting Generation", "original_title": "Wie Bojem im Meer", "slug_title": "drifting-generation", "date": "2017-03-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w35Zc5v47SbM9Tq4Cc1UR4hA6aW.jpg", "actors": [], "comments": [], "recommandations_id": []}

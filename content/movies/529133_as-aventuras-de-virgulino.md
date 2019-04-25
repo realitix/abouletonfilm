@@ -1,1 +1,0 @@
-{"tmdb_id": 529133, "title": "As Aventuras de Virgulino", "original_title": "As Aventuras de Virgulino", "slug_title": "as-aventuras-de-virgulino", "date": "1939-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ca7fXR4ILUB1e4wmjlq3odr1rLd.jpg", "actors": [], "comments": [], "recommandations_id": []}

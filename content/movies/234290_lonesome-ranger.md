@@ -1,1 +1,0 @@
-{"tmdb_id": 234290, "title": "Lonesome Ranger", "original_title": "Lonesome Ranger", "slug_title": "lonesome-ranger", "date": "1966-02-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h4DL1R6PVBqY3WPyPXepKaF30Fq.jpg", "actors": [], "comments": [], "recommandations_id": []}

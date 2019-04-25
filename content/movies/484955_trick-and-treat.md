@@ -1,1 +1,0 @@
-{"tmdb_id": 484955, "title": "Trick AND Treat", "original_title": "Knask Og Knep", "slug_title": "trick-and-treat", "date": "2017-10-21", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4u9nEUikO2Ohd4XGxzBQFMn1w0Y.jpg", "actors": [], "comments": [], "recommandations_id": []}

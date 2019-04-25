@@ -1,1 +1,0 @@
-{"tmdb_id": 129168, "title": "Father's Day", "original_title": "Father's Day", "slug_title": "father-s-day", "date": "", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 319530, "title": "Powder Her Face", "original_title": "Powder Her Face", "slug_title": "powder-her-face", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d3l3vk7aOD41KBgeEny2C4rLYVs.jpg", "actors": [], "comments": [], "recommandations_id": []}

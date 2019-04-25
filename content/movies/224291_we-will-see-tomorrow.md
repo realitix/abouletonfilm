@@ -1,1 +1,0 @@
-{"tmdb_id": 224291, "title": "We Will See Tomorrow", "original_title": "We Will See Tomorrow", "slug_title": "we-will-see-tomorrow", "date": "", "genre": "Documentaire / Histoire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

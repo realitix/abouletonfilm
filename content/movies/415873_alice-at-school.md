@@ -1,1 +1,0 @@
-{"tmdb_id": 415873, "title": "Alice at School", "original_title": "Alice at School", "slug_title": "alice-at-school", "date": "1978-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lynne Morgan ()", "Marcus Evans ()", "Lucy Griffiths ()", "Philip Da Costa ()"], "comments": [], "recommandations_id": []}

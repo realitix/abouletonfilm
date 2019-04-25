@@ -1,1 +1,0 @@
-{"tmdb_id": 271583, "title": "Good for Nothing", "original_title": "Good for Nothing", "slug_title": "good-for-nothing", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

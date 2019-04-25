@@ -1,1 +1,0 @@
-{"tmdb_id": 447121, "title": "Dokkoi! Songs from the Bottom", "original_title": "Dokkoi! Ningen bushi \u2013 Kotobukicho: Jiyu rodosha no machi", "slug_title": "dokkoi-songs-from-the-bottom", "date": "1975-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

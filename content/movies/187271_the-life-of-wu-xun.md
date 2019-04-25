@@ -1,1 +1,0 @@
-{"tmdb_id": 187271, "title": "The Life of Wu Xun", "original_title": "Wu Xun zhuan", "slug_title": "the-life-of-wu-xun", "date": "1952-01-01", "genre": "Drame", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kWxP9F9k8al5gf8VILIsewXkgwT.jpg", "actors": ["Zhao Dan (\u6b66\u8bad)"], "comments": [], "recommandations_id": []}

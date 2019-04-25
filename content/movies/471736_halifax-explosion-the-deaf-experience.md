@@ -1,1 +1,0 @@
-{"tmdb_id": 471736, "title": "Halifax Explosion: The Deaf Experience", "original_title": "Halifax Explosion: The Deaf Experience", "slug_title": "halifax-explosion-the-deaf-experience", "date": "2017-05-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 524943, "title": "Proper Einstein: The Calling 2", "original_title": "Proper Einstein: The Calling 2", "slug_title": "proper-einstein-the-calling-2", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Proper Einstein (Dancer)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 562801, "title": "PROGRESS Chapter 33: Malice In Wonderland", "original_title": "PROGRESS Chapter 33: Malice In Wonderland", "slug_title": "progress-chapter-33-malice-in-wonderland", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

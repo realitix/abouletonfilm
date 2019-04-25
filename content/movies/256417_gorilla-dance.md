@@ -1,1 +1,0 @@
-{"tmdb_id": 256417, "title": "Gorilla Dance", "original_title": "Gorila baila", "slug_title": "gorilla-dance", "date": "2013-09-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

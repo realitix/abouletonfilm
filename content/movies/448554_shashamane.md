@@ -1,1 +1,0 @@
-{"tmdb_id": 448554, "title": "Shashamane", "original_title": "Shashamane", "slug_title": "shashamane", "date": "2016-11-01", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lCsV9lGj4c7HOX9k1Oay6EISKIS.jpg", "actors": [], "comments": [], "recommandations_id": []}

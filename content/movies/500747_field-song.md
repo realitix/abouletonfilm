@@ -1,1 +1,0 @@
-{"tmdb_id": 500747, "title": "Field Song", "original_title": "Canci\u00f3n del Campo", "slug_title": "field-song", "date": "2017-03-17", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5ZoOhAcn4LulExrfO8EqvkDq79c.jpg", "actors": [], "comments": [], "recommandations_id": []}

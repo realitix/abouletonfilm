@@ -1,1 +1,0 @@
-{"tmdb_id": 574907, "title": "A Short Film About Tegan & Sara", "original_title": "A Short Film About Tegan & Sara", "slug_title": "a-short-film-about-tegan-sara", "date": "2018-04-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fi2We37TMA51mTmuhUSQDh3vrR7.jpg", "actors": [], "comments": [], "recommandations_id": []}

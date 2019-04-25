@@ -1,1 +1,0 @@
-{"tmdb_id": 397579, "title": "Let's Talk", "original_title": "Let's Talk", "slug_title": "let-s-talk", "date": "2008-05-15", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k86NcFPoXH2AwaRAQPIF6LPENw2.jpg", "actors": [], "comments": [], "recommandations_id": []}

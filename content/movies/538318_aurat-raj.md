@@ -1,1 +1,0 @@
-{"tmdb_id": 538318, "title": "Aurat Raj", "original_title": "Aurat Raj", "slug_title": "aurat-raj", "date": "1979-07-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u4eqrbVEyWCO5b5564pVZJrqcEl.jpg", "actors": ["Waheed Murad ()", "Rangeela ()"], "comments": [], "recommandations_id": []}

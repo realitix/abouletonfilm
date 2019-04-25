@@ -1,1 +1,0 @@
-{"tmdb_id": 297377, "title": "Behind The Caine Mutiny", "original_title": "Behind The Caine Mutiny", "slug_title": "behind-the-caine-mutiny", "date": "2006-02-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

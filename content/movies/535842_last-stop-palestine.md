@@ -1,1 +1,0 @@
-{"tmdb_id": 535842, "title": "Last Stop: Palestine", "original_title": "Last Stop: Palestine", "slug_title": "last-stop-palestine", "date": "2013-07-19", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/icPa571yqhIt0H47Q0CAXQ2j60V.jpg", "actors": [], "comments": [], "recommandations_id": []}

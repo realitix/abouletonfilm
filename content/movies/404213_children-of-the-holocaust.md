@@ -1,1 +1,0 @@
-{"tmdb_id": 404213, "title": "Children of the Holocaust", "original_title": "Children of the Holocaust", "slug_title": "children-of-the-holocaust", "date": "2014-09-12", "genre": "Documentaire / Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 346823, "title": "Michael Nyman in Progress", "original_title": "Michael Nyman in Progress", "slug_title": "michael-nyman-in-progress", "date": "2010-10-08", "genre": "Documentaire", "score": "1.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

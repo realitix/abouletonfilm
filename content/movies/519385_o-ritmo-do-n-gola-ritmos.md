@@ -1,1 +1,0 @@
-{"tmdb_id": 519385, "title": "O Ritmo do N'Gola Ritmos", "original_title": "O Ritmo do N'Gola Ritmos", "slug_title": "o-ritmo-do-n-gola-ritmos", "date": "1978-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yrfdhZbwqUzdVb93xEBjvfKvxAR.jpg", "actors": [], "comments": [], "recommandations_id": []}

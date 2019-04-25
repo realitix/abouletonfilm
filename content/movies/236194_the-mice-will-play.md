@@ -1,1 +1,0 @@
-{"tmdb_id": 236194, "title": "The Mice Will Play", "original_title": "The Mice Will Play", "slug_title": "the-mice-will-play", "date": "1938-12-17", "genre": "Animation", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lCvcP7F3yunHEo5npy9O2AXDZHy.jpg", "actors": [], "comments": [], "recommandations_id": []}

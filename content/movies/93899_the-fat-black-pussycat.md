@@ -1,1 +1,0 @@
-{"tmdb_id": 93899, "title": "The Fat Black Pussycat", "original_title": "The Fat Black Pussycat", "slug_title": "the-fat-black-pussycat", "date": "1963-01-01", "genre": "", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rjPs0YhWlNSt9UAfMCVYc74NhLQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

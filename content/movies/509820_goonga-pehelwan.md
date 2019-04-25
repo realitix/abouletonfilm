@@ -1,1 +1,0 @@
-{"tmdb_id": 509820, "title": "Goonga Pehelwan", "original_title": "Goonga Pehelwan", "slug_title": "goonga-pehelwan", "date": "2014-06-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6HVFtk7MIrwcuo7dbJVelnzE3az.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 193806, "title": "Thanksgiving Prayer", "original_title": "Thanksgiving Prayer", "slug_title": "thanksgiving-prayer", "date": "1991-01-01", "genre": "", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bQ44Zpjth6pE6Ga5y4Sn26xKnwZ.jpg", "actors": ["William S. Burroughs (A Speaker)"], "comments": [], "recommandations_id": []}

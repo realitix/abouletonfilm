@@ -1,1 +1,0 @@
-{"tmdb_id": 82273, "title": "LAST TEMP", "original_title": "LAST TEMP", "slug_title": "last-temp", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

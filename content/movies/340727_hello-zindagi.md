@@ -1,1 +1,0 @@
-{"tmdb_id": 340727, "title": "Hello Zindagi", "original_title": "Hello Zindagi", "slug_title": "hello-zindagi", "date": "2010-03-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kitu Gidwani (Dr. Sadhana)"], "comments": [], "recommandations_id": []}

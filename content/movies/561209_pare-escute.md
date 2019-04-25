@@ -1,1 +1,0 @@
-{"tmdb_id": 561209, "title": "Pare. Escute.", "original_title": "Pare. Escute.", "slug_title": "pare-escute", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jhonatas Pinhelli ()", "Jo\u00e3o Vitor Panda ()"], "comments": [], "recommandations_id": []}

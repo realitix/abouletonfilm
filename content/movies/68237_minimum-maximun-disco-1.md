@@ -1,1 +1,0 @@
-{"tmdb_id": 68237, "title": "Minimum Maximun disco 1", "original_title": "Minimum Maximun disco 1", "slug_title": "minimum-maximun-disco-1", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dUuUcOEp6nkG71tVcuZFIO7hzX6.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 531627, "title": "The book and the sword", "original_title": "\u66f8\u528d", "slug_title": "the-book-and-the-sword", "date": "", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zRwgjXRGCy0dH6REq0DX6iSnnXc.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 290709, "title": "End of the Road", "original_title": "End of the Road", "slug_title": "end-of-the-road", "date": "2010-04-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

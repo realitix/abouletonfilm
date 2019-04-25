@@ -1,1 +1,0 @@
-{"tmdb_id": 589254, "title": "America: Democracy on Trial", "original_title": "America: Democracy on Trial", "slug_title": "america-democracy-on-trial", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

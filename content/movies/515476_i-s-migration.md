@@ -1,1 +1,0 @@
-{"tmdb_id": 515476, "title": "I.S. Migration", "original_title": "I.S. Migration", "slug_title": "i-s-migration", "date": "2010-08-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/78q9RYukE9Fp2Rwn8wUSBecF2qN.jpg", "actors": [], "comments": [], "recommandations_id": []}

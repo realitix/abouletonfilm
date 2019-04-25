@@ -1,1 +1,0 @@
-{"tmdb_id": 179582, "title": "Flame of the Pacific", "original_title": "Flame of the Pacific", "slug_title": "flame-of-the-pacific", "date": "1934-03-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 494279, "title": "Elton John in Las Vegas", "original_title": "Elton John in Las Vegas", "slug_title": "elton-john-in-las-vegas", "date": "2005-12-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kLBwGpVBQcpq7yA8nRVtkg3BfQ8.jpg", "actors": [], "comments": [], "recommandations_id": []}

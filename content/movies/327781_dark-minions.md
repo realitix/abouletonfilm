@@ -1,1 +1,0 @@
-{"tmdb_id": 327781, "title": "Dark Minions", "original_title": "Dark Minions", "slug_title": "dark-minions", "date": "2013-04-19", "genre": "Science-Fiction / Animation / Com\u00e9die", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s228fOCrB4sgJjMnnMK33AybaE2.jpg", "actors": [], "comments": [], "recommandations_id": []}

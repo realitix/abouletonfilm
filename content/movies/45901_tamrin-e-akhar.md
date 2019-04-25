@@ -1,1 +1,1 @@
-{"tmdb_id": 45901, "title": "Tamrin-e akhar", "original_title": "Tamrin-e akhar", "slug_title": "tamrin-e-akhar", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 45901, "title": "Tamrin-e akhar", "original_title": "Tamrin-e akhar", "slug_title": "tamrin-e-akhar", "date": "2005-01-01", "genre": [""], "score": "0.0/10", "synopsis": " ", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

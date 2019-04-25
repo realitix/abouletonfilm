@@ -1,1 +1,0 @@
-{"tmdb_id": 480063, "title": "My Sister Sarah", "original_title": "My Sister Sarah", "slug_title": "my-sister-sarah", "date": "", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

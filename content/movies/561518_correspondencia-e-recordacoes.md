@@ -1,1 +1,0 @@
-{"tmdb_id": 561518, "title": "CORrespond\u00eancia e REcorDA\u00c7\u00d5ES", "original_title": "CORrespond\u00eancia e REcorDA\u00c7\u00d5ES", "slug_title": "correspondencia-e-recordacoes", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

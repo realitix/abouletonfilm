@@ -1,1 +1,0 @@
-{"tmdb_id": 490434, "title": "Dinner For One", "original_title": "Dinner For One", "slug_title": "dinner-for-one", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fOggtTXZuS0h0MsLtzdefxwxhlW.jpg", "actors": ["Nadia Vaeh (Violet)", "Ryan Seamy (Jim)"], "comments": [], "recommandations_id": []}

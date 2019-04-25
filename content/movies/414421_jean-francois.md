@@ -1,1 +1,0 @@
-{"tmdb_id": 414421, "title": "Jean-Fran\u00e7ois", "original_title": "Jean-Fran\u00e7ois", "slug_title": "jean-francois", "date": "2009-12-04", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o4tWHViXkmGaBVEDvOyfWFz0R5S.jpg", "actors": [], "comments": [], "recommandations_id": []}

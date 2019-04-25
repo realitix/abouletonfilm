@@ -1,1 +1,0 @@
-{"tmdb_id": 368447, "title": "Standing Room Only", "original_title": "Standing Room Only", "slug_title": "standing-room-only", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

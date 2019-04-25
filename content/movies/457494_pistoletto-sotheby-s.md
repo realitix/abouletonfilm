@@ -1,1 +1,0 @@
-{"tmdb_id": 457494, "title": "Pistoletto & Sotheby's", "original_title": "Pistoletto & Sotheby's", "slug_title": "pistoletto-sotheby-s", "date": "1968-02-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

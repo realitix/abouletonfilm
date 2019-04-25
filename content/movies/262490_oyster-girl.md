@@ -1,1 +1,0 @@
-{"tmdb_id": 262490, "title": "Oyster Girl", "original_title": "\u86b5\u5973", "slug_title": "oyster-girl", "date": "1963-01-01", "genre": "Drame", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3RR95c0z2GxYMWEX90IlbWsYdjx.jpg", "actors": ["Wang Mo-chou ()", "Chiang Ping ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 501552, "title": "My Mama Wears Timbs", "original_title": "My Mama Wears Timbs", "slug_title": "my-mama-wears-timbs", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

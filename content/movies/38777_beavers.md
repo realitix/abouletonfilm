@@ -1,1 +1,0 @@
-{"tmdb_id": 38777, "title": "Beavers", "original_title": "Beavers", "slug_title": "beavers", "date": "1988-01-01", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kjR6RSabEIIRJ5LyJwsHL3wcg3V.jpg", "actors": ["Earl Pennington (Narrator)"], "comments": [], "recommandations_id": []}

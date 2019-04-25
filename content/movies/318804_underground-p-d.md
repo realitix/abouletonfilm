@@ -1,1 +1,0 @@
-{"tmdb_id": 318804, "title": "Underground P.D.", "original_title": "Underground P.D.", "slug_title": "underground-p-d", "date": "2004-04-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

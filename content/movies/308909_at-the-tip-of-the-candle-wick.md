@@ -1,1 +1,0 @@
-{"tmdb_id": 308909, "title": "At The Tip Of The Candle Wick", "original_title": "Qng Sepu Ning Pabelu", "slug_title": "at-the-tip-of-the-candle-wick", "date": "2014-12-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aqlcpF8vjlWVOQKgxkuZEq0Hgf9.jpg", "actors": [], "comments": [], "recommandations_id": []}

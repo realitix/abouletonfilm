@@ -1,1 +1,0 @@
-{"tmdb_id": 452829, "title": "Woody Allen: la vida y nada m\u00e1s", "original_title": "Woody Allen: la vida y nada m\u00e1s", "slug_title": "woody-allen-la-vida-y-nada-mas", "date": "", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 197770, "title": "Sterne in der Stadt", "original_title": "Sterne in der Stadt", "slug_title": "sterne-in-der-stadt", "date": "1975-05-27", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

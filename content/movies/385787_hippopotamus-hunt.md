@@ -1,1 +1,0 @@
-{"tmdb_id": 385787, "title": "Hippopotamus Hunt", "original_title": "Chasse \u00e0 l'hippopotame", "slug_title": "hippopotamus-hunt", "date": "1950-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4XXMw6rOwAgtGtXbPugVlBqWaRQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 559892, "title": "Mon ami le cambrioleur", "original_title": "Mon ami le cambrioleur", "slug_title": "mon-ami-le-cambrioleur", "date": "1950-10-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jtSvZUBN0nSUSN5g4ioqEWhnwhS.jpg", "actors": [], "comments": [], "recommandations_id": []}

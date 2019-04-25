@@ -1,1 +1,0 @@
-{"tmdb_id": 482456, "title": "The Neanderthals\u2019 Dark Secret", "original_title": "The Neanderthals\u2019 Dark Secret", "slug_title": "the-neanderthals-dark-secret", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

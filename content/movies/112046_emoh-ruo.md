@@ -1,1 +1,0 @@
-{"tmdb_id": 112046, "title": "Emoh Ruo", "original_title": "Emoh Ruo", "slug_title": "emoh-ruo", "date": "1985-01-01", "genre": "", "score": "8.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rxOYH0U0XLWDQJrXT7y13iEp3W8.jpg", "actors": [], "comments": [], "recommandations_id": []}

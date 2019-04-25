@@ -1,1 +1,0 @@
-{"tmdb_id": 319467, "title": "The Littlest Leaguers Learn to Play Baseball", "original_title": "The Littlest Leaguers Learn to Play Baseball", "slug_title": "the-littlest-leaguers-learn-to-play-baseball", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

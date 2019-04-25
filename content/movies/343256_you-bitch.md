@@ -1,1 +1,0 @@
-{"tmdb_id": 343256, "title": "You Bitch!", "original_title": "Kurvo", "slug_title": "you-bitch", "date": "2011-12-03", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/27gvdWVBAe9z1zuo4mzm2jFRthI.jpg", "actors": ["Marina Redzepovic (Marta)", "Iva Babi\u0107 (Lana)"], "comments": [], "recommandations_id": []}

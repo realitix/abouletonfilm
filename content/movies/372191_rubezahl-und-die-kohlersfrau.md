@@ -1,1 +1,0 @@
-{"tmdb_id": 372191, "title": "R\u00fcbezahl und die K\u00f6hlersfrau", "original_title": "R\u00fcbezahl und die K\u00f6hlersfrau", "slug_title": "rubezahl-und-die-kohlersfrau", "date": "1980-07-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

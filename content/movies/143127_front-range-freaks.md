@@ -1,1 +1,0 @@
-{"tmdb_id": 143127, "title": "Front Range Freaks", "original_title": "Front Range Freaks", "slug_title": "front-range-freaks", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/faKCyC1TNZqYbhTQOV6wjiXwF2T.jpg", "actors": [], "comments": [], "recommandations_id": []}

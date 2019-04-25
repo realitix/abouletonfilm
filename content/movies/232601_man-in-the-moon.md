@@ -1,1 +1,0 @@
-{"tmdb_id": 232601, "title": "Man in the Moon", "original_title": "Man in the Moon", "slug_title": "man-in-the-moon", "date": "2013-07-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iSnAlPO5KVUTw3d7y3kgXA6yA1B.jpg", "actors": [], "comments": [], "recommandations_id": []}

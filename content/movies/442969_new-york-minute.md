@@ -1,1 +1,0 @@
-{"tmdb_id": 442969, "title": "New York Minute", "original_title": "New York Minute", "slug_title": "new-york-minute", "date": "2017-02-14", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aRiEmkNjpvmsX7i6VJ29gWax4jo.jpg", "actors": ["Hari Nef (The Actress)"], "comments": [], "recommandations_id": []}

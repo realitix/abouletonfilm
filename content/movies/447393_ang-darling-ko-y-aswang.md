@@ -1,1 +1,0 @@
-{"tmdb_id": 447393, "title": "Ang Darling ko'y aswang", "original_title": "Ang Darling ko'y aswang", "slug_title": "ang-darling-ko-y-aswang", "date": "1975-07-25", "genre": "Horreur / Com\u00e9die / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Chiquito ()", "Nida Blanca ()"], "comments": [], "recommandations_id": []}

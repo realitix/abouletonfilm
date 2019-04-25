@@ -1,1 +1,0 @@
-{"tmdb_id": 508731, "title": "Terminally Happy", "original_title": "Terminally Happy", "slug_title": "terminally-happy", "date": "2016-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iqp2KO8x8EY2yU5Y90Sjqvyx4hM.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 425885, "title": "The Fish", "original_title": "The Fish", "slug_title": "the-fish", "date": "2015-05-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fYExXDZt4qRu6bVi7crPzSzvk7N.jpg", "actors": [], "comments": [], "recommandations_id": []}

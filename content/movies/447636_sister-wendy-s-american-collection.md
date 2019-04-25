@@ -1,1 +1,0 @@
-{"tmdb_id": 447636, "title": "Sister Wendy's American Collection", "original_title": "Sister Wendy's American Collection", "slug_title": "sister-wendy-s-american-collection", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sister Wendy Beckett (Narrator)"], "comments": [], "recommandations_id": []}

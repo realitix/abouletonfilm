@@ -1,1 +1,0 @@
-{"tmdb_id": 276015, "title": "Negative Approach: Fair Warning: Vol. 2", "original_title": "Negative Approach: Fair Warning: Vol. 2", "slug_title": "negative-approach-fair-warning-vol-2", "date": "1983-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

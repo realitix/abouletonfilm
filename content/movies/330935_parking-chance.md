@@ -1,1 +1,0 @@
-{"tmdb_id": 330935, "title": "Parking Chance", "original_title": "Parking Chance", "slug_title": "parking-chance", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

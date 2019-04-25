@@ -1,1 +1,0 @@
-{"tmdb_id": 566998, "title": "Entre chien et loup", "original_title": "Entre chien et loup", "slug_title": "entre-chien-et-loup", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

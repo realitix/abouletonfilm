@@ -1,1 +1,0 @@
-{"tmdb_id": 534693, "title": "Hick's Last Stand", "original_title": "Hick's Last Stand", "slug_title": "hick-s-last-stand", "date": "1990-08-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zCZzaDzrwQzULvx4dJhzqGLZuZn.jpg", "actors": ["Herbert Achternbusch ()"], "comments": [], "recommandations_id": []}

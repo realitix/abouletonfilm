@@ -1,1 +1,0 @@
-{"tmdb_id": 542152, "title": "Frozen Fiebre Congelada", "original_title": "Frozen Fiebre Congelada", "slug_title": "frozen-fiebre-congelada", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6u35gjmvbhOMAsWJbY96ab5tfgk.jpg", "actors": [], "comments": [], "recommandations_id": []}

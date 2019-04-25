@@ -1,1 +1,0 @@
-{"tmdb_id": 500882, "title": "Honky Kong", "original_title": "Honky Kong", "slug_title": "honky-kong", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sean Price Williams ()", "Hannah Gross ()", "Alex Ross Perry ()"], "comments": [], "recommandations_id": []}

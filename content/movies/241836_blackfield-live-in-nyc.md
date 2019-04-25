@@ -1,1 +1,0 @@
-{"tmdb_id": 241836, "title": "Blackfield: Live in NYC", "original_title": "Blackfield: Live in NYC", "slug_title": "blackfield-live-in-nyc", "date": "2010-04-23", "genre": "Musique", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nBNupjjHctVSxthtmsKuSh1aua9.jpg", "actors": [], "comments": [], "recommandations_id": []}

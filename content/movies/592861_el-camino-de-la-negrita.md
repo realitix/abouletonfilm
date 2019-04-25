@@ -1,1 +1,0 @@
-{"tmdb_id": 592861, "title": "El camino de la negrita", "original_title": "El camino de la negrita", "slug_title": "el-camino-de-la-negrita", "date": "2019-03-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vmEnFNzsuFpnqnl3JuJavbvZzqK.jpg", "actors": [], "comments": [], "recommandations_id": []}

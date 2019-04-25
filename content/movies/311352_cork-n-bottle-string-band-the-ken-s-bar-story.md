@@ -1,1 +1,0 @@
-{"tmdb_id": 311352, "title": "Cork n' Bottle String Band: The Ken's Bar Story", "original_title": "Cork n' Bottle String Band: The Ken's Bar Story", "slug_title": "cork-n-bottle-string-band-the-ken-s-bar-story", "date": "2007-04-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

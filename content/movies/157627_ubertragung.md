@@ -1,1 +1,0 @@
-{"tmdb_id": 157627, "title": "\u00dcbertragung", "original_title": "\u00dcbertragung", "slug_title": "ubertragung", "date": "2008-11-07", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fndvjZ3tSscBQ3LfQrTlRoQkdoJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

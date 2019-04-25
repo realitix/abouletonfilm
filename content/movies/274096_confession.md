@@ -1,1 +1,0 @@
-{"tmdb_id": 274096, "title": "Confession", "original_title": "Haruka naru Akogare Girochin Koi no Tabi", "slug_title": "confession", "date": "1968-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fcxWn2KTvjGqjHNfMYmsWw6QJFt.jpg", "actors": ["Ky\u00f4ko \u00d4bayashi ()"], "comments": [], "recommandations_id": []}

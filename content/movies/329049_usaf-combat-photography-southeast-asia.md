@@ -1,1 +1,0 @@
-{"tmdb_id": 329049, "title": "USAF Combat Photography: Southeast Asia", "original_title": "USAF Combat Photography: Southeast Asia", "slug_title": "usaf-combat-photography-southeast-asia", "date": "1968-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

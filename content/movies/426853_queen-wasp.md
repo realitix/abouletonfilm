@@ -1,1 +1,0 @@
-{"tmdb_id": 426853, "title": "Queen Wasp", "original_title": "Queen Wasp", "slug_title": "queen-wasp", "date": "2016-06-01", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/34bWzjvfH4J9EludqivHpgnsv5o.jpg", "actors": ["Kathleen Maressa ()", "Shane Ryan ()", "Nick Principe ()"], "comments": [], "recommandations_id": []}

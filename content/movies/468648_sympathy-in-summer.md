@@ -1,1 +1,0 @@
-{"tmdb_id": 468648, "title": "Sympathy in Summer", "original_title": "Sympathy in Summer", "slug_title": "sympathy-in-summer", "date": "1971-03-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

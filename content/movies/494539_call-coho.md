@@ -1,1 +1,0 @@
-{"tmdb_id": 494539, "title": "Call Coho", "original_title": "Call Coho", "slug_title": "call-coho", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

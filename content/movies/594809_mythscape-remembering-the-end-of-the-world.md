@@ -1,1 +1,0 @@
-{"tmdb_id": 594809, "title": "Mythscape: Remembering The End Of The World", "original_title": "Mythscape: Remembering The End Of The World", "slug_title": "mythscape-remembering-the-end-of-the-world", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

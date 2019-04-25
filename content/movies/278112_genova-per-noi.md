@@ -1,1 +1,0 @@
-{"tmdb_id": 278112, "title": "Genova. Per Noi", "original_title": "Genova. Per Noi", "slug_title": "genova-per-noi", "date": "2001-10-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/izRjaFs6sH8uq9hq1JdrePoruni.jpg", "actors": [], "comments": [], "recommandations_id": []}

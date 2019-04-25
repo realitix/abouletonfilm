@@ -1,1 +1,0 @@
-{"tmdb_id": 89769, "title": "Juvenile Liaison", "original_title": "Juvenile Liaison", "slug_title": "juvenile-liaison", "date": "1976-01-01", "genre": "Documentaire", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bJRq8owz7k0Xi2jFAs6ylaXU2FG.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 349775, "title": "\ubb34\ub140\uc758 \ubc24", "original_title": "\ubb34\ub140\uc758 \ubc24", "slug_title": "munyeoyi-bam", "date": "1982-10-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

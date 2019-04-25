@@ -1,1 +1,0 @@
-{"tmdb_id": 248629, "title": "Rohmer in Paris", "original_title": "Rohmer in Paris", "slug_title": "rohmer-in-paris", "date": "2013-11-01", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nTSBW7rtl8pL52feX9PMl2mu1bR.jpg", "actors": [], "comments": [], "recommandations_id": []}

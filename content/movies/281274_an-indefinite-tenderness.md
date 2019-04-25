@@ -1,1 +1,0 @@
-{"tmdb_id": 281274, "title": "An Indefinite Tenderness", "original_title": "An Indefinite Tenderness", "slug_title": "an-indefinite-tenderness", "date": "1969-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

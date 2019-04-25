@@ -1,1 +1,0 @@
-{"tmdb_id": 442771, "title": "Women in Defense", "original_title": "Women in Defense", "slug_title": "women-in-defense", "date": "1941-12-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Katharine Hepburn (Narrator (voice))"], "comments": [], "recommandations_id": []}

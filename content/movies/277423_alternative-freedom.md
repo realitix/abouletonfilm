@@ -1,1 +1,0 @@
-{"tmdb_id": 277423, "title": "Alternative Freedom", "original_title": "Alternative Freedom", "slug_title": "alternative-freedom", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

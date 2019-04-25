@@ -1,1 +1,0 @@
-{"tmdb_id": 323531, "title": "Home with Robin", "original_title": "Home with Robin", "slug_title": "home-with-robin", "date": "2014-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

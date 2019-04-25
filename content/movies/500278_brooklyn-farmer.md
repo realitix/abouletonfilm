@@ -1,1 +1,0 @@
-{"tmdb_id": 500278, "title": "Brooklyn Farmer", "original_title": "Brooklyn Farmer", "slug_title": "brooklyn-farmer", "date": "2013-11-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gcbwcCIcC8Vi8z1UWnkXfMr29cb.jpg", "actors": [], "comments": [], "recommandations_id": []}

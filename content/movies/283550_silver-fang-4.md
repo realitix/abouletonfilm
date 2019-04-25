@@ -1,1 +1,0 @@
-{"tmdb_id": 283550, "title": "Silver Fang 4", "original_title": "Silver Fang 4", "slug_title": "silver-fang-4", "date": "2006-10-03", "genre": "Animation / Action / Aventure", "score": "4.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zLXvdGkFYRlQOfXCWdyQlue7MVc.jpg", "actors": [], "comments": [], "recommandations_id": []}

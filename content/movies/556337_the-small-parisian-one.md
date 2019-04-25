@@ -1,1 +1,0 @@
-{"tmdb_id": 556337, "title": "The Small Parisian One", "original_title": "Le p'tit Parigot", "slug_title": "the-small-parisian-one", "date": "1926-10-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

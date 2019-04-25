@@ -1,1 +1,0 @@
-{"tmdb_id": 509384, "title": "Cascudos", "original_title": "Cascudos", "slug_title": "cascudos", "date": "2018-03-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sr9qx92UmQfJU7lLOSoD2Ts5t9L.jpg", "actors": [], "comments": [], "recommandations_id": []}

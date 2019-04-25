@@ -1,1 +1,0 @@
-{"tmdb_id": 393150, "title": "Lighthouses of America", "original_title": "Lighthouses of America", "slug_title": "lighthouses-of-america", "date": "2007-06-19", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bgZANQr4t11lrm0UHzmtdxGwO6j.jpg", "actors": [], "comments": [], "recommandations_id": []}

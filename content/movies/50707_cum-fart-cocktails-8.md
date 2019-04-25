@@ -1,1 +1,0 @@
-{"tmdb_id": 50707, "title": "Cum Fart Cocktails 8", "original_title": "Cum Fart Cocktails 8", "slug_title": "cum-fart-cocktails-8", "date": "", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uX96be5AXuBDXRvbUdsJbBg0DWb.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,1 @@
-{"tmdb_id": 66492, "title": "Gandhipuram", "original_title": "Gandhipuram", "slug_title": "gandhipuram", "date": "2010-12-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 66492, "title": "Gandhipuram", "original_title": "Gandhipuram", "slug_title": "gandhipuram", "date": "2010-12-24", "genre": [""], "score": "0.0/10", "synopsis": "Gandhipuram", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

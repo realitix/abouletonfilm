@@ -1,1 +1,0 @@
-{"tmdb_id": 484261, "title": "Notre Dame de Paris", "original_title": "Notre Dame de Paris", "slug_title": "notre-dame-de-paris", "date": "2017-11-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/16tP2YBo5NhR0Mdx3Y3gVueVZ0A.jpg", "actors": ["Daniel Lavoie (Frollo)"], "comments": [], "recommandations_id": []}

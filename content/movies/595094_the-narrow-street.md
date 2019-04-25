@@ -1,1 +1,0 @@
-{"tmdb_id": 595094, "title": "The Narrow Street", "original_title": "The Narrow Street", "slug_title": "the-narrow-street", "date": "1925-01-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

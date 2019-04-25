@@ -1,1 +1,0 @@
-{"tmdb_id": 349549, "title": "\uc548\uac1c \uc18d\uc5d0\uc11c 2\ubd84 \ub354", "original_title": "\uc548\uac1c \uc18d\uc5d0\uc11c 2\ubd84 \ub354", "slug_title": "angae-sogeseo-2bun-deo", "date": "1995-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

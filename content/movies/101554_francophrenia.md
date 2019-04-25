@@ -1,1 +1,0 @@
-{"tmdb_id": 101554, "title": "Francophrenia", "original_title": "Francophrenia", "slug_title": "francophrenia", "date": "2012-01-28", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jiQO7eJGW1iFzIWn6oYX5tSiGu8.jpg", "actors": [], "comments": [], "recommandations_id": []}

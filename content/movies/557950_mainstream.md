@@ -1,1 +1,0 @@
-{"tmdb_id": 557950, "title": "Mainstream", "original_title": "Mainstream", "slug_title": "mainstream", "date": "", "genre": "Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Andrew Garfield ()", "Maya Hawke ()", "Nat Wolff ()", "Jason Schwartzman ()"], "comments": [], "recommandations_id": []}

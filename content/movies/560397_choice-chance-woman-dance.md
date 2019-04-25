@@ -1,1 +1,0 @@
-{"tmdb_id": 560397, "title": "Choice Chance Woman Dance", "original_title": "Choice Chance Woman Dance", "slug_title": "choice-chance-woman-dance", "date": "1971-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

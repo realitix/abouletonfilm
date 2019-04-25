@@ -1,1 +1,0 @@
-{"tmdb_id": 464802, "title": "Wiggles and Giggles", "original_title": "Wiggles and Giggles", "slug_title": "wiggles-and-giggles", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

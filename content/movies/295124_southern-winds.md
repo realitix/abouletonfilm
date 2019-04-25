@@ -1,1 +1,0 @@
-{"tmdb_id": 295124, "title": "Southern Winds", "original_title": "Southern Winds", "slug_title": "southern-winds", "date": "1993-01-30", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ydvzdkyyP5ogIBWQxsV78qwffHz.jpg", "actors": [], "comments": [], "recommandations_id": []}

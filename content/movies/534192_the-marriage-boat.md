@@ -1,1 +1,0 @@
-{"tmdb_id": 534192, "title": "The Marriage Boat", "original_title": "Le bateau de mariage", "slug_title": "the-marriage-boat", "date": "1994-01-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ngs1gJrDaMIZFFW7PjBkOxIMAXb.jpg", "actors": [], "comments": [], "recommandations_id": []}

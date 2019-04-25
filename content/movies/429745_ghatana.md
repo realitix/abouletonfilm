@@ -1,1 +1,1 @@
-{"tmdb_id": 429745, "title": "Ghatana", "original_title": "Ghatana", "slug_title": "ghatana", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Anjali Rao (Jency)"], "comments": [], "recommandations_id": []}
+{"tmdb_id": 429745, "title": "Ghatana", "original_title": "Ghatana", "slug_title": "ghatana", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "2016 telugu Movie", "image": "/img/default-cover.png", "actors": ["Anjali Rao (Jency)"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

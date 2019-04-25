@@ -1,1 +1,0 @@
-{"tmdb_id": 577305, "title": "Best Picture Festival 2019: Day 1", "original_title": "Best Picture Festival 2019: Day 1", "slug_title": "best-picture-festival-2019-day-1", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ujEOEEmmmzMYmrtOeSSPAH6Fdl9.jpg", "actors": [], "comments": [], "recommandations_id": []}

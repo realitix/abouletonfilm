@@ -1,1 +1,0 @@
-{"tmdb_id": 551276, "title": "Chiller 13: Horror's Creepiest Kids", "original_title": "Chiller 13: Horror's Creepiest Kids", "slug_title": "chiller-13-horror-s-creepiest-kids", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

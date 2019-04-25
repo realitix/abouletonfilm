@@ -1,1 +1,0 @@
-{"tmdb_id": 560147, "title": "Primary Safety: In The School Building", "original_title": "Primary Safety: In The School Building", "slug_title": "primary-safety-in-the-school-building", "date": "1955-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

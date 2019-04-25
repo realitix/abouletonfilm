@@ -1,1 +1,0 @@
-{"tmdb_id": 511593, "title": "Kara Do\u011fan", "original_title": "Kara Do\u011fan", "slug_title": "kara-dogan", "date": "1972-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j5IRNi6FCgKbtm8ga3lLkWyWyQI.jpg", "actors": ["M\u00fcsfik Kenter ()"], "comments": [], "recommandations_id": []}

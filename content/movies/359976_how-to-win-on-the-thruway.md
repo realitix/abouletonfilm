@@ -1,1 +1,0 @@
-{"tmdb_id": 359976, "title": "How to Win on the Thruway", "original_title": "How to Win on the Thruway", "slug_title": "how-to-win-on-the-thruway", "date": "1962-09-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Arthur Treacher (Narrator)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 512292, "title": "MOTHER BIRD ( DOCUMENTARY)", "original_title": "MOTHER BIRD ( DOCUMENTARY)", "slug_title": "mother-bird-documentary", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

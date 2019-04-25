@@ -1,1 +1,0 @@
-{"tmdb_id": 161140, "title": "The Highroller", "original_title": "The Highroller", "slug_title": "the-highroller", "date": "1984-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kd5bke7zSWliAQazl8cRxkeG3N9.jpg", "actors": ["Jeff Holec ()"], "comments": [], "recommandations_id": []}

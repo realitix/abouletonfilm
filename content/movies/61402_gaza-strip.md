@@ -1,1 +1,0 @@
-{"tmdb_id": 61402, "title": "Gaza Strip", "original_title": "Gaza Strip", "slug_title": "gaza-strip", "date": "2002-04-11", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cOPeqrUoWyc4XckiMkzjUCJu2ir.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 549707, "title": "Time Cube", "original_title": "Time Cube", "slug_title": "time-cube", "date": "2017-10-29", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qvdG4RexYwRIweFvpB5Ha1X3LSL.jpg", "actors": ["Anders Mattson (Anders)"], "comments": [], "recommandations_id": []}

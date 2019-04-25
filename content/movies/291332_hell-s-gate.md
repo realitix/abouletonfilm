@@ -1,1 +1,0 @@
-{"tmdb_id": 291332, "title": "Hell's Gate", "original_title": "Hell's Gate", "slug_title": "hell-s-gate", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

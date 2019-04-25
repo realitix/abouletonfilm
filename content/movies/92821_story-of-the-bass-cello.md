@@ -1,1 +1,0 @@
-{"tmdb_id": 92821, "title": "Story of the Bass Cello", "original_title": "Rom\u00e1n s basou", "slug_title": "story-of-the-bass-cello", "date": "1949-01-01", "genre": "Animation / Fantastique", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lWkKTAaml0UgnAJiVL4y0rnkm6J.jpg", "actors": [], "comments": [], "recommandations_id": [87198]}

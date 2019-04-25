@@ -1,1 +1,0 @@
-{"tmdb_id": 234739, "title": "The Littlest Bully", "original_title": "The Littlest Bully", "slug_title": "the-littlest-bully", "date": "1960-08-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

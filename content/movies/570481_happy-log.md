@@ -1,1 +1,0 @@
-{"tmdb_id": 570481, "title": "Happy Log", "original_title": "Happy Log", "slug_title": "happy-log", "date": "2016-01-21", "genre": "Aventure / Thriller / Action", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tyOOn6atk8dlbcDYz1TiBIdT9Ts.jpg", "actors": [], "comments": [], "recommandations_id": []}

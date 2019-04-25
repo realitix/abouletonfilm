@@ -1,1 +1,0 @@
-{"tmdb_id": 145323, "title": "Sova R\u00e4v", "original_title": "Sova R\u00e4v", "slug_title": "sova-rav", "date": "1982-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1Z2DXRQcUdlnu07frw1ZukY7el2.jpg", "actors": [], "comments": [], "recommandations_id": []}

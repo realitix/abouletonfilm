@@ -1,1 +1,0 @@
-{"tmdb_id": 233656, "title": "City of Wax", "original_title": "City of Wax", "slug_title": "city-of-wax", "date": "1934-02-09", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mM4kC7gCuzIgUL4RuFDAG6mcMwJ.jpg", "actors": ["Gayne Whitman (Narrator)"], "comments": [], "recommandations_id": []}

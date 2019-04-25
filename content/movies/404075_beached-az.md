@@ -1,1 +1,0 @@
-{"tmdb_id": 404075, "title": "Beached Az", "original_title": "Beached Az", "slug_title": "beached-az", "date": "2010-07-01", "genre": "Com\u00e9die / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p2lYgaKNoTbBovoNe9yYitz2rVs.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 291278, "title": "The Invaders: Genesis", "original_title": "The Invaders: Genesis", "slug_title": "the-invaders-genesis", "date": "2012-11-02", "genre": "", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pA67aoW0LEDDf0yLZgNiJFMYgj8.jpg", "actors": [], "comments": [], "recommandations_id": []}

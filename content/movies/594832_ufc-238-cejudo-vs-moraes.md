@@ -1,1 +1,0 @@
-{"tmdb_id": 594832, "title": "UFC 238: Cejudo vs. Moraes", "original_title": "UFC 238: Cejudo vs. Moraes", "slug_title": "ufc-238-cejudo-vs-moraes", "date": "2019-06-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Henry Cejudo ()", "Marlon Moraes ()"], "comments": [], "recommandations_id": []}

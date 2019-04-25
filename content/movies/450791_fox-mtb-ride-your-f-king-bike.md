@@ -1,1 +1,0 @@
-{"tmdb_id": 450791, "title": "FOX MTB - RIDE YOUR F#%KING BIKE!", "original_title": "FOX MTB - RIDE YOUR F#%KING BIKE!", "slug_title": "fox-mtb-ride-your-f-king-bike", "date": "2017-04-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

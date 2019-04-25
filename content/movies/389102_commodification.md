@@ -1,1 +1,0 @@
-{"tmdb_id": 389102, "title": "Commodification", "original_title": "Commodification", "slug_title": "commodification", "date": "2016-03-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jq2iWLAz5lGNIDKJO229xDjm80a.jpg", "actors": [], "comments": [], "recommandations_id": []}

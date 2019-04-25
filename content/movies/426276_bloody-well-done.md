@@ -1,1 +1,0 @@
-{"tmdb_id": 426276, "title": "Bloody Well Done", "original_title": "Bloody Well Done", "slug_title": "bloody-well-done", "date": "1992-12-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

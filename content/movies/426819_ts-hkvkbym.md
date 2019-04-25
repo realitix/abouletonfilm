@@ -1,1 +1,0 @@
-{"tmdb_id": 426819, "title": "\u05e2\u05e5 \u05d4\u05db\u05d5\u05db\u05d1\u05d9\u05dd", "original_title": "\u05e2\u05e5 \u05d4\u05db\u05d5\u05db\u05d1\u05d9\u05dd", "slug_title": "ts-hkvkbym", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

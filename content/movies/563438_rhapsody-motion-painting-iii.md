@@ -1,1 +1,0 @@
-{"tmdb_id": 563438, "title": "Rhapsody - Motion Painting III", "original_title": "Rhapsody - Motion Painting III", "slug_title": "rhapsody-motion-painting-iii", "date": "1951-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

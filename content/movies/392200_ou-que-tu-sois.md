@@ -1,1 +1,0 @@
-{"tmdb_id": 392200, "title": "O\u00f9 que tu sois", "original_title": "O\u00f9 que tu sois", "slug_title": "ou-que-tu-sois", "date": "1987-04-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3Z0h3Fu1D3iboFCzLNf1v2h236z.jpg", "actors": [], "comments": [], "recommandations_id": []}

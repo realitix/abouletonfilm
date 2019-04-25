@@ -1,1 +1,0 @@
-{"tmdb_id": 258586, "title": "Legend of the Lake Bodom", "original_title": "Bodomin legenda", "slug_title": "legend-of-the-lake-bodom", "date": "2006-12-18", "genre": "Crime", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kWjK9jzeU3EQp54hYRHeWtLfRAv.jpg", "actors": [], "comments": [], "recommandations_id": []}

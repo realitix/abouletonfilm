@@ -1,1 +1,0 @@
-{"tmdb_id": 401586, "title": "Dimension", "original_title": "Dimension", "slug_title": "dimension", "date": "1984-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

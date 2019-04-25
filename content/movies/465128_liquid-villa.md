@@ -1,1 +1,0 @@
-{"tmdb_id": 465128, "title": "Liquid Villa", "original_title": "Liquid Villa", "slug_title": "liquid-villa", "date": "2000-07-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

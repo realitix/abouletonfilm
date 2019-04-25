@@ -1,1 +1,0 @@
-{"tmdb_id": 511223, "title": "Canada Vignettes: Bridging the Gap", "original_title": "Canada Vignettes: Bridging the Gap", "slug_title": "canada-vignettes-bridging-the-gap", "date": "1981-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

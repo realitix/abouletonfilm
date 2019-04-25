@@ -1,1 +1,0 @@
-{"tmdb_id": 531605, "title": "Playmobil: The Explorers", "original_title": "Playmobil: The Explorers", "slug_title": "playmobil-the-explorers", "date": "2018-06-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 447239, "title": "A Love That Never Dies", "original_title": "A Love That Never Dies", "slug_title": "a-love-that-never-dies", "date": "2017-03-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

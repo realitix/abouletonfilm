@@ -1,1 +1,0 @@
-{"tmdb_id": 82954, "title": "First Kill", "original_title": "First Kill", "slug_title": "first-kill", "date": "2001-02-23", "genre": "Documentaire / Histoire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8zxthnfudrVBwMTl9qPNYKPLThu.jpg", "actors": ["Michael Herr (Himself)"], "comments": [], "recommandations_id": []}

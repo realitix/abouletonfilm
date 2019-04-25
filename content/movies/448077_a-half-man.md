@@ -1,1 +1,0 @@
-{"tmdb_id": 448077, "title": "A Half Man", "original_title": "A Half Man", "slug_title": "a-half-man", "date": "2005-09-12", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

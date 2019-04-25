@@ -1,1 +1,0 @@
-{"tmdb_id": 354584, "title": "Third Class Executives", "original_title": "Third Class Executives", "slug_title": "third-class-executives", "date": "1952-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

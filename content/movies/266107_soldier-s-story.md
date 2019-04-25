@@ -1,1 +1,0 @@
-{"tmdb_id": 266107, "title": "Soldier's Story", "original_title": "P\u0159\u00edb\u011bh voj\u00e1ka", "slug_title": "soldier-s-story", "date": "1934-04-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nVhaquJDR1C1R5nZnLXdPLKG5DZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

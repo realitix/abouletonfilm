@@ -1,1 +1,0 @@
-{"tmdb_id": 412791, "title": "O Trabalho no Campo", "original_title": "O Trabalho no Campo", "slug_title": "o-trabalho-no-campo", "date": "1963-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iBriubmRR96LA9ELuukTj2wOUX.jpg", "actors": [], "comments": [], "recommandations_id": []}

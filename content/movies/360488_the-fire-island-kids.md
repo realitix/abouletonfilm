@@ -1,1 +1,0 @@
-{"tmdb_id": 360488, "title": "The Fire Island Kids", "original_title": "The Fire Island Kids", "slug_title": "the-fire-island-kids", "date": "1971-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6Khvykb3n04f4X8yvWeBM0fWh9M.jpg", "actors": [], "comments": [], "recommandations_id": []}

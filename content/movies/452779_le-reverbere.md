@@ -1,1 +1,0 @@
-{"tmdb_id": 452779, "title": "Le r\u00e9verb\u00e8re", "original_title": "Le r\u00e9verb\u00e8re", "slug_title": "le-reverbere", "date": "1977-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ci5zgSNBCCQMh4xtHKI21MnzLbR.jpg", "actors": ["Sarah d\u2019Arno ()"], "comments": [], "recommandations_id": []}

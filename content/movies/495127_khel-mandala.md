@@ -1,1 +1,0 @@
-{"tmdb_id": 495127, "title": "Khel Mandala", "original_title": "Khel Mandala", "slug_title": "khel-mandala", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

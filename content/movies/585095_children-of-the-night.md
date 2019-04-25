@@ -1,1 +1,0 @@
-{"tmdb_id": 585095, "title": "Children of the Night", "original_title": "Children of the Night", "slug_title": "children-of-the-night", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

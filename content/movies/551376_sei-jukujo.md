@@ -1,1 +1,0 @@
-{"tmdb_id": 551376, "title": "Sei Jukujo", "original_title": "Sei Jukujo", "slug_title": "sei-jukujo", "date": "1988-04-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7mauYRznLmFOu0gOUvcnmRvSot1.jpg", "actors": [], "comments": [], "recommandations_id": []}

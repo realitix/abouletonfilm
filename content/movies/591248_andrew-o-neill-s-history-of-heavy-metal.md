@@ -1,1 +1,0 @@
-{"tmdb_id": 591248, "title": "Andrew O'Neill's History of Heavy Metal", "original_title": "Andrew O'Neill's History of Heavy Metal", "slug_title": "andrew-o-neill-s-history-of-heavy-metal", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

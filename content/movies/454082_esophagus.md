@@ -1,1 +1,0 @@
-{"tmdb_id": 454082, "title": "Esophagus", "original_title": "Esophagus", "slug_title": "esophagus", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/27ldLHAcA8KdckN4IK7f91CCZQU.jpg", "actors": [], "comments": [], "recommandations_id": []}

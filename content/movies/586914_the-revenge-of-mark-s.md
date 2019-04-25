@@ -1,1 +1,0 @@
-{"tmdb_id": 586914, "title": "The Revenge of Mark S.", "original_title": "Die Rache Des Mark S.", "slug_title": "the-revenge-of-mark-s", "date": "1997-01-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 478340, "title": "Everybody's Doing It", "original_title": "Everybody's Doing It", "slug_title": "everybody-s-doing-it", "date": "1913-01-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

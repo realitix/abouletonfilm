@@ -1,1 +1,0 @@
-{"tmdb_id": 357474, "title": "Um dia, um circo", "original_title": "Um dia, um circo", "slug_title": "um-dia-um-circo", "date": "2006-09-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

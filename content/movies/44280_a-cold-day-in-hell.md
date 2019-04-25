@@ -1,1 +1,0 @@
-{"tmdb_id": 44280, "title": "A Cold Day in Hell", "original_title": "A Cold Day in Hell", "slug_title": "a-cold-day-in-hell", "date": "2007-06-05", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/XyQkKg1ubWSdbQlIPVy6UiLkYB.jpg", "actors": [], "comments": [], "recommandations_id": []}

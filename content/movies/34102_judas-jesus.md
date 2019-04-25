@@ -1,1 +1,0 @@
-{"tmdb_id": 34102, "title": "Judas & Jesus", "original_title": "Judas & Jesus", "slug_title": "judas-jesus", "date": "2008-06-09", "genre": "Animation", "score": "7.1/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v4UHCuWfref6yg9JDN4Xvwnymbs.jpg", "actors": [], "comments": [], "recommandations_id": [123867, 90497]}

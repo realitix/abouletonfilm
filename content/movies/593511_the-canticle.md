@@ -1,1 +1,0 @@
-{"tmdb_id": 593511, "title": "The Canticle", "original_title": "Le cantique", "slug_title": "the-canticle", "date": "2016-12-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2CSmM9G0YuzK3vAoSnzCtkrN7BH.jpg", "actors": ["Delphine Rollin ()", "Xavier Goulard ()"], "comments": [], "recommandations_id": []}

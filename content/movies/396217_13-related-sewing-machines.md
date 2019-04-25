@@ -1,1 +1,0 @@
-{"tmdb_id": 396217, "title": "13 Related Sewing Machines", "original_title": "13 Related Sewing Machines", "slug_title": "13-related-sewing-machines", "date": "2011-03-04", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 477525, "title": "Twisted Daddy", "original_title": "\uc560\ube44", "slug_title": "twisted-daddy", "date": "2016-05-12", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gHHDWhgHRWE5jSLSA871oyCXkuT.jpg", "actors": ["Hong Kyung-in ()"], "comments": [], "recommandations_id": []}

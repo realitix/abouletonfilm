@@ -1,1 +1,0 @@
-{"tmdb_id": 199482, "title": "Sala de guardia", "original_title": "Sala de guardia", "slug_title": "sala-de-guardia", "date": "1952-02-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kK2C3tEGPRGDZBqOYgSEYm2XwBX.jpg", "actors": [], "comments": [], "recommandations_id": []}

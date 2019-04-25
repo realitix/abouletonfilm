@@ -1,1 +1,0 @@
-{"tmdb_id": 410149, "title": "Madhura Nagarilo", "original_title": "Madhura Nagarilo", "slug_title": "madhura-nagarilo", "date": "1991-08-05", "genre": "Crime / Thriller / Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Srikanth Meka ()", "Nirosha ()", "Chinna ()", "Suresh ()", "Meena ()"], "comments": [], "recommandations_id": []}

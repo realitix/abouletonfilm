@@ -1,1 +1,0 @@
-{"tmdb_id": 567295, "title": "Surf Siberia", "original_title": "\u041f\u0440\u0438\u0431\u043e\u0439", "slug_title": "surf-siberia", "date": "2018-11-08", "genre": "Documentaire / Aventure", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5rTu9UQeoJyJmtxYHIzAvu9TqLT.jpg", "actors": [], "comments": [], "recommandations_id": []}

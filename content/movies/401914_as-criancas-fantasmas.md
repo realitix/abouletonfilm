@@ -1,1 +1,0 @@
-{"tmdb_id": 401914, "title": "As Crian\u00e7as Fantasmas", "original_title": "As Crian\u00e7as Fantasmas", "slug_title": "as-criancas-fantasmas", "date": "2016-06-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zlJaFTxAhNG25xelkafNe0CkO7F.jpg", "actors": [], "comments": [], "recommandations_id": []}

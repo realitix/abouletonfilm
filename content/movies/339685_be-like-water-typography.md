@@ -1,1 +1,0 @@
-{"tmdb_id": 339685, "title": "Be like Water Typography", "original_title": "Be like Water Typography", "slug_title": "be-like-water-typography", "date": "2012-04-12", "genre": "Action", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

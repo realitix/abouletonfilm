@@ -1,1 +1,0 @@
-{"tmdb_id": 425838, "title": "La ragazza Carla", "original_title": "La ragazza Carla", "slug_title": "la-ragazza-carla", "date": "2015-09-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/onSQ7lNkl2LgRKVKUNeIDOYSakR.jpg", "actors": ["Carla Chiarelli ()", "Stefano Belisari ()"], "comments": [], "recommandations_id": []}

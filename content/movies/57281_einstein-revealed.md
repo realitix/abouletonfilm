@@ -1,1 +1,0 @@
-{"tmdb_id": 57281, "title": "Einstein Revealed", "original_title": "Einstein Revealed", "slug_title": "einstein-revealed", "date": "1997-09-09", "genre": "Documentaire", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xIq3kn6zvjqD7LcvJlwM10Yd5HH.jpg", "actors": ["F. Murray Abraham (Narrator)"], "comments": [], "recommandations_id": []}

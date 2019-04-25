@@ -1,1 +1,0 @@
-{"tmdb_id": 288358, "title": "Die R\u00e4uber", "original_title": "Die R\u00e4uber", "slug_title": "die-rauber", "date": "1940-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lil Dagover ()", "Heinrich George ()", "Hannelore Schroth ()"], "comments": [], "recommandations_id": []}

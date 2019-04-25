@@ -1,1 +1,0 @@
-{"tmdb_id": 427846, "title": "For His Sake", "original_title": "For His Sake", "slug_title": "for-his-sake", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Vikki Earle (Jennifer)", "Samira Saaed (Rebecca Stevens)", "Claryn Scott (Brenda)"], "comments": [], "recommandations_id": []}

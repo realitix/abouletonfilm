@@ -1,1 +1,0 @@
-{"tmdb_id": 47565, "title": "Billy Joel : Tokyo Dome", "original_title": "Billy Joel : Tokyo Dome", "slug_title": "billy-joel-tokyo-dome", "date": "2006-08-06", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8iqmJQmMtNGOSB9Sp02Xk1LJMeW.jpg", "actors": ["Billy Joel (himself)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 509207, "title": "Combat Obscura", "original_title": "Combat Obscura", "slug_title": "combat-obscura", "date": "2018-03-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A4BiG9G4s2EpWAnQtY6rbWiHc1Q.jpg", "actors": [], "comments": [], "recommandations_id": []}

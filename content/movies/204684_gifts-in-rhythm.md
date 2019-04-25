@@ -1,1 +1,0 @@
-{"tmdb_id": 204684, "title": "Gifts in Rhythm", "original_title": "Gifts in Rhythm", "slug_title": "gifts-in-rhythm", "date": "1936-10-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

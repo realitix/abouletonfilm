@@ -1,1 +1,0 @@
-{"tmdb_id": 382742, "title": "Transatlantic Smash", "original_title": "Transatlantic Smash", "slug_title": "transatlantic-smash", "date": "2014-05-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

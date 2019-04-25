@@ -1,1 +1,0 @@
-{"tmdb_id": 309127, "title": "War in the Pacific: From Pearl Harbor to Hiroshima", "original_title": "War in the Pacific: From Pearl Harbor to Hiroshima", "slug_title": "war-in-the-pacific-from-pearl-harbor-to-hiroshima", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

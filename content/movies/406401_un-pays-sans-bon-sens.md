@@ -1,1 +1,0 @@
-{"tmdb_id": 406401, "title": "Un pays sans bon sens!", "original_title": "Un pays sans bon sens!", "slug_title": "un-pays-sans-bon-sens", "date": "1970-11-26", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fqY1f9pqfsSS8C7I4qfs6A0UbcW.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 548304, "title": "Dark Glasses at Night", "original_title": "Dark Glasses at Night", "slug_title": "dark-glasses-at-night", "date": "2018-12-20", "genre": "Crime", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

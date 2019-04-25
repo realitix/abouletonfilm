@@ -1,1 +1,0 @@
-{"tmdb_id": 418959, "title": "The Search for Sherlock Holmes", "original_title": "The Search for Sherlock Holmes", "slug_title": "the-search-for-sherlock-holmes", "date": "2010-10-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["David Hayman (himself)"], "comments": [], "recommandations_id": []}

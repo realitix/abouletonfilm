@@ -1,1 +1,0 @@
-{"tmdb_id": 406900, "title": "Wait it's the soldiers, I have to hang up now", "original_title": "Wait it's the soldiers, I have to hang up now", "slug_title": "wait-it-s-the-soldiers-i-have-to-hang-up-now", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

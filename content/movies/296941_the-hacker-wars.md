@@ -1,1 +1,0 @@
-{"tmdb_id": 296941, "title": "The Hacker Wars", "original_title": "The Hacker Wars", "slug_title": "the-hacker-wars", "date": "2014-10-17", "genre": "Documentaire", "score": "5.9/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hB9s6rwxRD75oOCcVOGAdRJfAs8.jpg", "actors": [], "comments": [], "recommandations_id": [326250]}

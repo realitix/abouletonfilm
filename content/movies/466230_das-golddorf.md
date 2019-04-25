@@ -1,1 +1,0 @@
-{"tmdb_id": 466230, "title": "Das Golddorf", "original_title": "Das Golddorf", "slug_title": "das-golddorf", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

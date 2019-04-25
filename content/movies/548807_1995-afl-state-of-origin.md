@@ -1,1 +1,0 @@
-{"tmdb_id": 548807, "title": "1995 AFL State of Origin", "original_title": "1995 AFL State of Origin", "slug_title": "1995-afl-state-of-origin", "date": "1995-10-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wq6OHRfhjaUHeIw3hMRv5MPjPbl.jpg", "actors": [], "comments": [], "recommandations_id": []}

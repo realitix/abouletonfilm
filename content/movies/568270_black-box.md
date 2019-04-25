@@ -1,1 +1,0 @@
-{"tmdb_id": 568270, "title": "Black Box", "original_title": "Juoda D\u0117\u017e\u0117", "slug_title": "black-box", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

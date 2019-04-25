@@ -1,1 +1,1 @@
-{"tmdb_id": 487735, "title": "Skydogs", "original_title": "Skydogs", "slug_title": "skydogs", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 487735, "title": "Skydogs", "original_title": "Skydogs", "slug_title": "skydogs", "date": "2012-01-01", "genre": [""], "score": "0.0/10", "synopsis": "A voyage through the cosmos with dogs.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

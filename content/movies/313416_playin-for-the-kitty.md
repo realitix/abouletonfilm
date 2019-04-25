@@ -1,1 +1,0 @@
-{"tmdb_id": 313416, "title": "Playin' for the Kitty", "original_title": "Playin' for the Kitty", "slug_title": "playin-for-the-kitty", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

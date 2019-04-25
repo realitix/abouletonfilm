@@ -1,1 +1,0 @@
-{"tmdb_id": 539530, "title": "The Laughter Amid Tears", "original_title": "The Laughter Amid Tears", "slug_title": "the-laughter-amid-tears", "date": "2018-04-12", "genre": "Guerre / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

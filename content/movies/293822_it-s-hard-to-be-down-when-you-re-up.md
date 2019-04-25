@@ -1,1 +1,0 @@
-{"tmdb_id": 293822, "title": "It's Hard to be Down When You're Up", "original_title": "It's Hard to be Down When You're Up", "slug_title": "it-s-hard-to-be-down-when-you-re-up", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Marcia Resnick ()"], "comments": [], "recommandations_id": []}

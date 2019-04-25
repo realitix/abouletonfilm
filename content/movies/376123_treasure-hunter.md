@@ -1,1 +1,0 @@
-{"tmdb_id": 376123, "title": "Treasure Hunter", "original_title": "Treasure Hunter", "slug_title": "treasure-hunter", "date": "2016-01-05", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sYNm9LAV14cypISFSgk6O2sZrGa.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 451320, "title": "A Nervous Life of Cosmos", "original_title": "Nerwowe \u017cycie kosmosu", "slug_title": "a-nervous-life-of-cosmos", "date": "1986-01-01", "genre": "Animation", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pJ9E0jTaQvwxrgXKPC0oZJejlLY.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 540091, "title": "Yoga Target Zone - Power Sweat", "original_title": "Yoga Target Zone - Power Sweat", "slug_title": "yoga-target-zone-power-sweat", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6zubGGC2K5dzbPOmk20YHc1XhGN.jpg", "actors": [], "comments": [], "recommandations_id": []}

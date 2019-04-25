@@ -1,1 +1,0 @@
-{"tmdb_id": 259819, "title": "Protocol", "original_title": "Protocolo", "slug_title": "protocol", "date": "2013-04-19", "genre": "Science-Fiction", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3Ce5HDerFWXgOp7RhW9iP60TP9m.jpg", "actors": ["Emilio Savini (Cl\u00f3n)"], "comments": [], "recommandations_id": []}

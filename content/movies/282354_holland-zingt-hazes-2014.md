@@ -1,1 +1,0 @@
-{"tmdb_id": 282354, "title": "Holland zingt Hazes 2014", "original_title": "Holland zingt Hazes 2014", "slug_title": "holland-zingt-hazes-2014", "date": "2014-03-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bE7DFdUX456uMBpLaifiZowRhmL.jpg", "actors": [], "comments": [], "recommandations_id": []}

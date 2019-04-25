@@ -1,1 +1,0 @@
-{"tmdb_id": 288777, "title": "Garmento", "original_title": "Garmento", "slug_title": "garmento", "date": "2002-03-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

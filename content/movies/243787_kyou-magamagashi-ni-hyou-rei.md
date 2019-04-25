@@ -1,1 +1,0 @@
-{"tmdb_id": 243787, "title": "Kyou <Magamagashi> Ni Hyou Rei", "original_title": "Kyou <Magamagashi> Ni Hyou Rei", "slug_title": "kyou-magamagashi-ni-hyou-rei", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mRZ9LQkSITl8ComH94PEqh9gsMF.jpg", "actors": [], "comments": [], "recommandations_id": []}

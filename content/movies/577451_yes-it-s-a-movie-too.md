@@ -1,1 +1,0 @@
-{"tmdb_id": 577451, "title": "Yes. It's A Movie Too", "original_title": "Yes. It's A Movie Too", "slug_title": "yes-it-s-a-movie-too", "date": "2012-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jClylvfrDDszEAqYmR6JWqLpmOO.jpg", "actors": [], "comments": [], "recommandations_id": []}

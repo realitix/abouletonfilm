@@ -1,1 +1,0 @@
-{"tmdb_id": 493362, "title": "City Horror: Song Of The Dead", "original_title": "City Horror: Song Of The Dead", "slug_title": "city-horror-song-of-the-dead", "date": "", "genre": "Horreur", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rCJoDsrYfLQhRpCWmtNNUGmt6r3.jpg", "actors": [], "comments": [], "recommandations_id": []}

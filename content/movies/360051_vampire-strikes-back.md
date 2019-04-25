@@ -1,1 +1,0 @@
-{"tmdb_id": 360051, "title": "Vampire Strikes Back", "original_title": "Vampire Strikes Back", "slug_title": "vampire-strikes-back", "date": "1989-09-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

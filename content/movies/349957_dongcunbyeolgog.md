@@ -1,1 +1,0 @@
-{"tmdb_id": 349957, "title": "\ub3d9\ucd98\ubcc4\uace1", "original_title": "\ub3d9\ucd98\ubcc4\uace1", "slug_title": "dongcunbyeolgog", "date": "1991-02-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

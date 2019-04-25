@@ -1,1 +1,0 @@
-{"tmdb_id": 522885, "title": "The Steel Fisted Dragon", "original_title": "Duel Maut", "slug_title": "the-steel-fisted-dragon", "date": "1977-01-01", "genre": "Action", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qKbvbti0NmGFcI9FAxSX2YmOUnn.jpg", "actors": ["Steve Lee ()", "Chan Lau ()"], "comments": [], "recommandations_id": []}

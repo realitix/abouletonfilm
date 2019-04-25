@@ -1,1 +1,0 @@
-{"tmdb_id": 268585, "title": "Sen-hime to Hideyori", "original_title": "Sen-hime to Hideyori", "slug_title": "sen-hime-to-hideyori", "date": "1962-01-01", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ylQwnEJrN13MaopGXg6enOGjjb6.jpg", "actors": [], "comments": [], "recommandations_id": []}

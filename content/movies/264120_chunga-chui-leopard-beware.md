@@ -1,1 +1,0 @@
-{"tmdb_id": 264120, "title": "Chunga Chui Leopard Beware", "original_title": "Chunga Chui Leopard Beware", "slug_title": "chunga-chui-leopard-beware", "date": "2001-06-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

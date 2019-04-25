@@ -1,1 +1,0 @@
-{"tmdb_id": 399873, "title": "The Lasting Persimmon", "original_title": "The Lasting Persimmon", "slug_title": "the-lasting-persimmon", "date": "2015-10-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x1Glz05WppvEZjl2c0NSLi54pE7.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 166738, "title": "The Feed", "original_title": "The Feed", "slug_title": "the-feed", "date": "2010-05-23", "genre": "Horreur", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kWwHrVtISGUkQ5fcHQVS9jWuVhx.jpg", "actors": [], "comments": [], "recommandations_id": []}

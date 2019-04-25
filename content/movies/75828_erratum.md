@@ -1,1 +1,0 @@
-{"tmdb_id": 75828, "title": "Erratum", "original_title": "Erratum", "slug_title": "erratum", "date": "2010-09-16", "genre": "", "score": "6.6/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wZixBqSTrUPq7vbsolWIcOipYjx.jpg", "actors": [], "comments": [], "recommandations_id": [45738, 191407, 181284, 91691]}

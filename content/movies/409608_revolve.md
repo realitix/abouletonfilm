@@ -1,1 +1,0 @@
-{"tmdb_id": 409608, "title": "Revolve", "original_title": "Revolve", "slug_title": "revolve", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

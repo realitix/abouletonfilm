@@ -1,1 +1,0 @@
-{"tmdb_id": 373271, "title": "blizzard", "original_title": "blizzard", "slug_title": "blizzard", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 292171, "title": "La fanciulla del West", "original_title": "La fanciulla del West", "slug_title": "la-fanciulla-del-west", "date": "1982-09-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qs324XF3eN12bJcUtQeWwo1pV9z.jpg", "actors": [], "comments": [], "recommandations_id": []}

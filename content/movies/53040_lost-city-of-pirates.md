@@ -1,1 +1,0 @@
-{"tmdb_id": 53040, "title": "Lost City of Pirates", "original_title": "Lost City of Pirates", "slug_title": "lost-city-of-pirates", "date": "", "genre": "Documentaire / Histoire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9OG67p6nGUAmfIRO01vD5bmERPl.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 269807, "title": "Kanavu Kadhalan", "original_title": "Kanavu Kadhalan", "slug_title": "kanavu-kadhalan", "date": "2013-01-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jW5mVMOLQSCtzGtvHyMmlVoApng.jpg", "actors": [], "comments": [], "recommandations_id": []}

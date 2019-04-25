@@ -1,1 +1,0 @@
-{"tmdb_id": 504764, "title": "Wild Japan: Snow monkeys", "original_title": "Wild Japan: Snow monkeys", "slug_title": "wild-japan-snow-monkeys", "date": "2014-02-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sbjX3qcwNHZXJoi9id6LDJvEkYQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 532762, "title": "The Gaze", "original_title": "The Gaze", "slug_title": "the-gaze", "date": "", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4ize5z24eB8bGGm1TPX9bRhgFGY.jpg", "actors": [], "comments": [], "recommandations_id": []}

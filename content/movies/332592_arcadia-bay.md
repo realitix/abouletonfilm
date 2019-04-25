@@ -1,1 +1,0 @@
-{"tmdb_id": 332592, "title": "Arcadia Bay", "original_title": "Arcadia Bay", "slug_title": "arcadia-bay", "date": "2015-01-01", "genre": "Myst\u00e8re", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rzvIdKgdR41PY3I5sohOv88LuJH.jpg", "actors": [], "comments": [], "recommandations_id": []}

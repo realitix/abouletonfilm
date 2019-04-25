@@ -1,1 +1,0 @@
-{"tmdb_id": 32637, "title": "Half Broken", "original_title": "Half Broken", "slug_title": "half-broken", "date": "2010-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Danielle Geddes (Alison Taylor)", "Maia Krall Fry (Lauren Pearson)"], "comments": [], "recommandations_id": []}

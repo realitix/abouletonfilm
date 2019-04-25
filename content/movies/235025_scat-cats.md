@@ -1,1 +1,0 @@
-{"tmdb_id": 235025, "title": "Scat Cats", "original_title": "Scat Cats", "slug_title": "scat-cats", "date": "1957-06-25", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yZII0snIrekqTqc9EwgHDOPKm4B.jpg", "actors": [], "comments": [], "recommandations_id": []}

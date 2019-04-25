@@ -1,1 +1,0 @@
-{"tmdb_id": 556839, "title": "\u00c7anakkale Ge\u00e7ilemedi", "original_title": "\u00c7anakkale Ge\u00e7ilemedi", "slug_title": "canakkale-gecilemedi", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

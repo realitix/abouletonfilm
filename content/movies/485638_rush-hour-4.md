@@ -1,1 +1,0 @@
-{"tmdb_id": 485638, "title": "Rush Hour 4", "original_title": "Rush Hour 4", "slug_title": "rush-hour-4", "date": "", "genre": "Action / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ifG4PsxxAkzGO7L4or357CY8BgB.jpg", "actors": ["Jackie Chan (Lee)", "Chris Tucker (Carter)"], "comments": [], "recommandations_id": []}

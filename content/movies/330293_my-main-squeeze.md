@@ -1,1 +1,0 @@
-{"tmdb_id": 330293, "title": "My Main Squeeze", "original_title": "My Main Squeeze", "slug_title": "my-main-squeeze", "date": "2011-03-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

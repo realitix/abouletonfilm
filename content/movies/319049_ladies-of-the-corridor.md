@@ -1,1 +1,0 @@
-{"tmdb_id": 319049, "title": "Ladies of the Corridor", "original_title": "Ladies of the Corridor", "slug_title": "ladies-of-the-corridor", "date": "1975-04-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

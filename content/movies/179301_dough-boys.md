@@ -1,1 +1,0 @@
-{"tmdb_id": 179301, "title": "Dough boys", "original_title": "Dough boys", "slug_title": "dough-boys", "date": "2008-03-27", "genre": "", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Louis Lombardi (Lou)"], "comments": [], "recommandations_id": []}

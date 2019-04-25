@@ -1,1 +1,0 @@
-{"tmdb_id": 413027, "title": "Jos\u00e9 Maza, Sky Traveller", "original_title": "Jose Maza, el viajero del cielo", "slug_title": "jose-maza-sky-traveller", "date": "2010-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

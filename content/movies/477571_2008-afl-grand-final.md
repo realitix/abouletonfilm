@@ -1,1 +1,0 @@
-{"tmdb_id": 477571, "title": "2008 AFL Grand Final", "original_title": "2008 AFL Grand Final", "slug_title": "2008-afl-grand-final", "date": "2008-09-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i83Nt3RN94SwPuiB6oh6rFGwjFU.jpg", "actors": [], "comments": [], "recommandations_id": []}

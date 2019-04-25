@@ -1,1 +1,0 @@
-{"tmdb_id": 326638, "title": "Warren Miller's White Winter Heat", "original_title": "Warren Miller's White Winter Heat", "slug_title": "warren-miller-s-white-winter-heat", "date": "1988-05-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 454967, "title": "Fred Allen's Prize Playlets", "original_title": "Fred Allen's Prize Playlets", "slug_title": "fred-allen-s-prize-playlets", "date": "1929-11-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Fred Allen ()"], "comments": [], "recommandations_id": []}

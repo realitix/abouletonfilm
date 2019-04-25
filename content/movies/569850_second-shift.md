@@ -1,1 +1,0 @@
-{"tmdb_id": 569850, "title": "Second Shift", "original_title": "Second Shift", "slug_title": "second-shift", "date": "1999-09-19", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

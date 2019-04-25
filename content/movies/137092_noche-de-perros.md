@@ -1,1 +1,0 @@
-{"tmdb_id": 137092, "title": "Noche de perros", "original_title": "Noche de perros", "slug_title": "noche-de-perros", "date": "2011-10-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Daniel Carles (Dani Doberman)", "Carlos Calder\u00f3n ()", "Gabriel Varela ()", "Orlando Urdaneta ()"], "comments": [], "recommandations_id": []}

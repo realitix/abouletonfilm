@@ -1,1 +1,0 @@
-{"tmdb_id": 85978, "title": "Robes of War", "original_title": "Robe de guette", "slug_title": "robes-of-war", "date": "2009-06-17", "genre": "Guerre / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7zYGPLtsKcpMj91sxojV87MAYoY.jpg", "actors": [], "comments": [], "recommandations_id": []}

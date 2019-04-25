@@ -1,1 +1,0 @@
-{"tmdb_id": 150801, "title": "It's a Dream", "original_title": "In yek royast", "slug_title": "it-s-a-dream", "date": "2012-11-21", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

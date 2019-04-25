@@ -1,1 +1,0 @@
-{"tmdb_id": 397809, "title": "Discovering Yosemite", "original_title": "Discovering Yosemite", "slug_title": "discovering-yosemite", "date": "2005-01-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/XzP4qMHzErUmQSlrlTcZ9FqM9Z.jpg", "actors": [], "comments": [], "recommandations_id": []}

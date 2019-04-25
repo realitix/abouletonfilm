@@ -1,1 +1,0 @@
-{"tmdb_id": 337741, "title": "Patoruzito: The Great Adventure", "original_title": "Patoruzito: La gran aventura", "slug_title": "patoruzito-the-great-adventure", "date": "2006-06-08", "genre": "Animation", "score": "6.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

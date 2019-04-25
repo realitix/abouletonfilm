@@ -1,1 +1,0 @@
-{"tmdb_id": 341282, "title": "A Segunda Besta", "original_title": "A Segunda Besta", "slug_title": "a-segunda-besta", "date": "1977-05-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ujGxjSAWcRZQ9b6lYHs59tiQsPU.jpg", "actors": [], "comments": [], "recommandations_id": []}

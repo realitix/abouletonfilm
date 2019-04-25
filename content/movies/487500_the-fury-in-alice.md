@@ -1,1 +1,0 @@
-{"tmdb_id": 487500, "title": "The Fury in Alice", "original_title": "The Fury in Alice", "slug_title": "the-fury-in-alice", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Vanessa del Rio (Marilyn)"], "comments": [], "recommandations_id": []}

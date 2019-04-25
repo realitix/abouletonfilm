@@ -1,1 +1,0 @@
-{"tmdb_id": 308623, "title": "Voodoo Glow Skulls: Holmes Movies", "original_title": "Voodoo Glow Skulls: Holmes Movies", "slug_title": "voodoo-glow-skulls-holmes-movies", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

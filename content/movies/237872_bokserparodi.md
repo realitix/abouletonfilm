@@ -1,1 +1,0 @@
-{"tmdb_id": 237872, "title": "Bokserparodi", "original_title": "Bokserparodi", "slug_title": "bokserparodi", "date": "1907-11-17", "genre": "Com\u00e9die", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3ZvkAuUGuYjEN9vejXc3d1pMgrG.jpg", "actors": [], "comments": [], "recommandations_id": []}

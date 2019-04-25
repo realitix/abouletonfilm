@@ -1,1 +1,0 @@
-{"tmdb_id": 554178, "title": "Le d\u00eener", "original_title": "Le d\u00eener", "slug_title": "le-diner", "date": "2006-08-24", "genre": "Com\u00e9die", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Julie Dray ()", "Guillaume Cramoisan ()"], "comments": [], "recommandations_id": []}

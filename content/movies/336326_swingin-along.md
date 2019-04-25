@@ -1,1 +1,0 @@
-{"tmdb_id": 336326, "title": "Swingin' Along", "original_title": "Swingin' Along", "slug_title": "swingin-along", "date": "1961-04-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pYwLRduH3vT8jAAzDNCm1sAjKE2.jpg", "actors": [], "comments": [], "recommandations_id": []}

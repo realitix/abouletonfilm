@@ -1,1 +1,0 @@
-{"tmdb_id": 71379, "title": "Friends Of Kim", "original_title": "Friends Of Kim", "slug_title": "friends-of-kim", "date": "2006-03-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kmyapbkbHUSFzH7NFhTTIsXe3nG.jpg", "actors": [], "comments": [], "recommandations_id": []}

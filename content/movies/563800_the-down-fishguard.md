@@ -1,1 +1,0 @@
-{"tmdb_id": 563800, "title": "The Down Fishguard", "original_title": "The Down Fishguard", "slug_title": "the-down-fishguard", "date": "2002-11-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/haz8D5COhJ9i8LfrBH5G1ZXb6Fz.jpg", "actors": [], "comments": [], "recommandations_id": []}

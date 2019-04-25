@@ -1,1 +1,0 @@
-{"tmdb_id": 460113, "title": "Anhedonia", "original_title": "Anhedonia", "slug_title": "anhedonia", "date": "2015-11-09", "genre": "Drame", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mo5NykcSVN3ZUvNHUG3RuYKh6X0.jpg", "actors": ["Daniel Delgado (Himself)"], "comments": [], "recommandations_id": []}

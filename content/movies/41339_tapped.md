@@ -1,1 +1,0 @@
-{"tmdb_id": 41339, "title": "Tapped", "original_title": "Tapped", "slug_title": "tapped", "date": "2009-07-31", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oDudehGnaCkXSKOkt9I8qM64S9W.jpg", "actors": [], "comments": [], "recommandations_id": [65275, 73475]}

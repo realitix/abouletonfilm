@@ -1,1 +1,0 @@
-{"tmdb_id": 300335, "title": "Aakhri Insaaf", "original_title": "Aakhri Insaaf", "slug_title": "aakhri-insaaf", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

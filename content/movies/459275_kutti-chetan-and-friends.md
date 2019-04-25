@@ -1,1 +1,0 @@
-{"tmdb_id": 459275, "title": "Kutti Chetan And Friends", "original_title": "Kutti Chetan And Friends", "slug_title": "kutti-chetan-and-friends", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

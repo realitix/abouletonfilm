@@ -1,1 +1,0 @@
-{"tmdb_id": 349369, "title": "Audition", "original_title": "\uc624\ub514\uc158", "slug_title": "audition", "date": "1997-04-19", "genre": "Com\u00e9die", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ji-heon Im ()", "Cheong-suk Park ()", "Seong-su Heo ()", "Yong-man Ju ()", "Choi Jong-won ()"], "comments": [], "recommandations_id": []}

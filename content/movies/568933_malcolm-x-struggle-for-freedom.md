@@ -1,1 +1,0 @@
-{"tmdb_id": 568933, "title": "Malcolm X: Struggle for Freedom", "original_title": "Malcolm X: Struggle for Freedom", "slug_title": "malcolm-x-struggle-for-freedom", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

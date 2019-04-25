@@ -1,1 +1,0 @@
-{"tmdb_id": 497474, "title": "\ucca0\uc5c6\ub294 \uc544\ub0b4\uc758 \uc774\uc911\uc0dd\ud65c", "original_title": "\ucca0\uc5c6\ub294 \uc544\ub0b4\uc758 \uc774\uc911\uc0dd\ud65c", "slug_title": "ceoleobsneun-anaeyi-ijungsaenghwal", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 304927, "title": "Orphee and Eurydice", "original_title": "Orphee and Eurydice", "slug_title": "orphee-and-eurydice", "date": "2012-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

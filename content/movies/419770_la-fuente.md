@@ -1,1 +1,0 @@
-{"tmdb_id": 419770, "title": "La fuente", "original_title": "La fuente", "slug_title": "la-fuente", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ymhFE3DWspYNvJR6ez6wq4ieKLA.jpg", "actors": ["Alexander Bustamante (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 503400, "title": "Confini d'Europa 4: Talsi", "original_title": "Confini d'Europa 4: Talsi", "slug_title": "confini-d-europa-4-talsi", "date": "2007-11-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

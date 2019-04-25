@@ -1,1 +1,0 @@
-{"tmdb_id": 477478, "title": "My Dinner with Louis", "original_title": "My Dinner with Louis", "slug_title": "my-dinner-with-louis", "date": "1984-05-06", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Louis Malle (Interviewee)", "Wallace Shawn (Interviewer)"], "comments": [], "recommandations_id": []}

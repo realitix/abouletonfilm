@@ -1,1 +1,0 @@
-{"tmdb_id": 311772, "title": "Toulouse-Lautrec", "original_title": "Toulouse-Lautrec", "slug_title": "toulouse-lautrec", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

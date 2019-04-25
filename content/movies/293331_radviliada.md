@@ -1,1 +1,0 @@
-{"tmdb_id": 293331, "title": "Radviliada", "original_title": "Radviliada", "slug_title": "radviliada", "date": "2014-08-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

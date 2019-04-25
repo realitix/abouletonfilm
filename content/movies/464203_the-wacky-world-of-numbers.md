@@ -1,1 +1,0 @@
-{"tmdb_id": 464203, "title": "The Wacky World Of Numbers", "original_title": "The Wacky World Of Numbers", "slug_title": "the-wacky-world-of-numbers", "date": "1968-07-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

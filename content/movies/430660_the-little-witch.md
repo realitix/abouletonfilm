@@ -1,1 +1,0 @@
-{"tmdb_id": 430660, "title": "The Little Witch", "original_title": "Die kleine Hexe", "slug_title": "the-little-witch", "date": "1969-06-01", "genre": "Animation / Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rCmAekHxhgDCmL3I6oHJNNHOefA.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 518458, "title": "All For One... One For All", "original_title": "All For One... One For All", "slug_title": "all-for-one-one-for-all", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

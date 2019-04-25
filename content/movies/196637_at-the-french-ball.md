@@ -1,1 +1,0 @@
-{"tmdb_id": 196637, "title": "At the French Ball", "original_title": "At the French Ball", "slug_title": "at-the-french-ball", "date": "1908-06-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["D.W. Griffith (Husband)", "Linda Arvidson (Wife)"], "comments": [], "recommandations_id": []}

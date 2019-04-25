@@ -1,1 +1,0 @@
-{"tmdb_id": 596682, "title": "Contrapunctus XIV", "original_title": "Contrapunctus XIV", "slug_title": "contrapunctus-xiv", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pUuZCffRePaVPeW2O07uaYeZ7G.jpg", "actors": [], "comments": [], "recommandations_id": []}

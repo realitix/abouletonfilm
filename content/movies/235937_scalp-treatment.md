@@ -1,1 +1,0 @@
-{"tmdb_id": 235937, "title": "Scalp Treatment", "original_title": "Scalp Treatment", "slug_title": "scalp-treatment", "date": "1952-09-07", "genre": "Animation", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m5QqXiPFlIXlUE8OQyFUE24Ktc8.jpg", "actors": [], "comments": [], "recommandations_id": []}

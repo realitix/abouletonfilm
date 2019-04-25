@@ -1,1 +1,0 @@
-{"tmdb_id": 461533, "title": "The Everyday", "original_title": "The Everyday", "slug_title": "the-everyday", "date": "2013-04-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

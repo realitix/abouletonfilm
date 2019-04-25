@@ -1,1 +1,0 @@
-{"tmdb_id": 539830, "title": "P\u00eacheur d'Islande", "original_title": "P\u00eacheur d'Islande", "slug_title": "pecheur-d-islande", "date": "1934-04-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mz7Exwsbneky4j2p9eFGOGwoBXL.jpg", "actors": [], "comments": [], "recommandations_id": []}

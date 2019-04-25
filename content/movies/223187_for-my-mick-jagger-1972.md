@@ -1,1 +1,0 @@
-{"tmdb_id": 223187, "title": "For My Mick Jagger, 1972", "original_title": "For My Mick Jagger, 1972", "slug_title": "for-my-mick-jagger-1972", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

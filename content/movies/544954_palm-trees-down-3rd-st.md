@@ -1,1 +1,0 @@
-{"tmdb_id": 544954, "title": "Palm Trees Down 3rd St.", "original_title": "Palm Trees Down 3rd St.", "slug_title": "palm-trees-down-3rd-st", "date": "2008-09-11", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

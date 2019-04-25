@@ -1,1 +1,0 @@
-{"tmdb_id": 423034, "title": "Labor of Love", "original_title": "Labor of Love", "slug_title": "labor-of-love", "date": "", "genre": "Romance / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Marcia Gay Harden (Annie Pines)", "David Marshall Grant (Mickey Wister)"], "comments": [], "recommandations_id": []}

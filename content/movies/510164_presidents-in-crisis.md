@@ -1,1 +1,0 @@
-{"tmdb_id": 510164, "title": "Presidents In Crisis", "original_title": "Presidents In Crisis", "slug_title": "presidents-in-crisis", "date": "2017-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zFme5Y9rc6H86kZCrIiIDhdg5Lc.jpg", "actors": ["Doris Kearns Goodwin ()"], "comments": [], "recommandations_id": []}

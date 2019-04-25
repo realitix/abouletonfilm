@@ -1,1 +1,0 @@
-{"tmdb_id": 352833, "title": "Dicke Luft", "original_title": "Dicke Luft", "slug_title": "dicke-luft", "date": "1938-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

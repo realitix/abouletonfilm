@@ -1,1 +1,0 @@
-{"tmdb_id": 256819, "title": "Repeater", "original_title": "Repeater", "slug_title": "repeater", "date": "1979-08-17", "genre": "Crime / Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Chris Abrahams (Marie)", "John Cassady (Dieter)"], "comments": [], "recommandations_id": []}

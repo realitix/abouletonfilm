@@ -1,1 +1,0 @@
-{"tmdb_id": 419410, "title": "Nip and Tuck", "original_title": "Nip and Tuck", "slug_title": "nip-and-tuck", "date": "1923-08-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Billy Bevan (Sailor)", "Harry Gribbon (Nip)", "Kewpie Morgan (Tuck)"], "comments": [], "recommandations_id": []}

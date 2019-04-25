@@ -1,1 +1,0 @@
-{"tmdb_id": 199343, "title": "Breathe Me", "original_title": "Breathe Me", "slug_title": "breathe-me", "date": "2013-05-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Cho Soo-hyang ()", "Im Ho-kyung ()"], "comments": [], "recommandations_id": []}

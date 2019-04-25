@@ -1,1 +1,0 @@
-{"tmdb_id": 503786, "title": "Tight as a Drum", "original_title": "Tight as a Drum", "slug_title": "tight-as-a-drum", "date": "1974-02-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

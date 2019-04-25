@@ -1,1 +1,0 @@
-{"tmdb_id": 31431, "title": "Parabellum", "original_title": "Parabellum", "slug_title": "parabellum", "date": "1997-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 382923, "title": "Dear Talula", "original_title": "Dear Talula", "slug_title": "dear-talula", "date": "2007-10-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eC6aLjoXfxl8BvNFiHQAX5aRN0a.jpg", "actors": [], "comments": [], "recommandations_id": []}

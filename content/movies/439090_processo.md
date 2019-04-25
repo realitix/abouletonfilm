@@ -1,1 +1,0 @@
-{"tmdb_id": 439090, "title": "Processo", "original_title": "Processo", "slug_title": "processo", "date": "2015-10-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

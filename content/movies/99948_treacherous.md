@@ -1,1 +1,0 @@
-{"tmdb_id": 99948, "title": "Treacherous", "original_title": "Treacherous", "slug_title": "treacherous", "date": "2010-07-16", "genre": "Drame", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9eEbpYNcmSr7k7qs4bXkKBQxJEl.jpg", "actors": [], "comments": [], "recommandations_id": []}

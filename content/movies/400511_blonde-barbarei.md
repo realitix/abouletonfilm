@@ -1,1 +1,0 @@
-{"tmdb_id": 400511, "title": "Blonde Barbarei", "original_title": "Blonde Barbarei", "slug_title": "blonde-barbarei", "date": "1972-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vOtw6TYA1zubUxURhBOSivbpgXu.jpg", "actors": [], "comments": [], "recommandations_id": []}

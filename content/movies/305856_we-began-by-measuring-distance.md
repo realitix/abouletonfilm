@@ -1,1 +1,0 @@
-{"tmdb_id": 305856, "title": "We Began by Measuring Distance", "original_title": "We Began by Measuring Distance", "slug_title": "we-began-by-measuring-distance", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ibBLi59TWMPKmpR8nnKMgLDHx4q.jpg", "actors": [], "comments": [], "recommandations_id": []}

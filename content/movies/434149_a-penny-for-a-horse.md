@@ -1,1 +1,0 @@
-{"tmdb_id": 434149, "title": "A Penny for a Horse", "original_title": "M\u1ed9t \u0111\u1ed3ng k\u1ebdm t\u1eadu \u0111\u01b0\u1ee3c ng\u1ef1a", "slug_title": "a-penny-for-a-horse", "date": "1924-04-30", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

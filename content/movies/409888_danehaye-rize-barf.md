@@ -1,1 +1,0 @@
-{"tmdb_id": 409888, "title": "Danehaye rize barf", "original_title": "Danehaye rize barf", "slug_title": "danehaye-rize-barf", "date": "2003-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2nYW0GsdN35Pr2MAgiLkMmhALZd.jpg", "actors": [], "comments": [], "recommandations_id": []}

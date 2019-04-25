@@ -1,1 +1,0 @@
-{"tmdb_id": 456574, "title": "Solitaire", "original_title": "Solitaire", "slug_title": "solitaire", "date": "2017-03-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y7eSpTyRyufT7rWMGmSZyrX6rU0.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 546996, "title": "Take Me Please", "original_title": "Take Me Please", "slug_title": "take-me-please", "date": "2018-09-28", "genre": "Animation / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5cxFcDTJmA6vgCvxlWPICd5Xi8q.jpg", "actors": [], "comments": [], "recommandations_id": []}

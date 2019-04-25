@@ -1,1 +1,0 @@
-{"tmdb_id": 300264, "title": "3 Stoned Men on Hemlock: A Rotumentary", "original_title": "3 Stoned Men on Hemlock: A Rotumentary", "slug_title": "3-stoned-men-on-hemlock-a-rotumentary", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

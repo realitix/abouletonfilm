@@ -1,1 +1,0 @@
-{"tmdb_id": 302747, "title": "Insaaf Main Karoonga", "original_title": "Insaaf Main Karoonga", "slug_title": "insaaf-main-karoonga", "date": "1985-11-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

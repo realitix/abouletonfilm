@@ -1,1 +1,0 @@
-{"tmdb_id": 387300, "title": "Il cavallo del reggimento", "original_title": "Il cavallo del reggimento", "slug_title": "il-cavallo-del-reggimento", "date": "1911-09-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

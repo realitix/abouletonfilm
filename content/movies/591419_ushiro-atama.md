@@ -1,1 +1,0 @@
-{"tmdb_id": 591419, "title": "Ushiro atama", "original_title": "Ushiro atama", "slug_title": "ushiro-atama", "date": "1985-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

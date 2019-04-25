@@ -1,1 +1,0 @@
-{"tmdb_id": 360693, "title": "Anthophobia", "original_title": "Anthophobia", "slug_title": "anthophobia", "date": "2015-09-10", "genre": "Fantastique / Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2ypkRdBXX0vBGwikkGBc9NEqEG3.jpg", "actors": [], "comments": [], "recommandations_id": []}

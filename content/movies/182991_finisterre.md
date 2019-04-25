@@ -1,1 +1,0 @@
-{"tmdb_id": 182991, "title": "Finisterre", "original_title": "Finisterre", "slug_title": "finisterre", "date": "2003-05-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hlBjHLAkHgTFQvM2mPWhiZ1twwL.jpg", "actors": [], "comments": [], "recommandations_id": []}

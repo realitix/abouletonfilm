@@ -1,1 +1,0 @@
-{"tmdb_id": 404269, "title": "A Day in June", "original_title": "A Day in June", "slug_title": "a-day-in-june", "date": "1958-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aDlP7fZUVp7I6EXl4iF9THnbr0S.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 234643, "title": "Silvester Countdown", "original_title": "Silvester Countdown", "slug_title": "silvester-countdown", "date": "1997-12-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z8D5FZuB0TmEuneGxqYgVjm4j0m.jpg", "actors": [], "comments": [], "recommandations_id": []}

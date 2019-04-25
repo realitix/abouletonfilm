@@ -1,1 +1,0 @@
-{"tmdb_id": 352328, "title": "The Art of 'Making Up'", "original_title": "The Art of 'Making Up'", "slug_title": "the-art-of-making-up", "date": "1900-04-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kathryn Osterman (Herself)"], "comments": [], "recommandations_id": []}

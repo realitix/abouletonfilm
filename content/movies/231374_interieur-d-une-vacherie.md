@@ -1,1 +1,0 @@
-{"tmdb_id": 231374, "title": "Int\u00e9rieur d'une vacherie", "original_title": "Int\u00e9rieur d'une vacherie", "slug_title": "interieur-d-une-vacherie", "date": "1900-10-29", "genre": "", "score": "5.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

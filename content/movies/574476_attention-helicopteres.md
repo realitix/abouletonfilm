@@ -1,1 +1,0 @@
-{"tmdb_id": 574476, "title": "Attention h\u00e9licopt\u00e8res", "original_title": "Attention h\u00e9licopt\u00e8res", "slug_title": "attention-helicopteres", "date": "1961-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

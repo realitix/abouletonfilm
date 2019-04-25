@@ -1,1 +1,0 @@
-{"tmdb_id": 272777, "title": "Waiting for August", "original_title": "Waiting for August", "slug_title": "waiting-for-august", "date": "2014-10-12", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sx8z6vGjnlbSuaIzmu0IspFoxCb.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 350311, "title": "\uc6d4\ub140\uc758 \ud55c", "original_title": "\uc6d4\ub140\uc758 \ud55c", "slug_title": "weolnyeoyi-han", "date": "1980-06-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

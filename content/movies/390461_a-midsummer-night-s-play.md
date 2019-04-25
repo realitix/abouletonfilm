@@ -1,1 +1,0 @@
-{"tmdb_id": 390461, "title": "A Midsummer Night's Play", "original_title": "Sanct Hansaften-spil", "slug_title": "a-midsummer-night-s-play", "date": "1979-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eZu1nU3ZqxmbenktnY5mvCrgpCX.jpg", "actors": [], "comments": [], "recommandations_id": []}

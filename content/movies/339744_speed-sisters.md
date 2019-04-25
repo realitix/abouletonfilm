@@ -1,1 +1,0 @@
-{"tmdb_id": 339744, "title": "Speed Sisters", "original_title": "Speed Sisters", "slug_title": "speed-sisters", "date": "2015-01-01", "genre": "Documentaire", "score": "5.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2BB9uuph97C598rQXhMkEfCkd58.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 395325, "title": "The Museum of Modern Art", "original_title": "The Museum of Modern Art", "slug_title": "the-museum-of-modern-art", "date": "1984-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9QHHHUlKRyDTp0nhdJQ5bmY2mAo.jpg", "actors": [], "comments": [], "recommandations_id": []}

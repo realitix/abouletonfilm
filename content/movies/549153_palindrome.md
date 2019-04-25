@@ -1,1 +1,0 @@
-{"tmdb_id": 549153, "title": "Palindrome", "original_title": "Palindrome", "slug_title": "palindrome", "date": "2016-07-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f4vtpfsVYAsN4i0fmQRPR3SkuVl.jpg", "actors": ["Nino Oz (Neil)", "Sandra Zellweger (Anne)"], "comments": [], "recommandations_id": []}

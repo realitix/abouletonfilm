@@ -1,1 +1,0 @@
-{"tmdb_id": 475167, "title": "Polybius", "original_title": "Polybius", "slug_title": "polybius", "date": "2017-09-08", "genre": "Documentaire / Horreur", "score": "6.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gQ8ndgIEgiGBzhvj8fUK6VlXFpa.jpg", "actors": ["Stuart Brown (Narrator)"], "comments": [], "recommandations_id": []}

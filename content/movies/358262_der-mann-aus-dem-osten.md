@@ -1,1 +1,0 @@
-{"tmdb_id": 358262, "title": "Der Mann aus dem Osten", "original_title": "Der Mann aus dem Osten", "slug_title": "der-mann-aus-dem-osten", "date": "1990-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

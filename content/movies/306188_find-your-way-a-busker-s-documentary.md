@@ -1,1 +1,0 @@
-{"tmdb_id": 306188, "title": "Find Your Way: A Busker's Documentary", "original_title": "Find Your Way: A Busker's Documentary", "slug_title": "find-your-way-a-busker-s-documentary", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

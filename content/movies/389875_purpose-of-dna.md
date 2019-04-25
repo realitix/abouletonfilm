@@ -1,1 +1,0 @@
-{"tmdb_id": 389875, "title": "Purpose of DNA", "original_title": "Purpose of DNA", "slug_title": "purpose-of-dna", "date": "2001-06-13", "genre": "", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

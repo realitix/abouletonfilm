@@ -1,1 +1,0 @@
-{"tmdb_id": 547646, "title": "High Noon", "original_title": "Na prav\u00e9 poludnie", "slug_title": "high-noon", "date": "1988-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/71jFgAq4rq3z4OR6xbez6OzLpmk.jpg", "actors": [], "comments": [], "recommandations_id": []}

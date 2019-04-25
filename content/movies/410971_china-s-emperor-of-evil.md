@@ -1,1 +1,0 @@
-{"tmdb_id": 410971, "title": "China's Emperor of Evil", "original_title": "China's Emperor of Evil", "slug_title": "china-s-emperor-of-evil", "date": "2016-08-29", "genre": "Histoire / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eT46VkDUOd2rztfMDPCV5vMm5jj.jpg", "actors": [], "comments": [], "recommandations_id": []}

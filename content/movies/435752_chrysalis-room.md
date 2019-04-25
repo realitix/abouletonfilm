@@ -1,1 +1,0 @@
-{"tmdb_id": 435752, "title": "Chrysalis Room", "original_title": "Chrysalis Room", "slug_title": "chrysalis-room", "date": "2014-01-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gVDc1W5opH6lvaGwVUewGyyKQt9.jpg", "actors": [], "comments": [], "recommandations_id": []}

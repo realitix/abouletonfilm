@@ -1,1 +1,0 @@
-{"tmdb_id": 407579, "title": "Kickstarted", "original_title": "Kickstarted", "slug_title": "kickstarted", "date": "2015-11-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wAPFj7vdXCLUzDzS0smDEMdl51q.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 168876, "title": "Hiromi Uehara - Live In Concert", "original_title": "Hiromi Uehara - Live In Concert", "slug_title": "hiromi-uehara-live-in-concert", "date": "2009-07-13", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sGvwj5JFkMmapVgZNqsnS1UaVzl.jpg", "actors": [], "comments": [], "recommandations_id": []}

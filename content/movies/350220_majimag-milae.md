@@ -1,1 +1,0 @@
-{"tmdb_id": 350220, "title": "\ub9c8\uc9c0\ub9c9 \ubc00\uc560", "original_title": "\ub9c8\uc9c0\ub9c9 \ubc00\uc560", "slug_title": "majimag-milae", "date": "1980-04-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

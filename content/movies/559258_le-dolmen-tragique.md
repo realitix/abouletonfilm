@@ -1,1 +1,0 @@
-{"tmdb_id": 559258, "title": "Le dolmen tragique", "original_title": "Le dolmen tragique", "slug_title": "le-dolmen-tragique", "date": "1948-07-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1tQVzSxviGGdVrny0IeiSn3NCgF.jpg", "actors": [], "comments": [], "recommandations_id": []}

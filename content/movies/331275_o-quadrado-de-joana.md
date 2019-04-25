@@ -1,1 +1,0 @@
-{"tmdb_id": 331275, "title": "O Quadrado de Joana", "original_title": "O Quadrado de Joana", "slug_title": "o-quadrado-de-joana", "date": "2007-01-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qn6PT1UHobJM8PK6ULtU3Rae6Y3.jpg", "actors": [], "comments": [], "recommandations_id": []}

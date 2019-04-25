@@ -1,1 +1,0 @@
-{"tmdb_id": 576862, "title": "You say I\u2019m a Toy 1", "original_title": "You say I\u2019m a Toy 1", "slug_title": "you-say-im-a-toy-1", "date": "2018-12-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

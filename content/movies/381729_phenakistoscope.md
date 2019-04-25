@@ -1,1 +1,0 @@
-{"tmdb_id": 381729, "title": "Phenakistoscope", "original_title": "\u9a5a\u304d\u76e4", "slug_title": "phenakistoscope", "date": "1975-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7p0Wf7zKdyNAODnfDXJ0LfqWSVL.jpg", "actors": [], "comments": [], "recommandations_id": []}

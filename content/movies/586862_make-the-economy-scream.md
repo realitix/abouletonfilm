@@ -1,1 +1,0 @@
-{"tmdb_id": 586862, "title": "Make the economy scream", "original_title": "Make the economy scream", "slug_title": "make-the-economy-scream", "date": "2019-03-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/byHokHGw8VnfAugl0M4rY1CT5BV.jpg", "actors": [], "comments": [], "recommandations_id": []}

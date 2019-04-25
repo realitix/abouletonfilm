@@ -1,1 +1,0 @@
-{"tmdb_id": 479424, "title": "Ghost in the Graveyard", "original_title": "Ghost in the Graveyard", "slug_title": "ghost-in-the-graveyard", "date": "2018-10-15", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7qthb46LSycRfl5T2cLgI9FQcIv.jpg", "actors": [], "comments": [], "recommandations_id": []}

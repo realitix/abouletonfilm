@@ -1,1 +1,0 @@
-{"tmdb_id": 494523, "title": "Magdolna", "original_title": "Magdolna", "slug_title": "magdolna", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

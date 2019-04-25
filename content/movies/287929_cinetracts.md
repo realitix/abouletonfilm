@@ -1,1 +1,0 @@
-{"tmdb_id": 287929, "title": "Cin\u00e9tracts", "original_title": "Cin\u00e9tracts", "slug_title": "cinetracts", "date": "1968-01-01", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jKtt7NWNALMvbnDJK8CQZQyD4vz.jpg", "actors": [], "comments": [], "recommandations_id": []}

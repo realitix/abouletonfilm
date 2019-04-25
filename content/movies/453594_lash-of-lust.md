@@ -1,1 +1,0 @@
-{"tmdb_id": 453594, "title": "Lash of Lust", "original_title": "Lash of Lust", "slug_title": "lash-of-lust", "date": "1972-09-22", "genre": "Western", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bGtZ2UIvSAKxtQJCC59a7MxLDFw.jpg", "actors": ["Bambi Allen ()", "Gary Kent (The Prospector)"], "comments": [], "recommandations_id": []}

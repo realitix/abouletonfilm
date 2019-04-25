@@ -1,1 +1,0 @@
-{"tmdb_id": 260115, "title": "Greetings to Europe", "original_title": "Greetings to Europe", "slug_title": "greetings-to-europe", "date": "2012-11-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

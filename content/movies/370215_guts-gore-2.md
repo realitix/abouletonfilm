@@ -1,1 +1,0 @@
-{"tmdb_id": 370215, "title": "Guts & Gore 2", "original_title": "Guts & Gore 2", "slug_title": "guts-gore-2", "date": "2009-06-17", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h7Cdeqnhihq1SdsMdCQmg2SCdx8.jpg", "actors": [], "comments": [], "recommandations_id": []}

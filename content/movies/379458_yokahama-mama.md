@@ -1,1 +1,0 @@
-{"tmdb_id": 379458, "title": "Yokahama Mama", "original_title": "Yokahama Mama", "slug_title": "yokahama-mama", "date": "1972-12-24", "genre": "Animation", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Larry D. Mann (Blue Racer / Hen / Baby Ostrich (voice))", "Mako (Rooster (voice))"], "comments": [], "recommandations_id": []}

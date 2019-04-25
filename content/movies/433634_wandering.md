@@ -1,1 +1,0 @@
-{"tmdb_id": 433634, "title": "Wandering", "original_title": "Thudongkawat", "slug_title": "wandering", "date": "2016-11-23", "genre": "Drame", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uYV6ic1GLwhqBP0R84Qqnocs0co.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 376061, "title": "Matriculation", "original_title": "Egzamin Dojrza\u0142o\u015bci", "slug_title": "matriculation", "date": "1979-01-02", "genre": "Documentaire", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6geimy55DNMJ5F1g9J71Iy6wJZ6.jpg", "actors": [], "comments": [], "recommandations_id": []}

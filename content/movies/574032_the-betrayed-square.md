@@ -1,1 +1,0 @@
-{"tmdb_id": 574032, "title": "The Betrayed Square", "original_title": "The Betrayed Square", "slug_title": "the-betrayed-square", "date": "2018-12-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/c2o1uwp0GRtWw4EztoBhENaBR4Q.jpg", "actors": [], "comments": [], "recommandations_id": []}

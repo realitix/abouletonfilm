@@ -1,1 +1,0 @@
-{"tmdb_id": 437414, "title": "First on Mount Everest", "original_title": "First on Mount Everest", "slug_title": "first-on-mount-everest", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6mVFpD87bas0sPZpkFwa6yH1I3r.jpg", "actors": [], "comments": [], "recommandations_id": []}

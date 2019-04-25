@@ -1,1 +1,0 @@
-{"tmdb_id": 150119, "title": "Screen Test: Helmut", "original_title": "Screen Test: Helmut", "slug_title": "screen-test-helmut", "date": "1964-01-01", "genre": "Documentaire", "score": "2.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 275564, "title": "Somebody's Daughter", "original_title": "Somebody's Daughter", "slug_title": "somebody-s-daughter", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6JYGW0AIl8neNWTp5DnmJb0KVrY.jpg", "actors": [], "comments": [], "recommandations_id": []}

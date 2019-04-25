@@ -1,1 +1,0 @@
-{"tmdb_id": 566681, "title": "My Perfect World: The Aaron Hernandez Story", "original_title": "My Perfect World: The Aaron Hernandez Story", "slug_title": "my-perfect-world-the-aaron-hernandez-story", "date": "2018-11-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

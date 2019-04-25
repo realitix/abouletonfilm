@@ -1,1 +1,0 @@
-{"tmdb_id": 271671, "title": "Galus Galus", "original_title": "Galus Galus", "slug_title": "galus-galus", "date": "2013-12-11", "genre": "Drame / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l9bIzALEv1gFDCYKC1z0SEP5hwR.jpg", "actors": ["Le\u00f3nidas Urbina ()"], "comments": [], "recommandations_id": []}

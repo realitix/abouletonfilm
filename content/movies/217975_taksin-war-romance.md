@@ -1,1 +1,0 @@
-{"tmdb_id": 217975, "title": "Taksin War Romance", "original_title": "Taksin War Romance", "slug_title": "taksin-war-romance", "date": "2007-08-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/C3ws2afsnq6GaiMCkoYrYrrJeR.jpg", "actors": ["Shi Li Jia ()", "Bang Ba Lyu ()"], "comments": [], "recommandations_id": []}

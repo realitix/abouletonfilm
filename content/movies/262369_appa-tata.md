@@ -1,1 +1,0 @@
-{"tmdb_id": 262369, "title": "Appa Tata", "original_title": "Appa Tata", "slug_title": "appa-tata", "date": "1972-03-28", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gemini Ganesan ()", "Padmini ()", "Sowcar Janaki ()", "Nagesh ()"], "comments": [], "recommandations_id": []}

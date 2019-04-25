@@ -1,1 +1,0 @@
-{"tmdb_id": 319687, "title": "Where Have You Gone, Joe DiMaggio?", "original_title": "Where Have You Gone, Joe DiMaggio?", "slug_title": "where-have-you-gone-joe-dimaggio", "date": "1997-10-19", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Joe DiMaggio (Himself)"], "comments": [], "recommandations_id": []}

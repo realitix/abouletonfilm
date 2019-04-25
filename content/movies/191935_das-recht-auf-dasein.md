@@ -1,1 +1,0 @@
-{"tmdb_id": 191935, "title": "Das Recht auf Dasein", "original_title": "Das Recht auf Dasein", "slug_title": "das-recht-auf-dasein", "date": "1913-05-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

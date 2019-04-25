@@ -1,1 +1,0 @@
-{"tmdb_id": 314219, "title": "Greencastle", "original_title": "Greencastle", "slug_title": "greencastle", "date": "2012-01-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

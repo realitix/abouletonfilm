@@ -1,1 +1,0 @@
-{"tmdb_id": 469356, "title": "El d\u00eda que me quieras", "original_title": "El d\u00eda que me quieras", "slug_title": "el-dia-que-me-quieras", "date": "1997-08-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3TH0GpKjkYAntALkVyuh6MBytxe.jpg", "actors": [], "comments": [], "recommandations_id": []}

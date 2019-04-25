@@ -1,1 +1,0 @@
-{"tmdb_id": 591618, "title": "Si Doel Anak Modern", "original_title": "Si Doel Anak Modern", "slug_title": "si-doel-anak-modern", "date": "1976-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dwsrvmszTSZLoz6Iy4k4Ks1ikKp.jpg", "actors": [], "comments": [], "recommandations_id": []}

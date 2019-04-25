@@ -1,1 +1,0 @@
-{"tmdb_id": 295356, "title": "W\u00fcstenspringmaus", "original_title": "W\u00fcstenspringmaus", "slug_title": "wustenspringmaus", "date": "2002-09-28", "genre": "Com\u00e9die / Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kmuW8D8dOs9aHu8P4qtkcejAsI2.jpg", "actors": [], "comments": [], "recommandations_id": []}

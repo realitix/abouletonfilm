@@ -1,1 +1,0 @@
-{"tmdb_id": 580035, "title": "Ultramarine", "original_title": "Ultramarine", "slug_title": "ultramarine", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

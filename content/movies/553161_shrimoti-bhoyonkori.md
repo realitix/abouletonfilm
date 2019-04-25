@@ -1,1 +1,0 @@
-{"tmdb_id": 553161, "title": "Shrimoti Bhoyonkori", "original_title": "Shrimoti Bhoyonkori", "slug_title": "shrimoti-bhoyonkori", "date": "2018-02-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sFj5L9zy0h8qjWihGVqgojh1Evn.jpg", "actors": ["Ritabhari Chakraborty ()"], "comments": [], "recommandations_id": []}

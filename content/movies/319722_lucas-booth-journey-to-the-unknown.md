@@ -1,1 +1,0 @@
-{"tmdb_id": 319722, "title": "Lucas Booth: Journey to the Unknown", "original_title": "Lucas Booth: Journey to the Unknown", "slug_title": "lucas-booth-journey-to-the-unknown", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

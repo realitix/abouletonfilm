@@ -1,1 +1,0 @@
-{"tmdb_id": 151020, "title": "Slaughter Creek", "original_title": "Slaughter Creek", "slug_title": "slaughter-creek", "date": "2012-09-16", "genre": "Horreur / Drame", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7i1QRknwojSdNmdVbicCt869rss.jpg", "actors": [], "comments": [], "recommandations_id": [28517, 267853, 102463]}

@@ -1,1 +1,0 @@
-{"tmdb_id": 50776, "title": "Live at the Forum", "original_title": "Live at the Forum", "slug_title": "live-at-the-forum", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Serj Tankian ()"], "comments": [], "recommandations_id": []}

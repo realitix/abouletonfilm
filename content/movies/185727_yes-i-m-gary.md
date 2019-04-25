@@ -1,1 +1,0 @@
-{"tmdb_id": 185727, "title": "Yes, I'm Gary", "original_title": "Yes, I'm Gary", "slug_title": "yes-i-m-gary", "date": "2012-03-22", "genre": "Drame / Com\u00e9die", "score": "5.3/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Victor Cafaro (Gary)", "John Ciarletta (Boy in Office)", "John Ciarletta (Principal)"], "comments": [], "recommandations_id": []}

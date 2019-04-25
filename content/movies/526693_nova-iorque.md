@@ -1,1 +1,0 @@
-{"tmdb_id": 526693, "title": "Nova Iorque", "original_title": "Nova Iorque", "slug_title": "nova-iorque", "date": "2017-10-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1W6GuvqV5RsV8jIsjoWYAqHCtNt.jpg", "actors": [], "comments": [], "recommandations_id": []}

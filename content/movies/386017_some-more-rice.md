@@ -1,1 +1,0 @@
-{"tmdb_id": 386017, "title": "Some More Rice", "original_title": "Some More Rice", "slug_title": "some-more-rice", "date": "2000-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 571206, "title": "The Aroma of Enchantment", "original_title": "The Aroma of Enchantment", "slug_title": "the-aroma-of-enchantment", "date": "1992-02-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

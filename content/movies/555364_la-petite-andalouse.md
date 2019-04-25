@@ -1,1 +1,0 @@
-{"tmdb_id": 555364, "title": "La petite Andalouse", "original_title": "La petite Andalouse", "slug_title": "la-petite-andalouse", "date": "1915-10-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

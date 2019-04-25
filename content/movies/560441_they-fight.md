@@ -1,1 +1,0 @@
-{"tmdb_id": 560441, "title": "They Fight", "original_title": "They Fight", "slug_title": "they-fight", "date": "2018-11-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/syNlYrveHEcg1Ib04xId7baIVka.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 289407, "title": "A Divided World", "original_title": "En kluven v\u00e4rld", "slug_title": "a-divided-world", "date": "1948-05-01", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8ApJUpQgi8HE22r9OZwwXybV5M3.jpg", "actors": [], "comments": [], "recommandations_id": []}

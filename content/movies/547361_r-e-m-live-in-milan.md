@@ -1,1 +1,0 @@
-{"tmdb_id": 547361, "title": "R.E.M. Live In Milan", "original_title": "R.E.M. Live In Milan", "slug_title": "r-e-m-live-in-milan", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aeihj6VvZqtGLHSyMJthAuxQnu7.jpg", "actors": [], "comments": [], "recommandations_id": []}

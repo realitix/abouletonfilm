@@ -1,1 +1,0 @@
-{"tmdb_id": 462326, "title": "Cocoric\u00f3 - Hist\u00f3ria com fim", "original_title": "Cocoric\u00f3 - Hist\u00f3ria com fim", "slug_title": "cocorico-historia-com-fim", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kZFlX8s9sXgjnaz9O3goEZbBFNo.jpg", "actors": [], "comments": [], "recommandations_id": []}

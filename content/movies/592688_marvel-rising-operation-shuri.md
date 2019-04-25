@@ -1,1 +1,0 @@
-{"tmdb_id": 592688, "title": "Marvel Rising: Operation Shuri", "original_title": "Marvel Rising: Operation Shuri", "slug_title": "marvel-rising-operation-shuri", "date": "", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 319162, "title": "Corporal Norakuro", "original_title": "Norakuro goch\u00f4", "slug_title": "corporal-norakuro", "date": "1934-03-09", "genre": "Animation", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yMmFChg4QdoFUFbBlWZT3hpDXJj.jpg", "actors": [], "comments": [], "recommandations_id": []}

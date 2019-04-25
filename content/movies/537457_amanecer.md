@@ -1,1 +1,0 @@
-{"tmdb_id": 537457, "title": "Amanecer", "original_title": "Amanecer", "slug_title": "amanecer", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ljEorP4D5JyElFesrud65A2lbEl.jpg", "actors": [], "comments": [], "recommandations_id": []}

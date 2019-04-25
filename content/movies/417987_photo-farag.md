@@ -1,1 +1,0 @@
-{"tmdb_id": 417987, "title": "Photo Farag", "original_title": "\u05e4\u05d5\u05d8\u05d5 \u05e4\u05e8\u05d2'", "slug_title": "photo-farag", "date": "2016-08-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qB4zn9oXyCFpwSdWRLTPOBNC8Hh.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,1 @@
-{"tmdb_id": 474879, "title": "Big News", "original_title": "Big News", "slug_title": "big-news", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 474879, "title": "Big News", "original_title": "Big News", "slug_title": "big-news", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "A TV pilot starring Dana Gould.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

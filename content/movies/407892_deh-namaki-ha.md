@@ -1,1 +1,0 @@
-{"tmdb_id": 407892, "title": "Deh Namaki-ha", "original_title": "Deh Namaki-ha", "slug_title": "deh-namaki-ha", "date": "2008-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

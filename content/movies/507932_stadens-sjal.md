@@ -1,1 +1,0 @@
-{"tmdb_id": 507932, "title": "Stadens sj\u00e4l", "original_title": "Stadens sj\u00e4l", "slug_title": "stadens-sjal", "date": "1993-07-06", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b3366uIqhewvBjTmYJfOcpNLdHT.jpg", "actors": [], "comments": [], "recommandations_id": []}

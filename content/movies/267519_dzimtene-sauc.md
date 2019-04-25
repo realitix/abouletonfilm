@@ -1,1 +1,0 @@
-{"tmdb_id": 267519, "title": "Dzimtene sauc", "original_title": "Dzimtene sauc", "slug_title": "dzimtene-sauc", "date": "1935-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Milda Z\u012blava (Dravnieku Velta)", "K\u0101rlis Pabriks (Varka\u013cu J\u0101nis)"], "comments": [], "recommandations_id": []}

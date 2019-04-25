@@ -1,1 +1,0 @@
-{"tmdb_id": 425204, "title": "Jack Chop", "original_title": "Jack Chop", "slug_title": "jack-chop", "date": "2010-09-25", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g0uTBEtQUFMyFLY9wxoCoTrHQVY.jpg", "actors": ["Paul Solet (Nicolo)"], "comments": [], "recommandations_id": []}

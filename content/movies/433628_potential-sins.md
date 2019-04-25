@@ -1,1 +1,0 @@
-{"tmdb_id": 433628, "title": "Potential Sins", "original_title": "Potential Sins", "slug_title": "potential-sins", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

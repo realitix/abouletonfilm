@@ -1,1 +1,0 @@
-{"tmdb_id": 427164, "title": "Zwischen Geb\u00e4uden", "original_title": "Zwischen Geb\u00e4uden", "slug_title": "zwischen-gebauden", "date": "1989-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Karl Heil ()", "Pauline Garland ()", "Susanna Krafft ()"], "comments": [], "recommandations_id": []}

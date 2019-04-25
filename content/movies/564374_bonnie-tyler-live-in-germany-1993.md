@@ -1,1 +1,0 @@
-{"tmdb_id": 564374, "title": "Bonnie Tyler: Live in Germany 1993", "original_title": "Bonnie Tyler: Live in Germany 1993", "slug_title": "bonnie-tyler-live-in-germany-1993", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9gm6MYH0NrvSAKROdKoc7A2dGHP.jpg", "actors": [], "comments": [], "recommandations_id": []}

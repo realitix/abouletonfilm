@@ -1,1 +1,0 @@
-{"tmdb_id": 306111, "title": "Prime: The Wake Movie", "original_title": "Prime: The Wake Movie", "slug_title": "prime-the-wake-movie", "date": "2014-12-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

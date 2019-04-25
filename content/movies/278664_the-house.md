@@ -1,1 +1,0 @@
-{"tmdb_id": 278664, "title": "The House", "original_title": "The House", "slug_title": "the-house", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

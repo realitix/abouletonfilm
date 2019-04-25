@@ -1,1 +1,0 @@
-{"tmdb_id": 566196, "title": "Georgia Rose", "original_title": "Georgia Rose", "slug_title": "georgia-rose", "date": "1930-09-20", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

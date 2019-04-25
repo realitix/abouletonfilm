@@ -1,1 +1,0 @@
-{"tmdb_id": 37090, "title": "The Burning Times", "original_title": "The Burning Times", "slug_title": "the-burning-times", "date": "1990-01-01", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pYE2St8KYzfPAZgzdIjtJ761OSU.jpg", "actors": [], "comments": [], "recommandations_id": []}

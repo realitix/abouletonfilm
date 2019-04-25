@@ -1,1 +1,0 @@
-{"tmdb_id": 337968, "title": "Sadam Ali vs. Francisco Santana", "original_title": "Sadam Ali vs. Francisco Santana", "slug_title": "sadam-ali-vs-francisco-santana", "date": "2015-04-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

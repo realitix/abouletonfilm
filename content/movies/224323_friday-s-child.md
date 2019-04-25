@@ -1,1 +1,0 @@
-{"tmdb_id": 224323, "title": "Friday's Child", "original_title": "Fredagsbarn", "slug_title": "friday-s-child", "date": "2010-03-24", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bjarke S\u00f8rensen (Rune)", "Frej Spangsberg Lorenzen (Benjamin)"], "comments": [], "recommandations_id": []}

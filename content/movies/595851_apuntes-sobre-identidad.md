@@ -1,1 +1,0 @@
-{"tmdb_id": 595851, "title": "Apuntes sobre Identidad", "original_title": "Apuntes sobre Identidad", "slug_title": "apuntes-sobre-identidad", "date": "2017-11-18", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2T4O2hZcoay5rnV2ZqXmn0egcxk.jpg", "actors": [], "comments": [], "recommandations_id": []}

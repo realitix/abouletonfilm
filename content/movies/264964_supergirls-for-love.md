@@ -1,1 +1,0 @@
-{"tmdb_id": 264964, "title": "Supergirls for Love", "original_title": "Supergirls for Love", "slug_title": "supergirls-for-love", "date": "1983-10-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

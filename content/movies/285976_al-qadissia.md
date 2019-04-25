@@ -1,1 +1,0 @@
-{"tmdb_id": 285976, "title": "Al-qadissia", "original_title": "Al-qadissia", "slug_title": "al-qadissia", "date": "1980-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

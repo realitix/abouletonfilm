@@ -1,1 +1,0 @@
-{"tmdb_id": 496967, "title": "The Fire Next Time", "original_title": "La Prochaine fois le feu", "slug_title": "the-fire-next-time", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

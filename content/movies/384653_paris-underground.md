@@ -1,1 +1,0 @@
-{"tmdb_id": 384653, "title": "Paris Underground", "original_title": "Paris Underground", "slug_title": "paris-underground", "date": "1977-02-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

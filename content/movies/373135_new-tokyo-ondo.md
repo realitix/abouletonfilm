@@ -1,1 +1,0 @@
-{"tmdb_id": 373135, "title": "New Tokyo Ondo", "original_title": "New Tokyo Ondo", "slug_title": "new-tokyo-ondo", "date": "2012-11-04", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lQPR5R0Q2jSz27X8yrVzGhzUF7b.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 324351, "title": "Green and Blue Lovers", "original_title": "Green and Blue Lovers", "slug_title": "green-and-blue-lovers", "date": "2012-09-28", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jimmy Bontatibus ()", "David Knowles ()", "Juliana Rotskoff ()"], "comments": [], "recommandations_id": []}

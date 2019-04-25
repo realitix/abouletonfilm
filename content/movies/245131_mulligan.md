@@ -1,1 +1,0 @@
-{"tmdb_id": 245131, "title": "Mulligan", "original_title": "Mulligan", "slug_title": "mulligan", "date": "2000-04-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Steve Lattery (Jordan)", "Joshua Will (Langer)", "Cedric Yarbrough (King)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 189945, "title": "Inflation", "original_title": "Inflation", "slug_title": "inflation", "date": "1928-05-23", "genre": "", "score": "6.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fnwMXdsS6ECoplgPLggh3wtSTpX.jpg", "actors": [], "comments": [], "recommandations_id": []}

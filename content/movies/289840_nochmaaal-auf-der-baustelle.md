@@ -1,1 +1,0 @@
-{"tmdb_id": 289840, "title": "Nochmaaal! Auf der Baustelle", "original_title": "Nochmaaal! Auf der Baustelle", "slug_title": "nochmaaal-auf-der-baustelle", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5byTpQD1NtJhv55BfbViZmS6A9W.jpg", "actors": [], "comments": [], "recommandations_id": []}

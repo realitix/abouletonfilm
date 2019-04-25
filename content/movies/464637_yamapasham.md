@@ -1,1 +1,1 @@
-{"tmdb_id": 464637, "title": "Yamapasham", "original_title": "Yamapasham", "slug_title": "yamapasham", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 464637, "title": "Yamapasham", "original_title": "Yamapasham", "slug_title": "yamapasham", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "2016 Telugu Movie", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

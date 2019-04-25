@@ -1,1 +1,0 @@
-{"tmdb_id": 422062, "title": "2 Made for TV Films", "original_title": "2 Made for TV Films", "slug_title": "2-made-for-tv-films", "date": "1986-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zIgkCrss3UyxtBFLA2zwJ3n71YX.jpg", "actors": [], "comments": [], "recommandations_id": []}

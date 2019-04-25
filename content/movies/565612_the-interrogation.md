@@ -1,1 +1,0 @@
-{"tmdb_id": 565612, "title": "The Interrogation", "original_title": "The Interrogation", "slug_title": "the-interrogation", "date": "2018-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v7aZURAJoyjyxkITnIGZbdSR0hH.jpg", "actors": [], "comments": [], "recommandations_id": []}

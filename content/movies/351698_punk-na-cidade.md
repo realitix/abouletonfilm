@@ -1,1 +1,0 @@
-{"tmdb_id": 351698, "title": "Punk na Cidade", "original_title": "Punk na Cidade", "slug_title": "punk-na-cidade", "date": "2003-01-01", "genre": "Musique / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

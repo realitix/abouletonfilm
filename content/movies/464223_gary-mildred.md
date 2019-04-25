@@ -1,1 +1,0 @@
-{"tmdb_id": 464223, "title": "Gary & Mildred", "original_title": "Gary & Mildred", "slug_title": "gary-mildred", "date": "2008-03-28", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Amir Atzmon (Gary)", "Oshrat Bennett (Mildred)", "Yochai Greenfield (Patsi)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 216342, "title": "Fruitcake", "original_title": "Fruitcake", "slug_title": "fruitcake", "date": "1996-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aThooChaTKKV8dE9LOt42fN4t4E.jpg", "actors": [], "comments": [], "recommandations_id": []}

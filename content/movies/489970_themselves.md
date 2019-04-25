@@ -1,1 +1,0 @@
-{"tmdb_id": 489970, "title": "Themselves", "original_title": "\ubc14\ub2e4", "slug_title": "themselves", "date": "2011-09-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xNCezmBERHheS5LirsykKAWOmOr.jpg", "actors": ["Koh Soo-hee ()"], "comments": [], "recommandations_id": []}

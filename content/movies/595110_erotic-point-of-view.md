@@ -1,1 +1,0 @@
-{"tmdb_id": 595110, "title": "Erotic Point of View", "original_title": "Erotic Point of View", "slug_title": "erotic-point-of-view", "date": "1974-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oSDcUIJhmqunFxdT4rfqdYo1lAQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

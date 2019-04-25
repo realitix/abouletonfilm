@@ -1,1 +1,0 @@
-{"tmdb_id": 306868, "title": "Bayad Po", "original_title": "Bayad Po", "slug_title": "bayad-po", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jose Alejandro Eduarte ()", "Nash Anggahan ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 375428, "title": "Talespin volume 1", "original_title": "Talespin volume 1", "slug_title": "talespin-volume-1", "date": "1991-01-01", "genre": "", "score": "6.9/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lzaHuXzo5dJeStx1MiOqliIVkOh.jpg", "actors": [], "comments": [], "recommandations_id": [283791, 260443, 49554, 410010]}

@@ -1,1 +1,0 @@
-{"tmdb_id": 470709, "title": "Martyrs of the Inquisition", "original_title": "Les Martyrs de l'Inquisition", "slug_title": "martyrs-of-the-inquisition", "date": "1905-11-17", "genre": "Histoire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Fernand Rivers ()"], "comments": [], "recommandations_id": []}

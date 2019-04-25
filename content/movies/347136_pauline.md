@@ -1,1 +1,0 @@
-{"tmdb_id": 347136, "title": "Pauline", "original_title": "Pauline", "slug_title": "pauline", "date": "2010-11-18", "genre": "Drame", "score": "5.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/faEMTxGD8rGCbxRVAJAlMrCDkWr.jpg", "actors": ["Ana\u00efs Demoustier (Pauline)", "Ad\u00e8le Haenel ()"], "comments": [], "recommandations_id": []}

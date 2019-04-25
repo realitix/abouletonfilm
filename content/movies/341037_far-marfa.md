@@ -1,1 +1,0 @@
-{"tmdb_id": 341037, "title": "Far Marfa", "original_title": "Far Marfa", "slug_title": "far-marfa", "date": "2013-02-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

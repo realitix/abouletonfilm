@@ -1,1 +1,0 @@
-{"tmdb_id": 278712, "title": "La rueda", "original_title": "La rueda", "slug_title": "la-rueda", "date": "2013-11-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pedro Casablanc ()", "Cuca Escribano ()", "Sebasti\u00e1n Haro ()", "Luc\u00eda Hoyos ()", "Alberto L\u00f3pez ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 207387, "title": "Das Neue Monster", "original_title": "Das Neue Monster", "slug_title": "das-neue-monster", "date": "2001-07-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

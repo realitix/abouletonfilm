@@ -1,1 +1,0 @@
-{"tmdb_id": 537823, "title": "Fer chaud", "original_title": "Fer chaud", "slug_title": "fer-chaud", "date": "1957-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zoHSh2TFnU4ZjKug88E7kvo0mx8.jpg", "actors": [], "comments": [], "recommandations_id": []}

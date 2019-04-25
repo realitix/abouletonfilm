@@ -1,1 +1,0 @@
-{"tmdb_id": 456352, "title": "El Mago de Oz", "original_title": "El Mago de Oz", "slug_title": "el-mago-de-oz", "date": "1985-01-01", "genre": "Fantastique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cEe4RBfzLjW27dgytXNXwlfPqVc.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 164743, "title": "C\u00e9cilie Pompette", "original_title": "C\u00e9cilie Pompette", "slug_title": "cecilie-pompette", "date": "1977-07-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Martine Grimaud ()", "Fran\u00e7oise Avril ()", "Richard Allan ()", "Charlie Schreiner ()"], "comments": [], "recommandations_id": []}

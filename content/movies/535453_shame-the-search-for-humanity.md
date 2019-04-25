@@ -1,1 +1,0 @@
-{"tmdb_id": 535453, "title": "Shame: The Search for Humanity", "original_title": "Shame: The Search for Humanity", "slug_title": "shame-the-search-for-humanity", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Liv Ullmann ()", "Ingmar Bergman ()", "Marc Gervais ()"], "comments": [], "recommandations_id": []}

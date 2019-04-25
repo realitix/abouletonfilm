@@ -1,1 +1,0 @@
-{"tmdb_id": 465644, "title": "Simbiose", "original_title": "Simbiose", "slug_title": "simbiose", "date": "2017-07-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o3s9vk9tqYge1LoCfJrDVNp77hB.jpg", "actors": [], "comments": [], "recommandations_id": []}

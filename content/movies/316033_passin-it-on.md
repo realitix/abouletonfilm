@@ -1,1 +1,0 @@
-{"tmdb_id": 316033, "title": "Passin' It On", "original_title": "Passin' It On", "slug_title": "passin-it-on", "date": "1993-10-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jmsbXLH3oTBeZ4JA8BtBXOSaGQg.jpg", "actors": [], "comments": [], "recommandations_id": []}

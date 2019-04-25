@@ -1,1 +1,0 @@
-{"tmdb_id": 236916, "title": "Lulu at the Zoo", "original_title": "Lulu at the Zoo", "slug_title": "lulu-at-the-zoo", "date": "1944-11-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

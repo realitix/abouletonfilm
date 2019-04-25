@@ -1,1 +1,0 @@
-{"tmdb_id": 434925, "title": "The Wiggles: Wiggle Treats", "original_title": "The Wiggles: Wiggle Treats", "slug_title": "the-wiggles-wiggle-treats", "date": "", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

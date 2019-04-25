@@ -1,1 +1,0 @@
-{"tmdb_id": 526347, "title": "Eminem - E DVD", "original_title": "Eminem - E DVD", "slug_title": "eminem-e-dvd", "date": "2000-12-19", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/89dilpJgjoW513xkHW3bhcB823e.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 306682, "title": "Like fireflies", "original_title": "Lucciole per lanterne", "slug_title": "like-fireflies", "date": "2013-07-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

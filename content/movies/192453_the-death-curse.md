@@ -1,1 +1,0 @@
-{"tmdb_id": 192453, "title": "The Death Curse", "original_title": "Goo chak sam fong fong", "slug_title": "the-death-curse", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oVklnRBIdTIg2ony7dhoZHzOfqI.jpg", "actors": ["Gillian Chung ()", "Charlene Choi ()"], "comments": [], "recommandations_id": []}

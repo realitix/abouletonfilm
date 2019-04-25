@@ -1,1 +1,0 @@
-{"tmdb_id": 337555, "title": "Tales from the Tour Bus: Rock 'n' Roll on the Road", "original_title": "Tales from the Tour Bus: Rock 'n' Roll on the Road", "slug_title": "tales-from-the-tour-bus-rock-n-roll-on-the-road", "date": "2015-04-25", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

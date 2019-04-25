@@ -1,1 +1,0 @@
-{"tmdb_id": 548989, "title": "Shots Fired", "original_title": "Shots Fired", "slug_title": "shots-fired", "date": "2018-09-06", "genre": "Com\u00e9die / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kdErZTy3oAIR94lPqlD5XrOd0fa.jpg", "actors": [], "comments": [], "recommandations_id": []}

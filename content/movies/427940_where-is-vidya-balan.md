@@ -1,1 +1,0 @@
-{"tmdb_id": 427940, "title": "Where Is Vidya Balan", "original_title": "Where Is Vidya Balan", "slug_title": "where-is-vidya-balan", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

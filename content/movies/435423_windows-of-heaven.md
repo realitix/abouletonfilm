@@ -1,1 +1,0 @@
-{"tmdb_id": 435423, "title": "Windows of Heaven", "original_title": "Windows of Heaven", "slug_title": "windows-of-heaven", "date": "1963-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cgElelsvSPuD8C916DkxfLEq7HD.jpg", "actors": [], "comments": [], "recommandations_id": []}

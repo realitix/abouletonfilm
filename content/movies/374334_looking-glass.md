@@ -1,1 +1,0 @@
-{"tmdb_id": 374334, "title": "Looking Glass", "original_title": "Spegelbarn", "slug_title": "looking-glass", "date": "2007-05-26", "genre": "Horreur / Animation", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b7hmuPPAQsvK0D2PjjGtQNKZAKc.jpg", "actors": [], "comments": [], "recommandations_id": []}

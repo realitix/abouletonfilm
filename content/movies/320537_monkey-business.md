@@ -1,1 +1,0 @@
-{"tmdb_id": 320537, "title": "Monkey Business", "original_title": "Monkey Business", "slug_title": "monkey-business", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

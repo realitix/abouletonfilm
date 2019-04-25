@@ -1,1 +1,0 @@
-{"tmdb_id": 572948, "title": "Panic, Fear", "original_title": "Panic, Fear", "slug_title": "panic-fear", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Honor Nezzo ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 94497, "title": "Mask of Zeguy", "original_title": "Kumo kai no meiky\u00fb", "slug_title": "mask-of-zeguy", "date": "1993-01-01", "genre": "Animation", "score": "4.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xPm4IvTX7sBIMzmwyCo5mXvWM7V.jpg", "actors": [], "comments": [], "recommandations_id": []}

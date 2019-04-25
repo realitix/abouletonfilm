@@ -1,1 +1,0 @@
-{"tmdb_id": 474817, "title": "Kambuchi", "original_title": "Kambuchi", "slug_title": "kambuchi", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

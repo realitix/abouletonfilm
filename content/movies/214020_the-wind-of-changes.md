@@ -1,1 +1,0 @@
-{"tmdb_id": 214020, "title": "The Wind of Changes", "original_title": "The Wind of Changes", "slug_title": "the-wind-of-changes", "date": "1996-08-12", "genre": "", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gTmeKG5dQ5RAYJzi8KY8m01o4O.jpg", "actors": [], "comments": [], "recommandations_id": []}

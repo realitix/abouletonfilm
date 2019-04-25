@@ -1,1 +1,0 @@
-{"tmdb_id": 570326, "title": "Mass in C Minor", "original_title": "La messe en si mineur", "slug_title": "mass-in-c-minor", "date": "1990-01-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3EeFNxmmp3orVqjBTIYHHcrQNU2.jpg", "actors": [], "comments": [], "recommandations_id": []}

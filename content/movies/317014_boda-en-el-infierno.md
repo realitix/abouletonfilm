@@ -1,1 +1,0 @@
-{"tmdb_id": 317014, "title": "Boda en el infierno", "original_title": "Boda en el infierno", "slug_title": "boda-en-el-infierno", "date": "1942-01-10", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z4Mx4fDcVPhkAFpf2939huTJmr5.jpg", "actors": [], "comments": [], "recommandations_id": []}

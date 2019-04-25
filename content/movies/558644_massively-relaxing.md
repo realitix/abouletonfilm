@@ -1,1 +1,0 @@
-{"tmdb_id": 558644, "title": "Massively Relaxing", "original_title": "Massively Relaxing", "slug_title": "massively-relaxing", "date": "2017-12-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sQNSBocTVoLNL7YHx9ZWu1yrZxn.jpg", "actors": [], "comments": [], "recommandations_id": []}

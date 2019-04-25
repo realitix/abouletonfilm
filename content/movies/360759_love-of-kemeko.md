@@ -1,1 +1,0 @@
-{"tmdb_id": 360759, "title": "Love of Kemeko", "original_title": "Kemeko no LOVE", "slug_title": "love-of-kemeko", "date": "1968-09-20", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3UlrFRkeBLHlQ70WUdXPPKDViW3.jpg", "actors": [], "comments": [], "recommandations_id": []}

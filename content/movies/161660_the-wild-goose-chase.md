@@ -1,1 +1,0 @@
-{"tmdb_id": 161660, "title": "The Wild Goose Chase", "original_title": "The Wild Goose Chase", "slug_title": "the-wild-goose-chase", "date": "1932-08-11", "genre": "Animation", "score": "4.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Margie Hines (Kitty Lady (voice))"], "comments": [], "recommandations_id": []}

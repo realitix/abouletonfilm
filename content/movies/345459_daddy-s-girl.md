@@ -1,1 +1,0 @@
-{"tmdb_id": 345459, "title": "Daddy's Girl", "original_title": "Daddy's Girl", "slug_title": "daddy-s-girl", "date": "2009-06-19", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tom Larsen (Dad)", "Viktoria Winge (Girl)"], "comments": [], "recommandations_id": []}

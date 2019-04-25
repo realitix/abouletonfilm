@@ -1,1 +1,0 @@
-{"tmdb_id": 395233, "title": "Food Flash: Canteens and Rats", "original_title": "Food Flash: Canteens and Rats", "slug_title": "food-flash-canteens-and-rats", "date": "1940-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

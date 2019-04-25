@@ -1,1 +1,0 @@
-{"tmdb_id": 468706, "title": "J. Balance", "original_title": "J. Balance", "slug_title": "j-balance", "date": "2015-07-01", "genre": "Animation", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fUKuakLUBBwhPnl4Oh8Kys3vOV.jpg", "actors": [], "comments": [], "recommandations_id": []}

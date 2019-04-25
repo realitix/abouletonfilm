@@ -1,1 +1,0 @@
-{"tmdb_id": 280707, "title": "The Blacksmith's Daughter", "original_title": "The Blacksmith's Daughter", "slug_title": "the-blacksmith-s-daughter", "date": "1905-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

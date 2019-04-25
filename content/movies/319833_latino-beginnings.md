@@ -1,1 +1,0 @@
-{"tmdb_id": 319833, "title": "Latino Beginnings", "original_title": "Latino Beginnings", "slug_title": "latino-beginnings", "date": "2005-10-11", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ikeVQmcLobvZoFW59AXnxR6qaSQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

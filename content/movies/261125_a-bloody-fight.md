@@ -1,1 +1,0 @@
-{"tmdb_id": 261125, "title": "A Bloody Fight", "original_title": "Lie xue feng yun", "slug_title": "a-bloody-fight", "date": "1988-05-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iF4zjRkauAbLvE8MQcS9CozMVuH.jpg", "actors": [], "comments": [], "recommandations_id": []}

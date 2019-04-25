@@ -1,1 +1,0 @@
-{"tmdb_id": 303040, "title": "Adhe Prema", "original_title": "Adhe Prema", "slug_title": "adhe-prema", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

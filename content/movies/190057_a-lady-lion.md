@@ -1,1 +1,0 @@
-{"tmdb_id": 190057, "title": "A Lady Lion", "original_title": "A Lady Lion", "slug_title": "a-lady-lion", "date": "1928-02-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

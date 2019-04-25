@@ -1,1 +1,0 @@
-{"tmdb_id": 302787, "title": "Habitar la Utop\u00eda", "original_title": "Habitar la Utop\u00eda", "slug_title": "habitar-la-utopia", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rKdvPjezhp1r7aZe0QNeLel8sO3.jpg", "actors": [], "comments": [], "recommandations_id": []}

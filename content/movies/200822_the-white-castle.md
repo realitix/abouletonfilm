@@ -1,1 +1,0 @@
-{"tmdb_id": 200822, "title": "The White Castle", "original_title": "Het Witt Kasteel", "slug_title": "the-white-castle", "date": "1973-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8pAX52cm4Yghu4P3oSEDFZSnkmC.jpg", "actors": [], "comments": [], "recommandations_id": []}

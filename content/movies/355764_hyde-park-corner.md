@@ -1,1 +1,0 @@
-{"tmdb_id": 355764, "title": "Hyde Park Corner", "original_title": "Hyde Park Corner", "slug_title": "hyde-park-corner", "date": "1889-01-01", "genre": "", "score": "4.1/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cc5zKEuzf5azfCSbVByLvcWpaSP.jpg", "actors": [], "comments": [], "recommandations_id": [502575, 315946, 194079]}

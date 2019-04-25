@@ -1,1 +1,0 @@
-{"tmdb_id": 414936, "title": "Losing Face", "original_title": "Losing Face", "slug_title": "losing-face", "date": "2016-07-31", "genre": "Science-Fiction / Drame / Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Daisy Burns ()"], "comments": [], "recommandations_id": []}

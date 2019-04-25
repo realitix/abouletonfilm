@@ -1,1 +1,0 @@
-{"tmdb_id": 414338, "title": "The Son of Caligula", "original_title": "The Son of Caligula", "slug_title": "the-son-of-caligula", "date": "1992-09-30", "genre": "Thriller / Com\u00e9die / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zViIwd9FHkvbw9CWvQNiixzOlXS.jpg", "actors": [], "comments": [], "recommandations_id": []}

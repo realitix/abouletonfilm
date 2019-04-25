@@ -1,1 +1,0 @@
-{"tmdb_id": 184636, "title": "Along Flirtation Walk", "original_title": "Along Flirtation Walk", "slug_title": "along-flirtation-walk", "date": "1935-04-05", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mrbr7ZsTdzds4Roizgm4mGpgSt9.jpg", "actors": [], "comments": [], "recommandations_id": []}

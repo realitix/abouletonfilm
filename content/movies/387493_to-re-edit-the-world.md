@@ -1,1 +1,0 @@
-{"tmdb_id": 387493, "title": "To Re-Edit the World", "original_title": "To Re-Edit the World", "slug_title": "to-re-edit-the-world", "date": "2002-03-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

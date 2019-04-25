@@ -1,1 +1,0 @@
-{"tmdb_id": 332585, "title": "Bigshot", "original_title": "Bigmundial", "slug_title": "bigshot", "date": "2013-02-02", "genre": "Animation", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y4T2rvj56VyLxUghCjIZfvZS2aO.jpg", "actors": [], "comments": [], "recommandations_id": []}

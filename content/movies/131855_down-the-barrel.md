@@ -1,1 +1,0 @@
-{"tmdb_id": 131855, "title": "Down the Barrel", "original_title": "Down the Barrel", "slug_title": "down-the-barrel", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dABvWNWxf8EeHh62Nt8qciFcYr1.jpg", "actors": [], "comments": [], "recommandations_id": []}

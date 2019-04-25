@@ -1,1 +1,0 @@
-{"tmdb_id": 580306, "title": "Il fidanzato ideale", "original_title": "Il fidanzato ideale", "slug_title": "il-fidanzato-ideale", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9aay5o9aN0zHgldbjTQoBgRwu62.jpg", "actors": [], "comments": [], "recommandations_id": []}

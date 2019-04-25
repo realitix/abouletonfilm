@@ -1,1 +1,0 @@
-{"tmdb_id": 569287, "title": "Snow White", "original_title": "\u767d\u96ea\u59eb", "slug_title": "snow-white", "date": "1987-10-21", "genre": "Animation / Fantastique / Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fYM0HaArVVDxnn1Cp4wUZSthX6I.jpg", "actors": [], "comments": [], "recommandations_id": []}

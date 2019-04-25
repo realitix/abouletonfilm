@@ -1,1 +1,0 @@
-{"tmdb_id": 403294, "title": "9/11: Simulations", "original_title": "9/11: Simulations", "slug_title": "9-11-simulations", "date": "2014-07-04", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2nnS7GPLrcY13WhR9aAT2ak5Iz1.jpg", "actors": ["Chris Kelley (Narrator)"], "comments": [], "recommandations_id": []}

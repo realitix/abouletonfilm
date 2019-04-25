@@ -1,1 +1,0 @@
-{"tmdb_id": 364144, "title": "Metamorfosis: en vivo", "original_title": "Metamorfosis: en vivo", "slug_title": "metamorfosis-en-vivo", "date": "2013-10-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/38WotANSlxlFdXR80neXeZSXQgc.jpg", "actors": ["Ricardo Arjona ()"], "comments": [], "recommandations_id": []}

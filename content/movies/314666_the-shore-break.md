@@ -1,1 +1,0 @@
-{"tmdb_id": 314666, "title": "The Shore Break", "original_title": "The Shore Break", "slug_title": "the-shore-break", "date": "2014-11-19", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/msRkPPlqbP1TTJJDuWoadbNM76w.jpg", "actors": [], "comments": [], "recommandations_id": []}

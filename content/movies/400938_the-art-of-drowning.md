@@ -1,1 +1,0 @@
-{"tmdb_id": 400938, "title": "The Art of Drowning", "original_title": "The Art of Drowning", "slug_title": "the-art-of-drowning", "date": "2009-06-05", "genre": "Animation", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kwcrsB2DWnaz224dDsSUn7pVXBI.jpg", "actors": [], "comments": [], "recommandations_id": []}

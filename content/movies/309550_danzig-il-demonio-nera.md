@@ -1,1 +1,0 @@
-{"tmdb_id": 309550, "title": "Danzig: Il Demonio Nera", "original_title": "Danzig: Il Demonio Nera", "slug_title": "danzig-il-demonio-nera", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

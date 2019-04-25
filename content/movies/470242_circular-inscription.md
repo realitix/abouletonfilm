@@ -1,1 +1,0 @@
-{"tmdb_id": 470242, "title": "Circular Inscription", "original_title": "Circular Inscription", "slug_title": "circular-inscription", "date": "2016-08-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lFUz3q4XueJIfRVQJj5RLuorevj.jpg", "actors": [], "comments": [], "recommandations_id": []}

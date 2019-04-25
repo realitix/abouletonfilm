@@ -1,1 +1,0 @@
-{"tmdb_id": 225312, "title": "Pivot Point", "original_title": "Pivot Point", "slug_title": "pivot-point", "date": "2011-11-25", "genre": "Drame", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9qpD1PhExHsxbulWy8fz45O4xbS.jpg", "actors": [], "comments": [], "recommandations_id": []}

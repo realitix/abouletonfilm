@@ -1,1 +1,0 @@
-{"tmdb_id": 310741, "title": "Pasion Extrema II", "original_title": "Pasion Extrema II", "slug_title": "pasion-extrema-ii", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

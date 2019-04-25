@@ -1,1 +1,0 @@
-{"tmdb_id": 274680, "title": "Ek Second... Jo Zindagi Badal De...", "original_title": "Ek Second... Jo Zindagi Badal De...", "slug_title": "ek-second-jo-zindagi-badal-de", "date": "2010-06-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

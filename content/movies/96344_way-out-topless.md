@@ -1,1 +1,0 @@
-{"tmdb_id": 96344, "title": "Way Out Topless", "original_title": "Way Out Topless", "slug_title": "way-out-topless", "date": "1967-07-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pSZcSlDPMo7wIyEPub1nivalI7y.jpg", "actors": [], "comments": [], "recommandations_id": []}

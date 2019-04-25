@@ -1,1 +1,0 @@
-{"tmdb_id": 577066, "title": "Years of Construction", "original_title": "Years of Construction", "slug_title": "years-of-construction", "date": "2019-02-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iyuMMzOWMBmxKlOj46OtqRpxFZQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

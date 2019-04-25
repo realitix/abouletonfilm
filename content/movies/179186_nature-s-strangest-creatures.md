@@ -1,1 +1,0 @@
-{"tmdb_id": 179186, "title": "Nature's Strangest Creatures", "original_title": "Nature's Strangest Creatures", "slug_title": "nature-s-strangest-creatures", "date": "1959-03-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fT3zobP4ejnxSWQCrj4uVMfpt17.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 442054, "title": "Red Violation", "original_title": "Akai b\u00f4k\u00f4", "slug_title": "red-violation", "date": "1980-01-05", "genre": "Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5LeRO8YxEMB4dR8cFXVBFJrFmHd.jpg", "actors": [], "comments": [], "recommandations_id": []}

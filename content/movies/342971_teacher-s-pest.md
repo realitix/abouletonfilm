@@ -1,1 +1,0 @@
-{"tmdb_id": 342971, "title": "Teacher's Pest", "original_title": "Teacher's Pest", "slug_title": "teacher-s-pest", "date": "1939-11-02", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Charley Chase (Charley Chase)"], "comments": [], "recommandations_id": []}

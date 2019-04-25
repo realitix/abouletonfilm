@@ -1,1 +1,0 @@
-{"tmdb_id": 504393, "title": "Pesci d'oro e bikini d'argento", "original_title": "Pesci d'oro e bikini d'argento", "slug_title": "pesci-d-oro-e-bikini-d-argento", "date": "1961-12-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

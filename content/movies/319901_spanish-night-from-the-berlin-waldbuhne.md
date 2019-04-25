@@ -1,1 +1,0 @@
-{"tmdb_id": 319901, "title": "Spanish Night from the Berlin Waldbuhne", "original_title": "Spanish Night from the Berlin Waldbuhne", "slug_title": "spanish-night-from-the-berlin-waldbuhne", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

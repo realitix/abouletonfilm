@@ -1,1 +1,0 @@
-{"tmdb_id": 395252, "title": "Save Your Shillings and Smile", "original_title": "Save Your Shillings and Smile", "slug_title": "save-your-shillings-and-smile", "date": "1943-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

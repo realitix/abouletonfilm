@@ -1,1 +1,0 @@
-{"tmdb_id": 456590, "title": "Stop Genocide", "original_title": "Stop Genocide", "slug_title": "stop-genocide", "date": "1971-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vGFG797wVUkLuHnsxZTvyewOAwW.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 567798, "title": "Pedaladas", "original_title": "Pedaladas", "slug_title": "pedaladas", "date": "2018-12-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e91EG4LGSnWglu5o9yJHGdmy0gP.jpg", "actors": [], "comments": [], "recommandations_id": []}

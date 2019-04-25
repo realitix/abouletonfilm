@@ -1,1 +1,0 @@
-{"tmdb_id": 506399, "title": "Intentions", "original_title": "Intentions", "slug_title": "intentions", "date": "2003-03-01", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vZOWn10R5f42xGosanPgtwoCrtL.jpg", "actors": [], "comments": [], "recommandations_id": []}

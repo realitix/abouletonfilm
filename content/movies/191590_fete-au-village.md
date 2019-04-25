@@ -1,1 +1,0 @@
-{"tmdb_id": 191590, "title": "F\u00eate au village", "original_title": "F\u00eate au village", "slug_title": "fete-au-village", "date": "1896-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

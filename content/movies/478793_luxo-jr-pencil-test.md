@@ -1,1 +1,0 @@
-{"tmdb_id": 478793, "title": "Luxo Jr. Pencil Test", "original_title": "Luxo Jr. Pencil Test", "slug_title": "luxo-jr-pencil-test", "date": "1986-09-09", "genre": "Animation", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

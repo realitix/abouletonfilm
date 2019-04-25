@@ -1,1 +1,0 @@
-{"tmdb_id": 321432, "title": "In the Light of Reverence", "original_title": "In the Light of Reverence", "slug_title": "in-the-light-of-reverence", "date": "2001-02-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

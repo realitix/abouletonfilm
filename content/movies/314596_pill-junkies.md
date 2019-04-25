@@ -1,1 +1,0 @@
-{"tmdb_id": 314596, "title": "Pill Junkies", "original_title": "Pill Junkies", "slug_title": "pill-junkies", "date": "2014-10-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

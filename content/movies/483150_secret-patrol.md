@@ -1,1 +1,0 @@
-{"tmdb_id": 483150, "title": "Secret Patrol", "original_title": "Secret Patrol", "slug_title": "secret-patrol", "date": "1936-06-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Charles Starrett (RCMP Cpl. Alan Craig)"], "comments": [], "recommandations_id": []}

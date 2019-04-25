@@ -1,1 +1,0 @@
-{"tmdb_id": 421581, "title": "Augustus Part I", "original_title": "Augustus Part I", "slug_title": "augustus-part-i", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Peter O'Toole ()", "Charlotte Rampling ()"], "comments": [], "recommandations_id": []}

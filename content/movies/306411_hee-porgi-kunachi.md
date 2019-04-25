@@ -1,1 +1,0 @@
-{"tmdb_id": 306411, "title": "Hee Porgi Kunachi", "original_title": "Hee Porgi Kunachi", "slug_title": "hee-porgi-kunachi", "date": "2006-04-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 313451, "title": "Kaput & Zosky Meet Strange Inhabitants", "original_title": "Kaput & Zosky Meet Strange Inhabitants", "slug_title": "kaput-zosky-meet-strange-inhabitants", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

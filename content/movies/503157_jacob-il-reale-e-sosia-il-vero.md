@@ -1,1 +1,0 @@
-{"tmdb_id": 503157, "title": "Jacob il reale e Sosia il vero", "original_title": "Jacob il reale e Sosia il vero", "slug_title": "jacob-il-reale-e-sosia-il-vero", "date": "1967-02-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 470611, "title": "Mind City Terror", "original_title": "Mind City Terror", "slug_title": "mind-city-terror", "date": "", "genre": "Action / Drame / Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

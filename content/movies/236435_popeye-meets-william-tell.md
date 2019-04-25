@@ -1,1 +1,0 @@
-{"tmdb_id": 236435, "title": "Popeye Meets William Tell", "original_title": "Popeye Meets William Tell", "slug_title": "popeye-meets-william-tell", "date": "1940-09-19", "genre": "Animation", "score": "3.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eiWXgSwkTvltmX8rbw3pfSVlrBO.jpg", "actors": [], "comments": [], "recommandations_id": []}

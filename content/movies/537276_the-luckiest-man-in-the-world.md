@@ -1,1 +1,0 @@
-{"tmdb_id": 537276, "title": "The Luckiest Man in the World", "original_title": "The Luckiest Man in the World", "slug_title": "the-luckiest-man-in-the-world", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

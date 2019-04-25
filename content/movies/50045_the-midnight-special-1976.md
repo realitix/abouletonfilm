@@ -1,1 +1,0 @@
-{"tmdb_id": 50045, "title": "The Midnight Special: 1976", "original_title": "The Midnight Special: 1976", "slug_title": "the-midnight-special-1976", "date": "2006-01-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lc5JTu7tkwkboDmqIUgGrYqtGjZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

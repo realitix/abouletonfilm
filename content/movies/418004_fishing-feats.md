@@ -1,1 +1,0 @@
-{"tmdb_id": 418004, "title": "Fishing Feats", "original_title": "Fishing Feats", "slug_title": "fishing-feats", "date": "1951-12-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pete Smith (Narrator (voice))"], "comments": [], "recommandations_id": []}

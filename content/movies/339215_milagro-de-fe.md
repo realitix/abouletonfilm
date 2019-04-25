@@ -1,1 +1,0 @@
-{"tmdb_id": 339215, "title": "Milagro de fe", "original_title": "Milagro de fe", "slug_title": "milagro-de-fe", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ana Paola Reynoso ()", "Alfonso Vega ()", "Amara Villafuerte ()", "Guillermo Quintanilla ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 319121, "title": "Self-portrait as a Dead Stick Insect", "original_title": "Portrait atzmi kemaklon met", "slug_title": "self-portrait-as-a-dead-stick-insect", "date": "2015-01-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

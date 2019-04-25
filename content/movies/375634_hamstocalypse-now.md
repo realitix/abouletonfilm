@@ -1,1 +1,0 @@
-{"tmdb_id": 375634, "title": "Hamstocalypse Now", "original_title": "Hamstocalypse Now", "slug_title": "hamstocalypse-now", "date": "2014-09-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yfSnd4P34XqE055Fp3NwKyPvboH.jpg", "actors": [], "comments": [], "recommandations_id": []}

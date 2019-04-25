@@ -1,1 +1,0 @@
-{"tmdb_id": 354115, "title": "Film (Knout)", "original_title": "Film (Knout)", "slug_title": "film-knout", "date": "2000-08-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8FIF3Y3XWEGl0F5rMyBxamJEWUV.jpg", "actors": [], "comments": [], "recommandations_id": []}

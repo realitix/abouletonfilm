@@ -1,1 +1,0 @@
-{"tmdb_id": 512913, "title": "Two Ghosts", "original_title": "Two Ghosts", "slug_title": "two-ghosts", "date": "2013-10-20", "genre": "Animation / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qDcyn4BFEnqb9wr08xrIeM9XBDN.jpg", "actors": [], "comments": [], "recommandations_id": []}

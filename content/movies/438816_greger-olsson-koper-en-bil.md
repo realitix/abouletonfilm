@@ -1,1 +1,0 @@
-{"tmdb_id": 438816, "title": "Greger Olsson k\u00f6per en bil", "original_title": "Greger Olsson k\u00f6per en bil", "slug_title": "greger-olsson-koper-en-bil", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Viktor Friberg (Greger Olsson)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 226905, "title": "The Ring", "original_title": "The Ring", "slug_title": "the-ring", "date": "1914-01-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pearl White (Mrs. Gray)", "Chester Barnett (Mr. Gray)"], "comments": [], "recommandations_id": []}

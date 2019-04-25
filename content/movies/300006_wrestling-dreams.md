@@ -1,1 +1,0 @@
-{"tmdb_id": 300006, "title": "Wrestling Dreams", "original_title": "Wrestling Dreams", "slug_title": "wrestling-dreams", "date": "2011-09-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3cgz5zSpWq3256iANVKm9STEkgC.jpg", "actors": ["Chris Baldyga (Himself)"], "comments": [], "recommandations_id": []}

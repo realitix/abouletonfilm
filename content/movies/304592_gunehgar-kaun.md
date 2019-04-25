@@ -1,1 +1,0 @@
-{"tmdb_id": 304592, "title": "Gunehgar Kaun", "original_title": "Gunehgar Kaun", "slug_title": "gunehgar-kaun", "date": "1991-03-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

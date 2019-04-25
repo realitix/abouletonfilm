@@ -1,1 +1,0 @@
-{"tmdb_id": 533771, "title": "Passeata dos 100 Mil", "original_title": "Passeata dos 100 Mil", "slug_title": "passeata-dos-100-mil", "date": "2018-06-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

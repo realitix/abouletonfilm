@@ -1,1 +1,0 @@
-{"tmdb_id": 312706, "title": "The Kennedys: The Early Years 1900-1961", "original_title": "The Kennedys: The Early Years 1900-1961", "slug_title": "the-kennedys-the-early-years-1900-1961", "date": "1999-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

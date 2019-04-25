@@ -1,1 +1,0 @@
-{"tmdb_id": 593507, "title": "Mummy's Factory", "original_title": "L'usine de ma m\u00e8re", "slug_title": "mummy-s-factory", "date": "2016-12-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n7MHkjtarlOFyEuZbtXH9V8BpjM.jpg", "actors": [], "comments": [], "recommandations_id": []}

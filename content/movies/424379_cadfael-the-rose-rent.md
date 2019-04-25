@@ -1,1 +1,0 @@
-{"tmdb_id": 424379, "title": "Cadfael: The Rose Rent", "original_title": "Cadfael: The Rose Rent", "slug_title": "cadfael-the-rose-rent", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dEUmTScfCsiPUORZd2jDs3pPGpV.jpg", "actors": [], "comments": [], "recommandations_id": []}

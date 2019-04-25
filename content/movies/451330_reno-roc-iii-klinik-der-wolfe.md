@@ -1,1 +1,0 @@
-{"tmdb_id": 451330, "title": "Reno Roc III: Klinik der W\u00f6lfe", "original_title": "Reno Roc III: Klinik der W\u00f6lfe", "slug_title": "reno-roc-iii-klinik-der-wolfe", "date": "2016-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

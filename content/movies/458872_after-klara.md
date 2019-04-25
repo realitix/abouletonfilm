@@ -1,1 +1,0 @@
-{"tmdb_id": 458872, "title": "After Klara", "original_title": "Nach Klara", "slug_title": "after-klara", "date": "", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/c4q8G0gMyM6mkt0AmcMb6VVObM0.jpg", "actors": [], "comments": [], "recommandations_id": []}

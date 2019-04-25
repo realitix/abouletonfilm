@@ -1,1 +1,0 @@
-{"tmdb_id": 358005, "title": "Sixty Years of Fashion", "original_title": "Sixty Years of Fashion", "slug_title": "sixty-years-of-fashion", "date": "1960-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m2TsdvmYigfO6Rfi3fSWznrKuU7.jpg", "actors": [], "comments": [], "recommandations_id": []}

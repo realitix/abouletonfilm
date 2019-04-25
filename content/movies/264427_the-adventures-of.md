@@ -1,1 +1,0 @@
-{"tmdb_id": 264427, "title": "The Adventures of *", "original_title": "The Adventures of *", "slug_title": "the-adventures-of", "date": "1957-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wIHqQ4aqzyYWpWDjduerhgPP3DE.jpg", "actors": [], "comments": [], "recommandations_id": []}

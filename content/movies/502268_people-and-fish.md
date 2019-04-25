@@ -1,1 +1,0 @@
-{"tmdb_id": 502268, "title": "People and Fish", "original_title": "Ludzie i ryby", "slug_title": "people-and-fish", "date": "1962-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

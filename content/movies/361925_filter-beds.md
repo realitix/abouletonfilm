@@ -1,1 +1,0 @@
-{"tmdb_id": 361925, "title": "Filter Beds", "original_title": "Filter Beds", "slug_title": "filter-beds", "date": "1998-09-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l1yq6czUccU1sDaOiS0PTUvA3ne.jpg", "actors": [], "comments": [], "recommandations_id": []}

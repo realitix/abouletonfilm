@@ -1,1 +1,0 @@
-{"tmdb_id": 468549, "title": "Teague: Design & Beauty", "original_title": "Teague: Design & Beauty", "slug_title": "teague-design-beauty", "date": "2014-10-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tDcHCpwawyjfIMsbQEttn17VWcl.jpg", "actors": [], "comments": [], "recommandations_id": []}

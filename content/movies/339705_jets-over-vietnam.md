@@ -1,1 +1,0 @@
-{"tmdb_id": 339705, "title": "Jets Over Vietnam", "original_title": "Jets Over Vietnam", "slug_title": "jets-over-vietnam", "date": "2011-09-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

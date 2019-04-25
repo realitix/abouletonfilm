@@ -1,1 +1,0 @@
-{"tmdb_id": 524445, "title": "El valle sin sombras", "original_title": "El valle sin sombras", "slug_title": "el-valle-sin-sombras", "date": "2015-11-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nb1JDG456Pw5oBw2nM56JKoJSDJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

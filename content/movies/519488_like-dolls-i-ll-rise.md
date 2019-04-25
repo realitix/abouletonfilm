@@ -1,1 +1,0 @@
-{"tmdb_id": 519488, "title": "Like Dolls, I'll Rise", "original_title": "Like Dolls, I'll Rise", "slug_title": "like-dolls-i-ll-rise", "date": "2018-04-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AiUM7GhdPGUg3kqCQ90WkeEMTjX.jpg", "actors": [], "comments": [], "recommandations_id": []}

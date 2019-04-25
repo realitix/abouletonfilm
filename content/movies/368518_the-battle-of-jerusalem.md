@@ -1,1 +1,0 @@
-{"tmdb_id": 368518, "title": "The Battle of Jerusalem", "original_title": "The Battle of Jerusalem", "slug_title": "the-battle-of-jerusalem", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

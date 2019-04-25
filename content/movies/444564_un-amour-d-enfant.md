@@ -1,1 +1,0 @@
-{"tmdb_id": 444564, "title": "Un amour d'enfant", "original_title": "Un amour d'enfant", "slug_title": "un-amour-d-enfant", "date": "2004-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uNvl9rLW1jmZZrC4y300TeHHBh7.jpg", "actors": [], "comments": [], "recommandations_id": []}

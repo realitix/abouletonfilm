@@ -1,1 +1,0 @@
-{"tmdb_id": 521831, "title": "Check Collection Process", "original_title": "Check Collection Process", "slug_title": "check-collection-process", "date": "1961-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

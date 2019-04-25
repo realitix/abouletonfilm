@@ -1,1 +1,0 @@
-{"tmdb_id": 588506, "title": "Ghairat Mera Naa", "original_title": "Ghairat Mera Naa", "slug_title": "ghairat-mera-naa", "date": "1971-09-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sultan Rahi ()"], "comments": [], "recommandations_id": []}

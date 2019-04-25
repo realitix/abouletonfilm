@@ -1,1 +1,0 @@
-{"tmdb_id": 293791, "title": "Blood Of The Beast", "original_title": "Blood Of The Beast", "slug_title": "blood-of-the-beast", "date": "2003-06-26", "genre": "", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

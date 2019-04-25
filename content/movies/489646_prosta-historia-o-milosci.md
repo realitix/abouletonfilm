@@ -1,1 +1,0 @@
-{"tmdb_id": 489646, "title": "Prosta historia o mi\u0142o\u015bci", "original_title": "Prosta historia o mi\u0142o\u015bci", "slug_title": "prosta-historia-o-milosci", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

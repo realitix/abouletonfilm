@@ -1,1 +1,0 @@
-{"tmdb_id": 364228, "title": "Lepatus", "original_title": "Lepatus", "slug_title": "lepatus", "date": "2014-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

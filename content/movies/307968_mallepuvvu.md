@@ -1,1 +1,0 @@
-{"tmdb_id": 307968, "title": "Mallepuvvu", "original_title": "Mallepuvvu", "slug_title": "mallepuvvu", "date": "2008-09-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

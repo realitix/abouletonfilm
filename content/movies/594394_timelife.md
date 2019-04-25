@@ -1,1 +1,0 @@
-{"tmdb_id": 594394, "title": "TIMELIFE", "original_title": "TIMELIFE", "slug_title": "timelife", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

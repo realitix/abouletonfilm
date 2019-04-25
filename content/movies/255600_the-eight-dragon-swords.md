@@ -1,1 +1,0 @@
-{"tmdb_id": 255600, "title": "The Eight Dragon Swords", "original_title": "\u9f8d\u5f62\u516b\u528d", "slug_title": "the-eight-dragon-swords", "date": "1971-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6JELwkjdL7LzS5vPh2FhyatKe8o.jpg", "actors": [], "comments": [], "recommandations_id": []}

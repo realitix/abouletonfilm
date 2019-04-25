@@ -1,1 +1,0 @@
-{"tmdb_id": 391819, "title": "The Matter", "original_title": "The Matter", "slug_title": "the-matter", "date": "1974-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

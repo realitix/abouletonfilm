@@ -1,1 +1,0 @@
-{"tmdb_id": 367330, "title": "Another Place and Yet the Same", "original_title": "Another Place and Yet the Same", "slug_title": "another-place-and-yet-the-same", "date": "2005-11-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o71eZqN52DW86g12EZWODOlKMux.jpg", "actors": [], "comments": [], "recommandations_id": []}

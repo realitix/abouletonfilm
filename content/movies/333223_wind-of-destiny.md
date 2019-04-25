@@ -1,1 +1,0 @@
-{"tmdb_id": 333223, "title": "Wind of Destiny", "original_title": "Le vent des destines", "slug_title": "wind-of-destiny", "date": "1993-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

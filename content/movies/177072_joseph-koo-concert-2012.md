@@ -1,1 +1,0 @@
-{"tmdb_id": 177072, "title": "Joseph Koo Concert 2012", "original_title": "Joseph Koo Concert 2012", "slug_title": "joseph-koo-concert-2012", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6JBLp5p2VYtOKtz7ffwsqOGpViS.jpg", "actors": [], "comments": [], "recommandations_id": []}

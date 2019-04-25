@@ -1,1 +1,0 @@
-{"tmdb_id": 463864, "title": "Communion  I Made you I Kill You", "original_title": "Communion  I Made you I Kill You", "slug_title": "communion-i-made-you-i-kill-you", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

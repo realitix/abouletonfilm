@@ -1,1 +1,0 @@
-{"tmdb_id": 539304, "title": "Charles A. Lindbergh, Hero of the Air", "original_title": "Charles A. Lindbergh, Hero of the Air", "slug_title": "charles-a-lindbergh-hero-of-the-air", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 583943, "title": "Box of Bones", "original_title": "Box of Bones", "slug_title": "box-of-bones", "date": "", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

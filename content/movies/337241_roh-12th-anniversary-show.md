@@ -1,1 +1,0 @@
-{"tmdb_id": 337241, "title": "ROH 12th Anniversary Show", "original_title": "ROH 12th Anniversary Show", "slug_title": "roh-12th-anniversary-show", "date": "2014-02-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n7WXH7y2x8n8PB8VGzoYVRl7qSU.jpg", "actors": [], "comments": [], "recommandations_id": []}

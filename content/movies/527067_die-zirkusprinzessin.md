@@ -1,1 +1,0 @@
-{"tmdb_id": 527067, "title": "Die Zirkusprinzessin", "original_title": "Die Zirkusprinzessin", "slug_title": "die-zirkusprinzessin", "date": "1925-12-22", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Josefine Dora ()", "Olga Engl ()", "Angelo Ferrari ()", "Otto Reinwald ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 313117, "title": "A Musical Journey: Madrid: La Mancha Toledo", "original_title": "A Musical Journey: Madrid: La Mancha Toledo", "slug_title": "a-musical-journey-madrid-la-mancha-toledo", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

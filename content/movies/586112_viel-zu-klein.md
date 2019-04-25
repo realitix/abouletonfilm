@@ -1,1 +1,0 @@
-{"tmdb_id": 586112, "title": "Viel zu klein", "original_title": "Viel zu klein", "slug_title": "viel-zu-klein", "date": "1985-06-28", "genre": "Familial / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fEVJFearMePz32sKggjz3ELxRIY.jpg", "actors": [], "comments": [], "recommandations_id": []}

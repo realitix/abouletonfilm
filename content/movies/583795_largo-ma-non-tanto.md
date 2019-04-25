@@ -1,1 +1,0 @@
-{"tmdb_id": 583795, "title": "Largo Ma Non Tanto", "original_title": "Largo Ma Non Tanto", "slug_title": "largo-ma-non-tanto", "date": "2019-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

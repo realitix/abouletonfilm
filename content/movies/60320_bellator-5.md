@@ -1,1 +1,0 @@
-{"tmdb_id": 60320, "title": "Bellator 5", "original_title": "Bellator 5", "slug_title": "bellator-5", "date": "2009-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kWXTRfqslvgIPRVAvXVvs83Nujk.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 462453, "title": "S\u00fcchtig nach Jihad", "original_title": "S\u00fcchtig nach Jihad", "slug_title": "suchtig-nach-jihad", "date": "2014-12-18", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 416218, "title": "John Wayne on Film", "original_title": "John Wayne on Film", "slug_title": "john-wayne-on-film", "date": "2016-09-16", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/myIhWiEtNQDNbN42VdSMATYYYjX.jpg", "actors": ["John Wayne (Himself)"], "comments": [], "recommandations_id": []}

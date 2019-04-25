@@ -1,1 +1,0 @@
-{"tmdb_id": 502842, "title": "Dell\u2019avventura \u00bd", "original_title": "Dell\u2019avventura \u00bd", "slug_title": "dellavventura-1-2", "date": "2011-07-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

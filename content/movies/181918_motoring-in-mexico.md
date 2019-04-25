@@ -1,1 +1,0 @@
-{"tmdb_id": 181918, "title": "Motoring in Mexico", "original_title": "Motoring in Mexico", "slug_title": "motoring-in-mexico", "date": "1943-05-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Krev3c0JKitIQdQ1zy4dd3RYbI.jpg", "actors": ["James A. FitzPatrick ()"], "comments": [], "recommandations_id": []}

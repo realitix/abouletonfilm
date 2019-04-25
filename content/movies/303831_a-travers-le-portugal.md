@@ -1,1 +1,0 @@
-{"tmdb_id": 303831, "title": "\u00c0 travers le Portugal", "original_title": "\u00c0 travers le Portugal", "slug_title": "a-travers-le-portugal", "date": "1912-06-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,1 @@
-{"tmdb_id": 197083, "title": "Boom Days", "original_title": "Boom Days", "slug_title": "boom-days", "date": "1935-06-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 197083, "title": "Boom Days", "original_title": "Boom Days", "slug_title": "boom-days", "date": "1935-06-22", "genre": [""], "score": "0.0/10", "synopsis": "Profiles the 1920s in America.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

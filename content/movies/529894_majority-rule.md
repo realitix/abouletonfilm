@@ -1,1 +1,0 @@
-{"tmdb_id": 529894, "title": "Majority Rule", "original_title": "Majority Rule", "slug_title": "majority-rule", "date": "1992-10-27", "genre": "Drame / T\u00e9l\u00e9film", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Blair Brown (Gen. Katherine Taylor)", "John Getz (Paul)"], "comments": [], "recommandations_id": []}

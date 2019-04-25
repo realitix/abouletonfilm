@@ -1,1 +1,0 @@
-{"tmdb_id": 484369, "title": "Treaters", "original_title": "Treaters", "slug_title": "treaters", "date": "2017-10-31", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

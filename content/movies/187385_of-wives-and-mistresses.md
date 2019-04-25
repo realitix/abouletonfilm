@@ -1,1 +1,0 @@
-{"tmdb_id": 187385, "title": "Of Wives and Mistresses", "original_title": "Of Wives and Mistresses", "slug_title": "of-wives-and-mistresses", "date": "1972-05-26", "genre": "", "score": "7.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lily Ho Li-Li (Li Yu-ju)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 429008, "title": "The Great Yarmouth Herring Fisheries", "original_title": "The Great Yarmouth Herring Fisheries", "slug_title": "the-great-yarmouth-herring-fisheries", "date": "1903-12-05", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

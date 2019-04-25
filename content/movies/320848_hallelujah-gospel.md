@@ -1,1 +1,0 @@
-{"tmdb_id": 320848, "title": "Hallelujah Gospel", "original_title": "Hallelujah Gospel", "slug_title": "hallelujah-gospel", "date": "1983-02-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

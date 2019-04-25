@@ -1,1 +1,0 @@
-{"tmdb_id": 481836, "title": "Two Mothers", "original_title": "\ub450 \uc5c4\ub9c8", "slug_title": "two-mothers", "date": "2017-08-01", "genre": "Drame / Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s2VFIakPlAp7uzAgbRik9WMquuF.jpg", "actors": [], "comments": [], "recommandations_id": []}

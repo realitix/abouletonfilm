@@ -1,1 +1,0 @@
-{"tmdb_id": 410150, "title": "Observar e Absorver", "original_title": "Observar e Absorver", "slug_title": "observar-e-absorver", "date": "2016-08-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rVFVHhUurjVwHTUYpNW7J1hxLvH.jpg", "actors": ["Eduardo Marinho (Ele mesmo)"], "comments": [], "recommandations_id": []}

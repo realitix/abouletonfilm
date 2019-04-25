@@ -1,1 +1,0 @@
-{"tmdb_id": 584003, "title": "The Last Dragon", "original_title": "Ultimul balaur", "slug_title": "the-last-dragon", "date": "2019-01-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lari Giorgescu ()"], "comments": [], "recommandations_id": []}

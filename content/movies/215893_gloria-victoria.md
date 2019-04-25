@@ -1,1 +1,0 @@
-{"tmdb_id": 215893, "title": "Gloria Victoria", "original_title": "Gloria Victoria", "slug_title": "gloria-victoria", "date": "2013-07-06", "genre": "", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fonHObQnL2aeN6CTWBNTSZYlDxz.jpg", "actors": [], "comments": [], "recommandations_id": []}

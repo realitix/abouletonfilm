@@ -1,1 +1,0 @@
-{"tmdb_id": 455178, "title": "Limit is the Sky", "original_title": "Limit is the Sky", "slug_title": "limit-is-the-sky", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

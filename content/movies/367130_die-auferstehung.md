@@ -1,1 +1,0 @@
-{"tmdb_id": 367130, "title": "Die Auferstehung", "original_title": "Die Auferstehung", "slug_title": "die-auferstehung", "date": "1970-01-20", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Arno Assmann (Thunak)", "Ida Ehre (Frau Ewald)", "Peter Schiff (Albert)"], "comments": [], "recommandations_id": []}

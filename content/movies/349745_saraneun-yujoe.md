@@ -1,1 +1,0 @@
-{"tmdb_id": 349745, "title": "\uc0ac\ub77c\ub294 \uc720\uc8c4", "original_title": "\uc0ac\ub77c\ub294 \uc720\uc8c4", "slug_title": "saraneun-yujoe", "date": "1993-12-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

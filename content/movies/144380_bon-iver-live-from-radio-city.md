@@ -1,1 +1,0 @@
-{"tmdb_id": 144380, "title": "Bon Iver Live From Radio City", "original_title": "Bon Iver Live From Radio City", "slug_title": "bon-iver-live-from-radio-city", "date": "2012-09-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7dmDl0UpvShB3vrIrJFqCd6aboX.jpg", "actors": [], "comments": [], "recommandations_id": []}

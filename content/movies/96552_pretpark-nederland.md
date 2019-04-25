@@ -1,1 +1,0 @@
-{"tmdb_id": 96552, "title": "Pretpark Nederland", "original_title": "Pretpark Nederland", "slug_title": "pretpark-nederland", "date": "2006-10-18", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Awu39NrWVPHwPZFZNBUN9UV3Uvc.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 571150, "title": "Der Hauptgewinn", "original_title": "Der Hauptgewinn", "slug_title": "der-hauptgewinn", "date": "2019-03-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Britta Horn (Emiliana)", "Daniel Krauss (Albert)"], "comments": [], "recommandations_id": []}

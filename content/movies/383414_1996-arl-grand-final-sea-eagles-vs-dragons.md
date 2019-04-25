@@ -1,1 +1,0 @@
-{"tmdb_id": 383414, "title": "1996 ARL Grand Final: Sea Eagles vs Dragons", "original_title": "1996 ARL Grand Final: Sea Eagles vs Dragons", "slug_title": "1996-arl-grand-final-sea-eagles-vs-dragons", "date": "1996-09-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

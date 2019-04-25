@@ -1,1 +1,0 @@
-{"tmdb_id": 122348, "title": "Lunch Break", "original_title": "Lunch Break", "slug_title": "lunch-break", "date": "2008-11-21", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dA586pikRr0MzctdJeEysmliW19.jpg", "actors": [], "comments": [], "recommandations_id": []}

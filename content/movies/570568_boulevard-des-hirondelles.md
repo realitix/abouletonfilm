@@ -1,1 +1,0 @@
-{"tmdb_id": 570568, "title": "Boulevard des hirondelles", "original_title": "Boulevard des hirondelles", "slug_title": "boulevard-des-hirondelles", "date": "1993-03-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zzt0kyh97NzFAf9g4T0StYiUrJV.jpg", "actors": [], "comments": [], "recommandations_id": []}

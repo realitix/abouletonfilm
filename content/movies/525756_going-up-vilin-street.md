@@ -1,1 +1,0 @@
-{"tmdb_id": 525756, "title": "Going Up Vilin Street", "original_title": "En Remontant la Rue Vilin", "slug_title": "going-up-vilin-street", "date": "1992-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

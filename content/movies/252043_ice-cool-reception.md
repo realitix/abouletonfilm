@@ -1,1 +1,0 @@
-{"tmdb_id": 252043, "title": "Ice Cool Reception", "original_title": "Ice Cool Reception", "slug_title": "ice-cool-reception", "date": "2001-09-08", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Katy Cavanagh (Nikki)", "Clint Dyer (Lance)"], "comments": [], "recommandations_id": []}

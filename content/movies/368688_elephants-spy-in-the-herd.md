@@ -1,1 +1,0 @@
-{"tmdb_id": 368688, "title": "Elephants: Spy in the Herd", "original_title": "Elephants: Spy in the Herd", "slug_title": "elephants-spy-in-the-herd", "date": "2003-11-15", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/evHzsU7eAfmP3x6PFWxDQZzh3V1.jpg", "actors": [], "comments": [], "recommandations_id": []}

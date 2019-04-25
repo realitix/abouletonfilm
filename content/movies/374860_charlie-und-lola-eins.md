@@ -1,1 +1,0 @@
-{"tmdb_id": 374860, "title": "Charlie Und Lola Eins", "original_title": "Charlie Und Lola Eins", "slug_title": "charlie-und-lola-eins", "date": "2005-01-01", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zjpCqhuV79R8sVu5OiZYUYZqtrd.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 588490, "title": "Hawas Ki Inteha", "original_title": "Hawas Ki Inteha", "slug_title": "hawas-ki-inteha", "date": "2016-03-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

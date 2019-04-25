@@ -1,1 +1,0 @@
-{"tmdb_id": 392024, "title": "The Hot Centre Of The World", "original_title": "The Hot Centre Of The World", "slug_title": "the-hot-centre-of-the-world", "date": "1971-04-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 558988, "title": "Fire Nicolas", "original_title": "Feu Nicolas", "slug_title": "fire-nicolas", "date": "1943-11-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rcD2E2T1ERvTZaaix2hUJKwZ1tY.jpg", "actors": [], "comments": [], "recommandations_id": []}

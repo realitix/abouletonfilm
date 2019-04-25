@@ -1,1 +1,0 @@
-{"tmdb_id": 513412, "title": "Mystery of the Cocaine Mummies", "original_title": "Mystery of the Cocaine Mummies", "slug_title": "mystery-of-the-cocaine-mummies", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 480565, "title": "Voor je de grond raakt", "original_title": "Voor je de grond raakt", "slug_title": "voor-je-de-grond-raakt", "date": "2014-09-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9KsRMiDWBopPSUphqJW36nPCudW.jpg", "actors": [], "comments": [], "recommandations_id": []}

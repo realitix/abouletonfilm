@@ -1,1 +1,0 @@
-{"tmdb_id": 474905, "title": "A Sense of Pride: Hamilton Heights in Harlem", "original_title": "A Sense of Pride: Hamilton Heights in Harlem", "slug_title": "a-sense-of-pride-hamilton-heights-in-harlem", "date": "1977-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

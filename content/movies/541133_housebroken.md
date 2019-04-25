@@ -1,1 +1,0 @@
-{"tmdb_id": 541133, "title": "Housebroken", "original_title": "Housebroken", "slug_title": "housebroken", "date": "2013-01-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mark Strano (Paul)", "Carrie Keranen (Danni)", "Justin Schollard (Dean)"], "comments": [], "recommandations_id": []}

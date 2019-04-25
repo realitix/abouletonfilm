@@ -1,1 +1,0 @@
-{"tmdb_id": 173459, "title": "Zu Fuss nach Santiago de Compostela", "original_title": "Zu Fuss nach Santiago de Compostela", "slug_title": "zu-fuss-nach-santiago-de-compostela", "date": "", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Roman Weishaupt (Himself)"], "comments": [], "recommandations_id": []}

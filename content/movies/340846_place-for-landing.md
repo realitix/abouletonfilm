@@ -1,1 +1,0 @@
-{"tmdb_id": 340846, "title": "Place for Landing", "original_title": "Place for Landing", "slug_title": "place-for-landing", "date": "2010-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/laiBT1eqo9kAa2fcsQfoIH5HHpp.jpg", "actors": [], "comments": [], "recommandations_id": []}

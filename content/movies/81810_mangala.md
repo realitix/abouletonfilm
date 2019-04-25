@@ -1,1 +1,0 @@
-{"tmdb_id": 81810, "title": "Mangala", "original_title": "Mangala", "slug_title": "mangala", "date": "2011-03-02", "genre": "", "score": "3.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sqWhE46D5X6vWlV6HbzIvZMgdAE.jpg", "actors": ["Charmy Kaur (Mangala)", "Pradeep Ram Singh Rawat ()"], "comments": [], "recommandations_id": []}

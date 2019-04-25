@@ -1,1 +1,0 @@
-{"tmdb_id": 521194, "title": "Doctor Prince & Mister Jackson", "original_title": "Doctor Prince & Mister Jackson", "slug_title": "doctor-prince-mister-jackson", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

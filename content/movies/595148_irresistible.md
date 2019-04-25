@@ -1,1 +1,0 @@
-{"tmdb_id": 595148, "title": "Irresistible", "original_title": "Irresistible", "slug_title": "irresistible", "date": "", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mackenzie Davis ()", "Steve Carell ()", "Rose Byrne ()", "Topher Grace ()", "Chris Cooper ()"], "comments": [], "recommandations_id": []}

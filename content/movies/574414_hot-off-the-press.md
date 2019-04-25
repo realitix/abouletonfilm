@@ -1,1 +1,0 @@
-{"tmdb_id": 574414, "title": "Hot Off the Press", "original_title": "Hot Off the Press", "slug_title": "hot-off-the-press", "date": "1922-03-26", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["'Snub' Pollard (Snub - the Newspaper Plant Janitor)", "Marie Mosquini ()"], "comments": [], "recommandations_id": []}

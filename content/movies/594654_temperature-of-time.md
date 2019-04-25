@@ -1,1 +1,0 @@
-{"tmdb_id": 594654, "title": "Temperature of Time", "original_title": "\u6642\u306e\u4f53\u6e29", "slug_title": "temperature-of-time", "date": "1991-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zgqcyZcfreXc1ROWSOJkrUJC3W7.jpg", "actors": [], "comments": [], "recommandations_id": []}

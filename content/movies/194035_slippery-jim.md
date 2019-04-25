@@ -1,1 +1,0 @@
-{"tmdb_id": 194035, "title": "Slippery Jim", "original_title": "Jim le glisseur", "slug_title": "slippery-jim", "date": "1910-05-16", "genre": "Fantastique / Com\u00e9die / Crime", "score": "6.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [119959, 119961, 172113, 119958]}

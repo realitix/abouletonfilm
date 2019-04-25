@@ -1,1 +1,0 @@
-{"tmdb_id": 424947, "title": "The Traveller", "original_title": "Le Voyageur", "slug_title": "the-traveller", "date": "2016-11-19", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gG7pkt0mNCfDJBfllsotwdXmDbB.jpg", "actors": [], "comments": [], "recommandations_id": []}

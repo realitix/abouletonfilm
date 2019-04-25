@@ -1,1 +1,0 @@
-{"tmdb_id": 504918, "title": "Dying Green", "original_title": "Dying Green", "slug_title": "dying-green", "date": "2016-06-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bUvMp8S47V02XnxLUFzXwS4PQCj.jpg", "actors": [], "comments": [], "recommandations_id": []}

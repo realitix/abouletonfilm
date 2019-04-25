@@ -1,1 +1,0 @@
-{"tmdb_id": 464973, "title": "Undercover in Tibet", "original_title": "Undercover in Tibet", "slug_title": "undercover-in-tibet", "date": "2008-03-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wLVe33kvybNhuL4OeQDjK0iBKtC.jpg", "actors": ["Tash Despa (Himself)"], "comments": [], "recommandations_id": []}

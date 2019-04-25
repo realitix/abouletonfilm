@@ -1,1 +1,0 @@
-{"tmdb_id": 567947, "title": "Banana's Boulevard", "original_title": "Banana's Boulevard", "slug_title": "banana-s-boulevard", "date": "1986-01-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dOKutlGr6lHxaF3MftKAYimkTss.jpg", "actors": [], "comments": [], "recommandations_id": []}

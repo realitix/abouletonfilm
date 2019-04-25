@@ -1,1 +1,0 @@
-{"tmdb_id": 399012, "title": "Night of the Living Shred", "original_title": "Night of the Living Shred", "slug_title": "night-of-the-living-shred", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jWL1lQuOmVxNV2nSZbovzItM0rk.jpg", "actors": [], "comments": [], "recommandations_id": []}

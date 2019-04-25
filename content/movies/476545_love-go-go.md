@@ -1,1 +1,0 @@
-{"tmdb_id": 476545, "title": "Love Go Go", "original_title": "\u611b\u60c5\u4f86\u4e86", "slug_title": "love-go-go", "date": "1997-09-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 220709, "title": "Venice 70: Future Reloaded", "original_title": "Venice 70: Future Reloaded", "slug_title": "venice-70-future-reloaded", "date": "2013-07-31", "genre": "Documentaire", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/csqx3CICuAAI4pgc40HRqFF4kE2.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 396319, "title": "Windmill II", "original_title": "Windmill II", "slug_title": "windmill-ii", "date": "1973-05-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3LXJrFgjg4hfWMmLPgnagpsYMDj.jpg", "actors": [], "comments": [], "recommandations_id": []}

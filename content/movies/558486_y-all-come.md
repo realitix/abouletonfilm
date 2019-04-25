@@ -1,1 +1,0 @@
-{"tmdb_id": 558486, "title": "Y'all Come", "original_title": "Y'all Come", "slug_title": "y-all-come", "date": "1976-01-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["April Grant ()", "Sue Dunn ()", "Ted Kesey ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 273536, "title": "The Hired Killer", "original_title": "The Hired Killer", "slug_title": "the-hired-killer", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

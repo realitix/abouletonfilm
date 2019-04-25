@@ -1,1 +1,0 @@
-{"tmdb_id": 527968, "title": "dark blue", "original_title": "Dunkelblau", "slug_title": "dark-blue", "date": "2016-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/HhbsT6yMxQo20MTkFFdkNtOvU5.jpg", "actors": [], "comments": [], "recommandations_id": []}

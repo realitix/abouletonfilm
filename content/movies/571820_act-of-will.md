@@ -1,1 +1,0 @@
-{"tmdb_id": 571820, "title": "Act of Will", "original_title": "Act of Will", "slug_title": "act-of-will", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 555162, "title": "That Ass In Yoga Pants", "original_title": "That Ass In Yoga Pants", "slug_title": "that-ass-in-yoga-pants", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7SfIz81X6rZLvk2G3OHiuGEbs7c.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 490955, "title": "Ride a Violent Mile", "original_title": "Ride a Violent Mile", "slug_title": "ride-a-violent-mile", "date": "1957-11-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ujl4nxCzun95EkArtn0ObNpE6C6.jpg", "actors": [], "comments": [], "recommandations_id": []}

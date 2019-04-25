@@ -1,1 +1,0 @@
-{"tmdb_id": 504802, "title": "Behind the Veil: Nuns", "original_title": "Behind the Veil: Nuns", "slug_title": "behind-the-veil-nuns", "date": "1984-09-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

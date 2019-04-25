@@ -1,1 +1,0 @@
-{"tmdb_id": 310370, "title": "John Denver: Videoke", "original_title": "John Denver: Videoke", "slug_title": "john-denver-videoke", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

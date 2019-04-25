@@ -1,1 +1,0 @@
-{"tmdb_id": 560587, "title": "Oscuro y lucientes", "original_title": "Oscuro y lucientes", "slug_title": "oscuro-y-lucientes", "date": "2018-11-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ncKDEAIena9iGAXh9x0AbMbzhTn.jpg", "actors": [], "comments": [], "recommandations_id": []}

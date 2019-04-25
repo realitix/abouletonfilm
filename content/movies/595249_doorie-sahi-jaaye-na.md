@@ -1,1 +1,0 @@
-{"tmdb_id": 595249, "title": "Doorie Sahi Jaaye Na", "original_title": "Doorie Sahi Jaaye Na", "slug_title": "doorie-sahi-jaaye-na", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Atif Aslam ()", "Urvashi Sharma ()"], "comments": [], "recommandations_id": []}

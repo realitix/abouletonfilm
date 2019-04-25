@@ -1,1 +1,0 @@
-{"tmdb_id": 419816, "title": "Unidentified Vietnam No. 18", "original_title": "Unidentified Vietnam No. 18", "slug_title": "unidentified-vietnam-no-18", "date": "2007-10-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

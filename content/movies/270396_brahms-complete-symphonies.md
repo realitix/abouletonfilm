@@ -1,1 +1,0 @@
-{"tmdb_id": 270396, "title": "Brahms: Complete Symphonies", "original_title": "Brahms: Complete Symphonies", "slug_title": "brahms-complete-symphonies", "date": "2014-01-28", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o7SnNLBQ5jik4EDUlb2BrjIW6o8.jpg", "actors": [], "comments": [], "recommandations_id": []}

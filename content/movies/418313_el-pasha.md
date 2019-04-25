@@ -1,1 +1,0 @@
-{"tmdb_id": 418313, "title": "El Pasha", "original_title": "El Pasha", "slug_title": "el-pasha", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lcQND4Zr5JtDCDN0HE1mD1ihlYd.jpg", "actors": [], "comments": [], "recommandations_id": []}

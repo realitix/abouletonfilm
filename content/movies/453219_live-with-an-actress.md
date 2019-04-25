@@ -1,1 +1,0 @@
-{"tmdb_id": 453219, "title": "Live With an Actress", "original_title": "\uc5ec\ubc30\uc6b0\uc640 \ub3d9\uac70", "slug_title": "live-with-an-actress", "date": "2017-01-01", "genre": "Romance / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5A4qGIzozYvwbR1XIAwKkswkzsJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

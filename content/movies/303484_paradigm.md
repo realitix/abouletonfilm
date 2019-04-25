@@ -1,1 +1,0 @@
-{"tmdb_id": 303484, "title": "Paradigm", "original_title": "Paradigm", "slug_title": "paradigm", "date": "1969-11-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qW1oQlOHizRHXZQrpkimYr0oxzn.jpg", "actors": ["William Hoyland (Man)"], "comments": [], "recommandations_id": []}

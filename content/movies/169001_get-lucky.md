@@ -1,1 +1,0 @@
-{"tmdb_id": 169001, "title": "Get Lucky", "original_title": "Get Lucky", "slug_title": "get-lucky", "date": "2008-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8P1MlqRQ5novSChxB4ixk1J5Y9h.jpg", "actors": ["PK Hunder ()", "Tom Wallisch (Tom Wallisch)"], "comments": [], "recommandations_id": []}

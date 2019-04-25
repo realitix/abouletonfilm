@@ -1,1 +1,0 @@
-{"tmdb_id": 174631, "title": "On The Bridge", "original_title": "On The Bridge", "slug_title": "on-the-bridge", "date": "1993-10-03", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zx5Hbo9OMKW5eZUv0bPmA0c0rrk.jpg", "actors": [], "comments": [], "recommandations_id": []}

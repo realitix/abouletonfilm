@@ -1,1 +1,0 @@
-{"tmdb_id": 504544, "title": "Dumbboat", "original_title": "Dumbboat", "slug_title": "dumbboat", "date": "2017-11-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xvyW6Nt0TvUhrPHkoq6nTrc5hAB.jpg", "actors": [], "comments": [], "recommandations_id": []}

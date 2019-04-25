@@ -1,1 +1,0 @@
-{"tmdb_id": 551455, "title": "Queen of the World", "original_title": "Queen of the World", "slug_title": "queen-of-the-world", "date": "2018-10-01", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4TPBK2oIiBvdDskU4HjqVh5U5Ty.jpg", "actors": [], "comments": [], "recommandations_id": []}

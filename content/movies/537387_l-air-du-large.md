@@ -1,1 +1,0 @@
-{"tmdb_id": 537387, "title": "L'air du large", "original_title": "L'air du large", "slug_title": "l-air-du-large", "date": "1979-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

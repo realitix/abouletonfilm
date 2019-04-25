@@ -1,1 +1,0 @@
-{"tmdb_id": 142249, "title": "Queen of Diamonds", "original_title": "Queen of Diamonds", "slug_title": "queen-of-diamonds", "date": "2004-07-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jw9sqCaSfxTBJ4gvuwRac9QdU7X.jpg", "actors": ["Angela Lansbury (Herself)"], "comments": [], "recommandations_id": []}

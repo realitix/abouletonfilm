@@ -1,1 +1,0 @@
-{"tmdb_id": 556867, "title": "Breaking News In Yuba County", "original_title": "Breaking News In Yuba County", "slug_title": "breaking-news-in-yuba-county", "date": "", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Allison Janney (Sue Bottoms)", "Laura Dern (Nancy Bottoms)"], "comments": [], "recommandations_id": []}

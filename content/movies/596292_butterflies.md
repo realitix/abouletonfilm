@@ -1,1 +1,1 @@
-{"tmdb_id": 596292, "title": "Butterflies", "original_title": "Parparim", "slug_title": "butterflies", "date": "2019-05-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 596292, "title": "Butterflies", "original_title": "Parparim", "slug_title": "butterflies", "date": "2019-05-17", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

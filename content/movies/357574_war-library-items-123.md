@@ -1,1 +1,0 @@
-{"tmdb_id": 357574, "title": "War Library Items 1,2,3", "original_title": "War Library Items 1,2,3", "slug_title": "war-library-items-123", "date": "1940-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

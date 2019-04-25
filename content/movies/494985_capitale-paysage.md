@@ -1,1 +1,0 @@
-{"tmdb_id": 494985, "title": "Capitale-paysage", "original_title": "Capitale-paysage", "slug_title": "capitale-paysage", "date": "1983-12-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qh8vMOHoRNHWPLW4HxZVvq8fN5Y.jpg", "actors": [], "comments": [], "recommandations_id": []}

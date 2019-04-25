@@ -1,1 +1,0 @@
-{"tmdb_id": 467906, "title": "Counting by 7s", "original_title": "Counting by 7s", "slug_title": "counting-by-7s", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

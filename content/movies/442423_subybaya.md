@@ -1,1 +1,0 @@
-{"tmdb_id": 442423, "title": "Subybaya", "original_title": "Subybaya", "slug_title": "subybaya", "date": "2017-01-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d5B1aQIzWQkP8tC60ZaXKTq4063.jpg", "actors": ["Bruna Chiaradia ()"], "comments": [], "recommandations_id": []}

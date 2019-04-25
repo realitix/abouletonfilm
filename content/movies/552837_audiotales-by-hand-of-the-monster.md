@@ -1,1 +1,0 @@
-{"tmdb_id": 552837, "title": "Audiotales - By Hand of The Monster", "original_title": "Audiotales - By Hand of The Monster", "slug_title": "audiotales-by-hand-of-the-monster", "date": "2018-10-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

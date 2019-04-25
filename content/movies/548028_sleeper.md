@@ -1,1 +1,0 @@
-{"tmdb_id": 548028, "title": "//_sleeper", "original_title": "//_sleeper", "slug_title": "sleeper", "date": "2018-11-19", "genre": "Animation / Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hNZque5nFPXiWNHy1aMSOztEYVs.jpg", "actors": ["Phill Hosking ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 421320, "title": "Initialtive", "original_title": "Initialtive", "slug_title": "initialtive", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

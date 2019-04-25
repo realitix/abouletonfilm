@@ -1,1 +1,0 @@
-{"tmdb_id": 407920, "title": "Internet Alphabet", "original_title": "Internet Alphabet", "slug_title": "internet-alphabet", "date": "2008-07-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qZm4WeJukA2Xyc7ejy2PtMp4qOQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

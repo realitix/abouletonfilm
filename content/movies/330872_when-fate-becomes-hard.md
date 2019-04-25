@@ -1,1 +1,0 @@
-{"tmdb_id": 330872, "title": "When Fate Becomes Hard", "original_title": "al-Tariq", "slug_title": "when-fate-becomes-hard", "date": "1973-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 542995, "title": "Pixinguinha", "original_title": "Pixinguinha", "slug_title": "pixinguinha", "date": "1969-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8meG5cQlc66r3UJ3IwOmKp5UQy0.jpg", "actors": ["Pixinguinha (Ele mesmo)"], "comments": [], "recommandations_id": []}

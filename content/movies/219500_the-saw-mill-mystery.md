@@ -1,1 +1,0 @@
-{"tmdb_id": 219500, "title": "The Saw Mill Mystery", "original_title": "The Saw Mill Mystery", "slug_title": "the-saw-mill-mystery", "date": "1937-10-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

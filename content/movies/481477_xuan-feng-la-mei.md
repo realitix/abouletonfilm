@@ -1,1 +1,0 @@
-{"tmdb_id": 481477, "title": "Xuan Feng La Mei", "original_title": "\u65cb\u98a8\u8fa3\u59b9", "slug_title": "xuan-feng-la-mei", "date": "2017-06-27", "genre": "Action / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Qin Li-Yang (Meng Tian-Chu)", "Xue-ning Sun (Jin Can)"], "comments": [], "recommandations_id": []}

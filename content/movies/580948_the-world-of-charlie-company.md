@@ -1,1 +1,0 @@
-{"tmdb_id": 580948, "title": "The World of Charlie Company", "original_title": "The World of Charlie Company", "slug_title": "the-world-of-charlie-company", "date": "1970-07-07", "genre": "Guerre / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 558930, "title": "Kim Comes Home...", "original_title": "Kim Comes Home...", "slug_title": "kim-comes-home", "date": "1973-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rene Bond ()", "Ric Lutze ()", "Adam Ward (Gary)"], "comments": [], "recommandations_id": []}

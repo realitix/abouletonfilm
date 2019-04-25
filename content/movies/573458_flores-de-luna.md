@@ -1,1 +1,0 @@
-{"tmdb_id": 573458, "title": "Flores de luna", "original_title": "Flores de luna", "slug_title": "flores-de-luna", "date": "2008-01-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/puXo1pNQZDlsQC5aiZ6nS9XrGRL.jpg", "actors": [], "comments": [], "recommandations_id": []}

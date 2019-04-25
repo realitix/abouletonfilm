@@ -1,1 +1,0 @@
-{"tmdb_id": 519086, "title": "The Human Robot", "original_title": "The Human Robot", "slug_title": "the-human-robot", "date": "2015-04-18", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/95IcuvrXm7ShY0XOAi4thHdOfv.jpg", "actors": [], "comments": [], "recommandations_id": []}

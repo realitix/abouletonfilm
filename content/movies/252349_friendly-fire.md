@@ -1,1 +1,0 @@
-{"tmdb_id": 252349, "title": "Friendly Fire", "original_title": "Friendly Fire", "slug_title": "friendly-fire", "date": "2003-11-27", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

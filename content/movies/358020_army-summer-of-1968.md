@@ -1,1 +1,0 @@
-{"tmdb_id": 358020, "title": "Army Summer of 1968", "original_title": "Army Summer of 1968", "slug_title": "army-summer-of-1968", "date": "1968-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i99Jj1PWUu075KAxr282hzwhSsx.jpg", "actors": [], "comments": [], "recommandations_id": []}

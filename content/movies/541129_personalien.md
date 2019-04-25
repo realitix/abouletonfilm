@@ -1,1 +1,0 @@
-{"tmdb_id": 541129, "title": "Personalien", "original_title": "Personalien", "slug_title": "personalien", "date": "2019-02-27", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n0Yfahxv6GVjIh7dUAOwoGnbAkL.jpg", "actors": ["Llu\u00eds Serrat ()", "Xavier Grata\u00f3s ()"], "comments": [], "recommandations_id": []}

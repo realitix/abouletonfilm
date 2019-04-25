@@ -1,1 +1,0 @@
-{"tmdb_id": 68316, "title": "World Trade Center: A Modern Marvel", "original_title": "World Trade Center: A Modern Marvel", "slug_title": "world-trade-center-a-modern-marvel", "date": "2002-04-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

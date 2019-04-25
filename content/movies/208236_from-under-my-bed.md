@@ -1,1 +1,0 @@
-{"tmdb_id": 208236, "title": "From Under My Bed", "original_title": "Sous mon lit", "slug_title": "from-under-my-bed", "date": "2005-01-29", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["\u00c9meline Becuwe ()", "Cl\u00e9ment Van Den Bergh ()"], "comments": [], "recommandations_id": []}

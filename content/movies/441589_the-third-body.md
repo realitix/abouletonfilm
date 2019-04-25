@@ -1,1 +1,0 @@
-{"tmdb_id": 441589, "title": "The Third Body", "original_title": "The Third Body", "slug_title": "the-third-body", "date": "2007-02-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dRPcrEz8RPEjRJG0o0suIUgmKpI.jpg", "actors": [], "comments": [], "recommandations_id": []}

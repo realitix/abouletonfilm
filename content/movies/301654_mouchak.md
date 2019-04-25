@@ -1,1 +1,0 @@
-{"tmdb_id": 301654, "title": "Mouchak", "original_title": "Mouchak", "slug_title": "mouchak", "date": "1974-01-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

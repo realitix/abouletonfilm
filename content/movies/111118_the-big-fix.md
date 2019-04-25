@@ -1,1 +1,0 @@
-{"tmdb_id": 111118, "title": "The Big Fix", "original_title": "The Big Fix", "slug_title": "the-big-fix", "date": "2011-05-15", "genre": "Documentaire", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jLamx6yldrM3ipmGEhDdEqbBP17.jpg", "actors": [], "comments": [], "recommandations_id": []}

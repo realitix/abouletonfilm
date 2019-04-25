@@ -1,1 +1,0 @@
-{"tmdb_id": 390805, "title": "From Russia with Cash", "original_title": "From Russia with Cash", "slug_title": "from-russia-with-cash", "date": "2015-07-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pbHL2Tx5Ugs10BaF1RRGAlnPvXw.jpg", "actors": [], "comments": [], "recommandations_id": []}

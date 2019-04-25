@@ -1,1 +1,0 @@
-{"tmdb_id": 348827, "title": "Foals Live Paradiso 2013", "original_title": "Foals Live Paradiso 2013", "slug_title": "foals-live-paradiso-2013", "date": "", "genre": "Musique", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mJfVXhquVtf2PNZhCMT15GyhoNo.jpg", "actors": [], "comments": [], "recommandations_id": []}

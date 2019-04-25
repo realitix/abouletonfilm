@@ -1,1 +1,0 @@
-{"tmdb_id": 69275, "title": "Demon Hunters", "original_title": "Demon Hunters", "slug_title": "demon-hunters", "date": "1999-06-06", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sVdWR9QrlguoGtNVd4rQjAQti8L.jpg", "actors": [], "comments": [], "recommandations_id": []}

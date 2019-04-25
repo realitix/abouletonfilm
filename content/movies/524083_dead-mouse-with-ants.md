@@ -1,1 +1,0 @@
-{"tmdb_id": 524083, "title": "Dead Mouse with Ants", "original_title": "Dead Mouse with Ants", "slug_title": "dead-mouse-with-ants", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aHln7JpxYSoCc5XIKMf1QTfMSbo.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 553389, "title": "Comando del Diablo", "original_title": "Comando del Diablo", "slug_title": "comando-del-diablo", "date": "2011-01-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wB3isSGWwKAvAvPQ50wq8rfSAjU.jpg", "actors": [], "comments": [], "recommandations_id": []}

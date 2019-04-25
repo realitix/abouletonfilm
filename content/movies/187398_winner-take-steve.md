@@ -1,1 +1,0 @@
-{"tmdb_id": 187398, "title": "Winner Take Steve", "original_title": "Winner Take Steve", "slug_title": "winner-take-steve", "date": "2004-01-01", "genre": "Com\u00e9die", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9oWIdpSQaASt2zEDLRAIytYyW79.jpg", "actors": [], "comments": [], "recommandations_id": []}

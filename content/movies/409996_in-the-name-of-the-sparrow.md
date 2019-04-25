@@ -1,1 +1,0 @@
-{"tmdb_id": 409996, "title": "In the Name of the Sparrow", "original_title": "Gia to onoma tou spourgitiou", "slug_title": "in-the-name-of-the-sparrow", "date": "2007-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s5DlLqPeNdF9L5D7OYrJ4OY0y4v.jpg", "actors": [], "comments": [], "recommandations_id": []}

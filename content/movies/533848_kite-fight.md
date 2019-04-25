@@ -1,1 +1,1 @@
-{"tmdb_id": 533848, "title": "Kite Fight", "original_title": "Kite Fight", "slug_title": "kite-fight", "date": "2014-07-01", "genre": "Documentaire", "score": "9.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 533848, "title": "Kite Fight", "original_title": "Kite Fight", "slug_title": "kite-fight", "date": "2014-07-01", "genre": ["Documentaire"], "score": "9.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

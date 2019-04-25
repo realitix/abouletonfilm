@@ -1,1 +1,0 @@
-{"tmdb_id": 213903, "title": "Darkest Soul", "original_title": "Darkest Soul", "slug_title": "darkest-soul", "date": "1994-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jIbRMbx4CPwsfqzVcdN4a94QhYj.jpg", "actors": [], "comments": [], "recommandations_id": []}

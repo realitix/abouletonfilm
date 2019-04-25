@@ -1,1 +1,0 @@
-{"tmdb_id": 234964, "title": "Frighty Cat", "original_title": "Frighty Cat", "slug_title": "frighty-cat", "date": "1958-03-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

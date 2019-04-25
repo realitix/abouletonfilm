@@ -1,1 +1,0 @@
-{"tmdb_id": 526278, "title": "Ryysyrannan Jooseppi", "original_title": "Ryysyrannan Jooseppi", "slug_title": "ryysyrannan-jooseppi", "date": "1955-04-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

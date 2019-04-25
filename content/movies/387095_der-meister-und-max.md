@@ -1,1 +1,0 @@
-{"tmdb_id": 387095, "title": "Der Meister und Max", "original_title": "Der Meister und Max", "slug_title": "der-meister-und-max", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

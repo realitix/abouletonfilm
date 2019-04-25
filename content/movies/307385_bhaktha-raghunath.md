@@ -1,1 +1,0 @@
-{"tmdb_id": 307385, "title": "Bhaktha Raghunath", "original_title": "Bhaktha Raghunath", "slug_title": "bhaktha-raghunath", "date": "1960-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

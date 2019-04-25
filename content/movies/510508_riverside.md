@@ -1,1 +1,0 @@
-{"tmdb_id": 510508, "title": "Riverside", "original_title": "Riverside", "slug_title": "riverside", "date": "2014-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cJxh5SRz9eHiB49SFMv1JUeoU2V.jpg", "actors": [], "comments": [], "recommandations_id": []}

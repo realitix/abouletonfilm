@@ -1,1 +1,0 @@
-{"tmdb_id": 268303, "title": "Wish You Were Her", "original_title": "Wish You Were Her", "slug_title": "wish-you-were-her", "date": "2011-04-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Josh Berkowitz (Mike)", "Jason Caridi (Rich)", "Abby Danforth (Martha)"], "comments": [], "recommandations_id": []}

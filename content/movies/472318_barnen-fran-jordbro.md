@@ -1,1 +1,0 @@
-{"tmdb_id": 472318, "title": "Barnen fr\u00e5n Jordbro", "original_title": "Barnen fr\u00e5n Jordbro", "slug_title": "barnen-fran-jordbro", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

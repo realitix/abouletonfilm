@@ -1,1 +1,0 @@
-{"tmdb_id": 569809, "title": "Love and Four Walls", "original_title": "Love and Four Walls", "slug_title": "love-and-four-walls", "date": "2018-09-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cOA9RprwI9bR17BDR9PPJhtfg2u.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 163655, "title": "Los inquilinos del infierno", "original_title": "Los inquilinos del infierno", "slug_title": "los-inquilinos-del-infierno", "date": "2004-05-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lHgqIKhw3Lkg4IjgjsOvSunfEhC.jpg", "actors": [], "comments": [], "recommandations_id": []}

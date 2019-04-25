@@ -1,1 +1,0 @@
-{"tmdb_id": 328974, "title": "Threshold", "original_title": "Threshold", "slug_title": "threshold", "date": "1971-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["John Carradine (Old-fashioned Undertaker)", "William Rothlein (Young Man)", "Carol Young ()"], "comments": [], "recommandations_id": []}

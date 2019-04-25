@@ -1,1 +1,0 @@
-{"tmdb_id": 456597, "title": "In Consideration of Pompeii", "original_title": "In Consideration of Pompeii", "slug_title": "in-consideration-of-pompeii", "date": "1995-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 477069, "title": "Date of the Dead", "original_title": "Date of the Dead", "slug_title": "date-of-the-dead", "date": "2017-08-17", "genre": "Horreur / Com\u00e9die", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/44dlr06nGQnBL5TP294s3uKwT3d.jpg", "actors": [], "comments": [], "recommandations_id": []}

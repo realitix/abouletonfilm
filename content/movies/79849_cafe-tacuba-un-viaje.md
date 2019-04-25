@@ -1,1 +1,0 @@
-{"tmdb_id": 79849, "title": "Cafe Tacuba - Un Viaje", "original_title": "Cafe Tacuba - Un Viaje", "slug_title": "cafe-tacuba-un-viaje", "date": "2005-04-19", "genre": "Musique", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vhK61JehfvWVyY7cSd2nELFhMlw.jpg", "actors": [], "comments": [], "recommandations_id": []}

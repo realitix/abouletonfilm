@@ -1,1 +1,0 @@
-{"tmdb_id": 474010, "title": "A Daughter of Dixie", "original_title": "A Daughter of Dixie", "slug_title": "a-daughter-of-dixie", "date": "1910-07-27", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

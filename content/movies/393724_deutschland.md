@@ -1,1 +1,0 @@
-{"tmdb_id": 393724, "title": "Deutschland!", "original_title": "Deutschland!", "slug_title": "deutschland", "date": "1980-04-20", "genre": "Drame / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/66N8iNHWqxV4n0GY8i3m7cnS6SR.jpg", "actors": [], "comments": [], "recommandations_id": []}

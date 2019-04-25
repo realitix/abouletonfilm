@@ -1,1 +1,0 @@
-{"tmdb_id": 318532, "title": "The Five Levels of Regulation", "original_title": "The Five Levels of Regulation", "slug_title": "the-five-levels-of-regulation", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

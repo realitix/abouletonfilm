@@ -1,1 +1,0 @@
-{"tmdb_id": 313961, "title": "How Do You Solve a Problem Like Lolita?", "original_title": "How Do You Solve a Problem Like Lolita?", "slug_title": "how-do-you-solve-a-problem-like-lolita", "date": "2009-12-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

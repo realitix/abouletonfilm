@@ -1,1 +1,0 @@
-{"tmdb_id": 495952, "title": "The Evolution of the Stones", "original_title": "El devenir de las piedras", "slug_title": "the-evolution-of-the-stones", "date": "1988-05-01", "genre": "Documentaire", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/daAoKWhzIyK1EkqwrYT2pV7KTbP.jpg", "actors": [], "comments": [], "recommandations_id": []}

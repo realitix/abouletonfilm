@@ -1,1 +1,0 @@
-{"tmdb_id": 540808, "title": "Variant", "original_title": "Variant", "slug_title": "variant", "date": "1973-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sRtaqFC5KctDB6wH91pzmiQOxzI.jpg", "actors": [], "comments": [], "recommandations_id": []}

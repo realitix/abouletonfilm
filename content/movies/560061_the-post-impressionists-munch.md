@@ -1,1 +1,0 @@
-{"tmdb_id": 560061, "title": "The Post-Impressionists: Munch", "original_title": "The Post-Impressionists: Munch", "slug_title": "the-post-impressionists-munch", "date": "2000-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xhIqg5e6EZmHLzhgi3Q2zLAV8Uf.jpg", "actors": [], "comments": [], "recommandations_id": []}

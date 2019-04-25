@@ -1,1 +1,0 @@
-{"tmdb_id": 559256, "title": "Le cavalier de Croix-Mort", "original_title": "Le cavalier de Croix-Mort", "slug_title": "le-cavalier-de-croix-mort", "date": "1948-04-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1aOtE65mQZ6YtcCrLQL92Wv6dsg.jpg", "actors": [], "comments": [], "recommandations_id": []}

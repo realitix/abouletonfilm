@@ -1,1 +1,0 @@
-{"tmdb_id": 351009, "title": "Jesse and James", "original_title": "Jesse and James", "slug_title": "jesse-and-james", "date": "1931-09-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

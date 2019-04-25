@@ -1,1 +1,1 @@
-{"tmdb_id": 302552, "title": "Noramimi", "original_title": "Noramimi", "slug_title": "noramimi", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 302552, "title": "Noramimi", "original_title": "Noramimi", "slug_title": "noramimi", "date": "2008-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Animated TV series", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

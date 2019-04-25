@@ -1,1 +1,0 @@
-{"tmdb_id": 500622, "title": "Break Through", "original_title": "Break Through", "slug_title": "break-through", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 559195, "title": "Le destin s'amuse", "original_title": "Le destin s'amuse", "slug_title": "le-destin-s-amuse", "date": "1946-12-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rpfyAUKXS3g0V53UeUzVXdpi05z.jpg", "actors": [], "comments": [], "recommandations_id": []}

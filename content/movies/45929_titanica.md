@@ -1,1 +1,0 @@
-{"tmdb_id": 45929, "title": "Titanica", "original_title": "Titanica", "slug_title": "titanica", "date": "1995-04-01", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8HR8MqwzBGJ93e2m3A738DpECOF.jpg", "actors": ["Leonard Nimoy (narrator)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 350252, "title": "\uc778\uac04\uc2dc\uc7a5 4 - \uc624! \ud558\ub098\ub2d8", "original_title": "\uc778\uac04\uc2dc\uc7a5 4 - \uc624! \ud558\ub098\ub2d8", "slug_title": "ingansijang-4-o-hananim", "date": "1989-06-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 552450, "title": "Three Atlas", "original_title": "Three Atlas", "slug_title": "three-atlas", "date": "2018-10-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

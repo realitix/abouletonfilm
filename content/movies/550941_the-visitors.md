@@ -1,1 +1,0 @@
-{"tmdb_id": 550941, "title": "The Visitors", "original_title": "The Visitors", "slug_title": "the-visitors", "date": "2017-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i5y7PYLDE0LXjLaBiH06ti4qPNh.jpg", "actors": [], "comments": [], "recommandations_id": []}

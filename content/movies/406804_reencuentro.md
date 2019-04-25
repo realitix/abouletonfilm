@@ -1,1 +1,0 @@
-{"tmdb_id": 406804, "title": "Reencuentro", "original_title": "Reencuentro", "slug_title": "reencuentro", "date": "2016-03-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iKbH6ODTONPpH3P46gKGXbmqv54.jpg", "actors": [], "comments": [], "recommandations_id": []}

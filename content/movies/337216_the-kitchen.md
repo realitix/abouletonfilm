@@ -1,1 +1,0 @@
-{"tmdb_id": 337216, "title": "The Kitchen", "original_title": "The Kitchen", "slug_title": "the-kitchen", "date": "1975-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hMHdWRDdxie5eZyC7KQhDk9o00p.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 273530, "title": "Handicapped, Their Desire for Love", "original_title": "Handicapped, Their Desire for Love", "slug_title": "handicapped-their-desire-for-love", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 413964, "title": "Chic: Le Freak - Live", "original_title": "Chic: Le Freak - Live", "slug_title": "chic-le-freak-live", "date": "2006-06-06", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kaIyxmNcx3bUcrN19DfVvJFoWGO.jpg", "actors": ["Nile Rodgers (Guitar)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 354494, "title": "Aus der Ferne - The Memo Book", "original_title": "Aus der Ferne - The Memo Book", "slug_title": "aus-der-ferne-the-memo-book", "date": "1989-08-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wutoQ2Pdl1QdgxxLb3esfaEfYuc.jpg", "actors": [], "comments": [], "recommandations_id": []}

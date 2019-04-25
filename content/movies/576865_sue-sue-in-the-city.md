@@ -1,1 +1,0 @@
-{"tmdb_id": 576865, "title": "Sue Sue in the City", "original_title": "Sue Sue in the City", "slug_title": "sue-sue-in-the-city", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

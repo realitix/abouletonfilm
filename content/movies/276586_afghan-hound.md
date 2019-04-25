@@ -1,1 +1,0 @@
-{"tmdb_id": 276586, "title": "Afghan Hound", "original_title": "Afghan Hound", "slug_title": "afghan-hound", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

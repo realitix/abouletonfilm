@@ -1,1 +1,0 @@
-{"tmdb_id": 412559, "title": "Les cow-boys sont noirs", "original_title": "Les cow-boys sont noirs", "slug_title": "les-cow-boys-sont-noirs", "date": "1966-08-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

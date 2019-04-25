@@ -1,1 +1,0 @@
-{"tmdb_id": 304379, "title": "Boerenidylle", "original_title": "Boerenidylle", "slug_title": "boerenidylle", "date": "1914-11-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Annie Bos (Farmer's daughter)"], "comments": [], "recommandations_id": []}

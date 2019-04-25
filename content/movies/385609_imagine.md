@@ -1,1 +1,0 @@
-{"tmdb_id": 385609, "title": "Imagine", "original_title": "Imagine", "slug_title": "imagine", "date": "1987-01-01", "genre": "Fantastique / Drame", "score": "7.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7KXGpyMp9HbzsSNw3R3D7Pakcsq.jpg", "actors": [], "comments": [], "recommandations_id": []}

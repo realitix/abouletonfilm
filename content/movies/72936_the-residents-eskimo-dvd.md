@@ -1,1 +1,0 @@
-{"tmdb_id": 72936, "title": "The Residents - Eskimo DVD", "original_title": "The Residents - Eskimo DVD", "slug_title": "the-residents-eskimo-dvd", "date": "2003-10-07", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rmXBhXrpZ8SuGlgcDVgUovVgsO.jpg", "actors": [], "comments": [], "recommandations_id": []}

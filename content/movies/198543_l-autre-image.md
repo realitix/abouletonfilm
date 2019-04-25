@@ -1,1 +1,0 @@
-{"tmdb_id": 198543, "title": "L'autre image", "original_title": "La otra imagen", "slug_title": "l-autre-image", "date": "1973-06-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qv3lz7eESz7xxqgIvNnnyvFnG4K.jpg", "actors": [], "comments": [], "recommandations_id": []}

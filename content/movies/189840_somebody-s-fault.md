@@ -1,1 +1,0 @@
-{"tmdb_id": 189840, "title": "Somebody's Fault", "original_title": "Somebody's Fault", "slug_title": "somebody-s-fault", "date": "1927-03-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lloyd Hamilton (The Electrician's Helper)"], "comments": [], "recommandations_id": []}

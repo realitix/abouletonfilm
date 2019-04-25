@@ -1,1 +1,0 @@
-{"tmdb_id": 514442, "title": "Hatets Vugge", "original_title": "Hatets Vugge", "slug_title": "hatets-vugge", "date": "2017-11-19", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9XV1AETkqUiHlwtPyzvXBIYoZR.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 572531, "title": "Ini Scene Kami Juga!", "original_title": "Ini Scene Kami Juga!", "slug_title": "ini-scene-kami-juga", "date": "2016-05-12", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 348156, "title": "The Bad Samaritan Must Die!", "original_title": "The Bad Samaritan Must Die!", "slug_title": "the-bad-samaritan-must-die", "date": "2012-01-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2jy1yQN1IESNbDGwxtfRoyB6jVB.jpg", "actors": [], "comments": [], "recommandations_id": []}

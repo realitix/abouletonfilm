@@ -1,1 +1,0 @@
-{"tmdb_id": 577287, "title": "Callisto, la petite nymphe de Diane", "original_title": "Callisto, la petite nymphe de Diane", "slug_title": "callisto-la-petite-nymphe-de-diane", "date": "1943-04-09", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 425760, "title": "Blood Mercury", "original_title": "Blood Mercury", "slug_title": "blood-mercury", "date": "2014-10-17", "genre": "Science-Fiction / Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Len Kabasinski (Agent Kennedy)"], "comments": [], "recommandations_id": []}

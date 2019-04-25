@@ -1,1 +1,0 @@
-{"tmdb_id": 556796, "title": "Ara's Tale", "original_title": "Ara's Tale", "slug_title": "ara-s-tale", "date": "", "genre": "Fantastique / Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bR8zkY6aV26dNqFTQ9ux3jJjf7k.jpg", "actors": [], "comments": [], "recommandations_id": []}

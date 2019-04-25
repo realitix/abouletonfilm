@@ -1,1 +1,0 @@
-{"tmdb_id": 185300, "title": "Purple State of Mind", "original_title": "Purple State of Mind", "slug_title": "purple-state-of-mind", "date": "2008-01-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jusjTagjwxqMsv2SwI3EMWHvZxL.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 588093, "title": "I Won\u2019t Bear No More", "original_title": "Yenegen Alweldim", "slug_title": "i-wont-bear-no-more", "date": "", "genre": "Drame / Histoire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

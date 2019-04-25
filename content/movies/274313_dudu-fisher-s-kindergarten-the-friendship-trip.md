@@ -1,1 +1,0 @@
-{"tmdb_id": 274313, "title": "Dudu Fisher's Kindergarten: The Friendship Trip", "original_title": "Dudu Fisher's Kindergarten: The Friendship Trip", "slug_title": "dudu-fisher-s-kindergarten-the-friendship-trip", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

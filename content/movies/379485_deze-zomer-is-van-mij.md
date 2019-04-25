@@ -1,1 +1,0 @@
-{"tmdb_id": 379485, "title": "Deze zomer is van mij", "original_title": "Deze zomer is van mij", "slug_title": "deze-zomer-is-van-mij", "date": "2016-01-09", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cLuUwFG4psJbZorECeTpcjTDlR6.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 554511, "title": "Cave Explorers", "original_title": "Cave Explorers", "slug_title": "cave-explorers", "date": "1957-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

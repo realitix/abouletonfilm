@@ -1,1 +1,0 @@
-{"tmdb_id": 534131, "title": "The Power of the Chair", "original_title": "El Poder de la Silla", "slug_title": "the-power-of-the-chair", "date": "2015-05-09", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a4ssNUti0c5dqz9opoyERfYhHp9.jpg", "actors": [], "comments": [], "recommandations_id": []}

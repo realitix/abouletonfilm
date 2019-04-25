@@ -1,1 +1,0 @@
-{"tmdb_id": 350022, "title": "\ubd88\ud0c0\ub294 \ud0dc\uc591", "original_title": "\ubd88\ud0c0\ub294 \ud0dc\uc591", "slug_title": "bultaneun-taeyang", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

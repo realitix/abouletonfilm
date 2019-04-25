@@ -1,1 +1,0 @@
-{"tmdb_id": 117911, "title": "The Wild Swans", "original_title": "The Wild Swans", "slug_title": "the-wild-swans", "date": "1994-01-01", "genre": "Animation", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vLvwe5hlQoHgueRDg1TqgoYe6L5.jpg", "actors": ["Sigourney Weaver (Narrator)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 571715, "title": "Le Japon insolite", "original_title": "Le Japon insolite", "slug_title": "le-japon-insolite", "date": "1983-01-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/psvTOGZVDTYE4YbepsqOR6qmqIr.jpg", "actors": [], "comments": [], "recommandations_id": []}

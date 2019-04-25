@@ -1,1 +1,0 @@
-{"tmdb_id": 434624, "title": "Knocking On Heaven's Door", "original_title": "Knocking On Heaven's Door", "slug_title": "knocking-on-heaven-s-door", "date": "", "genre": "Drame / Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 420140, "title": "America At Risk", "original_title": "America At Risk", "slug_title": "america-at-risk", "date": "2010-09-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2o4zRSuuq67u4Xp9eisDxh8jgES.jpg", "actors": [], "comments": [], "recommandations_id": []}

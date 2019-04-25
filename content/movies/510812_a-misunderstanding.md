@@ -1,1 +1,0 @@
-{"tmdb_id": 510812, "title": "A Misunderstanding", "original_title": "Nesporazum", "slug_title": "a-misunderstanding", "date": "1958-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

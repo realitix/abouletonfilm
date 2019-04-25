@@ -1,1 +1,0 @@
-{"tmdb_id": 417217, "title": "Still Strange", "original_title": "Still Strange", "slug_title": "still-strange", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

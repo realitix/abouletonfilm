@@ -1,1 +1,0 @@
-{"tmdb_id": 421175, "title": "Abraham's Point", "original_title": "Abraham's Point", "slug_title": "abraham-s-point", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7MhZFG7EDWTwPHzxdsIrTqScqyb.jpg", "actors": [], "comments": [], "recommandations_id": []}

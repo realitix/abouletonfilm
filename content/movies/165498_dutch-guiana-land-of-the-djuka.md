@@ -1,1 +1,0 @@
-{"tmdb_id": 165498, "title": "Dutch Guiana: 'Land of the Djuka'", "original_title": "Dutch Guiana: 'Land of the Djuka'", "slug_title": "dutch-guiana-land-of-the-djuka", "date": "1933-01-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["James A. FitzPatrick ()"], "comments": [], "recommandations_id": []}

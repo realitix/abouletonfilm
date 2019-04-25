@@ -1,1 +1,0 @@
-{"tmdb_id": 564726, "title": "Francisca", "original_title": "Francisca", "slug_title": "francisca", "date": "2018-11-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5s9jDh6K9oEUe1TvU1CGi8VYleo.jpg", "actors": [], "comments": [], "recommandations_id": []}

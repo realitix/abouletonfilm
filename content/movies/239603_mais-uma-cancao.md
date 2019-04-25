@@ -1,1 +1,0 @@
-{"tmdb_id": 239603, "title": "Mais Uma Can\u00e7\u00e3o", "original_title": "Mais Uma Can\u00e7\u00e3o", "slug_title": "mais-uma-cancao", "date": "2013-11-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zXredEsZNiRJ3oFSThBZPfzr1PP.jpg", "actors": [], "comments": [], "recommandations_id": []}

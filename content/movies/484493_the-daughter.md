@@ -1,1 +1,0 @@
-{"tmdb_id": 484493, "title": "The Daughter", "original_title": "Die Tochter", "slug_title": "the-daughter", "date": "2008-04-02", "genre": "Fantastique / Aventure / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/deLjWos0tO1khNVNkONWALOwbiO.jpg", "actors": [], "comments": [], "recommandations_id": []}

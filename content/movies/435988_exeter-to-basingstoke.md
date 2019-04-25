@@ -1,1 +1,0 @@
-{"tmdb_id": 435988, "title": "Exeter to Basingstoke", "original_title": "Exeter to Basingstoke", "slug_title": "exeter-to-basingstoke", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qTzPDERQlrb4rGeZR6PBWLbxduE.jpg", "actors": [], "comments": [], "recommandations_id": []}

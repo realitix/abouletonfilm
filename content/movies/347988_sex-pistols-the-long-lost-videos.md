@@ -1,1 +1,0 @@
-{"tmdb_id": 347988, "title": "Sex Pistols - The Long Lost Videos", "original_title": "Sex Pistols - The Long Lost Videos", "slug_title": "sex-pistols-the-long-lost-videos", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

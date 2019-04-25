@@ -1,1 +1,0 @@
-{"tmdb_id": 397874, "title": "A Film on Family Planning", "original_title": "Non-KB", "slug_title": "a-film-on-family-planning", "date": "1979-06-02", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q8FoI9shGOhnc0uEnI2V6LC805b.jpg", "actors": [], "comments": [], "recommandations_id": []}

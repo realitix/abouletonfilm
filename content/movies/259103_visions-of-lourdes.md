@@ -1,1 +1,0 @@
-{"tmdb_id": 259103, "title": "Visions of Lourdes", "original_title": "Visions de Lourdes", "slug_title": "visions-of-lourdes", "date": "1932-01-01", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [190280, 228695, 189995, 189448]}

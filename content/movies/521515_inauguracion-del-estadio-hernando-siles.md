@@ -1,1 +1,0 @@
-{"tmdb_id": 521515, "title": "Inauguraci\u00f3n del Estadio Hernando Siles", "original_title": "Inauguraci\u00f3n del Estadio Hernando Siles", "slug_title": "inauguracion-del-estadio-hernando-siles", "date": "1927-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

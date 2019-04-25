@@ -1,1 +1,0 @@
-{"tmdb_id": 359508, "title": "Every Young Man's Battle", "original_title": "Every Young Man's Battle", "slug_title": "every-young-man-s-battle", "date": "2003-01-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/21MAyvmzBep3kFevzVbXuSgzXSB.jpg", "actors": [], "comments": [], "recommandations_id": []}

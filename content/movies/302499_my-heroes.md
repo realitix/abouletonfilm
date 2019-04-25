@@ -1,1 +1,0 @@
-{"tmdb_id": 302499, "title": "My Heroes", "original_title": "My Heroes", "slug_title": "my-heroes", "date": "2012-12-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

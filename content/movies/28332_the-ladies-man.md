@@ -1,1 +1,0 @@
-{"tmdb_id": 28332, "title": "The Ladies' Man", "original_title": "The Ladies' Man", "slug_title": "the-ladies-man", "date": "1928-12-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

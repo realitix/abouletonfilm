@@ -1,1 +1,0 @@
-{"tmdb_id": 499642, "title": "Jahilya", "original_title": "Jahilya", "slug_title": "jahilya", "date": "2018-02-18", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4X5rIbQn0dXhFKo7T4be5QwGtxi.jpg", "actors": [], "comments": [], "recommandations_id": []}

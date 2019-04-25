@@ -1,1 +1,0 @@
-{"tmdb_id": 313677, "title": "An Maogmang Lugar", "original_title": "An Maogmang Lugar", "slug_title": "an-maogmang-lugar", "date": "2014-12-17", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p6zdgTLuSOqUstglCttJHcnWszq.jpg", "actors": [], "comments": [], "recommandations_id": []}

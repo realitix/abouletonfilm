@@ -1,1 +1,0 @@
-{"tmdb_id": 500135, "title": "Subrosa", "original_title": "Subrosa", "slug_title": "subrosa", "date": "2000-09-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

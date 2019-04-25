@@ -1,1 +1,0 @@
-{"tmdb_id": 425543, "title": "My Aleppo", "original_title": "My Aleppo", "slug_title": "my-aleppo", "date": "2015-09-04", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

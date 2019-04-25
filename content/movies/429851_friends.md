@@ -1,1 +1,0 @@
-{"tmdb_id": 429851, "title": "Friends", "original_title": "Friends", "slug_title": "friends", "date": "", "genre": "", "score": "0.0/10", "synopsis": "C'est un sitcom qui parle d'un groupe d'amis dans New-York.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

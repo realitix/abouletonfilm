@@ -1,1 +1,0 @@
-{"tmdb_id": 527006, "title": "Schenk mir das Leben", "original_title": "Schenk mir das Leben", "slug_title": "schenk-mir-das-leben", "date": "1928-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Grete Reinwald ()", "Grit Haid ()", "Jakob Tiedtke ()", "Olga Limburg ()"], "comments": [], "recommandations_id": []}

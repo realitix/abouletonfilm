@@ -1,1 +1,0 @@
-{"tmdb_id": 410656, "title": "Hooray for Sandbox Land", "original_title": "Hooray for Sandbox Land", "slug_title": "hooray-for-sandbox-land", "date": "1984-08-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/VJDDggO7kFWxNEBmmogqTNK9lr.jpg", "actors": [], "comments": [], "recommandations_id": []}

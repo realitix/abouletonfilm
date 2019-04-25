@@ -1,1 +1,0 @@
-{"tmdb_id": 273109, "title": "The Adventures of Buffalo Bill", "original_title": "The Adventures of Buffalo Bill", "slug_title": "the-adventures-of-buffalo-bill", "date": "1914-01-02", "genre": "Western / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["William F. Cody (Himself)"], "comments": [], "recommandations_id": []}

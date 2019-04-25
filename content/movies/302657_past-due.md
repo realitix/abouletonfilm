@@ -1,1 +1,0 @@
-{"tmdb_id": 302657, "title": "Past Due", "original_title": "Past Due", "slug_title": "past-due", "date": "2012-08-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 182855, "title": "Non son degno di te", "original_title": "Non son degno di te", "slug_title": "non-son-degno-di-te", "date": "1965-04-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7o21RJKQkLyxT6xXPMUbOG0fYro.jpg", "actors": [], "comments": [], "recommandations_id": []}

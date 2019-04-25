@@ -1,1 +1,0 @@
-{"tmdb_id": 145038, "title": "Klucht - Een Hoofdstuk Apart", "original_title": "Klucht - Een Hoofdstuk Apart", "slug_title": "klucht-een-hoofdstuk-apart", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tMekBIhvKnJOp5dfZACVPuYLSeQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

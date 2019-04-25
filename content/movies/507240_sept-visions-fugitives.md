@@ -1,1 +1,0 @@
-{"tmdb_id": 507240, "title": "Sept visions fugitives", "original_title": "Sept visions fugitives", "slug_title": "sept-visions-fugitives", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 566282, "title": "The Lonely Life of Debby Adams", "original_title": "The Lonely Life of Debby Adams", "slug_title": "the-lonely-life-of-debby-adams", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

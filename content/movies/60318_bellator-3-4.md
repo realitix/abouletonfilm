@@ -1,1 +1,0 @@
-{"tmdb_id": 60318, "title": "Bellator 3 & 4", "original_title": "Bellator 3 & 4", "slug_title": "bellator-3-4", "date": "2009-04-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9eRd7B7dEOPUSv8agoErOk2bRk8.jpg", "actors": [], "comments": [], "recommandations_id": []}

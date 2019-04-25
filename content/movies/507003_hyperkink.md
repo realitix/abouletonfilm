@@ -1,1 +1,0 @@
-{"tmdb_id": 507003, "title": "Hyperkink", "original_title": "Hyperkink", "slug_title": "hyperkink", "date": "1989-02-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sharon Kane ()", "Lois Ayres ()", "Tami Monroe ()", "Rick Savage ()", "Scott Irish ()"], "comments": [], "recommandations_id": []}

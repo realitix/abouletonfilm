@@ -1,1 +1,0 @@
-{"tmdb_id": 142600, "title": "People's Park", "original_title": "People's Park", "slug_title": "people-s-park", "date": "2012-08-09", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/55nCrMtGS8zqHo6cVMw4JhsPYdM.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 137654, "title": "Open Heart", "original_title": "Open Heart", "slug_title": "open-heart", "date": "2013-01-15", "genre": "Documentaire", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ibfxbzePXevm9SH3Jl7R2DUgYrr.jpg", "actors": [], "comments": [], "recommandations_id": []}

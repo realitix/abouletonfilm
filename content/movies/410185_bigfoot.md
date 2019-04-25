@@ -1,1 +1,0 @@
-{"tmdb_id": 410185, "title": "Bigfoot", "original_title": "Bigfoot", "slug_title": "bigfoot", "date": "1997-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i729UBMqWg7c3GDX0PRDa911T5R.jpg", "actors": ["John Waters (Himself)"], "comments": [], "recommandations_id": []}

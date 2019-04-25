@@ -1,1 +1,0 @@
-{"tmdb_id": 385415, "title": "Ti-Ti Nallen Lomamatka", "original_title": "Ti-Ti Nallen Lomamatka", "slug_title": "ti-ti-nallen-lomamatka", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

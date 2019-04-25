@@ -1,1 +1,0 @@
-{"tmdb_id": 193775, "title": "Herman Teirlinck", "original_title": "Herman Teirlinck", "slug_title": "herman-teirlinck", "date": "1953-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bFEoXH7t8hWiEZnsY4q8iW7KkTp.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 525159, "title": "The Loaf Zone", "original_title": "The Loaf Zone", "slug_title": "the-loaf-zone", "date": "2018-05-05", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2iKwzbYPnGcmHzfhJh4dS57P8JZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

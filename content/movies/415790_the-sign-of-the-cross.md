@@ -1,1 +1,0 @@
-{"tmdb_id": 415790, "title": "The Sign of the Cross", "original_title": "The Sign of the Cross", "slug_title": "the-sign-of-the-cross", "date": "1904-12-10", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 423794, "title": "Shoe Shine Jasper", "original_title": "Shoe Shine Jasper", "slug_title": "shoe-shine-jasper", "date": "1947-02-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rex Ingram ((voice))", "Victor Jory ((voice))"], "comments": [], "recommandations_id": []}

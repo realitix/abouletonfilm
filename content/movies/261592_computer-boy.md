@@ -1,1 +1,0 @@
-{"tmdb_id": 261592, "title": "Computer Boy", "original_title": "Computer Boy", "slug_title": "computer-boy", "date": "2000-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Michael Falzon (Neo)", "Marcus Pointon (Morpheus)", "Simone Chapman (Trinity)", "Abe Forsythe (Agent Smith)"], "comments": [], "recommandations_id": []}

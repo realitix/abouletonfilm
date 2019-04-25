@@ -1,1 +1,0 @@
-{"tmdb_id": 90521, "title": "Wash-'em-Clean", "original_title": "\u041c\u043e\u0439\u0434\u043e\u0434\u044b\u0440", "slug_title": "wash-em-clean", "date": "1954-01-01", "genre": "Animation", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9L9WhIdMOeGHgewH0F0ugwcu10k.jpg", "actors": [], "comments": [], "recommandations_id": []}

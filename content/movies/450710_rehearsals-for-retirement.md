@@ -1,1 +1,0 @@
-{"tmdb_id": 450710, "title": "Rehearsals for Retirement", "original_title": "Rehearsals for Retirement", "slug_title": "rehearsals-for-retirement", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6KbV4dkyCkb3b3E8GaJwW0OLb7W.jpg", "actors": [], "comments": [], "recommandations_id": []}

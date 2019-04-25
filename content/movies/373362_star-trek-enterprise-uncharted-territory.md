@@ -1,1 +1,0 @@
-{"tmdb_id": 373362, "title": "Star Trek: Enterprise - Uncharted Territory", "original_title": "Star Trek: Enterprise - Uncharted Territory", "slug_title": "star-trek-enterprise-uncharted-territory", "date": "", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

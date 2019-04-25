@@ -1,1 +1,0 @@
-{"tmdb_id": 501609, "title": "American Illuminati", "original_title": "American Illuminati", "slug_title": "american-illuminati", "date": "2017-08-01", "genre": "Documentaire", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nVrXcUzjpMQIB8szwvE2wxbL2wf.jpg", "actors": [], "comments": [], "recommandations_id": []}

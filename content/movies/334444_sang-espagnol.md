@@ -1,1 +1,0 @@
-{"tmdb_id": 334444, "title": "Sang espagnol", "original_title": "Sang espagnol", "slug_title": "sang-espagnol", "date": "1908-04-04", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

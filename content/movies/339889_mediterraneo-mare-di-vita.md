@@ -1,1 +1,0 @@
-{"tmdb_id": 339889, "title": "Mediterraneo mare di vita", "original_title": "Mediterraneo mare di vita", "slug_title": "mediterraneo-mare-di-vita", "date": "2013-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kQPsQOGhKlNf1wjYgPrpStY8SSA.jpg", "actors": [], "comments": [], "recommandations_id": []}

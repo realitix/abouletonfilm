@@ -1,1 +1,0 @@
-{"tmdb_id": 65475, "title": "Nitrate Base", "original_title": "Nitrato d'argento", "slug_title": "nitrate-base", "date": "1997-01-29", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yAPW2tZn1RBMkEBQUwOLexawSoI.jpg", "actors": [], "comments": [], "recommandations_id": []}

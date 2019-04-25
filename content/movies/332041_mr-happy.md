@@ -1,1 +1,0 @@
-{"tmdb_id": 332041, "title": "Mr. Happy", "original_title": "Mr. Happy", "slug_title": "mr-happy", "date": "2015-03-22", "genre": "Drame", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gcO8Nw5RfEzSIOXPX1WEVv9i5gS.jpg", "actors": ["Chance the Rapper (Victor)", "Marie Oldenbourg ()"], "comments": [], "recommandations_id": []}

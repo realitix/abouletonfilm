@@ -1,1 +1,0 @@
-{"tmdb_id": 137948, "title": "Skank - MTV Ouro Preto", "original_title": "Skank - MTV Ouro Preto", "slug_title": "skank-mtv-ouro-preto", "date": "2001-07-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6IuDmFRstK8peMQpTPBirMRU2LA.jpg", "actors": [], "comments": [], "recommandations_id": []}

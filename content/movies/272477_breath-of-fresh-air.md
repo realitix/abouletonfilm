@@ -1,1 +1,0 @@
-{"tmdb_id": 272477, "title": "Breath of Fresh Air", "original_title": "Breath of Fresh Air", "slug_title": "breath-of-fresh-air", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

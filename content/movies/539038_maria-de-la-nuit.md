@@ -1,1 +1,0 @@
-{"tmdb_id": 539038, "title": "Maria de la nuit", "original_title": "Maria de la nuit", "slug_title": "maria-de-la-nuit", "date": "1936-07-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pf3g4c3MkJk1pzNDja5pXMXAHA9.jpg", "actors": [], "comments": [], "recommandations_id": []}

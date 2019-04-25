@@ -1,1 +1,0 @@
-{"tmdb_id": 66947, "title": "Ecstacy", "original_title": "Ecstacy", "slug_title": "ecstacy", "date": "2011-09-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vNCNoAqvSDW5NKXXqxkN3DMcpU5.jpg", "actors": [], "comments": [], "recommandations_id": []}

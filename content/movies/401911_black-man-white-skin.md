@@ -1,1 +1,0 @@
-{"tmdb_id": 401911, "title": "Black Man White Skin", "original_title": "Hombre Negro, Piel Blanca", "slug_title": "black-man-white-skin", "date": "2016-06-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6VbyvFdPkqkGDc2BSuoyvZN9Yv.jpg", "actors": [], "comments": [], "recommandations_id": []}

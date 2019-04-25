@@ -1,1 +1,0 @@
-{"tmdb_id": 536227, "title": "The Buff Loser", "original_title": "The Buff Loser", "slug_title": "the-buff-loser", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ewhore (Himself)"], "comments": [], "recommandations_id": []}

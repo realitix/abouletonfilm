@@ -1,1 +1,0 @@
-{"tmdb_id": 407983, "title": "Spiderweb", "original_title": "Spiderweb", "slug_title": "spiderweb", "date": "", "genre": "Crime / Myst\u00e8re", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Nigel Hawthorne (Erik L\u00f6nnrot)", "Gabor Vernon (Red Scharlach)"], "comments": [], "recommandations_id": []}

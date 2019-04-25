@@ -1,1 +1,0 @@
-{"tmdb_id": 582080, "title": "\u5927\u5e2b\u7236", "original_title": "\u5927\u5e2b\u7236", "slug_title": "da-shi-fu", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dw2VQdaFCJVoLLCc2q5YBctluze.jpg", "actors": [], "comments": [], "recommandations_id": []}

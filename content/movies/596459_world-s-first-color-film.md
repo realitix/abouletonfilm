@@ -1,1 +1,0 @@
-{"tmdb_id": 596459, "title": "World's First Color Film", "original_title": "World's First Color Film", "slug_title": "world-s-first-color-film", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rR6ypf5QqWrybZLf80S8Pb9Y6Y.jpg", "actors": [], "comments": [], "recommandations_id": []}

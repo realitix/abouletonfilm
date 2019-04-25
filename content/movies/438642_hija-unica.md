@@ -1,1 +1,0 @@
-{"tmdb_id": 438642, "title": "Hija \u00fanica", "original_title": "Hija \u00fanica", "slug_title": "hija-unica", "date": "2016-11-10", "genre": "Drame", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3KvxxVYWxbkRnel7lBx8iGUjuz2.jpg", "actors": [], "comments": [], "recommandations_id": []}

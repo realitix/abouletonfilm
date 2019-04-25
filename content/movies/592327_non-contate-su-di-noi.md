@@ -1,1 +1,0 @@
-{"tmdb_id": 592327, "title": "Non contate su di noi", "original_title": "Non contate su di noi", "slug_title": "non-contate-su-di-noi", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vYyD64Zthe4JIuhTcdyPntxB01.jpg", "actors": [], "comments": [], "recommandations_id": []}

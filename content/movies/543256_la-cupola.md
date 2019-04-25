@@ -1,1 +1,0 @@
-{"tmdb_id": 543256, "title": "La Cupola", "original_title": "La Cupola", "slug_title": "la-cupola", "date": "2016-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

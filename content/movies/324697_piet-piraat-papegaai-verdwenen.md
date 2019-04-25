@@ -1,1 +1,0 @@
-{"tmdb_id": 324697, "title": "Piet Piraat Papegaai Verdwenen", "original_title": "Piet Piraat Papegaai Verdwenen", "slug_title": "piet-piraat-papegaai-verdwenen", "date": "2006-11-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3I7wy8qWUe9sahGky2LyJ13zn82.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 452527, "title": "Still Sophie", "original_title": "Still Sophie", "slug_title": "still-sophie", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

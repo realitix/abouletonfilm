@@ -1,1 +1,0 @@
-{"tmdb_id": 500886, "title": "Patrimonio", "original_title": "Patrimonio", "slug_title": "patrimonio", "date": "2018-02-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7AJjRDu1jNEdSfF91YT3BWJGwgu.jpg", "actors": [], "comments": [], "recommandations_id": []}

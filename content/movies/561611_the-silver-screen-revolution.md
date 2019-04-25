@@ -1,1 +1,0 @@
-{"tmdb_id": 561611, "title": "The Silver Screen Revolution", "original_title": "Les derniers r\u00e9volt\u00e9s d'Hollywood", "slug_title": "the-silver-screen-revolution", "date": "2008-04-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

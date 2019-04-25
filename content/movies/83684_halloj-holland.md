@@ -1,1 +1,1 @@
-{"tmdb_id": 83684, "title": "Halloj Holland", "original_title": "Halloj Holland", "slug_title": "halloj-holland", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 83684, "title": "Halloj Holland", "original_title": "Halloj Holland", "slug_title": "halloj-holland", "date": "", "genre": [""], "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

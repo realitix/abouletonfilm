@@ -1,1 +1,0 @@
-{"tmdb_id": 358663, "title": "The Travolators", "original_title": "The Travolators", "slug_title": "the-travolators", "date": "1961-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

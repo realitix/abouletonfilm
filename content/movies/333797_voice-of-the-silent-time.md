@@ -1,1 +1,0 @@
-{"tmdb_id": 333797, "title": "Voice of the Silent Time", "original_title": "Stimme der Stummen Zeit", "slug_title": "voice-of-the-silent-time", "date": "1990-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

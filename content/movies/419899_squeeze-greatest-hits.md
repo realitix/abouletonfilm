@@ -1,1 +1,0 @@
-{"tmdb_id": 419899, "title": "Squeeze: Greatest Hits", "original_title": "Squeeze: Greatest Hits", "slug_title": "squeeze-greatest-hits", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6gSBpLpCiuSOzSdVh3XRAT7qIK4.jpg", "actors": [], "comments": [], "recommandations_id": []}

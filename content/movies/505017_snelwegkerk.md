@@ -1,1 +1,0 @@
-{"tmdb_id": 505017, "title": "Snelwegkerk", "original_title": "Snelwegkerk", "slug_title": "snelwegkerk", "date": "2017-09-22", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z6llnpNGSpF4Ev7CduLDx0cu4r2.jpg", "actors": [], "comments": [], "recommandations_id": []}

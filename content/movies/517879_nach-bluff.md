@@ -1,1 +1,0 @@
-{"tmdb_id": 517879, "title": "nach bluff", "original_title": "nach bluff", "slug_title": "nach-bluff", "date": "", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 528556, "title": "Faces & Landscapes of Beaujolais", "original_title": "Visages & Paysages du Beaujolais", "slug_title": "faces-landscapes-of-beaujolais", "date": "2010-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

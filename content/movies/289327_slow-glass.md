@@ -1,1 +1,0 @@
-{"tmdb_id": 289327, "title": "Slow Glass", "original_title": "Slow Glass", "slug_title": "slow-glass", "date": "1991-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3PZhACGmiQ1xKsg1d3VEc13L1Ax.jpg", "actors": ["Ian Bourn (Glazier (voice))"], "comments": [], "recommandations_id": []}

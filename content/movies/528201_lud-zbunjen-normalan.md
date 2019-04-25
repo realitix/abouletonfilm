@@ -1,1 +1,0 @@
-{"tmdb_id": 528201, "title": "Lud, zbunjen, normalan", "original_title": "Lud, zbunjen, normalan", "slug_title": "lud-zbunjen-normalan", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 410984, "title": "Bathing Babies In Three Cultures", "original_title": "Bathing Babies In Three Cultures", "slug_title": "bathing-babies-in-three-cultures", "date": "1954-06-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 103674, "title": "The Charnel House", "original_title": "The Charnel House", "slug_title": "the-charnel-house", "date": "2002-06-06", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["David Fox (Man)", "Linda Medeiros (Girl)"], "comments": [], "recommandations_id": []}

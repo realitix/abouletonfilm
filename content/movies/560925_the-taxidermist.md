@@ -1,1 +1,0 @@
-{"tmdb_id": 560925, "title": "The Taxidermist", "original_title": "The Taxidermist", "slug_title": "the-taxidermist", "date": "2018-11-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/140umbsKPY95wvVkQjZagVHn5rr.jpg", "actors": [], "comments": [], "recommandations_id": []}

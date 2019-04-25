@@ -1,1 +1,0 @@
-{"tmdb_id": 61058, "title": "Pride Hardcore Knockouts Vol. 1", "original_title": "Pride Hardcore Knockouts Vol. 1", "slug_title": "pride-hardcore-knockouts-vol-1", "date": "2007-03-20", "genre": "", "score": "9.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zsNVyrwWk5c9EdexEM21wSorZ78.jpg", "actors": [], "comments": [], "recommandations_id": []}

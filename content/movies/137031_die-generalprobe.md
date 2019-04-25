@@ -1,1 +1,0 @@
-{"tmdb_id": 137031, "title": "Die Generalprobe", "original_title": "Die Generalprobe", "slug_title": "die-generalprobe", "date": "1980-11-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pina Bausch ()", "Reinhold Hoffmann ()", "Kazuo Ohno ()", "Pat Oleszko ()"], "comments": [], "recommandations_id": []}

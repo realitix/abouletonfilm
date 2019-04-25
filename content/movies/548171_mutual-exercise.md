@@ -1,1 +1,0 @@
-{"tmdb_id": 548171, "title": "Mutual Exercise", "original_title": "\u4e92\u52a9\u7ec3\u4e60", "slug_title": "mutual-exercise", "date": "2009-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dsxHcENlHSLhuFfjoREODxbpRSk.jpg", "actors": ["Zhou Tao (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 328684, "title": "Hard voor de Hal", "original_title": "Hard voor de Hal", "slug_title": "hard-voor-de-hal", "date": "2011-03-04", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

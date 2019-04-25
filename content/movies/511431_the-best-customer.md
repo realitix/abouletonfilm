@@ -1,1 +1,0 @@
-{"tmdb_id": 511431, "title": "The Best Customer", "original_title": "The Best Customer", "slug_title": "the-best-customer", "date": "2017-07-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rkgXPHRuE4zDjmXfdi6pPkE0fkj.jpg", "actors": [], "comments": [], "recommandations_id": []}

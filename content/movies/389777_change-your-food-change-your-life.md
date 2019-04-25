@@ -1,1 +1,0 @@
-{"tmdb_id": 389777, "title": "Change Your Food Change Your Life", "original_title": "Change Your Food Change Your Life", "slug_title": "change-your-food-change-your-life", "date": "2005-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jill Ovnik (Self)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 425147, "title": "Untitled Fox / Marvel Film", "original_title": "Untitled Fox / Marvel Film", "slug_title": "untitled-fox-marvel-film", "date": "2021-03-05", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

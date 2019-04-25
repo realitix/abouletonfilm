@@ -1,1 +1,0 @@
-{"tmdb_id": 310855, "title": "Wait Up Harriet", "original_title": "Wait Up Harriet", "slug_title": "wait-up-harriet", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Roni Taylor (Amanda)"], "comments": [], "recommandations_id": []}

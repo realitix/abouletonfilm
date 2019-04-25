@@ -1,1 +1,0 @@
-{"tmdb_id": 508825, "title": "Black Divaz", "original_title": "Black Divaz", "slug_title": "black-divaz", "date": "2018-02-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tsuM39kktexYguRrBbOgqmyf2uQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

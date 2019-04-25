@@ -1,1 +1,0 @@
-{"tmdb_id": 520972, "title": "Lovegirl", "original_title": "Lovegirl", "slug_title": "lovegirl", "date": "2018-04-27", "genre": "Animation / Romance", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rBIOfJOODWKRwwa4VBt6rtZnYwu.jpg", "actors": [], "comments": [], "recommandations_id": []}

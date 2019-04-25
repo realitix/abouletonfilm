@@ -1,1 +1,0 @@
-{"tmdb_id": 565776, "title": "Nome de batismo-Alice", "original_title": "Nome de batismo-Alice", "slug_title": "nome-de-batismo-alice", "date": "2017-10-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

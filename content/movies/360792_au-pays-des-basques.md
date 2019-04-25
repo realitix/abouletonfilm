@@ -1,1 +1,0 @@
-{"tmdb_id": 360792, "title": "Au pays des Basques", "original_title": "Au pays des Basques", "slug_title": "au-pays-des-basques", "date": "1930-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

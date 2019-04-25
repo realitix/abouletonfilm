@@ -1,1 +1,0 @@
-{"tmdb_id": 285986, "title": "Raid on a Coiner's Den", "original_title": "Raid on a Coiner's Den", "slug_title": "raid-on-a-coiner-s-den", "date": "1904-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

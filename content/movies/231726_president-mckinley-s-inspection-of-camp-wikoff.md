@@ -1,1 +1,0 @@
-{"tmdb_id": 231726, "title": "President McKinley's Inspection of Camp Wikoff", "original_title": "President McKinley's Inspection of Camp Wikoff", "slug_title": "president-mckinley-s-inspection-of-camp-wikoff", "date": "1898-09-20", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

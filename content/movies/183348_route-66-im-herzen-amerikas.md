@@ -1,1 +1,0 @@
-{"tmdb_id": 183348, "title": "Route 66 - Im Herzen Amerikas", "original_title": "Route 66 - Im Herzen Amerikas", "slug_title": "route-66-im-herzen-amerikas", "date": "2012-03-02", "genre": "", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fhwrxk9Gr95YIZJ7n772VwpgDHX.jpg", "actors": [], "comments": [], "recommandations_id": []}

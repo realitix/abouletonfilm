@@ -1,1 +1,0 @@
-{"tmdb_id": 370701, "title": "Remember Your Name, Babylon", "original_title": "Remember Your Name, Babylon", "slug_title": "remember-your-name-babylon", "date": "2015-11-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8l6FaUoYfDCqJ4UpwZSZwnT2MLX.jpg", "actors": [], "comments": [], "recommandations_id": []}

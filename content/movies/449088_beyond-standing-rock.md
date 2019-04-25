@@ -1,1 +1,0 @@
-{"tmdb_id": 449088, "title": "Beyond Standing Rock", "original_title": "Beyond Standing Rock", "slug_title": "beyond-standing-rock", "date": "2017-04-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pugoFj1cwA6yaS6rSGSQO3z9gMr.jpg", "actors": [], "comments": [], "recommandations_id": []}

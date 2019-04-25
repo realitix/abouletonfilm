@@ -1,1 +1,0 @@
-{"tmdb_id": 384056, "title": "Sick and the Dead", "original_title": "Sick and the Dead", "slug_title": "sick-and-the-dead", "date": "2009-02-03", "genre": "Horreur", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3gXZatdc1z3QX5duidIS1age3Yy.jpg", "actors": [], "comments": [], "recommandations_id": []}

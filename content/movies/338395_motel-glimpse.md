@@ -1,1 +1,0 @@
-{"tmdb_id": 338395, "title": "Motel, Glimpse", "original_title": "Motel, Glimpse", "slug_title": "motel-glimpse", "date": "2005-08-26", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Justin Stone (Ready)", "Zach Passero (Lee)", "Lindsay Stone (Gwen)", "Patric Carroll (Stuze)"], "comments": [], "recommandations_id": []}

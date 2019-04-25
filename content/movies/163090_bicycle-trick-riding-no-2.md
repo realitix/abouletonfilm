@@ -1,1 +1,0 @@
-{"tmdb_id": 163090, "title": "Bicycle Trick Riding, No. 2", "original_title": "Bicycle Trick Riding, No. 2", "slug_title": "bicycle-trick-riding-no-2", "date": "1899-03-20", "genre": "", "score": "5.8/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [190695, 189807, 163112, 163320]}

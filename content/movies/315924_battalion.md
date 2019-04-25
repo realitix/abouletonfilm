@@ -1,1 +1,0 @@
-{"tmdb_id": 315924, "title": "Battalion", "original_title": "Batalion", "slug_title": "battalion", "date": "1937-01-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mFYZTf38tvX7PhmSZSoe4Rh2lV2.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 578930, "title": "Markie in Milwaukee", "original_title": "Markie in Milwaukee", "slug_title": "markie-in-milwaukee", "date": "", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9O5SiprMiNhP5dB2kaAXVHSd28n.jpg", "actors": [], "comments": [], "recommandations_id": []}

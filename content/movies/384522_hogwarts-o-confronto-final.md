@@ -1,1 +1,0 @@
-{"tmdb_id": 384522, "title": "Hogwarts - O Confronto Final", "original_title": "Hogwarts - O Confronto Final", "slug_title": "hogwarts-o-confronto-final", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 229738, "title": "The Hard Road", "original_title": "The Hard Road", "slug_title": "the-hard-road", "date": "2004-01-13", "genre": "", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7AN3VKrESRBwY9YFC4wVEdDI0Vd.jpg", "actors": [], "comments": [], "recommandations_id": []}

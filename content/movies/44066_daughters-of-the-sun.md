@@ -1,1 +1,0 @@
-{"tmdb_id": 44066, "title": "Daughters of the Sun", "original_title": "Dakhtaran-e khorshid", "slug_title": "daughters-of-the-sun", "date": "2000-01-01", "genre": "Drame", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y87ySFNtG7nsnJJ5wgMbBGhzMYn.jpg", "actors": [], "comments": [], "recommandations_id": []}

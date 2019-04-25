@@ -1,1 +1,0 @@
-{"tmdb_id": 506019, "title": "Zana and Miri", "original_title": "Zana dhe Miri", "slug_title": "zana-and-miri", "date": "1975-01-02", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gopuWSHwYwJ7q3KHlck4f0YzSxo.jpg", "actors": [], "comments": [], "recommandations_id": []}

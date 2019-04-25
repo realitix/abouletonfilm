@@ -1,1 +1,0 @@
-{"tmdb_id": 274724, "title": "The Azusa Street Project", "original_title": "The Azusa Street Project", "slug_title": "the-azusa-street-project", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 584534, "title": "The Fifth Season", "original_title": "Fasl-e panjom", "slug_title": "the-fifth-season", "date": "1997-09-02", "genre": "Drame / Com\u00e9die / Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

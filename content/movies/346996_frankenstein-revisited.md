@@ -1,1 +1,0 @@
-{"tmdb_id": 346996, "title": "Frankenstein Revisited", "original_title": "Frankenstein Revisited", "slug_title": "frankenstein-revisited", "date": "2013-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xMub1ig3BNMNESKBvAD5PlcYLxX.jpg", "actors": [], "comments": [], "recommandations_id": []}

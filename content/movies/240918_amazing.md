@@ -1,1 +1,0 @@
-{"tmdb_id": 240918, "title": "Amazing", "original_title": "Amazing", "slug_title": "amazing", "date": "2011-12-06", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d0bPEiIahG4WgE33tFbLLZ0yJCK.jpg", "actors": [], "comments": [], "recommandations_id": []}

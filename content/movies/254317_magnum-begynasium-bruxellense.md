@@ -1,1 +1,0 @@
-{"tmdb_id": 254317, "title": "Magnum Begynasium Bruxellense", "original_title": "Magnum Begynasium Bruxellense", "slug_title": "magnum-begynasium-bruxellense", "date": "1978-11-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kleZ3KxDSLTpfnlOSLfEp724WGC.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 297884, "title": "Das Beste aus Versaute Ladies", "original_title": "Das Beste aus Versaute Ladies", "slug_title": "das-beste-aus-versaute-ladies", "date": "2009-01-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4krj2rYROCwu6Nfg6wmYO9M0p0q.jpg", "actors": [], "comments": [], "recommandations_id": []}

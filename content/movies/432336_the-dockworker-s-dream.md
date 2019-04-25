@@ -1,1 +1,0 @@
-{"tmdb_id": 432336, "title": "The Dockworker's Dream", "original_title": "The Dockworker's Dream", "slug_title": "the-dockworker-s-dream", "date": "2016-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dYH5BP8uNcuuUDyhJF1pxj6kRTA.jpg", "actors": [], "comments": [], "recommandations_id": []}

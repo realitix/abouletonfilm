@@ -1,1 +1,0 @@
-{"tmdb_id": 225102, "title": "Corrales vs Castillo", "original_title": "Corrales vs Castillo", "slug_title": "corrales-vs-castillo", "date": "2005-05-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e8NQqB0YxAvSX4Wp0Fd8EY3F3B2.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 442768, "title": "What the Country Needs", "original_title": "What the Country Needs", "slug_title": "what-the-country-needs", "date": "1941-02-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Vince Barnett (Political Speaker / Singer)", "Martha Tilton ()"], "comments": [], "recommandations_id": []}

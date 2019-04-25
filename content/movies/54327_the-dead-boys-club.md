@@ -1,1 +1,0 @@
-{"tmdb_id": 54327, "title": "The Dead Boys' Club", "original_title": "The Dead Boys' Club", "slug_title": "the-dead-boys-club", "date": "1992-06-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1df2UDAa255eYr0vuTLJLPIVwe6.jpg", "actors": ["Nat DeWolf (Toby)"], "comments": [], "recommandations_id": []}

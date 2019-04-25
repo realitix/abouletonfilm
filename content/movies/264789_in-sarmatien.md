@@ -1,1 +1,0 @@
-{"tmdb_id": 264789, "title": "In Sarmatien", "original_title": "In Sarmatien", "slug_title": "in-sarmatien", "date": "2014-03-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8yfKauGyBHZkFj2JUwV9ODfsVWT.jpg", "actors": [], "comments": [], "recommandations_id": []}

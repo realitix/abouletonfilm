@@ -1,1 +1,0 @@
-{"tmdb_id": 591578, "title": "Welcome to Hadassah Hospital", "original_title": "Welcome to Hadassah Hospital", "slug_title": "welcome-to-hadassah-hospital", "date": "2002-06-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

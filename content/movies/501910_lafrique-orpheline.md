@@ -1,1 +1,0 @@
-{"tmdb_id": 501910, "title": "L\u2019Afrique orpheline", "original_title": "L\u2019Afrique orpheline", "slug_title": "lafrique-orpheline", "date": "2004-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4PSfOEejLx8W2NSsZU0Br6JXupO.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 453542, "title": "A Hole In The Head", "original_title": "D\u00edra v hlav\u011b", "slug_title": "a-hole-in-the-head", "date": "2016-11-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

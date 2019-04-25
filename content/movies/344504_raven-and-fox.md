@@ -1,1 +1,0 @@
-{"tmdb_id": 344504, "title": "Raven and Fox", "original_title": "A r\u00f3ka \u00e9s a holl\u00f3", "slug_title": "raven-and-fox", "date": "2003-06-13", "genre": "Animation", "score": "4.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

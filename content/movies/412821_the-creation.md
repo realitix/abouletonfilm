@@ -1,1 +1,0 @@
-{"tmdb_id": 412821, "title": "The Creation", "original_title": "Die Sch\u00f6pfung", "slug_title": "the-creation", "date": "1995-03-31", "genre": "Animation", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fMCfnDYuYNRBmSzrKIHw4s8t9Hz.jpg", "actors": [], "comments": [], "recommandations_id": []}

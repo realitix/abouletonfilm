@@ -1,1 +1,0 @@
-{"tmdb_id": 525606, "title": "Metallica: The Halcyon Days", "original_title": "Metallica: The Halcyon Days", "slug_title": "metallica-the-halcyon-days", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kYz6s8owH0zGQio23ti36PcyYew.jpg", "actors": [], "comments": [], "recommandations_id": []}

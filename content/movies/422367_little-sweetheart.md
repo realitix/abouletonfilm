@@ -1,1 +1,0 @@
-{"tmdb_id": 422367, "title": "Little Sweetheart", "original_title": "\u5c0f\u51a4\u5bb6", "slug_title": "little-sweetheart", "date": "1956-01-12", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ho Fei-Fan ()", "Pak Suet-Sin ()", "Leung Sing-Bo ()", "Cheng Pik-Ying ()"], "comments": [], "recommandations_id": []}

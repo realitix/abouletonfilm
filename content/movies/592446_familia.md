@@ -1,1 +1,0 @@
-{"tmdb_id": 592446, "title": "Familia", "original_title": "Familia", "slug_title": "familia", "date": "2019-04-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Alicia Mabel Castro ()", "Edgardo Castro ()", "Magda Castro ()", "Felix Agustin Castro ()"], "comments": [], "recommandations_id": []}

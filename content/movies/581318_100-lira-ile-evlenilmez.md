@@ -1,1 +1,0 @@
-{"tmdb_id": 581318, "title": "100 lira ile evlenilmez", "original_title": "100 lira ile evlenilmez", "slug_title": "100-lira-ile-evlenilmez", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/utmzc4y3Lu4JyoazuQJ9sEj2olw.jpg", "actors": [], "comments": [], "recommandations_id": []}

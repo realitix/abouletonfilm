@@ -1,1 +1,0 @@
-{"tmdb_id": 135253, "title": "Wicked Flowers", "original_title": "Wicked Flowers", "slug_title": "wicked-flowers", "date": "2006-01-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

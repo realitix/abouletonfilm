@@ -1,1 +1,0 @@
-{"tmdb_id": 347259, "title": "Le Diamant Des Damnes", "original_title": "Le Diamant Des Damnes", "slug_title": "le-diamant-des-damnes", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

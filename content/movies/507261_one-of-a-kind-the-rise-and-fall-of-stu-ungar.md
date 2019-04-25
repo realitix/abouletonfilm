@@ -1,1 +1,0 @@
-{"tmdb_id": 507261, "title": "One of a Kind: The Rise and Fall of Stu Ungar", "original_title": "One of a Kind: The Rise and Fall of Stu Ungar", "slug_title": "one-of-a-kind-the-rise-and-fall-of-stu-ungar", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

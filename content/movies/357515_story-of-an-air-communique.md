@@ -1,1 +1,0 @@
-{"tmdb_id": 357515, "title": "Story of an Air Communique", "original_title": "Story of an Air Communique", "slug_title": "story-of-an-air-communique", "date": "1940-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

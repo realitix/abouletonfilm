@@ -1,1 +1,0 @@
-{"tmdb_id": 323911, "title": "Filme Selvagem", "original_title": "Filme Selvagem", "slug_title": "filme-selvagem", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/62qfJ3z7hHriM3ZAPMS4nzlQIpt.jpg", "actors": [], "comments": [], "recommandations_id": []}

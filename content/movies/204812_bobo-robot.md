@@ -1,1 +1,0 @@
-{"tmdb_id": 204812, "title": "Bobo Robot", "original_title": "Robot Rabbit", "slug_title": "bobo-robot", "date": "1953-12-12", "genre": "Animation", "score": "6.4/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xyQRVZ5Q9l1ItesCQf9JUa6RDAS.jpg", "actors": [], "comments": [], "recommandations_id": [165853, 118316, 118318, 100319]}

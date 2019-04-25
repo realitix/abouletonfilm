@@ -1,1 +1,0 @@
-{"tmdb_id": 313477, "title": "Whatz Really Hood: Vol. 4", "original_title": "Whatz Really Hood: Vol. 4", "slug_title": "whatz-really-hood-vol-4", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

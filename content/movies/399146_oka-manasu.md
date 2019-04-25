@@ -1,1 +1,0 @@
-{"tmdb_id": 399146, "title": "Oka Manasu", "original_title": "Oka Manasu", "slug_title": "oka-manasu", "date": "2016-06-17", "genre": "Romance / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sAj5LJmpdiS7JvhgM9Y6X69HTdM.jpg", "actors": ["Naga Shourya ()", "Niharika Konidela ()"], "comments": [], "recommandations_id": []}

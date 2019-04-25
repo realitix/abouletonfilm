@@ -1,1 +1,0 @@
-{"tmdb_id": 408062, "title": "Black and White", "original_title": "Black and White", "slug_title": "black-and-white", "date": "2014-07-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jolLLeAhX1WoTmdXQLMeUE8lwfP.jpg", "actors": [], "comments": [], "recommandations_id": []}

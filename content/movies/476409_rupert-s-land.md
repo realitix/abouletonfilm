@@ -1,1 +1,0 @@
-{"tmdb_id": 476409, "title": "Rupert's Land", "original_title": "Rupert's Land", "slug_title": "rupert-s-land", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Jj6UIIw3qIrmcAkYSw4WtWv4Fx.jpg", "actors": [], "comments": [], "recommandations_id": []}

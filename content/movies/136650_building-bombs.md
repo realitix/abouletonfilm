@@ -1,1 +1,0 @@
-{"tmdb_id": 136650, "title": "Building Bombs", "original_title": "Building Bombs", "slug_title": "building-bombs", "date": "1991-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tzmR8Mineg9qWHoVO1An5ZKymM3.jpg", "actors": ["Jane Alexander (Narrator)"], "comments": [], "recommandations_id": []}

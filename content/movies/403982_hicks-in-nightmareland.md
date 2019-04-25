@@ -1,1 +1,0 @@
-{"tmdb_id": 403982, "title": "Hicks in Nightmareland", "original_title": "Hicks in Nightmareland", "slug_title": "hicks-in-nightmareland", "date": "1915-12-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

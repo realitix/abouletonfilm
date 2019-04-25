@@ -1,1 +1,0 @@
-{"tmdb_id": 500112, "title": "Toby and the Tall Corn", "original_title": "Toby and the Tall Corn", "slug_title": "toby-and-the-tall-corn", "date": "1954-10-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

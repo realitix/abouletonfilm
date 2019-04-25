@@ -1,1 +1,0 @@
-{"tmdb_id": 387492, "title": "The Silver Returns", "original_title": "The Silver Returns", "slug_title": "the-silver-returns", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 463503, "title": "Land of Not Knowing", "original_title": "Land of Not Knowing", "slug_title": "land-of-not-knowing", "date": "2017-06-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

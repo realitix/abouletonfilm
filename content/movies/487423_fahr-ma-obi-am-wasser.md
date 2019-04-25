@@ -1,1 +1,0 @@
-{"tmdb_id": 487423, "title": "Fahr ma obi am Wasser", "original_title": "Fahr ma obi am Wasser", "slug_title": "fahr-ma-obi-am-wasser", "date": "2017-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b6KYzIWJn3z7bp6nNWWirlMJsEX.jpg", "actors": [], "comments": [], "recommandations_id": []}

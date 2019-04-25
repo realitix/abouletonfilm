@@ -1,1 +1,0 @@
-{"tmdb_id": 503519, "title": "Monte Grappa 1944", "original_title": "Monte Grappa 1944", "slug_title": "monte-grappa-1944", "date": "1966-02-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

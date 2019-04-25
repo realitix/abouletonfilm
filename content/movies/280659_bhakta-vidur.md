@@ -1,1 +1,0 @@
-{"tmdb_id": 280659, "title": "Bhakta Vidur", "original_title": "Bhakta Vidur", "slug_title": "bhakta-vidur", "date": "1921-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dwarkadas Sampat ()", "Maneklal Patel ()", "Homi Master ()"], "comments": [], "recommandations_id": []}

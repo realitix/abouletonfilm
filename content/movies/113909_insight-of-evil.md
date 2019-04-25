@@ -1,1 +1,0 @@
-{"tmdb_id": 113909, "title": "Insight of Evil", "original_title": "Insight of Evil", "slug_title": "insight-of-evil", "date": "2004-01-01", "genre": "Horreur", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ajSQVnrRQvRmmwe2xqXAokMjJpK.jpg", "actors": [], "comments": [], "recommandations_id": []}

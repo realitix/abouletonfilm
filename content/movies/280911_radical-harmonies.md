@@ -1,1 +1,0 @@
-{"tmdb_id": 280911, "title": "Radical Harmonies", "original_title": "Radical Harmonies", "slug_title": "radical-harmonies", "date": "2002-06-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rgxw0fD2KboM8kQyjgdu19rhc7e.jpg", "actors": [], "comments": [], "recommandations_id": []}

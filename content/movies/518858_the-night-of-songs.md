@@ -1,1 +1,0 @@
-{"tmdb_id": 518858, "title": "The Night of Songs", "original_title": "Shabe Sher", "slug_title": "the-night-of-songs", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/B3HuDtqeee33qeALepvMcBPcWz.jpg", "actors": [], "comments": [], "recommandations_id": []}

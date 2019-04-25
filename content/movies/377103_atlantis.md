@@ -1,1 +1,0 @@
-{"tmdb_id": 377103, "title": "Atlantis", "original_title": "Atlantis", "slug_title": "atlantis", "date": "1996-01-01", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1M2w2ZuZGPKH3JwK1y8zojfFLin.jpg", "actors": ["Piers Gibbon (Narrator)"], "comments": [], "recommandations_id": []}

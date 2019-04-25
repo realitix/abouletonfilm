@@ -1,1 +1,0 @@
-{"tmdb_id": 335900, "title": "Paranormal Retreat", "original_title": "Paranormal Retreat", "slug_title": "paranormal-retreat", "date": "2014-07-10", "genre": "", "score": "2.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fAvMrJtzX54lFx31fJhdhbj7DcA.jpg", "actors": [], "comments": [], "recommandations_id": []}

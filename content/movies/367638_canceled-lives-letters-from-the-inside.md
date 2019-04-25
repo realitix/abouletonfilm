@@ -1,1 +1,0 @@
-{"tmdb_id": 367638, "title": "Canceled Lives: Letters from the inside", "original_title": "Canceled Lives: Letters from the inside", "slug_title": "canceled-lives-letters-from-the-inside", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

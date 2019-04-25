@@ -1,1 +1,0 @@
-{"tmdb_id": 489713, "title": "The Young Boss of the Factory", "original_title": "\u5de5\u5ee0\u5c11\u723a", "slug_title": "the-young-boss-of-the-factory", "date": "1963-10-23", "genre": "Com\u00e9die", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Patricia Lam Fung ()", "Cheung Ying-Tsoi ()"], "comments": [], "recommandations_id": []}

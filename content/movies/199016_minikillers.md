@@ -1,1 +1,0 @@
-{"tmdb_id": 199016, "title": "Minikillers", "original_title": "Minikillers", "slug_title": "minikillers", "date": "1969-01-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rMfiSR1KGPaI058Z3rdlQsC3aMJ.jpg", "actors": ["Diana Rigg ()"], "comments": [], "recommandations_id": []}

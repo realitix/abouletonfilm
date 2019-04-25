@@ -1,1 +1,0 @@
-{"tmdb_id": 424774, "title": "Lambing", "original_title": "Lambing", "slug_title": "lambing", "date": "1965-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

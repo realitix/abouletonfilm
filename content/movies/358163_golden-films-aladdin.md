@@ -1,1 +1,0 @@
-{"tmdb_id": 358163, "title": "Golden Films - Aladdin", "original_title": "Golden Films - Aladdin", "slug_title": "golden-films-aladdin", "date": "1992-09-04", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kDjZwJ6vAeRpRjUYGiLzXB7FHJn.jpg", "actors": [], "comments": [], "recommandations_id": []}

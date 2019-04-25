@@ -1,1 +1,0 @@
-{"tmdb_id": 302513, "title": "Ballroom Confidential", "original_title": "Ballroom Confidential", "slug_title": "ballroom-confidential", "date": "2013-12-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

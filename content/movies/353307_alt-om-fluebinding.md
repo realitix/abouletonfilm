@@ -1,1 +1,0 @@
-{"tmdb_id": 353307, "title": "Alt om Fluebinding", "original_title": "Alt om Fluebinding", "slug_title": "alt-om-fluebinding", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iqyqvLtvqAmonDxmvUEJVzmADdh.jpg", "actors": [], "comments": [], "recommandations_id": []}

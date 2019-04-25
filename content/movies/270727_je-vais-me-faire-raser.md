@@ -1,1 +1,0 @@
-{"tmdb_id": 270727, "title": "Je vais me faire raser", "original_title": "Je vais me faire raser", "slug_title": "je-vais-me-faire-raser", "date": "1914-05-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Darman ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 544180, "title": "Hunting Tigers", "original_title": "Hunting Tigers", "slug_title": "hunting-tigers", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

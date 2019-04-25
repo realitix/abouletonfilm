@@ -1,1 +1,0 @@
-{"tmdb_id": 530539, "title": "Routine", "original_title": "Routine", "slug_title": "routine", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

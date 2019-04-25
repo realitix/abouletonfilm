@@ -1,1 +1,0 @@
-{"tmdb_id": 532291, "title": "Ships Do Not Dock", "original_title": "Brodovi ne pristaju", "slug_title": "ships-do-not-dock", "date": "1955-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yUlv7VR5Mv0A8aDXp2JxNaqq9Hr.jpg", "actors": [], "comments": [], "recommandations_id": []}

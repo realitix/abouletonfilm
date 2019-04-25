@@ -1,1 +1,0 @@
-{"tmdb_id": 537422, "title": "Memoria y sue\u00f1o: El desprecio", "original_title": "Memoria y sue\u00f1o: El desprecio", "slug_title": "memoria-y-sueno-el-desprecio", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

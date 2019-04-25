@@ -1,1 +1,0 @@
-{"tmdb_id": 276020, "title": "Pam Tillis: Live at the Renaissance Center", "original_title": "Pam Tillis: Live at the Renaissance Center", "slug_title": "pam-tillis-live-at-the-renaissance-center", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pam Tillis ()"], "comments": [], "recommandations_id": []}

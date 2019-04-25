@@ -1,1 +1,0 @@
-{"tmdb_id": 392177, "title": "Town of Yun", "original_title": "Yun No Machi", "slug_title": "town-of-yun", "date": "1989-04-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

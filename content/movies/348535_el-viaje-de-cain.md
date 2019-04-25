@@ -1,1 +1,0 @@
-{"tmdb_id": 348535, "title": "El viaje de Cain", "original_title": "El viaje de Cain", "slug_title": "el-viaje-de-cain", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

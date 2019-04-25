@@ -1,1 +1,0 @@
-{"tmdb_id": 548756, "title": "We Are The Heat", "original_title": "Somos Calentura", "slug_title": "we-are-the-heat", "date": "2018-09-02", "genre": "Action / Drame", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9EVBAuXJaL10CTM9XDOUmgb9tBv.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 561887, "title": "Jizolibido", "original_title": "Jizolibido", "slug_title": "jizolibido", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 481864, "title": "Retour \u00e0 Mayerling", "original_title": "Retour \u00e0 Mayerling", "slug_title": "retour-a-mayerling", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

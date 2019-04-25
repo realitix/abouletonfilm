@@ -1,1 +1,0 @@
-{"tmdb_id": 326341, "title": "Killing Floor: Uncovered", "original_title": "Killing Floor: Uncovered", "slug_title": "killing-floor-uncovered", "date": "2014-11-01", "genre": "Horreur", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

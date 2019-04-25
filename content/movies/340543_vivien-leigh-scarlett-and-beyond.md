@@ -1,1 +1,0 @@
-{"tmdb_id": 340543, "title": "Vivien Leigh: Scarlett And Beyond", "original_title": "Vivien Leigh: Scarlett And Beyond", "slug_title": "vivien-leigh-scarlett-and-beyond", "date": "1990-05-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 492830, "title": "G\u00f6ring - Eine Karriere", "original_title": "G\u00f6ring - Eine Karriere", "slug_title": "goring-eine-karriere", "date": "2006-03-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

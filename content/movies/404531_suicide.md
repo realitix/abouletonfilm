@@ -1,1 +1,0 @@
-{"tmdb_id": 404531, "title": "Suicide", "original_title": "Hitabdut", "slug_title": "suicide", "date": "2014-11-01", "genre": "", "score": "5.6/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tD0FJ9SnNfZrvXN98xWsKu59l3U.jpg", "actors": [], "comments": [], "recommandations_id": [423197, 314672, 317945, 380683]}

@@ -1,1 +1,0 @@
-{"tmdb_id": 456163, "title": "Nacido de Nuevo", "original_title": "Nacido de Nuevo", "slug_title": "nacido-de-nuevo", "date": "2017-04-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wxwrGz0hn4X1SueKqcnLKbvavPA.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 419170, "title": "Your Job in Germany", "original_title": "Your Job in Germany", "slug_title": "your-job-in-germany", "date": "1945-04-15", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6T1XDCNB9FU3Px9bFOxj4i7yb9w.jpg", "actors": ["Dana Andrews ()"], "comments": [], "recommandations_id": []}

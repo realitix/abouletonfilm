@@ -1,1 +1,0 @@
-{"tmdb_id": 531148, "title": "Where's My Education?", "original_title": "Where's My Education?", "slug_title": "where-s-my-education", "date": "2017-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,1 @@
-{"tmdb_id": 306141, "title": "Chingari", "original_title": "Chingari", "slug_title": "chingari", "date": "1955-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 306141, "title": "Chingari", "original_title": "Chingari", "slug_title": "chingari", "date": "1955-01-01", "genre": [""], "score": "0.0/10", "synopsis": "Bollywood 1955", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

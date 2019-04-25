@@ -1,1 +1,0 @@
-{"tmdb_id": 423792, "title": "Jasper's Music Lesson", "original_title": "Jasper's Music Lesson", "slug_title": "jasper-s-music-lesson", "date": "1943-05-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Alvin Childress (Professor Scarecrow (voice))", "Glenn Leedy (Jasper (voice))"], "comments": [], "recommandations_id": []}

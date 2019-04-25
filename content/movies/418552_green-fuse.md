@@ -1,1 +1,0 @@
-{"tmdb_id": 418552, "title": "Green Fuse", "original_title": "Green Fuse", "slug_title": "green-fuse", "date": "2007-09-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

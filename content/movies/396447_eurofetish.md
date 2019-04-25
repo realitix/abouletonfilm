@@ -1,1 +1,0 @@
-{"tmdb_id": 396447, "title": "Eurofetish", "original_title": "Eurofetish", "slug_title": "eurofetish", "date": "1995-05-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aD0ksiXWF9SWgnLkMykPtYsIycK.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 317370, "title": "Psychological Testing", "original_title": "Psychological Testing", "slug_title": "psychological-testing", "date": "1962-04-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 460682, "title": "The Island of 1000 Violins", "original_title": "The Island of 1000 Violins", "slug_title": "the-island-of-1000-violins", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

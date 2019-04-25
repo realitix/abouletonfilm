@@ -1,1 +1,0 @@
-{"tmdb_id": 337786, "title": "City Story", "original_title": "City Story", "slug_title": "city-story", "date": "1954-05-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

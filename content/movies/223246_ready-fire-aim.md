@@ -1,1 +1,0 @@
-{"tmdb_id": 223246, "title": "Ready, Fire, Aim", "original_title": "Ready, Fire, Aim", "slug_title": "ready-fire-aim", "date": "2003-09-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qqHTrZ1boV2EkEsfotxgwbglfu9.jpg", "actors": ["Eric Pollard (Himself)"], "comments": [], "recommandations_id": []}

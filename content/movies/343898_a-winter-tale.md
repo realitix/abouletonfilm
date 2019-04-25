@@ -1,1 +1,0 @@
-{"tmdb_id": 343898, "title": "A Winter Tale", "original_title": "A Winter Tale", "slug_title": "a-winter-tale", "date": "2007-04-11", "genre": "Drame", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

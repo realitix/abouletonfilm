@@ -1,1 +1,0 @@
-{"tmdb_id": 349827, "title": "\uc0ac\ub791\uc758 \ub178\uc608", "original_title": "\uc0ac\ub791\uc758 \ub178\uc608", "slug_title": "sarangyi-noye", "date": "1982-07-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

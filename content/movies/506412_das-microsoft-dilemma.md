@@ -1,1 +1,0 @@
-{"tmdb_id": 506412, "title": "Das Microsoft-Dilemma", "original_title": "Das Microsoft-Dilemma", "slug_title": "das-microsoft-dilemma", "date": "2018-02-19", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cXif4Z85EMHrNTfYmrEQXm1CK8b.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 576413, "title": "Streamfield, les carnets noirs", "original_title": "Streamfield, les carnets noirs", "slug_title": "streamfield-les-carnets-noirs", "date": "2010-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7TrhVq3P24vU7BC6G2FPqsKFVY7.jpg", "actors": [], "comments": [], "recommandations_id": []}

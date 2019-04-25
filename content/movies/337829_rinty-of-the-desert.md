@@ -1,1 +1,0 @@
-{"tmdb_id": 337829, "title": "Rinty of the Desert", "original_title": "Rinty of the Desert", "slug_title": "rinty-of-the-desert", "date": "1928-04-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2tvQVe3OEAoZru6E9TPXTwJ2qkY.jpg", "actors": ["Rin-Tin-Tin ()"], "comments": [], "recommandations_id": []}

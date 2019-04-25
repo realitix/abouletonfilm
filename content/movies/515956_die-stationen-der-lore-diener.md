@@ -1,1 +1,0 @@
-{"tmdb_id": 515956, "title": "Die Stationen der Lore Diener", "original_title": "Die Stationen der Lore Diener", "slug_title": "die-stationen-der-lore-diener", "date": "1975-11-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

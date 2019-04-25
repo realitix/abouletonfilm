@@ -1,1 +1,0 @@
-{"tmdb_id": 498518, "title": "And the Show Goes On", "original_title": "And the Show Goes On", "slug_title": "and-the-show-goes-on", "date": "1996-09-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

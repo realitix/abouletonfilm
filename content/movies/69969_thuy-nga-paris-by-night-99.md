@@ -1,1 +1,0 @@
-{"tmdb_id": 69969, "title": "Thuy Nga Paris By Night 99", "original_title": "Thuy Nga Paris By Night 99", "slug_title": "thuy-nga-paris-by-night-99", "date": "2010-04-08", "genre": "Musique", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qAtiW6IlcAcRssSstYvUUwGLzpK.jpg", "actors": [], "comments": [], "recommandations_id": []}

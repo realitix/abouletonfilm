@@ -1,1 +1,0 @@
-{"tmdb_id": 518864, "title": "Why Thee Wed", "original_title": "Why Thee Wed", "slug_title": "why-thee-wed", "date": "2005-05-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j1zplnnNiTU7OeVPt3nyTE7WCOF.jpg", "actors": [], "comments": [], "recommandations_id": []}

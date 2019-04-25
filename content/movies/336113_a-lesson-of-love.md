@@ -1,1 +1,0 @@
-{"tmdb_id": 336113, "title": "A Lesson Of Love", "original_title": "A Lesson Of Love", "slug_title": "a-lesson-of-love", "date": "2014-09-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

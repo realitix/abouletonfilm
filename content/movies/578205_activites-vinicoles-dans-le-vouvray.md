@@ -1,1 +1,0 @@
-{"tmdb_id": 578205, "title": "Activit\u00e9s vinicoles dans le Vouvray", "original_title": "Activit\u00e9s vinicoles dans le Vouvray", "slug_title": "activites-vinicoles-dans-le-vouvray", "date": "1969-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Angela McDonald ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 427066, "title": "War In Europe", "original_title": "War In Europe", "slug_title": "war-in-europe", "date": "2012-11-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fm9eN4kDYVViE7e4OdNWpAfdlDS.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 318195, "title": "The Mustachioed Bandit Meets His End", "original_title": "The Mustachioed Bandit Meets His End", "slug_title": "the-mustachioed-bandit-meets-his-end", "date": "2007-02-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

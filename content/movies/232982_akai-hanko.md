@@ -1,1 +1,0 @@
-{"tmdb_id": 232982, "title": "Akai hank\u00f4", "original_title": "Akai hank\u00f4", "slug_title": "akai-hanko", "date": "1964-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iTWxdV7PA3p4MUGqSj4Ar4rUvV8.jpg", "actors": ["Kanako Michi ()", "Mikio Terashima ()"], "comments": [], "recommandations_id": []}

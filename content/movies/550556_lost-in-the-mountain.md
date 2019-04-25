@@ -1,1 +1,0 @@
-{"tmdb_id": 550556, "title": "Lost in the Mountain", "original_title": "Kong shanyi", "slug_title": "lost-in-the-mountain", "date": "2011-10-07", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Shijian Zhao ()", "Xinxu Jia ()", "Gary Julie ()", "Jianhui Li ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 273214, "title": "Ligabue", "original_title": "Ligabue", "slug_title": "ligabue", "date": "1978-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o2aTzadZc6J4sTzXErS7BS8mjXk.jpg", "actors": ["Flavio Bucci ()", "Alessandro Haber ()", "Enzo Robutti ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 254338, "title": "Xilitla", "original_title": "Xilitla", "slug_title": "xilitla", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

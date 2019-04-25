@@ -1,1 +1,0 @@
-{"tmdb_id": 53345, "title": "Ligabue In Arena", "original_title": "Ligabue In Arena", "slug_title": "ligabue-in-arena", "date": "1999-09-11", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9y5WJFg2t6zTMeKXHs09wA9VICK.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 594819, "title": "School Days", "original_title": "School Days", "slug_title": "school-days", "date": "1921-12-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bCe5NR87eAB5ErhKJBeVw7tcESu.jpg", "actors": [], "comments": [], "recommandations_id": []}

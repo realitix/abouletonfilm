@@ -1,1 +1,0 @@
-{"tmdb_id": 261266, "title": "A Test of Violence", "original_title": "A Test of Violence", "slug_title": "a-test-of-violence", "date": "1969-01-01", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eNO8yiUujazk2plHPfvU6tEHyHa.jpg", "actors": [], "comments": [], "recommandations_id": []}

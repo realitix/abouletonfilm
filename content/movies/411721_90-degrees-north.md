@@ -1,1 +1,0 @@
-{"tmdb_id": 411721, "title": "90 Degrees North", "original_title": "90 Grad Nord", "slug_title": "90-degrees-north", "date": "2015-07-01", "genre": "", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i6irkYq2aNitC1Ifhr8G8DrUEF6.jpg", "actors": [], "comments": [], "recommandations_id": []}

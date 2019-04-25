@@ -1,1 +1,0 @@
-{"tmdb_id": 295726, "title": "Brothers in War", "original_title": "Brothers in War", "slug_title": "brothers-in-war", "date": "2014-03-26", "genre": "", "score": "7.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vp5E23W8OW3eqGTNMAPDUtBySfI.jpg", "actors": [], "comments": [], "recommandations_id": [336992, 380683, 423197, 428140]}

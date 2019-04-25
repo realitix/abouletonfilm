@@ -1,1 +1,0 @@
-{"tmdb_id": 438802, "title": "Skateboards and Spandex", "original_title": "Skateboards and Spandex", "slug_title": "skateboards-and-spandex", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mohammed Mansaray (Chris)"], "comments": [], "recommandations_id": []}

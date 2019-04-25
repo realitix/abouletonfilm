@@ -1,1 +1,0 @@
-{"tmdb_id": 489569, "title": "Wayfinders: A Pacific Odyssey", "original_title": "Wayfinders: A Pacific Odyssey", "slug_title": "wayfinders-a-pacific-odyssey", "date": "", "genre": "T\u00e9l\u00e9film / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

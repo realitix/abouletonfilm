@@ -1,1 +1,0 @@
-{"tmdb_id": 537191, "title": "Thomas Adam - Frankfurt von unten", "original_title": "Thomas Adam - Frankfurt von unten", "slug_title": "thomas-adam-frankfurt-von-unten", "date": "", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Thomas Adam (himself)"], "comments": [], "recommandations_id": []}

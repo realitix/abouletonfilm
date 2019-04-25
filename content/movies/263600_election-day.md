@@ -1,1 +1,0 @@
-{"tmdb_id": 263600, "title": "Election Day", "original_title": "Election Day", "slug_title": "election-day", "date": "2007-03-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5QhImK4IA6KD7hu1y6Co5qWdGlG.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 275675, "title": "The Beekeeper", "original_title": "The Beekeeper", "slug_title": "the-beekeeper", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 83700, "title": "Shan Atci - Comedy Tour", "original_title": "Shan Atci - Comedy Tour", "slug_title": "shan-atci-comedy-tour", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mDFGl5Qc6X0g3RkPQBOi6yZ3msj.jpg", "actors": [], "comments": [], "recommandations_id": []}

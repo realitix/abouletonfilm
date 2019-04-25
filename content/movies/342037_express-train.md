@@ -1,1 +1,0 @@
-{"tmdb_id": 342037, "title": "Express Train", "original_title": "El tren expreso", "slug_title": "express-train", "date": "1982-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Laura Arias (Narrator)"], "comments": [], "recommandations_id": []}

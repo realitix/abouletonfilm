@@ -1,1 +1,0 @@
-{"tmdb_id": 80998, "title": "Chinna Rayudu", "original_title": "Chinna Rayudu", "slug_title": "chinna-rayudu", "date": "1992-02-05", "genre": "Drame / Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gu3qauXKVcZcLnKmfBdfGYaX1Ss.jpg", "actors": [], "comments": [], "recommandations_id": []}

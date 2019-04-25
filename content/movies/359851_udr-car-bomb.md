@@ -1,1 +1,0 @@
-{"tmdb_id": 359851, "title": "UDR \u2013 Car Bomb", "original_title": "UDR \u2013 Car Bomb", "slug_title": "udr-car-bomb", "date": "1970-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nD301anMvc0EnVPjDQwUUDSOe7Y.jpg", "actors": [], "comments": [], "recommandations_id": []}

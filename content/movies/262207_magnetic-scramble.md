@@ -1,1 +1,0 @@
-{"tmdb_id": 262207, "title": "Magnetic Scramble", "original_title": "Magnetic Scramble", "slug_title": "magnetic-scramble", "date": "1968-03-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/caD2dUuscDVhmBdquuOKpIJZ9c9.jpg", "actors": [], "comments": [], "recommandations_id": []}

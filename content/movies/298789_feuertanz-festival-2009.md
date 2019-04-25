@@ -1,1 +1,0 @@
-{"tmdb_id": 298789, "title": "Feuertanz Festival 2009", "original_title": "Feuertanz Festival 2009", "slug_title": "feuertanz-festival-2009", "date": "2009-10-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n1NuYbcLLjeDuZEegEOZjOpBXT0.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 358911, "title": "Starve Your Dog", "original_title": "Starve Your Dog", "slug_title": "starve-your-dog", "date": "2015-09-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sMp1Jsu1qiJ5rhl6rdMpp1VZabq.jpg", "actors": ["Latefa Ahrrare ()", "Jirari Ben Aissa ()"], "comments": [], "recommandations_id": []}

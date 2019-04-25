@@ -1,1 +1,0 @@
-{"tmdb_id": 101109, "title": "Kristel Zweers - Ruig", "original_title": "Kristel Zweers - Ruig", "slug_title": "kristel-zweers-ruig", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kristel Zweers (Kristel Zweers)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 458709, "title": "Sea Child", "original_title": "Sea Child", "slug_title": "sea-child", "date": "2015-01-01", "genre": "Animation / Drame", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/75YQ0HupdwZtobEW6cY8Xwi3n7K.jpg", "actors": [], "comments": [], "recommandations_id": []}

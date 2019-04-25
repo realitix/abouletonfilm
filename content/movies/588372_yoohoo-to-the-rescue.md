@@ -1,1 +1,0 @@
-{"tmdb_id": 588372, "title": "YooHoo to the Rescue", "original_title": "YooHoo to the Rescue", "slug_title": "yoohoo-to-the-rescue", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

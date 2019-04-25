@@ -1,1 +1,0 @@
-{"tmdb_id": 425693, "title": "Animated Newspaper", "original_title": "Journal anim\u00e9", "slug_title": "animated-newspaper", "date": "2016-11-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ujaAUlU6m4yvGlYwRd4DMYGbkie.jpg", "actors": [], "comments": [], "recommandations_id": []}

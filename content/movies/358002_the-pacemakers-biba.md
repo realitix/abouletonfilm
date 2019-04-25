@@ -1,1 +1,0 @@
-{"tmdb_id": 358002, "title": "The Pacemakers: Biba", "original_title": "The Pacemakers: Biba", "slug_title": "the-pacemakers-biba", "date": "1970-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m2TsdvmYigfO6Rfi3fSWznrKuU7.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 421543, "title": "The Summer Boarders", "original_title": "The Summer Boarders", "slug_title": "the-summer-boarders", "date": "1905-10-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

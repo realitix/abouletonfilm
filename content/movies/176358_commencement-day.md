@@ -1,1 +1,0 @@
-{"tmdb_id": 176358, "title": "Commencement Day", "original_title": "Commencement Day", "slug_title": "commencement-day", "date": "1924-05-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sunshine Sammy Morrison (Ernie (as Hal Roach's Rascals))"], "comments": [], "recommandations_id": []}

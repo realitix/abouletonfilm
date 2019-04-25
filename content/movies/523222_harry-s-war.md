@@ -1,1 +1,0 @@
-{"tmdb_id": 523222, "title": "Harry's War", "original_title": "Harry's War", "slug_title": "harry-s-war", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

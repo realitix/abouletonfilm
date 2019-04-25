@@ -1,1 +1,0 @@
-{"tmdb_id": 305486, "title": "Die schwarze Loo", "original_title": "Die schwarze Loo", "slug_title": "die-schwarze-loo", "date": "1917-11-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bruno Kastner ()", "Theodor Loos ()", "Maria Orska ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 389123, "title": "Ghost: [2015] Live in Colorado", "original_title": "Ghost: [2015] Live in Colorado", "slug_title": "ghost-2015-live-in-colorado", "date": "2015-10-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qqylyN67pKd2IjWsgJvjADRTfTU.jpg", "actors": [], "comments": [], "recommandations_id": []}

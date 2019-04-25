@@ -1,1 +1,0 @@
-{"tmdb_id": 281947, "title": "Mise au point", "original_title": "Mise au point", "slug_title": "mise-au-point", "date": "1973-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nSxw2KKLsiVk8fNsCY1xC0znIGt.jpg", "actors": ["Gabriel Pomerand ()"], "comments": [], "recommandations_id": []}

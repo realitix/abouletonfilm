@@ -1,1 +1,0 @@
-{"tmdb_id": 353204, "title": "Il bruto", "original_title": "Il bruto", "slug_title": "il-bruto", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

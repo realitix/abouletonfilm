@@ -1,1 +1,0 @@
-{"tmdb_id": 42496, "title": "Millhouse", "original_title": "Millhouse", "slug_title": "millhouse", "date": "1971-01-01", "genre": "", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a8KaAwvujc3kgBjIYSQeiJ0WTSV.jpg", "actors": ["Richard Nixon ()"], "comments": [], "recommandations_id": []}

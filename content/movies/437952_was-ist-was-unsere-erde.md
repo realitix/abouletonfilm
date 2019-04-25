@@ -1,1 +1,0 @@
-{"tmdb_id": 437952, "title": "Was ist Was - Unsere Erde", "original_title": "Was ist Was - Unsere Erde", "slug_title": "was-ist-was-unsere-erde", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b5N1McYSotw50sMRyYNerJGOZhj.jpg", "actors": [], "comments": [], "recommandations_id": []}

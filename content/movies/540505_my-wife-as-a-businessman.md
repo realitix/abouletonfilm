@@ -1,1 +1,0 @@
-{"tmdb_id": 540505, "title": "My Wife as a Businessman", "original_title": "Ma femme... homme d'affaires", "slug_title": "my-wife-as-a-businessman", "date": "1932-09-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

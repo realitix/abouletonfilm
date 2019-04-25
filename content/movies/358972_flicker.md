@@ -1,1 +1,1 @@
-{"tmdb_id": 358972, "title": "Flicker", "original_title": "Flicker", "slug_title": "flicker", "date": "1991-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 358972, "title": "Flicker", "original_title": "Flicker", "slug_title": "flicker", "date": "1991-01-02", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

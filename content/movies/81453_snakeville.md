@@ -1,1 +1,0 @@
-{"tmdb_id": 81453, "title": "Snakeville", "original_title": "Snakeville", "slug_title": "snakeville", "date": "", "genre": "", "score": "1.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

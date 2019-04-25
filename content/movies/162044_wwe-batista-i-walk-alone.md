@@ -1,1 +1,0 @@
-{"tmdb_id": 162044, "title": "WWE: Batista - I Walk Alone", "original_title": "WWE: Batista - I Walk Alone", "slug_title": "wwe-batista-i-walk-alone", "date": "2009-10-19", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nTFwcyRnLgx1v0JBbXv3oxEzNDG.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 506201, "title": "The Cat's Revenge", "original_title": "The Cat's Revenge", "slug_title": "the-cat-s-revenge", "date": "1954-06-17", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tom Morrison (Little Roquefort (voice))"], "comments": [], "recommandations_id": []}

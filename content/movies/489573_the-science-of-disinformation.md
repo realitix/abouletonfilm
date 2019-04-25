@@ -1,1 +1,0 @@
-{"tmdb_id": 489573, "title": "The Science of Disinformation", "original_title": "The Science of Disinformation", "slug_title": "the-science-of-disinformation", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

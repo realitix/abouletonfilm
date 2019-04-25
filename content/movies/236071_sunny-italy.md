@@ -1,1 +1,0 @@
-{"tmdb_id": 236071, "title": "Sunny Italy", "original_title": "Sunny Italy", "slug_title": "sunny-italy", "date": "1950-12-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qm9zgU2Rzf89jL9nhdLLogZkNuJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

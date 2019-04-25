@@ -1,1 +1,0 @@
-{"tmdb_id": 137435, "title": "Pedro Aznar: Quebrado Vivo", "original_title": "Pedro Aznar: Quebrado Vivo", "slug_title": "pedro-aznar-quebrado-vivo", "date": "2008-08-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wq3wfwDzB51EXpE7ogG7XFOopvi.jpg", "actors": [], "comments": [], "recommandations_id": []}

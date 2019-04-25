@@ -1,1 +1,0 @@
-{"tmdb_id": 128847, "title": "Lesson Plan", "original_title": "Lesson Plan", "slug_title": "lesson-plan", "date": "2010-10-09", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/drsUCJ00L3fD43rLw6AxmYdraxx.jpg", "actors": [], "comments": [], "recommandations_id": []}

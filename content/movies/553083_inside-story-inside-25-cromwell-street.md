@@ -1,1 +1,0 @@
-{"tmdb_id": 553083, "title": "Inside Story: Inside 25 Cromwell Street", "original_title": "Inside Story: Inside 25 Cromwell Street", "slug_title": "inside-story-inside-25-cromwell-street", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

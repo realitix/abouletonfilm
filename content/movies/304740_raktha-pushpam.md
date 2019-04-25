@@ -1,1 +1,0 @@
-{"tmdb_id": 304740, "title": "Raktha Pushpam", "original_title": "Raktha Pushpam", "slug_title": "raktha-pushpam", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

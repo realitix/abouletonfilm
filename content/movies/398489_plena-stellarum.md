@@ -1,1 +1,0 @@
-{"tmdb_id": 398489, "title": "Plena Stellarum", "original_title": "Plena Stellarum", "slug_title": "plena-stellarum", "date": "2016-03-06", "genre": "Animation / Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xT3bl9K0UzQBAtRUYEii7dd1VVW.jpg", "actors": [], "comments": [], "recommandations_id": []}

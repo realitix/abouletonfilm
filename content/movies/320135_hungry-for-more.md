@@ -1,1 +1,0 @@
-{"tmdb_id": 320135, "title": "Hungry for More", "original_title": "Hungry for More", "slug_title": "hungry-for-more", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

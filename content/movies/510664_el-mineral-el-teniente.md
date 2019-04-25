@@ -1,1 +1,0 @@
-{"tmdb_id": 510664, "title": "El mineral \"El Teniente\"", "original_title": "El mineral \"El Teniente\"", "slug_title": "el-mineral-el-teniente", "date": "1919-05-09", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

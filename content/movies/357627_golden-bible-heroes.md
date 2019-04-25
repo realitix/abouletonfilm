@@ -1,1 +1,0 @@
-{"tmdb_id": 357627, "title": "Golden Bible Heroes", "original_title": "Golden Bible Heroes", "slug_title": "golden-bible-heroes", "date": "1986-09-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mYIvS5injhEC4bAAIPPoBUUeqbt.jpg", "actors": [], "comments": [], "recommandations_id": []}

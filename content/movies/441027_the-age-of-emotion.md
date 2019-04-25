@@ -1,1 +1,0 @@
-{"tmdb_id": 441027, "title": "The Age of Emotion", "original_title": "Kangeki jidai", "slug_title": "the-age-of-emotion", "date": "1928-01-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Denmei Suzuki ()", "Kinuyo Tanaka ()"], "comments": [], "recommandations_id": []}

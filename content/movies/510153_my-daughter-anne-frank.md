@@ -1,1 +1,0 @@
-{"tmdb_id": 510153, "title": "My Daughter Anne Frank", "original_title": "My Daughter Anne Frank", "slug_title": "my-daughter-anne-frank", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9pFLf7tpi5xM6HXjMsyB5V4zit.jpg", "actors": [], "comments": [], "recommandations_id": []}

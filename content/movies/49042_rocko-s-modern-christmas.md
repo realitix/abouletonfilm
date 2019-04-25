@@ -1,1 +1,0 @@
-{"tmdb_id": 49042, "title": "Rocko's Modern Christmas", "original_title": "Rocko's Modern Christmas", "slug_title": "rocko-s-modern-christmas", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1atCEbcreGXviVtYeFd2pwismzT.jpg", "actors": [], "comments": [], "recommandations_id": []}

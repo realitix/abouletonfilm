@@ -1,1 +1,0 @@
-{"tmdb_id": 276302, "title": "Vans Warped Tour 2002", "original_title": "Vans Warped Tour 2002", "slug_title": "vans-warped-tour-2002", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

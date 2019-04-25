@@ -1,1 +1,0 @@
-{"tmdb_id": 221626, "title": "Business with Pleasure", "original_title": "Business with Pleasure", "slug_title": "business-with-pleasure", "date": "1960-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

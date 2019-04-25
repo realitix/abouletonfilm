@@ -1,1 +1,0 @@
-{"tmdb_id": 349807, "title": "Star of Day", "original_title": "Star of Day", "slug_title": "star-of-day", "date": "1993-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/svxzljvx1pJwaaNnz08yX47qqEB.jpg", "actors": ["Joanna McClure ()"], "comments": [], "recommandations_id": []}

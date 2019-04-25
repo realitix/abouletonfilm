@@ -1,1 +1,0 @@
-{"tmdb_id": 577574, "title": "Novanta", "original_title": "Novanta", "slug_title": "novanta", "date": "2001-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

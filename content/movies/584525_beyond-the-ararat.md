@@ -1,1 +1,0 @@
-{"tmdb_id": 584525, "title": "Beyond the Ararat", "original_title": "Au-del\u00e0 de l'Ararat", "slug_title": "beyond-the-ararat", "date": "2013-04-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i6yaCElCao3IZuenH0fBCJWwM61.jpg", "actors": [], "comments": [], "recommandations_id": []}

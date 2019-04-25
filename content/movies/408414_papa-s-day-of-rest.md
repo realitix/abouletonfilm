@@ -1,1 +1,0 @@
-{"tmdb_id": 408414, "title": "Papa's Day of Rest", "original_title": "Papa's Day of Rest", "slug_title": "papa-s-day-of-rest", "date": "1951-12-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

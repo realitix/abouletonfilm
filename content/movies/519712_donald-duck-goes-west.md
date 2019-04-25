@@ -1,1 +1,0 @@
-{"tmdb_id": 519712, "title": "Donald Duck Goes West", "original_title": "Donald Duck Goes West", "slug_title": "donald-duck-goes-west", "date": "1983-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/272YcS0zYxTX4yptnH9roLbUzpQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

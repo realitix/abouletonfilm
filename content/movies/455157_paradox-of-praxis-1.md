@@ -1,1 +1,0 @@
-{"tmdb_id": 455157, "title": "Paradox of Praxis 1", "original_title": "Paradox of Praxis 1", "slug_title": "paradox-of-praxis-1", "date": "1997-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Francis Al\u00ffs ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 9704, "title": "T\u00edmam\u00f3t", "original_title": "T\u00edmam\u00f3t", "slug_title": "timamot", "date": "2007-04-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gu\u00f0j\u00f3n \u00c1rnason (Himself)", "Stein\u00fe\u00f3r Edvardsson (Himself)"], "comments": [], "recommandations_id": []}

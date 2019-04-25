@@ -1,1 +1,0 @@
-{"tmdb_id": 381965, "title": "Red Colored Bridge", "original_title": "Red Colored Bridge", "slug_title": "red-colored-bridge", "date": "2012-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2HwBqeKgPooS20qTgtcnKvlev7p.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 504388, "title": "Jogos Cru\u00e9is", "original_title": "Jogos Cru\u00e9is", "slug_title": "jogos-crueis", "date": "2012-03-25", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

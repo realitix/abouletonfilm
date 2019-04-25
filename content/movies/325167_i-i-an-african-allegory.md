@@ -1,1 +1,0 @@
-{"tmdb_id": 325167, "title": "I & I: An African Allegory", "original_title": "I & I: An African Allegory", "slug_title": "i-i-an-african-allegory", "date": "1979-06-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/blzKRYHOTCGz7ocq1CZlH3DFDiu.jpg", "actors": [], "comments": [], "recommandations_id": []}

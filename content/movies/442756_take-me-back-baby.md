@@ -1,1 +1,0 @@
-{"tmdb_id": 442756, "title": "Take Me Back, Baby", "original_title": "Take Me Back, Baby", "slug_title": "take-me-back-baby", "date": "1941-02-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Count Basie and His Orchestra ()", "Count Basie ()"], "comments": [], "recommandations_id": []}

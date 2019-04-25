@@ -1,1 +1,0 @@
-{"tmdb_id": 184474, "title": "The Fighting Dude", "original_title": "The Fighting Dude", "slug_title": "the-fighting-dude", "date": "1925-12-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lupino Lane (The Dude)", "Wallace Lupino (His Rival)"], "comments": [], "recommandations_id": []}

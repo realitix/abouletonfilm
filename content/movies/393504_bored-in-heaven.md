@@ -1,1 +1,0 @@
-{"tmdb_id": 393504, "title": "Bored In Heaven", "original_title": "Bored In Heaven", "slug_title": "bored-in-heaven", "date": "2010-03-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1Q5mVLgY1BWX4sDrwz5AuKJb36A.jpg", "actors": [], "comments": [], "recommandations_id": []}

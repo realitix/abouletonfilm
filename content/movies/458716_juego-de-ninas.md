@@ -1,1 +1,0 @@
-{"tmdb_id": 458716, "title": "Juego de ni\u00f1as", "original_title": "Juego de ni\u00f1as", "slug_title": "juego-de-ninas", "date": "2007-01-01", "genre": "Horreur", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ec0AVhjY7TfH77NkdQZt7CFp3yH.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 524371, "title": "Elton John BBC one sessions", "original_title": "Elton John BBC one sessions", "slug_title": "elton-john-bbc-one-sessions", "date": "2008-01-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vhjbprc6kvAx0bxqzfL2zYObqLW.jpg", "actors": [], "comments": [], "recommandations_id": []}

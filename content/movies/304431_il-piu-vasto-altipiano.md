@@ -1,1 +1,0 @@
-{"tmdb_id": 304431, "title": "Il pi\u00f9 vasto altipiano", "original_title": "Il pi\u00f9 vasto altipiano", "slug_title": "il-piu-vasto-altipiano", "date": "1914-02-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

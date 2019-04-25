@@ -1,1 +1,0 @@
-{"tmdb_id": 410235, "title": "El soltero de la familia", "original_title": "El soltero de la familia", "slug_title": "el-soltero-de-la-familia", "date": "2016-10-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Af3QUusc7na9Fov7rZnli1KR2K4.jpg", "actors": [], "comments": [], "recommandations_id": []}

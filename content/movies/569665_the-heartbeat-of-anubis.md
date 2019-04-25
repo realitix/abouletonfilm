@@ -1,1 +1,0 @@
-{"tmdb_id": 569665, "title": "The Heartbeat of Anubis", "original_title": "Der Herzschlag des Anubis", "slug_title": "the-heartbeat-of-anubis", "date": "1988-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["F. W. Heubach (Participant & Loafer)"], "comments": [], "recommandations_id": []}

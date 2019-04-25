@@ -1,1 +1,0 @@
-{"tmdb_id": 475060, "title": "Lam\u00faria", "original_title": "Lam\u00faria", "slug_title": "lamuria", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 363855, "title": "I Am Jin Young", "original_title": "I Am Jin Young", "slug_title": "i-am-jin-young", "date": "2009-09-30", "genre": "", "score": "4.3/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 583985, "title": "Struggle & Hope", "original_title": "Struggle & Hope", "slug_title": "struggle-hope", "date": "2017-04-06", "genre": "Documentaire / Histoire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

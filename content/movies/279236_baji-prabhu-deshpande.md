@@ -1,1 +1,0 @@
-{"tmdb_id": 279236, "title": "Baji Prabhu Deshpande", "original_title": "Baji Prabhu Deshpande", "slug_title": "baji-prabhu-deshpande", "date": "1929-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

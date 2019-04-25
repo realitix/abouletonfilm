@@ -1,1 +1,0 @@
-{"tmdb_id": 312662, "title": "Carmen (Stagioni d'Opera Italiana)", "original_title": "Carmen (Stagioni d'Opera Italiana)", "slug_title": "carmen-stagioni-d-opera-italiana", "date": "1998-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

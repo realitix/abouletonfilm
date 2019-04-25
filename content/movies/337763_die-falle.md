@@ -1,1 +1,0 @@
-{"tmdb_id": 337763, "title": "Die Falle", "original_title": "Die Falle", "slug_title": "die-falle", "date": "1961-08-23", "genre": "Crime", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Eva Pflug (Florence)", "Sigfrit Steiner (Kriminalkommissar Leduc)", "Pinkas Braun (Abb\u00e9)"], "comments": [], "recommandations_id": []}

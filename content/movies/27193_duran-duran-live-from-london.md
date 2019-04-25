@@ -1,1 +1,0 @@
-{"tmdb_id": 27193, "title": "Duran Duran: Live from London", "original_title": "Duran Duran: Live from London", "slug_title": "duran-duran-live-from-london", "date": "2005-10-25", "genre": "Musique", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/liOoBuKhKzsnFBZ1iUaaYwQfQ4Y.jpg", "actors": [], "comments": [], "recommandations_id": []}

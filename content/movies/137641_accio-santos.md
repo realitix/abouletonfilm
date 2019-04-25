@@ -1,1 +1,0 @@
-{"tmdb_id": 137641, "title": "Acci\u00f3 Santos", "original_title": "Acci\u00f3 Santos", "slug_title": "accio-santos", "date": "1973-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eVuDc2NCKdWuBi7DIkO8WiAeWkl.jpg", "actors": ["Carles Santos ()"], "comments": [], "recommandations_id": []}

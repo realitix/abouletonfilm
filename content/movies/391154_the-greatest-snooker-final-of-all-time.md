@@ -1,1 +1,0 @@
-{"tmdb_id": 391154, "title": "The Greatest Snooker Final Of All Time", "original_title": "The Greatest Snooker Final Of All Time", "slug_title": "the-greatest-snooker-final-of-all-time", "date": "2006-10-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

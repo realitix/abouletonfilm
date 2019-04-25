@@ -1,1 +1,0 @@
-{"tmdb_id": 499887, "title": "Africa, the Jungle, Drums and Revolution", "original_title": "Africa, the Jungle, Drums and Revolution", "slug_title": "africa-the-jungle-drums-and-revolution", "date": "1979-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

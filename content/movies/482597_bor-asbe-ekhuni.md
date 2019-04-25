@@ -1,1 +1,0 @@
-{"tmdb_id": 482597, "title": "Bor Asbe Ekhuni", "original_title": "Bor Asbe Ekhuni", "slug_title": "bor-asbe-ekhuni", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ftbmhaREWvGYlrbJ9UQaCsjOPhF.jpg", "actors": [], "comments": [], "recommandations_id": []}

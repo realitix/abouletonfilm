@@ -1,1 +1,0 @@
-{"tmdb_id": 539051, "title": "Transformaci\u00f3n", "original_title": "Transformaci\u00f3n", "slug_title": "transformacion", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A3ENMxkWnDRz6WKIF86TRVVeq3o.jpg", "actors": [], "comments": [], "recommandations_id": []}

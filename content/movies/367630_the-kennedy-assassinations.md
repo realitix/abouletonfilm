@@ -1,1 +1,0 @@
-{"tmdb_id": 367630, "title": "The Kennedy Assassinations", "original_title": "The Kennedy Assassinations", "slug_title": "the-kennedy-assassinations", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

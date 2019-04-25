@@ -1,1 +1,0 @@
-{"tmdb_id": 469965, "title": "Guffpunch", "original_title": "Guffpunch", "slug_title": "guffpunch", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

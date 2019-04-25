@@ -1,1 +1,0 @@
-{"tmdb_id": 475851, "title": "This Is the War Room!", "original_title": "This Is the War Room!", "slug_title": "this-is-the-war-room", "date": "2017-09-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9oD1Cw9vS3nqAbGVQ1xudk79FyQ.jpg", "actors": ["Ken Adam ()"], "comments": [], "recommandations_id": []}

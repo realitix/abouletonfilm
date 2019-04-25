@@ -1,1 +1,0 @@
-{"tmdb_id": 433345, "title": "Lambchop - No Such Silence", "original_title": "Lambchop - No Such Silence", "slug_title": "lambchop-no-such-silence", "date": "2007-11-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s4PeRbyB491PxvNFoEWcpBdgQKB.jpg", "actors": [], "comments": [], "recommandations_id": []}

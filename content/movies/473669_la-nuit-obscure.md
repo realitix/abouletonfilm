@@ -1,1 +1,0 @@
-{"tmdb_id": 473669, "title": "La Nuit Obscure", "original_title": "La Nuit Obscure", "slug_title": "la-nuit-obscure", "date": "2011-09-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4zoVoAloEVklDb2NOM2RDCnP11P.jpg", "actors": [], "comments": [], "recommandations_id": []}

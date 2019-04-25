@@ -1,1 +1,0 @@
-{"tmdb_id": 236502, "title": "Vitamin Hay", "original_title": "Vitamin Hay", "slug_title": "vitamin-hay", "date": "1941-08-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 569803, "title": "Der Vulkan lebt - III.Teil", "original_title": "Der Vulkan lebt - III.Teil", "slug_title": "der-vulkan-lebt-iii-teil", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

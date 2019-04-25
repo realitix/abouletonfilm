@@ -1,1 +1,0 @@
-{"tmdb_id": 157819, "title": "Freezing People Is Easy", "original_title": "Freezing People Is Easy", "slug_title": "freezing-people-is-easy", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

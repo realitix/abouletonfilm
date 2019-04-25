@@ -1,1 +1,0 @@
-{"tmdb_id": 520903, "title": "We Could Be Heroes", "original_title": "We Could Be Heroes", "slug_title": "we-could-be-heroes", "date": "2018-05-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k6xyD4A85IQ8yg610dnZmKkKLe6.jpg", "actors": [], "comments": [], "recommandations_id": []}

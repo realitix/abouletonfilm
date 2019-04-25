@@ -1,1 +1,0 @@
-{"tmdb_id": 183235, "title": "Stones in the Sun", "original_title": "Stones in the Sun", "slug_title": "stones-in-the-sun", "date": "2012-04-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nrkGdF1LN3cthgUofKI9QYxF1zo.jpg", "actors": [], "comments": [], "recommandations_id": []}

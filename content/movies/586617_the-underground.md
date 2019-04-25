@@ -1,1 +1,0 @@
-{"tmdb_id": 586617, "title": "The Underground", "original_title": "The Underground", "slug_title": "the-underground", "date": "2017-11-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A8tNsec4MPPgDz8ddjdDOSI5H2C.jpg", "actors": [], "comments": [], "recommandations_id": []}

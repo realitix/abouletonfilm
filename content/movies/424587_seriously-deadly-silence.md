@@ -1,1 +1,0 @@
-{"tmdb_id": 424587, "title": "Seriously Deadly Silence", "original_title": "Seriously Deadly Silence", "slug_title": "seriously-deadly-silence", "date": "2015-02-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

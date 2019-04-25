@@ -1,1 +1,0 @@
-{"tmdb_id": 304412, "title": "Othello", "original_title": "Othello", "slug_title": "othello", "date": "1914-05-18", "genre": "Drame / Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Paolo Colaci (Othello)", "Cesira Lenard (Desdemona)", "Ubaldo Stefani (Cassio)", "Riccardo Tolentino (Iago)"], "comments": [], "recommandations_id": []}

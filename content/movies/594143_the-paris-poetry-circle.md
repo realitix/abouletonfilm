@@ -1,1 +1,0 @@
-{"tmdb_id": 594143, "title": "The Paris Poetry Circle", "original_title": "The Paris Poetry Circle", "slug_title": "the-paris-poetry-circle", "date": "2013-04-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

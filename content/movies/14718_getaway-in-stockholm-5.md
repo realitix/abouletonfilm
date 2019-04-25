@@ -1,1 +1,0 @@
-{"tmdb_id": 14718, "title": "Getaway in Stockholm 5", "original_title": "Getaway in Stockholm 5", "slug_title": "getaway-in-stockholm-5", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lQP2cKk60wTvbb966lTdcsjJW6e.jpg", "actors": [], "comments": [], "recommandations_id": []}

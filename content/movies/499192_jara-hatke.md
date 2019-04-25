@@ -1,1 +1,0 @@
-{"tmdb_id": 499192, "title": "& Jara Hatke", "original_title": "& Jara Hatke", "slug_title": "jara-hatke", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jZxVZirqXxGNo7NoHnZpY3SkvFK.jpg", "actors": ["Mrinal Kulkarni ()"], "comments": [], "recommandations_id": []}

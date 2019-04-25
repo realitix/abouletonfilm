@@ -1,1 +1,0 @@
-{"tmdb_id": 323150, "title": "Abductees", "original_title": "Abductees", "slug_title": "abductees", "date": "1996-02-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9k9d5JnZDKYqOLJBxMRmHhUESGd.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 462396, "title": "Sniper: Into the Kill Zone", "original_title": "Sniper: Into the Kill Zone", "slug_title": "sniper-into-the-kill-zone", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qfOPdjdcY4wlKf2gUUBJycjq7de.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 410763, "title": "Kwassa Kwassa", "original_title": "Kwassa Kwassa", "slug_title": "kwassa-kwassa", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oKseuFJ5NMmL1ptNEj9vVXRMlGM.jpg", "actors": [], "comments": [], "recommandations_id": []}

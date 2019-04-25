@@ -1,1 +1,0 @@
-{"tmdb_id": 199874, "title": "O Lobo Mau", "original_title": "O Lobo Mau", "slug_title": "o-lobo-mau", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t1jdfyHFTP8RkUxpMMN6Qd7oZEV.jpg", "actors": [], "comments": [], "recommandations_id": []}

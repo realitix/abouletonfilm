@@ -1,1 +1,0 @@
-{"tmdb_id": 362196, "title": "Birthday", "original_title": "F\u00f6delsedag", "slug_title": "birthday", "date": "2010-01-01", "genre": "", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zZA7LIMcav2LrK6PJwFqc994Z46.jpg", "actors": [], "comments": [], "recommandations_id": []}

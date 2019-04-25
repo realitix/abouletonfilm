@@ -1,1 +1,0 @@
-{"tmdb_id": 356312, "title": "Swinging His Vacation", "original_title": "Swinging His Vacation", "slug_title": "swinging-his-vacation", "date": "1920-05-14", "genre": "Com\u00e9die / Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

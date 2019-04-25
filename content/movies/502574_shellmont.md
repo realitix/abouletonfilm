@@ -1,1 +1,0 @@
-{"tmdb_id": 502574, "title": "Shellmont", "original_title": "Shellmont", "slug_title": "shellmont", "date": "", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gIQog14izOXoHZVMPKcEqSqBxNK.jpg", "actors": ["Rob Servidone (Big bad ace)"], "comments": [], "recommandations_id": []}

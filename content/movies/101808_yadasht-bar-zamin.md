@@ -1,1 +1,0 @@
-{"tmdb_id": 101808, "title": "Yadasht Bar Zamin", "original_title": "Yadasht Bar Zamin", "slug_title": "yadasht-bar-zamin", "date": "2005-10-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/alC8aWuTGKVClnNYWmU1HA92sPK.jpg", "actors": [], "comments": [], "recommandations_id": []}

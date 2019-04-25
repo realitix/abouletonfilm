@@ -1,1 +1,0 @@
-{"tmdb_id": 247588, "title": "Homes for the People", "original_title": "Homes for the People", "slug_title": "homes-for-the-people", "date": "1945-01-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

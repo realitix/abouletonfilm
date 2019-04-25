@@ -1,1 +1,0 @@
-{"tmdb_id": 488559, "title": "Moncton Corner", "original_title": "Moncton Corner", "slug_title": "moncton-corner", "date": "2017-11-17", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

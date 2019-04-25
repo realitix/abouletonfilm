@@ -1,1 +1,0 @@
-{"tmdb_id": 438889, "title": "Charlie's Proof", "original_title": "Charlie's Proof", "slug_title": "charlie-s-proof", "date": "2013-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eAmzNP41RKn2P2sUR01Ckx7Fhti.jpg", "actors": [], "comments": [], "recommandations_id": []}

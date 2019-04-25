@@ -1,1 +1,1 @@
-{"tmdb_id": 337346, "title": "Face to Face", "original_title": "Cara a Cara", "slug_title": "face-to-face", "date": "2013-08-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 337346, "title": "Face to Face", "original_title": "Cara a Cara", "slug_title": "face-to-face", "date": "2013-08-13", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

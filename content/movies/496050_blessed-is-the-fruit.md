@@ -1,1 +1,0 @@
-{"tmdb_id": 496050, "title": "Blessed is the Fruit", "original_title": "Rebento", "slug_title": "blessed-is-the-fruit", "date": "2018-01-27", "genre": "", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cY2yjuZb9tGMfNumbv3404YmvYU.jpg", "actors": [], "comments": [], "recommandations_id": []}

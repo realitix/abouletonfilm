@@ -1,1 +1,0 @@
-{"tmdb_id": 351261, "title": "The Hay Ride", "original_title": "The Hay Ride", "slug_title": "the-hay-ride", "date": "1937-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

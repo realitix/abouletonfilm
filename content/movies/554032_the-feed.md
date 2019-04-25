@@ -1,1 +1,0 @@
-{"tmdb_id": 554032, "title": "The Feed", "original_title": "The Feed", "slug_title": "the-feed", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

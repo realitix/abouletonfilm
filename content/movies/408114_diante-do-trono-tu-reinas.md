@@ -1,1 +1,0 @@
-{"tmdb_id": 408114, "title": "Diante do Trono - Tu Reinas", "original_title": "Diante do Trono - Tu Reinas", "slug_title": "diante-do-trono-tu-reinas", "date": "", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7oIbLspNYKX4jMvvaGRR5E3U0Wi.jpg", "actors": [], "comments": [], "recommandations_id": []}

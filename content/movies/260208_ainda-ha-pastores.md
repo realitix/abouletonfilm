@@ -1,1 +1,0 @@
-{"tmdb_id": 260208, "title": "Ainda H\u00e1 Pastores?", "original_title": "Ainda H\u00e1 Pastores?", "slug_title": "ainda-ha-pastores", "date": "2006-10-21", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q4GAqdBvnlWX60ll6w2cWl5F8zk.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 524067, "title": "The Best of Bobby Orr", "original_title": "The Best of Bobby Orr", "slug_title": "the-best-of-bobby-orr", "date": "1995-10-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

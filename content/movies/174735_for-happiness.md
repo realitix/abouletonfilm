@@ -1,1 +1,0 @@
-{"tmdb_id": 174735, "title": "For Happiness", "original_title": "\u0417\u0430 \u0441\u0447\u0430\u0441\u0442\u044c\u0435\u043c", "slug_title": "for-happiness", "date": "1917-09-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nMNtzFjpDQSOcG0NiWsgD9aLYSn.jpg", "actors": [], "comments": [], "recommandations_id": []}

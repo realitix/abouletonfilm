@@ -1,1 +1,0 @@
-{"tmdb_id": 264030, "title": "Disneys sjov med ekstremsport", "original_title": "Disneys sjov med ekstremsport", "slug_title": "disneys-sjov-med-ekstremsport", "date": "2005-06-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/77u60Q3eZBInKZKXeZJpLec9c1R.jpg", "actors": [], "comments": [], "recommandations_id": []}

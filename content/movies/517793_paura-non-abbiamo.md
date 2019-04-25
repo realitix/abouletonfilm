@@ -1,1 +1,0 @@
-{"tmdb_id": 517793, "title": "Paura non abbiamo", "original_title": "Paura non abbiamo", "slug_title": "paura-non-abbiamo", "date": "2017-05-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gRprah3HczdUtxaeAk6RrjmiGmX.jpg", "actors": [], "comments": [], "recommandations_id": []}

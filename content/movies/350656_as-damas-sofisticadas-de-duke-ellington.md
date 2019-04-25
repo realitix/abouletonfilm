@@ -1,1 +1,0 @@
-{"tmdb_id": 350656, "title": "As Damas Sofisticadas de Duke Ellington", "original_title": "As Damas Sofisticadas de Duke Ellington", "slug_title": "as-damas-sofisticadas-de-duke-ellington", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

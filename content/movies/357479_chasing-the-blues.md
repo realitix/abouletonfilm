@@ -1,1 +1,0 @@
-{"tmdb_id": 357479, "title": "Chasing the Blues", "original_title": "Chasing the Blues", "slug_title": "chasing-the-blues", "date": "1946-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Alan Baker ()", "Donald Britten ()"], "comments": [], "recommandations_id": []}

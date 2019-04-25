@@ -1,1 +1,0 @@
-{"tmdb_id": 166941, "title": "Fuuin Eizou 8 - Jishou Joou", "original_title": "Fuuin Eizou 8 - Jishou Joou", "slug_title": "fuuin-eizou-8-jishou-joou", "date": "2012-06-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wBSA9eG6DpthgEAmzSrah6FcYsY.jpg", "actors": [], "comments": [], "recommandations_id": []}

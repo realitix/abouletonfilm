@@ -1,1 +1,0 @@
-{"tmdb_id": 476728, "title": "Blur Flower", "original_title": "Flor Azul", "slug_title": "blur-flower", "date": "2014-10-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eyF8OqnuHZKE1uxeEP88YbjZYBI.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 543051, "title": "Han Solo: Racist", "original_title": "Han Solo: Racist", "slug_title": "han-solo-racist", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pHSZAS3OChf5VL6TNTdErsRqg02.jpg", "actors": [], "comments": [], "recommandations_id": []}

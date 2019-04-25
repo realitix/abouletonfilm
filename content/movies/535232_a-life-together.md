@@ -1,1 +1,0 @@
-{"tmdb_id": 535232, "title": "A Life Together", "original_title": "A Life Together", "slug_title": "a-life-together", "date": "2017-08-10", "genre": "Documentaire / Romance", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1GWP9IOkalRGovtYFVg0ji6VHJN.jpg", "actors": [], "comments": [], "recommandations_id": []}

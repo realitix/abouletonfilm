@@ -1,1 +1,0 @@
-{"tmdb_id": 405284, "title": "Formel Eins - Best Of Vol. 3", "original_title": "Formel Eins - Best Of Vol. 3", "slug_title": "formel-eins-best-of-vol-3", "date": "2014-10-10", "genre": "Musique", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7nCqb14UQPdTEG8XMeufAhcS8C1.jpg", "actors": [], "comments": [], "recommandations_id": []}

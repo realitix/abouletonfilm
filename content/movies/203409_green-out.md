@@ -1,1 +1,0 @@
-{"tmdb_id": 203409, "title": "Green Out", "original_title": "Green Out", "slug_title": "green-out", "date": "2013-06-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

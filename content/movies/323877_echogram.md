@@ -1,1 +1,0 @@
-{"tmdb_id": 323877, "title": "Echogram", "original_title": "Echogramma", "slug_title": "echogram", "date": "2003-01-01", "genre": "Animation", "score": "7.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/muOvaZmD38ka5XDP5oXip38I0nm.jpg", "actors": [], "comments": [], "recommandations_id": []}

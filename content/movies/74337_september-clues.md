@@ -1,1 +1,0 @@
-{"tmdb_id": 74337, "title": "September Clues", "original_title": "September Clues", "slug_title": "september-clues", "date": "2007-06-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sfkUN579xXJPbtRk2iZ0dNTKwIJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

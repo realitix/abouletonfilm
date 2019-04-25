@@ -1,1 +1,0 @@
-{"tmdb_id": 380554, "title": "Kung Ako'y Iiwan Mo", "original_title": "Kung Ako'y Iiwan Mo", "slug_title": "kung-ako-y-iiwan-mo", "date": "1980-12-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hwWhOGmuI6zyGcnMKLIb2jLAwDe.jpg", "actors": [], "comments": [], "recommandations_id": []}

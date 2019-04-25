@@ -1,1 +1,0 @@
-{"tmdb_id": 189144, "title": "Armadingen", "original_title": "Armadingen", "slug_title": "armadingen", "date": "2011-01-01", "genre": "Drame / Fantastique / Romance", "score": "9.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Karin Graf (Helga)", "Gernot Hertel (Walter)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 564086, "title": "Mickey's Nutcracker", "original_title": "Mickey's Nutcracker", "slug_title": "mickey-s-nutcracker", "date": "1992-12-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

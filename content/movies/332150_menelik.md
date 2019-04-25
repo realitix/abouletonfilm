@@ -1,1 +1,1 @@
-{"tmdb_id": 332150, "title": "Menelik", "original_title": "Menelik", "slug_title": "menelik", "date": "1999-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 332150, "title": "Menelik", "original_title": "Menelik", "slug_title": "menelik", "date": "1999-01-02", "genre": [""], "score": "0.0/10", "synopsis": "Directed by Daniel Wachsmann.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

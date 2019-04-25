@@ -1,1 +1,0 @@
-{"tmdb_id": 472477, "title": "The Helpless Hippo", "original_title": "The Helpless Hippo", "slug_title": "the-helpless-hippo", "date": "1953-12-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

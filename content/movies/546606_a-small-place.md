@@ -1,1 +1,0 @@
-{"tmdb_id": 546606, "title": "A Small Place", "original_title": "A Small Place", "slug_title": "a-small-place", "date": "2018-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o3aySoP8RgapVEGSzpfPoP9P1f1.jpg", "actors": [], "comments": [], "recommandations_id": []}

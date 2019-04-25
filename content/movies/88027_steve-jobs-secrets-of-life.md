@@ -1,1 +1,0 @@
-{"tmdb_id": 88027, "title": "Steve Jobs: Secrets of Life", "original_title": "Steve Jobs: Secrets of Life", "slug_title": "steve-jobs-secrets-of-life", "date": "2013-02-06", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6105CXsqyM6Sp0ZkSmSZFANmGgx.jpg", "actors": [], "comments": [], "recommandations_id": []}

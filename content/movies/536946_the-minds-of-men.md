@@ -1,1 +1,0 @@
-{"tmdb_id": 536946, "title": "The Minds of Men", "original_title": "The Minds of Men", "slug_title": "the-minds-of-men", "date": "2018-07-16", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/69Xcs41sIurPuHCFgbp2xY37Akm.jpg", "actors": [], "comments": [], "recommandations_id": []}

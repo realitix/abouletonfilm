@@ -1,1 +1,0 @@
-{"tmdb_id": 329568, "title": "Mina Moes", "original_title": "Mina Moes", "slug_title": "mina-moes", "date": "2011-10-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7EMAyIlglJooe3yLFdOkxVd0tSa.jpg", "actors": ["Meral Polat (Mother)"], "comments": [], "recommandations_id": []}

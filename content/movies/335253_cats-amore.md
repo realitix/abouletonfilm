@@ -1,1 +1,0 @@
-{"tmdb_id": 335253, "title": "Cats Amore", "original_title": "Cats Amore", "slug_title": "cats-amore", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

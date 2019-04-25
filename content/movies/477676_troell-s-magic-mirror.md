@@ -1,1 +1,0 @@
-{"tmdb_id": 477676, "title": "Troell's Magic Mirror", "original_title": "Troells troldspejl", "slug_title": "troell-s-magic-mirror", "date": "2008-01-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

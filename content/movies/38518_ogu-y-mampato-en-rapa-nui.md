@@ -1,1 +1,0 @@
-{"tmdb_id": 38518, "title": "Ogu y Mampato en Rapa Nui", "original_title": "Ogu y Mampato en Rapa Nui", "slug_title": "ogu-y-mampato-en-rapa-nui", "date": "2002-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/phQz2HvBOkOpV6cwfBqtNKLDTVp.jpg", "actors": [], "comments": [], "recommandations_id": []}

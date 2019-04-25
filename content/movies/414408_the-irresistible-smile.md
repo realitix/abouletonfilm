@@ -1,1 +1,0 @@
-{"tmdb_id": 414408, "title": "The Irresistible Smile", "original_title": "The Irresistible Smile", "slug_title": "the-irresistible-smile", "date": "2006-11-24", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lHXCg5bGLd0K68zSt1IXuR47rIF.jpg", "actors": [], "comments": [], "recommandations_id": []}

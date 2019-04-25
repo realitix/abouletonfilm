@@ -1,1 +1,0 @@
-{"tmdb_id": 265474, "title": "\u00c9rase una vez... el hombre", "original_title": "\u00c9rase una vez... el hombre", "slug_title": "erase-una-vez-el-hombre", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uBzqHYi7ZjAdRPjEs6DM25wEG04.jpg", "actors": [], "comments": [], "recommandations_id": []}

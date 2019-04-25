@@ -1,1 +1,0 @@
-{"tmdb_id": 361828, "title": "Snuff Video: Volume Red", "original_title": "Snuff Video: Volume Red", "slug_title": "snuff-video-volume-red", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hKEBksttcz4GwhNlveWJhKhWVxS.jpg", "actors": [], "comments": [], "recommandations_id": []}

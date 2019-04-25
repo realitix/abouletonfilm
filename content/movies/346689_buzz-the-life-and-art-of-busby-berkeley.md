@@ -1,1 +1,0 @@
-{"tmdb_id": 346689, "title": "Buzz: The Life and Art of Busby Berkeley", "original_title": "Buzz: The Life and Art of Busby Berkeley", "slug_title": "buzz-the-life-and-art-of-busby-berkeley", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

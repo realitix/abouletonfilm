@@ -1,1 +1,0 @@
-{"tmdb_id": 552113, "title": "Another Decade", "original_title": "Another Decade", "slug_title": "another-decade", "date": "2018-10-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hnCEmCG6e8KMMtCqQDru9RRz1CU.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 293672, "title": "Miley Cyrus: Concert at Rock In Rio in Madrid", "original_title": "Miley Cyrus: Concert at Rock In Rio in Madrid", "slug_title": "miley-cyrus-concert-at-rock-in-rio-in-madrid", "date": "2010-06-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

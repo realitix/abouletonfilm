@@ -1,1 +1,0 @@
-{"tmdb_id": 208450, "title": "Rambo: To Hell and Back", "original_title": "Rambo: To Hell and Back", "slug_title": "rambo-to-hell-and-back", "date": "2010-07-27", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

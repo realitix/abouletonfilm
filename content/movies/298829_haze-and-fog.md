@@ -1,1 +1,0 @@
-{"tmdb_id": 298829, "title": "Haze and Fog", "original_title": "Haze and Fog", "slug_title": "haze-and-fog", "date": "2013-09-21", "genre": "Drame / Fantastique / Horreur", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/90frJDDAN2RITEmVDTtrUWHqDk4.jpg", "actors": [], "comments": [], "recommandations_id": []}

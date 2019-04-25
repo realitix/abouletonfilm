@@ -1,1 +1,0 @@
-{"tmdb_id": 466097, "title": "Biffy Clyro at Glastonbury 2017", "original_title": "Biffy Clyro at Glastonbury 2017", "slug_title": "biffy-clyro-at-glastonbury-2017", "date": "2017-06-23", "genre": "", "score": "9.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

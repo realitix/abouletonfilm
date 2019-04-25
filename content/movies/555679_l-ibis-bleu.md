@@ -1,1 +1,0 @@
-{"tmdb_id": 555679, "title": "L'ibis bleu", "original_title": "L'ibis bleu", "slug_title": "l-ibis-bleu", "date": "1919-01-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

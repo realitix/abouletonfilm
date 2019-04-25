@@ -1,1 +1,0 @@
-{"tmdb_id": 308092, "title": "Jai Hinglaj Maa", "original_title": "Jai Hinglaj Maa", "slug_title": "jai-hinglaj-maa", "date": "2014-02-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 17432, "title": "My Friend Ganesha", "original_title": "My Friend Ganesha", "slug_title": "my-friend-ganesha", "date": "2007-01-01", "genre": "Familial", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8p5I48Bjx1ubjRhe5WEWTNGhAWJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 412560, "title": "A Symphony of Cooking Utensils", "original_title": "Guo Wan Piao Pen Jiao Xiang Qu", "slug_title": "a-symphony-of-cooking-utensils", "date": "1983-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sun Chun ()", "Zhu Yan ()", "Yin Tingru ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 309482, "title": "Guy Torry's Phat Comedy Tuesdays: Vol. 2", "original_title": "Guy Torry's Phat Comedy Tuesdays: Vol. 2", "slug_title": "guy-torry-s-phat-comedy-tuesdays-vol-2", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

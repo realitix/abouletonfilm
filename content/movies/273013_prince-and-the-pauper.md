@@ -1,1 +1,0 @@
-{"tmdb_id": 273013, "title": "Prince And The Pauper", "original_title": "Prince And The Pauper", "slug_title": "prince-and-the-pauper", "date": "1995-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

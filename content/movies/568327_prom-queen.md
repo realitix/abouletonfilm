@@ -1,1 +1,0 @@
-{"tmdb_id": 568327, "title": "Prom Queen", "original_title": "Prom Queen", "slug_title": "prom-queen", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qNDTlIMXeXOCtAx7XuwGGMZJs8b.jpg", "actors": ["Katherine Dohan ()"], "comments": [], "recommandations_id": []}

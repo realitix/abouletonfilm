@@ -1,1 +1,0 @@
-{"tmdb_id": 523652, "title": "Lehrstunden in Schmerz", "original_title": "Lehrstunden in Schmerz", "slug_title": "lehrstunden-in-schmerz", "date": "2011-05-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

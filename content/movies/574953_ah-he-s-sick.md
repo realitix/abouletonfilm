@@ -1,1 +1,0 @@
-{"tmdb_id": 574953, "title": "Ah, He's Sick", "original_title": "Ah, He's Sick", "slug_title": "ah-he-s-sick", "date": "2018-04-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

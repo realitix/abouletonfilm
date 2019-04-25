@@ -1,1 +1,0 @@
-{"tmdb_id": 393303, "title": "Crazy Fighters", "original_title": "Crazy Fighters", "slug_title": "crazy-fighters", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

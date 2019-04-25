@@ -1,1 +1,0 @@
-{"tmdb_id": 393881, "title": "The Prisoners Dream", "original_title": "The Prisoners Dream", "slug_title": "the-prisoners-dream", "date": "2015-10-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gvasGIKOia5ujl2ZW7BFCIIBgmY.jpg", "actors": [], "comments": [], "recommandations_id": []}

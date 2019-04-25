@@ -1,1 +1,0 @@
-{"tmdb_id": 499440, "title": "Homogeneous, Empty Time", "original_title": "Homogeneous, Empty Time", "slug_title": "homogeneous-empty-time", "date": "2017-11-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yQMM9Iei5HtYBWgXktTg0WVYmYH.jpg", "actors": [], "comments": [], "recommandations_id": []}

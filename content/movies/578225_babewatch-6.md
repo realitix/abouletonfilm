@@ -1,1 +1,0 @@
-{"tmdb_id": 578225, "title": "Babewatch 6", "original_title": "Babewatch 6", "slug_title": "babewatch-6", "date": "2000-01-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/443cpRqQbDdSFldbLkVOJGsZJtQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

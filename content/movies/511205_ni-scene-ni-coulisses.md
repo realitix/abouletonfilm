@@ -1,1 +1,0 @@
-{"tmdb_id": 511205, "title": "Ni sc\u00e8ne ni coulisses", "original_title": "Ni sc\u00e8ne ni coulisses", "slug_title": "ni-scene-ni-coulisses", "date": "1978-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 214653, "title": "Battle of the Arctic Giants", "original_title": "Battle of the Arctic Giants", "slug_title": "battle-of-the-arctic-giants", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

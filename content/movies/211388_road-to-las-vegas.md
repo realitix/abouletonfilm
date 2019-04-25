@@ -1,1 +1,0 @@
-{"tmdb_id": 211388, "title": "Road to Las Vegas", "original_title": "Road to Las Vegas", "slug_title": "road-to-las-vegas", "date": "2010-05-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 310180, "title": "Mania! Mania!: Vol. 2: Sex Mania / Dope Mania", "original_title": "Mania! Mania!: Vol. 2: Sex Mania / Dope Mania", "slug_title": "mania-mania-vol-2-sex-mania-dope-mania", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

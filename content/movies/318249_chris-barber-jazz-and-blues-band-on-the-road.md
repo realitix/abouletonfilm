@@ -1,1 +1,0 @@
-{"tmdb_id": 318249, "title": "Chris Barber Jazz and Blues Band: On the Road", "original_title": "Chris Barber Jazz and Blues Band: On the Road", "slug_title": "chris-barber-jazz-and-blues-band-on-the-road", "date": "1988-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

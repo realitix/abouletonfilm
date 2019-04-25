@@ -1,1 +1,0 @@
-{"tmdb_id": 494191, "title": "The Empty Screen", "original_title": "The Empty Screen", "slug_title": "the-empty-screen", "date": "2017-12-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3jFi3iQGU9sIBdYuY7TPI3kXTXe.jpg", "actors": [], "comments": [], "recommandations_id": []}

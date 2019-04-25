@@ -1,1 +1,0 @@
-{"tmdb_id": 197736, "title": "Look at Me Again", "original_title": "Olhe pra mim de novo", "slug_title": "look-at-me-again", "date": "2012-02-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hbFBU7wuJKYdnHMjIgxmSR1ppzs.jpg", "actors": [], "comments": [], "recommandations_id": []}

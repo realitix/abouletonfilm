@@ -1,1 +1,0 @@
-{"tmdb_id": 460938, "title": "Salitre", "original_title": "Salitre", "slug_title": "salitre", "date": "2005-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Filipe Cary ()", "Joana Brand\u00e3o ()"], "comments": [], "recommandations_id": []}

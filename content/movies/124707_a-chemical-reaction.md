@@ -1,1 +1,0 @@
-{"tmdb_id": 124707, "title": "A Chemical Reaction", "original_title": "A Chemical Reaction", "slug_title": "a-chemical-reaction", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a0GsqIiRSnOnsPArB7AgQZpak9v.jpg", "actors": [], "comments": [], "recommandations_id": []}

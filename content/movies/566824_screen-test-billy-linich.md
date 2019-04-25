@@ -1,1 +1,0 @@
-{"tmdb_id": 566824, "title": "Screen Test, Billy Linich", "original_title": "Screen Test, Billy Linich", "slug_title": "screen-test-billy-linich", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Billy Name (Himself)"], "comments": [], "recommandations_id": []}

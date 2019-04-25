@@ -1,1 +1,0 @@
-{"tmdb_id": 460274, "title": "Bagong Silang", "original_title": "Bagong Silang", "slug_title": "bagong-silang", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qBOCIH73cczm1lfcAxL9b29DzdG.jpg", "actors": [], "comments": [], "recommandations_id": []}

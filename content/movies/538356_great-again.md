@@ -1,1 +1,0 @@
-{"tmdb_id": 538356, "title": "Great Again", "original_title": "Great Again", "slug_title": "great-again", "date": "2018-08-05", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xEEftXLbNFtGDyBZ50OtSuwGct.jpg", "actors": [], "comments": [], "recommandations_id": []}

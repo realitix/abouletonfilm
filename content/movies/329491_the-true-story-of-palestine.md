@@ -1,1 +1,0 @@
-{"tmdb_id": 329491, "title": "The True Story of Palestine", "original_title": "Etz O Palestina", "slug_title": "the-true-story-of-palestine", "date": "1962-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

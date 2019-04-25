@@ -1,1 +1,0 @@
-{"tmdb_id": 353457, "title": "Di Paullo e Paulino Nao Desista 2015", "original_title": "Di Paullo e Paulino Nao Desista 2015", "slug_title": "di-paullo-e-paulino-nao-desista-2015", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

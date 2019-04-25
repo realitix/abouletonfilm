@@ -1,1 +1,0 @@
-{"tmdb_id": 311814, "title": "Lots to Learn: Vol. 4: Buster Loves Music", "original_title": "Lots to Learn: Vol. 4: Buster Loves Music", "slug_title": "lots-to-learn-vol-4-buster-loves-music", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

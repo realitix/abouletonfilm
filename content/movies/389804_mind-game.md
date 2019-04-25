@@ -1,1 +1,0 @@
-{"tmdb_id": 389804, "title": "Mind Game", "original_title": "\u5f62\u800c\u4e0a\u306e\u7121\u9650\u601d\u8003", "slug_title": "mind-game", "date": "2015-03-07", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nKES51mGNHyUtdE7TRB1q2chuRn.jpg", "actors": [], "comments": [], "recommandations_id": []}

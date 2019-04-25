@@ -1,1 +1,0 @@
-{"tmdb_id": 197753, "title": "Tale of a Toy", "original_title": "Tale of a Toy", "slug_title": "tale-of-a-toy", "date": "1984-05-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

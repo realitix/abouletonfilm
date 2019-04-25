@@ -1,1 +1,0 @@
-{"tmdb_id": 565443, "title": "The Frankenstein Story", "original_title": "The Frankenstein Story", "slug_title": "the-frankenstein-story", "date": "1958-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qDwJEAqyWFKvfqUKjDsIhf0MaAT.jpg", "actors": [], "comments": [], "recommandations_id": []}

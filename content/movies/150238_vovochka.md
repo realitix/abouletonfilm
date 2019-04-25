@@ -1,1 +1,0 @@
-{"tmdb_id": 150238, "title": "Vovochka", "original_title": "Vovochka", "slug_title": "vovochka", "date": "2002-01-01", "genre": "", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/omNqEz40l2KdilGCc3UVxtD6ZFf.jpg", "actors": [], "comments": [], "recommandations_id": []}

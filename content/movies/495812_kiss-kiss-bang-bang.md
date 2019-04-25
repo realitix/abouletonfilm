@@ -1,1 +1,0 @@
-{"tmdb_id": 495812, "title": "Kiss Kiss Bang Bang", "original_title": "Kiss Kiss Bang Bang", "slug_title": "kiss-kiss-bang-bang", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

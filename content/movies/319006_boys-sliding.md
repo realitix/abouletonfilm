@@ -1,1 +1,0 @@
-{"tmdb_id": 319006, "title": "Boys Sliding", "original_title": "Boys Sliding", "slug_title": "boys-sliding", "date": "1902-01-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

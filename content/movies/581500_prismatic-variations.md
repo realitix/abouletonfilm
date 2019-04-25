@@ -1,1 +1,0 @@
-{"tmdb_id": 581500, "title": "Prismatic Variations", "original_title": "Prismatic Variations", "slug_title": "prismatic-variations", "date": "1965-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

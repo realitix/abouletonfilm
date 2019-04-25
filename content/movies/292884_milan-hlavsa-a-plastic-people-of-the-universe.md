@@ -1,1 +1,0 @@
-{"tmdb_id": 292884, "title": "Milan Hlavsa a Plastic People of the Universe", "original_title": "Milan Hlavsa a Plastic People of the Universe", "slug_title": "milan-hlavsa-a-plastic-people-of-the-universe", "date": "2001-02-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

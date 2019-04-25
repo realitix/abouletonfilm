@@ -1,1 +1,0 @@
-{"tmdb_id": 120641, "title": "Night Trade", "original_title": "Night Trade", "slug_title": "night-trade", "date": "2002-06-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["John Cass (Sasha)"], "comments": [], "recommandations_id": []}

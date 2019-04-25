@@ -1,1 +1,0 @@
-{"tmdb_id": 440393, "title": "Remembering Thelma", "original_title": "Remembering Thelma", "slug_title": "remembering-thelma", "date": "1981-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gW39rTghRFcw57QfPwYZoMZCqTG.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 529322, "title": "\u5185\u5171\u751f (Inside the Shared Life)", "original_title": "\u5185\u5171\u751f (Inside the Shared Life)", "slug_title": "nei-gong-sheng-inside-the-shared-life", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lynn Margulis ()"], "comments": [], "recommandations_id": []}

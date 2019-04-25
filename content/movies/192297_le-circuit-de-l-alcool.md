@@ -1,1 +1,0 @@
-{"tmdb_id": 192297, "title": "Le circuit de l'alcool", "original_title": "Le circuit de l'alcool", "slug_title": "le-circuit-de-l-alcool", "date": "1912-05-08", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h2Q47farxeqzYERwDZPYpIpUAOG.jpg", "actors": [], "comments": [], "recommandations_id": []}

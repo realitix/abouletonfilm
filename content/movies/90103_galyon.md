@@ -1,1 +1,0 @@
-{"tmdb_id": 90103, "title": "Galyon", "original_title": "Galyon", "slug_title": "galyon", "date": "1980-09-18", "genre": "Action / Aventure", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9bBtkvUSzMDs9QWC5z7RfxViSvm.jpg", "actors": ["Stan Brock (Galyon)", "Ina Balin ()", "Lloyd Nolan ()"], "comments": [], "recommandations_id": []}

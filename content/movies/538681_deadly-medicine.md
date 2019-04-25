@@ -1,1 +1,0 @@
-{"tmdb_id": 538681, "title": "Deadly Medicine", "original_title": "Deadly Medicine", "slug_title": "deadly-medicine", "date": "1991-11-11", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Veronica Hamel (Kathleen Holland)", "Susan Rutt (Genene Jones)"], "comments": [], "recommandations_id": []}

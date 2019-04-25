@@ -1,1 +1,0 @@
-{"tmdb_id": 336475, "title": "Tiger Morse", "original_title": "Tiger Morse", "slug_title": "tiger-morse", "date": "1967-01-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ridYtqbNPp6s1IJKWavVs351uQd.jpg", "actors": [], "comments": [], "recommandations_id": []}

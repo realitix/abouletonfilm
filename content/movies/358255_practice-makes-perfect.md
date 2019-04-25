@@ -1,1 +1,0 @@
-{"tmdb_id": 358255, "title": "Practice Makes Perfect", "original_title": "Practice Makes Perfect", "slug_title": "practice-makes-perfect", "date": "2013-08-15", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kody Fields (Clint)", "Alexis G. Zall (Sally)"], "comments": [], "recommandations_id": []}

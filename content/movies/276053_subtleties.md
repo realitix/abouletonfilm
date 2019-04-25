@@ -1,1 +1,0 @@
-{"tmdb_id": 276053, "title": "Subtleties", "original_title": "Subtleties", "slug_title": "subtleties", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uFBwsi8F4UV5L3DtPatCpp4nd5n.jpg", "actors": [], "comments": [], "recommandations_id": []}

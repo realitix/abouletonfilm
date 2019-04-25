@@ -1,1 +1,0 @@
-{"tmdb_id": 469020, "title": "Cat and Company", "original_title": "\u041a\u043e\u0442 \u0438 \u041a\u043e", "slug_title": "cat-and-company", "date": "1990-06-23", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kD5dGnVqxWVRx0hdeHYu3nIVj1C.jpg", "actors": [], "comments": [], "recommandations_id": []}

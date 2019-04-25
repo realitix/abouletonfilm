@@ -1,1 +1,0 @@
-{"tmdb_id": 189848, "title": "Felix the Cat Ducks His Duty", "original_title": "Felix the Cat Ducks His Duty", "slug_title": "felix-the-cat-ducks-his-duty", "date": "1927-05-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 594748, "title": "Seventeen", "original_title": "17\u624d\u306e\u590f-\u5c11\u5e74A-", "slug_title": "seventeen", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dBCnReFBbvoOP0ARJnh0p1fbwPm.jpg", "actors": [], "comments": [], "recommandations_id": []}

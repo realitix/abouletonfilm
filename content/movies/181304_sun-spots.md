@@ -1,1 +1,0 @@
-{"tmdb_id": 181304, "title": "Sun Spots", "original_title": "Guang ban", "slug_title": "sun-spots", "date": "2009-03-28", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5M2tMF4JC7amtSKfuDLqnPwk6qV.jpg", "actors": [], "comments": [], "recommandations_id": []}

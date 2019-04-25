@@ -1,1 +1,0 @@
-{"tmdb_id": 568499, "title": "We Learn About The Telephone", "original_title": "We Learn About The Telephone", "slug_title": "we-learn-about-the-telephone", "date": "1965-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 452983, "title": "Worth It", "original_title": "Worth It", "slug_title": "worth-it", "date": "2013-12-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cS9TvZPaGPzpan0RiIi7cLzrl9v.jpg", "actors": [], "comments": [], "recommandations_id": []}

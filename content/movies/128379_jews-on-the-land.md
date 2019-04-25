@@ -1,1 +1,0 @@
-{"tmdb_id": 128379, "title": "Jews on the Land", "original_title": "Evrei na zemle", "slug_title": "jews-on-the-land", "date": "1927-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ltmei98siRho7yU1C3e7HKQQ7iR.jpg", "actors": [], "comments": [], "recommandations_id": []}

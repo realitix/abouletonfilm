@@ -1,1 +1,0 @@
-{"tmdb_id": 265466, "title": "Khooni Murdaa", "original_title": "Khooni Murdaa", "slug_title": "khooni-murdaa", "date": "1989-02-23", "genre": "Myst\u00e8re / Horreur / Fantastique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sJGzEjPW5I4XMYSDuNz93838asY.jpg", "actors": [], "comments": [], "recommandations_id": []}

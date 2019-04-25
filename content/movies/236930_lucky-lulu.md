@@ -1,1 +1,0 @@
-{"tmdb_id": 236930, "title": "Lucky Lulu", "original_title": "Lucky Lulu", "slug_title": "lucky-lulu", "date": "1944-06-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

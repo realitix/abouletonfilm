@@ -1,1 +1,0 @@
-{"tmdb_id": 403514, "title": "San'75 Pachattar", "original_title": "San'75 Pachattar", "slug_title": "san-75-pachattar", "date": "2016-07-01", "genre": "Thriller / Drame", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nAyorIw0M8ylheJ3rSrKjcEY0PI.jpg", "actors": ["Kay Kay Menon (Govind)"], "comments": [], "recommandations_id": []}

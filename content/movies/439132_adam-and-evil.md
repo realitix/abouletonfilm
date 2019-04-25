@@ -1,1 +1,0 @@
-{"tmdb_id": 439132, "title": "Adam and Evil", "original_title": "Adam and Evil", "slug_title": "adam-and-evil", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

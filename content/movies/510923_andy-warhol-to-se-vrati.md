@@ -1,1 +1,0 @@
-{"tmdb_id": 510923, "title": "Andy Warhol To Se Vrati", "original_title": "Andy Warhol To Se Vrati", "slug_title": "andy-warhol-to-se-vrati", "date": "2016-04-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gYR0YFjGWvtCLo4xud9XXSHxiGN.jpg", "actors": [], "comments": [], "recommandations_id": []}

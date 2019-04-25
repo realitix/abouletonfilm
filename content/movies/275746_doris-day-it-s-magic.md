@@ -1,1 +1,0 @@
-{"tmdb_id": 275746, "title": "Doris Day: It's Magic", "original_title": "Doris Day: It's Magic", "slug_title": "doris-day-it-s-magic", "date": "2000-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

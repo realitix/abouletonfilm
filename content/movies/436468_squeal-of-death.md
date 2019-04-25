@@ -1,1 +1,0 @@
-{"tmdb_id": 436468, "title": "Squeal of Death", "original_title": "Squeal of Death", "slug_title": "squeal-of-death", "date": "1985-06-22", "genre": "", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Alex Winter (Howie / Various Characters)"], "comments": [], "recommandations_id": []}

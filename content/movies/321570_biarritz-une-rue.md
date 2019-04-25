@@ -1,1 +1,0 @@
-{"tmdb_id": 321570, "title": "Biarritz : une rue", "original_title": "Biarritz : une rue", "slug_title": "biarritz-une-rue", "date": "1900-04-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

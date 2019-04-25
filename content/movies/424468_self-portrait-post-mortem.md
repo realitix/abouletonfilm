@@ -1,1 +1,0 @@
-{"tmdb_id": 424468, "title": "Self Portrait Post Mortem", "original_title": "Self Portrait Post Mortem", "slug_title": "self-portrait-post-mortem", "date": "2002-11-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7z94QBj7nEqg7yfjj2iCVxWIEzA.jpg", "actors": [], "comments": [], "recommandations_id": []}

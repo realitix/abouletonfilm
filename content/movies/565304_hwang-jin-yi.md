@@ -1,1 +1,0 @@
-{"tmdb_id": 565304, "title": "Hwang Jin Yi", "original_title": "Hwang Jin Yi", "slug_title": "hwang-jin-yi", "date": "2015-12-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j0y7PgI8StcPQAIs0JE1qbwn8P0.jpg", "actors": [], "comments": [], "recommandations_id": []}

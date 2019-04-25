@@ -1,1 +1,0 @@
-{"tmdb_id": 326145, "title": "Fractal Healing: A Guided Meditation", "original_title": "Fractal Healing: A Guided Meditation", "slug_title": "fractal-healing-a-guided-meditation", "date": "2014-11-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

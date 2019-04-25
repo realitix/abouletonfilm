@@ -1,1 +1,0 @@
-{"tmdb_id": 517072, "title": "Fat Tuesday", "original_title": "Fat Tuesday", "slug_title": "fat-tuesday", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1EinyLcq61GkfiRPrbPgt1QWLRs.jpg", "actors": [], "comments": [], "recommandations_id": []}

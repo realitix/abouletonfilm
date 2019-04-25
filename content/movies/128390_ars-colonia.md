@@ -1,1 +1,0 @@
-{"tmdb_id": 128390, "title": "Ars colonia", "original_title": "Ars colonia", "slug_title": "ars-colonia", "date": "2011-01-01", "genre": "", "score": "4.6/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cPsmtmwWYvuE61f4Aip4zYqqZuk.jpg", "actors": [], "comments": [], "recommandations_id": [150935]}

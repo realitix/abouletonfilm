@@ -1,1 +1,0 @@
-{"tmdb_id": 320186, "title": "Andy Andrews: The Seven Decisions", "original_title": "Andy Andrews: The Seven Decisions", "slug_title": "andy-andrews-the-seven-decisions", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

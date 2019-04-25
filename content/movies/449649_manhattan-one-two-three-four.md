@@ -1,1 +1,0 @@
-{"tmdb_id": 449649, "title": "Manhattan One Two Three Four", "original_title": "Manhattan One Two Three Four", "slug_title": "manhattan-one-two-three-four", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aPBGW0e7HSMc8GUfSrAOWiQenqX.jpg", "actors": [], "comments": [], "recommandations_id": []}

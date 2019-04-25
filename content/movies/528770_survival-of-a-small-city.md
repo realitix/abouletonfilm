@@ -1,1 +1,0 @@
-{"tmdb_id": 528770, "title": "Survival of a Small City", "original_title": "Survival of a Small City", "slug_title": "survival-of-a-small-city", "date": "1987-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ftFT0FaYXNnHIm5CmkRt022hWLo.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 545460, "title": "Clube do Otimismo", "original_title": "Clube do Otimismo", "slug_title": "clube-do-otimismo", "date": "2018-08-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

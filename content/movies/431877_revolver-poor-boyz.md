@@ -1,1 +1,0 @@
-{"tmdb_id": 431877, "title": "Revolver: Poor Boyz", "original_title": "Revolver: Poor Boyz", "slug_title": "revolver-poor-boyz", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aWFQNMcs82m0q9lBZ0mSaf12RPB.jpg", "actors": [], "comments": [], "recommandations_id": []}

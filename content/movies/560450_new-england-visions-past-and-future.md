@@ -1,1 +1,0 @@
-{"tmdb_id": 560450, "title": "New England Visions Past and Future", "original_title": "New England Visions Past and Future", "slug_title": "new-england-visions-past-and-future", "date": "1976-06-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

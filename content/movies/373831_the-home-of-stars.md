@@ -1,1 +1,0 @@
-{"tmdb_id": 373831, "title": "The Home of Stars", "original_title": "The Home of Stars", "slug_title": "the-home-of-stars", "date": "2010-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

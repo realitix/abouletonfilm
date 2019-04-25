@@ -1,1 +1,0 @@
-{"tmdb_id": 527752, "title": "Att h\u00e4nga en kompis", "original_title": "Att h\u00e4nga en kompis", "slug_title": "att-hanga-en-kompis", "date": "2001-01-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Nicolas Kolovos ()", "Mattias Bloom ()"], "comments": [], "recommandations_id": []}

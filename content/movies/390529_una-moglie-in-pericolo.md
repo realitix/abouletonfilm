@@ -1,1 +1,0 @@
-{"tmdb_id": 390529, "title": "Una moglie in pericolo", "original_title": "Una moglie in pericolo", "slug_title": "una-moglie-in-pericolo", "date": "1939-06-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Marie Glory ()", "Antonio Centa ()", "Carlo Lombardi ()", "Laura Solari ()"], "comments": [], "recommandations_id": []}

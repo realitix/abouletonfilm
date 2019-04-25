@@ -1,1 +1,0 @@
-{"tmdb_id": 309437, "title": "Seville: Jewel of Andalusia", "original_title": "Seville: Jewel of Andalusia", "slug_title": "seville-jewel-of-andalusia", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

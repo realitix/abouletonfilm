@@ -1,1 +1,0 @@
-{"tmdb_id": 566044, "title": "Popful Mail", "original_title": "\u307d\u3063\u3077\u308b\u30e1\u30a4\u30eb", "slug_title": "popful-mail", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yM0nFcsdX53yMoOtsCmnfN4ZzpY.jpg", "actors": [], "comments": [], "recommandations_id": []}

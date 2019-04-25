@@ -1,1 +1,0 @@
-{"tmdb_id": 393193, "title": "Wal(l)zen", "original_title": "Wal(l)zen", "slug_title": "wal-l-zen", "date": "1989-01-01", "genre": "Documentaire", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9AovfP460lwkw4hgqzTpyqs8xQA.jpg", "actors": [], "comments": [], "recommandations_id": []}

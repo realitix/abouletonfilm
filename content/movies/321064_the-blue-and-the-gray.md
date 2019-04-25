@@ -1,1 +1,0 @@
-{"tmdb_id": 321064, "title": "The Blue and the Gray", "original_title": "The Blue and the Gray", "slug_title": "the-blue-and-the-gray", "date": "1935-03-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

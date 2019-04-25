@@ -1,1 +1,0 @@
-{"tmdb_id": 242243, "title": "Chasing the Northern Lights", "original_title": "Chasing the Northern Lights", "slug_title": "chasing-the-northern-lights", "date": "2013-07-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

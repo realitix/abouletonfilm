@@ -1,1 +1,0 @@
-{"tmdb_id": 233059, "title": "The Two Roses", "original_title": "The Two Roses", "slug_title": "the-two-roses", "date": "1910-07-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Marie Eline (Tony's Son)", "Frank Hall Crane (Tony Prolo)", "Anna Rosemond (Tony's Wife)"], "comments": [], "recommandations_id": []}

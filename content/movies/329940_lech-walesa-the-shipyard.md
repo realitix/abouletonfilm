@@ -1,1 +1,0 @@
-{"tmdb_id": 329940, "title": "Lech Walesa: The Shipyard", "original_title": "Lech Walesa: The Shipyard", "slug_title": "lech-walesa-the-shipyard", "date": "2014-10-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mAO77RKC3im42g7gCErnpHvJ7K1.jpg", "actors": [], "comments": [], "recommandations_id": []}

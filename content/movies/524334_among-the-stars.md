@@ -1,1 +1,0 @@
-{"tmdb_id": 524334, "title": "Among the Stars", "original_title": "\u0dad\u0dbb\u0dd4 \u0d85\u0dad\u0dbb", "slug_title": "among-the-stars", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2p4FaN5yFpthaw50fDvCHAlvDfM.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 271611, "title": "Rugrats: Outdoor Shenanigans", "original_title": "Rugrats: Outdoor Shenanigans", "slug_title": "rugrats-outdoor-shenanigans", "date": "2014-05-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

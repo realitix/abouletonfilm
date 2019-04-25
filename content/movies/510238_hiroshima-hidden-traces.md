@@ -1,1 +1,0 @@
-{"tmdb_id": 510238, "title": "Hiroshima: Hidden Traces", "original_title": "Hiroshima: Hidden Traces", "slug_title": "hiroshima-hidden-traces", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qLGYYPBI4RYNy6oKAP6BvqCYKgR.jpg", "actors": [], "comments": [], "recommandations_id": []}

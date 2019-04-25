@@ -1,1 +1,0 @@
-{"tmdb_id": 490891, "title": "King of the Ocean", "original_title": "King of the Ocean", "slug_title": "king-of-the-ocean", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uQ2PveVqJaUnFl25imuZgQn2umN.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 453052, "title": "A City at Chandigarh", "original_title": "Une ville \u00e0 Chandigarh", "slug_title": "a-city-at-chandigarh", "date": "1966-10-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8rLUDhroM6EHkr77WY2jGeHmyma.jpg", "actors": [], "comments": [], "recommandations_id": []}

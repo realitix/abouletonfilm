@@ -1,1 +1,0 @@
-{"tmdb_id": 596407, "title": "Last Day Of Summer", "original_title": "Last Day Of Summer", "slug_title": "last-day-of-summer", "date": "2017-06-16", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["George Kora ()"], "comments": [], "recommandations_id": []}

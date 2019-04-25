@@ -1,1 +1,0 @@
-{"tmdb_id": 165482, "title": "Hell's Kitten", "original_title": "Hell's Kitten", "slug_title": "hell-s-kitten", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sandy Dempsey ()", "John Keith ()", "Suzanne Fields ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 423848, "title": "Show Me the Way to Go Home", "original_title": "Show Me the Way to Go Home", "slug_title": "show-me-the-way-to-go-home", "date": "1932-01-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 368244, "title": "G'Day Australia", "original_title": "G'Day Australia", "slug_title": "g-day-australia", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

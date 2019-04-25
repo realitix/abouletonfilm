@@ -1,1 +1,0 @@
-{"tmdb_id": 169201, "title": "Smurfarna - Den gyllene smurfen", "original_title": "Smurfarna - Den gyllene smurfen", "slug_title": "smurfarna-den-gyllene-smurfen", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eSNM25aUyuH48u07HMzS19q7lAh.jpg", "actors": [], "comments": [], "recommandations_id": []}

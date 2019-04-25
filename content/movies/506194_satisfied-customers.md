@@ -1,1 +1,0 @@
-{"tmdb_id": 506194, "title": "Satisfied Customers", "original_title": "Satisfied Customers", "slug_title": "satisfied-customers", "date": "1954-02-04", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Roy Halee (Heckle / Jeckle (voice))"], "comments": [], "recommandations_id": []}

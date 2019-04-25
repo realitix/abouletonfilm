@@ -1,1 +1,0 @@
-{"tmdb_id": 214231, "title": "Fort Knox: Secrets Revealed", "original_title": "Fort Knox: Secrets Revealed", "slug_title": "fort-knox-secrets-revealed", "date": "2007-11-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

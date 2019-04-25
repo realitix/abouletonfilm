@@ -1,1 +1,0 @@
-{"tmdb_id": 454741, "title": "Tiger Tiger", "original_title": "Tiger Tiger", "slug_title": "tiger-tiger", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

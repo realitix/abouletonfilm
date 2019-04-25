@@ -1,1 +1,0 @@
-{"tmdb_id": 274911, "title": "Carry Me Back", "original_title": "Carry Me Back", "slug_title": "carry-me-back", "date": "1982-06-01", "genre": "Com\u00e9die / Drame", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eTkWrnNd4OB4Oe1ZPWy2r8BYkvc.jpg", "actors": [], "comments": [], "recommandations_id": []}

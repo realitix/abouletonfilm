@@ -1,1 +1,0 @@
-{"tmdb_id": 543809, "title": "Lifeboat", "original_title": "Lifeboat", "slug_title": "lifeboat", "date": "2018-05-24", "genre": "Documentaire", "score": "7.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uPUSa9Gmujp8LrT5qKx5W2DoGcc.jpg", "actors": [], "comments": [], "recommandations_id": [510258, 543803, 488740, 487625]}

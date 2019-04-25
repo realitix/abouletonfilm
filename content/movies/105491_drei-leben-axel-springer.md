@@ -1,1 +1,0 @@
-{"tmdb_id": 105491, "title": "Drei Leben: Axel Springer", "original_title": "Drei Leben: Axel Springer", "slug_title": "drei-leben-axel-springer", "date": "2012-05-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ajJcfFcNA2o07fiPLUYvttlUzqL.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 513139, "title": "See You after Life", "original_title": "\u518d\u770b\u6211\u4e00\u773c", "slug_title": "see-you-after-life", "date": "2017-10-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

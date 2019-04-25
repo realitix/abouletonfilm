@@ -1,1 +1,0 @@
-{"tmdb_id": 309457, "title": "Underdog: Nemesis", "original_title": "Underdog: Nemesis", "slug_title": "underdog-nemesis", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

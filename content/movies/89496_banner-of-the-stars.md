@@ -1,1 +1,0 @@
-{"tmdb_id": 89496, "title": "Banner of the Stars", "original_title": "Banner of the Stars", "slug_title": "banner-of-the-stars", "date": "2001-07-04", "genre": "Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hBhv9c9fnc8HRJZSDw5OHdoBhbd.jpg", "actors": [], "comments": [], "recommandations_id": []}

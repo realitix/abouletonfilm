@@ -1,1 +1,0 @@
-{"tmdb_id": 404311, "title": "Color Woogie", "original_title": "Color Woogie", "slug_title": "color-woogie", "date": "1954-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

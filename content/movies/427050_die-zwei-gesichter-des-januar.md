@@ -1,1 +1,0 @@
-{"tmdb_id": 427050, "title": "Die Zwei Gesichter Des Januar", "original_title": "Die Zwei Gesichter Des Januar", "slug_title": "die-zwei-gesichter-des-januar", "date": "1986-04-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

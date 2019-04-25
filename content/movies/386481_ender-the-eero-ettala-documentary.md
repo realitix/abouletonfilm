@@ -1,1 +1,0 @@
-{"tmdb_id": 386481, "title": "Ender - The Eero Ettala Documentary", "original_title": "Ender - The Eero Ettala Documentary", "slug_title": "ender-the-eero-ettala-documentary", "date": "2015-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

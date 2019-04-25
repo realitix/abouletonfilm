@@ -1,1 +1,0 @@
-{"tmdb_id": 308392, "title": "Sexy Nachbarschaftshilfe", "original_title": "Sexy Nachbarschaftshilfe", "slug_title": "sexy-nachbarschaftshilfe", "date": "2006-06-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9sIKbKelMLq6VimJHalLTKq1ish.jpg", "actors": [], "comments": [], "recommandations_id": []}

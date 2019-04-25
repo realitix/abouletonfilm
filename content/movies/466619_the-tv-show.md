@@ -1,1 +1,0 @@
-{"tmdb_id": 466619, "title": "The TV Show", "original_title": "The TV Show", "slug_title": "the-tv-show", "date": "2009-12-07", "genre": "Animation / Com\u00e9die / Musique", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xh1u6qlFBBdkfkcjmPoHGMA0xyt.jpg", "actors": [], "comments": [], "recommandations_id": []}

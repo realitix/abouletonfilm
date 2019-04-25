@@ -1,1 +1,0 @@
-{"tmdb_id": 580572, "title": "Good Bye Sida", "original_title": "Good Bye Sida", "slug_title": "good-bye-sida", "date": "2010-08-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xfkBCVKzLraSH3dttsyVca3wqkb.jpg", "actors": [], "comments": [], "recommandations_id": []}

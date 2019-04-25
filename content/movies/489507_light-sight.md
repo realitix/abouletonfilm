@@ -1,1 +1,0 @@
-{"tmdb_id": 489507, "title": "Light Sight", "original_title": "Light Sight", "slug_title": "light-sight", "date": "", "genre": "Drame / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xAhSFOm9QXcJ2w4hnsVJ4RBVFYp.jpg", "actors": [], "comments": [], "recommandations_id": []}

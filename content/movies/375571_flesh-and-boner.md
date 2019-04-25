@@ -1,1 +1,0 @@
-{"tmdb_id": 375571, "title": "Flesh And Boner", "original_title": "Flesh And Boner", "slug_title": "flesh-and-boner", "date": "1994-01-02", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Tianna Taylor ()", "Steve Drake ()", "Stacey Nichols ()"], "comments": [], "recommandations_id": []}

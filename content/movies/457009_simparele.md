@@ -1,1 +1,1 @@
-{"tmdb_id": 457009, "title": "Simparel\u00e9", "original_title": "Simparel\u00e9", "slug_title": "simparele", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 457009, "title": "Simparel\u00e9", "original_title": "Simparel\u00e9", "slug_title": "simparele", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,1 +1,0 @@
-{"tmdb_id": 55484, "title": "An Islamic History of Europe", "original_title": "An Islamic History of Europe", "slug_title": "an-islamic-history-of-europe", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

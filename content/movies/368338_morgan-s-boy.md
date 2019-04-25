@@ -1,1 +1,1 @@
-{"tmdb_id": 368338, "title": "Morgan's Boy", "original_title": "Morgan's Boy", "slug_title": "morgan-s-boy", "date": "", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 368338, "title": "Morgan's Boy", "original_title": "Morgan's Boy", "slug_title": "morgan-s-boy", "date": "", "genre": [""], "score": "6.0/10", "synopsis": "British TV-series", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

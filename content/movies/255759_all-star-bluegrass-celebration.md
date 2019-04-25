@@ -1,1 +1,0 @@
-{"tmdb_id": 255759, "title": "All-Star Bluegrass Celebration", "original_title": "All-Star Bluegrass Celebration", "slug_title": "all-star-bluegrass-celebration", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7kjVwZ4H5mSq9mTSxTu7TYZ1UNh.jpg", "actors": [], "comments": [], "recommandations_id": []}

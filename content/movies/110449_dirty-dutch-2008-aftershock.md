@@ -1,1 +1,0 @@
-{"tmdb_id": 110449, "title": "Dirty Dutch 2008 Aftershock", "original_title": "Dirty Dutch 2008 Aftershock", "slug_title": "dirty-dutch-2008-aftershock", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7m54R6p95iKg5RyuZ4EYsnJ29YZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

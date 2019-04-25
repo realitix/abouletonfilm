@@ -1,1 +1,0 @@
-{"tmdb_id": 489085, "title": "Down Friday Street", "original_title": "Down Friday Street", "slug_title": "down-friday-street", "date": "1966-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x65VMwq5Y6rFlF2CPcsAlVpmzuU.jpg", "actors": [], "comments": [], "recommandations_id": []}

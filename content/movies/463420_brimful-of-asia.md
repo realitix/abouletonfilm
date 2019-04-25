@@ -1,1 +1,0 @@
-{"tmdb_id": 463420, "title": "Brimful of Asia", "original_title": "Brimful of Asia", "slug_title": "brimful-of-asia", "date": "1998-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Talvin Singh (Himself)"], "comments": [], "recommandations_id": []}

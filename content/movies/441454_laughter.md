@@ -1,1 +1,0 @@
-{"tmdb_id": 441454, "title": "Laughter", "original_title": "Laughter", "slug_title": "laughter", "date": "", "genre": "", "score": "1.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

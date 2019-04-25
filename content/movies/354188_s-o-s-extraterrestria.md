@@ -1,1 +1,0 @@
-{"tmdb_id": 354188, "title": "S.O.S. Extraterrestria", "original_title": "S.O.S. Extraterrestria", "slug_title": "s-o-s-extraterrestria", "date": "1993-08-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5qVVdcDXac1gkQD4CI48aoorbi.jpg", "actors": ["Mara Mattuschka ()"], "comments": [], "recommandations_id": []}

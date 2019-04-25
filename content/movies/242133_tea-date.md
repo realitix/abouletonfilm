@@ -1,1 +1,0 @@
-{"tmdb_id": 242133, "title": "Tea Date", "original_title": "Tea Date", "slug_title": "tea-date", "date": "2005-10-07", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bae Doo-na (Sunhee)"], "comments": [], "recommandations_id": []}

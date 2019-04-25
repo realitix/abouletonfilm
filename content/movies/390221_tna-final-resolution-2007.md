@@ -1,1 +1,0 @@
-{"tmdb_id": 390221, "title": "TNA Final Resolution 2007", "original_title": "TNA Final Resolution 2007", "slug_title": "tna-final-resolution-2007", "date": "2007-01-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/75PoEoAOGnkMNyxOv9MfIYLGNLq.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 113380, "title": "Into Iceland's Volcano", "original_title": "Into Iceland's Volcano", "slug_title": "into-iceland-s-volcano", "date": "2011-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/NPurzTJx0u5FdXxdJ9WcGwUDd3.jpg", "actors": [], "comments": [], "recommandations_id": []}

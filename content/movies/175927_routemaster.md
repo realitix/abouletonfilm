@@ -1,1 +1,0 @@
-{"tmdb_id": 175927, "title": "Routemaster", "original_title": "Routemaster", "slug_title": "routemaster", "date": "1999-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cxFvBJVbCeYHLFS3R64JPUJ62nJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

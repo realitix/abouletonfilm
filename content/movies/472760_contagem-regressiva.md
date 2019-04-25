@@ -1,1 +1,0 @@
-{"tmdb_id": 472760, "title": "Contagem regressiva", "original_title": "Contagem regressiva", "slug_title": "contagem-regressiva", "date": "2016-08-27", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3DmkEbS5XLNsBzACrO8pHGX5Gkj.jpg", "actors": [], "comments": [], "recommandations_id": []}

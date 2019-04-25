@@ -1,1 +1,0 @@
-{"tmdb_id": 346299, "title": "Woods Baseball", "original_title": "Woods Baseball", "slug_title": "woods-baseball", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

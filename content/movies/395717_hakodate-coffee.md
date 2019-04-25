@@ -1,1 +1,0 @@
-{"tmdb_id": 395717, "title": "Hakodate Coffee", "original_title": "\u51fd\u9928\u73c8\u7432 HAKODATE Coffee", "slug_title": "hakodate-coffee", "date": "2016-03-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ntCdlI3cOVNWTWDKKHPpGMI39z9.jpg", "actors": [], "comments": [], "recommandations_id": []}

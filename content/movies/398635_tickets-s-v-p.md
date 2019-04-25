@@ -1,1 +1,0 @@
-{"tmdb_id": 398635, "title": "Tickets s.v.p", "original_title": "Tickets s.v.p", "slug_title": "tickets-s-v-p", "date": "1973-01-01", "genre": "Animation / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4hWdQ2B9TW6UJF4xK4EwzUlXzo0.jpg", "actors": ["Marc Bri\u00e8re (The Man)"], "comments": [], "recommandations_id": []}

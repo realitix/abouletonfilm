@@ -1,1 +1,0 @@
-{"tmdb_id": 233126, "title": "Ivar Knudsen", "original_title": "Ivar Knudsen", "slug_title": "ivar-knudsen", "date": "1913-11-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

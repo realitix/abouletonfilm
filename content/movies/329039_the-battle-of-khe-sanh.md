@@ -1,1 +1,0 @@
-{"tmdb_id": 329039, "title": "The Battle Of Khe Sanh", "original_title": "The Battle Of Khe Sanh", "slug_title": "the-battle-of-khe-sanh", "date": "1969-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

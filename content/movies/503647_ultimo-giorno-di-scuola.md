@@ -1,1 +1,0 @@
-{"tmdb_id": 503647, "title": "Ultimo giorno di scuola", "original_title": "Ultimo giorno di scuola", "slug_title": "ultimo-giorno-di-scuola", "date": "1980-02-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

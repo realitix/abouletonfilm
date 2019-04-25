@@ -1,1 +1,0 @@
-{"tmdb_id": 199900, "title": "Negociador da Vida", "original_title": "Negociador da Vida", "slug_title": "negociador-da-vida", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kNjtmzU4CqtsHp2djBPGtSPX4Dy.jpg", "actors": [], "comments": [], "recommandations_id": []}

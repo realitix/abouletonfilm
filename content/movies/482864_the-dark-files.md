@@ -1,1 +1,0 @@
-{"tmdb_id": 482864, "title": "The Dark Files", "original_title": "The Dark Files", "slug_title": "the-dark-files", "date": "2017-09-08", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zRtzkooLoY3sZHMYhswC7zP5dIR.jpg", "actors": [], "comments": [], "recommandations_id": []}

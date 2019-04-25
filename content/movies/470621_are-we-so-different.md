@@ -1,1 +1,0 @@
-{"tmdb_id": 470621, "title": "Are We So Different", "original_title": "Amra Ki Etoi Bhinno", "slug_title": "are-we-so-different", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

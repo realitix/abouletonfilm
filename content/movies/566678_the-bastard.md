@@ -1,1 +1,0 @@
-{"tmdb_id": 566678, "title": "The Bastard", "original_title": "Le b\u00e2tard", "slug_title": "the-bastard", "date": "1983-06-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iYNXbbTTBhTiBFtz2JMiCGbzccp.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 310230, "title": "Trio Fontenay", "original_title": "Trio Fontenay", "slug_title": "trio-fontenay", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

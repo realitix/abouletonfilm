@@ -1,1 +1,0 @@
-{"tmdb_id": 358715, "title": "Shorts From the Underground", "original_title": "Shorts From the Underground", "slug_title": "shorts-from-the-underground", "date": "2002-09-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ken Jacobs (himself)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 213228, "title": "Jekyll and Hyde: The True Story", "original_title": "Jekyll and Hyde: The True Story", "slug_title": "jekyll-and-hyde-the-true-story", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

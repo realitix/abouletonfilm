@@ -1,1 +1,0 @@
-{"tmdb_id": 312580, "title": "Del Monaco: Andrea Chenier", "original_title": "Del Monaco: Andrea Chenier", "slug_title": "del-monaco-andrea-chenier", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

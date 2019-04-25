@@ -1,1 +1,0 @@
-{"tmdb_id": 381697, "title": "Calligraffiti", "original_title": "\u30ab\u30ea\u30b0\u30e9\u30d5\u30a3\u30c6\u30a3\u30fc", "slug_title": "calligraffiti", "date": "1982-12-05", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gpuk13IGqQJJOqsIUJUytMnF3bS.jpg", "actors": [], "comments": [], "recommandations_id": []}

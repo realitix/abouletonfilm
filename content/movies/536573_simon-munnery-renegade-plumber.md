@@ -1,1 +1,0 @@
-{"tmdb_id": 536573, "title": "Simon Munnery - Renegade Plumber", "original_title": "Simon Munnery - Renegade Plumber", "slug_title": "simon-munnery-renegade-plumber", "date": "2018-07-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Simon Munnery ()"], "comments": [], "recommandations_id": []}

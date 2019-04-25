@@ -1,1 +1,0 @@
-{"tmdb_id": 204204, "title": "The Eighth Day of the Week", "original_title": "\u00d3smy dzien tygodnia", "slug_title": "the-eighth-day-of-the-week", "date": "1958-08-26", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5ENnQudiRO1217fsa9AQ5Fz110L.jpg", "actors": [], "comments": [], "recommandations_id": []}

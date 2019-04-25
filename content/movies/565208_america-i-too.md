@@ -1,1 +1,0 @@
-{"tmdb_id": 565208, "title": "America; I Too", "original_title": "America; I Too", "slug_title": "america-i-too", "date": "2017-03-06", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Barkhad Abdi ()"], "comments": [], "recommandations_id": []}

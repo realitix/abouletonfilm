@@ -1,1 +1,0 @@
-{"tmdb_id": 271546, "title": "Kiri Wai: Inner Skin", "original_title": "Kiri Wai: Inner Skin", "slug_title": "kiri-wai-inner-skin", "date": "2010-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

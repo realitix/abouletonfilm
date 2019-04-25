@@ -1,1 +1,0 @@
-{"tmdb_id": 524839, "title": "Flash Boys", "original_title": "Flash Boys", "slug_title": "flash-boys", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

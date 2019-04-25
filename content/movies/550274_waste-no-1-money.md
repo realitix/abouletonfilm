@@ -1,1 +1,0 @@
-{"tmdb_id": 550274, "title": "Waste No.1 Money", "original_title": "Waste No.1 Money", "slug_title": "waste-no-1-money", "date": "2017-07-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rebecca Clamp ()"], "comments": [], "recommandations_id": []}

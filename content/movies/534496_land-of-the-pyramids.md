@@ -1,1 +1,0 @@
-{"tmdb_id": 534496, "title": "Land of the Pyramids", "original_title": "Land of the Pyramids", "slug_title": "land-of-the-pyramids", "date": "1951-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

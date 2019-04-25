@@ -1,1 +1,0 @@
-{"tmdb_id": 145060, "title": "Between Bears", "original_title": "Between Bears", "slug_title": "between-bears", "date": "2010-01-01", "genre": "Fantastique / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/45ZC9b6H53rfOxDECrJXPWqWSra.jpg", "actors": ["Daniela Spector ()"], "comments": [], "recommandations_id": []}

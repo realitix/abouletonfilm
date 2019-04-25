@@ -1,1 +1,0 @@
-{"tmdb_id": 446788, "title": "Writing the land", "original_title": "Writing the land", "slug_title": "writing-the-land", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Larry Grant (himself)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 274534, "title": "Jungle Rot: Live in Germany", "original_title": "Jungle Rot: Live in Germany", "slug_title": "jungle-rot-live-in-germany", "date": "2006-11-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

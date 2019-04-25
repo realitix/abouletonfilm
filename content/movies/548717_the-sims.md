@@ -1,1 +1,1 @@
-{"tmdb_id": 548717, "title": "The Sims", "original_title": "The Sims", "slug_title": "the-sims", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 548717, "title": "The Sims", "original_title": "The Sims", "slug_title": "the-sims", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "This movie is based on the video game the Sims", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

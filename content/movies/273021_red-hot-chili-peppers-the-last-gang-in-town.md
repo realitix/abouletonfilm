@@ -1,1 +1,0 @@
-{"tmdb_id": 273021, "title": "Red Hot Chili Peppers: The Last Gang in Town", "original_title": "Red Hot Chili Peppers: The Last Gang in Town", "slug_title": "red-hot-chili-peppers-the-last-gang-in-town", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

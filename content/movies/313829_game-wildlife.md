@@ -1,1 +1,0 @@
-{"tmdb_id": 313829, "title": "Game/Wildlife", "original_title": "Divjad", "slug_title": "game-wildlife", "date": "1965-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ntWN7wgzwxghA8CH0D32KK45dnv.jpg", "actors": [], "comments": [], "recommandations_id": []}

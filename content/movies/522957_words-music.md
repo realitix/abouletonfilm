@@ -1,1 +1,0 @@
-{"tmdb_id": 522957, "title": "Words & Music", "original_title": "Words & Music", "slug_title": "words-music", "date": "1931-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ruth Etting ()", "Leo Gorcey ()"], "comments": [], "recommandations_id": []}

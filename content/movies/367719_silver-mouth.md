@@ -1,1 +1,0 @@
-{"tmdb_id": 367719, "title": "Silver Mouth", "original_title": "S\u00f8lvmunn", "slug_title": "silver-mouth", "date": "1981-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jon Skolmen (Father)", "Tobias Asphaug (Fredrik)"], "comments": [], "recommandations_id": []}

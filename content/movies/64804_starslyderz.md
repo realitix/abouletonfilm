@@ -1,1 +1,0 @@
-{"tmdb_id": 64804, "title": "Starslyderz", "original_title": "Starslyderz", "slug_title": "starslyderz", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

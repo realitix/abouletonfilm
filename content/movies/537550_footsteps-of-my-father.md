@@ -1,1 +1,0 @@
-{"tmdb_id": 537550, "title": "Footsteps of My Father", "original_title": "Footsteps of My Father", "slug_title": "footsteps-of-my-father", "date": "2018-06-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hcvGDGqF0Hn7gfYLmvwhm2hsf8O.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 274092, "title": "Historia de un ballet", "original_title": "Historia de un ballet", "slug_title": "historia-de-un-ballet", "date": "1964-08-25", "genre": "Documentaire", "score": "4.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vutSZMrAqsz5EUrnO4Xv9IMrvo0.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 561903, "title": "Oi! The Video - Part Two", "original_title": "Oi! The Video - Part Two", "slug_title": "oi-the-video-part-two", "date": "1996-01-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nzBJeBU3HnSmZD5piuRAZJKJ4OY.jpg", "actors": [], "comments": [], "recommandations_id": []}

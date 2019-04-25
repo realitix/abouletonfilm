@@ -1,1 +1,0 @@
-{"tmdb_id": 468588, "title": "Science Confirms the Bible", "original_title": "Science Confirms the Bible", "slug_title": "science-confirms-the-bible", "date": "2012-12-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ceqPPO9DhE90bs4EE2l5qZYg0RS.jpg", "actors": [], "comments": [], "recommandations_id": []}

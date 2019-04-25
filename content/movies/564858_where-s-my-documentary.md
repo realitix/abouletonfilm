@@ -1,1 +1,0 @@
-{"tmdb_id": 564858, "title": "Where's My Documentary?", "original_title": "Where's My Documentary?", "slug_title": "where-s-my-documentary", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Brendan Carney (Himself)"], "comments": [], "recommandations_id": []}

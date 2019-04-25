@@ -1,1 +1,0 @@
-{"tmdb_id": 331307, "title": "Bloody Border", "original_title": "Bloody Border", "slug_title": "bloody-border", "date": "2013-10-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gQzcgQ3X9hlrtmIwF1LrehVzB96.jpg", "actors": [], "comments": [], "recommandations_id": []}

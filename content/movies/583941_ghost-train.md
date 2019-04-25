@@ -1,1 +1,0 @@
-{"tmdb_id": 583941, "title": "Ghost Train", "original_title": "Ghost Train", "slug_title": "ghost-train", "date": "", "genre": "Horreur / Myst\u00e8re", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

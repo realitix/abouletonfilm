@@ -1,1 +1,0 @@
-{"tmdb_id": 391301, "title": "Phi Slama Jama", "original_title": "Phi Slama Jama", "slug_title": "phi-slama-jama", "date": "2016-10-04", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bWR78hej8vApgflMRAru91gb9A1.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 516783, "title": "Cybergeddon", "original_title": "Cybergeddon", "slug_title": "cybergeddon", "date": "2012-09-25", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8y0RM1xUuQXSOLJCZKvb661zA7J.jpg", "actors": ["Missy Peregrym (Chloe Jocelyn)"], "comments": [], "recommandations_id": []}

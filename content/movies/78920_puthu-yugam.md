@@ -1,1 +1,0 @@
-{"tmdb_id": 78920, "title": "Puthu Yugam", "original_title": "Puthu Yugam", "slug_title": "puthu-yugam", "date": "1985-02-22", "genre": "Action / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Vijayakanth ()", "K R Vijaya ()", "Sivakumar ()", "Suresh ()", "Pandari Bai ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 515186, "title": "The Little Mouse", "original_title": "Myshki-malyshki", "slug_title": "the-little-mouse", "date": "1982-04-02", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

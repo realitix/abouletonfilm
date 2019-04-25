@@ -1,1 +1,0 @@
-{"tmdb_id": 37741, "title": "The Christmas Story Keepers", "original_title": "The Christmas Story Keepers", "slug_title": "the-christmas-story-keepers", "date": "1998-07-01", "genre": "Animation", "score": "4.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v5HxxjEvlkVyGF1pYdJ7H1MdaJF.jpg", "actors": [], "comments": [], "recommandations_id": []}

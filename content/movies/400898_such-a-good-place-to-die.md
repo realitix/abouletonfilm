@@ -1,1 +1,0 @@
-{"tmdb_id": 400898, "title": "such a good place to die", "original_title": "such a good place to die", "slug_title": "such-a-good-place-to-die", "date": "2015-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7Mq78dc6E0BwW7tfbIQMDlGWQEK.jpg", "actors": [], "comments": [], "recommandations_id": []}

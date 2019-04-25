@@ -1,1 +1,0 @@
-{"tmdb_id": 470267, "title": "Kaalicharan", "original_title": "Kaalicharan", "slug_title": "kaalicharan", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

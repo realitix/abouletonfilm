@@ -1,1 +1,0 @@
-{"tmdb_id": 152520, "title": "Streiftog i Bergen Del 2", "original_title": "Streiftog i Bergen Del 2", "slug_title": "streiftog-i-bergen-del-2", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5GIxKsZPLVXkBz2YteXAgHjVRTx.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 468458, "title": "Black and White Burlesque", "original_title": "Black and White Burlesque", "slug_title": "black-and-white-burlesque", "date": "1960-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

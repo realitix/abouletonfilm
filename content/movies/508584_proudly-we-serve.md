@@ -1,1 +1,0 @@
-{"tmdb_id": 508584, "title": "Proudly We Serve", "original_title": "Proudly We Serve", "slug_title": "proudly-we-serve", "date": "1944-09-23", "genre": "Guerre", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Andrea King (Sgt. Christy Marlowe)", "Warren Douglas (Sgt. Tex Gordon)"], "comments": [], "recommandations_id": []}

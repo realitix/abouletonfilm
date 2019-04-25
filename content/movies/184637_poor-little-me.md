@@ -1,1 +1,0 @@
-{"tmdb_id": 184637, "title": "Poor Little Me", "original_title": "Poor Little Me", "slug_title": "poor-little-me", "date": "1935-05-10", "genre": "Animation", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3FtyUD5EYKzEiOdx6NBV22ZxgLl.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 561731, "title": "Pele de Luz", "original_title": "Pele de Luz", "slug_title": "pele-de-luz", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/grZUmhZAJh494Np1F60OWKJUwZf.jpg", "actors": [], "comments": [], "recommandations_id": []}

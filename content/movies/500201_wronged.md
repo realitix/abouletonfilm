@@ -1,1 +1,0 @@
-{"tmdb_id": 500201, "title": "Wronged", "original_title": "Wronged", "slug_title": "wronged", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rFjqvMjqMyx8DUdU2f7s3H0UupG.jpg", "actors": [], "comments": [], "recommandations_id": []}

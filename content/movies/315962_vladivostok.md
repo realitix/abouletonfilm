@@ -1,1 +1,0 @@
-{"tmdb_id": 315962, "title": "Vladivostok!", "original_title": "Vladivostok!", "slug_title": "vladivostok", "date": "2008-09-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7L6oZMQM4MzuFCswP8zufT6k9Nk.jpg", "actors": [], "comments": [], "recommandations_id": []}

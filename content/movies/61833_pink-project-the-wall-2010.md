@@ -1,1 +1,0 @@
-{"tmdb_id": 61833, "title": "Pink Project - The Wall 2010", "original_title": "Pink Project - The Wall 2010", "slug_title": "pink-project-the-wall-2010", "date": "2011-02-01", "genre": "Musique", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zhuq1e4D8XCvdY9I9hDT787sV9D.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 595574, "title": "Enforcement Hours", "original_title": "Enforcement Hours", "slug_title": "enforcement-hours", "date": "2018-08-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/60q23gPStdRvkjxDqlFZMAK3k19.jpg", "actors": [], "comments": [], "recommandations_id": []}

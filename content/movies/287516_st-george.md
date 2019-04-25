@@ -1,1 +1,0 @@
-{"tmdb_id": 287516, "title": "St.George", "original_title": "St.George", "slug_title": "st-george", "date": "1995-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qEyJw97aH2ewnBr6KvasMp8tNds.jpg", "actors": [], "comments": [], "recommandations_id": []}

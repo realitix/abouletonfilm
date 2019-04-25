@@ -1,1 +1,0 @@
-{"tmdb_id": 453786, "title": "Spider and the Fly", "original_title": "Spider and the Fly", "slug_title": "spider-and-the-fly", "date": "1903-04-22", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

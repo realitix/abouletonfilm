@@ -1,1 +1,0 @@
-{"tmdb_id": 407813, "title": "Serpentine Dance", "original_title": "Dansa Serpentina", "slug_title": "serpentine-dance", "date": "1900-07-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j1QeEa8yVcfhnmT9D4XetlgMmN8.jpg", "actors": [], "comments": [], "recommandations_id": []}

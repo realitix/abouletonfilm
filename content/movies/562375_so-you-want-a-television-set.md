@@ -1,1 +1,0 @@
-{"tmdb_id": 562375, "title": "So You Want a Television Set", "original_title": "So You Want a Television Set", "slug_title": "so-you-want-a-television-set", "date": "1953-05-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["George O'Hanlon ()"], "comments": [], "recommandations_id": []}

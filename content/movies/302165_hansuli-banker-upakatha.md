@@ -1,1 +1,0 @@
-{"tmdb_id": 302165, "title": "Hansuli Banker Upakatha", "original_title": "Hansuli Banker Upakatha", "slug_title": "hansuli-banker-upakatha", "date": "1962-03-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

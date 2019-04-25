@@ -1,1 +1,0 @@
-{"tmdb_id": 351209, "title": "Christmas Day in the Workhouse", "original_title": "Christmas Day in the Workhouse", "slug_title": "christmas-day-in-the-workhouse", "date": "1914-11-23", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Fred Paul (The Pauper)"], "comments": [], "recommandations_id": []}

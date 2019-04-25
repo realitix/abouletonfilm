@@ -1,1 +1,0 @@
-{"tmdb_id": 365804, "title": "Raimundo", "original_title": "Raimundo", "slug_title": "raimundo", "date": "2015-10-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

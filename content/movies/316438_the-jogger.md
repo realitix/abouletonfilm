@@ -1,1 +1,0 @@
-{"tmdb_id": 316438, "title": "The Jogger", "original_title": "The Jogger", "slug_title": "the-jogger", "date": "1988-01-09", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

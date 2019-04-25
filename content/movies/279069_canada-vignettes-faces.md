@@ -1,1 +1,0 @@
-{"tmdb_id": 279069, "title": "Canada Vignettes: Faces", "original_title": "Canada Vignettes: Faces", "slug_title": "canada-vignettes-faces", "date": "1978-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

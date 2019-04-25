@@ -1,1 +1,0 @@
-{"tmdb_id": 582499, "title": "The Pony Runs in Circles", "original_title": "Pony begaet po krugu", "slug_title": "the-pony-runs-in-circles", "date": "1974-01-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

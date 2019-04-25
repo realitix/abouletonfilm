@@ -1,1 +1,0 @@
-{"tmdb_id": 525982, "title": "Beyond Wrestling & WWR Present \"All Day\"", "original_title": "Beyond Wrestling & WWR Present \"All Day\"", "slug_title": "beyond-wrestling-wwr-present-all-day", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 300290, "title": "Ghost Tapes", "original_title": "Ghost Tapes", "slug_title": "ghost-tapes", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

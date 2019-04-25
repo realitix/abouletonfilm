@@ -1,1 +1,0 @@
-{"tmdb_id": 329041, "title": "The 4th Infantry Division", "original_title": "The 4th Infantry Division", "slug_title": "the-4th-infantry-division", "date": "1969-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

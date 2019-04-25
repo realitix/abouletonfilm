@@ -1,1 +1,0 @@
-{"tmdb_id": 383352, "title": "Stranger in the Park", "original_title": "Stranger in the Park", "slug_title": "stranger-in-the-park", "date": "2008-03-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Antonio Alfama (James)", "Steve Rahaman (Robert)", "Allyson Sereboff (Melanie)"], "comments": [], "recommandations_id": []}

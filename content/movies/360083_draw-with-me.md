@@ -1,1 +1,0 @@
-{"tmdb_id": 360083, "title": "Draw with me", "original_title": "Draw with me", "slug_title": "draw-with-me", "date": "2009-01-01", "genre": "Romance / Animation / Drame", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qWicVFDbtgjWQmtnpYkiaYYubz3.jpg", "actors": [], "comments": [], "recommandations_id": []}

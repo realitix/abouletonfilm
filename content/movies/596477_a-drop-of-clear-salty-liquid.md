@@ -1,1 +1,0 @@
-{"tmdb_id": 596477, "title": "A Drop of Clear Salty Liquid", "original_title": "\ub208\ubb3c", "slug_title": "a-drop-of-clear-salty-liquid", "date": "2002-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mJldU4c9Ii9OJRUdwnI1TULkvpi.jpg", "actors": [], "comments": [], "recommandations_id": []}

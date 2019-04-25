@@ -1,1 +1,0 @@
-{"tmdb_id": 465736, "title": "The Impasse", "original_title": "\u0422\u0443\u043f\u0438\u043a", "slug_title": "the-impasse", "date": "2017-06-07", "genre": "Drame", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pZ3Kxn0lHVrkqy6RO7S3TQuENA3.jpg", "actors": ["Artyom Bystrov ()"], "comments": [], "recommandations_id": []}

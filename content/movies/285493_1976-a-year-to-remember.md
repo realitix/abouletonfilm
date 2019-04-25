@@ -1,1 +1,0 @@
-{"tmdb_id": 285493, "title": "1976 - A Year To Remember", "original_title": "1976 - A Year To Remember", "slug_title": "1976-a-year-to-remember", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

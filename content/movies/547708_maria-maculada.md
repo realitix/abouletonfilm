@@ -1,1 +1,0 @@
-{"tmdb_id": 547708, "title": "Maria Maculada", "original_title": "Maria Maculada", "slug_title": "maria-maculada", "date": "2018-06-01", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zJwESZM9NWUHf4qHTsCNnhkNryX.jpg", "actors": [], "comments": [], "recommandations_id": []}

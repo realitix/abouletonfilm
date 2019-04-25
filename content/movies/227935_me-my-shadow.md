@@ -1,1 +1,0 @@
-{"tmdb_id": 227935, "title": "Me & My Shadow", "original_title": "Me & My Shadow", "slug_title": "me-my-shadow", "date": "", "genre": "Animation / Com\u00e9die", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k2MCtfY36mX0MdsHhu7ucJAZHgL.jpg", "actors": [], "comments": [], "recommandations_id": []}

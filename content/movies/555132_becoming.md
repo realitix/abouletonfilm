@@ -1,1 +1,0 @@
-{"tmdb_id": 555132, "title": "Becoming", "original_title": "Becoming", "slug_title": "becoming", "date": "2018-09-27", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eO0ADEalRb2DMAd6EUNLP38GKRU.jpg", "actors": [], "comments": [], "recommandations_id": []}

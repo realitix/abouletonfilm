@@ -1,1 +1,0 @@
-{"tmdb_id": 353749, "title": "The Liberators \u2013 Why We Fought", "original_title": "Os Libertadores", "slug_title": "the-liberators-why-we-fought", "date": "2015-05-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zE0xBUHnWUFhIZUm85F9EFbf8aw.jpg", "actors": [], "comments": [], "recommandations_id": []}

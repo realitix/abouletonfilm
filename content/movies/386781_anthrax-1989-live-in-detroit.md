@@ -1,1 +1,0 @@
-{"tmdb_id": 386781, "title": "Anthrax: [1989] Live in Detroit", "original_title": "Anthrax: [1989] Live in Detroit", "slug_title": "anthrax-1989-live-in-detroit", "date": "1989-04-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hL4HVJSXTGgQ5tK3XEHs2SlmnMj.jpg", "actors": [], "comments": [], "recommandations_id": []}

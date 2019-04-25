@@ -1,1 +1,0 @@
-{"tmdb_id": 560993, "title": "Je suis un mouchard", "original_title": "Je suis un mouchard", "slug_title": "je-suis-un-mouchard", "date": "1953-04-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fOCx10SK4DG5gDLyisPHNnbMgNS.jpg", "actors": [], "comments": [], "recommandations_id": []}

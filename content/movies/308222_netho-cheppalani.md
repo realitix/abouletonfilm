@@ -1,1 +1,0 @@
-{"tmdb_id": 308222, "title": "Netho Cheppalani", "original_title": "Netho Cheppalani", "slug_title": "netho-cheppalani", "date": "2002-03-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

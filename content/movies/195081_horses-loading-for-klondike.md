@@ -1,1 +1,0 @@
-{"tmdb_id": 195081, "title": "Horses Loading for Klondike", "original_title": "Horses Loading for Klondike", "slug_title": "horses-loading-for-klondike", "date": "1897-10-20", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

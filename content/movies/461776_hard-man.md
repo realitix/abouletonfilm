@@ -1,1 +1,0 @@
-{"tmdb_id": 461776, "title": "Hard Man", "original_title": "Hard Man", "slug_title": "hard-man", "date": "1983-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wKGqJ3Y3yRouKIIoNxzVxfiBbfB.jpg", "actors": ["Jeff Mills ()"], "comments": [], "recommandations_id": []}

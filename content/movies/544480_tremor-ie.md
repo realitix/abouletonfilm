@@ -1,1 +1,0 @@
-{"tmdb_id": 544480, "title": "Tremor I\u00ea", "original_title": "Tremor I\u00ea", "slug_title": "tremor-ie", "date": "2018-09-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s9aS0OcBj7Fpq3OCdI57IID8Y7Q.jpg", "actors": [], "comments": [], "recommandations_id": []}

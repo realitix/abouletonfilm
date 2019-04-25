@@ -1,1 +1,0 @@
-{"tmdb_id": 432922, "title": "Man Who Chooses the Bush", "original_title": "Man Who Chooses the Bush", "slug_title": "man-who-chooses-the-bush", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 275893, "title": "Flyers: In Search of a Dream", "original_title": "Flyers: In Search of a Dream", "slug_title": "flyers-in-search-of-a-dream", "date": "1987-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

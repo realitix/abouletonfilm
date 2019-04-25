@@ -1,1 +1,0 @@
-{"tmdb_id": 431753, "title": "Faith No More -  Live at The Fillmore", "original_title": "Faith No More -  Live at The Fillmore", "slug_title": "faith-no-more-live-at-the-fillmore", "date": "2015-05-08", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

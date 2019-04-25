@@ -1,1 +1,0 @@
-{"tmdb_id": 441447, "title": "A Brush with Love", "original_title": "A Brush with Love", "slug_title": "a-brush-with-love", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 341897, "title": "O Guru e os Guris", "original_title": "O Guru e os Guris", "slug_title": "o-guru-e-os-guris", "date": "1973-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gmMsciDZbbCYUOPvtEFPesTuxCo.jpg", "actors": ["Maurice Legeard (Himself)"], "comments": [], "recommandations_id": []}

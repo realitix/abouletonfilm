@@ -1,1 +1,0 @@
-{"tmdb_id": 386948, "title": "Beautiful Brazil", "original_title": "Beautiful Brazil", "slug_title": "beautiful-brazil", "date": "1952-02-29", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bxpMGe6jVrjlftBA2PXwYsHm9mi.jpg", "actors": ["James A. FitzPatrick ()"], "comments": [], "recommandations_id": []}

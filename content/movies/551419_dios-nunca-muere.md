@@ -1,1 +1,0 @@
-{"tmdb_id": 551419, "title": "Dios Nunca Muere", "original_title": "Dios Nunca Muere", "slug_title": "dios-nunca-muere", "date": "2018-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yHwayxeREIGrPMCZGgw1wWYyttp.jpg", "actors": [], "comments": [], "recommandations_id": []}

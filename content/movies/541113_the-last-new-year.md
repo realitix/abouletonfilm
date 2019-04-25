@@ -1,1 +1,0 @@
-{"tmdb_id": 541113, "title": "The Last New Year", "original_title": "The Last New Year", "slug_title": "the-last-new-year", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

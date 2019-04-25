@@ -1,1 +1,0 @@
-{"tmdb_id": 545355, "title": "Brandt Rhapsodie", "original_title": "Brandt Rhapsodie", "slug_title": "brandt-rhapsodie", "date": "2011-10-01", "genre": "Animation / Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cv8E8hSFu6gihrKTxDIPOsG6txF.jpg", "actors": [], "comments": [], "recommandations_id": []}

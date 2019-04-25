@@ -1,1 +1,0 @@
-{"tmdb_id": 329492, "title": "Every Mile a Stone", "original_title": "Even Al Kol Meel", "slug_title": "every-mile-a-stone", "date": "1954-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Yitzchak Ben-Yaacov ()", "Hirsch Berlinski ()", "Natan Cogan ()"], "comments": [], "recommandations_id": []}

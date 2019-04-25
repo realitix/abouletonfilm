@@ -1,1 +1,0 @@
-{"tmdb_id": 268233, "title": "Still Life / Nature morte", "original_title": "Nature morte", "slug_title": "still-life-nature-morte", "date": "2013-10-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

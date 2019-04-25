@@ -1,1 +1,0 @@
-{"tmdb_id": 592514, "title": "Niet meer zonder jou", "original_title": "Niet meer zonder jou", "slug_title": "niet-meer-zonder-jou", "date": "2018-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y7BEMl2RFP6XO1LpsowoxsPZT4g.jpg", "actors": ["Nazmiye Oral ()"], "comments": [], "recommandations_id": []}

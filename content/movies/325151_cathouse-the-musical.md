@@ -1,1 +1,0 @@
-{"tmdb_id": 325151, "title": "Cathouse: The Musical", "original_title": "Cathouse: The Musical", "slug_title": "cathouse-the-musical", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

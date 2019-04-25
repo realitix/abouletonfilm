@@ -1,1 +1,0 @@
-{"tmdb_id": 308296, "title": "Rahasiya Police 115", "original_title": "Rahasiya Police 115", "slug_title": "rahasiya-police-115", "date": "1968-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

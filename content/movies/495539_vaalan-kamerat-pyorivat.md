@@ -1,1 +1,0 @@
-{"tmdb_id": 495539, "title": "Vaalan kamerat py\u00f6riv\u00e4t", "original_title": "Vaalan kamerat py\u00f6riv\u00e4t", "slug_title": "vaalan-kamerat-pyorivat", "date": "1937-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

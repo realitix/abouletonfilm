@@ -1,1 +1,0 @@
-{"tmdb_id": 539629, "title": "Le malade imaginaire", "original_title": "Le malade imaginaire", "slug_title": "le-malade-imaginaire", "date": "1934-07-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

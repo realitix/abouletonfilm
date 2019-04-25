@@ -1,1 +1,0 @@
-{"tmdb_id": 449835, "title": "The Departure", "original_title": "The Departure", "slug_title": "the-departure", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

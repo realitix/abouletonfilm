@@ -1,1 +1,0 @@
-{"tmdb_id": 243022, "title": "Strauss Fantasy", "original_title": "Strauss Fantasy", "slug_title": "strauss-fantasy", "date": "1954-06-15", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Johnny Green (Himself - Conductor)", "John Dehner (Announcer (voice) (uncredited))"], "comments": [], "recommandations_id": []}

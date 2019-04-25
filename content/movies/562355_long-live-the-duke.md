@@ -1,1 +1,0 @@
-{"tmdb_id": 562355, "title": "Long Live the Duke!", "original_title": "Vive le duc!", "slug_title": "long-live-the-duke", "date": "1960-03-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cwQHJjbBEJrlnpJKWILhMPyULIK.jpg", "actors": [], "comments": [], "recommandations_id": []}

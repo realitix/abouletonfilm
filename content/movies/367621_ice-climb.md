@@ -1,1 +1,0 @@
-{"tmdb_id": 367621, "title": "Ice Climb", "original_title": "Ice Climb", "slug_title": "ice-climb", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

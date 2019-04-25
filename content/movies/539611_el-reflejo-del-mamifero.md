@@ -1,1 +1,0 @@
-{"tmdb_id": 539611, "title": "El reflejo del mam\u00edfero", "original_title": "El reflejo del mam\u00edfero", "slug_title": "el-reflejo-del-mamifero", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7OF5ys7zwZBqE6dMf75lwlu0OFF.jpg", "actors": [], "comments": [], "recommandations_id": []}

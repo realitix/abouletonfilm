@@ -1,1 +1,0 @@
-{"tmdb_id": 264157, "title": "Sixth Happiness", "original_title": "Sixth Happiness", "slug_title": "sixth-happiness", "date": "1997-10-04", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p0MFIZ4pLgv25BOuPdXFfrIMY0S.jpg", "actors": ["Firdaus Kanga (Brit Kotwal)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 361424, "title": "The Harvestman", "original_title": "The Harvestman", "slug_title": "the-harvestman", "date": "2012-11-16", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/289LC7JJoSjjl1508MRm6RD8tcZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

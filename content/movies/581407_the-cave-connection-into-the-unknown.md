@@ -1,1 +1,0 @@
-{"tmdb_id": 581407, "title": "The Cave Connection: Into the Unknown", "original_title": "The Cave Connection: Into the Unknown", "slug_title": "the-cave-connection-into-the-unknown", "date": "", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

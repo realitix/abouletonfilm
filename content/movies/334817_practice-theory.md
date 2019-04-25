@@ -1,1 +1,0 @@
-{"tmdb_id": 334817, "title": "Practice Theory", "original_title": "Practice Theory", "slug_title": "practice-theory", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

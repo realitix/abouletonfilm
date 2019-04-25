@@ -1,1 +1,0 @@
-{"tmdb_id": 219505, "title": "The Steel Workers", "original_title": "The Steel Workers", "slug_title": "the-steel-workers", "date": "1937-04-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

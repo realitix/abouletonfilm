@@ -1,1 +1,0 @@
-{"tmdb_id": 264021, "title": "Faded Roads", "original_title": "Faded Roads", "slug_title": "faded-roads", "date": "1994-06-01", "genre": "Animation", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2Ehq7SSUuiZgDlPa7Um3moIvUJu.jpg", "actors": [], "comments": [], "recommandations_id": []}

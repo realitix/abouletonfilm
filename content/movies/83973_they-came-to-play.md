@@ -1,1 +1,0 @@
-{"tmdb_id": 83973, "title": "They Came to Play", "original_title": "They Came to Play", "slug_title": "they-came-to-play", "date": "2008-10-25", "genre": "Documentaire", "score": "6.6/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xZYMsi56VRrx1tvYtjwWt7117eK.jpg", "actors": [], "comments": [], "recommandations_id": []}

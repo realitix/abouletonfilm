@@ -1,1 +1,0 @@
-{"tmdb_id": 178989, "title": "Pompiers \u00e0 Lyon", "original_title": "Pompiers \u00e0 Lyon", "slug_title": "pompiers-a-lyon", "date": "1896-01-01", "genre": "", "score": "5.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wi8sxMp2kDVnleYl3o71NIDPh7q.jpg", "actors": [], "comments": [], "recommandations_id": [190560, 248514, 190567, 195149]}

@@ -1,1 +1,0 @@
-{"tmdb_id": 430027, "title": "Blue Signal", "original_title": "Blue Signal", "slug_title": "blue-signal", "date": "2014-10-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

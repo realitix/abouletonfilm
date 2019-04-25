@@ -1,1 +1,0 @@
-{"tmdb_id": 90923, "title": "Allegro Vivace", "original_title": "Allegro Vivace", "slug_title": "allegro-vivace", "date": "1990-01-01", "genre": "Animation / Fantastique", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8ipgVBZbObzKGnarCYgjuq5Q5YQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

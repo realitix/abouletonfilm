@@ -1,1 +1,0 @@
-{"tmdb_id": 404421, "title": "Planck Constant", "original_title": "\ud50c\ub791\ud06c \uc0c1\uc218", "slug_title": "planck-constant", "date": "2015-04-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f4oCoiwy1R63nJAF0uf05iep8yI.jpg", "actors": ["Kim Jae-wook (Jae-wook)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 391190, "title": "A clean and well lit place", "original_title": "Un lugar limpio y bien iluminado", "slug_title": "a-clean-and-well-lit-place", "date": "1991-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mario Guerra (Ale)"], "comments": [], "recommandations_id": []}

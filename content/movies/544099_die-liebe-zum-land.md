@@ -1,1 +1,0 @@
-{"tmdb_id": 544099, "title": "Die Liebe zum Land", "original_title": "Die Liebe zum Land", "slug_title": "die-liebe-zum-land", "date": "1975-02-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

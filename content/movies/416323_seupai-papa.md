@@ -1,1 +1,0 @@
-{"tmdb_id": 416323, "title": "\uc2a4\ud30c\uc774 \ud30c\ud30c", "original_title": "\uc2a4\ud30c\uc774 \ud30c\ud30c", "slug_title": "seupai-papa", "date": "2011-10-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lee Du-il (Manho)", "Kim So-hyun (Soonbok)"], "comments": [], "recommandations_id": []}

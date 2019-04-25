@@ -1,1 +1,0 @@
-{"tmdb_id": 350082, "title": "Amerika", "original_title": "Amerika", "slug_title": "amerika", "date": "2015-07-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8psWF57FkNBsRQdnfNSfaomdVG0.jpg", "actors": ["Barbara Adler ()", "Jan Foukal ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 407456, "title": "Work in a United States Arsenal", "original_title": "Work in a United States Arsenal", "slug_title": "work-in-a-united-states-arsenal", "date": "1912-08-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 242968, "title": "Why Korea?", "original_title": "Why Korea?", "slug_title": "why-korea", "date": "1951-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

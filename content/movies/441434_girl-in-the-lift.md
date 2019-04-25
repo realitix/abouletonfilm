@@ -1,1 +1,0 @@
-{"tmdb_id": 441434, "title": "Girl In The Lift", "original_title": "Girl In The Lift", "slug_title": "girl-in-the-lift", "date": "2007-01-01", "genre": "Horreur", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4NGG0dsIqH76tjddSjPrsxaulWp.jpg", "actors": [], "comments": [], "recommandations_id": []}

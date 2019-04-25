@@ -1,1 +1,0 @@
-{"tmdb_id": 276799, "title": "The Censor", "original_title": "The Censor", "slug_title": "the-censor", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 252383, "title": "La silla vac\u00eda", "original_title": "La silla vac\u00eda", "slug_title": "la-silla-vacia", "date": "1937-01-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jos\u00e9 Pal Latorre ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 506722, "title": "Zoology", "original_title": "Zoology", "slug_title": "zoology", "date": "2006-08-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dRo63kLLRA4DKhHSTX89RMweGDw.jpg", "actors": ["Harry Luton ()"], "comments": [], "recommandations_id": []}

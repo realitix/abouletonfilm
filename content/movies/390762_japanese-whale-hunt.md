@@ -1,1 +1,0 @@
-{"tmdb_id": 390762, "title": "Japanese Whale Hunt", "original_title": "Japanese Whale Hunt", "slug_title": "japanese-whale-hunt", "date": "2008-05-05", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nLswWGUs7CmzdWO2IyEr9Lq1Vhg.jpg", "actors": ["Mu Minazuki ()", "Mirai Kuroki ()"], "comments": [], "recommandations_id": []}

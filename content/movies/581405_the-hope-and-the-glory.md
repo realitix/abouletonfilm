@@ -1,1 +1,0 @@
-{"tmdb_id": 581405, "title": "The Hope and the Glory", "original_title": "The Hope and the Glory", "slug_title": "the-hope-and-the-glory", "date": "1984-04-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rudolph Walker (Sam)", "Maurice Denham (Joe)", "Carmen Munroe (Muriel)"], "comments": [], "recommandations_id": []}

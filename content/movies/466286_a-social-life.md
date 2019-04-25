@@ -1,1 +1,0 @@
-{"tmdb_id": 466286, "title": "A Social Life", "original_title": "A Social Life", "slug_title": "a-social-life", "date": "2016-04-12", "genre": "Drame", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/44qWQSUNV3xAv0iCvzE3IhRhYSW.jpg", "actors": [], "comments": [], "recommandations_id": []}

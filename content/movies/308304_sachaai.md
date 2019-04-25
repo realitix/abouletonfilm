@@ -1,1 +1,0 @@
-{"tmdb_id": 308304, "title": "Sachaai", "original_title": "Sachaai", "slug_title": "sachaai", "date": "1969-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

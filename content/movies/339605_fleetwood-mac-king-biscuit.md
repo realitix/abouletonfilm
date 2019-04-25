@@ -1,1 +1,0 @@
-{"tmdb_id": 339605, "title": "Fleetwood Mac - King Biscuit", "original_title": "Fleetwood Mac - King Biscuit", "slug_title": "fleetwood-mac-king-biscuit", "date": "1975-05-10", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/faDJmvNOHoyNiOCiPP77jcY1n3.jpg", "actors": [], "comments": [], "recommandations_id": []}

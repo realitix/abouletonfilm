@@ -1,1 +1,0 @@
-{"tmdb_id": 474112, "title": "Sword of the Samurai", "original_title": "Sword of the Samurai", "slug_title": "sword-of-the-samurai", "date": "1939-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

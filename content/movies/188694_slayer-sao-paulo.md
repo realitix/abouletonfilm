@@ -1,1 +1,0 @@
-{"tmdb_id": 188694, "title": "Slayer: S\u00e3o Paulo", "original_title": "Slayer: S\u00e3o Paulo", "slug_title": "slayer-sao-paulo", "date": "1998-09-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dc2S5vXzqOc2ABA440SfPUGm3dn.jpg", "actors": [], "comments": [], "recommandations_id": []}

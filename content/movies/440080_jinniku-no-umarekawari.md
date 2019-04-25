@@ -1,1 +1,0 @@
-{"tmdb_id": 440080, "title": "Jinniku no umarekawari", "original_title": "Jinniku no umarekawari", "slug_title": "jinniku-no-umarekawari", "date": "2006-02-09", "genre": "Horreur", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

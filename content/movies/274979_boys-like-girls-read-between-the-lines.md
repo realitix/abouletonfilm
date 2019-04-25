@@ -1,1 +1,0 @@
-{"tmdb_id": 274979, "title": "Boys Like Girls: Read Between The Lines", "original_title": "Boys Like Girls: Read Between The Lines", "slug_title": "boys-like-girls-read-between-the-lines", "date": "2008-11-04", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

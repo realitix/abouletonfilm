@@ -1,1 +1,0 @@
-{"tmdb_id": 233056, "title": "Bhootayyana Maga Ayyu", "original_title": "Bhootayyana Maga Ayyu", "slug_title": "bhootayyana-maga-ayyu", "date": "1974-01-02", "genre": "Drame", "score": "9.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Vishnuvardhan (Gulla)", "Bhavani ()"], "comments": [], "recommandations_id": []}

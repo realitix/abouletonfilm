@@ -1,1 +1,0 @@
-{"tmdb_id": 533230, "title": "Blood Summer", "original_title": "Blood Summer", "slug_title": "blood-summer", "date": "1993-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dfpB5CjAGyBezkbBmPRoEdM7X85.jpg", "actors": [], "comments": [], "recommandations_id": []}

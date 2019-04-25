@@ -1,1 +1,0 @@
-{"tmdb_id": 165970, "title": "Skulls and Sculls", "original_title": "Skulls and Sculls", "slug_title": "skulls-and-sculls", "date": "1930-05-31", "genre": "Fantastique / Com\u00e9die / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7hf13z4OMbQEVhyqGSBwA1XSHqL.jpg", "actors": [], "comments": [], "recommandations_id": []}

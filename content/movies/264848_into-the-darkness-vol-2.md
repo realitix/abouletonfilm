@@ -1,1 +1,0 @@
-{"tmdb_id": 264848, "title": "Into The Darkness Vol. 2", "original_title": "Into The Darkness Vol. 2", "slug_title": "into-the-darkness-vol-2", "date": "2005-01-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tfgZ7ky3hyZQKTgfSTdKsMMSIRs.jpg", "actors": [], "comments": [], "recommandations_id": []}

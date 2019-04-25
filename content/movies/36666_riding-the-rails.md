@@ -1,1 +1,0 @@
-{"tmdb_id": 36666, "title": "Riding the Rails", "original_title": "Riding the Rails", "slug_title": "riding-the-rails", "date": "1997-01-01", "genre": "Documentaire", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2VVkrLPTaqJ0aa2A93T0N9M4fIr.jpg", "actors": ["Richard Thomas (Narrator)"], "comments": [], "recommandations_id": []}

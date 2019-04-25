@@ -1,1 +1,0 @@
-{"tmdb_id": 324686, "title": "Flotel Europa", "original_title": "Flotel Europa", "slug_title": "flotel-europa", "date": "2015-02-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6WU70UzsymdfWL7Rdiyf48g7fGH.jpg", "actors": ["Vladimir Tomi\u0107 (Himself)"], "comments": [], "recommandations_id": []}

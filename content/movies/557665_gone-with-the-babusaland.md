@@ -1,1 +1,0 @@
-{"tmdb_id": 557665, "title": "Gone with the Babusaland", "original_title": "Gone with the Babusaland", "slug_title": "gone-with-the-babusaland", "date": "1971-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

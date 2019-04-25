@@ -1,1 +1,0 @@
-{"tmdb_id": 192042, "title": "Der geheimnisvolle Klub", "original_title": "Der geheimnisvolle Klub", "slug_title": "der-geheimnisvolle-klub", "date": "1913-11-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3KwCmc6xJb73zesAghB6IuQfWA1.jpg", "actors": [], "comments": [], "recommandations_id": []}

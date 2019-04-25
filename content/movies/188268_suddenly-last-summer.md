@@ -1,1 +1,0 @@
-{"tmdb_id": 188268, "title": "Suddenly, Last Summer", "original_title": "Suddenly, Last Summer", "slug_title": "suddenly-last-summer", "date": "2013-01-01", "genre": "Drame / Animation", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

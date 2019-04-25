@@ -1,1 +1,0 @@
-{"tmdb_id": 443292, "title": "High School Musical Dance-Along", "original_title": "High School Musical Dance-Along", "slug_title": "high-school-musical-dance-along", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

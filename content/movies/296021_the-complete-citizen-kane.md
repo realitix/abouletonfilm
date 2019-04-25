@@ -1,1 +1,0 @@
-{"tmdb_id": 296021, "title": "The Complete Citizen Kane", "original_title": "The Complete Citizen Kane", "slug_title": "the-complete-citizen-kane", "date": "1991-10-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

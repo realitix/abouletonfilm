@@ -1,1 +1,0 @@
-{"tmdb_id": 53434, "title": "Jazz on a Summer's Day", "original_title": "Jazz on a Summer's Day", "slug_title": "jazz-on-a-summer-s-day", "date": "1960-11-11", "genre": "Documentaire / Musique", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/w6NNH5vpR3J8hFIByw7NyZNEyE9.jpg", "actors": [], "comments": [], "recommandations_id": []}

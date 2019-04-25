@@ -1,1 +1,0 @@
-{"tmdb_id": 341290, "title": "Ghoonghat", "original_title": "Ghoonghat", "slug_title": "ghoonghat", "date": "1962-11-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9pmcWT3f3Iil9WBRcISAl4Apq73.jpg", "actors": ["Santosh Kumar (Shahid)", "Nayyar Sultana (Usha Rani)"], "comments": [], "recommandations_id": []}

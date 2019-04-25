@@ -1,1 +1,0 @@
-{"tmdb_id": 15847, "title": "Generation Model", "original_title": "Generation Model", "slug_title": "generation-model", "date": "2007-11-17", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

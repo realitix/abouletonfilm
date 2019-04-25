@@ -1,1 +1,0 @@
-{"tmdb_id": 61152, "title": "Jorn: live in America", "original_title": "Jorn: live in America", "slug_title": "jorn-live-in-america", "date": "", "genre": "Musique", "score": "4.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nr6CqAi1HUlqKi2EK3dez5c7e1x.jpg", "actors": [], "comments": [], "recommandations_id": []}

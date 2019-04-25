@@ -1,1 +1,0 @@
-{"tmdb_id": 226718, "title": "Grand Slam", "original_title": "Grand Slam", "slug_title": "grand-slam", "date": "1990-01-27", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rene Carrasco ()", "Dennis Hayden ()", "Louis Herthum ()"], "comments": [], "recommandations_id": []}

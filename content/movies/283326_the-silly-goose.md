@@ -1,1 +1,0 @@
-{"tmdb_id": 283326, "title": "The Silly Goose", "original_title": "Das dumme G\u00e4nslein", "slug_title": "the-silly-goose", "date": "1944-11-08", "genre": "Animation", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1Z5rlM3AC20Uw6OqgcixwBk4RWI.jpg", "actors": [], "comments": [], "recommandations_id": []}

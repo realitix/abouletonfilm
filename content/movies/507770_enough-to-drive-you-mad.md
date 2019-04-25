@@ -1,1 +1,0 @@
-{"tmdb_id": 507770, "title": "Enough to Drive You Mad", "original_title": "Enough to Drive You Mad", "slug_title": "enough-to-drive-you-mad", "date": "2009-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vkYcwyjkJTEYQbcPe9Y0wBSylqi.jpg", "actors": [], "comments": [], "recommandations_id": []}

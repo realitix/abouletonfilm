@@ -1,1 +1,0 @@
-{"tmdb_id": 489896, "title": "Archipi\u00e9lago fantasma", "original_title": "Archipi\u00e9lago fantasma", "slug_title": "archipielago-fantasma", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

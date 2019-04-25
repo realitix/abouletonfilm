@@ -1,1 +1,0 @@
-{"tmdb_id": 594864, "title": "Rizin 2017 in Yokohama: Sakura", "original_title": "Rizin 2017 in Yokohama: Sakura", "slug_title": "rizin-2017-in-yokohama-sakura", "date": "2017-04-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 556656, "title": "La vie miraculeuse de Th\u00e9r\u00e8se Martin", "original_title": "La vie miraculeuse de Th\u00e9r\u00e8se Martin", "slug_title": "la-vie-miraculeuse-de-therese-martin", "date": "1930-04-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

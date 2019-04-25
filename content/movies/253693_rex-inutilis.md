@@ -1,1 +1,0 @@
-{"tmdb_id": 253693, "title": "Rex Inutilis", "original_title": "Rei In\u00fatil", "slug_title": "rex-inutilis", "date": "2013-10-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5lNrjbcrmfpCalxa6TPIGc2uv2A.jpg", "actors": [], "comments": [], "recommandations_id": []}

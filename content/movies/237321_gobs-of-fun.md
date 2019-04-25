@@ -1,1 +1,0 @@
-{"tmdb_id": 237321, "title": "Gobs of Fun", "original_title": "Gobs of Fun", "slug_title": "gobs-of-fun", "date": "1949-07-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

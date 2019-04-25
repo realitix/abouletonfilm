@@ -1,1 +1,0 @@
-{"tmdb_id": 513500, "title": "Between Here & Now", "original_title": "Between Here & Now", "slug_title": "between-here-now", "date": "2018-03-30", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nbvGWQ9FLu9MzOgzP4A6JH8Wp67.jpg", "actors": [], "comments": [], "recommandations_id": []}

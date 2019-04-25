@@ -1,1 +1,0 @@
-{"tmdb_id": 208077, "title": "File It Under Fear", "original_title": "File It Under Fear", "slug_title": "file-it-under-fear", "date": "1973-06-01", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["John Le Mesurier (Stubbs)", "Maureen Lipman (Liz Morris)"], "comments": [], "recommandations_id": []}

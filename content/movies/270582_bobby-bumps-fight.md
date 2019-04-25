@@ -1,1 +1,0 @@
-{"tmdb_id": 270582, "title": "Bobby Bumps' Fight", "original_title": "Bobby Bumps' Fight", "slug_title": "bobby-bumps-fight", "date": "1918-03-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

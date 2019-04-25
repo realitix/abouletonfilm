@@ -1,1 +1,0 @@
-{"tmdb_id": 256764, "title": "Parable", "original_title": "Parable", "slug_title": "parable", "date": "2008-02-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eQ2tMEvAiTYd8soCY7wSlssqGQH.jpg", "actors": [], "comments": [], "recommandations_id": []}

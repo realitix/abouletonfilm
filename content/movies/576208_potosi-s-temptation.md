@@ -1,1 +1,0 @@
-{"tmdb_id": 576208, "title": "Potosi's Temptation", "original_title": "La tentation de Potosi", "slug_title": "potosi-s-temptation", "date": "2010-11-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8UUTNdmMFDUcgF2lBpUD2KPAxNE.jpg", "actors": [], "comments": [], "recommandations_id": []}

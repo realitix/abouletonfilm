@@ -1,1 +1,0 @@
-{"tmdb_id": 383665, "title": "Crayon d'amour", "original_title": "Crayon d'amour", "slug_title": "crayon-d-amour", "date": "2012-10-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pLtDLN6hOSTKFVSJd3ujOSStcPN.jpg", "actors": [], "comments": [], "recommandations_id": []}

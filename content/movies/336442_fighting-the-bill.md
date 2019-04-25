@@ -1,1 +1,0 @@
-{"tmdb_id": 336442, "title": "Fighting the Bill", "original_title": "Fighting the Bill", "slug_title": "fighting-the-bill", "date": "1970-01-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5Ym8PneZShZsoJ04cRkNXofzxbm.jpg", "actors": [], "comments": [], "recommandations_id": []}

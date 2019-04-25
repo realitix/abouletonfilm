@@ -1,1 +1,0 @@
-{"tmdb_id": 423388, "title": "The Teenage Werewolf", "original_title": "The Teenage Werewolf", "slug_title": "the-teenage-werewolf", "date": "1959-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9BuHP85T9Qeg9JP6l5CHscN2hmX.jpg", "actors": [], "comments": [], "recommandations_id": []}

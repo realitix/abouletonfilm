@@ -1,1 +1,0 @@
-{"tmdb_id": 328508, "title": "Territory System of Wrestling", "original_title": "Territory System of Wrestling", "slug_title": "territory-system-of-wrestling", "date": "2015-02-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

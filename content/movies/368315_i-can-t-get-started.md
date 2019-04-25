@@ -1,1 +1,0 @@
-{"tmdb_id": 368315, "title": "I Can't Get Started", "original_title": "I Can't Get Started", "slug_title": "i-can-t-get-started", "date": "1985-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["John Waters ()", "Wendy Hughes ()"], "comments": [], "recommandations_id": []}

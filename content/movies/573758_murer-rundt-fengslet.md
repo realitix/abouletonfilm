@@ -1,1 +1,0 @@
-{"tmdb_id": 573758, "title": "Murer rundt fengslet", "original_title": "Murer rundt fengslet", "slug_title": "murer-rundt-fengslet", "date": "1972-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bvy15h42eRp84u4EUJcP0kh5v2x.jpg", "actors": [], "comments": [], "recommandations_id": []}

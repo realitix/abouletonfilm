@@ -1,1 +1,0 @@
-{"tmdb_id": 315190, "title": "Harlequin", "original_title": "Harlequin", "slug_title": "harlequin", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x7Rlt3Z7A07OTTVmMD0xQJZeLC3.jpg", "actors": [], "comments": [], "recommandations_id": []}

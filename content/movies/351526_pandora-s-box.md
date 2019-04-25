@@ -1,1 +1,0 @@
-{"tmdb_id": 351526, "title": "Pandora's Box", "original_title": "Pandora's Box", "slug_title": "pandora-s-box", "date": "1943-06-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ntMKw3czaEvi4UbWXo9TxN1cOm9.jpg", "actors": [], "comments": [], "recommandations_id": []}

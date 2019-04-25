@@ -1,1 +1,0 @@
-{"tmdb_id": 396185, "title": "Summer in the Lotus Ground", "original_title": "Summer in the Lotus Ground", "slug_title": "summer-in-the-lotus-ground", "date": "2012-01-20", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rMyeEBIUzqMzijSyGibseId8Ntf.jpg", "actors": [], "comments": [], "recommandations_id": []}

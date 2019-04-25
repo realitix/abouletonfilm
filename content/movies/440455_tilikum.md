@@ -1,1 +1,0 @@
-{"tmdb_id": 440455, "title": "Tilikum", "original_title": "Tilikum", "slug_title": "tilikum", "date": "2014-10-31", "genre": "Histoire / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 332112, "title": "Kale and Kale", "original_title": "K\u0100LE AND K\u0100LE", "slug_title": "kale-and-kale", "date": "2007-03-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

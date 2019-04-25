@@ -1,1 +1,0 @@
-{"tmdb_id": 512161, "title": "GPS - Una guerra global", "original_title": "GPS - Una guerra global", "slug_title": "gps-una-guerra-global", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6KYTrV2vNkzLIoAnFilqOCH2X4y.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 437101, "title": "The Kitchen", "original_title": "Die K\u00fcche", "slug_title": "the-kitchen", "date": "1987-03-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tC54xjo3tU8QSOcU9zlbJlv970r.jpg", "actors": [], "comments": [], "recommandations_id": []}

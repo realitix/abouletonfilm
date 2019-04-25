@@ -1,1 +1,0 @@
-{"tmdb_id": 460617, "title": "Last Blood", "original_title": "Last Blood", "slug_title": "last-blood", "date": "2011-02-02", "genre": "", "score": "0.0/10", "synopsis": "Dernier Sang", "image": "/img/default-cover.png", "actors": ["Sara Martins (V\u00e9rit\u00e9 N'Diaye)", "Antoine Lelandais (Gabriel Kers)", "Yann Peira (Sandor Weiss)"], "comments": [], "recommandations_id": []}

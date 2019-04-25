@@ -1,1 +1,0 @@
-{"tmdb_id": 559049, "title": "Exit Afghanistan", "original_title": "Exit Afghanistan", "slug_title": "exit-afghanistan", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

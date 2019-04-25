@@ -1,1 +1,0 @@
-{"tmdb_id": 525736, "title": "The Empiricist", "original_title": "The Empiricist", "slug_title": "the-empiricist", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

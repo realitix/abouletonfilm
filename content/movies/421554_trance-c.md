@@ -1,1 +1,0 @@
-{"tmdb_id": 421554, "title": "Trance (C)", "original_title": "Trance (C)", "slug_title": "trance-c", "date": "", "genre": "Drame", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/or0WpBAtH0yKmCxN9Uw6AWkhnji.jpg", "actors": [], "comments": [], "recommandations_id": []}

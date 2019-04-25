@@ -1,1 +1,0 @@
-{"tmdb_id": 304481, "title": "Puszta - Land of Salt and Sand", "original_title": "Puszta - Land of Salt and Sand", "slug_title": "puszta-land-of-salt-and-sand", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

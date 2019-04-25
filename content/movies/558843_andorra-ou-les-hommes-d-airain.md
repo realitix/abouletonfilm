@@ -1,1 +1,0 @@
-{"tmdb_id": 558843, "title": "Andorra ou les hommes d'Airain", "original_title": "Andorra ou les hommes d'Airain", "slug_title": "andorra-ou-les-hommes-d-airain", "date": "1942-07-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4YRaY5hWN7cr81WFZtzMcbWDYQk.jpg", "actors": [], "comments": [], "recommandations_id": []}

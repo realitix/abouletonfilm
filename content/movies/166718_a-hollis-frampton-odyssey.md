@@ -1,1 +1,0 @@
-{"tmdb_id": 166718, "title": "A Hollis Frampton Odyssey", "original_title": "A Hollis Frampton Odyssey", "slug_title": "a-hollis-frampton-odyssey", "date": "2012-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vy9yUXOMmgL04WG6eO5bBfEo0WF.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 222937, "title": "Vlogumentary", "original_title": "Vlogumentary", "slug_title": "vlogumentary", "date": "2016-04-20", "genre": "Documentaire", "score": "6.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o7psLL9Y1GzfwW5bLq9oUL9G5gt.jpg", "actors": [], "comments": [], "recommandations_id": []}

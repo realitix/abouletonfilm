@@ -1,1 +1,0 @@
-{"tmdb_id": 186884, "title": "Justin Lo Around The World Tour 2011", "original_title": "Justin Lo Around The World Tour 2011", "slug_title": "justin-lo-around-the-world-tour-2011", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

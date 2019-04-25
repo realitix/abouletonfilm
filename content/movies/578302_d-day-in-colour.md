@@ -1,1 +1,0 @@
-{"tmdb_id": 578302, "title": "D-Day in Colour", "original_title": "D-Day in Colour", "slug_title": "d-day-in-colour", "date": "2004-05-25", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b4r6AIRDUscvLwJI5EBmIhSQQBH.jpg", "actors": [], "comments": [], "recommandations_id": []}

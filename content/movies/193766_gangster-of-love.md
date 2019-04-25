@@ -1,1 +1,0 @@
-{"tmdb_id": 193766, "title": "Gangster of Love", "original_title": "Gangster te voli", "slug_title": "gangster-of-love", "date": "2013-02-01", "genre": "Documentaire", "score": "6.9/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mx8yq4RkfOmoTs20ZyOaK3flnrU.jpg", "actors": ["Nediljko Babi\u0107 (Himself)"], "comments": [], "recommandations_id": []}

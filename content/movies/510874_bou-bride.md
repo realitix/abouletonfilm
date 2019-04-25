@@ -1,1 +1,0 @@
-{"tmdb_id": 510874, "title": "Bou (Bride)", "original_title": "Bou (Bride)", "slug_title": "bou-bride", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gtx1xpXR5i8ryqY20bJgb7rm1Hx.jpg", "actors": [], "comments": [], "recommandations_id": []}

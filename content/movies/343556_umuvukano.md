@@ -1,1 +1,0 @@
-{"tmdb_id": 343556, "title": "Umuvukano", "original_title": "Umuvukano", "slug_title": "umuvukano", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

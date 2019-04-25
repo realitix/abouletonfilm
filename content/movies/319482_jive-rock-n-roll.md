@@ -1,1 +1,0 @@
-{"tmdb_id": 319482, "title": "Jive & Rock 'n' Roll", "original_title": "Jive & Rock 'n' Roll", "slug_title": "jive-rock-n-roll", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

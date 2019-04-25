@@ -1,1 +1,0 @@
-{"tmdb_id": 460086, "title": "Thomas & Friends: Team Up with Thomas", "original_title": "Thomas & Friends: Team Up with Thomas", "slug_title": "thomas-friends-team-up-with-thomas", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Michael Brandon (Narrator (voice))"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 167040, "title": "Mambo Mouth", "original_title": "Mambo Mouth", "slug_title": "mambo-mouth", "date": "1991-01-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lOX9pqzwi7101L5nqVGoXI5khNU.jpg", "actors": ["John Leguizamo ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 141169, "title": "Homies III", "original_title": "Homies III", "slug_title": "homies-iii", "date": "2010-09-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n8T9bYX30JLto7VNPKC1n6qnvXE.jpg", "actors": [], "comments": [], "recommandations_id": []}

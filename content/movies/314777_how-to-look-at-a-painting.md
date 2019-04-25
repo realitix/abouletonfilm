@@ -1,1 +1,0 @@
-{"tmdb_id": 314777, "title": "How to Look at a Painting", "original_title": "How to Look at a Painting", "slug_title": "how-to-look-at-a-painting", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

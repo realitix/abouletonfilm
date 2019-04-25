@@ -1,1 +1,0 @@
-{"tmdb_id": 445204, "title": "Treasure Island", "original_title": "Treasure Island", "slug_title": "treasure-island", "date": "1973-07-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gA34kMlC4qF1D9mvBzajQ9sq54R.jpg", "actors": [], "comments": [], "recommandations_id": []}

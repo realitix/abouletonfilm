@@ -1,1 +1,0 @@
-{"tmdb_id": 210972, "title": "Sundae in New York", "original_title": "Sundae in New York", "slug_title": "sundae-in-new-york", "date": "1983-01-01", "genre": "Animation", "score": "5.6/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yfXmfgImXFBhp49mQApacpjNPFi.jpg", "actors": [], "comments": [], "recommandations_id": [48698, 48277, 48276, 163370]}

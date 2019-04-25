@@ -1,1 +1,0 @@
-{"tmdb_id": 588590, "title": "The Little Mongrel", "original_title": "Kundelek", "slug_title": "the-little-mongrel", "date": "1969-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zVEESMX14AE8ByjxW3wplQ4doxP.jpg", "actors": [], "comments": [], "recommandations_id": []}

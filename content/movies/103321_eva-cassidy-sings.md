@@ -1,1 +1,0 @@
-{"tmdb_id": 103321, "title": "Eva Cassidy Sings", "original_title": "Eva Cassidy Sings", "slug_title": "eva-cassidy-sings", "date": "2004-11-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/est1VhmX62GQkrSwhz5l6DZz2Ph.jpg", "actors": ["Eva Cassidy ()"], "comments": [], "recommandations_id": []}

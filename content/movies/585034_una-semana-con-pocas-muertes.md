@@ -1,1 +1,0 @@
-{"tmdb_id": 585034, "title": "Una semana con pocas muertes", "original_title": "Una semana con pocas muertes", "slug_title": "una-semana-con-pocas-muertes", "date": "2013-06-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iXTKakpLrkmkn5lKsVilc9LlUyR.jpg", "actors": [], "comments": [], "recommandations_id": []}

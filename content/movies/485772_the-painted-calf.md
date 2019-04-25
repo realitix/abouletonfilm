@@ -1,1 +1,0 @@
-{"tmdb_id": 485772, "title": "The Painted Calf", "original_title": "El becerro pintado", "slug_title": "the-painted-calf", "date": "2017-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xWeWZHuG6Sl7fFcfEbsU1ZxCrHd.jpg", "actors": [], "comments": [], "recommandations_id": []}

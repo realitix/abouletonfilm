@@ -1,1 +1,0 @@
-{"tmdb_id": 273609, "title": "Capitalism is the Crisis", "original_title": "Capitalism is the Crisis", "slug_title": "capitalism-is-the-crisis", "date": "2011-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

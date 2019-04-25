@@ -1,1 +1,0 @@
-{"tmdb_id": 561900, "title": "Diverted to Delhi", "original_title": "Diverted to Delhi", "slug_title": "diverted-to-delhi", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

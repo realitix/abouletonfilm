@@ -1,1 +1,0 @@
-{"tmdb_id": 440173, "title": "Chinese Horror Story", "original_title": "Chinese Horror Story", "slug_title": "chinese-horror-story", "date": "2015-11-20", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zDQxMcLauLkG1vUrah3Noqig75Z.jpg", "actors": [], "comments": [], "recommandations_id": []}

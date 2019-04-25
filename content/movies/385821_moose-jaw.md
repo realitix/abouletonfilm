@@ -1,1 +1,0 @@
-{"tmdb_id": 385821, "title": "Moose Jaw", "original_title": "Moose Jaw", "slug_title": "moose-jaw", "date": "1992-09-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7TUMfsXAzkcMFOBMMCb8ATKt2XE.jpg", "actors": ["Rick Hancox (Himself)"], "comments": [], "recommandations_id": []}

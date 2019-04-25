@@ -1,1 +1,0 @@
-{"tmdb_id": 580511, "title": "Geoff Short Film", "original_title": "Geoff Short Film", "slug_title": "geoff-short-film", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

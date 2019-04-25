@@ -1,1 +1,0 @@
-{"tmdb_id": 271326, "title": "So You Want to Be President?", "original_title": "So You Want to Be President?", "slug_title": "so-you-want-to-be-president", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

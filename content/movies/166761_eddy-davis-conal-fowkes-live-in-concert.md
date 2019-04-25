@@ -1,1 +1,0 @@
-{"tmdb_id": 166761, "title": "Eddy Davis & Conal Fowkes Live In Concert", "original_title": "Eddy Davis & Conal Fowkes Live In Concert", "slug_title": "eddy-davis-conal-fowkes-live-in-concert", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

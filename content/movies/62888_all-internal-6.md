@@ -1,1 +1,0 @@
-{"tmdb_id": 62888, "title": "All Internal 6", "original_title": "All Internal 6", "slug_title": "all-internal-6", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/92kbgX5vaa1jfyvEiLfMg4hGZtv.jpg", "actors": [], "comments": [], "recommandations_id": []}

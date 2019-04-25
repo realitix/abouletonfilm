@@ -1,1 +1,1 @@
-{"tmdb_id": 551932, "title": "L'appassionata", "original_title": "L'appassionata", "slug_title": "l-appassionata", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 551932, "title": "L'appassionata", "original_title": "L'appassionata", "slug_title": "l-appassionata", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

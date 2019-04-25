@@ -1,1 +1,0 @@
-{"tmdb_id": 232869, "title": "Caroline's Masterpiece", "original_title": "Caroline's Masterpiece", "slug_title": "caroline-s-masterpiece", "date": "2013-08-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Susan Ly (Caroline)", "Ricky Delgado (Jos\u00e9)", "Patrick Sane (Jim)"], "comments": [], "recommandations_id": []}

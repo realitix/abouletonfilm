@@ -1,1 +1,0 @@
-{"tmdb_id": 361214, "title": "The Destruction of St. Patrick's College 1971", "original_title": "The Destruction of St. Patrick's College 1971", "slug_title": "the-destruction-of-st-patrick-s-college-1971", "date": "1971-03-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 138005, "title": "Pandurangudu", "original_title": "Pandurangudu", "slug_title": "pandurangudu", "date": "2008-05-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n3iS5tFbW4I4PYBwqSlMsz2S3Dp.jpg", "actors": [], "comments": [], "recommandations_id": []}

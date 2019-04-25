@@ -1,1 +1,0 @@
-{"tmdb_id": 506710, "title": "Song of the Seven Senses", "original_title": "Song of the Seven Senses", "slug_title": "song-of-the-seven-senses", "date": "2008-08-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/79flC1YhRM3M0LC3N8rSIDQqBAU.jpg", "actors": [], "comments": [], "recommandations_id": []}

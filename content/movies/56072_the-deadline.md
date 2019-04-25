@@ -1,1 +1,0 @@
-{"tmdb_id": 56072, "title": "The Deadline", "original_title": "The Deadline", "slug_title": "the-deadline", "date": "2008-09-01", "genre": "Thriller / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

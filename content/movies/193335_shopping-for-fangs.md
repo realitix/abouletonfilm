@@ -1,1 +1,0 @@
-{"tmdb_id": 193335, "title": "Shopping for Fangs", "original_title": "Shopping for Fangs", "slug_title": "shopping-for-fangs", "date": "1997-09-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rkOl5cmmEAn6oW4fk3hXK8ljxEO.jpg", "actors": ["John Cho ()"], "comments": [], "recommandations_id": []}

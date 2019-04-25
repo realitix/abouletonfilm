@@ -1,1 +1,0 @@
-{"tmdb_id": 190759, "title": "Pluck and Plotters", "original_title": "Pluck and Plotters", "slug_title": "pluck-and-plotters", "date": "1918-12-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Larry Semon (The Janitor)"], "comments": [], "recommandations_id": []}

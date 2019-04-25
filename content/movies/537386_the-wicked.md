@@ -1,1 +1,0 @@
-{"tmdb_id": 537386, "title": "The Wicked", "original_title": "\u308f\u308b\u3044\u3084\u3064\u3089", "slug_title": "the-wicked", "date": "1980-06-28", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v4B8ULFtDGxFRQNaUW49qupejjG.jpg", "actors": [], "comments": [], "recommandations_id": []}

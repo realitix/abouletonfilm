@@ -1,1 +1,0 @@
-{"tmdb_id": 524117, "title": "Bears in the Hall", "original_title": "Bears in the Hall", "slug_title": "bears-in-the-hall", "date": "1994-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

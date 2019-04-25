@@ -1,1 +1,0 @@
-{"tmdb_id": 587027, "title": "From Ghetto to Parliament", "original_title": "From Ghetto to Parliament", "slug_title": "from-ghetto-to-parliament", "date": "2019-03-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2Y13nJRree3H0pFjuxyCi9wBAvy.jpg", "actors": [], "comments": [], "recommandations_id": []}

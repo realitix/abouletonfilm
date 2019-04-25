@@ -1,1 +1,0 @@
-{"tmdb_id": 328430, "title": "Parklands", "original_title": "Parklands", "slug_title": "parklands", "date": "1996-04-03", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jBb8NTsi1QZObPgLLoW4yLHRxeu.jpg", "actors": ["Cate Blanchett (Rosie)", "Tony Martin (Cliff)"], "comments": [], "recommandations_id": []}

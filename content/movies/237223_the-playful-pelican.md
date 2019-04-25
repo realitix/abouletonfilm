@@ -1,1 +1,0 @@
-{"tmdb_id": 237223, "title": "The Playful Pelican", "original_title": "The Playful Pelican", "slug_title": "the-playful-pelican", "date": "1948-10-07", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dGK70cd2gZDEOvVl6JIcDVfXBhH.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 306094, "title": "The Loves of Lady Chatterley", "original_title": "The Loves of Lady Chatterley", "slug_title": "the-loves-of-lady-chatterley", "date": "2014-06-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

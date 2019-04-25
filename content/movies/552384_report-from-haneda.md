@@ -1,1 +1,0 @@
-{"tmdb_id": 552384, "title": "Report from Haneda", "original_title": "Genninhokokusho Haneda toso no kiroku", "slug_title": "report-from-haneda", "date": "1967-01-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

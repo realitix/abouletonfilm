@@ -1,1 +1,0 @@
-{"tmdb_id": 290551, "title": "How to Become a Chair", "original_title": "How to Become a Chair", "slug_title": "how-to-become-a-chair", "date": "2014-09-19", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

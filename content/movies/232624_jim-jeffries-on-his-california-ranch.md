@@ -1,1 +1,0 @@
-{"tmdb_id": 232624, "title": "Jim Jeffries on His California Ranch", "original_title": "Jim Jeffries on His California Ranch", "slug_title": "jim-jeffries-on-his-california-ranch", "date": "1907-11-03", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

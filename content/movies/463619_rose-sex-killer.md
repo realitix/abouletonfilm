@@ -1,1 +1,0 @@
-{"tmdb_id": 463619, "title": "Rose Sex Killer", "original_title": "Rose Sex Killer", "slug_title": "rose-sex-killer", "date": "1992-06-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

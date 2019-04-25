@@ -1,1 +1,0 @@
-{"tmdb_id": 571147, "title": "Body within the Body", "original_title": "K\u00f6rper im K\u00f6rper", "slug_title": "body-within-the-body", "date": "1989-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 561447, "title": "Rasputin", "original_title": "Raspoutine", "slug_title": "rasputin", "date": "1954-07-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gT1X4I0348Nwlh8ivBLjEIn7vsR.jpg", "actors": [], "comments": [], "recommandations_id": []}

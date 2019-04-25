@@ -1,1 +1,0 @@
-{"tmdb_id": 364143, "title": "Education, Inc.", "original_title": "Education, Inc.", "slug_title": "education-inc", "date": "", "genre": "", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oDjb5nThhON8pPwXhdizosB2MoB.jpg", "actors": [], "comments": [], "recommandations_id": []}

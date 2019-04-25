@@ -1,1 +1,0 @@
-{"tmdb_id": 333324, "title": "A House of Secrets: Exploring 'Dragonwyck'", "original_title": "A House of Secrets: Exploring 'Dragonwyck'", "slug_title": "a-house-of-secrets-exploring-dragonwyck", "date": "2008-09-09", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

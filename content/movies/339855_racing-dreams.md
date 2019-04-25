@@ -1,1 +1,0 @@
-{"tmdb_id": 339855, "title": "Racing Dreams", "original_title": "Racing Dreams", "slug_title": "racing-dreams", "date": "", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [462383, 312610, 146329, 333673]}

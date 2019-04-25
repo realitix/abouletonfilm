@@ -1,1 +1,0 @@
-{"tmdb_id": 553505, "title": "As Usual", "original_title": "\u4e00\u5982\u5f80\u5e38", "slug_title": "as-usual", "date": "2018-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2DuLF4v3Q0v4VDvGv6Wr1Qu6XaG.jpg", "actors": [], "comments": [], "recommandations_id": []}

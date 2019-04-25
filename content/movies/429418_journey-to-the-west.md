@@ -1,1 +1,0 @@
-{"tmdb_id": 429418, "title": "Journey to the West", "original_title": "Journey to the West", "slug_title": "journey-to-the-west", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

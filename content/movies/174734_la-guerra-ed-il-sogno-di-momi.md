@@ -1,1 +1,0 @@
-{"tmdb_id": 174734, "title": "La guerra ed il sogno di Momi", "original_title": "La guerra ed il sogno di Momi", "slug_title": "la-guerra-ed-il-sogno-di-momi", "date": "1917-06-06", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nmRSGeCeA6MJNTRFEKTZPs80J6g.jpg", "actors": [], "comments": [], "recommandations_id": []}

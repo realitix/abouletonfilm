@@ -1,1 +1,0 @@
-{"tmdb_id": 556659, "title": "The Shark", "original_title": "Le requin", "slug_title": "the-shark", "date": "1930-03-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

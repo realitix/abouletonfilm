@@ -1,1 +1,0 @@
-{"tmdb_id": 312647, "title": "Koerner, Ray & Glover: Blues, Rags & Hollers", "original_title": "Koerner, Ray & Glover: Blues, Rags & Hollers", "slug_title": "koerner-ray-glover-blues-rags-hollers", "date": "1986-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

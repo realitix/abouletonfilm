@@ -1,1 +1,0 @@
-{"tmdb_id": 419978, "title": "Drawing with Connector Pens", "original_title": "Drawing with Connector Pens", "slug_title": "drawing-with-connector-pens", "date": "2005-06-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

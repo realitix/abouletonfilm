@@ -1,1 +1,1 @@
-{"tmdb_id": 363675, "title": "Hearse Life", "original_title": "Hearse Life", "slug_title": "hearse-life", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 363675, "title": "Hearse Life", "original_title": "Hearse Life", "slug_title": "hearse-life", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Documentary", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

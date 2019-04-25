@@ -1,1 +1,0 @@
-{"tmdb_id": 303215, "title": "Columbus Knox - The Journey Continues", "original_title": "Columbus Knox - The Journey Continues", "slug_title": "columbus-knox-the-journey-continues", "date": "2013-11-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

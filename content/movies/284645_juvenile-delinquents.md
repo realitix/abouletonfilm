@@ -1,1 +1,0 @@
-{"tmdb_id": 284645, "title": "Juvenile Delinquents", "original_title": "Shaonian fan", "slug_title": "juvenile-delinquents", "date": "1985-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

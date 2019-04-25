@@ -1,1 +1,0 @@
-{"tmdb_id": 413632, "title": "On the Wire", "original_title": "On the Wire", "slug_title": "on-the-wire", "date": "1990-12-31", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Aletta Bezuidenhout (Aletta Fourie)", "Michael O'Brien (Wouter Fourie)"], "comments": [], "recommandations_id": []}

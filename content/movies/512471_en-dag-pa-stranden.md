@@ -1,1 +1,0 @@
-{"tmdb_id": 512471, "title": "En dag p\u00e5 stranden", "original_title": "En dag p\u00e5 stranden", "slug_title": "en-dag-pa-stranden", "date": "1993-02-07", "genre": "Drame", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 337159, "title": "The Overcoat", "original_title": "\u0428\u0438\u043d\u0435\u0301\u043b\u044c", "slug_title": "the-overcoat", "date": "1981-03-06", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 262968, "title": "The Village Priest", "original_title": "El cura de la aldea", "slug_title": "the-village-priest", "date": "1927-02-14", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ciXKnWEsGYZoMHN3XeFv32w1u7.jpg", "actors": [], "comments": [], "recommandations_id": []}

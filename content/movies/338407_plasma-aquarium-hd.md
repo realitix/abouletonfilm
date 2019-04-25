@@ -1,1 +1,0 @@
-{"tmdb_id": 338407, "title": "Plasma Aquarium HD", "original_title": "Plasma Aquarium HD", "slug_title": "plasma-aquarium-hd", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eBQlxb12cRYs6B3uAUGNpMmZAxU.jpg", "actors": [], "comments": [], "recommandations_id": []}

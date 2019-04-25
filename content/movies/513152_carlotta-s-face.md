@@ -1,1 +1,0 @@
-{"tmdb_id": 513152, "title": "Carlotta's Face", "original_title": "Carlotta's Face", "slug_title": "carlotta-s-face", "date": "2018-04-07", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oDR0Ha1SvQNu4fAdZweWSlQWvOY.jpg", "actors": [], "comments": [], "recommandations_id": []}

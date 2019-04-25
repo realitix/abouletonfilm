@@ -1,1 +1,0 @@
-{"tmdb_id": 472800, "title": "Marcus Miller in Concert", "original_title": "Marcus Miller in Concert", "slug_title": "marcus-miller-in-concert", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zX3BBMVDIPyRRauRemwUValEIR9.jpg", "actors": [], "comments": [], "recommandations_id": []}

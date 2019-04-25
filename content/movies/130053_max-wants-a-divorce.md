@@ -1,1 +1,0 @@
-{"tmdb_id": 130053, "title": "Max Wants a Divorce", "original_title": "Max Wants a Divorce", "slug_title": "max-wants-a-divorce", "date": "1917-03-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Max Linder (Max)", "Martha Mansfield (Max's Wife)"], "comments": [], "recommandations_id": []}

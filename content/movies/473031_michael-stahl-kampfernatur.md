@@ -1,1 +1,0 @@
-{"tmdb_id": 473031, "title": "Michael Stahl - K\u00e4mpfernatur", "original_title": "Michael Stahl - K\u00e4mpfernatur", "slug_title": "michael-stahl-kampfernatur", "date": "2017-05-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7q0dBbDoq34wHdSTXvsCVLQXQmJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

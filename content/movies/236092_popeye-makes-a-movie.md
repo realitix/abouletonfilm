@@ -1,1 +1,0 @@
-{"tmdb_id": 236092, "title": "Popeye Makes a Movie", "original_title": "Popeye Makes a Movie", "slug_title": "popeye-makes-a-movie", "date": "1950-08-10", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u2ZOKAwu6zfTBBEOVt5o4Ua1qyS.jpg", "actors": [], "comments": [], "recommandations_id": []}

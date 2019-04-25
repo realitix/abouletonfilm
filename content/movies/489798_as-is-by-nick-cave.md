@@ -1,1 +1,0 @@
-{"tmdb_id": 489798, "title": "As Is by Nick Cave", "original_title": "As Is by Nick Cave", "slug_title": "as-is-by-nick-cave", "date": "2017-10-15", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6VgrNUyo7BZ3uqsxVwJ3tlMMNei.jpg", "actors": [], "comments": [], "recommandations_id": []}

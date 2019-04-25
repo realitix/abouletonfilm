@@ -1,1 +1,0 @@
-{"tmdb_id": 454560, "title": "Jimmy the Saint", "original_title": "Jimmy the Saint", "slug_title": "jimmy-the-saint", "date": "2017-05-03", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gNnd5J9YnxbtekpjOtncQFAzp65.jpg", "actors": [], "comments": [], "recommandations_id": []}

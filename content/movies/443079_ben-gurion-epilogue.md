@@ -1,1 +1,0 @@
-{"tmdb_id": 443079, "title": "Ben-Gurion, Epilogue", "original_title": "Ben-Gurion, Epilogue", "slug_title": "ben-gurion-epilogue", "date": "2016-02-21", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6RaVq6MMWlGd3JTj6biItKDYK1y.jpg", "actors": ["David Ben-Gurion ()"], "comments": [], "recommandations_id": []}

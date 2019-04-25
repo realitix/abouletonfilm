@@ -1,1 +1,0 @@
-{"tmdb_id": 283692, "title": "Fleur de Paris", "original_title": "Fleur de Paris", "slug_title": "fleur-de-paris", "date": "1916-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mistinguett ()", "Harry Baur ()", "Louis Paglieri ()"], "comments": [], "recommandations_id": []}

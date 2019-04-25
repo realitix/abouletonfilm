@@ -1,1 +1,0 @@
-{"tmdb_id": 270102, "title": "Los guapos del parque", "original_title": "Los guapos del parque", "slug_title": "los-guapos-del-parque", "date": "1904-05-15", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [119955, 119949, 116363, 119959]}

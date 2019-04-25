@@ -1,1 +1,0 @@
-{"tmdb_id": 468119, "title": "Jack and Jill: A Postscript", "original_title": "Jack and Jill: A Postscript", "slug_title": "jack-and-jill-a-postscript", "date": "1970-10-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/inyCti0aAXYryJAUPFEqjRULLyL.jpg", "actors": [], "comments": [], "recommandations_id": []}

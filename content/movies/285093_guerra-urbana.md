@@ -1,1 +1,1 @@
-{"tmdb_id": 285093, "title": "GUERRA URBANA", "original_title": "GUERRA URBANA", "slug_title": "guerra-urbana", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 285093, "title": "GUERRA URBANA", "original_title": "GUERRA URBANA", "slug_title": "guerra-urbana", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "URBAN WARFARE", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

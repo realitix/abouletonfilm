@@ -1,1 +1,0 @@
-{"tmdb_id": 180548, "title": "Water Life A World of Water", "original_title": "Water Life A World of Water", "slug_title": "water-life-a-world-of-water", "date": "2009-12-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jRsf8CR1Qgb8jRA9VS4kzbrS0V1.jpg", "actors": [], "comments": [], "recommandations_id": []}

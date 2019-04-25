@@ -1,1 +1,0 @@
-{"tmdb_id": 488353, "title": "Mantostaan", "original_title": "Mantostaan", "slug_title": "mantostaan", "date": "2017-05-05", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g5dmUZII7nQXomTQGzniMsIZifZ.jpg", "actors": ["Sonal Sehgal ()", "Raghubir Yadav ()", "Veerendra Saxena ()"], "comments": [], "recommandations_id": []}

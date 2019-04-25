@@ -1,1 +1,0 @@
-{"tmdb_id": 303786, "title": "Blind Warrior", "original_title": "Neraka perut bumi", "slug_title": "blind-warrior", "date": "1987-01-01", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u0wBFGCg6KLylhqDLLezy4vlvf6.jpg", "actors": ["Advent Bangun (Blind Warrior)"], "comments": [], "recommandations_id": []}

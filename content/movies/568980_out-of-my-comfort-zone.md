@@ -1,1 +1,0 @@
-{"tmdb_id": 568980, "title": "Out of My Comfort Zone", "original_title": "Out of My Comfort Zone", "slug_title": "out-of-my-comfort-zone", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e4Wu9vu9CC6Xx4ln5P4JMjwq1ls.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 519293, "title": "Downtown Goddess", "original_title": "Downtown Goddess", "slug_title": "downtown-goddess", "date": "", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

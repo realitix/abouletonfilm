@@ -1,1 +1,0 @@
-{"tmdb_id": 438245, "title": "The Tell-tale Heart", "original_title": "The Tell-tale Heart", "slug_title": "the-tell-tale-heart", "date": "2005-01-30", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

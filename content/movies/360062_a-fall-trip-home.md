@@ -1,1 +1,0 @@
-{"tmdb_id": 360062, "title": "A Fall Trip Home", "original_title": "A Fall Trip Home", "slug_title": "a-fall-trip-home", "date": "1964-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qsTmg3uUVBukroELswLZTxypGEv.jpg", "actors": [], "comments": [], "recommandations_id": []}

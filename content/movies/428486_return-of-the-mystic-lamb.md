@@ -1,1 +1,0 @@
-{"tmdb_id": 428486, "title": "Return of the Mystic Lamb", "original_title": "Return of the Mystic Lamb", "slug_title": "return-of-the-mystic-lamb", "date": "1946-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

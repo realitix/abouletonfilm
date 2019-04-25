@@ -1,1 +1,0 @@
-{"tmdb_id": 375581, "title": "Footpads", "original_title": "Footpads", "slug_title": "footpads", "date": "1896-01-01", "genre": "Crime / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sJOx5gFATjy5aRhWUyKrFnAlNSJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 296950, "title": "BoA: Live Tour - Identity", "original_title": "BoA: Live Tour - Identity", "slug_title": "boa-live-tour-identity", "date": "2010-10-10", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5bae9hQqc4G1eTthjPvs4Rcf738.jpg", "actors": ["BoA ()"], "comments": [], "recommandations_id": []}

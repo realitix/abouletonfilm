@@ -1,1 +1,0 @@
-{"tmdb_id": 337018, "title": "Communism", "original_title": "Communism", "slug_title": "communism", "date": "1919-01-01", "genre": "Animation", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

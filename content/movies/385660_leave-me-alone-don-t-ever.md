@@ -1,1 +1,0 @@
-{"tmdb_id": 385660, "title": "Leave Me Alone Don't Ever", "original_title": "Leave Me Alone Don't Ever", "slug_title": "leave-me-alone-don-t-ever", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

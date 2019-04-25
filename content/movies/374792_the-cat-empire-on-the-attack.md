@@ -1,1 +1,0 @@
-{"tmdb_id": 374792, "title": "The Cat Empire: On The Attack", "original_title": "The Cat Empire: On The Attack", "slug_title": "the-cat-empire-on-the-attack", "date": "2004-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nJTYxEZRF3H0n61bp4Il9nZEVae.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 364445, "title": "Al-Risalah", "original_title": "Al-Risalah", "slug_title": "al-risalah", "date": "1976-03-09", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7RPk0aTG78HAFWWjBjlq4xd2DAp.jpg", "actors": [], "comments": [], "recommandations_id": []}

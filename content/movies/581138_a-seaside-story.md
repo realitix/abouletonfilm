@@ -1,1 +1,0 @@
-{"tmdb_id": 581138, "title": "A Seaside Story", "original_title": "A Seaside Story", "slug_title": "a-seaside-story", "date": "1986-02-10", "genre": "Com\u00e9die", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uZOKp9WMXoMpGZQHHf5RQHmDDym.jpg", "actors": ["Gwen Nelson (The landlady)"], "comments": [], "recommandations_id": []}

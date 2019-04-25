@@ -1,1 +1,0 @@
-{"tmdb_id": 325160, "title": "F(l)ag Football", "original_title": "F(l)ag Football", "slug_title": "f-l-ag-football", "date": "2015-03-30", "genre": "Documentaire", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ggkObEHOPbc2eIJmRDuXDMGPuGj.jpg", "actors": [], "comments": [], "recommandations_id": []}

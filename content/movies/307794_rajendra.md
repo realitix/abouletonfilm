@@ -1,1 +1,0 @@
-{"tmdb_id": 307794, "title": "Rajendra", "original_title": "Rajendra", "slug_title": "rajendra", "date": "2011-12-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

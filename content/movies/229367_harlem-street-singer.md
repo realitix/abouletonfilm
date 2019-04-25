@@ -1,1 +1,0 @@
-{"tmdb_id": 229367, "title": "Harlem Street Singer", "original_title": "Harlem Street Singer", "slug_title": "harlem-street-singer", "date": "2014-09-26", "genre": "Histoire / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/21dcMLY7twS9R5MOQOs9DMgtT3d.jpg", "actors": [], "comments": [], "recommandations_id": []}

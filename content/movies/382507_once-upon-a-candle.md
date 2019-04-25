@@ -1,1 +1,0 @@
-{"tmdb_id": 382507, "title": "Once Upon a Candle", "original_title": "Once Upon a Candle", "slug_title": "once-upon-a-candle", "date": "2014-05-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qtuCObTDinlrUivD6sJ5WrBx6LL.jpg", "actors": [], "comments": [], "recommandations_id": []}

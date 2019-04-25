@@ -1,1 +1,0 @@
-{"tmdb_id": 551790, "title": "Die Kandidaten", "original_title": "Die Kandidaten", "slug_title": "die-kandidaten", "date": "2018-09-29", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

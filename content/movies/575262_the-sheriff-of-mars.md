@@ -1,1 +1,0 @@
-{"tmdb_id": 575262, "title": "The Sheriff of Mars", "original_title": "The Sheriff of Mars", "slug_title": "the-sheriff-of-mars", "date": "", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Daniel Antopolsky (Himself)"], "comments": [], "recommandations_id": []}

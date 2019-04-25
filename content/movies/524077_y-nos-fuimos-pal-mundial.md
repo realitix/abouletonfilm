@@ -1,1 +1,0 @@
-{"tmdb_id": 524077, "title": "Y nos fuimos pal' mundial", "original_title": "Y nos fuimos pal' mundial", "slug_title": "y-nos-fuimos-pal-mundial", "date": "2018-05-31", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tZFQauxGY7CpjdH3Nn0VILbjNGP.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 583773, "title": "A Boatload of Wild Irishmen", "original_title": "A Boatload of Wild Irishmen", "slug_title": "a-boatload-of-wild-irishmen", "date": "2010-07-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

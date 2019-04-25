@@ -1,1 +1,0 @@
-{"tmdb_id": 489856, "title": "Murder at Koh E Fiza", "original_title": "Murder at Koh E Fiza", "slug_title": "murder-at-koh-e-fiza", "date": "2018-02-02", "genre": "Myst\u00e8re", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gVT22EuJ2z6LRbKjsns2cXm6Jbn.jpg", "actors": [], "comments": [], "recommandations_id": []}

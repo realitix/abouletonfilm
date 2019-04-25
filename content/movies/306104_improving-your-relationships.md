@@ -1,1 +1,0 @@
-{"tmdb_id": 306104, "title": "Improving Your Relationships", "original_title": "Improving Your Relationships", "slug_title": "improving-your-relationships", "date": "2013-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

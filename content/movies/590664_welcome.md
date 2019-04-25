@@ -1,1 +1,0 @@
-{"tmdb_id": 590664, "title": "Welcome", "original_title": "Welcome", "slug_title": "welcome", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Benett Vilm\u00e1nyi (David)", "\u00c9va Kerekes (Mother)", "Csaba Horv\u00e1th (Father)", "Tam\u00e1s Kov\u00e1cs (Alex)"], "comments": [], "recommandations_id": []}

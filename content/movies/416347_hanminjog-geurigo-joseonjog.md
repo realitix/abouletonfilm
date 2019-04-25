@@ -1,1 +1,0 @@
-{"tmdb_id": 416347, "title": "\ud55c\ubbfc\uc871 \uadf8\ub9ac\uace0 \uc870\uc120\uc871", "original_title": "\ud55c\ubbfc\uc871 \uadf8\ub9ac\uace0 \uc870\uc120\uc871", "slug_title": "hanminjog-geurigo-joseonjog", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

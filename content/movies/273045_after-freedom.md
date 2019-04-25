@@ -1,1 +1,0 @@
-{"tmdb_id": 273045, "title": "After Freedom", "original_title": "After Freedom", "slug_title": "after-freedom", "date": "2004-05-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 397750, "title": "Before Words", "original_title": "Before Words", "slug_title": "before-words", "date": "2014-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eMqgE8rFXX4JZKd3vi9BA8JyDyk.jpg", "actors": [], "comments": [], "recommandations_id": []}

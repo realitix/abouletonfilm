@@ -1,1 +1,0 @@
-{"tmdb_id": 374567, "title": "The Honky Problem", "original_title": "The Honky Problem", "slug_title": "the-honky-problem", "date": "1991-12-27", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3PKRma8tnljJVLneeyoRpaofhRe.jpg", "actors": ["Mike Judge ()"], "comments": [], "recommandations_id": []}

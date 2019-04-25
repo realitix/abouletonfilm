@@ -1,1 +1,0 @@
-{"tmdb_id": 389987, "title": "Dreamgirl", "original_title": "Dreamgirl", "slug_title": "dreamgirl", "date": "1966-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oDPKdvjuGH9wHPD3euNP1gM3X1P.jpg", "actors": ["Stacey Walker ()"], "comments": [], "recommandations_id": []}

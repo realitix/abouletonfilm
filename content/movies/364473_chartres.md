@@ -1,1 +1,0 @@
-{"tmdb_id": 364473, "title": "Chartres", "original_title": "Chartres", "slug_title": "chartres", "date": "1923-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

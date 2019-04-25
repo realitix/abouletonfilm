@@ -1,1 +1,0 @@
-{"tmdb_id": 373598, "title": "Pieces I Never Did", "original_title": "Pieces I Never Did", "slug_title": "pieces-i-never-did", "date": "1979-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

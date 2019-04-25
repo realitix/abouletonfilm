@@ -1,1 +1,0 @@
-{"tmdb_id": 389870, "title": "Fudoh 2: Nohma Strikes Back", "original_title": "\u6975\u9053\u6226\u56fd\u5fd7 \u4e0d\u52d52", "slug_title": "fudoh-2-nohma-strikes-back", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9ZWZEgNbee3Bu4YnzuA3bZXeuJ7.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 428428, "title": "Bob Mann's Automatic Golf", "original_title": "Bob Mann's Automatic Golf", "slug_title": "bob-mann-s-automatic-golf", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

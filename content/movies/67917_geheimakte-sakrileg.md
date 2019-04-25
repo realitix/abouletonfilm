@@ -1,1 +1,0 @@
-{"tmdb_id": 67917, "title": "Geheimakte Sakrileg", "original_title": "Geheimakte Sakrileg", "slug_title": "geheimakte-sakrileg", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

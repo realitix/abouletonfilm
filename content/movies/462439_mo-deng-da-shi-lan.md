@@ -1,1 +1,0 @@
-{"tmdb_id": 462439, "title": "Mo deng da shi lan", "original_title": "Mo deng da shi lan", "slug_title": "mo-deng-da-shi-lan", "date": "1981-09-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/c1nGlKWZ15l5DPmraxgSbm8D4X8.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 308481, "title": "Genesis with Max McLean", "original_title": "Genesis with Max McLean", "slug_title": "genesis-with-max-mclean", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

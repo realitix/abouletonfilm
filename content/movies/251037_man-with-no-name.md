@@ -1,1 +1,0 @@
-{"tmdb_id": 251037, "title": "Man with No Name", "original_title": "Wu ming zhe", "slug_title": "man-with-no-name", "date": "2009-01-01", "genre": "Documentaire", "score": "7.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/FEzdQf9RUQiQSqLfjCNE6jHgjn.jpg", "actors": [], "comments": [], "recommandations_id": [65720, 310799, 108831, 200021]}

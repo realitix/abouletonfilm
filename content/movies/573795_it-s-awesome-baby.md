@@ -1,1 +1,0 @@
-{"tmdb_id": 573795, "title": "It's Awesome Baby!", "original_title": "It's Awesome, Baby!", "slug_title": "it-s-awesome-baby", "date": "", "genre": "Com\u00e9die / Action", "score": "9.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Scott Wozniak (Scott)", "Joe Robertson ()", "Sam Essig ()", "Dominic Mattero ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 177634, "title": "Wall Writers", "original_title": "Wall Writers", "slug_title": "wall-writers", "date": "2016-06-24", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gGZ1daskqmjj0f7Ec6xhNrl7YLb.jpg", "actors": [], "comments": [], "recommandations_id": []}

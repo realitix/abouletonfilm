@@ -1,1 +1,0 @@
-{"tmdb_id": 362913, "title": "L'Homographe", "original_title": "L'Homographe", "slug_title": "l-homographe", "date": "1969-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

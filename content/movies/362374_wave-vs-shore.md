@@ -1,1 +1,0 @@
-{"tmdb_id": 362374, "title": "Wave vs. Shore", "original_title": "Vlna vs. breh", "slug_title": "wave-vs-shore", "date": "2014-11-06", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/exntsTGfxw8PqcdxPY064awiC5T.jpg", "actors": [], "comments": [], "recommandations_id": []}

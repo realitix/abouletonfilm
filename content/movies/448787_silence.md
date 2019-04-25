@@ -1,1 +1,0 @@
-{"tmdb_id": 448787, "title": "SILENCE", "original_title": "SILENCE", "slug_title": "silence", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 528709, "title": "K-1 World GP '98 Opening Round", "original_title": "K-1 World GP '98 Opening Round", "slug_title": "k-1-world-gp-98-opening-round", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

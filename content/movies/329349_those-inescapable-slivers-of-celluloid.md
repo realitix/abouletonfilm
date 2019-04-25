@@ -1,1 +1,0 @@
-{"tmdb_id": 329349, "title": "THOSE INESCAPABLE SLIVERS OF CELLULOID", "original_title": "THOSE INESCAPABLE SLIVERS OF CELLULOID", "slug_title": "those-inescapable-slivers-of-celluloid", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

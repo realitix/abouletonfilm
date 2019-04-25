@@ -1,1 +1,0 @@
-{"tmdb_id": 390508, "title": "The Life of the Weed", "original_title": "\u8349\u306e\u4e00\u751f", "slug_title": "the-life-of-the-weed", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/68dv5h93cRrjUCMWWaONxnMA8u8.jpg", "actors": [], "comments": [], "recommandations_id": []}

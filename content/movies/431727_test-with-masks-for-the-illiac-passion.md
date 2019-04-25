@@ -1,1 +1,0 @@
-{"tmdb_id": 431727, "title": "Test with Masks for \u2018The Illiac Passion\u2019", "original_title": "Test with Masks for \u2018The Illiac Passion\u2019", "slug_title": "test-with-masks-for-the-illiac-passion", "date": "1966-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

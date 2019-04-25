@@ -1,1 +1,0 @@
-{"tmdb_id": 584741, "title": "El alquiler", "original_title": "El alquiler", "slug_title": "el-alquiler", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hs6CWWt1zQwoOXjQqI65PdtZN4P.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 178011, "title": "Andromeda Stories", "original_title": "Andromeda Stories", "slug_title": "andromeda-stories", "date": "1982-08-21", "genre": "Animation / Science-Fiction", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nzcbkHgvZbQ0972r5UuiEipRJ1N.jpg", "actors": [], "comments": [], "recommandations_id": []}

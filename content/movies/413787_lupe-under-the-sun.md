@@ -1,1 +1,0 @@
-{"tmdb_id": 413787, "title": "Lupe Under the Sun", "original_title": "Lupe bajo el sol", "slug_title": "lupe-under-the-sun", "date": "2016-10-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cDU2WdA1vXyFLGpShtu5iJCrZCF.jpg", "actors": [], "comments": [], "recommandations_id": []}

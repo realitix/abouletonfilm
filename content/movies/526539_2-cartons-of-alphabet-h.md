@@ -1,1 +1,0 @@
-{"tmdb_id": 526539, "title": "2 Cartons of Alphabet H", "original_title": "2 Cartons of Alphabet H", "slug_title": "2-cartons-of-alphabet-h", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/78IvgjiIznz0Z1pRJSgZPdN4Khi.jpg", "actors": ["Dean Fujioka ()"], "comments": [], "recommandations_id": []}

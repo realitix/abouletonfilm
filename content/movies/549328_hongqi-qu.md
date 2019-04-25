@@ -1,1 +1,0 @@
-{"tmdb_id": 549328, "title": "Hongqi qu", "original_title": "Hongqi qu", "slug_title": "hongqi-qu", "date": "1970-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

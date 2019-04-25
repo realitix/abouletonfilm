@@ -1,1 +1,0 @@
-{"tmdb_id": 334950, "title": "Max Milligan - Play Scotty Moore", "original_title": "Max Milligan - Play Scotty Moore", "slug_title": "max-milligan-play-scotty-moore", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

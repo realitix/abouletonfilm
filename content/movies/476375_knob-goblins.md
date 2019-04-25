@@ -1,1 +1,0 @@
-{"tmdb_id": 476375, "title": "Knob Goblins", "original_title": "Knob Goblins", "slug_title": "knob-goblins", "date": "", "genre": "", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mRzJAfeoavlwquPUHogHoED31MY.jpg", "actors": [], "comments": [], "recommandations_id": []}

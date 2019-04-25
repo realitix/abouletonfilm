@@ -1,1 +1,0 @@
-{"tmdb_id": 282538, "title": "Venkata In Sankata", "original_title": "Venkata In Sankata", "slug_title": "venkata-in-sankata", "date": "2009-02-19", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ramesh Aravind ()", "Sharmila Mandre ()", "Meghana Mudhiyan ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 277303, "title": "Sacred Places", "original_title": "Lieux saints", "slug_title": "sacred-places", "date": "2009-04-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iXG7M8x8AhbZ3gKU1NNVmyJbaDg.jpg", "actors": [], "comments": [], "recommandations_id": []}

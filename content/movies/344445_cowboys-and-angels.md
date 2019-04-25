@@ -1,1 +1,0 @@
-{"tmdb_id": 344445, "title": "Cowboys and Angels", "original_title": "Cowboys and Angels", "slug_title": "cowboys-and-angels", "date": "1991-05-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jack Kent (Nelson Ripley)", "Dionne Barnes (Tina Beckton)"], "comments": [], "recommandations_id": []}

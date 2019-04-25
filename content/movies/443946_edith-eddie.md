@@ -1,1 +1,0 @@
-{"tmdb_id": 443946, "title": "Edith+Eddie", "original_title": "Edith+Eddie", "slug_title": "edith-eddie", "date": "2017-03-02", "genre": "Documentaire", "score": "7.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4wRY96wHHhiJmO98tNR0t6M3kye.jpg", "actors": [], "comments": [], "recommandations_id": [491206, 473278, 466489, 411007]}

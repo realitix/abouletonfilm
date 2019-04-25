@@ -1,1 +1,0 @@
-{"tmdb_id": 277204, "title": "Kekko Kamen", "original_title": "Kekko Kamen", "slug_title": "kekko-kamen", "date": "1991-01-10", "genre": "", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zZMLBEq4ZpIdzjAIzJmgtzxW4Tw.jpg", "actors": [], "comments": [], "recommandations_id": []}

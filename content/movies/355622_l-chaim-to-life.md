@@ -1,1 +1,0 @@
-{"tmdb_id": 355622, "title": "L'Chaim!: To Life!", "original_title": "L'Chaim!: To Life!", "slug_title": "l-chaim-to-life", "date": "2015-08-27", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iszEk3WR9ZlkwPJvpqH9p98CUvh.jpg", "actors": ["Chaim Lubelski (Chaim)"], "comments": [], "recommandations_id": []}

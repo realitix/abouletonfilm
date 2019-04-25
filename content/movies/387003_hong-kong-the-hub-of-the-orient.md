@@ -1,1 +1,0 @@
-{"tmdb_id": 387003, "title": "Hong Kong: 'The Hub of the Orient'", "original_title": "Hong Kong: 'The Hub of the Orient'", "slug_title": "hong-kong-the-hub-of-the-orient", "date": "1937-05-01", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["James A. FitzPatrick ()"], "comments": [], "recommandations_id": []}

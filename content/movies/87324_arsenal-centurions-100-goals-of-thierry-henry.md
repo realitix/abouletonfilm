@@ -1,1 +1,0 @@
-{"tmdb_id": 87324, "title": "Arsenal Centurions - 100 Goals Of Thierry Henry", "original_title": "Arsenal Centurions - 100 Goals Of Thierry Henry", "slug_title": "arsenal-centurions-100-goals-of-thierry-henry", "date": "2003-08-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

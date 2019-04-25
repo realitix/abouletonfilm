@@ -1,1 +1,0 @@
-{"tmdb_id": 426848, "title": "Martin Luther King, Jr.: Legacy of a Dream", "original_title": "Martin Luther King, Jr.: Legacy of a Dream", "slug_title": "martin-luther-king-jr-legacy-of-a-dream", "date": "1971-11-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 550529, "title": "A Robot Is a Robot", "original_title": "A Robot Is a Robot", "slug_title": "a-robot-is-a-robot", "date": "2018-11-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

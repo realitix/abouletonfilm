@@ -1,1 +1,0 @@
-{"tmdb_id": 187415, "title": "Shaking Tokyo", "original_title": "Shaking Tokyo", "slug_title": "shaking-tokyo", "date": "2008-05-13", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Y\u016b Aoi ()", "Teruyuki Kagawa ()", "Naoto Takenaka ()"], "comments": [], "recommandations_id": []}

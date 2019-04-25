@@ -1,1 +1,0 @@
-{"tmdb_id": 588348, "title": "Kanch Kata Hirey", "original_title": "Kanch Kata Hirey", "slug_title": "kanch-kata-hirey", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Soumitra Chatterjee ()", "Lily Chakravarty ()", "Subhendu Chatterjee ()", "Aparna Devi ()", "Chhaya Devi ()"], "comments": [], "recommandations_id": []}

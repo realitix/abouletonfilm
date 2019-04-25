@@ -1,1 +1,0 @@
-{"tmdb_id": 594508, "title": "Monologue", "original_title": "\u041c\u043e\u043d\u043e\u043b\u043e\u0433", "slug_title": "monologue", "date": "2017-09-18", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/89FJtARprt88d2b8RnuDgjXMyeV.jpg", "actors": [], "comments": [], "recommandations_id": []}

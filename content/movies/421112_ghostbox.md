@@ -1,1 +1,0 @@
-{"tmdb_id": 421112, "title": "Ghostbox", "original_title": "Ghostbox", "slug_title": "ghostbox", "date": "2015-06-02", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rC7tLUTkJnjInY9dJbhuBRvSCvD.jpg", "actors": ["Christopher Darby (Mark)"], "comments": [], "recommandations_id": []}

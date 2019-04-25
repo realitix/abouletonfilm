@@ -1,1 +1,0 @@
-{"tmdb_id": 92, "title": "Megacities", "original_title": "Megacities", "slug_title": "megacities", "date": "1998-08-12", "genre": "Documentaire", "score": "7.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/svOFuJ0W3UTLqof10DVejjq94sw.jpg", "actors": ["Shankar Loutakke ()"], "comments": [], "recommandations_id": []}

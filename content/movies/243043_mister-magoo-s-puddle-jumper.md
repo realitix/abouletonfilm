@@ -1,1 +1,0 @@
-{"tmdb_id": 243043, "title": "Mister Magoo's Puddle Jumper", "original_title": "Mister Magoo's Puddle Jumper", "slug_title": "mister-magoo-s-puddle-jumper", "date": "1956-07-26", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8A2afR28PYdWeKn2myfvghEfU6r.jpg", "actors": [], "comments": [], "recommandations_id": []}

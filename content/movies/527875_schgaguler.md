@@ -1,1 +1,0 @@
-{"tmdb_id": 527875, "title": "Schgaguler", "original_title": "Schgaguler", "slug_title": "schgaguler", "date": "1988-03-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

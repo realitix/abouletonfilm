@@ -1,1 +1,0 @@
-{"tmdb_id": 558215, "title": "Le avventure di Pinocchio", "original_title": "Le avventure di Pinocchio", "slug_title": "le-avventure-di-pinocchio", "date": "1936-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yF9oZLgd20prjDM6IZV2KKcynKu.jpg", "actors": [], "comments": [], "recommandations_id": []}

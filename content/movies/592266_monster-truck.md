@@ -1,1 +1,0 @@
-{"tmdb_id": 592266, "title": "Monster Truck", "original_title": "Monster Truck", "slug_title": "monster-truck", "date": "", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bruce Campbell (Frugax)", "Zach Tyler (Lucas Nickle)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 336350, "title": "Tramways In The 1950s", "original_title": "Tramways In The 1950s", "slug_title": "tramways-in-the-1950s", "date": "2006-01-31", "genre": "", "score": "3.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7IbdJ0X1LaNTdSkXpd1ndPKm2M8.jpg", "actors": [], "comments": [], "recommandations_id": []}

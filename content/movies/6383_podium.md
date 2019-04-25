@@ -1,1 +1,0 @@
-{"tmdb_id": 6383, "title": "Podium", "original_title": "Podium", "slug_title": "podium", "date": "2007-02-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 331701, "title": "The Great American Wheat Harvest", "original_title": "The Great American Wheat Harvest", "slug_title": "the-great-american-wheat-harvest", "date": "2014-03-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

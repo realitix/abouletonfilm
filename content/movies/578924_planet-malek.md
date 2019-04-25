@@ -1,1 +1,0 @@
-{"tmdb_id": 578924, "title": "Planet Malek", "original_title": "Planet Malek", "slug_title": "planet-malek", "date": "2019-01-18", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d7wVIX5lj452wLkDh7GkDY7tgoz.jpg", "actors": ["Ahmed Malek ()"], "comments": [], "recommandations_id": []}

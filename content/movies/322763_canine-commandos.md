@@ -1,1 +1,0 @@
-{"tmdb_id": 322763, "title": "Canine Commandos", "original_title": "Canine Commandos", "slug_title": "canine-commandos", "date": "1943-06-28", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lk2NHrURFJdg6ospXDDDvclihF5.jpg", "actors": ["Sara Berner (Andy Panda (voice))"], "comments": [], "recommandations_id": []}

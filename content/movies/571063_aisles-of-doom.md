@@ -1,1 +1,0 @@
-{"tmdb_id": 571063, "title": "Aisles of Doom", "original_title": "Aisles of Doom", "slug_title": "aisles-of-doom", "date": "", "genre": "Com\u00e9die / Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/472Cn47GH853jTzeaqxoDdO628k.jpg", "actors": ["Alex Winter (Grendel T.W. Ulcerous)"], "comments": [], "recommandations_id": []}

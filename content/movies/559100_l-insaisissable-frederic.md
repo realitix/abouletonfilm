@@ -1,1 +1,0 @@
-{"tmdb_id": 559100, "title": "L'insaisissable Fr\u00e9d\u00e9ric", "original_title": "L'insaisissable Fr\u00e9d\u00e9ric", "slug_title": "l-insaisissable-frederic", "date": "1946-07-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yvYZDDqQLbEjiXDMe7SzVQQM6w1.jpg", "actors": [], "comments": [], "recommandations_id": []}

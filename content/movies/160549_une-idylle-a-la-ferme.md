@@ -1,1 +1,0 @@
-{"tmdb_id": 160549, "title": "Une idylle \u00e0 la ferme", "original_title": "Une idylle \u00e0 la ferme", "slug_title": "une-idylle-a-la-ferme", "date": "1912-08-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Max Linder (Max)"], "comments": [], "recommandations_id": []}

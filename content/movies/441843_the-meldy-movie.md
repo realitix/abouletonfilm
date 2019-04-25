@@ -1,1 +1,0 @@
-{"tmdb_id": 441843, "title": "The Meldy Movie", "original_title": "The Meldy Movie", "slug_title": "the-meldy-movie", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aqLMelKBu3H6glURtTzYP7Y1TuT.jpg", "actors": ["Melody Contreras-Williams (Meldy CW)"], "comments": [], "recommandations_id": []}

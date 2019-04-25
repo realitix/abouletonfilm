@@ -1,1 +1,0 @@
-{"tmdb_id": 536811, "title": "Stick Climbing", "original_title": "Stick Climbing", "slug_title": "stick-climbing", "date": "2011-02-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rfio9VUcRcM1ned8fJHocEpr1rd.jpg", "actors": [], "comments": [], "recommandations_id": []}

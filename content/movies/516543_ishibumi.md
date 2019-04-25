@@ -1,1 +1,0 @@
-{"tmdb_id": 516543, "title": "Ishibumi", "original_title": "\u3044 \u3057\u3076 \u307f", "slug_title": "ishibumi", "date": "2015-08-01", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u3Tat2eVK85swbBbSAWVMpYeDj0.jpg", "actors": ["Haruka Ayase (Narrator / Host)"], "comments": [], "recommandations_id": []}

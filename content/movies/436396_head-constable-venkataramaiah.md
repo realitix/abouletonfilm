@@ -1,1 +1,0 @@
-{"tmdb_id": 436396, "title": "Head Constable Venkataramaiah", "original_title": "Head Constable Venkataramaiah", "slug_title": "head-constable-venkataramaiah", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

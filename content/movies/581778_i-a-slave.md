@@ -1,1 +1,0 @@
-{"tmdb_id": 581778, "title": "I, a Slave", "original_title": "I, a Slave", "slug_title": "i-a-slave", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

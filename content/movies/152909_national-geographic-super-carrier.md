@@ -1,1 +1,0 @@
-{"tmdb_id": 152909, "title": "National Geographic: Super Carrier", "original_title": "National Geographic: Super Carrier", "slug_title": "national-geographic-super-carrier", "date": "", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gAotXUnx2hZbm67t22GyZiKiKeW.jpg", "actors": [], "comments": [], "recommandations_id": []}

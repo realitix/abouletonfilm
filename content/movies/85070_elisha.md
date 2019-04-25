@@ -1,1 +1,0 @@
-{"tmdb_id": 85070, "title": "Elisha", "original_title": "Elisha", "slug_title": "elisha", "date": "1993-12-31", "genre": "Familial / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ttXENU50ENPJpouphg9YVvNJGJp.jpg", "actors": [], "comments": [], "recommandations_id": []}

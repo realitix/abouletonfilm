@@ -1,1 +1,0 @@
-{"tmdb_id": 288441, "title": "The Firm - Ab Sculpt", "original_title": "The Firm - Ab Sculpt", "slug_title": "the-firm-ab-sculpt", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yoEmHumrm0LST7v5dmp78th037C.jpg", "actors": ["Lisa Kay (Herself)"], "comments": [], "recommandations_id": []}

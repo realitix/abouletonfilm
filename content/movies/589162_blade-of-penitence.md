@@ -1,1 +1,0 @@
-{"tmdb_id": 589162, "title": "Blade of Penitence", "original_title": "Zange no yaiba", "slug_title": "blade-of-penitence", "date": "1927-10-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["kunimatsu ogawa ()", "Saburo Azuma ()", "Kanji Kawahara ()", "Shoichi Nodera ()"], "comments": [], "recommandations_id": []}

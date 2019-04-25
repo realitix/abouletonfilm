@@ -1,1 +1,0 @@
-{"tmdb_id": 391972, "title": "Fox in the Mirror", "original_title": "Fox in the Mirror", "slug_title": "fox-in-the-mirror", "date": "2007-01-01", "genre": "Com\u00e9die / Musique / Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

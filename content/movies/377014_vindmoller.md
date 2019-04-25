@@ -1,1 +1,0 @@
-{"tmdb_id": 377014, "title": "vindm\u00f8ller", "original_title": "vindm\u00f8ller", "slug_title": "vindmoller", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

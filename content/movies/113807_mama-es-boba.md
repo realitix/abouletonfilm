@@ -1,1 +1,0 @@
-{"tmdb_id": 113807, "title": "Mam\u00e1 es boba", "original_title": "Mam\u00e1 es boba", "slug_title": "mama-es-boba", "date": "1997-01-31", "genre": "Drame / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ru7EHCoJiJv8CjxDUvAXRI1cpYI.jpg", "actors": [], "comments": [], "recommandations_id": []}

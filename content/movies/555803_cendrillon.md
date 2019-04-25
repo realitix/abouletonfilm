@@ -1,1 +1,0 @@
-{"tmdb_id": 555803, "title": "Cendrillon", "original_title": "Cendrillon", "slug_title": "cendrillon", "date": "1922-03-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

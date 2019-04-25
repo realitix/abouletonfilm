@@ -1,1 +1,0 @@
-{"tmdb_id": 333973, "title": "Dawn of the Capricorn", "original_title": "Tolu-e Fajr", "slug_title": "dawn-of-the-capricorn", "date": "1964-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sEosQrpZARhkBYtfPE1ei80kWHr.jpg", "actors": [], "comments": [], "recommandations_id": []}

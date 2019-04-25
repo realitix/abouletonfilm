@@ -1,1 +1,0 @@
-{"tmdb_id": 196058, "title": "A Day in the Hayfields", "original_title": "A Day in the Hayfields", "slug_title": "a-day-in-the-hayfields", "date": "1904-05-22", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

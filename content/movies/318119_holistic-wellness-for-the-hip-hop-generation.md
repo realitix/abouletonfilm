@@ -1,1 +1,0 @@
-{"tmdb_id": 318119, "title": "Holistic Wellness for the Hip-Hop Generation", "original_title": "Holistic Wellness for the Hip-Hop Generation", "slug_title": "holistic-wellness-for-the-hip-hop-generation", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

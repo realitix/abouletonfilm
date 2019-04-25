@@ -1,1 +1,0 @@
-{"tmdb_id": 285678, "title": "Parsifal", "original_title": "Parsifal", "slug_title": "parsifal", "date": "1904-10-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Adelaide Fitz-Allen (Kundry)", "Robert Whittier (Parsifal)"], "comments": [], "recommandations_id": []}

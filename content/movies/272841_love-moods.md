@@ -1,1 +1,0 @@
-{"tmdb_id": 272841, "title": "Love Moods", "original_title": "Love Moods", "slug_title": "love-moods", "date": "1952-01-02", "genre": "Musique", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bDtZehQsOoPalOsGUTEDpE1K40F.jpg", "actors": ["Lili St. Cyr (Herself)"], "comments": [], "recommandations_id": []}

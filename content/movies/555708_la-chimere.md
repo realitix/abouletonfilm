@@ -1,1 +1,0 @@
-{"tmdb_id": 555708, "title": "La chim\u00e8re", "original_title": "La chim\u00e8re", "slug_title": "la-chimere", "date": "1919-03-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

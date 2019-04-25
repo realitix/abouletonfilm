@@ -1,1 +1,0 @@
-{"tmdb_id": 502318, "title": "The Call", "original_title": "La Convocazione", "slug_title": "the-call", "date": "2017-12-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lV0QY3o1sGxe1X7Q4MnV5CnTXmi.jpg", "actors": [], "comments": [], "recommandations_id": []}

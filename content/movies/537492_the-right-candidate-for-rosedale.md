@@ -1,1 +1,0 @@
-{"tmdb_id": 537492, "title": "The Right Candidate for Rosedale", "original_title": "The Right Candidate for Rosedale", "slug_title": "the-right-candidate-for-rosedale", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

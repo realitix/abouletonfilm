@@ -1,1 +1,0 @@
-{"tmdb_id": 317760, "title": "The Companion", "original_title": "\u09a6\u09cb\u09b8\u09b0", "slug_title": "the-companion", "date": "2006-05-10", "genre": "Drame", "score": "7.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Prosenjit Chatterjee ()", "Konkona Sen Sharma ()"], "comments": [], "recommandations_id": []}

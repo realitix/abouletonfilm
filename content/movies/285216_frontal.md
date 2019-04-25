@@ -1,1 +1,0 @@
-{"tmdb_id": 285216, "title": "Frontal", "original_title": "Frontale", "slug_title": "frontal", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jX3u72k9byXz07mXaumwiBCRYGK.jpg", "actors": [], "comments": [], "recommandations_id": []}

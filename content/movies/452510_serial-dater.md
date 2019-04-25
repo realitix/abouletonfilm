@@ -1,1 +1,0 @@
-{"tmdb_id": 452510, "title": "Serial Dater", "original_title": "Serial Dater", "slug_title": "serial-dater", "date": "2016-02-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9HTr8d6glirLymbWuOkXUS3tzhi.jpg", "actors": ["David Scott (Jeremy Collins)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 336063, "title": "S.B.: Io lo conoscevo bene", "original_title": "S.B.: Io lo conoscevo bene", "slug_title": "s-b-io-lo-conoscevo-bene", "date": "2013-02-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oEcvnVzunqS92MHYA24IDRGRpBH.jpg", "actors": [], "comments": [], "recommandations_id": []}

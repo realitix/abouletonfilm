@@ -1,1 +1,0 @@
-{"tmdb_id": 323400, "title": "Marcela & Rock", "original_title": "Marcela & Rock", "slug_title": "marcela-rock", "date": "2015-01-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aA0nrmweDEYK54dfSjBnTkH1va2.jpg", "actors": [], "comments": [], "recommandations_id": []}

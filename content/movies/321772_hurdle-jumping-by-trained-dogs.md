@@ -1,1 +1,0 @@
-{"tmdb_id": 321772, "title": "Hurdle Jumping; by Trained Dogs", "original_title": "Hurdle Jumping; by Trained Dogs", "slug_title": "hurdle-jumping-by-trained-dogs", "date": "1899-07-27", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Professor Leonidas ()"], "comments": [], "recommandations_id": []}

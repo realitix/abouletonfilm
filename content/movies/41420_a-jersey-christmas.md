@@ -1,1 +1,0 @@
-{"tmdb_id": 41420, "title": "A Jersey Christmas", "original_title": "A Jersey Christmas", "slug_title": "a-jersey-christmas", "date": "2008-01-01", "genre": "Com\u00e9die", "score": "2.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1d8pz4ctvybgbF8OpdtrmunS6cy.jpg", "actors": ["Chance Kelly (Armand)"], "comments": [], "recommandations_id": []}

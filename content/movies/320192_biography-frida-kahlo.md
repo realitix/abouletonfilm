@@ -1,1 +1,0 @@
-{"tmdb_id": 320192, "title": "Biography: Frida Kahlo", "original_title": "Biography: Frida Kahlo", "slug_title": "biography-frida-kahlo", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

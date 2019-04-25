@@ -1,1 +1,0 @@
-{"tmdb_id": 504045, "title": "Masarap ang unang kagat", "original_title": "Masarap ang unang kagat", "slug_title": "masarap-ang-unang-kagat", "date": "1998-04-29", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jojo Abellana ()", "Karla Estrada ()", "Alma Soriano ()"], "comments": [], "recommandations_id": []}

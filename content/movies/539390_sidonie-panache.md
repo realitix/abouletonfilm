@@ -1,1 +1,0 @@
-{"tmdb_id": 539390, "title": "Sidonie Panache", "original_title": "Sidonie Panache", "slug_title": "sidonie-panache", "date": "1934-10-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o9rr41G4rdaussmA6W5UjnqOdtK.jpg", "actors": [], "comments": [], "recommandations_id": []}

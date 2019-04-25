@@ -1,1 +1,0 @@
-{"tmdb_id": 527175, "title": "Blood Shed", "original_title": "Blood Shed", "slug_title": "blood-shed", "date": "2017-08-27", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sally Phillips (Helen)", "Shaun Dooley (Jack)"], "comments": [], "recommandations_id": []}

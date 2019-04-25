@@ -1,1 +1,0 @@
-{"tmdb_id": 304938, "title": "Where's the T?", "original_title": "Where's the T?", "slug_title": "where-s-the-t", "date": "2014-07-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

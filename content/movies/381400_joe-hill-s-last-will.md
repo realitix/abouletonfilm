@@ -1,1 +1,0 @@
-{"tmdb_id": 381400, "title": "Joe Hill's Last Will", "original_title": "Joe Hill's Last Will", "slug_title": "joe-hill-s-last-will", "date": "2015-01-01", "genre": "Musique / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["John McCutcheon (Joe Hill)"], "comments": [], "recommandations_id": []}

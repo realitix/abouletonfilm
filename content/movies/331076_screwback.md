@@ -1,1 +1,0 @@
-{"tmdb_id": 331076, "title": "Screwback", "original_title": "Screwback", "slug_title": "screwback", "date": "2004-03-17", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Liam Cunningham ()"], "comments": [], "recommandations_id": []}

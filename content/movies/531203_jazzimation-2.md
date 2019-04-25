@@ -1,1 +1,0 @@
-{"tmdb_id": 531203, "title": "Jazzimation 2", "original_title": "Jazzimation 2", "slug_title": "jazzimation-2", "date": "2017-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vWfjBQlzxTDlwnwZtrUQmUIWnSv.jpg", "actors": [], "comments": [], "recommandations_id": []}

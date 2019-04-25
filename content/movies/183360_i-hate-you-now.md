@@ -1,1 +1,0 @@
-{"tmdb_id": 183360, "title": "I Hate You Now", "original_title": "I Hate You Now", "slug_title": "i-hate-you-now", "date": "1985-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bAoTgd5QeHjTVSnHODaMw0al7S6.jpg", "actors": [], "comments": [], "recommandations_id": []}

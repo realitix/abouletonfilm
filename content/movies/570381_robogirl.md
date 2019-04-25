@@ -1,1 +1,0 @@
-{"tmdb_id": 570381, "title": "Robogirl", "original_title": "Robogirl", "slug_title": "robogirl", "date": "2018-12-06", "genre": "Com\u00e9die / Familial", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/juVSUhYC4DHRMogZp1BKUj3eJcQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

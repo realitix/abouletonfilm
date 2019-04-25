@@ -1,1 +1,0 @@
-{"tmdb_id": 302439, "title": "ROH Glory By Honor XI", "original_title": "ROH Glory By Honor XI", "slug_title": "roh-glory-by-honor-xi", "date": "2012-10-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6Z8fpBEUXVxU9ZoB7exjfFPOl33.jpg", "actors": [], "comments": [], "recommandations_id": []}

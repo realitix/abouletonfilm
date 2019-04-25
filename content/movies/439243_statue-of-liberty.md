@@ -1,1 +1,0 @@
-{"tmdb_id": 439243, "title": "Statue Of Liberty", "original_title": "Statue Of Liberty", "slug_title": "statue-of-liberty", "date": "2014-07-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

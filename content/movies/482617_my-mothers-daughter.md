@@ -1,1 +1,0 @@
-{"tmdb_id": 482617, "title": "My Mothers Daughter", "original_title": "\ub0b4 \uc5ec\uc790\uc758 \uc5c4\ub9c8", "slug_title": "my-mothers-daughter", "date": "2016-05-18", "genre": "Romance / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aaGXMwzprvYwiP1U8mzELXPfIzW.jpg", "actors": [], "comments": [], "recommandations_id": []}

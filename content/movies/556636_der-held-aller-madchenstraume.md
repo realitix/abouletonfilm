@@ -1,1 +1,0 @@
-{"tmdb_id": 556636, "title": "Der Held aller M\u00e4dchenstr\u00e4ume", "original_title": "Der Held aller M\u00e4dchenstr\u00e4ume", "slug_title": "der-held-aller-madchenstraume", "date": "1929-04-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

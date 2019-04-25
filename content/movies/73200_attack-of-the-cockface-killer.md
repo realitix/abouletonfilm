@@ -1,1 +1,0 @@
-{"tmdb_id": 73200, "title": "Attack of the Cockface Killer", "original_title": "Attack of the Cockface Killer", "slug_title": "attack-of-the-cockface-killer", "date": "2002-05-05", "genre": "", "score": "4.4/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tko8Wi0ZRAVn3TuRnqeRrF9Kw1l.jpg", "actors": [], "comments": [], "recommandations_id": []}

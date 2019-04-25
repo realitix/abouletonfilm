@@ -1,1 +1,0 @@
-{"tmdb_id": 236498, "title": "Olive's Boithday Presink", "original_title": "Olive's Boithday Presink", "slug_title": "olive-s-boithday-presink", "date": "1941-06-12", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pQUbqAltnVxDgTwh5nS3XLsUbPo.jpg", "actors": [], "comments": [], "recommandations_id": []}

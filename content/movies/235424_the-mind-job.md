@@ -1,1 +1,0 @@
-{"tmdb_id": 235424, "title": "The Mind Job", "original_title": "The Mind Job", "slug_title": "the-mind-job", "date": "2012-01-01", "genre": "Com\u00e9die / Science-Fiction / Romance", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9rke28FiFeJZ3v0R4uN9c2YZgsv.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 567149, "title": "Der Italiener", "original_title": "Der Italiener", "slug_title": "der-italiener", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

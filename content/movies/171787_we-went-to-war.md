@@ -1,1 +1,0 @@
-{"tmdb_id": 171787, "title": "We Went to War", "original_title": "We Went to War", "slug_title": "we-went-to-war", "date": "2013-03-29", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7SGcjqbhLBRuhLdxHbX0nzt1n1I.jpg", "actors": [], "comments": [], "recommandations_id": []}

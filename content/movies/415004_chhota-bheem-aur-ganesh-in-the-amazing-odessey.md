@@ -1,1 +1,0 @@
-{"tmdb_id": 415004, "title": "Chhota Bheem Aur Ganesh in The Amazing Odessey", "original_title": "Chhota Bheem Aur Ganesh in The Amazing Odessey", "slug_title": "chhota-bheem-aur-ganesh-in-the-amazing-odessey", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

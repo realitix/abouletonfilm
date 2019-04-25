@@ -1,1 +1,0 @@
-{"tmdb_id": 581832, "title": "Tabu: Final Voyage", "original_title": "Tabu, dernier voyage", "slug_title": "tabu-final-voyage", "date": "1996-06-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sM3RT0v5hk4jwtKudXkcxuaGPqD.jpg", "actors": [], "comments": [], "recommandations_id": []}

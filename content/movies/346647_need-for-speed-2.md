@@ -1,1 +1,0 @@
-{"tmdb_id": 346647, "title": "Need for Speed 2", "original_title": "Need for Speed 2", "slug_title": "need-for-speed-2", "date": "", "genre": "Action", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

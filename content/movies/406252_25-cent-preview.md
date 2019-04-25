@@ -1,1 +1,0 @@
-{"tmdb_id": 406252, "title": "25 Cent Preview", "original_title": "25 Cent Preview", "slug_title": "25-cent-preview", "date": "2007-02-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lGhJR6SjydehExQo2GLy1JoNMgU.jpg", "actors": [], "comments": [], "recommandations_id": []}

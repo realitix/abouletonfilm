@@ -1,1 +1,0 @@
-{"tmdb_id": 260400, "title": "Blessed Are the Dreams of Men", "original_title": "Blessed Are the Dreams of Men", "slug_title": "blessed-are-the-dreams-of-men", "date": "2006-03-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oH38qCqp5gxywJgnMBAiJbobRGQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

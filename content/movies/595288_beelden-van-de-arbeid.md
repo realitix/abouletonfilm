@@ -1,1 +1,0 @@
-{"tmdb_id": 595288, "title": "Beelden van de arbeid", "original_title": "Beelden van de arbeid", "slug_title": "beelden-van-de-arbeid", "date": "1938-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 549335, "title": "En chassant le dieu de la peste", "original_title": "En chassant le dieu de la peste", "slug_title": "en-chassant-le-dieu-de-la-peste", "date": "1964-01-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

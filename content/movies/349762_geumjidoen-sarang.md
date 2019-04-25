@@ -1,1 +1,0 @@
-{"tmdb_id": 349762, "title": "\uae08\uc9c0\ub41c \uc0ac\ub791", "original_title": "\uae08\uc9c0\ub41c \uc0ac\ub791", "slug_title": "geumjidoen-sarang", "date": "1983-02-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

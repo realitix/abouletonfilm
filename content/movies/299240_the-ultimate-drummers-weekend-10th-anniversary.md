@@ -1,1 +1,0 @@
-{"tmdb_id": 299240, "title": "The Ultimate Drummers Weekend: 10th Anniversary", "original_title": "The Ultimate Drummers Weekend: 10th Anniversary", "slug_title": "the-ultimate-drummers-weekend-10th-anniversary", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 584378, "title": "Crazy Fox", "original_title": "Trak\u0101 Lapsa", "slug_title": "crazy-fox", "date": "", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l0p2omnzlVrMXA6XFk1YUuOLcWJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

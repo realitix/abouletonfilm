@@ -1,1 +1,0 @@
-{"tmdb_id": 310028, "title": "BBMak: Live in Vietnam: Music in High Places", "original_title": "BBMak: Live in Vietnam: Music in High Places", "slug_title": "bbmak-live-in-vietnam-music-in-high-places", "date": "2001-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

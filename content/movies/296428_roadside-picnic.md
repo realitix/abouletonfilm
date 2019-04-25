@@ -1,1 +1,0 @@
-{"tmdb_id": 296428, "title": "Roadside Picnic", "original_title": "Roadside Picnic", "slug_title": "roadside-picnic", "date": "2010-10-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kgGbSESjjMBcgO8qAdjnGdizJQ5.jpg", "actors": ["Michael Higgins ()", "Fionntan O'Donnell ()"], "comments": [], "recommandations_id": []}

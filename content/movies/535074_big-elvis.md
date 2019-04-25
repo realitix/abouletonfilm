@@ -1,1 +1,0 @@
-{"tmdb_id": 535074, "title": "Big Elvis", "original_title": "Big Elvis", "slug_title": "big-elvis", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/utxfsNnrAlKpAb6Boyi3LHxSE15.jpg", "actors": [], "comments": [], "recommandations_id": []}

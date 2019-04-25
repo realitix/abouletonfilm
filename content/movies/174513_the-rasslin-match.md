@@ -1,1 +1,0 @@
-{"tmdb_id": 174513, "title": "The Rasslin' Match", "original_title": "The Rasslin' Match", "slug_title": "the-rasslin-match", "date": "1934-01-04", "genre": "", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8Z2rlxh8C7m57AzerNLT7AMGOly.jpg", "actors": [], "comments": [], "recommandations_id": []}

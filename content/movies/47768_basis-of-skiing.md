@@ -1,1 +1,0 @@
-{"tmdb_id": 47768, "title": "Basis of Skiing", "original_title": "Basis of Skiing", "slug_title": "basis-of-skiing", "date": "2006-09-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/59iE30B4uX4baf0Fa336nIfaadB.jpg", "actors": [], "comments": [], "recommandations_id": []}

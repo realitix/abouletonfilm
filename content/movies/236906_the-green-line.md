@@ -1,1 +1,0 @@
-{"tmdb_id": 236906, "title": "The Green Line", "original_title": "The Green Line", "slug_title": "the-green-line", "date": "1944-07-06", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pmjrcmSLD0omcbngInNBWOYjGv.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 146492, "title": "Kostervalsen", "original_title": "Kostervalsen", "slug_title": "kostervalsen", "date": "1958-03-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yiwQKGn594e8118h3GPh3F1UhDB.jpg", "actors": [], "comments": [], "recommandations_id": []}

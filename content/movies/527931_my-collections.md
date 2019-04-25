@@ -1,1 +1,0 @@
-{"tmdb_id": 527931, "title": "My collections", "original_title": "My collections", "slug_title": "my-collections", "date": "1989-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xmTXdaVfwNB0nUpMoSsJKhHD1IA.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 316517, "title": "One of the Family", "original_title": "One of the Family", "slug_title": "one-of-the-family", "date": "1962-12-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

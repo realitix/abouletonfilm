@@ -1,1 +1,0 @@
-{"tmdb_id": 521175, "title": "Time Out For Sport", "original_title": "Time Out For Sport", "slug_title": "time-out-for-sport", "date": "1996-04-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t5vqYa6202pTiJFAuIzvqRhDiKL.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 548479, "title": "aaaaaaaaaaaaaaa", "original_title": "aaaaaaaaaaaaaaa", "slug_title": "aaaaaaaaaaaaaaa", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/obYhXu1tIqjKuHNjgPe8PQGc11T.jpg", "actors": [], "comments": [], "recommandations_id": []}

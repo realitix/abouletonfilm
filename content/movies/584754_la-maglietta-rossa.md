@@ -1,1 +1,0 @@
-{"tmdb_id": 584754, "title": "La maglietta rossa", "original_title": "La maglietta rossa", "slug_title": "la-maglietta-rossa", "date": "2009-10-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f3JtDgLfzH1TP2w0TG1NpXDvnau.jpg", "actors": [], "comments": [], "recommandations_id": []}

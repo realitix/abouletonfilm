@@ -1,1 +1,0 @@
-{"tmdb_id": 418401, "title": "Neuromancer", "original_title": "Neuromancer", "slug_title": "neuromancer", "date": "2021-08-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2sxOpSGlS4YT7PaeLd6GO7cGgb6.jpg", "actors": [], "comments": [], "recommandations_id": []}

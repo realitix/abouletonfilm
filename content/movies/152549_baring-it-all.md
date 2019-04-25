@@ -1,1 +1,0 @@
-{"tmdb_id": 152549, "title": "Baring It All", "original_title": "Baring It All", "slug_title": "baring-it-all", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/anT5NvPN9gvPwoNzNVXfMwS2A9Z.jpg", "actors": [], "comments": [], "recommandations_id": []}

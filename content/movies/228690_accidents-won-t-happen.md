@@ -1,1 +1,0 @@
-{"tmdb_id": 228690, "title": "Accidents Won't Happen", "original_title": "Accidents Won't Happen", "slug_title": "accidents-won-t-happen", "date": "1925-09-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

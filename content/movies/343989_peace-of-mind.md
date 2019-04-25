@@ -1,1 +1,0 @@
-{"tmdb_id": 343989, "title": "Peace of Mind", "original_title": "Peace of Mind", "slug_title": "peace-of-mind", "date": "2015-06-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2pk2MEBZJYrBl547unb2XP5egq6.jpg", "actors": [], "comments": [], "recommandations_id": []}

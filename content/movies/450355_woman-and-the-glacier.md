@@ -1,1 +1,0 @@
-{"tmdb_id": 450355, "title": "Woman and the Glacier", "original_title": "Moteris ir ledynas", "slug_title": "woman-and-the-glacier", "date": "2016-04-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zYBifJZTyJrEqSF0aMBqs2HHOx1.jpg", "actors": [], "comments": [], "recommandations_id": []}

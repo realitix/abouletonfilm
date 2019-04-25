@@ -1,1 +1,0 @@
-{"tmdb_id": 284720, "title": "Jedermann", "original_title": "Jedermann", "slug_title": "jedermann", "date": "1958-08-23", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Maria Becker ()", "Ernst Deutsch ()", "Adrienne Gessner ()", "Will Quadflieg ()"], "comments": [], "recommandations_id": []}

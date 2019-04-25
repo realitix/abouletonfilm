@@ -1,1 +1,0 @@
-{"tmdb_id": 339716, "title": "The HB Project", "original_title": "The HB Project", "slug_title": "the-hb-project", "date": "2015-05-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

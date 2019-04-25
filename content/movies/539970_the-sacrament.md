@@ -1,1 +1,0 @@
-{"tmdb_id": 539970, "title": "The Sacrament", "original_title": "\u8056\u306a\u308b\u3082\u306e", "slug_title": "the-sacrament", "date": "2018-04-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/be7m6yrSuam5efQB2UHheLrMA4m.jpg", "actors": ["Minami Mio (Minami)"], "comments": [], "recommandations_id": []}

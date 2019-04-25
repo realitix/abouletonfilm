@@ -1,1 +1,0 @@
-{"tmdb_id": 148467, "title": "SENSA\u00c7\u00c3O AO VIVO", "original_title": "SENSA\u00c7\u00c3O AO VIVO", "slug_title": "sensacao-ao-vivo", "date": "2016-02-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rzOCfxp7WbIA5uAbLjvD8eZt9wk.jpg", "actors": [], "comments": [], "recommandations_id": []}

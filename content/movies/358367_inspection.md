@@ -1,1 +1,0 @@
-{"tmdb_id": 358367, "title": "Inspection", "original_title": "\u041f\u0440\u043e\u0432\u0435\u0440\u043a\u0430", "slug_title": "inspection", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1o9EsnNDXLhoFbHYEV4rjoLXa2N.jpg", "actors": [], "comments": [], "recommandations_id": []}

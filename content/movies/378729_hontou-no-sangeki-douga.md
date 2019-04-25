@@ -1,1 +1,0 @@
-{"tmdb_id": 378729, "title": "Hontou no Sangeki Douga", "original_title": "\u672c\u5f53\u306e\u60e8\u5287\u52d5\u753b", "slug_title": "hontou-no-sangeki-douga", "date": "2012-12-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nXhHtdxPpG7rP8XmLPWxSeRdkYw.jpg", "actors": [], "comments": [], "recommandations_id": []}

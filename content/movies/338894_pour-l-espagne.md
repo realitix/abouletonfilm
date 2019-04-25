@@ -1,1 +1,0 @@
-{"tmdb_id": 338894, "title": "Pour l'Espagne", "original_title": "Pour l'Espagne", "slug_title": "pour-l-espagne", "date": "", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 347266, "title": "Hercules", "original_title": "Hercules", "slug_title": "hercules", "date": "1997-07-02", "genre": "Animation / Action", "score": "6.6/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4yeuhqmOSlseU3O4HNH6g5lDdxI.jpg", "actors": [], "comments": [], "recommandations_id": []}

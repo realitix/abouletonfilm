@@ -1,1 +1,0 @@
-{"tmdb_id": 393649, "title": "Taking Power (Louis XIV)", "original_title": "Taking Power (Louis XIV)", "slug_title": "taking-power-louis-xiv", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

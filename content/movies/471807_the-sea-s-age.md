@@ -1,1 +1,0 @@
-{"tmdb_id": 471807, "title": "The Sea's Age", "original_title": "I ilikia tis thalassas", "slug_title": "the-sea-s-age", "date": "1978-10-07", "genre": "Documentaire / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tc1ERrWc5RA5pbE0B18Cp7R7j3V.jpg", "actors": [], "comments": [], "recommandations_id": []}

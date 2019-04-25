@@ -1,1 +1,0 @@
-{"tmdb_id": 369944, "title": "Short Scenes from a Long Marriage", "original_title": "Lahathat Qasirah men Zawaj", "slug_title": "short-scenes-from-a-long-marriage", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

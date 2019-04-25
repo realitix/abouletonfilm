@@ -1,1 +1,0 @@
-{"tmdb_id": 470996, "title": "Waiting for the Eclipse", "original_title": "Waiting for the Eclipse", "slug_title": "waiting-for-the-eclipse", "date": "2016-02-29", "genre": "Myst\u00e8re", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8MVAFO0qx64s1QJEwXz791Sqgr7.jpg", "actors": [], "comments": [], "recommandations_id": []}

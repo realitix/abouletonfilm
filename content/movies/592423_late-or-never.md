@@ -1,1 +1,0 @@
-{"tmdb_id": 592423, "title": "Late or Never", "original_title": "Tarde ou Nunca", "slug_title": "late-or-never", "date": "2018-07-05", "genre": "Drame", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7uulNwVsQm0aXyTkLhtwzZo4kHJ.jpg", "actors": ["Teresa Arcanjo (Am\u00e9lia)"], "comments": [], "recommandations_id": []}

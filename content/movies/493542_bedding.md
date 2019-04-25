@@ -1,1 +1,0 @@
-{"tmdb_id": 493542, "title": "Bedding", "original_title": "\uc774\ubd88", "slug_title": "bedding", "date": "2014-12-30", "genre": "Com\u00e9die / Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

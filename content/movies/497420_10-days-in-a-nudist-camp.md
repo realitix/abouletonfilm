@@ -1,1 +1,0 @@
-{"tmdb_id": 497420, "title": "10 Days in a Nudist Camp", "original_title": "10 Days in a Nudist Camp", "slug_title": "10-days-in-a-nudist-camp", "date": "1952-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Edward Gallner (Narrator (voice))"], "comments": [], "recommandations_id": []}

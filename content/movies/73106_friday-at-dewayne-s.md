@@ -1,1 +1,0 @@
-{"tmdb_id": 73106, "title": "Friday at Dewayne's", "original_title": "Friday at Dewayne's", "slug_title": "friday-at-dewayne-s", "date": "2009-01-01", "genre": "Com\u00e9die", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rEu82o5mDPXp87UuLxyeeUc5BHr.jpg", "actors": [], "comments": [], "recommandations_id": []}

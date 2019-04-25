@@ -1,1 +1,0 @@
-{"tmdb_id": 579609, "title": "Melody of Love", "original_title": "Melody of Love", "slug_title": "melody-of-love", "date": "1928-10-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Walter Pidgeon (Jack Clark)", "Mildred Harris (Madelon)"], "comments": [], "recommandations_id": []}

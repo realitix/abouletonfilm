@@ -1,1 +1,0 @@
-{"tmdb_id": 48914, "title": "Radiant Fireplace 2", "original_title": "Radiant Fireplace 2", "slug_title": "radiant-fireplace-2", "date": "", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gw8ltRXp6RV1q8aOoC3k8tJIiWx.jpg", "actors": [], "comments": [], "recommandations_id": []}

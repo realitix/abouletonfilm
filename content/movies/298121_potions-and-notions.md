@@ -1,1 +1,0 @@
-{"tmdb_id": 298121, "title": "Potions and Notions", "original_title": "Potions and Notions", "slug_title": "potions-and-notions", "date": "1966-08-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

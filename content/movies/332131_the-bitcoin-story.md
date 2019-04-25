@@ -1,1 +1,0 @@
-{"tmdb_id": 332131, "title": "The Bitcoin Story", "original_title": "The Bitcoin Story", "slug_title": "the-bitcoin-story", "date": "2015-01-28", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wRtVIDPEAq5Y21hbh5ke1J4TUy6.jpg", "actors": [], "comments": [], "recommandations_id": []}

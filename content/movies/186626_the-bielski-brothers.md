@@ -1,1 +1,0 @@
-{"tmdb_id": 186626, "title": "The Bielski Brothers", "original_title": "The Bielski Brothers", "slug_title": "the-bielski-brothers", "date": "1994-03-11", "genre": "Documentaire", "score": "4.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ymuDIzE1T0xsbbGt5B2t4s5fnls.jpg", "actors": [], "comments": [], "recommandations_id": []}

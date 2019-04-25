@@ -1,1 +1,0 @@
-{"tmdb_id": 477978, "title": "The Mennonite Federation", "original_title": "The Mennonite Federation", "slug_title": "the-mennonite-federation", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

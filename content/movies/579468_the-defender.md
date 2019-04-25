@@ -1,1 +1,0 @@
-{"tmdb_id": 579468, "title": "The Defender", "original_title": "\u7121\u6cd5\u8faf\u8b77", "slug_title": "the-defender", "date": "2018-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lICIMmPCVoHzIQR2jG2OpZTv3Bj.jpg", "actors": [], "comments": [], "recommandations_id": []}

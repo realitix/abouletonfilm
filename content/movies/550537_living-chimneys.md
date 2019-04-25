@@ -1,1 +1,0 @@
-{"tmdb_id": 550537, "title": "LIVING CHIMNEYS", "original_title": "LIVING CHIMNEYS", "slug_title": "living-chimneys", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ay59l2TLEoICfFTWtm9jA50Wmld.jpg", "actors": [], "comments": [], "recommandations_id": []}

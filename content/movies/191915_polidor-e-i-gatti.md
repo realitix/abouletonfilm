@@ -1,1 +1,0 @@
-{"tmdb_id": 191915, "title": "Polidor e i gatti", "original_title": "Polidor e i gatti", "slug_title": "polidor-e-i-gatti", "date": "1913-12-07", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

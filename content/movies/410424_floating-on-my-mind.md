@@ -1,1 +1,0 @@
-{"tmdb_id": 410424, "title": "Floating on My Mind", "original_title": "Floating on My Mind", "slug_title": "floating-on-my-mind", "date": "2013-05-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bZQ065xI5RfQZa9ZJRwoYN5i3Hy.jpg", "actors": [], "comments": [], "recommandations_id": []}

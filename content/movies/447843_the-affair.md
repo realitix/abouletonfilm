@@ -1,1 +1,0 @@
-{"tmdb_id": 447843, "title": "The Affair", "original_title": "The Affair", "slug_title": "the-affair", "date": "2004-03-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

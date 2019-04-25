@@ -1,1 +1,0 @@
-{"tmdb_id": 303526, "title": "Lady Supercop", "original_title": "\u5973\u5152\u7576\u81ea\u5f37", "slug_title": "lady-supercop", "date": "1993-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qqJ6eDepKoaNX2u8Mtg5lylncBS.jpg", "actors": ["Carina Lau ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 215048, "title": "How Clean is Your Car", "original_title": "How Clean is Your Car", "slug_title": "how-clean-is-your-car", "date": "2004-06-15", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/k2Y7YOcDxOVpoX8wZoDUppZEkPr.jpg", "actors": ["Mark Evans (Himself)"], "comments": [], "recommandations_id": []}

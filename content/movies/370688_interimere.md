@@ -1,1 +1,0 @@
-{"tmdb_id": 370688, "title": "Interimere", "original_title": "Interimere", "slug_title": "interimere", "date": "2015-09-20", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t0ULaXaXn9gOippsM9m2pRYxuFy.jpg", "actors": [], "comments": [], "recommandations_id": []}

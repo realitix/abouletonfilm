@@ -1,1 +1,0 @@
-{"tmdb_id": 452909, "title": "In The Wake of Ghost Ship", "original_title": "In The Wake of Ghost Ship", "slug_title": "in-the-wake-of-ghost-ship", "date": "2017-04-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 157428, "title": "Cabin Fever: Outbreak", "original_title": "Cabin Fever: Outbreak", "slug_title": "cabin-fever-outbreak", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 195148, "title": "Brandv\u00e6senet rykker ud", "original_title": "Brandv\u00e6senet rykker ud", "slug_title": "brandvaesenet-rykker-ud", "date": "1897-12-25", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

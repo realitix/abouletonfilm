@@ -1,1 +1,0 @@
-{"tmdb_id": 424291, "title": "A Matter of Facts", "original_title": "A Matter of Facts", "slug_title": "a-matter-of-facts", "date": "1982-11-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

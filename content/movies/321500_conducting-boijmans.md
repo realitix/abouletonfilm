@@ -1,1 +1,0 @@
-{"tmdb_id": 321500, "title": "Conducting Boijmans", "original_title": "Conducting Boijmans", "slug_title": "conducting-boijmans", "date": "2015-01-30", "genre": "Documentaire", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/49VfR0XX8LJ9Dh650QoIekd1pWb.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 353101, "title": "The Bowler and the Bunnet", "original_title": "The Bowler and the Bunnet", "slug_title": "the-bowler-and-the-bunnet", "date": "1967-07-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bzdmkroojOuMInMpfO9KKeq8f8l.jpg", "actors": ["Sean Connery ()"], "comments": [], "recommandations_id": []}

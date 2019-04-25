@@ -1,1 +1,0 @@
-{"tmdb_id": 271599, "title": "In the Red", "original_title": "In the Red", "slug_title": "in-the-red", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

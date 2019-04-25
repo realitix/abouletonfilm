@@ -1,1 +1,0 @@
-{"tmdb_id": 550271, "title": "A Perfect Day for Banana Leaves", "original_title": "A Perfect Day for Banana Leaves", "slug_title": "a-perfect-day-for-banana-leaves", "date": "2018-07-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

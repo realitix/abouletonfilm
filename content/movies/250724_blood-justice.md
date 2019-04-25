@@ -1,1 +1,0 @@
-{"tmdb_id": 250724, "title": "Blood Justice", "original_title": "Blood Justice", "slug_title": "blood-justice", "date": "1995-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Aaron Abbott ()", "Eric Acsell ()", "Art A. Aranda ()", "Brendan Broms ()", "Rick Cadelli ()"], "comments": [], "recommandations_id": []}

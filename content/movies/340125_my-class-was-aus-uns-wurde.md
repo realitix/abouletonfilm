@@ -1,1 +1,0 @@
-{"tmdb_id": 340125, "title": "My Class - Was aus uns wurde", "original_title": "My Class - Was aus uns wurde", "slug_title": "my-class-was-aus-uns-wurde", "date": "2008-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Leonid Fedichkin (Himself)"], "comments": [], "recommandations_id": []}

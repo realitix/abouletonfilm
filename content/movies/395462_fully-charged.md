@@ -1,1 +1,0 @@
-{"tmdb_id": 395462, "title": "Fully Charged", "original_title": "Fully Charged", "slug_title": "fully-charged", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dlTF8laj7qBUTBwBBGB9xWkhBtU.jpg", "actors": [], "comments": [], "recommandations_id": []}

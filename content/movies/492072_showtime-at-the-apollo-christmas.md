@@ -1,1 +1,0 @@
-{"tmdb_id": 492072, "title": "Showtime at the Apollo: Christmas", "original_title": "Showtime at the Apollo: Christmas", "slug_title": "showtime-at-the-apollo-christmas", "date": "2017-12-14", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Steve Harvey ()"], "comments": [], "recommandations_id": []}

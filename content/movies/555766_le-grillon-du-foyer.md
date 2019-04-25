@@ -1,1 +1,0 @@
-{"tmdb_id": 555766, "title": "Le grillon du foyer", "original_title": "Le grillon du foyer", "slug_title": "le-grillon-du-foyer", "date": "1922-05-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

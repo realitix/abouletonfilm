@@ -1,1 +1,0 @@
-{"tmdb_id": 547145, "title": "Scavenger", "original_title": "Scavenger", "slug_title": "scavenger", "date": "2018-09-04", "genre": "Science-Fiction", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tfZDtiy9iOjeAM1eH2ESUbX4HFN.jpg", "actors": ["Jowaan Sullivan ()", "Lauren Gottlieb ()"], "comments": [], "recommandations_id": []}

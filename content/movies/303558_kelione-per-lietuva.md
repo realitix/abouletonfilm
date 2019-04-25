@@ -1,1 +1,0 @@
-{"tmdb_id": 303558, "title": "Kelione per Lietuva", "original_title": "Kelione per Lietuva", "slug_title": "kelione-per-lietuva", "date": "2010-03-04", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rD5Y0tHMnwWyqiFDk2ZJZH126qy.jpg", "actors": [], "comments": [], "recommandations_id": []}

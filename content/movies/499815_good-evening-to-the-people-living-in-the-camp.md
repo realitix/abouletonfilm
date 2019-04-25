@@ -1,1 +1,0 @@
-{"tmdb_id": 499815, "title": "Good Evening to the People Living in the Camp", "original_title": "Good Evening to the People Living in the Camp", "slug_title": "good-evening-to-the-people-living-in-the-camp", "date": "2018-01-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

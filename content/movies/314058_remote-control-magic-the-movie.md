@@ -1,1 +1,0 @@
-{"tmdb_id": 314058, "title": "Remote Control Magic: The Movie", "original_title": "Remote Control Magic: The Movie", "slug_title": "remote-control-magic-the-movie", "date": "2012-11-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fH6tT9s3inhBUVhRnvRJ4925uiS.jpg", "actors": [], "comments": [], "recommandations_id": []}

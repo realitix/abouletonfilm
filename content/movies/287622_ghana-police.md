@@ -1,1 +1,0 @@
-{"tmdb_id": 287622, "title": "Ghana Police", "original_title": "Ghana Police", "slug_title": "ghana-police", "date": "2014-01-31", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Remy Q ()", "Pascal Aka ()", "Jeffrey Forson ()"], "comments": [], "recommandations_id": []}

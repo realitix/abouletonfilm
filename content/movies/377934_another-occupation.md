@@ -1,1 +1,0 @@
-{"tmdb_id": 377934, "title": "Another Occupation", "original_title": "Another Occupation", "slug_title": "another-occupation", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ncvwfi42ueS4XhkAfCS54ksSaK.jpg", "actors": [], "comments": [], "recommandations_id": []}

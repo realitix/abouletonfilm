@@ -1,1 +1,0 @@
-{"tmdb_id": 380426, "title": "Michigan Avenue", "original_title": "Michigan Avenue", "slug_title": "michigan-avenue", "date": "1974-10-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

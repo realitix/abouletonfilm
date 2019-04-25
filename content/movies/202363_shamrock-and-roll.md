@@ -1,1 +1,0 @@
-{"tmdb_id": 202363, "title": "Shamrock and Roll", "original_title": "Shamrock and Roll", "slug_title": "shamrock-and-roll", "date": "1969-06-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

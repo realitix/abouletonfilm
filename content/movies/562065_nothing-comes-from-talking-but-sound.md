@@ -1,1 +1,0 @@
-{"tmdb_id": 562065, "title": "Nothing Comes from Talking (But Sound)", "original_title": "Nothing Comes from Talking (But Sound)", "slug_title": "nothing-comes-from-talking-but-sound", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

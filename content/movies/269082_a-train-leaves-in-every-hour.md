@@ -1,1 +1,0 @@
-{"tmdb_id": 269082, "title": "A Train Leaves in Every Hour", "original_title": "Il y a un train toutes les heures", "slug_title": "a-train-leaves-in-every-hour", "date": "1962-06-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6lDNI6hHZg3hGfUA6yldjEYNJpq.jpg", "actors": [], "comments": [], "recommandations_id": []}

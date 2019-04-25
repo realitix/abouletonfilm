@@ -1,1 +1,0 @@
-{"tmdb_id": 499036, "title": "A Global Enterprise", "original_title": "A Global Enterprise", "slug_title": "a-global-enterprise", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

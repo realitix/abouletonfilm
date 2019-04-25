@@ -1,1 +1,0 @@
-{"tmdb_id": 595156, "title": "The Golden Cocoon", "original_title": "The Golden Cocoon", "slug_title": "the-golden-cocoon", "date": "1925-12-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hYfN6twKvjK6555gs9lUqRnReOh.jpg", "actors": [], "comments": [], "recommandations_id": []}

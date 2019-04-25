@@ -1,1 +1,0 @@
-{"tmdb_id": 52375, "title": "Kutukan Suster Ngesot", "original_title": "Kutukan Suster Ngesot", "slug_title": "kutukan-suster-ngesot", "date": "", "genre": "Horreur", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Randy Pangalila (Derry)", "Celine Evangelista (Shanti)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 509688, "title": "Max and the Others", "original_title": "Max und die Anderen", "slug_title": "max-and-the-others", "date": "2013-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fr2u2upA07LSAVnT6WXROd0x3Ej.jpg", "actors": [], "comments": [], "recommandations_id": []}

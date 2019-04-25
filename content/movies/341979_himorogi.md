@@ -1,1 +1,0 @@
-{"tmdb_id": 341979, "title": "Himorogi", "original_title": "Himorogi", "slug_title": "himorogi", "date": "2012-01-01", "genre": "Animation", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gtxurHDVJPmzsgVpHfkWO9mdvgX.jpg", "actors": [], "comments": [], "recommandations_id": []}

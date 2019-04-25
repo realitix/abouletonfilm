@@ -1,1 +1,0 @@
-{"tmdb_id": 192857, "title": "Zombie Musical", "original_title": "Zombie Musical", "slug_title": "zombie-musical", "date": "2011-02-26", "genre": "", "score": "4.3/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

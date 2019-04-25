@@ -1,1 +1,0 @@
-{"tmdb_id": 320828, "title": "Arriv\u00e9e du roi et de son \u00e9tat-major", "original_title": "Arriv\u00e9e du roi et de son \u00e9tat-major", "slug_title": "arrivee-du-roi-et-de-son-etat-major", "date": "1899-09-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Umberto I (Himself)"], "comments": [], "recommandations_id": []}

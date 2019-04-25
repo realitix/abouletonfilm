@@ -1,1 +1,0 @@
-{"tmdb_id": 330870, "title": "Who Will You Show These Films To?", "original_title": "In Filmharo Beh Ki Neshun Midin?", "slug_title": "who-will-you-show-these-films-to", "date": "1992-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

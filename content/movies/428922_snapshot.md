@@ -1,1 +1,0 @@
-{"tmdb_id": 428922, "title": "Snapshot", "original_title": "Snapshot", "slug_title": "snapshot", "date": "2002-06-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7QFuJPmFUwaztlFdDLPQ4rt0DY5.jpg", "actors": [], "comments": [], "recommandations_id": []}

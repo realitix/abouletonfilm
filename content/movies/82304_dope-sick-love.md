@@ -1,1 +1,0 @@
-{"tmdb_id": 82304, "title": "Dope Sick Love", "original_title": "Dope Sick Love", "slug_title": "dope-sick-love", "date": "2005-03-10", "genre": "Documentaire", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vJxd79LNFVsjVaLuxmNM0iii2SS.jpg", "actors": [], "comments": [], "recommandations_id": [47540, 52405, 46313, 14600]}

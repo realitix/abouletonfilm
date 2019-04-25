@@ -1,1 +1,0 @@
-{"tmdb_id": 591552, "title": "The Basement", "original_title": "The Basement", "slug_title": "the-basement", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Adam Driver (Adam)", "Joanne Tucker (Joanne)"], "comments": [], "recommandations_id": []}

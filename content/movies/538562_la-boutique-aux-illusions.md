@@ -1,1 +1,0 @@
-{"tmdb_id": 538562, "title": "La boutique aux illusions", "original_title": "La boutique aux illusions", "slug_title": "la-boutique-aux-illusions", "date": "1939-04-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8UBsxOpu9VwSpzOBEpkz9Zl8Iq4.jpg", "actors": [], "comments": [], "recommandations_id": []}

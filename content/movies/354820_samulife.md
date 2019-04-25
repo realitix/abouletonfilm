@@ -1,1 +1,0 @@
-{"tmdb_id": 354820, "title": "Samulife", "original_title": "\u30b5\u30e0\u30e9\u30a4\u30d5", "slug_title": "samulife", "date": "2015-02-07", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pYpmwwz69V0qZsZXnCHWLMdKw6e.jpg", "actors": ["Takahiro Miura (Nagaoka)"], "comments": [], "recommandations_id": []}

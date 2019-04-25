@@ -1,1 +1,0 @@
-{"tmdb_id": 71661, "title": "DC MTN LAB 1.5", "original_title": "DC MTN LAB 1.5", "slug_title": "dc-mtn-lab-1-5", "date": "2007-11-10", "genre": "", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tDlFGnSLnAQrk1Sny8nsgiafuyv.jpg", "actors": [], "comments": [], "recommandations_id": []}

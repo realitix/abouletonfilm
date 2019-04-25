@@ -1,1 +1,0 @@
-{"tmdb_id": 326902, "title": "Cesar Millan: Viva Las Vegas!", "original_title": "Cesar Millan: Viva Las Vegas!", "slug_title": "cesar-millan-viva-las-vegas", "date": "2015-02-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Cesar Millan (Himself)"], "comments": [], "recommandations_id": []}

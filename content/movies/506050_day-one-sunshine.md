@@ -1,1 +1,0 @@
-{"tmdb_id": 506050, "title": "Day One: Sunshine", "original_title": "Day One: Sunshine", "slug_title": "day-one-sunshine", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/14oZlgyTlFNdvRJalUqYhPrgT6l.jpg", "actors": [], "comments": [], "recommandations_id": []}

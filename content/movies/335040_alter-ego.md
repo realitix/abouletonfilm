@@ -1,1 +1,0 @@
-{"tmdb_id": 335040, "title": "Alter Ego", "original_title": "Vtoroe YA", "slug_title": "alter-ego", "date": "1989-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x4oJPS4l1GLLmWiaXpz597bYxaF.jpg", "actors": [], "comments": [], "recommandations_id": []}

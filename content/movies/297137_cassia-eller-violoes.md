@@ -1,1 +1,0 @@
-{"tmdb_id": 297137, "title": "C\u00e1ssia Eller - Viol\u00f5es", "original_title": "C\u00e1ssia Eller - Viol\u00f5es", "slug_title": "cassia-eller-violoes", "date": "1996-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q9LueHSUeqgN0Tdb5Qa9Gr8FEbU.jpg", "actors": [], "comments": [], "recommandations_id": []}

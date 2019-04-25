@@ -1,1 +1,0 @@
-{"tmdb_id": 280761, "title": "Kanye West's New Testament", "original_title": "Kanye West's New Testament", "slug_title": "kanye-west-s-new-testament", "date": "2014-06-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

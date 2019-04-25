@@ -1,1 +1,0 @@
-{"tmdb_id": 281073, "title": "Diana's Hair Ego: AIDS Info Up Front", "original_title": "Diana's Hair Ego: AIDS Info Up Front", "slug_title": "diana-s-hair-ego-aids-info-up-front", "date": "1990-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

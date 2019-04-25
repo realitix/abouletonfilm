@@ -1,1 +1,0 @@
-{"tmdb_id": 399435, "title": "Ritual Path", "original_title": "Ritual Path", "slug_title": "ritual-path", "date": "2007-01-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yWc0xr6L7Y2uB9p8XPZaJZ7WI2U.jpg", "actors": [], "comments": [], "recommandations_id": []}

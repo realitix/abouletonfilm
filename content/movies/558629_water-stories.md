@@ -1,1 +1,0 @@
-{"tmdb_id": 558629, "title": "Water Stories", "original_title": "Water Stories", "slug_title": "water-stories", "date": "2018-08-08", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f9pk6fEUIzUBxg1osyVasMZtkyX.jpg", "actors": [], "comments": [], "recommandations_id": []}

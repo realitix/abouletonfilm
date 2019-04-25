@@ -1,1 +1,0 @@
-{"tmdb_id": 367120, "title": "Diary of a Short", "original_title": "Diario de un corto", "slug_title": "diary-of-a-short", "date": "2015-07-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

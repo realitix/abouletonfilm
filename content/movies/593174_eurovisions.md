@@ -1,1 +1,0 @@
-{"tmdb_id": 593174, "title": "Eurovisions", "original_title": "Eurovisions", "slug_title": "eurovisions", "date": "2019-05-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7SRptbIRbyNp0ZhrVfbNV0Qd4Ed.jpg", "actors": [], "comments": [], "recommandations_id": []}

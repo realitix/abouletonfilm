@@ -1,1 +1,1 @@
-{"tmdb_id": 452205, "title": "The Best Movie", "original_title": "The Best Movie", "slug_title": "the-best-movie", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 452205, "title": "The Best Movie", "original_title": "The Best Movie", "slug_title": "the-best-movie", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

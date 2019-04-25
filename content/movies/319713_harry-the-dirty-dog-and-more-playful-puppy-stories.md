@@ -1,1 +1,0 @@
-{"tmdb_id": 319713, "title": "Harry the Dirty Dog...and More Playful Puppy Stories", "original_title": "Harry the Dirty Dog...and More Playful Puppy Stories", "slug_title": "harry-the-dirty-dog-and-more-playful-puppy-stories", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

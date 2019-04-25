@@ -1,1 +1,0 @@
-{"tmdb_id": 327775, "title": "A Thousand and One Nights", "original_title": "Alf laila wa leila", "slug_title": "a-thousand-and-one-nights", "date": "1941-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

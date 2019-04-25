@@ -1,1 +1,0 @@
-{"tmdb_id": 524221, "title": "Long Awkward Pauses", "original_title": "Long Awkward Pauses", "slug_title": "long-awkward-pauses", "date": "2016-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ccMaIlJiXg6Vl0nUA2hOnTBaodw.jpg", "actors": [], "comments": [], "recommandations_id": []}

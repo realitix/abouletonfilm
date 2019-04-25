@@ -1,1 +1,0 @@
-{"tmdb_id": 323822, "title": "Seret Efes", "original_title": "\u05e1\u05e8\u05d8 \u05d0\u05e4\u05e1", "slug_title": "seret-efes", "date": "2015-02-01", "genre": "", "score": "8.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tuhNrzeqnluhni9o3TQC1YoMsRg.jpg", "actors": [], "comments": [], "recommandations_id": []}

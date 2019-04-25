@@ -1,1 +1,0 @@
-{"tmdb_id": 236607, "title": "Dog Tired", "original_title": "Dog Tired", "slug_title": "dog-tired", "date": "1942-04-24", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jdbw6dvtGaZp8KPJo1X90aLRQSk.jpg", "actors": [], "comments": [], "recommandations_id": []}

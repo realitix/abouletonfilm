@@ -1,1 +1,0 @@
-{"tmdb_id": 214535, "title": "I Am Patience", "original_title": "I Am Patience", "slug_title": "i-am-patience", "date": "2012-07-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

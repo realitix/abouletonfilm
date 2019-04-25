@@ -1,1 +1,0 @@
-{"tmdb_id": 573937, "title": "The Loss", "original_title": "\u041f\u0440\u043e\u043f\u0430\u0436\u0430", "slug_title": "the-loss", "date": "2018-03-14", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2xF4zJEtSXao80z6W2HLEzfhW1I.jpg", "actors": [], "comments": [], "recommandations_id": []}

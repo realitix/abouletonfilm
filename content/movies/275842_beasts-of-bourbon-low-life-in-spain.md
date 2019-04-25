@@ -1,1 +1,0 @@
-{"tmdb_id": 275842, "title": "Beasts of Bourbon: Low Life in Spain", "original_title": "Beasts of Bourbon: Low Life in Spain", "slug_title": "beasts-of-bourbon-low-life-in-spain", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 564013, "title": "MTV Power Yoga", "original_title": "MTV Power Yoga", "slug_title": "mtv-power-yoga", "date": "2003-08-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ahJk9pwrekESzYURGlKXFLpptnN.jpg", "actors": ["Kristin McGee (Kristin McGee)"], "comments": [], "recommandations_id": []}

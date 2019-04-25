@@ -1,1 +1,0 @@
-{"tmdb_id": 125116, "title": "The Black Planet", "original_title": "The Black Planet", "slug_title": "the-black-planet", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4p8kRnlDYtwxlrWgu8c3gCRhO5p.jpg", "actors": [], "comments": [], "recommandations_id": []}

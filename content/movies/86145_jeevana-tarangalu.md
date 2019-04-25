@@ -1,1 +1,0 @@
-{"tmdb_id": 86145, "title": "Jeevana Tarangalu", "original_title": "Jeevana Tarangalu", "slug_title": "jeevana-tarangalu", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9MFGXGXt9WWx2mKdqPmTpEldhuw.jpg", "actors": [], "comments": [], "recommandations_id": []}

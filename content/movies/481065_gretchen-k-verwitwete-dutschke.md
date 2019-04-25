@@ -1,1 +1,0 @@
-{"tmdb_id": 481065, "title": "Gretchen K. verwitwete Dutschke", "original_title": "Gretchen K. verwitwete Dutschke", "slug_title": "gretchen-k-verwitwete-dutschke", "date": "2001-05-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

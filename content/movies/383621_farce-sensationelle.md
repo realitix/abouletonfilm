@@ -1,1 +1,0 @@
-{"tmdb_id": 383621, "title": "Farce Sensationelle!", "original_title": "Farce Sensationelle!", "slug_title": "farce-sensationelle", "date": "2004-02-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aSYODzS0h2Ow918yboKksZRkpwQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

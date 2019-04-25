@@ -1,1 +1,0 @@
-{"tmdb_id": 304489, "title": "Tasmania - Paradise at the End of the World", "original_title": "Tasmania - Paradise at the End of the World", "slug_title": "tasmania-paradise-at-the-end-of-the-world", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

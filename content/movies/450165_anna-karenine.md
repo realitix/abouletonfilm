@@ -1,1 +1,0 @@
-{"tmdb_id": 450165, "title": "Anna Kar\u00e9nine", "original_title": "Anna Kar\u00e9nine", "slug_title": "anna-karenine", "date": "1912-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jeanne Delvair ()", "Paul Capellani ()", "L\u00e9on Bernard ()"], "comments": [], "recommandations_id": []}

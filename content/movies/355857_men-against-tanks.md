@@ -1,1 +1,0 @@
-{"tmdb_id": 355857, "title": "Men Against Tanks", "original_title": "M\u00e4nner gegen Panzer", "slug_title": "men-against-tanks", "date": "1943-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

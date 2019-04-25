@@ -1,1 +1,0 @@
-{"tmdb_id": 15505, "title": "HDNet Fights: Furious Finishes", "original_title": "HDNet Fights: Furious Finishes", "slug_title": "hdnet-fights-furious-finishes", "date": "2008-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

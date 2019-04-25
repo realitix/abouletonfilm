@@ -1,1 +1,0 @@
-{"tmdb_id": 40203, "title": "The Cross and the Towers", "original_title": "The Cross and the Towers", "slug_title": "the-cross-and-the-towers", "date": "2006-04-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ecifXw92PAlIc6p6iwfjONE9TcR.jpg", "actors": [], "comments": [], "recommandations_id": []}

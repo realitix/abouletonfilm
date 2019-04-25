@@ -1,1 +1,0 @@
-{"tmdb_id": 467197, "title": "On Sacred Ground", "original_title": "On Sacred Ground", "slug_title": "on-sacred-ground", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oauUiFXGTxobPeCLl1CQOJ8G30W.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 320594, "title": "Keyboard & Mouse", "original_title": "Keyboard & Mouse", "slug_title": "keyboard-mouse", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sean Hillary (Mouse Salesman)", "Robert Michael Zeman Jr. (Keyboard Salesman)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 463446, "title": "The Drama Club", "original_title": "The Drama Club", "slug_title": "the-drama-club", "date": "2017-06-26", "genre": "Com\u00e9die / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2WrkskolB4kQirP4bSranYcbZQL.jpg", "actors": ["Kyle O'Gorman (Young Luke)"], "comments": [], "recommandations_id": []}

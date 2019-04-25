@@ -1,1 +1,1 @@
-{"tmdb_id": 561097, "title": "O prezo da dote", "original_title": "O prezo da dote", "slug_title": "o-prezo-da-dote", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 561097, "title": "O prezo da dote", "original_title": "O prezo da dote", "slug_title": "o-prezo-da-dote", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

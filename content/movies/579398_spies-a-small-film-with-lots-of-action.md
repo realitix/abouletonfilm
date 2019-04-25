@@ -1,1 +1,0 @@
-{"tmdb_id": 579398, "title": "Spies: A Small Film With Lots of Action", "original_title": "Spies: A Small Film With Lots of Action", "slug_title": "spies-a-small-film-with-lots-of-action", "date": "2006-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

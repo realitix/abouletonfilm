@@ -1,1 +1,0 @@
-{"tmdb_id": 388743, "title": "Comedy Hirten - Ferngest\u00f6rt", "original_title": "Comedy Hirten - Ferngest\u00f6rt", "slug_title": "comedy-hirten-ferngestort", "date": "2009-11-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gDFSBKeVdKXh9KglytVMMcHiSXm.jpg", "actors": [], "comments": [], "recommandations_id": []}

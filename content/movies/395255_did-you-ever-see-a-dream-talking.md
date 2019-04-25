@@ -1,1 +1,0 @@
-{"tmdb_id": 395255, "title": "Did You Ever See a Dream Talking", "original_title": "Did You Ever See a Dream Talking", "slug_title": "did-you-ever-see-a-dream-talking", "date": "1943-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

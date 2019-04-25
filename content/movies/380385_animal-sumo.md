@@ -1,1 +1,0 @@
-{"tmdb_id": 380385, "title": "Animal Sumo", "original_title": "Doubutsu Sumo Taikai", "slug_title": "animal-sumo", "date": "1931-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4bbCs3bfLU8HCbmvSyutLTRmJNk.jpg", "actors": [], "comments": [], "recommandations_id": []}

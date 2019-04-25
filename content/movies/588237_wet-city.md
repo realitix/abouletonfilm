@@ -1,1 +1,0 @@
-{"tmdb_id": 588237, "title": "Wet City", "original_title": "Wet City", "slug_title": "wet-city", "date": "2019-03-11", "genre": "Animation", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ms1oONXs4xDYWYjG7YQdtUWUdzi.jpg", "actors": ["Sean Wing ()"], "comments": [], "recommandations_id": []}

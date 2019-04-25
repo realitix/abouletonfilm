@@ -1,1 +1,0 @@
-{"tmdb_id": 358232, "title": "Red Green Blue Gone With the Wind", "original_title": "Red Green Blue Gone With the Wind", "slug_title": "red-green-blue-gone-with-the-wind", "date": "2001-09-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

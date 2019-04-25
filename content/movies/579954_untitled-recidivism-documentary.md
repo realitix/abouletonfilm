@@ -1,1 +1,0 @@
-{"tmdb_id": 579954, "title": "Untitled Recidivism Documentary", "original_title": "Untitled Recidivism Documentary", "slug_title": "untitled-recidivism-documentary", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

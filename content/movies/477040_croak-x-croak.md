@@ -1,1 +1,0 @@
-{"tmdb_id": 477040, "title": "Croak x Croak", "original_title": "\u041a\u0432\u0430\u0436\u0434\u044b \u043a\u0432\u0430", "slug_title": "croak-x-croak", "date": "1990-01-01", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tqqAUC4ZSn2SCjxq25nPHfYAJV3.jpg", "actors": [], "comments": [], "recommandations_id": []}

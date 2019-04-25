@@ -1,1 +1,0 @@
-{"tmdb_id": 548472, "title": "Es geschah in NRW - Die Beatles kommen!", "original_title": "Es geschah in NRW - Die Beatles kommen!", "slug_title": "es-geschah-in-nrw-die-beatles-kommen", "date": "2012-11-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

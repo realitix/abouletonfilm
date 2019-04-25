@@ -1,1 +1,0 @@
-{"tmdb_id": 580804, "title": "Dreams from the ocean", "original_title": "Dreams from the ocean", "slug_title": "dreams-from-the-ocean", "date": "2018-01-28", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

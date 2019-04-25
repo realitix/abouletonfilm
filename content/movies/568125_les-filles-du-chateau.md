@@ -1,1 +1,0 @@
-{"tmdb_id": 568125, "title": "Les filles du ch\u00e2teau", "original_title": "Les filles du ch\u00e2teau", "slug_title": "les-filles-du-chateau", "date": "1987-04-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

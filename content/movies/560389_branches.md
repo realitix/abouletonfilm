@@ -1,1 +1,0 @@
-{"tmdb_id": 560389, "title": "Branches", "original_title": "Branches", "slug_title": "branches", "date": "1970-11-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 465016, "title": "Worried Look Smiling Face", "original_title": "\u6101\u7709\u7b11\u8138", "slug_title": "worried-look-smiling-face", "date": "1998-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Yang Lixin ()", "Qing Yang ()", "Yan Su ()"], "comments": [], "recommandations_id": []}

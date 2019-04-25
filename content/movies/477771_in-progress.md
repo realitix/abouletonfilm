@@ -1,1 +1,0 @@
-{"tmdb_id": 477771, "title": "In Progress", "original_title": "In Progress", "slug_title": "in-progress", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

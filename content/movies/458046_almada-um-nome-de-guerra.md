@@ -1,1 +1,0 @@
-{"tmdb_id": 458046, "title": "Almada, Um Nome de Guerra", "original_title": "Almada, Um Nome de Guerra", "slug_title": "almada-um-nome-de-guerra", "date": "1983-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/12DKmCknMwdooEudPNIjBkbdPcf.jpg", "actors": [], "comments": [], "recommandations_id": []}

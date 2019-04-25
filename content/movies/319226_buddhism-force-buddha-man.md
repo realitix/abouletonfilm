@@ -1,1 +1,0 @@
-{"tmdb_id": 319226, "title": "Buddhism Force: Buddha Man", "original_title": "Bukyo Sentai Buddhaman", "slug_title": "buddhism-force-buddha-man", "date": "1986-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sNu0Ysu7cWqE49kRai0ycgGkZB4.jpg", "actors": [], "comments": [], "recommandations_id": []}

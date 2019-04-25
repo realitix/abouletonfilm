@@ -1,1 +1,0 @@
-{"tmdb_id": 512108, "title": "Sad Letters", "original_title": "Lettere A Mia Figlia", "slug_title": "sad-letters", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3f8gZQDekIQPzQ1q3EcEYI3f8zg.jpg", "actors": ["Leo Gullotta (Father)"], "comments": [], "recommandations_id": []}

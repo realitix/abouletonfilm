@@ -1,1 +1,0 @@
-{"tmdb_id": 427527, "title": "Ein toter Spieler verl\u00e4\u00dft den Tisch", "original_title": "Ein toter Spieler verl\u00e4\u00dft den Tisch", "slug_title": "ein-toter-spieler-verlasst-den-tisch", "date": "1991-03-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

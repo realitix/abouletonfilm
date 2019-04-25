@@ -1,1 +1,0 @@
-{"tmdb_id": 456603, "title": "Tierparkfilm", "original_title": "Tierparkfilm", "slug_title": "tierparkfilm", "date": "1968-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ieUTR60sWhztxk4HJeosaazn0il.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 420504, "title": "Army of God", "original_title": "Army of God", "slug_title": "army-of-god", "date": "2016-09-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g67VkZNJTry8GPSPhVP1p15Wnfo.jpg", "actors": [], "comments": [], "recommandations_id": []}

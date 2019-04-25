@@ -1,1 +1,0 @@
-{"tmdb_id": 309529, "title": "William Shatner: Captain's Log", "original_title": "William Shatner: Captain's Log", "slug_title": "william-shatner-captain-s-log", "date": "1994-11-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["William Shatner ()"], "comments": [], "recommandations_id": []}

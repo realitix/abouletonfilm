@@ -1,1 +1,0 @@
-{"tmdb_id": 320072, "title": "Cigarettes & Superheroes", "original_title": "Cigarettes & Superheroes", "slug_title": "cigarettes-superheroes", "date": "1998-09-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bkmg2c7HmDmGjjw8DfYMbhqwUBo.jpg", "actors": [], "comments": [], "recommandations_id": []}

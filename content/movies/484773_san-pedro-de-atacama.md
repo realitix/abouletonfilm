@@ -1,1 +1,0 @@
-{"tmdb_id": 484773, "title": "San Pedro de Atacama", "original_title": "San Pedro de Atacama", "slug_title": "san-pedro-de-atacama", "date": "1964-05-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 579508, "title": "Hard Choices", "original_title": "Hard Choices", "slug_title": "hard-choices", "date": "1987-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/flcra4oMPGGXnwpIWvQ1PMTVOSh.jpg", "actors": [], "comments": [], "recommandations_id": []}

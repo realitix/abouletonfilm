@@ -1,1 +1,0 @@
-{"tmdb_id": 222802, "title": "Spunky Skunky", "original_title": "Spunky Skunky", "slug_title": "spunky-skunky", "date": "1952-05-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

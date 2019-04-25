@@ -1,1 +1,0 @@
-{"tmdb_id": 592899, "title": "De Crisiskaravaan", "original_title": "De Crisiskaravaan", "slug_title": "de-crisiskaravaan", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

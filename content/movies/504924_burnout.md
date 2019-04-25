@@ -1,1 +1,0 @@
-{"tmdb_id": 504924, "title": "Burnout", "original_title": "Burnout", "slug_title": "burnout", "date": "2015-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

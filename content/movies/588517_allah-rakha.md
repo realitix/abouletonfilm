@@ -1,1 +1,0 @@
-{"tmdb_id": 588517, "title": "Allah Rakha", "original_title": "Allah Rakha", "slug_title": "allah-rakha", "date": "1987-05-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sultan Rahi ()"], "comments": [], "recommandations_id": []}

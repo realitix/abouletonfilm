@@ -1,1 +1,0 @@
-{"tmdb_id": 590918, "title": "Dangerous Passions", "original_title": "Dangerous Passions", "slug_title": "dangerous-passions", "date": "1998-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rita Magdalena (Susan)", "Romano Kristoff (Mister Brown)", "Emilio Garcia (Eddie)"], "comments": [], "recommandations_id": []}

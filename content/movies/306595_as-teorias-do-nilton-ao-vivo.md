@@ -1,1 +1,0 @@
-{"tmdb_id": 306595, "title": "As Teorias do Nilton ao Vivo", "original_title": "As Teorias do Nilton ao Vivo", "slug_title": "as-teorias-do-nilton-ao-vivo", "date": "", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 208982, "title": "Vietnam in HD", "original_title": "Vietnam in HD", "slug_title": "vietnam-in-hd", "date": "2011-11-08", "genre": "Guerre", "score": "8.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x8zYtgdiLeaqiUIBiVQw1F2tGkV.jpg", "actors": [], "comments": [], "recommandations_id": [330068]}

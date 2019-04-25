@@ -1,1 +1,0 @@
-{"tmdb_id": 590343, "title": "Sunday Dinner", "original_title": "S\u00f8ndagsmiddag", "slug_title": "sunday-dinner", "date": "1991-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rolf S\u00f8der ()"], "comments": [], "recommandations_id": []}

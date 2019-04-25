@@ -1,1 +1,0 @@
-{"tmdb_id": 566432, "title": "He's a Fighter", "original_title": "He's a Fighter", "slug_title": "he-s-a-fighter", "date": "2014-09-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lAerg9XySo2zdwBDdgCbrJr2WPq.jpg", "actors": [], "comments": [], "recommandations_id": []}

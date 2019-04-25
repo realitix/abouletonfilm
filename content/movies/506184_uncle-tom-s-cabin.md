@@ -1,1 +1,0 @@
-{"tmdb_id": 506184, "title": "Uncle Tom's Cabin", "original_title": "Uncle Tom's Cabin", "slug_title": "uncle-tom-s-cabin", "date": "1910-10-31", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Florence Turner (Topsy)", "Mary Fuller (Eliza)"], "comments": [], "recommandations_id": []}

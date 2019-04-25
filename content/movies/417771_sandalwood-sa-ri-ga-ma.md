@@ -1,1 +1,0 @@
-{"tmdb_id": 417771, "title": "Sandalwood Sa Ri Ga Ma", "original_title": "Sandalwood Sa Ri Ga Ma", "slug_title": "sandalwood-sa-ri-ga-ma", "date": "2013-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mO0iZR1KLontFbJ6LxP5jSS0K84.jpg", "actors": [], "comments": [], "recommandations_id": []}

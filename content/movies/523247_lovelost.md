@@ -1,1 +1,0 @@
-{"tmdb_id": 523247, "title": "Lovelost", "original_title": "Lovelost", "slug_title": "lovelost", "date": "2018-06-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

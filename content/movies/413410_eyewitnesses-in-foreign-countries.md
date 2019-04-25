@@ -1,1 +1,0 @@
-{"tmdb_id": 413410, "title": "Eyewitnesses in Foreign Countries", "original_title": "Augenzeuge der Fremde", "slug_title": "eyewitnesses-in-foreign-countries", "date": "1993-08-30", "genre": "Histoire / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

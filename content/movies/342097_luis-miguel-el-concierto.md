@@ -1,1 +1,0 @@
-{"tmdb_id": 342097, "title": "Luis Miguel: El Concierto", "original_title": "Luis Miguel: El Concierto", "slug_title": "luis-miguel-el-concierto", "date": "1995-10-17", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

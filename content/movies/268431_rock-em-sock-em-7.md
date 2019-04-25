@@ -1,1 +1,0 @@
-{"tmdb_id": 268431, "title": "Rock'em Sock'em 7", "original_title": "Rock'em Sock'em 7", "slug_title": "rock-em-sock-em-7", "date": "1995-06-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4XWqRMBNN4Vuk8vOlOzIqA8TfFR.jpg", "actors": ["Don Cherry (Himself)"], "comments": [], "recommandations_id": []}

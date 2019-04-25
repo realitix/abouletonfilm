@@ -1,1 +1,0 @@
-{"tmdb_id": 380817, "title": "Jihadists", "original_title": "Salafistes", "slug_title": "jihadists", "date": "2016-01-27", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dAuAWuCJ3LEwmAjhsZFFsDLKFin.jpg", "actors": [], "comments": [], "recommandations_id": []}

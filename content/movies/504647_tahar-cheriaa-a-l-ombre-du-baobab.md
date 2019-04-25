@@ -1,1 +1,0 @@
-{"tmdb_id": 504647, "title": "Tahar Ch\u00e9riaa: A l'Ombre du Baobab", "original_title": "Tahar Ch\u00e9riaa: A l'Ombre du Baobab", "slug_title": "tahar-cheriaa-a-l-ombre-du-baobab", "date": "2014-11-30", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

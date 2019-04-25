@@ -1,1 +1,0 @@
-{"tmdb_id": 556347, "title": "Morning Wormhole", "original_title": "Morning Wormhole", "slug_title": "morning-wormhole", "date": "2018-10-18", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

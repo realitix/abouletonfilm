@@ -1,1 +1,0 @@
-{"tmdb_id": 421187, "title": "Mommy Fucks Best 6", "original_title": "Mommy Fucks Best 6", "slug_title": "mommy-fucks-best-6", "date": "2012-02-28", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uz5wbn86PToaZ4KnMxqfE8RT6Oa.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 460481, "title": "Thinning the Herd", "original_title": "Thinning the Herd", "slug_title": "thinning-the-herd", "date": "2004-11-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rie Rasmussen ()", "Travis Marchall ()"], "comments": [], "recommandations_id": []}

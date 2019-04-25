@@ -1,1 +1,0 @@
-{"tmdb_id": 312664, "title": "D-Day in Color", "original_title": "D-Day in Color", "slug_title": "d-day-in-color", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

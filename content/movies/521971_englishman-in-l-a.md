@@ -1,1 +1,0 @@
-{"tmdb_id": 521971, "title": "Englishman In L.A.", "original_title": "Englishman In L.A.", "slug_title": "englishman-in-l-a", "date": "2018-03-20", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aNjFfpz7jEK9kR7kRqW3G8nKJGa.jpg", "actors": [], "comments": [], "recommandations_id": []}

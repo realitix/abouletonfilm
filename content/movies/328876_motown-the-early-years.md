@@ -1,1 +1,0 @@
-{"tmdb_id": 328876, "title": "Motown: The Early Years", "original_title": "Motown: The Early Years", "slug_title": "motown-the-early-years", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mKnmr0qRNTcmmeCibBJvjO9AjIc.jpg", "actors": [], "comments": [], "recommandations_id": []}

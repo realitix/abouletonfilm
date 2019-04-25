@@ -1,1 +1,0 @@
-{"tmdb_id": 318450, "title": "Ray Kroc: Fast Food McMillionaire", "original_title": "Ray Kroc: Fast Food McMillionaire", "slug_title": "ray-kroc-fast-food-mcmillionaire", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

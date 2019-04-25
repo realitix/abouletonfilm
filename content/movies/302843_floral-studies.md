@@ -1,1 +1,0 @@
-{"tmdb_id": 302843, "title": "Floral Studies", "original_title": "Cadres fleuris", "slug_title": "floral-studies", "date": "1910-05-24", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i8uqQun3TiNauIekNGT87FiHqXN.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 484948, "title": "Mister Smarty", "original_title": "Mister Smarty", "slug_title": "mister-smarty", "date": "1936-07-15", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Andy Clyde (Mr. Bowser)"], "comments": [], "recommandations_id": []}

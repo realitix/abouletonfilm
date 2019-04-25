@@ -1,1 +1,0 @@
-{"tmdb_id": 594898, "title": "Life Without Death", "original_title": "Life Without Death", "slug_title": "life-without-death", "date": "2000-03-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zM57t5CCY0bUWQzcaBnHRx7VunC.jpg", "actors": ["Frank Cole ()"], "comments": [], "recommandations_id": []}

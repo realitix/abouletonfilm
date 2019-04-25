@@ -1,1 +1,0 @@
-{"tmdb_id": 411186, "title": "D\u00e9jeuner avec Marburi", "original_title": "D\u00e9jeuner avec Marburi", "slug_title": "dejeuner-avec-marburi", "date": "1997-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bts9lTHvJf34iQxltQyHqnzfu9N.jpg", "actors": [], "comments": [], "recommandations_id": []}

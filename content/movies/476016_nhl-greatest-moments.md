@@ -1,1 +1,0 @@
-{"tmdb_id": 476016, "title": "NHL Greatest Moments", "original_title": "NHL Greatest Moments", "slug_title": "nhl-greatest-moments", "date": "2006-10-24", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

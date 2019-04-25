@@ -1,1 +1,0 @@
-{"tmdb_id": 281201, "title": "It's Christmas", "original_title": "It's Christmas", "slug_title": "it-s-christmas", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

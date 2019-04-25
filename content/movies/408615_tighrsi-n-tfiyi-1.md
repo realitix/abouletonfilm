@@ -1,1 +1,0 @@
-{"tmdb_id": 408615, "title": "Tighrsi n Tfiyi 1", "original_title": "Tighrsi n Tfiyi 1", "slug_title": "tighrsi-n-tfiyi-1", "date": "", "genre": "", "score": "0.0/10", "synopsis": "Ayouz Vision", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lAZ2Ujw4uFM7gZrdW3dnbPgwETM.jpg", "actors": [], "comments": [], "recommandations_id": []}

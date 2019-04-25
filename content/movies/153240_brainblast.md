@@ -1,1 +1,0 @@
-{"tmdb_id": 153240, "title": "Brainblast", "original_title": "Brainblast", "slug_title": "brainblast", "date": "1987-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bt9hOCUk0BAzFOHZDAgAj6FPR34.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 440177, "title": "Convictions", "original_title": "\u0423\u0431\u0435\u0436\u0434\u0435\u043d\u0438\u044f", "slug_title": "convictions", "date": "2016-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9oafOYGJWJNQ9CpDpoeGKM1VCdt.jpg", "actors": [], "comments": [], "recommandations_id": []}

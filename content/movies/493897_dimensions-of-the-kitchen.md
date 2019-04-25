@@ -1,1 +1,0 @@
-{"tmdb_id": 493897, "title": "Dimensions of the Kitchen", "original_title": "K\u00f6\u00f6gi dimensioonid", "slug_title": "dimensions-of-the-kitchen", "date": "2008-11-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

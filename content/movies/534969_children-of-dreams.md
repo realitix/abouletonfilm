@@ -1,1 +1,0 @@
-{"tmdb_id": 534969, "title": "Children of Dreams", "original_title": "Children of Dreams", "slug_title": "children-of-dreams", "date": "1931-07-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/86VzOdEGKAGXtffsQe6ggsizBHz.jpg", "actors": [], "comments": [], "recommandations_id": []}

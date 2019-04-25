@@ -1,1 +1,0 @@
-{"tmdb_id": 280753, "title": "More Than A Game", "original_title": "More Than A Game", "slug_title": "more-than-a-game", "date": "2011-05-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pzliIvWo0woOMDmBa5roIRhb0VD.jpg", "actors": [], "comments": [], "recommandations_id": []}

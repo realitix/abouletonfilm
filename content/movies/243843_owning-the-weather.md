@@ -1,1 +1,0 @@
-{"tmdb_id": 243843, "title": "Owning the Weather", "original_title": "Owning the Weather", "slug_title": "owning-the-weather", "date": "2009-01-01", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/80XihH7lJP0Auq08K79qhJmgnt.jpg", "actors": [], "comments": [], "recommandations_id": []}

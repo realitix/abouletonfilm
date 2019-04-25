@@ -1,1 +1,0 @@
-{"tmdb_id": 496271, "title": "Vacanze nel deserto", "original_title": "Vacanze nel deserto", "slug_title": "vacanze-nel-deserto", "date": "1971-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Valerio Adami ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 264356, "title": "Simon's Cat", "original_title": "Simon's Cat", "slug_title": "simon-s-cat", "date": "2012-10-19", "genre": "", "score": "7.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/XaJP3vZtrLlMpV6MgZLKkUmJRP.jpg", "actors": [], "comments": [], "recommandations_id": [123413, 134718, 212129, 353049]}

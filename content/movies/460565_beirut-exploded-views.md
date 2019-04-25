@@ -1,1 +1,0 @@
-{"tmdb_id": 460565, "title": "Beirut Exploded Views", "original_title": "Beirut Exploded Views", "slug_title": "beirut-exploded-views", "date": "2014-09-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

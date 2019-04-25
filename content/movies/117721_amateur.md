@@ -1,1 +1,0 @@
-{"tmdb_id": 117721, "title": "Amateur", "original_title": "Amateur", "slug_title": "amateur", "date": "2011-05-05", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8G3mBtRC0ipf3hSBD0pAKeqscB0.jpg", "actors": [], "comments": [], "recommandations_id": []}

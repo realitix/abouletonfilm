@@ -1,1 +1,0 @@
-{"tmdb_id": 127687, "title": "Tapestries of Hope", "original_title": "Tapestries of Hope", "slug_title": "tapestries-of-hope", "date": "2010-09-28", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oSYdw9InMILSPSuweozZz2swJN4.jpg", "actors": ["Betty Makoni (Herself)"], "comments": [], "recommandations_id": []}

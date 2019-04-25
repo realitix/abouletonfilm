@@ -1,1 +1,0 @@
-{"tmdb_id": 139865, "title": "Cuatro puntos cardinales", "original_title": "Cuatro puntos cardinales", "slug_title": "cuatro-puntos-cardinales", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zA1w8d0kKc0DZxdOvlJjFduvzmm.jpg", "actors": [], "comments": [], "recommandations_id": []}

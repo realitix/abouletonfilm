@@ -1,1 +1,0 @@
-{"tmdb_id": 595785, "title": "Zico Na Rede", "original_title": "Zico Na Rede", "slug_title": "zico-na-rede", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nO4rITc69AokTp3a8ess4vN7EfJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

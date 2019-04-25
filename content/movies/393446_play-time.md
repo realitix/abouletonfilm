@@ -1,1 +1,0 @@
-{"tmdb_id": 393446, "title": "Play Time", "original_title": "Fri aktivitet", "slug_title": "play-time", "date": "2016-01-30", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 510646, "title": "Fireworks", "original_title": "Fireworks", "slug_title": "fireworks", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9QdTrWJwy9ae3hnz0uucC7ik3Wo.jpg", "actors": [], "comments": [], "recommandations_id": []}

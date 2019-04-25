@@ -1,1 +1,0 @@
-{"tmdb_id": 265151, "title": "David Gilmour - Live In Venice", "original_title": "David Gilmour - Live In Venice", "slug_title": "david-gilmour-live-in-venice", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

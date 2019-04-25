@@ -1,1 +1,0 @@
-{"tmdb_id": 561464, "title": "Dix-huit heures d'escale", "original_title": "Dix-huit heures d'escale", "slug_title": "dix-huit-heures-d-escale", "date": "1955-05-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AtLarHLQ6RzqgL3USbZPSxPHCMW.jpg", "actors": [], "comments": [], "recommandations_id": []}

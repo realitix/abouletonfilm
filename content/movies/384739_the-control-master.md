@@ -1,1 +1,0 @@
-{"tmdb_id": 384739, "title": "The Control Master", "original_title": "The Control Master", "slug_title": "the-control-master", "date": "2008-02-27", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xGFjdP9S6JLExQTwlkSwb23kfmH.jpg", "actors": [], "comments": [], "recommandations_id": []}

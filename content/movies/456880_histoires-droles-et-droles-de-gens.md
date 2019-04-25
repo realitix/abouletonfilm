@@ -1,1 +1,0 @@
-{"tmdb_id": 456880, "title": "Histoires dr\u00f4les et dr\u00f4les de gens", "original_title": "Histoires dr\u00f4les et dr\u00f4les de gens", "slug_title": "histoires-droles-et-droles-de-gens", "date": "1983-05-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

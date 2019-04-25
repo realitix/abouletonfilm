@@ -1,1 +1,0 @@
-{"tmdb_id": 295538, "title": "The Culture High", "original_title": "The Culture High", "slug_title": "the-culture-high", "date": "2014-09-18", "genre": "Documentaire", "score": "7.4/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1zJY10YXnpWTzJPXPmIAbp5Cf8w.jpg", "actors": [], "comments": [], "recommandations_id": [336992, 85944, 285869, 250539]}

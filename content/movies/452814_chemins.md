@@ -1,1 +1,0 @@
-{"tmdb_id": 452814, "title": "Chemins", "original_title": "Chemins", "slug_title": "chemins", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/euBt5r4rcyA32wYXcLhhEeClD57.jpg", "actors": [], "comments": [], "recommandations_id": []}

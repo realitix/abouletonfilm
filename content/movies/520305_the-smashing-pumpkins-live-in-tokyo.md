@@ -1,1 +1,0 @@
-{"tmdb_id": 520305, "title": "The Smashing Pumpkins: Live In Tokyo", "original_title": "The Smashing Pumpkins: Live In Tokyo", "slug_title": "the-smashing-pumpkins-live-in-tokyo", "date": "2000-06-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 424526, "title": "Ultima Thule", "original_title": "Ultima Thule", "slug_title": "ultima-thule", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xVM45eQyuEiyIWl6lDVbNjYaNeG.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 236817, "title": "How War Came", "original_title": "How War Came", "slug_title": "how-war-came", "date": "1941-11-07", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Raymond Gram Swing (Narrator)", "Mel Blanc (Hitler)"], "comments": [], "recommandations_id": []}

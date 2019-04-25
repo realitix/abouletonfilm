@@ -1,1 +1,0 @@
-{"tmdb_id": 432457, "title": "Marias kleiner Esel", "original_title": "Marias kleiner Esel", "slug_title": "marias-kleiner-esel", "date": "2004-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kuU4FYSsDXWYElWep5XdTZQc0yk.jpg", "actors": [], "comments": [], "recommandations_id": []}

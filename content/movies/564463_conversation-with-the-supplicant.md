@@ -1,1 +1,0 @@
-{"tmdb_id": 564463, "title": "Conversation with the Supplicant", "original_title": "Conversation with the Supplicant", "slug_title": "conversation-with-the-supplicant", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dov Tiefenbach (Main Character)", "Kris Lemche (Supplicant)"], "comments": [], "recommandations_id": []}

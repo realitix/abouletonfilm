@@ -1,1 +1,0 @@
-{"tmdb_id": 570210, "title": "Apr\u00e8s apr\u00e8s-demain", "original_title": "Apr\u00e8s apr\u00e8s-demain", "slug_title": "apres-apres-demain", "date": "1990-05-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A8F42cGjcfyKb1TigtEk10MC4iB.jpg", "actors": [], "comments": [], "recommandations_id": []}

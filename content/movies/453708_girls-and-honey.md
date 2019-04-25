@@ -1,1 +1,0 @@
-{"tmdb_id": 453708, "title": "Girls and Honey", "original_title": "Girls and Honey", "slug_title": "girls-and-honey", "date": "2017-04-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bxmEer1zQ00o66yehCKba3vzFHS.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 343021, "title": "Summer Night Concert", "original_title": "Summer Night Concert", "slug_title": "summer-night-concert", "date": "2013-06-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n09EzsPQMDt2XNY9JX1eAj7QCiu.jpg", "actors": [], "comments": [], "recommandations_id": []}

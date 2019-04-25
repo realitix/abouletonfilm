@@ -1,1 +1,0 @@
-{"tmdb_id": 329887, "title": "The Professor's Secret", "original_title": "The Professor's Secret", "slug_title": "the-professor-s-secret", "date": "1908-03-31", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

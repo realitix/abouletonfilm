@@ -1,1 +1,0 @@
-{"tmdb_id": 585047, "title": "The Language You Cry In", "original_title": "The Language You Cry In", "slug_title": "the-language-you-cry-in", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

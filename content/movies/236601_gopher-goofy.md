@@ -1,1 +1,0 @@
-{"tmdb_id": 236601, "title": "Gopher Goofy", "original_title": "Gopher Goofy", "slug_title": "gopher-goofy", "date": "1942-06-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kbwPAlb34tUoIquBsmqpglP3X60.jpg", "actors": [], "comments": [], "recommandations_id": []}

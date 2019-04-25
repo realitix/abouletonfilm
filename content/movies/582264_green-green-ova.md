@@ -1,1 +1,0 @@
-{"tmdb_id": 582264, "title": "Green Green OVA", "original_title": "\u30b0\u30ea\u30fc\u30f3\u30b0\u30ea\u30fc\u30f3", "slug_title": "green-green-ova", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a23zvubAkkcbDwZgxzxs03gwFCQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

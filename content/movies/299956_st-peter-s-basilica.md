@@ -1,1 +1,0 @@
-{"tmdb_id": 299956, "title": "St. Peter's Basilica", "original_title": "St. Peter's Basilica", "slug_title": "st-peter-s-basilica", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 536262, "title": "The Cineastes' Exit", "original_title": "Sortie des cineastes, 1995", "slug_title": "the-cineastes-exit", "date": "1995-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bertrand Tavernier (narrator)"], "comments": [], "recommandations_id": []}

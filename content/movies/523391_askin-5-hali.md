@@ -1,1 +1,0 @@
-{"tmdb_id": 523391, "title": "A\u015fk\u0131n 5 Hali", "original_title": "A\u015fk\u0131n 5 Hali", "slug_title": "askin-5-hali", "date": "2016-07-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/olZt3lDLTIhNpjuqPOqsHEmE1PG.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 318157, "title": "The Specials: Too Much, Too Young", "original_title": "The Specials: Too Much, Too Young", "slug_title": "the-specials-too-much-too-young", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eZCmxdStr6vn11H5pOzk6MCy7Eh.jpg", "actors": [], "comments": [], "recommandations_id": []}

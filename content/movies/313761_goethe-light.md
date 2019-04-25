@@ -1,1 +1,0 @@
-{"tmdb_id": 313761, "title": "Goethe light", "original_title": "Goethe light", "slug_title": "goethe-light", "date": "2002-06-13", "genre": "", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Christo Aprilov (Goethe)", "Christo Aprilov (Goethe)"], "comments": [], "recommandations_id": []}

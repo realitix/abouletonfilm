@@ -1,1 +1,0 @@
-{"tmdb_id": 492241, "title": "Um Jardim Singular", "original_title": "Um Jardim Singular", "slug_title": "um-jardim-singular", "date": "2017-09-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rpc3r2vx0aGCfEgH03lbojZnR4s.jpg", "actors": [], "comments": [], "recommandations_id": []}

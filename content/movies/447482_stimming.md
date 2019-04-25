@@ -1,1 +1,0 @@
-{"tmdb_id": 447482, "title": "Stimming", "original_title": "Stimming", "slug_title": "stimming", "date": "2015-02-21", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Stimming ()"], "comments": [], "recommandations_id": []}

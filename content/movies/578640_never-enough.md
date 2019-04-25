@@ -1,1 +1,0 @@
-{"tmdb_id": 578640, "title": "Never Enough", "original_title": "Never Enough", "slug_title": "never-enough", "date": "2018-12-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yFJ1ZyWIPGG3D7pBWpGlt5ANlmN.jpg", "actors": [], "comments": [], "recommandations_id": []}

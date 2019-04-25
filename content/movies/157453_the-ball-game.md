@@ -1,1 +1,0 @@
-{"tmdb_id": 157453, "title": "The Ball Game", "original_title": "The Ball Game", "slug_title": "the-ball-game", "date": "1932-07-29", "genre": "", "score": "2.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

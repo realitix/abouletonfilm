@@ -1,1 +1,0 @@
-{"tmdb_id": 571301, "title": "Gangcheng Story", "original_title": "\u94a2\u57ce\u6545\u4e8b", "slug_title": "gangcheng-story", "date": "2013-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/28fF2ldQXh5A1nGoG4hPoUctyS9.jpg", "actors": [], "comments": [], "recommandations_id": []}

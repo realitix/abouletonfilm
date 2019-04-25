@@ -1,1 +1,0 @@
-{"tmdb_id": 355395, "title": "Universal Citizen", "original_title": "Universal Citizen", "slug_title": "universal-citizen", "date": "1987-01-05", "genre": "", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cJ15G5zRa1ytmUPvOD9stsap0E6.jpg", "actors": ["Peter Thompson (Narrator)"], "comments": [], "recommandations_id": []}

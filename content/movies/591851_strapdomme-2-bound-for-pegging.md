@@ -1,1 +1,0 @@
-{"tmdb_id": 591851, "title": "Strapdomme 2: Bound for Pegging", "original_title": "Strapdomme 2: Bound for Pegging", "slug_title": "strapdomme-2-bound-for-pegging", "date": "2016-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

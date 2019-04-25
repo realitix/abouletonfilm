@@ -1,1 +1,0 @@
-{"tmdb_id": 100038, "title": "Meshuggah - Nothing", "original_title": "Meshuggah - Nothing", "slug_title": "meshuggah-nothing", "date": "2006-10-31", "genre": "Musique", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sdH8LuHywZRBiBmIFvoLIu5r2y1.jpg", "actors": [], "comments": [], "recommandations_id": []}

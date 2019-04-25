@@ -1,1 +1,0 @@
-{"tmdb_id": 223589, "title": "Flamenco Gypsy Soul", "original_title": "Flamenco Gypsy Soul", "slug_title": "flamenco-gypsy-soul", "date": "2013-08-22", "genre": "Musique / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ikLAZKshJnX8lKWlfkMLba8nTGe.jpg", "actors": [], "comments": [], "recommandations_id": []}

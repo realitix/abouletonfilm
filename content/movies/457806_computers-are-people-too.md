@@ -1,1 +1,0 @@
-{"tmdb_id": 457806, "title": "Computers Are People, Too!", "original_title": "Computers Are People, Too!", "slug_title": "computers-are-people-too", "date": "1982-05-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v2Mmnv84j7KDqmTJFCc2ztOxNiF.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 453160, "title": "Roman Numeral: IX", "original_title": "Roman Numeral: IX", "slug_title": "roman-numeral-ix", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/82676SL2Whix1ecFGaTw4Vo8EiM.jpg", "actors": [], "comments": [], "recommandations_id": []}

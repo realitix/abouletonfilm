@@ -1,1 +1,0 @@
-{"tmdb_id": 194768, "title": "Televis\u00e3o", "original_title": "Televis\u00e3o", "slug_title": "televisao", "date": "2012-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

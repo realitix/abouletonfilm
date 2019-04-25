@@ -1,1 +1,0 @@
-{"tmdb_id": 94214, "title": "Jails, Hospitals & Hip-Hop", "original_title": "Jails, Hospitals & Hip-Hop", "slug_title": "jails-hospitals-hip-hop", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

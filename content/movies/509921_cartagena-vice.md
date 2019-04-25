@@ -1,1 +1,1 @@
-{"tmdb_id": 509921, "title": "Cartagena Vice", "original_title": "Cartagena Vice", "slug_title": "cartagena-vice", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 509921, "title": "Cartagena Vice", "original_title": "Cartagena Vice", "slug_title": "cartagena-vice", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Cartagena Vice", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,1 +1,0 @@
-{"tmdb_id": 89558, "title": "Carlito's Angels", "original_title": "Carlito's Angels", "slug_title": "carlito-s-angels", "date": "2003-01-17", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bQA6xjEnCbkotvvrSPQ2xt6GZKB.jpg", "actors": [], "comments": [], "recommandations_id": []}

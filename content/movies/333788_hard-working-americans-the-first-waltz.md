@@ -1,1 +1,0 @@
-{"tmdb_id": 333788, "title": "Hard Working Americans: The First Waltz", "original_title": "Hard Working Americans: The First Waltz", "slug_title": "hard-working-americans-the-first-waltz", "date": "2014-10-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

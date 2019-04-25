@@ -1,1 +1,0 @@
-{"tmdb_id": 445809, "title": "El Silencio de los Fusiles", "original_title": "El Silencio de los Fusiles", "slug_title": "el-silencio-de-los-fusiles", "date": "2017-01-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5hvMSyM4M9d3MzDOXx31cxcQ61A.jpg", "actors": [], "comments": [], "recommandations_id": []}

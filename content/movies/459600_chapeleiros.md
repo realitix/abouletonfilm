@@ -1,1 +1,0 @@
-{"tmdb_id": 459600, "title": "Chapeleiros", "original_title": "Chapeleiros", "slug_title": "chapeleiros", "date": "1983-01-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ql0fL1BiBA5JwVsKebFAvjypV98.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 209893, "title": "Desconectados", "original_title": "Desconectados", "slug_title": "desconectados", "date": "2010-04-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a0J77YGcqxSCW9t3H9bkjoA467B.jpg", "actors": [], "comments": [], "recommandations_id": []}

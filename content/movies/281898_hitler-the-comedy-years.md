@@ -1,1 +1,0 @@
-{"tmdb_id": 281898, "title": "Hitler: The Comedy Years", "original_title": "Hitler: The Comedy Years", "slug_title": "hitler-the-comedy-years", "date": "2007-05-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fxNzSDYPoJGTjTRYovs5MfnnXVz.jpg", "actors": [], "comments": [], "recommandations_id": []}

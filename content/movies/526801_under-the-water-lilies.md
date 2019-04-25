@@ -1,1 +1,0 @@
-{"tmdb_id": 526801, "title": "Under The Water Lilies", "original_title": "Under The Water Lilies", "slug_title": "under-the-water-lilies", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hJR18VBLD3IhdMHexqGhaLQ9qfh.jpg", "actors": [], "comments": [], "recommandations_id": []}

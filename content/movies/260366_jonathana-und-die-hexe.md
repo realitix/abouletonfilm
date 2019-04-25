@@ -1,1 +1,0 @@
-{"tmdb_id": 260366, "title": "Jonathana und die Hexe", "original_title": "Jonathana und die Hexe", "slug_title": "jonathana-und-die-hexe", "date": "1988-09-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sophie Nawara ()", "Luise Prasser ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 3922, "title": "Kolysanka", "original_title": "Kolysanka", "slug_title": "kolysanka", "date": "1988-10-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ma\u0142gorzata Abramowicz (woman)", "Jaros\u0142aw Dunaj (Man)", "Dorota Tadajczyk (Girl)"], "comments": [], "recommandations_id": []}

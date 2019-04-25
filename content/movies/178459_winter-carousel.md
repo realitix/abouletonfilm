@@ -1,1 +1,0 @@
-{"tmdb_id": 178459, "title": "Winter Carousel", "original_title": "Carrousel bor\u00e9al", "slug_title": "winter-carousel", "date": "1958-01-18", "genre": "Animation", "score": "6.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nrL119TZ0b6qQ0Z7SabCJWS9I9R.jpg", "actors": [], "comments": [], "recommandations_id": [190305, 192104, 193890, 106887]}

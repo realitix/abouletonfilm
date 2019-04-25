@@ -1,1 +1,0 @@
-{"tmdb_id": 511216, "title": "Canada Vignettes: Dancing Dolls", "original_title": "Canada Vignettes: Dancing Dolls", "slug_title": "canada-vignettes-dancing-dolls", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

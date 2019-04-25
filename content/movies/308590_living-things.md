@@ -1,1 +1,0 @@
-{"tmdb_id": 308590, "title": "Living Things", "original_title": "Living Things", "slug_title": "living-things", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i9gHhDpetik8RTH46V7Ttb2r9zz.jpg", "actors": [], "comments": [], "recommandations_id": []}

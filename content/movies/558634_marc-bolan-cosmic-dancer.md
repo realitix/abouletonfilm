@@ -1,1 +1,0 @@
-{"tmdb_id": 558634, "title": "Marc Bolan: Cosmic Dancer", "original_title": "Marc Bolan: Cosmic Dancer", "slug_title": "marc-bolan-cosmic-dancer", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

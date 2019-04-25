@@ -1,1 +1,0 @@
-{"tmdb_id": 525008, "title": "Saravarsham", "original_title": "Saravarsham", "slug_title": "saravarsham", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9zhc9H157yT9lWUP7Gm7vlmBROw.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 527177, "title": "Der starke Stamm", "original_title": "Der starke Stamm", "slug_title": "der-starke-stamm", "date": "1956-10-21", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ulrich Beiger ()", "Ruth Kappelsberger ()", "Hans Reiser ()", "Ludwig Schmid-Wildy ()"], "comments": [], "recommandations_id": []}

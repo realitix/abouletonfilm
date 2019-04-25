@@ -1,1 +1,0 @@
-{"tmdb_id": 594442, "title": "Tote Tiere", "original_title": "Tote Tiere", "slug_title": "tote-tiere", "date": "2019-04-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tkSfNyUKdQPkAouyVJ3wPF4D2Bn.jpg", "actors": [], "comments": [], "recommandations_id": []}

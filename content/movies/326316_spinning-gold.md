@@ -1,1 +1,0 @@
-{"tmdb_id": 326316, "title": "Spinning Gold", "original_title": "Spinning Gold", "slug_title": "spinning-gold", "date": "", "genre": "Drame / Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Justin Timberlake (Neil Bogart)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 348181, "title": "Ju-Jitsu", "original_title": "Ju-Jitsu", "slug_title": "ju-jitsu", "date": "1907-08-31", "genre": "Action / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Madame Garrud ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 437314, "title": "Alberto Tomba - Controluce", "original_title": "Alberto Tomba - Controluce", "slug_title": "alberto-tomba-controluce", "date": "2004-03-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bvkcWekIcdBT4QmZBDWfvRhAKtg.jpg", "actors": [], "comments": [], "recommandations_id": []}

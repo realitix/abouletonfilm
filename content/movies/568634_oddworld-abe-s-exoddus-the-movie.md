@@ -1,1 +1,0 @@
-{"tmdb_id": 568634, "title": "Oddworld: Abe's Exoddus: The Movie", "original_title": "Oddworld: Abe's Exoddus: The Movie", "slug_title": "oddworld-abe-s-exoddus-the-movie", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dlbGMBouV0JvLHnZf9TEcb7CHwz.jpg", "actors": [], "comments": [], "recommandations_id": []}

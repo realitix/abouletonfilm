@@ -1,1 +1,0 @@
-{"tmdb_id": 320116, "title": "Kaagaz Ki Nao", "original_title": "Kaagaz Ki Nao", "slug_title": "kaagaz-ki-nao", "date": "1975-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

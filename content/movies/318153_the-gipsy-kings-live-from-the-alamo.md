@@ -1,1 +1,0 @@
-{"tmdb_id": 318153, "title": "The Gipsy Kings: Live from the Alamo", "original_title": "The Gipsy Kings: Live from the Alamo", "slug_title": "the-gipsy-kings-live-from-the-alamo", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

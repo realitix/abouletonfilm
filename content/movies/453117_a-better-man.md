@@ -1,1 +1,0 @@
-{"tmdb_id": 453117, "title": "A Better Man", "original_title": "A Better Man", "slug_title": "a-better-man", "date": "2017-04-30", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ogPvdjNIeb3uMejhyrGHsvrherj.jpg", "actors": ["Attiya Khan (Herself)"], "comments": [], "recommandations_id": []}

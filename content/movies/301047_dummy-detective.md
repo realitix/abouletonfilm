@@ -1,1 +1,0 @@
-{"tmdb_id": 301047, "title": "Dummy Detective", "original_title": "Dummy Detective", "slug_title": "dummy-detective", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 261328, "title": "Garuda Saukiyama", "original_title": "Garuda Saukiyama", "slug_title": "garuda-saukiyama", "date": "1982-02-26", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sivaji Ganesan ()", "Sujatha ()", "Mohan ()", "Thiagarajan ()", "Ambika ()"], "comments": [], "recommandations_id": []}

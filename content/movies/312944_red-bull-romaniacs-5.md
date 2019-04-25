@@ -1,1 +1,0 @@
-{"tmdb_id": 312944, "title": "Red Bull Romaniacs 5", "original_title": "Red Bull Romaniacs 5", "slug_title": "red-bull-romaniacs-5", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Greg Evans (himself)"], "comments": [], "recommandations_id": []}

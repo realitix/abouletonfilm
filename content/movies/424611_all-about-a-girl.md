@@ -1,1 +1,0 @@
-{"tmdb_id": 424611, "title": "All About a Girl", "original_title": "All About a Girl", "slug_title": "all-about-a-girl", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dU6OXC5V1eIAcol8madxbql8pav.jpg", "actors": ["Annie Ela ()"], "comments": [], "recommandations_id": []}

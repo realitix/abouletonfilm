@@ -1,1 +1,0 @@
-{"tmdb_id": 224650, "title": "Boogieman", "original_title": "Boogieman", "slug_title": "boogieman", "date": "1989-01-01", "genre": "Thriller / Horreur / Fantastique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hc4LJhMv2uYo6VGhK1IRhiOLvxK.jpg", "actors": [], "comments": [], "recommandations_id": []}

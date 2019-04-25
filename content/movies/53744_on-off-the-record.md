@@ -1,1 +1,0 @@
-{"tmdb_id": 53744, "title": "On-Off The Record", "original_title": "On-Off The Record", "slug_title": "on-off-the-record", "date": "2002-06-30", "genre": "Documentaire / Musique", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yN15hGqUA53JsmZ4Jq7pS06lUMu.jpg", "actors": [], "comments": [], "recommandations_id": []}

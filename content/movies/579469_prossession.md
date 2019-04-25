@@ -1,1 +1,0 @@
-{"tmdb_id": 579469, "title": "Prossession", "original_title": "\u9748\u4f54", "slug_title": "prossession", "date": "2018-12-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tptJHPY2HtCxe9i04UccbcZD78.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 567882, "title": "Ga niet naar zee", "original_title": "Ga niet naar zee", "slug_title": "ga-niet-naar-zee", "date": "2018-10-02", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lJ3PUZgcVVrmsqR7t0ZzYI74LJa.jpg", "actors": ["Julia Akkermans ()", "Johan Leysen ()"], "comments": [], "recommandations_id": []}

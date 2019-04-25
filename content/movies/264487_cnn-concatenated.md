@@ -1,1 +1,0 @@
-{"tmdb_id": 264487, "title": "CNN Concatenated", "original_title": "CNN Concatenated", "slug_title": "cnn-concatenated", "date": "2002-01-01", "genre": "Documentaire", "score": "1.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

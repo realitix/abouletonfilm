@@ -1,1 +1,0 @@
-{"tmdb_id": 327938, "title": "MGMT - Live en Lowlands", "original_title": "MGMT - Live en Lowlands", "slug_title": "mgmt-live-en-lowlands", "date": "2008-10-10", "genre": "Musique", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9XIBDqgyX3xl0gE8IcRqbbVCWCM.jpg", "actors": [], "comments": [], "recommandations_id": []}

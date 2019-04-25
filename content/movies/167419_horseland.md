@@ -1,1 +1,0 @@
-{"tmdb_id": 167419, "title": "Horseland", "original_title": "Horseland", "slug_title": "horseland", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 488400, "title": "Death Is a Bad Trip", "original_title": "Death Is a Bad Trip", "slug_title": "death-is-a-bad-trip", "date": "1974-07-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

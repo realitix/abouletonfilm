@@ -1,1 +1,0 @@
-{"tmdb_id": 462012, "title": "War Against the Rabbit", "original_title": "War Against the Rabbit", "slug_title": "war-against-the-rabbit", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

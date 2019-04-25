@@ -1,1 +1,0 @@
-{"tmdb_id": 318698, "title": "Pale Force", "original_title": "Pale Force", "slug_title": "pale-force", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

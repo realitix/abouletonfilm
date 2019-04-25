@@ -1,1 +1,0 @@
-{"tmdb_id": 424841, "title": "K\u00f6ssi Kenguru Satujen maassa", "original_title": "K\u00f6ssi Kenguru Satujen maassa", "slug_title": "kossi-kenguru-satujen-maassa", "date": "1974-09-06", "genre": "Animation / Fantastique / Familial", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

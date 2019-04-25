@@ -1,1 +1,0 @@
-{"tmdb_id": 521860, "title": "CEO and His Man", "original_title": "CEO and His Man", "slug_title": "ceo-and-his-man", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sC28oZBryXQpbucsfHhd23CgUa4.jpg", "actors": ["Yu Yinhao (Wu Sicong)", "Jiang Yao (Xiao Mao)"], "comments": [], "recommandations_id": []}

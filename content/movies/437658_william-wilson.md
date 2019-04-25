@@ -1,1 +1,0 @@
-{"tmdb_id": 437658, "title": "William Wilson", "original_title": "William Wilson", "slug_title": "william-wilson", "date": "1999-01-27", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

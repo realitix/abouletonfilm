@@ -1,1 +1,0 @@
-{"tmdb_id": 284033, "title": "The Bobsled", "original_title": "The Bobsled", "slug_title": "the-bobsled", "date": "2009-10-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

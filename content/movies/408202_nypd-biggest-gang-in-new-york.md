@@ -1,1 +1,0 @@
-{"tmdb_id": 408202, "title": "NYPD: Biggest Gang In New York?", "original_title": "NYPD: Biggest Gang In New York?", "slug_title": "nypd-biggest-gang-in-new-york", "date": "2016-07-17", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xnObSxn2U27d1jxVxfp2zXFwfAS.jpg", "actors": [], "comments": [], "recommandations_id": []}

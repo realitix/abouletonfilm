@@ -1,1 +1,0 @@
-{"tmdb_id": 380432, "title": "Central Time", "original_title": "Central Time", "slug_title": "central-time", "date": "1977-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

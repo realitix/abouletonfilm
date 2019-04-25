@@ -1,1 +1,0 @@
-{"tmdb_id": 564851, "title": "It's Okay, Buddy", "original_title": "It's Okay, Buddy", "slug_title": "it-s-okay-buddy", "date": "2017-11-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iwQDA0ivIloHxrfzfg6YPmGdK5s.jpg", "actors": [], "comments": [], "recommandations_id": []}

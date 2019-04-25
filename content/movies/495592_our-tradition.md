@@ -1,1 +1,0 @@
-{"tmdb_id": 495592, "title": "Our Tradition", "original_title": "\u9ec4\u8fde\u00b7\u539a\u6734", "slug_title": "our-tradition", "date": "2000-09-20", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Wang Zhixia (Yu Lianfang)", "Zhu Xu (Guan Juchen)"], "comments": [], "recommandations_id": []}

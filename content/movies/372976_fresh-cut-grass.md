@@ -1,1 +1,0 @@
-{"tmdb_id": 372976, "title": "Fresh Cut Grass", "original_title": "Fresh Cut Grass", "slug_title": "fresh-cut-grass", "date": "2014-11-23", "genre": "Aventure / Drame", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4DCucNYtu38P7NkwV3xmhQzkPMQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

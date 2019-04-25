@@ -1,1 +1,0 @@
-{"tmdb_id": 559175, "title": "L'homme traqu\u00e9", "original_title": "L'homme traqu\u00e9", "slug_title": "l-homme-traque", "date": "1947-02-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b8TBRDGsdWAwTwtf5QuHQtKvx4e.jpg", "actors": [], "comments": [], "recommandations_id": []}

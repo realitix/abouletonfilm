@@ -1,1 +1,0 @@
-{"tmdb_id": 271600, "title": "Pingu's Igloo Adventures", "original_title": "Pingu's Igloo Adventures", "slug_title": "pingu-s-igloo-adventures", "date": "2013-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

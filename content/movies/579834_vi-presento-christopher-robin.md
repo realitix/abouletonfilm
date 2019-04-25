@@ -1,1 +1,0 @@
-{"tmdb_id": 579834, "title": "VI PRESENTO CHRISTOPHER ROBIN", "original_title": "VI PRESENTO CHRISTOPHER ROBIN", "slug_title": "vi-presento-christopher-robin", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

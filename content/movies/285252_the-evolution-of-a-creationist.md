@@ -1,1 +1,0 @@
-{"tmdb_id": 285252, "title": "The Evolution of a Creationist", "original_title": "The Evolution of a Creationist", "slug_title": "the-evolution-of-a-creationist", "date": "2008-08-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jMTbB2YI0GuyTCsEn9em3TvZvbn.jpg", "actors": [], "comments": [], "recommandations_id": []}

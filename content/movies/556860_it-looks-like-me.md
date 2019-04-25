@@ -1,1 +1,0 @@
-{"tmdb_id": 556860, "title": "It Looks Like Me", "original_title": "Parece Comigo", "slug_title": "it-looks-like-me", "date": "2016-06-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5vP8HVqM7QtCq1D7rRF10qTUjau.jpg", "actors": [], "comments": [], "recommandations_id": []}

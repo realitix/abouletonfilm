@@ -1,1 +1,0 @@
-{"tmdb_id": 494982, "title": "Photographs", "original_title": "Fotograf\u00edas", "slug_title": "photographs", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

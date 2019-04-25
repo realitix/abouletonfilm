@@ -1,1 +1,0 @@
-{"tmdb_id": 211834, "title": "Special Delivery", "original_title": "Special Delivery", "slug_title": "special-delivery", "date": "1946-08-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9zldaBNByTDbVbnLYdBYI2v5o48.jpg", "actors": [], "comments": [], "recommandations_id": []}

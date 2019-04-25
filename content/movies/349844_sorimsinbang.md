@@ -1,1 +1,0 @@
-{"tmdb_id": 349844, "title": "\uc18c\ub9bc\uc2e0\ubc29", "original_title": "\uc18c\ub9bc\uc2e0\ubc29", "slug_title": "sorimsinbang", "date": "1982-09-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

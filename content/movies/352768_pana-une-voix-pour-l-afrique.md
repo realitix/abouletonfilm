@@ -1,1 +1,0 @@
-{"tmdb_id": 352768, "title": "Pana - Une voix pour l'Afrique", "original_title": "Pana - Une voix pour l'Afrique", "slug_title": "pana-une-voix-pour-l-afrique", "date": "1987-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

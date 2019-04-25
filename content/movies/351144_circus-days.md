@@ -1,1 +1,0 @@
-{"tmdb_id": 351144, "title": "Circus Days", "original_title": "Circus Days", "slug_title": "circus-days", "date": "1935-09-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

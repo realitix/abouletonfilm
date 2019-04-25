@@ -1,1 +1,0 @@
-{"tmdb_id": 441700, "title": "Estado de sitio", "original_title": "Estado de sitio", "slug_title": "estado-de-sitio", "date": "", "genre": "Drame", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6l4c4IP4rvoTSiLuvpAwMEDbfXZ.jpg", "actors": ["Robin Fine ()", "Concha Gr\u00e9gori ()"], "comments": [], "recommandations_id": []}

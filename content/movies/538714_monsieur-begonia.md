@@ -1,1 +1,0 @@
-{"tmdb_id": 538714, "title": "Monsieur B\u00e9gonia", "original_title": "Monsieur B\u00e9gonia", "slug_title": "monsieur-begonia", "date": "1937-12-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kErHzCzIm3HcjWlOKOaTRLPzQe5.jpg", "actors": [], "comments": [], "recommandations_id": []}

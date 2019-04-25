@@ -1,1 +1,0 @@
-{"tmdb_id": 501561, "title": "To Be Free", "original_title": "To Be Free", "slug_title": "to-be-free", "date": "2017-03-25", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Adepero Oduye (Nina Simone)"], "comments": [], "recommandations_id": []}

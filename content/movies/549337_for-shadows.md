@@ -1,1 +1,0 @@
-{"tmdb_id": 549337, "title": "For Shadows", "original_title": "For Shadows", "slug_title": "for-shadows", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

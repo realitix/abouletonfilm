@@ -1,1 +1,0 @@
-{"tmdb_id": 151155, "title": "Abenteuer Spass Superstars", "original_title": "Abenteuer Spass Superstars", "slug_title": "abenteuer-spass-superstars", "date": "2006-08-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/umwZrKskJF8RUMdrZUE2UEZ3Nsa.jpg", "actors": [], "comments": [], "recommandations_id": []}

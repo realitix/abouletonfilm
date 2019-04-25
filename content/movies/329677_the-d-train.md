@@ -1,1 +1,0 @@
-{"tmdb_id": 329677, "title": "The D Train", "original_title": "The D Train", "slug_title": "the-d-train", "date": "2011-01-01", "genre": "Drame / Familial", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/FN8joRz9Z1blmMBAmsd4gqUW9e.jpg", "actors": ["Jay Rosenblatt (himself)"], "comments": [], "recommandations_id": []}

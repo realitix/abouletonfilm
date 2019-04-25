@@ -1,1 +1,0 @@
-{"tmdb_id": 439727, "title": "My Father's Camera", "original_title": "My Father's Camera", "slug_title": "my-father-s-camera", "date": "2000-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

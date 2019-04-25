@@ -1,1 +1,0 @@
-{"tmdb_id": 335103, "title": "Standing Still", "original_title": "Standing Still", "slug_title": "standing-still", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

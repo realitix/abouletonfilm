@@ -1,1 +1,0 @@
-{"tmdb_id": 124630, "title": "Film Is a Girl & a Gun", "original_title": "Film ist a Girl & a Gun", "slug_title": "film-is-a-girl-a-gun", "date": "2009-12-04", "genre": "Drame", "score": "6.4/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hyCmuo8XFHkLsDVgtceNWtCxpum.jpg", "actors": [], "comments": [], "recommandations_id": [154622]}

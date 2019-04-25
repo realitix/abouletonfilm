@@ -1,1 +1,0 @@
-{"tmdb_id": 527222, "title": "Think of Something Blue", "original_title": "Think of Something Blue", "slug_title": "think-of-something-blue", "date": "2018-05-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Wynn Helizcer ()", "Gabriel Aguillera ()"], "comments": [], "recommandations_id": []}

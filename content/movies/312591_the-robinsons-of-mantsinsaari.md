@@ -1,1 +1,0 @@
-{"tmdb_id": 312591, "title": "The Robinsons of Mantsinsaari", "original_title": "The Robinsons of Mantsinsaari", "slug_title": "the-robinsons-of-mantsinsaari", "date": "2009-01-24", "genre": "", "score": "4.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

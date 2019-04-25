@@ -1,1 +1,0 @@
-{"tmdb_id": 360276, "title": "Catfish -  Italian Style", "original_title": "Catfish -  Italian Style", "slug_title": "catfish-italian-style", "date": "2008-07-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kevin Maddocks ()", "Keith Lambert ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 383341, "title": "Troilus und Cressida", "original_title": "Troilus und Cressida", "slug_title": "troilus-und-cressida", "date": "1969-03-23", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kurt Heintel (Hector)", "Margot Trooger (Helena)", "Christine Wodetzky (Cressida)"], "comments": [], "recommandations_id": []}

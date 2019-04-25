@@ -1,1 +1,0 @@
-{"tmdb_id": 369639, "title": "Young And Stacked", "original_title": "Young And Stacked", "slug_title": "young-and-stacked", "date": "2013-11-06", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qdO7302n4buTDHSxjjIOHiHaDcU.jpg", "actors": [], "comments": [], "recommandations_id": []}

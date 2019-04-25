@@ -1,1 +1,0 @@
-{"tmdb_id": 282966, "title": "Dwarka: The Atlantis of the East", "original_title": "Dwarka: The Atlantis of the East", "slug_title": "dwarka-the-atlantis-of-the-east", "date": "2013-12-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Amish Shah (Himself - Host)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 294844, "title": "Killing Seven", "original_title": "\u8ffd\u9b42\u4e03\u6bba", "slug_title": "killing-seven", "date": "2013-01-18", "genre": "Thriller / Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o3bVRdGGWQMtRTRgY7mr3F3ofKr.jpg", "actors": [], "comments": [], "recommandations_id": []}

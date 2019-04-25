@@ -1,1 +1,0 @@
-{"tmdb_id": 524368, "title": "Clay vs. Clay", "original_title": "Clay vs. Clay", "slug_title": "clay-vs-clay", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

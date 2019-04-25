@@ -1,1 +1,0 @@
-{"tmdb_id": 531291, "title": "AMV Hell 5: Dedicated to Dio", "original_title": "AMV Hell 5: Dedicated to Dio", "slug_title": "amv-hell-5-dedicated-to-dio", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

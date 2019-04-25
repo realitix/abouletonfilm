@@ -1,1 +1,0 @@
-{"tmdb_id": 405390, "title": "A Spoon in the Wind", "original_title": "A Spoon in the Wind", "slug_title": "a-spoon-in-the-wind", "date": "2016-07-08", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

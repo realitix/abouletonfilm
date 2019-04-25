@@ -1,1 +1,0 @@
-{"tmdb_id": 579145, "title": "A People Without Fear", "original_title": "A People Without Fear", "slug_title": "a-people-without-fear", "date": "1953-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 148463, "title": "Don & Juan - Ao Vivo", "original_title": "Don & Juan - Ao Vivo", "slug_title": "don-juan-ao-vivo", "date": "2016-02-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pJdCtdx9DCCMQr1DgxkJVkHbFKw.jpg", "actors": [], "comments": [], "recommandations_id": []}

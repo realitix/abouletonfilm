@@ -1,1 +1,0 @@
-{"tmdb_id": 386553, "title": "James Tont Operation T.W.O.", "original_title": "James Tont operazione D.U.E.", "slug_title": "james-tont-operation-t-w-o", "date": "1966-03-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ap2nARG3UXIIQHOYkBm3zkdMr2u.jpg", "actors": [], "comments": [], "recommandations_id": []}

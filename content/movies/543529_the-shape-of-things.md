@@ -1,1 +1,0 @@
-{"tmdb_id": 543529, "title": "The Shape of Things", "original_title": "The Shape of Things", "slug_title": "the-shape-of-things", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uZ2Xehbok6w5wJyQ5VdJLrUUBms.jpg", "actors": [], "comments": [], "recommandations_id": []}

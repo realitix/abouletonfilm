@@ -1,1 +1,0 @@
-{"tmdb_id": 588445, "title": "The Music Man", "original_title": "The Music Man", "slug_title": "the-music-man", "date": "1998-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fEjofGVlygGLuwsJjYchNI4qkL3.jpg", "actors": ["Ron Lawrence (Ron Lawrence)"], "comments": [], "recommandations_id": []}

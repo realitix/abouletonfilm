@@ -1,1 +1,0 @@
-{"tmdb_id": 534025, "title": "Happy Familyy Pvt Ltd", "original_title": "Happy Familyy Pvt Ltd", "slug_title": "happy-familyy-pvt-ltd", "date": "2013-12-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

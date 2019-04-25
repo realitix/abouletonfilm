@@ -1,1 +1,0 @@
-{"tmdb_id": 189613, "title": "The Doughboy", "original_title": "The Doughboy", "slug_title": "the-doughboy", "date": "1926-09-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gePF5tRbnHZz7ABMVjlbKpGTsIb.jpg", "actors": ["'Snub' Pollard ()"], "comments": [], "recommandations_id": []}

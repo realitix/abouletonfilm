@@ -1,1 +1,0 @@
-{"tmdb_id": 388120, "title": "Le Mans 2008 Review", "original_title": "Le Mans 2008 Review", "slug_title": "le-mans-2008-review", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x8o1O9A0b77vpKs05P6EwRus6kh.jpg", "actors": [], "comments": [], "recommandations_id": []}

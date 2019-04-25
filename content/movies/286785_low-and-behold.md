@@ -1,1 +1,0 @@
-{"tmdb_id": 286785, "title": "Low and Behold", "original_title": "Low and Behold", "slug_title": "low-and-behold", "date": "2007-04-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

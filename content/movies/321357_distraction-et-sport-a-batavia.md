@@ -1,1 +1,0 @@
-{"tmdb_id": 321357, "title": "Distraction et sport \u00e0 Batavia", "original_title": "Distraction et sport \u00e0 Batavia", "slug_title": "distraction-et-sport-a-batavia", "date": "1909-03-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

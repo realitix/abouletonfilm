@@ -1,1 +1,0 @@
-{"tmdb_id": 377239, "title": "Just for Laughs Starring Howie Mandel", "original_title": "Just for Laughs Starring Howie Mandel", "slug_title": "just-for-laughs-starring-howie-mandel", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

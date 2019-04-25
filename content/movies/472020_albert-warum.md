@@ -1,1 +1,0 @@
-{"tmdb_id": 472020, "title": "Albert - warum?", "original_title": "Albert - warum?", "slug_title": "albert-warum", "date": "1978-10-27", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tTENTm9aR0nR6Qz576Iwhx81mnj.jpg", "actors": ["Fritz Binner (Albert)"], "comments": [], "recommandations_id": []}

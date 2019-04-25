@@ -1,1 +1,0 @@
-{"tmdb_id": 570889, "title": "The Joy of Slime", "original_title": "The Joy of Slime", "slug_title": "the-joy-of-slime", "date": "2018-11-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1K0ip2fHXwq0BntvupXC5kh4E7Z.jpg", "actors": ["Ami Evelyn Hughes ()"], "comments": [], "recommandations_id": []}

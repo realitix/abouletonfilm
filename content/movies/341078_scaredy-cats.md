@@ -1,1 +1,0 @@
-{"tmdb_id": 341078, "title": "Scaredy Cats", "original_title": "Scaredy Cats", "slug_title": "scaredy-cats", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

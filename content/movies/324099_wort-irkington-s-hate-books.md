@@ -1,1 +1,0 @@
-{"tmdb_id": 324099, "title": "Wort Irkington's Hate Books", "original_title": "Wort Irkington's Hate Books", "slug_title": "wort-irkington-s-hate-books", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 316165, "title": "The Making of the President: 1964", "original_title": "The Making of the President: 1964", "slug_title": "the-making-of-the-president-1964", "date": "1966-12-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

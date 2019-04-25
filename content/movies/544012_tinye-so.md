@@ -1,1 +1,0 @@
-{"tmdb_id": 544012, "title": "Tinye So", "original_title": "Tinye So", "slug_title": "tinye-so", "date": "2011-10-01", "genre": "Myst\u00e8re", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bocar Ba ()", "Tehibou Bagayoko ()", "Ti\u00e9coura Traor\u00e9 ()"], "comments": [], "recommandations_id": []}

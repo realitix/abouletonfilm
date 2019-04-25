@@ -1,1 +1,0 @@
-{"tmdb_id": 538742, "title": "Le fraudeur", "original_title": "Le fraudeur", "slug_title": "le-fraudeur", "date": "1937-11-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/56tVdfsKhV3TNpCMZyZ09oUtMi.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 276939, "title": "Brainy Baby: Shapes & Colors", "original_title": "Brainy Baby: Shapes & Colors", "slug_title": "brainy-baby-shapes-colors", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

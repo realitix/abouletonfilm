@@ -1,1 +1,0 @@
-{"tmdb_id": 568862, "title": "Une Partie de Tandem", "original_title": "Une Partie de Tandem", "slug_title": "une-partie-de-tandem", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

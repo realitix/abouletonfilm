@@ -1,1 +1,0 @@
-{"tmdb_id": 332991, "title": "Life of a Mountain: A Year on Scafell Pike", "original_title": "Life of a Mountain: A Year on Scafell Pike", "slug_title": "life-of-a-mountain-a-year-on-scafell-pike", "date": "2015-01-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

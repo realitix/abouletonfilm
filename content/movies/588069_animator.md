@@ -1,1 +1,0 @@
-{"tmdb_id": 588069, "title": "Animator", "original_title": "Animator", "slug_title": "animator", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x1VBSG8CWpahw2ZR3c9kdHAeH33.jpg", "actors": ["Levenix Riddle ()"], "comments": [], "recommandations_id": []}

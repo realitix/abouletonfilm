@@ -1,1 +1,0 @@
-{"tmdb_id": 358662, "title": "Midland Country", "original_title": "Midland Country", "slug_title": "midland-country", "date": "1974-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

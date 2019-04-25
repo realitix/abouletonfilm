@@ -1,1 +1,0 @@
-{"tmdb_id": 278788, "title": "Desi's Looking for a New Girl", "original_title": "Desi's Looking for a New Girl", "slug_title": "desi-s-looking-for-a-new-girl", "date": "2000-06-16", "genre": "", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tAfcy6Pa8HkRLWtLWv825AIyDqY.jpg", "actors": [], "comments": [], "recommandations_id": []}

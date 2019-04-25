@@ -1,1 +1,0 @@
-{"tmdb_id": 283640, "title": "Model Village", "original_title": "Village mod\u00e8le", "slug_title": "model-village", "date": "2014-03-22", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o32uuO5gxjAdxNQB7jgT3GkDnHK.jpg", "actors": [], "comments": [], "recommandations_id": []}

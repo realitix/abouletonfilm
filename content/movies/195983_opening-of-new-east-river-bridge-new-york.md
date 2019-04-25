@@ -1,1 +1,0 @@
-{"tmdb_id": 195983, "title": "Opening of New East River Bridge, New York", "original_title": "Opening of New East River Bridge, New York", "slug_title": "opening-of-new-east-river-bridge-new-york", "date": "1903-12-22", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 398890, "title": "Bhakta Prahlada", "original_title": "Bhakta Prahlada", "slug_title": "bhakta-prahlada", "date": "", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3uGWcR7cNeRwuZkrMSrOuJkUZte.jpg", "actors": [], "comments": [], "recommandations_id": []}

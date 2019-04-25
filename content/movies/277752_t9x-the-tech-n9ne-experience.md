@@ -1,1 +1,0 @@
-{"tmdb_id": 277752, "title": "T9X: The Tech N9ne Experience", "original_title": "T9X: The Tech N9ne Experience", "slug_title": "t9x-the-tech-n9ne-experience", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

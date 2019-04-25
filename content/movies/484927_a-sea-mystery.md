@@ -1,1 +1,0 @@
-{"tmdb_id": 484927, "title": "A Sea Mystery", "original_title": "A Sea Mystery", "slug_title": "a-sea-mystery", "date": "1916-01-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Robert Lee (The Stranger)", "Mary Fuller (Mary)", "Paul Panzer (John)", "Ralph Belmont (Ralph)"], "comments": [], "recommandations_id": []}

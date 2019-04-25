@@ -1,1 +1,0 @@
-{"tmdb_id": 388802, "title": "La Historia Me Absolvera", "original_title": "La Historia Me Absolvera", "slug_title": "la-historia-me-absolvera", "date": "1977-03-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

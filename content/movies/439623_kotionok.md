@@ -1,1 +1,0 @@
-{"tmdb_id": 439623, "title": "\u041a\u043e\u0442\u0451\u043d\u043e\u043a", "original_title": "\u041a\u043e\u0442\u0451\u043d\u043e\u043a", "slug_title": "kotionok", "date": "1979-02-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5VLfrE5KkdUnWZkWNqohv9dEtQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

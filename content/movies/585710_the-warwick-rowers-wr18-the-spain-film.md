@@ -1,1 +1,0 @@
-{"tmdb_id": 585710, "title": "The Warwick Rowers - WR18 The Spain Film", "original_title": "The Warwick Rowers - WR18 The Spain Film", "slug_title": "the-warwick-rowers-wr18-the-spain-film", "date": "2018-01-01", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

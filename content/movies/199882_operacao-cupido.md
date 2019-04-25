@@ -1,1 +1,0 @@
-{"tmdb_id": 199882, "title": "Opera\u00e7\u00e3o Cupido", "original_title": "Opera\u00e7\u00e3o Cupido", "slug_title": "operacao-cupido", "date": "", "genre": "Documentaire", "score": "7.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n6QD03av3s5Rr6j6VCZa1MB09OW.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 519059, "title": "Misericordia: The Last Mystery of Kristo Vampiro", "original_title": "Misericordia: The Last Mystery of Kristo Vampiro", "slug_title": "misericordia-the-last-mystery-of-kristo-vampiro", "date": "2013-01-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

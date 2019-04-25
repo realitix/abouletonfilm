@@ -1,1 +1,0 @@
-{"tmdb_id": 367243, "title": "Serum Serum", "original_title": "Serum Serum", "slug_title": "serum-serum", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 329335, "title": "In Defense of People", "original_title": "In Defense of People", "slug_title": "in-defense-of-people", "date": "1981-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

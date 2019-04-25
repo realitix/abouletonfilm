@@ -1,1 +1,0 @@
-{"tmdb_id": 578341, "title": "We Have Not Come Here To Die", "original_title": "We Have Not Come Here To Die", "slug_title": "we-have-not-come-here-to-die", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/disJOa8buHNjbxCPt0pXSQMtyyg.jpg", "actors": [], "comments": [], "recommandations_id": []}

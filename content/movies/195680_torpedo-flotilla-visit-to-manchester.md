@@ -1,1 +1,0 @@
-{"tmdb_id": 195680, "title": "Torpedo Flotilla Visit to Manchester", "original_title": "Torpedo Flotilla Visit to Manchester", "slug_title": "torpedo-flotilla-visit-to-manchester", "date": "1901-05-21", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

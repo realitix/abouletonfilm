@@ -1,1 +1,0 @@
-{"tmdb_id": 477894, "title": "The Human Bridge", "original_title": "Sulla via dell'oro", "slug_title": "the-human-bridge", "date": "1913-08-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

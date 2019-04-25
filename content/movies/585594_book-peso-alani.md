@@ -1,1 +1,0 @@
-{"tmdb_id": 585594, "title": "Book Peso alani", "original_title": "Book Peso alani", "slug_title": "book-peso-alani", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

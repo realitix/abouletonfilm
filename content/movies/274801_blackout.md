@@ -1,1 +1,0 @@
-{"tmdb_id": 274801, "title": "Blackout", "original_title": "Blackout", "slug_title": "blackout", "date": "2013-05-01", "genre": "Animation / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

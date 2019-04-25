@@ -1,1 +1,0 @@
-{"tmdb_id": 422641, "title": "Fantastic Beasts 4", "original_title": "Fantastic Beasts 4", "slug_title": "fantastic-beasts-4", "date": "2022-11-24", "genre": "Aventure / Familial / Fantastique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Eddie Redmayne (Newt Scamander)"], "comments": [], "recommandations_id": []}

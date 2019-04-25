@@ -1,1 +1,0 @@
-{"tmdb_id": 537684, "title": "The Art of Knitting", "original_title": "The Art of Knitting", "slug_title": "the-art-of-knitting", "date": "2005-05-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/c4eUmMQfNj97edQQpMaC9AvfNgq.jpg", "actors": [], "comments": [], "recommandations_id": []}

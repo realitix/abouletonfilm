@@ -1,1 +1,0 @@
-{"tmdb_id": 55331, "title": "The Boned Age", "original_title": "The Boned Age", "slug_title": "the-boned-age", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/u40j9HJ5UdZGObLVyqBQXM0pDlf.jpg", "actors": [], "comments": [], "recommandations_id": []}

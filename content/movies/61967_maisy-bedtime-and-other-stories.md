@@ -1,1 +1,0 @@
-{"tmdb_id": 61967, "title": "Maisy: Bedtime and other stories", "original_title": "Maisy: Bedtime and other stories", "slug_title": "maisy-bedtime-and-other-stories", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xn2s6Lh7dNUa4yX2NJ7OdUPLD3F.jpg", "actors": [], "comments": [], "recommandations_id": []}

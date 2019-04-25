@@ -1,1 +1,0 @@
-{"tmdb_id": 261453, "title": "Suomi kutsuu", "original_title": "Suomi kutsuu", "slug_title": "suomi-kutsuu", "date": "1932-01-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

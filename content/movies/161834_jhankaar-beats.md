@@ -1,1 +1,0 @@
-{"tmdb_id": 161834, "title": "Jhankaar Beats", "original_title": "Jhankaar Beats", "slug_title": "jhankaar-beats", "date": "2003-06-19", "genre": "", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2D3IY59HzDUMh7bGYiZI30yBa7k.jpg", "actors": ["Sangeetha Chauhan ()", "Shayan Munshi (Neel)"], "comments": [], "recommandations_id": []}

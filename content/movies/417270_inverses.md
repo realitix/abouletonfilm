@@ -1,1 +1,0 @@
-{"tmdb_id": 417270, "title": "inverses", "original_title": "inverses", "slug_title": "inverses", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

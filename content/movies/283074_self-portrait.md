@@ -1,1 +1,0 @@
-{"tmdb_id": 283074, "title": "Self Portrait", "original_title": "Jigazou", "slug_title": "self-portrait", "date": "1988-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yss8wttTbP1AartB8FnNYADMzAI.jpg", "actors": [], "comments": [], "recommandations_id": []}

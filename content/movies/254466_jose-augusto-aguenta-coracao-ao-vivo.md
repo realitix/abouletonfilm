@@ -1,1 +1,0 @@
-{"tmdb_id": 254466, "title": "Jos\u00e9 Augusto - Aguenta Cora\u00e7\u00e3o ao vivo", "original_title": "Jos\u00e9 Augusto - Aguenta Cora\u00e7\u00e3o ao vivo", "slug_title": "jose-augusto-aguenta-coracao-ao-vivo", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

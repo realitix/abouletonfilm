@@ -1,1 +1,0 @@
-{"tmdb_id": 469089, "title": "Half a Life", "original_title": "Half a Life", "slug_title": "half-a-life", "date": "2017-01-01", "genre": "Animation / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tiSUUWsd51xvUtJXJd4YvPGODpu.jpg", "actors": [], "comments": [], "recommandations_id": []}

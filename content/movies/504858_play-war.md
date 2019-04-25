@@ -1,1 +1,0 @@
-{"tmdb_id": 504858, "title": "Play War", "original_title": "Play War", "slug_title": "play-war", "date": "2016-03-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Matt Holbrook (L.A.)", "Cara Failer (Talladega)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 562798, "title": "PROGRESS Chapter 58: Live Your Best Life", "original_title": "PROGRESS Chapter 58: Live Your Best Life", "slug_title": "progress-chapter-58-live-your-best-life", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

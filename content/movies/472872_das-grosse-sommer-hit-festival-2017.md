@@ -1,1 +1,0 @@
-{"tmdb_id": 472872, "title": "Das gro\u00dfe Sommer-Hit-Festival 2017", "original_title": "Das gro\u00dfe Sommer-Hit-Festival 2017", "slug_title": "das-grosse-sommer-hit-festival-2017", "date": "", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Michelle Hunziker (Showmaster)"], "comments": [], "recommandations_id": []}

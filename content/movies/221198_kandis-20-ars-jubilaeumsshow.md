@@ -1,1 +1,0 @@
-{"tmdb_id": 221198, "title": "Kandis 20 \u00c5rs Jubil\u00e6umsshow", "original_title": "Kandis 20 \u00c5rs Jubil\u00e6umsshow", "slug_title": "kandis-20-ars-jubilaeumsshow", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

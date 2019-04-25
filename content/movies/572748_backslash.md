@@ -1,1 +1,0 @@
-{"tmdb_id": 572748, "title": "Backslash", "original_title": "Backslash", "slug_title": "backslash", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

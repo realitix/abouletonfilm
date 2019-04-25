@@ -1,1 +1,0 @@
-{"tmdb_id": 240550, "title": "Andrew Weyth, The Helga Pictures", "original_title": "Andrew Weyth, The Helga Pictures", "slug_title": "andrew-weyth-the-helga-pictures", "date": "1987-09-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Charlton Heston (Host)"], "comments": [], "recommandations_id": []}

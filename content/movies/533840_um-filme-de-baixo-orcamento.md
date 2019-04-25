@@ -1,1 +1,0 @@
-{"tmdb_id": 533840, "title": "Um Filme de Baixo Or\u00e7amento", "original_title": "Um Filme de Baixo Or\u00e7amento", "slug_title": "um-filme-de-baixo-orcamento", "date": "2018-08-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6cv9IYmqZzXxbi2JxDengAE2Mq4.jpg", "actors": [], "comments": [], "recommandations_id": []}

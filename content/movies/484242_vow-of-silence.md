@@ -1,1 +1,0 @@
-{"tmdb_id": 484242, "title": "Vow of Silence", "original_title": "Imik", "slug_title": "vow-of-silence", "date": "2012-07-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mercedes Cabral ()", "Lao Rodriguez ()", "Rose Galvez ()"], "comments": [], "recommandations_id": []}

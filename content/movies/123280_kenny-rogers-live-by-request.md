@@ -1,1 +1,0 @@
-{"tmdb_id": 123280, "title": "Kenny Rogers: Live By Request", "original_title": "Kenny Rogers: Live By Request", "slug_title": "kenny-rogers-live-by-request", "date": "", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d7aKp13k4QrcBbRztR9G7DTSX6z.jpg", "actors": [], "comments": [], "recommandations_id": []}

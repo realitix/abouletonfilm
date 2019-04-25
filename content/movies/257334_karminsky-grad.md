@@ -1,1 +1,0 @@
-{"tmdb_id": 257334, "title": "Karminsky Grad", "original_title": "Karminsky Grad", "slug_title": "karminsky-grad", "date": "2011-04-09", "genre": "Com\u00e9die / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4AE8arcMdi9Pyhq4R30jK8NneYm.jpg", "actors": [], "comments": [], "recommandations_id": []}

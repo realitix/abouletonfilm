@@ -1,1 +1,0 @@
-{"tmdb_id": 249256, "title": "Damon Blows America Volume 4: Seattle", "original_title": "Damon Blows America Volume 4: Seattle", "slug_title": "damon-blows-america-volume-4-seattle", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

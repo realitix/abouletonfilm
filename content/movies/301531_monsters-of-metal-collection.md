@@ -1,1 +1,0 @@
-{"tmdb_id": 301531, "title": "Monsters of Metal Collection", "original_title": "Monsters of Metal Collection", "slug_title": "monsters-of-metal-collection", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bTSXoiAGmBhc2xj50ln5zsf3VXo.jpg", "actors": [], "comments": [], "recommandations_id": []}

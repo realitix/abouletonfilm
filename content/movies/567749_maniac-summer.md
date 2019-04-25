@@ -1,1 +1,0 @@
-{"tmdb_id": 567749, "title": "Maniac Summer", "original_title": "Maniac Summer", "slug_title": "maniac-summer", "date": "2009-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eLQSLAyZpKRWKFcN7UGBtlFIyZR.jpg", "actors": ["Chantal Akerman ()"], "comments": [], "recommandations_id": []}

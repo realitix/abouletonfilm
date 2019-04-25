@@ -1,1 +1,0 @@
-{"tmdb_id": 398656, "title": "Possessed", "original_title": "Possessed", "slug_title": "possessed", "date": "2013-11-14", "genre": "Horreur / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s5Y4gJIQcgxT3vAdq6FQe1fw4es.jpg", "actors": [], "comments": [], "recommandations_id": []}

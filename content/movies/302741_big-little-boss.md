@@ -1,1 +1,0 @@
-{"tmdb_id": 302741, "title": "Big Little Boss", "original_title": "Big Little Boss", "slug_title": "big-little-boss", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

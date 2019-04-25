@@ -1,1 +1,0 @@
-{"tmdb_id": 443982, "title": "The Chevy Chase National Humor Test", "original_title": "The Chevy Chase National Humor Test", "slug_title": "the-chevy-chase-national-humor-test", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

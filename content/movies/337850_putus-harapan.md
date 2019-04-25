@@ -1,1 +1,0 @@
-{"tmdb_id": 337850, "title": "Putus Harapan", "original_title": "Putus Harapan", "slug_title": "putus-harapan", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 510435, "title": "Dean Goes Surfing", "original_title": "Dean Goes Surfing", "slug_title": "dean-goes-surfing", "date": "2018-02-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kinSzz1eWai4oAbt6NIv4LZLi4h.jpg", "actors": [], "comments": [], "recommandations_id": []}

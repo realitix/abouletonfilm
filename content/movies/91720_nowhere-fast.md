@@ -1,1 +1,0 @@
-{"tmdb_id": 91720, "title": "Nowhere Fast", "original_title": "Nowhere Fast", "slug_title": "nowhere-fast", "date": "1996-02-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p3ssT5xYL6qUstpChLHBvyiaCjm.jpg", "actors": ["Cinqu\u00e9 Lee ()", "Joie Lee ()"], "comments": [], "recommandations_id": []}

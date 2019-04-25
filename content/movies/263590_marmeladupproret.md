@@ -1,1 +1,0 @@
-{"tmdb_id": 263590, "title": "Marmeladupproret", "original_title": "Marmeladupproret", "slug_title": "marmeladupproret", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7X7d4r6Xym1yiC5h0yhaEtE4DEb.jpg", "actors": [], "comments": [], "recommandations_id": []}

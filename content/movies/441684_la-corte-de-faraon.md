@@ -1,1 +1,0 @@
-{"tmdb_id": 441684, "title": "La corte de fara\u00f3n", "original_title": "La corte de fara\u00f3n", "slug_title": "la-corte-de-faraon", "date": "1944-06-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dKUgB7jrO7wjpgHUFCibpgJZaRB.jpg", "actors": [], "comments": [], "recommandations_id": []}

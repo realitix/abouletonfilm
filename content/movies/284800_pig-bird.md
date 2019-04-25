@@ -1,1 +1,0 @@
-{"tmdb_id": 284800, "title": "Pig Bird", "original_title": "Pig Bird", "slug_title": "pig-bird", "date": "1981-01-01", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Em4zBr1VJSTFudZUYr4rhuxxdg.jpg", "actors": [], "comments": [], "recommandations_id": []}

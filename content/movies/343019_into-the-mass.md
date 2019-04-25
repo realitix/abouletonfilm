@@ -1,1 +1,0 @@
-{"tmdb_id": 343019, "title": "Into the Mass", "original_title": "Into the Mass", "slug_title": "into-the-mass", "date": "2007-06-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iJsOsxNWAkDiIzRwPbNff9YhTU.jpg", "actors": [], "comments": [], "recommandations_id": []}

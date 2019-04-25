@@ -1,1 +1,0 @@
-{"tmdb_id": 498606, "title": "B\u00e2miy\u00e2n", "original_title": "B\u00e2miy\u00e2n", "slug_title": "bamiyan", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/czltvAMc9psLWeyPCpIRTzTAUuk.jpg", "actors": [], "comments": [], "recommandations_id": []}

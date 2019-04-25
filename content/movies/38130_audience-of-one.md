@@ -1,1 +1,0 @@
-{"tmdb_id": 38130, "title": "Audience of One", "original_title": "Audience of One", "slug_title": "audience-of-one", "date": "2007-03-09", "genre": "Documentaire", "score": "8.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/23YZcpE0W9oZBHgHgUBMoaWXWSZ.jpg", "actors": ["Richard Gazowsky (Himself)"], "comments": [], "recommandations_id": []}

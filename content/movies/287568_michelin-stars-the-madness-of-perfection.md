@@ -1,1 +1,0 @@
-{"tmdb_id": 287568, "title": "Michelin Stars - The Madness of Perfection", "original_title": "Michelin Stars - The Madness of Perfection", "slug_title": "michelin-stars-the-madness-of-perfection", "date": "2012-11-16", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

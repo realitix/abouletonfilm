@@ -1,1 +1,0 @@
-{"tmdb_id": 289711, "title": "The Sum of Them", "original_title": "The Sum of Them", "slug_title": "the-sum-of-them", "date": "1984-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

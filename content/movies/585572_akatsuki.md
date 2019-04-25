@@ -1,1 +1,1 @@
-{"tmdb_id": 585572, "title": "Akatsuki", "original_title": "\u6681", "slug_title": "akatsuki", "date": "1918-03-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kaichi Yamamoto ()"], "comments": [], "recommandations_id": []}
+{"tmdb_id": 585572, "title": "Akatsuki", "original_title": "\u6681", "slug_title": "akatsuki", "date": "1918-03-16", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kaichi Yamamoto ()"], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

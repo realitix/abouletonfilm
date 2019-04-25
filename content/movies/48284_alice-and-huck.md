@@ -1,1 +1,0 @@
-{"tmdb_id": 48284, "title": "Alice and huck", "original_title": "Alice and huck", "slug_title": "alice-and-huck", "date": "2008-09-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kiUsS9UXaPmlZT3xUHS4AQtaokv.jpg", "actors": ["Allison Mack (Alice)", "Matthew MacCaull (Huck)"], "comments": [], "recommandations_id": []}

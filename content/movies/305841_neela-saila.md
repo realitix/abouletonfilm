@@ -1,1 +1,0 @@
-{"tmdb_id": 305841, "title": "Neela Saila", "original_title": "Neela Saila", "slug_title": "neela-saila", "date": "1981-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

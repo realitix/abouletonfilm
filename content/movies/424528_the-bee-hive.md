@@ -1,1 +1,0 @@
-{"tmdb_id": 424528, "title": "The Bee Hive", "original_title": "The Bee Hive", "slug_title": "the-bee-hive", "date": "2000-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/czd6x5FmU55jUUtM6MMnGRii9XL.jpg", "actors": [], "comments": [], "recommandations_id": []}

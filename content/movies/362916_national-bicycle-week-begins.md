@@ -1,1 +1,0 @@
-{"tmdb_id": 362916, "title": "National Bicycle Week Begins", "original_title": "National Bicycle Week Begins", "slug_title": "national-bicycle-week-begins", "date": "1923-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mwBVEwitYBo5OFk5JDZXh9noNEx.jpg", "actors": [], "comments": [], "recommandations_id": []}

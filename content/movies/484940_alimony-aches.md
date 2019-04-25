@@ -1,1 +1,0 @@
-{"tmdb_id": 484940, "title": "Alimony Aches", "original_title": "Alimony Aches", "slug_title": "alimony-aches", "date": "1935-06-29", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Andy Clyde (Andy Clyde)"], "comments": [], "recommandations_id": []}

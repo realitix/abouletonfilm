@@ -1,1 +1,0 @@
-{"tmdb_id": 454714, "title": "Docile Bodies", "original_title": "Docile Bodies", "slug_title": "docile-bodies", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 505775, "title": "Fear Girls: Volume Two", "original_title": "Fear Girls: Volume Two", "slug_title": "fear-girls-volume-two", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

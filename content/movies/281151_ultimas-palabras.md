@@ -1,1 +1,0 @@
-{"tmdb_id": 281151, "title": "Ultimas Palabras", "original_title": "Ultimas Palabras", "slug_title": "ultimas-palabras", "date": "2011-03-31", "genre": "Drame", "score": "4.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8tp4HfSZRycRzYsEFR2YHf0cNBp.jpg", "actors": ["Ezequiel Pache ()"], "comments": [], "recommandations_id": []}

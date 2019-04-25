@@ -1,1 +1,0 @@
-{"tmdb_id": 574451, "title": "Turtles All the Way Down", "original_title": "Turtles All the Way Down", "slug_title": "turtles-all-the-way-down", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

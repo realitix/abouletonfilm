@@ -1,1 +1,0 @@
-{"tmdb_id": 125934, "title": "Slamina", "original_title": "Slamina", "slug_title": "slamina", "date": "2008-08-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sgqtA6X8Ov2G8Pf0sLt49wXu7d5.jpg", "actors": [], "comments": [], "recommandations_id": []}

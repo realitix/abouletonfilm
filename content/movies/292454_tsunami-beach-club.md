@@ -1,1 +1,0 @@
-{"tmdb_id": 292454, "title": "Tsunami Beach Club", "original_title": "Tsunami Beach Club", "slug_title": "tsunami-beach-club", "date": "2008-07-26", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hXjTjOAxip3ACSfyoeL7UZf2Db.jpg", "actors": [], "comments": [], "recommandations_id": []}

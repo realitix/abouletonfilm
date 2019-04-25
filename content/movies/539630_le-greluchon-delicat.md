@@ -1,1 +1,0 @@
-{"tmdb_id": 539630, "title": "Le greluchon d\u00e9licat", "original_title": "Le greluchon d\u00e9licat", "slug_title": "le-greluchon-delicat", "date": "1934-09-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

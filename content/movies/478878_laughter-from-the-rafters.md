@@ -1,1 +1,0 @@
-{"tmdb_id": 478878, "title": "Laughter from the Rafters", "original_title": "Laughter from the Rafters", "slug_title": "laughter-from-the-rafters", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dennis Swanberg (Himself)"], "comments": [], "recommandations_id": []}

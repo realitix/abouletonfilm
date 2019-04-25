@@ -1,1 +1,0 @@
-{"tmdb_id": 516135, "title": "Robert Mac: Know More", "original_title": "Robert Mac: Know More", "slug_title": "robert-mac-know-more", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

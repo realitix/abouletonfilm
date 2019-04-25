@@ -1,1 +1,0 @@
-{"tmdb_id": 503574, "title": "Un autre jour", "original_title": "Un autre jour", "slug_title": "un-autre-jour", "date": "2014-02-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

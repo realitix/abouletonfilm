@@ -1,1 +1,0 @@
-{"tmdb_id": 526584, "title": "Going to War", "original_title": "Going to War", "slug_title": "going-to-war", "date": "2018-05-28", "genre": "Documentaire / Guerre", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Acg2UU4svhPbPT2Vh3R8DoRMEPL.jpg", "actors": [], "comments": [], "recommandations_id": []}

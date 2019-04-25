@@ -1,1 +1,0 @@
-{"tmdb_id": 595740, "title": "Return of the Dragon", "original_title": "Return of the Dragon", "slug_title": "return-of-the-dragon", "date": "1974-04-10", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lwK6Pgtdp3HE9MYDC1mn5Bj8cFp.jpg", "actors": ["Ramon Zamora (Failon)"], "comments": [], "recommandations_id": []}

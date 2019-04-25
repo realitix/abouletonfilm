@@ -1,1 +1,0 @@
-{"tmdb_id": 423991, "title": "The Nut Factory", "original_title": "The Nut Factory", "slug_title": "the-nut-factory", "date": "1933-08-03", "genre": "", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

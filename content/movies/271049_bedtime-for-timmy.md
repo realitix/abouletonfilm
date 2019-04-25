@@ -1,1 +1,0 @@
-{"tmdb_id": 271049, "title": "Bedtime for Timmy", "original_title": "Bedtime for Timmy", "slug_title": "bedtime-for-timmy", "date": "2010-01-01", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

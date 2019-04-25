@@ -1,1 +1,0 @@
-{"tmdb_id": 424217, "title": "To The Sea", "original_title": "Denize", "slug_title": "to-the-sea", "date": "2016-01-06", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qbyqWsh4V8Q68c4Vlk6TAw79VMX.jpg", "actors": ["Hakan Karsak (Adem)", "Nilay Erd\u00f6nmez (Emine)"], "comments": [], "recommandations_id": []}

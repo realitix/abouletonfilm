@@ -1,1 +1,0 @@
-{"tmdb_id": 341487, "title": "The Beast", "original_title": "Eins og skepnan deyr", "slug_title": "the-beast", "date": "1986-03-22", "genre": "", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a4FitoKw4nTCiFpvMj4BBzMl15h.jpg", "actors": [], "comments": [], "recommandations_id": []}

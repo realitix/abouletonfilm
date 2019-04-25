@@ -1,1 +1,0 @@
-{"tmdb_id": 290385, "title": "Letters to Max", "original_title": "Letters to Max", "slug_title": "letters-to-max", "date": "2014-09-12", "genre": "Documentaire", "score": "6.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l1wecaLroJ67TVQKgwHjUNgkWnf.jpg", "actors": ["Maxim Gvinja ()"], "comments": [], "recommandations_id": []}

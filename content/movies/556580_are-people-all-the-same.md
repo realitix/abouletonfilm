@@ -1,1 +1,0 @@
-{"tmdb_id": 556580, "title": "Are People All The Same?", "original_title": "Are People All The Same?", "slug_title": "are-people-all-the-same", "date": "1977-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

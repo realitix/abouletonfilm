@@ -1,1 +1,0 @@
-{"tmdb_id": 245254, "title": "Carved in Stone: The Flintstones Phenomenon", "original_title": "Carved in Stone: The Flintstones Phenomenon", "slug_title": "carved-in-stone-the-flintstones-phenomenon", "date": "2004-12-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

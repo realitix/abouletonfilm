@@ -1,1 +1,0 @@
-{"tmdb_id": 318172, "title": "Byron Cage: An Invitation to Worship", "original_title": "Byron Cage: An Invitation to Worship", "slug_title": "byron-cage-an-invitation-to-worship", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

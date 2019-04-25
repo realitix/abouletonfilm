@@ -1,1 +1,0 @@
-{"tmdb_id": 589661, "title": "Sistergirl", "original_title": "Sistergirl", "slug_title": "sistergirl", "date": "2019-03-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

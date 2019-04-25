@@ -1,1 +1,0 @@
-{"tmdb_id": 503564, "title": "El frente infinito", "original_title": "El frente infinito", "slug_title": "el-frente-infinito", "date": "1959-05-25", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4dtud5YH2BH7l8SqZpnD73ytG75.jpg", "actors": [], "comments": [], "recommandations_id": []}

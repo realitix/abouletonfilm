@@ -1,1 +1,0 @@
-{"tmdb_id": 596439, "title": "Complex Subject", "original_title": "Slozhnopodchinennoe", "slug_title": "complex-subject", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

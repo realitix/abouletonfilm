@@ -1,1 +1,0 @@
-{"tmdb_id": 326759, "title": "Rita and Dundi", "original_title": "Rita and Dundi", "slug_title": "rita-and-dundi", "date": "1966-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/urEdWIxW45eHAEYXeKO30IPyNd3.jpg", "actors": ["Dundi Lasclo ()", "Rita Georgin ()"], "comments": [], "recommandations_id": []}

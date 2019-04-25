@@ -1,1 +1,0 @@
-{"tmdb_id": 349972, "title": "\ub178\uc0c1\uc5d0\uc11c", "original_title": "\ub178\uc0c1\uc5d0\uc11c", "slug_title": "nosangeseo", "date": "1981-11-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

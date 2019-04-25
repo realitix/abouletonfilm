@@ -1,1 +1,0 @@
-{"tmdb_id": 546563, "title": "Must Escape from the Slaughtercity", "original_title": "Must Escape from the Slaughtercity", "slug_title": "must-escape-from-the-slaughtercity", "date": "2019-11-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

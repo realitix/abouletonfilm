@@ -1,1 +1,0 @@
-{"tmdb_id": 277696, "title": "Meeting Resistance", "original_title": "Meeting Resistance", "slug_title": "meeting-resistance", "date": "2007-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

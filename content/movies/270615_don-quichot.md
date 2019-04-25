@@ -1,1 +1,0 @@
-{"tmdb_id": 270615, "title": "Don Quichot", "original_title": "Don Quichot", "slug_title": "don-quichot", "date": "2011-01-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 572969, "title": "Born to Dance This Way", "original_title": "Born to Dance This Way", "slug_title": "born-to-dance-this-way", "date": "2012-06-14", "genre": "Musique / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tCYIIEmFZgizmVcwSwPOlNZZwSw.jpg", "actors": [], "comments": [], "recommandations_id": []}

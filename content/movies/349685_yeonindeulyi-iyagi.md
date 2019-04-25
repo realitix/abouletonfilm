@@ -1,1 +1,0 @@
-{"tmdb_id": 349685, "title": "\uc5f0\uc778\ub4e4\uc758 \uc774\uc57c\uae30", "original_title": "\uc5f0\uc778\ub4e4\uc758 \uc774\uc57c\uae30", "slug_title": "yeonindeulyi-iyagi", "date": "1983-11-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

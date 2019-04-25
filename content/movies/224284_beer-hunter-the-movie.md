@@ -1,1 +1,0 @@
-{"tmdb_id": 224284, "title": "Beer Hunter: The Movie", "original_title": "Beer Hunter: The Movie", "slug_title": "beer-hunter-the-movie", "date": "2013-03-02", "genre": "Documentaire / Histoire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nWaq9AnFd8GGviHtidePOU3gTE.jpg", "actors": [], "comments": [], "recommandations_id": []}

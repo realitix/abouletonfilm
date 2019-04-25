@@ -1,1 +1,0 @@
-{"tmdb_id": 484894, "title": "Pythagorean Theorem", "original_title": "Pythagoras Sats", "slug_title": "pythagorean-theorem", "date": "2010-12-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Anders Lindahl (Per)", "Lisa Linnertorp (sara)", "Martin Wallstr\u00f6m (Adam)"], "comments": [], "recommandations_id": []}

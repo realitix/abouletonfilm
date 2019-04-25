@@ -1,1 +1,0 @@
-{"tmdb_id": 575834, "title": "\u6050\u7adc\u5927\u7814\u7a76", "original_title": "\u6050\u7adc\u5927\u7814\u7a76", "slug_title": "kong-long-da-yan-jiu", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8u5xKTOmymWRcBz9y3TEsMHxG2A.jpg", "actors": [], "comments": [], "recommandations_id": []}

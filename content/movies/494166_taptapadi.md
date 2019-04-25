@@ -1,1 +1,0 @@
-{"tmdb_id": 494166, "title": "Taptapadi", "original_title": "Taptapadi", "slug_title": "taptapadi", "date": "2014-03-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Veena Jamkar ()", "Shruthi Prakash ()"], "comments": [], "recommandations_id": []}

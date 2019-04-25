@@ -1,1 +1,0 @@
-{"tmdb_id": 471652, "title": "Kipper - Friendship Tails", "original_title": "Kipper - Friendship Tails", "slug_title": "kipper-friendship-tails", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/23tTVRgV5nlFiSxNqhZ38MuUl9t.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 454746, "title": "Di Padre in Figlia", "original_title": "Di Padre in Figlia", "slug_title": "di-padre-in-figlia", "date": "2017-04-18", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kHQ4VakmEQLuDtXZngpuX4dyecm.jpg", "actors": [], "comments": [], "recommandations_id": []}

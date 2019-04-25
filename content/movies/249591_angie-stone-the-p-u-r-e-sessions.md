@@ -1,1 +1,0 @@
-{"tmdb_id": 249591, "title": "Angie Stone: The P.U.R.E. Sessions", "original_title": "Angie Stone: The P.U.R.E. Sessions", "slug_title": "angie-stone-the-p-u-r-e-sessions", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

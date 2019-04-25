@@ -1,1 +1,0 @@
-{"tmdb_id": 380036, "title": "Comeback", "original_title": "Comeback", "slug_title": "comeback", "date": "2014-08-13", "genre": "Documentaire", "score": "8.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pBL6cMr9PeMCWrmyVpDqerJFbHB.jpg", "actors": [], "comments": [], "recommandations_id": []}

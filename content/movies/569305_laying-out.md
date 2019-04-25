@@ -1,1 +1,0 @@
-{"tmdb_id": 569305, "title": "Laying Out", "original_title": "Laying Out", "slug_title": "laying-out", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Joanna Arnow ()", "Michole Briana White ()"], "comments": [], "recommandations_id": []}

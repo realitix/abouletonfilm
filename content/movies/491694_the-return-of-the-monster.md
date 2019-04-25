@@ -1,1 +1,0 @@
-{"tmdb_id": 491694, "title": "The Return of the Monster", "original_title": "The Return of the Monster", "slug_title": "the-return-of-the-monster", "date": "2017-12-02", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kQWsddF6G4RhewtormxNhEN7Lhw.jpg", "actors": [], "comments": [], "recommandations_id": []}

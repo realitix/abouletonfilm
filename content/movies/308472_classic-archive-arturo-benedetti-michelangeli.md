@@ -1,1 +1,0 @@
-{"tmdb_id": 308472, "title": "Classic Archive: Arturo Benedetti Michelangeli", "original_title": "Classic Archive: Arturo Benedetti Michelangeli", "slug_title": "classic-archive-arturo-benedetti-michelangeli", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 349741, "title": "\uc554\ud751\uac00\uc758 \ubb34\uc18c\uc18d", "original_title": "\uc554\ud751\uac00\uc758 \ubb34\uc18c\uc18d", "slug_title": "amheuggayi-musosog", "date": "1993-12-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

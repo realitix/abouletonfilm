@@ -1,1 +1,0 @@
-{"tmdb_id": 565981, "title": "Listen to the silence", "original_title": "Listen to the silence", "slug_title": "listen-to-the-silence", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 193456, "title": "His First Flame", "original_title": "His First Flame", "slug_title": "his-first-flame", "date": "1935-03-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Shemp Howard (Smokey Moe)", "Daphne Pollard (Emmy)", "Donald MacBride (Fire Chief (as Don McBride))"], "comments": [], "recommandations_id": []}

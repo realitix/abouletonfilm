@@ -1,1 +1,0 @@
-{"tmdb_id": 534725, "title": "Vanilla Ice-Cream", "original_title": "Vanilla Ice-Cream", "slug_title": "vanilla-ice-cream", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

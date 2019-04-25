@@ -1,1 +1,0 @@
-{"tmdb_id": 456509, "title": "Wings Up", "original_title": "Wings Up", "slug_title": "wings-up", "date": "1943-05-27", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Clark Gable (Narrator)", "William Holden ()", "Brenda Marshall ()", "E.R. Delano ()"], "comments": [], "recommandations_id": []}

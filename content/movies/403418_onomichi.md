@@ -1,1 +1,0 @@
-{"tmdb_id": 403418, "title": "Onomichi", "original_title": "Onomichi", "slug_title": "onomichi", "date": "1963-06-24", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jDEoedJRSyZEuyrJDDxFQyNBmp4.jpg", "actors": [], "comments": [], "recommandations_id": []}

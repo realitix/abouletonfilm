@@ -1,1 +1,0 @@
-{"tmdb_id": 542482, "title": "\ucc29\ud55c \uc7a5\ubaa8", "original_title": "\ucc29\ud55c \uc7a5\ubaa8", "slug_title": "caghan-jangmo", "date": "2017-08-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/neuNyKES0vpKq0MsTemqLTSbXcJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

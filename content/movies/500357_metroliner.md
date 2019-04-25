@@ -1,1 +1,0 @@
-{"tmdb_id": 500357, "title": "Metroliner", "original_title": "Metroliner", "slug_title": "metroliner", "date": "1975-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 301765, "title": "Mask of the Red Death", "original_title": "Maska crvene smrti", "slug_title": "mask-of-the-red-death", "date": "1969-01-01", "genre": "Drame / Animation / Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kWhXmGEqGlqvrDBAydfER5IJdaj.jpg", "actors": [], "comments": [], "recommandations_id": []}

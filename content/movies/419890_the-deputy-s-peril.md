@@ -1,1 +1,0 @@
-{"tmdb_id": 419890, "title": "The Deputy's Peril", "original_title": "The Deputy's Peril", "slug_title": "the-deputy-s-peril", "date": "1912-08-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Edgar Jones (Roger West)", "Clara Williams (Bess Adams)"], "comments": [], "recommandations_id": []}

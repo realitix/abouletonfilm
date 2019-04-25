@@ -1,1 +1,0 @@
-{"tmdb_id": 586137, "title": "Colombia with Simon Reeve", "original_title": "Colombia with Simon Reeve", "slug_title": "colombia-with-simon-reeve", "date": "2016-04-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 204038, "title": "Of Stars and Men", "original_title": "Of Stars and Men", "slug_title": "of-stars-and-men", "date": "1964-04-27", "genre": "Animation", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5lFSTqYVaAlwBEAJpQfPrqS7Mk6.jpg", "actors": [], "comments": [], "recommandations_id": []}

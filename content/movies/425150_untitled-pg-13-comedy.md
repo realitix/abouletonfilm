@@ -1,1 +1,0 @@
-{"tmdb_id": 425150, "title": "Untitled PG-13 Comedy", "original_title": "Untitled PG-13 Comedy", "slug_title": "untitled-pg-13-comedy", "date": "", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

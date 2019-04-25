@@ -1,1 +1,0 @@
-{"tmdb_id": 418714, "title": "\ud55c\uacbd\uc9c1", "original_title": "\ud55c\uacbd\uc9c1", "slug_title": "hangyeongjig", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4cUW4IavXz13DauYcj2BSfbh7Vu.jpg", "actors": [], "comments": [], "recommandations_id": []}

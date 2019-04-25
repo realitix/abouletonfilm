@@ -1,1 +1,0 @@
-{"tmdb_id": 393708, "title": "\u00c8douard Georg \u00c0 C\u00e9ly", "original_title": "\u00c8douard Georg \u00c0 C\u00e9ly", "slug_title": "edouard-georg-a-cely", "date": "1923-04-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

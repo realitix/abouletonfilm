@@ -1,1 +1,0 @@
-{"tmdb_id": 506364, "title": "Prom Fight: The Marc Hall Story", "original_title": "Prom Fight: The Marc Hall Story", "slug_title": "prom-fight-the-marc-hall-story", "date": "2002-10-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nL5lsRLyraUm3uAqbjpa3oXTuEb.jpg", "actors": [], "comments": [], "recommandations_id": []}

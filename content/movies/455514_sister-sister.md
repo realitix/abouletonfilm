@@ -1,1 +1,0 @@
-{"tmdb_id": 455514, "title": "Sister Sister", "original_title": "Sister Sister", "slug_title": "sister-sister", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zeSjailH0REM9xCI78tkWjXEwlj.jpg", "actors": ["Pamee Sapasap ()", "RJ Kesselman ()"], "comments": [], "recommandations_id": []}

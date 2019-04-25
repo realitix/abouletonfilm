@@ -1,1 +1,0 @@
-{"tmdb_id": 511173, "title": "The City (Osaka)", "original_title": "The City (Osaka)", "slug_title": "the-city-osaka", "date": "1970-03-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

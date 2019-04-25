@@ -1,1 +1,0 @@
-{"tmdb_id": 228196, "title": "O Menino", "original_title": "O Menino", "slug_title": "o-menino", "date": "2014-01-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

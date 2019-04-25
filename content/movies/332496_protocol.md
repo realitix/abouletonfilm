@@ -1,1 +1,0 @@
-{"tmdb_id": 332496, "title": "Protocol", "original_title": "Protocol", "slug_title": "protocol", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

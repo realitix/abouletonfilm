@@ -1,1 +1,0 @@
-{"tmdb_id": 47466, "title": "The Fly", "original_title": "A L\u00e9gy", "slug_title": "the-fly", "date": "1980-09-05", "genre": "Animation", "score": "7.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aHgWlrNvEl6xs5jprrpJXgdNeY5.jpg", "actors": [], "comments": [], "recommandations_id": [93904, 147676, 193652, 40144]}

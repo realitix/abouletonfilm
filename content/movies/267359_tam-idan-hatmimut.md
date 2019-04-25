@@ -1,1 +1,0 @@
-{"tmdb_id": 267359, "title": "Tam idan hatmimut", "original_title": "Tam idan hatmimut", "slug_title": "tam-idan-hatmimut", "date": "2013-07-10", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ns6cMR4tQFObEsvtJSkoTqWVmRe.jpg", "actors": ["Reymonde Amsallem ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 298151, "title": "I Don't Know", "original_title": "I Don't Know", "slug_title": "i-don-t-know", "date": "1970-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hOeQCf5JanIWnH5WA62iFXKGwqQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

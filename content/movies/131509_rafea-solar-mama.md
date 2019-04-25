@@ -1,1 +1,0 @@
-{"tmdb_id": 131509, "title": "Rafea: Solar Mama", "original_title": "Rafea: Solar Mama", "slug_title": "rafea-solar-mama", "date": "2012-09-10", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4UBaJZW3jMWtRUHyskOrvEY6tHi.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 556128, "title": "R\u00eaves de clowns", "original_title": "R\u00eaves de clowns", "slug_title": "reves-de-clowns", "date": "1924-10-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

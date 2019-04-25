@@ -1,1 +1,0 @@
-{"tmdb_id": 381571, "title": "Behind the Bash", "original_title": "Behind the Bash", "slug_title": "behind-the-bash", "date": "1988-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yvSyVxqj98ci0r3n858mzfMrmNQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

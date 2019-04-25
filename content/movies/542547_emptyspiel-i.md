@@ -1,1 +1,0 @@
-{"tmdb_id": 542547, "title": "emptyspiel I", "original_title": "emptyspiel I", "slug_title": "emptyspiel-i", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6CIZLtXgSyhe0zr9wl3FpXSvdYR.jpg", "actors": [], "comments": [], "recommandations_id": []}

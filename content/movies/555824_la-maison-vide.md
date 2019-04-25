@@ -1,1 +1,0 @@
-{"tmdb_id": 555824, "title": "La maison vide", "original_title": "La maison vide", "slug_title": "la-maison-vide", "date": "1921-10-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

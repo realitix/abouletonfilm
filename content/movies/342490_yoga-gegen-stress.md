@@ -1,1 +1,0 @@
-{"tmdb_id": 342490, "title": "Yoga gegen Stress", "original_title": "Yoga gegen Stress", "slug_title": "yoga-gegen-stress", "date": "2008-02-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/66rdZ7MumEGSFfp5ro8AersjbDF.jpg", "actors": ["Clitora Eastwood ()"], "comments": [], "recommandations_id": []}

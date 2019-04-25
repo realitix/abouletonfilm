@@ -1,1 +1,0 @@
-{"tmdb_id": 505897, "title": "S is for BIRD", "original_title": "S is for BIRD", "slug_title": "s-is-for-bird", "date": "", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Matt Watts (Bird)", "Kate Todd (Snack Bar Girl)", "Lauren Ash (Sunny)", "Halle Nunes (Girl)"], "comments": [], "recommandations_id": []}

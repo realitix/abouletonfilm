@@ -1,1 +1,0 @@
-{"tmdb_id": 353889, "title": "The Basis of Make-Up II", "original_title": "The Basis of Make-Up II", "slug_title": "the-basis-of-make-up-ii", "date": "2001-02-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ciHygGCZ4YWozCDlLvMCVpv6CN0.jpg", "actors": [], "comments": [], "recommandations_id": []}

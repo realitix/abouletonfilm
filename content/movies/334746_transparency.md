@@ -1,1 +1,0 @@
-{"tmdb_id": 334746, "title": "Transparency", "original_title": "Transparency", "slug_title": "transparency", "date": "1969-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

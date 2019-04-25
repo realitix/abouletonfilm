@@ -1,1 +1,0 @@
-{"tmdb_id": 323979, "title": "Concert", "original_title": "Concert", "slug_title": "concert", "date": "2013-05-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

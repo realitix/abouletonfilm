@@ -1,1 +1,0 @@
-{"tmdb_id": 277058, "title": "500 Years of St. Peter's", "original_title": "500 Years of St. Peter's", "slug_title": "500-years-of-st-peter-s", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

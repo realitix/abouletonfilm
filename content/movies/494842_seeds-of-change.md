@@ -1,1 +1,0 @@
-{"tmdb_id": 494842, "title": "Seeds of Change", "original_title": "Mbeu Yosintha", "slug_title": "seeds-of-change", "date": "2014-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5kD0iejvZTAArKGTdSNyTSlXbaI.jpg", "actors": [], "comments": [], "recommandations_id": []}

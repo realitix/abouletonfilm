@@ -1,1 +1,0 @@
-{"tmdb_id": 375980, "title": "Exit Plan", "original_title": "Exit Plan", "slug_title": "exit-plan", "date": "2016-01-01", "genre": "Science-Fiction", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pGwVaU4jpvfPS1tJ6bMOSZ0Fc9M.jpg", "actors": [], "comments": [], "recommandations_id": []}

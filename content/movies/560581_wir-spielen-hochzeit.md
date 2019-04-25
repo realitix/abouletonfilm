@@ -1,1 +1,0 @@
-{"tmdb_id": 560581, "title": "Wir spielen Hochzeit", "original_title": "Wir spielen Hochzeit", "slug_title": "wir-spielen-hochzeit", "date": "1964-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1ABmFlWFN00OUbJfjAFUkmRBTvl.jpg", "actors": [], "comments": [], "recommandations_id": []}

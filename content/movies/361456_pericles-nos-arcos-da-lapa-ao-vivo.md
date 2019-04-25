@@ -1,1 +1,0 @@
-{"tmdb_id": 361456, "title": "P\u00e9ricles - Nos Arcos da Lapa - Ao Vivo", "original_title": "P\u00e9ricles - Nos Arcos da Lapa - Ao Vivo", "slug_title": "pericles-nos-arcos-da-lapa-ao-vivo", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

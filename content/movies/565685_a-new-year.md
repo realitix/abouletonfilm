@@ -1,1 +1,0 @@
-{"tmdb_id": 565685, "title": "A New Year", "original_title": "\u10d0\u10ee\u10d0\u10da\u10d8 \u10ec\u10d4\u10da\u10d8", "slug_title": "a-new-year", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Eka Demetradze ()", "Giorgi Bandzeladze ()", "Demetre Gratiashvili ()"], "comments": [], "recommandations_id": []}

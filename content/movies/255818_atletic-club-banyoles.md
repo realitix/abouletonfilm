@@ -1,1 +1,0 @@
-{"tmdb_id": 255818, "title": "Atl\u00e8tic Club Banyoles", "original_title": "Atl\u00e8tic Club Banyoles", "slug_title": "atletic-club-banyoles", "date": "2007-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

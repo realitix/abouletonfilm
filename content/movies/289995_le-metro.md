@@ -1,1 +1,0 @@
-{"tmdb_id": 289995, "title": "Le m\u00e9tro", "original_title": "Le m\u00e9tro", "slug_title": "le-metro", "date": "1934-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

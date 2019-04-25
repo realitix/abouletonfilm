@@ -1,1 +1,0 @@
-{"tmdb_id": 333883, "title": "Screams", "original_title": "Sourakh", "slug_title": "screams", "date": "1973-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mohamed Darragi ()", "Anissa Lotfi ()", "Hassiba Rochdi ()"], "comments": [], "recommandations_id": []}

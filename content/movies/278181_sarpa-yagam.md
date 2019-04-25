@@ -1,1 +1,0 @@
-{"tmdb_id": 278181, "title": "Sarpa Yagam", "original_title": "Sarpa Yagam", "slug_title": "sarpa-yagam", "date": "1991-10-31", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sobhan Babu ()", "Roja Selvamani ()", "Vani Viswanath ()", "Brahmanandam ()", "Raghunatha Reddy ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 333391, "title": "Parisiennes", "original_title": "Parisiennes", "slug_title": "parisiennes", "date": "", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

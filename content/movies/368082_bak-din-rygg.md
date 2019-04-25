@@ -1,1 +1,0 @@
-{"tmdb_id": 368082, "title": "Bak din rygg", "original_title": "Bak din rygg", "slug_title": "bak-din-rygg", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

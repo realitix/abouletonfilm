@@ -1,1 +1,0 @@
-{"tmdb_id": 277818, "title": "The Plumber", "original_title": "The Plumber", "slug_title": "the-plumber", "date": "1921-06-21", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Billy Franey (Delivery Man)"], "comments": [], "recommandations_id": []}

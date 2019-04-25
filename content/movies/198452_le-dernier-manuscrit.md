@@ -1,1 +1,0 @@
-{"tmdb_id": 198452, "title": "Le dernier manuscrit", "original_title": "Az utols\u00f3 k\u00e9zirat", "slug_title": "le-dernier-manuscrit", "date": "1987-06-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9o7pVTP47Cf8ACuDgfuW7yt5kV9.jpg", "actors": [], "comments": [], "recommandations_id": []}

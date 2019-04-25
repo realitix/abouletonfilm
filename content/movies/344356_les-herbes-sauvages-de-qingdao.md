@@ -1,1 +1,0 @@
-{"tmdb_id": 344356, "title": "Les herbes sauvages de Qingdao", "original_title": "Les herbes sauvages de Qingdao", "slug_title": "les-herbes-sauvages-de-qingdao", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

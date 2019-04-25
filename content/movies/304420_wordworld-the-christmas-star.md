@@ -1,1 +1,0 @@
-{"tmdb_id": 304420, "title": "WordWorld: The Christmas Star", "original_title": "WordWorld: The Christmas Star", "slug_title": "wordworld-the-christmas-star", "date": "2008-12-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ydliMKLV9mO9tqOVyf0IKN3LKJM.jpg", "actors": [], "comments": [], "recommandations_id": []}

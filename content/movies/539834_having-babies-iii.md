@@ -1,1 +1,0 @@
-{"tmdb_id": 539834, "title": "Having Babies III", "original_title": "Having Babies III", "slug_title": "having-babies-iii", "date": "1978-03-03", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Susan Sullivan (Dr. Julie Farr)"], "comments": [], "recommandations_id": []}

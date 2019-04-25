@@ -1,1 +1,0 @@
-{"tmdb_id": 308256, "title": "Mogudu Pellam O Dongodu", "original_title": "Mogudu Pellam O Dongodu", "slug_title": "mogudu-pellam-o-dongodu", "date": "2005-09-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

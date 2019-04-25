@@ -1,1 +1,0 @@
-{"tmdb_id": 337366, "title": "Neiti nimismies", "original_title": "Neiti nimismies", "slug_title": "neiti-nimismies", "date": "1929-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Inkeri Nieminen (Liisa)", "Helge Ranin (Lauri)"], "comments": [], "recommandations_id": []}

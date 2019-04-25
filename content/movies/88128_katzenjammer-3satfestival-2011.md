@@ -1,1 +1,0 @@
-{"tmdb_id": 88128, "title": "Katzenjammer - 3satfestival 2011", "original_title": "Katzenjammer - 3satfestival 2011", "slug_title": "katzenjammer-3satfestival-2011", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gdL9y8oU8jKCA1gkLo9onFqeMwH.jpg", "actors": [], "comments": [], "recommandations_id": []}

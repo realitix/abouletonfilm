@@ -1,1 +1,0 @@
-{"tmdb_id": 425021, "title": "The Season Word", "original_title": "The Season Word", "slug_title": "the-season-word", "date": "2014-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/scTzc3s9z87XIvNZ3kfGkP9I8vV.jpg", "actors": [], "comments": [], "recommandations_id": []}

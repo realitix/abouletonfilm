@@ -1,1 +1,0 @@
-{"tmdb_id": 444403, "title": "Cicha symfonia", "original_title": "Cicha symfonia", "slug_title": "cicha-symfonia", "date": "2017-03-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3JLhAf2Mvig7q5cge6tu6nS8d9Z.jpg", "actors": [], "comments": [], "recommandations_id": []}

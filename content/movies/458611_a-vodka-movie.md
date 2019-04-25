@@ -1,1 +1,0 @@
-{"tmdb_id": 458611, "title": "A Vodka Movie", "original_title": "A Vodka Movie", "slug_title": "a-vodka-movie", "date": "", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

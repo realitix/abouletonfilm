@@ -1,1 +1,0 @@
-{"tmdb_id": 590499, "title": "Wondershop", "original_title": "Wondershop", "slug_title": "wondershop", "date": "1974-01-01", "genre": "Fantastique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Wies Andersen (Jager)", "Jef Cassiers ()", "Romain Deconinck ()", "Eva Kant ()", "Julien Schoenaerts ()"], "comments": [], "recommandations_id": []}

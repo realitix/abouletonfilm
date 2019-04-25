@@ -1,1 +1,0 @@
-{"tmdb_id": 311913, "title": "Michelangelo & The Sistine Chapel", "original_title": "Michelangelo & The Sistine Chapel", "slug_title": "michelangelo-the-sistine-chapel", "date": "1996-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 217610, "title": "Feuerland", "original_title": "Feuerland", "slug_title": "feuerland", "date": "1988-01-15", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rYTHvLUBVQ7ZEiuadfMqnuNaDeh.jpg", "actors": [], "comments": [], "recommandations_id": []}

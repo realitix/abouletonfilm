@@ -1,1 +1,0 @@
-{"tmdb_id": 397744, "title": "Denis et les zombies", "original_title": "Denis et les zombies", "slug_title": "denis-et-les-zombies", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

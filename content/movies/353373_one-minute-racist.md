@@ -1,1 +1,0 @@
-{"tmdb_id": 353373, "title": "One Minute Racist", "original_title": "One Minute Racist", "slug_title": "one-minute-racist", "date": "2007-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jyWum1Ne6tYc4n0iiSqXpQrBdiu.jpg", "actors": ["Caveh Zahedi (Narrator)"], "comments": [], "recommandations_id": []}

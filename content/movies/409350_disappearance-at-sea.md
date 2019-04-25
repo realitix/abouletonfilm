@@ -1,1 +1,0 @@
-{"tmdb_id": 409350, "title": "Disappearance at Sea", "original_title": "Disappearance at Sea", "slug_title": "disappearance-at-sea", "date": "1996-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7C1eaelpKbtlhA15wEFISYC0N2C.jpg", "actors": [], "comments": [], "recommandations_id": []}

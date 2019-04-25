@@ -1,1 +1,0 @@
-{"tmdb_id": 275684, "title": "The Tree Widow", "original_title": "The Tree Widow", "slug_title": "the-tree-widow", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

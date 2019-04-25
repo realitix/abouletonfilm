@@ -1,1 +1,0 @@
-{"tmdb_id": 341511, "title": "The Migration of the Angel", "original_title": "Angelozis gadaprena", "slug_title": "the-migration-of-the-angel", "date": "2002-01-18", "genre": "", "score": "1.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

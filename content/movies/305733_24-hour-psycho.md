@@ -1,1 +1,0 @@
-{"tmdb_id": 305733, "title": "24 Hour Psycho", "original_title": "24 Hour Psycho", "slug_title": "24-hour-psycho", "date": "1993-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A5AZZ9jcNLMV0hTADkJdrH4ob7K.jpg", "actors": [], "comments": [], "recommandations_id": []}

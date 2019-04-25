@@ -1,1 +1,0 @@
-{"tmdb_id": 514685, "title": "Spoon vs Spoon", "original_title": "Spoon vs Spoon", "slug_title": "spoon-vs-spoon", "date": "2010-06-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3EYy2URh0lV2LxM7xlcfYT9l9Ei.jpg", "actors": [], "comments": [], "recommandations_id": []}

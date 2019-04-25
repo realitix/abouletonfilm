@@ -1,1 +1,0 @@
-{"tmdb_id": 530082, "title": "The Chronicles of Prydain", "original_title": "The Chronicles of Prydain", "slug_title": "the-chronicles-of-prydain", "date": "", "genre": "Fantastique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

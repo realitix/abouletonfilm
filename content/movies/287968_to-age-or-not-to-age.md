@@ -1,1 +1,0 @@
-{"tmdb_id": 287968, "title": "To Age Or Not To Age", "original_title": "To Age Or Not To Age", "slug_title": "to-age-or-not-to-age", "date": "2010-07-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

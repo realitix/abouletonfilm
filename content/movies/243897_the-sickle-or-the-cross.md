@@ -1,1 +1,0 @@
-{"tmdb_id": 243897, "title": "The Sickle or the Cross", "original_title": "The Sickle or the Cross", "slug_title": "the-sickle-or-the-cross", "date": "1949-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

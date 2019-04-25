@@ -1,1 +1,0 @@
-{"tmdb_id": 288302, "title": "The Wharf Rat", "original_title": "The Wharf Rat", "slug_title": "the-wharf-rat", "date": "1996-03-11", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tTePQ2h1GquzhqXfrHUf2zx2PcL.jpg", "actors": [], "comments": [], "recommandations_id": []}

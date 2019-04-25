@@ -1,1 +1,0 @@
-{"tmdb_id": 44997, "title": "Phyllis and Harold", "original_title": "Phyllis and Harold", "slug_title": "phyllis-and-harold", "date": "2010-02-19", "genre": "Documentaire / Romance", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/na90c4GZZf7MFpzZo9Nex2IV9ok.jpg", "actors": [], "comments": [], "recommandations_id": []}

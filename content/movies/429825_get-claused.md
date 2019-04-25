@@ -1,1 +1,1 @@
-{"tmdb_id": 429825, "title": "Get Claused", "original_title": "Get Claused", "slug_title": "get-claused", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 429825, "title": "Get Claused", "original_title": "Get Claused", "slug_title": "get-claused", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Plot is under wraps.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

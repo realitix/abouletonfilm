@@ -1,1 +1,0 @@
-{"tmdb_id": 460934, "title": "From These Roots", "original_title": "From These Roots", "slug_title": "from-these-roots", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

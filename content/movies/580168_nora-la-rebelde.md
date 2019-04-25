@@ -1,1 +1,0 @@
-{"tmdb_id": 580168, "title": "Nora la rebelde", "original_title": "Nora la rebelde", "slug_title": "nora-la-rebelde", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Olga Breeskin ()", "Andr\u00e9s Garc\u00eda ()", "Amparo Arozamena ()", "Alejandro Ciangherotti ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 60155, "title": "Roupa Nova: RoupaAc\u00fastico", "original_title": "Roupa Nova: RoupaAc\u00fastico", "slug_title": "roupa-nova-roupaacustico", "date": "2004-04-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ozIgStJzsSl8SKf1PwRwY7PesEI.jpg", "actors": [], "comments": [], "recommandations_id": []}

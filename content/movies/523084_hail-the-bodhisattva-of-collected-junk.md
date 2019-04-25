@@ -1,1 +1,0 @@
-{"tmdb_id": 523084, "title": "Hail the Bodhisattva of Collected Junk", "original_title": "Hail the Bodhisattva of Collected Junk", "slug_title": "hail-the-bodhisattva-of-collected-junk", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

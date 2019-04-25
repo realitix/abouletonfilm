@@ -1,1 +1,0 @@
-{"tmdb_id": 394533, "title": "Alcyone, fille du vent", "original_title": "Riders of the Wind", "slug_title": "alcyone-fille-du-vent", "date": "1986-01-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jacques-Yves Cousteau (Himself)", "Peter Ustinov (Narrator)"], "comments": [], "recommandations_id": []}

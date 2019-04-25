@@ -1,1 +1,0 @@
-{"tmdb_id": 485155, "title": "The Time of Our Lives", "original_title": "The Time of Our Lives", "slug_title": "the-time-of-our-lives", "date": "1994-05-21", "genre": "T\u00e9l\u00e9film / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

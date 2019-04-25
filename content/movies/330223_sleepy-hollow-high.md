@@ -1,1 +1,0 @@
-{"tmdb_id": 330223, "title": "Sleepy Hollow High", "original_title": "Sleepy Hollow High", "slug_title": "sleepy-hollow-high", "date": "2000-01-25", "genre": "Horreur", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q4H1gdwAibZQBtFHdHE9arazLwg.jpg", "actors": [], "comments": [], "recommandations_id": []}

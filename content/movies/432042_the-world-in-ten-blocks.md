@@ -1,1 +1,0 @@
-{"tmdb_id": 432042, "title": "The World In Ten Blocks", "original_title": "The World In Ten Blocks", "slug_title": "the-world-in-ten-blocks", "date": "2015-09-19", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1jNLsy6ElcRnCAlMdNI6d0zYufM.jpg", "actors": [], "comments": [], "recommandations_id": []}

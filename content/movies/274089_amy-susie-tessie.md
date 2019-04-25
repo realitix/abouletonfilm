@@ -1,1 +1,0 @@
-{"tmdb_id": 274089, "title": "Amy, Susie, Tessie", "original_title": "Amy, Susie, Tessie", "slug_title": "amy-susie-tessie", "date": "1960-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

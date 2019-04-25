@@ -1,1 +1,0 @@
-{"tmdb_id": 574822, "title": "New Digs", "original_title": "New Digs", "slug_title": "new-digs", "date": "2010-07-27", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ej0gBoCepcE4VKkWwwPxldxdpSk.jpg", "actors": ["Samantha Cutler (Chester (voice))"], "comments": [], "recommandations_id": []}

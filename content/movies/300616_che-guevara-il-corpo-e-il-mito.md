@@ -1,1 +1,0 @@
-{"tmdb_id": 300616, "title": "Che Guevara - Il corpo e il mito", "original_title": "Che Guevara - Il corpo e il mito", "slug_title": "che-guevara-il-corpo-e-il-mito", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

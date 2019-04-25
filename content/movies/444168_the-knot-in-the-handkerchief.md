@@ -1,1 +1,0 @@
-{"tmdb_id": 444168, "title": "The Knot in the Handkerchief", "original_title": "Uzel na kapesn\u00edku", "slug_title": "the-knot-in-the-handkerchief", "date": "1958-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oNSdovMR1aKppa2Pe1RFUyQKGSi.jpg", "actors": [], "comments": [], "recommandations_id": []}

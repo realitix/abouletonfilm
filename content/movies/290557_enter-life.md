@@ -1,1 +1,0 @@
-{"tmdb_id": 290557, "title": "Enter Life", "original_title": "Enter Life", "slug_title": "enter-life", "date": "1981-01-01", "genre": "", "score": "7.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 161942, "title": "Here I Am", "original_title": "Here I Am", "slug_title": "here-i-am", "date": "1962-01-01", "genre": "", "score": "8.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/op1u7zLAa5RrSNx68Zh2GgjE5g5.jpg", "actors": [], "comments": [], "recommandations_id": []}

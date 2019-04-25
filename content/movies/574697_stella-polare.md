@@ -1,1 +1,0 @@
-{"tmdb_id": 574697, "title": "Stella Polare", "original_title": "Stella Polare", "slug_title": "stella-polare", "date": "2006-01-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 297093, "title": "Can You Die in Heaven?", "original_title": "Kan man d\u00f8 i himlen", "slug_title": "can-you-die-in-heaven", "date": "2005-03-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

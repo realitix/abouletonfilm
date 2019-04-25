@@ -1,1 +1,0 @@
-{"tmdb_id": 465827, "title": "Legend of Zelda 1987 Trailer", "original_title": "Legend of Zelda 1987 Trailer", "slug_title": "legend-of-zelda-1987-trailer", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

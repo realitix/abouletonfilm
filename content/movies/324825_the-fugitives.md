@@ -1,1 +1,0 @@
-{"tmdb_id": 324825, "title": "The Fugitives", "original_title": "The Fugitives", "slug_title": "the-fugitives", "date": "1963-01-01", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

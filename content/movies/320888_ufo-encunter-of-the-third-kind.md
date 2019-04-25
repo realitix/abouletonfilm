@@ -1,1 +1,0 @@
-{"tmdb_id": 320888, "title": "UFO Encunter of The Third Kind", "original_title": "UFO Encunter of The Third Kind", "slug_title": "ufo-encunter-of-the-third-kind", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

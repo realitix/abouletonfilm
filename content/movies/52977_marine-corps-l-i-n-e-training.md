@@ -1,1 +1,0 @@
-{"tmdb_id": 52977, "title": "Marine Corps L.I.N.E. Training", "original_title": "Marine Corps L.I.N.E. Training", "slug_title": "marine-corps-l-i-n-e-training", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/arjWzB2HrCZUJMRRzmhwAIPGoTF.jpg", "actors": [], "comments": [], "recommandations_id": []}

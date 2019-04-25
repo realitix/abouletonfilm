@@ -1,1 +1,0 @@
-{"tmdb_id": 274314, "title": "Violin Power", "original_title": "Violin Power", "slug_title": "violin-power", "date": "1978-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cxWwvnwq1ciPkR7B8yJTrO8TVkl.jpg", "actors": [], "comments": [], "recommandations_id": []}

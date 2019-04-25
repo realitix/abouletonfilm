@@ -1,1 +1,0 @@
-{"tmdb_id": 560674, "title": "Beginning Filmmaking", "original_title": "Beginning Filmmaking", "slug_title": "beginning-filmmaking", "date": "2008-04-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

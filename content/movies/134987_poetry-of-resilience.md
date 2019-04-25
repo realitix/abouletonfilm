@@ -1,1 +1,0 @@
-{"tmdb_id": 134987, "title": "Poetry of Resilience", "original_title": "Poetry of Resilience", "slug_title": "poetry-of-resilience", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sbYJ38j2qXAnLxPLCMYSarbATFW.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 353029, "title": "Rest, Zulema", "original_title": "Descansa, Zulema", "slug_title": "rest-zulema", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 591566, "title": "Aza Kemavet-Hamaavak", "original_title": "Aza Kemavet-Hamaavak", "slug_title": "aza-kemavet-hamaavak", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

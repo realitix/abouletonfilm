@@ -1,1 +1,0 @@
-{"tmdb_id": 379314, "title": "Fuckkkyouuu", "original_title": "Fuckkkyouuu", "slug_title": "fuckkkyouuu", "date": "2016-01-22", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p1SOPabGxRkDVbDmAEmPh89xR4F.jpg", "actors": ["Charles Baker (Creature)", "Jesse Sullivan (Creature XXX)"], "comments": [], "recommandations_id": []}

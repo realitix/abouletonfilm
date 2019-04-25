@@ -1,1 +1,0 @@
-{"tmdb_id": 250199, "title": "Second Generation", "original_title": "Second Generation", "slug_title": "second-generation", "date": "2001-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uWyLvh8yCERCE2OtSNl4QcWG5S3.jpg", "actors": [], "comments": [], "recommandations_id": []}

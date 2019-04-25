@@ -1,1 +1,0 @@
-{"tmdb_id": 587792, "title": "Palm Springs", "original_title": "Palm Springs", "slug_title": "palm-springs", "date": "", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Andy Samberg (Nyles)", "Cristin Milioti (Sarah)", "J.K. Simmons (Roy)", "Camila Mendes (Tala)"], "comments": [], "recommandations_id": []}

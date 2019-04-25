@@ -1,1 +1,0 @@
-{"tmdb_id": 335817, "title": "As aventuras de Villar", "original_title": "As aventuras de Villar", "slug_title": "as-aventuras-de-villar", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

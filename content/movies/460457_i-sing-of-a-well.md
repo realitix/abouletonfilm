@@ -1,1 +1,0 @@
-{"tmdb_id": 460457, "title": "I Sing of A Well", "original_title": "I Sing of A Well", "slug_title": "i-sing-of-a-well", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

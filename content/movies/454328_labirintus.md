@@ -1,1 +1,0 @@
-{"tmdb_id": 454328, "title": "Labirintus", "original_title": "Labirintus", "slug_title": "labirintus", "date": "1999-04-25", "genre": "Animation", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

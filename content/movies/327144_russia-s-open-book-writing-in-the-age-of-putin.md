@@ -1,1 +1,0 @@
-{"tmdb_id": 327144, "title": "Russia's Open Book: Writing in the Age of Putin", "original_title": "Russia's Open Book: Writing in the Age of Putin", "slug_title": "russia-s-open-book-writing-in-the-age-of-putin", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

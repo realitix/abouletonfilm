@@ -1,1 +1,0 @@
-{"tmdb_id": 366790, "title": "Den Som Dr\u00e6ber - Film 1", "original_title": "Den Som Dr\u00e6ber - Film 1", "slug_title": "den-som-draeber-film-1", "date": "2010-11-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

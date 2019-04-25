@@ -1,1 +1,0 @@
-{"tmdb_id": 165396, "title": "Bully's End", "original_title": "Bully's End", "slug_title": "bully-s-end", "date": "1933-06-15", "genre": "Animation", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

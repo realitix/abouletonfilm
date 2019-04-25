@@ -1,1 +1,0 @@
-{"tmdb_id": 110777, "title": "The Store", "original_title": "The Store", "slug_title": "the-store", "date": "1983-12-14", "genre": "Documentaire", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uoJu0Ip7dgRPIZtjp8CW4E5mqQp.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 377746, "title": "Dream Walking", "original_title": "Dream Walking", "slug_title": "dream-walking", "date": "1950-06-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Arthur Kay (Gandy Goose / Sourpuss (voice))"], "comments": [], "recommandations_id": []}

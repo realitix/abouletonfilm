@@ -1,1 +1,0 @@
-{"tmdb_id": 358500, "title": "Age of Invention", "original_title": "Age of Invention", "slug_title": "age-of-invention", "date": "1975-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

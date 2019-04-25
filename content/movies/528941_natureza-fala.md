@@ -1,1 +1,0 @@
-{"tmdb_id": 528941, "title": "Natureza Fala", "original_title": "Natureza Fala", "slug_title": "natureza-fala", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

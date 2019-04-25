@@ -1,1 +1,0 @@
-{"tmdb_id": 410060, "title": "Dirtie Basterdz", "original_title": "Sale battars", "slug_title": "dirtie-basterdz", "date": "1998-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2gHQkXESbCJ9sxD4ketW78DAkMn.jpg", "actors": [], "comments": [], "recommandations_id": []}

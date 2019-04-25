@@ -1,1 +1,0 @@
-{"tmdb_id": 99495, "title": "Summer of Goliath", "original_title": "Verano de Goliat", "slug_title": "summer-of-goliath", "date": "2011-07-08", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3fsiPj5AvfoxvEerU11F7ZFBa5s.jpg", "actors": [], "comments": [], "recommandations_id": []}

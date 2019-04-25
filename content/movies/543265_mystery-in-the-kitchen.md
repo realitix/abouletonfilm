@@ -1,1 +1,0 @@
-{"tmdb_id": 543265, "title": "Mystery in the Kitchen", "original_title": "Mystery in the Kitchen", "slug_title": "mystery-in-the-kitchen", "date": "1958-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Norman Ettlinger ()", "Mireille Goulet ()", "Frank Heron ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 214901, "title": "Once Upon a Stable", "original_title": "Once Upon a Stable", "slug_title": "once-upon-a-stable", "date": "", "genre": "", "score": "7.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

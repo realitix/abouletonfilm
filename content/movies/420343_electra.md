@@ -1,1 +1,0 @@
-{"tmdb_id": 420343, "title": "Electra", "original_title": "Ilektra", "slug_title": "electra", "date": "1962-09-27", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Anna Synodinou (Electra)", "Thanos Kotsopoulos (Orestes)", "Kakia Panagiotou (Clytemnestra)"], "comments": [], "recommandations_id": []}

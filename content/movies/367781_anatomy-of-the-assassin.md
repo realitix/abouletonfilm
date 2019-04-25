@@ -1,1 +1,0 @@
-{"tmdb_id": 367781, "title": "Anatomy of the Assassin", "original_title": "Anatomy of the Assassin", "slug_title": "anatomy-of-the-assassin", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

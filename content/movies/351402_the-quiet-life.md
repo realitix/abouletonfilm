@@ -1,1 +1,0 @@
-{"tmdb_id": 351402, "title": "The Quiet Life", "original_title": "The Quiet Life", "slug_title": "the-quiet-life", "date": "2010-10-07", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ljR0md8delWiNAuaNlb9dg5GXF4.jpg", "actors": [], "comments": [], "recommandations_id": []}

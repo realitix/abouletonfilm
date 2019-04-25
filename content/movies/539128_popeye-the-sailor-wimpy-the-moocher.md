@@ -1,1 +1,0 @@
-{"tmdb_id": 539128, "title": "Popeye the Sailor:  Wimpy the Moocher", "original_title": "Popeye the Sailor:  Wimpy the Moocher", "slug_title": "popeye-the-sailor-wimpy-the-moocher", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 479432, "title": "Rembrandt, Etc., and Jane", "original_title": "Rembrandt, Etc., and Jane", "slug_title": "rembrandt-etc-and-jane", "date": "1976-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

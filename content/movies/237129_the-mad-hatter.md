@@ -1,1 +1,0 @@
-{"tmdb_id": 237129, "title": "The Mad Hatter", "original_title": "The Mad Hatter", "slug_title": "the-mad-hatter", "date": "1947-11-26", "genre": "Animation", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bol5ItrJfpcq61ANpYsop4qQSSn.jpg", "actors": [], "comments": [], "recommandations_id": []}

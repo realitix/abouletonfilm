@@ -1,1 +1,0 @@
-{"tmdb_id": 371270, "title": "Centipede Sun", "original_title": "Centipede Sun", "slug_title": "centipede-sun", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gc1V7VFQlRB3QWPs0fcGX54azIY.jpg", "actors": [], "comments": [], "recommandations_id": []}

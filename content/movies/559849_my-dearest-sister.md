@@ -1,1 +1,0 @@
-{"tmdb_id": 559849, "title": "My Dearest Sister", "original_title": "My Dearest Sister", "slug_title": "my-dearest-sister", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

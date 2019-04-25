@@ -1,1 +1,0 @@
-{"tmdb_id": 250727, "title": "Dick Henderson", "original_title": "Dick Henderson", "slug_title": "dick-henderson", "date": "1926-09-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dick Henderson ()"], "comments": [], "recommandations_id": []}

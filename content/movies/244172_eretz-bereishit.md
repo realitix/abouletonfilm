@@ -1,1 +1,0 @@
-{"tmdb_id": 244172, "title": "Eretz Bereishit", "original_title": "Lend of Genesis", "slug_title": "eretz-bereishit", "date": "2010-07-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j3SBGKR0NVgnv36ojnykIgCfg1J.jpg", "actors": ["Yaron London (Narrator (voice))"], "comments": [], "recommandations_id": []}

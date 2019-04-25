@@ -1,1 +1,0 @@
-{"tmdb_id": 487426, "title": "Fforest Bay II", "original_title": "Fforest Bay II", "slug_title": "fforest-bay-ii", "date": "1973-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1cSZmz9Xjoz0MAiY9HXpMGJhLQL.jpg", "actors": [], "comments": [], "recommandations_id": []}

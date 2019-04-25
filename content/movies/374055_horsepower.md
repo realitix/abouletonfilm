@@ -1,1 +1,0 @@
-{"tmdb_id": 374055, "title": "Horsepower", "original_title": "Cai Putere", "slug_title": "horsepower", "date": "2014-08-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sbptjXWPJAUZcrNpLkdy1wpz2n2.jpg", "actors": [], "comments": [], "recommandations_id": []}

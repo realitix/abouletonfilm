@@ -1,1 +1,0 @@
-{"tmdb_id": 319492, "title": "Cartoon Crazys: The Great Animators", "original_title": "Cartoon Crazys: The Great Animators", "slug_title": "cartoon-crazys-the-great-animators", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

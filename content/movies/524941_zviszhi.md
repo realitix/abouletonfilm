@@ -1,1 +1,0 @@
-{"tmdb_id": 524941, "title": "Zviszhi", "original_title": "\u0417\u0432\u0438\u0437\u0436\u0438", "slug_title": "zviszhi", "date": "2014-12-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sswwa8V7uBAgwfZUUZil1vWuTf4.jpg", "actors": [], "comments": [], "recommandations_id": []}

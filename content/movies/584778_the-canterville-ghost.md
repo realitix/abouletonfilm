@@ -1,1 +1,0 @@
-{"tmdb_id": 584778, "title": "The Canterville Ghost", "original_title": "The Canterville Ghost", "slug_title": "the-canterville-ghost", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

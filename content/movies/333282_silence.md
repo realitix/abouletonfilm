@@ -1,1 +1,0 @@
-{"tmdb_id": 333282, "title": "Silence!", "original_title": "\u0633\u0645\u0639 \u0647\u0633", "slug_title": "silence", "date": "1991-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

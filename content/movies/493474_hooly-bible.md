@@ -1,1 +1,0 @@
-{"tmdb_id": 493474, "title": "Hooly Bible", "original_title": "\u795e\u7ecf", "slug_title": "hooly-bible", "date": "2013-11-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gods and Goddesses (Themselves)"], "comments": [], "recommandations_id": []}

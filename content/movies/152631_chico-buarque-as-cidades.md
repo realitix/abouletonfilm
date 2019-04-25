@@ -1,1 +1,0 @@
-{"tmdb_id": 152631, "title": "Chico Buarque - As Cidades", "original_title": "Chico Buarque - As Cidades", "slug_title": "chico-buarque-as-cidades", "date": "2016-02-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vo1eK0LbqTvfeaLmDaCMMqT49Pz.jpg", "actors": [], "comments": [], "recommandations_id": []}

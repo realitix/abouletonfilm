@@ -1,1 +1,0 @@
-{"tmdb_id": 433072, "title": "Grocery Store", "original_title": "Grocery Store", "slug_title": "grocery-store", "date": "2002-01-03", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Margaret Cho (Store Clerk(voice))", "Bruce Daniels (Ghetto Guy)"], "comments": [], "recommandations_id": []}

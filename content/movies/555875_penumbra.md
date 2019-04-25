@@ -1,1 +1,0 @@
-{"tmdb_id": 555875, "title": "Penumbra", "original_title": "Penumbra", "slug_title": "penumbra", "date": "2003-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fth7Y4Cf7VYHyFSqKKfxbNu4x9P.jpg", "actors": [], "comments": [], "recommandations_id": []}

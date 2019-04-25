@@ -1,1 +1,0 @@
-{"tmdb_id": 498610, "title": "Next Year in Jerusalem", "original_title": "Next Year in Jerusalem", "slug_title": "next-year-in-jerusalem", "date": "1997-02-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wT7KVqwzAZ4uSnIO34YJRg8tijY.jpg", "actors": [], "comments": [], "recommandations_id": []}

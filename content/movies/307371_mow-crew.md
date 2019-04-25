@@ -1,1 +1,0 @@
-{"tmdb_id": 307371, "title": "Mow Crew", "original_title": "Mow Crew", "slug_title": "mow-crew", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Cleo Berry (Doboy)"], "comments": [], "recommandations_id": []}

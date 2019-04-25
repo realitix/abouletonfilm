@@ -1,1 +1,0 @@
-{"tmdb_id": 467549, "title": "Choruivati", "original_title": "\u099a\u09dc\u09c1\u0987\u09ad\u09be\u09a4\u09bf", "slug_title": "choruivati", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

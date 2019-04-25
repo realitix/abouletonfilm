@@ -1,1 +1,0 @@
-{"tmdb_id": 314933, "title": "CHIKARA: The Thirteenth Hat", "original_title": "CHIKARA: The Thirteenth Hat", "slug_title": "chikara-the-thirteenth-hat", "date": "2012-01-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eR4UZAHcdbnFPeoF6XUjK4JJ40P.jpg", "actors": [], "comments": [], "recommandations_id": []}

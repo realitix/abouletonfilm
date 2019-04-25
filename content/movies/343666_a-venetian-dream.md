@@ -1,1 +1,0 @@
-{"tmdb_id": 343666, "title": "A Venetian Dream", "original_title": "A Venetian Dream", "slug_title": "a-venetian-dream", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

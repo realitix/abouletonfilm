@@ -1,1 +1,0 @@
-{"tmdb_id": 334160, "title": "Flower Girl", "original_title": "Flower Girl", "slug_title": "flower-girl", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

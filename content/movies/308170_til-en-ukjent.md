@@ -1,1 +1,0 @@
-{"tmdb_id": 308170, "title": "TIL EN UKJENT", "original_title": "TIL EN UKJENT", "slug_title": "til-en-ukjent", "date": "1991-03-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rVJz9W0CIbFlaWJD4qydj0AU2DF.jpg", "actors": ["Hilde Aaroe (Ane)"], "comments": [], "recommandations_id": []}

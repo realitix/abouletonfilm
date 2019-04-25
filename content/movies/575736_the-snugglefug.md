@@ -1,1 +1,0 @@
-{"tmdb_id": 575736, "title": "The Snugglefug", "original_title": "The Snugglefug", "slug_title": "the-snugglefug", "date": "2018-03-26", "genre": "Com\u00e9die / Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y0yrez8rM03q74K67vhy8Bw9v9v.jpg", "actors": [], "comments": [], "recommandations_id": []}

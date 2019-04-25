@@ -1,1 +1,0 @@
-{"tmdb_id": 439722, "title": "Os Ruivos", "original_title": "Os Ruivos", "slug_title": "os-ruivos", "date": "2017-02-05", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pedro Monteiro ()", "Th\u00e1bata Tubino ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 467296, "title": "One Day on the Road", "original_title": "One Day on the Road", "slug_title": "one-day-on-the-road", "date": "2008-03-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tlMz5a7bnKFwBewCIx1gUCRrrI8.jpg", "actors": [], "comments": [], "recommandations_id": []}

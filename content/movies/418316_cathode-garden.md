@@ -1,1 +1,0 @@
-{"tmdb_id": 418316, "title": "Cathode Garden", "original_title": "Cathode Garden", "slug_title": "cathode-garden", "date": "2015-10-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3w1LXsy7B82LCYRAsHb5ZFvpLLv.jpg", "actors": [], "comments": [], "recommandations_id": []}

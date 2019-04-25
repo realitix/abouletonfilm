@@ -1,1 +1,0 @@
-{"tmdb_id": 371189, "title": "Mister Hu and the Temple", "original_title": "Mr. Hu en de tempel", "slug_title": "mister-hu-and-the-temple", "date": "2015-11-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h01DVdbeHlxpeBvP4r3y9xg8cIu.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 319563, "title": "Sessions from the Vault: Vol. 2", "original_title": "Sessions from the Vault: Vol. 2", "slug_title": "sessions-from-the-vault-vol-2", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

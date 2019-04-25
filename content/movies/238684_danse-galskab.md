@@ -1,1 +1,0 @@
-{"tmdb_id": 238684, "title": "Danse-Galskab", "original_title": "Danse-Galskab", "slug_title": "danse-galskab", "date": "1918-11-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Oscar Stribolt ()", "Carl Schenstr\u00f8m ()", "Ragnhild Sannom ()", "Lauritz Olsen ()", "Astrid Krygell ()"], "comments": [], "recommandations_id": []}

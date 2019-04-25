@@ -1,1 +1,0 @@
-{"tmdb_id": 349974, "title": "\uc560\ub9c8\ubd80\uc778 4", "original_title": "\uc560\ub9c8\ubd80\uc778 4", "slug_title": "aemabuin-4", "date": "1990-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

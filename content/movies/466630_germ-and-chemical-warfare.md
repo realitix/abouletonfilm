@@ -1,1 +1,0 @@
-{"tmdb_id": 466630, "title": "Germ and Chemical Warfare", "original_title": "Germ and Chemical Warfare", "slug_title": "germ-and-chemical-warfare", "date": "1970-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

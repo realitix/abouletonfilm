@@ -1,1 +1,0 @@
-{"tmdb_id": 283541, "title": "The End of a Love Affair", "original_title": "The End of a Love Affair", "slug_title": "the-end-of-a-love-affair", "date": "2003-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hXZKG3f8rIdscMkV5d5YktkXJRh.jpg", "actors": ["Gustavo Sumpta ()"], "comments": [], "recommandations_id": []}

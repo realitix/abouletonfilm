@@ -1,1 +1,0 @@
-{"tmdb_id": 586490, "title": "Electrical Gaza", "original_title": "Electrical Gaza", "slug_title": "electrical-gaza", "date": "2015-08-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rosalind Nashashibi (Director)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 471255, "title": "A Journey with Korean Masters", "original_title": "A Journey with Korean Masters", "slug_title": "a-journey-with-korean-masters", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b7wJouPLIdi8FsRJlgcSPoc4jCb.jpg", "actors": [], "comments": [], "recommandations_id": []}

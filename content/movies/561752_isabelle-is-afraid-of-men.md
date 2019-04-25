@@ -1,1 +1,0 @@
-{"tmdb_id": 561752, "title": "Isabelle Is Afraid of Men", "original_title": "Isabelle a peur des hommes", "slug_title": "isabelle-is-afraid-of-men", "date": "1957-10-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

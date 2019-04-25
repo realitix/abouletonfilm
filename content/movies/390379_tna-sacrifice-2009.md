@@ -1,1 +1,0 @@
-{"tmdb_id": 390379, "title": "TNA Sacrifice 2009", "original_title": "TNA Sacrifice 2009", "slug_title": "tna-sacrifice-2009", "date": "2009-05-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rueTQg7lwP6AnxAAwsoNlyw06zg.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 490246, "title": "Anastasia and the Queen of Hearts", "original_title": "Anastasia and the Queen of Hearts", "slug_title": "anastasia-and-the-queen-of-hearts", "date": "1994-12-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

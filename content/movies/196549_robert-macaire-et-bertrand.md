@@ -1,1 +1,0 @@
-{"tmdb_id": 196549, "title": "Robert Macaire et Bertrand", "original_title": "Robert Macaire et Bertrand", "slug_title": "robert-macaire-et-bertrand", "date": "1907-05-23", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

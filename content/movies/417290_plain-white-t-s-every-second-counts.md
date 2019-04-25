@@ -1,1 +1,0 @@
-{"tmdb_id": 417290, "title": "Plain White T's - Every Second Counts", "original_title": "Plain White T's - Every Second Counts", "slug_title": "plain-white-t-s-every-second-counts", "date": "2007-08-28", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

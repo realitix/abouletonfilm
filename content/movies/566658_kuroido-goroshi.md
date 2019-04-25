@@ -1,1 +1,0 @@
-{"tmdb_id": 566658, "title": "Kuroido Goroshi", "original_title": "Kuroido Goroshi", "slug_title": "kuroido-goroshi", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mansai Nomura (Suguro Takeru)", "Yo Oizumi (Dr. Shiba Heisuke)", "Osamu Mukai (Hyoudou Haruo)"], "comments": [], "recommandations_id": []}

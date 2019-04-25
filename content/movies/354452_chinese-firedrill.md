@@ -1,1 +1,0 @@
-{"tmdb_id": 354452, "title": "Chinese Firedrill", "original_title": "Chinese Firedrill", "slug_title": "chinese-firedrill", "date": "1968-08-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s6XkvKlOUbTzqrQoJJJSrYiZF1l.jpg", "actors": [], "comments": [], "recommandations_id": []}

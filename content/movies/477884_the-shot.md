@@ -1,1 +1,0 @@
-{"tmdb_id": 477884, "title": "The Shot", "original_title": "Skottet", "slug_title": "the-shot", "date": "1969-09-21", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zF6F1ayQHSDzMURAkMC52jVVA2E.jpg", "actors": ["Peter Schildt (Ronny)", "Cia L\u00f6wgren (Len)"], "comments": [], "recommandations_id": []}

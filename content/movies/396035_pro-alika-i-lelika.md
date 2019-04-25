@@ -1,1 +1,0 @@
-{"tmdb_id": 396035, "title": "Pro Alika i Lelika", "original_title": "Pro Alika i Lelika", "slug_title": "pro-alika-i-lelika", "date": "2008-11-20", "genre": "Com\u00e9die / Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/x4jLC7BZr8GuoE3w2H5KbitoaLM.jpg", "actors": [], "comments": [], "recommandations_id": []}

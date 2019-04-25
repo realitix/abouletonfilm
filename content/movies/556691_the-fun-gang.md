@@ -1,1 +1,0 @@
-{"tmdb_id": 556691, "title": "The Fun Gang", "original_title": "The Fun Gang", "slug_title": "the-fun-gang", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 48223, "title": "Frank Hvam Live 09", "original_title": "Frank Hvam: Live '09", "slug_title": "frank-hvam-live-09", "date": "2010-10-25", "genre": "Com\u00e9die", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/r2ZazSQTd85V8Vd2q7sU55vkX2v.jpg", "actors": ["Frank Hvam (Himself)"], "comments": [], "recommandations_id": []}

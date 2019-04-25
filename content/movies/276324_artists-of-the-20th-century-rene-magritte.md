@@ -1,1 +1,0 @@
-{"tmdb_id": 276324, "title": "Artists of the 20th Century: Rene Magritte", "original_title": "Artists of the 20th Century: Rene Magritte", "slug_title": "artists-of-the-20th-century-rene-magritte", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

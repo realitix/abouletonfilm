@@ -1,1 +1,0 @@
-{"tmdb_id": 400647, "title": "The Spaceman of Afghanistan", "original_title": "The Spaceman of Afghanistan", "slug_title": "the-spaceman-of-afghanistan", "date": "2014-10-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

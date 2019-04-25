@@ -1,1 +1,0 @@
-{"tmdb_id": 299142, "title": "The Diver", "original_title": "The Diver", "slug_title": "the-diver", "date": "2004-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

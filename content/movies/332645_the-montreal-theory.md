@@ -1,1 +1,0 @@
-{"tmdb_id": 332645, "title": "The Montreal Theory", "original_title": "The Montreal Theory", "slug_title": "the-montreal-theory", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AdkdrNf5KlkvIh2invLn1p7Q22R.jpg", "actors": [], "comments": [], "recommandations_id": []}

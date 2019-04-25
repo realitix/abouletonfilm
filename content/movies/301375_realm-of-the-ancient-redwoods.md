@@ -1,1 +1,0 @@
-{"tmdb_id": 301375, "title": "Realm of the Ancient Redwoods", "original_title": "Realm of the Ancient Redwoods", "slug_title": "realm-of-the-ancient-redwoods", "date": "2014-04-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

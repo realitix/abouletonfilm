@@ -1,1 +1,0 @@
-{"tmdb_id": 409939, "title": "Boatman", "original_title": "Boatman", "slug_title": "boatman", "date": "1993-01-01", "genre": "Documentaire", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6MtLJm4fBSWUUXARRrKj0Q3rQZE.jpg", "actors": ["Gopal Maji (Boatman)"], "comments": [], "recommandations_id": []}

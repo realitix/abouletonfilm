@@ -1,1 +1,0 @@
-{"tmdb_id": 523479, "title": "Terzake", "original_title": "Terzake", "slug_title": "terzake", "date": "1977-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 238747, "title": "Infection", "original_title": "Infection", "slug_title": "infection", "date": "2010-07-11", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

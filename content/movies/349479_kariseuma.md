@@ -1,1 +1,0 @@
-{"tmdb_id": 349479, "title": "\uce74\ub9ac\uc2a4\ub9c8", "original_title": "\uce74\ub9ac\uc2a4\ub9c8", "slug_title": "kariseuma", "date": "1996-12-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

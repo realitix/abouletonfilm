@@ -1,1 +1,1 @@
-{"tmdb_id": 516296, "title": "Saarnash", "original_title": "Saarnash", "slug_title": "saarnash", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 516296, "title": "Saarnash", "original_title": "Saarnash", "slug_title": "saarnash", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "Saarnash was released on 1984", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

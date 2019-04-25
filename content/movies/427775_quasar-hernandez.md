@@ -1,1 +1,0 @@
-{"tmdb_id": 427775, "title": "Quasar Hernandez", "original_title": "Quasar Hernandez", "slug_title": "quasar-hernandez", "date": "2004-08-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gtr6sCL4TcdqVInaxfuyjnAo5gU.jpg", "actors": [], "comments": [], "recommandations_id": []}

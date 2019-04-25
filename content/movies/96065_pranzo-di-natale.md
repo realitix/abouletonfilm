@@ -1,1 +1,0 @@
-{"tmdb_id": 96065, "title": "Pranzo di Natale", "original_title": "Pranzo di Natale", "slug_title": "pranzo-di-natale", "date": "1958-08-13", "genre": "", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bGHQdYSPpFhb40SgfiiPPqoN1Mc.jpg", "actors": ["Mario Soldati ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 558716, "title": "Show Me Daddy's Ultra-Power", "original_title": "\uae08\uc9c0\ub41c \uc7a5\ub09c", "slug_title": "show-me-daddy-s-ultra-power", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wL6pM1kHES2QInRogW4QTf8GaFu.jpg", "actors": [], "comments": [], "recommandations_id": []}

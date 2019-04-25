@@ -1,1 +1,0 @@
-{"tmdb_id": 270765, "title": "Hare Krishna", "original_title": "Hare Krishna", "slug_title": "hare-krishna", "date": "1966-07-03", "genre": "Documentaire", "score": "4.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7oaVY8anF87ZtvfwfrcuB57SKaL.jpg", "actors": [], "comments": [], "recommandations_id": []}

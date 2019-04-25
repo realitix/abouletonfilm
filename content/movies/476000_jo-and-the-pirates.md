@@ -1,1 +1,0 @@
-{"tmdb_id": 476000, "title": "Jo and the Pirates", "original_title": "Jo and the Pirates", "slug_title": "jo-and-the-pirates", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tAWicV8UnmRonRCYqOIN374sa45.jpg", "actors": [], "comments": [], "recommandations_id": []}

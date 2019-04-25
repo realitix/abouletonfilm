@@ -1,1 +1,0 @@
-{"tmdb_id": 359052, "title": "My White Shirt", "original_title": "Mijn Witte Hemd", "slug_title": "my-white-shirt", "date": "2015-01-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

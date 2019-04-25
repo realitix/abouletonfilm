@@ -1,1 +1,0 @@
-{"tmdb_id": 563078, "title": "Hands on Hardcore", "original_title": "Hands on Hardcore", "slug_title": "hands-on-hardcore", "date": "2012-02-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7n47h9FQG1ZHm9JinvevtxxIhdr.jpg", "actors": [], "comments": [], "recommandations_id": []}

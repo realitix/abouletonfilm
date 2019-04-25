@@ -1,1 +1,0 @@
-{"tmdb_id": 424615, "title": "Little Spirits", "original_title": "Little Spirits", "slug_title": "little-spirits", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qOceaIZZUfZ2EvQz0SFSNqkvos.jpg", "actors": ["Annie Ela ()", "Madeleine Herrisson-Leplae ()"], "comments": [], "recommandations_id": []}

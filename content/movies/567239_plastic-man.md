@@ -1,1 +1,0 @@
-{"tmdb_id": 567239, "title": "Plastic Man", "original_title": "Plastic Man", "slug_title": "plastic-man", "date": "", "genre": "Com\u00e9die / Action / Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

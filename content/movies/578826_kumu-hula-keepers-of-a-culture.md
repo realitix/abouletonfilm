@@ -1,1 +1,0 @@
-{"tmdb_id": 578826, "title": "Kumu Hula: Keepers of a Culture", "original_title": "Kumu Hula: Keepers of a Culture", "slug_title": "kumu-hula-keepers-of-a-culture", "date": "1989-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lBLUHUaGYHpMlueLHxF1QqqJ4N2.jpg", "actors": [], "comments": [], "recommandations_id": []}

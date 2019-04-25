@@ -1,1 +1,0 @@
-{"tmdb_id": 571975, "title": "Niagara: A History of the Falls", "original_title": "Niagara: A History of the Falls", "slug_title": "niagara-a-history-of-the-falls", "date": "1999-01-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eMOE6aXH6xHN8vZb75d7sXQiej0.jpg", "actors": [], "comments": [], "recommandations_id": []}

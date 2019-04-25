@@ -1,1 +1,0 @@
-{"tmdb_id": 292318, "title": "The Truth Injection: More New World Order Exposed", "original_title": "The Truth Injection: More New World Order Exposed", "slug_title": "the-truth-injection-more-new-world-order-exposed", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

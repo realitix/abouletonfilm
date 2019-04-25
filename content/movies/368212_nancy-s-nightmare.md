@@ -1,1 +1,0 @@
-{"tmdb_id": 368212, "title": "Nancy's Nightmare", "original_title": "Nancy's Nightmare", "slug_title": "nancy-s-nightmare", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

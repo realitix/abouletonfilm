@@ -1,1 +1,0 @@
-{"tmdb_id": 333966, "title": "The Time of the Camel", "original_title": "Z'man Hagamal", "slug_title": "the-time-of-the-camel", "date": "1991-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 553447, "title": "A Long Farewell", "original_title": "\uc9d1\uc758 \uc2dc\uac04\ub4e4", "slug_title": "a-long-farewell", "date": "2018-10-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a9UdyKhgLaJdwCzs6TAuaFVDiea.jpg", "actors": [], "comments": [], "recommandations_id": []}

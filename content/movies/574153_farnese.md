@@ -1,1 +1,0 @@
-{"tmdb_id": 574153, "title": "Farnese", "original_title": "Farnese", "slug_title": "farnese", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 64636, "title": "Women Play Twice", "original_title": "\u5973\u305f\u3061\u306f\u4e8c\u5ea6\u904a\u3076", "slug_title": "women-play-twice", "date": "2010-03-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4TribJmawtj2x4Pv7pQx2zevQku.jpg", "actors": [], "comments": [], "recommandations_id": []}

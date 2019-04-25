@@ -1,1 +1,0 @@
-{"tmdb_id": 483594, "title": "Borr\u00f3n y cuenta nueva", "original_title": "Borr\u00f3n y cuenta nueva", "slug_title": "borron-y-cuenta-nueva", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 420816, "title": "Night on a Bald Mountain", "original_title": "Night on a Bald Mountain", "slug_title": "night-on-a-bald-mountain", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

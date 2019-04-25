@@ -1,1 +1,0 @@
-{"tmdb_id": 51295, "title": "Voces en im\u00e1genes", "original_title": "Voces en im\u00e1genes", "slug_title": "voces-en-imagenes", "date": "2008-11-07", "genre": "Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3n6l4nQ9VKHz2iMGqTe0SWTZZ77.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 464833, "title": "Obituary for a Murderer", "original_title": "Nachruf f\u00fcr einen M\u00f6rder", "slug_title": "obituary-for-a-murderer", "date": "1991-01-01", "genre": "T\u00e9l\u00e9film", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

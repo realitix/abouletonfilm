@@ -1,1 +1,0 @@
-{"tmdb_id": 344306, "title": "Stuck Up", "original_title": "Stuck Up", "slug_title": "stuck-up", "date": "1921-06-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bud Duncan ()", "Billy Gilbert ()"], "comments": [], "recommandations_id": []}

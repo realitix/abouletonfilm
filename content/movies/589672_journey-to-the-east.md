@@ -1,1 +1,0 @@
-{"tmdb_id": 589672, "title": "Journey to the East", "original_title": "Journey to the East", "slug_title": "journey-to-the-east", "date": "2008-07-24", "genre": "Fantastique / Animation / Aventure", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uMiozA1a3L2L1XPhEPHXUIpyQRE.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 483908, "title": "De Witte Negerin", "original_title": "De Witte Negerin", "slug_title": "de-witte-negerin", "date": "", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vQoPfIz3caI1WNEGJALRmeT53CG.jpg", "actors": [], "comments": [], "recommandations_id": []}

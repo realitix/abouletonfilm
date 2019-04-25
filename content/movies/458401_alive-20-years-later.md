@@ -1,1 +1,0 @@
-{"tmdb_id": 458401, "title": "Alive: 20 Years Later", "original_title": "Alive: 20 Years Later", "slug_title": "alive-20-years-later", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jsrg1efNHgVSfSsHWRxANsMHyTf.jpg", "actors": [], "comments": [], "recommandations_id": []}

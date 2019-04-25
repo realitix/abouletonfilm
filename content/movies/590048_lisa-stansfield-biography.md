@@ -1,1 +1,0 @@
-{"tmdb_id": 590048, "title": "Lisa Stansfield - Biography", "original_title": "Lisa Stansfield - Biography", "slug_title": "lisa-stansfield-biography", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q4X2g0rFYDXfYcv1wJcX3lHiNfR.jpg", "actors": [], "comments": [], "recommandations_id": []}

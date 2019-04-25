@@ -1,1 +1,0 @@
-{"tmdb_id": 471771, "title": "The Golden Bowl, or Repression", "original_title": "The Golden Bowl, or Repression", "slug_title": "the-golden-bowl-or-repression", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bob Berg ()"], "comments": [], "recommandations_id": []}

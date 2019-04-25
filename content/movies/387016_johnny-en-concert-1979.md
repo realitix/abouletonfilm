@@ -1,1 +1,0 @@
-{"tmdb_id": 387016, "title": "Johnny en concert 1979", "original_title": "Johnny en concert 1979", "slug_title": "johnny-en-concert-1979", "date": "", "genre": "", "score": "0.0/10", "synopsis": "Johnny concert 1979", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

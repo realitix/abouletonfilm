@@ -1,1 +1,0 @@
-{"tmdb_id": 356365, "title": "The E-waste Tragedy", "original_title": "La tragedia Electronica", "slug_title": "the-e-waste-tragedy", "date": "2014-05-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ihI9c7rNJhqmv2Il3VhpezkuIe2.jpg", "actors": [], "comments": [], "recommandations_id": []}

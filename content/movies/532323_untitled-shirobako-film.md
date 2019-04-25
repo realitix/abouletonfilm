@@ -1,1 +1,0 @@
-{"tmdb_id": 532323, "title": "Untitled Shirobako Film", "original_title": "Untitled Shirobako Film", "slug_title": "untitled-shirobako-film", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fipK0Y65BQ779TfzS9sZoiGxFIE.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 568432, "title": "Cleaner", "original_title": "Cleaner", "slug_title": "cleaner", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h7Eb2mIXnHngsVxbqyAal9NEpUS.jpg", "actors": ["Masome Beygi (Narges)"], "comments": [], "recommandations_id": []}

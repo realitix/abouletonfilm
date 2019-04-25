@@ -1,1 +1,0 @@
-{"tmdb_id": 543350, "title": "The Book of Chapin", "original_title": "The Book of Chapin", "slug_title": "the-book-of-chapin", "date": "1974-12-03", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g7Z5D0tpVLntgGTh6okwQepHLvl.jpg", "actors": ["Harry Chapin ()"], "comments": [], "recommandations_id": []}

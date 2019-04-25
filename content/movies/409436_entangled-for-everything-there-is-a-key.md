@@ -1,1 +1,0 @@
-{"tmdb_id": 409436, "title": "Entangled: For Everything There is a Key", "original_title": "Entangled: For Everything There is a Key", "slug_title": "entangled-for-everything-there-is-a-key", "date": "2013-11-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

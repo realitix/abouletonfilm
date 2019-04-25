@@ -1,1 +1,0 @@
-{"tmdb_id": 307761, "title": "Manushulanta Okkate", "original_title": "Manushulanta Okkate", "slug_title": "manushulanta-okkate", "date": "1976-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

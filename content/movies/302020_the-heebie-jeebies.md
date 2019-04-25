@@ -1,1 +1,0 @@
-{"tmdb_id": 302020, "title": "The Heebie-Jeebies", "original_title": "The Heebie-Jeebies", "slug_title": "the-heebie-jeebies", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hvGhsBzJGvtfbEeD77S2r2cUBVT.jpg", "actors": [], "comments": [], "recommandations_id": []}

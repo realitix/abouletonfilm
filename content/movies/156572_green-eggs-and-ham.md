@@ -1,1 +1,0 @@
-{"tmdb_id": 156572, "title": "Green Eggs and Ham", "original_title": "Green Eggs and Ham", "slug_title": "green-eggs-and-ham", "date": "1973-10-15", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1y4bxTKRN4Wi74oIvWf16V1LQVV.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 498489, "title": "Beyond Fields of Paper", "original_title": "Beyond Fields of Paper", "slug_title": "beyond-fields-of-paper", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

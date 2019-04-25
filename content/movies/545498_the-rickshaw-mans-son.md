@@ -1,1 +1,0 @@
-{"tmdb_id": 545498, "title": "The Rickshaw Man\u2019s Son", "original_title": "\u6cb3\u5185\u904a\u4fa0\u4f1d", "slug_title": "the-rickshaw-mans-son", "date": "1967-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sonny Chiba ()"], "comments": [], "recommandations_id": []}

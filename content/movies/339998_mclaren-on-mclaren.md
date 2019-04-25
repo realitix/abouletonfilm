@@ -1,1 +1,0 @@
-{"tmdb_id": 339998, "title": "McLaren on McLaren", "original_title": "McLaren on McLaren", "slug_title": "mclaren-on-mclaren", "date": "1983-05-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Norman McLaren (Himself)"], "comments": [], "recommandations_id": []}

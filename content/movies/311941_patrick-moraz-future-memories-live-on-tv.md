@@ -1,1 +1,0 @@
-{"tmdb_id": 311941, "title": "Patrick Moraz: Future Memories Live on TV", "original_title": "Patrick Moraz: Future Memories Live on TV", "slug_title": "patrick-moraz-future-memories-live-on-tv", "date": "1994-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

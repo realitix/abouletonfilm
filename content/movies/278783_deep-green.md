@@ -1,1 +1,0 @@
-{"tmdb_id": 278783, "title": "Deep Green", "original_title": "Deep Green", "slug_title": "deep-green", "date": "2010-06-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

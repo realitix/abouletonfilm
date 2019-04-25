@@ -1,1 +1,0 @@
-{"tmdb_id": 271175, "title": "Masterchef", "original_title": "Masterchef", "slug_title": "masterchef", "date": "2014-01-21", "genre": "", "score": "2.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Omkar Santosh Amte (Om)", "Nimrat Kaur (Mother)", "Akil Shakil Shaikh (Akil)"], "comments": [], "recommandations_id": []}

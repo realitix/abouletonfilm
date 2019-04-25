@@ -1,1 +1,0 @@
-{"tmdb_id": 125726, "title": "Cambridge Folk Festival", "original_title": "Cambridge Folk Festival", "slug_title": "cambridge-folk-festival", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7AS44JO9oo5YVKUmyhlusrI6szf.jpg", "actors": [], "comments": [], "recommandations_id": []}

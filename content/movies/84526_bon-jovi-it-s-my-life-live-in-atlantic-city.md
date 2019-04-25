@@ -1,1 +1,0 @@
-{"tmdb_id": 84526, "title": "Bon Jovi: It's My life - Live in Atlantic city", "original_title": "Bon Jovi: It's My life - Live in Atlantic city", "slug_title": "bon-jovi-it-s-my-life-live-in-atlantic-city", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

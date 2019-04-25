@@ -1,1 +1,0 @@
-{"tmdb_id": 442134, "title": "Zapatista Women", "original_title": "Las compa\u00f1eras tienen grado", "slug_title": "zapatista-women", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qO6f1mciHsl0pgaDID8NvDlorWK.jpg", "actors": [], "comments": [], "recommandations_id": []}

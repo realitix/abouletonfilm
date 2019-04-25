@@ -1,1 +1,0 @@
-{"tmdb_id": 477059, "title": "The Fast Worker", "original_title": "The Fast Worker", "slug_title": "the-fast-worker", "date": "1924-10-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Reginald Denny (Terry Brock)", "Laura La Plante (Connie)"], "comments": [], "recommandations_id": []}

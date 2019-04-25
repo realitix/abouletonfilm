@@ -1,1 +1,0 @@
-{"tmdb_id": 555429, "title": "Araucaria Araucana", "original_title": "Araucaria Araucana", "slug_title": "araucaria-araucana", "date": "2018-10-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dLrPqruJ88mTdZBAa2aJK2cJdoq.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 475674, "title": "Operation Fast Freight", "original_title": "Operation Fast Freight", "slug_title": "operation-fast-freight", "date": "1950-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yDlsU7rP4fKwGcss2oxJhBsk4WC.jpg", "actors": [], "comments": [], "recommandations_id": []}

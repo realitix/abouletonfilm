@@ -1,1 +1,0 @@
-{"tmdb_id": 276273, "title": "It's a Big, Big World: Safe and Sound", "original_title": "It's a Big, Big World: Safe and Sound", "slug_title": "it-s-a-big-big-world-safe-and-sound", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

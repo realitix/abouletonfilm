@@ -1,1 +1,0 @@
-{"tmdb_id": 596237, "title": "Freedom March", "original_title": "Freedom March", "slug_title": "freedom-march", "date": "1963-10-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

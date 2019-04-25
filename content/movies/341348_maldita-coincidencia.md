@@ -1,1 +1,0 @@
-{"tmdb_id": 341348, "title": "Maldita Coincid\u00eancia", "original_title": "Maldita Coincid\u00eancia", "slug_title": "maldita-coincidencia", "date": "1979-05-22", "genre": "Drame", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2JAtipohC5xqXFnFyy8hvAyDJ3l.jpg", "actors": [], "comments": [], "recommandations_id": []}

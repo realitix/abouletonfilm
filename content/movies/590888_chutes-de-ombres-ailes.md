@@ -1,1 +1,0 @@
-{"tmdb_id": 590888, "title": "Chutes de Ombres-ailes", "original_title": "Chutes de Ombres-ailes", "slug_title": "chutes-de-ombres-ailes", "date": "1980-01-01", "genre": "", "score": "0.0/10", "synopsis": "Un film de Michel Nedjar.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

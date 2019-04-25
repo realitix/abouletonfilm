@@ -1,1 +1,0 @@
-{"tmdb_id": 535217, "title": "The Mermaids, or Aiden in Wonderland", "original_title": "The Mermaids, or Aiden in Wonderland", "slug_title": "the-mermaids-or-aiden-in-wonderland", "date": "2018-08-09", "genre": "Fantastique / Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

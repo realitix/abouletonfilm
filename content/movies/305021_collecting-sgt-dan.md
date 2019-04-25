@@ -1,1 +1,0 @@
-{"tmdb_id": 305021, "title": "Collecting Sgt. Dan", "original_title": "Collecting Sgt. Dan", "slug_title": "collecting-sgt-dan", "date": "2014-03-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

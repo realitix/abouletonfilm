@@ -1,1 +1,0 @@
-{"tmdb_id": 256473, "title": "On Departure", "original_title": "On Departure", "slug_title": "on-departure", "date": "2012-07-01", "genre": "Animation", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/88WkyEk7H50KZ8lV09H2nZazmOY.jpg", "actors": [], "comments": [], "recommandations_id": []}

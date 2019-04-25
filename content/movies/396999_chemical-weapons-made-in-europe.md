@@ -1,1 +1,0 @@
-{"tmdb_id": 396999, "title": "Chemical Weapons: Made in Europe", "original_title": "Chemical Weapons: Made in Europe", "slug_title": "chemical-weapons-made-in-europe", "date": "2015-06-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

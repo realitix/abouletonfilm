@@ -1,1 +1,0 @@
-{"tmdb_id": 37110, "title": "NightWalker - Eternal Darkness", "original_title": "NightWalker - Eternal Darkness", "slug_title": "nightwalker-eternal-darkness", "date": "2001-06-12", "genre": "Horreur / Myst\u00e8re / Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

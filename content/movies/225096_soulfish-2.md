@@ -1,1 +1,0 @@
-{"tmdb_id": 225096, "title": "Soulfish 2", "original_title": "Soulfish 2", "slug_title": "soulfish-2", "date": "2013-09-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5Q4CDkWyiLhgCUSm76ZW9V3DGKs.jpg", "actors": [], "comments": [], "recommandations_id": []}

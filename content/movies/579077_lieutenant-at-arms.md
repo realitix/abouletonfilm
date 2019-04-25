@@ -1,1 +1,0 @@
-{"tmdb_id": 579077, "title": "Lieutenant at Arms", "original_title": "Lieutenant at Arms", "slug_title": "lieutenant-at-arms", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uR0XXBGkZsYhFHvDz70XeydBqsY.jpg", "actors": [], "comments": [], "recommandations_id": []}

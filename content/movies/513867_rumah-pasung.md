@@ -1,1 +1,0 @@
-{"tmdb_id": 513867, "title": "Rumah Pasung", "original_title": "Rumah Pasung", "slug_title": "rumah-pasung", "date": "2016-04-28", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qdl2V0M8c1fAEd6LTjIhDgZWanK.jpg", "actors": ["Stefan William ()", "Natasha Wilona ()"], "comments": [], "recommandations_id": []}

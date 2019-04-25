@@ -1,1 +1,0 @@
-{"tmdb_id": 199403, "title": "TNA Slammiversary 2013", "original_title": "TNA Slammiversary 2013", "slug_title": "tna-slammiversary-2013", "date": "2013-06-02", "genre": "", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oKQjFADbY8tkgBlmVBmyG0iGc8h.jpg", "actors": [], "comments": [], "recommandations_id": []}

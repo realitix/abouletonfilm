@@ -1,1 +1,0 @@
-{"tmdb_id": 309578, "title": "Poncho Sanchez: A Night at Kimball's East", "original_title": "Poncho Sanchez: A Night at Kimball's East", "slug_title": "poncho-sanchez-a-night-at-kimball-s-east", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

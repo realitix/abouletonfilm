@@ -1,1 +1,0 @@
-{"tmdb_id": 475116, "title": "The Spirit of a Culture: Cane River Creoles", "original_title": "The Spirit of a Culture: Cane River Creoles", "slug_title": "the-spirit-of-a-culture-cane-river-creoles", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 202777, "title": "Peace in the Fields", "original_title": "Paix sur les champs", "slug_title": "peace-in-the-fields", "date": "1970-06-22", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gdlwYJ7wwPug77jeFlI3WlIOlR4.jpg", "actors": [], "comments": [], "recommandations_id": []}

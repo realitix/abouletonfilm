@@ -1,1 +1,0 @@
-{"tmdb_id": 196619, "title": "At the Crossroads of Life", "original_title": "At the Crossroads of Life", "slug_title": "at-the-crossroads-of-life", "date": "1908-07-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["D.W. Griffith (Suitor)", "Robert Harron (Messenger)"], "comments": [], "recommandations_id": []}

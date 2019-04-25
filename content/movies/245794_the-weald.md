@@ -1,1 +1,0 @@
-{"tmdb_id": 245794, "title": "The Weald", "original_title": "Somaudo monogatari", "slug_title": "the-weald", "date": "1997-10-01", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/klMbJJFmRSUjjonDk5kAipeS7Qu.jpg", "actors": [], "comments": [], "recommandations_id": []}

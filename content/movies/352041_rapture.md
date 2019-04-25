@@ -1,1 +1,0 @@
-{"tmdb_id": 352041, "title": "Rapture", "original_title": "Rapture", "slug_title": "rapture", "date": "2012-12-12", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Blair Besten (Teri)", "Dagmar Edwards (Petra)", "Blane Wheatley (Rob)"], "comments": [], "recommandations_id": []}

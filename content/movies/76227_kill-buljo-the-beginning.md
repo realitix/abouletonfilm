@@ -1,1 +1,0 @@
-{"tmdb_id": 76227, "title": "Kill Buljo - The beginning", "original_title": "Kill Buljo - The beginning", "slug_title": "kill-buljo-the-beginning", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

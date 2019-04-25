@@ -1,1 +1,0 @@
-{"tmdb_id": 271547, "title": "Legend of the Drunken Tiger", "original_title": "Legend of the Drunken Tiger", "slug_title": "legend-of-the-drunken-tiger", "date": "1990-01-01", "genre": "", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hTQuAUY4t6fgDsJXywv3T5nDDUP.jpg", "actors": [], "comments": [], "recommandations_id": []}

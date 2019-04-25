@@ -1,1 +1,0 @@
-{"tmdb_id": 568787, "title": "P.W. \u2013 Paintbrushes and Panels", "original_title": "P.W. \u2013 Pinc\u00e9is e Pain\u00e9is", "slug_title": "p-w-paintbrushes-and-panels", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

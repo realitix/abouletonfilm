@@ -1,1 +1,0 @@
-{"tmdb_id": 247891, "title": "End of the Rainbow", "original_title": "End of the Rainbow", "slug_title": "end-of-the-rainbow", "date": "2007-11-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

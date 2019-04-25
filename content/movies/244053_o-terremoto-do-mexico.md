@@ -1,1 +1,0 @@
-{"tmdb_id": 244053, "title": "O terremoto do M\u00e9xico", "original_title": "O terremoto do M\u00e9xico", "slug_title": "o-terremoto-do-mexico", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

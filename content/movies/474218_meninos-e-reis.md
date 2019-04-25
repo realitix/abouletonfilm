@@ -1,1 +1,0 @@
-{"tmdb_id": 474218, "title": "Meninos e reis", "original_title": "Meninos e reis", "slug_title": "meninos-e-reis", "date": "2016-09-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zXoq0ftDKnWr0eodnq28na1RLG1.jpg", "actors": [], "comments": [], "recommandations_id": []}

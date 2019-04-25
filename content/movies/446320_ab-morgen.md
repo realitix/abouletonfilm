@@ -1,1 +1,0 @@
-{"tmdb_id": 446320, "title": "Ab Morgen", "original_title": "Ab Morgen", "slug_title": "ab-morgen", "date": "2011-01-20", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Helmfried von L\u00fcttichau (Boro)", "Anno Koehler (Christoph)"], "comments": [], "recommandations_id": []}

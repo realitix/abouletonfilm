@@ -1,1 +1,0 @@
-{"tmdb_id": 594220, "title": "Piuccheperfetto", "original_title": "Piuccheperfetto", "slug_title": "piuccheperfetto", "date": "2019-04-09", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

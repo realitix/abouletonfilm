@@ -1,1 +1,0 @@
-{"tmdb_id": 470948, "title": "The Victims of the East Wind", "original_title": "Os Flagelados do Vento Leste", "slug_title": "the-victims-of-the-east-wind", "date": "1988-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Carlos Alhinho ()", "Arciolinda Almeida ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 536141, "title": "Occult Angel", "original_title": "Occult Angel", "slug_title": "occult-angel", "date": "2018-06-21", "genre": "", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e4ITWwaT6FM4XcLroxYCzCThlj.jpg", "actors": [], "comments": [], "recommandations_id": []}

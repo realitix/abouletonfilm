@@ -1,1 +1,0 @@
-{"tmdb_id": 276788, "title": "When the Applause Died", "original_title": "When the Applause Died", "slug_title": "when-the-applause-died", "date": "1990-05-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pa15JT97F1Cdeps5Dow0qjv3Izd.jpg", "actors": [], "comments": [], "recommandations_id": []}

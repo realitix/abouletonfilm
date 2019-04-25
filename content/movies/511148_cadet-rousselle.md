@@ -1,1 +1,0 @@
-{"tmdb_id": 511148, "title": "Cadet Rousselle", "original_title": "Cadet Rousselle", "slug_title": "cadet-rousselle", "date": "1947-01-01", "genre": "Animation / Musique", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dyQsfRIXj3IIWrZufNZu16jmyly.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 538812, "title": "Ghantaa", "original_title": "Ghantaa", "slug_title": "ghantaa", "date": "2016-10-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qQ0659Kt0moD4kZLqmCFPYc0Odw.jpg", "actors": ["Amey Wagh ()", "Saksham Kulkarni ()"], "comments": [], "recommandations_id": []}

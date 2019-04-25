@@ -1,1 +1,0 @@
-{"tmdb_id": 502835, "title": "Il giorno della rivoluzione", "original_title": "Il giorno della rivoluzione", "slug_title": "il-giorno-della-rivoluzione", "date": "1994-02-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

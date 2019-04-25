@@ -1,1 +1,0 @@
-{"tmdb_id": 550234, "title": "Pressure", "original_title": "Pressure", "slug_title": "pressure", "date": "2017-11-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 84683, "title": "The Letter", "original_title": "Pismo", "slug_title": "the-letter", "date": "1970-01-01", "genre": "Animation", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/h2r4G4Eqf5bc7Cf3JewZpoG6uSk.jpg", "actors": [], "comments": [], "recommandations_id": []}

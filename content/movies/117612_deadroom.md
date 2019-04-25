@@ -1,1 +1,0 @@
-{"tmdb_id": 117612, "title": "Deadroom", "original_title": "Deadroom", "slug_title": "deadroom", "date": "2005-03-16", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Harry Goaz (Layton)", "Grant James (Percy)", "Bill Sebastian (Tim)", "Paul T. Taylor (Trevor)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 300558, "title": "Associated", "original_title": "Associated", "slug_title": "associated", "date": "2006-11-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

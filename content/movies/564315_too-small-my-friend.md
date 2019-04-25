@@ -1,1 +1,0 @@
-{"tmdb_id": 564315, "title": "Too Small My Friend", "original_title": "Trop petit mon ami", "slug_title": "too-small-my-friend", "date": "1970-09-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aA7B6TCjHOlpjZhbpfpJhIRF74R.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 563812, "title": "Only the Lonely", "original_title": "Only the Lonely", "slug_title": "only-the-lonely", "date": "2018-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

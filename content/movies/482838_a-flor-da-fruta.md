@@ -1,1 +1,0 @@
-{"tmdb_id": 482838, "title": "A Flor da Fruta", "original_title": "A Flor da Fruta", "slug_title": "a-flor-da-fruta", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

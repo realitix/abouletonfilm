@@ -1,1 +1,0 @@
-{"tmdb_id": 318516, "title": "Nepal, in the Mountain's Shadow", "original_title": "Nepal, in the Mountain's Shadow", "slug_title": "nepal-in-the-mountain-s-shadow", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

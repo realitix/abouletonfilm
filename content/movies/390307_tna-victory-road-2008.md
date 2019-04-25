@@ -1,1 +1,0 @@
-{"tmdb_id": 390307, "title": "TNA Victory Road 2008", "original_title": "TNA Victory Road 2008", "slug_title": "tna-victory-road-2008", "date": "2008-07-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jcEwv6vtAqtM1kOXgjRDJa6QDfM.jpg", "actors": [], "comments": [], "recommandations_id": []}

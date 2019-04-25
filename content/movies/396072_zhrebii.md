@@ -1,1 +1,0 @@
-{"tmdb_id": 396072, "title": "\u0416\u0440\u0435\u0431\u0438\u0439", "original_title": "\u0416\u0440\u0435\u0431\u0438\u0439", "slug_title": "zhrebii", "date": "1974-06-06", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/suJPq930GKNviwtLtaxwPR4lldT.jpg", "actors": [], "comments": [], "recommandations_id": []}

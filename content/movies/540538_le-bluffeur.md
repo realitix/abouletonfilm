@@ -1,1 +1,0 @@
-{"tmdb_id": 540538, "title": "Le bluffeur", "original_title": "Le bluffeur", "slug_title": "le-bluffeur", "date": "1932-11-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

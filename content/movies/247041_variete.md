@@ -1,1 +1,0 @@
-{"tmdb_id": 247041, "title": "Variete", "original_title": "Variete", "slug_title": "variete", "date": "2009-09-22", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mgDxtzGWivFQGCTiUinjQvCZLty.jpg", "actors": [], "comments": [], "recommandations_id": []}

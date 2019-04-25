@@ -1,1 +1,0 @@
-{"tmdb_id": 587386, "title": "The Pretender", "original_title": "The Pretender", "slug_title": "the-pretender", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

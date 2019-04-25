@@ -1,1 +1,0 @@
-{"tmdb_id": 574229, "title": "YouShoot: The Iron Sheik", "original_title": "YouShoot: The Iron Sheik", "slug_title": "youshoot-the-iron-sheik", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sean Oliver (Himself)", "Khosrow Vaziri (Himself)"], "comments": [], "recommandations_id": []}

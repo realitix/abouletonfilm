@@ -1,1 +1,0 @@
-{"tmdb_id": 236240, "title": "Yip-Yip-Yippy", "original_title": "Yip-Yip-Yippy", "slug_title": "yip-yip-yippy", "date": "1939-08-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 312354, "title": "Get Active with Stinky Shoe and Coach Laroo", "original_title": "Get Active with Stinky Shoe and Coach Laroo", "slug_title": "get-active-with-stinky-shoe-and-coach-laroo", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

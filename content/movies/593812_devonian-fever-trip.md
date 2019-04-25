@@ -1,1 +1,0 @@
-{"tmdb_id": 593812, "title": "Devonian Fever Trip", "original_title": "Devonsk Febertokt", "slug_title": "devonian-fever-trip", "date": "2019-03-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6KINmjG3FlWmpLF2FcUC9Apcfsc.jpg", "actors": ["Anders Elsrud Hultgreen (voice)"], "comments": [], "recommandations_id": []}

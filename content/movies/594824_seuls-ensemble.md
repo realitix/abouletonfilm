@@ -1,1 +1,0 @@
-{"tmdb_id": 594824, "title": "Seuls, ensemble", "original_title": "Seuls, ensemble", "slug_title": "seuls-ensemble", "date": "2016-01-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5tIvyHsxonIDbMkacvOiXx2cxPq.jpg", "actors": [], "comments": [], "recommandations_id": []}

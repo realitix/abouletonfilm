@@ -1,1 +1,0 @@
-{"tmdb_id": 388099, "title": "P\u00e5 tur med Lars Monsen", "original_title": "P\u00e5 tur med Lars Monsen", "slug_title": "pa-tur-med-lars-monsen", "date": "2005-03-06", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/une2I35PicuroDmp909CXb9A0WW.jpg", "actors": ["Lars Monsen ()"], "comments": [], "recommandations_id": []}

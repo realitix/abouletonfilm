@@ -1,1 +1,0 @@
-{"tmdb_id": 350389, "title": "\uaf43\ubc2d\uc5d0 \ub098\ube44", "original_title": "\uaf43\ubc2d\uc5d0 \ub098\ube44", "slug_title": "ggocbate-nabi", "date": "1979-12-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

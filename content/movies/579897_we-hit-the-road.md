@@ -1,1 +1,0 @@
-{"tmdb_id": 579897, "title": "We Hit The Road", "original_title": "Yollara D\u00fc\u015ft\u00fck", "slug_title": "we-hit-the-road", "date": "2014-10-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xbuTn9KOJneUj95LlmY4KIOaikP.jpg", "actors": [], "comments": [], "recommandations_id": []}

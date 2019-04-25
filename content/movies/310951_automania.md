@@ -1,1 +1,0 @@
-{"tmdb_id": 310951, "title": "Automania", "original_title": "Automania", "slug_title": "automania", "date": "1994-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bernard Carez ()", "Jocelyne Goyette ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 260281, "title": "Banaras Me", "original_title": "Banaras Me", "slug_title": "banaras-me", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

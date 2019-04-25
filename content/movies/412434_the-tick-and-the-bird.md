@@ -1,1 +1,0 @@
-{"tmdb_id": 412434, "title": "The tick and the bird", "original_title": "The tick and the bird", "slug_title": "the-tick-and-the-bird", "date": "2002-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vmOxnhK01YL7hYApJaIaD7OOR0x.jpg", "actors": [], "comments": [], "recommandations_id": []}

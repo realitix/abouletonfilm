@@ -1,1 +1,0 @@
-{"tmdb_id": 355634, "title": "An Intimate Dance", "original_title": "An Intimate Dance", "slug_title": "an-intimate-dance", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aDNdGerwqqsi5AkN0H3V8gAD7TA.jpg", "actors": [], "comments": [], "recommandations_id": []}

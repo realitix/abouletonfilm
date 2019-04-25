@@ -1,1 +1,0 @@
-{"tmdb_id": 450817, "title": "ONE Championship 48: State of Warriors", "original_title": "ONE Championship 48: State of Warriors", "slug_title": "one-championship-48-state-of-warriors", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

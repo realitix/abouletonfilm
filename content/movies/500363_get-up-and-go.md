@@ -1,1 +1,0 @@
-{"tmdb_id": 500363, "title": "Get Up and Go", "original_title": "Get Up and Go", "slug_title": "get-up-and-go", "date": "2017-06-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

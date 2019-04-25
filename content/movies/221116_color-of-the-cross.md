@@ -1,1 +1,0 @@
-{"tmdb_id": 221116, "title": "Color of the Cross", "original_title": "Color of the Cross", "slug_title": "color-of-the-cross", "date": "2006-11-09", "genre": "", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kylwOVexVQp6sm03CGamHiUB8Uy.jpg", "actors": ["Jean-Claude La Marre (Jesus Christ)"], "comments": [], "recommandations_id": []}

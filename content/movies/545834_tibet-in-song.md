@@ -1,1 +1,0 @@
-{"tmdb_id": 545834, "title": "Tibet in Song", "original_title": "Tibet in Song", "slug_title": "tibet-in-song", "date": "2009-09-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jj35GIGHDVmocsHGFcc8OZmshdX.jpg", "actors": [], "comments": [], "recommandations_id": []}

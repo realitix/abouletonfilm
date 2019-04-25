@@ -1,1 +1,0 @@
-{"tmdb_id": 257542, "title": "The Obedient Flame", "original_title": "The Obedient Flame", "slug_title": "the-obedient-flame", "date": "1939-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/faLbnm1V0w9ibkmi70igoqy3yY4.jpg", "actors": [], "comments": [], "recommandations_id": []}

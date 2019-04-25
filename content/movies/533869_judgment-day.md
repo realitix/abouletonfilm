@@ -1,1 +1,0 @@
-{"tmdb_id": 533869, "title": "Judgment Day", "original_title": "Judgment Day", "slug_title": "judgment-day", "date": "2013-04-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/66Qk0LRANl1kfdu8RooDsc7Qhnq.jpg", "actors": [], "comments": [], "recommandations_id": []}

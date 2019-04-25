@@ -1,1 +1,0 @@
-{"tmdb_id": 310638, "title": "In the City: In Barcelona", "original_title": "In the City: In Barcelona", "slug_title": "in-the-city-in-barcelona", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

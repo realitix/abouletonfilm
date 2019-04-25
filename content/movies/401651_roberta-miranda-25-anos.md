@@ -1,1 +1,0 @@
-{"tmdb_id": 401651, "title": "Roberta Miranda - 25 anos", "original_title": "Roberta Miranda - 25 anos", "slug_title": "roberta-miranda-25-anos", "date": "2013-06-05", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qh5BEcNRiYBkoskAJVqsxSdJEED.jpg", "actors": [], "comments": [], "recommandations_id": []}

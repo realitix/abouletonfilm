@@ -1,1 +1,0 @@
-{"tmdb_id": 195854, "title": "Living with Tigers", "original_title": "Living with Tigers", "slug_title": "living-with-tigers", "date": "2003-09-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qF0DYq5T9PLiyOhOjphNB04oVQV.jpg", "actors": [], "comments": [], "recommandations_id": []}

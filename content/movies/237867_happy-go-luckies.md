@@ -1,1 +1,0 @@
-{"tmdb_id": 237867, "title": "Happy-Go-Luckies", "original_title": "Happy-Go-Luckies", "slug_title": "happy-go-luckies", "date": "1923-11-23", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gsl0BBUL72cCYSeOYEnuaFQPtEr.jpg", "actors": [], "comments": [], "recommandations_id": []}

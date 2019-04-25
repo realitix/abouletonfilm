@@ -1,1 +1,0 @@
-{"tmdb_id": 556026, "title": "A Ilha dos Mortos", "original_title": "A Ilha dos Mortos", "slug_title": "a-ilha-dos-mortos", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

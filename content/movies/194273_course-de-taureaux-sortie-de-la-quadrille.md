@@ -1,1 +1,0 @@
-{"tmdb_id": 194273, "title": "Course de taureaux, sortie de la quadrille", "original_title": "Course de taureaux, sortie de la quadrille", "slug_title": "course-de-taureaux-sortie-de-la-quadrille", "date": "1898-05-17", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

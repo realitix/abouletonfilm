@@ -1,1 +1,0 @@
-{"tmdb_id": 313870, "title": "Hiding in the Lights", "original_title": "Hiding in the Lights", "slug_title": "hiding-in-the-lights", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

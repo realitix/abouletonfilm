@@ -1,1 +1,0 @@
-{"tmdb_id": 293892, "title": "The Red Kebaya", "original_title": "The Red Kebaya", "slug_title": "the-red-kebaya", "date": "2006-11-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Am11RCvInuWdIKptiZt4U4HFPcH.jpg", "actors": [], "comments": [], "recommandations_id": []}

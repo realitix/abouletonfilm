@@ -1,1 +1,0 @@
-{"tmdb_id": 387235, "title": "Modern Tokyo", "original_title": "Modern Tokyo", "slug_title": "modern-tokyo", "date": "1935-12-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["James A. FitzPatrick (Narrator (uncredited))"], "comments": [], "recommandations_id": []}

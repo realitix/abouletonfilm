@@ -1,1 +1,0 @@
-{"tmdb_id": 283833, "title": "WEC 04: Rumble Under the Sun", "original_title": "WEC 04: Rumble Under the Sun", "slug_title": "wec-04-rumble-under-the-sun", "date": "2002-08-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

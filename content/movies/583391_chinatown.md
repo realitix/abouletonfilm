@@ -1,1 +1,0 @@
-{"tmdb_id": 583391, "title": "Chinatown", "original_title": "Chinatown", "slug_title": "chinatown", "date": "2016-10-31", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6MxqFMiCVksLvIwaAKHddYuwI8C.jpg", "actors": ["Mani Soleymanlou ()", "Beno\u00eet Gouin ()"], "comments": [], "recommandations_id": []}

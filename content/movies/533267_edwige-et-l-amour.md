@@ -1,1 +1,0 @@
-{"tmdb_id": 533267, "title": "Edwige et l'amour", "original_title": "Edwige et l'amour", "slug_title": "edwige-et-l-amour", "date": "1986-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Odile Fr\u00e9deval (Edwige)", "Jean de Coninck (Dunois)", "Gilles Gaston-Dreyfus (Patrick)"], "comments": [], "recommandations_id": []}

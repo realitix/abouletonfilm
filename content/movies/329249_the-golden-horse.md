@@ -1,1 +1,0 @@
-{"tmdb_id": 329249, "title": "The Golden Horse", "original_title": "Zelta Zirgs", "slug_title": "the-golden-horse", "date": "2014-08-27", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/unVeU6Ll2T7ZOTel74zTlomI2GD.jpg", "actors": [], "comments": [], "recommandations_id": []}

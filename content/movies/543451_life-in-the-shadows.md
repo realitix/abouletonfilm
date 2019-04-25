@@ -1,1 +1,0 @@
-{"tmdb_id": 543451, "title": "Life in the Shadows", "original_title": "Life in the Shadows", "slug_title": "life-in-the-shadows", "date": "2018-08-13", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6UfzhSzfKZsKrAnPm8Jn47RtFGu.jpg", "actors": [], "comments": [], "recommandations_id": []}

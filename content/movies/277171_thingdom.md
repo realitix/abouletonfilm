@@ -1,1 +1,0 @@
-{"tmdb_id": 277171, "title": "Thingdom", "original_title": "Thingdom", "slug_title": "thingdom", "date": "2015-01-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sgMJ4ORYsAiXzUn9PHdCn9HRCFc.jpg", "actors": ["Ruben Albarran ()", "Javier Lacroix ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 568473, "title": "Blanc de Chine", "original_title": "Blanc de Chine", "slug_title": "blanc-de-chine", "date": "1988-04-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uQPjT4sidNQZnk8QQ4S64PPPLSV.jpg", "actors": [], "comments": [], "recommandations_id": []}

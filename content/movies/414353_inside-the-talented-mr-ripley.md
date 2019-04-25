@@ -1,1 +1,0 @@
-{"tmdb_id": 414353, "title": "Inside 'The Talented Mr. Ripley'", "original_title": "Inside 'The Talented Mr. Ripley'", "slug_title": "inside-the-talented-mr-ripley", "date": "2000-06-27", "genre": "", "score": "4.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

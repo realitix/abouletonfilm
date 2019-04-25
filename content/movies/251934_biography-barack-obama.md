@@ -1,1 +1,0 @@
-{"tmdb_id": 251934, "title": "Biography - Barack Obama", "original_title": "Biography - Barack Obama", "slug_title": "biography-barack-obama", "date": "2007-11-30", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Barack Obama (Himself)"], "comments": [], "recommandations_id": []}

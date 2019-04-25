@@ -1,1 +1,0 @@
-{"tmdb_id": 190735, "title": "The Suburbanite", "original_title": "The Suburbanite", "slug_title": "the-suburbanite", "date": "1904-11-12", "genre": "Com\u00e9die", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rUbYobkk4UjwSuDwEBH469QBpbK.jpg", "actors": [], "comments": [], "recommandations_id": []}

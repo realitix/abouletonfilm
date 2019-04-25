@@ -1,1 +1,0 @@
-{"tmdb_id": 426922, "title": "Les bains de la jet\u00e9e des p\u00e2quis", "original_title": "Les bains de la jet\u00e9e des p\u00e2quis", "slug_title": "les-bains-de-la-jetee-des-paquis", "date": "1896-11-20", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

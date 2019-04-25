@@ -1,1 +1,0 @@
-{"tmdb_id": 455850, "title": "A Imagem da M\u00fasica", "original_title": "A Imagem da M\u00fasica", "slug_title": "a-imagem-da-musica", "date": "2017-05-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fOF8wS2Oq8g2v3eRZDynW4gqZ0y.jpg", "actors": [], "comments": [], "recommandations_id": []}

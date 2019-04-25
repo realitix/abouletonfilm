@@ -1,1 +1,0 @@
-{"tmdb_id": 235972, "title": "Bulldozing the Bull", "original_title": "Bulldozing the Bull", "slug_title": "bulldozing-the-bull", "date": "1951-03-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

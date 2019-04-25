@@ -1,1 +1,0 @@
-{"tmdb_id": 556764, "title": "Cat Days (Neko No Hi)", "original_title": "Cat Days (Neko No Hi)", "slug_title": "cat-days-neko-no-hi", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

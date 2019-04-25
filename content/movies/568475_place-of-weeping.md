@@ -1,1 +1,0 @@
-{"tmdb_id": 568475, "title": "Place of Weeping", "original_title": "Place of Weeping", "slug_title": "place-of-weeping", "date": "1986-12-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

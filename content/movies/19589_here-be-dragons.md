@@ -1,1 +1,0 @@
-{"tmdb_id": 19589, "title": "Here Be Dragons", "original_title": "Here Be Dragons", "slug_title": "here-be-dragons", "date": "2008-06-01", "genre": "Documentaire", "score": "4.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y8kk9I68L8NDwk6Cpw3ysCuLvDn.jpg", "actors": ["Brian Dunning (Narrator)"], "comments": [], "recommandations_id": []}

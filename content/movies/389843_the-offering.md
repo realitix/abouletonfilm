@@ -1,1 +1,0 @@
-{"tmdb_id": 389843, "title": "The Offering", "original_title": "The Offering", "slug_title": "the-offering", "date": "1997-01-01", "genre": "", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/f8ObszMZ6TUrQCDypvmtBQx3pR6.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 272985, "title": "Losers of the Year", "original_title": "Losers of the Year", "slug_title": "losers-of-the-year", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

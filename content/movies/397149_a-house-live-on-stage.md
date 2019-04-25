@@ -1,1 +1,0 @@
-{"tmdb_id": 397149, "title": "A House - Live on Stage", "original_title": "A House - Live on Stage", "slug_title": "a-house-live-on-stage", "date": "1992-01-01", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s4gzTY1s5BTfqS1bWoyeglbnKFL.jpg", "actors": [], "comments": [], "recommandations_id": []}

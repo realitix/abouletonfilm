@@ -1,1 +1,0 @@
-{"tmdb_id": 592680, "title": "Cowboy & Indiana", "original_title": "Cowboy & Indiana", "slug_title": "cowboy-indiana", "date": "2018-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kpSgDepI9oeHjFUzMsSt4ihectM.jpg", "actors": [], "comments": [], "recommandations_id": []}

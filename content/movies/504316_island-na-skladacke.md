@@ -1,1 +1,0 @@
-{"tmdb_id": 504316, "title": "Island na sklada\u010dke", "original_title": "Island na sklada\u010dke", "slug_title": "island-na-skladacke", "date": "2014-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hTqWu84nmnoPiuFt1KjIru03puq.jpg", "actors": [], "comments": [], "recommandations_id": []}

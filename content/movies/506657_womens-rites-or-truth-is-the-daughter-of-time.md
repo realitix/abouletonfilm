@@ -1,1 +1,0 @@
-{"tmdb_id": 506657, "title": "Women\u2019s Rites or Truth is the Daughter of Time", "original_title": "Women\u2019s Rites or Truth is the Daughter of Time", "slug_title": "womens-rites-or-truth-is-the-daughter-of-time", "date": "1974-02-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

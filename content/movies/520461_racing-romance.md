@@ -1,1 +1,0 @@
-{"tmdb_id": 520461, "title": "Racing Romance", "original_title": "Racing Romance", "slug_title": "racing-romance", "date": "1938-04-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bruce Seton (Harry Stone)", "Marjorie Taylor (Peggy Lanstone)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 509465, "title": "130 Year Road Trip", "original_title": "130 Year Road Trip", "slug_title": "130-year-road-trip", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eNsHaLceoGRj3kJ7V3Ijbr2ZVJW.jpg", "actors": [], "comments": [], "recommandations_id": []}

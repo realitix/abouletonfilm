@@ -1,1 +1,0 @@
-{"tmdb_id": 344827, "title": "The Question", "original_title": "The Question", "slug_title": "the-question", "date": "2012-09-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

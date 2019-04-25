@@ -1,1 +1,0 @@
-{"tmdb_id": 393510, "title": "The Life of Death", "original_title": "The Life of Death", "slug_title": "the-life-of-death", "date": "2012-07-01", "genre": "Animation", "score": "6.1/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bimqRwp7h4kUeCuCtoBDPQYtEWi.jpg", "actors": [], "comments": [], "recommandations_id": [243131]}

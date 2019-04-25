@@ -1,1 +1,0 @@
-{"tmdb_id": 354338, "title": "Kingdom Of Jorocho", "original_title": "Kingdom Of Jorocho", "slug_title": "kingdom-of-jorocho", "date": "1963-10-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rEMBpE0Hrxmk2ipmzO44Y2F3GQF.jpg", "actors": [], "comments": [], "recommandations_id": []}

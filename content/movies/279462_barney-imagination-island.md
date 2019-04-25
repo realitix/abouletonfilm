@@ -1,1 +1,0 @@
-{"tmdb_id": 279462, "title": "Barney: Imagination Island", "original_title": "Barney: Imagination Island", "slug_title": "barney-imagination-island", "date": "1994-10-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l9ghC8ldy9bSyLarYTOpaExJRuH.jpg", "actors": [], "comments": [], "recommandations_id": []}

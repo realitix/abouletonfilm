@@ -1,1 +1,0 @@
-{"tmdb_id": 275430, "title": "A Worm in the Apple", "original_title": "A Worm in the Apple", "slug_title": "a-worm-in-the-apple", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

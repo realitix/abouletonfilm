@@ -1,1 +1,1 @@
-{"tmdb_id": 356104, "title": "Descubramos", "original_title": "Descubramos", "slug_title": "descubramos", "date": "", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 356104, "title": "Descubramos", "original_title": "Descubramos", "slug_title": "descubramos", "date": "", "genre": ["Animation"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

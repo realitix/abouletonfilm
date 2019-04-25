@@ -1,1 +1,0 @@
-{"tmdb_id": 305073, "title": "Sasha Benny Erik: Primera Fila", "original_title": "Sasha Benny Erik: Primera Fila", "slug_title": "sasha-benny-erik-primera-fila", "date": "2012-11-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

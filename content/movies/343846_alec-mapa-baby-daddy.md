@@ -1,1 +1,0 @@
-{"tmdb_id": 343846, "title": "Alec Mapa: Baby Daddy", "original_title": "Alec Mapa: Baby Daddy", "slug_title": "alec-mapa-baby-daddy", "date": "2014-03-15", "genre": "", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5fEERQE3iRggwd4iU29C9MOpVBJ.jpg", "actors": ["Alec Mapa (Himself)"], "comments": [], "recommandations_id": []}

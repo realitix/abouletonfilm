@@ -1,1 +1,0 @@
-{"tmdb_id": 582151, "title": "Compartment", "original_title": "Compartment", "slug_title": "compartment", "date": "1990-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dRU4GC50bqtjJUBf4RyqnHysOxd.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 218362, "title": "Guide Dog", "original_title": "Guide Dog", "slug_title": "guide-dog", "date": "2006-03-30", "genre": "Com\u00e9die / Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zrDwxpaUqfIbpZ36Zd5LiAiZ2Pf.jpg", "actors": [], "comments": [], "recommandations_id": []}

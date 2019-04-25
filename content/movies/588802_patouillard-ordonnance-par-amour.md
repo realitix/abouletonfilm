@@ -1,1 +1,0 @@
-{"tmdb_id": 588802, "title": "Patouillard ordonnance par amour", "original_title": "Patouillard ordonnance par amour", "slug_title": "patouillard-ordonnance-par-amour", "date": "1911-03-17", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Paul Bertho (Patouillard)"], "comments": [], "recommandations_id": []}

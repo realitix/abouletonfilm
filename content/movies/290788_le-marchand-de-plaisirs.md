@@ -1,1 +1,0 @@
-{"tmdb_id": 290788, "title": "Le marchand de plaisirs", "original_title": "Le marchand de plaisirs", "slug_title": "le-marchand-de-plaisirs", "date": "1923-04-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

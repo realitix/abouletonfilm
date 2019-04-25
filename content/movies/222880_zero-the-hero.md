@@ -1,1 +1,0 @@
-{"tmdb_id": 222880, "title": "Zero the Hero", "original_title": "Zero the Hero", "slug_title": "zero-the-hero", "date": "1954-03-25", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

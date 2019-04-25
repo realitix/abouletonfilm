@@ -1,1 +1,0 @@
-{"tmdb_id": 434324, "title": "Song Sing Chart Ai Sur - 1991", "original_title": "Song Sing Chart Ai Sur - 1991", "slug_title": "song-sing-chart-ai-sur-1991", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

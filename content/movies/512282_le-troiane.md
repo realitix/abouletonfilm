@@ -1,1 +1,0 @@
-{"tmdb_id": 512282, "title": "Le troiane", "original_title": "Le troiane", "slug_title": "le-troiane", "date": "1967-02-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

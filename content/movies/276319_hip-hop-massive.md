@@ -1,1 +1,0 @@
-{"tmdb_id": 276319, "title": "Hip Hop Massive", "original_title": "Hip Hop Massive", "slug_title": "hip-hop-massive", "date": "2007-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

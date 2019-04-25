@@ -1,1 +1,0 @@
-{"tmdb_id": 324702, "title": "Zandkasteel Dat Lust Ik Niet", "original_title": "Zandkasteel Dat Lust Ik Niet", "slug_title": "zandkasteel-dat-lust-ik-niet", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6IQg4P1HT13hDrPpLkV5HRs83eZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

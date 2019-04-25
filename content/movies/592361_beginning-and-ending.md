@@ -1,1 +1,0 @@
-{"tmdb_id": 592361, "title": "Beginning and Ending", "original_title": "Beginning and Ending", "slug_title": "beginning-and-ending", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bdGHs4ubCsYxaTECPzZYswdTrWN.jpg", "actors": [], "comments": [], "recommandations_id": []}

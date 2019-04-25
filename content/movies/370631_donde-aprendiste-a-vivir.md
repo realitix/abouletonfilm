@@ -1,1 +1,0 @@
-{"tmdb_id": 370631, "title": "Donde aprendiste a vivir", "original_title": "Donde aprendiste a vivir", "slug_title": "donde-aprendiste-a-vivir", "date": "2008-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

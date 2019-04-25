@@ -1,1 +1,0 @@
-{"tmdb_id": 533330, "title": "The Hole", "original_title": "The Hole", "slug_title": "the-hole", "date": "2004-11-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

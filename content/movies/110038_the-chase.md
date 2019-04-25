@@ -1,1 +1,0 @@
-{"tmdb_id": 110038, "title": "The Chase", "original_title": "The Chase", "slug_title": "the-chase", "date": "2012-02-20", "genre": "Animation", "score": "5.1/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9AIHM4aRne9HY5xPAm23Aq092lM.jpg", "actors": [], "comments": [], "recommandations_id": []}

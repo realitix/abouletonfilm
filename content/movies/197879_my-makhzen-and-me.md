@@ -1,1 +1,0 @@
-{"tmdb_id": 197879, "title": "My Makhzen and Me", "original_title": "My Makhzen and Me", "slug_title": "my-makhzen-and-me", "date": "2012-02-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

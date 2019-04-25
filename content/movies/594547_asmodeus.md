@@ -1,1 +1,0 @@
-{"tmdb_id": 594547, "title": "Asmodeus", "original_title": "Asmodeus", "slug_title": "asmodeus", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Joanna Koss (Maria)"], "comments": [], "recommandations_id": []}

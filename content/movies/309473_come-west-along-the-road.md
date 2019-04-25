@@ -1,1 +1,0 @@
-{"tmdb_id": 309473, "title": "Come West Along the Road", "original_title": "Come West Along the Road", "slug_title": "come-west-along-the-road", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 400706, "title": "Chhota Bheem Himalayan Adventure", "original_title": "Chhota Bheem Himalayan Adventure", "slug_title": "chhota-bheem-himalayan-adventure", "date": "2016-01-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

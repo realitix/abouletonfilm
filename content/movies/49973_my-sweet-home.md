@@ -1,1 +1,0 @@
-{"tmdb_id": 49973, "title": "My Sweet Home", "original_title": "My Sweet Home", "slug_title": "my-sweet-home", "date": "2001-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8JouDRNpt5MjiAGNRnyvoqgRIj4.jpg", "actors": [], "comments": [], "recommandations_id": []}

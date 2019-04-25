@@ -1,1 +1,0 @@
-{"tmdb_id": 572682, "title": "The Numismatist", "original_title": "The Numismatist", "slug_title": "the-numismatist", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jim Byrne (Robert)"], "comments": [], "recommandations_id": []}

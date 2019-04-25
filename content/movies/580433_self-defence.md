@@ -1,1 +1,0 @@
-{"tmdb_id": 580433, "title": "Self-Defence", "original_title": "Self-Defence", "slug_title": "self-defence", "date": "1916-09-25", "genre": "Documentaire / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

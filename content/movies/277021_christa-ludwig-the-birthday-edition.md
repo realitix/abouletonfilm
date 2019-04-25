@@ -1,1 +1,0 @@
-{"tmdb_id": 277021, "title": "Christa Ludwig: The Birthday Edition", "original_title": "Christa Ludwig: The Birthday Edition", "slug_title": "christa-ludwig-the-birthday-edition", "date": "1999-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

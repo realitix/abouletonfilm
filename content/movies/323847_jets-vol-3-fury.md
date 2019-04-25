@@ -1,1 +1,0 @@
-{"tmdb_id": 323847, "title": "Jets: Vol. 3: Fury", "original_title": "Jets: Vol. 3: Fury", "slug_title": "jets-vol-3-fury", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

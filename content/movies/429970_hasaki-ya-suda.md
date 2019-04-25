@@ -1,1 +1,0 @@
-{"tmdb_id": 429970, "title": "Hasaki Ya Suda", "original_title": "Hasaki Ya Suda", "slug_title": "hasaki-ya-suda", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oPLFvQCnJnH9h0iYofK0G8d41Ko.jpg", "actors": [], "comments": [], "recommandations_id": []}

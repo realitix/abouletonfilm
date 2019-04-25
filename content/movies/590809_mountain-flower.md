@@ -1,1 +1,0 @@
-{"tmdb_id": 590809, "title": "Mountain Flower", "original_title": "Mountain Flower", "slug_title": "mountain-flower", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 236477, "title": "My Pop, My Pop", "original_title": "My Pop, My Pop", "slug_title": "my-pop-my-pop", "date": "1940-10-17", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3NCHlCwLwz8g4f30sfdkHI8pt6T.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 554249, "title": "Girls Are Better Than Ever", "original_title": "Girls Are Better Than Ever", "slug_title": "girls-are-better-than-ever", "date": "1967-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

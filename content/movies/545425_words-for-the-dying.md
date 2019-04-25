@@ -1,1 +1,0 @@
-{"tmdb_id": 545425, "title": "Words for the Dying", "original_title": "Words for the Dying", "slug_title": "words-for-the-dying", "date": "1993-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["John Cale (Himself)", "Brian Eno (Himself)"], "comments": [], "recommandations_id": []}

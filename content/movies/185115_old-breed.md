@@ -1,1 +1,0 @@
-{"tmdb_id": 185115, "title": "Old Breed", "original_title": "Old Breed", "slug_title": "old-breed", "date": "2001-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

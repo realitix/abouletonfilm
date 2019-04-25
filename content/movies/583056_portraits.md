@@ -1,1 +1,0 @@
-{"tmdb_id": 583056, "title": "Portraits", "original_title": "Retratos", "slug_title": "portraits", "date": "1974-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ad93qICdRcdvwQ41kVcTj8PFRG0.jpg", "actors": [], "comments": [], "recommandations_id": []}

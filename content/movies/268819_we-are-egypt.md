@@ -1,1 +1,0 @@
-{"tmdb_id": 268819, "title": "We Are Egypt", "original_title": "We Are Egypt", "slug_title": "we-are-egypt", "date": "2012-08-10", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qZuXa1f17Eo8jWixiS2kFSzBDXV.jpg", "actors": [], "comments": [], "recommandations_id": []}

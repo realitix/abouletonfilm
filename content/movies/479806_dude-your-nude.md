@@ -1,1 +1,0 @@
-{"tmdb_id": 479806, "title": "Dude, Your Nude", "original_title": "Dude, Your Nude", "slug_title": "dude-your-nude", "date": "2017-06-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Noah Jones ()", "Jay Austin ()"], "comments": [], "recommandations_id": []}

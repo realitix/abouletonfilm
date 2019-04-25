@@ -1,1 +1,0 @@
-{"tmdb_id": 533802, "title": "Le pi\u00e8ge \u00e0 cons", "original_title": "Le pi\u00e8ge \u00e0 cons", "slug_title": "le-piege-a-cons", "date": "1979-10-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mK1xCr21zgsUSvZuw7FzEa03pID.jpg", "actors": [], "comments": [], "recommandations_id": []}

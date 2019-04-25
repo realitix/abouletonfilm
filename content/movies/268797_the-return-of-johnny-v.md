@@ -1,1 +1,0 @@
-{"tmdb_id": 268797, "title": "The Return of Johnny V.", "original_title": "The Return of Johnny V.", "slug_title": "the-return-of-johnny-v", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/umBpdLo8deZn3vs7VKTVTUhvWj9.jpg", "actors": [], "comments": [], "recommandations_id": []}

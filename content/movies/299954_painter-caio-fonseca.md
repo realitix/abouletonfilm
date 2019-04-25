@@ -1,1 +1,0 @@
-{"tmdb_id": 299954, "title": "Painter: Caio Fonseca", "original_title": "Painter: Caio Fonseca", "slug_title": "painter-caio-fonseca", "date": "2011-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

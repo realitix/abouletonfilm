@@ -1,1 +1,0 @@
-{"tmdb_id": 516618, "title": "Cupid Factory", "original_title": "\ud050\ud53c\ud2b8 \ud329\ud1a0\ub9ac", "slug_title": "cupid-factory", "date": "", "genre": "Romance", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kim Woo-bin (Roy)", "Park Soo-jin (Shi-yoon)", "Lee Hee-joon (So-joon)"], "comments": [], "recommandations_id": []}

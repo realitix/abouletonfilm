@@ -1,1 +1,0 @@
-{"tmdb_id": 78175, "title": "Rollin' Through the Decades", "original_title": "Rollin' Through the Decades", "slug_title": "rollin-through-the-decades", "date": "2005-01-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/62TGe2kkzkesf6XoTdvR8eO8Icn.jpg", "actors": [], "comments": [], "recommandations_id": []}

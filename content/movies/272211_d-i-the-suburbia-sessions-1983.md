@@ -1,1 +1,0 @@
-{"tmdb_id": 272211, "title": "D.I.: The Suburbia Sessions 1983", "original_title": "D.I.: The Suburbia Sessions 1983", "slug_title": "d-i-the-suburbia-sessions-1983", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

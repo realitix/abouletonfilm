@@ -1,1 +1,0 @@
-{"tmdb_id": 450558, "title": "Golden Globe - Die Azoren", "original_title": "Golden Globe - Die Azoren", "slug_title": "golden-globe-die-azoren", "date": "2010-04-04", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dpok3DIoZu47ltGW7idbqwx5Dvk.jpg", "actors": [], "comments": [], "recommandations_id": []}

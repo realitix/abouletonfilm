@@ -1,1 +1,0 @@
-{"tmdb_id": 381444, "title": "Sleeping with Frank", "original_title": "Sleeping with Frank", "slug_title": "sleeping-with-frank", "date": "2010-08-15", "genre": "Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lily Baldwin (Her)", "Lawrence Cassella (Him)"], "comments": [], "recommandations_id": []}

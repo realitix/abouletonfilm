@@ -1,1 +1,0 @@
-{"tmdb_id": 482679, "title": "Ultimate Reality", "original_title": "Ultimate Reality", "slug_title": "ultimate-reality", "date": "2002-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wUlk789jdrX9ckmNL675oc6O6ac.jpg", "actors": [], "comments": [], "recommandations_id": []}

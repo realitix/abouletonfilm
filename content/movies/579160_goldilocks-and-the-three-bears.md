@@ -1,1 +1,0 @@
-{"tmdb_id": 579160, "title": "Goldilocks and the Three Bears", "original_title": "Goldilocks and the Three Bears", "slug_title": "goldilocks-and-the-three-bears", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pbGyB4tUGnQrj1sm2Kj9xShWfsV.jpg", "actors": [], "comments": [], "recommandations_id": []}

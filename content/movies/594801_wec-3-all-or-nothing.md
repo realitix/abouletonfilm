@@ -1,1 +1,0 @@
-{"tmdb_id": 594801, "title": "WEC 3: All or Nothing", "original_title": "WEC 3: All or Nothing", "slug_title": "wec-3-all-or-nothing", "date": "2002-06-07", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

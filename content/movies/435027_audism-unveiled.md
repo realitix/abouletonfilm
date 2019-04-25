@@ -1,1 +1,0 @@
-{"tmdb_id": 435027, "title": "Audism Unveiled", "original_title": "Audism Unveiled", "slug_title": "audism-unveiled", "date": "2003-04-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Linsay Darnell, Jr. (Narrator)"], "comments": [], "recommandations_id": []}

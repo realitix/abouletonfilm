@@ -1,1 +1,0 @@
-{"tmdb_id": 305492, "title": "Butterfly", "original_title": "Butterfly", "slug_title": "butterfly", "date": "1967-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/c5mgUKHxI1SSyaytJ5n7b02Nczp.jpg", "actors": ["Wendy Clarke ()"], "comments": [], "recommandations_id": []}

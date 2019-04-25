@@ -1,1 +1,0 @@
-{"tmdb_id": 357943, "title": "Chasing Embers", "original_title": "Chasing Embers", "slug_title": "chasing-embers", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 518850, "title": "Kamias: Memory of Forgetting", "original_title": "Kamias: Alaala Ng Paglimot", "slug_title": "kamias-memory-of-forgetting", "date": "2006-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

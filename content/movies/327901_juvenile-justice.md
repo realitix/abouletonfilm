@@ -1,1 +1,0 @@
-{"tmdb_id": 327901, "title": "Juvenile Justice", "original_title": "Juvenile Justice", "slug_title": "juvenile-justice", "date": "1988-04-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

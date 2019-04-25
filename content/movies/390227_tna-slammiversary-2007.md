@@ -1,1 +1,0 @@
-{"tmdb_id": 390227, "title": "TNA Slammiversary 2007", "original_title": "TNA Slammiversary 2007", "slug_title": "tna-slammiversary-2007", "date": "2007-06-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A5e8LA9tVDoJNjgB5Dzzc8mSTYy.jpg", "actors": [], "comments": [], "recommandations_id": []}

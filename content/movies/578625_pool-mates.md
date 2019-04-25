@@ -1,1 +1,0 @@
-{"tmdb_id": 578625, "title": "Pool Mates", "original_title": "Pool Mates", "slug_title": "pool-mates", "date": "2019-01-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iSNuiiNeY3SMBKmGztf2zCUvZw2.jpg", "actors": [], "comments": [], "recommandations_id": []}

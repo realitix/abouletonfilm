@@ -1,1 +1,0 @@
-{"tmdb_id": 448458, "title": "Para o que der e vier", "original_title": "Para o que der e vier", "slug_title": "para-o-que-der-e-vier", "date": "2016-06-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jos\u00e9 Tarciso de Sousa (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 304587, "title": "Pappersv\u00e4rld", "original_title": "Pappersv\u00e4rld", "slug_title": "pappersvarld", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

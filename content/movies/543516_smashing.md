@@ -1,1 +1,0 @@
-{"tmdb_id": 543516, "title": "Smashing", "original_title": "Smashing", "slug_title": "smashing", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xwpebvzvHDq05TJZ33oQEcQpGsH.jpg", "actors": ["Jimmie Durham (Bureaucrat)"], "comments": [], "recommandations_id": []}

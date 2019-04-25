@@ -1,1 +1,0 @@
-{"tmdb_id": 457414, "title": "Sanzhyra", "original_title": "Sanzhyra", "slug_title": "sanzhyra", "date": "2001-04-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hoJti9U3TXHr5yZ3xyZjDXfKl7S.jpg", "actors": [], "comments": [], "recommandations_id": []}

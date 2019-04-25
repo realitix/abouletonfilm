@@ -1,1 +1,0 @@
-{"tmdb_id": 590595, "title": "Cellfish", "original_title": "\u05e1\u05dc\u05e4\u05d9\u05e9", "slug_title": "cellfish", "date": "2018-08-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Shelly Federman ()"], "comments": [], "recommandations_id": []}

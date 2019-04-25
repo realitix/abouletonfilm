@@ -1,1 +1,0 @@
-{"tmdb_id": 318231, "title": "Declassified: Human Experimentation", "original_title": "Declassified: Human Experimentation", "slug_title": "declassified-human-experimentation", "date": "2008-08-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

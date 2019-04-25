@@ -1,1 +1,0 @@
-{"tmdb_id": 313481, "title": "A Wayfarer's Journey: Listening to Mahler", "original_title": "A Wayfarer's Journey: Listening to Mahler", "slug_title": "a-wayfarer-s-journey-listening-to-mahler", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

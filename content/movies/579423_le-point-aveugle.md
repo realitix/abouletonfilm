@@ -1,1 +1,0 @@
-{"tmdb_id": 579423, "title": "Le Point aveugle", "original_title": "Le Point aveugle", "slug_title": "le-point-aveugle", "date": "2012-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

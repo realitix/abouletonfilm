@@ -1,1 +1,0 @@
-{"tmdb_id": 583978, "title": "Good Garbage", "original_title": "Zevel Tov", "slug_title": "good-garbage", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zkDTVsnacYg28YjcXVGINtGkYB3.jpg", "actors": [], "comments": [], "recommandations_id": []}

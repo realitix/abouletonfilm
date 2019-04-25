@@ -1,1 +1,0 @@
-{"tmdb_id": 307154, "title": "The Red Suit", "original_title": "\u7ea2\u897f\u670d", "slug_title": "the-red-suit", "date": "1998-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/joWN4zq7yYvNfnc6Kr6Iig4nhFB.jpg", "actors": ["Song Dandan ()", "Wang Xue-qi ()"], "comments": [], "recommandations_id": []}

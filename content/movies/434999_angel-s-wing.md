@@ -1,1 +1,0 @@
-{"tmdb_id": 434999, "title": "Angel's Wing", "original_title": "L'instinct de l'ange", "slug_title": "angel-s-wing", "date": "1993-01-27", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lOUkEwCyyX5JvW5ZXEeKSgsfpq3.jpg", "actors": [], "comments": [], "recommandations_id": []}

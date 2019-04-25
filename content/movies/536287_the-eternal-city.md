@@ -1,1 +1,0 @@
-{"tmdb_id": 536287, "title": "The Eternal City", "original_title": "The Eternal City", "slug_title": "the-eternal-city", "date": "2008-03-01", "genre": "Com\u00e9die / Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1HUeYOH6bZdRKdxy56twlq74hwp.jpg", "actors": [], "comments": [], "recommandations_id": []}

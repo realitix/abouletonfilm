@@ -1,1 +1,0 @@
-{"tmdb_id": 265494, "title": "Le beau plaisir", "original_title": "Le beau plaisir", "slug_title": "le-beau-plaisir", "date": "1968-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oonfPiZIEXpThBs1gsZMOZrpIrU.jpg", "actors": ["Alexis Tremblay (Himself)"], "comments": [], "recommandations_id": []}

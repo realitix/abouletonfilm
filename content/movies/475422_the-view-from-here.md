@@ -1,1 +1,0 @@
-{"tmdb_id": 475422, "title": "The View From Here", "original_title": "The View From Here", "slug_title": "the-view-from-here", "date": "2017-06-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

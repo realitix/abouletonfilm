@@ -1,1 +1,0 @@
-{"tmdb_id": 530444, "title": "Everest the Hard Way", "original_title": "Everest the Hard Way", "slug_title": "everest-the-hard-way", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

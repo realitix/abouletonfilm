@@ -1,1 +1,0 @@
-{"tmdb_id": 590405, "title": "Obnoxious Obie", "original_title": "Obnoxious Obie", "slug_title": "obnoxious-obie", "date": "1963-05-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 369457, "title": "Mankind From Space", "original_title": "Mankind From Space", "slug_title": "mankind-from-space", "date": "2015-05-03", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lgApudMAnUy1kpHElCQC7TfpT4g.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 354811, "title": "Nana Mizuki Livedom -Birth-", "original_title": "Nana Mizuki Livedom -Birth-", "slug_title": "nana-mizuki-livedom-birth", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

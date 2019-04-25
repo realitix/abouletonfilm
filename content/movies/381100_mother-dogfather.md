@@ -1,1 +1,0 @@
-{"tmdb_id": 381100, "title": "Mother Dogfather", "original_title": "Mother Dogfather", "slug_title": "mother-dogfather", "date": "1974-10-31", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bob Holt (Dogfather / Pug (voice))", "Larry D. Mann (Crazylegs Crane (voice))"], "comments": [], "recommandations_id": []}

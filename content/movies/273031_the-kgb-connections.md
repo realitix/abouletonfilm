@@ -1,1 +1,0 @@
-{"tmdb_id": 273031, "title": "The KGB Connections", "original_title": "The KGB Connections", "slug_title": "the-kgb-connections", "date": "1982-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

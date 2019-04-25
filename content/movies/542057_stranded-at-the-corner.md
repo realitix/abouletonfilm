@@ -1,1 +1,0 @@
-{"tmdb_id": 542057, "title": "Stranded at the Corner", "original_title": "Stranded at the Corner", "slug_title": "stranded-at-the-corner", "date": "2006-04-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l0OWRUn6g9NkLKIBVbbmx7cw8ir.jpg", "actors": [], "comments": [], "recommandations_id": []}

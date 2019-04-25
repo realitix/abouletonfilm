@@ -1,1 +1,0 @@
-{"tmdb_id": 340598, "title": "The Heckling", "original_title": "The Heckling", "slug_title": "the-heckling", "date": "1987-12-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mdqZAlj3EIpWJ9MC3LiMYvccBU8.jpg", "actors": ["Linda Blair ()"], "comments": [], "recommandations_id": []}

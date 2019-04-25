@@ -1,1 +1,0 @@
-{"tmdb_id": 170884, "title": "Stemple Pass", "original_title": "Stemple Pass", "slug_title": "stemple-pass", "date": "2012-10-01", "genre": "Documentaire", "score": "8.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j3txR1n3VifVyQj0E5iYvKKU23c.jpg", "actors": [], "comments": [], "recommandations_id": []}

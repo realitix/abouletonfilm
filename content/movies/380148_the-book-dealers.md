@@ -1,1 +1,0 @@
-{"tmdb_id": 380148, "title": "The Book Dealers", "original_title": "The Book Dealers", "slug_title": "the-book-dealers", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tAITxHDpPbAUbFrDeJpO237aifR.jpg", "actors": [], "comments": [], "recommandations_id": []}

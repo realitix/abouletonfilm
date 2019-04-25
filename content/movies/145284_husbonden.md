@@ -1,1 +1,0 @@
-{"tmdb_id": 145284, "title": "Husbonden", "original_title": "Husbonden", "slug_title": "husbonden", "date": "", "genre": "", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qXEhtdSJdgVPMEB31JGfqD4t91W.jpg", "actors": [], "comments": [], "recommandations_id": []}

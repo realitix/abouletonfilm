@@ -1,1 +1,0 @@
-{"tmdb_id": 502021, "title": "We Are the Music", "original_title": "Nosotros, la m\u00fasica", "slug_title": "we-are-the-music", "date": "1964-03-06", "genre": "Musique / Documentaire", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5jSg73DcmFZbQW5YUHuzBqislaF.jpg", "actors": [], "comments": [], "recommandations_id": []}

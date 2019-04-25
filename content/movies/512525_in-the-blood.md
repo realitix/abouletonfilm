@@ -1,1 +1,0 @@
-{"tmdb_id": 512525, "title": "In the Blood", "original_title": "In the Blood", "slug_title": "in-the-blood", "date": "2018-12-31", "genre": "Drame / Fantastique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

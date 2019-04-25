@@ -1,1 +1,0 @@
-{"tmdb_id": 147078, "title": "Guilherme Arantes - Ao Vivo", "original_title": "Guilherme Arantes - Ao Vivo", "slug_title": "guilherme-arantes-ao-vivo", "date": "2016-02-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lLZnVKRvefwLU3vqersPwMH3Lsg.jpg", "actors": [], "comments": [], "recommandations_id": []}

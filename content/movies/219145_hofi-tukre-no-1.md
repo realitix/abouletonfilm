@@ -1,1 +1,0 @@
-{"tmdb_id": 219145, "title": "Hofi t\u00fckre No.1", "original_title": "Hofi t\u00fckre No.1", "slug_title": "hofi-tukre-no-1", "date": "2002-01-01", "genre": "Com\u00e9die", "score": "9.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tE5curZJUWLN21CXrTS1jcSAFhg.jpg", "actors": ["Hofi G\u00e9za ()"], "comments": [], "recommandations_id": []}

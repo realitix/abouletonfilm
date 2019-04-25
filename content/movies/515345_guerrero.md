@@ -1,1 +1,0 @@
-{"tmdb_id": 515345, "title": "Guerrero", "original_title": "Guerrero", "slug_title": "guerrero", "date": "2017-08-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/leNXJMD1N7ahT5plyTDKbiy2ANz.jpg", "actors": [], "comments": [], "recommandations_id": []}

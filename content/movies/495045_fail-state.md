@@ -1,1 +1,0 @@
-{"tmdb_id": 495045, "title": "Fail State", "original_title": "Fail State", "slug_title": "fail-state", "date": "2018-10-19", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cdDsAb4Qp2sf44axYHQmsR0j5Ur.jpg", "actors": ["Tom Harkin (Himself)", "Maxine Waters (Herself)"], "comments": [], "recommandations_id": []}

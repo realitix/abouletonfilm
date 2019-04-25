@@ -1,1 +1,0 @@
-{"tmdb_id": 393816, "title": "The Tender Feeling", "original_title": "\u6696\u60c5", "slug_title": "the-tender-feeling", "date": "2005-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Song Yun-cheng ()", "Shi Yun-Peng ()", "Hasi Gaowa ()"], "comments": [], "recommandations_id": []}

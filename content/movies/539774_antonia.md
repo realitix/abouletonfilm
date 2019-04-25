@@ -1,1 +1,1 @@
-{"tmdb_id": 539774, "title": "Antonia", "original_title": "Antonia, romance hongroise", "slug_title": "antonia", "date": "1935-01-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 539774, "title": "Antonia", "original_title": "Antonia, romance hongroise", "slug_title": "antonia", "date": "1935-01-25", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

@@ -1,1 +1,0 @@
-{"tmdb_id": 445230, "title": "Best of Hape Kerkeling", "original_title": "Best of Hape Kerkeling", "slug_title": "best-of-hape-kerkeling", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m4erjiJ1CvxIV1jlRo5X5jylk0J.jpg", "actors": ["Hape Kerkeling (himself)"], "comments": [], "recommandations_id": []}

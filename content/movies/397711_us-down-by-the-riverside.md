@@ -1,1 +1,0 @@
-{"tmdb_id": 397711, "title": "Us Down by the Riverside", "original_title": "Us Down by the Riverside", "slug_title": "us-down-by-the-riverside", "date": "1966-05-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

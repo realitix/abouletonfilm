@@ -1,1 +1,0 @@
-{"tmdb_id": 250703, "title": "Hijas del Monte", "original_title": "Hijas del Monte", "slug_title": "hijas-del-monte", "date": "2011-02-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cbXpA6XZbCRLNohtCPzjZQW23xG.jpg", "actors": [], "comments": [], "recommandations_id": []}

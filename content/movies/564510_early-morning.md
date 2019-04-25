@@ -1,1 +1,0 @@
-{"tmdb_id": 564510, "title": "Early Morning", "original_title": "Early Morning", "slug_title": "early-morning", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

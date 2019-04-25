@@ -1,1 +1,0 @@
-{"tmdb_id": 364774, "title": "Proof of love", "original_title": "Proof of love", "slug_title": "proof-of-love", "date": "2009-10-21", "genre": "Drame / Com\u00e9die", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Branca Ferrazo ()", "Brett Figel ()", "Manuel Fihman ()", "Tyler Fischer ()"], "comments": [], "recommandations_id": []}

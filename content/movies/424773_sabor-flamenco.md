@@ -1,1 +1,0 @@
-{"tmdb_id": 424773, "title": "Sabor Flamenco", "original_title": "Sabor Flamenco", "slug_title": "sabor-flamenco", "date": "1970-09-05", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b1qjUE1CjmPwpdI3ZueSMcoQTIT.jpg", "actors": [], "comments": [], "recommandations_id": []}

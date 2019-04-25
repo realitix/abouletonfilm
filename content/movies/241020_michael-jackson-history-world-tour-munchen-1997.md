@@ -1,1 +1,0 @@
-{"tmdb_id": 241020, "title": "Michael Jackson - History World Tour - M\u00fcnchen 1997", "original_title": "Michael Jackson - History World Tour - M\u00fcnchen 1997", "slug_title": "michael-jackson-history-world-tour-munchen-1997", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 260391, "title": "The Coming Race", "original_title": "The Coming Race", "slug_title": "the-coming-race", "date": "2006-03-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qoqdFWBmmwJnv9zRXdc69Nea9Sk.jpg", "actors": [], "comments": [], "recommandations_id": []}

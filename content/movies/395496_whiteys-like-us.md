@@ -1,1 +1,0 @@
-{"tmdb_id": 395496, "title": "Whiteys Like Us", "original_title": "Whiteys Like Us", "slug_title": "whiteys-like-us", "date": "1999-08-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uL0mhzBctiRNtVukGf01VR3hz1T.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 589789, "title": "Tales from Tin Pan Alley", "original_title": "Tales from Tin Pan Alley", "slug_title": "tales-from-tin-pan-alley", "date": "2018-08-30", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

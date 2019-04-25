@@ -1,1 +1,0 @@
-{"tmdb_id": 516023, "title": "Hi-Death", "original_title": "Hi-Death", "slug_title": "hi-death", "date": "2018-03-03", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5Yu9V3kV78QR1dyJ2dW7JMyquJD.jpg", "actors": [], "comments": [], "recommandations_id": []}

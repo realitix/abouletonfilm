@@ -1,1 +1,0 @@
-{"tmdb_id": 216115, "title": "Little Bee", "original_title": "Abelhinhas", "slug_title": "little-bee", "date": "2007-12-03", "genre": "Animation / Com\u00e9die / Familial", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rEKjHGRj75V3djkNlybVdMHPVy8.jpg", "actors": [], "comments": [], "recommandations_id": []}

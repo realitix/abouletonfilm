@@ -1,1 +1,0 @@
-{"tmdb_id": 422981, "title": "Moment of Joy", "original_title": "Okam\u017eik radosti", "slug_title": "moment-of-joy", "date": "1965-10-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

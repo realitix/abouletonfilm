@@ -1,1 +1,0 @@
-{"tmdb_id": 371229, "title": "Borders", "original_title": "Borders", "slug_title": "borders", "date": "2015-11-27", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/35OF7GKspEaAOMYbraImCYM0Zzf.jpg", "actors": ["M.I.A. ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 274453, "title": "Camaradas", "original_title": "Camaradas", "slug_title": "camaradas", "date": "2014-06-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 196338, "title": "Punch and Judy", "original_title": "L'anarchie chez Guignol", "slug_title": "punch-and-judy", "date": "1906-05-23", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qjEr5AwqzQtC4ys1sgpKMMcWO84.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 437386, "title": "The Boyle Variety Performance", "original_title": "The Boyle Variety Performance", "slug_title": "the-boyle-variety-performance", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

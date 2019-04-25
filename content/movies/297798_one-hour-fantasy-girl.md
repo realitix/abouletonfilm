@@ -1,1 +1,0 @@
-{"tmdb_id": 297798, "title": "One Hour Fantasy Girl", "original_title": "One Hour Fantasy Girl", "slug_title": "one-hour-fantasy-girl", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iz1q9Lcy4KiNj72CslWDHRHLQGq.jpg", "actors": [], "comments": [], "recommandations_id": []}

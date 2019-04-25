@@ -1,1 +1,0 @@
-{"tmdb_id": 582589, "title": "Closed Ward", "original_title": "\u9589\u9396\u75c5\u68df", "slug_title": "closed-ward", "date": "2019-11-15", "genre": "Crime", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Nana Komatsu (Miss Yuki)", "Tsurube Sh\u00f4fukutei (Hidemaru Kajiki)", "Go Ayano (Mr. Chu)"], "comments": [], "recommandations_id": []}

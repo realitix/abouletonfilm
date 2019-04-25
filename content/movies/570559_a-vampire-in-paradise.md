@@ -1,1 +1,0 @@
-{"tmdb_id": 570559, "title": "A Vampire in Paradise", "original_title": "Un vampire au paradis", "slug_title": "a-vampire-in-paradise", "date": "1992-08-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pe9xdGibbNuGJRsDcvaYd62rdNa.jpg", "actors": [], "comments": [], "recommandations_id": []}

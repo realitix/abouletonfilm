@@ -1,1 +1,0 @@
-{"tmdb_id": 531579, "title": "Over De Brug", "original_title": "Over De Brug", "slug_title": "over-de-brug", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

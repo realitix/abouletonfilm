@@ -1,1 +1,0 @@
-{"tmdb_id": 516347, "title": "Arakure Junichi no Namida", "original_title": "\u8352\u304f\u308c\u7d14\u4e00\u306e\u6d99", "slug_title": "arakure-junichi-no-namida", "date": "2006-08-31", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Takashi Taniguchi ((voice))"], "comments": [], "recommandations_id": []}

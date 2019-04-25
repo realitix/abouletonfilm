@@ -1,1 +1,0 @@
-{"tmdb_id": 574908, "title": "Turbine", "original_title": "Turbine", "slug_title": "turbine", "date": "2018-09-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

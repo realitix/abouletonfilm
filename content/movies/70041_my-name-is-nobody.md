@@ -1,1 +1,0 @@
-{"tmdb_id": 70041, "title": "My Name Is Nobody", "original_title": "My Name Is Nobody", "slug_title": "my-name-is-nobody", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

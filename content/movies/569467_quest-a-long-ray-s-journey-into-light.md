@@ -1,1 +1,0 @@
-{"tmdb_id": 569467, "title": "Quest: A Long Ray's Journey Into Light", "original_title": "Quest: A Long Ray's Journey Into Light", "slug_title": "quest-a-long-ray-s-journey-into-light", "date": "1986-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

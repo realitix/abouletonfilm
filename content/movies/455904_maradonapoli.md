@@ -1,1 +1,0 @@
-{"tmdb_id": 455904, "title": "Maradonapoli", "original_title": "Maradonapoli", "slug_title": "maradonapoli", "date": "2017-05-04", "genre": "Documentaire", "score": "6.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aOlPZgowpuww5jrNatFMqcwKtsd.jpg", "actors": ["Diego Maradona (Himself)"], "comments": [], "recommandations_id": []}

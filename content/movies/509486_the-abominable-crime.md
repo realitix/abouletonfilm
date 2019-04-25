@@ -1,1 +1,0 @@
-{"tmdb_id": 509486, "title": "The Abominable Crime", "original_title": "The Abominable Crime", "slug_title": "the-abominable-crime", "date": "2013-06-25", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1dwmPCKihfKSpOvir6GCVxqMk8q.jpg", "actors": [], "comments": [], "recommandations_id": []}

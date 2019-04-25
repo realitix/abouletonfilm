@@ -1,1 +1,0 @@
-{"tmdb_id": 347736, "title": "Bob de Bouwer - Bob's Werkplaats", "original_title": "Bob de Bouwer - Bob's Werkplaats", "slug_title": "bob-de-bouwer-bob-s-werkplaats", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jEKev4uIwZnzWFtJigSq90xtdXf.jpg", "actors": [], "comments": [], "recommandations_id": []}

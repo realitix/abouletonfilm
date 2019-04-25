@@ -1,1 +1,0 @@
-{"tmdb_id": 382084, "title": "Island of Hope, Island of Tears", "original_title": "Island of Hope, Island of Tears", "slug_title": "island-of-hope-island-of-tears", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gene Holland (Narrator)"], "comments": [], "recommandations_id": []}

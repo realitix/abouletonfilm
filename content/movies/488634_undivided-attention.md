@@ -1,1 +1,0 @@
-{"tmdb_id": 488634, "title": "Undivided Attention", "original_title": "Undivided Attention", "slug_title": "undivided-attention", "date": "1987-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5L5hsr6JlSknBGdq8mTH3GuLlqC.jpg", "actors": [], "comments": [], "recommandations_id": []}

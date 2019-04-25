@@ -1,1 +1,0 @@
-{"tmdb_id": 359550, "title": "Cassette: A Documentary", "original_title": "Cassette: A Documentary", "slug_title": "cassette-a-documentary", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 431454, "title": "Tracy's Dilemma", "original_title": "Tracy's Dilemma", "slug_title": "tracy-s-dilemma", "date": "1984-12-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Traci Lords ()", "Cyndee Summers ()", "Heather Wayne ()"], "comments": [], "recommandations_id": []}

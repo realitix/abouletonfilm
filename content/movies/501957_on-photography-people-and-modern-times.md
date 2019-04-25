@@ -1,1 +1,0 @@
-{"tmdb_id": 501957, "title": "On Photography, People and Modern Times", "original_title": "On Photography, People and Modern Times", "slug_title": "on-photography-people-and-modern-times", "date": "2010-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

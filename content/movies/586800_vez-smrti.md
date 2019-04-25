@@ -1,1 +1,0 @@
-{"tmdb_id": 586800, "title": "V\u011b\u017e smrti", "original_title": "V\u011b\u017e smrti", "slug_title": "vez-smrti", "date": "2002-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uq0WY4JBAUaMIuG1xY28E0C9cPq.jpg", "actors": [], "comments": [], "recommandations_id": []}

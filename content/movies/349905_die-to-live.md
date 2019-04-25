@@ -1,1 +1,0 @@
-{"tmdb_id": 349905, "title": "Die to Live", "original_title": "\uc8fd\uc73c\uba74 \uc0b4\ub9ac\ub77c", "slug_title": "die-to-live", "date": "1982-06-26", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Park Am ()", "Kim Hae-sook ()", "Nam Su-Jung ()", "Kim Ki-bum ()"], "comments": [], "recommandations_id": []}

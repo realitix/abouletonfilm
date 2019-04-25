@@ -1,1 +1,0 @@
-{"tmdb_id": 431012, "title": "Just a Minute", "original_title": "Just a Minute", "slug_title": "just-a-minute", "date": "1924-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Charley Chase (Jimmy Jump)"], "comments": [], "recommandations_id": []}

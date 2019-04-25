@@ -1,1 +1,0 @@
-{"tmdb_id": 78885, "title": "Thandanai", "original_title": "Thandanai", "slug_title": "thandanai", "date": "1985-07-19", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Vijayakanth ()", "Ambika ()", "Jayachitra ()", "S. S. Chandran ()", "Major Sundarrajan ()"], "comments": [], "recommandations_id": []}

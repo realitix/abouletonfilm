@@ -1,1 +1,0 @@
-{"tmdb_id": 542786, "title": "Les petites salopes", "original_title": "Les petites salopes", "slug_title": "les-petites-salopes", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 529946, "title": "Au C\u0153ur de l'orage", "original_title": "Au C\u0153ur de l'orage", "slug_title": "au-coeur-de-l-orage", "date": "1948-04-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9RM2D5IgW5fzvRKZkAKGC7vqyHX.jpg", "actors": [], "comments": [], "recommandations_id": []}

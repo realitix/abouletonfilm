@@ -1,1 +1,0 @@
-{"tmdb_id": 273582, "title": "Rebeld\u00eda y pornograf\u00eda", "original_title": "Rebeld\u00eda y pornograf\u00eda", "slug_title": "rebeldia-y-pornografia", "date": "2014-06-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Alejandro Rangel ()", "Natalia D\u00edaz ()"], "comments": [], "recommandations_id": []}

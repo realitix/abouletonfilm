@@ -1,1 +1,0 @@
-{"tmdb_id": 582648, "title": "Alles wegen Hulk", "original_title": "Alles wegen Hulk", "slug_title": "alles-wegen-hulk", "date": "2004-11-14", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Regula Grauwiller (Bettina)", "Mathias Sanders (John)", "Miriam Stein (Corinna)"], "comments": [], "recommandations_id": []}

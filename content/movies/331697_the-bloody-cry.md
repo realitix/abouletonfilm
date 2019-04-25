@@ -1,1 +1,0 @@
-{"tmdb_id": 331697, "title": "The Bloody Cry", "original_title": "Kanli fer", "slug_title": "the-bloody-cry", "date": "1951-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["G\u00f6n\u00fcl Bayhan ()", "Tekin Akmansoy ()", "Abdullah Ata\u00e7 ()"], "comments": [], "recommandations_id": []}

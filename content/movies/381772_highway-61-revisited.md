@@ -1,1 +1,0 @@
-{"tmdb_id": 381772, "title": "Highway 61 Revisited", "original_title": "Highway 61 Revisited", "slug_title": "highway-61-revisited", "date": "1978-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

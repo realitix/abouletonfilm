@@ -1,1 +1,0 @@
-{"tmdb_id": 250302, "title": "Chronillogical", "original_title": "Chronillogical", "slug_title": "chronillogical", "date": "2007-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8wwFXbrYiS7wZsIA8L4O2BLqOKY.jpg", "actors": [], "comments": [], "recommandations_id": []}

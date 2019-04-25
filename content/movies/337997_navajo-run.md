@@ -1,1 +1,0 @@
-{"tmdb_id": 337997, "title": "Navajo Run", "original_title": "Navajo Run", "slug_title": "navajo-run", "date": "1964-11-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mgdqjLatZXfmC2aMuKMl64pa7UG.jpg", "actors": [], "comments": [], "recommandations_id": []}

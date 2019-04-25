@@ -1,1 +1,0 @@
-{"tmdb_id": 74247, "title": "Postmand Per - I Fuld Fart", "original_title": "Postmand Per - I Fuld Fart", "slug_title": "postmand-per-i-fuld-fart", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e18BPp1hX8fwvvVHR785Tjzghu8.jpg", "actors": [], "comments": [], "recommandations_id": []}

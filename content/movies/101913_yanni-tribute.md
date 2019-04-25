@@ -1,1 +1,0 @@
-{"tmdb_id": 101913, "title": "Yanni: Tribute", "original_title": "Yanni: Tribute", "slug_title": "yanni-tribute", "date": "1997-06-16", "genre": "", "score": "9.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q4tNS0GWbQOLyxRhMRnmsB3VSqY.jpg", "actors": ["Yanni (Yanni)"], "comments": [], "recommandations_id": []}

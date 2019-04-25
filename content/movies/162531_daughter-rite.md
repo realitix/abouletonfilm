@@ -1,1 +1,0 @@
-{"tmdb_id": 162531, "title": "Daughter Rite", "original_title": "Daughter Rite", "slug_title": "daughter-rite", "date": "1980-04-19", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8kBlmADWrP3esBlem8ZiQsNdeB6.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 495608, "title": "Naked Rusty", "original_title": "Naked Rusty", "slug_title": "naked-rusty", "date": "2000-06-21", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

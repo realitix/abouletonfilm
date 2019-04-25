@@ -1,1 +1,0 @@
-{"tmdb_id": 581244, "title": "Joint Custody", "original_title": "Custodia compartida", "slug_title": "joint-custody", "date": "2018-01-26", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lbYM6LYveiHOkUnD53AuSLlPAiE.jpg", "actors": [], "comments": [], "recommandations_id": []}

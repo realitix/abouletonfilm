@@ -1,1 +1,0 @@
-{"tmdb_id": 311911, "title": "Martha Argerich & Friends", "original_title": "Martha Argerich & Friends", "slug_title": "martha-argerich-friends", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

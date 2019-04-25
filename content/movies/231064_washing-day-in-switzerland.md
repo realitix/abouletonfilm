@@ -1,1 +1,0 @@
-{"tmdb_id": 231064, "title": "Washing Day in Switzerland", "original_title": "Laveuses", "slug_title": "washing-day-in-switzerland", "date": "1896-09-20", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/i4ABz0bKAjBKTi4qGaMallRAlVY.jpg", "actors": [], "comments": [], "recommandations_id": []}

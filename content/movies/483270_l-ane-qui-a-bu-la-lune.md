@@ -1,1 +1,0 @@
-{"tmdb_id": 483270, "title": "L'\u00e2ne qui a bu la lune", "original_title": "L'\u00e2ne qui a bu la lune", "slug_title": "l-ane-qui-a-bu-la-lune", "date": "1988-02-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o346kULRgsxLkHbP8V6hP0G16X2.jpg", "actors": [], "comments": [], "recommandations_id": []}

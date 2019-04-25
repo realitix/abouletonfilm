@@ -1,1 +1,0 @@
-{"tmdb_id": 304064, "title": "Indigo Lady", "original_title": "Indigo Lady", "slug_title": "indigo-lady", "date": "2014-04-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

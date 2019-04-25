@@ -1,1 +1,0 @@
-{"tmdb_id": 103554, "title": "Malaventura", "original_title": "Malaventura", "slug_title": "malaventura", "date": "2011-03-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g4Ch1iwiP0rPGWs97ELrtwlxVt3.jpg", "actors": ["Isaac Lopez ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 52381, "title": "Paku Kuntilanak", "original_title": "Paku Kuntilanak", "slug_title": "paku-kuntilanak", "date": "", "genre": "Horreur", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kiwil (Pak Joko)", "Dewi Persik (Kunti)"], "comments": [], "recommandations_id": []}

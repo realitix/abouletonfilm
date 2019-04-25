@@ -1,1 +1,0 @@
-{"tmdb_id": 174053, "title": "Ireland, a Nation", "original_title": "Ireland, a Nation", "slug_title": "ireland-a-nation", "date": "1914-09-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

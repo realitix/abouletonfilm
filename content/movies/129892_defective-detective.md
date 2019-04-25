@@ -1,1 +1,0 @@
-{"tmdb_id": 129892, "title": "Defective detective", "original_title": "Defective detective", "slug_title": "defective-detective", "date": "2011-01-01", "genre": "Myst\u00e8re", "score": "7.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xPzDXSPpkeMfwo9ZJhtIxzEpABg.jpg", "actors": [], "comments": [], "recommandations_id": []}

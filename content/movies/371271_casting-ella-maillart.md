@@ -1,1 +1,0 @@
-{"tmdb_id": 371271, "title": "Casting Ella Maillart", "original_title": "Casting Ella Maillart", "slug_title": "casting-ella-maillart", "date": "1926-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

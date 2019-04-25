@@ -1,1 +1,0 @@
-{"tmdb_id": 577737, "title": "The Death Waltz", "original_title": "The Death Waltz", "slug_title": "the-death-waltz", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yFOFKS1f3fe1IilRevKsNv3fDNa.jpg", "actors": [], "comments": [], "recommandations_id": []}

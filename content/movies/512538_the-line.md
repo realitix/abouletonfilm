@@ -1,1 +1,0 @@
-{"tmdb_id": 512538, "title": "The Line", "original_title": "The Line", "slug_title": "the-line", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cuPlxL95maA8TbMfsJL6fNqjykA.jpg", "actors": [], "comments": [], "recommandations_id": []}

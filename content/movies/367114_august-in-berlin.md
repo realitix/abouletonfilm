@@ -1,1 +1,0 @@
-{"tmdb_id": 367114, "title": "August in Berlin", "original_title": "August in Berlin", "slug_title": "august-in-berlin", "date": "2016-08-30", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Maximilian von Pufendorf (Max)", "Katja Wagner (Sophie)", "Lena Ehlers (h\u00fcbsche Frau)"], "comments": [], "recommandations_id": []}

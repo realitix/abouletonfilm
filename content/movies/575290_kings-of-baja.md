@@ -1,1 +1,0 @@
-{"tmdb_id": 575290, "title": "Kings of Baja", "original_title": "Kings of Baja", "slug_title": "kings-of-baja", "date": "2014-09-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3HOi6SxmkuqQw9nVRGC7zV4Bpro.jpg", "actors": ["Mike Guiney (Narrator)"], "comments": [], "recommandations_id": []}

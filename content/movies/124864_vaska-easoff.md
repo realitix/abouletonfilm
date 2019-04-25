@@ -1,1 +1,0 @@
-{"tmdb_id": 124864, "title": "V\u00e1ska Easoff", "original_title": "Haggy\u00e1ll\u00f3gva V\u00e1szka", "slug_title": "vaska-easoff", "date": "1996-02-29", "genre": "Com\u00e9die", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wD8k7RG7KzdpQjH8D60UNsedol3.jpg", "actors": [], "comments": [], "recommandations_id": []}

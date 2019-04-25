@@ -1,1 +1,0 @@
-{"tmdb_id": 345039, "title": "Digre daier", "original_title": "Digre daier", "slug_title": "digre-daier", "date": "1997-06-18", "genre": "Com\u00e9die / Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Eirik Bl\u00e5sternes ()", "Ane Lyngb\u00f8 ()", "Trine Wiggen ()"], "comments": [], "recommandations_id": []}

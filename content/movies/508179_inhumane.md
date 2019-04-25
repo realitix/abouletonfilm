@@ -1,1 +1,0 @@
-{"tmdb_id": 508179, "title": "Inhumane", "original_title": "Inhumane", "slug_title": "inhumane", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lindsay Lillig (Lisa)", "Korrie Murphy (Tem)", "Sam Cordes (Nick Huckins)", "Scott Cordes (Russell 'Chub' Huckins)"], "comments": [], "recommandations_id": []}

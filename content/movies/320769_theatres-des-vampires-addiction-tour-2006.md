@@ -1,1 +1,0 @@
-{"tmdb_id": 320769, "title": "Theatres des Vampires: Addiction Tour 2006", "original_title": "Theatres des Vampires: Addiction Tour 2006", "slug_title": "theatres-des-vampires-addiction-tour-2006", "date": "2006-01-01", "genre": "Musique", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 340257, "title": "You See Me", "original_title": "You See Me", "slug_title": "you-see-me", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

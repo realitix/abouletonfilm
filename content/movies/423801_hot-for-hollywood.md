@@ -1,1 +1,0 @@
-{"tmdb_id": 423801, "title": "Hot for Hollywood", "original_title": "Hot for Hollywood", "slug_title": "hot-for-hollywood", "date": "1930-05-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Pinto Colvig (Oswald the Lucky Rabbit (voice))"], "comments": [], "recommandations_id": []}

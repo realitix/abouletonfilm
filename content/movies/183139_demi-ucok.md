@@ -1,1 +1,0 @@
-{"tmdb_id": 183139, "title": "Demi Ucok", "original_title": "Demi Ucok", "slug_title": "demi-ucok", "date": "2013-01-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nEJiGFPEIpeSqtgohJHIyTwDy3z.jpg", "actors": [], "comments": [], "recommandations_id": []}

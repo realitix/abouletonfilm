@@ -1,1 +1,0 @@
-{"tmdb_id": 243227, "title": "The Cliff Dwellers", "original_title": "The Cliff Dwellers", "slug_title": "the-cliff-dwellers", "date": "1962-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

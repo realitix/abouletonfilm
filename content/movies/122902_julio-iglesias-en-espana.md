@@ -1,1 +1,0 @@
-{"tmdb_id": 122902, "title": "Julio Iglesias en Espana", "original_title": "Julio Iglesias en Espana", "slug_title": "julio-iglesias-en-espana", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xW9RvX1ZEGeXcuWYihEDjVMN3qi.jpg", "actors": ["Julio Iglesias ()"], "comments": [], "recommandations_id": []}

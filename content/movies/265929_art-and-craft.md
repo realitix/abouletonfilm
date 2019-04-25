@@ -1,1 +1,0 @@
-{"tmdb_id": 265929, "title": "Art and Craft", "original_title": "Art and Craft", "slug_title": "art-and-craft", "date": "2014-09-19", "genre": "Documentaire", "score": "7.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qwnCxKagxxhOIIL799L5auLgTzc.jpg", "actors": ["Mark Landis (Himself)"], "comments": [], "recommandations_id": []}

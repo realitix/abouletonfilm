@@ -1,1 +1,0 @@
-{"tmdb_id": 561589, "title": "Space Guardians 2", "original_title": "Space Guardians 2", "slug_title": "space-guardians-2", "date": "2018-12-11", "genre": "Animation", "score": "0.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dD9vr6kz31XuEz2pTqDURt7RpP4.jpg", "actors": ["KJ Schrock ()", "James Kane ()"], "comments": [], "recommandations_id": []}

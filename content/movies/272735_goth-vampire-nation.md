@@ -1,1 +1,0 @@
-{"tmdb_id": 272735, "title": "Goth Vampire Nation", "original_title": "Goth Vampire Nation", "slug_title": "goth-vampire-nation", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bMtTBq4G6ysFeCDvM7V4y5Huw0S.jpg", "actors": [], "comments": [], "recommandations_id": []}

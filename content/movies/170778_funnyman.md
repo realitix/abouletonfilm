@@ -1,1 +1,0 @@
-{"tmdb_id": 170778, "title": "Funnyman", "original_title": "Funnyman", "slug_title": "funnyman", "date": "1967-09-23", "genre": "", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fC6s71aJOg80oOdJwGNACTBUdS7.jpg", "actors": ["Peter Bonerz (Perry)"], "comments": [], "recommandations_id": []}

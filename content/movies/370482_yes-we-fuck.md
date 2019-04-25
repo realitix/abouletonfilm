@@ -1,1 +1,0 @@
-{"tmdb_id": 370482, "title": "Yes, We Fuck!", "original_title": "Yes, We Fuck!", "slug_title": "yes-we-fuck", "date": "2015-12-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Ai6O8pHjP3poxzAm7XEM9ppoQdB.jpg", "actors": [], "comments": [], "recommandations_id": []}

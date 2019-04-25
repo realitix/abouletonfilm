@@ -1,1 +1,0 @@
-{"tmdb_id": 291093, "title": "Burleska", "original_title": "Burleska", "slug_title": "burleska", "date": "1932-01-01", "genre": "Guerre", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qTXjLL5pDdhUU6lPDw35h9NBWMZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

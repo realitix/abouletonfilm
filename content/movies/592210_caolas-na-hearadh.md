@@ -1,1 +1,0 @@
-{"tmdb_id": 592210, "title": "Caolas na Hearadh", "original_title": "Caolas na Hearadh", "slug_title": "caolas-na-hearadh", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qcjmNDBS28m980WJIgxIqbj8Aak.jpg", "actors": [], "comments": [], "recommandations_id": []}

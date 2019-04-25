@@ -1,1 +1,0 @@
-{"tmdb_id": 559060, "title": "Brian Wilson: A Beach Boy's Tale", "original_title": "Brian Wilson: A Beach Boy's Tale", "slug_title": "brian-wilson-a-beach-boy-s-tale", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

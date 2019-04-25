@@ -1,1 +1,0 @@
-{"tmdb_id": 360763, "title": "The Frozen Logger", "original_title": "Zrmzl\u00fd d\u0159eva\u0159", "slug_title": "the-frozen-logger", "date": "1962-09-20", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

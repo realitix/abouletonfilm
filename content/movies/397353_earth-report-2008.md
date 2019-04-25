@@ -1,1 +1,0 @@
-{"tmdb_id": 397353, "title": "Earth Report 2008", "original_title": "Earth Report 2008", "slug_title": "earth-report-2008", "date": "", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3L7UzO2yqS1KSg07PM3FbG9T2Lp.jpg", "actors": [], "comments": [], "recommandations_id": []}

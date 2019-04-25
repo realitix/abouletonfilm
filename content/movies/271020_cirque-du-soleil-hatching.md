@@ -1,1 +1,0 @@
-{"tmdb_id": 271020, "title": "Cirque du Soleil: Hatching", "original_title": "Cirque du Soleil: Hatching", "slug_title": "cirque-du-soleil-hatching", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l7iP2hEV52VxhqT2xGm4eyPoVjg.jpg", "actors": [], "comments": [], "recommandations_id": []}

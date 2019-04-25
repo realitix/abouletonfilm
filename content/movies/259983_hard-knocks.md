@@ -1,1 +1,0 @@
-{"tmdb_id": 259983, "title": "Hard Knocks", "original_title": "Hard Knocks", "slug_title": "hard-knocks", "date": "1980-10-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Xk5TMgJvF2pBTtLLlCGqZv2r6e.jpg", "actors": [], "comments": [], "recommandations_id": []}

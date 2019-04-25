@@ -1,1 +1,0 @@
-{"tmdb_id": 520813, "title": "Little Saigon", "original_title": "Little Saigon", "slug_title": "little-saigon", "date": "2014-12-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lsMbLIQhPssxxxHwtA1r6yBrwHX.jpg", "actors": [], "comments": [], "recommandations_id": []}

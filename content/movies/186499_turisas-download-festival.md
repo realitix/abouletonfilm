@@ -1,1 +1,0 @@
-{"tmdb_id": 186499, "title": "Turisas: Download festival", "original_title": "Turisas: Download festival", "slug_title": "turisas-download-festival", "date": "2007-08-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

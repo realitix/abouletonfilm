@@ -1,1 +1,0 @@
-{"tmdb_id": 297123, "title": "Nuits de princes", "original_title": "Nuits de princes", "slug_title": "nuits-de-princes", "date": "1930-03-04", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gina Man\u00e8s (Helene Vronsky)", "Jaque Catelain (Vassia)", "Harry Nestor (Prince Fedor)"], "comments": [], "recommandations_id": []}

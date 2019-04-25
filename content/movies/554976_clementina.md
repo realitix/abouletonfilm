@@ -1,1 +1,0 @@
-{"tmdb_id": 554976, "title": "Clementina", "original_title": "Clementina", "slug_title": "clementina", "date": "2018-11-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/A04WGl8ZMjV1SATCbcTk5wE2CI4.jpg", "actors": [], "comments": [], "recommandations_id": []}

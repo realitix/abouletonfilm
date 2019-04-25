@@ -1,1 +1,0 @@
-{"tmdb_id": 310669, "title": "SNL: Tribute to Chris Farley", "original_title": "SNL: Tribute to Chris Farley", "slug_title": "snl-tribute-to-chris-farley", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fT3FNL79WuhHkAzY2K17PAwLI7x.jpg", "actors": [], "comments": [], "recommandations_id": []}

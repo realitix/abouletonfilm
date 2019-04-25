@@ -1,1 +1,0 @@
-{"tmdb_id": 326752, "title": "Aw, Nurse", "original_title": "Aw, Nurse", "slug_title": "aw-nurse", "date": "1934-03-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

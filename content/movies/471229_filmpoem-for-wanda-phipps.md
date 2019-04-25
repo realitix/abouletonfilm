@@ -1,1 +1,0 @@
-{"tmdb_id": 471229, "title": "Filmpoem for Wanda Phipps", "original_title": "Filmpoem for Wanda Phipps", "slug_title": "filmpoem-for-wanda-phipps", "date": "1995-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/crVtw54oWXyUOgjOQVAQ5C9n82L.jpg", "actors": [], "comments": [], "recommandations_id": []}

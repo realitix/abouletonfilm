@@ -1,1 +1,0 @@
-{"tmdb_id": 173958, "title": "Go Potty Go!", "original_title": "Go Potty Go!", "slug_title": "go-potty-go", "date": "2007-09-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7ZDgDcGtznwX0oKQlV86AvoqKfO.jpg", "actors": [], "comments": [], "recommandations_id": []}

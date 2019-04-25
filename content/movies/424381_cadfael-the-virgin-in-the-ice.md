@@ -1,1 +1,0 @@
-{"tmdb_id": 424381, "title": "Cadfael: The Virgin in the Ice", "original_title": "Cadfael: The Virgin in the Ice", "slug_title": "cadfael-the-virgin-in-the-ice", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kOSqn2yEV6POaJrOjh10aIKuyHy.jpg", "actors": [], "comments": [], "recommandations_id": []}

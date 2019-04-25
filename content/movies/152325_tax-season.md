@@ -1,1 +1,0 @@
-{"tmdb_id": 152325, "title": "Tax Season", "original_title": "Tax Season", "slug_title": "tax-season", "date": "1988-01-12", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8erbWXzd1Jrq5DeQ8fUV32iKoZr.jpg", "actors": ["James Hong (Mr. Tagasaki)"], "comments": [], "recommandations_id": []}

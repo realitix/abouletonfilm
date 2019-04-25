@@ -1,1 +1,0 @@
-{"tmdb_id": 581202, "title": "A Very Dangerous Man", "original_title": "A Very Dangerous Man", "slug_title": "a-very-dangerous-man", "date": "2012-12-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Faraj Aoun ()", "Salim Mourad ()"], "comments": [], "recommandations_id": []}

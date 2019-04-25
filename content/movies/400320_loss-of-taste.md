@@ -1,1 +1,0 @@
-{"tmdb_id": 400320, "title": "Loss of Taste", "original_title": "Loss of Taste", "slug_title": "loss-of-taste", "date": "2011-06-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

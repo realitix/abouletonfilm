@@ -1,1 +1,0 @@
-{"tmdb_id": 249891, "title": "Musicagen", "original_title": "Musicagen", "slug_title": "musicagen", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Andr\u00e9 Abujamra ()", "J\u00falio Medaglia ()", "Tha\u00edde ()"], "comments": [], "recommandations_id": []}

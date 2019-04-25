@@ -1,1 +1,0 @@
-{"tmdb_id": 46390, "title": "Crackie", "original_title": "Crackie", "slug_title": "crackie", "date": "2009-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/24EtaACQr4amIRszbOjfYW2dbQZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

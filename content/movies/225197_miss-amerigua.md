@@ -1,1 +1,0 @@
-{"tmdb_id": 225197, "title": "Miss Amerigu\u00e1", "original_title": "Miss Amerigu\u00e1", "slug_title": "miss-amerigua", "date": "1994-05-19", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nN1XgRqYjnqI4sepsQcV5Tp58wx.jpg", "actors": [], "comments": [], "recommandations_id": []}

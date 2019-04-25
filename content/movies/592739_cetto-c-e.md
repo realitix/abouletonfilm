@@ -1,1 +1,0 @@
-{"tmdb_id": 592739, "title": "Cetto C'\u00e8", "original_title": "Cetto C'\u00e8", "slug_title": "cetto-c-e", "date": "2019-11-21", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Antonio Albanese (Cetto La Qualunque)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 556729, "title": "The Rebel", "original_title": "Le rebelle", "slug_title": "the-rebel", "date": "1931-07-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

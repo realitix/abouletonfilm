@@ -1,1 +1,0 @@
-{"tmdb_id": 358372, "title": "Design Workshops", "original_title": "Design Workshops", "slug_title": "design-workshops", "date": "1944-09-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mgqizHWGux6QRgbRkDpBwTrhOLq.jpg", "actors": [], "comments": [], "recommandations_id": []}

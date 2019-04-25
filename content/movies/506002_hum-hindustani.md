@@ -1,1 +1,0 @@
-{"tmdb_id": 506002, "title": "Hum Hindustani", "original_title": "Hum Hindustani", "slug_title": "hum-hindustani", "date": "1960-03-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sunil Dutt ()", "Joy Mukherjee ()", "Asha Parekh ()", "Prem Chopra ()", "Helen ()", "Sanjeev Kumar ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 374801, "title": "Trivial Pursuit - Disney", "original_title": "Trivial Pursuit - Disney", "slug_title": "trivial-pursuit-disney", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

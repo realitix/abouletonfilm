@@ -1,1 +1,0 @@
-{"tmdb_id": 493144, "title": "Arthur & Claire", "original_title": "Arthur & Claire", "slug_title": "arthur-claire", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

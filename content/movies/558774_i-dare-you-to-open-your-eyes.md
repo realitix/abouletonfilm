@@ -1,1 +1,0 @@
-{"tmdb_id": 558774, "title": "I Dare You to Open Your Eyes", "original_title": "I Dare You to Open Your Eyes", "slug_title": "i-dare-you-to-open-your-eyes", "date": "2018-07-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

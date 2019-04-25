@@ -1,1 +1,0 @@
-{"tmdb_id": 262382, "title": "Avare En Deivam", "original_title": "Avare En Deivam", "slug_title": "avare-en-deivam", "date": "1969-05-10", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gemini Ganesan ()", "R. Muthuraman ()", "C. R. Vijayakumari ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 301937, "title": "Interesting Ball", "original_title": "Interesting Ball", "slug_title": "interesting-ball", "date": "2014-11-03", "genre": "Fantastique / Com\u00e9die", "score": "7.1/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rl7POon7NjRaonDbxJMk7zHsYao.jpg", "actors": [], "comments": [], "recommandations_id": []}

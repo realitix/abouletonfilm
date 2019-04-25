@@ -1,1 +1,0 @@
-{"tmdb_id": 200343, "title": "Four Hours in My Lai", "original_title": "Four Hours in My Lai", "slug_title": "four-hours-in-my-lai", "date": "1989-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sItWrjU411uafQcL9uo8JNm4Jhn.jpg", "actors": [], "comments": [], "recommandations_id": []}

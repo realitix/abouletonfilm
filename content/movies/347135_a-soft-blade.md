@@ -1,1 +1,0 @@
-{"tmdb_id": 347135, "title": "A Soft Blade", "original_title": "A Soft Blade", "slug_title": "a-soft-blade", "date": "2014-04-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

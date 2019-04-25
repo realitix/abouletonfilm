@@ -1,1 +1,0 @@
-{"tmdb_id": 174604, "title": "War of Internet Addiction", "original_title": "\u7f51\u763e\u6218\u4e89", "slug_title": "war-of-internet-addiction", "date": "2010-01-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ffhgUao0PUA4Q0UM0XF9JFOBKJd.jpg", "actors": [], "comments": [], "recommandations_id": []}

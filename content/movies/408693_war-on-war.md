@@ -1,1 +1,0 @@
-{"tmdb_id": 408693, "title": "War on War", "original_title": "Harb Aala el Harb", "slug_title": "war-on-war", "date": "1983-01-01", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g86X109QI6d72rmws8q8wrFywEd.jpg", "actors": [], "comments": [], "recommandations_id": [128941, 158292, 145013, 125713]}

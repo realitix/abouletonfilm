@@ -1,1 +1,0 @@
-{"tmdb_id": 474368, "title": "Insanity - Fast and Furious Abs", "original_title": "Insanity - Fast and Furious Abs", "slug_title": "insanity-fast-and-furious-abs", "date": "2016-04-13", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Shaun T. ()"], "comments": [], "recommandations_id": []}

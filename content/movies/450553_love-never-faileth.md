@@ -1,1 +1,0 @@
-{"tmdb_id": 450553, "title": "Love Never Faileth", "original_title": "\u6625\u5922\u4e86\u7121\u75d5", "slug_title": "love-never-faileth", "date": "1968-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ai Li ()", "Liu Chia-chang ()", "David Tang Wei ()"], "comments": [], "recommandations_id": []}

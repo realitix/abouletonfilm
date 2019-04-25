@@ -1,1 +1,0 @@
-{"tmdb_id": 235658, "title": "Information Please: Series 1, No. 1", "original_title": "Information Please: Series 1, No. 1", "slug_title": "information-please-series-1-no-1", "date": "1939-09-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

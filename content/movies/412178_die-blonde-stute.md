@@ -1,1 +1,0 @@
-{"tmdb_id": 412178, "title": "Die blonde Stute", "original_title": "Die blonde Stute", "slug_title": "die-blonde-stute", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sq4WvoTmNB7dFOqHiU2QCMEL2GH.jpg", "actors": [], "comments": [], "recommandations_id": []}

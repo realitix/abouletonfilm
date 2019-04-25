@@ -1,1 +1,0 @@
-{"tmdb_id": 563876, "title": "Bogdan and Roza", "original_title": "Bogdan I Roza", "slug_title": "bogdan-and-roza", "date": "2018-11-24", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jerzy Rogalski (Bogdan)", "Maria Ciunelis (Roza)"], "comments": [], "recommandations_id": []}

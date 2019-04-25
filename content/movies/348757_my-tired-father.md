@@ -1,1 +1,0 @@
-{"tmdb_id": 348757, "title": "My Tired Father", "original_title": "My Tired Father", "slug_title": "my-tired-father", "date": "2011-06-14", "genre": "Familial / Drame", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Daria Vitkova (Daria)", "Emil Vitkov (Father)", "Anna Vitkova (Mother)"], "comments": [], "recommandations_id": []}

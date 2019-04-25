@@ -1,1 +1,0 @@
-{"tmdb_id": 315474, "title": "Crack Headz Gone Wild: New York", "original_title": "Crack Headz Gone Wild: New York", "slug_title": "crack-headz-gone-wild-new-york", "date": "2006-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

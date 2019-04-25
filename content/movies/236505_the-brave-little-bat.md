@@ -1,1 +1,0 @@
-{"tmdb_id": 236505, "title": "The Brave Little Bat", "original_title": "The Brave Little Bat", "slug_title": "the-brave-little-bat", "date": "1941-09-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g0RC9ex25Xn04BzJbvWmwwcpHT4.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 338145, "title": "Naya Khoon", "original_title": "Naya Khoon", "slug_title": "naya-khoon", "date": "1990-02-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hkDNYgIZrKt5uVLwGqPfHyubZVF.jpg", "actors": [], "comments": [], "recommandations_id": []}

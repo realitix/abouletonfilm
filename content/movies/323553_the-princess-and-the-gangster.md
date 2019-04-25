@@ -1,1 +1,0 @@
-{"tmdb_id": 323553, "title": "The Princess and the Gangster", "original_title": "The Princess and the Gangster", "slug_title": "the-princess-and-the-gangster", "date": "2009-01-01", "genre": "", "score": "1.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

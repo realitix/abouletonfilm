@@ -1,1 +1,0 @@
-{"tmdb_id": 174859, "title": "Dios Sabe", "original_title": "Dios Sabe", "slug_title": "dios-sabe", "date": "2013-03-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4Y6xlIia4gLefyHyX8CPYPuoFUT.jpg", "actors": [], "comments": [], "recommandations_id": []}

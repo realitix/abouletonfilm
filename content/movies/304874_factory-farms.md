@@ -1,1 +1,0 @@
-{"tmdb_id": 304874, "title": "Factory Farms", "original_title": "Factory Farms", "slug_title": "factory-farms", "date": "2014-06-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

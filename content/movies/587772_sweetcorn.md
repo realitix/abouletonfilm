@@ -1,1 +1,0 @@
-{"tmdb_id": 587772, "title": "Sweetcorn", "original_title": "Sweetcorn", "slug_title": "sweetcorn", "date": "2019-03-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

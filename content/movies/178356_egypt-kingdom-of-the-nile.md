@@ -1,1 +1,0 @@
-{"tmdb_id": 178356, "title": "Egypt, Kingdom of the Nile", "original_title": "Egypt, Kingdom of the Nile", "slug_title": "egypt-kingdom-of-the-nile", "date": "1934-03-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["James A. FitzPatrick ()"], "comments": [], "recommandations_id": []}

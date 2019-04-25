@@ -1,1 +1,0 @@
-{"tmdb_id": 571881, "title": "Violetta, the Motorcycle Queen", "original_title": "Violetta, la reine de la moto", "slug_title": "violetta-the-motorcycle-queen", "date": "1997-11-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/y1s1Sgfrw20lHHYC8LpFZMbgof2.jpg", "actors": [], "comments": [], "recommandations_id": []}

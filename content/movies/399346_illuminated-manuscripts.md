@@ -1,1 +1,0 @@
-{"tmdb_id": 399346, "title": "Illuminated Manuscripts", "original_title": "Illuminated Manuscripts", "slug_title": "illuminated-manuscripts", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z5KIkRQ7nHiL9HuLoNQzAMMypYD.jpg", "actors": [], "comments": [], "recommandations_id": []}

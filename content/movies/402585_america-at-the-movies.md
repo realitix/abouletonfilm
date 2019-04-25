@@ -1,1 +1,0 @@
-{"tmdb_id": 402585, "title": "America at the Movies", "original_title": "America at the Movies", "slug_title": "america-at-the-movies", "date": "1976-09-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yBVwnAW1HWpwruPTDwyA5GYvoVH.jpg", "actors": [], "comments": [], "recommandations_id": []}

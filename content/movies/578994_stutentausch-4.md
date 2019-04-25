@@ -1,1 +1,0 @@
-{"tmdb_id": 578994, "title": "Stutentausch 4", "original_title": "Stutentausch 4", "slug_title": "stutentausch-4", "date": "2018-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cFeRy53jRKfDGHOsXfAIZodVt9e.jpg", "actors": ["Vivian Schmitt ()", "Conny Dachs ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 416653, "title": "Truffaut-Godard: sc\u00e9nario d'une rupture", "original_title": "Truffaut-Godard: sc\u00e9nario d'une rupture", "slug_title": "truffaut-godard-scenario-d-une-rupture", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 256318, "title": "Chroma Chameleon", "original_title": "Chroma Chameleon", "slug_title": "chroma-chameleon", "date": "2008-12-12", "genre": "Animation", "score": "0.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dcGxeMRZy8QiXxEO0HTv62UdH4C.jpg", "actors": [], "comments": [], "recommandations_id": []}

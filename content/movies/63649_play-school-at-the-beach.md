@@ -1,1 +1,0 @@
-{"tmdb_id": 63649, "title": "Play School - At The Beach", "original_title": "Play School - At The Beach", "slug_title": "play-school-at-the-beach", "date": "2008-01-01", "genre": "", "score": "3.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7NwMoUoxY5nRmDDsc5FHWaRQNWO.jpg", "actors": [], "comments": [], "recommandations_id": []}

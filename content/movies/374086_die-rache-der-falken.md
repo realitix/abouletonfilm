@@ -1,1 +1,0 @@
-{"tmdb_id": 374086, "title": "Die Rache der Falken", "original_title": "Die Rache der Falken", "slug_title": "die-rache-der-falken", "date": "1965-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xHewYS5Gla26pkCCG4ljpRWUuxR.jpg", "actors": [], "comments": [], "recommandations_id": []}

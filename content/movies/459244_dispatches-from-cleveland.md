@@ -1,1 +1,0 @@
-{"tmdb_id": 459244, "title": "Dispatches from Cleveland", "original_title": "Dispatches from Cleveland", "slug_title": "dispatches-from-cleveland", "date": "2017-03-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/l0yISRNaf1W1zSWaj04mnp2o8jG.jpg", "actors": [], "comments": [], "recommandations_id": []}

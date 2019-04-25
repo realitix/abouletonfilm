@@ -1,1 +1,0 @@
-{"tmdb_id": 465394, "title": "The Blood Hound", "original_title": "\u8840\u72fc\u72ac", "slug_title": "the-blood-hound", "date": "2017-04-21", "genre": "Aventure / Action / Drame", "score": "1.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cSnvPKFPAc76YMbqke88kh9IqM4.jpg", "actors": [], "comments": [], "recommandations_id": []}

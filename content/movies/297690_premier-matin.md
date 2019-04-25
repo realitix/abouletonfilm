@@ -1,1 +1,0 @@
-{"tmdb_id": 297690, "title": "Premier Matin", "original_title": "Premier Matin", "slug_title": "premier-matin", "date": "2014-01-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Christophe de Mareuil ()", "Miren Pradier ()"], "comments": [], "recommandations_id": []}

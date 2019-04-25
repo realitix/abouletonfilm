@@ -1,1 +1,0 @@
-{"tmdb_id": 458662, "title": "Egregor", "original_title": "Egregor", "slug_title": "egregor", "date": "", "genre": "Thriller / Myst\u00e8re", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AqDdFOrfQtYHPQBA33YuHxtwvn6.jpg", "actors": ["James D'Arcy ()", "Franziska Petri ()"], "comments": [], "recommandations_id": []}

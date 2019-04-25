@@ -1,1 +1,0 @@
-{"tmdb_id": 139429, "title": "ECW  November to Remember 1999", "original_title": "ECW  November to Remember 1999", "slug_title": "ecw-november-to-remember-1999", "date": "1999-11-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sUeGnGoQYLsqQIW1zGX6aNgnexy.jpg", "actors": [], "comments": [], "recommandations_id": []}

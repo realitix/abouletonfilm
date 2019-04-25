@@ -1,1 +1,0 @@
-{"tmdb_id": 116075, "title": "Higher Than A Kite", "original_title": "Higher Than A Kite", "slug_title": "higher-than-a-kite", "date": "1943-07-30", "genre": "Com\u00e9die", "score": "5.7/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Curly Howard (Curly)", "Moe Howard ()", "Larry Fine ()"], "comments": [], "recommandations_id": []}

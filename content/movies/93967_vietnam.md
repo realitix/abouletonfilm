@@ -1,1 +1,0 @@
-{"tmdb_id": 93967, "title": "Vietnam", "original_title": "Vietnam", "slug_title": "vietnam", "date": "2001-10-09", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AcC7iO22WtxUX6RoNVNyvq0ZMqz.jpg", "actors": [], "comments": [], "recommandations_id": []}

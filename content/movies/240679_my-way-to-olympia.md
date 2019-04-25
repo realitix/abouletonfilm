@@ -1,1 +1,0 @@
-{"tmdb_id": 240679, "title": "My way to Olympia", "original_title": "Mein Weg nach Olympia", "slug_title": "my-way-to-olympia", "date": "2013-10-17", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tp0MnFnrviVM9PjKeXRrIJe2d2.jpg", "actors": [], "comments": [], "recommandations_id": []}

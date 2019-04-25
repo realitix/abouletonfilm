@@ -1,1 +1,0 @@
-{"tmdb_id": 424005, "title": "Mischievous Mice", "original_title": "Mischievous Mice", "slug_title": "mischievous-mice", "date": "1934-11-01", "genre": "Animation / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

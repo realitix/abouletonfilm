@@ -1,1 +1,0 @@
-{"tmdb_id": 392873, "title": "Pantera: [2001] Sunrise, FL", "original_title": "Pantera: [2001] Sunrise, FL", "slug_title": "pantera-2001-sunrise-fl", "date": "2001-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/q2i5UsZIg4LhMIDzxjD5ECJ9AmO.jpg", "actors": [], "comments": [], "recommandations_id": []}

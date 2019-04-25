@@ -1,1 +1,0 @@
-{"tmdb_id": 205241, "title": "Weird Fancies", "original_title": "La Danse du diable", "slug_title": "weird-fancies", "date": "1904-07-03", "genre": "Fantastique", "score": "5.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nJPCObdxEszjsIRKe2P5PoCZjr5.jpg", "actors": [], "comments": [], "recommandations_id": []}

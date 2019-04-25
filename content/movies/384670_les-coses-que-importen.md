@@ -1,1 +1,0 @@
-{"tmdb_id": 384670, "title": "Les coses que importen", "original_title": "Les coses que importen", "slug_title": "les-coses-que-importen", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

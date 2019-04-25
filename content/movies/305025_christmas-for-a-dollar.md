@@ -1,1 +1,0 @@
-{"tmdb_id": 305025, "title": "Christmas for a Dollar", "original_title": "Christmas for a Dollar", "slug_title": "christmas-for-a-dollar", "date": "2009-01-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8NvuMDNlRubq4vnE6Ga7UQ0CXec.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 46802, "title": "Motocross Zombies from Hell", "original_title": "Motocross Zombies from Hell", "slug_title": "motocross-zombies-from-hell", "date": "2007-01-01", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/c5nnNvnO6qrkQEtB12Ezzss0UZa.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 494917, "title": "Tis the Season", "original_title": "Tis the Season", "slug_title": "tis-the-season", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

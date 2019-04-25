@@ -1,1 +1,0 @@
-{"tmdb_id": 345465, "title": "Dune - Bedrohung des Imperiums", "original_title": "Dune - Bedrohung des Imperiums", "slug_title": "dune-bedrohung-des-imperiums", "date": "2003-03-06", "genre": "Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Alec Newman (Paul Atreides)"], "comments": [], "recommandations_id": []}

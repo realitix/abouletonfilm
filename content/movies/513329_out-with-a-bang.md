@@ -1,1 +1,0 @@
-{"tmdb_id": 513329, "title": "Out with a Bang", "original_title": "Out with a Bang", "slug_title": "out-with-a-bang", "date": "2016-02-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rNDV3arI7a7o38qPUutPVooXgwI.jpg", "actors": [], "comments": [], "recommandations_id": []}

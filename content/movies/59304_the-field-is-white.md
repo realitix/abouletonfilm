@@ -1,1 +1,0 @@
-{"tmdb_id": 59304, "title": "The Field Is White", "original_title": "The Field Is White", "slug_title": "the-field-is-white", "date": "2002-01-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zx2ZVvqnz19Src4u733nzSvdoiG.jpg", "actors": [], "comments": [], "recommandations_id": []}

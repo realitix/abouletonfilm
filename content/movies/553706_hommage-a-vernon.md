@@ -1,1 +1,0 @@
-{"tmdb_id": 553706, "title": "Hommage \u00e0 Vernon", "original_title": "Hommage \u00e0 Vernon", "slug_title": "hommage-a-vernon", "date": "1983-06-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

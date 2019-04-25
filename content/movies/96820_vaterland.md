@@ -1,1 +1,0 @@
-{"tmdb_id": 96820, "title": "Vaterland", "original_title": "Vaterland", "slug_title": "vaterland", "date": "2002-10-18", "genre": "Documentaire", "score": "4.6/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3MSvbMwNxV8tgxdcvEXrUlW9c7D.jpg", "actors": [], "comments": [], "recommandations_id": []}

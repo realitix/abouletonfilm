@@ -1,1 +1,0 @@
-{"tmdb_id": 275755, "title": "Malevolent Creation: Lost Commandments", "original_title": "Malevolent Creation: Lost Commandments", "slug_title": "malevolent-creation-lost-commandments", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

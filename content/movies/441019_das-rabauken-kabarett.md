@@ -1,1 +1,0 @@
-{"tmdb_id": 441019, "title": "Das Rabauken-Kabarett", "original_title": "Das Rabauken-Kabarett", "slug_title": "das-rabauken-kabarett", "date": "1961-04-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zn4VcOhyGtwb9wAwcjZu2lppCyz.jpg", "actors": [], "comments": [], "recommandations_id": []}

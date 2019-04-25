@@ -1,1 +1,0 @@
-{"tmdb_id": 392758, "title": "Incantations", "original_title": "Incantations", "slug_title": "incantations", "date": "1972-04-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pqex2E9qsdRhQ9RgdHOLAqlfurq.jpg", "actors": [], "comments": [], "recommandations_id": []}

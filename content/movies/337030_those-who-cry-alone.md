@@ -1,1 +1,0 @@
-{"tmdb_id": 337030, "title": "Those Who Cry Alone", "original_title": "Los que Lloran Solos", "slug_title": "those-who-cry-alone", "date": "2010-05-22", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Asier V\u00e1zquez ()"], "comments": [], "recommandations_id": []}

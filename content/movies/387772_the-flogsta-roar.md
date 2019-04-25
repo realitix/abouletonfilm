@@ -1,1 +1,0 @@
-{"tmdb_id": 387772, "title": "The Flogsta Roar", "original_title": "Flogstavr\u00e5let", "slug_title": "the-flogsta-roar", "date": "2013-01-01", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1dlrl1GEZPTy2EwfVSypYmjRWrb.jpg", "actors": [], "comments": [], "recommandations_id": []}

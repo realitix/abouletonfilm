@@ -1,1 +1,0 @@
-{"tmdb_id": 538027, "title": "Robin Hood", "original_title": "Robin Hood", "slug_title": "robin-hood", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

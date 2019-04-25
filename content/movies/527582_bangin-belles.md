@@ -1,1 +1,0 @@
-{"tmdb_id": 527582, "title": "Bangin' Belles", "original_title": "Bangin' Belles", "slug_title": "bangin-belles", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/seBmUT0yGmOa42z198IWxJ7W3gd.jpg", "actors": [], "comments": [], "recommandations_id": []}

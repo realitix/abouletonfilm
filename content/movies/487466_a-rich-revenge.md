@@ -1,1 +1,0 @@
-{"tmdb_id": 487466, "title": "A Rich Revenge", "original_title": "A Rich Revenge", "slug_title": "a-rich-revenge", "date": "1910-04-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Billy Quirk (Harry)", "Francis J. Grandon (Bill)", "Mary Pickford (Jennie)"], "comments": [], "recommandations_id": []}

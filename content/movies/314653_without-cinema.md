@@ -1,1 +1,0 @@
-{"tmdb_id": 314653, "title": "Without Cinema", "original_title": "Bla Cinima", "slug_title": "without-cinema", "date": "2014-11-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

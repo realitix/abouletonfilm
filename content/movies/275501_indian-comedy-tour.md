@@ -1,1 +1,0 @@
-{"tmdb_id": 275501, "title": "Indian Comedy Tour", "original_title": "Indian Comedy Tour", "slug_title": "indian-comedy-tour", "date": "2010-03-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yXQt3BptlGHmbtMPsRquIGLYeDB.jpg", "actors": [], "comments": [], "recommandations_id": []}

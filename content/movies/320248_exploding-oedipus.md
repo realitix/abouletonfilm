@@ -1,1 +1,0 @@
-{"tmdb_id": 320248, "title": "Exploding Oedipus", "original_title": "Exploding Oedipus", "slug_title": "exploding-oedipus", "date": "2001-10-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fcRjch6nZZtOXeQsp0GArDO8mf4.jpg", "actors": [], "comments": [], "recommandations_id": []}

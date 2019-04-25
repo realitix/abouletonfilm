@@ -1,1 +1,0 @@
-{"tmdb_id": 519491, "title": "At Your Fingertips: Play Clay", "original_title": "At Your Fingertips: Play Clay", "slug_title": "at-your-fingertips-play-clay", "date": "1970-02-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 360433, "title": "Mr. Marsh Comes to School", "original_title": "Mr. Marsh Comes to School", "slug_title": "mr-marsh-comes-to-school", "date": "1961-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

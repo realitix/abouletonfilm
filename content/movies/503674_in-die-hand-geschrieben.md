@@ -1,1 +1,0 @@
-{"tmdb_id": 503674, "title": "In die Hand geschrieben", "original_title": "In die Hand geschrieben", "slug_title": "in-die-hand-geschrieben", "date": "2004-06-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qmaUqHuFv8sdTsTV3HxO3ejaD49.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 258083, "title": "Ausweglos", "original_title": "Ausweglos", "slug_title": "ausweglos", "date": "2010-11-28", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

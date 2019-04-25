@@ -1,1 +1,0 @@
-{"tmdb_id": 532360, "title": "Adam ve \u00c7ocuk", "original_title": "Adam ve \u00c7ocuk", "slug_title": "adam-ve-cocuk", "date": "2016-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/stNjMektF7VBxmWb6MUX08HjvHb.jpg", "actors": [], "comments": [], "recommandations_id": []}

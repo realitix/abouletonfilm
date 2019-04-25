@@ -1,1 +1,0 @@
-{"tmdb_id": 516496, "title": "From the Ashes - Nicaragua Today", "original_title": "De las Cenizas\u2026 Nicar\u00e1gua Hoy", "slug_title": "from-the-ashes-nicaragua-today", "date": "1982-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

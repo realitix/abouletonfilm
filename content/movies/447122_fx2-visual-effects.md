@@ -1,1 +1,0 @@
-{"tmdb_id": 447122, "title": "FX2: Visual Effects", "original_title": "FX2: Visual Effects", "slug_title": "fx2-visual-effects", "date": "2003-11-25", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e7p8D50ytZbApiYCzGOg8H8IlmY.jpg", "actors": [], "comments": [], "recommandations_id": []}

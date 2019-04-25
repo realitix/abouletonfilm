@@ -1,1 +1,0 @@
-{"tmdb_id": 423867, "title": "Song Shopping", "original_title": "Song Shopping", "slug_title": "song-shopping", "date": "1933-05-18", "genre": "Musique", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sogojmbCGKjNxUdvGCyqEdZ3RQY.jpg", "actors": ["Johnny Green ()", "Ethel Merman ()"], "comments": [], "recommandations_id": []}

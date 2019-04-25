@@ -1,1 +1,0 @@
-{"tmdb_id": 553885, "title": "Corpus Kristi", "original_title": "Corpus Kristi", "slug_title": "corpus-kristi", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/os8FXSGON220bZ8eGy1uqJBuTpz.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 449975, "title": "Too Good For Hollywood", "original_title": "Holivudas pasi\u016bl\u0117 per ma\u017eai", "slug_title": "too-good-for-hollywood", "date": "2017-03-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pcVQwhXb833EWprz29ToMogKMmf.jpg", "actors": [], "comments": [], "recommandations_id": []}

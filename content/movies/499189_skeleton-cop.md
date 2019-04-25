@@ -1,1 +1,0 @@
-{"tmdb_id": 499189, "title": "Skeleton Cop", "original_title": "Skeleton Cop", "slug_title": "skeleton-cop", "date": "2018-04-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7sX5WN1v9xVPttgi5c20mcBiUa7.jpg", "actors": [], "comments": [], "recommandations_id": []}

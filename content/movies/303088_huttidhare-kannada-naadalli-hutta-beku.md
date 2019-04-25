@@ -1,1 +1,0 @@
-{"tmdb_id": 303088, "title": "Huttidhare Kannada Naadalli Hutta Beku", "original_title": "Huttidhare Kannada Naadalli Hutta Beku", "slug_title": "huttidhare-kannada-naadalli-hutta-beku", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

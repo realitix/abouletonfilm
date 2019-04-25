@@ -1,1 +1,0 @@
-{"tmdb_id": 413325, "title": "Precious Knowledge", "original_title": "Precious Knowledge", "slug_title": "precious-knowledge", "date": "2012-05-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/amE3Lij5pcGiYSpP4tQjAWftxVR.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 585382, "title": "Fight Night", "original_title": "Fight Night", "slug_title": "fight-night", "date": "2018-06-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s96R4TOKs98EMFS2EHqsZdHZhSD.jpg", "actors": ["Luke Persiani ()"], "comments": [], "recommandations_id": []}

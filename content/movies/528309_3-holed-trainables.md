@@ -1,1 +1,0 @@
-{"tmdb_id": 528309, "title": "3 HOLED TRAINABLES", "original_title": "3 HOLED TRAINABLES", "slug_title": "3-holed-trainables", "date": "2006-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zO1ZnCHTHqwn6LMlepIrMjURyH3.jpg", "actors": [], "comments": [], "recommandations_id": []}

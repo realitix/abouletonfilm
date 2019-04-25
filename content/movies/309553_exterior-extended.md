@@ -1,1 +1,0 @@
-{"tmdb_id": 309553, "title": "Exterior Extended", "original_title": "Exterior Extended", "slug_title": "exterior-extended", "date": "2013-10-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1tVEsV9OqGz4ubmL971ZcPL0jKA.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 280175, "title": "Famous in 31 Days", "original_title": "Famous in 31 Days", "slug_title": "famous-in-31-days", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

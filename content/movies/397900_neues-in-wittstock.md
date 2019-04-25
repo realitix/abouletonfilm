@@ -1,1 +1,0 @@
-{"tmdb_id": 397900, "title": "Neues in Wittstock", "original_title": "Neues in Wittstock", "slug_title": "neues-in-wittstock", "date": "1992-11-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nQERG5yrfvsUs9Da02cA28GNokq.jpg", "actors": [], "comments": [], "recommandations_id": []}

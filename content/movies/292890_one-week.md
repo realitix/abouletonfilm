@@ -1,1 +1,0 @@
-{"tmdb_id": 292890, "title": "One Week", "original_title": "One Week", "slug_title": "one-week", "date": "2000-08-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

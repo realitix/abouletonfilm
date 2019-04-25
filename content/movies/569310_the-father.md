@@ -1,1 +1,0 @@
-{"tmdb_id": 569310, "title": "The Father", "original_title": "\u0627\u0644\u0623\u0628", "slug_title": "the-father", "date": "2017-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vVq5nRJRIG9nTmfGdUhxylJR9Ok.jpg", "actors": ["Ayman Zeidan (The Father)"], "comments": [], "recommandations_id": []}

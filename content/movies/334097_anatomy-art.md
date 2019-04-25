@@ -1,1 +1,0 @@
-{"tmdb_id": 334097, "title": "Anatomy Art", "original_title": "Anatomy Art", "slug_title": "anatomy-art", "date": "1998-04-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

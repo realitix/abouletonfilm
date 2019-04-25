@@ -1,1 +1,0 @@
-{"tmdb_id": 554168, "title": "Losing the Thread", "original_title": "Losing the Thread", "slug_title": "losing-the-thread", "date": "2015-01-01", "genre": "", "score": "0.0/10", "synopsis": "court-m\u00e9trage de Vivian Ostrovsky", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

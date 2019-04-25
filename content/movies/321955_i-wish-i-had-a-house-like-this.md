@@ -1,1 +1,0 @@
-{"tmdb_id": 321955, "title": "I Wish I Had a House Like This", "original_title": "I Wish I Had a House Like This", "slug_title": "i-wish-i-had-a-house-like-this", "date": "2008-08-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

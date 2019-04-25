@@ -1,1 +1,0 @@
-{"tmdb_id": 527301, "title": "Los hombres de mi vida", "original_title": "Los hombres de mi vida", "slug_title": "los-hombres-de-mi-vida", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

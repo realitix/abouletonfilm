@@ -1,1 +1,0 @@
-{"tmdb_id": 592524, "title": "Millennium: The Musical", "original_title": "Millennium: The Musical", "slug_title": "millennium-the-musical", "date": "1999-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Rob Brydon (Various characters)"], "comments": [], "recommandations_id": []}

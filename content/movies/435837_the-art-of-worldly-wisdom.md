@@ -1,1 +1,0 @@
-{"tmdb_id": 435837, "title": "The Art of Worldly Wisdom", "original_title": "The Art of Worldly Wisdom", "slug_title": "the-art-of-worldly-wisdom", "date": "1979-01-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7PSKp4pQeeX2z3fKAbKMOQj9LOU.jpg", "actors": [], "comments": [], "recommandations_id": []}

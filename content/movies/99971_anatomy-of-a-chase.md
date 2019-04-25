@@ -1,1 +1,0 @@
-{"tmdb_id": 99971, "title": "Anatomy of a Chase", "original_title": "Anatomy of a Chase", "slug_title": "anatomy-of-a-chase", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

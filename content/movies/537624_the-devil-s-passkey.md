@@ -1,1 +1,0 @@
-{"tmdb_id": 537624, "title": "The Devil's Passkey", "original_title": "The Devil's Passkey", "slug_title": "the-devil-s-passkey", "date": "1920-08-08", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

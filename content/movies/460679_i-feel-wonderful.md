@@ -1,1 +1,0 @@
-{"tmdb_id": 460679, "title": "I Feel Wonderful", "original_title": "I Feel Wonderful", "slug_title": "i-feel-wonderful", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

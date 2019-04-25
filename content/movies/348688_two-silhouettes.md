@@ -1,1 +1,0 @@
-{"tmdb_id": 348688, "title": "Two Silhouettes", "original_title": "Two Silhouettes", "slug_title": "two-silhouettes", "date": "1946-04-25", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n9d1gkyqgILedZco9W56OmmB189.jpg", "actors": ["Dinah Shore (Music)"], "comments": [], "recommandations_id": []}

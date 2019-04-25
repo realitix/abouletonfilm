@@ -1,1 +1,0 @@
-{"tmdb_id": 546709, "title": "Ghost Chasers", "original_title": "\u6253\u9b3c\u6551\u592b", "slug_title": "ghost-chasers", "date": "1985-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Linda Liu ()", "Yang Ching-huang ()", "Hsu Pu-Liao ()", "Fong Ching ()"], "comments": [], "recommandations_id": []}

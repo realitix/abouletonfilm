@@ -1,1 +1,0 @@
-{"tmdb_id": 428514, "title": "Le secret du corsaire rouge", "original_title": "Le secret du corsaire rouge", "slug_title": "le-secret-du-corsaire-rouge", "date": "1911-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ljFdxuqzUeUZRJYaps54c40Y8W.jpg", "actors": [], "comments": [], "recommandations_id": []}

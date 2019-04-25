@@ -1,1 +1,0 @@
-{"tmdb_id": 132149, "title": "Paul Rodriguez: Just for the Record", "original_title": "Paul Rodriguez: Just for the Record", "slug_title": "paul-rodriguez-just-for-the-record", "date": "2012-09-25", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Paul Rodr\u00edguez (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 377931, "title": "The Day Was a Scorcher", "original_title": "The Day Was a Scorcher", "slug_title": "the-day-was-a-scorcher", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

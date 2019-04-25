@@ -1,1 +1,0 @@
-{"tmdb_id": 473482, "title": "Sensoriums at Sea: Toothy Two", "original_title": "Sensoriums at Sea: Toothy Two", "slug_title": "sensoriums-at-sea-toothy-two", "date": "2010-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

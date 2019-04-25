@@ -1,1 +1,0 @@
-{"tmdb_id": 188391, "title": "Porky's Prize Pony", "original_title": "Porky's Prize Pony", "slug_title": "porky-s-prize-pony", "date": "1941-06-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s4r1bOFcwBOTrqBtqqcvkp1a6QJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

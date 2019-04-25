@@ -1,1 +1,0 @@
-{"tmdb_id": 102922, "title": "Gulliver's Travels", "original_title": "Gulliver's Travels", "slug_title": "gulliver-s-travels", "date": "1996-03-19", "genre": "Musique / Animation / Familial / Fantastique", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

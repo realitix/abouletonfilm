@@ -1,1 +1,0 @@
-{"tmdb_id": 219359, "title": "Warbirds", "original_title": "Warbirds", "slug_title": "warbirds", "date": "1989-01-01", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/e2RSaqryUPKkkX73gZIj4T5ivIs.jpg", "actors": ["James Eldert ()", "Cully Holland ()", "Bill Brinsfield ()"], "comments": [], "recommandations_id": []}

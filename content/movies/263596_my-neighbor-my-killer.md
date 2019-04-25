@@ -1,1 +1,0 @@
-{"tmdb_id": 263596, "title": "My Neighbor, My Killer", "original_title": "My Neighbor, My Killer", "slug_title": "my-neighbor-my-killer", "date": "2009-04-27", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9BwVBRHadDoZsMAVxh9dQUAqZck.jpg", "actors": [], "comments": [], "recommandations_id": []}

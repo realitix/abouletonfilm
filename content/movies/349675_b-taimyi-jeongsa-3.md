@@ -1,1 +1,0 @@
-{"tmdb_id": 349675, "title": "B \ud0c0\uc784\uc758 \uc815\uc0ac 3", "original_title": "B \ud0c0\uc784\uc758 \uc815\uc0ac 3", "slug_title": "b-taimyi-jeongsa-3", "date": "1993-08-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

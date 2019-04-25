@@ -1,1 +1,0 @@
-{"tmdb_id": 503290, "title": "The Spirit of the Mask", "original_title": "The Spirit of the Mask", "slug_title": "the-spirit-of-the-mask", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Wade Davis (Host/Narrator)", "Andrew Callicum (Himself)", "Robert Joseph (Himself)"], "comments": [], "recommandations_id": []}

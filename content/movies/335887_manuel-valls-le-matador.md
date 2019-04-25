@@ -1,1 +1,0 @@
-{"tmdb_id": 335887, "title": "Manuel Valls : le Matador", "original_title": "Manuel Valls : le Matador", "slug_title": "manuel-valls-le-matador", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

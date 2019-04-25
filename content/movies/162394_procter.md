@@ -1,1 +1,0 @@
-{"tmdb_id": 162394, "title": "Procter", "original_title": "Procter", "slug_title": "procter", "date": "2002-08-30", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jDiNJ9K9XabzLUfvSTNKi1neq6n.jpg", "actors": [], "comments": [], "recommandations_id": [325559, 148822, 264482, 149937]}

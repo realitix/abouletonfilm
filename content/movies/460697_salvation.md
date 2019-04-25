@@ -1,1 +1,0 @@
-{"tmdb_id": 460697, "title": "Salvation", "original_title": "Salvation", "slug_title": "salvation", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

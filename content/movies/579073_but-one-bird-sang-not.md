@@ -1,1 +1,0 @@
-{"tmdb_id": 579073, "title": "But One Bird Sang Not", "original_title": "Mais un oiseau ne chantait pas", "slug_title": "but-one-bird-sang-not", "date": "2019-01-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lQ6ShDbk8xs01MRfYc3a7JN2W7k.jpg", "actors": [], "comments": [], "recommandations_id": []}

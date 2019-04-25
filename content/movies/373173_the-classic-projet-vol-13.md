@@ -1,1 +1,0 @@
-{"tmdb_id": 373173, "title": "The Classic Projet Vol. 13", "original_title": "The Classic Projet Vol. 13", "slug_title": "the-classic-projet-vol-13", "date": "", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n4M6EF8iPxkUXoPzbL2Dc7ueA1j.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 377009, "title": "Carvalho's Journey", "original_title": "Carvalho's Journey", "slug_title": "carvalho-s-journey", "date": "2015-07-28", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Michael Stuhlbarg (Narrator)", "Josh Hamilton (Voice)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 231946, "title": "N.Y. Fire Department Returning", "original_title": "N.Y. Fire Department Returning", "slug_title": "n-y-fire-department-returning", "date": "1903-05-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

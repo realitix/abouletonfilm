@@ -1,1 +1,0 @@
-{"tmdb_id": 285686, "title": "Cold Iron is a Titanic Comedy", "original_title": "Cold Iron is a Titanic Comedy", "slug_title": "cold-iron-is-a-titanic-comedy", "date": "2014-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

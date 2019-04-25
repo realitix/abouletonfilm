@@ -1,1 +1,0 @@
-{"tmdb_id": 335110, "title": "Beaches of Brazil", "original_title": "Beaches of Brazil", "slug_title": "beaches-of-brazil", "date": "2006-07-06", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/llvHK08jliO6ICAU7ii5q8zVAOt.jpg", "actors": [], "comments": [], "recommandations_id": []}

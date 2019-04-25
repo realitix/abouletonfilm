@@ -1,1 +1,0 @@
-{"tmdb_id": 332269, "title": "The Age of Love", "original_title": "The Age of Love", "slug_title": "the-age-of-love", "date": "2014-04-27", "genre": "Romance / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kpqOM3XTrSXc2aLfgr6PlGhpaYf.jpg", "actors": [], "comments": [], "recommandations_id": []}

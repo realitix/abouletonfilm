@@ -1,1 +1,0 @@
-{"tmdb_id": 478060, "title": "Landless Moroccans", "original_title": "Landless Moroccans", "slug_title": "landless-moroccans", "date": "2016-08-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/diZjTu7r2yYhjYROl7bH8coeX0Y.jpg", "actors": [], "comments": [], "recommandations_id": []}

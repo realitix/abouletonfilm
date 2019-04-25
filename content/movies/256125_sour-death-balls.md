@@ -1,1 +1,0 @@
-{"tmdb_id": 256125, "title": "Sour Death Balls", "original_title": "Sour Death Balls", "slug_title": "sour-death-balls", "date": "1993-01-01", "genre": "Com\u00e9die", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1J2yuViABUvQdxWZ6vqQ7ozZBZx.jpg", "actors": [], "comments": [], "recommandations_id": []}

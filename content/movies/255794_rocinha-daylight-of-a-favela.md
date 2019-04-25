@@ -1,1 +1,0 @@
-{"tmdb_id": 255794, "title": "ROCINHA: Daylight of a Favela", "original_title": "ROCINHA: Daylight of a Favela", "slug_title": "rocinha-daylight-of-a-favela", "date": "2004-06-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nkH3yEqiz1TpnzmKComRw0wAr4o.jpg", "actors": [], "comments": [], "recommandations_id": []}

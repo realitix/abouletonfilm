@@ -1,1 +1,0 @@
-{"tmdb_id": 37540, "title": "Taking Le Tiss", "original_title": "Taking Le Tiss", "slug_title": "taking-le-tiss", "date": "", "genre": "Drame / Action", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fvbaghOU8cgh67E5hkLxszr5v05.jpg", "actors": [], "comments": [], "recommandations_id": []}

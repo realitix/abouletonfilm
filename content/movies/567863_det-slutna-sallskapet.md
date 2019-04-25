@@ -1,1 +1,0 @@
-{"tmdb_id": 567863, "title": "Det slutna s\u00e4llskapet", "original_title": "Det slutna s\u00e4llskapet", "slug_title": "det-slutna-sallskapet", "date": "2018-12-04", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

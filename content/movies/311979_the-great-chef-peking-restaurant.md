@@ -1,1 +1,0 @@
-{"tmdb_id": 311979, "title": "The Great Chef: Peking Restaurant", "original_title": "\u5317\u4eac\u98ef\u5e97", "slug_title": "the-great-chef-peking-restaurant", "date": "1999-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Yoo Yeon-soo (Kalpan)"], "comments": [], "recommandations_id": []}

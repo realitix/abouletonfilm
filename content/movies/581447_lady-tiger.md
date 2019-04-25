@@ -1,1 +1,0 @@
-{"tmdb_id": 581447, "title": "Lady Tiger", "original_title": "Lady Tiger", "slug_title": "lady-tiger", "date": "2019-02-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nBihInJ5EoIjyi8EfrDzpX6rd6K.jpg", "actors": ["Nayanthara ()", "Biju Menon ()", "Prakash Raj ()"], "comments": [], "recommandations_id": []}

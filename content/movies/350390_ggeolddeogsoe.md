@@ -1,1 +1,0 @@
-{"tmdb_id": 350390, "title": "\uaec4\ub5a1\uc1e0", "original_title": "\uaec4\ub5a1\uc1e0", "slug_title": "ggeolddeogsoe", "date": "1989-10-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

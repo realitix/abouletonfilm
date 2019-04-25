@@ -1,1 +1,0 @@
-{"tmdb_id": 120116, "title": "MANA: Arde el Cielo", "original_title": "MANA: Arde el Cielo", "slug_title": "mana-arde-el-cielo", "date": "2008-11-27", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nobRnStbI4Y0iI8BlAnPqUKs03n.jpg", "actors": [], "comments": [], "recommandations_id": []}

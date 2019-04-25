@@ -1,1 +1,0 @@
-{"tmdb_id": 559101, "title": "La femme fatale", "original_title": "La femme fatale", "slug_title": "la-femme-fatale", "date": "1946-04-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j1Q7Oi1HCfF85uMnll8KdI2odz1.jpg", "actors": [], "comments": [], "recommandations_id": []}

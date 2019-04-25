@@ -1,1 +1,0 @@
-{"tmdb_id": 265734, "title": "Track Two", "original_title": "Track Two", "slug_title": "track-two", "date": "1982-07-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

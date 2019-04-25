@@ -1,1 +1,0 @@
-{"tmdb_id": 147676, "title": "The Wonder Ring", "original_title": "The Wonder Ring", "slug_title": "the-wonder-ring", "date": "1955-12-04", "genre": "Documentaire", "score": "5.6/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kWH6w02Ogm9mR9HHUrNWw3iKTmd.jpg", "actors": [], "comments": [], "recommandations_id": [193652, 126194, 126200, 175461]}

@@ -1,1 +1,0 @@
-{"tmdb_id": 318809, "title": "Acteurs japonais: Bataille au sabre", "original_title": "Acteurs japonais: Bataille au sabre", "slug_title": "acteurs-japonais-bataille-au-sabre", "date": "1898-01-16", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

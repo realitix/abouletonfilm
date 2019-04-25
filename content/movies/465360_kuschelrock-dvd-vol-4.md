@@ -1,1 +1,0 @@
-{"tmdb_id": 465360, "title": "Kuschelrock DVD Vol. 4", "original_title": "Kuschelrock DVD Vol. 4", "slug_title": "kuschelrock-dvd-vol-4", "date": "2006-11-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8FtMusi0lt70KwupRtXRJxwcVX7.jpg", "actors": [], "comments": [], "recommandations_id": []}

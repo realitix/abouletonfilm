@@ -1,1 +1,0 @@
-{"tmdb_id": 439360, "title": "Back to Work", "original_title": "Back to Work", "slug_title": "back-to-work", "date": "2010-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

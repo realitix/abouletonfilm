@@ -1,1 +1,0 @@
-{"tmdb_id": 39756, "title": "Hans Theessink: Live in Concert", "original_title": "Hans Theessink: Live in Concert", "slug_title": "hans-theessink-live-in-concert", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

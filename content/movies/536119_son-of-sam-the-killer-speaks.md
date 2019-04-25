@@ -1,1 +1,0 @@
-{"tmdb_id": 536119, "title": "Son of Sam: The Killer Speaks", "original_title": "Son of Sam: The Killer Speaks", "slug_title": "son-of-sam-the-killer-speaks", "date": "2017-08-11", "genre": "Crime", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 302609, "title": "Fireman Sam: Helicopter Heroes", "original_title": "Fireman Sam: Helicopter Heroes", "slug_title": "fireman-sam-helicopter-heroes", "date": "2011-09-05", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eoKo0NAWhBZh7au7kf3MDuF1x4j.jpg", "actors": [], "comments": [], "recommandations_id": []}

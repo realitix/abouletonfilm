@@ -1,1 +1,0 @@
-{"tmdb_id": 56021, "title": "Death of Evil", "original_title": "Death of Evil", "slug_title": "death-of-evil", "date": "2009-07-03", "genre": "Action / Horreur / Myst\u00e8re / Thriller", "score": "2.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mlgQh5DPR93cDO1B4SvR8jRqPD.jpg", "actors": [], "comments": [], "recommandations_id": []}

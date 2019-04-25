@@ -1,1 +1,0 @@
-{"tmdb_id": 418952, "title": "Domnisoara Christina", "original_title": "Domnisoara Christina", "slug_title": "domnisoara-christina", "date": "1992-01-01", "genre": "Myst\u00e8re / Horreur", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eKcOz4Omch6KmLw5qSNjiG6xK8l.jpg", "actors": [], "comments": [], "recommandations_id": []}

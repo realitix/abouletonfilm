@@ -1,1 +1,0 @@
-{"tmdb_id": 354010, "title": "A Heavy Sea", "original_title": "Gros temps en mer", "slug_title": "a-heavy-sea", "date": "1900-01-01", "genre": "Documentaire", "score": "2.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

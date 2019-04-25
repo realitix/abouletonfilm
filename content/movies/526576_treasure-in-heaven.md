@@ -1,1 +1,0 @@
-{"tmdb_id": 526576, "title": "Treasure in Heaven", "original_title": "Treasure in Heaven", "slug_title": "treasure-in-heaven", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aaE46fB3wNXmMgsHNVF9bmIcUFD.jpg", "actors": [], "comments": [], "recommandations_id": []}

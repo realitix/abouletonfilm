@@ -1,1 +1,0 @@
-{"tmdb_id": 219526, "title": "Plenty of Money and You", "original_title": "Plenty of Money and You", "slug_title": "plenty-of-money-and-you", "date": "1937-07-30", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/n4QSL72scaT5qY9BVnQTzX1tte7.jpg", "actors": [], "comments": [], "recommandations_id": []}

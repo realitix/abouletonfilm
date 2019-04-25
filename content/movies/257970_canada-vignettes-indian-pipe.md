@@ -1,1 +1,0 @@
-{"tmdb_id": 257970, "title": "Canada Vignettes: Indian Pipe", "original_title": "Canada Vignettes: Indian Pipe", "slug_title": "canada-vignettes-indian-pipe", "date": "1979-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Vlasta Vr\u00e1na (Narrator)"], "comments": [], "recommandations_id": []}

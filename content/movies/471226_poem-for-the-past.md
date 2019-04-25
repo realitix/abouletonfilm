@@ -1,1 +1,0 @@
-{"tmdb_id": 471226, "title": "Poem for the Past", "original_title": "Poem for the Past", "slug_title": "poem-for-the-past", "date": "1993-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3bOAvvJabnUGGp4pNcoZ1yqESNs.jpg", "actors": [], "comments": [], "recommandations_id": []}

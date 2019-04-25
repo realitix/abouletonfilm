@@ -1,1 +1,0 @@
-{"tmdb_id": 350726, "title": "American Booty", "original_title": "American Booty", "slug_title": "american-booty", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

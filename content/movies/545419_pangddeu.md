@@ -1,1 +1,0 @@
-{"tmdb_id": 545419, "title": "\ud321\ub728", "original_title": "\ud321\ub728", "slug_title": "pangddeu", "date": "2016-06-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Park Joo-hee ()", "Park Se-wan ()"], "comments": [], "recommandations_id": []}

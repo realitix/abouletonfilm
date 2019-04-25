@@ -1,1 +1,0 @@
-{"tmdb_id": 322377, "title": "Sa-Re-Ga-Ma-Pa", "original_title": "Sa-Re-Ga-Ma-Pa", "slug_title": "sa-re-ga-ma-pa", "date": "1972-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

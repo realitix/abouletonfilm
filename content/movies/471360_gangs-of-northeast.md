@@ -1,1 +1,0 @@
-{"tmdb_id": 471360, "title": "Gangs Of Northeast", "original_title": "Gangs Of Northeast", "slug_title": "gangs-of-northeast", "date": "2017-08-18", "genre": "Thriller / Action / Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 546461, "title": "The Cock", "original_title": "Der Hahn", "slug_title": "the-cock", "date": "1995-06-07", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gKj7jXY3GUZlHizJfovlSKzO35x.jpg", "actors": ["J\u00fcrgen Sagurna ()"], "comments": [], "recommandations_id": []}

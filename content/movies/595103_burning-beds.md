@@ -1,1 +1,0 @@
-{"tmdb_id": 595103, "title": "Burning Beds", "original_title": "Brennende Betten", "slug_title": "burning-beds", "date": "1988-11-10", "genre": "Com\u00e9die / Drame / Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ian Dury (Harry Winfield)", "Pia Frankenberg (Gina)"], "comments": [], "recommandations_id": []}

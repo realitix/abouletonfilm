@@ -1,1 +1,0 @@
-{"tmdb_id": 235471, "title": "Spooking with a Brogue", "original_title": "Spooking with a Brogue", "slug_title": "spooking-with-a-brogue", "date": "1955-05-26", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

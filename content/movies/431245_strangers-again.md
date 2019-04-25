@@ -1,1 +1,0 @@
-{"tmdb_id": 431245, "title": "Strangers Again", "original_title": "Strangers Again", "slug_title": "strangers-again", "date": "2011-04-20", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Chris Dinh (Alex)", "Philip Wang (Josh)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 413749, "title": "Logan's Run", "original_title": "Logan's Run", "slug_title": "logan-s-run", "date": "", "genre": "Action / Aventure / Drame / Science-Fiction / Thriller", "score": "7.8/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [457232, 424853, 76545, 340023]}

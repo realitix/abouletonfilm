@@ -1,1 +1,0 @@
-{"tmdb_id": 522114, "title": "Lightning Ridge: The Land of Black Opals", "original_title": "Lightning Ridge: The Land of Black Opals", "slug_title": "lightning-ridge-the-land-of-black-opals", "date": "2017-08-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

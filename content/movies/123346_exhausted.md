@@ -1,1 +1,0 @@
-{"tmdb_id": 123346, "title": "Exhausted", "original_title": "Gogal", "slug_title": "exhausted", "date": "2008-10-03", "genre": "", "score": "5.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/s5bWJTQtmuVdWRplajKvtKGy9If.jpg", "actors": ["Jang Liu ()", "Keun-young Oh ()", "Park Ji-hwan ()"], "comments": [], "recommandations_id": []}

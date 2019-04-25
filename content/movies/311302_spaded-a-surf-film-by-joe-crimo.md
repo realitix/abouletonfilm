@@ -1,1 +1,0 @@
-{"tmdb_id": 311302, "title": "Spaded: A Surf Film by Joe Crimo", "original_title": "Spaded: A Surf Film by Joe Crimo", "slug_title": "spaded-a-surf-film-by-joe-crimo", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 522447, "title": "Planetshakers - Legacy", "original_title": "Planetshakers - Legacy", "slug_title": "planetshakers-legacy", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

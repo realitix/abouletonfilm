@@ -1,1 +1,0 @@
-{"tmdb_id": 431388, "title": "Mr. Manuel", "original_title": "Mr. Manuel", "slug_title": "mr-manuel", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Garth Hudson ()", "Stephen Ingram ()", "Brock Reid ()", "John Garlicki ()", "Drew Danko ()"], "comments": [], "recommandations_id": []}

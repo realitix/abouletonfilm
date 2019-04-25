@@ -1,1 +1,0 @@
-{"tmdb_id": 423441, "title": "Zwickel auf Bizyckel", "original_title": "Zwickel auf Bizyckel", "slug_title": "zwickel-auf-bizyckel", "date": "1997-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

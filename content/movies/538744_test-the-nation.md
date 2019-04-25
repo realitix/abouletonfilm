@@ -1,1 +1,0 @@
-{"tmdb_id": 538744, "title": "Test the Nation", "original_title": "Test the Nation", "slug_title": "test-the-nation", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 523181, "title": "Nouvelle Soci\u00e9t\u00e9 N\u00b06", "original_title": "Nouvelle Soci\u00e9t\u00e9 N\u00b06", "slug_title": "nouvelle-societe-ndeg6", "date": "1969-05-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

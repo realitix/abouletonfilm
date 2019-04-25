@@ -1,1 +1,0 @@
-{"tmdb_id": 347000, "title": "Aspiraciones", "original_title": "Aspiraciones", "slug_title": "aspiraciones", "date": "1976-06-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aGjTyi4hfuSCA9CyGYrpjSwzBMQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

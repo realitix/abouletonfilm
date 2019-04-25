@@ -1,1 +1,0 @@
-{"tmdb_id": 408767, "title": "H.I.J.O.S.: El alma en dos", "original_title": "H.I.J.O.S.: El alma en dos", "slug_title": "h-i-j-o-s-el-alma-en-dos", "date": "2002-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/khVZ1ziiV6TNRb5wbgijtBQErvV.jpg", "actors": [], "comments": [], "recommandations_id": []}

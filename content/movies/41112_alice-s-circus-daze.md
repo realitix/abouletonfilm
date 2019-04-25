@@ -1,1 +1,0 @@
-{"tmdb_id": 41112, "title": "Alice's Circus Daze", "original_title": "Alice's Circus Daze", "slug_title": "alice-s-circus-daze", "date": "1927-01-01", "genre": "Animation", "score": "3.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6coSKFen5w1vEEQQSXmvnnLR4o3.jpg", "actors": [], "comments": [], "recommandations_id": []}

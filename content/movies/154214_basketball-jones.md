@@ -1,1 +1,0 @@
-{"tmdb_id": 154214, "title": "Basketball Jones", "original_title": "Basketball Jones", "slug_title": "basketball-jones", "date": "1974-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/17fGBWT59WryCU4GNrHW82jrHo.jpg", "actors": ["Cheech Marin ()", "Tommy Chong ()"], "comments": [], "recommandations_id": []}

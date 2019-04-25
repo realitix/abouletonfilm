@@ -1,1 +1,0 @@
-{"tmdb_id": 74883, "title": "Sex, Death and the Gods", "original_title": "Sex, Death and the Gods", "slug_title": "sex-death-and-the-gods", "date": "2011-01-24", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

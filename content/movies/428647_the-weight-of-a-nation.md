@@ -1,1 +1,0 @@
-{"tmdb_id": 428647, "title": "The Weight of a Nation", "original_title": "The Weight of a Nation", "slug_title": "the-weight-of-a-nation", "date": "2012-05-14", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Larry O'Dwyer (Himself)"], "comments": [], "recommandations_id": []}

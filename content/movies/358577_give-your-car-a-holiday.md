@@ -1,1 +1,0 @@
-{"tmdb_id": 358577, "title": "Give Your Car a Holiday", "original_title": "Give Your Car a Holiday", "slug_title": "give-your-car-a-holiday", "date": "1967-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

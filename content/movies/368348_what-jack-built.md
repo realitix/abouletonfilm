@@ -1,1 +1,0 @@
-{"tmdb_id": 368348, "title": "What Jack Built", "original_title": "What Jack Built", "slug_title": "what-jack-built", "date": "2015-08-30", "genre": "Myst\u00e8re / Action / Drame", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Timothy J. Cox (Jack)"], "comments": [], "recommandations_id": []}

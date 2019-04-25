@@ -1,1 +1,0 @@
-{"tmdb_id": 200018, "title": "A Sense of Loss", "original_title": "A Sense of Loss", "slug_title": "a-sense-of-loss", "date": "1973-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bridget Andrews ()", "Bridget Bond ()", "Noel Browne ()", "Bernadette Devlin ()"], "comments": [], "recommandations_id": []}

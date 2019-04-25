@@ -1,1 +1,0 @@
-{"tmdb_id": 595005, "title": "\u0418\u0442\u0430\u043b\u044c\u044f\u043d\u043a\u0430", "original_title": "\u0418\u0442\u0430\u043b\u044c\u044f\u043d\u043a\u0430", "slug_title": "italianka", "date": "1931-12-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Dmitriy Kapka ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 432258, "title": "Earth Works", "original_title": "Earthworks", "slug_title": "earth-works", "date": "1983-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nfFUrCO24GUxw0205gvGLBcvN8m.jpg", "actors": [], "comments": [], "recommandations_id": []}

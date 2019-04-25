@@ -1,1 +1,0 @@
-{"tmdb_id": 339843, "title": "Teddy Bear", "original_title": "Teddy Bear", "slug_title": "teddy-bear", "date": "", "genre": "Fantastique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [462383, 456983, 146329, 333673]}

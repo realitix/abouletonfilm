@@ -1,1 +1,0 @@
-{"tmdb_id": 272272, "title": "The Jilting of Granny Weatherall", "original_title": "The Jilting of Granny Weatherall", "slug_title": "the-jilting-of-granny-weatherall", "date": "1979-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

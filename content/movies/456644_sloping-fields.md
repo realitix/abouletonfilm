@@ -1,1 +1,0 @@
-{"tmdb_id": 456644, "title": "Sloping Fields", "original_title": "Chy\u0142e pola", "slug_title": "sloping-fields", "date": "1970-04-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

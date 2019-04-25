@@ -1,1 +1,0 @@
-{"tmdb_id": 534776, "title": "The Chop", "original_title": "The Chop", "slug_title": "the-chop", "date": "2017-08-26", "genre": "Action", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mjSyaRw3H4IqsNDxu4SFUSwsehq.jpg", "actors": ["Adrienne Fischer (Cherry)", "Tom Mirth (Cop)"], "comments": [], "recommandations_id": []}

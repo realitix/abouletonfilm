@@ -1,1 +1,0 @@
-{"tmdb_id": 477206, "title": "Hanna-Barbera's All-Star Comedy Ice Revue", "original_title": "Hanna-Barbera's All-Star Comedy Ice Revue", "slug_title": "hanna-barbera-s-all-star-comedy-ice-revue", "date": "1978-01-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

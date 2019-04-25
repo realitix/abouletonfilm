@@ -1,1 +1,0 @@
-{"tmdb_id": 377241, "title": "The Green Planet", "original_title": "The Green Planet", "slug_title": "the-green-planet", "date": "2012-01-12", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wnTzuOj8hWZeDM1vvNpq1cLtNL2.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 423706, "title": "The Duality of Nature", "original_title": "The Duality of Nature", "slug_title": "the-duality-of-nature", "date": "1986-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cDqsOA7NKZzA0FJQqZ7uzMpCIX8.jpg", "actors": [], "comments": [], "recommandations_id": []}

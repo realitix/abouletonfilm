@@ -1,1 +1,0 @@
-{"tmdb_id": 59289, "title": "The Zax", "original_title": "The Zax", "slug_title": "the-zax", "date": "1973-10-15", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nL7Pk0pQwg9ra8EGpu2uWUb4ES2.jpg", "actors": [], "comments": [], "recommandations_id": []}

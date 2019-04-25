@@ -1,1 +1,0 @@
-{"tmdb_id": 460975, "title": "2010 AFL Grand Final", "original_title": "2010 AFL Grand Final Draw", "slug_title": "2010-afl-grand-final", "date": "2010-09-25", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dNXvIEA6FZ3ztmLOseKHakyKOdw.jpg", "actors": [], "comments": [], "recommandations_id": []}

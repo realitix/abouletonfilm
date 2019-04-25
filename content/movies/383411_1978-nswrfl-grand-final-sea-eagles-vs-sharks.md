@@ -1,1 +1,0 @@
-{"tmdb_id": 383411, "title": "1978 NSWRFL Grand Final: Sea Eagles vs Sharks", "original_title": "1978 NSWRFL Grand Final: Sea Eagles vs Sharks", "slug_title": "1978-nswrfl-grand-final-sea-eagles-vs-sharks", "date": "1978-09-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

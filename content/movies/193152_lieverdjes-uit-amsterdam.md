@@ -1,1 +1,0 @@
-{"tmdb_id": 193152, "title": "Lieverdjes uit Amsterdam", "original_title": "Lieverdjes uit Amsterdam", "slug_title": "lieverdjes-uit-amsterdam", "date": "1974-10-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nm8LBQIdg34Gef7QH9dJiJqQBGu.jpg", "actors": [], "comments": [], "recommandations_id": []}

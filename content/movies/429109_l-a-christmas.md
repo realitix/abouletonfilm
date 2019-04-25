@@ -1,1 +1,0 @@
-{"tmdb_id": 429109, "title": "L.A. Christmas", "original_title": "L.A. Christmas", "slug_title": "l-a-christmas", "date": "1996-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9BEk7rEce4SD2kOOZ3jOFr9Tp4k.jpg", "actors": [], "comments": [], "recommandations_id": []}

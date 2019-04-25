@@ -1,1 +1,0 @@
-{"tmdb_id": 196540, "title": "Sunburst", "original_title": "Sunburst", "slug_title": "sunburst", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rSby3iurBWaU1la5EGb7GY8Qed.jpg", "actors": ["Evaldas Valu\u0161is (Man)"], "comments": [], "recommandations_id": []}

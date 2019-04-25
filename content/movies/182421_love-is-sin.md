@@ -1,1 +1,0 @@
-{"tmdb_id": 182421, "title": "Love is Sin", "original_title": "Love is Sin", "slug_title": "love-is-sin", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

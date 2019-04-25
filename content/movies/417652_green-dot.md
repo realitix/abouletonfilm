@@ -1,1 +1,0 @@
-{"tmdb_id": 417652, "title": "Green Dot", "original_title": "Green Dot", "slug_title": "green-dot", "date": "2015-04-01", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iGt3eyiJlBXGTciKbt9mFjWHZs8.jpg", "actors": [], "comments": [], "recommandations_id": []}

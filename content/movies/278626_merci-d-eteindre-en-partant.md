@@ -1,1 +1,0 @@
-{"tmdb_id": 278626, "title": "Merci d'\u00e9teindre en partant", "original_title": "Merci d'\u00e9teindre en partant", "slug_title": "merci-d-eteindre-en-partant", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

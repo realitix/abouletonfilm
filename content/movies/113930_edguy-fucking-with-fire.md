@@ -1,1 +1,0 @@
-{"tmdb_id": 113930, "title": "Edguy - Fucking With Fire", "original_title": "Edguy - Fucking With Fire", "slug_title": "edguy-fucking-with-fire", "date": "2009-04-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/59aQaTS2i7WlBTgPLWnCERAYHQs.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 569985, "title": "Go to Hell!", "original_title": "Go to Hell!", "slug_title": "go-to-hell", "date": "2017-10-27", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nXbfTIbmzICsYg3IgUBY9wzdkAS.jpg", "actors": ["David Disher (Angus / Berkley / Calvin)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 572647, "title": "Laidbackers", "original_title": "\u30ec\u30a4\u30c9\u30d0\u30c3\u30ab\u30fc\u30ba", "slug_title": "laidbackers", "date": "2019-04-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/repFxAHOWIs4TjGNJScSuSwAYTu.jpg", "actors": [], "comments": [], "recommandations_id": []}

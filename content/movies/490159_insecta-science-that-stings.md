@@ -1,1 +1,0 @@
-{"tmdb_id": 490159, "title": "Insecta: Science That Stings", "original_title": "Insecta: Science That Stings", "slug_title": "insecta-science-that-stings", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

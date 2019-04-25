@@ -1,1 +1,0 @@
-{"tmdb_id": 150091, "title": "Terry Tate, Office Linebacker", "original_title": "Terry Tate, Office Linebacker", "slug_title": "terry-tate-office-linebacker", "date": "2002-01-01", "genre": "", "score": "6.1/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [51729]}

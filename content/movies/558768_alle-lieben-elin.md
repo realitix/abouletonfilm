@@ -1,1 +1,0 @@
-{"tmdb_id": 558768, "title": "Alle lieben Elin", "original_title": "Alle lieben Elin", "slug_title": "alle-lieben-elin", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

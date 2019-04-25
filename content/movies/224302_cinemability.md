@@ -1,1 +1,0 @@
-{"tmdb_id": 224302, "title": "CinemAbility", "original_title": "CinemAbility", "slug_title": "cinemability", "date": "2013-07-26", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ytHb7qWcLfDAjBbxT1rRGRZX02w.jpg", "actors": [], "comments": [], "recommandations_id": []}

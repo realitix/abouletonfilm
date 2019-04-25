@@ -1,1 +1,0 @@
-{"tmdb_id": 504421, "title": "Hiroshima, the next day", "original_title": "Hiroshima, the next day", "slug_title": "hiroshima-the-next-day", "date": "2011-12-01", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fDiXqUU2J59fZP7XKUJchqn74yz.jpg", "actors": [], "comments": [], "recommandations_id": []}

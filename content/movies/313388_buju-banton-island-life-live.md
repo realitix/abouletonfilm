@@ -1,1 +1,0 @@
-{"tmdb_id": 313388, "title": "Buju Banton: Island Life: Live", "original_title": "Buju Banton: Island Life: Live", "slug_title": "buju-banton-island-life-live", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

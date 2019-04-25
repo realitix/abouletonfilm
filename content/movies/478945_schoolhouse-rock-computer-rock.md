@@ -1,1 +1,0 @@
-{"tmdb_id": 478945, "title": "Schoolhouse Rock: Computer Rock", "original_title": "Schoolhouse Rock: Computer Rock", "slug_title": "schoolhouse-rock-computer-rock", "date": "", "genre": "", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

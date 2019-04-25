@@ -1,1 +1,0 @@
-{"tmdb_id": 318369, "title": "Robinson Crusoe", "original_title": "Robinson Crusoe", "slug_title": "robinson-crusoe", "date": "1974-03-29", "genre": "Animation / Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yFDpE0GuGgbil64vVZy5PmfjKFl.jpg", "actors": [], "comments": [], "recommandations_id": []}

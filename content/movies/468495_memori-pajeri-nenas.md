@@ -1,1 +1,0 @@
-{"tmdb_id": 468495, "title": "Memori Pajeri Nenas", "original_title": "Memori Pajeri Nenas", "slug_title": "memori-pajeri-nenas", "date": "2017-07-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7JZuslHNpPRs8tBnLKOSPI8GlEJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 420654, "title": "Notes from Under the Volcano", "original_title": "Notes from Under the Volcano", "slug_title": "notes-from-under-the-volcano", "date": "1984-09-09", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gary Conklin (Narrator)", "John Huston (Himself)"], "comments": [], "recommandations_id": []}

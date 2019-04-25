@@ -1,1 +1,0 @@
-{"tmdb_id": 372569, "title": "Insanity The Asylum - Back to Core", "original_title": "Insanity The Asylum - Back to Core", "slug_title": "insanity-the-asylum-back-to-core", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/58qMwZlR9eBETptfZW4zVHOKM2J.jpg", "actors": [], "comments": [], "recommandations_id": []}

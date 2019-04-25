@@ -1,1 +1,0 @@
-{"tmdb_id": 318511, "title": "The Famous Ride", "original_title": "The Famous Ride", "slug_title": "the-famous-ride", "date": "1960-01-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

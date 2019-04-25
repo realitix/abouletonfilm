@@ -1,1 +1,0 @@
-{"tmdb_id": 394343, "title": "La voz del pueblo", "original_title": "La voz del pueblo", "slug_title": "la-voz-del-pueblo", "date": "1948-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9UyINjFtthLibZVeXEeTvvDiLOv.jpg", "actors": [], "comments": [], "recommandations_id": []}

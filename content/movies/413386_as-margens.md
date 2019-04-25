@@ -1,1 +1,0 @@
-{"tmdb_id": 413386, "title": "\u00c0s Margens", "original_title": "\u00c0s Margens", "slug_title": "as-margens", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

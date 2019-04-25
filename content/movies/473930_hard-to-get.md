@@ -1,1 +1,0 @@
-{"tmdb_id": 473930, "title": "Hard to Get", "original_title": "Hard to Get", "slug_title": "hard-to-get", "date": "1929-08-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

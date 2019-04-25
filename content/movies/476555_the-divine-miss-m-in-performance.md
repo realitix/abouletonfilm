@@ -1,1 +1,0 @@
-{"tmdb_id": 476555, "title": "The Divine Miss M in Performance", "original_title": "The Divine Miss M in Performance", "slug_title": "the-divine-miss-m-in-performance", "date": "2010-01-11", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bette Midler (The Divine Miss M)"], "comments": [], "recommandations_id": []}

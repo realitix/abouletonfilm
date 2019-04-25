@@ -1,1 +1,0 @@
-{"tmdb_id": 531375, "title": "Walking Forest", "original_title": "Walking Forest", "slug_title": "walking-forest", "date": "2017-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

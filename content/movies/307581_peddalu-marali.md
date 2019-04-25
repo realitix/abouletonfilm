@@ -1,1 +1,0 @@
-{"tmdb_id": 307581, "title": "Peddalu Marali", "original_title": "Peddalu Marali", "slug_title": "peddalu-marali", "date": "1974-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 411570, "title": "Three Minutes", "original_title": "Three Minutes", "slug_title": "three-minutes", "date": "2004-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7ObcT0ovz3sY4CMCTzgEEv9Exxy.jpg", "actors": [], "comments": [], "recommandations_id": []}

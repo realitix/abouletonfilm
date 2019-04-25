@@ -1,1 +1,0 @@
-{"tmdb_id": 394606, "title": "Galaxies", "original_title": "Galaxies", "slug_title": "galaxies", "date": "1974-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1QbuNCA5mml16BovWptvdwvk4wr.jpg", "actors": [], "comments": [], "recommandations_id": []}

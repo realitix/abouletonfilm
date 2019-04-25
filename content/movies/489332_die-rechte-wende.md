@@ -1,1 +1,0 @@
-{"tmdb_id": 489332, "title": "Die rechte Wende", "original_title": "Die rechte Wende", "slug_title": "die-rechte-wende", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

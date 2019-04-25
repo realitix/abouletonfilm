@@ -1,1 +1,0 @@
-{"tmdb_id": 313415, "title": "Phil Keaggy: Acoustic Guitar Style", "original_title": "Phil Keaggy: Acoustic Guitar Style", "slug_title": "phil-keaggy-acoustic-guitar-style", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

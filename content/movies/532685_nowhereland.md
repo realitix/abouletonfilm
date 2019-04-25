@@ -1,1 +1,0 @@
-{"tmdb_id": 532685, "title": "Nowhereland", "original_title": "Nowhereland", "slug_title": "nowhereland", "date": "", "genre": "", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

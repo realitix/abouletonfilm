@@ -1,1 +1,0 @@
-{"tmdb_id": 310295, "title": "Rock Masters: Emmylou Harris", "original_title": "Rock Masters: Emmylou Harris", "slug_title": "rock-masters-emmylou-harris", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

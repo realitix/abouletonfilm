@@ -1,1 +1,0 @@
-{"tmdb_id": 478354, "title": "Le rosier miraculeux", "original_title": "Le rosier miraculeux", "slug_title": "le-rosier-miraculeux", "date": "1904-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

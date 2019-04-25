@@ -1,1 +1,0 @@
-{"tmdb_id": 524421, "title": "David Blaine Street Magic Part 4", "original_title": "David Blaine Street Magic Part 4", "slug_title": "david-blaine-street-magic-part-4", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 363768, "title": "Yesterday\u2019s Stars", "original_title": "Estrellas de ayer", "slug_title": "yesterdays-stars", "date": "1969-11-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aD1kLJLxQuqbi7f5eyC5A2WPJ0E.jpg", "actors": [], "comments": [], "recommandations_id": []}

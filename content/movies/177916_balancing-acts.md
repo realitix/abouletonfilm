@@ -1,1 +1,0 @@
-{"tmdb_id": 177916, "title": "Balancing Acts", "original_title": "Balancing Acts", "slug_title": "balancing-acts", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

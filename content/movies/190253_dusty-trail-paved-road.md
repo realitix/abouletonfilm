@@ -1,1 +1,0 @@
-{"tmdb_id": 190253, "title": "Dusty Trail, Paved Road", "original_title": "Dusty Trail, Paved Road", "slug_title": "dusty-trail-paved-road", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/AOPFaSJUT0xh7HkgOt9PB8EnWm.jpg", "actors": [], "comments": [], "recommandations_id": []}

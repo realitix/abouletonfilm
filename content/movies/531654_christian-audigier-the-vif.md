@@ -1,1 +1,0 @@
-{"tmdb_id": 531654, "title": "Christian Audigier: The VIF", "original_title": "Christian Audigier: The VIF", "slug_title": "christian-audigier-the-vif", "date": "2018-06-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5U5imJuC7kRSASFwxY9ZkZ71yMJ.jpg", "actors": [], "comments": [], "recommandations_id": []}

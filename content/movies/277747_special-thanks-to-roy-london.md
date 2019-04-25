@@ -1,1 +1,0 @@
-{"tmdb_id": 277747, "title": "Special Thanks To Roy London", "original_title": "Special Thanks To Roy London", "slug_title": "special-thanks-to-roy-london", "date": "2005-04-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 438911, "title": "Living the Quake", "original_title": "Living the Quake", "slug_title": "living-the-quake", "date": "2006-04-21", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Maxwell Caulfield (Mayor Schmitz)", "Orlando Wells (James Hopper)"], "comments": [], "recommandations_id": []}

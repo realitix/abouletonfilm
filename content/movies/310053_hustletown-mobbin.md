@@ -1,1 +1,0 @@
-{"tmdb_id": 310053, "title": "Hustletown Mobbin'", "original_title": "Hustletown Mobbin'", "slug_title": "hustletown-mobbin", "date": "2003-07-21", "genre": "", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

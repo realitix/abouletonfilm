@@ -1,1 +1,0 @@
-{"tmdb_id": 341438, "title": "Golden Ninja Invasion", "original_title": "Golden Ninja Invasion", "slug_title": "golden-ninja-invasion", "date": "1987-01-01", "genre": "", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uQKwa5UXlX9ZNDnE9jNGGZUJukR.jpg", "actors": [], "comments": [], "recommandations_id": []}

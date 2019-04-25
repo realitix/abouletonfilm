@@ -1,1 +1,0 @@
-{"tmdb_id": 259446, "title": "Last Days in a Lonely Place", "original_title": "Last Days in a Lonely Place", "slug_title": "last-days-in-a-lonely-place", "date": "2007-05-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8TsF87iOh1DZdE4Ga1RDt9ePhc1.jpg", "actors": [], "comments": [], "recommandations_id": []}

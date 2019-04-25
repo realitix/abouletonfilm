@@ -1,1 +1,0 @@
-{"tmdb_id": 68870, "title": "Arthur II", "original_title": "Arthur II", "slug_title": "arthur-ii", "date": "2011-11-01", "genre": "Action / Com\u00e9die / Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Arthur Choisnet (Arthur)", "Charlie Pascal (Lilie)"], "comments": [], "recommandations_id": []}

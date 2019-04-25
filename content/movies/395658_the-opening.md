@@ -1,1 +1,0 @@
-{"tmdb_id": 395658, "title": "The Opening", "original_title": "The Opening", "slug_title": "the-opening", "date": "2016-05-02", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fU3hZb93OJTjsanssr76tWzoEVM.jpg", "actors": ["Fred Anderson (himself)", "Fital, Gregory ()"], "comments": [], "recommandations_id": []}

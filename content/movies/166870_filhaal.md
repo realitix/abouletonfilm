@@ -1,1 +1,0 @@
-{"tmdb_id": 166870, "title": "Filhaal...", "original_title": "Filhaal...", "slug_title": "filhaal", "date": "2002-02-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5urxHiyH8ZizWOjIjnzaRrvb4tF.jpg", "actors": ["Sushmita Sen ()", "Tabu ()", "Sanjay Suri ()", "Palash Sen ()"], "comments": [], "recommandations_id": []}

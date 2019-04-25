@@ -1,1 +1,0 @@
-{"tmdb_id": 333580, "title": "Catch the Sun", "original_title": "Catch the Sun", "slug_title": "catch-the-sun", "date": "1973-01-01", "genre": "Documentaire", "score": "7.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Stompin' Tom Connors (Himself)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 67361, "title": "The Freshest Kids", "original_title": "The Freshest Kids", "slug_title": "the-freshest-kids", "date": "2002-01-01", "genre": "Documentaire", "score": "8.2/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oBtnS2mduTd7AxwTtslZRKmJ66O.jpg", "actors": [], "comments": [], "recommandations_id": []}

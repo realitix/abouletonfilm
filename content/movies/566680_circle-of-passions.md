@@ -1,1 +1,0 @@
-{"tmdb_id": 566680, "title": "Circle of Passions", "original_title": "Le cercle des passions", "slug_title": "circle-of-passions", "date": "1983-07-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wJ1IPFSRyJmHBGXeTnatCwhMioA.jpg", "actors": [], "comments": [], "recommandations_id": []}

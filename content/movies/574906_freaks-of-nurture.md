@@ -1,1 +1,0 @@
-{"tmdb_id": 574906, "title": "Freaks of Nurture", "original_title": "Freaks of Nurture", "slug_title": "freaks-of-nurture", "date": "2018-06-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

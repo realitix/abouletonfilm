@@ -1,1 +1,0 @@
-{"tmdb_id": 366490, "title": "Solospill", "original_title": "Solospill", "slug_title": "solospill", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

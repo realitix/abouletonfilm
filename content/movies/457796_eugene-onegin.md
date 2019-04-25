@@ -1,1 +1,0 @@
-{"tmdb_id": 457796, "title": "Eugene Onegin", "original_title": "Eugene Onegin", "slug_title": "eugene-onegin", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3orzI5P1J1pYOZ8JyBa3wN95zsL.jpg", "actors": [], "comments": [], "recommandations_id": []}

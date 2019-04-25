@@ -1,1 +1,0 @@
-{"tmdb_id": 313917, "title": "The Stream 2", "original_title": "The Stream 2", "slug_title": "the-stream-2", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

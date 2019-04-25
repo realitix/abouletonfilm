@@ -1,1 +1,0 @@
-{"tmdb_id": 237873, "title": "C'est Papa qui a pris la purge", "original_title": "C'est Papa qui a pris la purge", "slug_title": "c-est-papa-qui-a-pris-la-purge", "date": "1907-01-17", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Max Linder (Lover in the street)"], "comments": [], "recommandations_id": []}

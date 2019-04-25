@@ -1,1 +1,0 @@
-{"tmdb_id": 518792, "title": "Ghana must go", "original_title": "Ghana must go", "slug_title": "ghana-must-go", "date": "", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9OMxL8mXD4shlHiI9xoEGsbU0h9.jpg", "actors": [], "comments": [], "recommandations_id": []}

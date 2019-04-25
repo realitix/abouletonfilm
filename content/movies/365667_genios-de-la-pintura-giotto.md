@@ -1,1 +1,0 @@
-{"tmdb_id": 365667, "title": "Genios de la pintura: Giotto", "original_title": "Genios de la pintura: Giotto", "slug_title": "genios-de-la-pintura-giotto", "date": "", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m4PMDQB0xQY5pFikhDSeX8pzi7z.jpg", "actors": [], "comments": [], "recommandations_id": []}

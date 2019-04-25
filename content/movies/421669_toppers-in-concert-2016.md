@@ -1,1 +1,0 @@
-{"tmdb_id": 421669, "title": "Toppers in Concert 2016", "original_title": "Toppers in Concert 2016", "slug_title": "toppers-in-concert-2016", "date": "2016-10-17", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rwRwQfOJ5HKOHfRq38sR4Qs5pyL.jpg", "actors": [], "comments": [], "recommandations_id": []}

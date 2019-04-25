@@ -1,1 +1,0 @@
-{"tmdb_id": 295575, "title": "Tough at the Top", "original_title": "Tough at the Top", "slug_title": "tough-at-the-top", "date": "1998-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

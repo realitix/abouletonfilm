@@ -1,1 +1,0 @@
-{"tmdb_id": 509393, "title": "Entre P\u00f3 e Pel\u00edculas", "original_title": "Entre P\u00f3 e Pel\u00edculas", "slug_title": "entre-po-e-peliculas", "date": "2018-03-08", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ayf1ed9r2pfGusgijzMxAgATwuh.jpg", "actors": [], "comments": [], "recommandations_id": []}

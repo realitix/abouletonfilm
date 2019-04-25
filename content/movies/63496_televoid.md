@@ -1,1 +1,0 @@
-{"tmdb_id": 63496, "title": "Televoid", "original_title": "Televoid", "slug_title": "televoid", "date": "1997-10-05", "genre": "Animation / Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7UeInk3J3DcKq8Scn7wzRd4JjJ3.jpg", "actors": [], "comments": [], "recommandations_id": []}

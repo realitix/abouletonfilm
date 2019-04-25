@@ -1,1 +1,0 @@
-{"tmdb_id": 490970, "title": "Night Horses", "original_title": "Night Horses", "slug_title": "night-horses", "date": "1977-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

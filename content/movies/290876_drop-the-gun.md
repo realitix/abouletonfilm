@@ -1,1 +1,0 @@
-{"tmdb_id": 290876, "title": "Drop The Gun", "original_title": "Drop The Gun", "slug_title": "drop-the-gun", "date": "2014-06-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sm3IwY220CEGhVOHa9w9Hjf3vFE.jpg", "actors": [], "comments": [], "recommandations_id": []}

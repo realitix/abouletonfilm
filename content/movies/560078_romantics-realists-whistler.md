@@ -1,1 +1,0 @@
-{"tmdb_id": 560078, "title": "Romantics & Realists: Whistler", "original_title": "Romantics & Realists: Whistler", "slug_title": "romantics-realists-whistler", "date": "2000-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9XVL3NRf0lVID6K7jiLpkEGorNn.jpg", "actors": [], "comments": [], "recommandations_id": []}

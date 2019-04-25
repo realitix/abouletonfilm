@@ -1,1 +1,0 @@
-{"tmdb_id": 302795, "title": "Un bigote para dos", "original_title": "Un bigote para dos", "slug_title": "un-bigote-para-dos", "date": "1940-11-11", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eR3OoIkYPfvywwvLhpDjURxZ217.jpg", "actors": [], "comments": [], "recommandations_id": []}

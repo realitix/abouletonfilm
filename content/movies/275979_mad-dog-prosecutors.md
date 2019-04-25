@@ -1,1 +1,0 @@
-{"tmdb_id": 275979, "title": "Mad Dog Prosecutors", "original_title": "Mad Dog Prosecutors", "slug_title": "mad-dog-prosecutors", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

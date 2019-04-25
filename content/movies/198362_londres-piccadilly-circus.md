@@ -1,1 +1,0 @@
-{"tmdb_id": 198362, "title": "Londres, Piccadilly Circus", "original_title": "Londres, Piccadilly Circus", "slug_title": "londres-piccadilly-circus", "date": "1896-01-01", "genre": "Documentaire", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cmnbD68UDplp8ZW0SZeahzB2OLq.jpg", "actors": [], "comments": [], "recommandations_id": []}

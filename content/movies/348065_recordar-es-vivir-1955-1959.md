@@ -1,1 +1,0 @@
-{"tmdb_id": 348065, "title": "Recordar es vivir (1955-1959)", "original_title": "Recordar es vivir (1955-1959)", "slug_title": "recordar-es-vivir-1955-1959", "date": "1993-07-08", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Juan Stack (Narrator)"], "comments": [], "recommandations_id": []}

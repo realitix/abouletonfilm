@@ -1,1 +1,0 @@
-{"tmdb_id": 523984, "title": "I'm Sorry Takashi", "original_title": "I'm Sorry Takashi", "slug_title": "i-m-sorry-takashi", "date": "2018-05-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6TXLboA37JRrZGfOBXWO7oc7qVl.jpg", "actors": [], "comments": [], "recommandations_id": []}

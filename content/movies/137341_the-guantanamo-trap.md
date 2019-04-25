@@ -1,1 +1,0 @@
-{"tmdb_id": 137341, "title": "The Guantanamo Trap", "original_title": "The Guantanamo Trap", "slug_title": "the-guantanamo-trap", "date": "2011-04-28", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5Pg8RpPGLrbni5eAxWR16X65F7N.jpg", "actors": [], "comments": [], "recommandations_id": []}

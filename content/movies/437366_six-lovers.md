@@ -1,1 +1,0 @@
-{"tmdb_id": 437366, "title": "Six Lovers", "original_title": "Six Lovers", "slug_title": "six-lovers", "date": "2012-03-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/5klIWD7ngcHJA8MTjFb4vVxICE2.jpg", "actors": ["Cameron Daddo (Interviewer)"], "comments": [], "recommandations_id": []}

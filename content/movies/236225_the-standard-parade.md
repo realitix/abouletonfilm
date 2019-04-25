@@ -1,1 +1,0 @@
-{"tmdb_id": 236225, "title": "The Standard Parade", "original_title": "The Standard Parade", "slug_title": "the-standard-parade", "date": "1939-12-31", "genre": "Animation", "score": "4.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7QaEsIHWhbz6N12vC3oWAYExiKE.jpg", "actors": [], "comments": [], "recommandations_id": []}

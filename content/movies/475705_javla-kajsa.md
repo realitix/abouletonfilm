@@ -1,1 +1,0 @@
-{"tmdb_id": 475705, "title": "J\u00e4vla Kajsa", "original_title": "J\u00e4vla Kajsa", "slug_title": "javla-kajsa", "date": "2017-09-16", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2kK1h063FaMAxo5S1m8ygbZS92N.jpg", "actors": [], "comments": [], "recommandations_id": []}

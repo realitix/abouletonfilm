@@ -1,1 +1,0 @@
-{"tmdb_id": 352245, "title": "Stay Aubrey!", "original_title": "Stay Aubrey!", "slug_title": "stay-aubrey", "date": "2015-06-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

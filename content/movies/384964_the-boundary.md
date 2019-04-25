@@ -1,1 +1,0 @@
-{"tmdb_id": 384964, "title": "The Boundary", "original_title": "Il confine", "slug_title": "the-boundary", "date": "", "genre": "", "score": "6.6/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Katsiaryna Shulha (Emma)", "Filippo Scicchitano (Bruno)", "Alan Cappelli Goetz (Franz)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 544702, "title": "ISOLADO", "original_title": "ISOLADO", "slug_title": "isolado", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 260880, "title": "Il seme di Caino", "original_title": "Il seme di Caino", "slug_title": "il-seme-di-caino", "date": "1972-04-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Roy Milian (Luca)", "Sophia Kammara (Simona)", "Isarco Ravaioli (Giovanni)"], "comments": [], "recommandations_id": []}

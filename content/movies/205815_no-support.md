@@ -1,1 +1,0 @@
-{"tmdb_id": 205815, "title": "No Support", "original_title": "Sin sost\u00e9n", "slug_title": "no-support", "date": "1998-04-15", "genre": "Animation / Com\u00e9die / Drame", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8EBoYGWyakWyyfuwIAIpFHCM82j.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 431658, "title": "The City Through Time", "original_title": "La Ville qui traverse le temps", "slug_title": "the-city-through-time", "date": "1991-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

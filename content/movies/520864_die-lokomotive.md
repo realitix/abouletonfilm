@@ -1,1 +1,0 @@
-{"tmdb_id": 520864, "title": "Die Lokomotive", "original_title": "Die Lokomotive", "slug_title": "die-lokomotive", "date": "1969-12-31", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Grethe Weiser (Sonja)", "Marianne Prenzel (Catherine)", "Bum Kr\u00fcger (Kostja)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 531756, "title": "Love, New York", "original_title": "Love, New York", "slug_title": "love-new-york", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sydney Morton (Carmen)"], "comments": [], "recommandations_id": []}

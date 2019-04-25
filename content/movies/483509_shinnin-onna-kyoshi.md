@@ -1,1 +1,0 @@
-{"tmdb_id": 483509, "title": "Shinnin Onna Kyoshi", "original_title": "\u65b0\u4efb\u5973\u6559\u5e2b\u3000", "slug_title": "shinnin-onna-kyoshi", "date": "2009-01-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yOVzxQ0R4vf6F3VevMWK2Fen5ho.jpg", "actors": ["Ito Haruka ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 292436, "title": "Iraqi Odyssey", "original_title": "Iraqi Odyssey", "slug_title": "iraqi-odyssey", "date": "2015-03-05", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jE4nTvyK53Y0OsPfxYgNn5dYqOc.jpg", "actors": [], "comments": [], "recommandations_id": []}

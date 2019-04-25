@@ -1,1 +1,0 @@
-{"tmdb_id": 406758, "title": "The Gone World", "original_title": "The Gone World", "slug_title": "the-gone-world", "date": "", "genre": "Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

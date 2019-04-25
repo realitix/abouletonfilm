@@ -1,1 +1,0 @@
-{"tmdb_id": 261365, "title": "It's All in Lebanon", "original_title": "It's All in Lebanon", "slug_title": "it-s-all-in-lebanon", "date": "2012-05-31", "genre": "Documentaire", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sn2PAYcrPBXmJYYDqYkEA6hoOU1.jpg", "actors": [], "comments": [], "recommandations_id": []}

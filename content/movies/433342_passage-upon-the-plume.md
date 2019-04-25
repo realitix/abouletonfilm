@@ -1,1 +1,0 @@
-{"tmdb_id": 433342, "title": "Passage Upon the Plume", "original_title": "Passage Upon the Plume", "slug_title": "passage-upon-the-plume", "date": "2011-01-01", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8IAYr4nWoIhxbV0rJDNAFd9TldG.jpg", "actors": [], "comments": [], "recommandations_id": []}

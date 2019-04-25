@@ -1,1 +1,0 @@
-{"tmdb_id": 431433, "title": "The Blind Owl", "original_title": "The Blind Owl", "slug_title": "the-blind-owl", "date": "1992-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

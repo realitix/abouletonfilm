@@ -1,1 +1,0 @@
-{"tmdb_id": 312523, "title": "MTV: The Real World You Never Saw: Hawaii", "original_title": "MTV: The Real World You Never Saw: Hawaii", "slug_title": "mtv-the-real-world-you-never-saw-hawaii", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

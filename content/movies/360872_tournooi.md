@@ -1,1 +1,0 @@
-{"tmdb_id": 360872, "title": "Tournooi", "original_title": "Tournooi", "slug_title": "tournooi", "date": "1948-10-20", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/d7Qx2cqOjvrSxf0cNgIjdetFKW4.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 516935, "title": "Pippi L\u00e5ngstrump 6", "original_title": "Pippi L\u00e5ngstrump 6", "slug_title": "pippi-langstrump-6", "date": "1969-04-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cuMwQaT61rlzmmgYxVhtzgh2lcs.jpg", "actors": [], "comments": [], "recommandations_id": []}

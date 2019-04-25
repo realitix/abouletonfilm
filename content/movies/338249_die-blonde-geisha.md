@@ -1,1 +1,0 @@
-{"tmdb_id": 338249, "title": "Die blonde Geisha", "original_title": "Die blonde Geisha", "slug_title": "die-blonde-geisha", "date": "1979-05-01", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1fz416UR3eO93o07OIdyP6gVTrH.jpg", "actors": ["Renate Blume ()", "Fred Delmare ()"], "comments": [], "recommandations_id": []}

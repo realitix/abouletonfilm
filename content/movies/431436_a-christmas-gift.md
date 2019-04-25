@@ -1,1 +1,0 @@
-{"tmdb_id": 431436, "title": "A Christmas Gift", "original_title": "A Christmas Gift", "slug_title": "a-christmas-gift", "date": "1980-12-22", "genre": "Animation", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/ji1ybtNK2ov7HpQMyITwMaIzIJ2.jpg", "actors": [], "comments": [], "recommandations_id": []}

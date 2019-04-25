@@ -1,1 +1,0 @@
-{"tmdb_id": 372002, "title": "Vaadang", "original_title": "Vaadang", "slug_title": "vaadang", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

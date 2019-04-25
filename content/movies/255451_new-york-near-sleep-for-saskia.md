@@ -1,1 +1,0 @@
-{"tmdb_id": 255451, "title": "New York Near Sleep for Saskia", "original_title": "New York Near Sleep for Saskia", "slug_title": "new-york-near-sleep-for-saskia", "date": "1972-01-01", "genre": "", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bKJaaa9VHGTHNSiZMyUXITUMFfK.jpg", "actors": [], "comments": [], "recommandations_id": []}

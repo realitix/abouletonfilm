@@ -1,1 +1,0 @@
-{"tmdb_id": 287655, "title": "From Nashville With Music", "original_title": "From Nashville With Music", "slug_title": "from-nashville-with-music", "date": "1969-07-07", "genre": "Drame / Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9LhKQNXtDkMQOYL7EmRiPAPRVyr.jpg", "actors": [], "comments": [], "recommandations_id": []}

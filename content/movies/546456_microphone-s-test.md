@@ -1,1 +1,0 @@
-{"tmdb_id": 546456, "title": "Microphone's Test", "original_title": "Pr\u00f3ba mikrofonu", "slug_title": "microphone-s-test", "date": "1980-01-02", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oaurRLSRfuLcCxXZ170CkKTnZRk.jpg", "actors": [], "comments": [], "recommandations_id": []}

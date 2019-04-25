@@ -1,1 +1,0 @@
-{"tmdb_id": 366713, "title": "Asylum Pieces", "original_title": "Asylum Pieces", "slug_title": "asylum-pieces", "date": "2010-07-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

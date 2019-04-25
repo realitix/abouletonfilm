@@ -1,1 +1,0 @@
-{"tmdb_id": 372017, "title": "Like a Dream", "original_title": "Como un Sue\u00f1o", "slug_title": "like-a-dream", "date": "2015-12-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Gerardo Ortiz ()"], "comments": [], "recommandations_id": []}

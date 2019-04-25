@@ -1,1 +1,0 @@
-{"tmdb_id": 439340, "title": "Covert Action", "original_title": "Covert Action", "slug_title": "covert-action", "date": "1984-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

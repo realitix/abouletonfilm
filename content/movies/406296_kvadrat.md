@@ -1,1 +1,0 @@
-{"tmdb_id": 406296, "title": "Kvadrat", "original_title": "Kvadrat", "slug_title": "kvadrat", "date": "2013-10-17", "genre": "", "score": "7.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6OKaDZOeKQM15qdnMEK2UclEaCr.jpg", "actors": [], "comments": [], "recommandations_id": []}

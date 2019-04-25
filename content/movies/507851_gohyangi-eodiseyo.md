@@ -1,1 +1,0 @@
-{"tmdb_id": 507851, "title": "\uace0\ud5a5\uc774 \uc5b4\ub514\uc138\uc694", "original_title": "\uace0\ud5a5\uc774 \uc5b4\ub514\uc138\uc694", "slug_title": "gohyangi-eodiseyo", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

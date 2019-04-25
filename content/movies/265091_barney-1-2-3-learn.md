@@ -1,1 +1,0 @@
-{"tmdb_id": 265091, "title": "Barney: 1 2 3 Learn", "original_title": "Barney: 1 2 3 Learn", "slug_title": "barney-1-2-3-learn", "date": "2011-01-01", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/32J1zcBw07w6K3y08JC9tW2DmUV.jpg", "actors": [], "comments": [], "recommandations_id": []}

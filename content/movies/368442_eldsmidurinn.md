@@ -1,1 +1,0 @@
-{"tmdb_id": 368442, "title": "Eldsmi\u00f0urinn", "original_title": "Eldsmi\u00f0urinn", "slug_title": "eldsmidurinn", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

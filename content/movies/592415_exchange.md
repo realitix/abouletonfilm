@@ -1,1 +1,0 @@
-{"tmdb_id": 592415, "title": "Exchange", "original_title": "Exchange", "slug_title": "exchange", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Merce Cunningham ()"], "comments": [], "recommandations_id": []}

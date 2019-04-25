@@ -1,1 +1,0 @@
-{"tmdb_id": 375328, "title": "Dog of Dogs", "original_title": "Dog of Dogs", "slug_title": "dog-of-dogs", "date": "1926-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p2MRkcpNnrqBEhILfkNJU4Dk3QP.jpg", "actors": [], "comments": [], "recommandations_id": []}

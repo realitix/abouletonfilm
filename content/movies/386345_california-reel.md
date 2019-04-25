@@ -1,1 +1,0 @@
-{"tmdb_id": 386345, "title": "California Reel", "original_title": "California Reel", "slug_title": "california-reel", "date": "2010-03-07", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dJgOdLLJzbXboLfLjqX7NzREAH6.jpg", "actors": [], "comments": [], "recommandations_id": []}

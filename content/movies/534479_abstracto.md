@@ -1,1 +1,0 @@
-{"tmdb_id": 534479, "title": "Abstracto", "original_title": "Abstracto", "slug_title": "abstracto", "date": "2018-06-28", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zUbF2nEVuYferP7mQ9BeGBo9OD2.jpg", "actors": [], "comments": [], "recommandations_id": []}

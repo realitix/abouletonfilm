@@ -1,1 +1,0 @@
-{"tmdb_id": 254177, "title": "Supernatural", "original_title": "Nua dhamma chat", "slug_title": "supernatural", "date": "2014-01-24", "genre": "Science-Fiction / Com\u00e9die / Drame", "score": "4.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uSOuBSdvo9IcQEESClxwN08HXkt.jpg", "actors": [], "comments": [], "recommandations_id": []}

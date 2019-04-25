@@ -1,1 +1,0 @@
-{"tmdb_id": 553383, "title": "The United Family Awaits the Visit of Hallewyn", "original_title": "The United Family Awaits the Visit of Hallewyn", "slug_title": "the-united-family-awaits-the-visit-of-hallewyn", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

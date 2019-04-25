@@ -1,1 +1,0 @@
-{"tmdb_id": 540080, "title": "Batalha pelo Rio de Janeiro", "original_title": "Batalha pelo Rio de Janeiro", "slug_title": "batalha-pelo-rio-de-janeiro", "date": "2018-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

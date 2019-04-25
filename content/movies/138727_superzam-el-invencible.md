@@ -1,1 +1,0 @@
-{"tmdb_id": 138727, "title": "Superzam el invencible", "original_title": "Superzam el invencible", "slug_title": "superzam-el-invencible", "date": "1971-10-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zmkP5xQFSAwKcxeiVQDx4YQCYyk.jpg", "actors": [], "comments": [], "recommandations_id": []}

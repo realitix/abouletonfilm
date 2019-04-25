@@ -1,1 +1,0 @@
-{"tmdb_id": 585709, "title": "The Warwick Rowers - WR18 The England Film", "original_title": "The Warwick Rowers - WR18 The England Film", "slug_title": "the-warwick-rowers-wr18-the-england-film", "date": "2018-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

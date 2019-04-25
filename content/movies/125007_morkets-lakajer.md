@@ -1,1 +1,0 @@
-{"tmdb_id": 125007, "title": "M\u00f8rkets Lakajer", "original_title": "M\u00f8rkets Lakajer", "slug_title": "morkets-lakajer", "date": "2009-04-05", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iiGpsrtMXMz2msPJpvZiqoHmrKE.jpg", "actors": [], "comments": [], "recommandations_id": []}

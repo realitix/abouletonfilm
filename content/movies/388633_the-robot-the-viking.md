@@ -1,1 +1,0 @@
-{"tmdb_id": 388633, "title": "The Robot & the Viking", "original_title": "The Robot & the Viking", "slug_title": "the-robot-the-viking", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

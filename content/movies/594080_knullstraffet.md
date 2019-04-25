@@ -1,1 +1,0 @@
-{"tmdb_id": 594080, "title": "Knullstraffet", "original_title": "Knullstraffet", "slug_title": "knullstraffet", "date": "2008-10-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Maya Hansson-Bergqvist ()", "Erik Wisell ()"], "comments": [], "recommandations_id": []}

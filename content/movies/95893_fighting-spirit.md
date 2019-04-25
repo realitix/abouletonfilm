@@ -1,1 +1,0 @@
-{"tmdb_id": 95893, "title": "Fighting Spirit", "original_title": "Fighting Spirit", "slug_title": "fighting-spirit", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8P1IXY1AFnGvwgjanyyjYK5XWFi.jpg", "actors": [], "comments": [], "recommandations_id": []}

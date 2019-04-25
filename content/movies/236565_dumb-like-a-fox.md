@@ -1,1 +1,0 @@
-{"tmdb_id": 236565, "title": "Dumb Like a Fox", "original_title": "Dumb Like a Fox", "slug_title": "dumb-like-a-fox", "date": "1941-07-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

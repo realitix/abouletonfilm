@@ -1,1 +1,0 @@
-{"tmdb_id": 444920, "title": "Los diablos azules", "original_title": "Los diablos azules", "slug_title": "los-diablos-azules", "date": "2017-03-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

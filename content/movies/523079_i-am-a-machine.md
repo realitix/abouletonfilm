@@ -1,1 +1,0 @@
-{"tmdb_id": 523079, "title": "I Am a Machine", "original_title": "I Am a Machine", "slug_title": "i-am-a-machine", "date": "2016-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

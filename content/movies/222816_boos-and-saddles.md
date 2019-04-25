@@ -1,1 +1,0 @@
-{"tmdb_id": 222816, "title": "Boos and Saddles", "original_title": "Boos and Saddles", "slug_title": "boos-and-saddles", "date": "1953-12-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

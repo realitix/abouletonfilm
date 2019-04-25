@@ -1,1 +1,0 @@
-{"tmdb_id": 423713, "title": "The Quarterback", "original_title": "The Quarterback", "slug_title": "the-quarterback", "date": "1926-10-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/itqQgghfTzPqrs7MSNIoiV8LwN9.jpg", "actors": ["Richard Dix (Jack Stone)"], "comments": [], "recommandations_id": []}

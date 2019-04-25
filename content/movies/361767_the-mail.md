@@ -1,1 +1,0 @@
-{"tmdb_id": 361767, "title": "The Mail", "original_title": "Pasts", "slug_title": "the-mail", "date": "1995-01-01", "genre": "Documentaire", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7bcq7txz9FNN8Z3UEBPvc0yVQDe.jpg", "actors": [], "comments": [], "recommandations_id": [128941, 158292, 145013, 125713]}

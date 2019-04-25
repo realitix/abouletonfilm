@@ -1,1 +1,0 @@
-{"tmdb_id": 448100, "title": "Julekveld", "original_title": "Julekveld", "slug_title": "julekveld", "date": "2013-08-16", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gRXw8jUfFMRt65izmdCu7kC0A2t.jpg", "actors": [], "comments": [], "recommandations_id": []}

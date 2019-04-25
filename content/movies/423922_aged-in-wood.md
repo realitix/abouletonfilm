@@ -1,1 +1,0 @@
-{"tmdb_id": 423922, "title": "Aged in Wood", "original_title": "Aged in Wood", "slug_title": "aged-in-wood", "date": "1975-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

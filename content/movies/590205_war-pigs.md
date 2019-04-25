@@ -1,1 +1,0 @@
-{"tmdb_id": 590205, "title": "War Pigs", "original_title": "War Pigs", "slug_title": "war-pigs", "date": "", "genre": "Action / Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mel Gibson (The Pastor)", "Colin Farrell ()"], "comments": [], "recommandations_id": []}

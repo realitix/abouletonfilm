@@ -1,1 +1,0 @@
-{"tmdb_id": 293148, "title": "Here Together", "original_title": "Here Together", "slug_title": "here-together", "date": "2005-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

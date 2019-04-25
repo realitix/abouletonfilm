@@ -1,1 +1,0 @@
-{"tmdb_id": 307819, "title": "Swapna Sundari", "original_title": "Swapna Sundari", "slug_title": "swapna-sundari", "date": "1950-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

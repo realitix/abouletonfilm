@@ -1,1 +1,0 @@
-{"tmdb_id": 449731, "title": "Lou Hoover's Home Movies", "original_title": "Lou Hoover's Home Movies", "slug_title": "lou-hoover-s-home-movies", "date": "2017-03-29", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Herbert Hoover ()"], "comments": [], "recommandations_id": []}

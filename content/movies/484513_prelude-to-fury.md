@@ -1,1 +1,0 @@
-{"tmdb_id": 484513, "title": "Prelude to Fury", "original_title": "Prel\u00fadio da F\u00faria", "slug_title": "prelude-to-fury", "date": "2017-08-17", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pTxuE1uTf5Z6uF80JvVBUrnBXgQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

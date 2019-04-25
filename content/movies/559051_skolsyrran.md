@@ -1,1 +1,0 @@
-{"tmdb_id": 559051, "title": "Skolsyrran", "original_title": "Skolsyrran", "slug_title": "skolsyrran", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oFIIlK3w53f0ubV07Bc4Lv80WgN.jpg", "actors": ["Elvira Grenholm ()", "Jonas Bergdahl ()"], "comments": [], "recommandations_id": []}

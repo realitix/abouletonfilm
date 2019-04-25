@@ -1,1 +1,0 @@
-{"tmdb_id": 344973, "title": "The Fairy of Spring", "original_title": "La f\u00e9e printemps", "slug_title": "the-fairy-of-spring", "date": "1902-06-16", "genre": "Fantastique", "score": "5.7/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [116363, 119959]}

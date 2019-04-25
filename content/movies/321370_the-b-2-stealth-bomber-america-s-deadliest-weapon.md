@@ -1,1 +1,0 @@
-{"tmdb_id": 321370, "title": "The B-2 Stealth Bomber: America's Deadliest Weapon", "original_title": "The B-2 Stealth Bomber: America's Deadliest Weapon", "slug_title": "the-b-2-stealth-bomber-america-s-deadliest-weapon", "date": "2004-11-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

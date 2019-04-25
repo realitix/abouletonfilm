@@ -1,1 +1,0 @@
-{"tmdb_id": 204707, "title": "Nut Guilty", "original_title": "Nut Guilty", "slug_title": "nut-guilty", "date": "1936-11-21", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Edgar Bergen (Judge Bergen)"], "comments": [], "recommandations_id": []}

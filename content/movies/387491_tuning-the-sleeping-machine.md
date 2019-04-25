@@ -1,1 +1,0 @@
-{"tmdb_id": 387491, "title": "Tuning the Sleeping Machine", "original_title": "Tuning the Sleeping Machine", "slug_title": "tuning-the-sleeping-machine", "date": "1996-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7u8kZpKQjSdZJGZGoh86uP13Yoc.jpg", "actors": [], "comments": [], "recommandations_id": []}

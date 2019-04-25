@@ -1,1 +1,0 @@
-{"tmdb_id": 569703, "title": "They Say the Moon Is Fuller Here", "original_title": "They Say the Moon Is Fuller Here", "slug_title": "they-say-the-moon-is-fuller-here", "date": "1985-07-18", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

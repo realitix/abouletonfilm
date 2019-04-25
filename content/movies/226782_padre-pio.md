@@ -1,1 +1,0 @@
-{"tmdb_id": 226782, "title": "Padre Pio", "original_title": "Padre Pio", "slug_title": "padre-pio", "date": "2006-05-05", "genre": "Animation", "score": "4.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/43jEOwu7VVjVq0lIUpdJ55SROcP.jpg", "actors": [], "comments": [], "recommandations_id": []}

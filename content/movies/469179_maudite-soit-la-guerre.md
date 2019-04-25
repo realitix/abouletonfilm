@@ -1,1 +1,0 @@
-{"tmdb_id": 469179, "title": "Maudite soit la guerre", "original_title": "Maudite soit la guerre", "slug_title": "maudite-soit-la-guerre", "date": "1910-05-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ren\u00e9e Carl ()"], "comments": [], "recommandations_id": []}

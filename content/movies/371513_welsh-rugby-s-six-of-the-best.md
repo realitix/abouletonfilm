@@ -1,1 +1,0 @@
-{"tmdb_id": 371513, "title": "Welsh Rugby's Six Of The Best", "original_title": "Welsh Rugby's Six Of The Best", "slug_title": "welsh-rugby-s-six-of-the-best", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

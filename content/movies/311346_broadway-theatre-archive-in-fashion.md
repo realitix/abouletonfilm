@@ -1,1 +1,0 @@
-{"tmdb_id": 311346, "title": "Broadway Theatre Archive: In Fashion", "original_title": "Broadway Theatre Archive: In Fashion", "slug_title": "broadway-theatre-archive-in-fashion", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

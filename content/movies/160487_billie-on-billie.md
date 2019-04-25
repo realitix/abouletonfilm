@@ -1,1 +1,0 @@
-{"tmdb_id": 160487, "title": "Billie on Billie", "original_title": "Billie on Billie", "slug_title": "billie-on-billie", "date": "2002-01-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oFLDMXMFsmTHsx1qnHh3Z3ixobh.jpg", "actors": ["Billie Holiday (Herself)"], "comments": [], "recommandations_id": []}

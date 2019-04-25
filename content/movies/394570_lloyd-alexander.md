@@ -1,1 +1,0 @@
-{"tmdb_id": 394570, "title": "Lloyd Alexander", "original_title": "Lloyd Alexander", "slug_title": "lloyd-alexander", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lloyd Alexander (Himself)"], "comments": [], "recommandations_id": []}

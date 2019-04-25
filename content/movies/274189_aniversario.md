@@ -1,1 +1,0 @@
-{"tmdb_id": 274189, "title": "Aniversario", "original_title": "Aniversario", "slug_title": "aniversario", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 51237, "title": "Live From The Highline Ballroom", "original_title": "Live From The Highline Ballroom", "slug_title": "live-from-the-highline-ballroom", "date": "2008-04-14", "genre": "Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jason Mraz (Jason Mraz)"], "comments": [], "recommandations_id": []}

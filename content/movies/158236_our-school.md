@@ -1,1 +1,0 @@
-{"tmdb_id": 158236, "title": "Our School", "original_title": "Our School", "slug_title": "our-school", "date": "2013-01-18", "genre": "", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/b21ytnnj2mTRCKq7rfj5ne78pGz.jpg", "actors": [], "comments": [], "recommandations_id": []}

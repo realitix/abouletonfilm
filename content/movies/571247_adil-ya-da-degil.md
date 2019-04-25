@@ -1,1 +1,0 @@
-{"tmdb_id": 571247, "title": "Adil ya da De\u011fil", "original_title": "Adil ya da De\u011fil", "slug_title": "adil-ya-da-degil", "date": "2011-11-23", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

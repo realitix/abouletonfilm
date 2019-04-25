@@ -1,1 +1,0 @@
-{"tmdb_id": 592574, "title": "Yearning", "original_title": "Sehnsucht", "slug_title": "yearning", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/8xkcFEAsyPmtyDCSQLvb0LqlqaA.jpg", "actors": [], "comments": [], "recommandations_id": []}

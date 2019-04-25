@@ -1,1 +1,0 @@
-{"tmdb_id": 278130, "title": "Manik Basha", "original_title": "Manik Basha", "slug_title": "manik-basha", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

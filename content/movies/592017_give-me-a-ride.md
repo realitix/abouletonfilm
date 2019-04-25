@@ -1,1 +1,0 @@
-{"tmdb_id": 592017, "title": "Give Me A Ride", "original_title": "\u4e58\u5ba2", "slug_title": "give-me-a-ride", "date": "2019-03-27", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pKZHUoxWmNw4J1AVvJJ7cp3Zj9H.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 464962, "title": "Debaters Go Belgrade", "original_title": "Debaters Go Belgrade", "slug_title": "debaters-go-belgrade", "date": "2010-10-23", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lXKYrfsBseNaWF0BTc8LvKTlNHt.jpg", "actors": [], "comments": [], "recommandations_id": []}

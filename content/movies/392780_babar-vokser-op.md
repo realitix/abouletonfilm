@@ -1,1 +1,0 @@
-{"tmdb_id": 392780, "title": "Babar vokser op", "original_title": "Babar vokser op", "slug_title": "babar-vokser-op", "date": "2003-09-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/191rMJofkcsUVLcTMr01siMGiYi.jpg", "actors": [], "comments": [], "recommandations_id": []}

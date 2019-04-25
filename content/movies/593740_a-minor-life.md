@@ -1,1 +1,0 @@
-{"tmdb_id": 593740, "title": "A Minor Life", "original_title": "Une vie mineure", "slug_title": "a-minor-life", "date": "2016-12-04", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cjsRLN3AUFCVwNSvfw2WIMXy6Wb.jpg", "actors": [], "comments": [], "recommandations_id": []}

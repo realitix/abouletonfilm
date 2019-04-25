@@ -1,1 +1,0 @@
-{"tmdb_id": 74953, "title": "Magick Lantern Cycle", "original_title": "Magick Lantern Cycle", "slug_title": "magick-lantern-cycle", "date": "2009-05-25", "genre": "Fantastique", "score": "6.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nJc7G6w5Qv2VNCo55fsea35G6nS.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 269090, "title": "Southern Storm", "original_title": "Badai-Selatan", "slug_title": "southern-storm", "date": "1962-01-01", "genre": "Drame / Horreur", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["W.D. Mochtar ()", "Sukarno M. Noor ()", "Ida Nursanti ()"], "comments": [], "recommandations_id": []}

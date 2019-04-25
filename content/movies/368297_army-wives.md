@@ -1,1 +1,0 @@
-{"tmdb_id": 368297, "title": "Army Wives", "original_title": "Army Wives", "slug_title": "army-wives", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 419805, "title": "HCGB Parodies", "original_title": "HCGB Parodies", "slug_title": "hcgb-parodies", "date": "2016-08-08", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3UJSphzZDhz1U5Tb9dEpmER9gHZ.jpg", "actors": ["Ryan Conner ()", "Ingrid Mouth ()", "Bella Rossi ()"], "comments": [], "recommandations_id": []}

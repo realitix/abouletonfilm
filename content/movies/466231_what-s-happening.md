@@ -1,1 +1,0 @@
-{"tmdb_id": 466231, "title": "What's Happening?", "original_title": "What's Happening?", "slug_title": "what-s-happening", "date": "1967-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

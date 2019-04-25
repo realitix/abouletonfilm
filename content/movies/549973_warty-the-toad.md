@@ -1,1 +1,0 @@
-{"tmdb_id": 549973, "title": "Warty, the Toad", "original_title": "Warty, the Toad", "slug_title": "warty-the-toad", "date": "1973-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

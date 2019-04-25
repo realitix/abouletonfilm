@@ -1,1 +1,0 @@
-{"tmdb_id": 195743, "title": "Bird Scouts", "original_title": "Bird Scouts", "slug_title": "bird-scouts", "date": "1935-09-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

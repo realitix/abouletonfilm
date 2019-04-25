@@ -1,1 +1,0 @@
-{"tmdb_id": 435504, "title": "Born Beautiful", "original_title": "Born Beautiful", "slug_title": "born-beautiful", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

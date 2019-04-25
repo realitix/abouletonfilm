@@ -1,1 +1,0 @@
-{"tmdb_id": 317612, "title": "The Emperor's New Clothes", "original_title": "The Emperor's New Clothes", "slug_title": "the-emperor-s-new-clothes", "date": "1953-04-29", "genre": "Animation", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p7BVUjLlSkZuDY3P4gzxtmlpEWs.jpg", "actors": [], "comments": [], "recommandations_id": []}

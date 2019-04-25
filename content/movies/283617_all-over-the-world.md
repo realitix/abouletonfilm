@@ -1,1 +1,0 @@
-{"tmdb_id": 283617, "title": "All Over the World", "original_title": "\u5927\u6605\u91ce", "slug_title": "all-over-the-world", "date": "1993-01-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/69EKluhjsBxNZdjwccaoyjEOdnE.jpg", "actors": [], "comments": [], "recommandations_id": []}

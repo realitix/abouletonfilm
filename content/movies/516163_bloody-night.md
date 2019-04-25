@@ -1,1 +1,0 @@
-{"tmdb_id": 516163, "title": "Bloody Night", "original_title": "Bloody Night", "slug_title": "bloody-night", "date": "2006-04-04", "genre": "Animation / Horreur", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

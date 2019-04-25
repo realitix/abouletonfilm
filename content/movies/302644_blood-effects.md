@@ -1,1 +1,0 @@
-{"tmdb_id": 302644, "title": "Blood Effects", "original_title": "Blood Effects", "slug_title": "blood-effects", "date": "2013-05-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

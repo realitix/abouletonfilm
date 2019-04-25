@@ -1,1 +1,0 @@
-{"tmdb_id": 78227, "title": "An Artistic Couple", "original_title": "Un couple d'artistes", "slug_title": "an-artistic-couple", "date": "1970-01-01", "genre": "Horreur", "score": "4.3/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Martine Deriche ()", "Thalie Frug\u00e8s ()", "Paul Bonifas ()"], "comments": [], "recommandations_id": []}

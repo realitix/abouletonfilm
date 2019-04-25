@@ -1,1 +1,0 @@
-{"tmdb_id": 574664, "title": "Dizzy Daisy", "original_title": "Dizzy Daisy", "slug_title": "dizzy-daisy", "date": "1924-06-29", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Louise Fazenda (Daisy - the Fisherman's Daughter)", "Sidney Smith ()"], "comments": [], "recommandations_id": []}

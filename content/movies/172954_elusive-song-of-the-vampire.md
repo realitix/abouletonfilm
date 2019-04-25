@@ -1,1 +1,0 @@
-{"tmdb_id": 172954, "title": "Elusive Song of the Vampire", "original_title": "Elusive Song of the Vampire", "slug_title": "elusive-song-of-the-vampire", "date": "1987-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

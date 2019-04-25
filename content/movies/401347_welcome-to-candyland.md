@@ -1,1 +1,0 @@
-{"tmdb_id": 401347, "title": "Welcome to Candyland", "original_title": "Welcome to Candyland", "slug_title": "welcome-to-candyland", "date": "2012-03-04", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["James Ferraro (Himself)"], "comments": [], "recommandations_id": []}

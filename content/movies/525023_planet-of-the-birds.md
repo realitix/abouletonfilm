@@ -1,1 +1,0 @@
-{"tmdb_id": 525023, "title": "Planet of the Birds", "original_title": "Planet of the Birds", "slug_title": "planet-of-the-birds", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wEn4eaEBq72Q8cwuync1xX8nxNi.jpg", "actors": [], "comments": [], "recommandations_id": []}

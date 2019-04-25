@@ -1,1 +1,0 @@
-{"tmdb_id": 149884, "title": "Sade: Live in Munich", "original_title": "Sade: Live in Munich", "slug_title": "sade-live-in-munich", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

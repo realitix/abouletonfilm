@@ -1,1 +1,0 @@
-{"tmdb_id": 593653, "title": "Penicillin", "original_title": "Penicillin", "slug_title": "penicillin", "date": "1944-04-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Valentine Dyall (Himself - Narrator)"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 333974, "title": "Before Sunrise", "original_title": "Tong oldidan", "slug_title": "before-sunrise", "date": "1933-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Afandikhan ()", "Soleiman Khodjaev ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 323026, "title": "Rosinenbomber", "original_title": "Rosinenbomber", "slug_title": "rosinenbomber", "date": "1988-06-27", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["R\u00fcdiger Kirschstein ()", "Carl Raddatz ()", "Ernst Stankovski ()", "Rolf Zacher ()"], "comments": [], "recommandations_id": []}

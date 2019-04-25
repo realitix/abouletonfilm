@@ -1,1 +1,0 @@
-{"tmdb_id": 349593, "title": "\ub2e4\ub978 \uc2dc\uac04 \ub2e4\ub978 \uc7a5\uc18c", "original_title": "\ub2e4\ub978 \uc2dc\uac04 \ub2e4\ub978 \uc7a5\uc18c", "slug_title": "dareun-sigan-dareun-jangso", "date": "1983-08-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

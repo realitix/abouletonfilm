@@ -1,1 +1,0 @@
-{"tmdb_id": 312021, "title": "Cartoon Commercials!: Vol. 1", "original_title": "Cartoon Commercials!: Vol. 1", "slug_title": "cartoon-commercials-vol-1", "date": "2008-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

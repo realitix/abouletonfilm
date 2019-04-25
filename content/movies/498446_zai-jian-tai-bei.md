@@ -1,1 +1,0 @@
-{"tmdb_id": 498446, "title": "\u518d\u898b\u53f0\u5317", "original_title": "\u518d\u898b\u53f0\u5317", "slug_title": "zai-jian-tai-bei", "date": "", "genre": "Com\u00e9die / Musique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["\u6587\u590f (\u963f\u6587\u54e5)"], "comments": [], "recommandations_id": []}

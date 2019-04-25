@@ -1,1 +1,0 @@
-{"tmdb_id": 442201, "title": "My Cape of Many Dreams", "original_title": "\u5922\u7684\u8863\u88f3", "slug_title": "my-cape-of-many-dreams", "date": "1981-03-28", "genre": "Romance", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Kenny Bee ()", "Lu Hsiu Ling ()"], "comments": [], "recommandations_id": []}

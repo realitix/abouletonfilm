@@ -1,1 +1,0 @@
-{"tmdb_id": 576871, "title": "Beyond Beach", "original_title": "Beyond Beach", "slug_title": "beyond-beach", "date": "2018-12-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

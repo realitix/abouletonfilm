@@ -1,1 +1,0 @@
-{"tmdb_id": 464282, "title": "Ha'yom Shel Adam", "original_title": "Ha'yom Shel Adam", "slug_title": "ha-yom-shel-adam", "date": "2008-07-01", "genre": "Drame", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ohad Knoller (Yoav)", "Idan Brandeis (Adam)", "Yael Zafrir (Noa)", "Alon Shlain (Alon)"], "comments": [], "recommandations_id": []}

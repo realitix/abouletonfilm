@@ -1,1 +1,0 @@
-{"tmdb_id": 349765, "title": "\ub098\ube44\ud488\uc5d0\uc11c \uc6b8\uc5c8\ub2e4", "original_title": "\ub098\ube44\ud488\uc5d0\uc11c \uc6b8\uc5c8\ub2e4", "slug_title": "nabipumeseo-uleossda", "date": "1983-03-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

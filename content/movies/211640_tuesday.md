@@ -1,1 +1,0 @@
-{"tmdb_id": 211640, "title": "Tuesday", "original_title": "Tuesday", "slug_title": "tuesday", "date": "2012-09-08", "genre": "Drame", "score": "6.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

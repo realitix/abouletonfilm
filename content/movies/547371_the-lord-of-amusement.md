@@ -1,1 +1,0 @@
-{"tmdb_id": 547371, "title": "The Lord of Amusement", "original_title": "The Lord of Amusement", "slug_title": "the-lord-of-amusement", "date": "1999-04-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Francis Ng ()", "Nick Cheung ()", "Siu Suet ()", "Ng Man-Tat ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 440612, "title": "Todo sobre mi mate", "original_title": "Todo sobre mi mate", "slug_title": "todo-sobre-mi-mate", "date": "2011-01-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/naeupBFW1wsIVk6c9DJiuZOBm4S.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 113455, "title": "Design & Thinking", "original_title": "\u8a2d\u8a08\u8207\u601d\u8003", "slug_title": "design-thinking", "date": "2012-04-28", "genre": "Documentaire", "score": "6.5/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uAXVHx62HYCFi4Ck9c2713hYv5G.jpg", "actors": [], "comments": [], "recommandations_id": []}

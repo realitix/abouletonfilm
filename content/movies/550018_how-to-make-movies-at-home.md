@@ -1,1 +1,0 @@
-{"tmdb_id": 550018, "title": "How to Make Movies at Home", "original_title": "How to Make Movies at Home", "slug_title": "how-to-make-movies-at-home", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/bMkTIOpB9KwLYp4eesPKTaqXEyO.jpg", "actors": [], "comments": [], "recommandations_id": []}

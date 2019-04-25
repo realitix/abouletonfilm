@@ -1,1 +1,0 @@
-{"tmdb_id": 575033, "title": "Blizzard of '79", "original_title": "Blizzard of '79", "slug_title": "blizzard-of-79", "date": "1979-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

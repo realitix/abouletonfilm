@@ -1,1 +1,0 @@
-{"tmdb_id": 529748, "title": "Fucked Like a Star", "original_title": "Fucked Like a Star", "slug_title": "fucked-like-a-star", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 505999, "title": "Zuidoost-Noordwest", "original_title": "Zuidoost-Noordwest", "slug_title": "zuidoost-noordwest", "date": "2018-02-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

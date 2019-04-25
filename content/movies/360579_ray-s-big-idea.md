@@ -1,1 +1,0 @@
-{"tmdb_id": 360579, "title": "Ray's Big Idea", "original_title": "Ray's Big Idea", "slug_title": "ray-s-big-idea", "date": "2014-10-19", "genre": "Aventure / Animation / Com\u00e9die / Familial", "score": "6.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kTex8nzD4P6pk3d60tWUdgPe5cA.jpg", "actors": [], "comments": [], "recommandations_id": []}

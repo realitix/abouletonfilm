@@ -1,1 +1,0 @@
-{"tmdb_id": 543916, "title": "Grass and Glass", "original_title": "Grass and Glass", "slug_title": "grass-and-glass", "date": "2019-01-07", "genre": "Documentaire / Musique", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wtIb8U5au41UgXceVohZe2WA6S7.jpg", "actors": [], "comments": [], "recommandations_id": []}

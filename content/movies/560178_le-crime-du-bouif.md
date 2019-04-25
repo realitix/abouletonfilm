@@ -1,1 +1,0 @@
-{"tmdb_id": 560178, "title": "Le crime du Bouif", "original_title": "Le crime du Bouif", "slug_title": "le-crime-du-bouif", "date": "1952-03-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

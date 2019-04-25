@@ -1,1 +1,0 @@
-{"tmdb_id": 261222, "title": "Amarakaaviyam", "original_title": "Amarakaaviyam", "slug_title": "amarakaaviyam", "date": "1981-04-23", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sivaji Ganesan ()", "Sripriya ()", "Jai Ganesh ()", "Nagesh ()", "Madhavi ()"], "comments": [], "recommandations_id": []}

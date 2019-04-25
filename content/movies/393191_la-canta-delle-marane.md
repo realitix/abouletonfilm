@@ -1,1 +1,0 @@
-{"tmdb_id": 393191, "title": "La canta delle marane", "original_title": "La canta delle marane", "slug_title": "la-canta-delle-marane", "date": "1961-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

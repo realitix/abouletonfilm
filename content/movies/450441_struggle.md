@@ -1,1 +1,0 @@
-{"tmdb_id": 450441, "title": "Struggle", "original_title": "\u3082\u304b\u3099\u304d", "slug_title": "struggle", "date": "2016-12-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vn0JEejuFZdnXkMLKjYCqIvPx2j.jpg", "actors": [], "comments": [], "recommandations_id": []}

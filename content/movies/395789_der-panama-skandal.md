@@ -1,1 +1,0 @@
-{"tmdb_id": 395789, "title": "Der Panama Skandal", "original_title": "Der Panama Skandal", "slug_title": "der-panama-skandal", "date": "2016-05-02", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 175190, "title": "The Master and the Boxer", "original_title": "The Master and the Boxer", "slug_title": "the-master-and-the-boxer", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/Vj9Qwbp43BmyWvekJEcnwY5Qke.jpg", "actors": [], "comments": [], "recommandations_id": []}

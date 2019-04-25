@@ -1,1 +1,0 @@
-{"tmdb_id": 411433, "title": "Star Child", "original_title": "Star Child", "slug_title": "star-child", "date": "2016-01-01", "genre": "Science-Fiction", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mLsRGAwGdTDv4I0KL3NjInAvo7k.jpg", "actors": [], "comments": [], "recommandations_id": []}

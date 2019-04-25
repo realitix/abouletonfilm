@@ -1,1 +1,0 @@
-{"tmdb_id": 516637, "title": "Painting covers, art uncovers", "original_title": "Malerei deckt zu, kunst deckt auf", "slug_title": "painting-covers-art-uncovers", "date": "1977-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Richard Kriesche (Himself)"], "comments": [], "recommandations_id": []}

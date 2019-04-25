@@ -1,1 +1,0 @@
-{"tmdb_id": 426974, "title": "Ma olen v\u00e4sinud vihkamast", "original_title": "Ma olen v\u00e4sinud vihkamast", "slug_title": "ma-olen-vasinud-vihkamast", "date": "1995-11-23", "genre": "", "score": "8.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

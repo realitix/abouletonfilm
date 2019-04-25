@@ -1,1 +1,0 @@
-{"tmdb_id": 538760, "title": "La fille de la Madelon", "original_title": "La fille de la Madelon", "slug_title": "la-fille-de-la-madelon", "date": "1937-10-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lYeL5rwaTV0uCko9VdTP25DZIWk.jpg", "actors": [], "comments": [], "recommandations_id": []}

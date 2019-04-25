@@ -1,1 +1,0 @@
-{"tmdb_id": 30945, "title": "Mind Prey", "original_title": "Mind Prey", "slug_title": "mind-prey", "date": "1999-01-01", "genre": "Action / Drame / Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xF8GoFjCQGIRcQQN8QYzfJP0cJ6.jpg", "actors": ["Eriq La Salle ()", "Luis Guzm\u00e1n ()"], "comments": [], "recommandations_id": []}

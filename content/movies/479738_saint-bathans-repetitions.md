@@ -1,1 +1,0 @@
-{"tmdb_id": 479738, "title": "Saint Bathans Repetitions", "original_title": "Saint Bathans Repetitions", "slug_title": "saint-bathans-repetitions", "date": "2017-10-07", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p1wFDEhEdDkYm7OkpTa0bfFYY9Y.jpg", "actors": [], "comments": [], "recommandations_id": []}

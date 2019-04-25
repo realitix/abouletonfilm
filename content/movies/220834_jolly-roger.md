@@ -1,1 +1,0 @@
-{"tmdb_id": 220834, "title": "Jolly Roger", "original_title": "Jolly Roger", "slug_title": "jolly-roger", "date": "1999-10-18", "genre": "Animation", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tKeq0xGWScL9vYBwiVl0xTBxAB9.jpg", "actors": [], "comments": [], "recommandations_id": []}

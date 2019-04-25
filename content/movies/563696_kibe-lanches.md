@@ -1,1 +1,0 @@
-{"tmdb_id": 563696, "title": "Kibe Lanches", "original_title": "Kibe Lanches", "slug_title": "kibe-lanches", "date": "2017-12-08", "genre": "Documentaire", "score": "10.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/o2qlI8bPjwK9ISRIykybFDg0GNN.jpg", "actors": [], "comments": [], "recommandations_id": []}

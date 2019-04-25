@@ -1,1 +1,0 @@
-{"tmdb_id": 274528, "title": "Amruthavarshini", "original_title": "Amruthavarshini", "slug_title": "amruthavarshini", "date": "1997-07-18", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ramesh Aravind ()", "Sarath Babu ()", "Suhasini Maniratnam ()", "Tara ()"], "comments": [], "recommandations_id": []}

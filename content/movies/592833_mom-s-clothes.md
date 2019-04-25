@@ -1,1 +1,0 @@
-{"tmdb_id": 592833, "title": "Mom's Clothes", "original_title": "Mom's Clothes", "slug_title": "mom-s-clothes", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

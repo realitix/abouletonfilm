@@ -1,1 +1,0 @@
-{"tmdb_id": 357576, "title": "The Islanders", "original_title": "The Islanders", "slug_title": "the-islanders", "date": "1939-12-20", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iwbx6cfkd9hpFRGrAZMT8w6Lia4.jpg", "actors": ["Jack Livesey ()"], "comments": [], "recommandations_id": []}

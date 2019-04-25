@@ -1,1 +1,0 @@
-{"tmdb_id": 231380, "title": "Budapest, cort\u00e8ge de la Couronne", "original_title": "Budapest, cort\u00e8ge de la Couronne", "slug_title": "budapest-cortege-de-la-couronne", "date": "1896-07-18", "genre": "", "score": "5.5/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

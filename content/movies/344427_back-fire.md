@@ -1,1 +1,0 @@
-{"tmdb_id": 344427, "title": "Back Fire", "original_title": "Back Fire", "slug_title": "back-fire", "date": "1926-08-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Hilliard Karr (1st Fat Guy)", "'Kewpie' Ross (3rd Fat Guy)", "Frank Alexander ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 321567, "title": "Pau : la place du march\u00e9", "original_title": "Pau : la place du march\u00e9", "slug_title": "pau-la-place-du-marche", "date": "1900-04-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

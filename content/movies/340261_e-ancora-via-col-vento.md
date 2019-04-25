@@ -1,1 +1,0 @@
-{"tmdb_id": 340261, "title": "E' ancora via col vento", "original_title": "E' ancora via col vento", "slug_title": "e-ancora-via-col-vento", "date": "2015-05-14", "genre": "Com\u00e9die", "score": "10.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Stefano Simondo (Rhett)", "Angelo Amoretti (Walker)"], "comments": [], "recommandations_id": []}

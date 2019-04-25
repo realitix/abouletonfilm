@@ -1,1 +1,0 @@
-{"tmdb_id": 467734, "title": "Successive Approximations to the Goal", "original_title": "Successive Approximations to the Goal", "slug_title": "successive-approximations-to-the-goal", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

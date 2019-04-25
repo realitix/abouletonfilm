@@ -1,1 +1,0 @@
-{"tmdb_id": 412509, "title": "(No) Laughing Matter", "original_title": "(No) Laughing Matter", "slug_title": "no-laughing-matter", "date": "", "genre": "Com\u00e9die / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

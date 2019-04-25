@@ -1,1 +1,0 @@
-{"tmdb_id": 588297, "title": "\uc544\ub0b4\ub97c \uc8fd\uc600\ub2e4", "original_title": "\uc544\ub0b4\ub97c \uc8fd\uc600\ub2e4", "slug_title": "anaereul-jugyeossda", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Lee Si-eon ()", "Ahn Nae-sang ()", "Wang Ji-hye ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 44095, "title": "A Map For Saturday", "original_title": "A Map For Saturday", "slug_title": "a-map-for-saturday", "date": "2007-08-07", "genre": "Documentaire", "score": "7.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/umyWNwr58gpspCaOIxeAJZZcDNw.jpg", "actors": [], "comments": [], "recommandations_id": [213684, 82941, 36328, 34025]}

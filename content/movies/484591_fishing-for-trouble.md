@@ -1,1 +1,0 @@
-{"tmdb_id": 484591, "title": "Fishing for Trouble", "original_title": "Fishing for Trouble", "slug_title": "fishing-for-trouble", "date": "1934-05-04", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["George Sidney ()", "Charles Murray ()"], "comments": [], "recommandations_id": []}

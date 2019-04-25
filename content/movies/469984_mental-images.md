@@ -1,1 +1,0 @@
-{"tmdb_id": 469984, "title": "Mental Images", "original_title": "Mental Images", "slug_title": "mental-images", "date": "1987-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aWyftw3Xf84yS6UW2hQPsflqmam.jpg", "actors": [], "comments": [], "recommandations_id": []}

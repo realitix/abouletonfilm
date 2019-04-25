@@ -1,1 +1,0 @@
-{"tmdb_id": 589463, "title": "Ariel & Olivia", "original_title": "Ariel & Olivia", "slug_title": "ariel-olivia", "date": "2016-11-23", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a2ma3w63JLRGWjSknlGE5Ogp41y.jpg", "actors": ["Mae Chu ()", "Koh Jiayi ()", "Sean Lee ()"], "comments": [], "recommandations_id": []}

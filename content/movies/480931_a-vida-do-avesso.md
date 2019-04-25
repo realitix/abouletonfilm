@@ -1,1 +1,0 @@
-{"tmdb_id": 480931, "title": "A Vida do Avesso", "original_title": "A Vida do Avesso", "slug_title": "a-vida-do-avesso", "date": "2017-10-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jZVhxHapYrnwwKxEQYjh6l8fHhs.jpg", "actors": [], "comments": [], "recommandations_id": []}

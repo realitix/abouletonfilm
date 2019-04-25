@@ -1,1 +1,0 @@
-{"tmdb_id": 516105, "title": "The Flame", "original_title": "The Flame", "slug_title": "the-flame", "date": "2018-03-21", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Huang Tai Wei (main actor)"], "comments": [], "recommandations_id": []}

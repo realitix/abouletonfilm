@@ -1,1 +1,0 @@
-{"tmdb_id": 495076, "title": "Earthly People", "original_title": "Earthly People", "slug_title": "earthly-people", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

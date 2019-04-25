@@ -1,1 +1,0 @@
-{"tmdb_id": 496509, "title": "Figure Skating: U.S. Championships", "original_title": "Figure Skating: U.S. Championships", "slug_title": "figure-skating-u-s-championships", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

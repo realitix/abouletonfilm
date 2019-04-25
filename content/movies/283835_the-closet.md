@@ -1,1 +1,0 @@
-{"tmdb_id": 283835, "title": "The Closet", "original_title": "The Closet", "slug_title": "the-closet", "date": "2011-03-13", "genre": "", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/65J8aMfrpGZvuAYIVM4RBgqGSd4.jpg", "actors": [], "comments": [], "recommandations_id": []}

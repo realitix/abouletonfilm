@@ -1,1 +1,0 @@
-{"tmdb_id": 514467, "title": "Cowboys in Kosovo", "original_title": "Cowboys in Kosovo", "slug_title": "cowboys-in-kosovo", "date": "2004-01-01", "genre": "Western / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tXY001c1lmmQMlDDE0oDUROfAVi.jpg", "actors": [], "comments": [], "recommandations_id": []}

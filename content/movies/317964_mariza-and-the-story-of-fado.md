@@ -1,1 +1,0 @@
-{"tmdb_id": 317964, "title": "Mariza and the Story of Fado", "original_title": "Mariza and the Story of Fado", "slug_title": "mariza-and-the-story-of-fado", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mariza (Herself)"], "comments": [], "recommandations_id": []}

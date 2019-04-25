@@ -1,1 +1,0 @@
-{"tmdb_id": 293834, "title": "Daytime Version of the Night", "original_title": "Daytime Version of the Night", "slug_title": "daytime-version-of-the-night", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

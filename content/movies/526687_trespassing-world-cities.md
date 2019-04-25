@@ -1,1 +1,0 @@
-{"tmdb_id": 526687, "title": "Trespassing World Cities", "original_title": "\u6416\u64fa\u904e\u8def\u4eba", "slug_title": "trespassing-world-cities", "date": "2006-10-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/eyAvDPLR7Y45L4RHxiCXibNqBLD.jpg", "actors": [], "comments": [], "recommandations_id": []}

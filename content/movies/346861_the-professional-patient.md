@@ -1,1 +1,0 @@
-{"tmdb_id": 346861, "title": "The Professional Patient", "original_title": "The Professional Patient", "slug_title": "the-professional-patient", "date": "1917-01-19", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Sidney Drew ()", "Mrs. Sidney Drew ()"], "comments": [], "recommandations_id": []}

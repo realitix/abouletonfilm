@@ -1,1 +1,0 @@
-{"tmdb_id": 212361, "title": "Gus Arnheim and His Ambassadors", "original_title": "Gus Arnheim and His Ambassadors", "slug_title": "gus-arnheim-and-his-ambassadors", "date": "1928-06-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

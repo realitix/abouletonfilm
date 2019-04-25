@@ -1,1 +1,0 @@
-{"tmdb_id": 501861, "title": "The Croodaceous Creatures of 'Croods'", "original_title": "The Croodaceous Creatures of 'Croods'", "slug_title": "the-croodaceous-creatures-of-croods", "date": "2013-03-22", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

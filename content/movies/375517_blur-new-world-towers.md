@@ -1,1 +1,0 @@
-{"tmdb_id": 375517, "title": "Blur: New World Towers", "original_title": "Blur: New World Towers", "slug_title": "blur-new-world-towers", "date": "2015-12-02", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/g9vcBvjglgHjrvbZgxaHlae6clz.jpg", "actors": [], "comments": [], "recommandations_id": []}

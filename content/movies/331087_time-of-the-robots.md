@@ -1,1 +1,0 @@
-{"tmdb_id": 331087, "title": "Time of the Robots", "original_title": "Time of the Robots", "slug_title": "time-of-the-robots", "date": "2012-02-15", "genre": "Science-Fiction", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9VsznEeXVU1AjzpMTDyzXT6PIJQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

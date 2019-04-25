@@ -1,1 +1,0 @@
-{"tmdb_id": 359786, "title": "Up the Poll", "original_title": "Up the Poll", "slug_title": "up-the-poll", "date": "1929-07-01", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Donald Calthrop (The Candidate)"], "comments": [], "recommandations_id": []}

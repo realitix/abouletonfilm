@@ -1,1 +1,0 @@
-{"tmdb_id": 146294, "title": "Around the Beatles", "original_title": "Around the Beatles", "slug_title": "around-the-beatles", "date": "1964-05-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/p1TqY8wEZzKkmrDwi6arSj6SzKg.jpg", "actors": [], "comments": [], "recommandations_id": []}

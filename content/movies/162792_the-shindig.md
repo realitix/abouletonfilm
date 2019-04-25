@@ -1,1 +1,0 @@
-{"tmdb_id": 162792, "title": "The Shindig", "original_title": "The Shindig", "slug_title": "the-shindig", "date": "1930-07-28", "genre": "Animation", "score": "4.7/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4PjFnTn1iwpaJQITLOTfhdAgElt.jpg", "actors": [], "comments": [], "recommandations_id": [68516, 66876, 162577, 162965]}

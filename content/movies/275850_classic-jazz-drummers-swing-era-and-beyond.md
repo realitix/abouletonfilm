@@ -1,1 +1,0 @@
-{"tmdb_id": 275850, "title": "Classic Jazz Drummers: Swing Era and Beyond", "original_title": "Classic Jazz Drummers: Swing Era and Beyond", "slug_title": "classic-jazz-drummers-swing-era-and-beyond", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

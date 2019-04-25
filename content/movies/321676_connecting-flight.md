@@ -1,1 +1,0 @@
-{"tmdb_id": 321676, "title": "Connecting Flight", "original_title": "Connecting Flight", "slug_title": "connecting-flight", "date": "2013-07-30", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

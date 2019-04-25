@@ -1,1 +1,0 @@
-{"tmdb_id": 236922, "title": "The Tree Surgeon", "original_title": "The Tree Surgeon", "slug_title": "the-tree-surgeon", "date": "1944-06-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dLGZ6702ZFKgxuBngfGrjxD1GFY.jpg", "actors": [], "comments": [], "recommandations_id": []}

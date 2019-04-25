@@ -1,1 +1,0 @@
-{"tmdb_id": 104144, "title": "A Murderer", "original_title": "Morderstwo", "slug_title": "a-murderer", "date": "1957-01-01", "genre": "Crime", "score": "5.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/I6kQYO8ncJHwMDsFP9d5hG7VWb.jpg", "actors": [], "comments": [], "recommandations_id": [163041, 104141, 146131, 116459]}

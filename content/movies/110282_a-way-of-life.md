@@ -1,1 +1,0 @@
-{"tmdb_id": 110282, "title": "A Way of Life", "original_title": "A Way of Life", "slug_title": "a-way-of-life", "date": "2004-11-12", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/tCEfGtXpz5lzU2eZequXnzLXOeH.jpg", "actors": [], "comments": [], "recommandations_id": []}

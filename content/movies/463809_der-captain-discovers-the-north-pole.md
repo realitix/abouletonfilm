@@ -1,1 +1,0 @@
-{"tmdb_id": 463809, "title": "Der Captain Discovers the North Pole", "original_title": "Der Captain Discovers the North Pole", "slug_title": "der-captain-discovers-the-north-pole", "date": "1917-02-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 341825, "title": "Wakamba!", "original_title": "Wakamba!", "slug_title": "wakamba", "date": "1955-01-01", "genre": "Drame / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t30Xedyvezo05y6Bll5xtnUhfvD.jpg", "actors": ["Ed Prentiss (Narrator)"], "comments": [], "recommandations_id": []}

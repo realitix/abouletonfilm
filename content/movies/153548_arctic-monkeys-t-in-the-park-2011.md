@@ -1,1 +1,0 @@
-{"tmdb_id": 153548, "title": "Arctic Monkeys T in the Park 2011", "original_title": "Arctic Monkeys T in the Park 2011", "slug_title": "arctic-monkeys-t-in-the-park-2011", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1uO0ZRlQ20XQyTBOZppaMzZ4vVy.jpg", "actors": [], "comments": [], "recommandations_id": []}

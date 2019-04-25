@@ -1,1 +1,0 @@
-{"tmdb_id": 321687, "title": "Abattage d'un arbre", "original_title": "Abattage d'un arbre", "slug_title": "abattage-d-un-arbre", "date": "1896-03-08", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

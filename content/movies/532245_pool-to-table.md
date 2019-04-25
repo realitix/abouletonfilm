@@ -1,1 +1,0 @@
-{"tmdb_id": 532245, "title": "Pool To Table", "original_title": "Pool To Table", "slug_title": "pool-to-table", "date": "2016-07-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

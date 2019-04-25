@@ -1,1 +1,0 @@
-{"tmdb_id": 410074, "title": "En la ciudad (Xoco)", "original_title": "En la ciudad", "slug_title": "en-la-ciudad-xoco", "date": "2010-01-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hsQrzd4cASZ61XfuPJDza6whVJN.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 374484, "title": "Oilspot and Lipstick", "original_title": "Oilspot and Lipstick", "slug_title": "oilspot-and-lipstick", "date": "1987-07-28", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kHsacQS0KuyB3HtNNosyClcKmGA.jpg", "actors": [], "comments": [], "recommandations_id": []}

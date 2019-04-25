@@ -1,1 +1,0 @@
-{"tmdb_id": 297770, "title": "Mulberry Street", "original_title": "Mulberry Street", "slug_title": "mulberry-street", "date": "1990-08-08", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Connie Sellecca (Connie Savoia)"], "comments": [], "recommandations_id": []}

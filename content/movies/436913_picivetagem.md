@@ -1,1 +1,0 @@
-{"tmdb_id": 436913, "title": "PiciVetaGem", "original_title": "PiciVetaGem", "slug_title": "picivetagem", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9T3j25rvoQ3eIIZUrgSmUGzCera.jpg", "actors": [], "comments": [], "recommandations_id": []}

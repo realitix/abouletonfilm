@@ -1,1 +1,0 @@
-{"tmdb_id": 566418, "title": "Somnifobia", "original_title": "Somnifobia", "slug_title": "somnifobia", "date": "2018-09-09", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/kItbZPjWe5ZAqwdk4strJl61Tci.jpg", "actors": [], "comments": [], "recommandations_id": []}

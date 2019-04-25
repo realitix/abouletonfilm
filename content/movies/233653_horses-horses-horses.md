@@ -1,1 +1,0 @@
-{"tmdb_id": 233653, "title": "Horses, Horses, Horses", "original_title": "Horses, Horses, Horses", "slug_title": "horses-horses-horses", "date": "1927-05-21", "genre": "", "score": "3.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

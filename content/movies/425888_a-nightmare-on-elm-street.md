@@ -1,1 +1,0 @@
-{"tmdb_id": 425888, "title": "A Nightmare on Elm Street", "original_title": "A Nightmare on Elm Street", "slug_title": "a-nightmare-on-elm-street", "date": "2021-12-31", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dAAuKnkqF8svhqtabTsEu8dA8wA.jpg", "actors": [], "comments": [], "recommandations_id": []}

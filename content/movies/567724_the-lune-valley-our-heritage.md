@@ -1,1 +1,0 @@
-{"tmdb_id": 567724, "title": "The Lune Valley Our Heritage", "original_title": "The Lune Valley Our Heritage", "slug_title": "the-lune-valley-our-heritage", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

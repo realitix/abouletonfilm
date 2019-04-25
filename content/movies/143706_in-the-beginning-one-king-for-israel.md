@@ -1,1 +1,0 @@
-{"tmdb_id": 143706, "title": "In the Beginning: One King for Israel", "original_title": "In the Beginning: One King for Israel", "slug_title": "in-the-beginning-one-king-for-israel", "date": "1992-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

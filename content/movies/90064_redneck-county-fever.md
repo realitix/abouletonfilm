@@ -1,1 +1,0 @@
-{"tmdb_id": 90064, "title": "Redneck County Fever", "original_title": "Redneck County Fever", "slug_title": "redneck-county-fever", "date": "1992-03-06", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qn5T0FQNpMVtV4tPVJgbDm3GQEP.jpg", "actors": ["J.P. Black ()", "Lico Reyes ()"], "comments": [], "recommandations_id": []}

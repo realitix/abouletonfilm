@@ -1,1 +1,0 @@
-{"tmdb_id": 214259, "title": "Cement the Land", "original_title": "Cement the Land", "slug_title": "cement-the-land", "date": "1983-08-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

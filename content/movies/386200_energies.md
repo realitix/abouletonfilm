@@ -1,1 +1,0 @@
-{"tmdb_id": 386200, "title": "Energies", "original_title": "Energies", "slug_title": "energies", "date": "1957-03-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zRRvaR3SACESg4Kn2wB6UvLzYrP.jpg", "actors": [], "comments": [], "recommandations_id": []}

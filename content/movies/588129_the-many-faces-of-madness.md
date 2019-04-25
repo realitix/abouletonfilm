@@ -1,1 +1,0 @@
-{"tmdb_id": 588129, "title": "The Many Faces of Madness", "original_title": "The Many Faces of Madness", "slug_title": "the-many-faces-of-madness", "date": "2000-01-05", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

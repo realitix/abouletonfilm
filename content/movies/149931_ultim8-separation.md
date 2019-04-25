@@ -1,1 +1,0 @@
-{"tmdb_id": 149931, "title": "Ultim8 Separation", "original_title": "Ultim8 Separation", "slug_title": "ultim8-separation", "date": "2012-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2qI83mzbgiTNnhII5l4e2Dt3BbC.jpg", "actors": [], "comments": [], "recommandations_id": []}

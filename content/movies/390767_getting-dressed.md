@@ -1,1 +1,0 @@
-{"tmdb_id": 390767, "title": "Getting Dressed", "original_title": "\u670d\u3092\u7740\u308b\u307e\u3067", "slug_title": "getting-dressed", "date": "2010-01-01", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/34qPUZJ2EDO0xkF7upmA7EtnRkZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

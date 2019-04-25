@@ -1,1 +1,0 @@
-{"tmdb_id": 518201, "title": "WildMan of Ocheese Pond", "original_title": "WildMan of Ocheese Pond", "slug_title": "wildman-of-ocheese-pond", "date": "2018-04-21", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Stacy Brown Jr. (Host)"], "comments": [], "recommandations_id": []}

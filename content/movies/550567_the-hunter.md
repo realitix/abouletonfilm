@@ -1,1 +1,0 @@
-{"tmdb_id": 550567, "title": "The Hunter", "original_title": "The Hunter", "slug_title": "the-hunter", "date": "2018-04-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

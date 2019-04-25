@@ -1,1 +1,0 @@
-{"tmdb_id": 463649, "title": "Bandera Roja", "original_title": "Bandera Roja", "slug_title": "bandera-roja", "date": "2016-06-10", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7WETBBxYGr4lhH5gyr4EN6mMI2q.jpg", "actors": ["Juan Pablo Leo ()", "Gustavo Gonz\u00e1lez. ()"], "comments": [], "recommandations_id": []}

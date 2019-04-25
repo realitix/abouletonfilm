@@ -1,1 +1,0 @@
-{"tmdb_id": 242447, "title": "Vidaextra", "original_title": "Vidaextra", "slug_title": "vidaextra", "date": "2013-12-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/feOtfWFjdZNK40HAIpIMAuiHxW5.jpg", "actors": [], "comments": [], "recommandations_id": []}

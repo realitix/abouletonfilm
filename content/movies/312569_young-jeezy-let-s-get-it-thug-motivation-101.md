@@ -1,1 +1,0 @@
-{"tmdb_id": 312569, "title": "Young Jeezy: Let's Get It: Thug Motivation 101", "original_title": "Young Jeezy: Let's Get It: Thug Motivation 101", "slug_title": "young-jeezy-let-s-get-it-thug-motivation-101", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

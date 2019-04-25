@@ -1,1 +1,0 @@
-{"tmdb_id": 528969, "title": "Punasii p\u00e4in", "original_title": "Punasii p\u00e4in", "slug_title": "punasii-pain", "date": "2018-04-18", "genre": "Crime", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/4NwYPy26ndG5ijWYryqS73n0fqo.jpg", "actors": [], "comments": [], "recommandations_id": []}

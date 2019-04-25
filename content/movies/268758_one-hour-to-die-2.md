@@ -1,1 +1,0 @@
-{"tmdb_id": 268758, "title": "One Hour to Die 2", "original_title": "One Hour to Die 2", "slug_title": "one-hour-to-die-2", "date": "2013-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

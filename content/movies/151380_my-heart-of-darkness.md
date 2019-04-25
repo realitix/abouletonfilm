@@ -1,1 +1,0 @@
-{"tmdb_id": 151380, "title": "My Heart of Darkness", "original_title": "Mitt m\u00f6rka hj\u00e4rta", "slug_title": "my-heart-of-darkness", "date": "2010-11-20", "genre": "Guerre / Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/egNKm5b4oOEc7UYrBrXwEZiuJsA.jpg", "actors": [], "comments": [], "recommandations_id": []}

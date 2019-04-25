@@ -1,1 +1,0 @@
-{"tmdb_id": 402162, "title": "Blood on the Reel", "original_title": "Blood on the Reel", "slug_title": "blood-on-the-reel", "date": "2015-10-31", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uvADtCxRekYmwfBYiCNME0apVtD.jpg", "actors": [], "comments": [], "recommandations_id": []}

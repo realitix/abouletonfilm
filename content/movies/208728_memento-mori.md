@@ -1,1 +1,0 @@
-{"tmdb_id": 208728, "title": "memento mori", "original_title": "memento mori", "slug_title": "memento-mori", "date": "2012-09-19", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dGeseHgEFd8AWZW5wepPkCTEQ7Q.jpg", "actors": [], "comments": [], "recommandations_id": []}

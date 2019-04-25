@@ -1,1 +1,0 @@
-{"tmdb_id": 373690, "title": "High Fidelity", "original_title": "High Fidelity", "slug_title": "high-fidelity", "date": "1978-01-13", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

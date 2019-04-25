@@ -1,1 +1,0 @@
-{"tmdb_id": 586859, "title": "Sunset Boulevard", "original_title": "Sunset Boulevard", "slug_title": "sunset-boulevard", "date": "", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Glenn Close (Norma Desmond)"], "comments": [], "recommandations_id": []}

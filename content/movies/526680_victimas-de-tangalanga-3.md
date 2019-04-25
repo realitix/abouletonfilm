@@ -1,1 +1,0 @@
-{"tmdb_id": 526680, "title": "Victimas de Tangalanga 3", "original_title": "Victimas de Tangalanga 3", "slug_title": "victimas-de-tangalanga-3", "date": "2017-06-17", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/a1PmcqSpr82YEKqtJWdYHUkGj03.jpg", "actors": [], "comments": [], "recommandations_id": []}

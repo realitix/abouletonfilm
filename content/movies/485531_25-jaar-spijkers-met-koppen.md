@@ -1,1 +1,0 @@
-{"tmdb_id": 485531, "title": "25 jaar Spijkers met Koppen", "original_title": "25 jaar Spijkers met Koppen", "slug_title": "25-jaar-spijkers-met-koppen", "date": "2013-11-08", "genre": "Com\u00e9die / Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Jack Spijkerman (Himself)"], "comments": [], "recommandations_id": []}

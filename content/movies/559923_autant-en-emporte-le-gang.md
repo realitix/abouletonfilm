@@ -1,1 +1,0 @@
-{"tmdb_id": 559923, "title": "Autant en emporte le gang", "original_title": "Autant en emporte le gang", "slug_title": "autant-en-emporte-le-gang", "date": "1953-03-11", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

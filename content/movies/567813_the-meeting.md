@@ -1,1 +1,0 @@
-{"tmdb_id": 567813, "title": "The Meeting", "original_title": "The Meeting", "slug_title": "the-meeting", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Ailbhe Griffith (Ailbhe Griffith)", "Allan Keating (Declan Taylor)", "Kevin McCormack (Ger)", "Terry O'Neill (Martin Swann)"], "comments": [], "recommandations_id": []}

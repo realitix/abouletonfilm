@@ -1,1 +1,0 @@
-{"tmdb_id": 574301, "title": "Four Times Foiled", "original_title": "Four Times Foiled", "slug_title": "four-times-foiled", "date": "1920-01-11", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Snooky (Snooky)", "Edgar Kennedy ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 270940, "title": "Ad Astra", "original_title": "Ad Astra", "slug_title": "ad-astra", "date": "1982-01-01", "genre": "", "score": "4.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yajcBn20E8HcL7KEljSfKjkEutq.jpg", "actors": [], "comments": [], "recommandations_id": []}

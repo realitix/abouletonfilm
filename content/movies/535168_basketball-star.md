@@ -1,1 +1,0 @@
-{"tmdb_id": 535168, "title": "Basketball Star", "original_title": "Basketball Star", "slug_title": "basketball-star", "date": "2013-05-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/zPVBzm1hBCiLk6Ff4VsrcHrWbbK.jpg", "actors": ["Kendall Karson ()"], "comments": [], "recommandations_id": []}

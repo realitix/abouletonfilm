@@ -1,1 +1,0 @@
-{"tmdb_id": 249613, "title": "The Treasure", "original_title": "\u0db1\u0dd2\u0db0\u0dcf\u0db1\u0dba", "slug_title": "the-treasure", "date": "1973-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vRbjnmRePVIpn4oa3SimeyZMxaZ.jpg", "actors": [], "comments": [], "recommandations_id": []}

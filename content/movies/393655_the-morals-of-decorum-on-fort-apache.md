@@ -1,1 +1,0 @@
-{"tmdb_id": 393655, "title": "The Morals of Decorum (on Fort Apache)", "original_title": "The Morals of Decorum (on Fort Apache)", "slug_title": "the-morals-of-decorum-on-fort-apache", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

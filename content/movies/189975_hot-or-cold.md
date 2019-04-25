@@ -1,1 +1,0 @@
-{"tmdb_id": 189975, "title": "Hot or Cold", "original_title": "Hot or Cold", "slug_title": "hot-or-cold", "date": "1928-12-01", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Al St. John ()"], "comments": [], "recommandations_id": []}

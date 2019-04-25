@@ -1,1 +1,0 @@
-{"tmdb_id": 41157, "title": "A Lucid Dream", "original_title": "A Lucid Dream", "slug_title": "a-lucid-dream", "date": "2006-09-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wghhjDrSXWCQR6RnmcpX4MobUni.jpg", "actors": [], "comments": [], "recommandations_id": []}

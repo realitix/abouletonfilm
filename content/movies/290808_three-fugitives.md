@@ -1,1 +1,0 @@
-{"tmdb_id": 290808, "title": "Three Fugitives", "original_title": "Tiga buronan", "slug_title": "three-fugitives", "date": "1957-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 552784, "title": "Le renard minuscule", "original_title": "Le renard minuscule", "slug_title": "le-renard-minuscule", "date": "2016-02-05", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dTaGsuvtt3El08ao4FaPgBux3om.jpg", "actors": [], "comments": [], "recommandations_id": []}

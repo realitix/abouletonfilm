@@ -1,1 +1,0 @@
-{"tmdb_id": 451269, "title": "1+8 Installation", "original_title": "1+8 Installation", "slug_title": "1-8-installation", "date": "2013-04-08", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/47wNwEeqn6JeCh32Tv7bhJOLoKb.jpg", "actors": [], "comments": [], "recommandations_id": []}

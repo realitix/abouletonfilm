@@ -1,1 +1,0 @@
-{"tmdb_id": 541548, "title": "The Rise and Fall of Nokia", "original_title": "The Rise and Fall of Nokia", "slug_title": "the-rise-and-fall-of-nokia", "date": "2018-07-10", "genre": "Documentaire", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qYLDszfXCe5NtZbawooDapTH40Y.jpg", "actors": [], "comments": [], "recommandations_id": []}

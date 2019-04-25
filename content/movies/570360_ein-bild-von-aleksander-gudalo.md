@@ -1,1 +1,0 @@
-{"tmdb_id": 570360, "title": "Ein Bild von Aleksander Gudalo", "original_title": "Ein Bild von Aleksander Gudalo", "slug_title": "ein-bild-von-aleksander-gudalo", "date": "2018-11-30", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

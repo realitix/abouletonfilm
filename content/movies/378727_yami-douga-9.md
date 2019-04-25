@@ -1,1 +1,0 @@
-{"tmdb_id": 378727, "title": "Yami Douga 9", "original_title": "\u95c7\u52d5\u753b9", "slug_title": "yami-douga-9", "date": "2014-02-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/nST88y6vHKR5QZ4KacgzKkKgDXG.jpg", "actors": [], "comments": [], "recommandations_id": []}

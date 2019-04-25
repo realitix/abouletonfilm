@@ -1,1 +1,0 @@
-{"tmdb_id": 498342, "title": "compLexity: Generations", "original_title": "compLexity: Generations", "slug_title": "complexity-generations", "date": "2012-07-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/9h6Obqs729r6jaCPsJhYFG6gyWK.jpg", "actors": [], "comments": [], "recommandations_id": []}

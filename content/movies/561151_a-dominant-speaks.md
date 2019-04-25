@@ -1,1 +1,0 @@
-{"tmdb_id": 561151, "title": "A Dominant Speaks", "original_title": "A Dominant Speaks", "slug_title": "a-dominant-speaks", "date": "1996-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Porsche Lynn (Mistress Claudia)", "Angella Faith (Kiki)", "Caressa Savage (Helena)"], "comments": [], "recommandations_id": []}

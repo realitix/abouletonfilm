@@ -1,1 +1,0 @@
-{"tmdb_id": 319791, "title": "Rani Rathnaprabha", "original_title": "Rani Rathnaprabha", "slug_title": "rani-rathnaprabha", "date": "1955-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

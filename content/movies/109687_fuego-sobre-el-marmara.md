@@ -1,1 +1,0 @@
-{"tmdb_id": 109687, "title": "Fuego sobre el M\u00e1rmara", "original_title": "Fuego sobre el M\u00e1rmara", "slug_title": "fuego-sobre-el-marmara", "date": "2011-05-31", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/pw5Pel9K8dmSJiUaqETXy2HovSd.jpg", "actors": [], "comments": [], "recommandations_id": []}

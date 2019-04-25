@@ -1,1 +1,0 @@
-{"tmdb_id": 292440, "title": "Der Saustall", "original_title": "Der Saustall", "slug_title": "der-saustall", "date": "2002-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/1SUj4n5rdiIkl9rNwa5OY58BZ3l.jpg", "actors": ["Vivian Schmitt ()"], "comments": [], "recommandations_id": []}

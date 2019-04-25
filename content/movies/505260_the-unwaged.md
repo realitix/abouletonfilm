@@ -1,1 +1,0 @@
-{"tmdb_id": 505260, "title": "The Unwaged", "original_title": "The Unwaged", "slug_title": "the-unwaged", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mh7MdOTvlXkFgyMfcG09DICBtpg.jpg", "actors": [], "comments": [], "recommandations_id": []}

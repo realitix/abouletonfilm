@@ -1,1 +1,0 @@
-{"tmdb_id": 475529, "title": "The Times We Live In", "original_title": "\u010cas, ktor\u00fd \u017eijeme", "slug_title": "the-times-we-live-in", "date": "1968-04-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

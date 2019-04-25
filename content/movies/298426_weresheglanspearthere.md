@@ -1,1 +1,0 @@
-{"tmdb_id": 298426, "title": "Weresheglanspearthere", "original_title": "Weresheglanspearthere", "slug_title": "weresheglanspearthere", "date": "2014-10-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

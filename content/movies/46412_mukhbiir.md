@@ -1,1 +1,0 @@
-{"tmdb_id": 46412, "title": "Mukhbiir", "original_title": "Mukhbiir", "slug_title": "mukhbiir", "date": "2008-08-22", "genre": "Action", "score": "7.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

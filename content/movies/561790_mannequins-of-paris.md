@@ -1,1 +1,0 @@
-{"tmdb_id": 561790, "title": "Mannequins of Paris", "original_title": "Mannequins de Paris", "slug_title": "mannequins-of-paris", "date": "1956-09-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/wsZj1vm401ZVxsOccosvg6Ebebi.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 317489, "title": "Chuggington: Chief Wilson", "original_title": "Chuggington: Chief Wilson", "slug_title": "chuggington-chief-wilson", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

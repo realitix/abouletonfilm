@@ -1,1 +1,0 @@
-{"tmdb_id": 333791, "title": "Soviet Tadjikistan", "original_title": "Soviet Tadjikistan", "slug_title": "soviet-tadjikistan", "date": "1935-01-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

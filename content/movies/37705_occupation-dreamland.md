@@ -1,1 +1,0 @@
-{"tmdb_id": 37705, "title": "Occupation: Dreamland", "original_title": "Occupation: Dreamland", "slug_title": "occupation-dreamland", "date": "2005-03-11", "genre": "Documentaire / Guerre", "score": "6.8/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/hvV3JwpSQEtnKXDCxIt2bKHg45n.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 449119, "title": "Carmen o la hija del contrabandista", "original_title": "Carmen o la hija del contrabandista", "slug_title": "carmen-o-la-hija-del-contrabandista", "date": "1911-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Concha Lorente ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 511394, "title": "Wonderlus", "original_title": "Wonderlus", "slug_title": "wonderlus", "date": "2018-04-27", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/vJlN157KKleZpjorfUq867p20MB.jpg", "actors": [], "comments": [], "recommandations_id": []}

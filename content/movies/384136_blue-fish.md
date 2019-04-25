@@ -1,1 +1,0 @@
-{"tmdb_id": 384136, "title": "Blue Fish", "original_title": "Blue Fish", "slug_title": "blue-fish", "date": "1998-02-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Mari Ouchi ()", "Keigo Heshiki ()", "Yoshino Tamaki ()", "Miyuki Toubaru ()"], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 568866, "title": "I Leave Chelsea Hotel", "original_title": "I Leave Chelsea Hotel", "slug_title": "i-leave-chelsea-hotel", "date": "2009-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

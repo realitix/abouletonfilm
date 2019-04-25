@@ -1,1 +1,0 @@
-{"tmdb_id": 542416, "title": "Funny Business", "original_title": "Funny Business", "slug_title": "funny-business", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

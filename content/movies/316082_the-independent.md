@@ -1,1 +1,0 @@
-{"tmdb_id": 316082, "title": "The Independent", "original_title": "The Independent", "slug_title": "the-independent", "date": "2007-06-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/v5WkSzKavSDWH0SPumGAI6trPOh.jpg", "actors": ["Antonio Baxevanidis (Photographer)"], "comments": [], "recommandations_id": []}

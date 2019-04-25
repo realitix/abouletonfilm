@@ -1,1 +1,0 @@
-{"tmdb_id": 547335, "title": "Al final del t\u00fanel", "original_title": "Al final del t\u00fanel", "slug_title": "al-final-del-tunel", "date": "2011-09-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 309153, "title": "Khel Muqaddar Ka", "original_title": "Khel Muqaddar Ka", "slug_title": "khel-muqaddar-ka", "date": "1981-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 299906, "title": "Fire Routine", "original_title": "Fire Routine", "slug_title": "fire-routine", "date": "1979-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xvxI2k01D3YcuDuRJ7HFOIsmacm.jpg", "actors": [], "comments": [], "recommandations_id": []}

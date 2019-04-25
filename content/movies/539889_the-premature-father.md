@@ -1,1 +1,0 @@
-{"tmdb_id": 539889, "title": "The Premature Father", "original_title": "Le p\u00e8re pr\u00e9matur\u00e9", "slug_title": "the-premature-father", "date": "1933-09-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/xm785DizkZCalJsHJHwJXJ7HIDL.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 503276, "title": "Untitled 3 (Stone Killer)", "original_title": "Untitled 3 (Stone Killer)", "slug_title": "untitled-3-stone-killer", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

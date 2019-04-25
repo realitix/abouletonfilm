@@ -1,1 +1,0 @@
-{"tmdb_id": 389172, "title": "Bloody Nitrate", "original_title": "Caliche sangriento", "slug_title": "bloody-nitrate", "date": "1969-03-21", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3wLkxjHe74z30TsckSp4xYKjzsd.jpg", "actors": ["H\u00e9ctor Duvauchelle ()"], "comments": [], "recommandations_id": []}

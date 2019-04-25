@@ -1,1 +1,0 @@
-{"tmdb_id": 226443, "title": "Banaz: A Love Story", "original_title": "Banaz: A Love Story", "slug_title": "banaz-a-love-story", "date": "2012-09-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6oY9sgK1sFJtRfSOUqPEuZ9tPa2.jpg", "actors": [], "comments": [], "recommandations_id": []}

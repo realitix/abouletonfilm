@@ -1,1 +1,0 @@
-{"tmdb_id": 561015, "title": "Trouble for the Legion", "original_title": "Legione straniera", "slug_title": "trouble-for-the-legion", "date": "1953-08-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/cyzT7N5vBkCjAaN0NjYKz7AnFc2.jpg", "actors": [], "comments": [], "recommandations_id": []}

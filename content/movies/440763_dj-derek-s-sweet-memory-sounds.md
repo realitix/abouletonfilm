@@ -1,1 +1,0 @@
-{"tmdb_id": 440763, "title": "DJ Derek's Sweet Memory Sounds", "original_title": "DJ Derek's Sweet Memory Sounds", "slug_title": "dj-derek-s-sweet-memory-sounds", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/mzrrY6bcTzCEX7kzA4zJWupbLeQ.jpg", "actors": [], "comments": [], "recommandations_id": []}

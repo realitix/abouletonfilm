@@ -1,1 +1,0 @@
-{"tmdb_id": 561575, "title": "A Christmas Fantasy", "original_title": "A Christmas Fantasy", "slug_title": "a-christmas-fantasy", "date": "1962-12-01", "genre": "Animation / Fantastique", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

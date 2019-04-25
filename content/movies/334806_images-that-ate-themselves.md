@@ -1,1 +1,0 @@
-{"tmdb_id": 334806, "title": "Images That Ate Themselves", "original_title": "Prizori koji su pojeli sebe", "slug_title": "images-that-ate-themselves", "date": "1984-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

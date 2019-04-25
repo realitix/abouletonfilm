@@ -1,1 +1,0 @@
-{"tmdb_id": 564823, "title": "La gueule de l\u2019emploi", "original_title": "La gueule de l\u2019emploi", "slug_title": "la-gueule-de-lemploi", "date": "1974-03-27", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/6TcT6Ex27rEvoT09kYg0aWXDdvc.jpg", "actors": [], "comments": [], "recommandations_id": []}

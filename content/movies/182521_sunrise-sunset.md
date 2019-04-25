@@ -1,1 +1,0 @@
-{"tmdb_id": 182521, "title": "Sunrise/Sunset", "original_title": "Rassvet/Zakat. Dalai Lama 14", "slug_title": "sunrise-sunset", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

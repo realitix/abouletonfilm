@@ -1,1 +1,0 @@
-{"tmdb_id": 591623, "title": "Gun Trucks of Vietnam", "original_title": "Gun Trucks of Vietnam", "slug_title": "gun-trucks-of-vietnam", "date": "2018-11-11", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iyOORFfelk27cXl9Rd1UgQNeRwR.jpg", "actors": [], "comments": [], "recommandations_id": []}

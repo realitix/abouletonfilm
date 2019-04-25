@@ -1,1 +1,0 @@
-{"tmdb_id": 531060, "title": "L'avarizia", "original_title": "L'avarizia", "slug_title": "l-avarizia", "date": "1918-12-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Francesca Bertini (Maria Lorini)", "Gustavo Serena (Luigi Bianchi)"], "comments": [], "recommandations_id": []}

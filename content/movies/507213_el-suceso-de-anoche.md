@@ -1,1 +1,0 @@
-{"tmdb_id": 507213, "title": "El suceso de anoche", "original_title": "El suceso de anoche", "slug_title": "el-suceso-de-anoche", "date": "1929-02-24", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Nicanor Villalta ()", "Marina V. Serres ()", "Celia Escudero ()"], "comments": [], "recommandations_id": []}

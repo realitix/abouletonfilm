@@ -1,1 +1,0 @@
-{"tmdb_id": 447643, "title": "Chased by the Light", "original_title": "Chased by the Light", "slug_title": "chased-by-the-light", "date": "2003-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/aYCHLMBzWiaglBbmwCjgx2uxi3u.jpg", "actors": [], "comments": [], "recommandations_id": []}

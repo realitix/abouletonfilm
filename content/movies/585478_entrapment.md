@@ -1,1 +1,0 @@
-{"tmdb_id": 585478, "title": "Entrapment", "original_title": "Entrapment", "slug_title": "entrapment", "date": "2019-02-28", "genre": "Drame / Thriller", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/fTznFUFMiwBbxzsBLG6wcgBw9tH.jpg", "actors": ["Jack Carter (James)"], "comments": [], "recommandations_id": []}

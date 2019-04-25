@@ -1,1 +1,0 @@
-{"tmdb_id": 212327, "title": "Colour on the Thames", "original_title": "Colour on the Thames", "slug_title": "colour-on-the-thames", "date": "1935-08-05", "genre": "", "score": "5.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

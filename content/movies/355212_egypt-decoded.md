@@ -1,1 +1,1 @@
-{"tmdb_id": 355212, "title": "Egypt Decoded", "original_title": "Egypt Decoded", "slug_title": "egypt-decoded", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 355212, "title": "Egypt Decoded", "original_title": "Egypt Decoded", "slug_title": "egypt-decoded", "date": "", "genre": [""], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

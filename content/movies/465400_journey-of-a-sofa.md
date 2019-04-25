@@ -1,1 +1,0 @@
-{"tmdb_id": 465400, "title": "Journey of a Sofa", "original_title": "Journey of a Sofa", "slug_title": "journey-of-a-sofa", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 260795, "title": "Play Time", "original_title": "Play Time", "slug_title": "play-time", "date": "2013-12-20", "genre": "Horreur", "score": "6.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7FRSD8MHevCmXETxCgEPVCLgd61.jpg", "actors": ["Anjella Mackintosh ()", "Belle Mary Hithersay ()"], "comments": [], "recommandations_id": []}

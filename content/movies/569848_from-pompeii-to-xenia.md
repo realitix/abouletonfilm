@@ -1,1 +1,0 @@
-{"tmdb_id": 569848, "title": "From Pompeii to Xenia", "original_title": "From Pompeii to Xenia", "slug_title": "from-pompeii-to-xenia", "date": "2003-07-16", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

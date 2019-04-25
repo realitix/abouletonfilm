@@ -1,1 +1,0 @@
-{"tmdb_id": 256744, "title": "Campaign 2", "original_title": "Senkyo 2", "slug_title": "campaign-2", "date": "2013-06-22", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jqaaQ9R1bObZjx8vHiEQwleujcm.jpg", "actors": ["Kazuhiko Yamauchi (Himself)"], "comments": [], "recommandations_id": []}

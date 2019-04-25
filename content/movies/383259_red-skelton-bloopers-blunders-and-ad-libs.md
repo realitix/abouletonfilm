@@ -1,1 +1,0 @@
-{"tmdb_id": 383259, "title": "Red Skelton: Bloopers, Blunders, and Ad Libs", "original_title": "Red Skelton: Bloopers, Blunders, and Ad Libs", "slug_title": "red-skelton-bloopers-blunders-and-ad-libs", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

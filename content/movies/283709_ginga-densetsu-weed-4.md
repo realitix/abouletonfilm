@@ -1,1 +1,0 @@
-{"tmdb_id": 283709, "title": "Ginga Densetsu Weed 4", "original_title": "Ginga Densetsu Weed 4", "slug_title": "ginga-densetsu-weed-4", "date": "2007-11-13", "genre": "Animation / Action / Aventure", "score": "4.3/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j6POKrFz9PfArWiaZGAdYtf8Aeu.jpg", "actors": [], "comments": [], "recommandations_id": []}

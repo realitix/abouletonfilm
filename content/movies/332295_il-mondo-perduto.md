@@ -1,1 +1,0 @@
-{"tmdb_id": 332295, "title": "Il Mondo Perduto", "original_title": "Il Mondo Perduto", "slug_title": "il-mondo-perduto", "date": "2014-12-30", "genre": "Horreur", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/79hDYj9pWLVrlZRXFvbDEZfk0Jv.jpg", "actors": ["Shivabel (Anna)"], "comments": [], "recommandations_id": []}

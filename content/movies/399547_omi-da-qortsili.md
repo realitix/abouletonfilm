@@ -1,1 +1,0 @@
-{"tmdb_id": 399547, "title": "Omi da Qortsili", "original_title": "Omi da Qortsili", "slug_title": "omi-da-qortsili", "date": "2010-02-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

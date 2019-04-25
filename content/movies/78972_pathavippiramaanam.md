@@ -1,1 +1,0 @@
-{"tmdb_id": 78972, "title": "Pathavippiramaanam", "original_title": "Pathavippiramaanam", "slug_title": "pathavippiramaanam", "date": "1994-06-19", "genre": "Drame", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Vijayakanth ()", "Vinita ()", "Keerthana ()"], "comments": [], "recommandations_id": []}

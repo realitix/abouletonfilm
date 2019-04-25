@@ -1,1 +1,0 @@
-{"tmdb_id": 320447, "title": "Dogs on the Inside", "original_title": "Dogs on the Inside", "slug_title": "dogs-on-the-inside", "date": "2014-09-25", "genre": "Documentaire", "score": "9.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/2fLxX26LQtt72c4gp4iMqUyQu0u.jpg", "actors": [], "comments": [], "recommandations_id": []}

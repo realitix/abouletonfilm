@@ -1,1 +1,0 @@
-{"tmdb_id": 373787, "title": "Stevie Ray Vaughan - Pori Jazz Festival Finland", "original_title": "Stevie Ray Vaughan - Pori Jazz Festival Finland", "slug_title": "stevie-ray-vaughan-pori-jazz-festival-finland", "date": "1985-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

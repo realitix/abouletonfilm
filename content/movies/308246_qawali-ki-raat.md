@@ -1,1 +1,0 @@
-{"tmdb_id": 308246, "title": "Qawali Ki Raat", "original_title": "Qawali Ki Raat", "slug_title": "qawali-ki-raat", "date": "1984-12-31", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 359695, "title": "In the Dog House", "original_title": "In the Dog House", "slug_title": "in-the-dog-house", "date": "2014-07-10", "genre": "Familial", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/dpEB1KpqO7CFS71QmXbE8w5r8mB.jpg", "actors": [], "comments": [], "recommandations_id": []}

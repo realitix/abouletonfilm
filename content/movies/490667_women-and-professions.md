@@ -1,1 +1,0 @@
-{"tmdb_id": 490667, "title": "Women and Professions", "original_title": "Zan-ha va herfe-ha", "slug_title": "women-and-professions", "date": "1967-05-03", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/XVANl85ylyu4zbv7X3sn2ZeNeM.jpg", "actors": [], "comments": [], "recommandations_id": []}

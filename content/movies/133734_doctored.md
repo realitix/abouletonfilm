@@ -1,1 +1,0 @@
-{"tmdb_id": 133734, "title": "Doctored", "original_title": "Doctored", "slug_title": "doctored", "date": "2012-09-21", "genre": "Documentaire", "score": "5.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/jCbZhpcBVwcBhdB2v1mmeVGkvd4.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 314302, "title": "Respira", "original_title": "Respira", "slug_title": "respira", "date": "2010-08-24", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

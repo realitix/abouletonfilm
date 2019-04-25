@@ -1,1 +1,0 @@
-{"tmdb_id": 561679, "title": "Maniac Landscapes", "original_title": "Maniac Landscapes", "slug_title": "maniac-landscapes", "date": "2018-11-16", "genre": "Horreur / Animation / Myst\u00e8re", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gtR67n4vZx7xy07fcFnjF8oZLRA.jpg", "actors": [], "comments": [], "recommandations_id": []}

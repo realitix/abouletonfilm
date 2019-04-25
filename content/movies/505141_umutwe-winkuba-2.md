@@ -1,1 +1,0 @@
-{"tmdb_id": 505141, "title": "Umutwe Winkuba 2", "original_title": "Umutwe Winkuba 2", "slug_title": "umutwe-winkuba-2", "date": "", "genre": "Com\u00e9die", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/z2uuX7PMRo8xFZ4OLMamKTgIRKI.jpg", "actors": [], "comments": [], "recommandations_id": []}

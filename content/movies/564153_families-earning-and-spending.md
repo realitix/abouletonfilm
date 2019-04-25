@@ -1,1 +1,0 @@
-{"tmdb_id": 564153, "title": "Families: Earning And Spending", "original_title": "Families: Earning And Spending", "slug_title": "families-earning-and-spending", "date": "1976-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

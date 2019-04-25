@@ -1,1 +1,0 @@
-{"tmdb_id": 572718, "title": "A Son's Sacrifice", "original_title": "A Son's Sacrifice", "slug_title": "a-son-s-sacrifice", "date": "2008-01-22", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

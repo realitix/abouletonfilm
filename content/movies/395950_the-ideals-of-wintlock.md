@@ -1,1 +1,0 @@
-{"tmdb_id": 395950, "title": "The Ideals of Wintlock", "original_title": "The Ideals of Wintlock", "slug_title": "the-ideals-of-wintlock", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

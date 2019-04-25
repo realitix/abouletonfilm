@@ -1,1 +1,0 @@
-{"tmdb_id": 269578, "title": "Once Upon A Time In Hungary", "original_title": "Hab\u00eda una vez en Hungr\u00eda", "slug_title": "once-upon-a-time-in-hungary", "date": "2015-08-14", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/7b1P37uFx6fNvKpX2dg0cTjKbvX.jpg", "actors": [], "comments": [], "recommandations_id": []}

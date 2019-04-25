@@ -1,1 +1,0 @@
-{"tmdb_id": 243504, "title": "The Two Soldiers", "original_title": "Os Dois Soldados", "slug_title": "the-two-soldiers", "date": "1978-12-16", "genre": "Drame", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t9GVkI1Du2hSk4xySx98x7egni7.jpg", "actors": [], "comments": [], "recommandations_id": []}

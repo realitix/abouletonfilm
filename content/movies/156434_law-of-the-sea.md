@@ -1,1 +1,0 @@
-{"tmdb_id": 156434, "title": "Law of the Sea", "original_title": "Law of the Sea", "slug_title": "law-of-the-sea", "date": "1931-01-19", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qj0G02DzqZkN2ZPeLYnkZTpEQYS.jpg", "actors": [], "comments": [], "recommandations_id": []}

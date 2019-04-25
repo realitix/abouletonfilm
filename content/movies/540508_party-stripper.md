@@ -1,1 +1,0 @@
-{"tmdb_id": 540508, "title": "Party Stripper", "original_title": "Party Stripper", "slug_title": "party-stripper", "date": "1983-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Shauna Grant (The Wife)", "Kimberly (The Stripper)", "Eric Edwards (The Husband)"], "comments": [], "recommandations_id": []}

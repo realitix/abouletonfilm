@@ -1,1 +1,0 @@
-{"tmdb_id": 325436, "title": "Joe Pass: Solo Jazz Guitar", "original_title": "Joe Pass: Solo Jazz Guitar", "slug_title": "joe-pass-solo-jazz-guitar", "date": "2006-03-07", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lE50PSU8bz99oDWQV34R9T3aXQj.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 136529, "title": "A Warm Ray of Light", "original_title": "A Warm Ray of Light", "slug_title": "a-warm-ray-of-light", "date": "2011-06-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

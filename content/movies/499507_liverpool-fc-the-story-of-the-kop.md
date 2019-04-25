@@ -1,1 +1,0 @@
-{"tmdb_id": 499507, "title": "Liverpool FC: The Story Of The Kop", "original_title": "Liverpool FC: The Story Of The Kop", "slug_title": "liverpool-fc-the-story-of-the-kop", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/t3tltfPR9w6mNNSvXnut2VmfVfh.jpg", "actors": [], "comments": [], "recommandations_id": []}

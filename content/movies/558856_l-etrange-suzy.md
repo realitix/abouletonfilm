@@ -1,1 +1,0 @@
-{"tmdb_id": 558856, "title": "L'\u00e9trange Suzy", "original_title": "L'\u00e9trange Suzy", "slug_title": "l-etrange-suzy", "date": "1941-08-29", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

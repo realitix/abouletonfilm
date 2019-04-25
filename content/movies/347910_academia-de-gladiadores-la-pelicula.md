@@ -1,1 +1,0 @@
-{"tmdb_id": 347910, "title": "Academia de gladiadores: la pel\u00edcula", "original_title": "Academia de gladiadores: la pel\u00edcula", "slug_title": "academia-de-gladiadores-la-pelicula", "date": "", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

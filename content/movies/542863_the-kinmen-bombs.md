@@ -1,1 +1,0 @@
-{"tmdb_id": 542863, "title": "The Kinmen Bombs", "original_title": "\u516b\u4e8c\u4e09\u70ae\u6230", "slug_title": "the-kinmen-bombs", "date": "1986-10-09", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/JDLYWRYTMwt0eWNj2S0ziFHnlg.jpg", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 501658, "title": "Bystanders", "original_title": "Bystanders", "slug_title": "bystanders", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

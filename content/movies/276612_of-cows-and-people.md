@@ -1,1 +1,0 @@
-{"tmdb_id": 276612, "title": "Of Cows and People", "original_title": "O kravama i ljudima", "slug_title": "of-cows-and-people", "date": "2000-01-01", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/uv0laENv9iIHX5OjGu8gxlGySX0.jpg", "actors": [], "comments": [], "recommandations_id": []}

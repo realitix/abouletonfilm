@@ -1,1 +1,0 @@
-{"tmdb_id": 136751, "title": "Where the Fire Burns", "original_title": "Ate\u015fin D\u00fc\u015ft\u00fc\u011f\u00fc Yer", "slug_title": "where-the-fire-burns", "date": "2012-04-01", "genre": "", "score": "7.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/rTWedcUxrpyF4nQZPAdvpL2OTRk.jpg", "actors": [], "comments": [], "recommandations_id": []}

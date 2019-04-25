@@ -1,1 +1,0 @@
-{"tmdb_id": 516902, "title": "Der Kameramann", "original_title": "Der Kameramann", "slug_title": "der-kameramann", "date": "1990-07-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 535968, "title": "At Eltham, a Metaphor on Death", "original_title": "At Eltham, a Metaphor on Death", "slug_title": "at-eltham-a-metaphor-on-death", "date": "1974-07-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

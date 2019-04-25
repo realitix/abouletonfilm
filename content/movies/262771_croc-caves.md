@@ -1,1 +1,1 @@
-{"tmdb_id": 262771, "title": "Croc Caves", "original_title": "Croc Caves", "slug_title": "croc-caves", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 262771, "title": "Croc Caves", "original_title": "Croc Caves", "slug_title": "croc-caves", "date": "", "genre": ["Documentaire"], "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

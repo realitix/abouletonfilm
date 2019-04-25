@@ -1,1 +1,0 @@
-{"tmdb_id": 576729, "title": "Goat Walking", "original_title": "Goat Walking", "slug_title": "goat-walking", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/gX9oCCSiPpXyxYFHZH8RfiXUfEu.jpg", "actors": [], "comments": [], "recommandations_id": []}

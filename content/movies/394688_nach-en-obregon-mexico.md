@@ -1,1 +1,0 @@
-{"tmdb_id": 394688, "title": "Nach: En Obregon, Mexico", "original_title": "Nach: En Obregon, Mexico", "slug_title": "nach-en-obregon-mexico", "date": "2012-12-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/j4g6N3CGYlDKTDqbtLAL2cqXN2w.jpg", "actors": [], "comments": [], "recommandations_id": []}

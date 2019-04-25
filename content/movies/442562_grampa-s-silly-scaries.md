@@ -1,1 +1,0 @@
-{"tmdb_id": 442562, "title": "Grampa's Silly Scaries", "original_title": "Grampa's Silly Scaries", "slug_title": "grampa-s-silly-scaries", "date": "1988-10-12", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/iidQfO3iuzanb6C3yJhcSYtf5bp.jpg", "actors": ["Al Lewis (Grampa)"], "comments": [], "recommandations_id": []}

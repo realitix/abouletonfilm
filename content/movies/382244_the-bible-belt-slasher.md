@@ -1,1 +1,0 @@
-{"tmdb_id": 382244, "title": "The Bible Belt Slasher", "original_title": "The Bible Belt Slasher", "slug_title": "the-bible-belt-slasher", "date": "2010-01-01", "genre": "Horreur / Thriller", "score": "2.8/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["Bradley Creanzo (Keith Helms)"], "comments": [], "recommandations_id": []}

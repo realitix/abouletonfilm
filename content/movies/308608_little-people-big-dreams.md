@@ -1,1 +1,0 @@
-{"tmdb_id": 308608, "title": "Little People, Big Dreams", "original_title": "Little People, Big Dreams", "slug_title": "little-people-big-dreams", "date": "2004-03-24", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

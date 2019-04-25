@@ -1,1 +1,0 @@
-{"tmdb_id": 161272, "title": "Clinton", "original_title": "Clinton", "slug_title": "clinton", "date": "2012-02-20", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/oaEqUDqnnTbnMHZ5H0dvq8YFkpX.jpg", "actors": [], "comments": [], "recommandations_id": []}

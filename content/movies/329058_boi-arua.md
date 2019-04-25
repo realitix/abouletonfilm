@@ -1,1 +1,0 @@
-{"tmdb_id": 329058, "title": "Boi Aru\u00e1", "original_title": "Boi Aru\u00e1", "slug_title": "boi-arua", "date": "1985-12-04", "genre": "Animation", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/3KogP8eDSb86LgeulXon8mFz07L.jpg", "actors": [], "comments": [], "recommandations_id": []}

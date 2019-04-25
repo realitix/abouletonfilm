@@ -1,1 +1,0 @@
-{"tmdb_id": 298825, "title": "James Thurber: The Life and Hard Times", "original_title": "James Thurber: The Life and Hard Times", "slug_title": "james-thurber-the-life-and-hard-times", "date": "2014-06-17", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 351262, "title": "Bug Carnival", "original_title": "Bug Carnival", "slug_title": "bug-carnival", "date": "1937-04-15", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

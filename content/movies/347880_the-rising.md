@@ -1,1 +1,1 @@
-{"tmdb_id": 347880, "title": "The Rising", "original_title": "The Rising", "slug_title": "the-rising", "date": "", "genre": "Thriller", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}
+{"tmdb_id": 347880, "title": "The Rising", "original_title": "The Rising", "slug_title": "the-rising", "date": "", "genre": ["Thriller"], "score": "0.0/10", "synopsis": "Plot unknown.", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": [], "youtube_key": "notfound"}

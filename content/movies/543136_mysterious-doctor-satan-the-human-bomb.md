@@ -1,1 +1,0 @@
-{"tmdb_id": 543136, "title": "Mysterious Doctor Satan The Human Bomb", "original_title": "Mysterious Doctor Satan The Human Bomb", "slug_title": "mysterious-doctor-satan-the-human-bomb", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

@@ -1,1 +1,0 @@
-{"tmdb_id": 584471, "title": "In Case I Disappear", "original_title": "In Case I Disappear", "slug_title": "in-case-i-disappear", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

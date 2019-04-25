@@ -1,1 +1,0 @@
-{"tmdb_id": 495226, "title": "Atlantic is a Sea of Bones", "original_title": "Atlantic is a Sea of Bones", "slug_title": "atlantic-is-a-sea-of-bones", "date": "2017-12-03", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/yASRIqUBAmrSfU7QH8ogPOBa6PU.jpg", "actors": [], "comments": [], "recommandations_id": []}

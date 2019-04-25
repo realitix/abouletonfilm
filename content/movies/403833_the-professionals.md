@@ -1,1 +1,0 @@
-{"tmdb_id": 403833, "title": "The Professionals", "original_title": "The Professionals", "slug_title": "the-professionals", "date": "1960-01-01", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": ["William Lucas ()", "Andrew Faulds ()", "Colette Wilde ()", "Stratford Johns ()"], "comments": [], "recommandations_id": []}

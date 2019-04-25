@@ -1,1 +1,0 @@
-{"tmdb_id": 356299, "title": "Welcome to F.L.", "original_title": "Bienvenue \u00e0 F.L.", "slug_title": "welcome-to-f-l", "date": "2015-09-10", "genre": "", "score": "8.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/qkvYiPbWRhl191TSoL86JgSQwjv.jpg", "actors": [], "comments": [], "recommandations_id": []}

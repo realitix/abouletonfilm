@@ -1,1 +1,0 @@
-{"tmdb_id": 485004, "title": "Dr. Heidegger's Experiment", "original_title": "Dr. Heidegger's Experiment", "slug_title": "dr-heidegger-s-experiment", "date": "", "genre": "", "score": "0.0/10", "synopsis": "", "image": "/img/default-cover.png", "actors": [], "comments": [], "recommandations_id": []}

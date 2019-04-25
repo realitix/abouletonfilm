@@ -1,1 +1,0 @@
-{"tmdb_id": 283422, "title": "Living Fossil", "original_title": "Living Fossil", "slug_title": "living-fossil", "date": "2014-05-02", "genre": "", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/m6zhJIYwz25kbSfJJlP9Gj5mI0W.jpg", "actors": [], "comments": [], "recommandations_id": []}

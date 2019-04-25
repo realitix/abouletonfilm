@@ -1,1 +1,0 @@
-{"tmdb_id": 206540, "title": "For Once in My Life", "original_title": "For Once in My Life", "slug_title": "for-once-in-my-life", "date": "", "genre": "Documentaire", "score": "0.0/10", "synopsis": "", "image": "https://image.tmdb.org/t/p/w185_and_h278_bestv2/sRfPeZhGzWmYP3sLCJDkHiL4kbv.jpg", "actors": [], "comments": [], "recommandations_id": []}
